@@ -1,0 +1,26 @@
+{
+ "month": "2026-09",
+ "group": "בדיקה",
+ "updated": "2026-09-20T13:01:22.955Z",
+ "messages": [
+  {
+   "id": "test-1789909282925",
+   "sender": "הגשר",
+   "text": "הודעת בדיקה מהגשר — 20.9.2026, 16:01:22",
+   "ts": 1789909282000,
+   "date": "2026-09-20",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "בדיקה.png",
+     "size": "70B",
+     "type": "image/png",
+     "path": "https://drive.google.com/file/d/1_76s-JldHXU4f7PJNAr1Cjbvn1v3edt9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_76s-JldHXU4f7PJNAr1Cjbvn1v3edt9&sz=w1200"
+    }
+   ],
+   "drive": null
+  }
+ ]
+}
