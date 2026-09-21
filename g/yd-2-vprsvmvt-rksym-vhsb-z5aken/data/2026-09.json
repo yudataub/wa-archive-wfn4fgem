@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-21T18:32:30.129Z",
+ "updated": "2026-09-21T18:42:44.159Z",
  "messages": [
   {
    "id": "3ACBE2AC0231A2C9966D",
@@ -134,6 +134,35 @@
      "thumb": "https://drive.google.com/thumbnail?id=1mSi3qtxyf7vp5NGC7z2cE0BR5cMN2vm_&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "A58DC272B4CCF4400AD0E42D57E64601",
+   "sender": "תהילה מלכיאלי",
+   "text": "",
+   "ts": 1790015900000,
+   "date": "2026-09-21",
+   "time": "21:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "662KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ljVKZFNVFVEllVyFGvLsk0pm-Q_RJ9k4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ljVKZFNVFVEllVyFGvLsk0pm-Q_RJ9k4&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A595750A4ABA02C10869B2C4F364D768",
+   "sender": "מאיר מוגרבי",
+   "text": "💎",
+   "ts": 1790016157000,
+   "date": "2026-09-21",
+   "time": "21:42",
+   "files": [],
    "drive": null
   }
  ]

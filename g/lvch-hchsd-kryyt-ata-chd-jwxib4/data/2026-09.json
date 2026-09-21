@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-21T18:33:00.130Z",
+ "updated": "2026-09-21T18:38:14.068Z",
  "messages": [
   {
    "id": "AC9FD0C2BB58AF535FA1CA0B605F2756",
@@ -306,6 +306,25 @@
      "path": "https://drive.google.com/file/d/1qJY1YvhP3qA1c4MI5l_hI6fBhKQBk6-j/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1qJY1YvhP3qA1c4MI5l_hI6fBhKQBk6-j&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A589FF34AA1706049F709832076260F1",
+   "sender": "תהילה מלכיאלי",
+   "text": "",
+   "ts": 1790015890000,
+   "date": "2026-09-21",
+   "time": "21:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "662KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12zfDtbwiJ-XP8z6XGBHxPoJbpJGhIRJx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12zfDtbwiJ-XP8z6XGBHxPoJbpJGhIRJx&sz=w1200"
     }
    ],
    "drive": null
