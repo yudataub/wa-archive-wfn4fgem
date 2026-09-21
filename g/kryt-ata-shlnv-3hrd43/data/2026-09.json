@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T19:51:31.621Z",
+ "updated": "2026-09-21T20:25:47.929Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -875,6 +875,25 @@
      "path": "https://drive.google.com/file/d/1-R_RcSukLIDRVLHR5rrX4NkNlgBKECpL/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1-R_RcSukLIDRVLHR5rrX4NkNlgBKECpL&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A537242B9499D39953E7EB8587C7564C",
+   "sender": "עדןמקדם",
+   "text": "",
+   "ts": 1790022324000,
+   "date": "2026-09-21",
+   "time": "23:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vi_kbNqYlrONb-kiqD-3Wqo5gw1_1JIs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vi_kbNqYlrONb-kiqD-3Wqo5gw1_1JIs&sz=w1200"
     }
    ],
    "drive": null

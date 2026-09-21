@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-21T20:13:31.302Z",
+ "updated": "2026-09-21T20:18:44.310Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -369,6 +369,25 @@
    "date": "2026-09-21",
    "time": "23:13",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACD01410C5AA5D394C8F3AF09AFAFECD",
+   "sender": "מאיר קרליץ",
+   "text": "",
+   "ts": 1790021907000,
+   "date": "2026-09-21",
+   "time": "23:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W6_FjzSdWv3GG-fVN9xb-oyXpE8vzBIj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W6_FjzSdWv3GG-fVN9xb-oyXpE8vzBIj&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
