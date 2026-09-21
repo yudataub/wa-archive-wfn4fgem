@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T19:56:04.130Z",
+ "updated": "2026-09-21T19:59:42.362Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1102,6 +1102,43 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1eaOqXhuzaXonAtY5eg9i2dtO3BVIXBAN/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0A1911877821582907E",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: סיום תפילת נעילה בביהכנ\"ס הרמ\"א בקראקוב, נצפה עוה\"ד הצעיר ר' יוסי ברין.\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790020696000,
+   "date": "2026-09-21",
+   "time": "22:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1z8485McFFP3ezLa0BdR0XiuhqP5f3an9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0898CCCA0DB24DEEE83",
+   "sender": "הפרגוד",
+   "text": "*🍋 פתקא טובה!*\n\nלקראת חג סוכות זה הזמן להתכונן למצוות ארבעת המינים בהידור ✨\n\n*אייזנבאך – מהדרין אין מרוקו* מזמינים אתכם ליהנות ממבחר מובחר ומהודר של אתרוגים, מגידול מרוקו *ומוקדי מכירה ברחבי הארץ.*\n\n🍋 אתרוגי מרוקו מובחרים\n*בהשגחת הבדץ העדה החרדית*\n\n📍 מוקדי מכירה בירושלים, בית שמש, חיפה, קריית ביאליק, נהריה, אשדוד רכסים אשקלון ומודיעין עילית.\n\n`כל המוקדים והכתובות במודעה המצורפת`\n\n*לבירור נקודת מכירה קרובה אליכם:* https://wa.me/97258-4003400?text=אשמח+להזמין+אתרוגים",
+   "ts": 1790020748000,
+   "date": "2026-09-21",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "434KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NDnKFSoYsefdJKrQLkcFc7_5yxM5dZ3G/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NDnKFSoYsefdJKrQLkcFc7_5yxM5dZ3G&sz=w1200"
     }
    ],
    "drive": null
