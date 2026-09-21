@@ -1,8 +1,27 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-21T19:45:03.943Z",
+ "updated": "2026-09-21T19:51:31.587Z",
  "messages": [
+  {
+   "id": "gm-1a05a2b0e72164e1",
+   "sender": "רק ביחד ננצח",
+   "text": "",
+   "ts": 1788219163000,
+   "date": "2026-09-01",
+   "time": "02:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "373KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13F80hD3ol0Xqtj6-zkyDPoivn1LsOVqj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13F80hD3ol0Xqtj6-zkyDPoivn1LsOVqj&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
   {
    "id": "AC324BCFA9B18D6213E78F83CDE61F77",
    "sender": "תהנו",

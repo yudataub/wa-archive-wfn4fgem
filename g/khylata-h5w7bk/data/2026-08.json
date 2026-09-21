@@ -1,0 +1,65 @@
+{
+ "month": "2026-08",
+ "group": "קהילאתא",
+ "updated": "2026-09-21T19:51:31.604Z",
+ "messages": [
+  {
+   "id": "gm-1a0561e3605258e7",
+   "sender": "TSADOK OSHRAT",
+   "text": "",
+   "ts": 1788151213000,
+   "date": "2026-08-31",
+   "time": "07:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NB_v1ciZfXdG-PUlyyaOxJ2uEy5OmdSW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NB_v1ciZfXdG-PUlyyaOxJ2uEy5OmdSW&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "gm-1a0562572094bebf",
+   "sender": "דליה",
+   "text": "",
+   "ts": 1788151687000,
+   "date": "2026-08-31",
+   "time": "07:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CFzno0hgFtgBIA_zoPuhQ5xdjLiJzXAm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CFzno0hgFtgBIA_zoPuhQ5xdjLiJzXAm&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "gm-1a0562586903fb19",
+   "sender": "דליה",
+   "text": "https://givechak.co.il/89760",
+   "ts": 1788151693000,
+   "date": "2026-08-31",
+   "time": "07:48",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a056b9ae44b12aa",
+   "sender": "רוית נאומה",
+   "text": "צריך לעשות רעש ולדרוש שחרור מיידי ,אולי לפנות לבועז גולן",
+   "ts": 1788155012000,
+   "date": "2026-08-31",
+   "time": "08:43",
+   "files": [],
+   "drive": null
+  }
+ ]
+}

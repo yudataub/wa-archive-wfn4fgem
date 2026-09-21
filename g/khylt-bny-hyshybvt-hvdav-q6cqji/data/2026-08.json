@@ -1,0 +1,76 @@
+{
+ "month": "2026-08",
+ "group": "קהילת בני הישיבות-הודעות",
+ "updated": "2026-09-21T19:51:31.631Z",
+ "messages": [
+  {
+   "id": "gm-1a05634407302af3",
+   "sender": "בני קרמר",
+   "text": "מנין שחרית בשעה 08:15",
+   "ts": 1788152658000,
+   "date": "2026-08-31",
+   "time": "08:04",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a0563446aa661e7",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1788152658000,
+   "date": "2026-08-31",
+   "time": "08:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LC5HR3EYDuq6Cy5FaKiL9gGRPqkzJXxz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LC5HR3EYDuq6Cy5FaKiL9gGRPqkzJXxz&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "failed-1788157318844",
+   "sender": "אבי קרליץ",
+   "text": "מישהו מכיר נגר לפירוק של ארון ולהרכיב אותו בחדר אחר ?",
+   "ts": 1788157313000,
+   "date": "2026-08-31",
+   "time": "09:21",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "failed-1788157408763",
+   "sender": "א.א ירק הכפר",
+   "text": "[איש קשר]",
+   "ts": 1788157403000,
+   "date": "2026-08-31",
+   "time": "09:23",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "failed-1788159926052",
+   "sender": "יחיאל",
+   "text": "איפה יש חנות של נעלי שבת באזור?",
+   "ts": 1788159920000,
+   "date": "2026-08-31",
+   "time": "10:05",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "failed-1788160012972",
+   "sender": "יהודה",
+   "text": "יש בבקתת העור",
+   "ts": 1788160007000,
+   "date": "2026-08-31",
+   "time": "10:06",
+   "files": [],
+   "drive": null
+  }
+ ]
+}
