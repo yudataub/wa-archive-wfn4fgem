@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T18:23:30.034Z",
+ "updated": "2026-09-21T18:33:30.133Z",
  "messages": [
   {
    "id": "AC144587D16DFB8EFB697147B6CE148C",
@@ -78,6 +78,25 @@
    "date": "2026-09-21",
    "time": "21:23",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "A509F0E7D411FD35D06FB13A6F0C6A20",
+   "sender": "שמחה פאות",
+   "text": "https://wa.me/+972533397673\nשמחה פאות 👸🏼",
+   "ts": 1790015603000,
+   "date": "2026-09-21",
+   "time": "21:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E_8EUZWu70x3C2zCtL5IxIXFlPkxgQUq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E_8EUZWu70x3C2zCtL5IxIXFlPkxgQUq&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

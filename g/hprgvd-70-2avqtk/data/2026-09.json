@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T18:27:00.041Z",
+ "updated": "2026-09-21T18:35:00.169Z",
  "messages": [
   {
    "id": "3EB0001C24668CB07191FA",
@@ -178,6 +178,64 @@
      "skipped": ""
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "3EB00E457586EA1158AA10",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הרב שמעון גלאי בצאת יום כיפור. \nבמהלך התפילה בצום הרב לא חש בטוב וטופל על ידי חובש במקום. לבקשתו לא פונה לבדיקות אלא המשיך בעבודת היום.\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790015301000,
+   "date": "2026-09-21",
+   "time": "21:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "344KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Au_gHXmxXJFxlZM_1yyvqzrz2cB1Pn0x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Au_gHXmxXJFxlZM_1yyvqzrz2cB1Pn0x&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB02420EE2F79096F7A0B",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: שמר את הצום? הזמר עדן חסון משתף בסוכרים של אחרי 25 שעות\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790015402000,
+   "date": "2026-09-21",
+   "time": "21:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1So4UM7oZPxg13lRgQQTav-zjnrNhPDds/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1So4UM7oZPxg13lRgQQTav-zjnrNhPDds&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB05B9569F694D39BC69E",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: בכיפור אין מצלמות, לכן סליחות אחרונות כן וכיפור לא.\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790015493000,
+   "date": "2026-09-21",
+   "time": "21:31",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "3EB09A38E9190EE0CC9C76",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: לפי הדיווח בערוץ ירושלמים: נתניהו התפלל בכיפור בבית מוטי זוננפלד סמוך לביתו.\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790015684000,
+   "date": "2026-09-21",
+   "time": "21:34",
+   "files": [],
    "drive": null
   }
  ]

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-21T18:24:29.996Z",
+ "updated": "2026-09-21T18:32:30.129Z",
  "messages": [
   {
    "id": "3ACBE2AC0231A2C9966D",
@@ -113,6 +113,25 @@
      "path": "https://drive.google.com/file/d/1dJSNcPq9S30yoJKdgzotgKe1Xf24JJ2T/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1dJSNcPq9S30yoJKdgzotgKe1Xf24JJ2T&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A50C30DDAD3A11244974F65121227890",
+   "sender": "דני בוקובזה",
+   "text": "",
+   "ts": 1790015532000,
+   "date": "2026-09-21",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mSi3qtxyf7vp5NGC7z2cE0BR5cMN2vm_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mSi3qtxyf7vp5NGC7z2cE0BR5cMN2vm_&sz=w1200"
     }
    ],
    "drive": null

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-21T18:26:30.035Z",
+ "updated": "2026-09-21T18:33:00.130Z",
  "messages": [
   {
    "id": "AC9FD0C2BB58AF535FA1CA0B605F2756",
@@ -270,6 +270,44 @@
    "date": "2026-09-21",
    "time": "21:26",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACB3884DC8D84D4A18A21F1AB5540A16",
+   "sender": "israel",
+   "text": "",
+   "ts": 1790015271000,
+   "date": "2026-09-21",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uQrywvXF7JisPHjmYHa6QSUot4HpWHxJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uQrywvXF7JisPHjmYHa6QSUot4HpWHxJ&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5ADC5A35E0FB43EC2F3FF3B07B270E6",
+   "sender": "שמחה פאות",
+   "text": "https://wa.me/+972533397673\nשמחה פאות 👸🏼",
+   "ts": 1790015564000,
+   "date": "2026-09-21",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qJY1YvhP3qA1c4MI5l_hI6fBhKQBk6-j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qJY1YvhP3qA1c4MI5l_hI6fBhKQBk6-j&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
