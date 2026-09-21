@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-21T20:56:20.948Z",
+ "updated": "2026-09-21T21:03:51.132Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -199,6 +199,52 @@
    "ts": 1790024179000,
    "date": "2026-09-21",
    "time": "23:56",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACBB668C8ECE26F84065CFE6410AF190",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "",
+   "ts": 1790024319000,
+   "date": "2026-09-21",
+   "time": "23:58",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "14KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Wf6Oj5qsd7rp0V6UzHzAyrE5QEyD_mjr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACFA4327B5CC945D401DA8B09B41485C",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "",
+   "ts": 1790024323000,
+   "date": "2026-09-21",
+   "time": "23:58",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "5KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1nFMvHDEXAuZIHAHBV5dtljrquDjIuBtR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC48173BDCAA757DB0C47D4686CFD8A9",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "שלום וברכה,\nמחפש מישהו מקרית אתא שמגיע למרכז לפני סוכות להעביר משהו קטן\nתודה מראש\n0528833038",
+   "ts": 1790024614000,
+   "date": "2026-09-22",
+   "time": "00:03",
    "files": [],
    "drive": null
   }

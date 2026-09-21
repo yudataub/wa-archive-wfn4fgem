@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T20:47:20.823Z",
+ "updated": "2026-09-21T21:01:21.095Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1323,6 +1323,42 @@
      "path": "https://drive.google.com/file/d/1iqkcBktRpKwFe4LSE96_PGbKazf5PU9O/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1iqkcBktRpKwFe4LSE96_PGbKazf5PU9O&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB069F8E92C43B27404E2",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: תקיעת שופר במחלקת יולדות\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790024314000,
+   "date": "2026-09-21",
+   "time": "23:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1R-R_KCdY5xSE6TgXjcwX2NfkUrkSt-o5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB02EA8D8573E048F7979",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הלווית הקדוש נתנאל שוקורון כעת בבית העלמין בישוב עלי זהב אלפים שרים שירי חיזוק. איתמר קירשבוים\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790024479000,
+   "date": "2026-09-22",
+   "time": "00:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "7.4MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null

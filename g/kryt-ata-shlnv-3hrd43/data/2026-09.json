@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T20:42:15.397Z",
+ "updated": "2026-09-21T21:00:21.099Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -944,6 +944,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=1tP6dKEpDEEfCnVXKDrd2UjVxzrwieRos&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "ACA4DD62F9A5D3F28A236E3F22EE8C0F",
+   "sender": "אורלי אסף",
+   "text": "גמר חתימה טובה לכולם,איפה ניתן להשיג בכל?",
+   "ts": 1790024400000,
+   "date": "2026-09-22",
+   "time": "00:00",
+   "files": [],
    "drive": null
   }
  ]

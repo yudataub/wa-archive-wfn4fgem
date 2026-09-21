@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-21T19:51:31.631Z",
+ "updated": "2026-09-21T20:59:20.977Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -1207,6 +1207,25 @@
    "date": "2026-09-21",
    "time": "22:28",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC3EBE257A1D5DA7FA1DA2E7B0943BDD",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1790024330000,
+   "date": "2026-09-21",
+   "time": "23:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17PcEWmTilJAESMb7K07HV9gqC44O88_Z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17PcEWmTilJAESMb7K07HV9gqC44O88_Z&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
