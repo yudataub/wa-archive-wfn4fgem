@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T18:12:59.814Z",
+ "updated": "2026-09-21T18:23:30.034Z",
  "messages": [
   {
    "id": "AC144587D16DFB8EFB697147B6CE148C",
@@ -49,6 +49,35 @@
      "thumb": "https://drive.google.com/thumbnail?id=1EMSLiQPZ12LflU6hdWOEDIn-QzuKH3_-&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "3A5CFEFB51B5D4D58A42",
+   "sender": "הבוטח בשם",
+   "text": "",
+   "ts": 1790014677000,
+   "date": "2026-09-21",
+   "time": "21:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12FEguAbYDYx05VqU1EQyQd4Bg-8kRNeF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12FEguAbYDYx05VqU1EQyQd4Bg-8kRNeF&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5E5D9AE26A21B1A4FBB355DF83786D1",
+   "sender": "גיא אפיק Dj",
+   "text": "אם גם אתם רוצים לשלם פחות על דלק, ביטוחים, מוסכים והוצאות רכב, כדאי שתכירו את דרייב ישראל.\r\nגם אני הצטרפתי. ההרשמה בחינם, לוקחת פחות מדקה, בלי כרטיס אשראי ובלי פרטים מיותרים.\r\nממליץ לכם בחום להצטרף עכשיו. אין מה להפסיד, ויש הרבה מה להרוויח: https://driveclub.co.il/?ref=LP5886BP",
+   "ts": 1790014996000,
+   "date": "2026-09-21",
+   "time": "21:23",
+   "files": [],
    "drive": null
   }
  ]

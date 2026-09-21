@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-21T18:12:29.809Z",
+ "updated": "2026-09-21T18:26:30.035Z",
  "messages": [
   {
    "id": "AC9FD0C2BB58AF535FA1CA0B605F2756",
@@ -182,6 +182,94 @@
      "thumb": "https://drive.google.com/thumbnail?id=1Ru0xaKl8esaiL3W5BFufVKdDw5PPlJvz&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "ACDC9819DF3BF54B26BF9CBE17E17186",
+   "sender": "קרן צדוק",
+   "text": "",
+   "ts": 1790014922000,
+   "date": "2026-09-21",
+   "time": "21:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zIDcpojS4pzUOvqs0nH_h6Ut41AbQgKA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zIDcpojS4pzUOvqs0nH_h6Ut41AbQgKA&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC2F98974D4B0BC30940DA752DCB7FA0",
+   "sender": "קרן צדוק",
+   "text": "",
+   "ts": 1790014959000,
+   "date": "2026-09-21",
+   "time": "21:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mm0KcvjJsCzMzzMP1KLwdecr63k4C0cK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mm0KcvjJsCzMzzMP1KLwdecr63k4C0cK&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A51AB00A9FF02EC5A6970A701CF951DE",
+   "sender": "גיא אפיק Dj",
+   "text": "אם גם אתם רוצים לשלם פחות על דלק, ביטוחים, מוסכים והוצאות רכב, כדאי שתכירו את דרייב ישראל.\r\nגם אני הצטרפתי. ההרשמה בחינם, לוקחת פחות מדקה, בלי כרטיס אשראי ובלי פרטים מיותרים.\r\nממליץ לכם בחום להצטרף עכשיו. אין מה להפסיד, ויש הרבה מה להרוויח: https://driveclub.co.il/?ref=LP5886BP",
+   "ts": 1790014985000,
+   "date": "2026-09-21",
+   "time": "21:23",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC2BBBB05C5C0C097E8A92EC8368CC2D",
+   "sender": "שלומי",
+   "text": "איפה אפשר לקנות לייסטים לסוכה באתא?",
+   "ts": 1790015107000,
+   "date": "2026-09-21",
+   "time": "21:25",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC82FDECEF6464B88041ED1BF1D39C11",
+   "sender": "israel",
+   "text": "@98578290753666",
+   "ts": 1790015169000,
+   "date": "2026-09-21",
+   "time": "21:26",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACEE89C09B8906E01B1F3425BA9C554A",
+   "sender": "israel",
+   "text": "דבר איתו יש לו את כל הציוד של סוכות",
+   "ts": 1790015183000,
+   "date": "2026-09-21",
+   "time": "21:26",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACC76AEB911CAAA4235A255FC9F204AD",
+   "sender": "israel",
+   "text": "ליד גרג במרכז",
+   "ts": 1790015191000,
+   "date": "2026-09-21",
+   "time": "21:26",
+   "files": [],
    "drive": null
   }
  ]

@@ -1,0 +1,26 @@
+{
+ "month": "2026-09",
+ "group": "קהילאתא",
+ "updated": "2026-09-21T18:23:30.023Z",
+ "messages": [
+  {
+   "id": "AC4E6D1CBF261789D570026B61683C89",
+   "sender": "קרן צדוק",
+   "text": "",
+   "ts": 1790014981000,
+   "date": "2026-09-21",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15itjoQvgkRTNjzC2s9ULH0ejX-56dMFU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15itjoQvgkRTNjzC2s9ULH0ejX-56dMFU&sz=w1200"
+    }
+   ],
+   "drive": null
+  }
+ ]
+}

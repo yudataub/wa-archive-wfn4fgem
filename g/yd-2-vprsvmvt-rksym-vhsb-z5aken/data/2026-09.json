@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-21T18:02:29.648Z",
+ "updated": "2026-09-21T18:24:29.996Z",
  "messages": [
   {
    "id": "3ACBE2AC0231A2C9966D",
@@ -37,6 +37,82 @@
      "path": "https://drive.google.com/file/d/1xThIChFSOuoTy7ORTC-CsFckDqjM9bxe/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1xThIChFSOuoTy7ORTC-CsFckDqjM9bxe&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A57D57B9D9759E2CC0932CDD42F1E018",
+   "sender": "נעלי הפסגה",
+   "text": "נעלי הפסגה מאחלת ללקוחותיה שנה טובה 🍯🐝👞",
+   "ts": 1790015053000,
+   "date": "2026-09-21",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ihsUbvHTmoSV2mlH_OWbPHegF3zLtmYX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ihsUbvHTmoSV2mlH_OWbPHegF3zLtmYX&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A50112059468FDCAC7CBD9DE29C0F295",
+   "sender": "נעלי הפסגה",
+   "text": "גמר חתימה טובה 📖\nפתוחים היום בין השעות 21:30-23:00 🕜\nכל השבוע פתוחים רצוף 11:00-23:00⌚\n\nמכבדים:💳 \nהיימיש כארד \nנדרים כארד \nרכסים כארד \nכארד שופ \nנר ישראל",
+   "ts": 1790015054000,
+   "date": "2026-09-21",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bXLgxKsoqesKlQdP8AHtmEbF371n96JM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bXLgxKsoqesKlQdP8AHtmEbF371n96JM&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A52CBDB1742A022DC975FA26B9252E92",
+   "sender": "נעלי הפסגה",
+   "text": "",
+   "ts": 1790015055000,
+   "date": "2026-09-21",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Q8aV7HTMjW5JvHWsvl0hbZ7faVV5x7P1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q8aV7HTMjW5JvHWsvl0hbZ7faVV5x7P1&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5D87D2378CF0B4F3409C959D751B6B5",
+   "sender": "מתוק בממלכה",
+   "text": "גבאי בית כנסת,אירוע קהילתי ,אם מתוק בממלכה תהנו ממגון דוכני מזון ומתנפחים לשמחת בית השואבה \nתאריכים אחרונים בהחלט.",
+   "ts": 1790015058000,
+   "date": "2026-09-21",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dJSNcPq9S30yoJKdgzotgKe1Xf24JJ2T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dJSNcPq9S30yoJKdgzotgKe1Xf24JJ2T&sz=w1200"
     }
    ],
    "drive": null

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-21T18:11:59.794Z",
+ "updated": "2026-09-21T18:22:29.979Z",
  "messages": [
   {
    "id": "A53F0768AAA48E8ECD9966F585BF5EE0",
@@ -37,6 +37,25 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "11.1MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5B2A21E82E5CF989E0ECD1F6981C0D3",
+   "sender": "י",
+   "text": "*בערב יום כיפור - תפיסה חריגה בצפון: משגר RPG אותר מוסלק בתוך צינור באזור טמרה, ונוטרל בידי חבלני המשטרה*\n\nלכל העדכונים 👇\nhttps://chat.whatsapp.com/EQvB8xG9EagACogOSiPTjU?s=cl&p=a&mlu=4",
+   "ts": 1790014939000,
+   "date": "2026-09-21",
+   "time": "21:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bnt72hkks86SU2mAw1g9NRMbhZJvJ2fR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bnt72hkks86SU2mAw1g9NRMbhZJvJ2fR&sz=w1200"
     }
    ],
    "drive": null
