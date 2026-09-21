@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-21T18:40:44.259Z",
+ "updated": "2026-09-21T18:49:14.291Z",
  "messages": [
   {
    "id": "A53F0768AAA48E8ECD9966F585BF5EE0",
@@ -78,6 +78,25 @@
    "date": "2026-09-21",
    "time": "21:40",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5664D94E8F3B0666BDE99C2FCACFED1",
+   "sender": "י",
+   "text": "*לוקסמן*\nאופנה איכותית לגבר\nקולקצית חגי תישרי על המדפים\nמבחר חליפות לייקרה/צמר מטורפות שישבו עליכם בול!!\nבנוסף \nחולצות לבנות לחג ללא גיהוץ בכלל,\nמכנסי לייקרה,\nחגורות עור,\nמבחר ענק של עניבות,\nכיפות אלטמן,\nאקססוריז...\n*רחוב סביון 37 רכסים*\nפתוח מהשעה 10:30-22:30 רצוף\nמחכים לכם 😊",
+   "ts": 1790016527000,
+   "date": "2026-09-21",
+   "time": "21:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/109zusrbN6v0iWIs3GnAxla0pMZyZD2aT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=109zusrbN6v0iWIs3GnAxla0pMZyZD2aT&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

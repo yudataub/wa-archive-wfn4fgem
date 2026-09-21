@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-21T18:42:44.159Z",
+ "updated": "2026-09-21T18:52:44.337Z",
  "messages": [
   {
    "id": "3ACBE2AC0231A2C9966D",
@@ -163,6 +163,44 @@
    "date": "2026-09-21",
    "time": "21:42",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACF9B3D230C56849DD4E06DD86979222",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790016550000,
+   "date": "2026-09-21",
+   "time": "21:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DyeEQdyBaL8IbqbhJgJjzAkYbTV1sJsk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DyeEQdyBaL8IbqbhJgJjzAkYbTV1sJsk&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A55BB61B26D70024252DDCDEFA7206C3",
+   "sender": "עזריאל",
+   "text": "🔥 *עֶרֶב חַג מִתְקָרֵב...*\n_ואת המתנה אפשר לסגור כבר עכשיו_ 🎁\n\n✨ *״וְשִׂמַּח אֶת אִשְׁתּוֹ״* ✨\n\nבלי להתרוצץ בין חנויות...\nבלי לחפש ברגע האחרון...\n*ובלי לצאת מהבית.* \n\n *המארזים המתוקים של תמר גנץ*\n_יפים • מושקעים • מכובדים • וטעימים_\n\n *מתנה שכיף לתת  ועוד יותר כיף לקבל.*\n\n *משלוחים חינם ברכסים!*\n\n📲 *להזמנות בוואטסאפ  לחצו כאן:*\nhttps://wa.me/972559334207?text=אשמח%20לפרטים%20בקשר%20למארז\n\n⚠️ *לקראת החג הכמות מוגבלת  מומלץ להזמין מוקדם.*",
+   "ts": 1790016741000,
+   "date": "2026-09-21",
+   "time": "21:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16KwnY5XeHzWGdFmSOK5sfp_DTbQ9RGX_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16KwnY5XeHzWGdFmSOK5sfp_DTbQ9RGX_&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

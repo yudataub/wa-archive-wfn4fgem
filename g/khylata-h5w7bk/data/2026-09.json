@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-21T18:23:30.023Z",
+ "updated": "2026-09-21T18:53:44.352Z",
  "messages": [
   {
    "id": "AC4E6D1CBF261789D570026B61683C89",
@@ -20,6 +20,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=15itjoQvgkRTNjzC2s9ULH0ejX-56dMFU&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "AC9944ACBA1ABC5FDE7B55A8DFA83DA2",
+   "sender": "דיקלה אלול🥰",
+   "text": "מישהו יודע. אם האושר עד פתוח??",
+   "ts": 1790016821000,
+   "date": "2026-09-21",
+   "time": "21:53",
+   "files": [],
    "drive": null
   }
  ]
