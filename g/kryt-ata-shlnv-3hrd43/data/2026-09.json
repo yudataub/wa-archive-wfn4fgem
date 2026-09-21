@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T20:25:47.929Z",
+ "updated": "2026-09-21T20:28:47.964Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -896,6 +896,35 @@
      "thumb": "https://drive.google.com/thumbnail?id=1vi_kbNqYlrONb-kiqD-3Wqo5gw1_1JIs&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "ACA6961A94061825E64B2A06423D9013",
+   "sender": "ברכה צדוק",
+   "text": "",
+   "ts": 1790022489000,
+   "date": "2026-09-21",
+   "time": "23:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PU6L1rwhoARlUNX3Cabfc6sW-eF4FaBE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PU6L1rwhoARlUNX3Cabfc6sW-eF4FaBE&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC69EB7C68CBCDB1575120D63D19E80D",
+   "sender": "ברכה צדוק",
+   "text": "עבודה זריזה מומלץ🙏🙏",
+   "ts": 1790022515000,
+   "date": "2026-09-21",
+   "time": "23:28",
+   "files": [],
    "drive": null
   }
  ]

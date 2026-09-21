@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-21T19:55:34.129Z",
+ "updated": "2026-09-21T20:30:40.184Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -390,6 +390,35 @@
    "ts": 1790020518000,
    "date": "2026-09-21",
    "time": "22:55",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACC6A33F11D7C30FD593D657297A606A",
+   "sender": "יוסי מדינה",
+   "text": "לוקח קסיגדו 1 + ג'נואט 1 - וקטור 80 פעמיים ביום",
+   "ts": 1790022506000,
+   "date": "2026-09-21",
+   "time": "23:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z9aa1tJ4navmoBPOh9oaFg0_bZTeqDh5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z9aa1tJ4navmoBPOh9oaFg0_bZTeqDh5&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACE03C7318A69863818E3DD90DD3787E",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "אין כבר משמעות למה שכתבת נגמר כיפור",
+   "ts": 1790022630000,
+   "date": "2026-09-21",
+   "time": "23:30",
    "files": [],
    "drive": null
   }
