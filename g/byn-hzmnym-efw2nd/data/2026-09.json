@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-21T21:08:51.231Z",
+ "updated": "2026-09-21T21:28:14.626Z",
  "messages": [
   {
    "id": "failed-1788250556828",
@@ -76,6 +76,25 @@
      "path": "https://drive.google.com/file/d/19ASCW4wuv7LdozKvm613iUmm5Ks7i0Se/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19ASCW4wuv7LdozKvm613iUmm5Ks7i0Se&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC39EAAD73BA0788177CAC60C2CD39BE",
+   "sender": "ריקי",
+   "text": "✅ מיקום מצוין - מעל היער\n✅ אירוח נוח ומרווח - 13 מיטות, מזרנים ולולים לתינוקות.\n✅  סוכה בחצר גדולה ובמרפסת חזית, טרמפולינה, ערסל, שולחן טניס, שולחן כדורגל ומנגל.\n\n📞 לפרטים והזמנות:\nוואטסאפ: 053-2842047\n\nאל תפספסו להנות מאווירה כפרית ומיוחדת בירושלים!",
+   "ts": 1790026081000,
+   "date": "2026-09-22",
+   "time": "00:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13SCllyfvXqBmoAExIy8sXUtHRwWzkC-N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13SCllyfvXqBmoAExIy8sXUtHRwWzkC-N&sz=w1200"
     }
    ],
    "drive": null

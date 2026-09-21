@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T21:19:21.362Z",
+ "updated": "2026-09-21T21:36:42.563Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1397,6 +1397,53 @@
      "path": "https://drive.google.com/file/d/1v_Zj-uvm3ynEhs1SH3QcJjbUoOTbsVLO/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1v_Zj-uvm3ynEhs1SH3QcJjbUoOTbsVLO&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB046A4BBA5C01B3BA431",
+   "sender": "הפרגוד",
+   "text": "הסיכום המרתק של משה ויסברג בבחדרי חרדים מהנעשה בחצרות הקודש  והיכלי הישיבות https://www.bhol.co.il/bit/ODR10",
+   "ts": 1790026337000,
+   "date": "2026-09-22",
+   "time": "00:32",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "3EB0029686724C16AC72D6",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: יוסי דגן סופד לנרצח נתנאל שוקרון הי\"ד\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790026439000,
+   "date": "2026-09-22",
+   "time": "00:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "11.4MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0B131C191F217493A39",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: המיטה של הקדוש הי\"ד נתנאל שוקורון שנרצח במעיין בערב כיפור.\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790026569000,
+   "date": "2026-09-22",
+   "time": "00:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "453KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TByc6rT9uIZhGeWLlFw7VE8A5gBaQPDA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TByc6rT9uIZhGeWLlFw7VE8A5gBaQPDA&sz=w1200"
     }
    ],
    "drive": null
