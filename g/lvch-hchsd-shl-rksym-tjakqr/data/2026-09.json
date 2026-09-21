@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-21T21:16:21.317Z",
+ "updated": "2026-09-21T21:24:51.433Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -457,6 +457,35 @@
    "date": "2026-09-22",
    "time": "00:16",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5D3DA5A12A2D5D3AEDCDDE0C0E1F338",
+   "sender": "מאיר מוגרבי",
+   "text": "ממן פרסם ראיתי שאפשר בהזמנה מראש",
+   "ts": 1790025478000,
+   "date": "2026-09-22",
+   "time": "00:17",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC1C06F5C9774D13A2BD452602DD16D8",
+   "sender": "Shmuel Eliach",
+   "text": "",
+   "ts": 1790025877000,
+   "date": "2026-09-22",
+   "time": "00:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "53KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qgFxSoZ3X6qgQKHFmxQEm6Uqy0cxE_08/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qgFxSoZ3X6qgQKHFmxQEm6Uqy0cxE_08&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
