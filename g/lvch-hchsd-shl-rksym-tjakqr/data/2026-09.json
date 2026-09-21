@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-21T21:24:51.433Z",
+ "updated": "2026-09-21T22:53:54.007Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -486,6 +486,46 @@
      "thumb": "https://drive.google.com/thumbnail?id=1qgFxSoZ3X6qgQKHFmxQEm6Uqy0cxE_08&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "2A81394CADC58F91F86E",
+   "sender": "אם זה לא כלכלי זה לא מעניין אותי",
+   "text": "מישהוניודע אם החברה עם הסוסים בכיכר של האוניה יהודים או ערבים?",
+   "ts": 1790031061000,
+   "date": "2026-09-22",
+   "time": "01:51",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC57FF4B7E998FFE447FB5327284F234",
+   "sender": "Shmuel Eliach",
+   "text": "אולי זה קשור לזה",
+   "ts": 1790031185000,
+   "date": "2026-09-22",
+   "time": "01:53",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACA0F551301E1C18A8B1BD5C6BE0F27A",
+   "sender": "Shmuel Eliach",
+   "text": ".",
+   "ts": 1790031189000,
+   "date": "2026-09-22",
+   "time": "01:53",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "2AF5EA80FA3E888B9E66",
+   "sender": "אם זה לא כלכלי זה לא מעניין אותי",
+   "text": "יש חבורת נערים שנראים ערבים בכיכר האוניה עם סוסים",
+   "ts": 1790031217000,
+   "date": "2026-09-22",
+   "time": "01:53",
+   "files": [],
    "drive": null
   }
  ]
