@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-21T20:42:15.403Z",
+ "updated": "2026-09-21T20:54:50.935Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -417,6 +417,35 @@
    "ts": 1790023328000,
    "date": "2026-09-21",
    "time": "23:42",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A567C8110E4611F7ADFC851AF2A25427",
+   "sender": "אברהם בויאר",
+   "text": "",
+   "ts": 1790023952000,
+   "date": "2026-09-21",
+   "time": "23:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HUPQq1a8em7_llGL4SlJOeDwhk4Cpdk3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HUPQq1a8em7_llGL4SlJOeDwhk4Cpdk3&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A572208CE176393F61478AD0CC3FA964",
+   "sender": "מאיר מוגרבי",
+   "text": "יש למישהו מנוי באפליקצית ZING? אשמח לעזרה קטנטנה",
+   "ts": 1790024064000,
+   "date": "2026-09-21",
+   "time": "23:54",
    "files": [],
    "drive": null
   }

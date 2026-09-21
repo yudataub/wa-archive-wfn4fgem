@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-21T20:46:15.462Z",
+ "updated": "2026-09-21T20:56:20.948Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -143,6 +143,62 @@
    "ts": 1790023573000,
    "date": "2026-09-21",
    "time": "23:46",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACCFAB9B85D0D2691E4F219A1B1893C4",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "8",
+   "ts": 1790024134000,
+   "date": "2026-09-21",
+   "time": "23:55",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACEC1C2765899FE491FB47E74F1C6500",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "",
+   "ts": 1790024141000,
+   "date": "2026-09-21",
+   "time": "23:55",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/15kqn2u-cQa9de0jkLC9dS9HmtNyRGBnO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC863451E986B231E6AFE7E20BBD476C",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "",
+   "ts": 1790024153000,
+   "date": "2026-09-21",
+   "time": "23:55",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "7KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1vs0_POUASFPhVXJa6rSfAWQltJXjEI9B/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACCD088D2121DD351FFCA276DD1B6436",
+   "sender": "משה קולט",
+   "text": "[איש קשר]",
+   "ts": 1790024179000,
+   "date": "2026-09-21",
+   "time": "23:56",
    "files": [],
    "drive": null
   }
