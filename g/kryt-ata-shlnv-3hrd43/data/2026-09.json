@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T21:00:21.099Z",
+ "updated": "2026-09-21T21:52:45.376Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -954,6 +954,25 @@
    "date": "2026-09-22",
    "time": "00:00",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACC7541FE1A50CA9C67E361DDEB05A6D",
+   "sender": "Orit",
+   "text": "",
+   "ts": 1790027543000,
+   "date": "2026-09-22",
+   "time": "00:52",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "941KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1L8CHFGZpH8X0qudGBKlQpTGRhyrIeVMb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L8CHFGZpH8X0qudGBKlQpTGRhyrIeVMb&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
