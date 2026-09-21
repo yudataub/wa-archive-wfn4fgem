@@ -1,0 +1,55 @@
+{
+ "month": "2026-09",
+ "group": "קרית אתא שלנו",
+ "updated": "2026-09-21T18:12:59.814Z",
+ "messages": [
+  {
+   "id": "AC144587D16DFB8EFB697147B6CE148C",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790014241000,
+   "date": "2026-09-21",
+   "time": "21:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bD2hlFO5cxaTBojv0hvfiKoXOZYYda9Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bD2hlFO5cxaTBojv0hvfiKoXOZYYda9Q&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC1B231D37F33457DDFC9C7ABD323A84",
+   "sender": "yanay2020",
+   "text": "מיטה יהודית איכותית ושמורה \nעם ארגז מצעים גדול \nכולל ראש מיטה\nרק 300₪\n\nלפרטים:\n0529551604",
+   "ts": 1790014242000,
+   "date": "2026-09-21",
+   "time": "21:10",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC8A509DF821F77C7B86898E7D0110AB",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790014365000,
+   "date": "2026-09-21",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EMSLiQPZ12LflU6hdWOEDIn-QzuKH3_-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EMSLiQPZ12LflU6hdWOEDIn-QzuKH3_-&sz=w1200"
+    }
+   ],
+   "drive": null
+  }
+ ]
+}

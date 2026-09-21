@@ -1,0 +1,55 @@
+{
+ "month": "2026-09",
+ "group": "אתאפון-מידע שימושי ק.אתא",
+ "updated": "2026-09-21T18:12:59.809Z",
+ "messages": [
+  {
+   "id": "AC276C524044B58287234FFD66953F16",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790014251000,
+   "date": "2026-09-21",
+   "time": "21:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NE4DRQAgUGZ7jLnrwWlc8NHD94IvNWqE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NE4DRQAgUGZ7jLnrwWlc8NHD94IvNWqE&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACC32A1EF23CE80382F56F5C2856A368",
+   "sender": "yanay2020",
+   "text": "מיטה יהודית איכותית ושמורה \nעם ארגז מצעים גדול \nכולל ראש מיטה\nרק 300₪\n\nלפרטים:\n0529551604",
+   "ts": 1790014252000,
+   "date": "2026-09-21",
+   "time": "21:10",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACBCDEE305A7FFCBBAE3C7E329C16C9D",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790014358000,
+   "date": "2026-09-21",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x1nN5grvPSJdbFqpx3bgAvA0ymPLpM3D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x1nN5grvPSJdbFqpx3bgAvA0ymPLpM3D&sz=w1200"
+    }
+   ],
+   "drive": null
+  }
+ ]
+}

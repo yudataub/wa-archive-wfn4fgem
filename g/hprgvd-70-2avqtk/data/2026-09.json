@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T18:05:59.719Z",
+ "updated": "2026-09-21T18:09:29.763Z",
  "messages": [
   {
    "id": "3EB0001C24668CB07191FA",
@@ -56,6 +56,43 @@
      "path": "https://drive.google.com/file/d/1yUtkZTB_84iJZjWp3EG8U3uP-oweWL_t/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1yUtkZTB_84iJZjWp3EG8U3uP-oweWL_t&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0B79FB1417C67EDD26A",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ד\"ר נחומי יפה בראיון ראשון לערוץ 12: \"אם למישהו יש פנטזיה שאנחנו בעצם מפלגה לא חרדית אז סורי. אם רציתם לחלן את החברה החרדית - לא תקבלו\".\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790014084000,
+   "date": "2026-09-21",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "8.7MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0B064D8D1AA3C856D59",
+   "sender": "הפרגוד",
+   "text": "🌿*חגיגה של רכבים והטבות-סוכולמוביל יוצא לדרך!*\n\n✨הפנינג סוכות מבית כלמוביל עם כל הדגמים המבוקשים והאהובים-\n🚗דגמי יונדאי, מיצובישי, אומודה ג'אקו ועוד!\n🎁*הנחות מיוחדות, הטבות אבזור** *ועוד!*\nאל תפספסו!\n\n22.09-04.10  (יא'-כג' תשרי) בלבד!\n👈🏻בואו לאולמות התצוגה או תאמו בווטסאפ: https://wa.me/972554577607?text=(1071)+היי+מתעניין+ברכב+פרימיום+\n`*_בכפוף לתקנון באתר החברה_`",
+   "ts": 1790014167000,
+   "date": "2026-09-21",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "361KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kXgVQE0nafhAt49zuDTn0JNnKhRXeEoE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kXgVQE0nafhAt49zuDTn0JNnKhRXeEoE&sz=w1200"
     }
    ],
    "drive": null

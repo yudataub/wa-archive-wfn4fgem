@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-21T17:54:59.501Z",
+ "updated": "2026-09-21T18:12:29.821Z",
  "messages": [
   {
    "id": "AC2373F8190525175B98AFA16F69E891",
@@ -17,6 +17,111 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1MqUuookR2FuwhHXXbntmPyPbU9kXsOjv/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC01C420619B4BB6DDA1F6455A29A272",
+   "sender": "מנחם חזן",
+   "text": "",
+   "ts": 1790014071000,
+   "date": "2026-09-21",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eSEdfn9fO_QhVZxuCKMiv0TPPFkrlGzM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eSEdfn9fO_QhVZxuCKMiv0TPPFkrlGzM&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC2E4474DA9A4BA8B01FABB530EC9B01",
+   "sender": "מנחם חזן",
+   "text": "",
+   "ts": 1790014071000,
+   "date": "2026-09-21",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "318KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WxFs6DTAqyIQMnWxal7AphdHx3M_13iT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WxFs6DTAqyIQMnWxal7AphdHx3M_13iT&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACD648A0A55B4ADA9A1A57123C431EF7",
+   "sender": "מנחם חזן",
+   "text": "",
+   "ts": 1790014072000,
+   "date": "2026-09-21",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "449KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_sVVi1GkG337Z1zxsietvGzjzEbPkVnm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_sVVi1GkG337Z1zxsietvGzjzEbPkVnm&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC77A99CCF74DDBDEEDD666BB16FAAD7",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790014176000,
+   "date": "2026-09-21",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OS5p0fnrZHqx-8wlEsZHYV-OyzOUmVXB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OS5p0fnrZHqx-8wlEsZHYV-OyzOUmVXB&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACD5AA38C82C3BD68A35C6E8D9317EF8",
+   "sender": "yanay2020",
+   "text": "מיטה יהודית איכותית ושמורה \nעם ארגז מצעים גדול \nכולל ראש מיטה\nרק 300₪\n\nלפרטים:\n0529551604",
+   "ts": 1790014182000,
+   "date": "2026-09-21",
+   "time": "21:09",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACCC00039B9A7B46B9A1008DF7E52E91",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790014350000,
+   "date": "2026-09-21",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14oAycVcwKfPksm9om_LQKwcxEY5fT5SN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14oAycVcwKfPksm9om_LQKwcxEY5fT5SN&sz=w1200"
     }
    ],
    "drive": null
