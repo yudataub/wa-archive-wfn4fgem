@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T21:01:21.095Z",
+ "updated": "2026-09-21T21:10:51.256Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1359,6 +1359,25 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "7.4MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB00479DC644396CF3D24",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: טרנד בחב״ד: מוכרים הכרזת ״יחי אדוננו״ בזמן השיא של תפילת נעילה. נמכר יותר יקר ממפטיר יונה\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790025018000,
+   "date": "2026-09-22",
+   "time": "00:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "56KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_H3Vh7JyzVEDrBmf8o2Lo8Ekwn5pqAnO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_H3Vh7JyzVEDrBmf8o2Lo8Ekwn5pqAnO&sz=w1200"
     }
    ],
    "drive": null
