@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T19:01:19.262Z",
+ "updated": "2026-09-21T19:11:11.902Z",
  "messages": [
   {
    "id": "AC144587D16DFB8EFB697147B6CE148C",
@@ -294,6 +294,25 @@
    "date": "2026-09-21",
    "time": "22:01",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACF1F79F3BC081769B3A29F52E2886E9",
+   "sender": "יוחאי דוד הרוש",
+   "text": "ארבעת המינים סטים מובחרים במחירים מטורפים להזמנות בפרטי מלאי מצומצם!",
+   "ts": 1790017865000,
+   "date": "2026-09-21",
+   "time": "22:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "370KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-R_RcSukLIDRVLHR5rrX4NkNlgBKECpL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-R_RcSukLIDRVLHR5rrX4NkNlgBKECpL&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

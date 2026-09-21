@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-21T18:46:14.220Z",
+ "updated": "2026-09-21T19:11:41.917Z",
  "messages": [
   {
    "id": "ACC9FBD1FF9ECA6DA89051DE249E1FD2",
@@ -70,6 +70,16 @@
    "ts": 1790016358000,
    "date": "2026-09-21",
    "time": "21:45",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC2A2A75A798C57E04B860C6F0B49F1B",
+   "sender": "Shlomo Shulzinger",
+   "text": "מעיין פתוח",
+   "ts": 1790017893000,
+   "date": "2026-09-21",
+   "time": "22:11",
    "files": [],
    "drive": null
   }

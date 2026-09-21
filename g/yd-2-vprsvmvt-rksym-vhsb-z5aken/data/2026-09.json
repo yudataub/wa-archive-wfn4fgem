@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-21T19:07:19.379Z",
+ "updated": "2026-09-21T19:08:49.389Z",
  "messages": [
   {
    "id": "3ACBE2AC0231A2C9966D",
@@ -258,6 +258,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=1SFwKy-T4E1rl1GuvgX5hMfpuDxtWr5Tl&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "AC8E14A9D562731760A403A6A2D6AA74",
+   "sender": "מ",
+   "text": "פתוח היום!!\nשעות פתיחה מורחבות לרגל החג🎀",
+   "ts": 1790017714000,
+   "date": "2026-09-21",
+   "time": "22:08",
+   "files": [],
    "drive": null
   }
  ]

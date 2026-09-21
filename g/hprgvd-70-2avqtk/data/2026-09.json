@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-21T19:05:19.324Z",
+ "updated": "2026-09-21T19:16:11.975Z",
  "messages": [
   {
    "id": "3EB0001C24668CB07191FA",
@@ -353,6 +353,25 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "5.9MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB081921D1672F3A7FACD",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: השר סמוטריץ׳ בבניית הסוכה בביתו\n\n*להצטרפות:* \n*chat.whatsapp.com/IOJjXUzVMIB15JUHaL6hwP*\n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*\n\n",
+   "ts": 1790018166000,
+   "date": "2026-09-21",
+   "time": "22:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "286KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G4aRJeldXoNO2-KX5ZMTJqxHUOK6Yx28/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G4aRJeldXoNO2-KX5ZMTJqxHUOK6Yx28&sz=w1200"
     }
    ],
    "drive": null

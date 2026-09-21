@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-21T19:07:19.362Z",
+ "updated": "2026-09-21T19:07:49.367Z",
  "messages": [
   {
    "id": "AC276C524044B58287234FFD66953F16",
@@ -86,6 +86,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=1GbEmRwoFLFWweHMliz6IiX40TX4Qwpxu&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "AC5378EF6998876521E2D8BFE8F41FE8",
+   "sender": "מ",
+   "text": "פתוח היום!!\nשעות פתיחנ מורחבוץ לרגל החג🎀",
+   "ts": 1790017657000,
+   "date": "2026-09-21",
+   "time": "22:07",
+   "files": [],
    "drive": null
   }
  ]
