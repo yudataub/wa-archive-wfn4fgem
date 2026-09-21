@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-21T20:28:47.964Z",
+ "updated": "2026-09-21T20:42:15.397Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -925,6 +925,25 @@
    "date": "2026-09-21",
    "time": "23:28",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "3A3F54597ACE0A2F7175",
+   "sender": "נתן",
+   "text": "מי שחכם משריין ליפני החג ❤️",
+   "ts": 1790023312000,
+   "date": "2026-09-21",
+   "time": "23:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "433KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tP6dKEpDEEfCnVXKDrd2UjVxzrwieRos/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tP6dKEpDEEfCnVXKDrd2UjVxzrwieRos&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

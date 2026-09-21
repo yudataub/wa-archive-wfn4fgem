@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-21T19:51:31.617Z",
+ "updated": "2026-09-21T20:42:15.415Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -514,6 +514,25 @@
    "date": "2026-09-21",
    "time": "22:08",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5767DA598C34EC27FE1FDE4C201B599",
+   "sender": "מאיר",
+   "text": "",
+   "ts": 1790023324000,
+   "date": "2026-09-21",
+   "time": "23:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "63KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tHrzyHe38MNN2mlpWZnSYfsRA4rVTXfG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tHrzyHe38MNN2mlpWZnSYfsRA4rVTXfG&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
