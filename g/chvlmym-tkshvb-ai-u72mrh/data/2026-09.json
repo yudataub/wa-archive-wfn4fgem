@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-22T18:01:38.341Z",
+ "updated": "2026-09-22T18:24:38.827Z",
  "messages": [
   {
    "id": "3EB0016B2434490308755A",
@@ -335,6 +335,79 @@
    "date": "2026-09-22",
    "time": "21:01",
    "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3A7E4721010D5CB47577",
+   "sender": "בת חן",
+   "text": "@158222501601523 \nלחצתי על הקישור ביוטיוב של מחוז צפון..",
+   "ts": 1790101162000,
+   "date": "2026-09-22",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "386KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T2lqGeu17Mz-t8SY5kHxtT64dj_SdgrG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T2lqGeu17Mz-t8SY5kHxtT64dj_SdgrG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3EB0988AD6D34F34891E08",
+   "sender": "חפציה",
+   "text": "לא ביוטיוב, זה ישן. מי שרוצה ליצור כיתה לצוות שלו -  תיכנסו מחומר פתוח, לפי מחוזות. - https://openstuff.co.il/20233/\nומי שרוצה להתנסות בעצמו תיכנסו ישר לכיתה שלי https://classroom.google.com/c/ODg0MzUwOTI5MTQ0?cjc=ljm2ch2t ותראו אם עובד",
+   "ts": 1790101241000,
+   "date": "2026-09-22",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3A3D554D5567FF1DB4ED",
+   "sender": "בת חן",
+   "text": "עבד לי דרך ״חומר פתוח״",
+   "ts": 1790101247000,
+   "date": "2026-09-22",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3A594C8E1088B2653065",
+   "sender": "בת חן",
+   "text": "תודה 🙏🏻",
+   "ts": 1790101251000,
+   "date": "2026-09-22",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3A21652E7CA7521949F2",
+   "sender": "בת חן",
+   "text": "בעצם - לא.. \nככה זה אמור להיות ריק? \nוגם הכפתור ייצוא העבודה לא לחיץ",
+   "ts": 1790101454000,
+   "date": "2026-09-22",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "314KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z7o1IqqJQ4qSJDtFG7iCzosBJoRDEyt8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z7o1IqqJQ4qSJDtFG7iCzosBJoRDEyt8&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506544492"
   }
