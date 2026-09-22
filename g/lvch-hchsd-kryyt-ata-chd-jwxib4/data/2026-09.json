@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T04:30:16.850Z",
+ "updated": "2026-09-22T05:09:06.537Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -567,6 +567,44 @@
      "path": "https://drive.google.com/file/d/16AQT7mO1pX4wbOQZ_VlRC3KiZBe7ma5X/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=16AQT7mO1pX4wbOQZ_VlRC3KiZBe7ma5X&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC45B76671B60F86A0854818C5D4A634",
+   "sender": "ניסים",
+   "text": "קליפסים במבוק לסכך  למסירה",
+   "ts": 1790053665000,
+   "date": "2026-09-22",
+   "time": "08:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1irs8s61p7GhteeU_-qKxAz_C6K9SIh-X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1irs8s61p7GhteeU_-qKxAz_C6K9SIh-X&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC0F761A283ABF6BBE800DB8DE6F38AE",
+   "sender": "ניסים",
+   "text": "קליפסים במבוק לסכך  למסירה",
+   "ts": 1790053723000,
+   "date": "2026-09-22",
+   "time": "08:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NkdwX29k000kgZjDPBkhk87BbAwPjih3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NkdwX29k000kgZjDPBkhk87BbAwPjih3&sz=w1200"
     }
    ],
    "drive": null

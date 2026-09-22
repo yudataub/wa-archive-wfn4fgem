@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-22T05:06:33.013Z",
+ "updated": "2026-09-22T05:09:06.569Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -199,6 +199,25 @@
      "path": "https://drive.google.com/file/d/1opXrQ6pPCODLqjvODudEGud-uUXoGJK6/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1opXrQ6pPCODLqjvODudEGud-uUXoGJK6&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACFD5B49608921FCDD80C23ECC398BB5",
+   "sender": "ניסים",
+   "text": "קליפסים במבוק לסכך  למסירה",
+   "ts": 1790053726000,
+   "date": "2026-09-22",
+   "time": "08:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1budNnl_uPcESUZR9cQf4MmfweaZVgt-P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1budNnl_uPcESUZR9cQf4MmfweaZVgt-P&sz=w1200"
     }
    ],
    "drive": null

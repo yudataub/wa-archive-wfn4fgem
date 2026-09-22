@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T05:07:36.459Z",
+ "updated": "2026-09-22T05:16:06.665Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -988,6 +988,25 @@
      "path": "https://drive.google.com/file/d/1oJxV0dGKta-iYlb6IJEMPupJZc9LK4Zw/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1oJxV0dGKta-iYlb6IJEMPupJZc9LK4Zw&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACBCF9E0881C1208A3A613B1AD2A6232",
+   "sender": "יוני טולדנו",
+   "text": "",
+   "ts": 1790054146000,
+   "date": "2026-09-22",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RR6bhRMWenBOl9WnS8gyYusqkHMzN17o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RR6bhRMWenBOl9WnS8gyYusqkHMzN17o&sz=w1200"
     }
    ],
    "drive": null

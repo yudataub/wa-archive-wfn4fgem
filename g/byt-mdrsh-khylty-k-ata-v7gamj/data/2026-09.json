@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-22T04:11:29.239Z",
+ "updated": "2026-09-22T05:16:06.730Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -11,6 +11,25 @@
    "date": "2026-09-21",
    "time": "21:59",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC9546A5084CE9EE6B394412DF6CDAAF",
+   "sender": "יוני טולדנו",
+   "text": "",
+   "ts": 1790054145000,
+   "date": "2026-09-22",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KuiBXuJgKE0JMbKmy-_vQdJizTRZve85/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KuiBXuJgKE0JMbKmy-_vQdJizTRZve85&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
