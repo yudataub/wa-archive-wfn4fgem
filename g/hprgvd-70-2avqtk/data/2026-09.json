@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T04:34:16.967Z",
+ "updated": "2026-09-22T04:45:43.296Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1548,6 +1548,62 @@
      "path": "https://drive.google.com/file/d/1fuOD26abfEKwyK1x6DB9uiPJrdfAUnit/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1fuOD26abfEKwyK1x6DB9uiPJrdfAUnit&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0BBC3575726C55E0FA5",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: טיש נעילת החג בתולדות אברהם יצחק\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790051994000,
+   "date": "2026-09-22",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1o4NOmWRm7Ra9f_1EvxPNYyq3LjjuGrlX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o4NOmWRm7Ra9f_1EvxPNYyq3LjjuGrlX&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0D8BD6F18B13D22C9CB",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: כתבה מרתקת על נוסח ההנהגה היחודי של האדמו״ר מקרלין סטולין בשער המגזין האמריקאי ביידיש ׳מאמענט׳.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790052086000,
+   "date": "2026-09-22",
+   "time": "07:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GQ_T0bCzrAoP1VTt_x8jh-G79yzCGYvY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GQ_T0bCzrAoP1VTt_x8jh-G79yzCGYvY&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB043C07ACA1A773770E0",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: שירה לאחר קידוש לבנה סביב הרב הצדיק המקובל רבי יצחק מאיר מארגנשטערן (האדמו\"ר מתורת חכם ירושלים)\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790052331000,
+   "date": "2026-09-22",
+   "time": "07:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "15.1MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null
