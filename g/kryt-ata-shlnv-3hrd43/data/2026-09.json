@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T19:20:45.262Z",
+ "updated": "2026-09-22T20:38:25.978Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2692,6 +2692,66 @@
    ],
    "drive": null,
    "phone": "972502774900"
+  },
+  {
+   "id": "AC52BC933A0DABF27929CEEE100EA8D2",
+   "sender": "דוד ג",
+   "text": "",
+   "ts": 1790109450000,
+   "date": "2026-09-22",
+   "time": "23:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T5IgfMcMlWJnOWbOry_kamup1iwRhphb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T5IgfMcMlWJnOWbOry_kamup1iwRhphb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944111"
+  },
+  {
+   "id": "ACE4997100629F50B4E2E5BF796AF47F",
+   "sender": "דוד ג",
+   "text": "",
+   "ts": 1790109450000,
+   "date": "2026-09-22",
+   "time": "23:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "596KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NFIS_jajZK4O-cNSQY-SQ0tUbS9T4ao3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NFIS_jajZK4O-cNSQY-SQ0tUbS9T4ao3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944111"
+  },
+  {
+   "id": "AC9A9D6675C49FC281818A82E075DAB3",
+   "sender": "דוד ג",
+   "text": "לסחורה הכי טובה לשלוח הודעה בפרטי",
+   "ts": 1790109451000,
+   "date": "2026-09-22",
+   "time": "23:37",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ijjda5cYsFdzIv8U6O3REs9NxmIP2v6D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ijjda5cYsFdzIv8U6O3REs9NxmIP2v6D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944111"
   }
  ]
 }

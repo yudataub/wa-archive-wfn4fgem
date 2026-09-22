@@ -17,9 +17,9 @@
 /* צבע הקבוצה: גוון אחד (262, נקבע לפי שם הקבוצה) שממנו נגזרים הכותרת, השמות והרקע */
 :root{--hue:262;
 --bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
---muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);}
+--muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);--gold:#b8860b;}
 @media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
---bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);--line:hsl(var(--hue) 10% 25%);}}
+--bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);--line:hsl(var(--hue) 10% 25%);--gold:#e6b93f;}}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);
 font-family:"Segoe UI",Arial,sans-serif;}
 header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;
@@ -51,6 +51,11 @@ font-size:11px;font-family:inherit;cursor:pointer;line-height:1.4;text-decoratio
 .act.ok{background:var(--accent);color:#fff;border-color:var(--accent);}
 .act.del{opacity:.45}.msg:hover .act.del{opacity:1}.act.del:hover{color:#c0392b;border-color:#c0392b}
 .msg.gone{opacity:.35;transition:opacity .4s}
+/* סימון אישי: ★ חיוור עד שמעבירים עכבר או שההודעה מסומנת */
+.act.star{opacity:.45}.msg:hover .act.star{opacity:1}
+.act.star.on{opacity:1;color:var(--gold);border-color:var(--gold)}
+.msg.starred{border-color:var(--gold);box-shadow:0 0 0 2px hsl(42 70% 50% / .3)}
+.hbtn.on{background:var(--gold);color:#241a02}
 .txt b{font-weight:700}.txt i{font-style:italic}.txt s{text-decoration:line-through}.txt code{font-family:Consolas,monospace;font-size:14px}
 .files{margin-top:8px;display:flex;flex-direction:column;gap:8px;}
 /* תמונה על כל רוחב הבועה (בלי הגבלת גובה) — כמו בוואטסאפ; פוסטר של סרטון גם */
@@ -120,7 +125,8 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <body>
 <header>
 <div class="hdr-row"><h1>קהילת המורים של גוגל GEG</h1>
-<div class="hdr-btns"><button id="aibtn" class="hbtn" title="שאל את הארכיון (בינה מלאכותית)">&#10024;</button>
+<div class="hdr-btns"><button id="starbtn" class="hbtn" title="ההודעות שסימנת">&#9733;</button>
+<button id="aibtn" class="hbtn" title="שאל את הארכיון (בינה מלאכותית)">&#10024;</button>
 <a id="contactsbtn" class="hbtn" href="contacts.html" title="אלפון הקבוצה — כל מי שכתב וכל איש קשר ששותף">&#128211;</a>
 <button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div></div>
 <div class="sub" id="sub">טוען…</div>
@@ -163,6 +169,13 @@ function alias(name,phone){return (phone&&NAMES.phones[phone])||NAMES.names[name
 function loadNames(){return fetch("../../names.json?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
  .then(function(d){if(d){NAMES.phones=d.phones||{};NAMES.names=d.names||{};}}).catch(function(){});}
 var deletedIds={};   // מ-data/deleted.json — מוסתרות מיד, נמחקות פיזית בריצת site-push הבאה
+// סימון אישי (★): נשמר ב-localStorage של הדפדפן הזה בלבד — פרטי לגמרי, לא עובר בין מכשירים,
+// לא נכתב למאגר ולא נשלח לשום מקום. המפתח כולל את ה-slug כדי שלכל קבוצה תהיה רשימה משלה.
+var STAR_KEY="waStars:"+((location.pathname.match(/\/g\/([^\/]+)\//)||[])[1]||"");
+var stars=(function(){try{return JSON.parse(localStorage.getItem(STAR_KEY)||"{}")||{};}catch(e){return {};}})();
+var onlyStars=false;
+function saveStars(){try{localStorage.setItem(STAR_KEY,JSON.stringify(stars));}catch(e){}}
+function starCount(){return Object.keys(stars).length;}
 var feed=document.getElementById("feed"),more=document.getElementById("more");
 var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
 var whoSel=document.getElementById("who");
@@ -214,6 +227,7 @@ function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
  '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
 function render(){
  var list=all.filter(function(m){return !deletedIds[m.id];});
+ if(onlyStars)list=list.filter(function(m){return stars[m.id];});
  if(who)list=list.filter(function(m){return whoOf(m)===who;});
  if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
   return (m.text||"").toLowerCase().indexOf(q)>-1||
@@ -231,23 +245,25 @@ function render(){
   var who=esc(senderName), thr=(threadName&&threadName!==senderName)?esc(threadName):"";
   if(waLink){ if(thr)thr='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+thr+"</a>";
    else who='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+who+"</a>"; }
-  html+='<div class="msg" data-id="'+esc(m.id)+'"><div class="who">'+who+(thr?' <span class="thread">↔ '+thr+"</span>":"")+"</div>";
+  html+='<div class="msg'+(stars[m.id]?" starred":"")+'" data-id="'+esc(m.id)+'"><div class="who">'+who+(thr?' <span class="thread">↔ '+thr+"</span>":"")+"</div>";
   if(m.text)html+='<div class="txt">'+linkify(m.text)+"</div>";
   var f=(m.files||[]).map(fileHtml);
   if(m.drive&&m.drive.url)f.push(driveHtml(m.drive));
   if(f.length)html+='<div class="files">'+f.join("")+"</div>";
   html+='<div class="when"><span class="t">'+esc(m.time)+'</span>'+
+   '<button class="act star'+(stars[m.id]?" on":"")+'" title="סימון אישי — נשמר רק בדפדפן הזה">★</button>'+
    '<button class="act copy" title="העתקה עם העיצוב — להדבקה במייל/במסמך">⧉ העתקה</button>'+
    '<a class="act" href="'+mailtoFor(m)+'" title="פתיחת מייל חדש עם ההודעה">✉ מייל</a>'+
    (DELURL?'<button class="act del" title="מחיקה לצמיתות (קוד)">✕</button>':"")+'</div></div>';});
  feed.innerHTML=html;
  [].forEach.call(feed.querySelectorAll(".day"),function(el){el.id="d-"+el.textContent.trim();});
  buildNav(list);
- statusEl.textContent=list.length?"":((filter||who)?"אין תוצאות.":"אין עדיין הודעות.");
+ statusEl.textContent=list.length?"":(onlyStars&&!starCount()?"אין הודעות מסומנות. לחצו ★ בכותרת לחזרה לכל ההודעות, ואז ★ בשורת הזמן של הודעה כדי לסמן אותה."
+  :((filter||who||onlyStars)?"אין תוצאות.":"אין עדיין הודעות."));
  sub.textContent=(list.length!==all.length?list.length+" מתוך "+all.length:all.length)+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
- buildWho();
+ buildWho();updateStarBtn();
  more.hidden=loaded.length>=months.length;
- if(!filter&&!who&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
+ if(!filter&&!who&&!onlyStars&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
 // ---- העתקה למייל: HTML מעוצב (שולח, זמן, טקסט, תמונות, קבצים) + טקסט רגיל ----
 var GROUP_NAME=document.querySelector("header h1").textContent;
 function absUrl(u){try{return new URL(u,location.href).href;}catch(e){return u;}}
@@ -317,6 +333,23 @@ feed.addEventListener("click",function(e){
  copyRich(messageHtml(m),messageText(m)).then(function(){
   b.classList.add("ok");b.textContent="הועתק ✓";setTimeout(function(){b.classList.remove("ok");b.textContent="⧉ העתקה";},1500);
  },function(){window.prompt("העתק:",messageText(m));});});
+// ---- סימון אישי: ★ בהודעה, וכפתור בכותרת שמציג רק את המסומנות ----
+var starBtn=document.getElementById("starbtn");
+function updateStarBtn(){
+ var n=starCount();
+ starBtn.textContent=n?"★ "+n:"★";
+ starBtn.classList.toggle("on",onlyStars);
+ starBtn.title=onlyStars?"חזרה לכל ההודעות":(n?"הצגת "+n+" ההודעות המסומנות בלבד":"סימון הודעה: ★ בשורת הזמן שלה");}
+starBtn.addEventListener("click",function(){onlyStars=!onlyStars;render();});
+// כשהסינון כבוי מספיק להחליף מחלקה — רינדור מלא מהבהב ומטעין את כל התמונות מחדש.
+// כשהסינון פעיל חייבים לרנדר, אחרת הודעה שבוטל סימונה נשארת על המסך.
+feed.addEventListener("click",function(e){
+ var b=e.target.closest?e.target.closest(".star"):null;if(!b)return;
+ var box=b.closest(".msg"),id=box.getAttribute("data-id");
+ if(stars[id])delete stars[id];else stars[id]=1;
+ saveStars();
+ if(onlyStars)render();
+ else{box.classList.toggle("starred",!!stars[id]);b.classList.toggle("on",!!stars[id]);updateStarBtn();}});
 // ---- שאל את הארכיון (בינה מלאכותית) ----
 // המפתח נשמר רק ב-localStorage של הדפדפן הזה; הבקשות הולכות ישירות ל-API של Claude (CORS מותר עם
 // הכותרת anthropic-dangerous-direct-browser-access). ההודעות שבזיכרון (החודשים הטעונים, אחרי הסינון)
@@ -334,7 +367,7 @@ function aiShowKeyForm(){aiKeyBox.hidden=false;aiAsk.hidden=true;
  document.getElementById("aiprov").value=aiProv();document.getElementById("aimodel").value=aiModel();document.getElementById("aikeyinput").focus();}
 document.getElementById("aiprov").addEventListener("change",function(e){try{localStorage.setItem("aiProvider",e.target.value);}catch(x){}document.getElementById("aimodel").value=aiModel();});
 function aiOpen(){aiBox.hidden=false;if(!aiKey())aiShowKeyForm();else{aiKeyBox.hidden=true;aiAsk.hidden=false;aiQ.focus();}
- aiScope.textContent="ההקשר: "+scopeList().length+" הודעות ("+loaded.slice().sort().join(", ")+(who?" · "+who:"")+")";
+ aiScope.textContent="ההקשר: "+scopeList().length+" הודעות ("+loaded.slice().sort().join(", ")+(who?" · "+who:"")+(onlyStars?" · מסומנות בלבד":"")+")";
  window.scrollTo(0,0);}
 document.getElementById("aibtn").addEventListener("click",function(){aiBox.hidden?aiOpen():(aiBox.hidden=true);});
 document.getElementById("aiclose").addEventListener("click",function(){aiBox.hidden=true;});
@@ -346,7 +379,8 @@ document.getElementById("aikeysave").addEventListener("click",function(){
  document.getElementById("aikeyinput").value="";aiOpen();});
 document.getElementById("aikeychange").addEventListener("click",function(){aiShowKeyForm();});
 // ההודעות שבתחום: החודשים הטעונים, אחרי סינון "מי" (לא אחרי חיפוש הטקסט — זה מה שהמודל אמור לעשות)
-function scopeList(){var l=all.slice();if(who)l=l.filter(function(m){return whoOf(m)===who;});l.sort(function(a,b){return a.ts-b.ts;});return l;}
+function scopeList(){var l=all.slice();if(onlyStars)l=l.filter(function(m){return stars[m.id];});
+ if(who)l=l.filter(function(m){return whoOf(m)===who;});l.sort(function(a,b){return a.ts-b.ts;});return l;}
 function aiLine(m,i){var files=(m.files||[]).map(function(f){return f.name+(f.type&&/^image/.test(f.type)?" (תמונה)":"");}).join(", ");
  var sn=m.thread&&m.sender!==m.thread?alias(m.sender,""):alias(m.sender,m.phone),tn=m.thread?alias(m.thread,m.phone):"";
  return "[#"+i+"] "+m.date+" "+m.time+" | "+sn+(tn&&tn!==sn?" ↔ "+tn:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");}
