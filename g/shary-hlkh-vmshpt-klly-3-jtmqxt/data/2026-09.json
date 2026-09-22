@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-22T06:07:01.661Z",
+ "updated": "2026-09-22T06:12:01.785Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -548,6 +548,93 @@
    "date": "2026-09-22",
    "time": "09:06",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC6F259AC21833BF60D4FEB12D43EFB4",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "אתה לא צריך כל שבוע לשאול אותו שאלה אמרנו לך שאי אפשר להתפלל איתם",
+   "ts": 1790057307000,
+   "date": "2026-09-22",
+   "time": "09:08",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC5D1542351D906699AA534EEF210964",
+   "sender": "Haim",
+   "text": "תודה רבה לך הרב",
+   "ts": 1790057340000,
+   "date": "2026-09-22",
+   "time": "09:09",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC6F5C569F61FCEF8C0B511DA49D2B99",
+   "sender": "Haim",
+   "text": "",
+   "ts": 1790057342000,
+   "date": "2026-09-22",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "103KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/18pgyWlgecEmTI6BDgGl5Onnt7PdxJ7aZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18pgyWlgecEmTI6BDgGl5Onnt7PdxJ7aZ&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC7C856AF681CB03260E4485B468C11E",
+   "sender": "Haim",
+   "text": "כי הרב אצלנו מבקש שאני אשאר במניין בגלל זה אני שלחתי לך תודה רבה",
+   "ts": 1790057366000,
+   "date": "2026-09-22",
+   "time": "09:09",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC840160577B467864934590386FB858",
+   "sender": "Haim",
+   "text": "אני שואל מה אתה מציע לי הרב",
+   "ts": 1790057376000,
+   "date": "2026-09-22",
+   "time": "09:09",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC9840CD8F274A9383D6E9E40368FC30",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "תגיד לרב שיסתכל בפוסקים בסימן פט",
+   "ts": 1790057504000,
+   "date": "2026-09-22",
+   "time": "09:11",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC450BB0B1108C3B34BD4C33819006D8",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1790057507000,
+   "date": "2026-09-22",
+   "time": "09:11",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "24KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1gCPzB3sOyF3onr9KQNw_hXCiDL6M1c3Z/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null
   }
  ]

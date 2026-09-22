@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T06:05:31.663Z",
+ "updated": "2026-09-22T06:17:01.850Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -131,6 +131,17 @@
    "files": [],
    "drive": null,
    "thread": "עידן טחן"
+  },
+  {
+   "id": "AC6817A42DD1C363041B7EA4B56771F0",
+   "sender": "בלייך צבי",
+   "text": "https://www.facebook.com/share/r/1Ggqs1ZFV3/",
+   "ts": 1790057813000,
+   "date": "2026-09-22",
+   "time": "09:16",
+   "files": [],
+   "drive": null,
+   "thread": "בלייך צבי"
   }
  ]
 }

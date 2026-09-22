@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T06:07:31.662Z",
+ "updated": "2026-09-22T06:13:31.859Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1223,6 +1223,25 @@
    "drive": null
   },
   {
+   "id": "AC2CECBC336658BAF9E0742FAAA9A0A3",
+   "sender": "דוד ג",
+   "text": "",
+   "ts": 1790057249000,
+   "date": "2026-09-22",
+   "time": "09:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "596KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VLKJ8MlTbonv3-QWGY2w7FskYa-uUtUU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VLKJ8MlTbonv3-QWGY2w7FskYa-uUtUU&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
    "id": "AC4A753589DDB03192677C16B551F44B",
    "sender": "דוד ג",
    "text": "לסחורה הכי טובה לשלוח הודעה בפרטי",
@@ -1239,6 +1258,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=1MTPTVqw1DCOZtwYDVjQmJ2M6FsLj76ev&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "A592690F5486EE5718AA4C5C231B234D",
+   "sender": "תמי",
+   "text": "פתקא טבא לכולן💕\nימי חופש וחג לפנינו\nמוזמות לקבוצה לפעילויות ואטרקציות חינם לילדים ושמחות בית השואבה\n\nכמובן מוזמנות גם לשלוח לי בפרטי תוכן כזה ואעלה לקבוצה",
+   "ts": 1790057587000,
+   "date": "2026-09-22",
+   "time": "09:13",
+   "files": [],
    "drive": null
   }
  ]
