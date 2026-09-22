@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T09:07:29.154Z",
+ "updated": "2026-09-22T09:10:00.807Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2332,6 +2332,26 @@
    "date": "2026-09-22",
    "time": "12:07",
    "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB061EF664846E5EDE12F",
+   "sender": "הפרגוד",
+   "text": "*🍷את החגים חוגגים עם הטעם הנכון✨*\n\nסוכות ותקופת החגים כבר כאן – וזה הזמן להצטייד *ביינות טובים ובסיגרים איכותיים* לרגעים המיוחדים של החג🥂\n\n`ב־Wine Me מחכה לכם:`\n🍇 מבחר גדול של יינות מובחרים\n🚬 מחלקת סיגרים עם מיטב המותגים\n🚚 שירות משלוחים\n\n📃 הקטלוג שלנו > https://wine-me-bs.netlify.app\n\n*🪀להזמנות לחצו:* \nhttps://Wa.me/972585993447?text=אשמח+להזמין+מהפרגוד\n\n*🥂 כי חג שמח מתחיל עם בחירה טובה - \"🍷 Wine Me | לחיים!\"*",
+   "ts": 1790068178000,
+   "date": "2026-09-22",
+   "time": "12:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "307KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kn_RsnFXEifSLV_laH8Z4OKMXv2hxx8A/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kn_RsnFXEifSLV_laH8Z4OKMXv2hxx8A&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972535629624"
   }

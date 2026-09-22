@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T08:53:58.922Z",
+ "updated": "2026-09-22T09:11:59.592Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -231,6 +231,26 @@
    "files": [],
    "drive": null,
    "phone": "972547838628"
+  },
+  {
+   "id": "A5598AAB40FA3905744DBFF255165B33",
+   "sender": "המתוקים של גילי",
+   "text": "אירוע חורף זה הזמן לשריין עיצוב חלומי ,כל מי שסוגרת היום 200 שח הנחה",
+   "ts": 1790068296000,
+   "date": "2026-09-22",
+   "time": "12:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "505KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a02e6WhAz22Xis9DAosa1dxdnHB52jju/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a02e6WhAz22Xis9DAosa1dxdnHB52jju&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584637213"
   }
  ]
 }

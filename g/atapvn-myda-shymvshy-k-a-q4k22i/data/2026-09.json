@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-22T07:26:45.887Z",
+ "updated": "2026-09-22T09:17:08.723Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -216,6 +216,26 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "3EB0FA0BE8C6A1AF8BD0ED",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "*היום מכירת בגדים לגברים וילדים בקרית שמואל*",
+   "ts": 1790068576000,
+   "date": "2026-09-22",
+   "time": "12:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IE4A3VPmEn-JDd9rbkEyDmFRWh3r9ANT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IE4A3VPmEn-JDd9rbkEyDmFRWh3r9ANT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
   }
  ]
 }

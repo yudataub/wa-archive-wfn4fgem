@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v12 -->
+<!-- wa-archive-generated v13 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -129,11 +129,12 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <section id="ai" hidden>
  <div class="ai-head"><b>✨ שאל את הארכיון</b><span class="ai-scope" id="aiscope"></span><button class="act" id="aiclose">✕</button></div>
  <div id="aikey" hidden>
-  <p>כדי לשאול שאלות צריך מפתח API. הוא נשמר <b>רק בדפדפן הזה</b> (לא באתר ולא בשרת).
-   Gemini: מפתח חינמי מ-<a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com</a>.
-   Claude: <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a> (בתשלום לפי שימוש).</p>
+  <p>כדי לשאול שאלות צריך מפתח API (פעם אחת). הוא נשמר <b>רק בדפדפן הזה</b> (לא באתר ולא בשרת).
+   Groq (חינמי, מהיר): <a href="https://console.groq.com/keys" target="_blank" rel="noopener">console.groq.com</a> ·
+   Gemini (חינמי): <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com</a> ·
+   Claude (בתשלום): <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a>.</p>
   <div class="ai-row">
-   <select id="aiprov"><option value="gemini">Gemini (Google) — חינמי</option><option value="anthropic">Claude (Anthropic)</option></select>
+   <select id="aiprov"><option value="groq">Groq — חינמי</option><option value="gemini">Gemini (Google) — חינמי</option><option value="anthropic">Claude (Anthropic)</option></select>
    <input id="aimodel" placeholder="מודל (ריק = ברירת מחדל)" autocomplete="off" style="max-width:220px">
   </div>
   <div class="ai-row"><input id="aikeyinput" type="password" placeholder="המפתח…" autocomplete="off"><button class="act" id="aikeysave">שמירה</button></div>
@@ -288,13 +289,14 @@ feed.addEventListener("click",function(e){
 // הכותרת anthropic-dangerous-direct-browser-access). ההודעות שבזיכרון (החודשים הטעונים, אחרי הסינון)
 // נשלחות כהקשר עם prompt caching — שאלות חוזרות על אותו הקשר תוך 5 דקות זולות פי 10.
 // ספקים: gemini (חינמי, aistudio) או anthropic. המודל ניתן לשינוי בטופס המפתח.
-var AI_DEFAULT_MODEL={anthropic:"claude-opus-5",gemini:"gemini-flash-latest"},AI_MAX_CHARS=160000;   // gemini-flash-latest = תמיד הגרסה הנוכחית (2.5 הוצא לשימוש חדש ב-2026)
-function aiProv(){try{return localStorage.getItem("aiProvider")||"gemini";}catch(e){return "gemini";}}
+var AI_DEFAULT_MODEL={anthropic:"claude-opus-5",gemini:"gemini-flash-latest",groq:"openai/gpt-oss-120b"};   // gemini-flash-latest = תמיד הגרסה הנוכחית
+var AI_MAX={anthropic:160000,gemini:160000,groq:60000};   // תווים; מעל זה — בוחרים את ההודעות הרלוונטיות לשאלה
+function aiProv(){try{return localStorage.getItem("aiProvider")||"groq";}catch(e){return "groq";}}
 function aiModel(){try{return localStorage.getItem("aiModel:"+aiProv())||AI_DEFAULT_MODEL[aiProv()];}catch(e){return AI_DEFAULT_MODEL[aiProv()];}}
 var aiBox=document.getElementById("ai"),aiKeyBox=document.getElementById("aikey"),aiAsk=document.getElementById("aiask");
 var aiQ=document.getElementById("aiq"),aiGo=document.getElementById("aigo"),aiHint=document.getElementById("aihint");
 var aiAns=document.getElementById("aians"),aiHits=document.getElementById("aihits"),aiScope=document.getElementById("aiscope");
-function aiKey(){try{return localStorage.getItem("aiKey:"+aiProv())||localStorage.getItem(aiProv()==="anthropic"?"anthropicKey":"geminiKey")||"";}catch(e){return "";}}
+function aiKey(){try{return localStorage.getItem("aiKey:"+aiProv())||"";}catch(e){return "";}}
 function aiShowKeyForm(){aiKeyBox.hidden=false;aiAsk.hidden=true;
  document.getElementById("aiprov").value=aiProv();document.getElementById("aimodel").value=aiModel();document.getElementById("aikeyinput").focus();}
 document.getElementById("aiprov").addEventListener("change",function(e){try{localStorage.setItem("aiProvider",e.target.value);}catch(x){}document.getElementById("aimodel").value=aiModel();});
@@ -312,14 +314,21 @@ document.getElementById("aikeysave").addEventListener("click",function(){
 document.getElementById("aikeychange").addEventListener("click",function(){aiShowKeyForm();});
 // ההודעות שבתחום: החודשים הטעונים, אחרי סינון "מי" (לא אחרי חיפוש הטקסט — זה מה שהמודל אמור לעשות)
 function scopeList(){var l=all.slice();if(who)l=l.filter(function(m){return whoOf(m)===who;});l.sort(function(a,b){return a.ts-b.ts;});return l;}
-function aiContext(list){
- // מהחדש לישן עד התקרה, ואז חזרה לסדר כרונולוגי; כל שורה מסומנת [#n] כדי שהמודל יוכל להפנות
- var lines=[],total=0;
- for(var i=list.length-1;i>=0;i--){var m=list[i];
-  var files=(m.files||[]).map(function(f){return f.name+(f.type&&/^image/.test(f.type)?" (תמונה)":"");}).join(", ");
-  var line="[#"+i+"] "+m.date+" "+m.time+" | "+m.sender+(m.thread&&m.thread!==m.sender?" ↔ "+m.thread:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");
-  if(total+line.length>AI_MAX_CHARS)break;total+=line.length+1;lines.push(line);}
- return {text:lines.reverse().join("\n"),count:lines.length,truncated:lines.length<list.length};}
+function aiLine(m,i){var files=(m.files||[]).map(function(f){return f.name+(f.type&&/^image/.test(f.type)?" (תמונה)":"");}).join(", ");
+ return "[#"+i+"] "+m.date+" "+m.time+" | "+m.sender+(m.thread&&m.thread!==m.sender?" ↔ "+m.thread:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");}
+function aiContext(list,q){
+ // כל שורה מסומנת [#n] כדי שהמודל יוכל להפנות. אם הכל נכנס בתקרה — שולחים הכל בסדר כרונולוגי.
+ // אחרת: קודם ההודעות שחולקות מילים עם השאלה (רלוונטיות), ואז החדשות ביותר, עד התקרה.
+ var max=AI_MAX[aiProv()]||60000,lines=list.map(aiLine),total=lines.reduce(function(a,l){return a+l.length+1;},0);
+ if(total<=max)return {text:lines.join("\n"),count:list.length,truncated:false};
+ var terms=(q||"").toLowerCase().split(/[^\p{L}\p{N}]+/u).filter(function(t){return t.length>=2;});
+ var scored=list.map(function(m,i){var low=(m.text||"").toLowerCase()+" "+(m.sender||"").toLowerCase();var s=0;terms.forEach(function(t){if(low.indexOf(t)>-1)s++;});return {i:i,s:s};});
+ var order=scored.filter(function(x){return x.s>0;}).sort(function(a,b){return b.s-a.s||b.i-a.i;}).map(function(x){return x.i;});
+ for(var k=list.length-1;k>=0;k--)if(order.indexOf(k)<0)order.push(k);
+ var pick={},used=0,n=0;
+ for(var j=0;j<order.length;j++){var L=lines[order[j]].length+1;if(used+L>max)continue;pick[order[j]]=1;used+=L;n++;}
+ var out=[];for(var i2=0;i2<list.length;i2++)if(pick[i2])out.push(lines[i2]);
+ return {text:out.join("\n"),count:n,truncated:true};}
 function aiRender(text,list){
  // [#12] → קישור להודעה
  var html=esc(text).replace(/\[#(\d+)\]/g,function(_,n){var m=list[+n];if(!m)return "";return '<a class="ref" href="#" data-i="'+n+'" title="'+esc(m.sender+" · "+m.date+" "+m.time)+'">↗ '+esc(m.sender)+" "+esc(m.date.slice(5))+"</a>";});
@@ -364,11 +373,24 @@ function askGemini(key,model,ctxText,q){
   var text=((c.content||{}).parts||[]).map(function(p){return p.text||"";}).join("").trim();
   var u=res.j.usageMetadata||{};
   return {text:text,usageLine:(u.promptTokenCount||0).toLocaleString()+" טוקנים"+(u.cachedContentTokenCount?" (מהם "+u.cachedContentTokenCount.toLocaleString()+" מהמטמון)":"")+" · "+model};});}
+// Groq (OpenAI-compatible): Bearer; CORS פתוח מדפדפן. ל-gpt-oss מבקשים reasoning נמוך — מהיר וזול בטוקנים.
+function askGroq(key,model,ctxText,q){
+ var body={model:model,temperature:0.2,max_tokens:4096,
+  messages:[{role:"system",content:AI_INSTR},{role:"user",content:"ההודעות (ישן→חדש; תאריך שעה | שולח: טקסט):\n"+ctxText+"\n\nהשאלה: "+q}]};
+ if(/gpt-oss/.test(model))body.reasoning_effort="low";
+ return fetch("https://api.groq.com/openai/v1/chat/completions",{method:"POST",headers:{"content-type":"application/json","Authorization":"Bearer "+key},body:JSON.stringify(body)})
+ .then(function(r){return r.json().then(function(j){return {ok:r.ok,status:r.status,j:j};});})
+ .then(function(res){
+  if(!res.ok){var e=new Error((res.j&&res.j.error&&res.j.error.message)||("HTTP "+res.status));e.status=res.status;throw e;}
+  var c=(res.j.choices||[])[0];var text=(c&&c.message&&c.message.content||"").trim();
+  if(!text)throw new Error("אין תשובה");
+  var u=res.j.usage||{};
+  return {text:text,usageLine:(u.prompt_tokens||0).toLocaleString()+" טוקנים · "+model+(u.total_time?" · "+u.total_time.toFixed(1)+" שנ'":"")};});}
 function aiAskNow(){
  var q=aiQ.value.trim();if(!q)return;var key=aiKey();if(!key){aiShowKeyForm();return;}
- var list=scopeList();aiLastList=list;var ctx=aiContext(list);var prov=aiProv(),model=aiModel();
- aiGo.disabled=true;aiHint.textContent="חושב… ("+ctx.count+" הודעות"+(ctx.truncated?", החדשות ביותר":"")+" · "+model+")";aiAns.hidden=true;aiHits.hidden=true;
- (prov==="anthropic"?askAnthropic:askGemini)(key,model,ctx.text,q)
+ var list=scopeList();aiLastList=list;var ctx=aiContext(list,q);var prov=aiProv(),model=aiModel();
+ aiGo.disabled=true;aiHint.textContent="חושב… ("+ctx.count+" הודעות"+(ctx.truncated?" הרלוונטיות/החדשות":"")+" · "+model+")";aiAns.hidden=true;aiHits.hidden=true;
+ (prov==="anthropic"?askAnthropic:prov==="groq"?askGroq:askGemini)(key,model,ctx.text,q)
  .then(function(r){aiRender(r.text,list);aiHint.textContent=r.usageLine;})
  .catch(function(e){
   if(e.status===401||e.status===403||/API key|api_key|invalid/i.test(e.message)){aiHint.textContent="המפתח לא התקבל: "+e.message;aiShowKeyForm();}

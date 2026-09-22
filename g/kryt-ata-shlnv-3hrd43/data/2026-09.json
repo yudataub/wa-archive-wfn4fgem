@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T08:47:28.809Z",
+ "updated": "2026-09-22T09:16:10.107Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1687,6 +1687,57 @@
    "files": [],
    "drive": null,
    "phone": "972536891688"
+  },
+  {
+   "id": "A5E8F80C38A1B3461FA3B0D7BAB3A96B",
+   "sender": "פרוטלה Fruitella",
+   "text": "",
+   "ts": 1790068196000,
+   "date": "2026-09-22",
+   "time": "12:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "371KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YVZT8uXBVHnwINtbF1YEXo0FlTV12H-y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YVZT8uXBVHnwINtbF1YEXo0FlTV12H-y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555588218"
+  },
+  {
+   "id": "A57D7090A6324997BFD436F5CFC061FA",
+   "sender": "פרוטלה Fruitella",
+   "text": "הזמנות לחג הסוכות מתקבלות 💫\n\nמגשי פירות בגדלים שונים,\nכלי עץ מהממים ,\nברי פירות בכל גודל שרק תרצו..\nעם הפירות והשירות הכי טוב\n🍓🍉🥭🍍🍒\nלהזמנות \nפרוטלה\nhttps://wa.me/972555588218",
+   "ts": 1790068197000,
+   "date": "2026-09-22",
+   "time": "12:09",
+   "files": [],
+   "drive": null,
+   "phone": "972555588218"
+  },
+  {
+   "id": "3A4E7DC0E4125E920C8F",
+   "sender": "אלחנן כהן",
+   "text": "",
+   "ts": 1790068545000,
+   "date": "2026-09-22",
+   "time": "12:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YvLtXKcOi116GRM105GhCkqMWR4gFYh6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YvLtXKcOi116GRM105GhCkqMWR4gFYh6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552804085"
   }
  ]
 }

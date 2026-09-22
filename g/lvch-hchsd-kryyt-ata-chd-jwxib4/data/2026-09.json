@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T09:06:29.190Z",
+ "updated": "2026-09-22T09:14:51.176Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -944,6 +944,46 @@
    ],
    "drive": null,
    "phone": "972545583552"
+  },
+  {
+   "id": "AC99D7BBB943A3D5731884B7CD2BFFD1",
+   "sender": "Moshe",
+   "text": "יא תשרי\nלמכירה מקפיא 6 מגירות (פחות משנתיים) חברת Neon.\n פל:0586461919",
+   "ts": 1790068358000,
+   "date": "2026-09-22",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16q0B0pazIXB67FFoYOIAFMmR3s3RCgX4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16q0B0pazIXB67FFoYOIAFMmR3s3RCgX4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586461919"
+  },
+  {
+   "id": "3EB0AB6B4B2D38FE8E5BF4",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "*היום מכירת בגדים לגברים וילדים בקרית שמואל*",
+   "ts": 1790068459000,
+   "date": "2026-09-22",
+   "time": "12:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z64H7jdnoFpFWBj5QLSjaKwSFEFYlBDK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z64H7jdnoFpFWBj5QLSjaKwSFEFYlBDK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
   }
  ]
 }
