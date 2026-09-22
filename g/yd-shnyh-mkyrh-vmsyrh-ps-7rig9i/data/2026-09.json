@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-22T13:16:58.480Z",
+ "updated": "2026-09-22T15:46:49.771Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -227,6 +227,46 @@
    "files": [],
    "drive": null,
    "phone": "972527035410"
+  },
+  {
+   "id": "4AD20CB17D2D7215E025",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790091987000,
+   "date": "2026-09-22",
+   "time": "18:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a3al0d1Se9Eyt1bT4AaigPV3Tsn9SM0N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a3al0d1Se9Eyt1bT4AaigPV3Tsn9SM0N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4A500A98E36054A0D3F2",
+   "sender": "Ofir Hadad",
+   "text": "למכירה בהזדמנות, תיק רפליקה של  Michael Kors במצב מצויין, התיק עלה כ-500 ₪ ונמכר ב-200 ₪ בלבד, כל הקודם זוכה!!",
+   "ts": 1790091989000,
+   "date": "2026-09-22",
+   "time": "18:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B4Kqn_uerU2AxnXBaVIXtO1fEFWJXqcw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B4Kqn_uerU2AxnXBaVIXtO1fEFWJXqcw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
   }
  ]
 }
