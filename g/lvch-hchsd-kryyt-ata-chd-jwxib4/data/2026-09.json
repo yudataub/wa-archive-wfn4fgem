@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T05:34:58.844Z",
+ "updated": "2026-09-22T06:05:31.637Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -624,6 +624,43 @@
      "path": "https://drive.google.com/file/d/1-HPqcD_ytESlSzJIdlDQvOePcw82acAX/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1-HPqcD_ytESlSzJIdlDQvOePcw82acAX&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACE110096A15D25D9B282DFFED862074",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057103000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC57744FCAA8863DF0F08AA33A88E358",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057104000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EHRbz2T1lwgLaOX53X1RBPgzCGGCeEyY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EHRbz2T1lwgLaOX53X1RBPgzCGGCeEyY&sz=w1200"
     }
    ],
    "drive": null

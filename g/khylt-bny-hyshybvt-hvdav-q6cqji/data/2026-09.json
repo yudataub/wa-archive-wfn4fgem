@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-22T05:06:32.991Z",
+ "updated": "2026-09-22T06:06:01.643Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -1180,6 +1180,63 @@
      "path": "https://drive.google.com/file/d/1-ld_WUHUus2FCqX4onfayqySdLGXjixA/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1-ld_WUHUus2FCqX4onfayqySdLGXjixA&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACB70FF99FCE5A4C53E38C06A4DB5120",
+   "sender": "צבי גרינשפן",
+   "text": "גם אני מצטרף",
+   "ts": 1790056861000,
+   "date": "2026-09-22",
+   "time": "09:01",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACF0E4A5AA8FBD1AC7F8E9D0AE2193AA",
+   "sender": "יעקב וקשטוק",
+   "text": "מישהו נוסע מירושלים לקרית אתא היום או מחר? צריך להעביר משהו קטן",
+   "ts": 1790056973000,
+   "date": "2026-09-22",
+   "time": "09:02",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC3A687B44B60F88E2AEF6AA99D4E569",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057141000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC6E7B3E59D6CA19AE6CA544E2C02AC4",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057143000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bbEh_eJ8PfeNmwBQf85tf7UrqQt-6ArZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bbEh_eJ8PfeNmwBQf85tf7UrqQt-6ArZ&sz=w1200"
     }
    ],
    "drive": null

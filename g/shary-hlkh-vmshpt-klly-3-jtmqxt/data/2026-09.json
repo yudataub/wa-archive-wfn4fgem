@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-22T05:57:01.501Z",
+ "updated": "2026-09-22T06:07:01.661Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -519,6 +519,34 @@
    "ts": 1790056605000,
    "date": "2026-09-22",
    "time": "08:56",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC1C2165C2F9371B70DFD7D7D419FC05",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1790057113000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "11KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1EMypEHi94r52kKcWLQVs5NmxKAMsH0Ik/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACDAF09697D21C369D2282EC8B0B14ED",
+   "sender": "Haim",
+   "text": "בוקר טוב בקשר למניין פועלים אני פותרתי מהעבודה והייתי מתפלל בשעה 5:30 עם מניין עשירי הייתי האם להמשיך להתפלל איתם בבקשה נוכל לקבל תשובה",
+   "ts": 1790057209000,
+   "date": "2026-09-22",
+   "time": "09:06",
    "files": [],
    "drive": null
   }

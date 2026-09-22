@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T05:57:01.511Z",
+ "updated": "2026-09-22T06:07:31.662Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1125,6 +1125,120 @@
    "date": "2026-09-22",
    "time": "08:56",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACA892FEBF9688FC79254C8482B41BD3",
+   "sender": "שרגא שינובר",
+   "text": "בוקר טוב לכולם!\nאם יש למישהו 2 קרשים עבור החזקת הסכך , אודה מאוד 🙏\nשרגא שינובר \n0544207687",
+   "ts": 1790056941000,
+   "date": "2026-09-22",
+   "time": "09:02",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACD3466F2B3B4D8F6F5FE14C42E682A5",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790056989000,
+   "date": "2026-09-22",
+   "time": "09:03",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACC225B55380B5F5B75B1233B7B076FD",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790056991000,
+   "date": "2026-09-22",
+   "time": "09:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tyHKEbPPA9n8q4kXbpIffyfyGXL8sotE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tyHKEbPPA9n8q4kXbpIffyfyGXL8sotE&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC3512092055DBA7C02982AA3AD54E99",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057055000,
+   "date": "2026-09-22",
+   "time": "09:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oLusry_79Ak3AzIRni4LGal2Z-YKmen9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oLusry_79Ak3AzIRni4LGal2Z-YKmen9&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC6C19CBF100427D6C25D7BB90B6C600",
+   "sender": "אלי כהן",
+   "text": "אצלנו יש הכול לסוכה \nממול הדואר",
+   "ts": 1790057130000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC9CCD1557BD6B431D1C34486CF80532",
+   "sender": "דוד ג",
+   "text": "",
+   "ts": 1790057248000,
+   "date": "2026-09-22",
+   "time": "09:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bJDR0-lNpGrrTGtHcV1hFeqeNqWVzFyj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bJDR0-lNpGrrTGtHcV1hFeqeNqWVzFyj&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC4A753589DDB03192677C16B551F44B",
+   "sender": "דוד ג",
+   "text": "לסחורה הכי טובה לשלוח הודעה בפרטי",
+   "ts": 1790057249000,
+   "date": "2026-09-22",
+   "time": "09:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MTPTVqw1DCOZtwYDVjQmJ2M6FsLj76ev/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MTPTVqw1DCOZtwYDVjQmJ2M6FsLj76ev&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

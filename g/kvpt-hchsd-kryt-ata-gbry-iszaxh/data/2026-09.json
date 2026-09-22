@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-22T05:24:06.794Z",
+ "updated": "2026-09-22T06:05:31.678Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -230,6 +230,43 @@
    "date": "2026-09-22",
    "time": "08:23",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC7E29FC1EDBC8371B79D7E566852B8B",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057128000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACCB9F18197EA4926FAB7B6F92F0A0B0",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790057128000,
+   "date": "2026-09-22",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wt8CnmyX4vFjBXfEGiRjwiJwvla8jgBr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wt8CnmyX4vFjBXfEGiRjwiJwvla8jgBr&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
