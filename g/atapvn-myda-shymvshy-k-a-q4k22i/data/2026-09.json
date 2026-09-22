@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-22T09:35:43.612Z",
+ "updated": "2026-09-22T10:05:44.745Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -256,6 +256,26 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "A570645CDC2EDB7F989D465122CDE09D",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "גיאת ארבעת המינים - 0527638553\n\nאתרוגים תימנים - גם גדולים\n\nאתרוגים מרוקאים יפים - כמות נדירה ומצומצמת \n\nלולבים תיומת סגורה\n\nלולבים סגורים עם קורה\n\nהדסים ארוזים ממיטב הכשרויות\n\nהדסים פתוחים לבחירה\n\nהדסי רש”י המובחרים - כמות מצומצמת - נחטפים!!\n\nסטים מהודרים / כשרים\n\nסטים לילדים",
+   "ts": 1790071536000,
+   "date": "2026-09-22",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nUKUer2H4qgtfJqPnAq477NXutnPFltF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nUKUer2H4qgtfJqPnAq477NXutnPFltF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }

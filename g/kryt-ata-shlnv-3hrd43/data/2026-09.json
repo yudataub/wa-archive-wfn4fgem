@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T09:39:13.693Z",
+ "updated": "2026-09-22T10:06:14.706Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1778,6 +1778,46 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "A5BDF7C57D6767FE76F16279E9751688",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "גיאת ארבעת המינים - 0527638553\n\nאתרוגים תימנים - גם גדולים\n\nאתרוגים מרוקאים יפים - כמות נדירה ומצומצמת \n\nלולבים תיומת סגורה\n\nלולבים סגורים עם קורה\n\nהדסים ארוזים ממיטב הכשרויות\n\nהדסים פתוחים לבחירה\n\nהדסי רש”י המובחרים - כמות מצומצמת - נחטפים!!\n\nסטים מהודרים / כשרים\n\nסטים לילדים",
+   "ts": 1790071549000,
+   "date": "2026-09-22",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QXnbPBq5s2GLjfydohcRv0vt2dmEy2x2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QXnbPBq5s2GLjfydohcRv0vt2dmEy2x2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
+  },
+  {
+   "id": "2A495FC2724A4F79DC33",
+   "sender": "סטאר קור",
+   "text": "",
+   "ts": 1790071557000,
+   "date": "2026-09-22",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T8lNxW8BMgWUL2G4-3saLezPsEofx1y1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T8lNxW8BMgWUL2G4-3saLezPsEofx1y1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555574495"
   }
  ]
 }

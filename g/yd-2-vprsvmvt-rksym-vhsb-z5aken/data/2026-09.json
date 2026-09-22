@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T09:52:50.463Z",
+ "updated": "2026-09-22T10:05:44.763Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1073,6 +1073,26 @@
    ],
    "drive": null,
    "phone": "972553047785"
+  },
+  {
+   "id": "A56E55DA56CCEDAB3B96A6C251529415",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "גיאת ארבעת המינים - 0527638553\n\nאתרוגים תימנים - גם גדולים\n\nאתרוגים מרוקאים יפים - כמות נדירה ומצומצמת \n\nלולבים תיומת סגורה\n\nלולבים סגורים עם קורה\n\nהדסים ארוזים ממיטב הכשרויות\n\nהדסים פתוחים לבחירה\n\nהדסי רש”י המובחרים - כמות מצומצמת - נחטפים!!\n\nסטים מהודרים / כשרים\n\nסטים לילדים",
+   "ts": 1790071536000,
+   "date": "2026-09-22",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QAh4RrtD_gifcrpQDZhNsfDG76uypqq9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QAh4RrtD_gifcrpQDZhNsfDG76uypqq9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }

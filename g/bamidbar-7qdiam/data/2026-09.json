@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "במדבר ושמואל א",
- "updated": "2026-09-22T07:39:16.713Z",
+ "updated": "2026-09-22T10:05:44.694Z",
  "messages": [
   {
    "id": "failed-1788239665664",
@@ -2172,6 +2172,47 @@
    "files": [],
    "drive": null,
    "phone": "972545968565"
+  },
+  {
+   "id": "AC705219373F46BAD7017E68E362A1B1",
+   "sender": "פנינה כ\"ץ",
+   "text": "",
+   "ts": 1790071436000,
+   "date": "2026-09-22",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "במדבר פרק ב.pdf",
+     "size": "24KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1zXZTqx7Z-3tlTmTzXshApIfDQeERZWxY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "AC8A9BFE5FD6498F463544A1A2360354",
+   "sender": "פנינה כ\"ץ",
+   "text": "הכנתי לכיתתי מוזמנת להשתמש, אשמח להארות",
+   "ts": 1790071447000,
+   "date": "2026-09-22",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "AC4F2E113E94BF605ADC2A7F82A7AB8B",
+   "sender": "פנינה כ\"ץ",
+   "text": "לא נתתי לעיין בכל  הפסוקים כדי להקל על התלמידים",
+   "ts": 1790071525000,
+   "date": "2026-09-22",
+   "time": "13:05",
+   "files": [],
+   "drive": null,
+   "phone": "972509452770"
   }
  ]
 }

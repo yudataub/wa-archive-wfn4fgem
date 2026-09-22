@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הלכה כתה ד'",
- "updated": "2026-09-22T04:39:49.723Z",
+ "updated": "2026-09-22T10:03:44.623Z",
  "messages": [
   {
    "id": "failed-1788700920952",
@@ -350,6 +350,69 @@
    "time": "10:02",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC60085C04D04B71D7DCA04FA17E99A3",
+   "sender": "אורטל",
+   "text": "יש למישהו פריסה שנתית לכיתה ד'?\nתודה.",
+   "ts": 1790071135000,
+   "date": "2026-09-22",
+   "time": "12:58",
+   "files": [],
+   "drive": null,
+   "phone": "972532440177"
+  },
+  {
+   "id": "ACFDB22E71520591C02D203B18875C74",
+   "sender": "אלקנה שטראוס",
+   "text": "בתיאור הקבוצה",
+   "ts": 1790071243000,
+   "date": "2026-09-22",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC6D95B922C80EF8FF4E59773D89512A",
+   "sender": "משה ברכה",
+   "text": "",
+   "ts": 1790071262000,
+   "date": "2026-09-22",
+   "time": "13:01",
+   "files": [
+    {
+     "name": "halaha4.pdf",
+     "size": "498KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1VS-tI59gV2CqQRG5d6U89fN606pR-TgY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523791306"
+  },
+  {
+   "id": "AC227C7846F27E3C79AB68A625C06C6E",
+   "sender": "יצחק ינון סלאב",
+   "text": "באתר",
+   "ts": 1790071283000,
+   "date": "2026-09-22",
+   "time": "13:01",
+   "files": [],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "AC36030B6B2D9F16F862ED88CE29BA03",
+   "sender": "אלקנה שטראוס",
+   "text": "כל הדרכים מובילות לתשובה😅",
+   "ts": 1790071413000,
+   "date": "2026-09-22",
+   "time": "13:03",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T09:52:20.456Z",
+ "updated": "2026-09-22T10:05:44.709Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1044,6 +1044,26 @@
    ],
    "drive": null,
    "phone": "972509446934"
+  },
+  {
+   "id": "A553A22BE47126D89E4B7561E1CC5981",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "גיאת ארבעת המינים - 0527638553\n\nאתרוגים תימנים - גם גדולים\n\nאתרוגים מרוקאים יפים - כמות נדירה ומצומצמת \n\nלולבים תיומת סגורה\n\nלולבים סגורים עם קורה\n\nהדסים ארוזים ממיטב הכשרויות\n\nהדסים פתוחים לבחירה\n\nהדסי רש”י המובחרים - כמות מצומצמת - נחטפים!!\n\nסטים מהודרים / כשרים\n\nסטים לילדים",
+   "ts": 1790071531000,
+   "date": "2026-09-22",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QQ04G0Jt11n0BIKr2wGa0MN0tpnkyGBb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QQ04G0Jt11n0BIKr2wGa0MN0tpnkyGBb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }
