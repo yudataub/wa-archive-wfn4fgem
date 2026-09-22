@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-22T13:41:58.845Z",
+ "updated": "2026-09-22T14:20:14.061Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -303,6 +303,26 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "9.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5D4AB3DE87A4CBE456DE80B1336A416",
+   "sender": "י",
+   "text": "*הממשלה מאריכה את מצב החירום בעורף עד ה-6.10*\nעמיאל ירחי: מתוך ההחלטה להאריך את המצב המיוחד בעורף: ״ביחס לזירות באיראן ובלבנון - להערכת גורמי הביטחון קיימת עדיין סבירות גבוהה שתתרחש התקפה על האוכלוסייה האזרחית״.\n\nלכל העדכונים👇",
+   "ts": 1790086795000,
+   "date": "2026-09-22",
+   "time": "17:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "40KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16UgfDQ6G1vfFy2KQZuwQnm00iknmo976/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16UgfDQ6G1vfFy2KQZuwQnm00iknmo976&sz=w1200"
     }
    ],
    "drive": null,
