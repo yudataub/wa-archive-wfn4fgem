@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-09-22T17:03:26.553Z",
+ "updated": "2026-09-22T17:25:56.898Z",
  "messages": [
   {
    "id": "A5B66BB8EA4ED0D7F787CF823F6BF9F6",
@@ -495,6 +495,37 @@
    "files": [],
    "drive": null,
    "phone": "972535456613"
+  },
+  {
+   "id": "AC3CD86C6A0D015DA18C0741F24BF3DC",
+   "sender": "Efrat Ilan",
+   "text": "מישהי יודעת להגיד לי אם כרטיסי המתנה של אשמורת כוללים מבצעים?",
+   "ts": 1790097556000,
+   "date": "2026-09-22",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972553166998"
+  },
+  {
+   "id": "ACBF3DF5370446F557A73007D4A8F1E4",
+   "sender": "בתיה שאער",
+   "text": "פיי ם 9",
+   "ts": 1790097925000,
+   "date": "2026-09-22",
+   "time": "20:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "477KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KhDxhSpbgHD1_kKfSb05qckfEZOnTDGY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KhDxhSpbgHD1_kKfSb05qckfEZOnTDGY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529577038"
   }
  ]
 }

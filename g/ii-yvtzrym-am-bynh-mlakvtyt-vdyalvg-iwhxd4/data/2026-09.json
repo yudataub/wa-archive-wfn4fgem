@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "II יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-22T17:01:40.351Z",
+ "updated": "2026-09-22T17:23:40.835Z",
  "messages": [
   {
    "id": "3EB0FBDDE152E8DFD565E5",
@@ -193,6 +193,26 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "A52F266F2083F8F99CA00182CF23C54D",
+   "sender": "חיים ממן",
+   "text": "מה את אומרת... ניקח את הזמן או שנקצר? 🤓 ⚡",
+   "ts": 1790097806000,
+   "date": "2026-09-22",
+   "time": "20:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "579KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vCOiJJkBYvwYmocHqJB2svaAoVheD6UQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vCOiJJkBYvwYmocHqJB2svaAoVheD6UQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
   }
  ]
 }
