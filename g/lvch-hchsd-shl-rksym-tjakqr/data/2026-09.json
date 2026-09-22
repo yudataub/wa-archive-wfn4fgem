@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T08:07:18.623Z",
+ "updated": "2026-09-22T08:13:36.102Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -899,6 +899,26 @@
    ],
    "drive": null,
    "phone": "972548485990"
+  },
+  {
+   "id": "4A9890B211D0DF8CA18E",
+   "sender": "Mordechai Danino",
+   "text": "",
+   "ts": 1790064797000,
+   "date": "2026-09-22",
+   "time": "11:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "260KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MCu12KHeonEejbx3MQw8c2XBs_Rw8Q8k/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MCu12KHeonEejbx3MQw8c2XBs_Rw8Q8k&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504168987"
   }
  ]
 }

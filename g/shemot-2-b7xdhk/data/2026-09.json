@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שמות 2 ויהושע",
- "updated": "2026-09-22T04:11:29.224Z",
+ "updated": "2026-09-22T08:15:14.394Z",
  "messages": [
   {
    "id": "gm-1a059eb7e5dac7bf",
@@ -909,6 +909,47 @@
    "time": "06:19",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC243E064F2FC7F9E9BCE7F302DA74EA",
+   "sender": "לינור",
+   "text": "אשמח בבקשה לקובץ הזה🙏🏼",
+   "ts": 1790064835000,
+   "date": "2026-09-22",
+   "time": "11:13",
+   "files": [],
+   "drive": null,
+   "phone": "972528368958"
+  },
+  {
+   "id": "AC416EB7FF7D7BFADBE3F753A8BF2447",
+   "sender": "לינור",
+   "text": "ואם יש מצגת הסבר להתמצאות בחומש 🙏🏼",
+   "ts": 1790064849000,
+   "date": "2026-09-22",
+   "time": "11:14",
+   "files": [],
+   "drive": null,
+   "phone": "972528368958"
+  },
+  {
+   "id": "AC8374CE0B012A4F59D044E8868180F2",
+   "sender": "תמי מקסימוב",
+   "text": "",
+   "ts": 1790064899000,
+   "date": "2026-09-22",
+   "time": "11:14",
+   "files": [
+    {
+     "name": "התמצאות בחומש שמות ג- דף עבודה.pdf",
+     "size": "111KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/18yqz-CJylBiH_qEM2g7lBe4rtKzUHcq6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526538693"
   }
  ]
 }

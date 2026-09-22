@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v8 -->
+<!-- wa-archive-generated v9 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -68,7 +68,8 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 #more[hidden]{display:none;}
 /* ---- חלונית "קפיצה לתאריך": בטלפון מגירה מעל התוכן; במסך רחב עמודה קבועה מימין, ניתנת לקיפול ---- */
 .hdr-row{display:flex;align-items:center;justify-content:space-between;gap:10px;}
-#navbtn{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;font-size:18px;line-height:1;padding:7px 10px;cursor:pointer;}
+#navbtn,.hbtn{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;font-size:18px;line-height:1;padding:7px 10px;cursor:pointer;text-decoration:none;display:inline-block;}
+.hdr-btns{display:flex;gap:6px;flex:none}
 #navwrap{position:fixed;inset:0;z-index:20;display:none;}
 #navwrap.open{display:block;}
 #navback{position:absolute;inset:0;background:rgba(0,0,0,.45);}
@@ -96,7 +97,8 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <body>
 <header>
 <div class="hdr-row"><h1>לוח החסד קריית אתא (חדש)</h1>
-<button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div>
+<div class="hdr-btns"><a id="contactsbtn" class="hbtn" href="contacts.html" title="אלפון הקבוצה — כל מי שכתב וכל איש קשר ששותף">&#128211;</a>
+<button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div></div>
 <div class="sub" id="sub">טוען…</div>
 <input id="search" type="search" placeholder="חיפוש בהודעות…">
 <select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
