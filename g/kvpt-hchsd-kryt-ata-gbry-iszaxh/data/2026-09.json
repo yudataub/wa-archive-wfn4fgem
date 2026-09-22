@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-22T05:09:06.569Z",
+ "updated": "2026-09-22T05:24:06.794Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -220,6 +220,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=1budNnl_uPcESUZR9cQf4MmfweaZVgt-P&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "ACC718E5F07EC9412C42D5A997420240",
+   "sender": "אליהו חזן",
+   "text": "אשמח",
+   "ts": 1790054621000,
+   "date": "2026-09-22",
+   "time": "08:23",
+   "files": [],
    "drive": null
   }
  ]

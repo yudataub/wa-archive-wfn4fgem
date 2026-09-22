@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T05:16:06.665Z",
+ "updated": "2026-09-22T05:20:06.745Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1007,6 +1007,35 @@
      "path": "https://drive.google.com/file/d/1RR6bhRMWenBOl9WnS8gyYusqkHMzN17o/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1RR6bhRMWenBOl9WnS8gyYusqkHMzN17o&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACBB121D6B56E1099CC9C2777ADDCFC6",
+   "sender": "אלי כהן",
+   "text": "יש ארבעת המינים במקום \nכל הרמות כל הסידורים\nפתוחים עד 12:00 בלילה",
+   "ts": 1790054402000,
+   "date": "2026-09-22",
+   "time": "08:20",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACB221F747F5753D7DDDDB359420EFB2",
+   "sender": "אלי כהן",
+   "text": "",
+   "ts": 1790054403000,
+   "date": "2026-09-22",
+   "time": "08:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "308KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1keFKe_0BC8sd0_0SPaIqYGzqaBFcNt79/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1keFKe_0BC8sd0_0SPaIqYGzqaBFcNt79&sz=w1200"
     }
    ],
    "drive": null
