@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v9 -->
+<!-- wa-archive-generated v11 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -92,12 +92,27 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
  body.nav-collapsed #navwrap{display:none;}body.nav-collapsed{padding-right:0;}
 }
 #status{text-align:center;color:var(--muted);padding:20px;font-size:14px;}
+#ai{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px;margin:0 0 14px;}
+.ai-head{display:flex;align-items:center;gap:10px;margin-bottom:8px;color:var(--accent);}
+.ai-head .act{margin-inline-start:auto}
+.ai-scope{color:var(--muted);font-size:12px;font-weight:400}
+.ai-row{display:flex;gap:8px;align-items:center;margin:6px 0;flex-wrap:wrap}
+#aiq,#aikeyinput{flex:1;min-width:200px;padding:9px 10px;border:1px solid var(--line);border-radius:10px;font-size:15px;font-family:inherit;background:var(--bubble);color:var(--ink);resize:vertical}
+.act.primary{background:var(--accent);color:#fff;border-color:var(--accent);font-size:14px;padding:8px 16px}
+.ai-hint{color:var(--muted);font-size:12px;flex:1}
+.ai-answer{white-space:pre-wrap;line-height:1.6;font-size:15px;background:var(--bubble);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-top:8px}
+.ai-answer a.ref{color:var(--accent);font-weight:600;text-decoration:none;border-bottom:1px dotted currentColor}
+.ai-hits{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
+.ai-hits a{background:var(--chip,var(--bg));border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:12px;color:var(--ink);text-decoration:none}
+.msg.flash{outline:3px solid var(--accent);outline-offset:2px;transition:outline-color 1.5s}
+#aikey p{margin:4px 0 8px;font-size:14px;color:var(--muted)}
 </style>
 </head>
 <body>
 <header>
 <div class="hdr-row"><h1>חולמים תקשוב AI</h1>
-<div class="hdr-btns"><a id="contactsbtn" class="hbtn" href="contacts.html" title="אלפון הקבוצה — כל מי שכתב וכל איש קשר ששותף">&#128211;</a>
+<div class="hdr-btns"><button id="aibtn" class="hbtn" title="שאל את הארכיון (בינה מלאכותית)">&#10024;</button>
+<a id="contactsbtn" class="hbtn" href="contacts.html" title="אלפון הקבוצה — כל מי שכתב וכל איש קשר ששותף">&#128211;</a>
 <button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div></div>
 <div class="sub" id="sub">טוען…</div>
 <input id="search" type="search" placeholder="חיפוש בהודעות…">
@@ -105,7 +120,27 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 </header>
 <div id="navwrap"><div id="navback"></div>
 <div id="nav"><div class="nav-head"><h2>קפיצה לתאריך</h2><button id="navclose" title="סגירה" aria-label="סגירה">✕</button></div><div id="navlist"></div></div></div>
-<main><div id="feed"></div>
+<main>
+<section id="ai" hidden>
+ <div class="ai-head"><b>✨ שאל את הארכיון</b><span class="ai-scope" id="aiscope"></span><button class="act" id="aiclose">✕</button></div>
+ <div id="aikey" hidden>
+  <p>כדי לשאול שאלות צריך מפתח API. הוא נשמר <b>רק בדפדפן הזה</b> (לא באתר ולא בשרת).
+   Gemini: מפתח חינמי מ-<a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com</a>.
+   Claude: <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a> (בתשלום לפי שימוש).</p>
+  <div class="ai-row">
+   <select id="aiprov"><option value="gemini">Gemini (Google) — חינמי</option><option value="anthropic">Claude (Anthropic)</option></select>
+   <input id="aimodel" placeholder="מודל (ריק = ברירת מחדל)" autocomplete="off" style="max-width:220px">
+  </div>
+  <div class="ai-row"><input id="aikeyinput" type="password" placeholder="המפתח…" autocomplete="off"><button class="act" id="aikeysave">שמירה</button></div>
+ </div>
+ <div id="aiask">
+  <div class="ai-row"><textarea id="aiq" rows="2" placeholder="למשל: מתי המורה כתבה על המבחן? / סכם מה קרה השבוע / מי שלח את דף העבודה על פרשת לך לך?"></textarea></div>
+  <div class="ai-row ai-tools"><button class="act primary" id="aigo">שאל</button><span class="ai-hint" id="aihint"></span><button class="act" id="aikeychange" title="החלפת מפתח">🔑</button></div>
+  <div id="aians" class="ai-answer" hidden></div>
+  <div id="aihits" class="ai-hits" hidden></div>
+ </div>
+</section>
+<div id="feed"></div>
 <button id="more" hidden>טען חודש קודם</button>
 <div id="status">טוען…</div></main>
 <script>
@@ -228,6 +263,102 @@ feed.addEventListener("click",function(e){
  copyRich(messageHtml(m),messageText(m)).then(function(){
   b.classList.add("ok");b.textContent="הועתק ✓";setTimeout(function(){b.classList.remove("ok");b.textContent="⧉ העתקה";},1500);
  },function(){window.prompt("העתק:",messageText(m));});});
+// ---- שאל את הארכיון (בינה מלאכותית) ----
+// המפתח נשמר רק ב-localStorage של הדפדפן הזה; הבקשות הולכות ישירות ל-API של Claude (CORS מותר עם
+// הכותרת anthropic-dangerous-direct-browser-access). ההודעות שבזיכרון (החודשים הטעונים, אחרי הסינון)
+// נשלחות כהקשר עם prompt caching — שאלות חוזרות על אותו הקשר תוך 5 דקות זולות פי 10.
+// ספקים: gemini (חינמי, aistudio) או anthropic. המודל ניתן לשינוי בטופס המפתח.
+var AI_DEFAULT_MODEL={anthropic:"claude-opus-5",gemini:"gemini-flash-latest"},AI_MAX_CHARS=160000;   // gemini-flash-latest = תמיד הגרסה הנוכחית (2.5 הוצא לשימוש חדש ב-2026)
+function aiProv(){try{return localStorage.getItem("aiProvider")||"gemini";}catch(e){return "gemini";}}
+function aiModel(){try{return localStorage.getItem("aiModel:"+aiProv())||AI_DEFAULT_MODEL[aiProv()];}catch(e){return AI_DEFAULT_MODEL[aiProv()];}}
+var aiBox=document.getElementById("ai"),aiKeyBox=document.getElementById("aikey"),aiAsk=document.getElementById("aiask");
+var aiQ=document.getElementById("aiq"),aiGo=document.getElementById("aigo"),aiHint=document.getElementById("aihint");
+var aiAns=document.getElementById("aians"),aiHits=document.getElementById("aihits"),aiScope=document.getElementById("aiscope");
+function aiKey(){try{return localStorage.getItem("aiKey:"+aiProv())||localStorage.getItem(aiProv()==="anthropic"?"anthropicKey":"geminiKey")||"";}catch(e){return "";}}
+function aiShowKeyForm(){aiKeyBox.hidden=false;aiAsk.hidden=true;
+ document.getElementById("aiprov").value=aiProv();document.getElementById("aimodel").value=aiModel();document.getElementById("aikeyinput").focus();}
+document.getElementById("aiprov").addEventListener("change",function(e){try{localStorage.setItem("aiProvider",e.target.value);}catch(x){}document.getElementById("aimodel").value=aiModel();});
+function aiOpen(){aiBox.hidden=false;if(!aiKey())aiShowKeyForm();else{aiKeyBox.hidden=true;aiAsk.hidden=false;aiQ.focus();}
+ aiScope.textContent="ההקשר: "+scopeList().length+" הודעות ("+loaded.slice().sort().join(", ")+(who?" · "+who:"")+")";
+ window.scrollTo(0,0);}
+document.getElementById("aibtn").addEventListener("click",function(){aiBox.hidden?aiOpen():(aiBox.hidden=true);});
+document.getElementById("aiclose").addEventListener("click",function(){aiBox.hidden=true;});
+document.getElementById("aikeysave").addEventListener("click",function(){
+ var prov=document.getElementById("aiprov").value,v=document.getElementById("aikeyinput").value.trim(),mdl=document.getElementById("aimodel").value.trim();
+ if(!v){alert("הדבק מפתח.");return;}
+ if(prov==="anthropic"&&!/^sk-ant-/.test(v)){alert("מפתח של Anthropic מתחיל ב-sk-ant-. אם המפתח מגוגל — בחר Gemini.");return;}
+ try{localStorage.setItem("aiProvider",prov);localStorage.setItem("aiKey:"+prov,v);if(mdl)localStorage.setItem("aiModel:"+prov,mdl);else localStorage.removeItem("aiModel:"+prov);}catch(e){}
+ document.getElementById("aikeyinput").value="";aiOpen();});
+document.getElementById("aikeychange").addEventListener("click",function(){aiShowKeyForm();});
+// ההודעות שבתחום: החודשים הטעונים, אחרי סינון "מי" (לא אחרי חיפוש הטקסט — זה מה שהמודל אמור לעשות)
+function scopeList(){var l=all.slice();if(who)l=l.filter(function(m){return whoOf(m)===who;});l.sort(function(a,b){return a.ts-b.ts;});return l;}
+function aiContext(list){
+ // מהחדש לישן עד התקרה, ואז חזרה לסדר כרונולוגי; כל שורה מסומנת [#n] כדי שהמודל יוכל להפנות
+ var lines=[],total=0;
+ for(var i=list.length-1;i>=0;i--){var m=list[i];
+  var files=(m.files||[]).map(function(f){return f.name+(f.type&&/^image/.test(f.type)?" (תמונה)":"");}).join(", ");
+  var line="[#"+i+"] "+m.date+" "+m.time+" | "+m.sender+(m.thread&&m.thread!==m.sender?" ↔ "+m.thread:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");
+  if(total+line.length>AI_MAX_CHARS)break;total+=line.length+1;lines.push(line);}
+ return {text:lines.reverse().join("\n"),count:lines.length,truncated:lines.length<list.length};}
+function aiRender(text,list){
+ // [#12] → קישור להודעה
+ var html=esc(text).replace(/\[#(\d+)\]/g,function(_,n){var m=list[+n];if(!m)return "";return '<a class="ref" href="#" data-i="'+n+'" title="'+esc(m.sender+" · "+m.date+" "+m.time)+'">↗ '+esc(m.sender)+" "+esc(m.date.slice(5))+"</a>";});
+ html=waFormat(html.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>'));
+ aiAns.innerHTML=html;aiAns.hidden=false;
+ var seen={},chips="";(text.match(/\[#(\d+)\]/g)||[]).forEach(function(t){var n=+t.slice(2,-1);if(seen[n]||!list[n])return;seen[n]=1;
+  chips+='<a href="#" data-i="'+n+'">'+esc(list[n].sender)+" · "+esc(list[n].date)+" "+esc(list[n].time)+"</a>";});
+ aiHits.innerHTML=chips;aiHits.hidden=!chips;}
+function aiJump(list,n){var m=list[n];if(!m)return;var el=feed.querySelector('.msg[data-id="'+CSS.escape(String(m.id))+'"]');
+ if(!el){return;}var hh=document.querySelector("header").offsetHeight+8;window.scrollTo(0,el.getBoundingClientRect().top+window.pageYOffset-hh);
+ el.classList.add("flash");setTimeout(function(){el.classList.remove("flash");},2500);}
+var aiLastList=[];
+aiBox.addEventListener("click",function(e){var a=e.target.closest?e.target.closest("a[data-i]"):null;if(!a)return;e.preventDefault();aiJump(aiLastList,+a.getAttribute("data-i"));});
+var AI_INSTR="אתה עוזר שמחפש ועונה על שאלות על ארכיון של קבוצת וואטסאפ בשם \""+GROUP_NAME+"\". ענה בעברית, קצר וענייני. "+
+ "הסתמך אך ורק על ההודעות שבהקשר; אם אין מידע — אמור זאת. כשאתה מסתמך על הודעה, ציין את המזהה שלה בסוגריים בדיוק בצורה [#מספר] (אפשר כמה). "+
+ "לשאלות 'מי/מתי/איפה' תן תשובה ישירה עם ההפניות; לבקשת סיכום — נקודות קצרות לפי נושאים, עם הפניות.";
+// Claude: system עם cache_control; fallbacks לסירובים. מחזיר {text, usageLine} או זורק.
+function askAnthropic(key,model,ctxText,q){
+ var system=[{type:"text",text:AI_INSTR},{type:"text",text:"ההודעות (ישן→חדש; תאריך שעה | שולח: טקסט):\n"+ctxText,cache_control:{type:"ephemeral"}}];
+ return fetch("https://api.anthropic.com/v1/messages",{method:"POST",headers:{
+   "content-type":"application/json","x-api-key":key,"anthropic-version":"2023-06-01",
+   "anthropic-dangerous-direct-browser-access":"true","anthropic-beta":"server-side-fallback-2026-07-01"},
+  body:JSON.stringify({model:model,max_tokens:4096,fallbacks:"default",system:system,messages:[{role:"user",content:q}]})})
+ .then(function(r){return r.json().then(function(j){return {ok:r.ok,status:r.status,j:j};});})
+ .then(function(res){
+  if(!res.ok){var e=new Error((res.j&&res.j.error&&res.j.error.message)||("HTTP "+res.status));e.status=res.status;throw e;}
+  var j=res.j;if(j.stop_reason==="refusal")throw new Error("המודל סירב לענות על השאלה הזו.");
+  var text=(j.content||[]).filter(function(b){return b.type==="text";}).map(function(b){return b.text;}).join("\n").trim();
+  var u=j.usage||{};var inTok=(u.input_tokens||0)+(u.cache_read_input_tokens||0)+(u.cache_creation_input_tokens||0);
+  return {text:text,usageLine:inTok.toLocaleString()+" טוקנים"+(u.cache_read_input_tokens?" (מהם "+u.cache_read_input_tokens.toLocaleString()+" מהמטמון)":"")+" · "+(j.model||model)};});}
+// Gemini (Google AI Studio): מפתח בכותרת x-goog-api-key; CORS פתוח מדפדפן.
+function askGemini(key,model,ctxText,q){
+ return fetch("https://generativelanguage.googleapis.com/v1beta/models/"+encodeURIComponent(model)+":generateContent",{method:"POST",
+  headers:{"content-type":"application/json","x-goog-api-key":key},
+  body:JSON.stringify({system_instruction:{parts:[{text:AI_INSTR}]},
+   contents:[{role:"user",parts:[{text:"ההודעות (ישן→חדש; תאריך שעה | שולח: טקסט):\n"+ctxText+"\n\nהשאלה: "+q}]}],
+   generationConfig:{maxOutputTokens:4096,temperature:0.2}})})
+ .then(function(r){return r.json().then(function(j){return {ok:r.ok,status:r.status,j:j};});})
+ .then(function(res){
+  if(!res.ok){var e=new Error((res.j&&res.j.error&&res.j.error.message)||("HTTP "+res.status));e.status=res.status;throw e;}
+  var c=(res.j.candidates||[])[0];if(!c)throw new Error(res.j.promptFeedback&&res.j.promptFeedback.blockReason?"נחסם: "+res.j.promptFeedback.blockReason:"אין תשובה");
+  var text=((c.content||{}).parts||[]).map(function(p){return p.text||"";}).join("").trim();
+  var u=res.j.usageMetadata||{};
+  return {text:text,usageLine:(u.promptTokenCount||0).toLocaleString()+" טוקנים"+(u.cachedContentTokenCount?" (מהם "+u.cachedContentTokenCount.toLocaleString()+" מהמטמון)":"")+" · "+model};});}
+function aiAskNow(){
+ var q=aiQ.value.trim();if(!q)return;var key=aiKey();if(!key){aiShowKeyForm();return;}
+ var list=scopeList();aiLastList=list;var ctx=aiContext(list);var prov=aiProv(),model=aiModel();
+ aiGo.disabled=true;aiHint.textContent="חושב… ("+ctx.count+" הודעות"+(ctx.truncated?", החדשות ביותר":"")+" · "+model+")";aiAns.hidden=true;aiHits.hidden=true;
+ (prov==="anthropic"?askAnthropic:askGemini)(key,model,ctx.text,q)
+ .then(function(r){aiRender(r.text,list);aiHint.textContent=r.usageLine;})
+ .catch(function(e){
+  if(e.status===401||e.status===403||/API key|api_key|invalid/i.test(e.message)){aiHint.textContent="המפתח לא התקבל: "+e.message;aiShowKeyForm();}
+  else if(e.status===404){aiHint.textContent="המודל \""+model+"\" לא זמין ("+e.message+") — שנה את שם המודל בטופס המפתח (🔑).";}
+  else if(e.status===429){aiHint.textContent="חריגה ממכסה/קצב — חכה דקה ונסה שוב.";}
+  else aiHint.textContent="שגיאה: "+e.message;})
+ .then(function(){aiGo.disabled=false;});}
+aiGo.addEventListener("click",aiAskNow);
+aiQ.addEventListener("keydown",function(e){if(e.key==="Enter"&&(e.ctrlKey||e.metaKey))aiAskNow();});
+
 // ---- קפיצה לתאריך ----
 var navWrap=document.getElementById("navwrap"),navList=document.getElementById("navlist");
 var WIDE=window.matchMedia("(min-width:900px)");

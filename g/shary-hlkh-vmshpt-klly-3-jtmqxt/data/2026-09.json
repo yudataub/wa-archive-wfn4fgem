@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-22T07:58:18.357Z",
+ "updated": "2026-09-22T08:34:27.878Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -804,6 +804,59 @@
    "files": [],
    "drive": null,
    "phone": "972523115064"
+  },
+  {
+   "id": "3A7A2BC8B8A4ACE1EFC0",
+   "sender": "מיכאל",
+   "text": "האם שהכיתוב הפוך יש בזה בעיה הלכתית?",
+   "ts": 1790065747000,
+   "date": "2026-09-22",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "334KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RZ-3fCsq2BjnZtMRtJwUrfYTPwkS-I8B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RZ-3fCsq2BjnZtMRtJwUrfYTPwkS-I8B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546277790"
+  },
+  {
+   "id": "AC9DD5D28FD313AB43E0E54678F7ADCE",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "לא",
+   "ts": 1790065859000,
+   "date": "2026-09-22",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC22C275E31A7AC317043EA7CBCD9BFB",
+   "sender": "Shelly Shulamit",
+   "text": "אם חשבתי ותכננתי במחשבה לתת צדקה לפני יום כיפור ולא הצלחתח להגיע לרב מסויים עליי לתת במדויק?",
+   "ts": 1790065970000,
+   "date": "2026-09-22",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546204619"
+  },
+  {
+   "id": "AC8F41D39748C6F5E65772E4E04D183C",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "תתן עכשיו",
+   "ts": 1790066042000,
+   "date": "2026-09-22",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }
