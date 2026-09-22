@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-22T16:04:20.098Z",
+ "updated": "2026-09-22T16:45:18.991Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -1747,6 +1747,48 @@
    "files": [],
    "drive": null,
    "phone": "972533559987"
+  },
+  {
+   "id": "ACFF62CB9489205CC8D6B039060721BC",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790095422000,
+   "date": "2026-09-22",
+   "time": "19:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yMld2smHaRI3J1sY_PFR5Luk01NuUwUs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yMld2smHaRI3J1sY_PFR5Luk01NuUwUs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "AC2A98D237AD38305C5C974937032415",
+   "sender": "נפתלי רוטנברג",
+   "text": "מי שחיפש יש בישיבה לצעירים....",
+   "ts": 1790095431000,
+   "date": "2026-09-22",
+   "time": "19:43",
+   "files": [],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "AC1122E56C1C87EF8F5788A15E3D0763",
+   "sender": "moshe",
+   "text": "מקס סטוק",
+   "ts": 1790095511000,
+   "date": "2026-09-22",
+   "time": "19:45",
+   "files": [],
+   "drive": null,
+   "phone": "972532462420"
   }
  ]
 }
