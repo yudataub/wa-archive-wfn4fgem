@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T15:56:49.965Z",
+ "updated": "2026-09-22T17:12:26.719Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1688,6 +1688,25 @@
    "files": [],
    "drive": null,
    "phone": "972585808247"
+  },
+  {
+   "id": "AC6687696F652D35A46AAC3967DBAE4C",
+   "sender": "239547522781305",
+   "text": "שאלון כשרות סוכות עם מקור ההלכה",
+   "ts": 1790097115000,
+   "date": "2026-09-22",
+   "time": "20:11",
+   "files": [
+    {
+     "name": "sukkah_quiz.pptx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "",
+     "skipped": "61.0MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972507800165"
   }
  ]
 }
