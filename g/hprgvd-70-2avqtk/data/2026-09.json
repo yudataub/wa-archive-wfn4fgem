@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T04:32:46.905Z",
+ "updated": "2026-09-22T04:34:16.967Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1529,6 +1529,25 @@
      "path": "https://drive.google.com/file/d/1k4OxdzwxJqBAAZXlkJyEbj2Loao1bjHM/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1k4OxdzwxJqBAAZXlkJyEbj2Loao1bjHM&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0318131CE4336EDCA16",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: עיתוני החג נתחיל עם האנגלית המגזין הגדול בעולם 'עמי' בראיון עם הגאון ר' בונים שרייבר שמדבר על המחלה בפתיחות נדירה. אפשר לראות גם את צינור השפע עם הכותרת: \"הנסיך האבוד מקרעטשניף\"\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790051654000,
+   "date": "2026-09-22",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fuOD26abfEKwyK1x6DB9uiPJrdfAUnit/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fuOD26abfEKwyK1x6DB9uiPJrdfAUnit&sz=w1200"
     }
    ],
    "drive": null
