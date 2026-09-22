@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-22T09:57:31.479Z",
+ "updated": "2026-09-22T10:47:53.880Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -136,6 +136,26 @@
    ],
    "drive": null,
    "phone": "972559985850"
+  },
+  {
+   "id": "3A0550E90707DD1171E0",
+   "sender": "אסף",
+   "text": "ציור על לוחית עץ 100₪",
+   "ts": 1790074063000,
+   "date": "2026-09-22",
+   "time": "13:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sgO8baj-QVr4P0TOLoUoePQnvaNUP3jd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sgO8baj-QVr4P0TOLoUoePQnvaNUP3jd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

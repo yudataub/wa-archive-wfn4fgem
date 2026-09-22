@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T09:33:13.653Z",
+ "updated": "2026-09-22T10:51:53.937Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -271,6 +271,26 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "3EB00C7E145587446C06F3",
+   "sender": "אורית מאימן",
+   "text": "הזמנה למפגש פתיחה של הסדנא שלנו בואו בהמוניכם",
+   "ts": 1790074293000,
+   "date": "2026-09-22",
+   "time": "13:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "369KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12wWiUr4Mhrmd4si4-xBjOP-7aD3Qqepj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12wWiUr4Mhrmd4si4-xBjOP-7aD3Qqepj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505444039"
   }
  ]
 }

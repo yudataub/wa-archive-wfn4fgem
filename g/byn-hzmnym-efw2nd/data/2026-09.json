@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-22T09:28:44.982Z",
+ "updated": "2026-09-22T10:49:23.893Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -230,6 +230,37 @@
    ],
    "drive": null,
    "phone": "972504465495"
+  },
+  {
+   "id": "AC0137041D3B3A233FA2A714654FFACB",
+   "sender": ":)",
+   "text": "פנוי לחלק מהתאריכים בסוכות איזור מצוין צמוד לבית כנסת המרכזי",
+   "ts": 1790074139000,
+   "date": "2026-09-22",
+   "time": "13:48",
+   "files": [],
+   "drive": null,
+   "phone": "972546929013"
+  },
+  {
+   "id": "AC7023F66690778FA3B86188C6540AC4",
+   "sender": ":)",
+   "text": "",
+   "ts": 1790074140000,
+   "date": "2026-09-22",
+   "time": "13:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "177KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K46B4qmLwczfYd7G3H14xlQjB5Td2tTT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K46B4qmLwczfYd7G3H14xlQjB5Td2tTT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546929013"
   }
  ]
 }
