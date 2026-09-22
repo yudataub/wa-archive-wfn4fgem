@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T14:02:59.195Z",
+ "updated": "2026-09-22T14:11:34.573Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2301,6 +2301,26 @@
    "files": [],
    "drive": null,
    "phone": "972522288758"
+  },
+  {
+   "id": "AC36F16220FD8390BE9E85D0AA5695E5",
+   "sender": "שמואל מלול",
+   "text": "*חוגגים סוכות בטוח*: כללי טעינה בטוחה של אופניים וקורקינטים חשמליים!\n\n​כבאות והצלה לישראל מאחלים לכם חג סוכות שמח, בטוח ומלא באור!",
+   "ts": 1790086263000,
+   "date": "2026-09-22",
+   "time": "17:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "454KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fI964rZML_D1pvaGbGg4LbMOMVuGLxak/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fI964rZML_D1pvaGbGg4LbMOMVuGLxak&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T13:57:29.096Z",
+ "updated": "2026-09-22T14:08:04.523Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1561,6 +1561,97 @@
    ],
    "drive": null,
    "phone": "972504168987"
+  },
+  {
+   "id": "A59AEE1752A469B2FC06D23C36BAAB01",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "דיבורית + 2 מקרופונים אלחוטיים ב400 שח בלבד",
+   "ts": 1790086058000,
+   "date": "2026-09-22",
+   "time": "17:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p9yrGc7A9Bv7G4qvIFvEh22UQbbsoKlw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p9yrGc7A9Bv7G4qvIFvEh22UQbbsoKlw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A55F91795C120745F1B0C50E652A1458",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "ניתן להשיג עוד סוגי מברגות במחיר מיוחד",
+   "ts": 1790086059000,
+   "date": "2026-09-22",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A528FD84BB8E49CE08E464CA9379F665",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מיוחד לסוכות\nמברגת אימפקט+ 2 בטריות +מטען+ארגז\nוסט ביטים ובוקסות שמתחבר למברגה ב200 שח בלבד",
+   "ts": 1790086060000,
+   "date": "2026-09-22",
+   "time": "17:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xbtlujGNoLdVyTzh79IIVkROmF7YZOi8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xbtlujGNoLdVyTzh79IIVkROmF7YZOi8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A5321BA58B82C2606E5CAAD6CA4A4AD1",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790086061000,
+   "date": "2026-09-22",
+   "time": "17:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mqqthy6EKAEcyZFSrW_NDT0XRLMSiCLc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mqqthy6EKAEcyZFSrW_NDT0XRLMSiCLc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A525F797A62BA682A8CC4C6E300644B2",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790086062000,
+   "date": "2026-09-22",
+   "time": "17:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1R9RpgvsC-f4UeeTLSH9xUG3atanXugtP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R9RpgvsC-f4UeeTLSH9xUG3atanXugtP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
   }
  ]
 }
