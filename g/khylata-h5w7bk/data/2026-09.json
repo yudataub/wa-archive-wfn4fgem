@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T17:08:26.632Z",
+ "updated": "2026-09-22T18:50:40.183Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -595,6 +595,37 @@
    "files": [],
    "drive": null,
    "phone": "972542328664"
+  },
+  {
+   "id": "AC0443DB27314B583FE55A34F8128857",
+   "sender": "ליאת פינטו",
+   "text": "",
+   "ts": 1790103015000,
+   "date": "2026-09-22",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "334KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wDM9L1tYeneK4deY8gVhlOYZutAINywF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wDM9L1tYeneK4deY8gVhlOYZutAINywF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504283234"
+  },
+  {
+   "id": "AC16BC0824BD500BCFF6747F386E581F",
+   "sender": "ליאת פינטו",
+   "text": "אלופה!!!",
+   "ts": 1790103016000,
+   "date": "2026-09-22",
+   "time": "21:50",
+   "files": [],
+   "drive": null,
+   "phone": "972504283234"
   }
  ]
 }
