@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T12:03:59.842Z",
+ "updated": "2026-09-22T12:17:41.540Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1426,6 +1426,48 @@
    ],
    "drive": null,
    "phone": "972525310305"
+  },
+  {
+   "id": "ACAFA6A13E6A7D886222BE3FB8F2BE45",
+   "sender": "תן חיוך אח יקר הכל לטובה❤️‍🔥",
+   "text": "מחר בעז\"ה יגיע ליש חסד כסאות וסכך2*3 לכל השואלים בפרטי",
+   "ts": 1790078984000,
+   "date": "2026-09-22",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "phone": "972525310305"
+  },
+  {
+   "id": "ACEB97CC11FF1A391496C93F5DB32A74",
+   "sender": "ד.פ.",
+   "text": "",
+   "ts": 1790079324000,
+   "date": "2026-09-22",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qFwJIMZV60gkv8o_Ay25foUI2UcmZnDz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qFwJIMZV60gkv8o_Ay25foUI2UcmZnDz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534218924"
+  },
+  {
+   "id": "ACE96B952CB0EF39558AC19B296955D4",
+   "sender": "kenig",
+   "text": "המלצה לאינסטלטור מקצועי ואמין מאוד, דחוף🙏🙏",
+   "ts": 1790079448000,
+   "date": "2026-09-22",
+   "time": "15:17",
+   "files": [],
+   "drive": null,
+   "phone": "972587165948"
   }
  ]
 }
