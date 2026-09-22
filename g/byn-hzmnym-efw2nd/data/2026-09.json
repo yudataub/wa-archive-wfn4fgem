@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-22T08:02:18.516Z",
+ "updated": "2026-09-22T09:28:44.982Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -211,6 +211,25 @@
    ],
    "drive": null,
    "phone": "972528909195"
+  },
+  {
+   "id": "AC9DD6A2DDFEF059A9BCDB4E04D49E93",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1790069299000,
+   "date": "2026-09-22",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "33.7MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
   }
  ]
 }

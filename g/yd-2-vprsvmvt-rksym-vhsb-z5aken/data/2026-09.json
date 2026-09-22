@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T09:24:13.179Z",
+ "updated": "2026-09-22T09:34:13.595Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -993,6 +993,46 @@
    ],
    "drive": null,
    "phone": "972555661431"
+  },
+  {
+   "id": "2ADAEE5FE2F7E3661CD2",
+   "sender": "Diana",
+   "text": "החלקה אורגנית במחיר מיוחד לקראת החג !",
+   "ts": 1790069471000,
+   "date": "2026-09-22",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eW4g3J8NOQOkzcJGs_3a1fSfvN1sZ0PS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eW4g3J8NOQOkzcJGs_3a1fSfvN1sZ0PS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528508065"
+  },
+  {
+   "id": "AC32899FD9041E1459F032BEAECDF566",
+   "sender": "שרון😄",
+   "text": "אהובות, להיכנס לסוכה מתוך מנוחת נפש 🌿\n\nבין הסירים, הלוגיסטיקה והתקתוקים האחרונים של ערב חג – \nקל לשכוח שהעיקר הוא הלב שנכנס אל הצל.\n\nהכנתי במיוחד בשבילכן מתנה קטנה: \n*חוברת סוכות עשירה* עם:\n\n🧺 ארגון נבון שחוסך כוחות\n\n💡 נקודת אור לנשמה\n\n🍲 מתכונים קלים ומנצחים לשולחן שמח\n\nלהורדת החוברת באהבה:👇\nhttps://drive.google.com/file/d/1ECR9iOFmOg8YuijpZJyCuEfBenohWwPf/view?usp=sharing\n\nחג סוכות שמח ומואר,\n\nאסתר טולדנו",
+   "ts": 1790069623000,
+   "date": "2026-09-22",
+   "time": "12:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YhXynuZszHE0915-gd7kCcWf6aN3-JlW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YhXynuZszHE0915-gd7kCcWf6aN3-JlW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }
