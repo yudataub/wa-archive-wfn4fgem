@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-22T10:47:53.880Z",
+ "updated": "2026-09-22T12:36:19.772Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -156,6 +156,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "3EB067F385B39D17EA7505",
+   "sender": "Noam",
+   "text": "*חדש באריזה ! כבל טעינה TYPE-C (100W/5A) באורך 2 מטר להטענה מהירה של מחשבים ופלאפונים. 50 ש\"ח*",
+   "ts": 1790080573000,
+   "date": "2026-09-22",
+   "time": "15:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "36KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TGiDCPgtfg9lTW4w13q5wOLjNP5Jwbza/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TGiDCPgtfg9lTW4w13q5wOLjNP5Jwbza&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }
