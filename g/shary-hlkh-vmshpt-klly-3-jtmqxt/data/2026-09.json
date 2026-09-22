@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-22T11:42:59.528Z",
+ "updated": "2026-09-22T11:55:59.719Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -1152,6 +1152,37 @@
    "files": [],
    "drive": null,
    "phone": "5491160475908"
+  },
+  {
+   "id": "ACD13C37FF305D7BAC98AEDA32AE4890",
+   "sender": "ggem",
+   "text": "מסתבר שהסוכה הזו לא כשרה נכון כבוד הרבנים?",
+   "ts": 1790078027000,
+   "date": "2026-09-22",
+   "time": "14:53",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CQQ88peolglp8ryaq3ujmwJEpz_XOiCr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CQQ88peolglp8ryaq3ujmwJEpz_XOiCr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539641080"
+  },
+  {
+   "id": "ACD9D9DEBCBA980454C4DCAE980F2CA5",
+   "sender": "דוד בן חי",
+   "text": "נכון מאוד. לא כשרה",
+   "ts": 1790078155000,
+   "date": "2026-09-22",
+   "time": "14:55",
+   "files": [],
+   "drive": null,
+   "phone": "972546201061"
   }
  ]
 }

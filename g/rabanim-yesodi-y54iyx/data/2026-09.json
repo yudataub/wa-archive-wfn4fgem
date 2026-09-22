@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T11:45:59.546Z",
+ "updated": "2026-09-22T11:51:29.658Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1619,6 +1619,25 @@
    "files": [],
    "drive": null,
    "phone": "972507800165"
+  },
+  {
+   "id": "AC10D0076F8969EC784DC5F92339279E",
+   "sender": "דוד נמן 😉",
+   "text": "סוגי סוכות עפ\"י מסכת סוכה ai",
+   "ts": 1790077886000,
+   "date": "2026-09-22",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "Sukkah_Inspector_Field_Guide_(2).pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "22.0MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972522966955"
   }
  ]
 }
