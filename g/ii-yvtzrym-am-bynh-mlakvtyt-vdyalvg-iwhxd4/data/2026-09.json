@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "II יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-22T10:33:25.121Z",
+ "updated": "2026-09-22T11:18:00.245Z",
  "messages": [
   {
    "id": "3EB0FBDDE152E8DFD565E5",
@@ -110,6 +110,17 @@
    "files": [],
    "drive": null,
    "phone": "972502343065"
+  },
+  {
+   "id": "3A0917A014F757C881C8",
+   "sender": "Hagit",
+   "text": "Magic school",
+   "ts": 1790075866000,
+   "date": "2026-09-22",
+   "time": "14:17",
+   "files": [],
+   "drive": null,
+   "phone": "972522556245"
   }
  ]
 }

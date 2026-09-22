@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T11:07:51.665Z",
+ "updated": "2026-09-22T11:26:22.178Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2561,6 +2561,46 @@
    "date": "2026-09-22",
    "time": "14:07",
    "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0771F927918DFFE06C2",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: חבל שמסכנים חיים כדי מזגן בסוכה. מפחיד.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790075872000,
+   "date": "2026-09-22",
+   "time": "14:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1tnD6pVdC6CMh3g1FOrZqEsI3QdWW0k28/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tnD6pVdC6CMh3g1FOrZqEsI3QdWW0k28&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0CEDE79FFAC1C412162",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ראש הממשלה בנימין נתניהו עולה למתקפה נגד ממדאני לפני צאתו לאו״ם: ״אני מגיע לחשוף את האמת עליך״\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790076373000,
+   "date": "2026-09-22",
+   "time": "14:26",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1WYvnL5QoifjLL8eMytex1QXxwF6W9c4J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WYvnL5QoifjLL8eMytex1QXxwF6W9c4J&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972535629624"
   }

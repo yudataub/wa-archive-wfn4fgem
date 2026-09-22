@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T11:07:51.656Z",
+ "updated": "2026-09-22T11:23:21.945Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -322,6 +322,26 @@
    ],
    "drive": null,
    "phone": "972528762156"
+  },
+  {
+   "id": "ACC8B0304908C6629089DDAC5E8825BA",
+   "sender": "ענת לוי",
+   "text": "",
+   "ts": 1790076193000,
+   "date": "2026-09-22",
+   "time": "14:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Eb8jk3w-7_Rr-DY7IOZmluniQFSMEXCB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Eb8jk3w-7_Rr-DY7IOZmluniQFSMEXCB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522858822"
   }
  ]
 }

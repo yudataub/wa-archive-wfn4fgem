@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T11:15:51.808Z",
+ "updated": "2026-09-22T11:26:22.047Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1570,6 +1570,25 @@
    ],
    "drive": null,
    "phone": "972585808247"
+  },
+  {
+   "id": "ACBAB3F8B421277C9FAB9BCAA12565D7",
+   "sender": "אשר",
+   "text": "*בסוכה אחת* 🌿\n✨ סיפור ולימוד מיוחד מאוד לימי הסוכות!\n😊*הקובץ כאן מצורף בחינם* ⬆️\nמוזמנים לשתף הלאה 🙏\n(אם תרצו עם לוגו של המוסד שלכם כיתבו לי)\n*חג שמח לכל ישראל* 🇮🇱",
+   "ts": 1790076354000,
+   "date": "2026-09-22",
+   "time": "14:25",
+   "files": [
+    {
+     "name": "בסוכה אחת תשפז-1.pdf",
+     "size": "4.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1iI_HPtPHn9wNFGOvudSxMKRRtu8WoAQ_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508739125"
   }
  ]
 }
