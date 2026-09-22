@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T02:17:36.253Z",
+ "updated": "2026-09-22T03:18:21.236Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1002,6 +1002,44 @@
    "date": "2026-09-22",
    "time": "05:03",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "3ABAF7AC6AA221866053",
+   "sender": "ירדן ביסמוט",
+   "text": "היי \nאני ירדן הבעלים של BisDelivery 🚚\n\nאני נותן שירות משלוחים מהיום להיום באזור חיפה והקריות, לעסקים ולקוחות פרטיים.\n\nאני מחפש כמה עסקים לעבוד איתם באופן קבוע ומציע שירות מהיר, אמין וגמיש — בלי צורך להחזיק שליח קבוע.\n\nחשוב לי להדגיש שאני מחפש לעבוד עם 10-15 עסקים באופן קבוע ולא יותר מזה ככה שתמיד יהיה לכם שירות  ברמה גבוהה ויחס אישי!! \n\n\nירדן -0506782664",
+   "ts": 1790047070000,
+   "date": "2026-09-22",
+   "time": "06:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FfUEvLpyYe0K0etEjCJQXAmaadDW59Dt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FfUEvLpyYe0K0etEjCJQXAmaadDW59Dt&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3A89FA1FC68745EAC000",
+   "sender": "ירדן ביסמוט",
+   "text": "",
+   "ts": 1790047072000,
+   "date": "2026-09-22",
+   "time": "06:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "348KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zVLf6aXOXjOhJtMiVx0JVfbHh8AU8s8b/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zVLf6aXOXjOhJtMiVx0JVfbHh8AU8s8b&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
