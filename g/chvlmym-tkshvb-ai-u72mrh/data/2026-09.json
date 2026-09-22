@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-22T07:54:31.017Z",
+ "updated": "2026-09-22T08:05:04.497Z",
  "messages": [
   {
    "id": "3EB0016B2434490308755A",
@@ -121,6 +121,26 @@
    "files": [],
    "drive": null,
    "phone": "972503468004"
+  },
+  {
+   "id": "ACBB29AE58A873EE70012758FAAED9A6",
+   "sender": "רחלי בן-נון",
+   "text": "",
+   "ts": 1790064290000,
+   "date": "2026-09-22",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "46KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1SlwHcDnE5Ftv5fHZRNcMJ5dZHUaupYPu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SlwHcDnE5Ftv5fHZRNcMJ5dZHUaupYPu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523464664"
   }
  ]
 }

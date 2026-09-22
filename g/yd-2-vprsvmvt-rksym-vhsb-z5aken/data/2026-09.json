@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T07:26:15.841Z",
+ "updated": "2026-09-22T08:04:18.575Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -611,6 +611,68 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "3A6D120C84CEBB02C2EC",
+   "sender": "💕הדר אלבז💕",
+   "text": "",
+   "ts": 1790063893000,
+   "date": "2026-09-22",
+   "time": "10:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fh67CWsObs-bmOycvlyp4fXYPJ2gVJnH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fh67CWsObs-bmOycvlyp4fXYPJ2gVJnH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506689516"
+  },
+  {
+   "id": "AC82CEFD0750BB96F3D569E695037856",
+   "sender": "שמואל",
+   "text": "מישהו מכיר טכנאי מכונת כביסה אמין ומחיר סביר?",
+   "ts": 1790064002000,
+   "date": "2026-09-22",
+   "time": "11:00",
+   "files": [],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "4A8DDD09105C9D4547CE",
+   "sender": "Mordechai Danino",
+   "text": "",
+   "ts": 1790064009000,
+   "date": "2026-09-22",
+   "time": "11:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "264KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-EVbgDs20WxrEt2GL4no9peuNzLAO-Sv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-EVbgDs20WxrEt2GL4no9peuNzLAO-Sv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504168987"
+  },
+  {
+   "id": "A55119A1BCC815CEED7E8B8395337117",
+   "sender": "אורי אדרי יועץ ואסטרטג משכנתאות",
+   "text": "היי \nמחפש אינסטלטור אשמח למספרי פלאפון בפרטי 🙏",
+   "ts": 1790064238000,
+   "date": "2026-09-22",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972507690080"
   }
  ]
 }

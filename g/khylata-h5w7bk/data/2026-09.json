@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T07:44:16.754Z",
+ "updated": "2026-09-22T08:04:18.708Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -189,6 +189,26 @@
    "files": [],
    "drive": null,
    "phone": "972504283234"
+  },
+  {
+   "id": "3A801CA5E2485A68F991",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1790064252000,
+   "date": "2026-09-22",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XR5tI3KNQVRO-8qzYCV2U7BvdXFGRAfp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XR5tI3KNQVRO-8qzYCV2U7BvdXFGRAfp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
   }
  ]
 }

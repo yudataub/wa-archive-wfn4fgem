@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-22T06:38:32.229Z",
+ "updated": "2026-09-22T08:02:18.516Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -191,6 +191,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC6590CF080A0A1052A018A9AB3E216A",
+   "sender": "חן ואנונו",
+   "text": "",
+   "ts": 1790064115000,
+   "date": "2026-09-22",
+   "time": "11:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LpC86YGyZUHUDESevAXpfmKL2qYQ6pBz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LpC86YGyZUHUDESevAXpfmKL2qYQ6pBz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528909195"
   }
  ]
 }

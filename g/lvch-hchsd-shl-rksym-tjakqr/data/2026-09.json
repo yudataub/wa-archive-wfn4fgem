@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T07:57:18.420Z",
+ "updated": "2026-09-22T08:07:18.623Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -858,6 +858,47 @@
    "files": [],
    "drive": null,
    "phone": "972548424503"
+  },
+  {
+   "id": "A50D7A0698A4F594BB3F5E727856BD9F",
+   "sender": "אורי אדרי יועץ ואסטרטג משכנתאות",
+   "text": "היי \nמחפש אינסטלטור אשמח למספרי פלאפון בפרטי 🙏",
+   "ts": 1790064226000,
+   "date": "2026-09-22",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972507690080"
+  },
+  {
+   "id": "AC38CE93BE790B7F982669A6248A3951",
+   "sender": "יוסי מוזס",
+   "text": "0527134186",
+   "ts": 1790064401000,
+   "date": "2026-09-22",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC55961384B8B1DE2D04C0091198EB2B",
+   "sender": "נתנאל חיאק",
+   "text": "",
+   "ts": 1790064407000,
+   "date": "2026-09-22",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "הודעה קולית.bin",
+     "size": "1.7MB",
+     "type": "audio/mp4",
+     "path": "https://drive.google.com/file/d/1k_Z8Vn8zOLnqFGZ8xzXBUzh7GfXgx5TF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548485990"
   }
  ]
 }

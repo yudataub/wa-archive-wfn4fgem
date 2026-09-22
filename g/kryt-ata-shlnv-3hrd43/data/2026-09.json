@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T07:25:15.792Z",
+ "updated": "2026-09-22T08:03:48.616Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1614,6 +1614,37 @@
    ],
    "drive": null,
    "phone": "972559953709"
+  },
+  {
+   "id": "A57026154105FF87E692B58F1C03E777",
+   "sender": "גבות וריסים",
+   "text": "תורים אחרונים לפני החג\nהיום, רביעי, חמישי\nלתיאום תור 👇🏻\n053-535-4220",
+   "ts": 1790064092000,
+   "date": "2026-09-22",
+   "time": "11:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RF5RhTWcUOR-twMerpXivZ8M2iQ1RXLV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RF5RhTWcUOR-twMerpXivZ8M2iQ1RXLV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535354220"
+  },
+  {
+   "id": "A52DA01D34F4930CB106F2912C3DF368",
+   "sender": "אורי אדרי יועץ ואסטרטג משכנתאות",
+   "text": "היי \nמחפש אינסטלטור אשמח למספרי פלאפון בפרטי 🙏",
+   "ts": 1790064207000,
+   "date": "2026-09-22",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972507690080"
   }
  ]
 }
