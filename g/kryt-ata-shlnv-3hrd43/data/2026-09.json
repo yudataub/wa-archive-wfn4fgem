@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T18:09:47.109Z",
+ "updated": "2026-09-22T18:45:46.393Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2588,6 +2588,37 @@
    ],
    "drive": null,
    "phone": "972522353413"
+  },
+  {
+   "id": "AC38B163D37A984108FF69021EC7C7D1",
+   "sender": "יוחאי",
+   "text": "מי יודע מתיי יש שמחת בית השואבה השנה בחב\"ד?",
+   "ts": 1790102515000,
+   "date": "2026-09-22",
+   "time": "21:41",
+   "files": [],
+   "drive": null,
+   "phone": "972509008843"
+  },
+  {
+   "id": "AC12501D59DE18A851FF688410ABA867",
+   "sender": "אורלי אסף",
+   "text": "",
+   "ts": 1790102736000,
+   "date": "2026-09-22",
+   "time": "21:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W2DAB54GHgpQdQ5Oe9ufSezIocFUkyxl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W2DAB54GHgpQdQ5Oe9ufSezIocFUkyxl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522837269"
   }
  ]
 }
