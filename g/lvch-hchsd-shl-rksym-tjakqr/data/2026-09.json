@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T13:55:29.075Z",
+ "updated": "2026-09-22T14:04:29.235Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -1253,6 +1253,37 @@
    "files": [],
    "drive": null,
    "phone": "972548441892"
+  },
+  {
+   "id": "3A66E55BDE7039CBACBA",
+   "sender": "הראל לביא",
+   "text": "איזה מהפיצות ברכסים עושים משלוח",
+   "ts": 1790085747000,
+   "date": "2026-09-22",
+   "time": "17:02",
+   "files": [],
+   "drive": null,
+   "phone": "972524042317"
+  },
+  {
+   "id": "A5BF4218CE6B7A4116DC6D6D0C46B7FC",
+   "sender": "אבי לב חב\"ד",
+   "text": "",
+   "ts": 1790085850000,
+   "date": "2026-09-22",
+   "time": "17:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lhp54Y4c8C49BKFuSCYxUD8HUNOEqwNi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lhp54Y4c8C49BKFuSCYxUD8HUNOEqwNi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534703302"
   }
  ]
 }
