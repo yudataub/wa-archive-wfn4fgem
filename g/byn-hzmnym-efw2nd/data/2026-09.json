@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-22T10:49:23.893Z",
+ "updated": "2026-09-22T11:06:21.626Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -261,6 +261,46 @@
    ],
    "drive": null,
    "phone": "972546929013"
+  },
+  {
+   "id": "2A950ED089D8980997D0",
+   "sender": "חדוה צימר הרים באופק חזון",
+   "text": "לחג ראשון של סוכות \nוגם חג שני פנויים \n0523253049\nתעבירו למשפחות שרוצות לחגוג ביחד את החג \nבאווירה נעימה ובפרטיות מוחלטת",
+   "ts": 1790074693000,
+   "date": "2026-09-22",
+   "time": "13:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GBikykqmX4RgOHHcKKNe1vJNy4RK-fqH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GBikykqmX4RgOHHcKKNe1vJNy4RK-fqH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523252049"
+  },
+  {
+   "id": "ACAE5130AF296C0DC76FE546893B5503",
+   "sender": "חני",
+   "text": "🏡 אחוזת אלפא – פנויה לחג הסוכות! 🌿\n\nמחפשים מקום מושלם לשבת משפחתית או לחופשת חג?\nאחוזת אלפא במושב בית הגדי (נתיבות) מחכה לכם \n\n✨ 9 חדרי שינה מרווחים\n🏊 בריכה מחוממת ומקורה\n💦 ג׳קוזי מפנק\n🌳 חצר גדולה ומרווחת\n🍽️ מטבח גדול ומאובזר\n🎱 משחקים ופינות ישיבה\n🛏️ מתאים למשפחות וקבוצות גדולות – עד כ־40 אורחים ללינה\n\nבית כנסת, מקווה ומכולת במרחק הליכה.\n\nלפרטים, מחירים והזמנות – דברו איתנו בפרטי.\nאחוזת אלפא | מושב בית הגדי (נתיבות)\n📞050-3332857",
+   "ts": 1790075168000,
+   "date": "2026-09-22",
+   "time": "14:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JSFK0ian7DGJFv4F3B5n7PzqqOQlc5hM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JSFK0ian7DGJFv4F3B5n7PzqqOQlc5hM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534245658"
   }
  ]
 }

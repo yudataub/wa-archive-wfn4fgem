@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "במדבר ושמואל א",
- "updated": "2026-09-22T10:05:44.694Z",
+ "updated": "2026-09-22T11:03:51.585Z",
  "messages": [
   {
    "id": "failed-1788239665664",
@@ -2211,6 +2211,44 @@
    "date": "2026-09-22",
    "time": "13:05",
    "files": [],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "3EB0F49BD4C7E7FDDEBE81",
+   "sender": "פנינה כ\"ץ",
+   "text": "",
+   "ts": 1790074646000,
+   "date": "2026-09-22",
+   "time": "13:57",
+   "files": [
+    {
+     "name": "עטיפה שמואל.pdf",
+     "size": "200KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TYL_sR2L-mp0ekIriu7ln7F-R0D5-Qs9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "3EB0956DAAADAF595F3009",
+   "sender": "פנינה כ\"ץ",
+   "text": "פתוח לעריכה, שימו לב לגופנים",
+   "ts": 1790075008000,
+   "date": "2026-09-22",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "במדבר פרק ב.pptx",
+     "size": "48KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1hswxYuTcuFf-RPZ5n3zZrROjL_xxahPq/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972509452770"
   }
