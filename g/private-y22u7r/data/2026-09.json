@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T20:41:26.067Z",
+ "updated": "2026-09-22T21:04:46.369Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -1114,6 +1114,112 @@
    "date": "2026-09-22",
    "time": "23:41",
    "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "A54FBC8A7393503FFEBD8F86C0F77B07",
+   "sender": "אני",
+   "text": "הצלחת?",
+   "ts": 1790110930000,
+   "date": "2026-09-23",
+   "time": "00:02",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACCC66B65B2071E46527F0F80463ABD0",
+   "sender": "הילה שמר",
+   "text": "אשמח לעזרתך. נראה לי שאין לי כמו אצלך",
+   "ts": 1790110959000,
+   "date": "2026-09-23",
+   "time": "00:02",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC1E084C075D8A65BB8D40A8A3D459BC",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790110973000,
+   "date": "2026-09-23",
+   "time": "00:02",
+   "files": [
+    {
+     "name": "ה1.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "18.2MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "A58098018145570B971F97821C65985B",
+   "sender": "אני",
+   "text": "מחר אני יוכל לשלוח לך\nכי גמרתי את הטוקנים שלי",
+   "ts": 1790111031000,
+   "date": "2026-09-23",
+   "time": "00:03",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC81860D4B800E94767251DF16DD54B9",
+   "sender": "הילה שמר",
+   "text": "בסדר גמור תודה🙏",
+   "ts": 1790111049000,
+   "date": "2026-09-23",
+   "time": "00:04",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC87F37D82575F280A0080638407B247",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790111062000,
+   "date": "2026-09-23",
+   "time": "00:04",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "26KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1mG4cMJgQmVbc0wQVdX-v40kPTSS_s2sH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC54D5406ACC90501DF70349804D6E6E",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790111070000,
+   "date": "2026-09-23",
+   "time": "00:04",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "9KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1KcSCKV3WomzQr0AsESzYSBaIyxqAbIy9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "thread": "הילה שמר",
    "phone": "972534596413"

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T20:52:46.191Z",
+ "updated": "2026-09-22T21:07:16.416Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -4222,6 +4222,46 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "14.6MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB03AF17943B169C7C61B",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ילדי מוסדות החינוך של גור בעיר ערד קיבלו היום הודעה שהחל מעתה מותר להיכנס ל\"קניון ערד\" שהחליף את שמו ל\"מתחם RD\" לאחר שנרכש לאחרונה בידי חסידי גור. מדובר באירוע שחולל כזכור סערה גדולה בעיר.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790110901000,
+   "date": "2026-09-23",
+   "time": "00:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KvRDvUjS_CQYzbLdWoY0dkfi8A-z7dVM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KvRDvUjS_CQYzbLdWoY0dkfi8A-z7dVM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0B149F4FDC01BF739DA",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: העברת הקראוונים בבני ברק נמשכת\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790111216000,
+   "date": "2026-09-23",
+   "time": "00:06",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/10_ler0svvEw89QZU52-0VoL3WWkX2yAJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10_ler0svvEw89QZU52-0VoL3WWkX2yAJ&sz=w1200"
     }
    ],
    "drive": null,
