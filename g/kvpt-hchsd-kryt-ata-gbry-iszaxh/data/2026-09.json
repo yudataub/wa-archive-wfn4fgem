@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-22T07:21:15.703Z",
+ "updated": "2026-09-22T07:34:16.530Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -368,6 +368,48 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "AC26F4FCEDB66FA90981CDFDE22F1325",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור ולהיות שותפים אם רועי לא יחסר",
+   "ts": 1790062216000,
+   "date": "2026-09-22",
+   "time": "10:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17YIijQ6R_tMDW1h_4VwRWob8YHfxNsFe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17YIijQ6R_tMDW1h_4VwRWob8YHfxNsFe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "ACB170F3A4942AA56A853EF486482E70",
+   "sender": "איתמר",
+   "text": "מתי הגיזום בשדרות המגינים היום?",
+   "ts": 1790062358000,
+   "date": "2026-09-22",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "AC4A91A0E26C0DEB7DCD3AEF46324F9A",
+   "sender": "בני קרמר",
+   "text": "עכשיו",
+   "ts": 1790062435000,
+   "date": "2026-09-22",
+   "time": "10:33",
+   "files": [],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

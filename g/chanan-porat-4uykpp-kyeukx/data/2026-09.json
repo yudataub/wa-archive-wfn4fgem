@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חנן פורת - דמות",
- "updated": "2026-09-22T07:25:45.847Z",
+ "updated": "2026-09-22T07:34:46.541Z",
  "messages": [
   {
    "id": "gm-1a05b76f9a3dd0ea",
@@ -883,6 +883,25 @@
    "files": [],
    "drive": null,
    "phone": "972523241725"
+  },
+  {
+   "id": "3ADB797C4342C6052729",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1790062476000,
+   "date": "2026-09-22",
+   "time": "10:34",
+   "files": [
+    {
+     "name": "הרב חנן פורת זצ״ל- שרית פולק.pdf",
+     "size": "1.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1VMHADA5FbmLM1i76cx0VCMHQ0ICFKXyZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
   }
  ]
 }

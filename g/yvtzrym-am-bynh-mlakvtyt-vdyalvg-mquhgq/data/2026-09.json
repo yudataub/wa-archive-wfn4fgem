@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-22T07:23:09.460Z",
+ "updated": "2026-09-22T07:34:09.696Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -156,6 +156,37 @@
    "date": "2026-09-22",
    "time": "10:23",
    "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC3217E5CB8C11255395D8993CF6FED4",
+   "sender": "ניסים הדדי",
+   "text": "סדנא 'משנת חיים'",
+   "ts": 1790062371000,
+   "date": "2026-09-22",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972506369525"
+  },
+  {
+   "id": "A5031FE9344B0302FA86862596AF3223",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790062434000,
+   "date": "2026-09-22",
+   "time": "10:33",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "51KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Sn-BRWSkYnphLd1jFmgJt62FKrPMZhXC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Sn-BRWSkYnphLd1jFmgJt62FKrPMZhXC&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972526673667"
   }

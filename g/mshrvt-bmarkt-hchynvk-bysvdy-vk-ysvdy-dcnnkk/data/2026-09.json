@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-09-22T07:19:45.699Z",
+ "updated": "2026-09-22T07:29:46.473Z",
  "messages": [
   {
    "id": "AC5BA4BA3AA525BB2BD27F05EC6E2BCF",
@@ -22,6 +22,37 @@
    ],
    "drive": null,
    "phone": "972503945666"
+  },
+  {
+   "id": "3A405C138D39B9798273",
+   "sender": "אורלי שלמה",
+   "text": "",
+   "ts": 1790062076000,
+   "date": "2026-09-22",
+   "time": "10:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pTlISaIvWqDhsCGrgwZEi1azHLzDNoeJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pTlISaIvWqDhsCGrgwZEi1azHLzDNoeJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000121"
+  },
+  {
+   "id": "AC2D9696748451775C3AC37B5DEEB12C",
+   "sender": ".",
+   "text": "לבית ספר מקסים בראשון לציון(ממד) דרושה מורה לכתת חינוך מיוחד ליומיים בשבוע. שלישי ושישי (בימים שהמורה המחנכת ביום חופשי) כתה א  9 ילדים מתוקים ממש! \nלפרטים 0544882944",
+   "ts": 1790062162000,
+   "date": "2026-09-22",
+   "time": "10:29",
+   "files": [],
+   "drive": null,
+   "phone": "972534744316"
   }
  ]
 }
