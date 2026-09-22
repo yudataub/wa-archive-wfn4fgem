@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v16 -->
+<!-- wa-archive-generated v17 -->
 <!--
   אלפון של קבוצה אחת — נבנה בדפדפן מתוך data/*.json של אותה קבוצה:
   (א) כל מי שכתב בקבוצה ויש לו מספר (השדה phone ברשומה),
@@ -12,6 +12,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>טוב לי תורת פיך — אלפון</title>
+<script type="text/plain" id="delurl">https://script.google.com/macros/s/AKfycbw3AFtdBmWMxGe6pxATEBzUVnVehh_wU4oDHlOIQbI-IeVgq_BZEmWNg2BQ_-iYM_DD/exec</script>
 <style>
 :root{--hue:285;
 --bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
@@ -37,6 +38,7 @@ main{max-width:780px;margin:0 auto;padding:12px 16px 40px}
 .avatar{width:40px;height:40px;border-radius:50%;background:var(--chip);color:var(--accent);display:flex;align-items:center;justify-content:center;font-weight:700;flex:none}
 .info{flex:1;min-width:160px}
 .name{font-weight:600;font-size:15px}
+.act.rename{padding:1px 6px;font-size:12px;opacity:.5}.card:hover .act.rename{opacity:1}
 .alias{color:var(--muted);font-size:12px}
 .phone{direction:ltr;display:inline-block;color:var(--muted);font-size:13px}
 .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:3px}
@@ -64,6 +66,12 @@ main{max-width:780px;margin:0 auto;padding:12px 16px 40px}
 </main>
 <script>
 var GROUP=document.querySelector("h1").textContent.replace(/ — אלפון$/,"");
+var DELURL=((document.getElementById("delurl")||{}).textContent||"").trim();
+// שמות מוצגים משותפים לכל הארכיון (names.json בשורש המאגר, נערך מכאן)
+var NAMES={phones:{},names:{}};
+function alias(name,phone){return (phone&&NAMES.phones[phone])||NAMES.names[name]||name;}
+function loadNames(){return fetch("../../names.json?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
+ .then(function(d){if(d){NAMES.phones=d.phones||{};NAMES.names=d.names||{};}}).catch(function(){});}
 var list=document.getElementById("list"),statusEl=document.getElementById("status"),sub=document.getElementById("sub");
 var people={}; // phone → {phone, names:{}, wrote:0, last:'', shared:[{by,date}]}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
@@ -88,7 +96,9 @@ function render(q){
  q=(q||"").trim().toLowerCase();var qd=q.replace(/[^\d]/g,"");
  var arr=Object.keys(people).map(function(k){var p=people[k];
   var names=Object.keys(p.names).sort(function(a,b){return p.names[b]-p.names[a];});
-  return {p:p,name:names[0]||prettyPhone(p.phone),aliases:names.slice(1)};});
+  var orig=names[0]||prettyPhone(p.phone),shown=alias(orig,p.phone);
+  return {p:p,name:shown,orig:orig,edited:shown!==orig,
+   aliases:names.filter(function(n){return n!==orig&&n!==shown;})};});
  arr.sort(function(a,b){return a.name.localeCompare(b.name,"he");});
  var html="",last="",shown=0;
  arr.forEach(function(e){
@@ -97,7 +107,10 @@ function render(q){
   shown++;var L=initial(e.name);if(L!==last){last=L;html+='<div class="letter">'+esc(L)+"</div>";}
   var tags="";if(e.p.wrote)tags+='<span class="tag">כתב/ה '+e.p.wrote+' הודעות · אחרונה '+esc(e.p.last)+"</span>";
   e.p.shared.slice(0,2).forEach(function(s){tags+='<span class="tag">📇 שותף ע"י '+esc(s.by)+" · "+esc(s.date)+"</span>";});
-  html+='<div class="card"><div class="avatar">'+esc(L)+'</div><div class="info"><div class="name">'+esc(e.name)+
+  html+='<div class="card" data-phone="'+esc(e.p.phone)+'" data-orig="'+esc(e.orig)+'"><div class="avatar">'+esc(L)+
+   '</div><div class="info"><div class="name">'+esc(e.name)+
+   (DELURL?' <button class="act rename" title="שינוי השם בכל הארכיון">✎</button>':"")+
+   (e.edited?' <span class="alias">(במקור: '+esc(e.orig)+")</span>":"")+
    (e.aliases.length?' <span class="alias">('+esc(e.aliases.join(", "))+")</span>":"")+'</div>'+
    '<span class="phone">'+esc(prettyPhone(e.p.phone))+'</span><div class="tags">'+tags+'</div></div>'+
    '<div class="acts"><a class="act" href="https://wa.me/'+e.p.phone+'" target="_blank" rel="noopener" title="וואטסאפ">✆ וואטסאפ</a>'+
@@ -111,6 +124,23 @@ function vcf(){return Object.keys(people).map(function(k){var p=people[k];var n=
  return "BEGIN:VCARD\r\nVERSION:3.0\r\nFN:"+n+"\r\nN:"+n+";;;;\r\nTEL;TYPE=CELL:+"+p.phone+"\r\nNOTE:"+GROUP+"\r\nEND:VCARD";}).join("\r\n")+"\r\n";}
 function flash(b,txt){var o=b.textContent;b.classList.add("ok");b.textContent=txt;setTimeout(function(){b.classList.remove("ok");b.textContent=o;},1500);}
 function copyText(t){if(navigator.clipboard&&navigator.clipboard.writeText)return navigator.clipboard.writeText(t);return new Promise(function(r,j){window.prompt("העתק:",t);r();});}
+// ✎ — שינוי השם המוצג בכל הארכיון (נשמר ב-names.json דרך אותו web-app של המחיקה)
+list.addEventListener("click",function(e){
+ var b=e.target.closest?e.target.closest(".rename"):null;if(!b||!DELURL)return;
+ var card=b.closest(".card"),phone=card.getAttribute("data-phone"),orig=card.getAttribute("data-orig");
+ var to=window.prompt("שם לתצוגה בכל הארכיון עבור "+prettyPhone(phone)+"\n(ריק = חזרה לשם המקורי: "+orig+")",alias(orig,phone));
+ if(to===null)return;to=to.trim();
+ var code=window.prompt("קוד:");if(!code)return;
+ b.disabled=true;b.textContent="…";
+ fetch(DELURL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},
+  body:JSON.stringify({action:"rename",code:code,phone:phone,from:orig,to:to})})
+ .then(function(r){return r.json();})
+ .then(function(d){
+  if(!d||!d.ok){alert((d&&d.error)||"השינוי נכשל.");b.disabled=false;b.textContent="✎";return;}
+  if(to){if(phone)NAMES.phones[phone]=to;NAMES.names[orig]=to;}
+  else{delete NAMES.phones[phone];delete NAMES.names[orig];}
+  render(document.getElementById("search").value);})
+ .catch(function(){alert("לא ניתן היה ליצור קשר עם השירות.");b.disabled=false;b.textContent="✎";});});
 document.getElementById("search").addEventListener("input",function(e){render(e.target.value);});
 document.getElementById("copyall").addEventListener("click",function(){var b=this;copyText(allText()).then(function(){flash(b,"הועתק ✓");});});
 document.getElementById("vcf").addEventListener("click",function(){var blob=new Blob([vcf()],{type:"text/vcard;charset=utf-8"});var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=GROUP.replace(/[\\/:*?"<>|]/g,"-")+" - אלפון.vcf";document.body.appendChild(a);a.click();document.body.removeChild(a);});
@@ -118,7 +148,7 @@ list.addEventListener("click",function(e){var b=e.target.closest?e.target.closes
 fetch("data/index.json?t="+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){
  var months=(d.months||[]).slice().sort();
  return Promise.all(months.map(function(m){return fetch("data/"+m+".json?t="+Date.now()).then(function(r){return r.ok?r.json():{messages:[]};});}));
-}).then(function(all){all.forEach(function(d){(d.messages||[]).forEach(ingest);});render("");})
+}).then(function(all){all.forEach(function(d){(d.messages||[]).forEach(ingest);});return loadNames();}).then(function(){render("");})
  .catch(function(){statusEl.textContent="הארכיון עדיין ריק.";sub.textContent=GROUP;});
 </script>
 </body>

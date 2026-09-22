@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v16 -->
+<!-- wa-archive-generated v17 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -157,12 +157,17 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <script>
 var months=[],loaded=[],all=[],filter="",who="";
 var DELURL=((document.getElementById("delurl")||{}).textContent||"").trim();
+// שמות מוצגים (names.json בשורש המאגר, נערך מהאלפון): { phones:{<מספר>:שם}, names:{<שם ישן>:שם} }
+var NAMES={phones:{},names:{}};
+function alias(name,phone){return (phone&&NAMES.phones[phone])||NAMES.names[name]||name;}
+function loadNames(){return fetch("../../names.json?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
+ .then(function(d){if(d){NAMES.phones=d.phones||{};NAMES.names=d.names||{};}}).catch(function(){});}
 var deletedIds={};   // מ-data/deleted.json — מוסתרות מיד, נמחקות פיזית בריצת site-push הבאה
 var feed=document.getElementById("feed"),more=document.getElementById("more");
 var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
 var whoSel=document.getElementById("who");
 // "מי": בארכיון של צ'אטים אישיים — עם מי השיחה (thread); בקבוצה — השולח
-function whoOf(m){return m.thread||m.sender||"";}
+function whoOf(m){return m.thread?alias(m.thread,m.phone):alias(m.sender,m.phone);}
 function buildWho(){
  var counts={};all.forEach(function(m){var w=whoOf(m);if(w)counts[w]=(counts[w]||0)+1;});
  var names=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]||a.localeCompare(b,"he");});
@@ -212,7 +217,7 @@ function render(){
  if(who)list=list.filter(function(m){return whoOf(m)===who;});
  if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
   return (m.text||"").toLowerCase().indexOf(q)>-1||
-   (m.sender||"").toLowerCase().indexOf(q)>-1||
+   whoOf(m).toLowerCase().indexOf(q)>-1||(m.sender||"").toLowerCase().indexOf(q)>-1||
    (m.files||[]).some(function(f){return (f.name||"").toLowerCase().indexOf(q)>-1;});});}
  list.sort(function(a,b){return a.ts-b.ts;});
  var html="",lastDay="";
@@ -221,7 +226,9 @@ function render(){
    html+='<div class="day"><span>'+esc(m.date)+"</span></div>";}
   // יש מספר → השם (ובצ'אט אישי: שם הצד השני) הוא קישור wa.me — נפתח בוואטסאפ במחשב/בטלפון
   var waLink=m.phone?'https://wa.me/'+encodeURIComponent(m.phone):"";
-  var who=esc(m.sender), thr=(m.thread&&m.thread!==m.sender)?esc(m.thread):"";
+  var senderName=m.thread&&m.sender!==m.thread?alias(m.sender,""):alias(m.sender,m.phone);
+  var threadName=m.thread?alias(m.thread,m.phone):"";
+  var who=esc(senderName), thr=(threadName&&threadName!==senderName)?esc(threadName):"";
   if(waLink){ if(thr)thr='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+thr+"</a>";
    else who='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+who+"</a>"; }
   html+='<div class="msg" data-id="'+esc(m.id)+'"><div class="who">'+who+(thr?' <span class="thread">↔ '+thr+"</span>":"")+"</div>";
@@ -245,8 +252,9 @@ function render(){
 var GROUP_NAME=document.querySelector("header h1").textContent;
 function absUrl(u){try{return new URL(u,location.href).href;}catch(e){return u;}}
 function messageHtml(m){
+ var sn=m.thread&&m.sender!==m.thread?alias(m.sender,""):alias(m.sender,m.phone),tn=m.thread?alias(m.thread,m.phone):"";
  var h='<div dir="rtl" style="font-family:Segoe UI,Arial,sans-serif;font-size:15px;line-height:1.55;color:#1f2421">';
- h+='<div style="font-weight:600;color:#2f6d4f;font-size:13px">'+esc(m.sender)+(m.thread&&m.thread!==m.sender?' ↔ '+esc(m.thread):"")+
+ h+='<div style="font-weight:600;color:#2f6d4f;font-size:13px">'+esc(sn)+(tn&&tn!==sn?' ↔ '+esc(tn):"")+
   ' <span style="font-weight:400;color:#6b7280">· '+esc(GROUP_NAME)+' · '+esc(m.date)+' '+esc(m.time)+'</span></div>';
  if(m.text)h+='<div style="white-space:pre-wrap;margin:4px 0 6px">'+linkify(m.text)+'</div>';
  (m.files||[]).forEach(function(f){
@@ -258,7 +266,8 @@ function messageHtml(m){
  if(m.drive&&m.drive.url)h+='<div><a href="'+encodeURI(m.drive.url)+'">📎 '+esc(m.drive.name)+'</a></div>';
  return h+'</div>';}
 function messageText(m){
- var t=m.sender+(m.thread&&m.thread!==m.sender?' ↔ '+m.thread:"")+' · '+GROUP_NAME+' · '+m.date+' '+m.time+'\n';
+ var sn=m.thread&&m.sender!==m.thread?alias(m.sender,""):alias(m.sender,m.phone),tn=m.thread?alias(m.thread,m.phone):"";
+ var t=sn+(tn&&tn!==sn?' ↔ '+tn:"")+' · '+GROUP_NAME+' · '+m.date+' '+m.time+'\n';
  if(m.text)t+=m.text+'\n';
  (m.files||[]).forEach(function(f){t+=(f.path?absUrl(f.path):(f.name+' — '+(f.skipped||"")))+'\n';});
  if(m.drive&&m.drive.url)t+=m.drive.url+'\n';
@@ -339,7 +348,8 @@ document.getElementById("aikeychange").addEventListener("click",function(){aiSho
 // ההודעות שבתחום: החודשים הטעונים, אחרי סינון "מי" (לא אחרי חיפוש הטקסט — זה מה שהמודל אמור לעשות)
 function scopeList(){var l=all.slice();if(who)l=l.filter(function(m){return whoOf(m)===who;});l.sort(function(a,b){return a.ts-b.ts;});return l;}
 function aiLine(m,i){var files=(m.files||[]).map(function(f){return f.name+(f.type&&/^image/.test(f.type)?" (תמונה)":"");}).join(", ");
- return "[#"+i+"] "+m.date+" "+m.time+" | "+m.sender+(m.thread&&m.thread!==m.sender?" ↔ "+m.thread:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");}
+ var sn=m.thread&&m.sender!==m.thread?alias(m.sender,""):alias(m.sender,m.phone),tn=m.thread?alias(m.thread,m.phone):"";
+ return "[#"+i+"] "+m.date+" "+m.time+" | "+sn+(tn&&tn!==sn?" ↔ "+tn:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");}
 function aiContext(list,q){
  // כל שורה מסומנת [#n] כדי שהמודל יוכל להפנות. אם הכל נכנס בתקרה — שולחים הכל בסדר כרונולוגי.
  // אחרת: קודם ההודעות שחולקות מילים עם השאלה (רלוונטיות), ואז החדשות ביותר, עד התקרה.
@@ -500,7 +510,7 @@ fetch("data/index.json?t="+Date.now()).then(function(r){
  if(!r.ok)throw new Error("אין עדיין נתונים");return r.json();})
  .then(function(d){months=(d.months||[]).sort();
   if(!months.length){statusEl.textContent="אין עדיין הודעות.";return;}
-  return loadDeleted().then(function(){return loadMonth(months[months.length-1]);}).then(render);})
+  return Promise.all([loadDeleted(),loadNames()]).then(function(){return loadMonth(months[months.length-1]);}).then(render);})
  .catch(function(){statusEl.textContent="הארכיון עדיין ריק. ההודעות יופיעו כאן אחרי ההודעה הראשונה בקבוצה.";});
 </script>
 </body>
