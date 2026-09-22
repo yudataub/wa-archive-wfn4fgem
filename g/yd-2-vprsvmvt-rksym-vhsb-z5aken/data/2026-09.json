@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T10:17:14.963Z",
+ "updated": "2026-09-22T10:22:45.050Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1104,6 +1104,117 @@
    "files": [],
    "drive": null,
    "phone": "972537178620"
+  },
+  {
+   "id": "A5344AC312E0E4A803F629C8B25048A5",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "נא להתקשר למספר המופיע במודעה בלבד",
+   "ts": 1790072557000,
+   "date": "2026-09-22",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "phone": "972527005084"
+  },
+  {
+   "id": "A597C735F0401ED64316087B8EDDF04A",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "",
+   "ts": 1790072558000,
+   "date": "2026-09-22",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OFf44z5niHkYjDsZZ7RFYZ6h8rl_12ED/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OFf44z5niHkYjDsZZ7RFYZ6h8rl_12ED&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527005084"
+  },
+  {
+   "id": "A5F6304545C00848CD6AF2ED029792AF",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "",
+   "ts": 1790072559000,
+   "date": "2026-09-22",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16U7a-4Ln5vgqwYsih5d4QSkY369PgSov/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16U7a-4Ln5vgqwYsih5d4QSkY369PgSov&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527005084"
+  },
+  {
+   "id": "A5F78E22503C5EFD24E35803B8B49C09",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "",
+   "ts": 1790072559000,
+   "date": "2026-09-22",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13GR4e6GurmBOhBPu37F3xApuo5dPmzIQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13GR4e6GurmBOhBPu37F3xApuo5dPmzIQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527005084"
+  },
+  {
+   "id": "A57F3DF26BC5D29330038307D5BC002A",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "",
+   "ts": 1790072561000,
+   "date": "2026-09-22",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1y0_ilSPKsHJZ_1oh8GC_8bkUFkSFA6-w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y0_ilSPKsHJZ_1oh8GC_8bkUFkSFA6-w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527005084"
+  },
+  {
+   "id": "A5D86D7D20D22891A82E242DA8CDF400",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "",
+   "ts": 1790072561000,
+   "date": "2026-09-22",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yKBchGsawkINreuC3wH8PTbiz3LuGAg5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yKBchGsawkINreuC3wH8PTbiz3LuGAg5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527005084"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-22T09:20:38.793Z",
+ "updated": "2026-09-22T10:18:14.988Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -952,6 +952,25 @@
      "path": "https://drive.google.com/file/d/1ssz1tHlx_mGDH7CeK1K7O2UpHtDfuTk5/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ssz1tHlx_mGDH7CeK1K7O2UpHtDfuTk5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542312338"
+  },
+  {
+   "id": "3EB01C1DD6E83C312DA507",
+   "sender": "חינוך. הן עם כלביא יקום",
+   "text": "*שלום.  הבנה חשובה.  כולנו קראנו את המשפט הזה בתפילת יום כיפור. עצרת רגע להבין מה משמעותו?*🤔",
+   "ts": 1790072292000,
+   "date": "2026-09-22",
+   "time": "13:18",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "8.5MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
