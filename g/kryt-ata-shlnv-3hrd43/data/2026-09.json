@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T06:56:41.375Z",
+ "updated": "2026-09-22T07:06:42.229Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1543,6 +1543,37 @@
    ],
    "drive": null,
    "phone": "972526303010"
+  },
+  {
+   "id": "3A172E9481283A4BF94B",
+   "sender": "E.B🌹",
+   "text": "",
+   "ts": 1790060773000,
+   "date": "2026-09-22",
+   "time": "10:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LAxcKtkRM3QRWXfsFyTq3cY6JzNSyD1w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LAxcKtkRM3QRWXfsFyTq3cY6JzNSyD1w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547852863"
+  },
+  {
+   "id": "3A2877D0260C839AD974",
+   "sender": "E.B🌹",
+   "text": "*אצלנו לא מתחייבים לחבילות*\nתוצאות מטורפות כבר מטיפול ראשון!\nמחירים הכי משתלמים בשוק עם המכשור הטוב ביותר בשוק.\n\nלפרטים:\nhttps://wa.me/547852863?text=היי!+אשמח+לדעת+עוד+על+הטיפולים+ב-Laser+Forever+💫",
+   "ts": 1790060778000,
+   "date": "2026-09-22",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "phone": "972547852863"
   }
  ]
 }

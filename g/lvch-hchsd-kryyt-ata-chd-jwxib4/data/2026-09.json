@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T06:54:40.504Z",
+ "updated": "2026-09-22T07:02:12.150Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -742,6 +742,117 @@
    ],
    "drive": null,
    "phone": "972534303728"
+  },
+  {
+   "id": "AC879196A1C2ABDC35FAD93267EE39CB",
+   "sender": "טלי",
+   "text": "מישהו נמצא במשכן משה עכשיו?",
+   "ts": 1790060385000,
+   "date": "2026-09-22",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "phone": "972536363199"
+  },
+  {
+   "id": "AC0223BA3101F0C55F16A39380D1401F",
+   "sender": "ישראל עשור",
+   "text": "קיה קרניבל דגם פרימיום 2018\nיד 2 פרטי\nקילומטר-163000\nכיסאות עור דלתות צד חשמליות\n8 מקומות.רכב מפנק ביותר תא מטען ענק\n מחיר-95000\n0526303010-ישראל",
+   "ts": 1790060500000,
+   "date": "2026-09-22",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iQrTnbquna6NnJvtPTbTz4AjOw2gKfcg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iQrTnbquna6NnJvtPTbTz4AjOw2gKfcg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "ACAE02A2223C5B833295E14E6C5C8E06",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790060500000,
+   "date": "2026-09-22",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YWxGaClIzejvCNshs7jShVVrv0j30qj2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YWxGaClIzejvCNshs7jShVVrv0j30qj2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC0643282F851136B56113B1AB035D50",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790060501000,
+   "date": "2026-09-22",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "342KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vcsZCDZn5LhoHf6FlHDycU6reXL3AZSN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vcsZCDZn5LhoHf6FlHDycU6reXL3AZSN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC5001861959118E0CFA90F30D608131",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790060501000,
+   "date": "2026-09-22",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nzU7uPc10qsCM3pXE1tWbJl2-_6uOU4p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nzU7uPc10qsCM3pXE1tWbJl2-_6uOU4p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC77BFAD5326EB5BA6E56EFA1C1C1D26",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790060502000,
+   "date": "2026-09-22",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "399KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DWV1ZZIfW2NFqk1-y2iO8dMqA0bsVVa6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DWV1ZZIfW2NFqk1-y2iO8dMqA0bsVVa6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
   }
  ]
 }
