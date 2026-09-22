@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-09-22T12:32:19.703Z",
+ "updated": "2026-09-22T12:41:19.910Z",
  "messages": [
   {
    "id": "AC5F64DC483B5B537E2BFCD0D2E538FF",
@@ -32,6 +32,37 @@
    "ts": 1790080319000,
    "date": "2026-09-22",
    "time": "15:31",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "AC7654DFA808E71A4E1C9CC56088620E",
+   "sender": "עמירם אלבה",
+   "text": "ב\"ה \n\n🎉 ילדי החמ\"ד היסודי מכל רחבי הארץ מוזמנים! 🎉\n\nלקראת חג הסוכות נקיים מפגש לימודי חווייתי ומהנה, בהשתתפות רבנים אורחים, ובסיומו חידון חגיגי עם פרסים שיוגרלו בין המשתתפים! 🎁\n\n📚 מתי? יום רביעי הקרוב, י\"ב בתשרי, בשעה 11:00\n💻 איפה? במפגש מקוון ב-Google Meet:\nhttps://meet.google.com/xaa-usna-fyd\n\nמוזמנים כולם!\nבואו ללמוד, לשאול, להשתתף ולהיכנס לאווירת חג הסוכות יחד 🌿\n\nשחר לוי\nרכז יהדות ארצי",
+   "ts": 1790080830000,
+   "date": "2026-09-22",
+   "time": "15:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "308KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16t57xPq0XOKJNRd55uEeJsfRU7jGvis9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16t57xPq0XOKJNRd55uEeJsfRU7jGvis9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "ACDFEA8C75B0A0D465C570D39B46838E",
+   "sender": "עמירם אלבה",
+   "text": "אפשר לעביר את זה בלי שגיאות",
+   "ts": 1790080855000,
+   "date": "2026-09-22",
+   "time": "15:40",
    "files": [],
    "drive": null,
    "phone": "972545236548"

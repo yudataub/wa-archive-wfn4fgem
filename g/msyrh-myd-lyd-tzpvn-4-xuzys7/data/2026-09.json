@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-09-22T12:31:49.690Z",
+ "updated": "2026-09-22T12:38:19.809Z",
  "messages": [
   {
    "id": "A5B57AAF4F018468547F6603BE05A4BB",
@@ -200,6 +200,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1ZWTexallN7RTkzn5OxDMXDAiBGpv8KiW&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A59C8FE3B2965A72F988AC3C9B7EDE8F",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "❤️ *רוצה שגם אשתך תחייך ככה כשהיא תקבל את המתנה?*\n\nתפתיע אותה במארז מפנק של *תמר גנץ  חתום בטעם* ותן לה להרגיש כמה היא יקרה לך!\n\n🎁 כי הפתעה מתוקה אחת יכולה לעשות לה את כל החג!\n\n🚗 איסוף מרכסים\n📲 להזמנות \nhttps://wa.me/972559334207?text=אשמח%20לפרטים%20בקשר%20למארז",
+   "ts": 1790080668000,
+   "date": "2026-09-22",
+   "time": "15:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EQS6NthUVCGwwywKwj-GnkQehX44rN4C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EQS6NthUVCGwwywKwj-GnkQehX44rN4C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A59C1995D2BC55CF1AB0C2CD11E51797",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "אישתי האלופה👆🏽",
+   "ts": 1790080672000,
+   "date": "2026-09-22",
+   "time": "15:37",
+   "files": [],
    "drive": null,
    "phone": "972509122190"
   }
