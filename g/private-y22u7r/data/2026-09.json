@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T12:05:29.874Z",
+ "updated": "2026-09-22T12:48:19.953Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -403,6 +403,30 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1CDA5CFEEFD5878EA2F27646E3D368",
+   "sender": "Yuno Gireev",
+   "text": "שלום. אני מחפש דירה לחודש ל5 אנשים. מתחילת שבוע הבא",
+   "ts": 1790081243000,
+   "date": "2026-09-22",
+   "time": "15:47",
+   "files": [],
+   "drive": null,
+   "thread": "Yuno Gireev",
+   "phone": "972522508996"
+  },
+  {
+   "id": "AC26F7CE3BF0F512E5B8066D0B8947F6",
+   "sender": "Yuno Gireev",
+   "text": "באזור חיפה. האם יש לך משהו",
+   "ts": 1790081276000,
+   "date": "2026-09-22",
+   "time": "15:47",
+   "files": [],
+   "drive": null,
+   "thread": "Yuno Gireev",
+   "phone": "972522508996"
   }
  ]
 }
