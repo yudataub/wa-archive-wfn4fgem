@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T05:20:06.745Z",
+ "updated": "2026-09-22T05:28:57.993Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1036,6 +1036,25 @@
      "path": "https://drive.google.com/file/d/1keFKe_0BC8sd0_0SPaIqYGzqaBFcNt79/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1keFKe_0BC8sd0_0SPaIqYGzqaBFcNt79&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3AE48229C05F80BE8FD6",
+   "sender": "אסף",
+   "text": "תמונה מצרית בסגנון פפירוס 120₪",
+   "ts": 1790054905000,
+   "date": "2026-09-22",
+   "time": "08:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TeWwYrMhCX1eTxzarkg4mvzD0LDNWgmE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TeWwYrMhCX1eTxzarkg4mvzD0LDNWgmE&sz=w1200"
     }
    ],
    "drive": null

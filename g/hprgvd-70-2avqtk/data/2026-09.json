@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T05:16:06.767Z",
+ "updated": "2026-09-22T05:32:57.087Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1744,6 +1744,42 @@
      "path": "https://drive.google.com/file/d/1NPRI78OBDunZLjoLQw99ahZrdTKKmgQ_/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1NPRI78OBDunZLjoLQw99ahZrdTKKmgQ_&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB07189ED253CD6466ED1",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: סיום החג בבית כנסת בית אל בבורו פארק ניו יורק, לפני התיבה שולם למר. צילום יוסי הופמן בסטטוס\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790055039000,
+   "date": "2026-09-22",
+   "time": "08:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "8.8MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB01A13ECB78A806119A5",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ג׳וזף קראוס יוצא קהילת סאטמאר הגיע ערב חג מול 770 עם ראש של חזיר.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790055156000,
+   "date": "2026-09-22",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "24.2MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null

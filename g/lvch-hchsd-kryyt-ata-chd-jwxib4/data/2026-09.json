@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T05:09:06.537Z",
+ "updated": "2026-09-22T05:34:58.844Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -605,6 +605,25 @@
      "path": "https://drive.google.com/file/d/1NkdwX29k000kgZjDPBkhk87BbAwPjih3/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1NkdwX29k000kgZjDPBkhk87BbAwPjih3&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC80D2281FF22A855BD07F8DD3FBA7DB",
+   "sender": "שרון😄",
+   "text": "מעות יזכור או כל סיבה אחרת .. \nעשיית הטוב  מביאה עוד יותר טוב. \nאתם זוכים.. המשפחות זוכות... עם ישראל זוכה!!\n\nברוכים תהיו! \n\nביט/פייבוקס/אחר 052828512, שרון.",
+   "ts": 1790055282000,
+   "date": "2026-09-22",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-HPqcD_ytESlSzJIdlDQvOePcw82acAX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-HPqcD_ytESlSzJIdlDQvOePcw82acAX&sz=w1200"
     }
    ],
    "drive": null

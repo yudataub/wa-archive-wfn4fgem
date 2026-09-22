@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T04:11:29.229Z",
+ "updated": "2026-09-22T05:34:37.378Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -109,6 +109,25 @@
    "date": "2026-09-21",
    "time": "22:05",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC65A3E4238C295A6B47F4EEC8987371",
+   "sender": "שרון😄",
+   "text": "מעות יזכור או כל סיבה אחרת .. \nעשיית הטוב  מביאה עוד יותר טוב. \nאתם זוכים.. המשפחות זוכות... עם ישראל זוכה!!\n\nברוכים תהיו! \n\nביט/פייבוקס/אחר 052828512, שרון.",
+   "ts": 1790055225000,
+   "date": "2026-09-22",
+   "time": "08:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Vd-6spqLmumiHaNMuIS1xA81GOR5jQVC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Vd-6spqLmumiHaNMuIS1xA81GOR5jQVC&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
