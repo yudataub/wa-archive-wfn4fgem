@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T13:43:58.881Z",
+ "updated": "2026-09-22T14:38:44.321Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1361,6 +1361,46 @@
    "files": [],
    "drive": null,
    "phone": "972528546866"
+  },
+  {
+   "id": "ACF65C0B6D900B3CC7C05F644CD2CD01",
+   "sender": "יונתן מנחם",
+   "text": "",
+   "ts": 1790087878000,
+   "date": "2026-09-22",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "338KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16OWGubrMdOWknrHe8WkrSksAA7EMVsHl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16OWGubrMdOWknrHe8WkrSksAA7EMVsHl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587124309"
+  },
+  {
+   "id": "AC2627939C34E4D1E46650415CB7E0C1",
+   "sender": "יונתן מנחם",
+   "text": "תפרסמו",
+   "ts": 1790087897000,
+   "date": "2026-09-22",
+   "time": "17:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "297KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-J4qjahetavN7bEM8SBgqCufZvz0suV5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-J4qjahetavN7bEM8SBgqCufZvz0suV5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587124309"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T14:36:44.304Z",
+ "updated": "2026-09-22T14:37:44.320Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2352,6 +2352,46 @@
    ],
    "drive": null,
    "phone": "972532397782"
+  },
+  {
+   "id": "3A269A9E90C9F3491792",
+   "sender": "תהילה אלגרסי",
+   "text": "אחרי שהתאוששנו מכיפור, הגיע הזמן לעבור לחג הכי שמח — סוכות! 🌿✨\n\nספיישל סוכות במיוחד בשבילכם 🤎\nוכמובן, שגם התפריט הקבוע שלנו זמין כרגיל.\n\nהזמנות לסוכות מתקבלות עד יום חמישי בבוקר 🥰\nמחכה להכין לכם מלא מתוקים לחג! 🍰",
+   "ts": 1790087842000,
+   "date": "2026-09-22",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K11bQq9oZjWl7A6sitIxLcHsa5eFWbIx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K11bQq9oZjWl7A6sitIxLcHsa5eFWbIx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532397782"
+  },
+  {
+   "id": "3A43296E30DD8210C75E",
+   "sender": "אסף",
+   "text": "ציור על לוחית עץ 100₪",
+   "ts": 1790087844000,
+   "date": "2026-09-22",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KojVW8IkPcETQcJKY2LVYNi9hP9kC4Mb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KojVW8IkPcETQcJKY2LVYNi9hP9kC4Mb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }
