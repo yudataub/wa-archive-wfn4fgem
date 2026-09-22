@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T11:26:22.178Z",
+ "updated": "2026-09-22T11:30:52.196Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2599,6 +2599,45 @@
      "path": "https://drive.google.com/file/d/1WYvnL5QoifjLL8eMytex1QXxwF6W9c4J/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1WYvnL5QoifjLL8eMytex1QXxwF6W9c4J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB064EBF2C2035A47C9B7",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: וואו הצצה לסדר העבודה. המנקה הגוי בישיבת באר יעקב תיעד מהחלון את סדר העבודה במוסף ביום כיפור של ראש הישיבה הגרד\"י שפירא. הפעם גם יש לנו שם לגוי שתיעד: פרנסיס ממדינת גאנה\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790076495000,
+   "date": "2026-09-22",
+   "time": "14:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "11.1MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB029BE219DCACA81B251",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: בלוף הכפרות על תרנגול. מצבור ענק של תרנגולות מתות באשפותני זבל ביער האנגלי סמוך לביתר עלית.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790076637000,
+   "date": "2026-09-22",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gMb-6a4Uc_dw9k3eDzcBXcOBdgynfyN9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gMb-6a4Uc_dw9k3eDzcBXcOBdgynfyN9&sz=w1200"
     }
    ],
    "drive": null,

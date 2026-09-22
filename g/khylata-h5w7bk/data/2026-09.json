@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T11:23:21.945Z",
+ "updated": "2026-09-22T11:36:22.217Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -342,6 +342,37 @@
    ],
    "drive": null,
    "phone": "972522858822"
+  },
+  {
+   "id": "AC951B7B990E351EDD9B568E099A8DE2",
+   "sender": "מאיה",
+   "text": "https://wa.me/972523492545?text=היי%20מאיה,%20אשמח%20לשמוע%20פרטים%20על%20הטיפול%20והסדנאות",
+   "ts": 1790076610000,
+   "date": "2026-09-22",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13ePrO-ufnF4WwSBi1MSQCngYYLNgdS3F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13ePrO-ufnF4WwSBi1MSQCngYYLNgdS3F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523492545"
+  },
+  {
+   "id": "AC671842A06199CF68DE9E00F2C3C817",
+   "sender": "Inbal Koresh-shavat",
+   "text": "מחפשת טכנאי גז \nשמוכן לעשות מצווה לחבר לאם חד הורית \nאת הגז  לכיריים שנרכשו עבורה🙏🏼",
+   "ts": 1790076969000,
+   "date": "2026-09-22",
+   "time": "14:36",
+   "files": [],
+   "drive": null,
+   "phone": "972546225644"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T11:25:51.964Z",
+ "updated": "2026-09-22T11:30:52.172Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1922,6 +1922,26 @@
    ],
    "drive": null,
    "phone": "972559953709"
+  },
+  {
+   "id": "A535B8EBD6C2E5A2F0B01BA24F4CF3F6",
+   "sender": "לוקסמן / ברון כובעים רכסים",
+   "text": "*לוקסמן*\nבוטיק אופנה לגבר\nעם מבחר חליפות לייקרה/צמר, \nחולצות מכופתרות ללא גיהוץ בכלל!!\nמכנסי לייקרה איכותיים \nועוד מבחר עניבות חגורות עור\nועוד..\nרחוב סביון 37 רכסים \nפתוח מהשעה 10:30-22:30 רצוף \nמחכים לכם 😊",
+   "ts": 1790076627000,
+   "date": "2026-09-22",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dawB5liiy0AWtObxOnbXm3fdeSfMm9OB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dawB5liiy0AWtObxOnbXm3fdeSfMm9OB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "97246225511"
   }
  ]
 }

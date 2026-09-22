@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-22T10:05:44.779Z",
+ "updated": "2026-09-22T11:29:52.127Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -72,6 +72,88 @@
    ],
    "drive": null,
    "phone": "972503207070"
+  },
+  {
+   "id": "ACE0184E6AD9516D85BE3FF75CE80037",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790076542000,
+   "date": "2026-09-22",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FKgiL1eRiieqQkxqTd--m2KmNy70o4Vw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FKgiL1eRiieqQkxqTd--m2KmNy70o4Vw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "ACAE1CA890F07FE2A5617EF210FADDF5",
+   "sender": "Avishai Melamed",
+   "text": "[מיקום]",
+   "ts": 1790076545000,
+   "date": "2026-09-22",
+   "time": "14:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "ACDF7C329519A2CA0639963DCAEC956C",
+   "sender": "Avishai Melamed",
+   "text": "ברוכים הבאים",
+   "ts": 1790076550000,
+   "date": "2026-09-22",
+   "time": "14:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "ACBF88B410A3D50876497FBD8DD43388",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790076564000,
+   "date": "2026-09-22",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "165KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VgCY2sC_wyUQTRHUOrQ-d2fQI7aY3LEf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VgCY2sC_wyUQTRHUOrQ-d2fQI7aY3LEf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "ACD3865032562D3186D6EF81E2767B80",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790076564000,
+   "date": "2026-09-22",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Crt_yIeABzw5BU3cnX6Ve7w43syrTMfc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Crt_yIeABzw5BU3cnX6Ve7w43syrTMfc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
   }
  ]
 }

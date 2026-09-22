@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T10:46:53.880Z",
+ "updated": "2026-09-22T11:30:52.161Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1084,6 +1084,26 @@
    ],
    "drive": null,
    "phone": "972527146142"
+  },
+  {
+   "id": "A51CBBAD1FB220C99E23371907694E7C",
+   "sender": "לוקסמן / ברון כובעים רכסים",
+   "text": "*לוקסמן*\nבוטיק אופנה לגבר\nעם מבחר חליפות לייקרה/צמר, \nחולצות מכופתרות ללא גיהוץ בכלל!!\nמכנסי לייקרה איכותיים \nועוד מבחר עניבות חגורות עור\nועוד..\nרחוב סביון 37 רכסים \nפתוח מהשעה 10:30-22:30 רצוף \nמחכים לכם 😊",
+   "ts": 1790076627000,
+   "date": "2026-09-22",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xDJCscFmhTc7oazYDgXaDZ1ezCD0dEll/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xDJCscFmhTc7oazYDgXaDZ1ezCD0dEll&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "97246225511"
   }
  ]
 }
