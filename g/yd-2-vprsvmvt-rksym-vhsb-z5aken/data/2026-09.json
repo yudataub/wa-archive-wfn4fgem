@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T08:45:58.783Z",
+ "updated": "2026-09-22T09:02:29.072Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -933,6 +933,46 @@
    ],
    "drive": null,
    "phone": "972533168397"
+  },
+  {
+   "id": "3ADDF2012B9FB4BFB542",
+   "sender": "💕הדר אלבז💕",
+   "text": "שריינו תור מהיר והגיעו מוכנים ורגועים לחג 📞",
+   "ts": 1790067712000,
+   "date": "2026-09-22",
+   "time": "12:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Oo_tcwK9FwBj_f1bXlwu50uSr0idK4s6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Oo_tcwK9FwBj_f1bXlwu50uSr0idK4s6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506689516"
+  },
+  {
+   "id": "2A9182AF8BA4185D88B2",
+   "sender": "דבח מאור סוכנות גז",
+   "text": "",
+   "ts": 1790067741000,
+   "date": "2026-09-22",
+   "time": "12:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bEEJJ1m4BFUKBgQqeGzJFCSDe7TlRcMY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bEEJJ1m4BFUKBgQqeGzJFCSDe7TlRcMY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544488800"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T07:26:45.941Z",
+ "updated": "2026-09-22T09:06:29.190Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -904,6 +904,46 @@
    "files": [],
    "drive": null,
    "phone": "972546929013"
+  },
+  {
+   "id": "ACEAFD7CC88A5EC37AC2BDD4DA1BF855",
+   "sender": "צורית דמתי",
+   "text": "",
+   "ts": 1790067960000,
+   "date": "2026-09-22",
+   "time": "12:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cf9ltNgdhy5RowR2QPBmKOX2I5sj7VR4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cf9ltNgdhy5RowR2QPBmKOX2I5sj7VR4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545583552"
+  },
+  {
+   "id": "AC5BF1D23D575FB9932AC8D5178C209D",
+   "sender": "צורית דמתי",
+   "text": "",
+   "ts": 1790067962000,
+   "date": "2026-09-22",
+   "time": "12:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sJ5d0KsbykBpIal9ShghCQBAZP1D_4SG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sJ5d0KsbykBpIal9ShghCQBAZP1D_4SG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545583552"
   }
  ]
 }

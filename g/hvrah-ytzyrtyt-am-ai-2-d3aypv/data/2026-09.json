@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-22T08:23:45.664Z",
+ "updated": "2026-09-22T09:03:25.368Z",
  "messages": [
   {
    "id": "3EB0D26ABC8BBA9BE3DD66",
@@ -72,6 +72,37 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "ACA9F138B254E58F5181A8743E2588A8",
+   "sender": "רועי",
+   "text": "הקישור הזה לקהילה לא תקין",
+   "ts": 1790067774000,
+   "date": "2026-09-22",
+   "time": "12:02",
+   "files": [],
+   "drive": null,
+   "phone": "972502170431"
+  },
+  {
+   "id": "ACA58AC39B3A0A67A11557C90AEA300D",
+   "sender": "רועי",
+   "text": "",
+   "ts": 1790067779000,
+   "date": "2026-09-22",
+   "time": "12:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12v-FzlHJknPN1Ca8hPdBzV71solzT7JA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12v-FzlHJknPN1Ca8hPdBzV71solzT7JA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502170431"
   }
  ]
 }
