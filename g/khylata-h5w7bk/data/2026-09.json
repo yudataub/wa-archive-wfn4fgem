@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T06:31:32.103Z",
+ "updated": "2026-09-22T07:44:16.754Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -158,6 +158,37 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC07F7DE6FE71519E64B03CB787B7434",
+   "sender": "ליאת פינטו",
+   "text": "",
+   "ts": 1790063026000,
+   "date": "2026-09-22",
+   "time": "10:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xv_D4exBCW9d-rIcp4fT4rHwGEtpI0KO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xv_D4exBCW9d-rIcp4fT4rHwGEtpI0KO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504283234"
+  },
+  {
+   "id": "AC98E0A89D0FF3ECBC3D8B5ABDFDB7B3",
+   "sender": "ליאת פינטו",
+   "text": "מישהו מכיר? נמצאה ויזה",
+   "ts": 1790063027000,
+   "date": "2026-09-22",
+   "time": "10:43",
+   "files": [],
+   "drive": null,
+   "phone": "972504283234"
   }
  ]
 }

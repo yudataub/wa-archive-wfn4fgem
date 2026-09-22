@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v7 -->
+<!-- wa-archive-generated v8 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -66,16 +66,43 @@ border-radius:8px;padding:6px 10px;font-size:13px;text-decoration:none;color:var
 font-family:inherit;background:var(--panel);color:var(--ink);
 border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 #more[hidden]{display:none;}
+/* ---- חלונית "קפיצה לתאריך": בטלפון מגירה מעל התוכן; במסך רחב עמודה קבועה מימין, ניתנת לקיפול ---- */
+.hdr-row{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+#navbtn{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;font-size:18px;line-height:1;padding:7px 10px;cursor:pointer;}
+#navwrap{position:fixed;inset:0;z-index:20;display:none;}
+#navwrap.open{display:block;}
+#navback{position:absolute;inset:0;background:rgba(0,0,0,.45);}
+#nav{position:absolute;top:0;bottom:0;right:0;width:min(290px,82vw);background:var(--panel);overflow-y:auto;padding:14px 12px;box-sizing:border-box;}
+.nav-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;}
+#nav h2{margin:0;font-size:15px;color:var(--accent);}
+#navclose{background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:6px;padding:2px 8px;cursor:pointer;font-family:inherit;}
+.nav-mo{margin-bottom:12px;}
+.nav-mo-btn{width:100%;text-align:right;background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font-size:14px;font-family:inherit;cursor:pointer;font-weight:600;}
+.nav-days{list-style:none;margin:6px 0 0;padding:0;}
+.nav-day{width:100%;background:transparent;color:var(--ink);border:0;border-radius:6px;padding:6px 10px;font-size:14px;font-family:inherit;cursor:pointer;display:flex;justify-content:space-between;gap:8px;}
+.nav-day:hover{background:var(--bubble);}
+.nav-n{color:var(--muted);font-size:12px;}
+.day span{scroll-margin-top:140px;}
+@media (min-width:900px){
+ /* עמודה קבועה; body.nav-collapsed = מקופלת (הכפתור 📅 מחליף) */
+ #navwrap{display:block;position:static;}#navback{display:none;}
+ #nav{position:fixed;top:0;bottom:0;right:0;width:260px;border-left:1px solid var(--line);}
+ body{padding-right:260px;}
+ body.nav-collapsed #navwrap{display:none;}body.nav-collapsed{padding-right:0;}
+}
 #status{text-align:center;color:var(--muted);padding:20px;font-size:14px;}
 </style>
 </head>
 <body>
 <header>
-<h1>בואו שעריו בתודה🙏</h1>
+<div class="hdr-row"><h1>בואו שעריו בתודה🙏</h1>
+<button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div>
 <div class="sub" id="sub">טוען…</div>
 <input id="search" type="search" placeholder="חיפוש בהודעות…">
 <select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
 </header>
+<div id="navwrap"><div id="navback"></div>
+<div id="nav"><div class="nav-head"><h2>קפיצה לתאריך</h2><button id="navclose" title="סגירה" aria-label="סגירה">✕</button></div><div id="navlist"></div></div></div>
 <main><div id="feed"></div>
 <button id="more" hidden>טען חודש קודם</button>
 <div id="status">טוען…</div></main>
@@ -150,6 +177,8 @@ function render(){
    '<button class="act copy" title="העתקה עם העיצוב — להדבקה במייל/במסמך">⧉ העתקה</button>'+
    '<a class="act" href="'+mailtoFor(m)+'" title="פתיחת מייל חדש עם ההודעה">✉ מייל</a></div></div>';});
  feed.innerHTML=html;
+ [].forEach.call(feed.querySelectorAll(".day"),function(el){el.id="d-"+el.textContent.trim();});
+ buildNav(list);
  statusEl.textContent=list.length?"":((filter||who)?"אין תוצאות.":"אין עדיין הודעות.");
  sub.textContent=(list.length!==all.length?list.length+" מתוך "+all.length:all.length)+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
  buildWho();
@@ -197,6 +226,44 @@ feed.addEventListener("click",function(e){
  copyRich(messageHtml(m),messageText(m)).then(function(){
   b.classList.add("ok");b.textContent="הועתק ✓";setTimeout(function(){b.classList.remove("ok");b.textContent="⧉ העתקה";},1500);
  },function(){window.prompt("העתק:",messageText(m));});});
+// ---- קפיצה לתאריך ----
+var navWrap=document.getElementById("navwrap"),navList=document.getElementById("navlist");
+var WIDE=window.matchMedia("(min-width:900px)");
+try{if(localStorage.getItem("navCollapsed")==="1")document.body.classList.add("nav-collapsed");}catch(e){}
+function buildNav(list){
+ var byDate={};(list||all).forEach(function(m){byDate[m.date]=(byDate[m.date]||0)+1;});
+ navList.innerHTML="";
+ months.slice().sort().reverse().forEach(function(mo){
+  var box=document.createElement("div");box.className="nav-mo";
+  var b=document.createElement("button");b.className="nav-mo-btn";b.setAttribute("data-mo",mo);
+  b.textContent=loaded.indexOf(mo)>-1?mo:mo+" — לחצו לטעינה";box.appendChild(b);
+  var days=Object.keys(byDate).filter(function(d){return d.indexOf(mo)===0;}).sort().reverse();
+  if(days.length){var ul=document.createElement("ul");ul.className="nav-days";
+   days.forEach(function(d){var li=document.createElement("li");var db=document.createElement("button");db.className="nav-day";db.setAttribute("data-d",d);
+    var s1=document.createElement("span");s1.textContent=d.slice(8)+"."+d.slice(5,7);
+    var s2=document.createElement("span");s2.className="nav-n";s2.textContent=byDate[d];
+    db.appendChild(s1);db.appendChild(s2);li.appendChild(db);ul.appendChild(li);});
+   box.appendChild(ul);}
+  navList.appendChild(box);});}
+function toggleNav(on){
+ if(WIDE.matches){var col=(on===undefined)?!document.body.classList.contains("nav-collapsed"):!on;
+  document.body.classList.toggle("nav-collapsed",col);try{localStorage.setItem("navCollapsed",col?"1":"0");}catch(e){}return;}
+ var show=(on===undefined)?!navWrap.classList.contains("open"):on;navWrap.classList.toggle("open",show);}
+document.getElementById("navbtn").addEventListener("click",function(){toggleNav();});
+document.getElementById("navclose").addEventListener("click",function(){toggleNav(false);});
+document.getElementById("navback").addEventListener("click",function(){toggleNav(false);});
+navList.addEventListener("click",function(e){
+ var t=e.target;var mb=t.closest?t.closest(".nav-mo-btn"):null;
+ if(mb){var k=mb.getAttribute("data-mo");if(loaded.indexOf(k)<0){mb.disabled=true;loadOlder(k);}return;}
+ var db=t.closest?t.closest(".nav-day"):null;
+ if(db){var el=document.getElementById("d-"+db.getAttribute("data-d"));
+  if(el){if(!WIDE.matches)toggleNav(false);
+   var hh=document.querySelector("header").offsetHeight+8;
+   var y=el.getBoundingClientRect().top+window.pageYOffset-hh;window.scrollTo(0,y<0?0:y);
+   setTimeout(function(){var y2=el.getBoundingClientRect().top+window.pageYOffset-hh;if(Math.abs(y2-window.pageYOffset)>4)window.scrollTo(0,y2<0?0:y2);},350);}}});
+function loadOlder(mo){
+ var h0=document.documentElement.scrollHeight,y0=window.pageYOffset;
+ loadMonth(mo).then(function(){render();window.scrollTo(0,y0+(document.documentElement.scrollHeight-h0));});}
 function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
  .then(function(r){return r.ok?r.json():{messages:[]};})
  .then(function(d){all=all.concat(d.messages||[]);loaded.push(m);});}

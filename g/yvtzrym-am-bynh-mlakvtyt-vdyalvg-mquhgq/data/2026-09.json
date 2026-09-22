@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-22T07:34:09.696Z",
+ "updated": "2026-09-22T07:45:00.970Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -189,6 +189,26 @@
    ],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "3EB07ED49EFD35823A7578",
+   "sender": "חפציה",
+   "text": "שני אירועים של קהילת המורים של גוגל - מוזמנים לבחור ולהירשם:\n1. *היום (שלישי)* - מפגש ריענון קלאסרום. חצי שעה של בסיס ואיך להתחיל ולהגדיר, וחצי שעה - שימוש בחידושי קלאסרום מהשנה האחרונה. https://events.gegisrael.com/s/7dk26\n2. מפגש חידושים בסביבת גוגל חינוך - של אוקטובר |יום שלישי |  6.10 https://events.gegisrael.com/s/gagmx\n\nלא לשכוח לצרף מורים נוספים מהצוות שלכם.\nשתהיה שנה טובה ומתוקה! 🐝\nצוות המחנכים של גוגל ישראל",
+   "ts": 1790063093000,
+   "date": "2026-09-22",
+   "time": "10:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "31KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hZgr-cOqAlZYpcZ49YW9a0XWcaCRPKag/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hZgr-cOqAlZYpcZ49YW9a0XWcaCRPKag&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
   }
  ]
 }

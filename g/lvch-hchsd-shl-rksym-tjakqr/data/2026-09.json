@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T07:28:16.096Z",
+ "updated": "2026-09-22T07:43:16.731Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -717,6 +717,26 @@
    "files": [],
    "drive": null,
    "phone": "972528409041"
+  },
+  {
+   "id": "ACC508E80E0CC486C76A62861A3D0D00",
+   "sender": "אריאל",
+   "text": "למסירה וילונות בצבע לבן",
+   "ts": 1790062976000,
+   "date": "2026-09-22",
+   "time": "10:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xlJ4l_8h8bHhMERcHdHi60kNke7toI_-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xlJ4l_8h8bHhMERcHdHi60kNke7toI_-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
   }
  ]
 }
