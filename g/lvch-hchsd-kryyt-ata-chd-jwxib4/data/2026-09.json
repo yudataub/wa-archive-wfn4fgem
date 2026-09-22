@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T09:14:51.176Z",
+ "updated": "2026-09-22T09:42:50.292Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -984,6 +984,46 @@
    ],
    "drive": null,
    "phone": "972527146142"
+  },
+  {
+   "id": "A5B872C678E72260791F2513838D57A7",
+   "sender": "פאר והדר",
+   "text": "וְשָׂמַחְתָּ בְּחַגֶּךָ וְהָיִיתָ אַךְ שָׂמֵחַ... 🍋✨\nלכבוד חג הסוכות, החלטתי לעשות מכירה מצומצמת ומיוחדת ביותר! 🌾🎉\nאז מה מחכה לכם במכירה...????\n 🧁\n✨ פחזניות מושלמות ביותר\n🥧 עוגות בחושות\n🍪 מארזי עוגיות\n🔮 קינוחי כדור\n🍧 קינוחי כוסות\n🍰 רולדות קרם במבחר טעמים...\n📲 איך מזמינים?\nלחצו על 0527317774\nשלחו את המילה תפריט ומייד אשלח אותו אליכם! 💌\n✨ המוצרים הינם כשרות עדה חרדית ובית יוסף\n📍 איסוף מקרית ביאליק\nחג שמח ומתוק! 🍯",
+   "ts": 1790069898000,
+   "date": "2026-09-22",
+   "time": "12:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "482KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c-DhLMy7TIlvgPyoIxSk89G6KYJiQeCJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c-DhLMy7TIlvgPyoIxSk89G6KYJiQeCJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527317774"
+  },
+  {
+   "id": "AC178CFC303F1BB6D8283F5B815AD71F",
+   "sender": "גמח עדן",
+   "text": "לרצינים בלבד",
+   "ts": 1790070159000,
+   "date": "2026-09-22",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "218KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1C75MAA8A2zbqvvxdTLtF_9ZY5jjiHGPE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1C75MAA8A2zbqvvxdTLtF_9ZY5jjiHGPE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T09:34:13.595Z",
+ "updated": "2026-09-22T09:42:50.262Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1033,6 +1033,26 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC2E8B8EBE428DE6D5A93D4FFAA6D191",
+   "sender": "גמח עדן",
+   "text": "לרצינים בלבד",
+   "ts": 1790070139000,
+   "date": "2026-09-22",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "218KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vpFdBggDMfOd5k8t2I2xUgziNWVBK8Hm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vpFdBggDMfOd5k8t2I2xUgziNWVBK8Hm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }

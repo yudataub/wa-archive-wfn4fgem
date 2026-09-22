@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-09-22T09:22:43.147Z",
+ "updated": "2026-09-22T09:44:33.810Z",
  "messages": [
   {
    "id": "A5B66BB8EA4ED0D7F787CF823F6BF9F6",
@@ -170,6 +170,48 @@
    "files": [],
    "drive": null,
    "phone": "972547176175"
+  },
+  {
+   "id": "A5CB0B077C1C7CDE4C51D930486841CC",
+   "sender": "ספיר גויטע",
+   "text": "רובן עובדים עם אשמורת?",
+   "ts": 1790070020000,
+   "date": "2026-09-22",
+   "time": "12:40",
+   "files": [],
+   "drive": null,
+   "phone": "972525172779"
+  },
+  {
+   "id": "A5FEC8F40E9587D49A0EE7B3B5B66506",
+   "sender": "יפית קדוש",
+   "text": "מי מבינה בזה ויכולה לעדכן אם צריכה לעשות משהו??",
+   "ts": 1790070031000,
+   "date": "2026-09-22",
+   "time": "12:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "64KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1meTEFAWVDnI8tMe0ggTw_cAPkIdjezaf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1meTEFAWVDnI8tMe0ggTw_cAPkIdjezaf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539315901"
+  },
+  {
+   "id": "AC950CFFD33E4A7385FBA3582478013C",
+   "sender": "חגית הלל",
+   "text": "לבדוק שמעודכן בתלוש המשכורת.",
+   "ts": 1790070258000,
+   "date": "2026-09-22",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "phone": "972546761167"
   }
  ]
 }
