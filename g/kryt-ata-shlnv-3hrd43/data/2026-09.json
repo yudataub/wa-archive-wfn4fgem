@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T11:49:29.623Z",
+ "updated": "2026-09-22T12:00:29.784Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2002,6 +2002,17 @@
    ],
    "drive": null,
    "phone": "972546760845"
+  },
+  {
+   "id": "AC6D52D407C54A43CC78EB6977D8D3C1",
+   "sender": "פאר יוסף",
+   "text": "https://youtu.be/dxrU7MzPDCM?si=5T6AYmQsSfgV4aLM",
+   "ts": 1790078407000,
+   "date": "2026-09-22",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
   }
  ]
 }

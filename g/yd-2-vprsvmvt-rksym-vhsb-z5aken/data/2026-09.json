@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T11:43:59.524Z",
+ "updated": "2026-09-22T12:03:59.842Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1386,6 +1386,46 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC5FB484E7316B73467A90C976BC7654",
+   "sender": "m.w.",
+   "text": "",
+   "ts": 1790078359000,
+   "date": "2026-09-22",
+   "time": "14:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sPIbbzpZONU-w7G5dXiFidlSTcQYVhAA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sPIbbzpZONU-w7G5dXiFidlSTcQYVhAA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585144530"
+  },
+  {
+   "id": "ACB7051BAEB3B092A315E007DB8AE630",
+   "sender": "תן חיוך אח יקר הכל לטובה❤️‍🔥",
+   "text": "מחר  בעז\"ה יגיע ליש חסד כסאות וסכך לכל השואלים בפרטי",
+   "ts": 1790078616000,
+   "date": "2026-09-22",
+   "time": "15:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X9vvSgl9YGu5l6wAu9fCqCIgHUpJXKf5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X9vvSgl9YGu5l6wAu9fCqCIgHUpJXKf5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525310305"
   }
  ]
 }

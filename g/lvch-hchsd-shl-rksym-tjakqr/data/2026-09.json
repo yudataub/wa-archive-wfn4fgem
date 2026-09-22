@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T10:00:56.256Z",
+ "updated": "2026-09-22T12:06:59.887Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -1040,6 +1040,37 @@
    "files": [],
    "drive": null,
    "phone": "972527192102"
+  },
+  {
+   "id": "AC95680900F731684ABFB118F229D31D",
+   "sender": "תן חיוך אח יקר הכל לטובה❤️‍🔥",
+   "text": "מחר  בעז\"ה יגיע ליש חסד כסאות וסכך לכל השואלים בפרטי",
+   "ts": 1790078615000,
+   "date": "2026-09-22",
+   "time": "15:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Y0Tx2ComuxlrqLaPI7ksR-bs_-9Mwznq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Y0Tx2ComuxlrqLaPI7ksR-bs_-9Mwznq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525310305"
+  },
+  {
+   "id": "AC8F8D28B70A8B5E85EE006959DA5507",
+   "sender": "CYK",
+   "text": "מחפש מישהו לתיקון מזגן",
+   "ts": 1790078801000,
+   "date": "2026-09-22",
+   "time": "15:06",
+   "files": [],
+   "drive": null,
+   "phone": "972587683835"
   }
  ]
 }
