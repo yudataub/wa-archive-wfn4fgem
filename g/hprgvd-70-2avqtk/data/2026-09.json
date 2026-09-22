@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T06:36:02.182Z",
+ "updated": "2026-09-22T06:44:55.902Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1981,6 +1981,25 @@
    "date": "2026-09-22",
    "time": "09:36",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "3EB06695BEC64DA7A3C35B",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: על רקע \"הסערה\" ברשת סביב הארוחות בבתי מלון ביום כיפור. אפילו במלון דן שהושכר לחרדים לחג הוגשו ארוחות בצום לזקוקים לכך. נוהל שגרתי לחלוטין.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790059484000,
+   "date": "2026-09-22",
+   "time": "09:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "342KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yVLc8Z6VWUGg0oiQQlaobLi7umd2oAgE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yVLc8Z6VWUGg0oiQQlaobLi7umd2oAgE&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

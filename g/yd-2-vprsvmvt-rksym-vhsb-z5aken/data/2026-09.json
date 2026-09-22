@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T06:32:32.093Z",
+ "updated": "2026-09-22T06:44:55.874Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -538,6 +538,25 @@
      "path": "https://drive.google.com/file/d/19Dje_v9bLY9m69slzlncqYUnJBeO_H_b/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19Dje_v9bLY9m69slzlncqYUnJBeO_H_b&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC34D2439CC1378DEE45734009A003BE",
+   "sender": "נטרלי",
+   "text": "",
+   "ts": 1790059484000,
+   "date": "2026-09-22",
+   "time": "09:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10Mz0KfeRMy5s7pqgZ0nQxJgcXbt6qo5o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10Mz0KfeRMy5s7pqgZ0nQxJgcXbt6qo5o&sz=w1200"
     }
    ],
    "drive": null

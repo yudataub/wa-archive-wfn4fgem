@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הרב חנן פורת",
- "updated": "2026-09-22T04:39:49.734Z",
+ "updated": "2026-09-22T06:40:02.363Z",
  "messages": [
   {
    "id": "gm-1a05c6f6756f9f38",
@@ -741,6 +741,24 @@
    "date": "2026-09-18",
    "time": "16:33",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "3A3892A26E3EA1BB546A",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1790059179000,
+   "date": "2026-09-22",
+   "time": "09:39",
+   "files": [
+    {
+     "name": "דמות החמ״ד הרב חנן פורת .pdf",
+     "size": "2.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1SJgbvZpgEMwvLhmB1M_6nW45OTfhCURF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null
   }
  ]

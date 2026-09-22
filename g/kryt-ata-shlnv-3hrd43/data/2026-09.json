@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T06:37:02.175Z",
+ "updated": "2026-09-22T06:43:25.805Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1402,6 +1402,46 @@
      "thumb": "https://drive.google.com/thumbnail?id=1IsXtL41q8Ed7mYrx7iwzwE6PC-r_2eUs&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "AC2BE4A3AB42E5053E53477DB6D4F19A",
+   "sender": "עדנה שיפמן",
+   "text": "חחחח זה אותו רחוב",
+   "ts": 1790059103000,
+   "date": "2026-09-22",
+   "time": "09:38",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC0C1278E7E81CFB4C67FE04F1DBC18A",
+   "sender": "Adi Shtainitz",
+   "text": "איך.. הם מאוד רחוקים אחד מהשני.",
+   "ts": 1790059185000,
+   "date": "2026-09-22",
+   "time": "09:39",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC0CB56519A1C588D595671D663D6E76",
+   "sender": "רונן",
+   "text": "זה רחוב ארוך אני גר ברחוב הזה",
+   "ts": 1790059294000,
+   "date": "2026-09-22",
+   "time": "09:41",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACB38807D9544B064C25A5D2482F14FC",
+   "sender": "Adi Shtainitz",
+   "text": "תודה. רחוב ללא מוצא כזה וגם מתמזג עם הציונות, נכון?",
+   "ts": 1790059386000,
+   "date": "2026-09-22",
+   "time": "09:43",
+   "files": [],
    "drive": null
   }
  ]
