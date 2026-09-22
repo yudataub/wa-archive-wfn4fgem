@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T17:12:26.719Z",
+ "updated": "2026-09-22T18:34:46.250Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1707,6 +1707,25 @@
    ],
    "drive": null,
    "phone": "972507800165"
+  },
+  {
+   "id": "ACC01A7FF065914FBEC5EF760D4C5306",
+   "sender": "הלל בולאק",
+   "text": "",
+   "ts": 1790102070000,
+   "date": "2026-09-22",
+   "time": "21:34",
+   "files": [
+    {
+     "name": "בסוכה אחת תשפז-1 (1).pdf",
+     "size": "4.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ALOGI7101o3uleK9DRCH6JtjLqhdwgBz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547679309"
   }
  ]
 }
