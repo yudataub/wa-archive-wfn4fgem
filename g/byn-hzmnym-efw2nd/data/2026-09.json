@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-21T21:28:14.626Z",
+ "updated": "2026-09-22T03:51:21.744Z",
  "messages": [
   {
    "id": "failed-1788250556828",
@@ -97,6 +97,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=13SCllyfvXqBmoAExIy8sXUtHRwWzkC-N&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "AC830721AA0B7FB1ED3DC28C6D64A2D6",
+   "sender": "שאער רננה",
+   "text": "מחפשים צימר במרכז או קרוב למרכז, ללילה/שעות\nעם ג'קוזי/בריכה.\nבפרטי, תודה",
+   "ts": 1790049080000,
+   "date": "2026-09-22",
+   "time": "06:51",
+   "files": [],
    "drive": null
   }
  ]
