@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T20:36:55.940Z",
+ "updated": "2026-09-22T20:43:16.010Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -4164,6 +4164,26 @@
      "path": "https://drive.google.com/file/d/1wghdNsac63vql3bJxFoPmkHRqCzFaNzB/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1wghdNsac63vql3bJxFoPmkHRqCzFaNzB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB04C1406AD93D3C89435",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: נער חסידי מנקה את הכובע לחג עם צינור אוויר ומאחוריו מוסלמים מתפללים\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790109762000,
+   "date": "2026-09-22",
+   "time": "23:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "900KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1AuHET-qldsHWzTJu-dcFHiRDMj2Cbyev/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AuHET-qldsHWzTJu-dcFHiRDMj2Cbyev&sz=w1200"
     }
    ],
    "drive": null,
