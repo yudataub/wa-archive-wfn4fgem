@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T12:56:20.078Z",
+ "updated": "2026-09-22T13:02:50.183Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2124,6 +2124,26 @@
    ],
    "drive": null,
    "phone": "972509985570"
+  },
+  {
+   "id": "AC83DA085CAB47A70CFA0953A240B839",
+   "sender": "דודי שטרן",
+   "text": "",
+   "ts": 1790082139000,
+   "date": "2026-09-22",
+   "time": "16:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dNbsBUpsEiTVk0s7Napb72udqKxOXCmQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dNbsBUpsEiTVk0s7Napb72udqKxOXCmQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
   }
  ]
 }

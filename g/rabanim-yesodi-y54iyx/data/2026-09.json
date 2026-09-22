@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T11:51:29.658Z",
+ "updated": "2026-09-22T13:03:50.207Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1638,6 +1638,26 @@
    ],
    "drive": null,
    "phone": "972522966955"
+  },
+  {
+   "id": "A5956968A08AEC0B01EEB40B14F1422E",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "ב\"ה \n\n🎉 ילדי החמ\"ד היסודי מכל רחבי הארץ מוזמנים! 🎉\n\nלקראת חג הסוכות נקיים מפגש לימודי חווייתי ומהנה, בהשתתפות רבנים אורחים, ובסיומו חידון חגיגי עם פרסים שיוגרלו בין המשתתפים! 🎁\n\n📚 מתי? יום רביעי הקרוב, י\"ב בתשרי, בשעה 11:00\n\nhttps://meet.google.com/xaa-usna-fyd",
+   "ts": 1790082224000,
+   "date": "2026-09-22",
+   "time": "16:03",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Gop-2T4CMoyhaB9v_zAKIPtRdZXhkoUn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gop-2T4CMoyhaB9v_zAKIPtRdZXhkoUn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508733084"
   }
  ]
 }

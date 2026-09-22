@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T12:54:20.059Z",
+ "updated": "2026-09-22T13:04:20.218Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2856,6 +2856,26 @@
      "path": "https://drive.google.com/file/d/1skNg1e2Zu16DS4agR-H5RGlzR-E6Cy46/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1skNg1e2Zu16DS4agR-H5RGlzR-E6Cy46&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0FE06FDC302BC8EC36F",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: יעקב אשר בישיבה ראשונה כיו\"ר דגל התורה ללא גפני ומקלב.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790082253000,
+   "date": "2026-09-22",
+   "time": "16:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PWVG97_XxH9Rvv_IHLN_nDPdOvIDx8gZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PWVG97_XxH9Rvv_IHLN_nDPdOvIDx8gZ&sz=w1200"
     }
    ],
    "drive": null,
