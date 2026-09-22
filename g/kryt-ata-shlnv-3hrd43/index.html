@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v3 -->
+<!-- wa-archive-generated v4 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -28,6 +28,9 @@ header h1{margin:0;font-size:18px;font-weight:600;}
 header .sub{font-size:12px;opacity:.85;margin-top:2px;}
 #search{width:100%;box-sizing:border-box;margin-top:10px;padding:8px 10px;
 border:0;border-radius:8px;font-size:14px;font-family:inherit;}
+#who{width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;border:0;border-radius:8px;
+font-size:14px;font-family:inherit;background:#fff;color:#1f2421;}
+.thread{color:var(--muted);font-weight:400;font-size:12px;}
 main{max-width:780px;margin:0 auto;padding:16px;}
 .day{text-align:center;margin:18px 0 10px;}
 .day span{background:var(--panel);border:1px solid var(--line);color:var(--muted);
@@ -59,14 +62,25 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <h1>קרית אתא שלנו</h1>
 <div class="sub" id="sub">טוען…</div>
 <input id="search" type="search" placeholder="חיפוש בהודעות…">
+<select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
 </header>
 <main><div id="feed"></div>
 <button id="more" hidden>טען חודש קודם</button>
 <div id="status">טוען…</div></main>
 <script>
-var months=[],loaded=[],all=[],filter="";
+var months=[],loaded=[],all=[],filter="",who="";
 var feed=document.getElementById("feed"),more=document.getElementById("more");
 var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
+var whoSel=document.getElementById("who");
+// "מי": בארכיון של צ'אטים אישיים — עם מי השיחה (thread); בקבוצה — השולח
+function whoOf(m){return m.thread||m.sender||"";}
+function buildWho(){
+ var counts={};all.forEach(function(m){var w=whoOf(m);if(w)counts[w]=(counts[w]||0)+1;});
+ var names=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]||a.localeCompare(b,"he");});
+ if(who&&!counts[who])who="";
+ var html='<option value="">כל האנשים ('+names.length+')</option>';
+ names.forEach(function(n){html+='<option value="'+esc(n)+'">'+esc(n)+" ("+counts[n]+")</option>";});
+ whoSel.innerHTML=html;whoSel.value=who;}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
  return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 // קישורים בטקסט → לחיצים (אחרי esc, אז בטוח)
@@ -95,6 +109,7 @@ function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
  '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
 function render(){
  var list=all.slice();
+ if(who)list=list.filter(function(m){return whoOf(m)===who;});
  if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
   return (m.text||"").toLowerCase().indexOf(q)>-1||
    (m.sender||"").toLowerCase().indexOf(q)>-1||
@@ -104,22 +119,25 @@ function render(){
  list.forEach(function(m){
   if(m.date!==lastDay){lastDay=m.date;
    html+='<div class="day"><span>'+esc(m.date)+"</span></div>";}
-  html+='<div class="msg"><div class="who">'+esc(m.sender)+"</div>";
+  html+='<div class="msg"><div class="who">'+esc(m.sender)+
+   (m.thread&&m.thread!==m.sender?' <span class="thread">↔ '+esc(m.thread)+"</span>":"")+"</div>";
   if(m.text)html+='<div class="txt">'+linkify(m.text)+"</div>";
   var f=(m.files||[]).map(fileHtml);
   if(m.drive&&m.drive.url)f.push(driveHtml(m.drive));
   if(f.length)html+='<div class="files">'+f.join("")+"</div>";
   html+='<div class="when">'+esc(m.time)+"</div></div>";});
  feed.innerHTML=html;
- statusEl.textContent=list.length?"":(filter?"אין תוצאות.":"אין עדיין הודעות.");
- sub.textContent=all.length+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
+ statusEl.textContent=list.length?"":((filter||who)?"אין תוצאות.":"אין עדיין הודעות.");
+ sub.textContent=(list.length!==all.length?list.length+" מתוך "+all.length:all.length)+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
+ buildWho();
  more.hidden=loaded.length>=months.length;
- if(!filter&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
+ if(!filter&&!who&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
 function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
  .then(function(r){return r.ok?r.json():{messages:[]};})
  .then(function(d){all=all.concat(d.messages||[]);loaded.push(m);});}
 document.getElementById("search").addEventListener("input",function(e){
  filter=e.target.value.trim();render();});
+whoSel.addEventListener("change",function(e){who=e.target.value;render();});
 more.addEventListener("click",function(){
  var next=months[months.length-1-loaded.length];
  if(!next)return;more.disabled=true;
