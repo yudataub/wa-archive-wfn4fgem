@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-09-22T18:44:46.393Z",
+ "updated": "2026-09-22T19:11:15.138Z",
  "messages": [
   {
    "id": "A5B57AAF4F018468547F6603BE05A4BB",
@@ -369,6 +369,26 @@
      "path": "https://drive.google.com/file/d/14z54daRhY8Ig7EFLcZDhcaPz4lVctVxy/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=14z54daRhY8Ig7EFLcZDhcaPz4lVctVxy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5D84F4BF848345DA803DC15B64B2CC3",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "וואי איזה פדיחות הקבוצה התמלאה,\nיאלה תכנסו לקישור לפני שהיא גם היא תתמלא👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼👇🏼",
+   "ts": 1790104248000,
+   "date": "2026-09-22",
+   "time": "22:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1OhIPMSRi8XlmAcETHPhX3NCofZt965sq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OhIPMSRi8XlmAcETHPhX3NCofZt965sq&sz=w1200"
     }
    ],
    "drive": null,
