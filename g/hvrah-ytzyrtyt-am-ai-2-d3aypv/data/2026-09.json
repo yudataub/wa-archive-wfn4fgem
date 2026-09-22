@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-22T16:06:14.510Z",
+ "updated": "2026-09-22T16:29:43.786Z",
  "messages": [
   {
    "id": "3EB0D26ABC8BBA9BE3DD66",
@@ -214,6 +214,26 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "A5567EA09B44C551CC5D0340E90B51F5",
+   "sender": "Henry Ai",
+   "text": "ערב טוב 🪄\nהסוכן החינמי המעולה של פייסבוק (מטא) מכה גלים ועושה הרבה הייפ ודי בצדק\n\nאז יצרתי לכם מדריך מלא להפעלה ושימוש ב -Muse - גם מישראל, מתאים לכל מי שרוצה עוזר אישי שבאמת עובד בשבילו, עובד מהמחשב ומהנייד ואפילו מווצאפ, תומך בעברית, וחינמי לגמרי 🤟🏻\n\nהמדריך כולל קוד הטבה שיתן לכם שימוש חינמי נוסף \n\nקישור למדריך 👇🏼\nhttps://youtu.be/Z0DztzD7HgQ\n\nתהנו\nהנרי - henryai.space 🩷",
+   "ts": 1790094564000,
+   "date": "2026-09-22",
+   "time": "19:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nG7yXTrlSHtASJko1L1aQ8VFpAPTdWEi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nG7yXTrlSHtASJko1L1aQ8VFpAPTdWEi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585005171"
   }
  ]
 }
