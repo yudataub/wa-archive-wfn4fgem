@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T12:17:41.577Z",
+ "updated": "2026-09-22T12:18:11.553Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2737,6 +2737,25 @@
      "path": "https://drive.google.com/file/d/16nGI6bMo7siqoh7lqtufouCImlZwi-6Q/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=16nGI6bMo7siqoh7lqtufouCImlZwi-6Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0A30E3CC7DB9B6089FC",
+   "sender": "הפרגוד",
+   "text": "\"בדרך כלל אני לא מבקש מהציבור\"\n\n*🚨 קריאה בהולה מהרה״צ ר׳ מיילך בידרמן: ״השלימו את מצוות פדיון השבויים״*\n\nלאחר ההיענות האדירה, נשאר להשלים את המשימה: כ-225 אלף ₪ בלבד חסרים כדי להגיע למיליון שקלים עד הושענא רבא!\n\n*בקריאה מיוחדת לציבור:* `״יש בזה סניגוריה עצומה על כלל ישראל בימים אלו. ובוודאי שיושפע מזה השפעות עצומות לכל המסייעים לראות ישועות במהרה״.`\n\nלהשלמת מצוות פדיון השבויים הקליקו כאן >>>\nhttps://www.kupat.org.il/views/DonationPage?pid=2538&recid=0&source=par",
+   "ts": 1790079492000,
+   "date": "2026-09-22",
+   "time": "15:18",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "9.7MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,

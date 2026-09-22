@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם",
- "updated": "2026-09-22T11:40:30.579Z",
+ "updated": "2026-09-22T12:20:12.005Z",
  "messages": [
   {
    "id": "gm-1a05b0fd61a0e542",
@@ -3774,6 +3774,37 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "ACE1A190F4632FE5552DEFDE596076C8",
+   "sender": "אורלי אוחנה",
+   "text": "ב\"ה \n\n🎉 ילדי החמ\"ד היסודי מכל רחבי הארץ מוזמנים! 🎉\n\nלקראת חג הסוכות נקיים מפגש לימודי חווייתי ומהנה, בהשתתפות רבנים אורחים, ובסיומו חידון חגיגי עם פרסים שיוגרלו בין המשתתפים! 🎁\n\n📚 מתי? יום רביעי הקרוב, י\"ב בתשרי, בשעה 11:00\n💻 איפה? במפגש מקוון ב-Google Meet:\nhttps://meet.google.com/xaa-usna-fyd\n\nמוזמנים כולם!\nבואו ללמוד, לשאול, להשתתף ולהיכנס לאווירת חג הסוכות יחד 🌿\n\nשחר לוי\nרכז יהדות ארצי",
+   "ts": 1790079579000,
+   "date": "2026-09-22",
+   "time": "15:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "308KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eIRDxUWO3-xowFVXKN8YplLpNegecXvr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eIRDxUWO3-xowFVXKN8YplLpNegecXvr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC32885D63CD85909CF2D2D45CD1BA72",
+   "sender": "אורלי אוחנה",
+   "text": "☝️מוזמנים לשלוח להורים❤️",
+   "ts": 1790079598000,
+   "date": "2026-09-22",
+   "time": "15:19",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }
