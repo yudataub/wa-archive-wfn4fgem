@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T21:08:46.441Z",
+ "updated": "2026-09-22T21:29:13.424Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2783,6 +2783,26 @@
    ],
    "drive": null,
    "phone": "972502650668"
+  },
+  {
+   "id": "3EB0AC6DB4CFECC16DE8B6",
+   "sender": "שילת מחשבים",
+   "text": "💻 **למכירה!**\n\nמחשב יד 2 **קטן במיוחד** – בגודל של עיפרון!\nקומפקטי, נוח וחוסך מקום.\n\n📞 **לפרטים:**\nשילת מחשבים\n**054-848-7350**",
+   "ts": 1790112531000,
+   "date": "2026-09-23",
+   "time": "00:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "366KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ecF7AM5SsIAiqjX72j2UWm1loNUV_x27/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ecF7AM5SsIAiqjX72j2UWm1loNUV_x27&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548487350"
   }
  ]
 }

@@ -213,6 +213,13 @@ function fileHtml(f){
  if(isImage(f)){
   var src=driveThumb(f)||f.path;   // בלי דרייב — תמונה שהועתקה למאגר
   return '<a href="'+href+'" target="_blank" rel="noopener"><img loading="lazy" src="'+encodeURI(src)+'" alt="'+esc(f.name)+'"></a>';}
+ // סרטון שהועתק לריפו הווידאו של הקבוצה (site-video.js): GitHub Pages מגיש video/mp4 עם Range,
+ // אז <video> רגיל מנגן ומדלג. זה המסלול המועדף — נגן הדרייב נשבר בלי עוגיות צד-שלישי.
+ if(isVideo(f)&&f.mirror){
+  var post=driveThumb(f);
+  return '<div class="player"><video controls preload="metadata"'+(post?' poster="'+encodeURI(post)+'"':"")+
+   ' src="'+encodeURI(f.mirror)+'"></video>'+
+   (f.path?'<a class="file open" href="'+encodeURI(f.path)+'" target="_blank" rel="noopener">פתיחה בדרייב ↗</a>':"")+'</div>';}
  // סרטון/הקלטה מהדרייב: פוסטר עם ▶; לחיצה מחליפה לנגן של דרייב בתוך הדף (iframe /preview, נטען רק בלחיצה)
  if(isVideo(f)&&driveThumb(f)){
   return '<a class="video" href="'+href+'" data-drive="'+esc(driveIdOf(f))+'" target="_blank" rel="noopener" title="'+esc(f.name)+'">'+
