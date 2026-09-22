@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T13:27:28.615Z",
+ "updated": "2026-09-22T13:45:28.908Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -477,6 +477,60 @@
    ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC15B2659210E7F71A7F404C6D2964C2",
+   "sender": "מורדכי מור",
+   "text": "",
+   "ts": 1790084695000,
+   "date": "2026-09-22",
+   "time": "16:44",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "35KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1EeLaYN_y0T81BDR-bLuIh66RVpXXt4GB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EeLaYN_y0T81BDR-bLuIh66RVpXXt4GB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מורדכי מור",
+   "phone": "972524668790"
+  },
+  {
+   "id": "AC1CD8C97A5257ACC7B243ADBB6A0250",
+   "sender": "מורדכי מור",
+   "text": "",
+   "ts": 1790084702000,
+   "date": "2026-09-22",
+   "time": "16:45",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "336KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/17zk1dpe1XB5-j5CUuTWhJASQIg2xewL7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17zk1dpe1XB5-j5CUuTWhJASQIg2xewL7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מורדכי מור",
+   "phone": "972524668790"
+  },
+  {
+   "id": "AC5477F792D26D0C578D2F294107CD34",
+   "sender": "מורדכי מור",
+   "text": "איפה כבודו משמש כרב בית ספר ?",
+   "ts": 1790084717000,
+   "date": "2026-09-22",
+   "time": "16:45",
+   "files": [],
+   "drive": null,
+   "thread": "מורדכי מור",
+   "phone": "972524668790"
   }
  ]
 }

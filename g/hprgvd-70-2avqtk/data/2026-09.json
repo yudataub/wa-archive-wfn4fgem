@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T13:16:58.509Z",
+ "updated": "2026-09-22T13:40:58.845Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2918,6 +2918,26 @@
      "path": "https://drive.google.com/file/d/1sxRvWL9YEgY8xwno2JwPqDdqYHawbpT5/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1sxRvWL9YEgY8xwno2JwPqDdqYHawbpT5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB02C71FFF78DB7804956",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: אירוע הוקרה והצדעה למתנדבי זק\"א התקיים היום בבית נשיא המדינה בירושלים, בהשתתפות הנהלת הארגון, מפקדים וראשי צוותים מכל רחבי הארץ.\n\nבמהלך דבריו התייחס נשיא המדינה גם להתמודדות הנפשית של מתנדבי זק\"א בעקבות המראות והזירות הקשות שאליהן הם נחשפים במסגרת פעילותם.\n\nהנשיא פנה לדובר זק\"א מוטי בוקצ'ין ולסמנכ\"ל המבצעים חיים וינגרטן, ואמר: \"אני זוכר את מוטי מתראיין על זה ואת חיים מתראיין על זה. ואני אומר לכם - המתנדבים, אם מישהו מכם זקוק לעזרה אל תישארו עם זה לבד\".\n\nבהמשך הוסיף הנשיא: \"אנו רואים את המאמץ העילאי שלכם. אתם אנשי התמיד שלנו, תודה לכם, חזקו ואמצו\".\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790084446000,
+   "date": "2026-09-22",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1XaR4BjW95v7P0EqKPRE5eF0n3d0CY1fj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XaR4BjW95v7P0EqKPRE5eF0n3d0CY1fj&sz=w1200"
     }
    ],
    "drive": null,
