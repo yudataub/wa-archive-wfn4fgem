@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T15:55:49.951Z",
+ "updated": "2026-09-22T16:01:20.028Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -3280,6 +3280,26 @@
    "date": "2026-09-22",
    "time": "18:55",
    "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB08B247A67CB857E1B84",
+   "sender": "הפרגוד",
+   "text": "*🎐 מקשטים את הסוכה?*\n *שמרו על הילדים!*\n\nאל תאפשרו להם לטפס, והרחיקו מהם סולמות וכלי עבודה.\n\n*💙 מכבי מאחלת חג סוכות שמח ובטוח!*",
+   "ts": 1790092861000,
+   "date": "2026-09-22",
+   "time": "19:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z4R21NjHbEOd_ntoh1RelCddcAKZQnKA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z4R21NjHbEOd_ntoh1RelCddcAKZQnKA&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972535629624"
   }
