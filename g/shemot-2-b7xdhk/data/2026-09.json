@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שמות 2 ויהושע",
- "updated": "2026-09-22T08:15:14.394Z",
+ "updated": "2026-09-22T08:26:24.985Z",
  "messages": [
   {
    "id": "gm-1a059eb7e5dac7bf",
@@ -950,6 +950,58 @@
    ],
    "drive": null,
    "phone": "972526538693"
+  },
+  {
+   "id": "3A30EA45CCF54EE98A57",
+   "sender": "דבורה לאה",
+   "text": "אשמח אם אפשר לשלוח את זה שוב, לא נפתח לי🙏🏻",
+   "ts": 1790065226000,
+   "date": "2026-09-22",
+   "time": "11:20",
+   "files": [],
+   "drive": null,
+   "phone": "972585537709"
+  },
+  {
+   "id": "3AE0029F3DC57D9D8BD1",
+   "sender": "אפרת יפרח🫶🏻",
+   "text": "",
+   "ts": 1790065408000,
+   "date": "2026-09-22",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "לימוד התמצאות בחומש מעודכן.pdf",
+     "size": "257KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1cVelrf2PvDGyOlmkcYWk62U9vGm-vOah/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523571440"
+  },
+  {
+   "id": "3AB70C1FFC7850B26845",
+   "sender": "דבורה לאה",
+   "text": "תודה רבה",
+   "ts": 1790065436000,
+   "date": "2026-09-22",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972585537709"
+  },
+  {
+   "id": "AC8AEFF509529F8EB0F0FBACD6B4A2D7",
+   "sender": "רויטל",
+   "text": "זה דף אחד?",
+   "ts": 1790065526000,
+   "date": "2026-09-22",
+   "time": "11:25",
+   "files": [],
+   "drive": null,
+   "phone": "972586890080"
   }
  ]
 }

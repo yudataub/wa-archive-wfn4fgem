@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-09-22T05:00:41.319Z",
+ "updated": "2026-09-22T08:20:12.982Z",
  "messages": [
   {
    "id": "A50C37F3B60616A637148B5C6BE8510E",
@@ -32,6 +32,26 @@
    "time": "08:00",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "A5FF4AAE1C7C282C018595A5543B8FA1",
+   "sender": "mary garby",
+   "text": "שני אירועים של קהילת המורים של גוגל - מוזמנים לבחור ולהירשם:\n1. *היום (שלישי)* - מפגש ריענון קלאסרום. חצי שעה של בסיס ואיך להתחיל ולהגדיר, וחצי שעה - שימוש בחידושי קלאסרום מהשנה האחרונה. https://events.gegisrael.com/s/7dk26\n2. מפגש חידושים בסביבת גוגל חינוך - של אוקטובר |יום שלישי |  6.10 https://events.gegisrael.com/s/gagmx\n\nלא לשכוח לצרף מורים נוספים מהצוות שלכם.\nשתהיה שנה טובה ומתוקה! 🐝\nצוות המחנכים של גוגל ישראל",
+   "ts": 1790065179000,
+   "date": "2026-09-22",
+   "time": "11:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "31KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15D8A0PKsyJbxWHOLnZVrOIxKVWdh_umM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15D8A0PKsyJbxWHOLnZVrOIxKVWdh_umM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

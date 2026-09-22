@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T08:13:06.114Z",
+ "updated": "2026-09-22T08:26:25.435Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -693,6 +693,66 @@
    ],
    "drive": null,
    "phone": "972504168987"
+  },
+  {
+   "id": "ACCE93F318B6379B683CF0675CB353AE",
+   "sender": "שמואל",
+   "text": "נשאר רק לבחור ולהתקשר",
+   "ts": 1790065246000,
+   "date": "2026-09-22",
+   "time": "11:20",
+   "files": [
+    {
+     "name": "stylish-bedding-album.pdf",
+     "size": "3.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1uwq5WefR3yOI34Y92J3m4i5GazEjBP49/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACBD2BE49F7A49F294CCDDE4B4E5A81E",
+   "sender": "שמואל",
+   "text": "🌿 מתכוננים לסוכות עם סטייליש 🌿\n\nעסוקים בהכנת הסוכה? שולחים לנו הודעה, בוחרים מתוך התמונות ואנחנו מכינים לכם לאיסוף מהיר!\n\n✨ מפות חגיגיות לסוכה\n✨ נרתיקים ללולב ולאתרוג עם אפשרות לרקמה אישית\n✨ בשמים ומפיצי ריח — 10% הנחה\n✨ בקניית שני מוצרים זהים — 10% הנחה\n✨ מגבות, מצעים ומתנות מעוצבות לכל אירוע\n\nהמלאי מוגבל — כל הקודם זוכה!\n\n📍 סטייליש — רחוב התמר 15/א, רכסים\n📞 053-316-8369 / 053-316-8397.",
+   "ts": 1790065261000,
+   "date": "2026-09-22",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC6DC688D042E3024040D51DE3D0C20A",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790065429000,
+   "date": "2026-09-22",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "stylish-tablecloth-album-2.pdf",
+     "size": "3.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1amoAaZfXfxsnBgP7wakU79oRwxVSpna3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC8EEB4D1C68CD7D3382E7713754D806",
+   "sender": "שמואל",
+   "text": "מה שנשאר לומר מספר מצע או מפה.",
+   "ts": 1790065570000,
+   "date": "2026-09-22",
+   "time": "11:26",
+   "files": [],
+   "drive": null,
+   "phone": "972533168397"
   }
  ]
 }
