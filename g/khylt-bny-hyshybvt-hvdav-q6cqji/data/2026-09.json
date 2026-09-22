@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-22T10:11:14.792Z",
+ "updated": "2026-09-22T11:11:51.720Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -1458,6 +1458,137 @@
    "files": [],
    "drive": null,
    "phone": "972552748485"
+  },
+  {
+   "id": "ACDB8BB1300CC55CE2D33038CB6400B7",
+   "sender": "moshe",
+   "text": "מישהו מגיע היום מבני ברק?",
+   "ts": 1790075467000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [],
+   "drive": null,
+   "phone": "972532462420"
+  },
+  {
+   "id": "AC1DE2606C79F371AF7ABD9129724ADC",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1790075501000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19XOrpj1U_Eb-ex_urnsHn0mu6fk4Ckla/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19XOrpj1U_Eb-ex_urnsHn0mu6fk4Ckla&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC9695A8B0D8885D0524BDD376EE19C9",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1790075501000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "38KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gzUxkXcS28mFQunJYx7GfRX4QJ86r0Hj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gzUxkXcS28mFQunJYx7GfRX4QJ86r0Hj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACD978361F5BD40953A07F6A90477513",
+   "sender": "הירש מיכאל",
+   "text": "!! 6!ז ד !!!!0",
+   "ts": 1790075501000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FmBYsok6NYJhBipzYzrVvnAXxUNydng2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FmBYsok6NYJhBipzYzrVvnAXxUNydng2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC1B2ADAB03EAC259D2E86F895F77E7C",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1790075502000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uh1FuBJJpPkTybKZ648lc7hxgHIBU-0e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uh1FuBJJpPkTybKZ648lc7hxgHIBU-0e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACFB7D9FCE2D723932DE9C9E6ED18CF9",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1790075502000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TDfra4VypYMKstEEpZ7nj_7wqRwox-OO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TDfra4VypYMKstEEpZ7nj_7wqRwox-OO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACDF65C75FF76CEF0785A0FD1C7E567B",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1790075503000,
+   "date": "2026-09-22",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HfTQg-L8kc96d9ksbbAQEmwRriy4JgZI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HfTQg-L8kc96d9ksbbAQEmwRriy4JgZI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
   }
  ]
 }

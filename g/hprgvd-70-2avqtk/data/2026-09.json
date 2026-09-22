@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T11:06:51.644Z",
+ "updated": "2026-09-22T11:07:51.665Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2550,6 +2550,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1JA4Aze92dq2MhC9v_qD59DWUPbdCXa0j&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB07DB09790E782078037",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: דיווחים על תקלות בכמה בנקים מהבוקר.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790075272000,
+   "date": "2026-09-22",
+   "time": "14:07",
+   "files": [],
    "drive": null,
    "phone": "972535629624"
   }

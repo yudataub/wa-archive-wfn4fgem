@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T11:01:21.559Z",
+ "updated": "2026-09-22T11:07:51.656Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -302,6 +302,26 @@
    "files": [],
    "drive": null,
    "phone": "972526621118"
+  },
+  {
+   "id": "AC2D7673A60DB6712C7E96DD9F733D37",
+   "sender": "אפרת ברבי",
+   "text": "",
+   "ts": 1790075268000,
+   "date": "2026-09-22",
+   "time": "14:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1U1YCqpOzKtvi9jJl2EHM5V6gYl3NBIuy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U1YCqpOzKtvi9jJl2EHM5V6gYl3NBIuy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528762156"
   }
  ]
 }

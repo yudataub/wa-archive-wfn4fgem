@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T09:35:08.096Z",
+ "updated": "2026-09-22T11:15:51.808Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1532,6 +1532,44 @@
    "files": [],
    "drive": null,
    "phone": "972547891440"
+  },
+  {
+   "id": "3EB02D19AEF2AB0FABD700",
+   "sender": "אהרן קדוש",
+   "text": "",
+   "ts": 1790075723000,
+   "date": "2026-09-22",
+   "time": "14:15",
+   "files": [
+    {
+     "name": "אוֹרֵחַ בַּסֻּכָּה  - סיפור לשבת -סוכות.pdf",
+     "size": "183KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1AO8VcB6S4ZCo46lk0nrGvVmOixEKp9dV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585808247"
+  },
+  {
+   "id": "3EB0613AFBB6C4F4A9C856",
+   "sender": "אהרן קדוש",
+   "text": "",
+   "ts": 1790075723000,
+   "date": "2026-09-22",
+   "time": "14:15",
+   "files": [
+    {
+     "name": "סִפּוּרִים- חַג סֻכּוֹת - סִפּוּרִים לְשֻׁלְחַן הֶחָג.pdf",
+     "size": "110KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_TcVtJVckVajVAuTcqIVo84uafxT-O_I/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585808247"
   }
  ]
 }

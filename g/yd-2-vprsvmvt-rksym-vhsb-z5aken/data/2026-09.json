@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T10:58:51.579Z",
+ "updated": "2026-09-22T11:09:51.701Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1251,6 +1251,26 @@
      "path": "https://drive.google.com/file/d/1G-DXJXzZ1KG2euUA9Z2L7dLyiGSl3kEV/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1G-DXJXzZ1KG2euUA9Z2L7dLyiGSl3kEV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACF0BB5F0204C09576F4525D123A26A2",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790075376000,
+   "date": "2026-09-22",
+   "time": "14:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HiWtmU2nQzYLEui7-O16UQBB5R1GEP3F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HiWtmU2nQzYLEui7-O16UQBB5R1GEP3F&sz=w1200"
     }
    ],
    "drive": null,
