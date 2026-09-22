@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T16:01:20.028Z",
+ "updated": "2026-09-22T16:17:40.598Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -3298,6 +3298,36 @@
      "path": "https://drive.google.com/file/d/1Z4R21NjHbEOd_ntoh1RelCddcAKZQnKA/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Z4R21NjHbEOd_ntoh1RelCddcAKZQnKA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0A34405DCBDFEEAE52E",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: דר' נחומי יפה מועמדת מפלגת 'הציבור החרדי' ליעקב גרודקה במהדורת המרכזית בקול ברמה: \"אם האדמו\"ר מסלונים יורה לי לפרוש מהתמודדות, אפרוש מייד. כל דבר אצלי נעשה בהתייעצות ובהסכמת  הרבנים שלי\".\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790093733000,
+   "date": "2026-09-22",
+   "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB060C51E3B3FA3B1A398",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הרב יצחק יוסף נכדו של מרן הרב עובדיה יוסף מספר מה באמת הסיבה לדבריו שהגרש\"ב סורוצקין נסע לאומן?!!\n(בדקנו הסיפור לא נכון)\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790093861000,
+   "date": "2026-09-22",
+   "time": "19:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "19.3MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,

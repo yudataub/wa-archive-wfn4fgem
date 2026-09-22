@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T16:04:20.086Z",
+ "updated": "2026-09-22T16:11:20.216Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -741,6 +741,17 @@
    "drive": null,
    "thread": "הילה שמר",
    "phone": "972534596413"
+  },
+  {
+   "id": "3EB09AAE456C97474C8964",
+   "sender": "אני",
+   "text": "https://drive.google.com/drive/folders/106A7YelVV6g84yQx_EE90BK4QPCZBduL?usp=sharing\nקישור לשים תמונה של הכיתות",
+   "ts": 1790093482000,
+   "date": "2026-09-22",
+   "time": "19:11",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
