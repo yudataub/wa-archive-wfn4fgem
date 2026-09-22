@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T04:13:16.520Z",
+ "updated": "2026-09-22T04:29:46.843Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -13,6 +13,17 @@
    "files": [],
    "drive": null,
    "thread": "אריה יונה"
+  },
+  {
+   "id": "3EB0E7149A256DD2BEF997",
+   "sender": "אני",
+   "text": "https://dollar-air-around-container.trycloudflare.com",
+   "ts": 1790051383000,
+   "date": "2026-09-22",
+   "time": "07:29",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

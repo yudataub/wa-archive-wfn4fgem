@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T04:17:16.585Z",
+ "updated": "2026-09-22T04:32:46.905Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1510,6 +1510,25 @@
      "path": "https://drive.google.com/file/d/1BsivbGmq67qYtSVb6hZOsR7pmGWG6CUx/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1BsivbGmq67qYtSVb6hZOsR7pmGWG6CUx&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0CF0D4E480915C5067B",
+   "sender": "הפרגוד",
+   "text": "*סקר הסוכה היפה של הפרגוד חוזר!*\n\nשלחו לנו תמונה של הסוכה שלכם, תעלו לשלב הגמר ותזכו בחופשה זוגית מפנקת בת יומיים במלון חוף התמרים בעכו, בכשרות הרב רפאל מנת שליט״א.\n\nשליחת התמונה למספר הזה: 0559735526\n\nשימו לב: צילום איכותי, מואר וברור יגדיל את הסיכוי להגיע לגמר. \nעקבו אחר הפרטים במודעה.",
+   "ts": 1790051546000,
+   "date": "2026-09-22",
+   "time": "07:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k4OxdzwxJqBAAZXlkJyEbj2Loao1bjHM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k4OxdzwxJqBAAZXlkJyEbj2Loao1bjHM&sz=w1200"
     }
    ],
    "drive": null
