@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T19:33:15.418Z",
+ "updated": "2026-09-22T20:09:18.344Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -1808,6 +1808,26 @@
    "files": [],
    "drive": null,
    "phone": "972524441878"
+  },
+  {
+   "id": "3EB0A7A70F1703C700CACF",
+   "sender": "אלירן",
+   "text": "מתוקן וסופי",
+   "ts": 1790107737000,
+   "date": "2026-09-22",
+   "time": "23:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "324KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BECltO_5KU5hcNEakQZb9m7OF3e8yR1n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BECltO_5KU5hcNEakQZb9m7OF3e8yR1n&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523445911"
   }
  ]
 }
