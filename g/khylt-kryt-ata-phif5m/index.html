@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v2 -->
+<!-- wa-archive-generated v3 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
   ולהעלות את SITE_PAGE_VERSION ב-site.js.
   הדף קורא data/index.json (רשימת חודשים) ו-data/YYYY-MM.json (הודעות).
-  קהילת קרית אתא מוחלף בשם הקבוצה בזמן הכתיבה.
+  קהילת קרית אתא מוחלף בשם הקבוצה בזמן הכתיבה, 44 בגוון הצבע של הקבוצה (0–360).
 -->
 <html lang="he" dir="rtl">
 <head>
@@ -14,10 +14,12 @@
 <meta name="robots" content="noindex, nofollow">
 <title>קהילת קרית אתא — ארכיון</title>
 <style>
-:root{--bg:#e9e2d8;--panel:#fffdf8;--bubble:#ffffff;--ink:#1f2421;
---muted:#6b7280;--accent:#2f6d4f;--line:#d9d2c6;}
-@media (prefers-color-scheme:dark){:root{--bg:#10151a;--panel:#161d24;
---bubble:#1e2831;--ink:#e8edf2;--muted:#94a3b8;--accent:#5fbf8f;--line:#2b3742;}}
+/* צבע הקבוצה: גוון אחד (44, נקבע לפי שם הקבוצה) שממנו נגזרים הכותרת, השמות והרקע */
+:root{--hue:44;
+--bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
+--muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);}
+@media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
+--bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);--line:hsl(var(--hue) 10% 25%);}}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);
 font-family:"Segoe UI",Arial,sans-serif;}
 header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;
