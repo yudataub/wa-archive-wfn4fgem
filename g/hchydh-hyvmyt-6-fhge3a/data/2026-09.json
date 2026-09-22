@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-09-22T10:00:26.198Z",
+ "updated": "2026-09-22T19:32:44.584Z",
  "messages": [
   {
    "id": "3EB091A47EBAB3BAF520A9",
@@ -30,6 +30,26 @@
    "date": "2026-09-22",
    "time": "13:00",
    "files": [],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0EDB7A88E3853AE05D0",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "למעלה מ-2300 פותרים!\n📍*גשר* הקיבוץ הותיק מדרום לכנרת,\nשנקרא על שם גשרי הירדן שנמצאים בסמוך אליו.\n\"גשר\" הוא גם כינוי לימי החופשה שאינם באמת חגים.\nשמו של בית הספר בתמונה רומז ל\"גשר בנות יעקב\" שנמצא מצפון לכנרת.\n\n 🧲 *ארץ-קיר* - למגנט את הילדים לאהבת הארץ!  \neretz-kir.com  🇮🇱",
+   "ts": 1790105552000,
+   "date": "2026-09-22",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hqO_Isu1DngkUA15eLssSL0tbjg4f1nx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hqO_Isu1DngkUA15eLssSL0tbjg4f1nx&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972503355735"
   }
