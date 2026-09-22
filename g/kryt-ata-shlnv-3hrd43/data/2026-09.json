@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T03:18:21.236Z",
+ "updated": "2026-09-22T03:32:21.460Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1040,6 +1040,16 @@
      "thumb": "https://drive.google.com/thumbnail?id=1zVLf6aXOXjOhJtMiVx0JVfbHh8AU8s8b&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "A5FF3CF36765E4610E575D171D9D5DE6",
+   "sender": "יוכי דלילו",
+   "text": "דרושים עובדים שכר 100 ש\"ח לשעה מוזמנים להצטרף להקבוצה כאן \nhttps://chat.whatsapp.com/Kr48YuKpCMZKXBk8AMD3BG",
+   "ts": 1790047913000,
+   "date": "2026-09-22",
+   "time": "06:31",
+   "files": [],
    "drive": null
   }
  ]
