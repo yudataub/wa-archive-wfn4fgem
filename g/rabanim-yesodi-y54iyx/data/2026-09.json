@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-22T04:39:49.746Z",
+ "updated": "2026-09-22T06:57:14.909Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1318,6 +1318,26 @@
    "time": "14:47",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "3EB0C46486B0B74138D633",
+   "sender": "רב לעריכת חופות",
+   "text": "ב\"ה \n\n🎉 ילדי החמ\"ד היסודי מכל רחבי הארץ מוזמנים! 🎉\n\nלקראת חג הסוכות נקיים מפגש לימודי חווייתי ומהנה, בהשתתפות רבנים אורחים, ובסיומו חידון חגיגי עם פרסים שיוגרלו בין המשתתפים! 🎁\n\n📚 מתי? יום רביעי הקרוב, י\"ב בתשרי, בשעה 11:00\n💻 איפה? במפגש מקוון ב-Google Meet:\nhttps://meet.google.com/xaa-usna-fyd\n\nמוזמנים כולם!\nבואו ללמוד, לשאול, להשתתף ולהיכנס לאווירת חג הסוכות יחד 🌿\n\nשחר לוי\nרכז יהדות ארצי",
+   "ts": 1790060198000,
+   "date": "2026-09-22",
+   "time": "09:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "308KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/191n0YAx0sFqHpdV-4nhXKMtvGhWeYJzq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=191n0YAx0sFqHpdV-4nhXKMtvGhWeYJzq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545567287"
   }
  ]
 }

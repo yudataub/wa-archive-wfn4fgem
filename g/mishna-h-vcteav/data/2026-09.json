@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-09-22T06:32:02.092Z",
+ "updated": "2026-09-22T06:49:56.008Z",
  "messages": [
   {
    "id": "gm-1a077e6909cfcffa",
@@ -299,6 +299,24 @@
    "date": "2026-09-22",
    "time": "09:31",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACC4AA482C1C74462FA2A45303CB0CAF",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1790059777000,
+   "date": "2026-09-22",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "מדריך התחברות למערכת הלמידה - רצים למסכת.pdf",
+     "size": "2.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1dtNW8E9oIu5zlNfFdtt5hpjwfvmbW6wP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null
   }
  ]

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חנן פורת - דמות",
- "updated": "2026-09-22T06:47:25.922Z",
+ "updated": "2026-09-22T06:48:25.962Z",
  "messages": [
   {
    "id": "gm-1a05b76f9a3dd0ea",
@@ -793,6 +793,43 @@
    "date": "2026-09-22",
    "time": "09:47",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC383EA46C9150ADF80EC515C8F3673D",
+   "sender": "נטע אליה",
+   "text": "",
+   "ts": 1790059701000,
+   "date": "2026-09-22",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1il8oFqxD50CKA-O-GddM-bWx6xSbrRnH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1il8oFqxD50CKA-O-GddM-bWx6xSbrRnH&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC07CC085F139ED0E5C91B84685E02B8",
+   "sender": "נטע אליה",
+   "text": "",
+   "ts": 1790059703000,
+   "date": "2026-09-22",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "16.3MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
    "drive": null
   }
  ]
