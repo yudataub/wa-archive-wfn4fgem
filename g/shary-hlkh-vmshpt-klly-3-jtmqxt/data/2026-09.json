@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-22T11:55:59.719Z",
+ "updated": "2026-09-22T14:55:41.973Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -1183,6 +1183,48 @@
    "files": [],
    "drive": null,
    "phone": "972546201061"
+  },
+  {
+   "id": "A59C3A65C9A72B4BAAF1F428B9E63A91",
+   "sender": "Credit Zen",
+   "text": "ענפים מעל הסוכה, כמה צריך כדי לפסול את הסכך?",
+   "ts": 1790088807000,
+   "date": "2026-09-22",
+   "time": "17:53",
+   "files": [],
+   "drive": null,
+   "phone": "972503086304"
+  },
+  {
+   "id": "ACB523C98C1E300CB296E6F325E15FED",
+   "sender": "דוד בן חי",
+   "text": "*פתקא טבא לכל בית ישראל 🗳️*\n\nלקראת חג הסוכות הקרב ובא,\nצוות רבני בית ההוראה זמין לשאלותיכם:\n\n📞 בטלפון *2873**\n🌹 *לנשים - ניתן לקבל מענה ע\"י מדריכות הלכה*. \n\n*בקבוצות בית ההוראה:*\n\n*ווצאפ אנונימי לשאלות אישיות בתחום המשפחה:*\n026321608\n\n*זקוקים לאוזן קשבת?*\nעזרה ראשונה נפשית?\nהמוקד שלנו זמין 24 שעות ביממה\n*2873** ❤️\n\n \n*לעדכונים נוספים הצטרפו לערוץ בית ההוראה:*\nhttps://whatsapp.com/channel/0029VaM1WiaGOj9uYkbYuH3g",
+   "ts": 1790088825000,
+   "date": "2026-09-22",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S4IZMggXvC3YmuKIVJelc7AcgdbMNlge/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S4IZMggXvC3YmuKIVJelc7AcgdbMNlge&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546201061"
+  },
+  {
+   "id": "AC01BFE9A702A28052894845D015C900",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "צלם",
+   "ts": 1790088908000,
+   "date": "2026-09-22",
+   "time": "17:55",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }
