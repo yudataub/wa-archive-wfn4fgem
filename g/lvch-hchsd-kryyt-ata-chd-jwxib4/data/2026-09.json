@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T06:13:01.934Z",
+ "updated": "2026-09-22T06:37:02.198Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -673,6 +673,54 @@
    "date": "2026-09-22",
    "time": "09:13",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC0D93E5F4838DBDC24741CA6CA5E876",
+   "sender": "שרון😄",
+   "text": "פיתקא טבא ובשו'ט☺️\nתינוקי  ממשפחה שאנו מסייעים לה בק. אתא זקוק  לכזו מטרנה👆🏻(שלב 2, אקסטרה קייר מהדרין).\nאמא *ממש לא יכולה* לקנות לו. למישהו יש למסור כזה?      \n\n (ואם אפשר להביא ישירות ..חסד עם התינוק).\n  \n  לתיאום, שרון    0522828512  \n                                                                                                                                  🌹%💯 חסד. החיוך של אמא חוזר אליכם עם ריבית🌹",
+   "ts": 1790058716000,
+   "date": "2026-09-22",
+   "time": "09:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s967ZC09RFROdhQK0kZE6vdw-kJBaBj8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s967ZC09RFROdhQK0kZE6vdw-kJBaBj8&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACC3676D5FEB8C72C7476F3F4CDE5AF3",
+   "sender": "צורית דמתי",
+   "text": "בוקר טוב\nאשמח להמלצה למורי תימני מקרית אתא\nמניסיון בלבד🙏🏻",
+   "ts": 1790058820000,
+   "date": "2026-09-22",
+   "time": "09:33",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "2AA4D000A90324AFC9B2",
+   "sender": "גל נקיון ופוליש",
+   "text": "🧼 החגים מתקרבים – וזה הזמן לרענן את הבית!\n\nמבצעים מיוחדים לקראת החגים על:\n• ניקוי ספות\n• ניקוי שטיחים\n• ניקוי מזרנים\n• ניקוי מושבי רכב וריפודים\n• ועוד מגוון שירותי ניקוי\n\nמחזירים לבית ולרכב את הניקיון והרעננות לקראת החגים ✨\n\n🇮🇱 עסק של מילואימניק – תודה על התמיכה בעסק כחול לבן!\n\nלתיאום תור ולקבלת פרטים:\n📲 050-998-5570\n\nהזמינו מראש – היומן לקראת החגים מתמלא!",
+   "ts": 1790059018000,
+   "date": "2026-09-22",
+   "time": "09:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1lAp1BxEWuDNS7ARoUFe0SbuN2ddTunke/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lAp1BxEWuDNS7ARoUFe0SbuN2ddTunke&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]

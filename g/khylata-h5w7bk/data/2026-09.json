@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T06:06:31.655Z",
+ "updated": "2026-09-22T06:31:32.103Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -138,6 +138,25 @@
    "date": "2026-09-22",
    "time": "09:06",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC5A8187A627C66B06EB016E3167B9A1",
+   "sender": "שרון😄",
+   "text": "פיתקא טבא ובשו'ט☺️\nתינוקי  ממשפחה שאנו מסייעים לה בק. אתא זקוק  לכזו מטרנה👆🏻(שלב 2, אקסטרה קייר מהדרין).\nאמא *ממש לא יכולה* לקנות לו. למישהו יש למסור כזה?      \n\n (ואם אפשר להביא ישירות ..חסד עם התינוק).\n  \n  לתיאום, שרון    0522828512  \n                                                                                                                                  🌹%💯 חסד. החיוך של אמא חוזר אליכם עם ריבית🌹",
+   "ts": 1790058680000,
+   "date": "2026-09-22",
+   "time": "09:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pH_oKphDmC4T0uD0GW3uEbI5On4wLeHW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pH_oKphDmC4T0uD0GW3uEbI5On4wLeHW&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
