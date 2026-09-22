@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T18:58:40.315Z",
+ "updated": "2026-09-22T19:27:15.328Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1953,6 +1953,57 @@
    ],
    "drive": null,
    "phone": "972533168397"
+  },
+  {
+   "id": "ACB12F3E451811C6BD2331A40D1EE7E4",
+   "sender": "⚔️𝕰𝖑𝖈𝖍𝖆𝖓𝖆𝖓 𝖌𝖎𝖌𝖎 ⚔️",
+   "text": "חסום הכביש מכיון קרית אתא לרכסים בגלל עבודות בכביש נא להימנע מלהגיע לכאן 🙏",
+   "ts": 1790104721000,
+   "date": "2026-09-22",
+   "time": "22:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/179HUVme9PUzLHiuq-N1ZLydyqiEXjent/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=179HUVme9PUzLHiuq-N1ZLydyqiEXjent&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555511421"
+  },
+  {
+   "id": "AC667D39F5865277DC5D844117998BAC",
+   "sender": "Maya",
+   "text": "2 זוגות נעליים מידה 38, רק נקנו, לא ננעלו,  שניהם ב50 שח.",
+   "ts": 1790104995000,
+   "date": "2026-09-22",
+   "time": "22:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SyFjDEnZ0_1xPb9aJTnGQbErKwKzSW0m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SyFjDEnZ0_1xPb9aJTnGQbErKwKzSW0m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545974500"
+  },
+  {
+   "id": "AC2BFA6741A3283666D70889B34E0E42",
+   "sender": "נתי",
+   "text": "נפתח",
+   "ts": 1790105224000,
+   "date": "2026-09-22",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972556862147"
   }
  ]
 }

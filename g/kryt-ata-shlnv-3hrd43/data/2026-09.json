@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T18:57:40.304Z",
+ "updated": "2026-09-22T19:20:45.262Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2661,6 +2661,37 @@
    "files": [],
    "drive": null,
    "phone": "972523614658"
+  },
+  {
+   "id": "A5324701585E67A8071A12804070FC4F",
+   "sender": "אורית החלקות שיער",
+   "text": "היוש סליחה על השעה יש מצב לכמה קבוצות של בייביסיטר ויד 2?\nאשמח אם יש למישהו או מישהו בפרטי🙏🏾",
+   "ts": 1790104772000,
+   "date": "2026-09-22",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972559593991"
+  },
+  {
+   "id": "3A801A0C9B556DC44A5B",
+   "sender": "אסף",
+   "text": "",
+   "ts": 1790104842000,
+   "date": "2026-09-22",
+   "time": "22:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ecj7qgaondNi0EYIu9vu60yuuKpg23Zr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ecj7qgaondNi0EYIu9vu60yuuKpg23Zr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502774900"
   }
  ]
 }
