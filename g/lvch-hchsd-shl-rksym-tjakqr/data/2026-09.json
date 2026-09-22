@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T13:26:28.605Z",
+ "updated": "2026-09-22T13:28:28.669Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -1201,6 +1201,25 @@
    "files": [],
    "drive": null,
    "phone": "972504119468"
+  },
+  {
+   "id": "3EB0BB691B73A0ABA91B33",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790083689000,
+   "date": "2026-09-22",
+   "time": "16:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1az0_bVbErfk8NrsO_nAmxDHmkef6GRlK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1az0_bVbErfk8NrsO_nAmxDHmkef6GRlK&sz=w1200"
+    }
+   ],
+   "drive": null
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-09-22T12:47:19.943Z",
+ "updated": "2026-09-22T13:28:28.662Z",
  "messages": [
   {
    "id": "A5B66BB8EA4ED0D7F787CF823F6BF9F6",
@@ -344,6 +344,25 @@
    "files": [],
    "drive": null,
    "phone": "972527124193"
+  },
+  {
+   "id": "3EB0541A59629B4492C296",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790083688000,
+   "date": "2026-09-22",
+   "time": "16:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JmK5JLNWReRYMWprSjk6_HBVIvBbOjoG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JmK5JLNWReRYMWprSjk6_HBVIvBbOjoG&sz=w1200"
+    }
+   ],
+   "drive": null
   }
  ]
 }
