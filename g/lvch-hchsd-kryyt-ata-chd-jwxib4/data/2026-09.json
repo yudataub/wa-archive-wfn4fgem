@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T15:02:12.122Z",
+ "updated": "2026-09-22T15:24:43.281Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1440,6 +1440,26 @@
    ],
    "drive": null,
    "phone": "972587161155"
+  },
+  {
+   "id": "ACC2567AB4AAA235F572B9C27B226FB4",
+   "sender": "שרון😄",
+   "text": "משפחה גדולה עם ילדים קטנים נשארה כמעט בלי מוצרי מזון בסיסיים בבית...\n*אנו זקוקים לסל מזון עבורם*. \n\n*כל סיוע יתקבל בהכרת תודה  ויעזור לתת לילדים ארוחות מסודרות, בטן מלאה  ותחושה של ביטחון*\n\n״כל המציל נפש אחת כאילו הציל עולם מלא״\n\nלתיאום, שרון, 052-2828512\n\n💕 תבורכו מפי עליון💕",
+   "ts": 1790090659000,
+   "date": "2026-09-22",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yl53JgYfY8stgNGI_oa48YU9vShf-8U5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yl53JgYfY8stgNGI_oa48YU9vShf-8U5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

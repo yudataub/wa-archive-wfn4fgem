@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-22T15:00:12.019Z",
+ "updated": "2026-09-22T15:21:13.234Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -1245,6 +1245,37 @@
    ],
    "drive": null,
    "phone": "972503086304"
+  },
+  {
+   "id": "AC4ED99E420E9098E1E1415AFC3E558C",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "כל זה מעל הסכך?",
+   "ts": 1790090360000,
+   "date": "2026-09-22",
+   "time": "18:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC1D8673DBB99C6CC7723D80A04EAA97",
+   "sender": "איטום ברכה",
+   "text": "שלום. כמה ס''מ אמור להיות בין כל חוט ומה הגובה הכללי שצריך להיות מגובה רצפה?",
+   "ts": 1790090443000,
+   "date": "2026-09-22",
+   "time": "18:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "320KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1peWSyqyOoU6r1BG4rjasNw48Z2IgoxWb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1peWSyqyOoU6r1BG4rjasNw48Z2IgoxWb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504241415"
   }
  ]
 }

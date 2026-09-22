@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<!-- wa-archive-generated v16 -->
+<!--
+  דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
+  g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
+  ולהעלות את SITE_PAGE_VERSION ב-site.js.
+  הדף קורא data/index.json (רשימת חודשים) ו-data/YYYY-MM.json (הודעות).
+  מה שמעניין #28 | LetsAI מוחלף בשם הקבוצה בזמן הכתיבה, 26 בגוון הצבע של הקבוצה (0–360).
+-->
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>מה שמעניין #28 | LetsAI — ארכיון</title>
+<style>
+/* צבע הקבוצה: גוון אחד (26, נקבע לפי שם הקבוצה) שממנו נגזרים הכותרת, השמות והרקע */
+:root{--hue:26;
+--bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
+--muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);}
+@media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
+--bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);--line:hsl(var(--hue) 10% 25%);}}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);
+font-family:"Segoe UI",Arial,sans-serif;}
+header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;
+padding:14px 16px;box-shadow:0 2px 8px rgba(0,0,0,.18);}
+header h1{margin:0;font-size:18px;font-weight:600;}
+header .sub{font-size:12px;opacity:.85;margin-top:2px;}
+#search{width:100%;box-sizing:border-box;margin-top:10px;padding:8px 10px;
+border:0;border-radius:8px;font-size:14px;font-family:inherit;}
+#who{width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;border:0;border-radius:8px;
+font-size:14px;font-family:inherit;background:#fff;color:#1f2421;}
+.thread{color:var(--muted);font-weight:400;font-size:12px;}
+main{max-width:780px;margin:0 auto;padding:16px;}
+.day{text-align:center;margin:18px 0 10px;}
+.day span{background:var(--panel);border:1px solid var(--line);color:var(--muted);
+border-radius:999px;padding:4px 12px;font-size:12px;}
+.msg{background:var(--bubble);border:1px solid var(--line);border-radius:12px;
+padding:10px 12px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.05);}
+.who{font-weight:600;color:var(--accent);font-size:13px;margin-bottom:4px;}
+.who a{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor;}
+.who a:hover{opacity:.8}
+.who a::after{content:" ✆";font-size:11px;opacity:.7}
+.txt{white-space:pre-wrap;word-wrap:break-word;line-height:1.55;font-size:15px;}
+.txt a{color:var(--accent);}
+.when{text-align:left;color:var(--muted);font-size:11px;margin-top:6px;display:flex;align-items:center;gap:6px;flex-direction:row-reverse;}
+.when .t{margin-right:auto}
+.act{background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:6px;padding:2px 7px;
+font-size:11px;font-family:inherit;cursor:pointer;line-height:1.4;text-decoration:none;}
+.act:hover{color:var(--accent);border-color:var(--accent);}
+.act.ok{background:var(--accent);color:#fff;border-color:var(--accent);}
+.act.del{opacity:.45}.msg:hover .act.del{opacity:1}.act.del:hover{color:#c0392b;border-color:#c0392b}
+.msg.gone{opacity:.35;transition:opacity .4s}
+.txt b{font-weight:700}.txt i{font-style:italic}.txt s{text-decoration:line-through}.txt code{font-family:Consolas,monospace;font-size:14px}
+.files{margin-top:8px;display:flex;flex-direction:column;gap:8px;}
+/* תמונה על כל רוחב הבועה (בלי הגבלת גובה) — כמו בוואטסאפ; פוסטר של סרטון גם */
+.files img{width:100%;max-width:100%;height:auto;border-radius:8px;display:block;}
+.files a.video{width:100%;}
+.files .file{align-self:flex-start;}
+.file{display:inline-block;background:var(--panel);border:1px solid var(--line);
+border-radius:8px;padding:6px 10px;font-size:13px;text-decoration:none;color:var(--ink);}
+.file.dead{opacity:.6;}
+.video{position:relative;display:block;max-width:100%;border-radius:8px;overflow:hidden;background:#000;}
+.video img{opacity:.85;}
+.video .play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:44px;text-shadow:0 2px 10px rgba(0,0,0,.6);}
+.video .vlabel{position:absolute;bottom:6px;right:8px;background:rgba(0,0,0,.55);color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;}
+.player{width:100%;}
+.player iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:8px;background:#000;display:block;}
+.player video{width:100%;max-height:70vh;border-radius:8px;background:#000;display:block;}
+.player audio{width:100%;display:block;}
+.player.audio iframe{aspect-ratio:auto;height:80px;}
+.player .open{display:inline-block;margin-top:4px;font-size:12px;}
+.file.audio{background:var(--accent);color:#fff;border-color:var(--accent);}
+#more{display:block;width:100%;margin:20px 0 40px;padding:12px;font-size:15px;
+font-family:inherit;background:var(--panel);color:var(--ink);
+border:1px solid var(--line);border-radius:10px;cursor:pointer;}
+#more[hidden]{display:none;}
+/* ---- חלונית "קפיצה לתאריך": בטלפון מגירה מעל התוכן; במסך רחב עמודה קבועה מימין, ניתנת לקיפול ---- */
+.hdr-row{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+#navbtn,.hbtn{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;font-size:18px;line-height:1;padding:7px 10px;cursor:pointer;text-decoration:none;display:inline-block;}
+.hdr-btns{display:flex;gap:6px;flex:none}
+#navwrap{position:fixed;inset:0;z-index:20;display:none;}
+#navwrap.open{display:block;}
+#navback{position:absolute;inset:0;background:rgba(0,0,0,.45);}
+#nav{position:absolute;top:0;bottom:0;right:0;width:min(290px,82vw);background:var(--panel);overflow-y:auto;padding:14px 12px;box-sizing:border-box;}
+.nav-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;}
+#nav h2{margin:0;font-size:15px;color:var(--accent);}
+#navclose{background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:6px;padding:2px 8px;cursor:pointer;font-family:inherit;}
+.nav-mo{margin-bottom:12px;}
+.nav-mo-btn{width:100%;text-align:right;background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font-size:14px;font-family:inherit;cursor:pointer;font-weight:600;}
+.nav-days{list-style:none;margin:6px 0 0;padding:0;}
+.nav-day{width:100%;background:transparent;color:var(--ink);border:0;border-radius:6px;padding:6px 10px;font-size:14px;font-family:inherit;cursor:pointer;display:flex;justify-content:space-between;gap:8px;}
+.nav-day:hover{background:var(--bubble);}
+.nav-n{color:var(--muted);font-size:12px;}
+.day span{scroll-margin-top:140px;}
+@media (min-width:900px){
+ /* עמודה קבועה; body.nav-collapsed = מקופלת (הכפתור 📅 מחליף) */
+ #navwrap{display:block;position:static;}#navback{display:none;}
+ #nav{position:fixed;top:0;bottom:0;right:0;width:260px;border-left:1px solid var(--line);}
+ body{padding-right:260px;}
+ body.nav-collapsed #navwrap{display:none;}body.nav-collapsed{padding-right:0;}
+}
+#status{text-align:center;color:var(--muted);padding:20px;font-size:14px;}
+#ai{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px;margin:0 0 14px;}
+.ai-head{display:flex;align-items:center;gap:10px;margin-bottom:8px;color:var(--accent);}
+.ai-head .act{margin-inline-start:auto}
+.ai-scope{color:var(--muted);font-size:12px;font-weight:400}
+.ai-row{display:flex;gap:8px;align-items:center;margin:6px 0;flex-wrap:wrap}
+#aiq,#aikeyinput{flex:1;min-width:200px;padding:9px 10px;border:1px solid var(--line);border-radius:10px;font-size:15px;font-family:inherit;background:var(--bubble);color:var(--ink);resize:vertical}
+.act.primary{background:var(--accent);color:#fff;border-color:var(--accent);font-size:14px;padding:8px 16px}
+.ai-hint{color:var(--muted);font-size:12px;flex:1}
+.ai-answer{white-space:pre-wrap;line-height:1.6;font-size:15px;background:var(--bubble);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-top:8px}
+.ai-answer a.ref{color:var(--accent);font-weight:600;text-decoration:none;border-bottom:1px dotted currentColor}
+.ai-hits{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
+.ai-hits a{background:var(--chip,var(--bg));border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:12px;color:var(--ink);text-decoration:none}
+.msg.flash{outline:3px solid var(--accent);outline-offset:2px;transition:outline-color 1.5s}
+#aikey p{margin:4px 0 8px;font-size:14px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+<div class="hdr-row"><h1>מה שמעניין #28 | LetsAI</h1>
+<div class="hdr-btns"><button id="aibtn" class="hbtn" title="שאל את הארכיון (בינה מלאכותית)">&#10024;</button>
+<a id="contactsbtn" class="hbtn" href="contacts.html" title="אלפון הקבוצה — כל מי שכתב וכל איש קשר ששותף">&#128211;</a>
+<button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div></div>
+<div class="sub" id="sub">טוען…</div>
+<input id="search" type="search" placeholder="חיפוש בהודעות…">
+<select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
+</header>
+<script type="text/plain" id="delurl">https://script.google.com/macros/s/AKfycbw3AFtdBmWMxGe6pxATEBzUVnVehh_wU4oDHlOIQbI-IeVgq_BZEmWNg2BQ_-iYM_DD/exec</script>
+<div id="navwrap"><div id="navback"></div>
+<div id="nav"><div class="nav-head"><h2>קפיצה לתאריך</h2><button id="navclose" title="סגירה" aria-label="סגירה">✕</button></div><div id="navlist"></div></div></div>
+<main>
+<section id="ai" hidden>
+ <div class="ai-head"><b>✨ שאל את הארכיון</b><span class="ai-scope" id="aiscope"></span><button class="act" id="aiclose">✕</button></div>
+ <div id="aikey" hidden>
+  <p>כדי לשאול שאלות צריך מפתח API (פעם אחת). הוא נשמר <b>רק בדפדפן הזה</b> (לא באתר ולא בשרת).
+   Groq (חינמי, מהיר): <a href="https://console.groq.com/keys" target="_blank" rel="noopener">console.groq.com</a> ·
+   Gemini (חינמי): <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com</a> ·
+   Claude (בתשלום): <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a>.</p>
+  <div class="ai-row">
+   <select id="aiprov"><option value="groq">Groq — חינמי</option><option value="gemini">Gemini (Google) — חינמי</option><option value="anthropic">Claude (Anthropic)</option></select>
+   <input id="aimodel" placeholder="מודל (ריק = ברירת מחדל)" autocomplete="off" style="max-width:220px">
+  </div>
+  <div class="ai-row"><input id="aikeyinput" type="password" placeholder="המפתח…" autocomplete="off"><button class="act" id="aikeysave">שמירה</button></div>
+ </div>
+ <div id="aiask">
+  <div class="ai-row"><textarea id="aiq" rows="2" placeholder="למשל: מתי המורה כתבה על המבחן? / סכם מה קרה השבוע / מי שלח את דף העבודה על פרשת לך לך?"></textarea></div>
+  <div class="ai-row ai-tools"><button class="act primary" id="aigo">שאל</button><span class="ai-hint" id="aihint"></span><button class="act" id="aikeychange" title="החלפת מפתח">🔑</button></div>
+  <div id="aians" class="ai-answer" hidden></div>
+  <div id="aihits" class="ai-hits" hidden></div>
+ </div>
+</section>
+<div id="feed"></div>
+<button id="more" hidden>טען חודש קודם</button>
+<div id="status">טוען…</div></main>
+<script>
+var months=[],loaded=[],all=[],filter="",who="";
+var DELURL=((document.getElementById("delurl")||{}).textContent||"").trim();
+var deletedIds={};   // מ-data/deleted.json — מוסתרות מיד, נמחקות פיזית בריצת site-push הבאה
+var feed=document.getElementById("feed"),more=document.getElementById("more");
+var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
+var whoSel=document.getElementById("who");
+// "מי": בארכיון של צ'אטים אישיים — עם מי השיחה (thread); בקבוצה — השולח
+function whoOf(m){return m.thread||m.sender||"";}
+function buildWho(){
+ var counts={};all.forEach(function(m){var w=whoOf(m);if(w)counts[w]=(counts[w]||0)+1;});
+ var names=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]||a.localeCompare(b,"he");});
+ if(who&&!counts[who])who="";
+ var html='<option value="">כל האנשים ('+names.length+')</option>';
+ names.forEach(function(n){html+='<option value="'+esc(n)+'">'+esc(n)+" ("+counts[n]+")</option>";});
+ whoSel.innerHTML=html;whoSel.value=who;}
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
+ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+// קישורים בטקסט → לחיצים, ועיצוב וואטסאפ (*מודגש* _נטוי_ ~קו~ ```קוד```) → HTML (אחרי esc, אז בטוח)
+function waFormat(h){
+ return h.replace(/```([\s\S]+?)```/g,"<code>$1</code>")
+  .replace(/(^|[\s(>])\*([^*\n]+?)\*(?=[\s.,:;!?)<]|$)/g,"$1<b>$2</b>")
+  .replace(/(^|[\s(>])_([^_\n]+?)_(?=[\s.,:;!?)<]|$)/g,"$1<i>$2</i>")
+  .replace(/(^|[\s(>])~([^~\n]+?)~(?=[\s.,:;!?)<]|$)/g,"$1<s>$2</s>");}
+function linkify(s){return waFormat(esc(s).replace(/(https?:\/\/[^\s<]+)/g,
+ '<a href="$1" target="_blank" rel="noopener">$1</a>'));}
+function isImage(f){return /^image\//.test(f.type||"");}
+function isVideo(f){return /^video\//.test(f.type||"");}
+function isAudio(f){return /^audio\//.test(f.type||"");}
+function driveIdOf(f){var m=/drive\.google\.com\/file\/d\/([\w-]+)/.exec(f.path||"");return m?m[1]:"";}
+// תמונה ממוזערת מהדרייב — מהשדה thumb, או מחושבת מקישור הדרייב (גם לסרטונים: דרייב מייצר פוסטר)
+function driveThumb(f){
+ if(f.thumb)return f.thumb;
+ var m=/drive\.google\.com\/file\/d\/([\w-]+)/.exec(f.path||"");
+ return m?"https://drive.google.com/thumbnail?id="+m[1]+"&sz=w1200":null;}
+function fileHtml(f){
+ if(!f.path)return '<span class="file dead">'+esc(f.name)+" — "+esc(f.skipped||"")+"</span>";
+ var href=encodeURI(f.path);
+ if(isImage(f)){
+  var src=driveThumb(f)||f.path;   // בלי דרייב — תמונה שהועתקה למאגר
+  return '<a href="'+href+'" target="_blank" rel="noopener"><img loading="lazy" src="'+encodeURI(src)+'" alt="'+esc(f.name)+'"></a>';}
+ // סרטון/הקלטה מהדרייב: פוסטר עם ▶; לחיצה מחליפה לנגן של דרייב בתוך הדף (iframe /preview, נטען רק בלחיצה)
+ if(isVideo(f)&&driveThumb(f)){
+  return '<a class="video" href="'+href+'" data-drive="'+esc(driveIdOf(f))+'" target="_blank" rel="noopener" title="'+esc(f.name)+'">'+
+   '<img loading="lazy" src="'+encodeURI(driveThumb(f))+'" alt="'+esc(f.name)+'"><span class="play">▶</span>'+
+   '<span class="vlabel">סרטון'+(f.size?" · "+esc(f.size):"")+'</span></a>';}
+ if(isAudio(f)&&driveIdOf(f)){
+  return '<a class="file audio" href="'+href+'" data-drive="'+esc(driveIdOf(f))+'" target="_blank" rel="noopener">▶ '+
+   esc(/^(PTT|AUD)/i.test(f.name)?"הודעה קולית":f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>";}
+ return '<a class="file" href="'+href+'" target="_blank" rel="noopener">'+
+  esc(f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>";}
+function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
+ '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
+function render(){
+ var list=all.filter(function(m){return !deletedIds[m.id];});
+ if(who)list=list.filter(function(m){return whoOf(m)===who;});
+ if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
+  return (m.text||"").toLowerCase().indexOf(q)>-1||
+   (m.sender||"").toLowerCase().indexOf(q)>-1||
+   (m.files||[]).some(function(f){return (f.name||"").toLowerCase().indexOf(q)>-1;});});}
+ list.sort(function(a,b){return a.ts-b.ts;});
+ var html="",lastDay="";
+ list.forEach(function(m){
+  if(m.date!==lastDay){lastDay=m.date;
+   html+='<div class="day"><span>'+esc(m.date)+"</span></div>";}
+  // יש מספר → השם (ובצ'אט אישי: שם הצד השני) הוא קישור wa.me — נפתח בוואטסאפ במחשב/בטלפון
+  var waLink=m.phone?'https://wa.me/'+encodeURIComponent(m.phone):"";
+  var who=esc(m.sender), thr=(m.thread&&m.thread!==m.sender)?esc(m.thread):"";
+  if(waLink){ if(thr)thr='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+thr+"</a>";
+   else who='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+who+"</a>"; }
+  html+='<div class="msg" data-id="'+esc(m.id)+'"><div class="who">'+who+(thr?' <span class="thread">↔ '+thr+"</span>":"")+"</div>";
+  if(m.text)html+='<div class="txt">'+linkify(m.text)+"</div>";
+  var f=(m.files||[]).map(fileHtml);
+  if(m.drive&&m.drive.url)f.push(driveHtml(m.drive));
+  if(f.length)html+='<div class="files">'+f.join("")+"</div>";
+  html+='<div class="when"><span class="t">'+esc(m.time)+'</span>'+
+   '<button class="act copy" title="העתקה עם העיצוב — להדבקה במייל/במסמך">⧉ העתקה</button>'+
+   '<a class="act" href="'+mailtoFor(m)+'" title="פתיחת מייל חדש עם ההודעה">✉ מייל</a>'+
+   (DELURL?'<button class="act del" title="מחיקה לצמיתות (קוד)">✕</button>':"")+'</div></div>';});
+ feed.innerHTML=html;
+ [].forEach.call(feed.querySelectorAll(".day"),function(el){el.id="d-"+el.textContent.trim();});
+ buildNav(list);
+ statusEl.textContent=list.length?"":((filter||who)?"אין תוצאות.":"אין עדיין הודעות.");
+ sub.textContent=(list.length!==all.length?list.length+" מתוך "+all.length:all.length)+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
+ buildWho();
+ more.hidden=loaded.length>=months.length;
+ if(!filter&&!who&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
+// ---- העתקה למייל: HTML מעוצב (שולח, זמן, טקסט, תמונות, קבצים) + טקסט רגיל ----
+var GROUP_NAME=document.querySelector("header h1").textContent;
+function absUrl(u){try{return new URL(u,location.href).href;}catch(e){return u;}}
+function messageHtml(m){
+ var h='<div dir="rtl" style="font-family:Segoe UI,Arial,sans-serif;font-size:15px;line-height:1.55;color:#1f2421">';
+ h+='<div style="font-weight:600;color:#2f6d4f;font-size:13px">'+esc(m.sender)+(m.thread&&m.thread!==m.sender?' ↔ '+esc(m.thread):"")+
+  ' <span style="font-weight:400;color:#6b7280">· '+esc(GROUP_NAME)+' · '+esc(m.date)+' '+esc(m.time)+'</span></div>';
+ if(m.text)h+='<div style="white-space:pre-wrap;margin:4px 0 6px">'+linkify(m.text)+'</div>';
+ (m.files||[]).forEach(function(f){
+  if(!f.path){h+='<div style="color:#6b7280;font-size:13px">'+esc(f.name)+' — '+esc(f.skipped||"")+'</div>';return;}
+  var src=isImage(f)?(driveThumb(f)||absUrl(f.path)):(isVideo(f)?driveThumb(f):null);
+  if(src)h+='<div style="margin:6px 0"><a href="'+absUrl(f.path)+'"><img src="'+encodeURI(src)+'" alt="'+esc(f.name)+'" style="max-width:100%;border-radius:8px"></a>'+
+   (isVideo(f)?'<div style="font-size:12px"><a href="'+absUrl(f.path)+'">▶ סרטון'+(f.size?' · '+esc(f.size):"")+'</a></div>':"")+'</div>';
+  else h+='<div style="margin:4px 0"><a href="'+absUrl(f.path)+'">📎 '+esc(f.name)+(f.size?' ('+esc(f.size)+')':"")+'</a></div>';});
+ if(m.drive&&m.drive.url)h+='<div><a href="'+encodeURI(m.drive.url)+'">📎 '+esc(m.drive.name)+'</a></div>';
+ return h+'</div>';}
+function messageText(m){
+ var t=m.sender+(m.thread&&m.thread!==m.sender?' ↔ '+m.thread:"")+' · '+GROUP_NAME+' · '+m.date+' '+m.time+'\n';
+ if(m.text)t+=m.text+'\n';
+ (m.files||[]).forEach(function(f){t+=(f.path?absUrl(f.path):(f.name+' — '+(f.skipped||"")))+'\n';});
+ if(m.drive&&m.drive.url)t+=m.drive.url+'\n';
+ return t.trim();}
+function mailtoFor(m){
+ return 'mailto:?subject='+encodeURIComponent(GROUP_NAME+' — '+m.sender+' '+m.date)+'&body='+encodeURIComponent(messageText(m));}
+function copyRich(html,text){
+ if(navigator.clipboard&&window.ClipboardItem){
+  try{return navigator.clipboard.write([new ClipboardItem({
+   "text/html":new Blob([html],{type:"text/html"}),"text/plain":new Blob([text],{type:"text/plain"})})]);}catch(e){}}
+ // fallback: בחירה של HTML נסתר + execCommand — שומר עיצוב ברוב הדפדפנים
+ return new Promise(function(res,rej){
+  var box=document.createElement("div");box.contentEditable="true";box.style.cssText="position:fixed;left:-9999px;top:0";
+  box.innerHTML=html;document.body.appendChild(box);
+  var r=document.createRange();r.selectNodeContents(box);var sel=getSelection();sel.removeAllRanges();sel.addRange(r);
+  var ok=false;try{ok=document.execCommand("copy");}catch(e){}
+  sel.removeAllRanges();document.body.removeChild(box);ok?res():rej(new Error("copy failed"));});}
+// נגן בתוך הדף: לחיצה על פוסטר סרטון / הודעה קולית → נגן HTML5 רגיל שמנגן את הקובץ ישירות מהדרייב
+// (uc?export=download — זורם עם Range, בלי cookies, בכל דפדפן). אם הדפדפן לא מצליח (פורמט/חסימה) —
+// נופלים לנגן של דרייב (iframe /preview).
+function driveStream(id){return "https://drive.google.com/uc?export=download&id="+encodeURIComponent(id);}
+function drivePlayer(wrap,id,href){
+ wrap.innerHTML='<iframe src="https://drive.google.com/file/d/'+encodeURIComponent(id)+'/preview" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe>'+
+  '<a class="file open" href="'+href+'" target="_blank" rel="noopener">פתיחה בדרייב ↗</a> '+
+  '<a class="file open" href="'+driveStream(id)+'">⬇ הורדה</a>';}
+feed.addEventListener("click",function(e){
+ var a=e.target.closest?e.target.closest("a[data-drive]"):null;if(!a||!a.getAttribute("data-drive"))return;
+ e.preventDefault();
+ var id=a.getAttribute("data-drive"),href=a.getAttribute("href"),isAud=a.classList.contains("audio");
+ var poster=a.querySelector("img")?a.querySelector("img").getAttribute("src"):"";
+ var wrap=document.createElement("div");wrap.className=isAud?"player audio":"player";
+ var media=document.createElement(isAud?"audio":"video");
+ media.controls=true;media.autoplay=true;media.preload="metadata";media.setAttribute("playsinline","");
+ if(poster)media.poster=poster;
+ media.src=driveStream(id);
+ media.addEventListener("error",function(){drivePlayer(wrap,id,href);});
+ wrap.appendChild(media);
+ var open=document.createElement("a");open.className="file open";open.href=href;open.target="_blank";open.rel="noopener";open.textContent="פתיחה בדרייב ↗";
+ var dl=document.createElement("a");dl.className="file open";dl.href=driveStream(id);dl.textContent="⬇ הורדה";dl.style.marginInlineStart="6px";
+ wrap.appendChild(open);wrap.appendChild(dl);
+ a.replaceWith(wrap);
+ var p=media.play();if(p&&p.catch)p.catch(function(){});});
+feed.addEventListener("click",function(e){
+ var b=e.target.closest?e.target.closest(".copy"):null;if(!b)return;
+ var id=b.closest(".msg").getAttribute("data-id");
+ var m=all.filter(function(x){return String(x.id)===id;})[0];if(!m)return;
+ copyRich(messageHtml(m),messageText(m)).then(function(){
+  b.classList.add("ok");b.textContent="הועתק ✓";setTimeout(function(){b.classList.remove("ok");b.textContent="⧉ העתקה";},1500);
+ },function(){window.prompt("העתק:",messageText(m));});});
+// ---- שאל את הארכיון (בינה מלאכותית) ----
+// המפתח נשמר רק ב-localStorage של הדפדפן הזה; הבקשות הולכות ישירות ל-API של Claude (CORS מותר עם
+// הכותרת anthropic-dangerous-direct-browser-access). ההודעות שבזיכרון (החודשים הטעונים, אחרי הסינון)
+// נשלחות כהקשר עם prompt caching — שאלות חוזרות על אותו הקשר תוך 5 דקות זולות פי 10.
+// ספקים: gemini (חינמי, aistudio) או anthropic. המודל ניתן לשינוי בטופס המפתח.
+var AI_DEFAULT_MODEL={anthropic:"claude-opus-5",gemini:"gemini-flash-latest",groq:"openai/gpt-oss-120b"};   // gemini-flash-latest = תמיד הגרסה הנוכחית
+var AI_MAX={anthropic:160000,gemini:160000,groq:60000};   // תווים; מעל זה — בוחרים את ההודעות הרלוונטיות לשאלה
+function aiProv(){try{return localStorage.getItem("aiProvider")||"groq";}catch(e){return "groq";}}
+function aiModel(){try{return localStorage.getItem("aiModel:"+aiProv())||AI_DEFAULT_MODEL[aiProv()];}catch(e){return AI_DEFAULT_MODEL[aiProv()];}}
+var aiBox=document.getElementById("ai"),aiKeyBox=document.getElementById("aikey"),aiAsk=document.getElementById("aiask");
+var aiQ=document.getElementById("aiq"),aiGo=document.getElementById("aigo"),aiHint=document.getElementById("aihint");
+var aiAns=document.getElementById("aians"),aiHits=document.getElementById("aihits"),aiScope=document.getElementById("aiscope");
+function aiKey(){try{return localStorage.getItem("aiKey:"+aiProv())||"";}catch(e){return "";}}
+function aiShowKeyForm(){aiKeyBox.hidden=false;aiAsk.hidden=true;
+ document.getElementById("aiprov").value=aiProv();document.getElementById("aimodel").value=aiModel();document.getElementById("aikeyinput").focus();}
+document.getElementById("aiprov").addEventListener("change",function(e){try{localStorage.setItem("aiProvider",e.target.value);}catch(x){}document.getElementById("aimodel").value=aiModel();});
+function aiOpen(){aiBox.hidden=false;if(!aiKey())aiShowKeyForm();else{aiKeyBox.hidden=true;aiAsk.hidden=false;aiQ.focus();}
+ aiScope.textContent="ההקשר: "+scopeList().length+" הודעות ("+loaded.slice().sort().join(", ")+(who?" · "+who:"")+")";
+ window.scrollTo(0,0);}
+document.getElementById("aibtn").addEventListener("click",function(){aiBox.hidden?aiOpen():(aiBox.hidden=true);});
+document.getElementById("aiclose").addEventListener("click",function(){aiBox.hidden=true;});
+document.getElementById("aikeysave").addEventListener("click",function(){
+ var prov=document.getElementById("aiprov").value,v=document.getElementById("aikeyinput").value.trim(),mdl=document.getElementById("aimodel").value.trim();
+ if(!v){alert("הדבק מפתח.");return;}
+ if(prov==="anthropic"&&!/^sk-ant-/.test(v)){alert("מפתח של Anthropic מתחיל ב-sk-ant-. אם המפתח מגוגל — בחר Gemini.");return;}
+ try{localStorage.setItem("aiProvider",prov);localStorage.setItem("aiKey:"+prov,v);if(mdl)localStorage.setItem("aiModel:"+prov,mdl);else localStorage.removeItem("aiModel:"+prov);}catch(e){}
+ document.getElementById("aikeyinput").value="";aiOpen();});
+document.getElementById("aikeychange").addEventListener("click",function(){aiShowKeyForm();});
+// ההודעות שבתחום: החודשים הטעונים, אחרי סינון "מי" (לא אחרי חיפוש הטקסט — זה מה שהמודל אמור לעשות)
+function scopeList(){var l=all.slice();if(who)l=l.filter(function(m){return whoOf(m)===who;});l.sort(function(a,b){return a.ts-b.ts;});return l;}
+function aiLine(m,i){var files=(m.files||[]).map(function(f){return f.name+(f.type&&/^image/.test(f.type)?" (תמונה)":"");}).join(", ");
+ return "[#"+i+"] "+m.date+" "+m.time+" | "+m.sender+(m.thread&&m.thread!==m.sender?" ↔ "+m.thread:"")+": "+(m.text||"").replace(/\s+/g," ").trim()+(files?" [קבצים: "+files+"]":"");}
+function aiContext(list,q){
+ // כל שורה מסומנת [#n] כדי שהמודל יוכל להפנות. אם הכל נכנס בתקרה — שולחים הכל בסדר כרונולוגי.
+ // אחרת: קודם ההודעות שחולקות מילים עם השאלה (רלוונטיות), ואז החדשות ביותר, עד התקרה.
+ var max=AI_MAX[aiProv()]||60000,lines=list.map(aiLine),total=lines.reduce(function(a,l){return a+l.length+1;},0);
+ if(total<=max)return {text:lines.join("\n"),count:list.length,truncated:false};
+ var terms=(q||"").toLowerCase().split(/[^\p{L}\p{N}]+/u).filter(function(t){return t.length>=2;});
+ var scored=list.map(function(m,i){var low=(m.text||"").toLowerCase()+" "+(m.sender||"").toLowerCase();var s=0;terms.forEach(function(t){if(low.indexOf(t)>-1)s++;});return {i:i,s:s};});
+ var order=scored.filter(function(x){return x.s>0;}).sort(function(a,b){return b.s-a.s||b.i-a.i;}).map(function(x){return x.i;});
+ for(var k=list.length-1;k>=0;k--)if(order.indexOf(k)<0)order.push(k);
+ var pick={},used=0,n=0;
+ for(var j=0;j<order.length;j++){var L=lines[order[j]].length+1;if(used+L>max)continue;pick[order[j]]=1;used+=L;n++;}
+ var out=[];for(var i2=0;i2<list.length;i2++)if(pick[i2])out.push(lines[i2]);
+ return {text:out.join("\n"),count:n,truncated:true};}
+// הפניות: המודל מתבקש לכתוב [#12], אבל בפועל כותב גם "#12", "ב‑#37", "#6‑#7", "(מקורות: #6, #7)" — תופסים את כולם
+var REF_RE=/(^|[^\w&#])\[?#(\d+)\]?/g;
+function aiRender(text,list){
+ var html=esc(text).replace(REF_RE,function(all,pre,n){var m=list[+n];if(!m)return all;
+  return pre+'<a class="ref" href="#" data-i="'+n+'" title="'+esc(m.sender+" · "+m.date+" "+m.time+(m.text?" — "+m.text.slice(0,80):""))+'">↗ '+esc(m.sender)+" "+esc(m.date.slice(5))+" "+esc(m.time)+"</a>";});
+ html=waFormat(html.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>'));
+ aiAns.innerHTML=html;aiAns.hidden=false;
+ var seen={},chips="",mm;REF_RE.lastIndex=0;
+ var found=[];while((mm=REF_RE.exec(text))!==null)found.push(+mm[2]);
+ found.forEach(function(n){if(seen[n]||!list[n])return;seen[n]=1;
+  chips+='<a href="#" data-i="'+n+'" title="'+esc((list[n].text||"").slice(0,120))+'">'+esc(list[n].sender)+" · "+esc(list[n].date)+" "+esc(list[n].time)+"</a>";});
+ aiHits.innerHTML=chips;aiHits.hidden=!chips;}
+function aiJump(list,n){var m=list[n];if(!m)return;var el=feed.querySelector('.msg[data-id="'+CSS.escape(String(m.id))+'"]');
+ if(!el){return;}var hh=document.querySelector("header").offsetHeight+8;window.scrollTo(0,el.getBoundingClientRect().top+window.pageYOffset-hh);
+ el.classList.add("flash");setTimeout(function(){el.classList.remove("flash");},2500);}
+var aiLastList=[];
+aiBox.addEventListener("click",function(e){var a=e.target.closest?e.target.closest("a[data-i]"):null;if(!a)return;e.preventDefault();aiJump(aiLastList,+a.getAttribute("data-i"));});
+var AI_INSTR="אתה עוזר שמחפש ועונה על שאלות על ארכיון של קבוצת וואטסאפ בשם \""+GROUP_NAME+"\". ענה בעברית, קצר וענייני. "+
+ "הסתמך אך ורק על ההודעות שבהקשר; אם אין מידע — אמור זאת. כשאתה מסתמך על הודעה, ציין את המזהה שלה מיד אחרי המשפט, בדיוק בצורה [#מספר] — כל הפניה בנפרד (למשל [#6] [#7], לא #6-#7 ולא 'מקורות:' בסוף). "+
+ "לשאלות 'מי/מתי/איפה' תן תשובה ישירה עם ההפניות; לבקשת סיכום — נקודות קצרות לפי נושאים, עם הפניות.";
+// Claude: system עם cache_control; fallbacks לסירובים. מחזיר {text, usageLine} או זורק.
+function askAnthropic(key,model,ctxText,q){
+ var system=[{type:"text",text:AI_INSTR},{type:"text",text:"ההודעות (ישן→חדש; תאריך שעה | שולח: טקסט):\n"+ctxText,cache_control:{type:"ephemeral"}}];
+ return fetch("https://api.anthropic.com/v1/messages",{method:"POST",headers:{
+   "content-type":"application/json","x-api-key":key,"anthropic-version":"2023-06-01",
+   "anthropic-dangerous-direct-browser-access":"true","anthropic-beta":"server-side-fallback-2026-07-01"},
+  body:JSON.stringify({model:model,max_tokens:4096,fallbacks:"default",system:system,messages:[{role:"user",content:q}]})})
+ .then(function(r){return r.json().then(function(j){return {ok:r.ok,status:r.status,j:j};});})
+ .then(function(res){
+  if(!res.ok){var e=new Error((res.j&&res.j.error&&res.j.error.message)||("HTTP "+res.status));e.status=res.status;throw e;}
+  var j=res.j;if(j.stop_reason==="refusal")throw new Error("המודל סירב לענות על השאלה הזו.");
+  var text=(j.content||[]).filter(function(b){return b.type==="text";}).map(function(b){return b.text;}).join("\n").trim();
+  var u=j.usage||{};var inTok=(u.input_tokens||0)+(u.cache_read_input_tokens||0)+(u.cache_creation_input_tokens||0);
+  return {text:text,usageLine:inTok.toLocaleString()+" טוקנים"+(u.cache_read_input_tokens?" (מהם "+u.cache_read_input_tokens.toLocaleString()+" מהמטמון)":"")+" · "+(j.model||model)};});}
+// Gemini (Google AI Studio): מפתח בכותרת x-goog-api-key; CORS פתוח מדפדפן.
+function askGemini(key,model,ctxText,q){
+ return fetch("https://generativelanguage.googleapis.com/v1beta/models/"+encodeURIComponent(model)+":generateContent",{method:"POST",
+  headers:{"content-type":"application/json","x-goog-api-key":key},
+  body:JSON.stringify({system_instruction:{parts:[{text:AI_INSTR}]},
+   contents:[{role:"user",parts:[{text:"ההודעות (ישן→חדש; תאריך שעה | שולח: טקסט):\n"+ctxText+"\n\nהשאלה: "+q}]}],
+   generationConfig:{maxOutputTokens:4096,temperature:0.2}})})
+ .then(function(r){return r.json().then(function(j){return {ok:r.ok,status:r.status,j:j};});})
+ .then(function(res){
+  if(!res.ok){var e=new Error((res.j&&res.j.error&&res.j.error.message)||("HTTP "+res.status));e.status=res.status;throw e;}
+  var c=(res.j.candidates||[])[0];if(!c)throw new Error(res.j.promptFeedback&&res.j.promptFeedback.blockReason?"נחסם: "+res.j.promptFeedback.blockReason:"אין תשובה");
+  var text=((c.content||{}).parts||[]).map(function(p){return p.text||"";}).join("").trim();
+  var u=res.j.usageMetadata||{};
+  return {text:text,usageLine:(u.promptTokenCount||0).toLocaleString()+" טוקנים"+(u.cachedContentTokenCount?" (מהם "+u.cachedContentTokenCount.toLocaleString()+" מהמטמון)":"")+" · "+model};});}
+// Groq (OpenAI-compatible): Bearer; CORS פתוח מדפדפן. ל-gpt-oss מבקשים reasoning נמוך — מהיר וזול בטוקנים.
+function askGroq(key,model,ctxText,q){
+ var body={model:model,temperature:0.2,max_tokens:4096,
+  messages:[{role:"system",content:AI_INSTR},{role:"user",content:"ההודעות (ישן→חדש; תאריך שעה | שולח: טקסט):\n"+ctxText+"\n\nהשאלה: "+q}]};
+ if(/gpt-oss/.test(model))body.reasoning_effort="low";
+ return fetch("https://api.groq.com/openai/v1/chat/completions",{method:"POST",headers:{"content-type":"application/json","Authorization":"Bearer "+key},body:JSON.stringify(body)})
+ .then(function(r){return r.json().then(function(j){return {ok:r.ok,status:r.status,j:j};});})
+ .then(function(res){
+  if(!res.ok){var e=new Error((res.j&&res.j.error&&res.j.error.message)||("HTTP "+res.status));e.status=res.status;throw e;}
+  var c=(res.j.choices||[])[0];var text=(c&&c.message&&c.message.content||"").trim();
+  if(!text)throw new Error("אין תשובה");
+  var u=res.j.usage||{};
+  return {text:text,usageLine:(u.prompt_tokens||0).toLocaleString()+" טוקנים · "+model+(u.total_time?" · "+u.total_time.toFixed(1)+" שנ'":"")};});}
+function aiAskNow(){
+ var q=aiQ.value.trim();if(!q)return;var key=aiKey();if(!key){aiShowKeyForm();return;}
+ var list=scopeList();aiLastList=list;var ctx=aiContext(list,q);var prov=aiProv(),model=aiModel();
+ aiGo.disabled=true;aiHint.textContent="חושב… ("+ctx.count+" הודעות"+(ctx.truncated?" הרלוונטיות/החדשות":"")+" · "+model+")";aiAns.hidden=true;aiHits.hidden=true;
+ (prov==="anthropic"?askAnthropic:prov==="groq"?askGroq:askGemini)(key,model,ctx.text,q)
+ .then(function(r){aiRender(r.text,list);aiHint.textContent=r.usageLine;})
+ .catch(function(e){
+  if(e.status===401||e.status===403||/API key|api_key|invalid/i.test(e.message)){aiHint.textContent="המפתח לא התקבל: "+e.message;aiShowKeyForm();}
+  else if(e.status===404){aiHint.textContent="המודל \""+model+"\" לא זמין ("+e.message+") — שנה את שם המודל בטופס המפתח (🔑).";}
+  else if(e.status===429){aiHint.textContent="חריגה ממכסה/קצב — חכה דקה ונסה שוב.";}
+  else aiHint.textContent="שגיאה: "+e.message;})
+ .then(function(){aiGo.disabled=false;});}
+aiGo.addEventListener("click",aiAskNow);
+aiQ.addEventListener("keydown",function(e){if(e.key==="Enter"&&(e.ctrlKey||e.metaKey))aiAskNow();});
+
+// ---- קפיצה לתאריך ----
+var navWrap=document.getElementById("navwrap"),navList=document.getElementById("navlist");
+var WIDE=window.matchMedia("(min-width:900px)");
+try{if(localStorage.getItem("navCollapsed")==="1")document.body.classList.add("nav-collapsed");}catch(e){}
+function buildNav(list){
+ var byDate={};(list||all).forEach(function(m){byDate[m.date]=(byDate[m.date]||0)+1;});
+ navList.innerHTML="";
+ months.slice().sort().reverse().forEach(function(mo){
+  var box=document.createElement("div");box.className="nav-mo";
+  var b=document.createElement("button");b.className="nav-mo-btn";b.setAttribute("data-mo",mo);
+  b.textContent=loaded.indexOf(mo)>-1?mo:mo+" — לחצו לטעינה";box.appendChild(b);
+  var days=Object.keys(byDate).filter(function(d){return d.indexOf(mo)===0;}).sort().reverse();
+  if(days.length){var ul=document.createElement("ul");ul.className="nav-days";
+   days.forEach(function(d){var li=document.createElement("li");var db=document.createElement("button");db.className="nav-day";db.setAttribute("data-d",d);
+    var s1=document.createElement("span");s1.textContent=d.slice(8)+"."+d.slice(5,7);
+    var s2=document.createElement("span");s2.className="nav-n";s2.textContent=byDate[d];
+    db.appendChild(s1);db.appendChild(s2);li.appendChild(db);ul.appendChild(li);});
+   box.appendChild(ul);}
+  navList.appendChild(box);});}
+function toggleNav(on){
+ if(WIDE.matches){var col=(on===undefined)?!document.body.classList.contains("nav-collapsed"):!on;
+  document.body.classList.toggle("nav-collapsed",col);try{localStorage.setItem("navCollapsed",col?"1":"0");}catch(e){}return;}
+ var show=(on===undefined)?!navWrap.classList.contains("open"):on;navWrap.classList.toggle("open",show);}
+document.getElementById("navbtn").addEventListener("click",function(){toggleNav();});
+document.getElementById("navclose").addEventListener("click",function(){toggleNav(false);});
+document.getElementById("navback").addEventListener("click",function(){toggleNav(false);});
+navList.addEventListener("click",function(e){
+ var t=e.target;var mb=t.closest?t.closest(".nav-mo-btn"):null;
+ if(mb){var k=mb.getAttribute("data-mo");if(loaded.indexOf(k)<0){mb.disabled=true;loadOlder(k);}return;}
+ var db=t.closest?t.closest(".nav-day"):null;
+ if(db){var el=document.getElementById("d-"+db.getAttribute("data-d"));
+  if(el){if(!WIDE.matches)toggleNav(false);
+   var hh=document.querySelector("header").offsetHeight+8;
+   var y=el.getBoundingClientRect().top+window.pageYOffset-hh;window.scrollTo(0,y<0?0:y);
+   setTimeout(function(){var y2=el.getBoundingClientRect().top+window.pageYOffset-hh;if(Math.abs(y2-window.pageYOffset)>4)window.scrollTo(0,y2<0?0:y2);},350);}}});
+function loadOlder(mo){
+ var h0=document.documentElement.scrollHeight,y0=window.pageYOffset;
+ loadMonth(mo).then(function(){render();window.scrollTo(0,y0+(document.documentElement.scrollHeight-h0));});}
+// ---- מחיקה לצמיתות (עם קוד) — דרך delete-service.gs שרושם "מצבה" ב-deleted.json במאגר ----
+feed.addEventListener("click",function(e){
+ var b=e.target.closest?e.target.closest(".del"):null;if(!b||!DELURL)return;
+ var box=b.closest(".msg"),id=box.getAttribute("data-id");
+ var m=all.filter(function(x){return String(x.id)===id;})[0];if(!m)return;
+ if(!confirm("למחוק את ההודעה של "+m.sender+" מ-"+m.date+" "+m.time+" מהארכיון?\nהמחיקה סופית — לכל מי שנכנס לדף."))return;
+ var code=prompt("קוד מחיקה:");if(!code)return;
+ b.disabled=true;b.textContent="…";
+ var slug=(location.pathname.match(/\/g\/([^\/]+)\//)||[])[1]||"";
+ fetch(DELURL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({code:code,slug:slug,id:id})})
+ .then(function(r){return r.json();})
+ .then(function(d){
+  if(d&&d.ok){deletedIds[id]=1;box.classList.add("gone");setTimeout(render,400);}
+  else{alert((d&&d.error)||"המחיקה נכשלה.");b.disabled=false;b.textContent="✕";}})
+ .catch(function(){alert("לא ניתן היה ליצור קשר עם שירות המחיקה.");b.disabled=false;b.textContent="✕";});});
+function loadDeleted(){return fetch("data/deleted.json?t="+Date.now()).then(function(r){return r.ok?r.json():{ids:[]};})
+ .then(function(d){(d.ids||[]).forEach(function(i){deletedIds[String(i)]=1;});}).catch(function(){});}
+function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
+ .then(function(r){return r.ok?r.json():{messages:[]};})
+ .then(function(d){all=all.concat(d.messages||[]);loaded.push(m);});}
+document.getElementById("search").addEventListener("input",function(e){
+ filter=e.target.value.trim();render();});
+whoSel.addEventListener("change",function(e){who=e.target.value;render();});
+more.addEventListener("click",function(){
+ var next=months[months.length-1-loaded.length];
+ if(!next)return;more.disabled=true;
+ var h=document.body.scrollHeight;
+ loadMonth(next).then(function(){more.disabled=false;render();
+  window.scrollTo(0,document.body.scrollHeight-h);});});
+fetch("data/index.json?t="+Date.now()).then(function(r){
+ if(!r.ok)throw new Error("אין עדיין נתונים");return r.json();})
+ .then(function(d){months=(d.months||[]).sort();
+  if(!months.length){statusEl.textContent="אין עדיין הודעות.";return;}
+  return loadDeleted().then(function(){return loadMonth(months[months.length-1]);}).then(render);})
+ .catch(function(){statusEl.textContent="הארכיון עדיין ריק. ההודעות יופיעו כאן אחרי ההודעה הראשונה בקבוצה.";});
+</script>
+</body>
+</html>
