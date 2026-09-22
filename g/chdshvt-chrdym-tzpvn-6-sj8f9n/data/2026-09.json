@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-22T11:28:22.101Z",
+ "updated": "2026-09-22T13:15:28.447Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -255,6 +255,26 @@
    "date": "2026-09-22",
    "time": "14:28",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A59D531451BABDB85F60AA7C3E564CF0",
+   "sender": "י",
+   "text": "*לוחמי מג\"ב צפון ושוטרי המחוז הצפוני מצאו רובים ותחמושת בתוך אורוות סוסים בכפר מר'אר*\n(צילום: דוברות המשטרה)\n\nלכל העדכונים👇",
+   "ts": 1790082890000,
+   "date": "2026-09-22",
+   "time": "16:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "35KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q7TbBIi4u4S-beKa6Q_bHehnM2zXXso3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q7TbBIi4u4S-beKa6Q_bHehnM2zXXso3&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }

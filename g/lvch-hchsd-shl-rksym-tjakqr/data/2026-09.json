@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T13:07:20.275Z",
+ "updated": "2026-09-22T13:14:50.411Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -1170,6 +1170,26 @@
    "files": [],
    "drive": null,
    "phone": "972524441878"
+  },
+  {
+   "id": "AC9FFBCC43B0E9CBB69DB3DBA953BCF5",
+   "sender": "ליאת בובליל",
+   "text": "",
+   "ts": 1790082874000,
+   "date": "2026-09-22",
+   "time": "16:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l11IXPoWt3v6gpUbJHW1o864jv1kQD2y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l11IXPoWt3v6gpUbJHW1o864jv1kQD2y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526808006"
   }
  ]
 }

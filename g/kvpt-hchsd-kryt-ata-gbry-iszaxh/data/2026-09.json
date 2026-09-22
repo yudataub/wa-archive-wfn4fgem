@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-22T11:30:52.187Z",
+ "updated": "2026-09-22T13:10:50.311Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -461,6 +461,68 @@
    ],
    "drive": null,
    "phone": "97246225511"
+  },
+  {
+   "id": "AC6503D7BFF99EE300DC6AE41A906CFE",
+   "sender": "yanay2020",
+   "text": "מיטה יהודית איכותית ושמורה \nעם ארגז מצעים גדול \nכולל ראש מיטה\nרק 300₪\n\nלפרטים:\n0529551604",
+   "ts": 1790082580000,
+   "date": "2026-09-22",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972529551604"
+  },
+  {
+   "id": "ACF35D493CC2BB188084D3065E68EA62",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790082581000,
+   "date": "2026-09-22",
+   "time": "16:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12THRtP1ts3t3JZymFUmqAvqoAjUiZyAJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12THRtP1ts3t3JZymFUmqAvqoAjUiZyAJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529551604"
+  },
+  {
+   "id": "AC2D0F55B98A8187A66A76775F03361D",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790082633000,
+   "date": "2026-09-22",
+   "time": "16:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W_YOU2dd5Oe6sXMiuRjICzO9qIeCDKo1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W_YOU2dd5Oe6sXMiuRjICzO9qIeCDKo1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529551604"
+  },
+  {
+   "id": "AC13193804E848004D97C201A96B8506",
+   "sender": "yanay2020",
+   "text": "מיטה יהודית איכותית ושמורה \nעם ארגז מצעים גדול \nכולל ראש מיטה\nרק 300₪\n\nלפרטים:\n0529551604",
+   "ts": 1790082639000,
+   "date": "2026-09-22",
+   "time": "16:10",
+   "files": [],
+   "drive": null,
+   "phone": "972529551604"
   }
  ]
 }

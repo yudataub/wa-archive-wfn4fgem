@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-09-22T13:02:20.172Z",
+ "updated": "2026-09-22T13:07:50.276Z",
  "messages": [
   {
    "id": "AC5BA4BA3AA525BB2BD27F05EC6E2BCF",
@@ -113,6 +113,26 @@
    ],
    "drive": null,
    "phone": "972547565668"
+  },
+  {
+   "id": "AC11956BCA0B65E5A0BC0AE60AE3F0E7",
+   "sender": "Ruti Krizer",
+   "text": "",
+   "ts": 1790082445000,
+   "date": "2026-09-22",
+   "time": "16:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RBJ510H5fHFg9Pd5hcnwZVlIPaJo-KAC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RBJ510H5fHFg9Pd5hcnwZVlIPaJo-KAC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583246496"
   }
  ]
 }
