@@ -1,0 +1,27 @@
+{
+ "month": "2026-09",
+ "group": "מסירות ומציאות רחוב בקרית אתא",
+ "updated": "2026-09-22T07:15:42.386Z",
+ "messages": [
+  {
+   "id": "AC9486E822232E7601E1ED9EF32AB50C",
+   "sender": "טלי דוד",
+   "text": "למסירה, 2 בוסטרים.\n*לא יודעת תוקף*",
+   "ts": 1790061325000,
+   "date": "2026-09-22",
+   "time": "10:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "376KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pClgqpDjoQvZoY_p-44T4iI7GyqAvmWR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pClgqpDjoQvZoY_p-44T4iI7GyqAvmWR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  }
+ ]
+}

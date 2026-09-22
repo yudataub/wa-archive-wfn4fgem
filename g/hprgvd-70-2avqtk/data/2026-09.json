@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T07:03:12.263Z",
+ "updated": "2026-09-22T07:15:12.374Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2075,6 +2075,37 @@
      "path": "https://drive.google.com/file/d/1gJD5kaZblgIqayZwoQiqOHpGW5GfMyrp/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1gJD5kaZblgIqayZwoQiqOHpGW5GfMyrp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0D2C971C3BB9D0224A0",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: סיבה מעניינת להעברת האסיר החרדי הרוצח ישי שליסל. עוד מעט נפרסם - מחכים לתגובת שב\"ס\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790061216000,
+   "date": "2026-09-22",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0F0BD85BD564B1C580B",
+   "sender": "הפרגוד",
+   "text": "*כמסורת של שנים - ועידת ״רפואה והלכה״ של מאוחדת ומכון ׳יד הרמה׳* \n\nעשרות רבות של רבנים, פוסקי הלכה ומורי הוראה השתתפו בוועידה השנתית שהתקיימה בבית שמש ועסקה השנה בסוגיות רפואיות והלכתיות הנוגעות לצום יו\"כ. במהלך הוועידה נשאו דברים הגר״מ דייטש ראש המכון, הגר״נ קופשיץ והגר״ש ברנסדורפר, שהעמיקו בהיבטים ההלכתיים ובשאלות המעשיות העולות לקראת הצום.\n\nאת המענה המקצועי והרפואי העניקו *בכירי הרופאים של ׳מאוחדת׳ וטובי הפרופסורים של בית החולים ׳הדסה׳,* תוך דיון משותף עם הרבנים בסוגיות רפואיות מורכבות ובהשלכותיהן ההלכתיות.\n\nמאוחדת – מחברים בין רפואה מקצועית לעולם ההלכה, למען בריאות הציבור.",
+   "ts": 1790061291000,
+   "date": "2026-09-22",
+   "time": "10:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "270KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18ZwvjIyN9mlNtnsq8OdD0D1AxqDX3Z_q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18ZwvjIyN9mlNtnsq8OdD0D1AxqDX3Z_q&sz=w1200"
     }
    ],
    "drive": null,
