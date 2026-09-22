@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-22T14:04:29.235Z",
+ "updated": "2026-09-22T14:36:44.321Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -1284,6 +1284,48 @@
    ],
    "drive": null,
    "phone": "972534703302"
+  },
+  {
+   "id": "ACBAB5BAE878B44D6D3C86EECEF30825",
+   "sender": "Natti",
+   "text": "יש למישהו המלצות ?\nשווה משהו?",
+   "ts": 1790087355000,
+   "date": "2026-09-22",
+   "time": "17:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yifLdGhK6Fe3gZ3QuYM9OiRtGZqGzu4Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yifLdGhK6Fe3gZ3QuYM9OiRtGZqGzu4Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545286509"
+  },
+  {
+   "id": "AC9B873FCC056284C4FED7BAECFFFEEB",
+   "sender": "יוסי מוזס",
+   "text": "על הקדמא או האולימפיק?",
+   "ts": 1790087509000,
+   "date": "2026-09-22",
+   "time": "17:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "A5E2AF34573972856291C58A66550A10",
+   "sender": "מאיר מוגרבי",
+   "text": "שכחנו ארבעת המינים בטבריה, אם מישהו מגיע מטבריה לרכסים אשמח לעדכון 🙏",
+   "ts": 1790087798000,
+   "date": "2026-09-22",
+   "time": "17:36",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

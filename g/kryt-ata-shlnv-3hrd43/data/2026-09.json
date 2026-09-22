@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T14:23:14.101Z",
+ "updated": "2026-09-22T14:36:44.304Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2332,6 +2332,26 @@
    "files": [],
    "drive": null,
    "phone": "972587462333"
+  },
+  {
+   "id": "3A65F1CCE799CDC8483D",
+   "sender": "תהילה אלגרסי",
+   "text": "",
+   "ts": 1790087794000,
+   "date": "2026-09-22",
+   "time": "17:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IGx-UyspJ2j2xrIGAxh4SuBtU00Hr-vz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IGx-UyspJ2j2xrIGAxh4SuBtU00Hr-vz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532397782"
   }
  ]
 }
