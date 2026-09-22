@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני העל-יסודי",
- "updated": "2026-09-22T04:39:49.753Z",
+ "updated": "2026-09-22T10:27:52.924Z",
  "messages": [
   {
    "id": "gm-1a059a523f683bdb",
@@ -509,6 +509,37 @@
    "time": "12:52",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACDF3756E8DAF8A05F30B80B0F14219F",
+   "sender": ",",
+   "text": "",
+   "ts": 1790072849000,
+   "date": "2026-09-22",
+   "time": "13:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "439KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ODmdMu7xubzv2DaIUPDTGGIeQeLdaxy0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ODmdMu7xubzv2DaIUPDTGGIeQeLdaxy0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509018403"
+  },
+  {
+   "id": "ACEEA5E0AFF8FF31CD8A345EEE062BB1",
+   "sender": ",",
+   "text": "רבנים יקרים, נשמח לראותכם מוזמנים גם להפיץ בקהילת ההורים הכנס יעסוק בחינוך בדורנו עם הרבנים הראשיים הרב שמואל אליהו ועוד כפי שניתן לראות במודעה",
+   "ts": 1790072850000,
+   "date": "2026-09-22",
+   "time": "13:27",
+   "files": [],
+   "drive": null,
+   "phone": "972509018403"
   }
  ]
 }

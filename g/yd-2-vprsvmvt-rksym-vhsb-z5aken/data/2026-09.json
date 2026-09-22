@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T10:22:45.050Z",
+ "updated": "2026-09-22T10:29:53.434Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1215,6 +1215,26 @@
    ],
    "drive": null,
    "phone": "972527005084"
+  },
+  {
+   "id": "3ABC1E385DCA14476811",
+   "sender": "אלעזר בטיטו",
+   "text": "",
+   "ts": 1790072980000,
+   "date": "2026-09-22",
+   "time": "13:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Gnm-XFO6GRO9WLQfXkT4q9ItENuKbl3P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gnm-XFO6GRO9WLQfXkT4q9ItENuKbl3P&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549301833"
   }
  ]
 }
