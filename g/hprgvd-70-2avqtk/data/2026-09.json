@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T05:32:57.087Z",
+ "updated": "2026-09-22T05:52:29.129Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -1782,6 +1782,35 @@
      "skipped": "24.2MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "3EB0E3BB2E3F4F78E6302D",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ההבדלה בבעלזא במוצאי יום כיפור. החסידים שוברים את הצום צילום: אנשיל בעק\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790056054000,
+   "date": "2026-09-22",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1q-a14mt72c8rvhSA5UsQm9PKkVT-UJdm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q-a14mt72c8rvhSA5UsQm9PKkVT-UJdm&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB071555CD1840E3430A4",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: נפטרה אמו של מנדי קניג יו\"ר ארגון מנוחה וישועה.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790056322000,
+   "date": "2026-09-22",
+   "time": "08:52",
+   "files": [],
    "drive": null
   }
  ]

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-22T02:17:36.249Z",
+ "updated": "2026-09-22T05:47:59.062Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -204,6 +204,25 @@
    "date": "2026-09-21",
    "time": "22:41",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5E509092895AF61C61E1167CF1181F2",
+   "sender": "י",
+   "text": "*תאונה עם מעורבות שני כלי רכב שאחד מהם התהפך אירעה בצומת העמקים*\nצוותי הרפואה של איחוד הצלה העניקו טיפול רפואי בזירה לשתי הנהגות - בת 60 ובת 35 שנפצעו באורח קל. עומסים במקום \n(צילום:  איחוד הצלה)\n\nלכל העדכונים👇",
+   "ts": 1790056048000,
+   "date": "2026-09-22",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16Qbghg1mGkBtiNLKzBDWdiH0ozd4I6HV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16Qbghg1mGkBtiNLKzBDWdiH0ozd4I6HV&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
