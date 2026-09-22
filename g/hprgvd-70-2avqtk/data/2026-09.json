@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T09:10:00.807Z",
+ "updated": "2026-09-22T09:27:14.884Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2350,6 +2350,65 @@
      "path": "https://drive.google.com/file/d/1Kn_RsnFXEifSLV_laH8Z4OKMXv2hxx8A/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Kn_RsnFXEifSLV_laH8Z4OKMXv2hxx8A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0A3F7CF57CFA02AE66E",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: האדמו\"ר רבי פנחס אבוחצירא: מתפלל אצלינו עומד בכניסת כיפור כי אם יישב יעוף לו קציצה מסעודה מפסקת\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790068852000,
+   "date": "2026-09-22",
+   "time": "12:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "14.0MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB08E6A5ABE578FA847CB",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: בגלל עיכוב של טיסת אל על הלווית חכם ליאון גינדי זצ\"ל תתקיים בגבעת שאול בשעה 22:00\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790068947000,
+   "date": "2026-09-22",
+   "time": "12:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1prh8jE0E28y9hvSPfLDtalHh4e4TiiFi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1prh8jE0E28y9hvSPfLDtalHh4e4TiiFi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0D8E770FCC8FDAD758D",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ליפא שמעלצר בצילומים בכותל\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790069229000,
+   "date": "2026-09-22",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "346KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o_uw8kWzZuc-8E3DF0rXwjB9oCsF6x5o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o_uw8kWzZuc-8E3DF0rXwjB9oCsF6x5o&sz=w1200"
     }
    ],
    "drive": null,

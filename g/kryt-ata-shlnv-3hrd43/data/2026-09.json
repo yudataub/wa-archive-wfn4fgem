@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T09:16:10.107Z",
+ "updated": "2026-09-22T09:21:43.094Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1738,6 +1738,26 @@
    ],
    "drive": null,
    "phone": "972552804085"
+  },
+  {
+   "id": "3AED7814BD814C31CCFA",
+   "sender": "אסף",
+   "text": "",
+   "ts": 1790068866000,
+   "date": "2026-09-22",
+   "time": "12:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L30vBxyVfuGAjH36Deq98NDQk7Fv_Toj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L30vBxyVfuGAjH36Deq98NDQk7Fv_Toj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502774900"
   }
  ]
 }

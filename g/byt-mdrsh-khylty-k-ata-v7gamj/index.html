@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v13 -->
+<!-- wa-archive-generated v14 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -329,13 +329,17 @@ function aiContext(list,q){
  for(var j=0;j<order.length;j++){var L=lines[order[j]].length+1;if(used+L>max)continue;pick[order[j]]=1;used+=L;n++;}
  var out=[];for(var i2=0;i2<list.length;i2++)if(pick[i2])out.push(lines[i2]);
  return {text:out.join("\n"),count:n,truncated:true};}
+// הפניות: המודל מתבקש לכתוב [#12], אבל בפועל כותב גם "#12", "ב‑#37", "#6‑#7", "(מקורות: #6, #7)" — תופסים את כולם
+var REF_RE=/(^|[^\w&#])\[?#(\d+)\]?/g;
 function aiRender(text,list){
- // [#12] → קישור להודעה
- var html=esc(text).replace(/\[#(\d+)\]/g,function(_,n){var m=list[+n];if(!m)return "";return '<a class="ref" href="#" data-i="'+n+'" title="'+esc(m.sender+" · "+m.date+" "+m.time)+'">↗ '+esc(m.sender)+" "+esc(m.date.slice(5))+"</a>";});
+ var html=esc(text).replace(REF_RE,function(all,pre,n){var m=list[+n];if(!m)return all;
+  return pre+'<a class="ref" href="#" data-i="'+n+'" title="'+esc(m.sender+" · "+m.date+" "+m.time+(m.text?" — "+m.text.slice(0,80):""))+'">↗ '+esc(m.sender)+" "+esc(m.date.slice(5))+" "+esc(m.time)+"</a>";});
  html=waFormat(html.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>'));
  aiAns.innerHTML=html;aiAns.hidden=false;
- var seen={},chips="";(text.match(/\[#(\d+)\]/g)||[]).forEach(function(t){var n=+t.slice(2,-1);if(seen[n]||!list[n])return;seen[n]=1;
-  chips+='<a href="#" data-i="'+n+'">'+esc(list[n].sender)+" · "+esc(list[n].date)+" "+esc(list[n].time)+"</a>";});
+ var seen={},chips="",mm;REF_RE.lastIndex=0;
+ var found=[];while((mm=REF_RE.exec(text))!==null)found.push(+mm[2]);
+ found.forEach(function(n){if(seen[n]||!list[n])return;seen[n]=1;
+  chips+='<a href="#" data-i="'+n+'" title="'+esc((list[n].text||"").slice(0,120))+'">'+esc(list[n].sender)+" · "+esc(list[n].date)+" "+esc(list[n].time)+"</a>";});
  aiHits.innerHTML=chips;aiHits.hidden=!chips;}
 function aiJump(list,n){var m=list[n];if(!m)return;var el=feed.querySelector('.msg[data-id="'+CSS.escape(String(m.id))+'"]');
  if(!el){return;}var hh=document.querySelector("header").offsetHeight+8;window.scrollTo(0,el.getBoundingClientRect().top+window.pageYOffset-hh);
@@ -343,7 +347,7 @@ function aiJump(list,n){var m=list[n];if(!m)return;var el=feed.querySelector('.m
 var aiLastList=[];
 aiBox.addEventListener("click",function(e){var a=e.target.closest?e.target.closest("a[data-i]"):null;if(!a)return;e.preventDefault();aiJump(aiLastList,+a.getAttribute("data-i"));});
 var AI_INSTR="אתה עוזר שמחפש ועונה על שאלות על ארכיון של קבוצת וואטסאפ בשם \""+GROUP_NAME+"\". ענה בעברית, קצר וענייני. "+
- "הסתמך אך ורק על ההודעות שבהקשר; אם אין מידע — אמור זאת. כשאתה מסתמך על הודעה, ציין את המזהה שלה בסוגריים בדיוק בצורה [#מספר] (אפשר כמה). "+
+ "הסתמך אך ורק על ההודעות שבהקשר; אם אין מידע — אמור זאת. כשאתה מסתמך על הודעה, ציין את המזהה שלה מיד אחרי המשפט, בדיוק בצורה [#מספר] — כל הפניה בנפרד (למשל [#6] [#7], לא #6-#7 ולא 'מקורות:' בסוף). "+
  "לשאלות 'מי/מתי/איפה' תן תשובה ישירה עם ההפניות; לבקשת סיכום — נקודות קצרות לפי נושאים, עם הפניות.";
 // Claude: system עם cache_control; fallbacks לסירובים. מחזיר {text, usageLine} או זורק.
 function askAnthropic(key,model,ctxText,q){
