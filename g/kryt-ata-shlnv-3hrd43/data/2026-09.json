@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T15:59:50.007Z",
+ "updated": "2026-09-22T16:25:44.467Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2464,6 +2464,26 @@
    "files": [],
    "drive": null,
    "phone": "972507767666"
+  },
+  {
+   "id": "A5461FE8647D641328C98AFDEA126CF2",
+   "sender": "גבות וריסים",
+   "text": "אם גם את אוהבת מראה נקי וטבעי — הגעת למקום הנכון ✨\nעיצוב גבות | הרמת ריסים | הרמת גבות\nלפרטים וקביעת תורים ❤️\n053-535-4220 \n📍רכסים",
+   "ts": 1790094343000,
+   "date": "2026-09-22",
+   "time": "19:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nMo7BspiZFlwMzV1WHq_7kUYjalEUs_o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nMo7BspiZFlwMzV1WHq_7kUYjalEUs_o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535354220"
   }
  ]
 }
