@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T19:40:17.802Z",
+ "updated": "2026-09-22T20:27:42.783Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -843,6 +843,158 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC744252E160A2CF3BBE83771E4BCD7B",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790108343000,
+   "date": "2026-09-22",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "10KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Iqubm8G4fPTinri_t_vmlE_xXVX4fMbr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC4073F314D42FCE4715E9730D816DE2",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790108372000,
+   "date": "2026-09-22",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "63KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1aJgMrTPWO47DXwSGkZcpn3SnH5YWHRXa/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB056628AF75E85CFC91B",
+   "sender": "אני",
+   "text": "יש לך מנוי ל GPT?",
+   "ts": 1790108470000,
+   "date": "2026-09-22",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC8A878A72F7AA8742707CC5ECD976C0",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790108500000,
+   "date": "2026-09-22",
+   "time": "23:21",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "9KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1ov8VtPVFtqoMSl0ZPiUDqyBex7pnrOQM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB0E6D34DB3A6BB419B41",
+   "sender": "אני",
+   "text": "אתה מכניס את התמונה ל GPT\nוכותב לו להכין לך תמונת פרופיל לכל תלמיד \nאפשר גם לבקש רקעים יפים",
+   "ts": 1790108550000,
+   "date": "2026-09-22",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACF1DD50572C1C210D6F47E1AC7253FF",
+   "sender": "הילה שמר",
+   "text": "מעולה תודה רבה",
+   "ts": 1790108564000,
+   "date": "2026-09-22",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC69EEC0FFBB33053BA898A6EDD02F8B",
+   "sender": "הילה שמר",
+   "text": "אני אבקש ממנו את התמונת מחזור",
+   "ts": 1790108581000,
+   "date": "2026-09-22",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACB7413C37BF8A8C1180089D6A44919C",
+   "sender": "הילה שמר",
+   "text": "תודה🙏",
+   "ts": 1790108614000,
+   "date": "2026-09-22",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB03E8B80B3FC9F03DDA9",
+   "sender": "אני",
+   "text": "יש לך אותה ממה ששלחה המנהלת",
+   "ts": 1790108730000,
+   "date": "2026-09-22",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB00245C67DFC56149472",
+   "sender": "אני",
+   "text": "תסתכלי באתר ששלחתי לך",
+   "ts": 1790108738000,
+   "date": "2026-09-22",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC9A3EAB060137048DB26B29DC8DA5B2",
+   "sender": "הילה שמר",
+   "text": "מעולה תודה רבה הרב🙏",
+   "ts": 1790108842000,
+   "date": "2026-09-22",
+   "time": "23:27",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
   }
  ]
 }
