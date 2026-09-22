@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T13:05:20.232Z",
+ "updated": "2026-09-22T13:27:28.615Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -446,6 +446,37 @@
    ],
    "drive": null,
    "thread": "120363240404811519"
+  },
+  {
+   "id": "3EB0D274F1566A0ACB9F03",
+   "sender": "אני",
+   "text": "כן יש לי בקרית אתא",
+   "ts": 1790083343000,
+   "date": "2026-09-22",
+   "time": "16:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0C89D66D0749A3A2AF4",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790083630000,
+   "date": "2026-09-22",
+   "time": "16:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OxDCqro1RJSikS5TucS9HfTbWMs3adeA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OxDCqro1RJSikS5TucS9HfTbWMs3adeA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

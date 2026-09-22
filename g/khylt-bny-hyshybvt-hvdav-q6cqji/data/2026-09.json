@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-22T13:05:50.244Z",
+ "updated": "2026-09-22T13:26:28.617Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -1620,6 +1620,26 @@
    "date": "2026-09-22",
    "time": "16:05",
    "files": [],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A5F84FB56351EDE4B36883A313FE13CE",
+   "sender": "NATI POWER",
+   "text": "מישהו יודע איפה אפשר להזמין כאלו בשביל פרגולה?",
+   "ts": 1790083585000,
+   "date": "2026-09-22",
+   "time": "16:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m-LdZX1x0mCzgySY-DJ0KrMQVY6T3B3h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m-LdZX1x0mCzgySY-DJ0KrMQVY6T3B3h&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972556630746"
   }

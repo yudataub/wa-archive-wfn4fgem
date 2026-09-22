@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T13:10:20.309Z",
+ "updated": "2026-09-22T13:26:58.610Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1286,6 +1286,26 @@
    "files": [],
    "drive": null,
    "phone": "972529551604"
+  },
+  {
+   "id": "AC42C1C42CFD278D3C3D9A24CF869EDD",
+   "sender": "דויד אלבו",
+   "text": "שלום רק שאלה למבינים בגוף תאורה לד אצלנו נשרפה הלד עצמו אז מה עושים אם להחליף הכול אפילו א הגוף תאורה כולו לגוף תאורב חדש ?",
+   "ts": 1790083596000,
+   "date": "2026-09-22",
+   "time": "16:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18_RW1y_BmUcb1zRmP93O9B2wEOXiZ4iU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18_RW1y_BmUcb1zRmP93O9B2wEOXiZ4iU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528546866"
   }
  ]
 }
