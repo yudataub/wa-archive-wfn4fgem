@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T17:35:44.568Z",
+ "updated": "2026-09-22T18:09:47.109Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2546,6 +2546,48 @@
    ],
    "drive": null,
    "phone": "972505315633"
+  },
+  {
+   "id": "A5FD4A38AD70C244AAE1DD67BAC2CC1B",
+   "sender": "גיא אפיק Dj",
+   "text": "אם גם אתם רוצים לשלם פחות על דלק, ביטוחים, מוסכים והוצאות רכב, כדאי שתכירו את דרייב ישראל.\r\nגם אני הצטרפתי. ההרשמה בחינם, לוקחת פחות מדקה, בלי כרטיס אשראי ובלי פרטים מיותרים.\r\nממליץ לכם בחום להצטרף עכשיו. אין מה להפסיד, ויש הרבה מה להרוויח: https://driveclub.co.il/?ref=LP5886BP",
+   "ts": 1790100478000,
+   "date": "2026-09-22",
+   "time": "21:07",
+   "files": [],
+   "drive": null,
+   "phone": "972548047828"
+  },
+  {
+   "id": "A5911AEB6962FCC46C261171AD782B82",
+   "sender": "גיא אפיק Dj",
+   "text": "עוד 3000 נרשמים אחרונים",
+   "ts": 1790100530000,
+   "date": "2026-09-22",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972548047828"
+  },
+  {
+   "id": "AC7A663737DEC2A8D974AFB09CA5F497",
+   "sender": "אסתר חתן",
+   "text": "",
+   "ts": 1790100578000,
+   "date": "2026-09-22",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CxkG_8YoTtePj8cHde2dXFkvNvOTSUuj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CxkG_8YoTtePj8cHde2dXFkvNvOTSUuj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522353413"
   }
  ]
 }
