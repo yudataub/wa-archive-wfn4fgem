@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-22T06:40:02.584Z",
+ "updated": "2026-09-22T07:52:45.735Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -139,6 +139,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "2A4F7462D84371BCC960",
+   "sender": "מספרתך",
+   "text": "מספרתך זבולון 9 מספרה לנשים בלבד במרכז קריית אתא עם יחס אישי ומותאם פן החל מ50 צבע ופן 150 פסים החל מ350 תספורת ופן 150 תוספות 1500 *החלקה אורגנית עם התחייבות לתוצאה החל מ400* אורטל 0558834326 אינסטגרם https://www.instagram.com/ortal_hair?igsh=MWRid3hwNXFpczN5aA%3D%3D&utm_source=qr",
+   "ts": 1790063534000,
+   "date": "2026-09-22",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1spdNTYJjlZsi4tq3_4fouV-4N-hIKOEP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1spdNTYJjlZsi4tq3_4fouV-4N-hIKOEP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972558834326"
   }
  ]
 }

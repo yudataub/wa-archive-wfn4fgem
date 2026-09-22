@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!-- wa-archive-generated v8 -->
+<!--
+  דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
+  g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
+  ולהעלות את SITE_PAGE_VERSION ב-site.js.
+  הדף קורא data/index.json (רשימת חודשים) ו-data/YYYY-MM.json (הודעות).
+  הצעות עבודה בהוראה מוחלף בשם הקבוצה בזמן הכתיבה, 44 בגוון הצבע של הקבוצה (0–360).
+-->
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>הצעות עבודה בהוראה — ארכיון</title>
+<style>
+/* צבע הקבוצה: גוון אחד (44, נקבע לפי שם הקבוצה) שממנו נגזרים הכותרת, השמות והרקע */
+:root{--hue:44;
+--bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
+--muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);}
+@media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
+--bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);--line:hsl(var(--hue) 10% 25%);}}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);
+font-family:"Segoe UI",Arial,sans-serif;}
+header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;
+padding:14px 16px;box-shadow:0 2px 8px rgba(0,0,0,.18);}
+header h1{margin:0;font-size:18px;font-weight:600;}
+header .sub{font-size:12px;opacity:.85;margin-top:2px;}
+#search{width:100%;box-sizing:border-box;margin-top:10px;padding:8px 10px;
+border:0;border-radius:8px;font-size:14px;font-family:inherit;}
+#who{width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;border:0;border-radius:8px;
+font-size:14px;font-family:inherit;background:#fff;color:#1f2421;}
+.thread{color:var(--muted);font-weight:400;font-size:12px;}
+main{max-width:780px;margin:0 auto;padding:16px;}
+.day{text-align:center;margin:18px 0 10px;}
+.day span{background:var(--panel);border:1px solid var(--line);color:var(--muted);
+border-radius:999px;padding:4px 12px;font-size:12px;}
+.msg{background:var(--bubble);border:1px solid var(--line);border-radius:12px;
+padding:10px 12px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.05);}
+.who{font-weight:600;color:var(--accent);font-size:13px;margin-bottom:4px;}
+.who a{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor;}
+.who a:hover{opacity:.8}
+.who a::after{content:" ✆";font-size:11px;opacity:.7}
+.txt{white-space:pre-wrap;word-wrap:break-word;line-height:1.55;font-size:15px;}
+.txt a{color:var(--accent);}
+.when{text-align:left;color:var(--muted);font-size:11px;margin-top:6px;display:flex;align-items:center;gap:6px;flex-direction:row-reverse;}
+.when .t{margin-right:auto}
+.act{background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:6px;padding:2px 7px;
+font-size:11px;font-family:inherit;cursor:pointer;line-height:1.4;text-decoration:none;}
+.act:hover{color:var(--accent);border-color:var(--accent);}
+.act.ok{background:var(--accent);color:#fff;border-color:var(--accent);}
+.txt b{font-weight:700}.txt i{font-style:italic}.txt s{text-decoration:line-through}.txt code{font-family:Consolas,monospace;font-size:14px}
+.files{margin-top:8px;display:flex;flex-direction:column;gap:8px;}
+/* תמונה על כל רוחב הבועה (בלי הגבלת גובה) — כמו בוואטסאפ; פוסטר של סרטון גם */
+.files img{width:100%;max-width:100%;height:auto;border-radius:8px;display:block;}
+.files a.video{width:100%;}
+.files .file{align-self:flex-start;}
+.file{display:inline-block;background:var(--panel);border:1px solid var(--line);
+border-radius:8px;padding:6px 10px;font-size:13px;text-decoration:none;color:var(--ink);}
+.file.dead{opacity:.6;}
+.video{position:relative;display:block;max-width:100%;border-radius:8px;overflow:hidden;background:#000;}
+.video img{opacity:.85;}
+.video .play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:44px;text-shadow:0 2px 10px rgba(0,0,0,.6);}
+.video .vlabel{position:absolute;bottom:6px;right:8px;background:rgba(0,0,0,.55);color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;}
+#more{display:block;width:100%;margin:20px 0 40px;padding:12px;font-size:15px;
+font-family:inherit;background:var(--panel);color:var(--ink);
+border:1px solid var(--line);border-radius:10px;cursor:pointer;}
+#more[hidden]{display:none;}
+/* ---- חלונית "קפיצה לתאריך": בטלפון מגירה מעל התוכן; במסך רחב עמודה קבועה מימין, ניתנת לקיפול ---- */
+.hdr-row{display:flex;align-items:center;justify-content:space-between;gap:10px;}
+#navbtn{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;font-size:18px;line-height:1;padding:7px 10px;cursor:pointer;}
+#navwrap{position:fixed;inset:0;z-index:20;display:none;}
+#navwrap.open{display:block;}
+#navback{position:absolute;inset:0;background:rgba(0,0,0,.45);}
+#nav{position:absolute;top:0;bottom:0;right:0;width:min(290px,82vw);background:var(--panel);overflow-y:auto;padding:14px 12px;box-sizing:border-box;}
+.nav-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;}
+#nav h2{margin:0;font-size:15px;color:var(--accent);}
+#navclose{background:transparent;border:1px solid var(--line);color:var(--muted);border-radius:6px;padding:2px 8px;cursor:pointer;font-family:inherit;}
+.nav-mo{margin-bottom:12px;}
+.nav-mo-btn{width:100%;text-align:right;background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font-size:14px;font-family:inherit;cursor:pointer;font-weight:600;}
+.nav-days{list-style:none;margin:6px 0 0;padding:0;}
+.nav-day{width:100%;background:transparent;color:var(--ink);border:0;border-radius:6px;padding:6px 10px;font-size:14px;font-family:inherit;cursor:pointer;display:flex;justify-content:space-between;gap:8px;}
+.nav-day:hover{background:var(--bubble);}
+.nav-n{color:var(--muted);font-size:12px;}
+.day span{scroll-margin-top:140px;}
+@media (min-width:900px){
+ /* עמודה קבועה; body.nav-collapsed = מקופלת (הכפתור 📅 מחליף) */
+ #navwrap{display:block;position:static;}#navback{display:none;}
+ #nav{position:fixed;top:0;bottom:0;right:0;width:260px;border-left:1px solid var(--line);}
+ body{padding-right:260px;}
+ body.nav-collapsed #navwrap{display:none;}body.nav-collapsed{padding-right:0;}
+}
+#status{text-align:center;color:var(--muted);padding:20px;font-size:14px;}
+</style>
+</head>
+<body>
+<header>
+<div class="hdr-row"><h1>הצעות עבודה בהוראה</h1>
+<button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div>
+<div class="sub" id="sub">טוען…</div>
+<input id="search" type="search" placeholder="חיפוש בהודעות…">
+<select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
+</header>
+<div id="navwrap"><div id="navback"></div>
+<div id="nav"><div class="nav-head"><h2>קפיצה לתאריך</h2><button id="navclose" title="סגירה" aria-label="סגירה">✕</button></div><div id="navlist"></div></div></div>
+<main><div id="feed"></div>
+<button id="more" hidden>טען חודש קודם</button>
+<div id="status">טוען…</div></main>
+<script>
+var months=[],loaded=[],all=[],filter="",who="";
+var feed=document.getElementById("feed"),more=document.getElementById("more");
+var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
+var whoSel=document.getElementById("who");
+// "מי": בארכיון של צ'אטים אישיים — עם מי השיחה (thread); בקבוצה — השולח
+function whoOf(m){return m.thread||m.sender||"";}
+function buildWho(){
+ var counts={};all.forEach(function(m){var w=whoOf(m);if(w)counts[w]=(counts[w]||0)+1;});
+ var names=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]||a.localeCompare(b,"he");});
+ if(who&&!counts[who])who="";
+ var html='<option value="">כל האנשים ('+names.length+')</option>';
+ names.forEach(function(n){html+='<option value="'+esc(n)+'">'+esc(n)+" ("+counts[n]+")</option>";});
+ whoSel.innerHTML=html;whoSel.value=who;}
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
+ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+// קישורים בטקסט → לחיצים, ועיצוב וואטסאפ (*מודגש* _נטוי_ ~קו~ ```קוד```) → HTML (אחרי esc, אז בטוח)
+function waFormat(h){
+ return h.replace(/```([\s\S]+?)```/g,"<code>$1</code>")
+  .replace(/(^|[\s(>])\*([^*\n]+?)\*(?=[\s.,:;!?)<]|$)/g,"$1<b>$2</b>")
+  .replace(/(^|[\s(>])_([^_\n]+?)_(?=[\s.,:;!?)<]|$)/g,"$1<i>$2</i>")
+  .replace(/(^|[\s(>])~([^~\n]+?)~(?=[\s.,:;!?)<]|$)/g,"$1<s>$2</s>");}
+function linkify(s){return waFormat(esc(s).replace(/(https?:\/\/[^\s<]+)/g,
+ '<a href="$1" target="_blank" rel="noopener">$1</a>'));}
+function isImage(f){return /^image\//.test(f.type||"");}
+function isVideo(f){return /^video\//.test(f.type||"");}
+// תמונה ממוזערת מהדרייב — מהשדה thumb, או מחושבת מקישור הדרייב (גם לסרטונים: דרייב מייצר פוסטר)
+function driveThumb(f){
+ if(f.thumb)return f.thumb;
+ var m=/drive\.google\.com\/file\/d\/([\w-]+)/.exec(f.path||"");
+ return m?"https://drive.google.com/thumbnail?id="+m[1]+"&sz=w1200":null;}
+function fileHtml(f){
+ if(!f.path)return '<span class="file dead">'+esc(f.name)+" — "+esc(f.skipped||"")+"</span>";
+ var href=encodeURI(f.path);
+ if(isImage(f)){
+  var src=driveThumb(f)||f.path;   // בלי דרייב — תמונה שהועתקה למאגר
+  return '<a href="'+href+'" target="_blank" rel="noopener"><img loading="lazy" src="'+encodeURI(src)+'" alt="'+esc(f.name)+'"></a>';}
+ if(isVideo(f)&&driveThumb(f)){
+  return '<a class="video" href="'+href+'" target="_blank" rel="noopener" title="'+esc(f.name)+'">'+
+   '<img loading="lazy" src="'+encodeURI(driveThumb(f))+'" alt="'+esc(f.name)+'"><span class="play">▶</span>'+
+   '<span class="vlabel">סרטון'+(f.size?" · "+esc(f.size):"")+'</span></a>';}
+ return '<a class="file" href="'+href+'" target="_blank" rel="noopener">'+
+  esc(f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>";}
+function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
+ '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
+function render(){
+ var list=all.slice();
+ if(who)list=list.filter(function(m){return whoOf(m)===who;});
+ if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
+  return (m.text||"").toLowerCase().indexOf(q)>-1||
+   (m.sender||"").toLowerCase().indexOf(q)>-1||
+   (m.files||[]).some(function(f){return (f.name||"").toLowerCase().indexOf(q)>-1;});});}
+ list.sort(function(a,b){return a.ts-b.ts;});
+ var html="",lastDay="";
+ list.forEach(function(m){
+  if(m.date!==lastDay){lastDay=m.date;
+   html+='<div class="day"><span>'+esc(m.date)+"</span></div>";}
+  // יש מספר → השם (ובצ'אט אישי: שם הצד השני) הוא קישור wa.me — נפתח בוואטסאפ במחשב/בטלפון
+  var waLink=m.phone?'https://wa.me/'+encodeURIComponent(m.phone):"";
+  var who=esc(m.sender), thr=(m.thread&&m.thread!==m.sender)?esc(m.thread):"";
+  if(waLink){ if(thr)thr='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+thr+"</a>";
+   else who='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+who+"</a>"; }
+  html+='<div class="msg" data-id="'+esc(m.id)+'"><div class="who">'+who+(thr?' <span class="thread">↔ '+thr+"</span>":"")+"</div>";
+  if(m.text)html+='<div class="txt">'+linkify(m.text)+"</div>";
+  var f=(m.files||[]).map(fileHtml);
+  if(m.drive&&m.drive.url)f.push(driveHtml(m.drive));
+  if(f.length)html+='<div class="files">'+f.join("")+"</div>";
+  html+='<div class="when"><span class="t">'+esc(m.time)+'</span>'+
+   '<button class="act copy" title="העתקה עם העיצוב — להדבקה במייל/במסמך">⧉ העתקה</button>'+
+   '<a class="act" href="'+mailtoFor(m)+'" title="פתיחת מייל חדש עם ההודעה">✉ מייל</a></div></div>';});
+ feed.innerHTML=html;
+ [].forEach.call(feed.querySelectorAll(".day"),function(el){el.id="d-"+el.textContent.trim();});
+ buildNav(list);
+ statusEl.textContent=list.length?"":((filter||who)?"אין תוצאות.":"אין עדיין הודעות.");
+ sub.textContent=(list.length!==all.length?list.length+" מתוך "+all.length:all.length)+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
+ buildWho();
+ more.hidden=loaded.length>=months.length;
+ if(!filter&&!who&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
+// ---- העתקה למייל: HTML מעוצב (שולח, זמן, טקסט, תמונות, קבצים) + טקסט רגיל ----
+var GROUP_NAME=document.querySelector("header h1").textContent;
+function absUrl(u){try{return new URL(u,location.href).href;}catch(e){return u;}}
+function messageHtml(m){
+ var h='<div dir="rtl" style="font-family:Segoe UI,Arial,sans-serif;font-size:15px;line-height:1.55;color:#1f2421">';
+ h+='<div style="font-weight:600;color:#2f6d4f;font-size:13px">'+esc(m.sender)+(m.thread&&m.thread!==m.sender?' ↔ '+esc(m.thread):"")+
+  ' <span style="font-weight:400;color:#6b7280">· '+esc(GROUP_NAME)+' · '+esc(m.date)+' '+esc(m.time)+'</span></div>';
+ if(m.text)h+='<div style="white-space:pre-wrap;margin:4px 0 6px">'+linkify(m.text)+'</div>';
+ (m.files||[]).forEach(function(f){
+  if(!f.path){h+='<div style="color:#6b7280;font-size:13px">'+esc(f.name)+' — '+esc(f.skipped||"")+'</div>';return;}
+  var src=isImage(f)?(driveThumb(f)||absUrl(f.path)):(isVideo(f)?driveThumb(f):null);
+  if(src)h+='<div style="margin:6px 0"><a href="'+absUrl(f.path)+'"><img src="'+encodeURI(src)+'" alt="'+esc(f.name)+'" style="max-width:100%;border-radius:8px"></a>'+
+   (isVideo(f)?'<div style="font-size:12px"><a href="'+absUrl(f.path)+'">▶ סרטון'+(f.size?' · '+esc(f.size):"")+'</a></div>':"")+'</div>';
+  else h+='<div style="margin:4px 0"><a href="'+absUrl(f.path)+'">📎 '+esc(f.name)+(f.size?' ('+esc(f.size)+')':"")+'</a></div>';});
+ if(m.drive&&m.drive.url)h+='<div><a href="'+encodeURI(m.drive.url)+'">📎 '+esc(m.drive.name)+'</a></div>';
+ return h+'</div>';}
+function messageText(m){
+ var t=m.sender+(m.thread&&m.thread!==m.sender?' ↔ '+m.thread:"")+' · '+GROUP_NAME+' · '+m.date+' '+m.time+'\n';
+ if(m.text)t+=m.text+'\n';
+ (m.files||[]).forEach(function(f){t+=(f.path?absUrl(f.path):(f.name+' — '+(f.skipped||"")))+'\n';});
+ if(m.drive&&m.drive.url)t+=m.drive.url+'\n';
+ return t.trim();}
+function mailtoFor(m){
+ return 'mailto:?subject='+encodeURIComponent(GROUP_NAME+' — '+m.sender+' '+m.date)+'&body='+encodeURIComponent(messageText(m));}
+function copyRich(html,text){
+ if(navigator.clipboard&&window.ClipboardItem){
+  try{return navigator.clipboard.write([new ClipboardItem({
+   "text/html":new Blob([html],{type:"text/html"}),"text/plain":new Blob([text],{type:"text/plain"})})]);}catch(e){}}
+ // fallback: בחירה של HTML נסתר + execCommand — שומר עיצוב ברוב הדפדפנים
+ return new Promise(function(res,rej){
+  var box=document.createElement("div");box.contentEditable="true";box.style.cssText="position:fixed;left:-9999px;top:0";
+  box.innerHTML=html;document.body.appendChild(box);
+  var r=document.createRange();r.selectNodeContents(box);var sel=getSelection();sel.removeAllRanges();sel.addRange(r);
+  var ok=false;try{ok=document.execCommand("copy");}catch(e){}
+  sel.removeAllRanges();document.body.removeChild(box);ok?res():rej(new Error("copy failed"));});}
+feed.addEventListener("click",function(e){
+ var b=e.target.closest?e.target.closest(".copy"):null;if(!b)return;
+ var id=b.closest(".msg").getAttribute("data-id");
+ var m=all.filter(function(x){return String(x.id)===id;})[0];if(!m)return;
+ copyRich(messageHtml(m),messageText(m)).then(function(){
+  b.classList.add("ok");b.textContent="הועתק ✓";setTimeout(function(){b.classList.remove("ok");b.textContent="⧉ העתקה";},1500);
+ },function(){window.prompt("העתק:",messageText(m));});});
+// ---- קפיצה לתאריך ----
+var navWrap=document.getElementById("navwrap"),navList=document.getElementById("navlist");
+var WIDE=window.matchMedia("(min-width:900px)");
+try{if(localStorage.getItem("navCollapsed")==="1")document.body.classList.add("nav-collapsed");}catch(e){}
+function buildNav(list){
+ var byDate={};(list||all).forEach(function(m){byDate[m.date]=(byDate[m.date]||0)+1;});
+ navList.innerHTML="";
+ months.slice().sort().reverse().forEach(function(mo){
+  var box=document.createElement("div");box.className="nav-mo";
+  var b=document.createElement("button");b.className="nav-mo-btn";b.setAttribute("data-mo",mo);
+  b.textContent=loaded.indexOf(mo)>-1?mo:mo+" — לחצו לטעינה";box.appendChild(b);
+  var days=Object.keys(byDate).filter(function(d){return d.indexOf(mo)===0;}).sort().reverse();
+  if(days.length){var ul=document.createElement("ul");ul.className="nav-days";
+   days.forEach(function(d){var li=document.createElement("li");var db=document.createElement("button");db.className="nav-day";db.setAttribute("data-d",d);
+    var s1=document.createElement("span");s1.textContent=d.slice(8)+"."+d.slice(5,7);
+    var s2=document.createElement("span");s2.className="nav-n";s2.textContent=byDate[d];
+    db.appendChild(s1);db.appendChild(s2);li.appendChild(db);ul.appendChild(li);});
+   box.appendChild(ul);}
+  navList.appendChild(box);});}
+function toggleNav(on){
+ if(WIDE.matches){var col=(on===undefined)?!document.body.classList.contains("nav-collapsed"):!on;
+  document.body.classList.toggle("nav-collapsed",col);try{localStorage.setItem("navCollapsed",col?"1":"0");}catch(e){}return;}
+ var show=(on===undefined)?!navWrap.classList.contains("open"):on;navWrap.classList.toggle("open",show);}
+document.getElementById("navbtn").addEventListener("click",function(){toggleNav();});
+document.getElementById("navclose").addEventListener("click",function(){toggleNav(false);});
+document.getElementById("navback").addEventListener("click",function(){toggleNav(false);});
+navList.addEventListener("click",function(e){
+ var t=e.target;var mb=t.closest?t.closest(".nav-mo-btn"):null;
+ if(mb){var k=mb.getAttribute("data-mo");if(loaded.indexOf(k)<0){mb.disabled=true;loadOlder(k);}return;}
+ var db=t.closest?t.closest(".nav-day"):null;
+ if(db){var el=document.getElementById("d-"+db.getAttribute("data-d"));
+  if(el){if(!WIDE.matches)toggleNav(false);
+   var hh=document.querySelector("header").offsetHeight+8;
+   var y=el.getBoundingClientRect().top+window.pageYOffset-hh;window.scrollTo(0,y<0?0:y);
+   setTimeout(function(){var y2=el.getBoundingClientRect().top+window.pageYOffset-hh;if(Math.abs(y2-window.pageYOffset)>4)window.scrollTo(0,y2<0?0:y2);},350);}}});
+function loadOlder(mo){
+ var h0=document.documentElement.scrollHeight,y0=window.pageYOffset;
+ loadMonth(mo).then(function(){render();window.scrollTo(0,y0+(document.documentElement.scrollHeight-h0));});}
+function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
+ .then(function(r){return r.ok?r.json():{messages:[]};})
+ .then(function(d){all=all.concat(d.messages||[]);loaded.push(m);});}
+document.getElementById("search").addEventListener("input",function(e){
+ filter=e.target.value.trim();render();});
+whoSel.addEventListener("change",function(e){who=e.target.value;render();});
+more.addEventListener("click",function(){
+ var next=months[months.length-1-loaded.length];
+ if(!next)return;more.disabled=true;
+ var h=document.body.scrollHeight;
+ loadMonth(next).then(function(){more.disabled=false;render();
+  window.scrollTo(0,document.body.scrollHeight-h);});});
+fetch("data/index.json?t="+Date.now()).then(function(r){
+ if(!r.ok)throw new Error("אין עדיין נתונים");return r.json();})
+ .then(function(d){months=(d.months||[]).sort();
+  if(!months.length){statusEl.textContent="אין עדיין הודעות.";return;}
+  return loadMonth(months[months.length-1]).then(render);})
+ .catch(function(){statusEl.textContent="הארכיון עדיין ריק. ההודעות יופיעו כאן אחרי ההודעה הראשונה בקבוצה.";});
+</script>
+</body>
+</html>
