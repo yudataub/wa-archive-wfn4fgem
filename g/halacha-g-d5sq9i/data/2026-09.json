@@ -1,0 +1,112 @@
+{
+ "month": "2026-09",
+ "group": "הלכה כתה ג'",
+ "updated": "2026-09-22T04:39:49.738Z",
+ "messages": [
+  {
+   "id": "failed-1788249471214",
+   "sender": "תהילה",
+   "text": "אשמח לעטיפה למחברת הלכה וכן דפי לימוד על חודש אלול  לכיתה ג🙏",
+   "ts": 1788249464000,
+   "date": "2026-09-01",
+   "time": "10:57",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a05c3b5dd9987e4",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/0B8-ZH1QylxUFOW5TVmYwbjdrMzQ?resourcekey=0-Lr1PPdWTowT9PnZWvd0f2A",
+   "ts": 1788253786000,
+   "date": "2026-09-01",
+   "time": "12:09",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a05c3b5d42d07cd",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/0B8-ZH1QylxUFZzZmTEVwdzQ4SDQ?resourcekey=0-S7zGclvcGuiTWO3Lt7bY1A",
+   "ts": 1788253787000,
+   "date": "2026-09-01",
+   "time": "12:09",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a05c3c24cd3d127",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1788253834000,
+   "date": "2026-09-01",
+   "time": "12:10",
+   "files": [
+    {
+     "name": "עטיפות למחברות 1.pdf",
+     "size": "1.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1aRfz-G-mOxmZz7A5uMSirCONJrHJHIwB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "gm-1a05c3c1b72abd4b",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1788253835000,
+   "date": "2026-09-01",
+   "time": "12:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19cTS40xT2Xx6rZQ3KIyS0nbGIdTfqTWR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19cTS40xT2Xx6rZQ3KIyS0nbGIdTfqTWR&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "gm-1a05c49225580245",
+   "sender": "חגית צברי",
+   "text": "שאלה, האם הקבוצה היא מיועדת למורים המלמדים משנה?",
+   "ts": 1788254689000,
+   "date": "2026-09-01",
+   "time": "12:24",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a05c49c127d91c5",
+   "sender": "אתי",
+   "text": "הלכה☺️",
+   "ts": 1788254729000,
+   "date": "2026-09-01",
+   "time": "12:25",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "gm-1a0abfc4dc56bf69",
+   "sender": "נויה סויסה",
+   "text": "",
+   "ts": 1789591827000,
+   "date": "2026-09-16",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "א עד ת חגים (1).pdf",
+     "size": "49KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TeXlewvTV-P9_yTpW19wH2BvoM6l26Aw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  }
+ ]
+}
