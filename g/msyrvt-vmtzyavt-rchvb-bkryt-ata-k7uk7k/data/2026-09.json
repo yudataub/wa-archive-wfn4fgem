@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-22T08:36:28.130Z",
+ "updated": "2026-09-22T11:46:59.577Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -33,6 +33,26 @@
    "files": [],
    "drive": null,
    "phone": "972548005466"
+  },
+  {
+   "id": "ACF252CCA03287671E4A1D02AC1D69BA",
+   "sender": "שרון😄",
+   "text": "משפחה גדולה עם ילדים קטנים נשארה כמעט בלי מוצרי מזון בסיסיים בבית...\n*אנו זקוקים לסל מזון עבורם*. \n\n*כל סיוע יתקבל בהכרת תודה  ויעזור לתת לילדים ארוחות מסודרות, בטן מלאה  ותחושה של ביטחון*\n\n״כל המציל נפש אחת כאילו הציל עולם מלא״\n\nלתיאום, שרון, 052-2828512\n\n💕 תבורכו מפי עליון💕",
+   "ts": 1790077612000,
+   "date": "2026-09-22",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11WmToxezqqsFjgMkt2Y4kf8EuyeWNTWS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11WmToxezqqsFjgMkt2Y4kf8EuyeWNTWS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

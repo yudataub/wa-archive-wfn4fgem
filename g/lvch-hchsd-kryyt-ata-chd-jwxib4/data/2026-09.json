@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T11:30:52.161Z",
+ "updated": "2026-09-22T11:43:59.517Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1104,6 +1104,66 @@
    ],
    "drive": null,
    "phone": "97246225511"
+  },
+  {
+   "id": "AC2C5F0004B8A1AEFF6B7D0010DD3F4C",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790077263000,
+   "date": "2026-09-22",
+   "time": "14:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "330KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pgh1okQ9j2uWGtOTsLQ_h7bO1ISmnDRL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pgh1okQ9j2uWGtOTsLQ_h7bO1ISmnDRL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "A51B2D3C71513E220487E10527CC79B5",
+   "sender": "פסיפלורה",
+   "text": "🍋🍂 מתחדשים לכבוד חג הסוכות! 🍂🍋\n\nהחג כבר כאן – וזה הזמן להיכנס לפסיפלורה ולהתחדש בנעליים חדשות 👟✨\n\n*מבחר ענק הכי גדול בצפון לילדים נערות ונשים*\nדגמים חגיגיים, נוחים ואיכותיים לשבת ויום יום\nאל תחכו לרגע האחרון..\n❗*מכבדים איימיש כארד גיפטא כארד שופ ונדרים*❗\n *מחכים לכם בפסיפלורה* 😊\n\nקניון תימורה ק.אתא קומת כניסה *פתוח רצוף עד 23:00*\n0553165459",
+   "ts": 1790077372000,
+   "date": "2026-09-22",
+   "time": "14:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oVhwxHxRbemzpMk7QMqs3fEF5b-FDAb_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oVhwxHxRbemzpMk7QMqs3fEF5b-FDAb_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553165459"
+  },
+  {
+   "id": "ACA85CE90D4FBF47F28A27E16BC5C40F",
+   "sender": "שרון😄",
+   "text": "משפחה גדולה עם ילדים קטנים נשארה כמעט בלי מוצרי מזון בסיסיים בבית...\n*אנו זקוקים לסל מזון עבורם*. \n\n*כל סיוע יתקבל בהכרת תודה  ויעזור לתת לילדים ארוחות מסודרות, בטן מלאה  ותחושה של ביטחון*\n\n״כל המציל נפש אחת כאילו הציל עולם מלא״\n\nלתיאום, שרון, 052-2828512\n\n💕 תבורכו מפי עליון💕",
+   "ts": 1790077424000,
+   "date": "2026-09-22",
+   "time": "14:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l7HMqhJrePrDHB16sTo2Q98JYMQPnyTd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l7HMqhJrePrDHB16sTo2Q98JYMQPnyTd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T11:30:52.172Z",
+ "updated": "2026-09-22T11:44:59.570Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1942,6 +1942,46 @@
    ],
    "drive": null,
    "phone": "97246225511"
+  },
+  {
+   "id": "AC0068AB9B7E4CCA482B9C3FC060F8A0",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790077272000,
+   "date": "2026-09-22",
+   "time": "14:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "330KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Vgz0qCUzoDfBSIk9psaIZSQqhmQOidLk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Vgz0qCUzoDfBSIk9psaIZSQqhmQOidLk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC0288497049511158209D61FC3B8096",
+   "sender": "שרון😄",
+   "text": "משפחה גדולה עם ילדים קטנים נשארה כמעט בלי מוצרי מזון בסיסיים בבית...\n*אנו זקוקים לסל מזון עבורם*. \n\n*כל סיוע יתקבל בהכרת תודה  ויעזור לתת לילדים ארוחות מסודרות, בטן מלאה  ותחושה של ביטחון*\n\n״כל המציל נפש אחת כאילו הציל עולם מלא״\n\nלתיאום, שרון, 052-2828512\n\n💕 תבורכו מפי עליון💕",
+   "ts": 1790077491000,
+   "date": "2026-09-22",
+   "time": "14:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DqZcdjYQOdPQ7seVXwhvGwBFjOqygfyl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DqZcdjYQOdPQ7seVXwhvGwBFjOqygfyl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

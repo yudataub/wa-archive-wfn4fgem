@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-22T11:36:22.217Z",
+ "updated": "2026-09-22T11:43:59.537Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -373,6 +373,57 @@
    "files": [],
    "drive": null,
    "phone": "972546225644"
+  },
+  {
+   "id": "AC64C9685C97DD3E611E3544D90B87FC",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790077199000,
+   "date": "2026-09-22",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "330KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1owI2KeqXya6hasoUmFzRRcKIpXGfwn8K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1owI2KeqXya6hasoUmFzRRcKIpXGfwn8K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC5EFF092B3F513616F86669091B1C85",
+   "sender": "שלומית כהן❤️",
+   "text": "אשמח לקבל טלפון של טכנאי גז",
+   "ts": 1790077237000,
+   "date": "2026-09-22",
+   "time": "14:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542400567"
+  },
+  {
+   "id": "AC8114FD7A6E4F983A3C4969EA9BBA94",
+   "sender": "שרון😄",
+   "text": "משפחה גדולה עם ילדים קטנים נשארה כמעט בלי מוצרי מזון בסיסיים בבית...\n*אנו זקוקים לסל מזון עבורם*. \n\n*כל סיוע יתקבל בהכרת תודה  ויעזור לתת לילדים ארוחות מסודרות, בטן מלאה  ותחושה של ביטחון*\n\n״כל המציל נפש אחת כאילו הציל עולם מלא״\n\nלתיאום, שרון, 052-2828512\n\n💕 תבורכו מפי עליון💕",
+   "ts": 1790077424000,
+   "date": "2026-09-22",
+   "time": "14:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1d1Gkfy6HSvC6eBLl1Iz2mHoCytGGWOiq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d1Gkfy6HSvC6eBLl1Iz2mHoCytGGWOiq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }
