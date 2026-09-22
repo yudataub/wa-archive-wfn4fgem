@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T18:57:40.323Z",
+ "updated": "2026-09-22T18:58:40.315Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1869,6 +1869,86 @@
      "path": "https://drive.google.com/file/d/1fbDmGKNHiptzOW7pXxK8vKhpraTUMb8L/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1fbDmGKNHiptzOW7pXxK8vKhpraTUMb8L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC7F68775E476F41F35E8334CAD4E7E4",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790103494000,
+   "date": "2026-09-22",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1trwlE98vAvG_WlDSBNQZhwamIjbNLAr0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1trwlE98vAvG_WlDSBNQZhwamIjbNLAr0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC22F8FD7FBCF25B9E92A54E570AE0D3",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790103495000,
+   "date": "2026-09-22",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KazgXW8V3iZlgCYQZZaHr3dhVDLqoCA3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KazgXW8V3iZlgCYQZZaHr3dhVDLqoCA3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC41F794C0CDACEDA873B0A176F952A2",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790103496000,
+   "date": "2026-09-22",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NSuyGn-bxTwvD6rxLllLGvJZ4X7ClpPT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NSuyGn-bxTwvD6rxLllLGvJZ4X7ClpPT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACF86DDDDA0336D0CBC13FC7AEBBA22F",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790103497000,
+   "date": "2026-09-22",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19zNlaPl6RHeToNNhAYh0Vtf4m6TL4CpY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19zNlaPl6RHeToNNhAYh0Vtf4m6TL4CpY&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T17:48:44.720Z",
+ "updated": "2026-09-22T19:00:40.347Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -797,6 +797,30 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A53EB63A3B90A986F4533BBEE9454F3F",
+   "sender": "Batya Babaloon",
+   "text": "שלום וברכה",
+   "ts": 1790103585000,
+   "date": "2026-09-22",
+   "time": "21:59",
+   "files": [],
+   "drive": null,
+   "thread": "Batya Babaloon",
+   "phone": "972548922213"
+  },
+  {
+   "id": "A5D2CB41FF6426CD0BA770ADBF1EE535",
+   "sender": "Batya Babaloon",
+   "text": "מישהי שאלה אותי על ספר אוצר ההודיה לבת המצווה\nהאם הוא לסגנון ספרדי או אשכנזי.\nאשמח לתשובה שאעביר לה כמו שאתה אומר לי",
+   "ts": 1790103634000,
+   "date": "2026-09-22",
+   "time": "22:00",
+   "files": [],
+   "drive": null,
+   "thread": "Batya Babaloon",
+   "phone": "972548922213"
   }
  ]
 }
