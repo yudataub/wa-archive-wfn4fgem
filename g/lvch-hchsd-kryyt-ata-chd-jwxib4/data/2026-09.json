@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T09:42:50.292Z",
+ "updated": "2026-09-22T09:52:20.456Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1024,6 +1024,26 @@
    ],
    "drive": null,
    "phone": "972525368606"
+  },
+  {
+   "id": "AC7ED01B2FBFE5F9645669A10C1DACE6",
+   "sender": "מזל שטרית",
+   "text": "",
+   "ts": 1790070715000,
+   "date": "2026-09-22",
+   "time": "12:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UprhD5H4zDJRMIun2qqTtuHOytTPTN2v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UprhD5H4zDJRMIun2qqTtuHOytTPTN2v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509446934"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T09:32:43.855Z",
+ "updated": "2026-09-22T09:50:50.421Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -2429,6 +2429,26 @@
      "path": "https://drive.google.com/file/d/1X2deEcWgXtvr-GUZQWt9ut9SI_vsnH2f/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1X2deEcWgXtvr-GUZQWt9ut9SI_vsnH2f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0B0648E271BE6B621FB",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: חדי העין הבקיאים בתמונות הכפרות מחצרות האדמו\"רים טוענים כי התרנגול עם הכרבולת הכי אדומה נמצא השנה בחצר צאנז צילום: משה גולדשטיין\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790070636000,
+   "date": "2026-09-22",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TtCHL8Gnv1sywu7_sFC9BLcIRI4H6KxP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TtCHL8Gnv1sywu7_sFC9BLcIRI4H6KxP&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-21T19:51:31.587Z",
+ "updated": "2026-09-22T09:57:31.479Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -116,6 +116,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC6C13F1BF3F768C808B311F01BF6543",
+   "sender": "🥰",
+   "text": "מארז *חדש* של סט 3 סכינים מסדרת Luxury מבית סולתם (Soltam)\nמחיר: 80 שח\nאיסוף:  נהריה ולפעמים מעלות",
+   "ts": 1790071018000,
+   "date": "2026-09-22",
+   "time": "12:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "328KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YYGPwGJEhnx55-3XW1YJNKaW06i03yQ6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YYGPwGJEhnx55-3XW1YJNKaW06i03yQ6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
   }
  ]
 }

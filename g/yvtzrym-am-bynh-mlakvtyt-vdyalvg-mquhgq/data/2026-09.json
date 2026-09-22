@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-22T09:46:18.375Z",
+ "updated": "2026-09-22T09:57:26.123Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -534,6 +534,39 @@
    "ts": 1790070377000,
    "date": "2026-09-22",
    "time": "12:46",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "3EB0C00F1777E0DB7D2AC8",
+   "sender": "Stdb",
+   "text": "משפט הסיכום של הסרטון: המטרה אינה ללמד תלמידים לחיות בלי בינה מלאכותית, אלא לוודא שהם עדיין יודעים לחשוב כשהיא לצדם.",
+   "ts": 1790070729000,
+   "date": "2026-09-22",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB041E944B56747FB9067",
+   "sender": "Stdb",
+   "text": "אני מציע לגוון במקורות פחות ואללה וכלכליסט נניח",
+   "ts": 1790070760000,
+   "date": "2026-09-22",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB02D75F81AA90B382017",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "פרק 1 (10.9):\n1. NBC Chicago - בית ספר בלי מורים, מונע AI, שכ\"ל $55K\nhttps://www.nbcchicago.com/news/local/first-ai-driven-teacher-free-school-in-chicago-opens-with-55000-annual-tuition/3986851/\n2. The Optimist Daily - האיסור הרחב בארה\"ב על AI בניו יורק, עד כיתה ח'\nhttps://www.optimistdaily.com/2026/09/nyc-schools-issue-the-countrys-broadest-ai-ban-covering-pre-k-through-eighth-grade/\n3. The Verge - תלמידים שמשתמשים ב-AI מצליחים פחות (OECD/PISA)\nhttps://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa\n4. כלכליסט - שנת הלימודים נפתחת: מהפכת ה-AI כאן, מערכת החינוך לא מוכנה\nhttps://www.calcalist.co.il/local_news/article/b1bpum7dme\n\nפרק 2 (15.9):\n1. The Next Web - רק 6% מהמורים אומרים שמדיניות ה-AI בבית ספרם ברורה\nhttps://thenextweb.com/news/stanford-ai-index-2026-education\n2. Tuoi Tre News - האנוי מלמדת AI לכל התלמידים מכיתה א'\nhttps://news.tuoitre.vn/hanoi-starts-to-teach-ai-to-all-students-from-grade-1-103260914143808402.htm\n3. University of Sydney - ChatGPT Edu לכל הסטודנטים והסגל\nhttps://www.sydney.edu.au/news-opinion/news/2026/09/14/students-staff-to-receive-free-chatgpt-edu-access.html\n4. כלכליסט - 81% מתלמידי כיתות ט' ברמה נמוכה במדעים\nhttps://www.calcalist.co.il/local_news/article/rjuee1kffg\n5. אנשים ומחשבים - \"צריך לפתח אנשים חושבים\"\nhttps://www.pc.co.il/featured/457862/\n\nאילו המקורות של פרקים 1 ו2.\n\nהמקורות של אתרים בישראל מתייחסים בעיקר למה שקורה בארץ. מגוון",
+   "ts": 1790071013000,
+   "date": "2026-09-22",
+   "time": "12:56",
    "files": [],
    "drive": null,
    "phone": "972526016115"
