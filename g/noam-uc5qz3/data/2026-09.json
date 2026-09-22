@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם",
- "updated": "2026-09-22T15:11:14.887Z",
+ "updated": "2026-09-22T17:57:05.978Z",
  "messages": [
   {
    "id": "gm-1a05b0fd61a0e542",
@@ -3824,6 +3824,78 @@
    "ts": 1790089868000,
    "date": "2026-09-22",
    "time": "18:11",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACBA50CA0E47312C77811E1807A04C31",
+   "sender": "הילה שמר",
+   "text": "​מחנכים יקרים, ערב טוב! ❤️\n​לקראת אסיפת ההורים, שלחתי לכל אחד ואחת מכם אישית את התבנית של הכיתה שלכם ב-Canva.\n​תודה ענקית לג'ולי על התבנית המהממת שהכינה ועל הרעיונות הנפלאים! ❤️\n*​מה עליכם לעשות?*\n✔️​פותחים את התבנית האישית ששלחתי.\n✔️​משכפלים את השקופית לפי כמות התלמידים.\n✔️​בכל שקופית – שתולים את תמונת התלמיד במסגרת הענן.  \n✔️​לוחצים על הסרת רקע (Background Remover) להשלמת השילוב.\n🔹️​מצורפת תמונה לדוגמא להתרשמות.  \n*​אני כאן לכל שאלה ועזרה באהבה רבה! המשך ערב מקסים*🙏❤️",
+   "ts": 1790099497000,
+   "date": "2026-09-22",
+   "time": "20:51",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC268105C08AD6FAB8E60EAEB6DBD4F9",
+   "sender": "אורלי אוחנה",
+   "text": "יישר כח לג'ולי ולהילה היקרות על כל ההכנה והעזרה העצומה❤️❤️",
+   "ts": 1790099737000,
+   "date": "2026-09-22",
+   "time": "20:55",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACD4B1C9E37B8E1FDC4F7519E5E7AD2F",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1790099767000,
+   "date": "2026-09-22",
+   "time": "20:56",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "7KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1BZ-sKoDXSCXfZ9pkydOpzmxH5IhPu4z2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACCE38CDEF7F860D235E168C774516C0",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790099792000,
+   "date": "2026-09-22",
+   "time": "20:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uERZn9VE_aNVeU9DwWszqTVRNKYI6XCo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uERZn9VE_aNVeU9DwWszqTVRNKYI6XCo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACAC1A67D70D111189D4428F2EFF8C4D",
+   "sender": "הילה שמר",
+   "text": "זאת הדוגמא",
+   "ts": 1790099805000,
+   "date": "2026-09-22",
+   "time": "20:56",
    "files": [],
    "drive": null,
    "phone": "972534596413"
