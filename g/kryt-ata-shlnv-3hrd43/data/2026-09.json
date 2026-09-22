@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T12:17:41.563Z",
+ "updated": "2026-09-22T12:34:49.737Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2073,6 +2073,37 @@
    ],
    "drive": null,
    "phone": "972584844455"
+  },
+  {
+   "id": "3EB09234D85E67D80BA15A",
+   "sender": "Noam",
+   "text": "*חדש באריזה ! כבל טעינה TYPE-C (100W/5A) באורך 2 מטר להטענה מהירה של מחשבים ופלאפונים. 50 ש\"ח*",
+   "ts": 1790080271000,
+   "date": "2026-09-22",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "36KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e_nnJCHZ-QiHKg7tImMS9uLBDZWxu5mQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e_nnJCHZ-QiHKg7tImMS9uLBDZWxu5mQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "ACE126519415F1EE0C615BF0C66DDDDF",
+   "sender": "המשפחתון של לילך❤️",
+   "text": "גן רחלי יש למשהי את המספר?",
+   "ts": 1790080471000,
+   "date": "2026-09-22",
+   "time": "15:34",
+   "files": [],
+   "drive": null,
+   "phone": "972533614260"
   }
  ]
 }
