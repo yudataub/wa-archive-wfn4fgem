@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-09-22T11:30:22.152Z",
+ "updated": "2026-09-22T15:35:43.458Z",
  "messages": [
   {
    "id": "ACEAE3BB61449682DA4C0AB758D85574",
@@ -62,6 +62,26 @@
    ],
    "drive": null,
    "phone": "972546887251"
+  },
+  {
+   "id": "ACFF269A4A636387A0AED8074FE1EA8A",
+   "sender": "ענת לנקרי",
+   "text": "",
+   "ts": 1790091312000,
+   "date": "2026-09-22",
+   "time": "18:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1215c2tKmOvLpNQwuWJVJkkoIokshdn3p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1215c2tKmOvLpNQwuWJVJkkoIokshdn3p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522378396"
   }
  ]
 }

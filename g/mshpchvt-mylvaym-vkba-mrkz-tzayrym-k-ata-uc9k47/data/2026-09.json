@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "❤️משפחות מילואים וקבע❤️- מרכז צעירים ק.אתא",
- "updated": "2026-09-22T09:44:28.081Z",
+ "updated": "2026-09-22T15:34:13.423Z",
  "messages": [
   {
    "id": "3EB015B4434D1974AF7824",
@@ -49,6 +49,26 @@
    "date": "2026-09-22",
    "time": "12:44",
    "files": [],
+   "drive": null,
+   "phone": "972528777020"
+  },
+  {
+   "id": "3EB00A9F7AD1167738D239",
+   "sender": "אורטל קליינמן גנות",
+   "text": "🎭 הטבה מיוחדת למשרתי המילואים והקבע תושבי קרית אתא!\nמוזמנים ליהנות מזוג כרטיסים במחיר מיוחד למחזמר \"היומן\" בתיאטרון חיפה בתאריכים:\n📅 23.09 | 24.09 | 27.09\n🎟️ בעת ההרשמה יש להזין את קוד ההטבה: 1638\n🔗 להרשמה ורכישה: https://www.ht1.co.il/Event/Index/43815\n🙏 תודה לרשת המתנ\"סים על ההטבה המיוחדת💙",
+   "ts": 1790091231000,
+   "date": "2026-09-22",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fmi8KMmIehkRS4EN1vaAah9fI2414ymJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fmi8KMmIehkRS4EN1vaAah9fI2414ymJ&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972528777020"
   }
