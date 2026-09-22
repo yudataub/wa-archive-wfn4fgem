@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-22T02:17:36.263Z",
+ "updated": "2026-09-22T02:57:31.996Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -246,6 +246,25 @@
    "date": "2026-09-22",
    "time": "00:03",
    "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACF15D966814BCF441BCA64AE1F3B17D",
+   "sender": "ronentayar",
+   "text": "",
+   "ts": 1790045815000,
+   "date": "2026-09-22",
+   "time": "05:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1R_3RvUf9HMsdk1t78Qd1zEkCnBAjEJLM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R_3RvUf9HMsdk1t78Qd1zEkCnBAjEJLM&sz=w1200"
+    }
+   ],
    "drive": null
   }
  ]
