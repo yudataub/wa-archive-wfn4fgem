@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T17:23:26.849Z",
+ "updated": "2026-09-22T17:35:44.568Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2506,6 +2506,46 @@
    "files": [],
    "drive": null,
    "phone": "972504247737"
+  },
+  {
+   "id": "ACF9047AA96D642CB97F1DC79377E5F1",
+   "sender": "גאולה מגיד🌈🌹🌷🌹🌹",
+   "text": "",
+   "ts": 1790098079000,
+   "date": "2026-09-22",
+   "time": "20:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "349KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-KNpZ3xdetLYViTQ5MbIew-t41UFsQXD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-KNpZ3xdetLYViTQ5MbIew-t41UFsQXD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549339919"
+  },
+  {
+   "id": "AC9EB00FCDD79163715F207E76759F82",
+   "sender": "טליה מיינר",
+   "text": "",
+   "ts": 1790098521000,
+   "date": "2026-09-22",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1b2_hLMd8fp9S99dsAVl-gwUGRFj_iHx6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b2_hLMd8fp9S99dsAVl-gwUGRFj_iHx6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505315633"
   }
  ]
 }

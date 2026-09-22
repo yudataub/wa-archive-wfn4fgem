@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T16:00:20.007Z",
+ "updated": "2026-09-22T17:35:44.521Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -1771,6 +1771,26 @@
    "files": [],
    "drive": null,
    "phone": "97249040290"
+  },
+  {
+   "id": "AC0BE2F979C60230E2BBBFC734396FFE",
+   "sender": "טליה מיינר",
+   "text": "",
+   "ts": 1790098520000,
+   "date": "2026-09-22",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wU-riDi4Df9u6MXQ5BN7NjwvG_7MJgLr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wU-riDi4Df9u6MXQ5BN7NjwvG_7MJgLr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505315633"
   }
  ]
 }
