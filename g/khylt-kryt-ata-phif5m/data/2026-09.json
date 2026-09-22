@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-22T07:52:45.735Z",
+ "updated": "2026-09-22T08:44:00.698Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -159,6 +159,26 @@
    ],
    "drive": null,
    "phone": "972558834326"
+  },
+  {
+   "id": "ACF0807F7128827E2D48F7D9DC4716E8",
+   "sender": "אורלי",
+   "text": "",
+   "ts": 1790066622000,
+   "date": "2026-09-22",
+   "time": "11:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "177KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yc1SISrlfoceWYeC0IyJot_IZ1K3EGon/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yc1SISrlfoceWYeC0IyJot_IZ1K3EGon&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547575312"
   }
  ]
 }

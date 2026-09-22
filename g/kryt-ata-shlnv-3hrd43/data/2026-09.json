@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T08:03:48.616Z",
+ "updated": "2026-09-22T08:47:28.809Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1645,6 +1645,48 @@
    "files": [],
    "drive": null,
    "phone": "972507690080"
+  },
+  {
+   "id": "3A1118B173FDD1A94A52",
+   "sender": "שלמה והודיה בן חיים",
+   "text": "",
+   "ts": 1790066734000,
+   "date": "2026-09-22",
+   "time": "11:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "381KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LJv_vCKFYcJUMM9ysVmSejO-izG9u_rl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LJv_vCKFYcJUMM9ysVmSejO-izG9u_rl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972536891688"
+  },
+  {
+   "id": "3AE7806E02713D615839",
+   "sender": "שלמה והודיה בן חיים",
+   "text": "הזדרזו לשריין",
+   "ts": 1790066816000,
+   "date": "2026-09-22",
+   "time": "11:46",
+   "files": [],
+   "drive": null,
+   "phone": "972536891688"
+  },
+  {
+   "id": "3A666D8C82BAF59AFCF5",
+   "sender": "שלמה והודיה בן חיים",
+   "text": "אופציה גם לפירוק",
+   "ts": 1790066827000,
+   "date": "2026-09-22",
+   "time": "11:47",
+   "files": [],
+   "drive": null,
+   "phone": "972536891688"
   }
  ]
 }
