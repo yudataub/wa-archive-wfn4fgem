@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T07:02:12.150Z",
+ "updated": "2026-09-22T07:26:45.941Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -853,6 +853,57 @@
    ],
    "drive": null,
    "phone": "972526303010"
+  },
+  {
+   "id": "AC3B34BA3AD982AC4BD56182781F9F8B",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור להיות שותפים אם רועי לא יחסר",
+   "ts": 1790061673000,
+   "date": "2026-09-22",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iZYomEKwx6vMfDEbQsl3ubICLHNfEdR0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iZYomEKwx6vMfDEbQsl3ubICLHNfEdR0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "AC33F1A5ABE7B3DB4DF7F1B671CC3C6D",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור ולהיות שותפים אם רועי לא יחסר",
+   "ts": 1790061948000,
+   "date": "2026-09-22",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A5uUv4f-GXvknUeURZ3Nr3nOvx1sk6L6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A5uUv4f-GXvknUeURZ3Nr3nOvx1sk6L6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "ACAE24977B641881DC0AA12742AE7A64",
+   "sender": ":)",
+   "text": "דרוש בחור רציני וחסון לחודש עבודה (פרויקט נקודתי)\n27.9-27.10\nלסיוע בהעלאת אנשים עם מוגבלות בכיסאות גלגלים במדרגות.\n תנאים: 10 שעות ביום, שכר טוב!\n דרישות: יכולת פיזית, רגישות, סבלנות ואחריות גבוהה.\n📞 לפרטים: 0546929013",
+   "ts": 1790061988000,
+   "date": "2026-09-22",
+   "time": "10:26",
+   "files": [],
+   "drive": null,
+   "phone": "972546929013"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T07:06:42.229Z",
+ "updated": "2026-09-22T07:25:15.792Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1574,6 +1574,46 @@
    "files": [],
    "drive": null,
    "phone": "972547852863"
+  },
+  {
+   "id": "ACB0C82F3568776F0394F8A1798B825B",
+   "sender": "יונתן",
+   "text": "תעלה",
+   "ts": 1790061861000,
+   "date": "2026-09-22",
+   "time": "10:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "314KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1goQF0J-vYJ0xWSp9qRhVM4J-N2pKnGW3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1goQF0J-vYJ0xWSp9qRhVM4J-N2pKnGW3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559953709"
+  },
+  {
+   "id": "ACB9136146322C9F1EEC5797D8A27DEB",
+   "sender": "יונתן",
+   "text": "",
+   "ts": 1790061895000,
+   "date": "2026-09-22",
+   "time": "10:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "314KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z8MKhVNsn2WXCGwulXrAas_UpxG9Xx8N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z8MKhVNsn2WXCGwulXrAas_UpxG9Xx8N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559953709"
   }
  ]
 }

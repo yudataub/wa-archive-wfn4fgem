@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-22T06:13:01.911Z",
+ "updated": "2026-09-22T07:26:45.887Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -176,6 +176,46 @@
    "time": "09:12",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACC25B9A49532BA79F6AEC7D3160D4C0",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור להיות שותפים אם רועי לא יחסר",
+   "ts": 1790061754000,
+   "date": "2026-09-22",
+   "time": "10:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Yj79132AXq3m8SwI0Av9vwA76iHWpRjq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Yj79132AXq3m8SwI0Av9vwA76iHWpRjq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "AC92E8855AF4219D9F7B3D31D308CB33",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור ולהיות שותפים אם רועי לא יחסר",
+   "ts": 1790061983000,
+   "date": "2026-09-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S-0Bf0HFbIed4CbGIz_sfTk3frEe6dcG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S-0Bf0HFbIed4CbGIz_sfTk3frEe6dcG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
   }
  ]
 }

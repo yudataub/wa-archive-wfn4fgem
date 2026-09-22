@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-22T06:51:40.052Z",
+ "updated": "2026-09-22T07:26:15.841Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -571,6 +571,46 @@
    "files": [],
    "drive": null,
    "phone": "972509014149"
+  },
+  {
+   "id": "ACA186238E87E59E1DE81A3E577BE4F1",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור להיות שותפים אם רועי לא יחסר",
+   "ts": 1790061674000,
+   "date": "2026-09-22",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11P_LPDr-qCvxUzPdfJ-_21xckYlgoOfm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11P_LPDr-qCvxUzPdfJ-_21xckYlgoOfm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "ACCDC0C034ACF1D671DAAF62B5009C9B",
+   "sender": "אריאל",
+   "text": "תודה רבה לעסקים שבחרו לעזור ולהיות שותפים אם רועי לא יחסר",
+   "ts": 1790061948000,
+   "date": "2026-09-22",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IvOaWxLIno03hCuDzaK6fH0Pv_jN-6-x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IvOaWxLIno03hCuDzaK6fH0Pv_jN-6-x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
   }
  ]
 }
