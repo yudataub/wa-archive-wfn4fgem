@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-22T11:47:00.736Z",
+ "updated": "2026-09-22T18:01:38.341Z",
  "messages": [
   {
    "id": "3EB0016B2434490308755A",
@@ -306,6 +306,37 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "AC64511F3D39034938F76E4BFD52C0A4",
+   "sender": ".",
+   "text": "חפציה גם אם כולם יגידו שאת מדברת מהר וכו..\nלעניות דעתי ההשתלמויות שלך הכי מחכימות By far \nורק את יודעת בנחישות ורגישות להריץ עניינים בלי לאפשר עצירות ושאלות שלא נותנות להתקדם לשום מקום\nפשוט נהנית ומחכימה כל פעם מחדש",
+   "ts": 1790099979000,
+   "date": "2026-09-22",
+   "time": "20:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "195KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uH5TT5_LoE0SoyVCFYixuf7lUelqejrP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uH5TT5_LoE0SoyVCFYixuf7lUelqejrP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587684426"
+  },
+  {
+   "id": "3A2E71DC71F826381A39",
+   "sender": "בת חן",
+   "text": "מהר\nקצר \nוקולע ! \n\n(מי שלא הבין שזה הצצה לחידושים עבור מי שקצת מכיר..)",
+   "ts": 1790100098000,
+   "date": "2026-09-22",
+   "time": "21:01",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
   }
  ]
 }
