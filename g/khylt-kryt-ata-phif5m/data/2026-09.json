@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-22T13:17:28.473Z",
+ "updated": "2026-09-22T19:42:47.810Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -259,6 +259,26 @@
      "path": "https://drive.google.com/file/d/1W7hOmTn7nOP0JfucDAkrM6F7UrCuDvIp/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1W7hOmTn7nOP0JfucDAkrM6F7UrCuDvIp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "AC2E64A4E71E914BAD2B7395F4B04251",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1790106137000,
+   "date": "2026-09-22",
+   "time": "22:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1F9hPGOKPtHbz3ILFWFXjBaJhWELczsos/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1F9hPGOKPtHbz3ILFWFXjBaJhWELczsos&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-22T19:23:15.293Z",
+ "updated": "2026-09-22T19:45:17.862Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -358,6 +358,26 @@
    "date": "2026-09-22",
    "time": "22:23",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A592D03DDC014BE274B3C6B18C61E215",
+   "sender": "י",
+   "text": "*מייבש כביסה הביאה לשריפה שהסבה נזק כבד לדירה בחיפה*\nלוחמי האש מתחנת חיפה פעלו בשריפה במבנה מגורים בשדרות סיני שבחיפה לאחר שמייבש כביסה שפעל בבית עלה באש. לא היו נפגעים.\n\nלכל העדכונים👇",
+   "ts": 1790106290000,
+   "date": "2026-09-22",
+   "time": "22:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rwFyfV46PelNolX4oQhOGSjzPKfu04RN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rwFyfV46PelNolX4oQhOGSjzPKfu04RN&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
