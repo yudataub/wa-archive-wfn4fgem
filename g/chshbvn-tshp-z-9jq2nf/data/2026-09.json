@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חשבון תשפ\"ז🍭🥰",
- "updated": "2026-09-22T04:33:38.051Z",
+ "updated": "2026-09-22T05:06:33.046Z",
  "messages": [
   {
    "id": "sheet-4d209f5ffcf6e286",
@@ -90,25 +90,6 @@
    "drive": null
   },
   {
-   "id": "sheet-f8db2d7af65d1959",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1789723899000,
-   "date": "2026-09-18",
-   "time": "12:31",
-   "files": [
-    {
-     "name": "תמונה",
-     "size": "",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1ne_63j09NnQ5DyTbHD9hEMdaghHRvWRU/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ne_63j09NnQ5DyTbHD9hEMdaghHRvWRU&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "sheet-4dce805c42d7fc70",
    "sender": "יהודה טאוב דירות אירוח בקרי אתא",
    "text": "מפה צריך לשלוח\n\nתודה רבה",
@@ -116,25 +97,6 @@
    "date": "2026-09-18",
    "time": "12:31",
    "files": [],
-   "drive": null
-  },
-  {
-   "id": "sheet-c0739643f1fc22a8",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1789723900000,
-   "date": "2026-09-18",
-   "time": "12:31",
-   "files": [
-    {
-     "name": "תמונה",
-     "size": "",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1JYW8ZOob1CYWlxYWVWkOlgheSr9TpmbM/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1JYW8ZOob1CYWlxYWVWkOlgheSr9TpmbM&sz=w1200"
-    }
-   ],
    "drive": null
   },
   {

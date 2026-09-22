@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-22T04:11:29.115Z",
+ "updated": "2026-09-22T05:06:32.991Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -422,63 +422,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a0b32d1c883aad7",
-   "sender": "חזקי סולומונס",
-   "text": "",
-   "ts": 1789712467000,
-   "date": "2026-09-18",
-   "time": "09:21",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "171KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1R5-6kZJ_v6t2qWN7ghDsUOY5E1DcTaRa/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1R5-6kZJ_v6t2qWN7ghDsUOY5E1DcTaRa&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b32d1d8a29037",
-   "sender": "חזקי סולומונס",
-   "text": "",
-   "ts": 1789712467000,
-   "date": "2026-09-18",
-   "time": "09:21",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "163KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1R5-6kZJ_v6t2qWN7ghDsUOY5E1DcTaRa/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1R5-6kZJ_v6t2qWN7ghDsUOY5E1DcTaRa&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b32d1e77c005f",
-   "sender": "חזקי סולומונס",
-   "text": "",
-   "ts": 1789712467000,
-   "date": "2026-09-18",
-   "time": "09:21",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "168KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1R5-6kZJ_v6t2qWN7ghDsUOY5E1DcTaRa/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1R5-6kZJ_v6t2qWN7ghDsUOY5E1DcTaRa&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0b32d10649fae0",
    "sender": "חזקי סולומונס",
    "text": "מסע הסליחות ליל אמש 'חלקי בקהילתי' ובית הכנסת הגדול לקברי התנאים בגליל\nיישר כח לכל המארגנים העוזרים והמסייעים בכל פרט\nהיה מדהים מגבש ומרגש!",
@@ -499,42 +442,6 @@
     {
      "name": "וידאו.mp4",
      "size": "6.4MB",
-     "type": "video/mp4",
-     "path": "https://drive.google.com/file/d/1XnXuTvzRNP6ebo3U1JexsXUscjPu6cIb/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b330b545cea30",
-   "sender": "חזקי סולומונס",
-   "text": "",
-   "ts": 1789712693000,
-   "date": "2026-09-18",
-   "time": "09:24",
-   "files": [
-    {
-     "name": "וידאו.mp4",
-     "size": "9.9MB",
-     "type": "video/mp4",
-     "path": "https://drive.google.com/file/d/1XnXuTvzRNP6ebo3U1JexsXUscjPu6cIb/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b330b8fd129bd",
-   "sender": "חזקי סולומונס",
-   "text": "",
-   "ts": 1789712693000,
-   "date": "2026-09-18",
-   "time": "09:24",
-   "files": [
-    {
-     "name": "וידאו.mp4",
-     "size": "11.8MB",
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1XnXuTvzRNP6ebo3U1JexsXUscjPu6cIb/view?usp=drivesdk",
      "skipped": ""

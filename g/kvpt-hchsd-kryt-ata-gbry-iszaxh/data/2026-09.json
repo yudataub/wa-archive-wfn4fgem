@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-21T19:51:31.628Z",
+ "updated": "2026-09-22T05:06:33.013Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -43,25 +43,6 @@
     {
      "name": "תמונה.jpg",
      "size": "270KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1FgTSqXSQDzHsNOIyKAB2KmRlseAM1A5B/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1FgTSqXSQDzHsNOIyKAB2KmRlseAM1A5B&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05c66c04badfcb",
-   "sender": "נהוראי סלמה",
-   "text": "",
-   "ts": 1788256628000,
-   "date": "2026-09-01",
-   "time": "12:57",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "172KB",
      "type": "image/jpeg",
      "path": "https://drive.google.com/file/d/1FgTSqXSQDzHsNOIyKAB2KmRlseAM1A5B/view?usp=drivesdk",
      "skipped": "",

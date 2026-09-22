@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v4 -->
+<!-- wa-archive-generated v6 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -38,11 +38,17 @@ border-radius:999px;padding:4px 12px;font-size:12px;}
 .msg{background:var(--bubble);border:1px solid var(--line);border-radius:12px;
 padding:10px 12px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.05);}
 .who{font-weight:600;color:var(--accent);font-size:13px;margin-bottom:4px;}
+.who a{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor;}
+.who a:hover{opacity:.8}
+.who a::after{content:" ✆";font-size:11px;opacity:.7}
 .txt{white-space:pre-wrap;word-wrap:break-word;line-height:1.55;font-size:15px;}
 .txt a{color:var(--accent);}
 .when{text-align:left;color:var(--muted);font-size:11px;margin-top:6px;}
-.files{margin-top:8px;display:flex;flex-wrap:wrap;gap:8px;}
-.files img{max-width:100%;max-height:480px;border-radius:8px;display:block;}
+.files{margin-top:8px;display:flex;flex-direction:column;gap:8px;}
+/* תמונה על כל רוחב הבועה (בלי הגבלת גובה) — כמו בוואטסאפ; פוסטר של סרטון גם */
+.files img{width:100%;max-width:100%;height:auto;border-radius:8px;display:block;}
+.files a.video{width:100%;}
+.files .file{align-self:flex-start;}
 .file{display:inline-block;background:var(--panel);border:1px solid var(--line);
 border-radius:8px;padding:6px 10px;font-size:13px;text-decoration:none;color:var(--ink);}
 .file.dead{opacity:.6;}
@@ -119,8 +125,12 @@ function render(){
  list.forEach(function(m){
   if(m.date!==lastDay){lastDay=m.date;
    html+='<div class="day"><span>'+esc(m.date)+"</span></div>";}
-  html+='<div class="msg"><div class="who">'+esc(m.sender)+
-   (m.thread&&m.thread!==m.sender?' <span class="thread">↔ '+esc(m.thread)+"</span>":"")+"</div>";
+  // יש מספר → השם (ובצ'אט אישי: שם הצד השני) הוא קישור wa.me — נפתח בוואטסאפ במחשב/בטלפון
+  var waLink=m.phone?'https://wa.me/'+encodeURIComponent(m.phone):"";
+  var who=esc(m.sender), thr=(m.thread&&m.thread!==m.sender)?esc(m.thread):"";
+  if(waLink){ if(thr)thr='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+thr+"</a>";
+   else who='<a href="'+waLink+'" target="_blank" rel="noopener" title="שליחת הודעה בוואטסאפ">'+who+"</a>"; }
+  html+='<div class="msg"><div class="who">'+who+(thr?' <span class="thread">↔ '+thr+"</span>":"")+"</div>";
   if(m.text)html+='<div class="txt">'+linkify(m.text)+"</div>";
   var f=(m.files||[]).map(fileHtml);
   if(m.drive&&m.drive.url)f.push(driveHtml(m.drive));

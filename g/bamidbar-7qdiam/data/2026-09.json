@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "במדבר ושמואל א",
- "updated": "2026-09-22T04:11:29.248Z",
+ "updated": "2026-09-22T05:06:33.041Z",
  "messages": [
   {
    "id": "failed-1788239665664",
@@ -909,24 +909,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a07606f70caa09c",
-   "sender": "בתיה",
-   "text": "",
-   "ts": 1788686560000,
-   "date": "2026-09-06",
-   "time": "12:22",
-   "files": [
-    {
-     "name": "עטיפה  מעולה למחברת במדבר.pdf",
-     "size": "129KB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1sF4qCf7GT_YJb0PCW7vC0Lk2AxL3sx05/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a076086fd334e13",
    "sender": "Nofi♥️",
    "text": "היי צהריים טובים",
@@ -980,25 +962,6 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1nKNOLXxPh-NGGw8GS_tpP2NR82RYmt2N/view?usp=drivesdk",
      "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a07621565164b70",
-   "sender": "Mushka Katz",
-   "text": "",
-   "ts": 1788688289000,
-   "date": "2026-09-06",
-   "time": "12:51",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "79KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1bCAj13bh7-sl_7FFUoeB5NdnV1dXS3j9/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1bCAj13bh7-sl_7FFUoeB5NdnV1dXS3j9&sz=w1200"
     }
    ],
    "drive": null
@@ -1182,25 +1145,6 @@
     {
      "name": "תמונה.jpg",
      "size": "167KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/18kMv6a_8LITf6zNbZMd0EtLb6q8vepax/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=18kMv6a_8LITf6zNbZMd0EtLb6q8vepax&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0780e708ebf5ec",
-   "sender": "עינב",
-   "text": "",
-   "ts": 1788720603000,
-   "date": "2026-09-06",
-   "time": "21:50",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "162KB",
      "type": "image/jpeg",
      "path": "https://drive.google.com/file/d/18kMv6a_8LITf6zNbZMd0EtLb6q8vepax/view?usp=drivesdk",
      "skipped": "",
@@ -2133,24 +2077,6 @@
      "size": "463KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/11nL0X7hzYUzQGNPH9XsMyrYdJnWnzR4L/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3763e5c89800",
-   "sender": "צילה",
-   "text": "",
-   "ts": 1789717259000,
-   "date": "2026-09-18",
-   "time": "10:40",
-   "files": [
-    {
-     "name": "פרשת האזינו-כתב רש'י- כרמית גרמאי.pdf",
-     "size": "488KB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1jCRk488L1N_PmVIFtJeT5BS5e2dj1Rl3/view?usp=drivesdk",
      "skipped": ""
     }
    ],

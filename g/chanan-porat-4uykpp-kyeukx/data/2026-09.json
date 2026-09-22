@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חנן פורת - דמות",
- "updated": "2026-09-22T04:50:13.344Z",
+ "updated": "2026-09-22T05:06:33.049Z",
  "messages": [
   {
    "id": "gm-1a05b76f9a3dd0ea",
@@ -490,139 +490,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a0b0f05eda6a104",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674935000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "111KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b0f06917271c4",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674938000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "115KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b0f07554b1346",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674941000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "137KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b0f07fcb26841",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674944000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "137KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b0f08a2d02685",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674947000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "123KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b0f094f2c0c20",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674949000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "133KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b0f0a3a23ff99",
-   "sender": "עמירם אלבה",
-   "text": "",
-   "ts": 1789674952000,
-   "date": "2026-09-17",
-   "time": "22:55",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "132KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DUEaVIbUjKjqhp-uICKtvqq3RHOnKHIk&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0b0f13e1aa0ee6",
    "sender": "עמירם אלבה",
    "text": "וזה מה שפורסם כאן עם הסיפור על האהבה למצות סוכה גם כאשר יורד גשם. אני מקיים את המצוה כי אני רוצה ולא רק כאשר אני חייב",
@@ -825,6 +692,16 @@
    "ts": 1790052594000,
    "date": "2026-09-22",
    "time": "07:49",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC8E92C6C7A616251BE9CFD3411FDD41",
+   "sender": "נעמה",
+   "text": "*״מדינת ישראל כולה, הקרועה ושסועה במחלוקות פנימיות ובמצוקות חברתיות, זקוקה ל״תנועת אמנה חברתית״ שתשיב את האמון בין הזרמים השונים בעם. אך זאת עלינו להשיב אל לבנו: התיקונים החברתיים הגדולים אינם מתחילים מפתרונות טכניים ומניסוח אמנות פורמליות. הכל מתחיל מתיקון המידות ומבניין ׳מסילת ישרים׳ בלב פנימה. ובצומת המסילה ניצבת אבן דרכים ועליה חרותה תביעה פשוטה וכנה: להיות אנשי אמנה!״* (מעט מן האור פרשת דברים - ״אנשי אמנה״).\n\nלרגל יום פטירתו של חנן פורת זצ״ל, דמות החמ״ד לשנת תשפ״ז, אנו מזמינים אתכם להכיר את המקראה ״מעט מן הטוב״ מבית יסודות.\n\nהמקראה מביאה תחנות מחייו, מכתביו ומהגותו של חנן, ועוסקת בדמוקרטיה, מדינה יהודית, צדק חברתי, אחריות הדדית, ממלכתיות ואחדות העם – לצד ״מורה הדרך״, עם הצעות מעשיות לעבודה בכיתה.\n\n*היכנסו לאתר יסודות והורידו את המקראה המלאה>>>* https://katzr.net/da8ae1",
+   "ts": 1790053257000,
+   "date": "2026-09-22",
+   "time": "08:00",
    "files": [],
    "drive": null
   }

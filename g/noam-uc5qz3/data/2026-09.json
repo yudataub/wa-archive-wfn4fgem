@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם",
- "updated": "2026-09-22T04:57:41.265Z",
+ "updated": "2026-09-22T05:06:33.099Z",
  "messages": [
   {
    "id": "gm-1a05b0fd61a0e542",
@@ -34,25 +34,6 @@
     {
      "name": "תמונה.jpg",
      "size": "124KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1odtN8sBBQpGWL9DJhqTmuLB0XO3O_3OE/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1odtN8sBBQpGWL9DJhqTmuLB0XO3O_3OE&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05b24c4e4e5ea1",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "sent via JONI",
-   "ts": 1788235529000,
-   "date": "2026-09-01",
-   "time": "07:05",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "156KB",
      "type": "image/jpeg",
      "path": "https://drive.google.com/file/d/1odtN8sBBQpGWL9DJhqTmuLB0XO3O_3OE/view?usp=drivesdk",
      "skipped": "",
@@ -159,538 +140,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a05cc430b2a414f",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262753000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "300KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc430cbdea0e",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262753000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "262KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc43774c7fa6",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262754000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "146KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc465c2c054e",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262754000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "260KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc43aeeea9a9",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262756000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "293KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc43e6a588db",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262757000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "357KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc440c4afdb0",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262757000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "244KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc442f145fd7",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262758000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "218KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4450b63058",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262758000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "245KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc448568bb7c",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262758000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "322KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4467b3c75e",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262759000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "282KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc44a7bf0618",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262759000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "246KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4cee7f0269",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262760000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "284KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc44ef40681a",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262761000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "185KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc44f56eb415",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262761000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "207KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc45119bc0c0",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262761000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "233KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4531094dd0",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262761000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "183KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc45528f21be",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262762000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "285KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4576580afa",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262762000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "261KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc45814f480f",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262762000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "276KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc45d0a79068",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262762000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "290KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc45af96dc1f",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262763000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "266KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc45eb919185",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262763000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "296KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4e31f5b88b",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262798000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "188KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4e36d77493",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262799000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "309KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4e467e4df1",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262799000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "303KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4e64f491d6",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262799000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "287KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4ea6739d72",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262799000,
-   "date": "2026-09-01",
-   "time": "14:39",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "283KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a05cc4eb0125942",
    "sender": "הילה שמר",
    "text": "",
@@ -701,44 +150,6 @@
     {
      "name": "תמונה.jpg",
      "size": "290KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4edcdecfbd",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262800000,
-   "date": "2026-09-01",
-   "time": "14:40",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "204KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a05cc4eeda5a602",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1788262800000,
-   "date": "2026-09-01",
-   "time": "14:40",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "242KB",
      "type": "image/jpeg",
      "path": "https://drive.google.com/file/d/1xawF7nEl_BUkpxy5l190XxqJ_Gn3Difz/view?usp=drivesdk",
      "skipped": "",
@@ -1012,44 +423,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a065dfa1e1693fc",
-   "sender": "אביטל אסרף",
-   "text": "",
-   "ts": 1788415546000,
-   "date": "2026-09-03",
-   "time": "09:05",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "70KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1iA45ZNhkP9VpcvIXl209b-gWwGvaVcKF/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1iA45ZNhkP9VpcvIXl209b-gWwGvaVcKF&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a065fff65d2affe",
-   "sender": "אין לי ארץ אחרת",
-   "text": "",
-   "ts": 1788417664000,
-   "date": "2026-09-03",
-   "time": "09:41",
-   "files": [
-    {
-     "name": "מתכוננים ללמידה.pdf",
-     "size": "942KB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1QRosepDX2JbTFVktNUh5UFfCjNn1SeOm/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a065fff68f324ec",
    "sender": "אין לי ארץ אחרת",
    "text": "",
    "ts": 1788417664000,
@@ -1086,25 +460,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a066254f55e561e",
-   "sender": "מיכל",
-   "text": "",
-   "ts": 1788420113000,
-   "date": "2026-09-03",
-   "time": "10:21",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "65KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1nkeVMid4SYLPAdsl4i_LvYyMio9F9E7e/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1nkeVMid4SYLPAdsl4i_LvYyMio9F9E7e&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a066256fb028c60",
    "sender": "מיכל",
    "text": "נמצאה אזניה בחדר המורים",
@@ -1115,27 +470,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a06625729348a55",
-   "sender": "מיכל",
-   "text": "נמצאה אזניה בחדר המורים",
-   "ts": 1788420122000,
-   "date": "2026-09-03",
-   "time": "10:22",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a0662b20683cdd6",
-   "sender": "אשר לב יונה",
-   "text": "שליי תודה רבה",
-   "ts": 1788420496000,
-   "date": "2026-09-03",
-   "time": "10:28",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0662b25565eea1",
    "sender": "אשר לב יונה",
    "text": "שליי תודה רבה",
    "ts": 1788420496000,
@@ -1164,25 +499,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a066b40191d7d46",
-   "sender": "~sara amor",
-   "text": "מורות אהובות ויקרות שימו לב ❤️",
-   "ts": 1788429464000,
-   "date": "2026-09-03",
-   "time": "12:57",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "215KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1HsH_fHIz8nWPOgAfzg9q78lMgyTxdXV3/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1HsH_fHIz8nWPOgAfzg9q78lMgyTxdXV3&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a06786aca4402a1",
    "sender": "מיכל",
    "text": "צוות יקר,",
@@ -1193,27 +509,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a06786b65e8a73b",
-   "sender": "מיכל",
-   "text": "צוות יקר,",
-   "ts": 1788443272000,
-   "date": "2026-09-03",
-   "time": "16:47",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a06787f6b3f0dea",
-   "sender": "מיכל",
-   "text": "למורה מלכה אין וואטסטאפ מלכה מבקשת שכל מי שקיבלה מדריך למורה בחשבון מכיתות א' ב' נא להחזיר לה בכדי שתוכל לתת למורות החדשות.",
-   "ts": 1788443357000,
-   "date": "2026-09-03",
-   "time": "16:49",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a06787f8975a8bf",
    "sender": "מיכל",
    "text": "למורה מלכה אין וואטסטאפ מלכה מבקשת שכל מי שקיבלה מדריך למורה בחשבון מכיתות א' ב' נא להחזיר לה בכדי שתוכל לתת למורות החדשות.",
    "ts": 1788443357000,
@@ -1252,27 +548,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a067dbff7c0dc53",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "להורים השואלים:\n למשנה זה שיעורי תשופר לילדים טובים.\nמצטרף פרסומת להורים.\nשימו לב לשינוי - עבר ליום חמישי.\n בשלב זה אין מצוינות למשנה לכיתות א-ב.\nבברכה הרב יהודה טאוב.",
-   "ts": 1788448856000,
-   "date": "2026-09-03",
-   "time": "18:20",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a068213c043c15e",
-   "sender": "אורלי אוחנה",
-   "text": "ערב טוב❤️\nמחר נחלק בעזרת ה' לכל התלמידים את לוח החודש ואת דף הקשר הבית ספרי.",
-   "ts": 1788453401000,
-   "date": "2026-09-03",
-   "time": "19:36",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a068213d3181f0c",
    "sender": "אורלי אוחנה",
    "text": "ערב טוב❤️\nמחר נחלק בעזרת ה' לכל התלמידים את לוח החודש ואת דף הקשר הבית ספרי.",
    "ts": 1788453401000,
@@ -1292,35 +568,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a068378033fe855",
-   "sender": "אורלי אוחנה",
-   "text": "צוות יקר,\nאני מבקשת להקפיד לרדת בסיום יום הלימודים עם הילדים עד לשער בית הספר.\nתודה רבה ❤️",
-   "ts": 1788454857000,
-   "date": "2026-09-03",
-   "time": "20:00",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a0685d6e8fb1f4e",
-   "sender": "אביטל אסרף",
-   "text": "",
-   "ts": 1788457345000,
-   "date": "2026-09-03",
-   "time": "20:42",
-   "files": [
-    {
-     "name": "תורנות יום שישי.docx",
-     "size": "927KB",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "https://docs.google.com/document/d/1WXEl0ZScX8aQYTAQNHcfjs4pFViwtrxx/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0685d6fbaafcc1",
    "sender": "אביטל אסרף",
    "text": "",
    "ts": 1788457345000,
@@ -1357,36 +605,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a06a88918981818",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1788493725000,
-   "date": "2026-09-04",
-   "time": "06:48",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "191KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1klTXZd9d5L1ZTK7-eSlcPCdpLtN4btkv/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1klTXZd9d5L1ZTK7-eSlcPCdpLtN4btkv&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a06a897b7b7c1fa",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "ובעזרת השם לא נקפח גם את הבנות והיום בעזרת השם תהיה הרבנית של הבית הספר שתהיה אחראית על כשרות וכדומה והיא תתחיל בלהכשיר את המיקרוגל כמובן שאני אפקח מלמעלה אשמח לעזרה במי לבחור בכיתה ו'",
-   "ts": 1788493788000,
-   "date": "2026-09-04",
-   "time": "06:49",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a06a897cad4f8e7",
    "sender": "יהודה טאוב דירות אירוח בקרי אתא",
    "text": "ובעזרת השם לא נקפח גם את הבנות והיום בעזרת השם תהיה הרבנית של הבית הספר שתהיה אחראית על כשרות וכדומה והיא תתחיל בלהכשיר את המיקרוגל כמובן שאני אפקח מלמעלה אשמח לעזרה במי לבחור בכיתה ו'",
    "ts": 1788493788000,
@@ -1406,27 +625,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a06a89d5341717d",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "ובעזרת השם לא נקפח גם את הבנות והיום בעזרת השם תהיה הרבנית של הבית הספר שתהיה אחראית על כשרות וכדומה והיא תתחיל בלהכשיר את המיקרוגל כמובן שאני אפקח מלמעלה אשמח לעזרה במי לבחור בכיתה ו' אתם מוזמנים לזרוק עליה סוכריות",
-   "ts": 1788493810000,
-   "date": "2026-09-04",
-   "time": "06:50",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a06b3040e19c012",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "התלמידה שנבחרה לרבנית - אפרת כהן.",
-   "ts": 1788504717000,
-   "date": "2026-09-04",
-   "time": "09:51",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a06b3043c379648",
    "sender": "יהודה טאוב דירות אירוח בקרי אתא",
    "text": "התלמידה שנבחרה לרבנית - אפרת כהן.",
    "ts": 1788504717000,
@@ -1446,16 +645,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a06b630e7ca3721",
-   "sender": "אורלי אוחנה",
-   "text": "נא לא לשכוח לחלק את לוח החודש.",
-   "ts": 1788508046000,
-   "date": "2026-09-04",
-   "time": "10:47",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a06bd47f1214769",
    "sender": "אורלי אוחנה",
    "text": "משפחת נעם היקרה❤️\nבסיומו של השבוע הראשון אני רוצה להודות לכל אחד ואחת, על הרצינות האחריות והמסירות.\nתודה לה' עברנו שבוע נפלא שקט ונעים.\nכל זה לא היה קורה בלעדיכם.\nאשריינו שזכינו בצוות נפלא❤️ שבת מבורכת",
@@ -1466,35 +655,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a06bd481f915edc",
-   "sender": "אורלי אוחנה",
-   "text": "משפחת נעם היקרה❤️\nבסיומו של השבוע הראשון אני רוצה להודות לכל אחד ואחת, על הרצינות האחריות והמסירות.\nתודה לה' עברנו שבוע נפלא שקט ונעים.\nכל זה לא היה קורה בלעדיכם.\nאשריינו שזכינו בצוות נפלא❤️ שבת מבורכת",
-   "ts": 1788515481000,
-   "date": "2026-09-04",
-   "time": "12:51",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a06bd51db981a9d",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1788515518000,
-   "date": "2026-09-04",
-   "time": "12:51",
-   "files": [
-    {
-     "name": "דף קשר מס'1.pdf",
-     "size": "1.7MB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1_dX3z39ZvZ0dw2EHg9AkRu5u4RxQa5Bo/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a06bd51e7443f06",
    "sender": "אורלי אוחנה",
    "text": "",
    "ts": 1788515518000,
@@ -1530,35 +691,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a06bd559afda13f",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1788515531000,
-   "date": "2026-09-04",
-   "time": "12:52",
-   "files": [
-    {
-     "name": "_לוח גאנט תשפז נעם קרית אתא.pdf",
-     "size": "3.9MB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1obX1qW-XZAAJTZY83yMBRm6Zyof1OBhI/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a06bd5a4cc482d6",
-   "sender": "אורלי אוחנה",
-   "text": "☝️חשוב שתשלחו בקבוצת ההורים.\nשבת שלום❤️",
-   "ts": 1788515557000,
-   "date": "2026-09-04",
-   "time": "12:52",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a06bd5a757ae4d0",
    "sender": "אורלי אוחנה",
    "text": "☝️חשוב שתשלחו בקבוצת ההורים.\nשבת שלום❤️",
    "ts": 1788515557000,
@@ -1616,24 +749,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a073490a545de1e",
-   "sender": "אריה יונה",
-   "text": "",
-   "ts": 1788640554000,
-   "date": "2026-09-05",
-   "time": "23:35",
-   "files": [
-    {
-     "name": "תורנות יום ראשון.docx",
-     "size": "930KB",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "https://docs.google.com/document/d/1Sw4TA3d2EoHcHV2KHruBEknFDP0Xx6eU/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0757dfc0a2d762",
    "sender": "אביטל אסרף",
    "text": "",
@@ -1653,36 +768,7 @@
    "drive": null
   },
   {
-   "id": "gm-1a0757e00b170e5f",
-   "sender": "אביטל אסרף",
-   "text": "",
-   "ts": 1788677584000,
-   "date": "2026-09-06",
-   "time": "09:53",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "62KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1KLCY1Ejdm6coIEPPAzn0GDZE8JLtfD1z/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1KLCY1Ejdm6coIEPPAzn0GDZE8JLtfD1z&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0761a2f43b5c33",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "בשורה טובה\nהמשו\"ב עובד - מקווה שלכולם\nמעודכן אם השמות והטלפונים והכל. \n\nמי שרוצה אני יכול לעשות לו שכל שמות ההורים יהיו לא רק בקבוצה\n*אלא גם באנשי הקשר*\nוכך למשל הוא יוכל לכתוב אביגיל - וישר יהיה לו בווטסאפ ובטלפון אבא של אביגיל ואמא של אביגיל.",
-   "ts": 1788687817000,
-   "date": "2026-09-06",
-   "time": "12:43",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0761a40b16ae9c",
    "sender": "יהודה טאוב דירות אירוח בקרי אתא",
    "text": "בשורה טובה\nהמשו\"ב עובד - מקווה שלכולם\nמעודכן אם השמות והטלפונים והכל. \n\nמי שרוצה אני יכול לעשות לו שכל שמות ההורים יהיו לא רק בקבוצה\n*אלא גם באנשי הקשר*\nוכך למשל הוא יוכל לכתוב אביגיל - וישר יהיה לו בווטסאפ ובטלפון אבא של אביגיל ואמא של אביגיל.",
    "ts": 1788687817000,
@@ -1828,60 +914,6 @@
      "size": "675KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1NMssr74d6DUQbUJSysxw3Uu0s3WsB3dO/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0776e793d2a54f",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1788710117000,
-   "date": "2026-09-06",
-   "time": "18:55",
-   "files": [
-    {
-     "name": "ראש השנה פרק א.pdf",
-     "size": "2.0MB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1g5YpU4qrdqHKOiFrgpRVKYyeWID1TZN_/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0776e7ecd1f839",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1788710117000,
-   "date": "2026-09-06",
-   "time": "18:55",
-   "files": [
-    {
-     "name": "מסכת ברכות פרק א׳.pdf",
-     "size": "3.9MB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/1FrHk6SWoV9ySn2sz7ldAdOBLFbfKRqVc/view?usp=drivesdk",
-     "skipped": ""
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0776e7858da826",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1788710118000,
-   "date": "2026-09-06",
-   "time": "18:55",
-   "files": [
-    {
-     "name": "מסכת תענית פרק א׳.pdf",
-     "size": "1.2MB",
-     "type": "application/pdf",
-     "path": "https://drive.google.com/file/d/181vCncR2j6AhsQE2lYOPQciMuk0c0biW/view?usp=drivesdk",
      "skipped": ""
     }
    ],
@@ -3038,16 +2070,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a087b34fd4880ec",
-   "sender": "הילה שמר",
-   "text": "https://forms.gle/5Z1kJjWTmwQZ9k5X7",
-   "ts": 1788983068000,
-   "date": "2026-09-09",
-   "time": "22:44",
-   "files": [],
-   "drive": null
-  },
-  {
    "id": "gm-1a087b442a4321a9",
    "sender": "הילה שמר",
    "text": "טופס עבור המחנכות",
@@ -3072,16 +2094,6 @@
    "sender": "הילה שמר",
    "text": "https://forms.gle/mT6CgbchfKb3DNnC6",
    "ts": 1788983246000,
-   "date": "2026-09-09",
-   "time": "22:47",
-   "files": [],
-   "drive": null
-  },
-  {
-   "id": "gm-1a087b6526b8a303",
-   "sender": "הילה שמר",
-   "text": "https://forms.gle/mT6CgbchfKb3DNnC6",
-   "ts": 1788983265000,
    "date": "2026-09-09",
    "time": "22:47",
    "files": [],
@@ -3260,158 +2272,6 @@
     {
      "name": "תמונה.jpg",
      "size": "343KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d65dfb9b7c",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063417000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "299KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d6edfd7a8c",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063417000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "וידאו.mp4",
-     "size": "3.6MB",
-     "type": "video/mp4",
-     "path": "https://drive.google.com/file/d/1TdVnywm7pnlD06WuvRt8i0hWuV64A0T5/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1TdVnywm7pnlD06WuvRt8i0hWuV64A0T5&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d5d9fbb9b8",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063418000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "200KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d5f21df637",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063418000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "225KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d61c118fef",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063418000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "202KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d671a79f02",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063418000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "177KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d69504703b",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063419000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "141KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a08c7d6e9ad7a52",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789063419000,
-   "date": "2026-09-10",
-   "time": "21:03",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "132KB",
      "type": "image/jpeg",
      "path": "https://drive.google.com/file/d/1-zBFX-c3ZlqBee_p6eTKVuBAsbP7xYOn/view?usp=drivesdk",
      "skipped": "",
@@ -3643,25 +2503,6 @@
     {
      "name": "תמונה.jpg",
      "size": "74KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/17n1JU16ojN9TaFOGvIQ5p8672J2DeBqZ/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=17n1JU16ojN9TaFOGvIQ5p8672J2DeBqZ&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0a3520991f2a92",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789446454000,
-   "date": "2026-09-15",
-   "time": "07:27",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "392KB",
      "type": "image/jpeg",
      "path": "https://drive.google.com/file/d/17n1JU16ojN9TaFOGvIQ5p8672J2DeBqZ/view?usp=drivesdk",
      "skipped": "",
@@ -4140,44 +2981,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a0abadc9fdfd413",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1789586685000,
-   "date": "2026-09-16",
-   "time": "22:24",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "325KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1kjHuyQ1eD-EEkb0hU04Soxb7DFyCMpi6/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1kjHuyQ1eD-EEkb0hU04Soxb7DFyCMpi6&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0abadcacb070a8",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1789586685000,
-   "date": "2026-09-16",
-   "time": "22:24",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "375KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1kjHuyQ1eD-EEkb0hU04Soxb7DFyCMpi6/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1kjHuyQ1eD-EEkb0hU04Soxb7DFyCMpi6&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0ad8f419bc8010",
    "sender": "אורלי אוחנה",
    "text": "בוקר טוב צוות יקר,\nהבהרה חשובה-\nמתחילת השנה לא התקיימו שעות פרטניות והזמן הוקדש לביצוע ערכת מעקב ושיחות אישיות כפי שביקשתי בישיבה.\nאת סיכום מבדקי הקריאה יש להגיש עד יום רביעי 7/10.\nהיום בערב אשלח טבלאות מסודרות בהן יש לרכז את כל הנתונים.\nאין לשלוח את קובץ האקסל אלא רק את הטבלאות שאשלח.\nתודה רבה ויום מקסים לכולנו ❤️",
@@ -4549,291 +3352,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a0b3a1ddcc61ba5",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720106000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "אורלי אוחנה - 2026-09-18 - ה1.jpg",
-     "size": "18.2MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/14DtEKEz1f3DxbWU8XOuw0HV454kpw7cV/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=14DtEKEz1f3DxbWU8XOuw0HV454kpw7cV&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a250f24d6d2",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720106000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ד2.jpg",
-     "size": "17.7MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1I5GZw-4PwpWD2F94xe6Q4m_PPXdFle_o/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1I5GZw-4PwpWD2F94xe6Q4m_PPXdFle_o&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a20d4cf09c8",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720107000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "א2.jpg",
-     "size": "16.6MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1OwWwXWmexhOLFGmGsWCM2BjamUggf5tG/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1OwWwXWmexhOLFGmGsWCM2BjamUggf5tG&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a1fb5b43618",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720108000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "אורלי אוחנה - 2026-09-18 - ה2.jpg",
-     "size": "19.0MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1uEncv4jAYYyAiiZXlcov-OxQcM_xYToM/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1uEncv4jAYYyAiiZXlcov-OxQcM_xYToM&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a26d9d0a620",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720108000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "שפרה.jpg",
-     "size": "14.6MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1pH3LsiTOHVP_sV-0KCnv4i71xwviPD_0/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1pH3LsiTOHVP_sV-0KCnv4i71xwviPD_0&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a1e6aa81421",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720109000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "אורלי אוחנה - 2026-09-18 - ד1.jpg",
-     "size": "18.5MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/19RuRlxYw6NjAO0nfs3GMJkqUjnfliyK8/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=19RuRlxYw6NjAO0nfs3GMJkqUjnfliyK8&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a232f1dd31e",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720109000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ו1.jpg",
-     "size": "17.4MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/19wANrZBCOZ3iSAO3i57Lcqg_Etfz28Y9/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=19wANrZBCOZ3iSAO3i57Lcqg_Etfz28Y9&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a214a08719d",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720110000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ג3.jpg",
-     "size": "15.4MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1pxhLtoZgm5XZ_npDxwO44zyxuC3sKGV-/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1pxhLtoZgm5XZ_npDxwO44zyxuC3sKGV-&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a2429fe08e8",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720110000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ג1.jpg",
-     "size": "16.0MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1h5NeB_L6uqYeWz6ekCVeWqt6NZmfpS-f/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1h5NeB_L6uqYeWz6ekCVeWqt6NZmfpS-f&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a26500cb1a1",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720110000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ג2.jpg",
-     "size": "17.2MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1mLEWa8hW35u237ZbOOzopfwNmbXi7XgU/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1mLEWa8hW35u237ZbOOzopfwNmbXi7XgU&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a22722703bf",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720111000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ב2.jpg",
-     "size": "15.7MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/103lelvIuGt-dYhNPT2Ld8gYVFWK0604b/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=103lelvIuGt-dYhNPT2Ld8gYVFWK0604b&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a23622ea842",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720111000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ד3.jpg",
-     "size": "14.9MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1mEL3SJkk-7MmC9YZGrZDG5cHAdyQr7kv/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1mEL3SJkk-7MmC9YZGrZDG5cHAdyQr7kv&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a25b9ad6c75",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720111000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "א1.jpg",
-     "size": "17.4MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1udXU7trxfMU3nVs8nqd-gJv8IGOOc7NX/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1udXU7trxfMU3nVs8nqd-gJv8IGOOc7NX&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a21ed4dde7c",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720112000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ב1.jpg",
-     "size": "16.9MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/15aSUsQ5thHjZnEdcd3MuVAZV9QGv12-k/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=15aSUsQ5thHjZnEdcd3MuVAZV9QGv12-k&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0b3a2777e02296",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789720112000,
-   "date": "2026-09-18",
-   "time": "11:28",
-   "files": [
-    {
-     "name": "ו2.jpg",
-     "size": "17.2MB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1665DOOgY-2YHofu4jRYH57BKaPshl0r_/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1665DOOgY-2YHofu4jRYH57BKaPshl0r_&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0b3a2dcbb816a3",
    "sender": "אורלי אוחנה",
    "text": "מחנכות יקרות,\nמצ\"ב התמונות הכיתתיות, היום צלמתי את הילדים הבאים:\nנהרה-ד2\nטוהר-ג3\nעדן-ב2\nיאן-א3\nבמידה ועדיין חסר ילד/ה, להודיע לי בדחיפות.\nתודה רבה",
@@ -4912,25 +3430,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a0bb2a06edd794d",
-   "sender": "הילה שמר",
-   "text": "",
-   "ts": 1789846480000,
-   "date": "2026-09-19",
-   "time": "22:34",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "392KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/1TqbXivOyaGJPc0-3uDHLAz9wc_W3GH9S/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1TqbXivOyaGJPc0-3uDHLAz9wc_W3GH9S&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0bb2ab04589b90",
    "sender": "אורלי אוחנה",
    "text": "הילה תודה רבה,\nעל כל מחנכת לעשות זאת לקראת אסיפת ההורים.\nשבוע טוב ומבורך ❤️",
@@ -4980,44 +3479,6 @@
    "drive": null
   },
   {
-   "id": "gm-1a0bb7f72d05595b",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1789852078000,
-   "date": "2026-09-20",
-   "time": "00:07",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "74KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/15RFMKwE1r8xdcdewK7P6fL_TNJ_NN0PT/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=15RFMKwE1r8xdcdewK7P6fL_TNJ_NN0PT&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0bb7f74e0a4a50",
-   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
-   "text": "",
-   "ts": 1789852078000,
-   "date": "2026-09-20",
-   "time": "00:07",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "392KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/15RFMKwE1r8xdcdewK7P6fL_TNJ_NN0PT/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=15RFMKwE1r8xdcdewK7P6fL_TNJ_NN0PT&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
    "id": "gm-1a0bb8860d321549",
    "sender": "יהודה טאוב דירות אירוח בקרי אתא",
    "text": "ההודעות האלו כולם מהילה \nורק עקב תקלה נרשם על שמי.",
@@ -5042,25 +3503,6 @@
      "path": "https://drive.google.com/file/d/1pjtnkkwaTpPCRRp4Hj0mHiSJ2tYSMGPM/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1pjtnkkwaTpPCRRp4Hj0mHiSJ2tYSMGPM&sz=w1200"
-    }
-   ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0bd3419c41bab2",
-   "sender": "אורלי אוחנה",
-   "text": "",
-   "ts": 1789880695000,
-   "date": "2026-09-20",
-   "time": "08:04",
-   "files": [
-    {
-     "name": "תמונה.jpg",
-     "size": "171KB",
-     "type": "image/jpeg",
-     "path": "https://drive.google.com/file/d/11UH_4IV0pxk3q5Sn_ODUAawerxdkNc8N/view?usp=drivesdk",
-     "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=11UH_4IV0pxk3q5Sn_ODUAawerxdkNc8N&sz=w1200"
     }
    ],
    "drive": null
