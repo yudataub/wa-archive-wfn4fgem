@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T15:07:42.142Z",
+ "updated": "2026-09-22T15:15:12.270Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -3169,6 +3169,44 @@
      "path": "https://drive.google.com/file/d/1GkQoZuDVtFDE3c40U_NAkoXVPm1MTk-f/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1GkQoZuDVtFDE3c40U_NAkoXVPm1MTk-f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0CCE6B519ED4A6F262F",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ראש העין: כל נדרי רפורמי בקהילת בבת עין. 😄\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790090063000,
+   "date": "2026-09-22",
+   "time": "18:14",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "24.2MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB031B75F1609FBFE995A",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: תפילת יום כיפור רפורמי בראש העין\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790090112000,
+   "date": "2026-09-22",
+   "time": "18:15",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "7.7MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
