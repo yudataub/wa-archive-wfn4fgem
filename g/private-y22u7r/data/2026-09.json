@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T13:45:28.908Z",
+ "updated": "2026-09-22T13:55:29.054Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -531,6 +531,39 @@
    "drive": null,
    "thread": "מורדכי מור",
    "phone": "972524668790"
+  },
+  {
+   "id": "AC18ABE078DD0A010C1126E638AF81ED",
+   "sender": "בלייך צבי",
+   "text": "גמר טוב\nבקר הודיע לי שאתה לא צריך הסעה\nבקר ביקש שמחר תאריך את  הלימוד  בכולל",
+   "ts": 1790085304000,
+   "date": "2026-09-22",
+   "time": "16:55",
+   "files": [],
+   "drive": null,
+   "thread": "בלייך צבי",
+   "phone": "972524723034"
+  },
+  {
+   "id": "ACA28FA3C050509F0BF44415497F20FF",
+   "sender": "בלייך צבי",
+   "text": "",
+   "ts": 1790085304000,
+   "date": "2026-09-22",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "472KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19hzQGC0hE1EYInsZWX9DU71gbaRA_En0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19hzQGC0hE1EYInsZWX9DU71gbaRA_En0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "בלייך צבי",
+   "phone": "972524723034"
   }
  ]
 }

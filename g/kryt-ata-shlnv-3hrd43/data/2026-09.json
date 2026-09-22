@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T13:30:58.672Z",
+ "updated": "2026-09-22T13:57:29.085Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2239,6 +2239,57 @@
    "files": [],
    "drive": null,
    "phone": "972524325624"
+  },
+  {
+   "id": "AC5DE033F8A8472054B044514C0E3808",
+   "sender": "עוז ברזילי",
+   "text": "?",
+   "ts": 1790085026000,
+   "date": "2026-09-22",
+   "time": "16:50",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "ACF0C86D6CCB1ABC3FA81DEC6A49BB09",
+   "sender": "אלעד",
+   "text": "🍂 חגי תשרי בעיצומם — וזה בדיוק הזמן לחשוב על הבית.\n\nמתכננים לבנות, לשפץ, להרחיב, לשדרג או סוף סוף לסיים את מה שנשאר פתוח?\n\n🏠 בנייה ושיפוצים\n❄️ מזגנים ומערכות VRF\n⚡ חשמל  🚿 אינסטלציה\n🧱 גבס  🎨  צבע וריצוף\n\nליווי מלא מהתכנון ועד הסיום 🎯\n\n📲 יש לכם עבודה בבית שאתם רוצים להתחיל?\nשלחו הודעה ונחזור אליכם להצעת מחיר:  https://katzr.net/168bf1",
+   "ts": 1790085262000,
+   "date": "2026-09-22",
+   "time": "16:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "907KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19RPB07D_iOitjdewzwTwnmcbA9fGuXJK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19RPB07D_iOitjdewzwTwnmcbA9fGuXJK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547954254"
+  },
+  {
+   "id": "A5F1DE5E0C44E584A64882F2D5979C3B",
+   "sender": "prima textile",
+   "text": "*בַּעַל הַבַּיִת הִשְׁתַּגֵּעַ🥳🥳🥳*\n\n🎉*מבצעי חג מטורפים!*\n\n*מצעים 100% כותנה*\n🔥יחיד 4 ב300 | זוגי 4 400\n\n*שמיכות פוך*\n🔥 זוגי — 4 ב400 \n🔥 יחיד — 4 ב350 \n\n*מגני מזרן*\n🔥 3 ב120\n\n*כריות היפואלרגני 3 ב100*\n\n🚕 *קיימים משלוחים*\n\n📞 להזמנות ופרטים נוספים:\n058-6309706\nבברכת גמר חתימה טובה🫶🏻",
+   "ts": 1790085423000,
+   "date": "2026-09-22",
+   "time": "16:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "579KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17AFTzjFwhEn96WMZObnA0zZJfFynbhgW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17AFTzjFwhEn96WMZObnA0zZJfFynbhgW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586309706"
   }
  ]
 }
