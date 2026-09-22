@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v15 -->
+<!-- wa-archive-generated v16 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -49,6 +49,8 @@ padding:10px 12px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.05);}
 font-size:11px;font-family:inherit;cursor:pointer;line-height:1.4;text-decoration:none;}
 .act:hover{color:var(--accent);border-color:var(--accent);}
 .act.ok{background:var(--accent);color:#fff;border-color:var(--accent);}
+.act.del{opacity:.45}.msg:hover .act.del{opacity:1}.act.del:hover{color:#c0392b;border-color:#c0392b}
+.msg.gone{opacity:.35;transition:opacity .4s}
 .txt b{font-weight:700}.txt i{font-style:italic}.txt s{text-decoration:line-through}.txt code{font-family:Consolas,monospace;font-size:14px}
 .files{margin-top:8px;display:flex;flex-direction:column;gap:8px;}
 /* תמונה על כל רוחב הבועה (בלי הגבלת גובה) — כמו בוואטסאפ; פוסטר של סרטון גם */
@@ -125,6 +127,7 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <input id="search" type="search" placeholder="חיפוש בהודעות…">
 <select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
 </header>
+<script type="text/plain" id="delurl"></script>
 <div id="navwrap"><div id="navback"></div>
 <div id="nav"><div class="nav-head"><h2>קפיצה לתאריך</h2><button id="navclose" title="סגירה" aria-label="סגירה">✕</button></div><div id="navlist"></div></div></div>
 <main>
@@ -153,6 +156,8 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <div id="status">טוען…</div></main>
 <script>
 var months=[],loaded=[],all=[],filter="",who="";
+var DELURL=((document.getElementById("delurl")||{}).textContent||"").trim();
+var deletedIds={};   // מ-data/deleted.json — מוסתרות מיד, נמחקות פיזית בריצת site-push הבאה
 var feed=document.getElementById("feed"),more=document.getElementById("more");
 var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
 var whoSel=document.getElementById("who");
@@ -203,7 +208,7 @@ function fileHtml(f){
 function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
  '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
 function render(){
- var list=all.slice();
+ var list=all.filter(function(m){return !deletedIds[m.id];});
  if(who)list=list.filter(function(m){return whoOf(m)===who;});
  if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
   return (m.text||"").toLowerCase().indexOf(q)>-1||
@@ -226,7 +231,8 @@ function render(){
   if(f.length)html+='<div class="files">'+f.join("")+"</div>";
   html+='<div class="when"><span class="t">'+esc(m.time)+'</span>'+
    '<button class="act copy" title="העתקה עם העיצוב — להדבקה במייל/במסמך">⧉ העתקה</button>'+
-   '<a class="act" href="'+mailtoFor(m)+'" title="פתיחת מייל חדש עם ההודעה">✉ מייל</a></div></div>';});
+   '<a class="act" href="'+mailtoFor(m)+'" title="פתיחת מייל חדש עם ההודעה">✉ מייל</a>'+
+   (DELURL?'<button class="act del" title="מחיקה לצמיתות (קוד)">✕</button>':"")+'</div></div>';});
  feed.innerHTML=html;
  [].forEach.call(feed.querySelectorAll(".day"),function(el){el.id="d-"+el.textContent.trim();});
  buildNav(list);
@@ -461,6 +467,23 @@ navList.addEventListener("click",function(e){
 function loadOlder(mo){
  var h0=document.documentElement.scrollHeight,y0=window.pageYOffset;
  loadMonth(mo).then(function(){render();window.scrollTo(0,y0+(document.documentElement.scrollHeight-h0));});}
+// ---- מחיקה לצמיתות (עם קוד) — דרך delete-service.gs שרושם "מצבה" ב-deleted.json במאגר ----
+feed.addEventListener("click",function(e){
+ var b=e.target.closest?e.target.closest(".del"):null;if(!b||!DELURL)return;
+ var box=b.closest(".msg"),id=box.getAttribute("data-id");
+ var m=all.filter(function(x){return String(x.id)===id;})[0];if(!m)return;
+ if(!confirm("למחוק את ההודעה של "+m.sender+" מ-"+m.date+" "+m.time+" מהארכיון?\nהמחיקה סופית — לכל מי שנכנס לדף."))return;
+ var code=prompt("קוד מחיקה:");if(!code)return;
+ b.disabled=true;b.textContent="…";
+ var slug=(location.pathname.match(/\/g\/([^\/]+)\//)||[])[1]||"";
+ fetch(DELURL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({code:code,slug:slug,id:id})})
+ .then(function(r){return r.json();})
+ .then(function(d){
+  if(d&&d.ok){deletedIds[id]=1;box.classList.add("gone");setTimeout(render,400);}
+  else{alert((d&&d.error)||"המחיקה נכשלה.");b.disabled=false;b.textContent="✕";}})
+ .catch(function(){alert("לא ניתן היה ליצור קשר עם שירות המחיקה.");b.disabled=false;b.textContent="✕";});});
+function loadDeleted(){return fetch("data/deleted.json?t="+Date.now()).then(function(r){return r.ok?r.json():{ids:[]};})
+ .then(function(d){(d.ids||[]).forEach(function(i){deletedIds[String(i)]=1;});}).catch(function(){});}
 function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
  .then(function(r){return r.ok?r.json():{messages:[]};})
  .then(function(d){all=all.concat(d.messages||[]);loaded.push(m);});}
@@ -477,7 +500,7 @@ fetch("data/index.json?t="+Date.now()).then(function(r){
  if(!r.ok)throw new Error("אין עדיין נתונים");return r.json();})
  .then(function(d){months=(d.months||[]).sort();
   if(!months.length){statusEl.textContent="אין עדיין הודעות.";return;}
-  return loadMonth(months[months.length-1]).then(render);})
+  return loadDeleted().then(function(){return loadMonth(months[months.length-1]);}).then(render);})
  .catch(function(){statusEl.textContent="הארכיון עדיין ריק. ההודעות יופיעו כאן אחרי ההודעה הראשונה בקבוצה.";});
 </script>
 </body>

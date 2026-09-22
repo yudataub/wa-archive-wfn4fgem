@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הלכה כתה ו'",
- "updated": "2026-09-22T08:53:29.006Z",
+ "updated": "2026-09-22T10:43:23.724Z",
  "messages": [
   {
    "id": "gm-1a076e1f2a61a43c",
@@ -537,6 +537,39 @@
    "files": [],
    "drive": null,
    "phone": "972506390946"
+  },
+  {
+   "id": "AC521D513CD40529069400C409DD4F1B",
+   "sender": "בראמי קטי",
+   "text": "איזה משניות מלמדים בכיתה ו",
+   "ts": 1790073745000,
+   "date": "2026-09-22",
+   "time": "13:42",
+   "files": [],
+   "drive": null,
+   "phone": "972506689078"
+  },
+  {
+   "id": "3AA9D714331C8D1F268E",
+   "sender": "בת חן",
+   "text": "מסכת ברכות\nהכל",
+   "ts": 1790073788000,
+   "date": "2026-09-22",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3AB5C5B38394A15512A3",
+   "sender": "בת חן",
+   "text": "https://drive.google.com/drive/folders/1CQmGJn_trCzTjxx33KXfVoUwKyOkMk0c?usp=sharing",
+   "ts": 1790073791000,
+   "date": "2026-09-22",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T10:08:14.743Z",
+ "updated": "2026-09-22T10:38:53.633Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -1851,6 +1851,37 @@
    "files": [],
    "drive": null,
    "phone": "972526504215"
+  },
+  {
+   "id": "3A1D7E44A1F8D9FC834A",
+   "sender": "לימור אלקיים",
+   "text": "",
+   "ts": 1790073517000,
+   "date": "2026-09-22",
+   "time": "13:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SWBlI6LCQb4n4n9JXfd9z1Kveg7JkpUY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SWBlI6LCQb4n4n9JXfd9z1Kveg7JkpUY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535437757"
+  },
+  {
+   "id": "3A7C27EC57961C7FF22C",
+   "sender": "לימור אלקיים",
+   "text": "שלישי פעמיים כי טוב \n\nסניפנו פתוח עד 22:00 \nדוכיפת 1 קרית אתא \nמבחר גלידות 🍦  יוגורט ותוספות 🍉🍇קינוחי כוסות וופל בלאגי🧇נשמח לראותכם",
+   "ts": 1790073518000,
+   "date": "2026-09-22",
+   "time": "13:38",
+   "files": [],
+   "drive": null,
+   "phone": "972535437757"
   }
  ]
 }

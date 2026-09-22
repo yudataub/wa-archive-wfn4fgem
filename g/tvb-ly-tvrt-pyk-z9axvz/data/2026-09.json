@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-22T09:33:13.618Z",
+ "updated": "2026-09-22T10:44:53.765Z",
  "messages": [
   {
    "id": "AC1A4F4CD69E1A6096ED8229236C1985",
@@ -115,6 +115,26 @@
      "path": "https://drive.google.com/file/d/1QHROSyUORbokWOiF_Puk0e3NIjjrb9Da/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1QHROSyUORbokWOiF_Puk0e3NIjjrb9Da&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACCB5AA880ED8F824F4C0E97C8F0E03F",
+   "sender": "שרון😄",
+   "text": "✨️הערב בעזרת השם בקרית מוצקין✨️\n\n🌿שיעור הכנה לחג סוכות🌿",
+   "ts": 1790073881000,
+   "date": "2026-09-22",
+   "time": "13:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DqTceStJVgHh4Eu0sMBvSUQunmi9v92F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DqTceStJVgHh4Eu0sMBvSUQunmi9v92F&sz=w1200"
     }
    ],
    "drive": null,

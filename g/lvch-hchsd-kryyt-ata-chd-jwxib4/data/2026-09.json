@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-22T10:05:44.709Z",
+ "updated": "2026-09-22T10:46:53.880Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1064,6 +1064,26 @@
    ],
    "drive": null,
    "phone": "972503207070"
+  },
+  {
+   "id": "3EB0D8C80A2ADD81FE4277",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "לקוחות יקרים!\n*גליון סוכות*\n*יורד לדפוס מחר*\nהזדרזו לשלוח פרסום\nעוד היום\n\nבברכת חג שמח\nהנקודה הצפונית \n0552537332",
+   "ts": 1790074012000,
+   "date": "2026-09-22",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "218KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DJUQ-mbVTOJexpCKLR6QDN3OGXLtsO8c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DJUQ-mbVTOJexpCKLR6QDN3OGXLtsO8c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
   }
  ]
 }
