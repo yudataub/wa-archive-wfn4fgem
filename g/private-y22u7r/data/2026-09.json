@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-22T20:27:42.783Z",
+ "updated": "2026-09-22T20:36:25.937Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -992,6 +992,93 @@
    "date": "2026-09-22",
    "time": "23:27",
    "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB032E22BC56707EB8C31",
+   "sender": "אני",
+   "text": "באתר החדש אפשר למצוא הודעות בשניה\nפשוט בוחרים רק הודעות של המנהלת\nואז בשניה - במיוחד שגם רואים אותם",
+   "ts": 1790108883000,
+   "date": "2026-09-22",
+   "time": "23:28",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC74DE93538F28AD507AE3848B5F7416",
+   "sender": "הילה שמר",
+   "text": "זה מעולה! יישר כח גדול!!!",
+   "ts": 1790108901000,
+   "date": "2026-09-22",
+   "time": "23:28",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB0D41CB336CFF8876278",
+   "sender": "אני",
+   "text": "המעניין הוא שווטסאפ לא מראה את התמונות - רק כקובץ\nובאתר כן רואים את התמונות",
+   "ts": 1790108945000,
+   "date": "2026-09-22",
+   "time": "23:29",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC90E873F039CC22772AD3CCC59AFC25",
+   "sender": "הילה שמר",
+   "text": "זה מדהים!",
+   "ts": 1790109056000,
+   "date": "2026-09-22",
+   "time": "23:30",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC619535165A6DCF304D8E424313C92B",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790109345000,
+   "date": "2026-09-22",
+   "time": "23:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nFtfiUW4uOyGeLIho91DcsMk0SWiQTTI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nFtfiUW4uOyGeLIho91DcsMk0SWiQTTI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACEA4BC089F7EED41420DD2DC4B6FCD9",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790109358000,
+   "date": "2026-09-22",
+   "time": "23:35",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "24KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1azWei7V8u0lelUy66QRpKnbzCo6DaxVc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "thread": "הילה שמר",
    "phone": "972534596413"

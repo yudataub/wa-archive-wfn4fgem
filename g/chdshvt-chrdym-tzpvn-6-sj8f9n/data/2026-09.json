@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-22T20:12:18.366Z",
+ "updated": "2026-09-22T20:35:55.960Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -389,6 +389,26 @@
    "date": "2026-09-22",
    "time": "23:12",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5F8CD96227902DCF3543294DCFA803F",
+   "sender": "י",
+   "text": "*שני נערים בני 17 נפצעו בינוני בתאונה בין אופנוע לרכב סמוך למחלף אתא צפון*\nכוחות מד\"א העניקו להם ולפצוע קל נוסף טיפול רפואי ופינו אותם לבי\"ח רמב\"ם. בנוסף פונו מהמקום 2 פצועים קל. (צילום: מד\"א)\n\nלכל העדכונים 👇",
+   "ts": 1790109344000,
+   "date": "2026-09-22",
+   "time": "23:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14QaM1zDmNw-ZSbxCv0dgsitXhzIkEXym/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14QaM1zDmNw-ZSbxCv0dgsitXhzIkEXym&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }

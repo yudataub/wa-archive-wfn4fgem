@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-22T20:25:42.762Z",
+ "updated": "2026-09-22T20:36:55.940Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -4133,6 +4133,37 @@
      "path": "https://drive.google.com/file/d/1UEjILubG7r7wLawDdvmex2C1KrQNpBin/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1UEjILubG7r7wLawDdvmex2C1KrQNpBin&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB05B76120595CAB21B74",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: מזל טוב: הבחור משה אהוד (32) מישיבת תפרח התארס עם בת גילו ממשפחת ראובן מבני ברק.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790109335000,
+   "date": "2026-09-22",
+   "time": "23:35",
+   "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB071DB4E53DBEADE6B07",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ינון מגל ומומו פילבר מצייצים את אותה מתקפה בדיוק בהפרש של 5 דקות\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790109391000,
+   "date": "2026-09-22",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wghdNsac63vql3bJxFoPmkHRqCzFaNzB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wghdNsac63vql3bJxFoPmkHRqCzFaNzB&sz=w1200"
     }
    ],
    "drive": null,
