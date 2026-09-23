@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-23T15:20:44.361Z",
+ "updated": "2026-09-23T15:46:21.808Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -1911,6 +1911,134 @@
    "ts": 1790176831000,
    "date": "2026-09-23",
    "time": "18:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "3EB00FD970863EF42B54D5",
+   "sender": "natalie yehiam",
+   "text": "ברגע שזה יהיה בתשלום, כמות הבקשות תרד משמעותית ויהיה אפשר לחזור לעבוד איתו",
+   "ts": 1790177997000,
+   "date": "2026-09-23",
+   "time": "18:39",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB051E48BE861EE6894FF",
+   "sender": "natalie yehiam",
+   "text": "בטח השרתים שלהם קורסים",
+   "ts": 1790177998000,
+   "date": "2026-09-23",
+   "time": "18:39",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB0072DA8F4C0454EA3D9",
+   "sender": "natalie yehiam",
+   "text": "מרייייי מה עשיייית",
+   "ts": 1790178014000,
+   "date": "2026-09-23",
+   "time": "18:40",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A524EABB010D78959564027087C6D9CF",
+   "sender": "mary garby",
+   "text": "זה מה שעשיתי🤷🏻‍♀️ רק זה... וזהו.",
+   "ts": 1790178212000,
+   "date": "2026-09-23",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1njAZVKJ2HOkXrvIqz4bzOxXsuQl4HI6q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1njAZVKJ2HOkXrvIqz4bzOxXsuQl4HI6q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5CC7C44AC0948044E70AA68732B12BC",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790178216000,
+   "date": "2026-09-23",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "88KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1AbPGfhy4FFSrP0_neY_o8kohYHZd9Coq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AbPGfhy4FFSrP0_neY_o8kohYHZd9Coq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "3EB012BA3BB3B99E8C8B82",
+   "sender": "natalie yehiam",
+   "text": "אני צוחקת כמובן, הוא נתן לי לפזר קישורים חופשי ובטח כל העולם עשה כמוני :)",
+   "ts": 1790178264000,
+   "date": "2026-09-23",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A586A27E81BC1C2D7FE191243542D4EF",
+   "sender": "mary garby",
+   "text": "עד שיש לי זמן לשחק הוא נתקע- שיקוץ",
+   "ts": 1790178269000,
+   "date": "2026-09-23",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5F22824DB10448C1C82CE1E078BF03D",
+   "sender": "mary garby",
+   "text": "יודעת🤣",
+   "ts": 1790178284000,
+   "date": "2026-09-23",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "AC0FB6BCFC4177F8A920C29F278E0666",
+   "sender": "יעלה אגאי",
+   "text": "דווקא עובד אצלי נהדר.\nהמיר לי pdf לword\n\nואז אחרי שעתיים, מיוזמתו , כתב לי שהוא למד להכין קבצים אינטרקטיביים ויצר לי גם לינק לקובץ שביקשתי שימיר",
+   "ts": 1790178368000,
+   "date": "2026-09-23",
+   "time": "18:46",
+   "files": [],
+   "drive": null,
+   "phone": "972587878729"
+  },
+  {
+   "id": "A54A39EED8B0CFDC0DB0A4F97A3AC261",
+   "sender": "mary garby",
+   "text": "הוא באמת נתן עבודה... \nאבל על הקלוד שלי אני מתקמצנת ולא הייתי עושה בו את מה שאנינעושה עם האינסטינקט",
+   "ts": 1790178369000,
+   "date": "2026-09-23",
+   "time": "18:46",
    "files": [],
    "drive": null,
    "phone": "972546887626"

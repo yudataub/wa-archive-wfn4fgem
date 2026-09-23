@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-09-23T15:37:21.660Z",
+ "updated": "2026-09-23T15:38:21.682Z",
  "messages": [
   {
    "id": "A50C37F3B60616A637148B5C6BE8510E",
@@ -305,6 +305,66 @@
    "files": [],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "ACF3B24F27310756E843F650C2225C95",
+   "sender": "שולמית אלמקיס",
+   "text": "",
+   "ts": 1790177840000,
+   "date": "2026-09-23",
+   "time": "18:37",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "465KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1IIWv3RGfCR72Lb5II12y0v0GGHSUu-Jh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IIWv3RGfCR72Lb5II12y0v0GGHSUu-Jh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506717112"
+  },
+  {
+   "id": "A5D115272AF5C9C89B261B281DDB2586",
+   "sender": "mary garby",
+   "text": "צוותי חינוך יקרים, \nציון אירועי שבעה באוקטובר בבית הספר היסודי הוא משימה חינוכית ורגשית מורכבת. \nלרשותכם הצעה לטקס, ניתן כמו כן להיעזר בחומרים שפותחו במחלקה לחינוך לחיים בחברה הנמצאים בפורטל.\n> *להצעה לטקס:* https://meyda.education.gov.il/files/yesodi/Hevra/october7/teces7-10.pdf\n> *לחומרים בפורטל:*  https://share.google/0a2ECgAm827jrJQen\nאורית צאירי וצוות המדריכות הארציות",
+   "ts": 1790177849000,
+   "date": "2026-09-23",
+   "time": "18:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A8yW_5bfNhrdd4gFQLIqYTyJXtBqa5uq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A8yW_5bfNhrdd4gFQLIqYTyJXtBqa5uq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "ACFB17948030F1B6A5B381D15CEE1249",
+   "sender": "שולמית אלמקיס",
+   "text": "",
+   "ts": 1790177877000,
+   "date": "2026-09-23",
+   "time": "18:37",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "27KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1w0nvw59Vj01JWlB6ETqBEM6hzeTEb9zb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1w0nvw59Vj01JWlB6ETqBEM6hzeTEb9zb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506717112"
   }
  ]
 }

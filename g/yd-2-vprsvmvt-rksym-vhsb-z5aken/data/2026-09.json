@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T15:22:47.442Z",
+ "updated": "2026-09-23T15:39:26.570Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -3394,6 +3394,77 @@
    ],
    "drive": null,
    "phone": "972555530993"
+  },
+  {
+   "id": "A541D62A7A4F8301AA7ACC8FA3F82773",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מיוחד לסוכות\nמברגת אימפקט+ 2 בטריות +מטען+ארגז\nוסט ביטים ובוקסות שמתחבר למברגה ב200 שח בלבד",
+   "ts": 1790177913000,
+   "date": "2026-09-23",
+   "time": "18:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xcmvOK5pWZXoXScYhixQ9S0iwYURFPG9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xcmvOK5pWZXoXScYhixQ9S0iwYURFPG9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A558FF2FFD91140133DE8DCE208FDA7B",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790177914000,
+   "date": "2026-09-23",
+   "time": "18:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lYr1r1BEZy-dfQOt6aURwinm8pq-6fS3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lYr1r1BEZy-dfQOt6aURwinm8pq-6fS3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A55AAE738618CE1F2028CF2B58CE6E6E",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790177914000,
+   "date": "2026-09-23",
+   "time": "18:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Huhub41u1bLlfzxHDzeYPcqPRTdtG-KJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Huhub41u1bLlfzxHDzeYPcqPRTdtG-KJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A577243961BB728778FD00CDAE0BFAA5",
+   "sender": "מאיר מוגרבי",
+   "text": "מישהו מוכר\\מוסר דשא 1×3?",
+   "ts": 1790177963000,
+   "date": "2026-09-23",
+   "time": "18:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }
