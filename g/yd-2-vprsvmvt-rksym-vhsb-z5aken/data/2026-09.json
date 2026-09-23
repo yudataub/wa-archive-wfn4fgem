@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T09:25:16.749Z",
+ "updated": "2026-09-23T09:42:34.652Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2669,6 +2669,66 @@
    ],
    "drive": null,
    "phone": "972585789234"
+  },
+  {
+   "id": "A50B03E419B61773CD1DB3408565601F",
+   "sender": "הנחיית הורים טיפול משפחתי וזוגי",
+   "text": "אל תתבייש להציע עזרה, זה כ\"כ במקום!",
+   "ts": 1790156492000,
+   "date": "2026-09-23",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19K7Gp7G41p3uM1xBZnQ1xwRwondwEsws/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19K7Gp7G41p3uM1xBZnQ1xwRwondwEsws&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559563407"
+  },
+  {
+   "id": "ACABB80F1E7171A2CB99E1B608F2D7B6",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790156531000,
+   "date": "2026-09-23",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K7l2pz-TBIWUovyVAmobU2QpIig3-8Vx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K7l2pz-TBIWUovyVAmobU2QpIig3-8Vx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACAC746BF1F29E15601F38430AB00154",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790156546000,
+   "date": "2026-09-23",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I0RWvjWwScJ5c9UpSwl9Za2Ww3Po4CEA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I0RWvjWwScJ5c9UpSwl9Za2Ww3Po4CEA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
   }
  ]
 }
