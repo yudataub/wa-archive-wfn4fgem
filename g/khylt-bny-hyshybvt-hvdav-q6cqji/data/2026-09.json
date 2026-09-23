@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-23T11:54:15.942Z",
+ "updated": "2026-09-23T12:24:53.508Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2168,6 +2168,37 @@
    "files": [],
    "drive": null,
    "phone": "972552748485"
+  },
+  {
+   "id": "AC72A709780B8C4EE4B1DA1F0F9F4EB0",
+   "sender": "David",
+   "text": "אחים חסיד נשר",
+   "ts": 1790165930000,
+   "date": "2026-09-23",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972526853923"
+  },
+  {
+   "id": "AC2E024D004201655699F1B8E2248066",
+   "sender": "אליהו חזן",
+   "text": "",
+   "ts": 1790166269000,
+   "date": "2026-09-23",
+   "time": "15:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "761KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17OHlj4rUO1ZX3r5dl1uCBo5RtfNpp98u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17OHlj4rUO1ZX3r5dl1uCBo5RtfNpp98u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502770777"
   }
  ]
 }

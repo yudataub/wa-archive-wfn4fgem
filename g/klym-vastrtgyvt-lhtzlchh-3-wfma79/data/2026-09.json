@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-09-23T12:16:52.591Z",
+ "updated": "2026-09-23T12:18:52.659Z",
  "messages": [
   {
    "id": "A50C37F3B60616A637148B5C6BE8510E",
@@ -207,6 +207,36 @@
    "date": "2026-09-23",
    "time": "15:16",
    "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A53D6072FD6AAC6717F0CFE36F8D6388",
+   "sender": "mary garby",
+   "text": "https://notebook.google.com/notebook/66954455-4886-45e8-99b9-e2a1dd02df7f\nופה יש מערך שהכנתי בקלילות עם הבינה+ מצגת (שכבר אשלח גם פה)- זה יכול לשמש בסיס לפיתוח מערך שלם...",
+   "ts": 1790165918000,
+   "date": "2026-09-23",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A522176DA68C26EFB7A4C639385E8FF6",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790165919000,
+   "date": "2026-09-23",
+   "time": "15:18",
+   "files": [
+    {
+     "name": "Between_Mourning_and_Joy.pdf",
+     "size": "15.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tu2Lyi0-gk3dQKMYaFKeuHEtXogqDlY7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972546887626"
   }
