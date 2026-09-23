@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-23T19:17:37.397Z",
+ "updated": "2026-09-23T20:26:13.815Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -1747,6 +1747,48 @@
    "drive": null,
    "thread": "הילה שמר",
    "phone": "972534596413"
+  },
+  {
+   "id": "3EB07AE0C2657D78AB8865",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790194750000,
+   "date": "2026-09-23",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "תמונות_פרופיל_39_תלמידים.zip",
+     "size": "2.8MB",
+     "type": "application/x-zip-compressed",
+     "path": "https://drive.google.com/file/d/1LKO1iiBNMf2Dk5PpaK-o0To2uSwDlpjG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE1AB5644B19FC577A98E8425E89266",
+   "sender": "הילה שמר",
+   "text": "תודה רבה רבה🙏",
+   "ts": 1790194785000,
+   "date": "2026-09-23",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB0589CE06BE2ADE80608",
+   "sender": "אני",
+   "text": "מעניין כמה הצליחו מהתמונות\nרק תדאגו יתנו שמות לילדים וישלחו לי",
+   "ts": 1790195171000,
+   "date": "2026-09-23",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
