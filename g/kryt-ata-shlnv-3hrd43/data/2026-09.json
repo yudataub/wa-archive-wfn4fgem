@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T18:04:18.670Z",
+ "updated": "2026-09-23T18:14:30.748Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4885,6 +4885,46 @@
    "files": [],
    "drive": null,
    "phone": "972504247737"
+  },
+  {
+   "id": "ACFBDA11976D8C33DE0579890CB943D0",
+   "sender": "שמואל מלול",
+   "text": "‏להצטרפות לקבוצת הווטסאפ שלנו",
+   "ts": 1790186930000,
+   "date": "2026-09-23",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "719KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bk1R0SePrsI9WeYZ3wMEns6wqt4PjMoJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bk1R0SePrsI9WeYZ3wMEns6wqt4PjMoJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
+  },
+  {
+   "id": "3EB076DF3C209C12FEA3B8",
+   "sender": "שילת מחשבים",
+   "text": "💻 **למכירה!**\n\nמחשב יד 2 **קטן במיוחד** – בגודל של עיפרון!\nקומפקטי, נוח וחוסך מקום.\n\n📞 **לפרטים:**\nשילת מחשבים\n**054-848-7350**",
+   "ts": 1790187255000,
+   "date": "2026-09-23",
+   "time": "21:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "366KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14XEWVmXjGkYNzMGv_rUTDcKrkVv79kZT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14XEWVmXjGkYNzMGv_rUTDcKrkVv79kZT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548487350"
   }
  ]
 }

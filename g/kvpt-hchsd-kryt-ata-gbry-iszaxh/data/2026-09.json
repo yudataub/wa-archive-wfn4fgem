@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-23T16:01:31.195Z",
+ "updated": "2026-09-23T18:10:18.751Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -574,6 +574,66 @@
    "files": [],
    "drive": null,
    "phone": "972552973904"
+  },
+  {
+   "id": "AC05FE513E79884D3F5A293515B9388B",
+   "sender": "מנחם חזן",
+   "text": "",
+   "ts": 1790186990000,
+   "date": "2026-09-23",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "318KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KQXLzHkMInCitOAEt_f3pXoLt78RVdU1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KQXLzHkMInCitOAEt_f3pXoLt78RVdU1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "AC09A5C48328E68CED8246F7514700E3",
+   "sender": "מנחם חזן",
+   "text": "",
+   "ts": 1790186990000,
+   "date": "2026-09-23",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XYGFYP4hpN1y-f8LNITQQ579SL2rm86d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XYGFYP4hpN1y-f8LNITQQ579SL2rm86d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "AC461B2AE5FDFDCE6CD03438A3B74598",
+   "sender": "מנחם חזן",
+   "text": "",
+   "ts": 1790186990000,
+   "date": "2026-09-23",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "449KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/156-kdSYHMUxSzYj1Hg3A6W-9qnKDXb8K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=156-kdSYHMUxSzYj1Hg3A6W-9qnKDXb8K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509877002"
   }
  ]
 }
