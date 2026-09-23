@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T16:33:08.299Z",
+ "updated": "2026-09-23T16:39:12.107Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -6199,6 +6199,45 @@
      "path": "https://drive.google.com/file/d/1wLtNaw2feJLNEpKevvuelb5QH_yhCGE2/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1wLtNaw2feJLNEpKevvuelb5QH_yhCGE2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB095F8E107C7A6163D8F",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ערב חג בקידי שיק\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790181475000,
+   "date": "2026-09-23",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "572KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hET5KzeJxKONE0BLB1KhM4B9vZmsYAcY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hET5KzeJxKONE0BLB1KhM4B9vZmsYAcY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0845E145B195291ED5A",
+   "sender": "הפרגוד",
+   "text": "*מבצעי חג מטורפים ב'חשמל הקרן'⚡* קונים - ממגוון מוצרי החשמל המשתתפים במבצע ומקבלים - *2 מתנות שוות לבחירה* מתוך המגוון הגדול!🎁🎁  *כל הסיבות לקנות מוצרי חשמל רק ב\"חשמל הקרן\":* ✅ מותגים איכותיים במחירים הזולים ביותר! ✅ מתנות משתלמות על מוצרים נבחרים ✅ עד 36 תשלומים ללא ריבית ✅ אספקה מהירה עד לבית הלקוח  🏆 סקר \"אסקריא 2026\" כבר קבע בפעם השמינית: *רשת \"חשמל הקרן\" היא רשת מוצרי החשמל הזולה ביותר במגזר החרדי!*  *להזמנות ולפרטים נוספים>>* במוקד הטלפוני המתוגבר: **2757*📞 בשמונת הסניפים ברחבי הארץ ובאתר הכשר.  או אצל נציג המכירות בווטסאפ>>> https://wa.me/972506569472?text=היי+הגעתי+דרך+הפרגוד+מעוניין+להזמין+מוצר+שבמבצע+המתנות  *🟠חשמל הקרן - עושים לכם מחיר!*",
+   "ts": 1790181540000,
+   "date": "2026-09-23",
+   "time": "19:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "6.3MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,

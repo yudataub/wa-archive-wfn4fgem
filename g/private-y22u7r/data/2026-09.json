@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-23T16:28:47.382Z",
+ "updated": "2026-09-23T16:44:42.532Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -1445,6 +1445,38 @@
    "ts": 1790180912000,
    "date": "2026-09-23",
    "time": "19:28",
+   "files": [],
+   "drive": null,
+   "thread": "מענדי",
+   "phone": "972585770542"
+  },
+  {
+   "id": "AC322BEB5604F6E271E6DD643FDA4994",
+   "sender": "מענדי",
+   "text": "",
+   "ts": 1790181826000,
+   "date": "2026-09-23",
+   "time": "19:43",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "96KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1N-3W6Gu4lTvAx2KaR83ThawmtjaY-rUR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מענדי",
+   "phone": "972585770542"
+  },
+  {
+   "id": "AC4958123E84E6D831C2FEFCA79528AA",
+   "sender": "מענדי",
+   "text": "קבלה מספר 80007 התקבלה מ \"מענדי ליווי והדרכה למורים\". לפתיחה לחץ כאן: https://newview.invoice4u.co.il/Views/NewViewMobile.aspx?docid=bc4cebb2-a640-4bce-a532-4cf5c59e285a",
+   "ts": 1790181871000,
+   "date": "2026-09-23",
+   "time": "19:44",
    "files": [],
    "drive": null,
    "thread": "מענדי",
