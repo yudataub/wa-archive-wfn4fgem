@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T13:18:31.357Z",
+ "updated": "2026-09-23T13:30:53.979Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2296,6 +2296,59 @@
    "files": [],
    "drive": null,
    "phone": "972508353555"
+  },
+  {
+   "id": "AC74FDB06B487FB9A29378BEDADC12D3",
+   "sender": "עדי ישראל 🫶",
+   "text": "היום !!!",
+   "ts": 1790170083000,
+   "date": "2026-09-23",
+   "time": "16:28",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "ACDE9B323FD2E4B7A526BD3C2AA2137F",
+   "sender": "עדי ישראל 🫶",
+   "text": "",
+   "ts": 1790170083000,
+   "date": "2026-09-23",
+   "time": "16:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "333KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ObtKmJRwFxuqmWh12-nm4PgXsVd3rxrF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ObtKmJRwFxuqmWh12-nm4PgXsVd3rxrF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "AC7A3AEDD13CB5B06D5AA83DE93BA43A",
+   "sender": "עדי ישראל 🫶",
+   "text": "להורים ולתלמידים שלום. היוםםם!!!\nאנכנו חוזרים לפעילות\nבבהס גורדון ק.אתא ר\"ח ברנר 1 באולם הספורט.\nגני ילדים חובה 17:00-18:00\n\nכיתות ב ג ד 18:00-19:00",
+   "ts": 1790170222000,
+   "date": "2026-09-23",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "AC37643EC65308F662F00BA7856253D4",
+   "sender": "עדי ישראל 🫶",
+   "text": "אפשר לבוא לאימון ניסיון היום !!",
+   "ts": 1790170240000,
+   "date": "2026-09-23",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
   }
  ]
 }
