@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-23T12:35:51.552Z",
+ "updated": "2026-09-23T14:34:13.435Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -1785,6 +1785,37 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "A5065FD0C449E5DAD2BC895D531A91EF",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790174022000,
+   "date": "2026-09-23",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SDpOOnLeXCB5NS_mvhxSKuw31Z8uUOH0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SDpOOnLeXCB5NS_mvhxSKuw31Z8uUOH0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A58D821401917532EC3ABC5D46E5E48D",
+   "sender": "mary garby",
+   "text": "תכף יבקש גם כסף על העבודה שלו🤣",
+   "ts": 1790174024000,
+   "date": "2026-09-23",
+   "time": "17:33",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }
