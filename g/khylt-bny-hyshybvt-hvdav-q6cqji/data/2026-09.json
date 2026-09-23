@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-23T17:45:18.713Z",
+ "updated": "2026-09-23T17:53:56.595Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2444,6 +2444,28 @@
    "files": [],
    "drive": null,
    "phone": "972583967916"
+  },
+  {
+   "id": "AC6CB5089EAABFE50B2CEEBDFDC1BC44",
+   "sender": "Natan Borkowski",
+   "text": "עכשיו הייתי לא ראיתי סכך",
+   "ts": 1790185993000,
+   "date": "2026-09-23",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "phone": "972585735002"
+  },
+  {
+   "id": "ACE2CED5E8CA69EDF31A8E49E77948C3",
+   "sender": "Natan Borkowski",
+   "text": "ובמחיר הזה כנראה היה קיינעס לא מחצלת",
+   "ts": 1790186026000,
+   "date": "2026-09-23",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "phone": "972585735002"
   }
  ]
 }
