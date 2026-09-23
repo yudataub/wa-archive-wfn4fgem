@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T11:17:45.349Z",
+ "updated": "2026-09-23T11:23:15.438Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4135,6 +4135,117 @@
    ],
    "drive": null,
    "phone": "972508757537"
+  },
+  {
+   "id": "A5F848FBE9BF55DDA3F8994753C26FED",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "🔥להשכרה בקרית אתא🔥\nברחוב הוגו מולר\nקומה 1\nדירת 2 חדרים הכי יפה בקרית אתא!!!\nדירה ממוזגת ומטופחת \nמרפסת\nריהוט קומפלט \nמחיר 3,400 כולל חשבונות \nחובה צ׳קים\nחצי חודש עמלת תיווך \nלפרטים ודירות משופצות נוספות\nיהודה סופר 053-7161715",
+   "ts": 1790162565000,
+   "date": "2026-09-23",
+   "time": "14:22",
+   "files": [],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A59742CFC1F334B07AFD0E958B3F56B2",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790162567000,
+   "date": "2026-09-23",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OD1_nX6tkFwXXUYym0ozrp5tAZKBnQec/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OD1_nX6tkFwXXUYym0ozrp5tAZKBnQec&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5CEDC6F19A69D1EBB9F049E708CA111",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790162567000,
+   "date": "2026-09-23",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "62KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nUDkRmksbVfay1nDwFKJIVU94XPuzZjd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nUDkRmksbVfay1nDwFKJIVU94XPuzZjd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5BF5AFE5F61EED397439E9A3FCAF37D",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790162568000,
+   "date": "2026-09-23",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17hUeqKN6XHNyQw3Oc9irvlP197HbjAAl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17hUeqKN6XHNyQw3Oc9irvlP197HbjAAl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5C0929802FF7D5074685D51FD57DD57",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790162568000,
+   "date": "2026-09-23",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17huEnpCNQHU4smcZQZVMiCCQdJEiOjYe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17huEnpCNQHU4smcZQZVMiCCQdJEiOjYe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5E2B845320F063CDECC77F627E707D9",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790162569000,
+   "date": "2026-09-23",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "68KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DZdNh-Xugu896X8mcWjvLb6jVNpd3CMR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DZdNh-Xugu896X8mcWjvLb6jVNpd3CMR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-23T10:57:43.298Z",
+ "updated": "2026-09-23T11:24:15.490Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -389,6 +389,46 @@
    ],
    "drive": null,
    "phone": "972528013313"
+  },
+  {
+   "id": "A5FAF6684C9947F5C7C6727B55F852D9",
+   "sender": "הילה לוי Hila Levi Makeup artist",
+   "text": "",
+   "ts": 1790162413000,
+   "date": "2026-09-23",
+   "time": "14:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MygAf0wXI18J8I-vOQP5BDW2j5wW5blz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MygAf0wXI18J8I-vOQP5BDW2j5wW5blz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535473225"
+  },
+  {
+   "id": "A55BC3E977B62B1EB7A1CF14788ADF45",
+   "sender": "הילה לוי Hila Levi Makeup artist",
+   "text": "",
+   "ts": 1790162648000,
+   "date": "2026-09-23",
+   "time": "14:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PL_QE2y_kWTzjyZhxbekvC59e6-Yfnel/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PL_QE2y_kWTzjyZhxbekvC59e6-Yfnel&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535473225"
   }
  ]
 }

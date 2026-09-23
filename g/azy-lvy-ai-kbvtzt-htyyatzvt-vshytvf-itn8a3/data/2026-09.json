@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "עזי לוי - AI - קבוצת התייעצות ושיתוף",
- "updated": "2026-09-23T11:10:13.758Z",
+ "updated": "2026-09-23T11:27:44.727Z",
  "messages": [
   {
    "id": "AC61DA02B3C41F8CFB3FA5B5E1898368",
@@ -90,6 +90,59 @@
    "files": [],
    "drive": null,
    "phone": "972523333169"
+  },
+  {
+   "id": "ACF93ED730C2FA6A6F1F92C1A5393796",
+   "sender": "ערן",
+   "text": "על מה לוחצים כאן כדי לשגר את הבקשה שלי",
+   "ts": 1790162366000,
+   "date": "2026-09-23",
+   "time": "14:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tecN4FTwsHOZ8WgSR2QoP1-5iiB7K3KI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tecN4FTwsHOZ8WgSR2QoP1-5iiB7K3KI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "ACCE69BE8D8C4B151A5B3BDBDE52AF5C",
+   "sender": "ערן",
+   "text": "מה כמות הקרדיטים שיש לנו להשתמש בהם לאורך היום",
+   "ts": 1790162420000,
+   "date": "2026-09-23",
+   "time": "14:20",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "ACB4D3208224CC9EC141FBAC30155DDB",
+   "sender": "הדס רכלבסקי",
+   "text": "אני לא יודעת\nצריך לבדוק",
+   "ts": 1790162787000,
+   "date": "2026-09-23",
+   "time": "14:26",
+   "files": [],
+   "drive": null,
+   "phone": "972523333169"
+  },
+  {
+   "id": "AC058998E5EF62C18F74CE65C09168A8",
+   "sender": "ערן",
+   "text": "תודה הדס",
+   "ts": 1790162845000,
+   "date": "2026-09-23",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
   }
  ]
 }
