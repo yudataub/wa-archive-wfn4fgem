@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T09:15:16.516Z",
+ "updated": "2026-09-23T09:25:16.749Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2649,6 +2649,26 @@
    ],
    "drive": null,
    "phone": "972552801359"
+  },
+  {
+   "id": "3AEA5E04FBE6F9908352",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790155508000,
+   "date": "2026-09-23",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "324KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BvHQQkzgv8L0CwQ2cwP2v26Pa-fDd86z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BvHQQkzgv8L0CwQ2cwP2v26Pa-fDd86z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-22T15:46:49.771Z",
+ "updated": "2026-09-23T09:20:16.635Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -263,6 +263,66 @@
      "path": "https://drive.google.com/file/d/1B4Kqn_uerU2AxnXBaVIXtO1fEFWJXqcw/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1B4Kqn_uerU2AxnXBaVIXtO1fEFWJXqcw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4AEACA836CF57FD7CFCD",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790155208000,
+   "date": "2026-09-23",
+   "time": "12:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AHcON_oZYms6G3AYwwwUIeXwokI9WQFR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AHcON_oZYms6G3AYwwwUIeXwokI9WQFR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4ABF66F4EFFA75832292",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790155209000,
+   "date": "2026-09-23",
+   "time": "12:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J-Uqeo2C2AN9jBxrdKDNuiPhk2TAaPWG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J-Uqeo2C2AN9jBxrdKDNuiPhk2TAaPWG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4A66147031DC8C9C1C6D",
+   "sender": "Ofir Hadad",
+   "text": "למכירה בהזדמנות, תיק בצבע שחור מעור אמיתי של Ronarde Argentee, התיק במצב שמור, הוא עלה כ-800 ש״ח ונמכר ב-300 ש״ח בלבד, כל הקודם זוכה!!",
+   "ts": 1790155211000,
+   "date": "2026-09-23",
+   "time": "12:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/178yv73qRQRExa2YglawzAhaHJixWkT1q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=178yv73qRQRExa2YglawzAhaHJixWkT1q&sz=w1200"
     }
    ],
    "drive": null,

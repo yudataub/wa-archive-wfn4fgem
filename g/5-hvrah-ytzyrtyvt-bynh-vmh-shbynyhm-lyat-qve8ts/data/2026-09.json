@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "5️⃣הוראה, יצירתיות, בינה ומה שביניהם- ליאת ונגרובסקי",
- "updated": "2026-09-22T05:16:06.721Z",
+ "updated": "2026-09-23T09:21:32.995Z",
  "messages": [
   {
    "id": "AC91713536FF8A1C545256C7404E2DE0",
@@ -21,6 +21,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "ACE25854A6E15D4132C2CD2FF51F6C78",
+   "sender": "ליאת ונגרובסקי",
+   "text": "סקר חדש עלה לערוץ ☺️\nאשמח לשמוע את דעתכם! \nמכינה לכם כמה הפתעות... \nלחצו על הקישור כדי להצביע: \nhttps://whatsapp.com/channel/0029VagHeDGHwXb9DEqc7m1f",
+   "ts": 1790155272000,
+   "date": "2026-09-23",
+   "time": "12:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XxR1CU2BerWPZXe_XsyA6mA1_-lYhZCk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XxR1CU2BerWPZXe_XsyA6mA1_-lYhZCk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
   }
  ]
 }

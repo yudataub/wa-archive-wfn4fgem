@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-23T09:12:46.474Z",
+ "updated": "2026-09-23T09:25:16.723Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2230,6 +2230,26 @@
    "files": [],
    "drive": null,
    "phone": "972546377391"
+  },
+  {
+   "id": "3ACE124CA0E9457CAAC9",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790155508000,
+   "date": "2026-09-23",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "324KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aEdK7ieWF2Do1qw0xPXRZWa56bYDXPrH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aEdK7ieWF2Do1qw0xPXRZWa56bYDXPrH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
   }
  ]
 }

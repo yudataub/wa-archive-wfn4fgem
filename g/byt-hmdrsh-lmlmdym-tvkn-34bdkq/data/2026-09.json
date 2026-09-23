@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בית המדרש למלמדים - תוכן",
- "updated": "2026-09-22T05:43:58.988Z",
+ "updated": "2026-09-23T09:25:16.791Z",
  "messages": [
   {
    "id": "3EB0BCBB9BC8A6F4E2FC5C",
@@ -12,6 +12,63 @@
    "time": "08:43",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "3EB02CBD9A2D8937154B01",
+   "sender": "יהודה ויינר",
+   "text": "חברים שלום,\n*אנחנו בעיצומו של מסע ההכנה לסוכות!!*\nאנחנו שמחים לשלוח לכם את \nהפעימה השניה והשלישית.\nבמה נעסוק היום:\n- פעימה שניה - מצוות ארבעת המינים\n- פעימה שלישית - מצוות השמחה בסוכות\n- שאלות אתגר למגוון גילאים\n- סיפורים להנעים את הזמן בסוכה עם הילדים.\nאהבתם? שלחו לנו חיזוק 💪🏼❤️👍 (אחד מהם)\nבהצלחה רבה וחג שמח\nואל תשכחו להעביר את הקישור את ההצטרפות למסע לחברים, מכרים, ידידים \nולכל מי שזה יעזור לו להאיר את החג עם הילדים.\nhttps://melamdim-sukkot.vercel.app/",
+   "ts": 1790155508000,
+   "date": "2026-09-23",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "2 - מסע לסוכות - יום 2 ארבעת המינים - שני לוגואים.pdf",
+     "size": "1.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12imMocVU4w99yoBchSaVigvmDjnpJRIJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB01A64C6E325E2576030",
+   "sender": "יהודה ויינר",
+   "text": "",
+   "ts": 1790155509000,
+   "date": "2026-09-23",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "2 - מסע סוכות פעימה ב - כרטיסיות חידון.pdf",
+     "size": "3.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KQFpNsKSn1IPzqbisTr4GZZrM2yBCiir/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB057A1F6DD120854599A",
+   "sender": "יהודה ויינר",
+   "text": "",
+   "ts": 1790155509000,
+   "date": "2026-09-23",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "3 - מסע לסוכות - יום 3 מצוות השמחה בסוכות - שני לוגואים.pdf",
+     "size": "2.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ERpksSrhnYqaK7cZOsGoLktpqDvIR47c/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
   }
  ]
 }
