@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T07:22:07.299Z",
+ "updated": "2026-09-23T07:34:16.185Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1730,6 +1730,48 @@
    ],
    "drive": null,
    "phone": "972537161715"
+  },
+  {
+   "id": "A56FB4CEA81E50B28DDDE6F1D8C2E419",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790148469000,
+   "date": "2026-09-23",
+   "time": "10:27",
+   "files": [],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "AC81DB9B6BC0D87DB67D9C74BC785873",
+   "sender": "nadav levy05",
+   "text": "https://api.whatsapp.com/send?phone=9720538240485&text=%D7%9C%D7%92%D7%91%D7%99%20%D7%9E%D7%9B%D7%99%D7%A8%D7%AA%20%D7%A1%D7%95%D7%9B%D7%95%D7%AA%2C%20%D7%91%D7%93%D7%99%D7%9D%20%D7%95%D7%A1%D7%9B%D7%9A",
+   "ts": 1790148831000,
+   "date": "2026-09-23",
+   "time": "10:33",
+   "files": [],
+   "drive": null,
+   "phone": "972538240485"
+  },
+  {
+   "id": "AC96996883AF2BE3510EE66AC584E67A",
+   "sender": "nadav levy05",
+   "text": "",
+   "ts": 1790148832000,
+   "date": "2026-09-23",
+   "time": "10:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m_6uPbuOVNybsEbJc-Px7m4gdtci9tKk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m_6uPbuOVNybsEbJc-Px7m4gdtci9tKk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538240485"
   }
  ]
 }
