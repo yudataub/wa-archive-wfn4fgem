@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-09-23T14:19:39.919Z",
+ "updated": "2026-09-23T14:48:14.186Z",
  "messages": [
   {
    "id": "A5F78DC18BD6847A4570C583E75C2A62",
@@ -129,6 +129,26 @@
      "path": "https://drive.google.com/file/d/1ABKp2qx92_PmP__1Z9jMTLCQVQNg6S_A/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ABKp2qx92_PmP__1Z9jMTLCQVQNg6S_A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A50967316A38CC14DDD1E56AD7E96284",
+   "sender": "אוריאל פדידה",
+   "text": "סמנרים לחנוכה בחו\"ל הרישום מתחיל מחר בשעה 11:00 : \n( הסמינר למרוקו לא רלוונטי לדתיים טיסה בשבת. חבל.....) \nקישור לחוברת חו\"ל כללי\nhttps://katzr.net/b16de3\n*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1790174846000,
+   "date": "2026-09-23",
+   "time": "17:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "760KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o3HiLQKWC-sB3chkozlHTsEhShZsOSGB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o3HiLQKWC-sB3chkozlHTsEhShZsOSGB&sz=w1200"
     }
    ],
    "drive": null,

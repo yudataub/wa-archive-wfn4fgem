@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-23T14:15:09.849Z",
+ "updated": "2026-09-23T14:52:44.248Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2283,6 +2283,26 @@
    "files": [],
    "drive": null,
    "phone": "972585520378"
+  },
+  {
+   "id": "ACC2E6F6EE54B7ECBDAA4F385A0D6BBC",
+   "sender": "David",
+   "text": "למסירה",
+   "ts": 1790175137000,
+   "date": "2026-09-23",
+   "time": "17:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SWcHEL4w8bzvIZX9T7uhxc9x7siL92J7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SWcHEL4w8bzvIZX9T7uhxc9x7siL92J7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526853923"
   }
  ]
 }
