@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T07:17:37.226Z",
+ "updated": "2026-09-23T07:22:07.299Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1608,6 +1608,126 @@
    "date": "2026-09-23",
    "time": "10:17",
    "files": [],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5210EFF755BD60567D572518F5009D7",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790147949000,
+   "date": "2026-09-23",
+   "time": "10:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1miuXa4v4YKaEbGt9oJ-GvmTmQcrE0jfW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1miuXa4v4YKaEbGt9oJ-GvmTmQcrE0jfW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5CF2F6118E5EFF30416D27A97BBEEFE",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790147993000,
+   "date": "2026-09-23",
+   "time": "10:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "112KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NOObhz6_IO_x2u_H9xwrlE4nvk1uKtuy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NOObhz6_IO_x2u_H9xwrlE4nvk1uKtuy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5A743955B9A0617B7416BF1B8E550D0",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790148034000,
+   "date": "2026-09-23",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bfv8js6Uyb_8MIcSjCH_dMzS6-J22Rzr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bfv8js6Uyb_8MIcSjCH_dMzS6-J22Rzr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A51E33AB505BA40A2E5AEBECC7334FE2",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790148063000,
+   "date": "2026-09-23",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1donsjdlVBrz73ZMh1iTn-fC4DwlWSgxW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1donsjdlVBrz73ZMh1iTn-fC4DwlWSgxW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A5A4BD087C535908944670FEAEAF7A67",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790148100000,
+   "date": "2026-09-23",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IYx-gWlTLeB6Thk6y32UeL23Rjm9x1q2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IYx-gWlTLeB6Thk6y32UeL23Rjm9x1q2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537161715"
+  },
+  {
+   "id": "A58BF50DEBCCCEFEA58F07AEE803AFE1",
+   "sender": "יהודה סופר | נדל\"ן",
+   "text": "",
+   "ts": 1790148108000,
+   "date": "2026-09-23",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BozmpnoJqKrxuPgbwABKZ0jOXdR1rzsL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BozmpnoJqKrxuPgbwABKZ0jOXdR1rzsL&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972537161715"
   }
