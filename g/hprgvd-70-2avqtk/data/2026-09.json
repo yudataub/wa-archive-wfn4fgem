@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T10:17:05.191Z",
+ "updated": "2026-09-23T10:27:37.568Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -5194,6 +5194,26 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "7.4MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB01DF330ADA842E41C89",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: אושר עד הביאו אייפון 18. מוכרים ב- 4499\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790159251000,
+   "date": "2026-09-23",
+   "time": "13:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-znL88SHF7wQe8Y5rZz6ljPRL4-Vclp6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-znL88SHF7wQe8Y5rZz6ljPRL4-Vclp6&sz=w1200"
     }
    ],
    "drive": null,
