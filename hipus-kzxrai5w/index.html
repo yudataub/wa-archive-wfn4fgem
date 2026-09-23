@@ -3,7 +3,8 @@
 <!--
   דף חיפוש אחד לכל הארכיונים. נכתב על ידי whatsapp-bridge/site-search.js —
   לא לערוך כאן במאגר (יידרס), לערוך ב-site-search.html ולהעלות SITE_PAGE_VERSION.
-  קורא data/search.json: { groups:{slug:{name,hue,n}}, messages:[[slug,id,ts,date,time,sender,text,files]] }
+  data/index.json = { months:[...], groups:{slug:{name,hue,n}} }
+  data/<YYYY-MM>.json = [[slug,id,ts,date,time,sender,text,files], ...]
 -->
 <html lang="he" dir="rtl">
 <head>
@@ -19,13 +20,40 @@
 --bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);
 --line:hsl(var(--hue) 10% 25%);--mark:#7a5c00;}}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:"Segoe UI",Arial,sans-serif;}
-header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;padding:14px 16px;box-shadow:0 2px 8px rgba(0,0,0,.18);}
-header h1{margin:0;font-size:18px;font-weight:600;}
+header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;padding:12px 14px;box-shadow:0 2px 8px rgba(0,0,0,.18);}
+header h1{margin:0;font-size:17px;font-weight:600;}
 header .sub{font-size:12px;opacity:.85;margin-top:2px;}
-#q{width:100%;box-sizing:border-box;margin-top:10px;padding:10px;border:0;border-radius:8px;font-size:16px;font-family:inherit;}
-.row{display:flex;gap:8px;margin-top:8px;flex-wrap:wrap}
-#g,#sortby{flex:1;min-width:150px;box-sizing:border-box;padding:8px 10px;border:0;border-radius:8px;font-size:14px;font-family:inherit;background:#fff;color:#1f2421;}
-main{max-width:820px;margin:0 auto;padding:16px;}
+#q{width:100%;box-sizing:border-box;margin-top:9px;padding:10px;border:0;border-radius:8px;font-size:16px;font-family:inherit;}
+.tabs{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+.tab{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;padding:6px 11px;font-size:13px;
+font-family:inherit;cursor:pointer;}
+.tab.on{background:#fff;color:var(--accent);font-weight:600}
+main{max-width:860px;margin:0 auto;padding:14px;}
+.pane{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:12px;}
+.pane[hidden]{display:none}
+.pane h2{margin:0 0 8px;font-size:14px;color:var(--accent)}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:6px 0}
+.row label{font-size:13px;display:flex;align-items:center;gap:5px;cursor:pointer}
+input[type=text],input[type=date],input[type=number],input[type=password],select,textarea{
+padding:7px 9px;border:1px solid var(--line);border-radius:8px;font-size:14px;font-family:inherit;
+background:var(--bubble);color:var(--ink);}
+input[type=number]{width:64px}
+.btn{background:transparent;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:6px 12px;
+font-size:13px;font-family:inherit;cursor:pointer}
+.btn:hover{border-color:var(--accent);color:var(--accent)}
+.btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+.hint{color:var(--muted);font-size:12px;line-height:1.5}
+#glist{max-height:300px;overflow:auto;border:1px solid var(--line);border-radius:8px;padding:6px;background:var(--bubble)}
+#glist label{display:flex;gap:7px;align-items:center;padding:4px 6px;font-size:13px;border-radius:6px;cursor:pointer}
+#glist label:hover{background:var(--panel)}
+#glist .n{color:var(--muted);font-size:12px;margin-inline-start:auto}
+.savedchip{display:inline-flex;align-items:center;gap:6px;background:var(--bubble);border:1px solid var(--line);
+border-radius:999px;padding:4px 6px 4px 12px;font-size:13px;margin:3px 3px 0 0}
+.savedchip button{background:transparent;border:0;color:var(--muted);cursor:pointer;font-size:14px;line-height:1;padding:2px 4px}
+.savedchip button:hover{color:#c0392b}
+.savedchip .go{color:var(--ink);cursor:pointer;background:transparent;border:0;font-family:inherit;font-size:13px;padding:0}
+.ghead{margin:16px 0 6px;font-size:13px;color:var(--accent);font-weight:600;display:flex;gap:8px;align-items:baseline}
+.ghead .n{color:var(--muted);font-weight:400;font-size:12px}
 .hit{background:var(--bubble);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin:8px 0;
 box-shadow:0 1px 2px rgba(0,0,0,.05);display:block;text-decoration:none;color:inherit;}
 .hit:hover{border-color:var(--accent);}
@@ -36,10 +64,13 @@ box-shadow:0 1px 2px rgba(0,0,0,.05);display:block;text-decoration:none;color:in
 .hit .txt{white-space:pre-wrap;word-wrap:break-word;line-height:1.5;font-size:14px;}
 .hit .files{color:var(--muted);font-size:12px;margin-top:4px;}
 mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 2px;}
-#status{text-align:center;color:var(--muted);padding:24px 16px;font-size:14px;line-height:1.6;}
+#status{text-align:center;color:var(--muted);padding:22px 16px;font-size:14px;line-height:1.6;}
 #more{display:block;width:100%;margin:14px 0 30px;padding:12px;font-size:15px;font-family:inherit;
 background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 #more[hidden]{display:none;}
+.ai-answer{white-space:pre-wrap;line-height:1.6;font-size:15px;background:var(--bubble);border:1px solid var(--line);
+border-radius:10px;padding:10px 12px;margin-top:8px}
+.ai-answer a{color:var(--accent);font-weight:600;text-decoration:none;border-bottom:1px dotted currentColor}
 </style>
 </head>
 <body>
@@ -47,84 +78,432 @@ background:var(--panel);color:var(--ink);border:1px solid var(--line);border-rad
 <h1>חיפוש בכל הארכיון</h1>
 <div class="sub" id="sub">טוען…</div>
 <input id="q" type="search" placeholder="מה לחפש? (אפשר כמה מילים)" autocomplete="off">
-<div class="row">
- <select id="g" aria-label="סינון לפי קבוצה"><option value="">כל הקבוצות</option></select>
- <select id="sortby" aria-label="סדר"><option value="new">החדשות קודם</option><option value="old">הישנות קודם</option></select>
+<div class="tabs">
+ <button class="tab" id="tGroups">קבוצות</button>
+ <button class="tab" id="tOpts">אפשרויות</button>
+ <button class="tab" id="tSaved">שמורים</button>
+ <button class="tab" id="tAi">✨ שאל</button>
 </div>
 </header>
-<main><div id="hits"></div><button id="more" hidden>עוד תוצאות</button><div id="status">טוען את האינדקס…</div></main>
+<main>
+
+<section class="pane" id="pGroups" hidden>
+ <h2>באילו קבוצות לחפש</h2>
+ <div class="row">
+  <input type="text" id="gfind" placeholder="סינון הרשימה…" style="flex:1;min-width:160px">
+  <button class="btn" id="gAll">הכול</button><button class="btn" id="gNone">נקה</button>
+ </div>
+ <div id="glist"></div>
+ <div class="hint" id="gsum" style="margin-top:6px"></div>
+</section>
+
+<section class="pane" id="pOpts" hidden>
+ <h2>איך לחפש</h2>
+ <div class="row">
+  <label><input type="checkbox" id="oInflect"> הטיות דקדוקיות</label>
+  <span class="hint">"סוכה" ימצא גם "בסוכה", "וסוכות", "כשהסוכה"</span>
+ </div>
+ <div class="row">
+  <label><input type="checkbox" id="oSpell"> כתיב מלא וחסר</label>
+  <span class="hint">"שיעור" ימצא גם "שעור", "מצוה" גם "מצווה"</span>
+ </div>
+ <div class="row">
+  <label>מרווח בין המילים:</label>
+  <select id="oGap">
+   <option value="any">בכל מקום בהודעה</option>
+   <option value="near">קרובות — עד</option>
+   <option value="phrase">צמודות (ביטוי מדויק)</option>
+  </select>
+  <input type="number" id="oNear" min="1" max="30" value="5"><span class="hint">מילים ביניהן</span>
+ </div>
+ <div class="row">
+  <label>מיון:</label>
+  <select id="oSort">
+   <option value="new">החדשות קודם</option>
+   <option value="old">הישנות קודם</option>
+   <option value="group">לפי קבוצה — הכי הרבה תוצאות</option>
+   <option value="sender">לפי שולח — הכי הרבה תוצאות</option>
+  </select>
+ </div>
+ <div class="row">
+  <label>מתאריך:</label><input type="date" id="oFrom">
+  <label>עד:</label><input type="date" id="oTo">
+  <button class="btn" id="oDatesClear">נקה תאריכים</button>
+ </div>
+ <div class="row">
+  <label>בלי המילים:</label>
+  <input type="text" id="oExclude" placeholder="מילים שלא יופיעו בתוצאה" style="flex:1;min-width:160px">
+ </div>
+ <div class="row">
+  <button class="btn primary" id="oSaveDefault">שמור כברירת מחדל</button>
+  <button class="btn" id="oReset">איפוס</button>
+  <span class="hint" id="oDefMsg"></span>
+ </div>
+</section>
+
+<section class="pane" id="pSaved" hidden>
+ <h2>חיפושים שמורים</h2>
+ <div class="row">
+  <input type="text" id="sName" placeholder="שם לחיפוש הנוכחי…" style="flex:1;min-width:160px">
+  <button class="btn primary" id="sSave">שמור</button>
+  <button class="btn" id="sLink">העתק קישור</button>
+ </div>
+ <div id="sList"></div>
+ <div class="hint" style="margin-top:6px">נשמר בדפדפן הזה בלבד. הקישור כולל את החיפוש ואת ההגדרות — אפשר לשלוח אותו.</div>
+</section>
+
+<section class="pane" id="pAi" hidden>
+ <h2>✨ שאל את התוצאות</h2>
+ <div id="aiKeyBox" hidden>
+  <p class="hint">צריך מפתח API פעם אחת. נשמר <b>רק בדפדפן הזה</b>.
+   Groq (חינמי): <a href="https://console.groq.com/keys" target="_blank" rel="noopener">console.groq.com</a> ·
+   Gemini (חינמי): <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com</a> ·
+   Claude: <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a></p>
+  <div class="row">
+   <select id="aiProv"><option value="groq">Groq — חינמי</option><option value="gemini">Gemini — חינמי</option><option value="anthropic">Claude</option></select>
+   <input type="password" id="aiKeyIn" placeholder="המפתח…" style="flex:1;min-width:160px">
+   <button class="btn primary" id="aiKeySave">שמירה</button>
+  </div>
+ </div>
+ <div id="aiAskBox">
+  <div class="row">
+   <input type="text" id="aiQ" placeholder="שאלה על התוצאות שמוצגות עכשיו…" style="flex:1;min-width:200px">
+   <button class="btn primary" id="aiGo">שאל</button>
+   <button class="btn" id="aiKeyChange" title="החלפת מפתח">🔑</button>
+  </div>
+  <div class="hint" id="aiHint"></div>
+  <div class="ai-answer" id="aiAns" hidden></div>
+ </div>
+</section>
+
+<div id="hits"></div><button id="more" hidden>עוד תוצאות</button><div id="status">טוען את האינדקס…</div></main>
 <script>
-var DATA={groups:{},messages:[]},shown=0,PAGE=100,last=[];
-var q=document.getElementById("q"),gSel=document.getElementById("g"),sortSel=document.getElementById("sortby");
-var hits=document.getElementById("hits"),more=document.getElementById("more");
-var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
+var DATA={groups:{},messages:[]},TOK=[],shown=0,PAGE=100,last=[];
+// הטיות דולקות כברירת מחדל: בעברית "סוכה" אמור למצוא גם "בסוכה" ו"סוכות".
+// אפשר לכבות באפשרויות, ולשמור את הבחירה כברירת מחדל.
+var OPT={inflect:true,spell:false,gap:"any",near:5,sort:"new",groups:[],from:"",to:"",exclude:""};
+var el=function(id){return document.getElementById(id);};
+var q=el("q"),hits=el("hits"),more=el("more"),statusEl=el("status"),sub=el("sub");
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
  return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
-// מילות החיפוש — AND: הודעה צריכה להכיל את כולן (בטקסט, בשולח, בשם הקבוצה או בשם קובץ)
-function terms(){return q.value.toLowerCase().split(/\s+/).filter(function(t){return t.length>0;});}
-function haystack(m){return (m[5]+" "+m[6]+" "+m[7]+" "+((DATA.groups[m[0]]||{}).name||"")).toLowerCase();}
-function match(m,ts){var h=haystack(m);for(var i=0;i<ts.length;i++)if(h.indexOf(ts[i])<0)return false;return true;}
-// הדגשה: עוטפים כל מופע של כל מילה. מחפשים על המחרוזת שכבר עברה esc, אז אין הזרקה.
-function mark(text,ts){
+function lsGet(k,d){try{var v=localStorage.getItem(k);return v?JSON.parse(v):d;}catch(e){return d;}}
+function lsSet(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
+
+// ---- בניית תבנית חיפוש למילה אחת ----
+// הטיות: אותיות שימוש בתחילית (וה"כלב"ם / מש / כש / לכש) וסיומות נפוצות.
+// כתיב מלא/חסר: כל י/ו בטקסט יכולים להופיע או לא, ולכן הופכים אותם לאופציונליים
+// וגם מתירים הוספה של י/ו בין אותיות.
+var PRE="(?:ו?(?:כש|מש|לכ|ש|ה|ב|כ|ל|מ)?)?";
+var SUF="(?:ים|ות|יות|ותיו|ותיה|תי|תך|תו|תה|נו|כם|כן|הם|הן|יו|יה|ים|ה|ת|י|ו|ך)?";
+function reEscape(s){return s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");}
+function coreOf(term){
+ var t=reEscape(term);
+ if(!OPT.spell)return t;
+ // אחרי כל אות עברית — י/ו אפשריים; י/ו שבמילה עצמה אפשריים
+ var out="";
+ for(var i=0;i<term.length;i++){
+  var c=term[i];
+  if(c==="י"||c==="ו")out+="[יו]?";
+  else{out+=reEscape(c);if(/[א-ת]/.test(c))out+="[יו]?";}}
+ return out;}
+function termRe(term){
+ var core=coreOf(term);
+ return new RegExp("^"+(OPT.inflect?PRE:"")+core+(OPT.inflect?SUF:"")+"$","i");}
+function termReLoose(term){   // להדגשה בתוך הטקסט
+ var core=coreOf(term);
+ return new RegExp((OPT.inflect?PRE:"")+core+(OPT.inflect?SUF:""),"gi");}
+function words(s){return String(s||"").toLowerCase().split(/[^֐-׿a-z0-9"']+/).filter(Boolean);}
+function terms(){return q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);}
+function excludeTerms(){return OPT.exclude.trim().toLowerCase().split(/\s+/).filter(Boolean);}
+
+// טוקנים לכל הודעה — מחושב פעם אחת ונשמר, אחרת כל הקשה סורקת 3,800 הודעות מחדש
+function tokensOf(i){
+ if(TOK[i])return TOK[i];
+ var m=DATA.messages[i];
+ var g=(DATA.groups[m[0]]||{}).name||"";
+ return (TOK[i]=words(m[6]+" "+m[5]+" "+(m[7]||"").split("|").join(" ")+" "+g));}
+
+function anyMatch(toks,re){for(var i=0;i<toks.length;i++)if(re.test(toks[i]))return true;return false;}
+function posOf(toks,re){var p=[];for(var i=0;i<toks.length;i++)if(re.test(toks[i]))p.push(i);return p;}
+// כל המילים בחלון אחד: מחפשים את החלון הקטן ביותר שמכיל מופע של כל מילה
+function nearMatch(lists,maxSpan){
+ var all=[];lists.forEach(function(ps,k){ps.forEach(function(p){all.push([p,k]);});});
+ if(all.length<lists.length)return false;
+ all.sort(function(a,b){return a[0]-b[0];});
+ var need=lists.length,have={},cnt=0,i=0;
+ for(var j=0;j<all.length;j++){
+  if(!have[all[j][1]])cnt++;have[all[j][1]]=(have[all[j][1]]||0)+1;
+  while(cnt===need){
+   if(all[j][0]-all[i][0]<=maxSpan)return true;
+   have[all[i][1]]--;if(!have[all[i][1]])cnt--;
+   i++;}}
+ return false;}
+function phraseMatch(toks,res){
+ for(var i=0;i+res.length<=toks.length;i++){
+  var ok=true;
+  for(var k=0;k<res.length;k++)if(!res[k].test(toks[i+k])){ok=false;break;}
+  if(ok)return true;}
+ return false;}
+
+function results(){
+ var ts=terms(),ex=excludeTerms();
+ var res=ts.map(termRe),exRes=ex.map(termRe);
+ var gsel=OPT.groups.length?{}:null;
+ if(gsel)OPT.groups.forEach(function(s){gsel[s]=1;});
+ var out=[];
+ for(var i=0;i<DATA.messages.length;i++){
+  var m=DATA.messages[i];
+  if(gsel&&!gsel[m[0]])continue;
+  if(OPT.from&&m[3]<OPT.from)continue;
+  if(OPT.to&&m[3]>OPT.to)continue;
+  if(res.length||exRes.length){
+   var toks=tokensOf(i);
+   if(res.length){
+    if(OPT.gap==="phrase"){if(!phraseMatch(toks,res))continue;}
+    else if(OPT.gap==="near"){
+     var lists=res.map(function(r){return posOf(toks,r);});
+     if(lists.some(function(l){return !l.length;}))continue;
+     if(!nearMatch(lists,(res.length-1)+Number(OPT.near||5)))continue;}
+    else{
+     var all=true;
+     for(var k=0;k<res.length;k++)if(!anyMatch(toks,res[k])){all=false;break;}
+     if(!all)continue;}}
+   if(exRes.length){
+    var bad=false;
+    for(var e=0;e<exRes.length;e++)if(anyMatch(toks,exRes[e])){bad=true;break;}
+    if(bad)continue;}}
+  out.push(m);}
+ if(OPT.sort==="old")out=out.slice().reverse();
+ return out;}
+
+// מיון לפי "מי שיש לו הכי הרבה תוצאות" — קבוצה או שולח
+function groupedBy(list,which){
+ var by={};
+ list.forEach(function(m){var k=which==="group"?m[0]:m[5];(by[k]||(by[k]=[])).push(m);});
+ return Object.keys(by).sort(function(a,b){return by[b].length-by[a].length;})
+  .map(function(k){return {key:k,rows:by[k]};});}
+
+function markHtml(text,ts){
  var out=esc(text);
  ts.forEach(function(t){
-  var safe=esc(t).replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
-  if(safe)out=out.replace(new RegExp("("+safe+")","gi"),"<mark>$1</mark>");});
+  var re=termReLoose(t);
+  out=out.replace(re,function(hit){return "<mark>"+hit+"</mark>";});});
  return out;}
-// קטע סביב ההתאמה הראשונה — הודעה ארוכה לא תשתלט על המסך
 function snippet(text,ts){
+ if(text.length<=280)return {s:text,cut:false};
  var low=text.toLowerCase(),at=-1;
- for(var i=0;i<ts.length;i++){var k=low.indexOf(ts[i]);if(k>-1&&(at<0||k<at))at=k;}
- if(text.length<=280||at<0)return {s:text.slice(0,280),cut:text.length>280};
+ ts.forEach(function(t){var k=low.indexOf(t);if(k>-1&&(at<0||k<at))at=k;});
+ if(at<0)return {s:text.slice(0,280),cut:true};
  var from=Math.max(0,at-90);
  return {s:(from?"…":"")+text.slice(from,from+280),cut:from+280<text.length};}
-function results(){
- var ts=terms(),g=gSel.value;
- var list=DATA.messages;
- if(g)list=list.filter(function(m){return m[0]===g;});
- if(ts.length)list=list.filter(function(m){return match(m,ts);});
- if(sortSel.value==="old")list=list.slice().reverse();
- return list;}
+function hitHtml(m,ts){
+ var g=DATA.groups[m[0]]||{name:m[0],hue:210};
+ var sn=snippet(m[6]||"",ts);
+ return '<a class="hit" style="--gh:'+(g.hue||210)+'" href="../g/'+encodeURIComponent(m[0])+'/#m-'+encodeURIComponent(m[1])+'">'+
+  '<div class="top"><span class="chip">'+esc(g.name)+'</span><span class="who">'+markHtml(m[5]||"",ts)+'</span>'+
+  '<span>'+esc(m[3])+" "+esc(m[4])+'</span></div>'+
+  (sn.s?'<div class="txt">'+markHtml(sn.s,ts)+(sn.cut?"…":"")+'</div>':"")+
+  (m[7]?'<div class="files">📎 '+markHtml(m[7].split("|").join(", "),ts)+'</div>':"")+
+  '</a>';}
+
 function render(reset){
  var ts=terms();
  if(reset){shown=0;hits.innerHTML="";last=results();}
- var slice=last.slice(shown,shown+PAGE),html="";
- slice.forEach(function(m){
-  var g=DATA.groups[m[0]]||{name:m[0],hue:210};
-  var sn=snippet(m[6]||"",ts);
-  html+='<a class="hit" style="--gh:'+(g.hue||210)+'" href="../g/'+encodeURIComponent(m[0])+'/#m-'+encodeURIComponent(m[1])+'">'+
-   '<div class="top"><span class="chip">'+esc(g.name)+'</span><span class="who">'+mark(m[5]||"",ts)+'</span>'+
-   '<span>'+esc(m[3])+" "+esc(m[4])+'</span></div>'+
-   (sn.s?'<div class="txt">'+mark(sn.s,ts)+(sn.cut?"…":"")+'</div>':"")+
-   (m[7]?'<div class="files">📎 '+mark(m[7].split("|").join(", "),ts)+'</div>':"")+
-   '</a>';});
+ var html="";
+ if(OPT.sort==="group"||OPT.sort==="sender"){
+  if(reset){
+   groupedBy(last,OPT.sort).forEach(function(b){
+    var label=OPT.sort==="group"?((DATA.groups[b.key]||{}).name||b.key):b.key;
+    html+='<div class="ghead">'+esc(label)+'<span class="n">'+b.rows.length+" תוצאות</span></div>";
+    b.rows.slice(0,PAGE).forEach(function(m){html+=hitHtml(m,ts);});
+    if(b.rows.length>PAGE)html+='<div class="hint">…ועוד '+(b.rows.length-PAGE)+" בקבוצה הזו</div>";});
+   shown=last.length;}
+ }else{
+  var slice=last.slice(shown,shown+PAGE);
+  slice.forEach(function(m){html+=hitHtml(m,ts);});
+  shown+=slice.length;}
  hits.insertAdjacentHTML("beforeend",html);
- shown+=slice.length;
- more.hidden=shown>=last.length;
+ more.hidden=OPT.sort==="group"||OPT.sort==="sender"||shown>=last.length;
  more.textContent="עוד תוצאות ("+(last.length-shown)+")";
- statusEl.textContent=last.length?"":(terms().length?"לא נמצאו תוצאות.":"");
- sub.textContent=(terms().length||gSel.value?last.length+" תוצאות · ":"")+
-  DATA.messages.length+" הודעות ב-"+Object.keys(DATA.groups).length+" קבוצות";}
+ statusEl.textContent=last.length?"":(ts.length||OPT.exclude||OPT.groups.length?"לא נמצאו תוצאות.":"");
+ var filtered=ts.length||OPT.groups.length||OPT.from||OPT.to||OPT.exclude;
+ sub.textContent=(filtered?last.length+" תוצאות · ":"")+DATA.messages.length+" הודעות ב-"+Object.keys(DATA.groups).length+" קבוצות"+
+  (OPT.groups.length?" · "+OPT.groups.length+" קבוצות נבחרו":"");
+ el("gsum").textContent=OPT.groups.length?OPT.groups.length+" קבוצות נבחרו":"כל הקבוצות";
+ saveHash();}
+
+// ---- פאנלים ----
+function pane(tab,box){
+ el(tab).addEventListener("click",function(){
+  var open=el(box).hidden;
+  ["pGroups","pOpts","pSaved","pAi"].forEach(function(b){el(b).hidden=true;});
+  ["tGroups","tOpts","tSaved","tAi"].forEach(function(t){el(t).classList.remove("on");});
+  if(open){el(box).hidden=false;el(tab).classList.add("on");}});}
+pane("tGroups","pGroups");pane("tOpts","pOpts");pane("tSaved","pSaved");
+el("tAi").addEventListener("click",function(){
+ var open=el("pAi").hidden;
+ ["pGroups","pOpts","pSaved","pAi"].forEach(function(b){el(b).hidden=true;});
+ ["tGroups","tOpts","tSaved","tAi"].forEach(function(t){el(t).classList.remove("on");});
+ if(open){el("pAi").hidden=false;el("tAi").classList.add("on");aiOpen();}});
+
+// ---- רשימת הקבוצות ----
 function buildGroups(){
+ var find=(el("gfind").value||"").toLowerCase();
  var names=Object.keys(DATA.groups).sort(function(a,b){
   return DATA.groups[b].n-DATA.groups[a].n||DATA.groups[a].name.localeCompare(DATA.groups[b].name,"he");});
- var html='<option value="">כל הקבוצות ('+names.length+')</option>';
- names.forEach(function(s){html+='<option value="'+esc(s)+'">'+esc(DATA.groups[s].name)+" ("+DATA.groups[s].n+")</option>";});
- gSel.innerHTML=html;}
+ var sel={};OPT.groups.forEach(function(s){sel[s]=1;});
+ var html="";
+ names.forEach(function(s){
+  var g=DATA.groups[s];
+  if(find&&g.name.toLowerCase().indexOf(find)<0)return;
+  html+='<label><input type="checkbox" value="'+esc(s)+'"'+(sel[s]?" checked":"")+'>'+
+   '<span>'+esc(g.name)+'</span><span class="n">'+g.n+"</span></label>";});
+ el("glist").innerHTML=html||'<div class="hint">אין קבוצה בשם הזה</div>';}
+el("glist").addEventListener("change",function(e){
+ if(!e.target.matches("input[type=checkbox]"))return;
+ var s=e.target.value;
+ if(e.target.checked){if(OPT.groups.indexOf(s)<0)OPT.groups.push(s);}
+ else OPT.groups=OPT.groups.filter(function(x){return x!==s;});
+ render(true);});
+el("gfind").addEventListener("input",buildGroups);
+el("gAll").addEventListener("click",function(){OPT.groups=[];buildGroups();render(true);});
+el("gNone").addEventListener("click",function(){OPT.groups=[];buildGroups();render(true);});
+
+// ---- אפשרויות ----
+function optsToForm(){
+ el("oInflect").checked=OPT.inflect;el("oSpell").checked=OPT.spell;
+ el("oGap").value=OPT.gap;el("oNear").value=OPT.near;el("oSort").value=OPT.sort;
+ el("oFrom").value=OPT.from;el("oTo").value=OPT.to;el("oExclude").value=OPT.exclude;}
+function formToOpts(){
+ OPT.inflect=el("oInflect").checked;OPT.spell=el("oSpell").checked;
+ OPT.gap=el("oGap").value;OPT.near=Number(el("oNear").value)||5;OPT.sort=el("oSort").value;
+ OPT.from=el("oFrom").value;OPT.to=el("oTo").value;OPT.exclude=el("oExclude").value;
+ TOK=[];   // ההטיות/כתיב משנים את המשמעות של טוקן — לא מטמינים בין מצבים
+ render(true);}
+["oInflect","oSpell","oGap","oNear","oSort","oFrom","oTo"].forEach(function(id){
+ el(id).addEventListener("change",formToOpts);});
+el("oExclude").addEventListener("input",function(){clearTimeout(window.__ex);window.__ex=setTimeout(formToOpts,200);});
+el("oDatesClear").addEventListener("click",function(){el("oFrom").value="";el("oTo").value="";formToOpts();});
+el("oSaveDefault").addEventListener("click",function(){
+ var d={inflect:OPT.inflect,spell:OPT.spell,gap:OPT.gap,near:OPT.near,sort:OPT.sort,groups:OPT.groups,exclude:OPT.exclude};
+ lsSet("waSearchDefault",d);el("oDefMsg").textContent="נשמר ✓";setTimeout(function(){el("oDefMsg").textContent="";},1800);});
+el("oReset").addEventListener("click",function(){
+ OPT={inflect:true,spell:false,gap:"any",near:5,sort:"new",groups:[],from:"",to:"",exclude:""};
+ optsToForm();buildGroups();render(true);});
+
+// ---- חיפושים שמורים + קישור ----
+function saveHash(){
+ var s={q:q.value,o:OPT};
+ try{history.replaceState(null,"","#s="+encodeURIComponent(JSON.stringify(s)));}catch(e){}}
+function loadHash(){
+ var m=/^#s=(.+)$/.exec(location.hash||"");if(!m)return false;
+ try{var s=JSON.parse(decodeURIComponent(m[1]));
+  q.value=s.q||"";Object.keys(s.o||{}).forEach(function(k){OPT[k]=s.o[k];});return true;}catch(e){return false;}}
+function savedList(){return lsGet("waSearchSaved",[]);}
+function drawSaved(){
+ var list=savedList();
+ el("sList").innerHTML=list.length?list.map(function(s,i){
+  return '<span class="savedchip"><button class="go" data-i="'+i+'">'+esc(s.name)+'</button>'+
+   '<button data-del="'+i+'" title="מחיקה">✕</button></span>';}).join(""):
+  '<div class="hint">עוד לא שמרת חיפושים.</div>';}
+el("sSave").addEventListener("click",function(){
+ var name=(el("sName").value||q.value||"חיפוש").trim();
+ var list=savedList();
+ list.push({name:name,q:q.value,o:JSON.parse(JSON.stringify(OPT))});
+ lsSet("waSearchSaved",list);el("sName").value="";drawSaved();});
+el("sList").addEventListener("click",function(e){
+ var go=e.target.getAttribute("data-i"),del=e.target.getAttribute("data-del");
+ var list=savedList();
+ if(del!==null&&del!==undefined){list.splice(Number(del),1);lsSet("waSearchSaved",list);drawSaved();return;}
+ if(go!==null&&go!==undefined){
+  var s=list[Number(go)];if(!s)return;
+  q.value=s.q||"";OPT=JSON.parse(JSON.stringify(s.o));
+  optsToForm();buildGroups();render(true);}});
+el("sLink").addEventListener("click",function(){
+ saveHash();
+ var url=location.href;
+ if(navigator.clipboard)navigator.clipboard.writeText(url).then(function(){
+  el("sLink").textContent="הועתק ✓";setTimeout(function(){el("sLink").textContent="העתק קישור";},1500);},
+  function(){window.prompt("העתק:",url);});
+ else window.prompt("העתק:",url);});
+
+// ---- ✨ שאל את התוצאות ----
+var AI_MODEL={groq:"openai/gpt-oss-120b",gemini:"gemini-flash-latest",anthropic:"claude-opus-5"};
+var AI_MAX={groq:60000,gemini:160000,anthropic:160000};
+function aiProv(){try{return localStorage.getItem("aiProvider")||"groq";}catch(e){return "groq";}}
+function aiKey(){try{return localStorage.getItem("aiKey:"+aiProv())||"";}catch(e){return "";}}
+function aiOpen(){
+ if(!aiKey()){el("aiKeyBox").hidden=false;el("aiAskBox").hidden=true;el("aiProv").value=aiProv();}
+ else{el("aiKeyBox").hidden=true;el("aiAskBox").hidden=false;el("aiQ").focus();
+  el("aiHint").textContent="ההקשר: "+Math.min(last.length,400)+" מהתוצאות שמוצגות עכשיו.";}}
+el("aiKeySave").addEventListener("click",function(){
+ var p=el("aiProv").value,v=el("aiKeyIn").value.trim();
+ if(!v){alert("הדבק מפתח.");return;}
+ if(p==="anthropic"&&!/^sk-ant-/.test(v)){alert("מפתח של Anthropic מתחיל ב-sk-ant-.");return;}
+ try{localStorage.setItem("aiProvider",p);localStorage.setItem("aiKey:"+p,v);}catch(e){}
+ el("aiKeyIn").value="";aiOpen();});
+el("aiKeyChange").addEventListener("click",function(){el("aiKeyBox").hidden=false;el("aiAskBox").hidden=true;el("aiProv").value=aiProv();});
+function aiContext(){
+ var max=AI_MAX[aiProv()]||60000,out=[],used=0,rows=last.slice(0,400);
+ for(var i=0;i<rows.length;i++){
+  var m=rows[i],g=(DATA.groups[m[0]]||{}).name||m[0];
+  var line="[#"+i+"] "+m[3]+" "+m[4]+" | "+g+" | "+m[5]+": "+String(m[6]||"").replace(/\s+/g," ").trim();
+  if(used+line.length>max)break;
+  out.push(line);used+=line.length;}
+ return {text:out.join("\n"),n:out.length,rows:rows};}
+var AI_INSTR="אתה עונה על שאלות לפי תוצאות חיפוש מארכיון וואטסאפ. ענה בעברית, קצר וענייני. "+
+ "הסתמך רק על השורות שבהקשר; אם אין מידע — אמור זאת. ציין אחרי כל משפט את המזהה בצורה [#מספר].";
+function askAI(key,prov,model,ctx,question){
+ if(prov==="anthropic")return fetch("https://api.anthropic.com/v1/messages",{method:"POST",
+  headers:{"content-type":"application/json","x-api-key":key,"anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
+  body:JSON.stringify({model:model,max_tokens:2048,system:AI_INSTR,messages:[{role:"user",content:ctx+"\n\nשאלה: "+question}]})})
+  .then(function(r){return r.json();}).then(function(j){
+   if(j.error)throw new Error(j.error.message);
+   return (j.content||[]).filter(function(b){return b.type==="text";}).map(function(b){return b.text;}).join("\n");});
+ if(prov==="gemini")return fetch("https://generativelanguage.googleapis.com/v1beta/models/"+encodeURIComponent(model)+":generateContent",
+  {method:"POST",headers:{"content-type":"application/json","x-goog-api-key":key},
+   body:JSON.stringify({system_instruction:{parts:[{text:AI_INSTR}]},
+    contents:[{role:"user",parts:[{text:ctx+"\n\nשאלה: "+question}]}],generationConfig:{maxOutputTokens:2048,temperature:0.2}})})
+  .then(function(r){return r.json();}).then(function(j){
+   if(j.error)throw new Error(j.error.message);
+   var c=(j.candidates||[])[0];if(!c)throw new Error("אין תשובה");
+   return ((c.content||{}).parts||[]).map(function(p){return p.text||"";}).join("");});
+ return fetch("https://api.groq.com/openai/v1/chat/completions",{method:"POST",
+  headers:{"content-type":"application/json","Authorization":"Bearer "+key},
+  body:JSON.stringify({model:model,temperature:0.2,max_tokens:2048,reasoning_effort:"low",
+   messages:[{role:"system",content:AI_INSTR},{role:"user",content:ctx+"\n\nשאלה: "+question}]})})
+ .then(function(r){return r.json();}).then(function(j){
+  if(j.error)throw new Error(j.error.message);
+  var c=(j.choices||[])[0];return (c&&c.message&&c.message.content||"").trim();});}
+el("aiGo").addEventListener("click",function(){
+ var question=el("aiQ").value.trim();if(!question)return;
+ var key=aiKey();if(!key){aiOpen();return;}
+ var ctx=aiContext();
+ if(!ctx.n){el("aiHint").textContent="אין תוצאות לשאול עליהן — חפש קודם.";return;}
+ el("aiGo").disabled=true;el("aiHint").textContent="חושב… ("+ctx.n+" תוצאות)";el("aiAns").hidden=true;
+ askAI(key,aiProv(),AI_MODEL[aiProv()],"התוצאות:\n"+ctx.text,question)
+ .then(function(text){
+  var html=esc(text).replace(/\[?#(\d+)\]?/g,function(all,n){
+   var m=ctx.rows[+n];if(!m)return all;
+   return '<a href="../g/'+encodeURIComponent(m[0])+'/#m-'+encodeURIComponent(m[1])+'">↗ '+esc(m[5])+" "+esc(m[3])+"</a>";});
+  el("aiAns").innerHTML=html;el("aiAns").hidden=false;el("aiHint").textContent="";})
+ .catch(function(e){el("aiHint").textContent="שגיאה: "+e.message;})
+ .then(function(){el("aiGo").disabled=false;});});
+
+// ---- טעינה ----
 var timer=null;
 q.addEventListener("input",function(){clearTimeout(timer);timer=setTimeout(function(){render(true);},150);});
-gSel.addEventListener("change",function(){render(true);});
-sortSel.addEventListener("change",function(){render(true);});
 more.addEventListener("click",function(){render(false);});
-// האינדקס מפוצל לחודשים (כמו הארכיון) — חודש ישן לא משתנה לעולם, אז הדפדפן מטמין אותו.
-// טוענים את כולם במקביל, מחדש לישן, ומרנדרים ברגע שהראשון הגיע כדי שהחיפוש יהיה זמין מיד.
 fetch("data/index.json?t="+Date.now()).then(function(r){
  if(!r.ok)throw new Error("אין אינדקס");return r.json();})
  .then(function(d){
   DATA.groups=d.groups||{};
   var months=(d.months||[]).slice().sort().reverse();
   if(!months.length){statusEl.textContent="הארכיון ריק.";return;}
-  buildGroups();q.focus();
+  var def=lsGet("waSearchDefault",null);
+  if(def)Object.keys(def).forEach(function(k){OPT[k]=def[k];});
+  loadHash();                      // קישור משותף גובר על ברירת המחדל
+  optsToForm();buildGroups();drawSaved();q.focus();
   var done=0;
   return Promise.all(months.map(function(mo){
    return fetch("data/"+encodeURIComponent(mo)+".json").then(function(r){return r.ok?r.json():[];})
@@ -132,10 +511,10 @@ fetch("data/index.json?t="+Date.now()).then(function(r){
     .then(function(rows){
      DATA.messages=DATA.messages.concat(rows);
      DATA.messages.sort(function(a,b){return b[2]-a[2];});
-     done++;
+     TOK=[];done++;
      render(true);
      statusEl.textContent=done<months.length?("טוען… ("+done+" מתוך "+months.length+" חודשים)")
-      :"הקלד מילה כדי לחפש בכל הקבוצות.";});}));})
+      :(last.length?"":"הקלד מילה כדי לחפש בכל הקבוצות.");});}));})
  .catch(function(){statusEl.textContent="האינדקס עדיין לא נבנה. הוא נוצר בריצת site-push הבאה.";});
 </script>
 </body>
