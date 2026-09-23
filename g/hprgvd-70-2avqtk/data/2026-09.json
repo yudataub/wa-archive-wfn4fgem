@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T15:42:26.632Z",
+ "updated": "2026-09-23T15:56:29.259Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -6069,6 +6069,37 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "10.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0FFB2F7DEB330E7A95C",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הפצוע בפיגוע במחסום מכבים בנו של אישיות ממלכתית במדינה. כמובן לא נכתוב עד שמשפחתו לא תאשר.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790178693000,
+   "date": "2026-09-23",
+   "time": "18:51",
+   "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB04EA230C991A794A253",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: עיתוני חג גם בכשרות מהודרת. עמוד השער של גיליון 'גלאט' החודשי של 'שארית' עם כתבה מקיפה על המומחה הגדול להדסים הגאון רבי יעקב זילברברג שחושף את הסודות מאחורי ההדסים המהודרים.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790178968000,
+   "date": "2026-09-23",
+   "time": "18:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q2pFNiCs3NaiMK6FFu8soyQLOi0l37_d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q2pFNiCs3NaiMK6FFu8soyQLOi0l37_d&sz=w1200"
     }
    ],
    "drive": null,

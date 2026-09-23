@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-23T15:44:26.663Z",
+ "updated": "2026-09-23T15:55:29.065Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -896,6 +896,37 @@
    "files": [],
    "drive": null,
    "phone": "972548120004"
+  },
+  {
+   "id": "AC514271E26DF007193722EC1A1F9C41",
+   "sender": "אתי בן גיגי",
+   "text": "",
+   "ts": 1790178843000,
+   "date": "2026-09-23",
+   "time": "18:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DB6ncGy_aGmnnMPC8RzjwbWNZO4teAVf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DB6ncGy_aGmnnMPC8RzjwbWNZO4teAVf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538436935"
+  },
+  {
+   "id": "AC62C544B15EB2A53A4D2145E28C53EB",
+   "sender": "אתי בן גיגי",
+   "text": "עיצוב גבות רז בן גיגי 0547099408",
+   "ts": 1790178902000,
+   "date": "2026-09-23",
+   "time": "18:55",
+   "files": [],
+   "drive": null,
+   "phone": "972538436935"
   }
  ]
 }
