@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T12:10:53.309Z",
+ "updated": "2026-09-23T12:40:51.912Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2873,6 +2873,26 @@
    ],
    "drive": null,
    "phone": "972545600062"
+  },
+  {
+   "id": "3A9D17E88395D75027C3",
+   "sender": "💕הדר אלבז💕",
+   "text": "הזדמנות אחרונהה התורים נגמרים \nבניית סוכה / פירוק . \nהגיעו לחג מוכנים ונקיים\nאנחנו כבר נעשה את העבודה🛠️",
+   "ts": 1790167231000,
+   "date": "2026-09-23",
+   "time": "15:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_85XMuXllvQ6Z-VZXGmpRWBLzvDcvgBm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_85XMuXllvQ6Z-VZXGmpRWBLzvDcvgBm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506689516"
   }
  ]
 }

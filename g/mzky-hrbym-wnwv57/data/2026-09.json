@@ -1,1 +1,138 @@
-{"month":"2026-09","group":"מזכי הרבים","updated":"2026-09-23T12:29:51.749Z","messages":[{"id":"AC2BDB8727D39B9AF30BA1F236FD39FD","sender":"מעיין צוברי גרמן","text":"מישהו שיודע לעשות סרטוני ai מלאים (מבלי שרואים אדם) ברמה גבוה (בסגנון בערך כמו של רועי כהן )\nשיפנה אליי לפרטי🪎","ts":1790137858000,"date":"2026-09-23","time":"07:30","files":[],"drive":null,"phone":"972587121515"},{"id":"2AB75166649C36773C50","sender":"EMI Production אורי אמריו","text":"רועי כהן","ts":1790138138000,"date":"2026-09-23","time":"07:35","files":[],"drive":null,"phone":"972528554997"},{"id":"2A27BD5B9D39070D889F","sender":"EMI Production אורי אמריו","text":"אחלה גבר","ts":1790138140000,"date":"2026-09-23","time":"07:35","files":[],"drive":null,"phone":"972528554997"},{"id":"2AE15AC9CDDA9D1F32D3","sender":"EMI Production אורי אמריו","text":"תותח.","ts":1790138145000,"date":"2026-09-23","time":"07:35","files":[],"drive":null,"phone":"972528554997"},{"id":"2A81835687D7998A2D10","sender":"EMI Production אורי אמריו","text":"מקושר לגדולים","ts":1790138156000,"date":"2026-09-23","time":"07:35","files":[],"drive":null,"phone":"972528554997"},{"id":"2A419995399DC54C2D0C","sender":"EMI Production אורי אמריו","text":"מזכה הרבים.","ts":1790138162000,"date":"2026-09-23","time":"07:36","files":[],"drive":null,"phone":"972528554997"},{"id":"AC5B357893596E81239F19928AFAFACF","sender":"תודה לשם יתברך","text":",מ","ts":1790150622000,"date":"2026-09-23","time":"11:03","files":[],"drive":null,"phone":"972584015303"},{"id":"AC5411A364D1EE01783FF5AF33E96C59","sender":"אוריש'","text":"נ","ts":1790150652000,"date":"2026-09-23","time":"11:04","files":[],"drive":null,"phone":"972539869667"},{"id":"ACC6E45A98366CADF6B38172DD89781B","sender":"דוד","text":"מחפש פאלפון  של \nמכון אור הגנוז הרב קוק 18 בני ברק\nאהרון המדפיס יש למשהו?","ts":1790151109000,"date":"2026-09-23","time":"11:11","files":[],"drive":null,"phone":"972542608154"},{"id":"AC3080D1982DA5C54DC874C0128D72AE","sender":"שלומי","text":"","ts":1790166585000,"date":"2026-09-23","time":"15:29","files":[{"name":"וידאו.mp4","size":"4.1MB","type":"video/mp4","path":"https://drive.google.com/file/d/1dua7bkGz0AeVkMAmdCHD5U_vrJLmtcfX/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1dua7bkGz0AeVkMAmdCHD5U_vrJLmtcfX&sz=w1200","mirror":"https://yudataub.github.io/wa-vid-mzky-hrbym-wnwv57/v/2026-09/AC3080D1982DA5C54DC874C0128D72AE_0.mp4"}],"drive":null,"phone":"972524666606"}]}
+{
+ "month": "2026-09",
+ "group": "מזכי הרבים",
+ "updated": "2026-09-23T12:41:51.923Z",
+ "messages": [
+  {
+   "id": "AC2BDB8727D39B9AF30BA1F236FD39FD",
+   "sender": "מעיין צוברי גרמן",
+   "text": "מישהו שיודע לעשות סרטוני ai מלאים (מבלי שרואים אדם) ברמה גבוה (בסגנון בערך כמו של רועי כהן )\nשיפנה אליי לפרטי🪎",
+   "ts": 1790137858000,
+   "date": "2026-09-23",
+   "time": "07:30",
+   "files": [],
+   "drive": null,
+   "phone": "972587121515"
+  },
+  {
+   "id": "2AB75166649C36773C50",
+   "sender": "EMI Production אורי אמריו",
+   "text": "רועי כהן",
+   "ts": 1790138138000,
+   "date": "2026-09-23",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "2A27BD5B9D39070D889F",
+   "sender": "EMI Production אורי אמריו",
+   "text": "אחלה גבר",
+   "ts": 1790138140000,
+   "date": "2026-09-23",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "2AE15AC9CDDA9D1F32D3",
+   "sender": "EMI Production אורי אמריו",
+   "text": "תותח.",
+   "ts": 1790138145000,
+   "date": "2026-09-23",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "2A81835687D7998A2D10",
+   "sender": "EMI Production אורי אמריו",
+   "text": "מקושר לגדולים",
+   "ts": 1790138156000,
+   "date": "2026-09-23",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "2A419995399DC54C2D0C",
+   "sender": "EMI Production אורי אמריו",
+   "text": "מזכה הרבים.",
+   "ts": 1790138162000,
+   "date": "2026-09-23",
+   "time": "07:36",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "AC5B357893596E81239F19928AFAFACF",
+   "sender": "תודה לשם יתברך",
+   "text": ",מ",
+   "ts": 1790150622000,
+   "date": "2026-09-23",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972584015303"
+  },
+  {
+   "id": "AC5411A364D1EE01783FF5AF33E96C59",
+   "sender": "אוריש'",
+   "text": "נ",
+   "ts": 1790150652000,
+   "date": "2026-09-23",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972539869667"
+  },
+  {
+   "id": "ACC6E45A98366CADF6B38172DD89781B",
+   "sender": "דוד",
+   "text": "מחפש פאלפון  של \nמכון אור הגנוז הרב קוק 18 בני ברק\nאהרון המדפיס יש למשהו?",
+   "ts": 1790151109000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972542608154"
+  },
+  {
+   "id": "AC3080D1982DA5C54DC874C0128D72AE",
+   "sender": "שלומי",
+   "text": "",
+   "ts": 1790166585000,
+   "date": "2026-09-23",
+   "time": "15:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1dua7bkGz0AeVkMAmdCHD5U_vrJLmtcfX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dua7bkGz0AeVkMAmdCHD5U_vrJLmtcfX&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mzky-hrbym-wnwv57/v/2026-09/AC3080D1982DA5C54DC874C0128D72AE_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972524666606"
+  },
+  {
+   "id": "AC4DA51EA0026E4D0881270AD3B38A44",
+   "sender": ".",
+   "text": "יש למישהו מנגינה של ושמחת בחגך בלי זכויות יוצרים?🙏🏽",
+   "ts": 1790167303000,
+   "date": "2026-09-23",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "phone": "972503611268"
+  }
+ ]
+}

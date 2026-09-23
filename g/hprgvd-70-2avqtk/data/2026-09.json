@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T12:34:51.822Z",
+ "updated": "2026-09-23T12:43:51.964Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -5448,6 +5448,25 @@
      "path": "https://drive.google.com/file/d/1m22cEd784RxAt6qzsvD521uIyYhjJnId/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1m22cEd784RxAt6qzsvD521uIyYhjJnId&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB09A8E40A5BF2F1EEE9D",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: סוכה בארה\"ב שהיא מיצג על הפגנות הקנאים\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790167417000,
+   "date": "2026-09-23",
+   "time": "15:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "6.3MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
