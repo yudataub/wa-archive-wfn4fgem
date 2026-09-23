@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T07:51:15.250Z",
+ "updated": "2026-09-23T08:24:46.065Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2414,6 +2414,70 @@
    "files": [],
    "drive": null,
    "phone": "972509040481"
+  },
+  {
+   "id": "A5847E759232B399C4A0EE28BA98D310",
+   "sender": "r.z",
+   "text": "משהו יודע עמה עולה לתקן פנצ'ר בחנות ליד הכל למשפץ ?",
+   "ts": 1790151576000,
+   "date": "2026-09-23",
+   "time": "11:19",
+   "files": [],
+   "drive": null,
+   "phone": "972533114733"
+  },
+  {
+   "id": "AC041A3DEDF8633458E743CE43FF42CD",
+   "sender": "אבי בן שמעון",
+   "text": "לא ממומלץ",
+   "ts": 1790151827000,
+   "date": "2026-09-23",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972502327724"
+  },
+  {
+   "id": "A5B88D2CCD0C78E2EF5904C404CA19FA",
+   "sender": "יוסף ישראל",
+   "text": "זמינים גם בווצאפ 0559503426✅",
+   "ts": 1790151828000,
+   "date": "2026-09-23",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "293KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EN0_QrGMKXVVpnGXyKWcICvW7nNtB2ne/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EN0_QrGMKXVVpnGXyKWcICvW7nNtB2ne&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559503426"
+  },
+  {
+   "id": "AC7759216552AD8A3ABEDB74D25F9B00",
+   "sender": "מוטי",
+   "text": "40",
+   "ts": 1790151838000,
+   "date": "2026-09-23",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972587151984"
+  },
+  {
+   "id": "AC5C28284A6AEDE4519850D9C6E047FE",
+   "sender": "טליה מיינר",
+   "text": "נדמה לי 50שח\nאם בחוץ באזור התעשיה רכסים",
+   "ts": 1790151879000,
+   "date": "2026-09-23",
+   "time": "11:24",
+   "files": [],
+   "drive": null,
+   "phone": "972505315633"
   }
  ]
 }
