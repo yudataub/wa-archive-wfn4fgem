@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-23T05:19:46.016Z",
+ "updated": "2026-09-23T08:28:46.303Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -341,6 +341,37 @@
    ],
    "drive": null,
    "phone": "972507225762"
+  },
+  {
+   "id": "ACF5FA2093FCAF700DB9EA7D4857EE80",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1790152103000,
+   "date": "2026-09-23",
+   "time": "11:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JGovHInoFYEon2FoL9ipQUJQpZSr8nYj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JGovHInoFYEon2FoL9ipQUJQpZSr8nYj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC5CC0AA80C184C556320BD42112B06C",
+   "sender": "איריס בר טל",
+   "text": "יש סוכה גדולה ,פנוי מיום ראשון של חול המועד",
+   "ts": 1790152109000,
+   "date": "2026-09-23",
+   "time": "11:28",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
   }
  ]
 }
