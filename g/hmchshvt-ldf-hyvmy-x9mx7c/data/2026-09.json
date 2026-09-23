@@ -1,0 +1,47 @@
+{
+ "month": "2026-09",
+ "group": "המחשות לדף היומי",
+ "updated": "2026-09-23T03:54:20.643Z",
+ "messages": [
+  {
+   "id": "3A9DB1046DC97376E098",
+   "sender": ".",
+   "text": "״פירש בערוך חמור מצרי״ (תוס׳ בכורות ה, ב).",
+   "ts": 1790135631000,
+   "date": "2026-09-23",
+   "time": "06:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "126KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_HbaqEhKJABwbz1O2kWRHpfDwUlw3zP1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_HbaqEhKJABwbz1O2kWRHpfDwUlw3zP1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2561E9A884EC4CD03E",
+   "sender": ".",
+   "text": "״פטרי סוסים וגמלים״ (בכורות ה, ב).",
+   "ts": 1790135632000,
+   "date": "2026-09-23",
+   "time": "06:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GKiFmWDV1bzYvD4vnOkfpqkjX9rzPvQW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GKiFmWDV1bzYvD4vnOkfpqkjX9rzPvQW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  }
+ ]
+}
