@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T18:52:32.738Z",
+ "updated": "2026-09-23T19:03:37.148Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -5314,6 +5314,26 @@
    "files": [],
    "drive": null,
    "phone": "972504247737"
+  },
+  {
+   "id": "ACE4BA2815916BBB9E40AAEE72B40D67",
+   "sender": "ברכה צדוק",
+   "text": "",
+   "ts": 1790190207000,
+   "date": "2026-09-23",
+   "time": "22:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t2MNcYc8XTH87hXagMVsx6tWLBYaG_tU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t2MNcYc8XTH87hXagMVsx6tWLBYaG_tU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506255910"
   }
  ]
 }
