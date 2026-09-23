@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T15:12:14.612Z",
+ "updated": "2026-09-23T15:22:47.442Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -3294,6 +3294,106 @@
    ],
    "drive": null,
    "phone": "972533168397"
+  },
+  {
+   "id": "AC200CC1232DA3D0643A242956D2D642",
+   "sender": "Chaim Harris",
+   "text": "למסירה 0527147619 איּם משכוף",
+   "ts": 1790176879000,
+   "date": "2026-09-23",
+   "time": "18:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mMcbBwvtuD98E2ugd5baj1h_YAZuieaI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mMcbBwvtuD98E2ugd5baj1h_YAZuieaI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505363619"
+  },
+  {
+   "id": "A504EFFFEEC56ABD48BFD30FD9AE0A40",
+   "sender": "תהילה",
+   "text": "",
+   "ts": 1790176895000,
+   "date": "2026-09-23",
+   "time": "18:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1feTvA68W1wBgJ8OMvhogaDkxk0lsJTuc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1feTvA68W1wBgJ8OMvhogaDkxk0lsJTuc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555530993"
+  },
+  {
+   "id": "A57B9C9653ED7CFBE8008C88F23F54F1",
+   "sender": "תהילה",
+   "text": "",
+   "ts": 1790176906000,
+   "date": "2026-09-23",
+   "time": "18:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "173KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19HRGLJ-QtsIgv8lxga47j4k9IZJPKwbE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19HRGLJ-QtsIgv8lxga47j4k9IZJPKwbE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555530993"
+  },
+  {
+   "id": "A59461FBB415F234F8A8871DF87D6B53",
+   "sender": "תהילה",
+   "text": "",
+   "ts": 1790176931000,
+   "date": "2026-09-23",
+   "time": "18:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eExToNMK9w8B_jhJhqzow23Pl3n2TvPc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eExToNMK9w8B_jhJhqzow23Pl3n2TvPc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555530993"
+  },
+  {
+   "id": "A580506ACACF09F5CF43E3EDFE57C375",
+   "sender": "תהילה",
+   "text": "",
+   "ts": 1790176948000,
+   "date": "2026-09-23",
+   "time": "18:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mircxNtNRdIZXyOOXTGdqguXQh4-r2W1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mircxNtNRdIZXyOOXTGdqguXQh4-r2W1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555530993"
   }
  ]
 }
