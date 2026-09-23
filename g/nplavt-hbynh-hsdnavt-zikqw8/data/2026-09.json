@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-23T10:44:13.071Z",
+ "updated": "2026-09-23T10:57:13.288Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -12,6 +12,26 @@
    "time": "13:43",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "3EB033BF0B9A4F17EA0E44",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "לגבי החלפת התמונות/הסרטונים בתבנית:\nמקש ימני ובחירת החלפה",
+   "ts": 1790161015000,
+   "date": "2026-09-23",
+   "time": "13:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1O_-3WfcN0SKJoBYHVyN_CCPp-WiiK8H9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O_-3WfcN0SKJoBYHVyN_CCPp-WiiK8H9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

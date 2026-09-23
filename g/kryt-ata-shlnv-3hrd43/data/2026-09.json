@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T10:42:43.059Z",
+ "updated": "2026-09-23T10:52:13.215Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4053,6 +4053,37 @@
    ],
    "drive": null,
    "phone": "972502125562"
+  },
+  {
+   "id": "ACC38DE5D6194B559E0449AEB86CBF1B",
+   "sender": "נעמה אזולאי",
+   "text": "",
+   "ts": 1790160466000,
+   "date": "2026-09-23",
+   "time": "13:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "204KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19KrevqIO0OO5DYp18SVGs2l0yfQHuEzo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19KrevqIO0OO5DYp18SVGs2l0yfQHuEzo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559971125"
+  },
+  {
+   "id": "2A35E6789E192255DA7F",
+   "sender": "אמור בן אבגי",
+   "text": "📢📢📢 היום ב 16:30 \n*צריכה מודלסטית ללק ג׳ל בחינם - בפיקוח שלי*\n✨✨✨✨סיום קורס ✨✨✨✨",
+   "ts": 1790160711000,
+   "date": "2026-09-23",
+   "time": "13:51",
+   "files": [],
+   "drive": null,
+   "phone": "972538307001"
   }
  ]
 }

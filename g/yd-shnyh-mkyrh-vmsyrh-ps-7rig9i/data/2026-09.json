@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-23T10:46:13.096Z",
+ "updated": "2026-09-23T10:51:43.200Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -418,6 +418,66 @@
    ],
    "drive": null,
    "phone": "972526784591"
+  },
+  {
+   "id": "AC25C28BFD9E433D696E68F2F77E7D9C",
+   "sender": "אילנה",
+   "text": "",
+   "ts": 1790160622000,
+   "date": "2026-09-23",
+   "time": "13:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "266KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MglEhieg-DKc6WHeFfMuoijEk8eUM9Lv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MglEhieg-DKc6WHeFfMuoijEk8eUM9Lv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544595587"
+  },
+  {
+   "id": "AC7FB29B0C626D785CC1FE4DDFD8071D",
+   "sender": "אילנה",
+   "text": "חצאית חדשה , \n100 שח קרית ים.",
+   "ts": 1790160622000,
+   "date": "2026-09-23",
+   "time": "13:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "368KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mZh8uB-gKjYJrVFGZdkQdIMrhVKrUWP4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mZh8uB-gKjYJrVFGZdkQdIMrhVKrUWP4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544595587"
+  },
+  {
+   "id": "ACFEFA2A35CA00D6EE1C64FFF3C07D19",
+   "sender": "אילנה",
+   "text": "חצאית מרנואר מידה 36 \n50שח",
+   "ts": 1790160677000,
+   "date": "2026-09-23",
+   "time": "13:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uOiq3EPWNci4_Sd1C0ljlzNmbY5V1UTk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uOiq3EPWNci4_Sd1C0ljlzNmbY5V1UTk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544595587"
   }
  ]
 }
