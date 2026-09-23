@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T08:47:16.657Z",
+ "updated": "2026-09-23T08:57:16.167Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2538,6 +2538,57 @@
    ],
    "drive": null,
    "phone": "972504159851"
+  },
+  {
+   "id": "3AB312F7809EA13EE321",
+   "sender": "💕הדר אלבז💕",
+   "text": "",
+   "ts": 1790153616000,
+   "date": "2026-09-23",
+   "time": "11:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18iER2CCb3SsI3ksnmE3NIinE2pAiugnR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18iER2CCb3SsI3ksnmE3NIinE2pAiugnR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506689516"
+  },
+  {
+   "id": "A597A62FECAA939B4B19C5EC8F89C8A0",
+   "sender": "הפינה של שלומי",
+   "text": "לפרטים אוריאל 0583242167",
+   "ts": 1790153686000,
+   "date": "2026-09-23",
+   "time": "11:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19nymg9Dmwx3inGJ5x9uQkwcnL3PnOtfx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19nymg9Dmwx3inGJ5x9uQkwcnL3PnOtfx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525422265"
+  },
+  {
+   "id": "AC3805DF6635ABA5798D93B0CAA64E7A",
+   "sender": "יוסי מוזס",
+   "text": "צומת רכסים סמויה",
+   "ts": 1790153814000,
+   "date": "2026-09-23",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
   }
  ]
 }

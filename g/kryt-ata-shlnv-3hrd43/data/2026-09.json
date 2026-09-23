@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T08:44:46.666Z",
+ "updated": "2026-09-23T08:49:46.065Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -3694,6 +3694,37 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "AC1A32AD2C16629EF5290C9A24F0201E",
+   "sender": "רפאל כהן",
+   "text": "",
+   "ts": 1790153241000,
+   "date": "2026-09-23",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "334KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rwokNMyt_wlXlvG7fXKLdCHTDWy_sgAP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rwokNMyt_wlXlvG7fXKLdCHTDWy_sgAP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544670524"
+  },
+  {
+   "id": "ACA7FF24CF7B83458C3E68DF56BCFA2B",
+   "sender": "סיון אבישג",
+   "text": "*אשמח לשותפים בתרומת 1000 ₪*\nלקניית הפתעות ושקיות לילדים מתוקים להקפות שניות \n💙\n📲 *ביט* - 0548200009\n\n🔗 *לתרומה בביט או באשראי*\nhttps://did.li/Hashemhafakot-bit-visa\n\n👈  *לתרומה בהעברה בנקאית:*\nה הפקות | בנק מזרחי | סניף 523 | חשבון 231981\n\n*ה' הפקות* הכל מאיתו יתברך👆",
+   "ts": 1790153378000,
+   "date": "2026-09-23",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972505939334"
   }
  ]
 }

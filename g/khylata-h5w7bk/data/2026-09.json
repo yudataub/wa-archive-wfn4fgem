@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-23T07:20:37.275Z",
+ "updated": "2026-09-23T08:52:16.076Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -836,6 +836,37 @@
    "files": [],
    "drive": null,
    "phone": "972546225644"
+  },
+  {
+   "id": "AC62ABE314C3CB633E9D47116D453BE8",
+   "sender": "סיון אבישג",
+   "text": "*אשמח לשותפים בתרומת 1000 ₪*\nלקניית הפתעות ושקיות לילדים מתוקים להקפות שניות \n💙\n📲 *ביט* - 0548200009\n\n🔗 *לתרומה בביט או באשראי*\nhttps://did.li/Hashemhafakot-bit-visa\n\n👈  *לתרומה בהעברה בנקאית:*\nה הפקות | בנק מזרחי | סניף 523 | חשבון 231981\n\n*ה' הפקות* הכל מאיתו יתברך👆",
+   "ts": 1790153374000,
+   "date": "2026-09-23",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972505939334"
+  },
+  {
+   "id": "AC8D0C8D701E090418CDE700AE5A23BB",
+   "sender": "אפרת ברבי",
+   "text": "לקוחות יקרים,\nשימו לב💙 \n\nלהצטרפות לקבוצות המבצעים: https://netto-chisachon.toshavil.co.il/",
+   "ts": 1790153506000,
+   "date": "2026-09-23",
+   "time": "11:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "205KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zs5OMIfN4q2a6ClHO1gu8nhO3SjLoCOm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zs5OMIfN4q2a6ClHO1gu8nhO3SjLoCOm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528762156"
   }
  ]
 }
