@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-23T09:20:16.658Z",
+ "updated": "2026-09-23T11:39:15.699Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -246,6 +246,26 @@
    "files": [],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "A539F3CAB075133E22B3E7F0C658ECCF",
+   "sender": "אליהו סרוסי",
+   "text": "מחפשים מתנה יהודית מיוחדת עם משמעות?\n\nאיגרת הרמב״ן למכירה – בעיצוב אמנותי ומרשים, מתאימה לבית, למשרד ולמתנה יוקרתית.\n\nמבית מכון הסת״ם כְּתָרִים עִם אוֹתִיּוֹת\nלהזמנות: 050-3004242\n\n *אפשרות למסגרת זכוכית בתוספת תשלום*",
+   "ts": 1790163524000,
+   "date": "2026-09-23",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/150F1ODVsTP5A1XnCQ8svPwhTNx7OIwQb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=150F1ODVsTP5A1XnCQ8svPwhTNx7OIwQb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503004242"
   }
  ]
 }

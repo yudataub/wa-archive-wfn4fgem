@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "עדכוני הקהילה – חב\"ד ק. אתא והסביבה",
- "updated": "2026-09-22T06:23:31.955Z",
+ "updated": "2026-09-23T11:47:45.841Z",
  "messages": [
   {
    "id": "ACF3FD8539DA5F789351D23511DD5F1F",
@@ -49,6 +49,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "ACCF5430A598BAFA8E3C73720542C464",
+   "sender": "Yosi Mor",
+   "text": "📣 דרושות: *סייעות*\nלצהרון בנים וצהרון בנות\nשל גני חב\"ד קרית אתא\n\n _לפרטים נוספים:_  הרב יצחק וייסגלס, 052-377-2770 ☎️\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1790164045000,
+   "date": "2026-09-23",
+   "time": "14:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ar90ee9Zy1UqbeLDXk4fihgMkHtzxTW9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ar90ee9Zy1UqbeLDXk4fihgMkHtzxTW9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545707911"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-23T07:06:37.003Z",
+ "updated": "2026-09-23T11:39:45.715Z",
  "messages": [
   {
    "id": "ACB3991222C2529A1206158E73AAAD52",
@@ -104,6 +104,26 @@
    ],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "A5B9682984BB4B99192AC5D2055B6B93",
+   "sender": "אליהו סרוסי",
+   "text": "מחפשים מתנה יהודית מיוחדת עם משמעות?\n\nאיגרת הרמב״ן למכירה – בעיצוב אמנותי ומרשים, מתאימה לבית, למשרד ולמתנה יוקרתית.\n\nמבית מכון הסת״ם כְּתָרִים עִם אוֹתִיּוֹת\nלהזמנות: 050-3004242\n\n *אפשרות למסגרת זכוכית בתוספת תשלום*",
+   "ts": 1790163558000,
+   "date": "2026-09-23",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ht9JE6UXTYdmyQsMstJxDkH3QBHghlMr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ht9JE6UXTYdmyQsMstJxDkH3QBHghlMr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503004242"
   }
  ]
 }

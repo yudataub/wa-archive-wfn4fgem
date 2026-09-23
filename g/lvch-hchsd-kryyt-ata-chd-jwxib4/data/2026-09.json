@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T11:31:45.593Z",
+ "updated": "2026-09-23T11:39:15.712Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2183,6 +2183,26 @@
    "files": [],
    "drive": null,
    "phone": "972532262097"
+  },
+  {
+   "id": "A579AE908F53DDDAB937B12BEB7FF3E2",
+   "sender": "אליהו סרוסי",
+   "text": "מחפשים מתנה יהודית מיוחדת עם משמעות?\n\nאיגרת הרמב״ן למכירה – בעיצוב אמנותי ומרשים, מתאימה לבית, למשרד ולמתנה יוקרתית.\n\nמבית מכון הסת״ם כְּתָרִים עִם אוֹתִיּוֹת\nלהזמנות: 050-3004242\n\n *אפשרות למסגרת זכוכית בתוספת תשלום*",
+   "ts": 1790163532000,
+   "date": "2026-09-23",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HdBZz6aZVwi-h169yMMG7nkiTDpAjlUn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HdBZz6aZVwi-h169yMMG7nkiTDpAjlUn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503004242"
   }
  ]
 }

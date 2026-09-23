@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-23T11:24:15.490Z",
+ "updated": "2026-09-23T11:46:45.831Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -429,6 +429,79 @@
    ],
    "drive": null,
    "phone": "972535473225"
+  },
+  {
+   "id": "A557602963F0ED0BF4049C071DEB9E20",
+   "sender": "אליהו סרוסי",
+   "text": "מחפשים מתנה יהודית מיוחדת עם משמעות?\n\nאיגרת הרמב״ן למכירה – בעיצוב אמנותי ומרשים, מתאימה לבית, למשרד ולמתנה יוקרתית.\n\nמבית מכון הסת״ם כְּתָרִים עִם אוֹתִיּוֹת\nלהזמנות: 050-3004242\n\n *אפשרות למסגרת זכוכית בתוספת תשלום*",
+   "ts": 1790163532000,
+   "date": "2026-09-23",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JWaZTGwpBQg7nye-q5cL71xLtfSO_5yp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JWaZTGwpBQg7nye-q5cL71xLtfSO_5yp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503004242"
+  },
+  {
+   "id": "AC75C3593837DCBC9BCCF5ACB035FF67",
+   "sender": "נריה ממן",
+   "text": "מושקע ויפה 👑",
+   "ts": 1790163928000,
+   "date": "2026-09-23",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "A5B93245A2DC53CED1EB9DAAB3479BD6",
+   "sender": "אליהו סרוסי",
+   "text": "",
+   "ts": 1790163939000,
+   "date": "2026-09-23",
+   "time": "14:45",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "14KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Uv5DpjBCYkHPBhcRov9NE7Z2NiyAnVog/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Uv5DpjBCYkHPBhcRov9NE7Z2NiyAnVog&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503004242"
+  },
+  {
+   "id": "ACCC2BF94C5C9708428D7E47102D8C0F",
+   "sender": "נריה ממן",
+   "text": "אולי יש גמח \nלכמה אנשים זה",
+   "ts": 1790163953000,
+   "date": "2026-09-23",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "AC89FB3A0D46A9F2C54616155C39A631",
+   "sender": "מיכל",
+   "text": "1",
+   "ts": 1790164004000,
+   "date": "2026-09-23",
+   "time": "14:46",
+   "files": [],
+   "drive": null,
+   "phone": "972547029885"
   }
  ]
 }
