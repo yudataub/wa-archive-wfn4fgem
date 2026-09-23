@@ -95,11 +95,6 @@ border-radius:10px;padding:10px 12px;margin-top:8px}
  </div>
  <div id="glist"></div>
  <div class="hint" id="gsum" style="margin-top:6px"></div>
- <div class="row" style="margin-top:10px">
-  <input type="text" id="gsName" placeholder="שם לקבוצות שנבחרו… (למשל: כיתות הלכה)" style="flex:1;min-width:170px">
-  <button class="btn primary" id="gsSave">שמור בחירה</button>
- </div>
- <div id="gsList"></div>
 </section>
 
 <section class="pane" id="pOpts" hidden>
@@ -144,12 +139,6 @@ border-radius:10px;padding:10px 12px;margin-top:8px}
   <button class="btn" id="oReset">איפוס</button>
   <span class="hint" id="oDefMsg"></span>
  </div>
- <div class="row" style="border-top:1px solid var(--line);padding-top:10px;margin-top:10px">
-  <input type="text" id="prName" placeholder="שם לסוג החיפוש… (למשל: מדויק / רחב)" style="flex:1;min-width:170px">
-  <button class="btn primary" id="prSave">שמור סוג חיפוש</button>
- </div>
- <div id="prList"></div>
- <div class="hint" style="margin-top:4px">סוג חיפוש שומר רק את <b>איך</b> מחפשים (הטיות, כתיב, מרווח, מיון, מילות הוצאה) — לא את מילות החיפוש ולא את הקבוצות.</div>
 </section>
 
 <section class="pane" id="pSaved" hidden>
@@ -402,46 +391,6 @@ el("oReset").addEventListener("click",function(){
  OPT={inflect:true,spell:false,gap:"any",near:5,sort:"new",groups:[],from:"",to:"",exclude:""};
  optsToForm();buildGroups();render(true);});
 
-// ---- רשימות בשם: ערכות קבוצות וסוגי חיפוש ----
-// שלושה דברים נפרדים בכוונה: "ערכת קבוצות" = אילו קבוצות, "סוג חיפוש" = איך מחפשים,
-// "חיפוש שמור" = שניהם יחד עם מילות החיפוש עצמן.
-function namedList(key){return {
- all:function(){return lsGet(key,[]);},
- add:function(name,value){var l=this.all();l.push({name:name,value:value});lsSet(key,l);},
- del:function(i){var l=this.all();l.splice(i,1);lsSet(key,l);}};}
-var GSETS=namedList("waSearchGroupSets"),PROFILES=namedList("waSearchProfiles");
-function chipsHtml(list,empty){
- return list.length?list.map(function(s,i){
-  return '<span class="savedchip"><button class="go" data-i="'+i+'">'+esc(s.name)+'</button>'+
-   '<button data-del="'+i+'" title="מחיקה">✕</button></span>';}).join("")
-  :'<div class="hint">'+empty+'</div>';}
-// לחיצה על צ'יפ: data-i = טעינה, data-del = מחיקה
-function chipClicks(boxId,store,onLoad,redraw){
- el(boxId).addEventListener("click",function(e){
-  var i=e.target.getAttribute("data-i"),d=e.target.getAttribute("data-del");
-  if(d!==null&&d!==undefined){store.del(Number(d));redraw();return;}
-  if(i!==null&&i!==undefined){var s=store.all()[Number(i)];if(s)onLoad(s.value);}});}
-
-function drawGSets(){el("gsList").innerHTML=chipsHtml(GSETS.all(),"לא שמרת עדיין ערכות קבוצות.");}
-el("gsSave").addEventListener("click",function(){
- var name=(el("gsName").value||"").trim();
- if(!name){el("gsName").focus();return;}
- GSETS.add(name,OPT.groups.slice());
- el("gsName").value="";drawGSets();});
-chipClicks("gsList",GSETS,function(v){
- OPT.groups=Array.isArray(v)?v.slice():[];
- buildGroups();render(true);},drawGSets);
-
-function drawProfiles(){el("prList").innerHTML=chipsHtml(PROFILES.all(),"לא שמרת עדיין סוגי חיפוש.");}
-el("prSave").addEventListener("click",function(){
- var name=(el("prName").value||"").trim();
- if(!name){el("prName").focus();return;}
- PROFILES.add(name,{inflect:OPT.inflect,spell:OPT.spell,gap:OPT.gap,near:OPT.near,sort:OPT.sort,exclude:OPT.exclude});
- el("prName").value="";drawProfiles();});
-chipClicks("prList",PROFILES,function(v){
- Object.keys(v||{}).forEach(function(k){OPT[k]=v[k];});
- TOK=[];optsToForm();render(true);},drawProfiles);
-
 // ---- חיפושים שמורים + קישור ----
 function saveHash(){
  var s={q:q.value,o:OPT};
@@ -554,7 +503,7 @@ fetch("data/index.json?t="+Date.now()).then(function(r){
   var def=lsGet("waSearchDefault",null);
   if(def)Object.keys(def).forEach(function(k){OPT[k]=def[k];});
   loadHash();                      // קישור משותף גובר על ברירת המחדל
-  optsToForm();buildGroups();drawSaved();drawGSets();drawProfiles();q.focus();
+  optsToForm();buildGroups();drawSaved();q.focus();
   var done=0;
   return Promise.all(months.map(function(mo){
    return fetch("data/"+encodeURIComponent(mo)+".json").then(function(r){return r.ok?r.json():[];})
