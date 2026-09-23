@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T20:26:44.056Z",
+ "updated": "2026-09-23T20:37:24.138Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -7030,6 +7030,25 @@
      "path": "https://drive.google.com/file/d/1ARAxFOTaU2m0__TJEo_SFL7uiaudolpP/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ARAxFOTaU2m0__TJEo_SFL7uiaudolpP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB04E2F7B0E6682716153",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: יוסי דגן וישראל גנץ בבית החולים בי-ם: ״דורשים מהממשלה תגובה נחושה – לשנות את המציאות הביטחונית״\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790195815000,
+   "date": "2026-09-23",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "12.7MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
