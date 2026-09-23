@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T06:12:43.968Z",
+ "updated": "2026-09-23T06:37:14.466Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -4529,6 +4529,46 @@
      "path": "https://drive.google.com/file/d/10tJlCXSJjbuJLAt-3KOIYKlqI6ZBmJTy/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=10tJlCXSJjbuJLAt-3KOIYKlqI6ZBmJTy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0A5C33E5F491573C98A",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: מענק לחגי תשרי.\nמרן הרב אלבז שלח לכל אלפי האברכים שלו בונוס אלף שקל לחג\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790145151000,
+   "date": "2026-09-23",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gM3dky7JoSdm3D_RrH3CbH27MOGfM4aR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gM3dky7JoSdm3D_RrH3CbH27MOGfM4aR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0C98A71D599A41E250C",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הראב\"ד הגר\"י סילמן בבדיקת \"חוט המקיף\" בהדסים\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790145412000,
+   "date": "2026-09-23",
+   "time": "09:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "345KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10HRHuYFB_mL9-roUqU3-ttw3sdQwN8tu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10HRHuYFB_mL9-roUqU3-ttw3sdQwN8tu&sz=w1200"
     }
    ],
    "drive": null,
