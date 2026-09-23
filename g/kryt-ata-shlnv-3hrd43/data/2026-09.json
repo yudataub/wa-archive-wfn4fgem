@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-22T23:25:43.412Z",
+ "updated": "2026-09-23T04:11:18.942Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2829,6 +2829,37 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "ACA2BB7EA39FDBA849ABD14CF98456F3",
+   "sender": "ברכה צדוק",
+   "text": "",
+   "ts": 1790136549000,
+   "date": "2026-09-23",
+   "time": "07:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "309KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12-jPuTejf5GeCpZbRB5jXXU8X-MleIuF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12-jPuTejf5GeCpZbRB5jXXU8X-MleIuF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506255910"
+  },
+  {
+   "id": "A58A7F1F665FAE21B48DA852058363C5",
+   "sender": "אורית החלקות שיער",
+   "text": "🚕 *קבוצת מוניות*\n\nמחפשים מונית? צריכים נסיעה מהירה ונוחה? במחירים זולים?\nהצטרפו לקבוצה ותמצאו נהגים באזור בקלות!\n\n👇 להצטרפות:",
+   "ts": 1790136672000,
+   "date": "2026-09-23",
+   "time": "07:11",
+   "files": [],
+   "drive": null,
+   "phone": "972559593991"
   }
  ]
 }
