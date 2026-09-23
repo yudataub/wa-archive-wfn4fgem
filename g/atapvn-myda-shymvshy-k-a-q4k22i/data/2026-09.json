@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-23T08:44:16.609Z",
+ "updated": "2026-09-23T09:13:46.506Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -561,6 +561,26 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "3EB0CD837AE559D6963B13",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "הכן עסקך לחורף\n*בעל הבית השתגע*\nחבילת פרסום מטורפת \nלאחרי החגים \n*9+3 עמודים במתנה*\n\n*לסוגרים לפני החג\n\nנצלו את ההזדמנות \nימים אחרונים למבצע\n\n0552537332",
+   "ts": 1790154815000,
+   "date": "2026-09-23",
+   "time": "12:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "420KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_fgFf6cXPFUx6WOqOiBXpkBsCJU5aBw7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_fgFf6cXPFUx6WOqOiBXpkBsCJU5aBw7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
   }
  ]
 }

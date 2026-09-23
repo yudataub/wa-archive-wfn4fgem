@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T08:11:45.723Z",
+ "updated": "2026-09-23T09:15:46.532Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -1975,6 +1975,66 @@
    ],
    "drive": null,
    "phone": "972526303010"
+  },
+  {
+   "id": "3EB058EBAE18B8ADDB205E",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "הכן עסקך לחורף\n*בעל הבית השתגע*\nחבילת פרסום מטורפת \nלאחרי החגים \n*9+3 עמודים במתנה*\n\n*לסוגרים לפני החג\n\nנצלו את ההזדמנות \nימים אחרונים למבצע\n\n0552537332",
+   "ts": 1790154840000,
+   "date": "2026-09-23",
+   "time": "12:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "420KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11eL3s1nE5lOJqCJQQBoeN-agk6w17j3W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11eL3s1nE5lOJqCJQQBoeN-agk6w17j3W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
+  },
+  {
+   "id": "3AE35C04FCDD83B47F31",
+   "sender": "אסתר ברדה",
+   "text": "*מארחים או מתארחים בסוכה?*\nאל תגיעו בידיים ריקות!\n\nשימו לב: ניתן להזמין עד מחר בשעה 16:00 בלבד!\n\nלהזמנות -055-2801359",
+   "ts": 1790154924000,
+   "date": "2026-09-23",
+   "time": "12:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AzqBR5sEkqT1S4GtB2Q06Hw7t2s68CD0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AzqBR5sEkqT1S4GtB2Q06Hw7t2s68CD0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
+  },
+  {
+   "id": "3AD28E7EE8834DCC790D",
+   "sender": "אסתר ברדה",
+   "text": "*חוגגים אירוע בסוכה?*\n\nקאייק פירות מפנק שמקפיץ כל אירוע!🥭🍇🥝\n\nשפע של פירות טריים, חיתוך מוקפד ועיצוב מטורף שכולם בסוכה יצלמו!📷",
+   "ts": 1790154928000,
+   "date": "2026-09-23",
+   "time": "12:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "297KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12VL6wUdJwArJFxLr5s8VG7K6iWDX1SOr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12VL6wUdJwArJFxLr5s8VG7K6iWDX1SOr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
   }
  ]
 }
