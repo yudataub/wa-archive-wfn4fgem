@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T18:40:02.424Z",
+ "updated": "2026-09-23T18:49:32.705Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -3941,6 +3941,26 @@
    "date": "2026-09-23",
    "time": "21:39",
    "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "A53485303981F19BFDE2937F40C37CFB",
+   "sender": "מאיר מוגרבי",
+   "text": "",
+   "ts": 1790189366000,
+   "date": "2026-09-23",
+   "time": "21:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ipM6_EIS0Le9I6bGGfDmAExMhRKFXQJS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ipM6_EIS0Le9I6bGGfDmAExMhRKFXQJS&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546084870"
   }
