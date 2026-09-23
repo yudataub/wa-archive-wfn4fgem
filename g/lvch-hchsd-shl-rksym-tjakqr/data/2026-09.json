@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-23T18:57:32.858Z",
+ "updated": "2026-09-23T19:20:07.451Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2587,6 +2587,26 @@
    "files": [],
    "drive": null,
    "phone": "972527986846"
+  },
+  {
+   "id": "ACC3EA7677C740242B24529C51EF04E2",
+   "sender": "יצחק חדד",
+   "text": "חברי הקבוצה היקרים,\nמחר תתקיים חלוקה של תמונות יפות לסוכה שהגיעו מהמטה.\nהחלוקה תיערך במוקדים הבאים:\n * בית כנסת אור דוד (הרב חיאק)\n * בית כנסת מעוז התורה, גבעה ג'\nבין השעות 08:30 ל-11:30 בבוקר.\nכולם מוזמנים לבוא ולקחת.\nחג שמח!",
+   "ts": 1790191199000,
+   "date": "2026-09-23",
+   "time": "22:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sYo8zVAef7tJ4mGGbddEWS7UYVOC-ezp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sYo8zVAef7tJ4mGGbddEWS7UYVOC-ezp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546377391"
   }
  ]
 }

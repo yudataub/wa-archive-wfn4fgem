@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-23T18:55:02.782Z",
+ "updated": "2026-09-23T19:24:37.548Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -2209,6 +2209,92 @@
    "files": [],
    "drive": null,
    "phone": "972533890390"
+  },
+  {
+   "id": "ACE8C4D8EC6C50333E556DCA2B47E5C5",
+   "sender": "עידו שמואל אפטר",
+   "text": "שלום קניתי את החוט הזה (חוט שפגט) האם אני יכול לקשור איתו את הסכך במקום שהרוח תמיד חזקה (זה שנה ראשונה שלנו כאן)",
+   "ts": 1790191256000,
+   "date": "2026-09-23",
+   "time": "22:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11pXXuLVh25WUAA2RnYhSOTlPhpeexaEz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11pXXuLVh25WUAA2RnYhSOTlPhpeexaEz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527008202"
+  },
+  {
+   "id": "ACF576FBC1A981AE3416CEFD118E1330",
+   "sender": "דוד אקא",
+   "text": "מצוין",
+   "ts": 1790191271000,
+   "date": "2026-09-23",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC23733AD777564A734D3A6778264F83",
+   "sender": "עידו שמואל אפטר",
+   "text": "גם כשיש רוח חזקה תדיר?",
+   "ts": 1790191350000,
+   "date": "2026-09-23",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972527008202"
+  },
+  {
+   "id": "AC9097F5325056FC41AE5A3321B942F6",
+   "sender": "דוד אקא",
+   "text": "נכון",
+   "ts": 1790191370000,
+   "date": "2026-09-23",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "ACCD9D5CD3441A9C321206FC2A63BE24",
+   "sender": "עידו שמואל אפטר",
+   "text": "חסד השם תודה ברוך תהיה חג שמח",
+   "ts": 1790191394000,
+   "date": "2026-09-23",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527008202"
+  },
+  {
+   "id": "ACF5A680FD43D14186195235F5FD5504",
+   "sender": "Shlomo (Alex) Kakuriev",
+   "text": "היום שמעתי שלא כל חוט פשתן מתאים לקשירת סכך כי היום זה מעובד.. נכון?",
+   "ts": 1790191455000,
+   "date": "2026-09-23",
+   "time": "22:24",
+   "files": [],
+   "drive": null,
+   "phone": "972543100741"
+  },
+  {
+   "id": "AC6EE2E3A7CF88E19CFCA587F1C1DFB4",
+   "sender": "דוד אקא",
+   "text": "לא",
+   "ts": 1790191479000,
+   "date": "2026-09-23",
+   "time": "22:24",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
   }
  ]
 }
