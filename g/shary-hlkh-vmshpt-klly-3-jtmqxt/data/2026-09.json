@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-23T09:00:46.241Z",
+ "updated": "2026-09-23T11:11:13.509Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -1818,6 +1818,48 @@
    "files": [],
    "drive": null,
    "phone": "972507717191"
+  },
+  {
+   "id": "AC3A744433B88BC576FAE6E33552A40F",
+   "sender": "נטע הודיה שורץ",
+   "text": "",
+   "ts": 1790161833000,
+   "date": "2026-09-23",
+   "time": "14:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a7oapJ1pinugNaMAvKBhpHTfe51ujMej/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a7oapJ1pinugNaMAvKBhpHTfe51ujMej&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547678713"
+  },
+  {
+   "id": "AC8DDB41BB2DCDA87B46EFE7803727FA",
+   "sender": "נטע הודיה שורץ",
+   "text": "אשמח לדעת אם שמים חבל על איפה שמסומן קו הפרדה לבן זה מכשיר את הסוכה ?",
+   "ts": 1790161845000,
+   "date": "2026-09-23",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "phone": "972547678713"
+  },
+  {
+   "id": "ACDAD881D68F3EE177DEA0CB9EBAEFA8",
+   "sender": "נטע הודיה שורץ",
+   "text": "אם לא איך יהיה שהסוכה תהיה כשרה",
+   "ts": 1790161866000,
+   "date": "2026-09-23",
+   "time": "14:11",
+   "files": [],
+   "drive": null,
+   "phone": "972547678713"
   }
  ]
 }
