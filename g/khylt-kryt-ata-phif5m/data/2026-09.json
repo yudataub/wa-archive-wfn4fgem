@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-23T15:25:56.240Z",
+ "updated": "2026-09-23T15:30:26.303Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -865,6 +865,26 @@
    ],
    "drive": null,
    "phone": "972544814659"
+  },
+  {
+   "id": "AC7E45394A345B7F1D55759F93CDC2BD",
+   "sender": "רתם  🙏🏼",
+   "text": "דמיינו את עצמכם עם כוס יין ביד 🥂\nשקיעה מול העיניים ומוזיקה נעימה בגן אירועים עוצר נשימה!\nפסטיבל היין הגדול בישראל חוזר בחג סוכות הקרוב 🍷🌻\nעשרות יקבים ומבשלות בהגשה חופשית,\nבכל עמדה תפגשו יקבים מגוונים מכל המדינה, מצפון ועד דרום.\nיקבים מכל קצוות העולם וטעמים שאי אפשר לתאר במילים!\nלפרטים וכרטיסים >\nhttps://www.eventer.co.il/event/sukkot_wine2026/SCqYL",
+   "ts": 1790177419000,
+   "date": "2026-09-23",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "351KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aVdq-i4Ze28SsvrKWS9i6D0LlvTaWWj8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aVdq-i4Ze28SsvrKWS9i6D0LlvTaWWj8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549778816"
   }
  ]
 }
