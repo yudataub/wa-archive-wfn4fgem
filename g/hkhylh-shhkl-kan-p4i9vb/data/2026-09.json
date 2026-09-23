@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הקהילה שהכל כאן !!!",
- "updated": "2026-09-23T01:29:12.865Z",
+ "updated": "2026-09-23T02:14:13.576Z",
  "messages": [
   {
    "id": "A58A112CCF15C442E571C8544837F000",
@@ -140,6 +140,26 @@
    "files": [],
    "drive": null,
    "phone": "972552617532"
+  },
+  {
+   "id": "ACD4744D34BAC0124D531CA746E35397",
+   "sender": "הכל ממנו והכל לטובה🙂🙌🙌",
+   "text": "🛑כינסנו לכם את הקבוצות החזקות לפרסום.\n🛟כנסו ותהנו.❤️‍🔥\n🚀...זריז... לפני שלא ישאר מקום👇🏻👇🏻.........",
+   "ts": 1790129626000,
+   "date": "2026-09-23",
+   "time": "05:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tSqpIWMeSIfUJNueNtNPqsXvcIo7BEqU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tSqpIWMeSIfUJNueNtNPqsXvcIo7BEqU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528331875"
   }
  ]
 }
