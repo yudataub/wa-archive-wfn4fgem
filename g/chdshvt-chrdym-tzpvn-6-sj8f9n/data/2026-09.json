@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-23T16:33:38.304Z",
+ "updated": "2026-09-23T17:07:47.422Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -685,6 +685,26 @@
      "path": "https://drive.google.com/file/d/1ie7za2LhDwEek1i2MjWWPwB2K4ERgxkb/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ie7za2LhDwEek1i2MjWWPwB2K4ERgxkb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A512195B7BCCD04EADF03DB063F4DACA",
+   "sender": "י",
+   "text": "*הגיע לשוק: גדי אייזנקוט הגיע היום וסייר בשוק תלפיות בחיפה*\nאת איזנקוט ליוו דוד עציוני ראש המטה בחיפה וכן ניר שובר, בסיור הוא נכנס לביקור גם במסעדה היהודית \"שטייטל\". בדקות הקרובות אמור איזנקוט להתחיל כנס באודיטוריום חיפה.\n\nלכל העדכונים 👇",
+   "ts": 1790183249000,
+   "date": "2026-09-23",
+   "time": "20:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "375KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oXAcsHm18Dy7m67BclWFmsIMOIgTBXJ6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oXAcsHm18Dy7m67BclWFmsIMOIgTBXJ6&sz=w1200"
     }
    ],
    "drive": null,

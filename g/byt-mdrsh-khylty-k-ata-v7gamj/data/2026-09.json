@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-23T15:26:26.244Z",
+ "updated": "2026-09-23T17:07:47.447Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -277,6 +277,77 @@
    "files": [],
    "drive": null,
    "phone": "972545614454"
+  },
+  {
+   "id": "ACA6F08C42E29ECDCDEAB567FEFCE011",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790183218000,
+   "date": "2026-09-23",
+   "time": "20:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Wk43drN5LnCTYcgvBceEft0LPut8CVBU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wk43drN5LnCTYcgvBceEft0LPut8CVBU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "ACC7269E36A09983B1F52CADD017C1DB",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790183220000,
+   "date": "2026-09-23",
+   "time": "20:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NvQkxBhs1mjtRbPjMNOQT1FmmvFkZhut/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NvQkxBhs1mjtRbPjMNOQT1FmmvFkZhut&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "AC5C619E38636C70E16C65A51925DAEA",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790183260000,
+   "date": "2026-09-23",
+   "time": "20:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "576KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17VWDd3r72PncdRnLjo7W9H1D5eHYBofA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17VWDd3r72PncdRnLjo7W9H1D5eHYBofA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
+  },
+  {
+   "id": "AC9D37FEDE40F8CF34C13940D3F48BE3",
+   "sender": "Avishai Melamed",
+   "text": "ברוכים הבאים",
+   "ts": 1790183264000,
+   "date": "2026-09-23",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "phone": "972547592414"
   }
  ]
 }
