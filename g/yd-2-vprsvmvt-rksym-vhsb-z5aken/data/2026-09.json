@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T16:27:17.297Z",
+ "updated": "2026-09-23T16:35:08.317Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -3485,6 +3485,77 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "3A5F2D7ADFE3AFB4AD74",
+   "sender": "אלעזר בטיטו",
+   "text": "",
+   "ts": 1790180962000,
+   "date": "2026-09-23",
+   "time": "19:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p9lCrJuqClvrzSmCiu7nWKDPCVcqv4Ct/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p9lCrJuqClvrzSmCiu7nWKDPCVcqv4Ct&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549301833"
+  },
+  {
+   "id": "A57BADCF5E190C63A6AFC5359F99459F",
+   "sender": "אין לנו על מי להשען אלא על אבינו שבשמים",
+   "text": "למסירה ארנבת \nפלוס כלוב\n מתקן מים וכו חדש\nרק היום\nכול הקודם זוכה!",
+   "ts": 1790180975000,
+   "date": "2026-09-23",
+   "time": "19:29",
+   "files": [],
+   "drive": null,
+   "phone": "972586868531"
+  },
+  {
+   "id": "3A6566E68033ED72107F",
+   "sender": "אלעזר בטיטו",
+   "text": "",
+   "ts": 1790181003000,
+   "date": "2026-09-23",
+   "time": "19:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1odib1aqQ0u6OO2gq0LnSyIPck_oVKOdY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1odib1aqQ0u6OO2gq0LnSyIPck_oVKOdY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549301833"
+  },
+  {
+   "id": "ACC34057BB64D4EEF1A48560D30C024E",
+   "sender": "שמואל",
+   "text": "מבצע עד החג,בושם חייתי של דובאי 80 שח בלבד במקום 99.",
+   "ts": 1790181298000,
+   "date": "2026-09-23",
+   "time": "19:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Jsiz0dT_xAfFrtE4M426Sgps_0Yv9H1C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Jsiz0dT_xAfFrtE4M426Sgps_0Yv9H1C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
   }
  ]
 }
