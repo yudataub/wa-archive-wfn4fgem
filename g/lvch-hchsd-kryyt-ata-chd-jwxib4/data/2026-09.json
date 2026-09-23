@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T20:18:13.688Z",
+ "updated": "2026-09-23T21:12:51.736Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2636,6 +2636,68 @@
    ],
    "drive": null,
    "phone": "972533302803"
+  },
+  {
+   "id": "AC1E679B38A7078E4F57CD19711937BE",
+   "sender": "רוית נאומה",
+   "text": "אחים יקרים בבקשה תעצרו הכל בבקשה הוא זקוק להרבה הרבה תפילות בע\"ה",
+   "ts": 1790197901000,
+   "date": "2026-09-24",
+   "time": "00:11",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "ACB383D8F3642F36C8B8E8D186B6CE68",
+   "sender": "רוית נאומה",
+   "text": "",
+   "ts": 1790197901000,
+   "date": "2026-09-24",
+   "time": "00:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "416KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1egItOPufW5X80pj5f-3sZ1lljZIe_l5K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1egItOPufW5X80pj5f-3sZ1lljZIe_l5K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC339134E09224B7F2A3551060D3A834",
+   "sender": "רוית נאומה",
+   "text": "",
+   "ts": 1790197902000,
+   "date": "2026-09-24",
+   "time": "00:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "37KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VrOGa6AZhRSuTwbzT3TyPxOaxMUopjh2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VrOGa6AZhRSuTwbzT3TyPxOaxMUopjh2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC9E75146E2E928EDC8579C12F0F303D",
+   "sender": "רוית נאומה",
+   "text": "חברים יקרים סליחה על השעה ,אבל בבקשה כל מי שער תצטרפו לתפילה לרפואת החייל הצדיק שנפצע היום נריה דב בן חנה \n\nתפיצו בכל מקום אפשרי בע\"ה שישוב \nלאיתנו במהרה במהרה",
+   "ts": 1790197962000,
+   "date": "2026-09-24",
+   "time": "00:12",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
   }
  ]
 }
