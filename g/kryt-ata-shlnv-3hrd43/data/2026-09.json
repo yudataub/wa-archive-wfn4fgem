@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T19:46:37.967Z",
+ "updated": "2026-09-23T20:02:13.499Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -5602,6 +5602,26 @@
    "files": [],
    "drive": null,
    "phone": "972584114606"
+  },
+  {
+   "id": "AC978BF594054ADFCCB7A50E7E4EA121",
+   "sender": "שלומית",
+   "text": "",
+   "ts": 1790193710000,
+   "date": "2026-09-23",
+   "time": "23:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dBkocGvlG5E5rNG_S3jujR0DsjFAVyxa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dBkocGvlG5E5rNG_S3jujR0DsjFAVyxa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546742766"
   }
  ]
 }
