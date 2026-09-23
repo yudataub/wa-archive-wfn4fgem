@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T17:02:43.334Z",
+ "updated": "2026-09-23T17:11:17.706Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4799,6 +4799,59 @@
    "files": [],
    "drive": null,
    "phone": "972526388086"
+  },
+  {
+   "id": "A5CBA364BECD8ED9A0D3EF109EA39002",
+   "sender": "עדןמקדם",
+   "text": "📇 חיים מדר זמין\n+972 52-710-5754",
+   "ts": 1790183443000,
+   "date": "2026-09-23",
+   "time": "20:10",
+   "files": [],
+   "drive": null,
+   "phone": "972505522534"
+  },
+  {
+   "id": "A51A41A2D330447872EC1CE8126085F8",
+   "sender": "עדןמקדם",
+   "text": "דברי איתו זה המנהל👆",
+   "ts": 1790183458000,
+   "date": "2026-09-23",
+   "time": "20:10",
+   "files": [],
+   "drive": null,
+   "phone": "972505522534"
+  },
+  {
+   "id": "AC037AC8951DCE17553F6F2DDEA4D945",
+   "sender": "רונן",
+   "text": "",
+   "ts": 1790183458000,
+   "date": "2026-09-23",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "428KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10EOxxJva6UcLdbfkSK3NSgSpITx1SnHn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10EOxxJva6UcLdbfkSK3NSgSpITx1SnHn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504037173"
+  },
+  {
+   "id": "AC363D74E2CF4BB12DBAA4949B6C5970",
+   "sender": "רונן",
+   "text": "30 שטרות ישראל \n700 שח לכולם ניתן לקנות בודדים",
+   "ts": 1790183465000,
+   "date": "2026-09-23",
+   "time": "20:11",
+   "files": [],
+   "drive": null,
+   "phone": "972504037173"
   }
  ]
 }
