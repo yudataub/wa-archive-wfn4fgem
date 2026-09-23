@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T10:52:13.215Z",
+ "updated": "2026-09-23T11:07:13.487Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4084,6 +4084,37 @@
    "files": [],
    "drive": null,
    "phone": "972538307001"
+  },
+  {
+   "id": "AC1BFA93E5F1C0C43A4652FE2493EFAB",
+   "sender": "מורן שושן",
+   "text": "",
+   "ts": 1790161384000,
+   "date": "2026-09-23",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lRQPd9eqf1JQzULdOchcUl4NnbPvRLwd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lRQPd9eqf1JQzULdOchcUl4NnbPvRLwd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524340803"
+  },
+  {
+   "id": "AC51DE57A1134891FB053E6A91CA8DB5",
+   "sender": "המשפחתון של לילך❤️",
+   "text": "מחפשת עובדת רצינית,אחראית ומסורה לעבודה במשפחתון. לפרטים: 0533614260 8:00-14:00",
+   "ts": 1790161630000,
+   "date": "2026-09-23",
+   "time": "14:07",
+   "files": [],
+   "drive": null,
+   "phone": "972533614260"
   }
  ]
 }
