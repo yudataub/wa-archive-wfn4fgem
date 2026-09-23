@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-23T12:42:21.948Z",
+ "updated": "2026-09-23T14:45:17.336Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -498,6 +498,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "3EB07A82B3118858E17E1D",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' של ENVISION עם חיבורי DVI / VGA במצב מצוין. 150 ש\"ח*",
+   "ts": 1790174686000,
+   "date": "2026-09-23",
+   "time": "17:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s5qyJ8-AnBtLPLvfcuKPfmttJ4_amRn_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s5qyJ8-AnBtLPLvfcuKPfmttJ4_amRn_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

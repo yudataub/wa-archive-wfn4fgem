@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T14:34:17.165Z",
+ "updated": "2026-09-23T14:46:47.347Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -3014,6 +3014,146 @@
    ],
    "drive": null,
    "phone": "972556765998"
+  },
+  {
+   "id": "ACFB438297767803761224B606B68DD6",
+   "sender": "שמואל",
+   "text": "פתוח רצוף 11 עד 11. ערב חג עד השעה 2,בס\"ד",
+   "ts": 1790174780000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "163KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1msTAEoFZzwYtyeiQbAy3qnWfrLYaBXqJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1msTAEoFZzwYtyeiQbAy3qnWfrLYaBXqJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC4F55FA1BF49F29F8E6A3336992D1AB",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790174781000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lOzYSlwtMFsQekecasnaIQUBDZTIQnit/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lOzYSlwtMFsQekecasnaIQUBDZTIQnit&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC15C9BC36EA2728D74D3EF7C7A0EF86",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790174782000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bXAR4axkv82fSsoqSNHNse-tpbxyLICa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bXAR4axkv82fSsoqSNHNse-tpbxyLICa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC89F0860A4D53734E5A93E5D149D321",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790174782000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wooI96FKdxH3N5OoRkmqqudQeGNjoeKJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wooI96FKdxH3N5OoRkmqqudQeGNjoeKJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACA0524E72DB084904EBFAA49A5E3853",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790174783000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1O1VFMWdqvOCnILFfIvVb2z2svt1_ydjb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O1VFMWdqvOCnILFfIvVb2z2svt1_ydjb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC5274A82BCB81F14C1A2E368E9B0AAD",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790174784000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1omycRmlnqk4QkjUkeloPmv-uzGWf3reJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1omycRmlnqk4QkjUkeloPmv-uzGWf3reJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC769EDEF1289C14A1BEA9F68ED4E347",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790174784000,
+   "date": "2026-09-23",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XmogVo91FJH5Vl_bc2IcYPtjoRqLGw1A/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XmogVo91FJH5Vl_bc2IcYPtjoRqLGw1A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
   }
  ]
 }
