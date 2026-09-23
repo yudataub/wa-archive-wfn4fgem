@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T09:18:16.579Z",
+ "updated": "2026-09-23T09:37:04.678Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -5094,6 +5094,26 @@
      "path": "https://drive.google.com/file/d/13IJYnzAq_NYK_6D3SlJy0EeANVvWaufF/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=13IJYnzAq_NYK_6D3SlJy0EeANVvWaufF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB08FF26FB9020AF2CBB3",
+   "sender": "הפרגוד",
+   "text": "*יד לאחים הוציא לאור מחדש את חוברת הקירוב המכוננת לחג הסוכות*\n\nהחוברת המיתולוגית שנערכה לפני עשרות שנים ביד לאחים, מיסודו של הרה\"ג רבי שלום דוב ליפשיץ זצ\"ל, על מצוות ומנהגי חג הסוכות - עובדה והופקה מחדש, ואף תורגמה לרוסית וערבית, ומופצת בכל הארץ.\nhttps://drive.google.com/file/d/1DaUfx6BckvvKRirDJWMeb_C28wxX2o3r/view",
+   "ts": 1790156203000,
+   "date": "2026-09-23",
+   "time": "12:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "445KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M_qj1Pz_o3rAgbbxiRhdWWCwIdTUITlo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M_qj1Pz_o3rAgbbxiRhdWWCwIdTUITlo&sz=w1200"
     }
    ],
    "drive": null,
