@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-23T13:05:31.196Z",
+ "updated": "2026-09-23T13:13:31.292Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2230,6 +2230,48 @@
    "files": [],
    "drive": null,
    "phone": "972547459065"
+  },
+  {
+   "id": "ACF7D19573000BF451952B713CB7C8DD",
+   "sender": "אלקנה",
+   "text": "מישהו יודע איפה אפשר לקנות סכך כזה?",
+   "ts": 1790168967000,
+   "date": "2026-09-23",
+   "time": "16:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UEO-_qxGA9MQmwkxk6N_bDUipRsVK9tO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UEO-_qxGA9MQmwkxk6N_bDUipRsVK9tO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "AC55335740C8983095D32983702A51A8",
+   "sender": "יעקב קרלינסקי",
+   "text": "יש בשכונה\nסוכות ירושלים",
+   "ts": 1790169059000,
+   "date": "2026-09-23",
+   "time": "16:10",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC7EFCB332C50F49CD225C735419589C",
+   "sender": "ישי",
+   "text": "אושר עד?",
+   "ts": 1790169192000,
+   "date": "2026-09-23",
+   "time": "16:13",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
   }
  ]
 }
