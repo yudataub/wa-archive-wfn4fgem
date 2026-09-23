@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-09-22T15:35:43.458Z",
+ "updated": "2026-09-23T18:33:01.930Z",
  "messages": [
   {
    "id": "ACEAE3BB61449682DA4C0AB758D85574",
@@ -82,6 +82,26 @@
    ],
    "drive": null,
    "phone": "972522378396"
+  },
+  {
+   "id": "AC3EEE45274393A3724B843A1C6448FB",
+   "sender": "יש לך כנפיים תעופי רחוק 💙",
+   "text": "",
+   "ts": 1790188359000,
+   "date": "2026-09-23",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zB4J2mFd3328ETnGh1lfZ5Y3SxX20KYF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zB4J2mFd3328ETnGh1lfZ5Y3SxX20KYF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547116492"
   }
  ]
 }

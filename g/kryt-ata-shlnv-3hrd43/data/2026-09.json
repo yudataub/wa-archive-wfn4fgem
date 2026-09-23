@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T18:27:31.497Z",
+ "updated": "2026-09-23T18:37:32.380Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -5018,6 +5018,137 @@
    ],
    "drive": null,
    "phone": "972523614658"
+  },
+  {
+   "id": "2AB22513FD08DDC95A37",
+   "sender": "משה אלפסי תיווך נדלן",
+   "text": "",
+   "ts": 1790188052000,
+   "date": "2026-09-23",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17PUBCMFrVsiUbwXy4xu9dcRT4xWQb6v9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17PUBCMFrVsiUbwXy4xu9dcRT4xWQb6v9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523614658"
+  },
+  {
+   "id": "2AEFB5FDE2257E336D24",
+   "sender": "משה אלפסי תיווך נדלן",
+   "text": "",
+   "ts": 1790188053000,
+   "date": "2026-09-23",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "163KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l5orGcRwbbKtrrQfc9ARxEhDbYmhDK9i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l5orGcRwbbKtrrQfc9ARxEhDbYmhDK9i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523614658"
+  },
+  {
+   "id": "2A3127E75C626A139152",
+   "sender": "משה אלפסי תיווך נדלן",
+   "text": "",
+   "ts": 1790188054000,
+   "date": "2026-09-23",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "207KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X4ZFAOuRYoTsDkThxBd7I5NYcTaoanua/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X4ZFAOuRYoTsDkThxBd7I5NYcTaoanua&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523614658"
+  },
+  {
+   "id": "2A88244C468183B20330",
+   "sender": "משה אלפסי תיווך נדלן",
+   "text": "",
+   "ts": 1790188056000,
+   "date": "2026-09-23",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eLw7uBl7y11OKkJBub3l5yId3RSsXCJI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eLw7uBl7y11OKkJBub3l5yId3RSsXCJI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523614658"
+  },
+  {
+   "id": "2A11119A23791FA1E7EF",
+   "sender": "משה אלפסי תיווך נדלן",
+   "text": "",
+   "ts": 1790188057000,
+   "date": "2026-09-23",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xzJvkZuCtbma1-4Quxj3DxEFd_D9RUSv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xzJvkZuCtbma1-4Quxj3DxEFd_D9RUSv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523614658"
+  },
+  {
+   "id": "AC1CC06AAE364074B9D5BB1B1FFC2C30",
+   "sender": "דודי שטרן",
+   "text": "",
+   "ts": 1790188465000,
+   "date": "2026-09-23",
+   "time": "21:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DBiSLOyxcHPA1nTPJQRk39YfzLBoZQNf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DBiSLOyxcHPA1nTPJQRk39YfzLBoZQNf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
+  },
+  {
+   "id": "AC6A1074FB8AA85088C382F92E3A7947",
+   "sender": "המשפחתון של לילך❤️",
+   "text": "ערב טוב. מחפשת ללילה אחד למשפחה מזגן נייד. אשמח לעזרה🙏 0533614260",
+   "ts": 1790188647000,
+   "date": "2026-09-23",
+   "time": "21:37",
+   "files": [],
+   "drive": null,
+   "phone": "972533614260"
   }
  ]
 }
