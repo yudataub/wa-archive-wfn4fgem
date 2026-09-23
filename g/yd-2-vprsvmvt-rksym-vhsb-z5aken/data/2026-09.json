@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T08:24:46.065Z",
+ "updated": "2026-09-23T08:47:16.657Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2478,6 +2478,66 @@
    "files": [],
    "drive": null,
    "phone": "972505315633"
+  },
+  {
+   "id": "A59F3E97CA01E9773AD0B10DB20F7D7B",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מיוחד לסוכות\nמברגת אימפקט+ 2 בטריות +מטען+ארגז\nוסט ביטים ובוקסות שמתחבר למברגה ב200 שח בלבד",
+   "ts": 1790153230000,
+   "date": "2026-09-23",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16Xsbq5Eyth92o-4bg8-Q2SmLNOMjFnbc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16Xsbq5Eyth92o-4bg8-Q2SmLNOMjFnbc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A5C66BDC4930061652BAE60F86AE3FAB",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790153231000,
+   "date": "2026-09-23",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jWAFtz5WREKGzkwnZdEqSb3LnIE6N2jS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jWAFtz5WREKGzkwnZdEqSb3LnIE6N2jS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A5B9C5793AC135772876E6C0C3F14882",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790153232000,
+   "date": "2026-09-23",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Fn2YwXtOtF9wtFIUxGikvjMA-OlGTHeX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Fn2YwXtOtF9wtFIUxGikvjMA-OlGTHeX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
   }
  ]
 }
