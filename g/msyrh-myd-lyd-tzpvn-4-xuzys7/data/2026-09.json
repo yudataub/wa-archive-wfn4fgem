@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-09-23T18:03:48.654Z",
+ "updated": "2026-09-23T18:46:32.753Z",
  "messages": [
   {
    "id": "A5B57AAF4F018468547F6603BE05A4BB",
@@ -513,6 +513,97 @@
      "thumb": "https://drive.google.com/thumbnail?id=1kRHsLHcWRnEc2VpdtNakjOZ1MwNMr5B0&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A528C8BE56E623B9A3C6987746027514",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "2 מזרנים 200*80 \nמצפת\nמצרפת תמונה\n+972 52-609-1035",
+   "ts": 1790188925000,
+   "date": "2026-09-23",
+   "time": "21:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OZXpsh9G1xDJQkAFQoYwQXLOYBJCjVD4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OZXpsh9G1xDJQkAFQoYwQXLOYBJCjVD4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A51CB0EBC687CF225AB438783968C29E",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה מקרית ים א\nמוטות ברזל לסוכה בגודל 1.5 על 2 מטר.\n+972 54-867-6657",
+   "ts": 1790188936000,
+   "date": "2026-09-23",
+   "time": "21:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oxq8sp9ux6dYBGRvy3BMDmvjZbiddpdZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oxq8sp9ux6dYBGRvy3BMDmvjZbiddpdZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A53BD92F61B65C07333F04D845515625",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה מחריש\n+972 54-777-0795",
+   "ts": 1790188944000,
+   "date": "2026-09-23",
+   "time": "21:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15XFm0noQSyovwmMJp8EX_xMyy3ZnCStN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15XFm0noQSyovwmMJp8EX_xMyy3ZnCStN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A532A763314B80E437DAD4944B55845A",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "*נשים יקרות, העולם מתחלק לשניים:*\nחצי אוהבות שהבעל מפתיע אותן במתנה לחג, והחצי השני מעדיפות להגיד לו בדיוק מה הן רוצות... 😉\n\nאז אם אתן שייכות לחצי השני, הפרסום הזה מיועד בדיוק לכן!\n\nפשוט שלחו אותו לבעלכן, והוא כבר יבין את הרמז... 👇\nhttps://wa.me/972559334207?text=אשמח%20לפרטים%20בקשר%20למארז",
+   "ts": 1790189167000,
+   "date": "2026-09-23",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GJgoO9dRsanMfhJFJ2zz62pxH795dzMC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GJgoO9dRsanMfhJFJ2zz62pxH795dzMC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A58D52F912B156784BC496840924754D",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "*מיועד לנשות חיפה רכסים והקריות*",
+   "ts": 1790189188000,
+   "date": "2026-09-23",
+   "time": "21:46",
+   "files": [],
    "drive": null,
    "phone": "972509122190"
   }

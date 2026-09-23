@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T18:34:01.960Z",
+ "updated": "2026-09-23T18:47:32.680Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2492,6 +2492,57 @@
    ],
    "drive": null,
    "phone": "972548528996"
+  },
+  {
+   "id": "AC7351AC027645183659F5107984B19B",
+   "sender": "liad🎀",
+   "text": "",
+   "ts": 1790189208000,
+   "date": "2026-09-23",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TUowJOUA2yn71Y4vZZPx6ce9OK7St1Xl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TUowJOUA2yn71Y4vZZPx6ce9OK7St1Xl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526624939"
+  },
+  {
+   "id": "ACA58F1D76C3677EEDE37097474C75B7",
+   "sender": "liad🎀",
+   "text": "",
+   "ts": 1790189215000,
+   "date": "2026-09-23",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lkVTPJg8Z2nMHUBPWAvD9qDKJ1eJ_T7E/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lkVTPJg8Z2nMHUBPWAvD9qDKJ1eJ_T7E&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526624939"
+  },
+  {
+   "id": "ACDD4DB3B896A3F881A0A3038126201C",
+   "sender": "רוית נאומה",
+   "text": "📇 מלכה טרבלסי\n+972528686062",
+   "ts": 1790189233000,
+   "date": "2026-09-23",
+   "time": "21:47",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
   }
  ]
 }
