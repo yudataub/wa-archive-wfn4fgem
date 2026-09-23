@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-23T12:02:53.221Z",
+ "updated": "2026-09-23T12:54:31.000Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2360,6 +2360,48 @@
    "files": [],
    "drive": null,
    "phone": "972536403000"
+  },
+  {
+   "id": "AC41DBEA5F391AF225D716D2E7015250",
+   "sender": "שמריהו",
+   "text": "מחפש להעביר קופסאת נעליים מטבריה לרכסים  עד החג",
+   "ts": 1790167885000,
+   "date": "2026-09-23",
+   "time": "15:51",
+   "files": [],
+   "drive": null,
+   "phone": "972548440272"
+  },
+  {
+   "id": "A51C122CE87E17D9708B26097D5F2FB0",
+   "sender": "שחר מיזוג וגבס",
+   "text": "סוכה עם מוטות (מתפרקת ) למסירה",
+   "ts": 1790168047000,
+   "date": "2026-09-23",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13Bi-5jPHmhiTdldregSDGtqe_rGXzs7w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13Bi-5jPHmhiTdldregSDGtqe_rGXzs7w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526658003"
+  },
+  {
+   "id": "A5F8952174B1E72F2A4BF799E57635D4",
+   "sender": "שחר מיזוג וגבס",
+   "text": "קרית אתא בפרטי",
+   "ts": 1790168062000,
+   "date": "2026-09-23",
+   "time": "15:54",
+   "files": [],
+   "drive": null,
+   "phone": "972526658003"
   }
  ]
 }
