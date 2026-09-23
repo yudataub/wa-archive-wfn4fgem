@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T19:33:37.783Z",
+ "updated": "2026-09-23T19:46:37.967Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -5560,6 +5560,48 @@
    "files": [],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "ACCE38C27534C39BCC45D63A7E93FFC0",
+   "sender": "יוסף",
+   "text": "עוד חצי שעה המכירה נפתחת עד 24:00 רצוף",
+   "ts": 1790192315000,
+   "date": "2026-09-23",
+   "time": "22:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14UBDLjgEOZmPM5Dd9SIhnTxyi-YTuKVw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14UBDLjgEOZmPM5Dd9SIhnTxyi-YTuKVw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546287776"
+  },
+  {
+   "id": "AC08F969099E9181BEC358629D274DE5",
+   "sender": "יוסף חיים אמסלם",
+   "text": "‏להצטרפות לקבוצה שלי ב-‏WhatsApp‏:",
+   "ts": 1790192711000,
+   "date": "2026-09-23",
+   "time": "22:45",
+   "files": [],
+   "drive": null,
+   "phone": "972527727437"
+  },
+  {
+   "id": "AC198CE8668D743A19C4086A87B6EB85",
+   "sender": "ישי מזר",
+   "text": "9",
+   "ts": 1790192781000,
+   "date": "2026-09-23",
+   "time": "22:46",
+   "files": [],
+   "drive": null,
+   "phone": "972584114606"
   }
  ]
 }
