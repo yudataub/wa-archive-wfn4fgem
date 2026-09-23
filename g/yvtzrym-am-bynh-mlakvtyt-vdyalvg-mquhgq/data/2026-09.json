@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-23T11:08:43.730Z",
+ "updated": "2026-09-23T12:15:22.560Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -1743,6 +1743,26 @@
    ],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "ACB660C275DAB6BAB9F32A35748C32B8",
+   "sender": "Sivan",
+   "text": "",
+   "ts": 1790165693000,
+   "date": "2026-09-23",
+   "time": "15:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T0-uxrPb1ydSFbz-Gt-kdhdiGdAnhB7z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T0-uxrPb1ydSFbz-Gt-kdhdiGdAnhB7z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544473410"
   }
  ]
 }

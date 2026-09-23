@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T11:17:45.333Z",
+ "updated": "2026-09-23T12:10:53.309Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2853,6 +2853,26 @@
    ],
    "drive": null,
    "phone": "972508757537"
+  },
+  {
+   "id": "3A0DB11F54ED12378205",
+   "sender": "טלי בסון",
+   "text": "*תושבי ותושבות רכסים מעל גיל 44*\n\nהקדישו מספר דקות לעשיית שינוי ולסיוע בקבלת החלטות שתשפענה על  תחושת הביטחון בעיר שלנו.\n\n*בואו לשנות חיים בקליק אחד:*\n\nhttps://form.toshavplus.co.il/policing-survey/\n\n*השאלון אנונימי לחלוטין*",
+   "ts": 1790165440000,
+   "date": "2026-09-23",
+   "time": "15:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qHhbcpLewqh1__3YAuBAAjgnMmwq4Ety/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qHhbcpLewqh1__3YAuBAAjgnMmwq4Ety&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545600062"
   }
  ]
 }
