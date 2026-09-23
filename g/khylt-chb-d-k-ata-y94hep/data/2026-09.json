@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-23T10:32:37.665Z",
+ "updated": "2026-09-23T11:35:45.652Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -410,6 +410,45 @@
    "files": [],
    "drive": null,
    "phone": "972523730397"
+  },
+  {
+   "id": "AC6562AA6E6E882B2141B90EA738945E",
+   "sender": "ronentayar",
+   "text": "*רבי יומי - י\"ב תשרי*\n\nברכה לאתרוגים גדולים? \nמותר להחזיק בשתי ידיים,\nאבל אני לא יודע אם יהיה לך קונים...",
+   "ts": 1790162938000,
+   "date": "2026-09-23",
+   "time": "14:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "8.8MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "ACF5DDDF17EA36ABFFA75FE92E1755EC",
+   "sender": "וייסגלס יצחק",
+   "text": "",
+   "ts": 1790163320000,
+   "date": "2026-09-23",
+   "time": "14:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nq2gJir1ScYkbkZdb7t3vCV_Yjn2p--T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nq2gJir1ScYkbkZdb7t3vCV_Yjn2p--T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523772770"
   }
  ]
 }
