@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T06:35:14.430Z",
+ "updated": "2026-09-23T07:27:46.054Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2301,6 +2301,37 @@
    "files": [],
    "drive": null,
    "phone": "972544810271"
+  },
+  {
+   "id": "ACA5885CA0BCB6FFB023803970BCA4C3",
+   "sender": "שירה",
+   "text": "קירות מעוצבים לאירועים\nמי עושה ?",
+   "ts": 1790148437000,
+   "date": "2026-09-23",
+   "time": "10:27",
+   "files": [],
+   "drive": null,
+   "phone": "972587184048"
+  },
+  {
+   "id": "AC81317D8F7B0CEB2C1E74E2759213ED",
+   "sender": "יונתן",
+   "text": "",
+   "ts": 1790148442000,
+   "date": "2026-09-23",
+   "time": "10:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "36KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1P1Pb4dwZH2LvktdCwcV_3nUJuIHkzvGd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1P1Pb4dwZH2LvktdCwcV_3nUJuIHkzvGd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552536494"
   }
  ]
 }
