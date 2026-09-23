@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T10:07:05.028Z",
+ "updated": "2026-09-23T10:15:05.168Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -3930,6 +3930,79 @@
    "files": [],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "3AFD2C107290FF6D6D88",
+   "sender": "Gabi Twito",
+   "text": "זוהי קבוצת שיתוף מניות ואסטרטגיות השקעה חינמיות. אנו מזמינים בכנות את כל חובבי ההשקעות להצטרף וללמוד יחד.\n\nנמליץ מדי יום על מניות איכותיות ונשתף את המידע העדכני ביותר על מניות, פילוסופיות השקעה, חוויות וטכניקות.\n\n(לאחר הגשת בקשה להצטרפות, אנא שימו לב להודעות של מנהל הקבוצה. תקבלו גם הזמנה להצטרף לקבוצה הפנימית שלנו.)",
+   "ts": 1790158124000,
+   "date": "2026-09-23",
+   "time": "13:08",
+   "files": [],
+   "drive": null,
+   "phone": "972555171025"
+  },
+  {
+   "id": "AC657C577DAE145994F6F4DA1339A0B2",
+   "sender": "בר שרר החתיך",
+   "text": "",
+   "ts": 1790158189000,
+   "date": "2026-09-23",
+   "time": "13:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "808KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-anHt3H4G2LmLAg3Kdev19EKnUqbikx6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-anHt3H4G2LmLAg3Kdev19EKnUqbikx6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537002022"
+  },
+  {
+   "id": "ACDBA57991341B8DC34F1F20C195F9C4",
+   "sender": "בר שרר החתיך",
+   "text": "למכירה פינת ישיבה מאלומניים\nמחיר 800 שח\nפרטים בוואסטפ 0504750872",
+   "ts": 1790158189000,
+   "date": "2026-09-23",
+   "time": "13:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "770KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1chFumUVaI0J1T9nQiqLj1UX-gYP40ORE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1chFumUVaI0J1T9nQiqLj1UX-gYP40ORE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537002022"
+  },
+  {
+   "id": "AC9E055DA08B974D646F59926A8C2A9E",
+   "sender": "אורלי",
+   "text": "אתמול אלון אןחנה הספר מבית וגן פירסם למסירה",
+   "ts": 1790158414000,
+   "date": "2026-09-23",
+   "time": "13:13",
+   "files": [],
+   "drive": null,
+   "phone": "972526245691"
+  },
+  {
+   "id": "AC9FA19C216CFA0B1FE29C11F1F15140",
+   "sender": "מזמור לתודה",
+   "text": "@48619197620290",
+   "ts": 1790158477000,
+   "date": "2026-09-23",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972527976000"
   }
  ]
 }

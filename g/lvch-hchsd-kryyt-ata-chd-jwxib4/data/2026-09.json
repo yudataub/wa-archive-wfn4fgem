@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-23T10:05:35.013Z",
+ "updated": "2026-09-23T10:15:05.178Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2088,6 +2088,26 @@
    "files": [],
    "drive": null,
    "phone": "972547029885"
+  },
+  {
+   "id": "AC7E1CDB8802CE7D049E8DBCA700DDC8",
+   "sender": "ניסים",
+   "text": "נשארו 2 חבילות  כל הקודם זוכה \nסוקולוב 12",
+   "ts": 1790158478000,
+   "date": "2026-09-23",
+   "time": "13:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aR9fU3SQtTt_Kpl2GYZNI6ve0B3KAV93/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aR9fU3SQtTt_Kpl2GYZNI6ve0B3KAV93&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539623152"
   }
  ]
 }
