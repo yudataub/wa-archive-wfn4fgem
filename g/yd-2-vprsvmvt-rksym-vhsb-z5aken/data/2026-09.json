@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T10:02:34.973Z",
+ "updated": "2026-09-23T10:34:07.702Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -2751,6 +2751,37 @@
    "files": [],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "A5CC1466B34036602177510FFC060C9E",
+   "sender": "DJ NoMIX",
+   "text": "יאללה זה הזמן לסגור  ולתפוס תאריכים למסיבות לחנוכהההה \n,בת מצווה \n  את מי אני הולכת לפגוש. 💃💃💃💃💃💃💃💃💃💃",
+   "ts": 1790159628000,
+   "date": "2026-09-23",
+   "time": "13:33",
+   "files": [],
+   "drive": null,
+   "phone": "972556773571"
+  },
+  {
+   "id": "A567132C2B56A3F91AA0BC808A980B36",
+   "sender": "DJ NoMIX",
+   "text": "",
+   "ts": 1790159629000,
+   "date": "2026-09-23",
+   "time": "13:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QVfwO_M4i7ipCUvH1EQ3iZ1t8EhW_YIo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QVfwO_M4i7ipCUvH1EQ3iZ1t8EhW_YIo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556773571"
   }
  ]
 }

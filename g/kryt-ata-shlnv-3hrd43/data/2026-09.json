@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T10:15:05.168Z",
+ "updated": "2026-09-23T10:34:07.713Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4003,6 +4003,37 @@
    "files": [],
    "drive": null,
    "phone": "972527976000"
+  },
+  {
+   "id": "A5FE485A67C231A8D32E7CAEA6EE879E",
+   "sender": "DJ NoMIX",
+   "text": "יאללה זה הזמן לסגור  ולתפוס תאריכים למסיבות לחנוכהההה \n,בת מצווה \n  את מי אני הולכת לפגוש. 💃💃💃💃💃💃💃💃💃💃",
+   "ts": 1790159635000,
+   "date": "2026-09-23",
+   "time": "13:33",
+   "files": [],
+   "drive": null,
+   "phone": "972556773571"
+  },
+  {
+   "id": "A5EF6D8D436824CE22D222C94C10D928",
+   "sender": "DJ NoMIX",
+   "text": "",
+   "ts": 1790159637000,
+   "date": "2026-09-23",
+   "time": "13:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t19baHeN5Y8fQmyHpIAUGHWfiBzRfTnD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t19baHeN5Y8fQmyHpIAUGHWfiBzRfTnD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556773571"
   }
  ]
 }
