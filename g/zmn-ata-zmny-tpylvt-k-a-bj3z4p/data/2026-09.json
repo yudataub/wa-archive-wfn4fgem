@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-23T11:39:45.715Z",
+ "updated": "2026-09-23T17:37:53.922Z",
  "messages": [
   {
    "id": "ACB3991222C2529A1206158E73AAAD52",
@@ -124,6 +124,26 @@
    ],
    "drive": null,
    "phone": "972503004242"
+  },
+  {
+   "id": "AC1E77165BDEC24D3FA9075C85DF00BC",
+   "sender": "שי הלל",
+   "text": "לרפואת נריה בן חנה שנפצע היום בפיגוע",
+   "ts": 1790185051000,
+   "date": "2026-09-23",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "45KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11EqkTTzjhPEWWte-4KWyDX1VNyrlCX-R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11EqkTTzjhPEWWte-4KWyDX1VNyrlCX-R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549148109"
   }
  ]
 }
