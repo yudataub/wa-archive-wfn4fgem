@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-23T09:53:34.867Z",
+ "updated": "2026-09-23T11:55:15.962Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -1171,6 +1171,26 @@
    ],
    "drive": null,
    "phone": "972508570876"
+  },
+  {
+   "id": "A5CC635DF3308378A20DFA429F71F5A7",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "רכישת כרטיסים החל מהיום בערב 🥰",
+   "ts": 1790164506000,
+   "date": "2026-09-23",
+   "time": "14:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14xcxa3dva0rMU_HQuswB7S7_yg_2KEoE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14xcxa3dva0rMU_HQuswB7S7_yg_2KEoE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545223044"
   }
  ]
 }
