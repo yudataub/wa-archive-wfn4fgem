@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-09-23T06:52:36.764Z",
+ "updated": "2026-09-23T18:03:48.654Z",
  "messages": [
   {
    "id": "A5B57AAF4F018468547F6603BE05A4BB",
@@ -491,6 +491,26 @@
      "path": "https://drive.google.com/file/d/1I2Tvk4RXREK2MWerxesDzfEgx9MXZgkY/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1I2Tvk4RXREK2MWerxesDzfEgx9MXZgkY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5DB80CDCBA7DA1986C02F603761D997",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "*חברים, אני באמת מתחנן מכם 🙏*\n\nהקבוצה הזאת כבר הפסידה אלפי פריטים!\nיש אנשים שאמרו לי מפורש: \"יותר אני לא מוסר דרך הקבוצה\"  רק בגלל שממשיכים לפנות אליהם שעות, ולפעמים אפילו ימים אחרי הפרסום.\n\n*זה פשוט כואב. אנחנו בונים כאן משהו ענק לטובת כולם,* ובגלל דבר קטן כזה אנחנו מאבדים מוסרים טובים.\n\n*בבקשה, בבקשה:* אין לפנות למפרסם אחרי שעברה שעה מהפרסום!\nוגם לא להעביר מודעות לקבוצות אחרות! כי אז אנשים ממשיכים לקבל פניות גם יום ויומיים אחרי.\n\nתעזרו לנו לשמור על הקבוצה הזאת 🙏\n*שעה עברה?* לא פונים. נקודה.",
+   "ts": 1790186601000,
+   "date": "2026-09-23",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kRHsLHcWRnEc2VpdtNakjOZ1MwNMr5B0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kRHsLHcWRnEc2VpdtNakjOZ1MwNMr5B0&sz=w1200"
     }
    ],
    "drive": null,
