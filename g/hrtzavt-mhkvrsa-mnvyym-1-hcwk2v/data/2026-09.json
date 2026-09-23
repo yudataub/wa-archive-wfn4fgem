@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-09-22T10:00:56.288Z",
+ "updated": "2026-09-23T13:26:01.490Z",
  "messages": [
   {
    "id": "3EB0CD9B06513F181BEBF8",
@@ -18,6 +18,26 @@
      "path": "https://drive.google.com/file/d/19OFkhHszb5S8eXZSrPD1Jb-6JN3LXUJJ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19OFkhHszb5S8eXZSrPD1Jb-6JN3LXUJJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB05AD22DECB5626188B4",
+   "sender": "הרצאות מהכורסא",
+   "text": "*מי היו הגיבורים שצמחו בצרפת והשפיעו על התרבות בעולם כולו?* \n\nעוד מעט נארח באולפן את *ד\"ר דורית שילה* למפגש זום פתוח למנויים בלבד.\n\n👈🏼 *להצטרפות בשעה 17:00*: https://bit.ly/3OT7WFZ",
+   "ts": 1790169949000,
+   "date": "2026-09-23",
+   "time": "16:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gqvQNMnkNoj6Za0cadpjOK_wMpP7uZ-0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gqvQNMnkNoj6Za0cadpjOK_wMpP7uZ-0&sz=w1200"
     }
    ],
    "drive": null,

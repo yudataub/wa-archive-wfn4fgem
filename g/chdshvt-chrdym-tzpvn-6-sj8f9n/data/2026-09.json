@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-23T12:34:51.833Z",
+ "updated": "2026-09-23T13:26:31.491Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -595,6 +595,26 @@
      "path": "https://drive.google.com/file/d/1seJ5zjgequvI9NBVRyVlni4Ici-8YChz/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1seJ5zjgequvI9NBVRyVlni4Ici-8YChz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5CBA53287BBC2531B2B895FD7429F4D",
+   "sender": "י",
+   "text": "*זה מה שנשאר מהאופניים החשמלייים: לאחר שהסוללה של האופניים שעמדו בחצר בטירת כרמל התלקחה*\nלוחמי אש מתחנת חיפה פעלו בשעות הבוקר בשריפה שפרצה בחצר מבנה מגורים ברחוב הרב ויינרב בטירת כרמל, לאחר שסוללת ליתיום של אופניים חשמליים התלקחה. הלוחמים כיבו את מוקד הבעירה, לא נגרם נזק למבנה ולא דווח על נפגעים.\n\nלכל העדכונים👇",
+   "ts": 1790169963000,
+   "date": "2026-09-23",
+   "time": "16:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "414KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19nfUu3mi4sMRWK_vrkg-huGq-QKTKh9q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19nfUu3mi4sMRWK_vrkg-huGq-QKTKh9q&sz=w1200"
     }
    ],
    "drive": null,
