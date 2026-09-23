@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T08:00:45.437Z",
+ "updated": "2026-09-23T08:13:15.689Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -4874,6 +4874,46 @@
      "path": "https://drive.google.com/file/d/1mN58Ts0dGUxh2JTWKkyWuFtw2RpRPMQt/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1mN58Ts0dGUxh2JTWKkyWuFtw2RpRPMQt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB060CFEBECAA391E8817",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ח\"כ משה גפני הבוקר בועדת הכספים\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790151095000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-98i7GsM36rGozdKArX_9I9_agL-MgnB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-98i7GsM36rGozdKArX_9I9_agL-MgnB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB065B35376B723F6B34F",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: יועצת ראה\"מ, רבקה פאלוך, בשיחה עם גפני בועדת הכספים\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790151188000,
+   "date": "2026-09-23",
+   "time": "11:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11xm6z0OAYyBjH56-BCSe3SKq0AnvGlE3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11xm6z0OAYyBjH56-BCSe3SKq0AnvGlE3&sz=w1200"
     }
    ],
    "drive": null,

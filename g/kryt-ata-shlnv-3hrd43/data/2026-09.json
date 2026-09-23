@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T08:07:15.639Z",
+ "updated": "2026-09-23T08:12:15.676Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -3466,6 +3466,203 @@
    "files": [],
    "drive": null,
    "phone": "972547029885"
+  },
+  {
+   "id": "AC5FB23E8BFC0F417A0E0439F8D71F62",
+   "sender": "eric",
+   "text": "מי מכיר שטיפת רכבים ידנית ברמה גבוה בקריה?",
+   "ts": 1790150869000,
+   "date": "2026-09-23",
+   "time": "11:07",
+   "files": [],
+   "drive": null,
+   "phone": "972505070091"
+  },
+  {
+   "id": "A5898A8142A16938BCCE28186DE781DE",
+   "sender": "מוישי ולדמן",
+   "text": "יש לך מאחורי החמניה בסוף זבולון\nשטיפה עצמאית\nאחלה מקום",
+   "ts": 1790150929000,
+   "date": "2026-09-23",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "ACD073836AE53BBD8369E1D340CBE087",
+   "sender": "eric",
+   "text": "הלוואי ויכלתי לשתוף לבד את הרכב. לצערי נפצעתי במלחמה.",
+   "ts": 1790150989000,
+   "date": "2026-09-23",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972505070091"
+  },
+  {
+   "id": "3EB0B64C8E287A2C68747C",
+   "sender": "Adi Shtainitz",
+   "text": "אני ממש ממליצה על \"שטוף אותי\" הייתי מאוד מרוצה מהם.\nעשו לי גם ניקוי פנסים רמה גבוהה מאוד",
+   "ts": 1790151007000,
+   "date": "2026-09-23",
+   "time": "11:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523799062"
+  },
+  {
+   "id": "AC14F3AEC3D1679D09A2FEB82CB5FDA6",
+   "sender": "eric",
+   "text": "איפה נמצאים",
+   "ts": 1790151087000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972505070091"
+  },
+  {
+   "id": "AC15EFE1F526DA0BF3BF1C0DC905B36E",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790151091000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z3xifrz5gQ2bUTFDXzM6LwUSNx20Wxzs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z3xifrz5gQ2bUTFDXzM6LwUSNx20Wxzs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC35F55E9D0766D26A7CD9CEE47B4802",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790151092000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "399KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14aix8H5JOQe249NCMIJR6S4ljAypuUwy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14aix8H5JOQe249NCMIJR6S4ljAypuUwy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC49A93A0B226EBBA4DCCC2CEE43CD56",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790151092000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-FIIAV3TKuiQFKesiYntXTGra7M54OEr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-FIIAV3TKuiQFKesiYntXTGra7M54OEr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC99C91D908DD5F6292B415FE58E10E9",
+   "sender": "ישראל עשור",
+   "text": "קיה קרניבל דגם פרימיום 2018\nיד 2 פרטי\nקילומטר-163000\nכיסאות עור דלתות צד חשמליות\n8 מקומות.רכב מפנק ביותר תא מטען ענק\n מחיר-95000\n0526303010-ישראל",
+   "ts": 1790151093000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fAbgvJEyxp60hX-uPmKH7iH9eDKZHdop/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fAbgvJEyxp60hX-uPmKH7iH9eDKZHdop&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC7C35DDF777D9555D2AFD6327875241",
+   "sender": "ישראל עשור",
+   "text": "",
+   "ts": 1790151094000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "342KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lxjpyWu7cKmE0-swCX6Aes7gy1ZITDPj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lxjpyWu7cKmE0-swCX6Aes7gy1ZITDPj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526303010"
+  },
+  {
+   "id": "AC0C8C63FADBDDB8FC807B20E6BD6945",
+   "sender": "נתן זקן",
+   "text": "לך אחי לסונול 80 שקל אמנם אבל שירות מהיר ונקי \n\nלדעתי לשטוף לבד לוקח זמן עדיף 80 שקל וראש נקי",
+   "ts": 1790151104000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972533077078"
+  },
+  {
+   "id": "AC72DB1201657CA391A9F7F72B6BC730",
+   "sender": "בר שרר החתיך",
+   "text": "",
+   "ts": 1790151111000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "425KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KY08Y5fAOTBpHr-w6CBhQZEF4-Sz0zVH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KY08Y5fAOTBpHr-w6CBhQZEF4-Sz0zVH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537002022"
+  },
+  {
+   "id": "3EB05DD6ABFBAD6222A353",
+   "sender": "Adi Shtainitz",
+   "text": "ליד יוספטל ,יש שם גם מכולת כזו גדולה",
+   "ts": 1790151119000,
+   "date": "2026-09-23",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972523799062"
   }
  ]
 }
