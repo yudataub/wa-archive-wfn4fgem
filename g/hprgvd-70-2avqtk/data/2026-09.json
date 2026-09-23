@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-23T09:45:34.702Z",
+ "updated": "2026-09-23T09:53:34.817Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -5157,6 +5157,26 @@
    "date": "2026-09-23",
    "time": "12:45",
    "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0542CDC3073521CD454",
+   "sender": "הפרגוד",
+   "text": "*סוכות בבית? בבין הזמנים אתם ביוון! חופשת מהדרין בבראון מול הים וב25% הנחה! הזמינו עכשיו!*\n\nחופשת *מהדרין* ב־Brown Beach Chalkida, מול הים, במחיר מיוחד לתקופה הקרובה.\n\nקולינריה כשרה ומהודרת, בריכה וחוף, ספא, חדר כושר, פעילויות ומתקנים לכל המשפחה – וכל זה בסטנדרט האירוח של בראון.\n\n*24.9–11.10 | עד 25% הנחה*\nעם קוד הקופון *SUKKOT26*\n\nההטבה לזמן מוגבל ובכפוף לזמינות.\n\n*רוצים לראות כמה תעלה לכם החופשה? לחצו כאן >>*\nhttps://www.simplebooking.it/ibe2/hotel/8171/offer/246964?lang=HE&coupon=sukkot26&cur=EUR&oi-modal=ZO0MI?utm_source=bhol&utm_medium=whatsapp",
+   "ts": 1790157188000,
+   "date": "2026-09-23",
+   "time": "12:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "24KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fXfCKPCn4BwlQVJCQ2UGQ6YZH8bLC70c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fXfCKPCn4BwlQVJCQ2UGQ6YZH8bLC70c&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972535629624"
   }
