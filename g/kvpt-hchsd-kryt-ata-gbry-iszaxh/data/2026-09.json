@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-23T18:10:18.751Z",
+ "updated": "2026-09-23T20:45:21.090Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -630,6 +630,37 @@
      "path": "https://drive.google.com/file/d/156-kdSYHMUxSzYj1Hg3A6W-9qnKDXb8K/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=156-kdSYHMUxSzYj1Hg3A6W-9qnKDXb8K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "ACC5A1B564BFB41AD4C32164027A901B",
+   "sender": "מנחם חזן",
+   "text": "יש למישהו סכך למסירה ?\nאשמח לתגובה בפרטי כדי שלא אפספס את ההודעה",
+   "ts": 1790196306000,
+   "date": "2026-09-23",
+   "time": "23:45",
+   "files": [],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "ACBB10DE9EC30AF269099E0950205003",
+   "sender": "מנחם חזן",
+   "text": "מומלץ ממש 🤍",
+   "ts": 1790196307000,
+   "date": "2026-09-23",
+   "time": "23:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z2VfI7BILWe5B5v4x4aS5uwrNaaat7Ox/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z2VfI7BILWe5B5v4x4aS5uwrNaaat7Ox&sz=w1200"
     }
    ],
    "drive": null,
