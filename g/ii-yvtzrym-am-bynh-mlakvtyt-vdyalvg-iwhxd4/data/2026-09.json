@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "II יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-22T17:23:40.835Z",
+ "updated": "2026-09-23T05:15:15.783Z",
  "messages": [
   {
    "id": "3EB0FBDDE152E8DFD565E5",
@@ -213,6 +213,26 @@
    ],
    "drive": null,
    "phone": "972537602231"
+  },
+  {
+   "id": "3EB0B5B3BA88F125FB7639",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "מוכנים? אני כבר מתרגשת\nב9:00 מתחילים\n*עדיין נותרו מקומות אחרונים להרשמה*\nמרתון נפלאות הבינה סוכות\nhttps://www.lomdot.org/sukkot-marathon",
+   "ts": 1790140498000,
+   "date": "2026-09-23",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i5b3tiYTCmj-B5tgFR09-oU_DiNU7Er2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i5b3tiYTCmj-B5tgFR09-oU_DiNU7Er2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }
