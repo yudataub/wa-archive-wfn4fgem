@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T15:05:44.522Z",
+ "updated": "2026-09-23T15:12:14.612Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -3210,6 +3210,86 @@
      "path": "https://drive.google.com/file/d/1zanbTz4D__PLxHVTWj2nsgPAFaZSZBQ-/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1zanbTz4D__PLxHVTWj2nsgPAFaZSZBQ-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC3A6C971935910A307CF656C2AB1068",
+   "sender": "שמואל",
+   "text": "מבצעים בנרתיקי לולב ואתרוג בסטייליש ,כל הקודם זוכה",
+   "ts": 1790176278000,
+   "date": "2026-09-23",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W5nBUY4nwulTA5HFpnvY-6scmKR5Qw6j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W5nBUY4nwulTA5HFpnvY-6scmKR5Qw6j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC091B039E33766F09CFB500BA4CBCD5",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790176279000,
+   "date": "2026-09-23",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rl3RTLEFiGVIbXtHu4G7Dj8ZZDXgd2ZJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rl3RTLEFiGVIbXtHu4G7Dj8ZZDXgd2ZJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC5C65C5E3E04E1E96F5B026A53F87C9",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790176279000,
+   "date": "2026-09-23",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QFj7us96uYu-Dd977JkMDS6m6f4yGiIC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QFj7us96uYu-Dd977JkMDS6m6f4yGiIC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC0D83E34B4269B3FBE230ED80CF473A",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790176282000,
+   "date": "2026-09-23",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pgugQhfI96ooESLyq1qdbD-rzj6TQJkc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pgugQhfI96ooESLyq1qdbD-rzj6TQJkc&sz=w1200"
     }
    ],
    "drive": null,

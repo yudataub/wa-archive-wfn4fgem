@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-23T15:04:44.493Z",
+ "updated": "2026-09-23T15:11:14.610Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -733,6 +733,36 @@
    "date": "2026-09-23",
    "time": "18:04",
    "files": [],
+   "drive": null,
+   "phone": "972502198987"
+  },
+  {
+   "id": "AC9D84F72DD9D33F59E4F1F4CFDA06BA",
+   "sender": "Gila",
+   "text": "מחיר גמיש היא אומרת",
+   "ts": 1790176173000,
+   "date": "2026-09-23",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972502198987"
+  },
+  {
+   "id": "ACA5031F4B64E45D1EEC7FD9AB6D281B",
+   "sender": "Gila",
+   "text": "",
+   "ts": 1790176259000,
+   "date": "2026-09-23",
+   "time": "18:10",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "46KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/106-5_OcAqf_tj4AAYBFpxItAfhbwm1uP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972502198987"
   }
