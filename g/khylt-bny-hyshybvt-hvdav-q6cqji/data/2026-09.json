@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-23T16:07:31.305Z",
+ "updated": "2026-09-23T16:16:40.782Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2358,6 +2358,48 @@
    "files": [],
    "drive": null,
    "phone": "972529407610"
+  },
+  {
+   "id": "ACFA1784EFE963A33542E0CDA116F50B",
+   "sender": "יהודה",
+   "text": "לא שמתי לב אם יש \n\nאתמול קניתי....",
+   "ts": 1790179657000,
+   "date": "2026-09-23",
+   "time": "19:07",
+   "files": [],
+   "drive": null,
+   "phone": "972509190015"
+  },
+  {
+   "id": "AC802213642940FDA6DA9AEE9177A50F",
+   "sender": "אלקנה",
+   "text": "ביש גם מוכרים?",
+   "ts": 1790179673000,
+   "date": "2026-09-23",
+   "time": "19:07",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "A546048FE3B0CB45E46E6CFC7527C284",
+   "sender": "נתי",
+   "text": "ביום שישי היו הגדלים האלו",
+   "ts": 1790180164000,
+   "date": "2026-09-23",
+   "time": "19:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16FI3lYUX0fVB8EC-tpYmlLIeFa74W5E1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16FI3lYUX0fVB8EC-tpYmlLIeFa74W5E1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533559987"
   }
  ]
 }
