@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "עזי לוי -עדכוני AI וטיפים -1",
- "updated": "2026-09-23T13:34:53.457Z",
+ "updated": "2026-09-23T13:41:53.545Z",
  "messages": [
   {
    "id": "3EB0A063082AA6DD60B0E6",
@@ -18,6 +18,26 @@
      "path": "https://drive.google.com/file/d/1kZNADHwdBDtdLOOOyBe9AAJEiOxDtF5p/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1kZNADHwdBDtdLOOOyBe9AAJEiOxDtF5p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0B4608438F33753D0CC",
+   "sender": "Ezy Levy",
+   "text": "היחברים,  OpenAI התחילו את המעבר מ GPTs *לפלאגינים*\n\nה GPTs המותאמים אישית שאנחנו מכירים צפויים לצאת בהדרגה, ובמקומם נכנס פורמט חדש של Plugins, שכבר מתחיל להופיע ישירות ב Sidebar של ChatGPT.\n\nההבדל המעניין: פלאגין יכול לשלב גם הוראות קבועות וגם חיבורים לכלים ומקורות מידע, כלומר לא רק \"GPT עם פרומפט\", אלא רכיב שיכול להשתלב עמוק יותר בתוך סביבת העבודה.\n\n* עכשיו זה יהיה מעניין לשמוע ולראות את כל הקומבינציות שיצוצו עכשיו.\n* מוזמנים לשתף בקבוצת ההתייעצות ( לינק בתיאור )\n\nOpenAI כבר החלו לפתוח אפשרות מיגרציה לחשבונות מסוימים, והמעבר ייפתח בהדרגה.\n\nבקיצור: אם בניתם GPTs שימושיים, עדיין לא למחוק כלום, אבל בהחלט להתחיל להבין איך הם נראים בעולם החדש של Plugins.\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.",
+   "ts": 1790170905000,
+   "date": "2026-09-23",
+   "time": "16:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "66KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QdCKSFY9B0z1RpCW7yv08wcNW7JPn-mM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QdCKSFY9B0z1RpCW7yv08wcNW7JPn-mM&sz=w1200"
     }
    ],
    "drive": null,

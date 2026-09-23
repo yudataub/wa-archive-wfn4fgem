@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T13:26:01.476Z",
+ "updated": "2026-09-23T13:47:39.430Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -4511,6 +4511,66 @@
    ],
    "drive": null,
    "phone": "972525442642"
+  },
+  {
+   "id": "2A7B1C1E880A0BFABE07",
+   "sender": "Kim Eliya Nails",
+   "text": "",
+   "ts": 1790171226000,
+   "date": "2026-09-23",
+   "time": "16:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QapxFcZJlJfKrAeRhm6M3-Unx9JD5X0h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QapxFcZJlJfKrAeRhm6M3-Unx9JD5X0h&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528058380"
+  },
+  {
+   "id": "2AD921CB0CA9B4312E46",
+   "sender": "Kim Eliya Nails",
+   "text": "",
+   "ts": 1790171229000,
+   "date": "2026-09-23",
+   "time": "16:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "346KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/135dJ2bNlJ9t161tyHnjewdf5jGHfjid4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=135dJ2bNlJ9t161tyHnjewdf5jGHfjid4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528058380"
+  },
+  {
+   "id": "2AA883EDE0C996D335FA",
+   "sender": "Kim Eliya Nails",
+   "text": "מזוודה גדולה צהובה ועוד טרולית ורודה למסירה למי שצריך לא חדשות אבל גם לא שבורות \nנמחק המספר טלפון לכן הקישקוש שם",
+   "ts": 1790171232000,
+   "date": "2026-09-23",
+   "time": "16:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1akdbTlMbPHVozJwnogoPZ_H5mcupf28A/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1akdbTlMbPHVozJwnogoPZ_H5mcupf28A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528058380"
   }
  ]
 }
