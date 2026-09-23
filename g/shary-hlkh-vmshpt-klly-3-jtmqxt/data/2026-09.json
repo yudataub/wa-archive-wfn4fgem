@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-23T07:32:46.158Z",
+ "updated": "2026-09-23T07:47:16.380Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -1659,6 +1659,79 @@
    "files": [],
    "drive": null,
    "phone": "972508347810"
+  },
+  {
+   "id": "ACC81DB9744A0114033FC96BEA3E0A48",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "איזה פסולת",
+   "ts": 1790149263000,
+   "date": "2026-09-23",
+   "time": "10:41",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC6AAD5659F91A668F9816EBAE9E49BC",
+   "sender": "n.e.",
+   "text": "הקרשים האלה רחבים אמרו לי שנה שעברה לעשות רווח יותר מ 24 בינהם עשיתי את זה. אבל נשאר לי סמוך לדופן אחד פחות מ 24. זה בעיה בכשרות סוכה? מצרף",
+   "ts": 1790149597000,
+   "date": "2026-09-23",
+   "time": "10:46",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "ACDE287FBD71DD5BA5EF9544594FE4F5",
+   "sender": "n.e.",
+   "text": "",
+   "ts": 1790149603000,
+   "date": "2026-09-23",
+   "time": "10:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LA7m-voqf-BOMJ-eTF_eofWdRCKA5oOa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LA7m-voqf-BOMJ-eTF_eofWdRCKA5oOa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "ACE7C9DBA6D5B73A11B4FEC5F9D86A88",
+   "sender": "n.e.",
+   "text": "",
+   "ts": 1790149604000,
+   "date": "2026-09-23",
+   "time": "10:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "218KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I-NYjOy-LpD7WMaW1M9HKFm8i9wwyuom/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I-NYjOy-LpD7WMaW1M9HKFm8i9wwyuom&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC9FC87A8C7117948B8203E9FACBE41D",
+   "sender": "n.e.",
+   "text": "הקרש האחרון שסמוך לדלת",
+   "ts": 1790149631000,
+   "date": "2026-09-23",
+   "time": "10:47",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
   }
  ]
 }
