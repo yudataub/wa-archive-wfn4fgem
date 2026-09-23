@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם",
- "updated": "2026-09-23T06:16:15.919Z",
+ "updated": "2026-09-23T06:24:15.198Z",
  "messages": [
   {
    "id": "gm-1a05b0fd61a0e542",
@@ -3937,6 +3937,26 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "AC6618FD66AEC53660E9C60E0CDCBCF9",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790144644000,
+   "date": "2026-09-23",
+   "time": "09:24",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "25KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1PeRk07VLImPu-xShoq4Os8wfOqo4eFm0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PeRk07VLImPu-xShoq4Os8wfOqo4eFm0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545949809"
   }
  ]
 }

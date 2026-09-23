@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T05:19:46.005Z",
+ "updated": "2026-09-23T06:26:44.267Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2954,6 +2954,85 @@
    ],
    "drive": null,
    "phone": "972556717628"
+  },
+  {
+   "id": "3A11CF73B7D1C991771C",
+   "sender": "שלמה והודיה בן חיים",
+   "text": "",
+   "ts": 1790144489000,
+   "date": "2026-09-23",
+   "time": "09:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "381KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e5sFQjKqOcwzm5N9y01hLu_XqNO3xg6-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e5sFQjKqOcwzm5N9y01hLu_XqNO3xg6-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972536891688"
+  },
+  {
+   "id": "2A9E38714F41CE36BDD8",
+   "sender": "מעיין גז",
+   "text": "✨ העמדות הכי מבוקשות לאירועים הכי מרגשים ✨\n\nימי הולדת / עיצוב חדרים / בריתות / בר ובת מצווה / עלייה לתורה / מקווה / חינה / הפרשת חלה\n\nמעיין גז | עיצוב אירועים 🎈🤍",
+   "ts": 1790144690000,
+   "date": "2026-09-23",
+   "time": "09:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "9.8MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972548740022"
+  },
+  {
+   "id": "AC196E7A5FBEF6C6873C55EB278CCB33",
+   "sender": "מורן שושן",
+   "text": "חדשים למיטה זוגית\n100% כותנה",
+   "ts": 1790144722000,
+   "date": "2026-09-23",
+   "time": "09:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Qmmalejpn5IHqUFSNhu2aBqJ2z2eumUS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qmmalejpn5IHqUFSNhu2aBqJ2z2eumUS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524340803"
+  },
+  {
+   "id": "A5ADF0C7D498F2E3E1E1761C01057068",
+   "sender": "prima textile",
+   "text": "*בַּעַל הַבַּיִת הִשְׁתַּגֵּעַ🥳🥳🥳*\n\n🎉*מבצעי חג מטורפים!*\n\n*מצעים 100% כותנה*\n🔥יחיד 4 ב300 | זוגי 4 400\n*מיטה וחצי 4 ב350*\n*שמיכות פוך*\n🔥 זוגי — 4 ב400 \n🔥 יחיד — 4 ב350 \n\n*מגני מזרן*\n🔥 3 ב120\n\n*כריות היפואלרגני 3 ב100*\n\n🚕 *קיימים משלוחים*\n\n📞 להזמנות ופרטים נוספים:\n058-6309706\nבברכת חתימה טובה🫶🏻",
+   "ts": 1790144796000,
+   "date": "2026-09-23",
+   "time": "09:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "605KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UhtnM7AI2b-xSb0fbINTET9LymyXmdJW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UhtnM7AI2b-xSb0fbINTET9LymyXmdJW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586309706"
   }
  ]
 }
