@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-23T18:38:02.399Z",
+ "updated": "2026-09-23T22:05:29.909Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -938,6 +938,57 @@
    "files": [],
    "drive": null,
    "phone": "972527832772"
+  },
+  {
+   "id": "A5483F83C073D181BE6B4406A38F58D1",
+   "sender": "המתוקים של אבישג",
+   "text": "",
+   "ts": 1790201110000,
+   "date": "2026-09-24",
+   "time": "01:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XjUCrIgVDUyJjFxdSr0PRy8_cPGGWa8w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XjUCrIgVDUyJjFxdSr0PRy8_cPGGWa8w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406993"
+  },
+  {
+   "id": "A5ECE9C27CB39794C770D40428F395DB",
+   "sender": "המתוקים של אבישג",
+   "text": "",
+   "ts": 1790201110000,
+   "date": "2026-09-24",
+   "time": "01:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17ab9DJItttwatKzBQZrdvHjwj1ImiMao/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17ab9DJItttwatKzBQZrdvHjwj1ImiMao&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406993"
+  },
+  {
+   "id": "A5A3C01F54847293D405641F439FCF27",
+   "sender": "המתוקים של אבישג",
+   "text": "אוי ואבוי מפחיד🤦‍♀️",
+   "ts": 1790201131000,
+   "date": "2026-09-24",
+   "time": "01:05",
+   "files": [],
+   "drive": null,
+   "phone": "972532406993"
   }
  ]
 }

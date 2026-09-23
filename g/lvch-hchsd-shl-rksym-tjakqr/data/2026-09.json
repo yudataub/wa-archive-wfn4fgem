@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-23T21:45:28.621Z",
+ "updated": "2026-09-23T21:58:28.796Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2695,6 +2695,25 @@
    "files": [],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "AC6BEAB43EB44C4C65A4A6EEE579C703",
+   "sender": "מ.ד.",
+   "text": "",
+   "ts": 1790200693000,
+   "date": "2026-09-24",
+   "time": "00:58",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "32KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1LZ7-I8tSgfQWMbCeBkEazAmH260gEMuv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527691942"
   }
  ]
 }
