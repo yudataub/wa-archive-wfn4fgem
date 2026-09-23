@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-23T07:55:45.360Z",
+ "updated": "2026-09-23T07:57:45.397Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -1754,6 +1754,26 @@
    "files": [],
    "drive": null,
    "phone": "972533004711"
+  },
+  {
+   "id": "AC6E0C16213DDB4E17436780F88BB42D",
+   "sender": "מוטי",
+   "text": "",
+   "ts": 1790150235000,
+   "date": "2026-09-23",
+   "time": "10:57",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "188KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1ivqjVgyWjeOECnVZaR7xN7JRIPo2VvIJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ivqjVgyWjeOECnVZaR7xN7JRIPo2VvIJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508347810"
   }
  ]
 }

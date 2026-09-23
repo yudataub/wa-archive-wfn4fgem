@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T07:48:15.357Z",
+ "updated": "2026-09-23T08:07:15.639Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -3391,6 +3391,81 @@
    ],
    "drive": null,
    "phone": "972559326761"
+  },
+  {
+   "id": "A594F811C52FD74E53D532307CD8B3F8",
+   "sender": "שימרית פורת",
+   "text": "איפה מומלץ להדפיס בקריה הזמנות לארוע ומגנטים מעוצבים ?",
+   "ts": 1790150455000,
+   "date": "2026-09-23",
+   "time": "11:00",
+   "files": [],
+   "drive": null,
+   "phone": "972504241862"
+  },
+  {
+   "id": "AC0AA9C93300A9CEFB7A89722E6F7C94",
+   "sender": "שלום. מ",
+   "text": "📇 דפוס לוסי\n+972537217859",
+   "ts": 1790150492000,
+   "date": "2026-09-23",
+   "time": "11:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526573753"
+  },
+  {
+   "id": "A52940695779F5F2DC117E0E05ACD839",
+   "sender": "שימרית פורת",
+   "text": "תודה",
+   "ts": 1790150515000,
+   "date": "2026-09-23",
+   "time": "11:01",
+   "files": [],
+   "drive": null,
+   "phone": "972504241862"
+  },
+  {
+   "id": "3A1755ED0AFE40FF9548",
+   "sender": "אלחנן כהן",
+   "text": "",
+   "ts": 1790150701000,
+   "date": "2026-09-23",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jrZa-rW2qEa0Zo4xJvrcXHc8ZMrHKnJR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jrZa-rW2qEa0Zo4xJvrcXHc8ZMrHKnJR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552804085"
+  },
+  {
+   "id": "3A133A4D52CA47072C3D",
+   "sender": "אלחנן כהן",
+   "text": "מקצוען 🔥",
+   "ts": 1790150711000,
+   "date": "2026-09-23",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972552804085"
+  },
+  {
+   "id": "AC1F3D01B2D13FB921DC9339F46536FD",
+   "sender": "מיכל",
+   "text": "מגנטים את יכולה אצלי :)",
+   "ts": 1790150828000,
+   "date": "2026-09-23",
+   "time": "11:07",
+   "files": [],
+   "drive": null,
+   "phone": "972547029885"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-23T07:29:46.117Z",
+ "updated": "2026-09-23T08:05:45.596Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -1930,6 +1930,68 @@
    "files": [],
    "drive": null,
    "phone": "972587161155"
+  },
+  {
+   "id": "ACE6C11CE2DFDD91BA2F0017C78722E7",
+   "sender": "אלקנה",
+   "text": "מורינו הרב ליפשיץ ביתד של חג סוכות",
+   "ts": 1790150681000,
+   "date": "2026-09-23",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "295KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12EqVfPlp_XHiKInLhfxa-e6SybnktdDk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12EqVfPlp_XHiKInLhfxa-e6SybnktdDk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "AC6FE1C7D37BE3B834B4866D16934C52",
+   "sender": "אלקנה",
+   "text": "",
+   "ts": 1790150708000,
+   "date": "2026-09-23",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-gVPhId7tmr5I7iAesdYVwAtXv8WTORC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-gVPhId7tmr5I7iAesdYVwAtXv8WTORC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "A507F0FB12E6832626FEA3CBD5D0C822",
+   "sender": "מוישי ולדמן",
+   "text": "תוכל לשלוח את כל הכתבה בבקשה?",
+   "ts": 1790150721000,
+   "date": "2026-09-23",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "A562D91A144B2B1357777FD225834EE5",
+   "sender": "מוישי ולדמן",
+   "text": "אה, הנה\nתודה רבה",
+   "ts": 1790150730000,
+   "date": "2026-09-23",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
   }
  ]
 }
