@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-09-22T17:05:40.558Z",
+ "updated": "2026-09-23T05:19:14.633Z",
  "messages": [
   {
    "id": "A50C37F3B60616A637148B5C6BE8510E",
@@ -105,6 +105,26 @@
    "date": "2026-09-22",
    "time": "20:05",
    "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A59CB973F9702F512B2AF238550C5A1C",
+   "sender": "mary garby",
+   "text": "רכזות חברתיות וצוותי חינוך יקרים, \nלפניכם קומיקס הלקוח מתוך ערכת \"בוחרים- מסע ערכי אל עולם הבחירות\" שתצא בקרוב. \nhttps://meyda.education.gov.il/files/yesodi/Hevra/hanhagat_talmidim/boharim_comics.pdf",
+   "ts": 1790140735000,
+   "date": "2026-09-23",
+   "time": "08:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "361KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pEDCQpm8N2uGP6L8Yl9ZxjwcskdrkvkE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pEDCQpm8N2uGP6L8Yl9ZxjwcskdrkvkE&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546887626"
   }

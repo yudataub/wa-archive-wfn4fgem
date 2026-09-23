@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-23T05:00:14.252Z",
+ "updated": "2026-09-23T05:19:46.005Z",
  "messages": [
   {
    "id": "gm-1a059a20633f378c",
@@ -2934,6 +2934,26 @@
    "files": [],
    "drive": null,
    "phone": "972549534747"
+  },
+  {
+   "id": "ACA4FE45212FE53037055DAE5754B553",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1790140762000,
+   "date": "2026-09-23",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dstB77nOWPjhQEuwN7oLL3knUiYx3Tha/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dstB77nOWPjhQEuwN7oLL3knUiYx3Tha&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
   }
  ]
 }
