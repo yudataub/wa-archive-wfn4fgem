@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-09-23T10:37:07.726Z",
+ "updated": "2026-09-23T10:41:43.039Z",
  "messages": [
   {
    "id": "A5B66BB8EA4ED0D7F787CF823F6BF9F6",
@@ -1052,6 +1052,104 @@
    "files": [],
    "drive": null,
    "phone": "972584161256"
+  },
+  {
+   "id": "AC3DDDB87ED1301856AE4CF90B595C35",
+   "sender": "Tk",
+   "text": "חוק במדינה \nעל כל הכנסה את חייבת לדווח גם אם היא חד פעמית....\nלמשל עבדת בקיטנה בקיץ זה סכום חד פעמי ובכל זאת עליך לעשות תיאום מס.\nבכל אופן אם יש לך נקודות זיכוי לא ירד לך על זה מס הכנסה",
+   "ts": 1790159957000,
+   "date": "2026-09-23",
+   "time": "13:39",
+   "files": [],
+   "drive": null,
+   "phone": "972526206305"
+  },
+  {
+   "id": "AC51C4FA4B4B87607282E204A5DB9A68",
+   "sender": "יסמין ווקנין",
+   "text": "🚦🧜🏿‍♀️🐟🦄🔪🩹",
+   "ts": 1790160032000,
+   "date": "2026-09-23",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542616971"
+  },
+  {
+   "id": "ACD945330E9862856BAE275E928EF5AD",
+   "sender": "יסמין ווקנין",
+   "text": "",
+   "ts": 1790160033000,
+   "date": "2026-09-23",
+   "time": "13:40",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "5KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1tXAGaKNBAxqmkRx-krUybDyM_3CZSo3m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542616971"
+  },
+  {
+   "id": "AC493B0FEEEA57AEBF0D6D30E7672BAF",
+   "sender": "יסמין ווקנין",
+   "text": "",
+   "ts": 1790160043000,
+   "date": "2026-09-23",
+   "time": "13:40",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "44KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1zwxEsrDFem5CBaW2G1_j2_C0_3GNEmmp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542616971"
+  },
+  {
+   "id": "AC167163AD154A8004CF023C66ADB00D",
+   "sender": "יסמין ווקנין",
+   "text": "",
+   "ts": 1790160084000,
+   "date": "2026-09-23",
+   "time": "13:41",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "34KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/19QVJtufzEDl7KtYzSlNDfVEhpdLpWDHz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542616971"
+  },
+  {
+   "id": "AC534729B3C10E347C54831FCE8593FD",
+   "sender": "יסמין ווקנין",
+   "text": "",
+   "ts": 1790160094000,
+   "date": "2026-09-23",
+   "time": "13:41",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "14KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1SI_s0ZHqJM6twRqHCzf-6Yo532pqt6Sq/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542616971"
   }
  ]
 }
