@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-23T11:35:45.652Z",
+ "updated": "2026-09-23T11:58:46.006Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -447,6 +447,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1nq2gJir1ScYkbkZdb7t3vCV_Yjn2p--T&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972523772770"
+  },
+  {
+   "id": "ACA0C80162808810F7AF7983D2AE9785",
+   "sender": "וייסגלס יצחק",
+   "text": "בבקשה להציג בסטטוס שלכם",
+   "ts": 1790164701000,
+   "date": "2026-09-23",
+   "time": "14:58",
+   "files": [],
    "drive": null,
    "phone": "972523772770"
   }
