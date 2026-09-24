@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-23T21:47:58.632Z",
+ "updated": "2026-09-24T05:05:36.708Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4014,6 +4014,106 @@
    "files": [],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "A5BC749619EAF62E4AD24A0D88848A9B",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מברגה אימפקט+ סט כלי עבודה 200 שח נשארו סטים אחרונים",
+   "ts": 1790225913000,
+   "date": "2026-09-24",
+   "time": "07:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/193qOzYZo_U3JPl40XQJIOTRWw_yaDdSI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=193qOzYZo_U3JPl40XQJIOTRWw_yaDdSI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A5184F55D7B7F9B6789B14B9CD8B41AC",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "",
+   "ts": 1790225914000,
+   "date": "2026-09-24",
+   "time": "07:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nfldkJIQgUUwXHz9-N3usfFSHvE0NNSL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nfldkJIQgUUwXHz9-N3usfFSHvE0NNSL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A505307EE593D57E48BC7917DD1C9FB5",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מברגה אימפקט חזקה+2 בטריות+ מטען+ ארגז 250 שח \nאחריות ל3 חודשים",
+   "ts": 1790225969000,
+   "date": "2026-09-24",
+   "time": "07:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11FRn8MDRtLu6tjb97gVFJm2-4lr5Us8B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11FRn8MDRtLu6tjb97gVFJm2-4lr5Us8B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "A52C3F0F3AFD691AAE02A83E9C4A5F1A",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מפוח עלים+ שואב חזק 100 שח בלבד",
+   "ts": 1790226043000,
+   "date": "2026-09-24",
+   "time": "08:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D2eOf77eMyrB84R7x5t6jnA268X5GsTI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D2eOf77eMyrB84R7x5t6jnA268X5GsTI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
+  },
+  {
+   "id": "3A07B6314784D0E7BD7A",
+   "sender": "מוריה",
+   "text": "",
+   "ts": 1790226313000,
+   "date": "2026-09-24",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UAY7eOwDLtO9v6y-rdvI1GQUNAD90Sb8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UAY7eOwDLtO9v6y-rdvI1GQUNAD90Sb8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508284449"
   }
  ]
 }
