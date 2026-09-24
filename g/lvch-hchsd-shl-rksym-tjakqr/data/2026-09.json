@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T06:52:20.987Z",
+ "updated": "2026-09-24T07:05:51.286Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2877,6 +2877,37 @@
    "files": [],
    "drive": null,
    "phone": "972507333664"
+  },
+  {
+   "id": "AC4DC206763CE3AF93F3EE1D4F3192F0",
+   "sender": "הדס",
+   "text": "משהו יודע היכן אפשר לקנות ברכסים כפות תמרים לסכך בערך 7 כפות",
+   "ts": 1790233370000,
+   "date": "2026-09-24",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972587878283"
+  },
+  {
+   "id": "ACD32C119B6FBB715FF4645971B83D6D",
+   "sender": "ידידיה ינון רענן",
+   "text": "",
+   "ts": 1790233532000,
+   "date": "2026-09-24",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-s-h7WAuja0uJ5JAn_m2YUJYZ_NtrpeT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-s-h7WAuja0uJ5JAn_m2YUJYZ_NtrpeT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505704142"
   }
  ]
 }

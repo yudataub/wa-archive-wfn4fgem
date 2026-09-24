@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T06:42:50.823Z",
+ "updated": "2026-09-24T06:57:51.054Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -7446,6 +7446,26 @@
      "path": "https://drive.google.com/file/d/10qsBn61ED2cvhfLRwDo0uLFu1YNzOa-S/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=10qsBn61ED2cvhfLRwDo0uLFu1YNzOa-S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0C61BEDF987847EE398",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: חיבור עולמות בהקמת סוכתו של זאבי פריד בירושלים, בין הרה\"ח רבי יוסף צבי ברייער מלחין חצר הקודש בעלזא לכוכב העשור שרולי גרין.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790233065000,
+   "date": "2026-09-24",
+   "time": "09:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11Fb_mnS7nVivrwb7DzyBG3wNGp0YH1uS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11Fb_mnS7nVivrwb7DzyBG3wNGp0YH1uS&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-23T17:15:17.788Z",
+ "updated": "2026-09-24T07:00:51.147Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1949,6 +1949,44 @@
    "date": "2026-09-23",
    "time": "20:15",
    "files": [],
+   "drive": null,
+   "phone": "972585808247"
+  },
+  {
+   "id": "3EB0A4679FB1E81D7E375E",
+   "sender": "אהרן קדוש",
+   "text": "",
+   "ts": 1790233231000,
+   "date": "2026-09-24",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "סֻכַּת שָׁלוֹם - רעיון לחג הסוכות - תשפו.pdf",
+     "size": "160KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mhdEYgcbgPq0YhnPD-nBEFg3fcxZtvrS/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585808247"
+  },
+  {
+   "id": "3EB083F73DB8E945968134",
+   "sender": "אהרן קדוש",
+   "text": "",
+   "ts": 1790233232000,
+   "date": "2026-09-24",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "רַק אוֹרֵחַ- רעיון לחג הסוכות.pdf",
+     "size": "157KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1zQg30-p2n_LV2QXycrzZQrK0f6nGvx7m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972585808247"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-09-23T13:26:01.490Z",
+ "updated": "2026-09-24T07:02:51.275Z",
  "messages": [
   {
    "id": "3EB0CD9B06513F181BEBF8",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/1gqvQNMnkNoj6Za0cadpjOK_wMpP7uZ-0/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1gqvQNMnkNoj6Za0cadpjOK_wMpP7uZ-0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB0DF776D4B1D7DF023FA",
+   "sender": "הרצאות מהכורסא",
+   "text": "בוקר טוב, *בעוד כשעה*, נתחיל במפגש זום למנויים בלבד, *שיחות מהכורסא - AI עם רון יחזקאל*.\nהצטרפו אלינו למפגש זום מעשי ותרגול משותף, התנסות והדגמות בנושאי AI. אין צורך בידע מוקדם.\n\n👈🏼 *להצטרפות בשעה 11:00 לחצו כאן*: https://bit.ly/4gIW9Fd",
+   "ts": 1790233363000,
+   "date": "2026-09-24",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FdLe9lfXiHEpJDAdt0K6OmqGgFy3UVUc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FdLe9lfXiHEpJDAdt0K6OmqGgFy3UVUc&sz=w1200"
     }
    ],
    "drive": null,
