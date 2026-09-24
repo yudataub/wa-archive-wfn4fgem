@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-24T06:51:20.979Z",
+ "updated": "2026-09-24T07:24:30.420Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2768,6 +2768,48 @@
    "files": [],
    "drive": null,
    "phone": "972555649000"
+  },
+  {
+   "id": "AC6E1DE6F712389B5BF3868427A509EB",
+   "sender": "דודי שטרן",
+   "text": "היום היום בין 1-2 ובין 8-9 בערב",
+   "ts": 1790234623000,
+   "date": "2026-09-24",
+   "time": "10:23",
+   "files": [],
+   "drive": null,
+   "phone": "972548528996"
+  },
+  {
+   "id": "AC704DD4BCCAEEE55D298A41DB07F6EC",
+   "sender": "דודי שטרן",
+   "text": "",
+   "ts": 1790234624000,
+   "date": "2026-09-24",
+   "time": "10:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QRWNQ1laJTPxVi0ow7Rjaac9y3OOwZ9L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QRWNQ1laJTPxVi0ow7Rjaac9y3OOwZ9L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
+  },
+  {
+   "id": "AC5D2D05E82AB9A7FAA84612C35477B7",
+   "sender": "דודי שטרן",
+   "text": "סחורה יפה מאוד שאין להשיג בשום מקום אחר",
+   "ts": 1790234658000,
+   "date": "2026-09-24",
+   "time": "10:24",
+   "files": [],
+   "drive": null,
+   "phone": "972548528996"
   }
  ]
 }

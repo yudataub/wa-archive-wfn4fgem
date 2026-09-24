@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T07:09:21.523Z",
+ "updated": "2026-09-24T07:20:00.403Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -7479,6 +7479,26 @@
    "date": "2026-09-24",
    "time": "10:09",
    "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB09C0BF66F8DF6CF6BE0",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הרב מאיר מלכה מתלונן שלא מצליח לגייס את הכסף שחסר לספר תורה לנתניהו\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790234381000,
+   "date": "2026-09-24",
+   "time": "10:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "130KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jxMbMCbzxfL4DMLvPYxoQLVVwW90PFMD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jxMbMCbzxfL4DMLvPYxoQLVVwW90PFMD&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972535629624"
   }
