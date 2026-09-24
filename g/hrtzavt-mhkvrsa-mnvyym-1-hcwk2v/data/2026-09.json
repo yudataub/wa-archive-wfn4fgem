@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-09-24T07:02:51.275Z",
+ "updated": "2026-09-24T10:14:58.978Z",
  "messages": [
   {
    "id": "3EB0CD9B06513F181BEBF8",
@@ -58,6 +58,26 @@
      "path": "https://drive.google.com/file/d/1FdLe9lfXiHEpJDAdt0K6OmqGgFy3UVUc/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1FdLe9lfXiHEpJDAdt0K6OmqGgFy3UVUc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB046142FB61902A5AC67",
+   "sender": "הרצאות מהכורסא",
+   "text": "מנויים יקרים,\nשמחנו לפגוש רבים מכם הבוקר במפגש שיחות מהכורסא – AI עם רון יחזקאל.\n\n📝 למי שהשתתפו, וגם למי שלא הספיקו להצטרף, מצורף כאן קישור לקובץ התרגול שעליו עבדנו במפגש (וכן סיכומי תרגול מהמפגשים הקודמים):  https://bit.ly/45FsrdQ \n\nהמפגש הבא יתקיים ביום חמישי, 08/10/26, במסגרת מפגשי שיחות מהכורסא למנויים בלבד.\n\n👈🏼 להרשמה למפגש הבא:  https://bit.ly/4oPwOf2 \n\nנאחל לכולכם סופשבוע טוב וחג שמח 🌿",
+   "ts": 1790244884000,
+   "date": "2026-09-24",
+   "time": "13:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LrLxd1KUAEGuXxY4YrrF3CDKbUQ6OG9N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LrLxd1KUAEGuXxY4YrrF3CDKbUQ6OG9N&sz=w1200"
     }
    ],
    "drive": null,

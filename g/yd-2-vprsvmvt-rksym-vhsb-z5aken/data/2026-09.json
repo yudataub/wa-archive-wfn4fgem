@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T10:03:27.337Z",
+ "updated": "2026-09-24T10:12:28.932Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4289,6 +4289,68 @@
    ],
    "drive": null,
    "phone": "972525368606"
+  },
+  {
+   "id": "ACA7B14670548998D8D5B697D4B4BBFC",
+   "sender": "מירי מעון חלומותי",
+   "text": "אבדו תפילין ללא שם ברכסים\nמי שמוצא\nשיצור קשר\n0543340919",
+   "ts": 1790244640000,
+   "date": "2026-09-24",
+   "time": "13:10",
+   "files": [],
+   "drive": null,
+   "phone": "972535346233"
+  },
+  {
+   "id": "A58BC1F67FFC931B7F5C1F65F0D84BAB",
+   "sender": "יוסף ישראל",
+   "text": "",
+   "ts": 1790244698000,
+   "date": "2026-09-24",
+   "time": "13:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IHoD7mGe-CDiUlPB5DEaLgLUIYYir2Ah/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IHoD7mGe-CDiUlPB5DEaLgLUIYYir2Ah&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559503426"
+  },
+  {
+   "id": "A5F558C3B8C5357EAC9F831F69C4020F",
+   "sender": "יוסף ישראל",
+   "text": "",
+   "ts": 1790244699000,
+   "date": "2026-09-24",
+   "time": "13:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17VoODyvyis4iwHR604JlvyiZkynCPpSZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17VoODyvyis4iwHR604JlvyiZkynCPpSZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559503426"
+  },
+  {
+   "id": "A5F239BE936574253C93C56A6FC8D370",
+   "sender": "יוסף ישראל",
+   "text": "מזכיר לכולם ניתן להזמין דגים טריים לחג  מלאי מוגבל  0559503426",
+   "ts": 1790244720000,
+   "date": "2026-09-24",
+   "time": "13:12",
+   "files": [],
+   "drive": null,
+   "phone": "972559503426"
   }
  ]
 }

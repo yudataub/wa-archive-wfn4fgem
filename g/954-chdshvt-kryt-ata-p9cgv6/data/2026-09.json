@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "954- חדשות קרית אתא 🔟",
- "updated": "2026-09-24T09:35:49.410Z",
+ "updated": "2026-09-24T10:10:29.217Z",
  "messages": [
   {
    "id": "3EB06F956B268F6A0331D5",
@@ -31,6 +31,26 @@
    "date": "2026-09-24",
    "time": "12:35",
    "files": [],
+   "drive": null,
+   "phone": "972542240130"
+  },
+  {
+   "id": "3EB0C0B2B8E15B6DF11B47",
+   "sender": "לוין",
+   "text": "*הותר לפרסום: זהו תושב העיר שנהרג אתמול בתאונת הדרכים הקשה*\nhttps://954.co.il/?p=20695\n\n*הצטרפו לקבוצת החדשות בקריית אתא*",
+   "ts": 1790244614000,
+   "date": "2026-09-24",
+   "time": "13:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18JR9dmDW_2Xvx2MNoDrP22yEDU8eSsKi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18JR9dmDW_2Xvx2MNoDrP22yEDU8eSsKi&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972542240130"
   }
