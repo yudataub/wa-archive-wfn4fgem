@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T12:36:50.010Z",
+ "updated": "2026-09-24T12:52:20.544Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -692,6 +692,26 @@
    ],
    "drive": null,
    "phone": "972549534747"
+  },
+  {
+   "id": "ACF406B2DD86EE48A82E7CE60631A06F",
+   "sender": "שמואל מלול",
+   "text": "",
+   "ts": 1790254334000,
+   "date": "2026-09-24",
+   "time": "15:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "580KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wvXKmlfivGfbQmIEuT4Et2EIeJDBr8qI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wvXKmlfivGfbQmIEuT4Et2EIeJDBr8qI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }

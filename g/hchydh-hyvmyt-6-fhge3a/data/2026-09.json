@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-09-24T08:59:13.826Z",
+ "updated": "2026-09-24T12:49:12.423Z",
  "messages": [
   {
    "id": "3EB091A47EBAB3BAF520A9",
@@ -147,6 +147,26 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1yPpGMfe7o6VNS5kcDwVTZ2R70dghQbUN/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0062E753BE9EDFAC72E",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "🥁🥁 🥁 הפרויקט הסודי שלנו עלה לאוויר:\n*ארץ-קיר! 🇮🇱 המשחק הדיגיטלי*\nחידון אינטראקטיבי עם מגוון שאלות על ידיעת הארץ - \nפעילות שמתאימה למשחק אישי או קבוצתי.\nבואו לנסות בעצמכם 👇\nhttps://roo.ws/nu1_HGTd\n\nמוזמנים להפיץ את הבשורה לכל אוהבי הארץ🙏\n*ארץ קיר 🧩 מחברים את ישראל*",
+   "ts": 1790254128000,
+   "date": "2026-09-24",
+   "time": "15:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18nc_vaBDSYow3hFXBW3p10oGoJ6B_hOq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18nc_vaBDSYow3hFXBW3p10oGoJ6B_hOq&sz=w1200"
     }
    ],
    "drive": null,

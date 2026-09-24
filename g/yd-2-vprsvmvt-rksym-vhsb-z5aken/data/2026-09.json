@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T12:27:49.305Z",
+ "updated": "2026-09-24T12:54:20.965Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4589,6 +4589,37 @@
    "files": [],
    "drive": null,
    "phone": "972545465996"
+  },
+  {
+   "id": "AC3086313DB07D149D80972711D4CF72",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790254174000,
+   "date": "2026-09-24",
+   "time": "15:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13fKnt3tF3-0LdUqeItQ0j8XreET0vABu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13fKnt3tF3-0LdUqeItQ0j8XreET0vABu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACE13CC029EF9C704F2D6A1053839DB0",
+   "sender": "❤️",
+   "text": "מישהו מגיע מרכסים לקרית אתא או הפוך לאזור הקניון",
+   "ts": 1790254458000,
+   "date": "2026-09-24",
+   "time": "15:54",
+   "files": [],
+   "drive": null,
+   "phone": "972506135969"
   }
  ]
 }
