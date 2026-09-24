@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T12:16:20.211Z",
+ "updated": "2026-09-24T12:20:18.272Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2224,6 +2224,25 @@
    "files": [],
    "drive": null,
    "phone": "972502322329"
+  },
+  {
+   "id": "A54D19D37027F58008DC0B1259F3F3B6",
+   "sender": "אלישיב רבהון",
+   "text": "",
+   "ts": 1790252407000,
+   "date": "2026-09-24",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "דפי הלכה לחידון סוכות ממד תורני גבעת מרדכי תשפז.pdf",
+     "size": "3.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Xv7isSm3PM4sq8F-UZ5wnMreqVXIWJHb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587665750"
   }
  ]
 }

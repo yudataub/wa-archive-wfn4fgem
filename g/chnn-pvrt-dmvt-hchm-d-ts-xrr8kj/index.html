@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v21 -->
+<!-- wa-archive-generated v22 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -180,6 +180,8 @@ function starCount(){return Object.keys(stars).length;}
 var feed=document.getElementById("feed"),more=document.getElementById("more");
 var statusEl=document.getElementById("status"),sub=document.getElementById("sub");
 var whoSel=document.getElementById("who");
+// ?who=<שם> מאלפון: מסנן מיד לפי שולח
+(function(){try{var p=new URLSearchParams(location.search);var w=p.get("who");if(w)who=w;}catch(_){}})();
 // "מי": בארכיון של צ'אטים אישיים — עם מי השיחה (thread); בקבוצה — השולח
 function whoOf(m){return m.thread?alias(m.thread,m.phone):alias(m.sender,m.phone);}
 function buildWho(){
