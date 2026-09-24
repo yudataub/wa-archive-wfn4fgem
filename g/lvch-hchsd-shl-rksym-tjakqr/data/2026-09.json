@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T05:42:11.110Z",
+ "updated": "2026-09-24T06:17:20.444Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2802,6 +2802,48 @@
    "files": [],
    "drive": null,
    "phone": "972523063932"
+  },
+  {
+   "id": "3A07D529796B2BB7FB5F",
+   "sender": "Naomi",
+   "text": "יש במקרה מישהו שצריך להגיע מבית שמש לרכסים ורוצה להגיע עם רכב?\nיש לי שם רכב במוסך, שצריכה שיביאו אותו לרכסים",
+   "ts": 1790230105000,
+   "date": "2026-09-24",
+   "time": "09:08",
+   "files": [],
+   "drive": null,
+   "phone": "972555689359"
+  },
+  {
+   "id": "AC2B8E88C4E8B12BEEB3A08367027651",
+   "sender": "hodaya goren",
+   "text": "",
+   "ts": 1790230614000,
+   "date": "2026-09-24",
+   "time": "09:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WcCrMbs_60tFtQWWQtmBp-rZLJ386vM6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WcCrMbs_60tFtQWWQtmBp-rZLJ386vM6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547979430"
+  },
+  {
+   "id": "AC77470A78E616B965E7154980C45F8C",
+   "sender": "hodaya goren",
+   "text": "אתמול הייתי אצלה \nמהמממת ומקצועית \nממליצה מממש תשמרו לכם",
+   "ts": 1790230614000,
+   "date": "2026-09-24",
+   "time": "09:16",
+   "files": [],
+   "drive": null,
+   "phone": "972547979430"
   }
  ]
 }
