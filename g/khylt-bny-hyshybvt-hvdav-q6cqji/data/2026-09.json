@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-24T18:41:06.452Z",
+ "updated": "2026-09-24T18:57:43.205Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2893,6 +2893,26 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "AC5C9EF1FDD03E7D923BFA2565EB4E80",
+   "sender": "נחמיה",
+   "text": "מישהו יודע איפה אפשר לקנות באיזור כיפה מהסוג הזה",
+   "ts": 1790276228000,
+   "date": "2026-09-24",
+   "time": "21:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bxgz5Q6XMNEf_1zzeBnO7HBSBM2aGINU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bxgz5Q6XMNEf_1zzeBnO7HBSBM2aGINU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544992060"
   }
  ]
 }
