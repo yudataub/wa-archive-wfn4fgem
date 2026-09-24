@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T11:36:43.284Z",
+ "updated": "2026-09-24T11:44:43.932Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -3584,6 +3584,92 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1917BB0995023F618D4991DF618DB7",
+   "sender": "הילה שמר",
+   "text": "כן אבל זה לא תחליף לקלאסרום. ממשרד החינוך חובה להיכנס לקלאסרום",
+   "ts": 1790250001000,
+   "date": "2026-09-24",
+   "time": "14:40",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB0BA3D28E83CE3C590C4",
+   "sender": "אני",
+   "text": "נכון - השאלה מה את מחפשת?",
+   "ts": 1790250078000,
+   "date": "2026-09-24",
+   "time": "14:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0E609C11F4A8E7B2A91",
+   "sender": "אני",
+   "text": "לצאת ידי חובה של משרד החינוך או שילדים השתתפו\nצריך לראות האם נצליח להגיע ל 10 אחוז מהילדים",
+   "ts": 1790250103000,
+   "date": "2026-09-24",
+   "time": "14:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACDA26CBF86DBB2FAC111AC2C7CB3FE7",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790250177000,
+   "date": "2026-09-24",
+   "time": "14:42",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "57KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1osZs4Pazdo8Ge-ekJui0emtUk0iBsL8r/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACADF82DD80339A7AAA58D3E3887BB07",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790250201000,
+   "date": "2026-09-24",
+   "time": "14:43",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "35KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1CheunMnk3cBYcULs5AU7r8l4FG44ncUb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC15702E69AE3564143A5996E3F76B24",
+   "sender": "הילה שמר",
+   "text": "אתה מבין?",
+   "ts": 1790250266000,
+   "date": "2026-09-24",
+   "time": "14:44",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
   }
  ]
 }
