@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T11:41:44.920Z",
+ "updated": "2026-09-24T12:07:46.706Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4446,6 +4446,46 @@
    "files": [],
    "drive": null,
    "phone": "972528380666"
+  },
+  {
+   "id": "3A3DF831EC3C58D7FF26",
+   "sender": "מוריה",
+   "text": "",
+   "ts": 1790251494000,
+   "date": "2026-09-24",
+   "time": "15:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "234KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M2qDsm1zD0moMMtlNTNUApdSVcEbOEmq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M2qDsm1zD0moMMtlNTNUApdSVcEbOEmq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508284449"
+  },
+  {
+   "id": "AC7DDAC10694E18910A0998F1B53F471",
+   "sender": "מ",
+   "text": "🎀🎀🎀🎀🎀🎀🎀🎀\nלהתחדש במוצרי איפור מהשורה הראשונה, עמידים, איכותיים, ובהתאמה מושלמת\n💎💎💎💎💎💎💎\nכל החברות המעולות בשוק:\nעדה לזורגן, אינגלוט, ירין שחף, סטטיק, מייבלין, רבלון, לוראל,אלקה\nועוד מבחר חברות ענק…\n🎖️💄🎖️💄🎖️💄🎖️💄🎖️\nונילה - איפור בישום טיפוח תכשיטי כסף ומוצרי שיער💫\nסביון 38 רכסים\n0534596204",
+   "ts": 1790251652000,
+   "date": "2026-09-24",
+   "time": "15:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "276KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wau7RrvlJwqBuY9MTlyB-Vy2xhoBHBz0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wau7RrvlJwqBuY9MTlyB-Vy2xhoBHBz0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547155101"
   }
  ]
 }
