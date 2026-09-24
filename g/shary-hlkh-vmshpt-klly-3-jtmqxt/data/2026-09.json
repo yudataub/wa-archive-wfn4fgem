@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T22:27:26.508Z",
+ "updated": "2026-09-24T23:18:30.276Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -3361,6 +3361,25 @@
    "files": [],
    "drive": null,
    "phone": "972526256599"
+  },
+  {
+   "id": "AC14412871E1750BDEF7B787E0A83932",
+   "sender": "הרב אוריאל בצר",
+   "text": "",
+   "ts": 1790291799000,
+   "date": "2026-09-25",
+   "time": "02:16",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "68KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1oYwIedLilG_AaNQWhdmzvw7r6Fu5m8Uc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533890390"
   }
  ]
 }
