@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T09:14:45.166Z",
+ "updated": "2026-09-24T09:22:15.467Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -2225,6 +2225,73 @@
    "drive": null,
    "thread": "Ashish pradhan",
    "phone": "972534033787"
+  },
+  {
+   "id": "3EB0CA01F57C59F4087FFD",
+   "sender": "אני",
+   "text": "לעשות אחרי יעקב משה רבינו",
+   "ts": 1790241589000,
+   "date": "2026-09-24",
+   "time": "12:19",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0043D0F0B61BB81F5DC",
+   "sender": "אני",
+   "text": "אני מחליף את המבחנים לאמריקאי - זה היה מאוד קשה לענות בכתב יד ולקלוע בדיוק למה שהוא רצה\nאף אחד לא הצליח להגיע כרגע ל 80",
+   "ts": 1790241643000,
+   "date": "2026-09-24",
+   "time": "12:20",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A5261C39A3F66667E84",
+   "sender": "Ashish pradhan",
+   "text": "I’m your appointment now please contact me",
+   "ts": 1790241647000,
+   "date": "2026-09-24",
+   "time": "12:20",
+   "files": [],
+   "drive": null,
+   "thread": "Ashish pradhan",
+   "phone": "972534033787"
+  },
+  {
+   "id": "3EB0D60AE1A5140D79A6B1",
+   "sender": "אני",
+   "text": "כן אפשר להגיע לשלם",
+   "ts": 1790241668000,
+   "date": "2026-09-24",
+   "time": "12:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0E49DB1BB8805887BC3",
+   "sender": "אני",
+   "text": "Yes, it is possible to reach total",
+   "ts": 1790241679000,
+   "date": "2026-09-24",
+   "time": "12:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5A26ACA8E1499C09812BC16C15C83DD",
+   "sender": "אני",
+   "text": "[מיקום]",
+   "ts": 1790241707000,
+   "date": "2026-09-24",
+   "time": "12:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
