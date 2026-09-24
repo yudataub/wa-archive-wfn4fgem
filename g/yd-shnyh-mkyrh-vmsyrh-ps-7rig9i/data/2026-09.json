@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-24T09:55:56.860Z",
+ "updated": "2026-09-24T11:23:53.330Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -669,6 +669,26 @@
    ],
    "drive": null,
    "phone": "972532406000"
+  },
+  {
+   "id": "3A15018B6F0A9E5663CC",
+   "sender": "אסף",
+   "text": "די וי די מקורי של הארי פוטר וחדר הסודות 90₪",
+   "ts": 1790249023000,
+   "date": "2026-09-24",
+   "time": "14:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/127PfgMAsGMfZBB30V_wVhmQyRGv-m6CH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=127PfgMAsGMfZBB30V_wVhmQyRGv-m6CH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }
