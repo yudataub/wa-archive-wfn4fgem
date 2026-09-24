@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T16:09:44.030Z",
+ "updated": "2026-09-24T16:21:15.880Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -827,6 +827,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "A5878D836FD7633005BC1E99EE3BD361",
+   "sender": "חיים לוי יעוץ משכנתאות",
+   "text": "📲 לפרטים ולבדיקת המשכנתא \n👈 לחצו כאן \nhttps://bit.ly/4ypcw0D\n                      053-794-1565📞\n✉️cl0537941565@gmail.com",
+   "ts": 1790266867000,
+   "date": "2026-09-24",
+   "time": "19:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lS3rtyA9zPRw9gqInL1UUGubO_mJRoOI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lS3rtyA9zPRw9gqInL1UUGubO_mJRoOI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537941565"
   }
  ]
 }

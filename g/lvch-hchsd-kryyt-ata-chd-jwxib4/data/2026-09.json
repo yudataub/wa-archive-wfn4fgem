@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-24T16:15:14.193Z",
+ "updated": "2026-09-24T16:20:45.977Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3265,6 +3265,37 @@
    ],
    "drive": null,
    "phone": "972538240485"
+  },
+  {
+   "id": "A53378D9E343F048DEEB72CB5E0A0730",
+   "sender": "חיים לוי יעוץ משכנתאות",
+   "text": "",
+   "ts": 1790266832000,
+   "date": "2026-09-24",
+   "time": "19:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_whxeyXcneknGp8Uod0rrp0jr2BwVsUb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_whxeyXcneknGp8Uod0rrp0jr2BwVsUb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537941565"
+  },
+  {
+   "id": "A57A7FC308AD6AA7455A88D701F22151",
+   "sender": "חיים לוי יעוץ משכנתאות",
+   "text": "📲 לפרטים ולבדיקת המשכנתא \n👈 לחצו כאן \nhttps://bit.ly/4ypcw0D\n                      053-794-1565📞\n✉️cl0537941565@gmail.com",
+   "ts": 1790266838000,
+   "date": "2026-09-24",
+   "time": "19:20",
+   "files": [],
+   "drive": null,
+   "phone": "972537941565"
   }
  ]
 }

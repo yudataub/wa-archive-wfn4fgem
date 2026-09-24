@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-24T14:49:42.038Z",
+ "updated": "2026-09-24T16:20:45.937Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -1640,6 +1640,26 @@
    "files": [],
    "drive": null,
    "phone": "972542089996"
+  },
+  {
+   "id": "AC1DBC093BC029F590CB33F1ABDB5BFE",
+   "sender": "זהבית מור",
+   "text": "",
+   "ts": 1790266820000,
+   "date": "2026-09-24",
+   "time": "19:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "196KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oVyl8WS7s0vC2ZSX_3BYTtOd899YnlXf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oVyl8WS7s0vC2ZSX_3BYTtOd899YnlXf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527533300"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-24T15:18:43.637Z",
+ "updated": "2026-09-24T16:21:52.236Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -856,6 +856,26 @@
    ],
    "drive": null,
    "phone": "972543661029"
+  },
+  {
+   "id": "A5E7887DA30DA0613FA50D4B880FF010",
+   "sender": "חיים לוי יעוץ משכנתאות",
+   "text": "📲 לפרטים ולבדיקת המשכנתא \n👈 לחצו כאן \nhttps://bit.ly/4ypcw0D\n                      053-794-1565📞\n✉️cl0537941565@gmail.com",
+   "ts": 1790266884000,
+   "date": "2026-09-24",
+   "time": "19:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KMnBZkm1QiqBnieGyc5sZEVIfLr_WFEB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KMnBZkm1QiqBnieGyc5sZEVIfLr_WFEB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537941565"
   }
  ]
 }
