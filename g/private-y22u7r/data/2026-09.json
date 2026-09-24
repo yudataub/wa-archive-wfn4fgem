@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T13:21:25.896Z",
+ "updated": "2026-09-24T14:15:31.218Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -3689,6 +3689,49 @@
    "ts": 1790256063000,
    "date": "2026-09-24",
    "time": "16:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFB9CFDC66FF6E11D8A0D08115A5A2B",
+   "sender": "רפי",
+   "text": "מיאיפה ??",
+   "ts": 1790259261000,
+   "date": "2026-09-24",
+   "time": "17:14",
+   "files": [],
+   "drive": null,
+   "thread": "רפי",
+   "phone": "972505284131"
+  },
+  {
+   "id": "AC64438F0C8D0E7104373B2677A92344",
+   "sender": "רפי",
+   "text": "",
+   "ts": 1790259278000,
+   "date": "2026-09-24",
+   "time": "17:14",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "33KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1j4ToGH4pGnkVXpQaCxycta3ZlGvIvEta/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "רפי",
+   "phone": "972505284131"
+  },
+  {
+   "id": "3EB096FEE6A753BA5C6BE2",
+   "sender": "אני",
+   "text": "לבית הספר נעם בקרית אתא\nאני רוצה שהילדים ילמדו בחופש\nוגם שירצו ליטול לולב בבית הכנסת\nכך אם יהיה להם משלהם - זה יהיה עולם אחר.",
+   "ts": 1790259324000,
+   "date": "2026-09-24",
+   "time": "17:15",
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T13:43:26.917Z",
+ "updated": "2026-09-24T14:11:31.101Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2254,6 +2254,26 @@
    "files": [],
    "drive": null,
    "phone": "972526405184"
+  },
+  {
+   "id": "3ADE747FF227360D11C9",
+   "sender": "ניסים אוחנה",
+   "text": "",
+   "ts": 1790259065000,
+   "date": "2026-09-24",
+   "time": "17:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eh8s-cH-RKVkmRD4tOzTra5DMwAls83F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eh8s-cH-RKVkmRD4tOzTra5DMwAls83F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526265507"
   }
  ]
 }

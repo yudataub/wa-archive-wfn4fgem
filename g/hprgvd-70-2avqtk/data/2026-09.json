@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T14:03:01.232Z",
+ "updated": "2026-09-24T14:10:31.081Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -8403,6 +8403,26 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "12.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0B2CEC2E75A51B0BDCC",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ביטאון \"העדה\" תוקף בכותרת ראשית בגליון החג את מפלגת \"צבע שחור\", בין היתר מאשימים בביטאון את מקימי המפלגה בגרימת נזק חסר תקדים למערכה כנגד גזירת הגיוס.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790259014000,
+   "date": "2026-09-24",
+   "time": "17:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "205KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QtyhQ2tN4viI70_9Navqedwgunfy8h4l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QtyhQ2tN4viI70_9Navqedwgunfy8h4l&sz=w1200"
     }
    ],
    "drive": null,
