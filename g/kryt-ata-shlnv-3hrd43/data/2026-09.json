@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T08:09:36.737Z",
+ "updated": "2026-09-24T08:24:06.830Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -327,6 +327,70 @@
    "files": [],
    "drive": null,
    "phone": "972525168212"
+  },
+  {
+   "id": "A53C48904A6116116140E643FCBF0739",
+   "sender": "א.א ירק  בכפר",
+   "text": "מישהו מכיר?\nנמצא ארנק שלו",
+   "ts": 1790237918000,
+   "date": "2026-09-24",
+   "time": "11:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "163KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12193SUd50GcXICgyZuHaa1tQN1bk7q7v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12193SUd50GcXICgyZuHaa1tQN1bk7q7v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549420410"
+  },
+  {
+   "id": "3A06193480E1A155F818",
+   "sender": "דנה❣️",
+   "text": "מעבירה לו בהודעה בפייסבוק",
+   "ts": 1790238005000,
+   "date": "2026-09-24",
+   "time": "11:20",
+   "files": [],
+   "drive": null,
+   "phone": "972509535820"
+  },
+  {
+   "id": "AC338FCD8E45F4170FCF5CC5AFE921DD",
+   "sender": "oded Siboni",
+   "text": "עדיף שתמחק... לא מומלץ שהפרטים שלו יסתובבו ככה",
+   "ts": 1790238201000,
+   "date": "2026-09-24",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972507974945"
+  },
+  {
+   "id": "A5B00EE494DC482F7C49996798F91BA8",
+   "sender": "א.א ירק  בכפר",
+   "text": "נמצא תודה לכולם",
+   "ts": 1790238225000,
+   "date": "2026-09-24",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972549420410"
+  },
+  {
+   "id": "ACC086B922BF5AD8FA2839B9F1011A2F",
+   "sender": "oded Siboni",
+   "text": "👍",
+   "ts": 1790238226000,
+   "date": "2026-09-24",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972507974945"
   }
  ]
 }
