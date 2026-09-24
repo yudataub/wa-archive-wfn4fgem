@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T13:55:28.120Z",
+ "updated": "2026-09-24T14:27:34.054Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4700,6 +4700,126 @@
    ],
    "drive": null,
    "phone": "972549134487"
+  },
+  {
+   "id": "AC61631A6C45AD7932E5527DAB8E18FB",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790260036000,
+   "date": "2026-09-24",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oHNxb5Uav1g_scEPc4cQWJgiSPjgpcVX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oHNxb5Uav1g_scEPc4cQWJgiSPjgpcVX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACACBDC61BFE93756694AEF539668D9B",
+   "sender": "שמואל",
+   "text": "מפות יפהפיות לבית לסוכה ומתנות.\nהסטייל של סטייליש",
+   "ts": 1790260036000,
+   "date": "2026-09-24",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_2rJI11SaSnGg1v1okfrPO7waRyBbosl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_2rJI11SaSnGg1v1okfrPO7waRyBbosl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC19D8930CF036C76CF29BD12DC4D5CD",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790260037000,
+   "date": "2026-09-24",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oLnybrjUOejzN9a3t9vsXFP9HzcfzYa2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oLnybrjUOejzN9a3t9vsXFP9HzcfzYa2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC6CEA11019DA7BF7DFE130F4DF9E283",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790260037000,
+   "date": "2026-09-24",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bS9ddLeitswSBMbAuH3wQmFFRX523aaF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bS9ddLeitswSBMbAuH3wQmFFRX523aaF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC78BF259C47CCAE0B3C960AE3FE55A6",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790260038000,
+   "date": "2026-09-24",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i9arDLuDPxFjYwMieIYOD5Re1Bkbx3W1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i9arDLuDPxFjYwMieIYOD5Re1Bkbx3W1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC2EE7A3BAE8CAA4EA71FD0EAA1D0E3D",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1790260040000,
+   "date": "2026-09-24",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wbxp3tXwUNOwz0iEWwk1_sF0Kscp6sW0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wbxp3tXwUNOwz0iEWwk1_sF0Kscp6sW0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
   }
  ]
 }

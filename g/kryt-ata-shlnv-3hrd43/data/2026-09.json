@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T13:37:56.595Z",
+ "updated": "2026-09-24T14:27:03.791Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -732,6 +732,48 @@
    ],
    "drive": null,
    "phone": "972529551604"
+  },
+  {
+   "id": "AC4AA4B75E4658B2743A4C8B4279CEEF",
+   "sender": "טל דבורה",
+   "text": "https://Tenufaenglish.co",
+   "ts": 1790259552000,
+   "date": "2026-09-24",
+   "time": "17:19",
+   "files": [],
+   "drive": null,
+   "phone": "972523495237"
+  },
+  {
+   "id": "AC9CE75A0620936F557B720B06BA1ED0",
+   "sender": "סיון אבישג",
+   "text": "לסגירת 76 ספרי דברים, נשארו פרשות:\nדברים\nואתחנן×2\nעקב×2 \nשופטים×8\nכי תצא×4\nכי תבוא×9\nניצבים×2\n\nלסגירת 58 ספרי תהלים, נשארו ימים:\nשני×6\nשלישי×10\nרביעי×3\n\n*קריאת התהלים ו/או הפרשה בשבת הקרובה ובשבת הבאה\n\nמי מצטרפ/ת?",
+   "ts": 1790259914000,
+   "date": "2026-09-24",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "phone": "972505939334"
+  },
+  {
+   "id": "3A3C99419421F60ABED5",
+   "sender": "אורנית טל",
+   "text": "יש לי 3 מיכנסיים חדשים של רנואר ו2 טייצים , מתאים לנערות מידה 34 אם מישהי מעוניינת  מוזמנת לבוא לקחת",
+   "ts": 1790259993000,
+   "date": "2026-09-24",
+   "time": "17:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FUCuuQKx1Yoj9eCpT0GLjLrDbvMP_Ruz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FUCuuQKx1Yoj9eCpT0GLjLrDbvMP_Ruz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523626260"
   }
  ]
 }

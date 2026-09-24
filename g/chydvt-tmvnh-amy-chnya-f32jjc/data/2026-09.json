@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-09-24T10:47:51.229Z",
+ "updated": "2026-09-24T14:21:00.097Z",
  "messages": [
   {
    "id": "3EB093E3568C4AF969D477",
@@ -243,6 +243,26 @@
    "date": "2026-09-24",
    "time": "13:47",
    "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0A1DA5C9B33AEAED728",
+   "sender": "עמי חניא",
+   "text": "היום התראיינתי (גם על החידות תמונה) לאתר אינטרנט ידוע.\nתגלו לאיזה אתר?\n\nרמת קושי: קלה\nנושא: אתרי אינטרנט\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1790259650000,
+   "date": "2026-09-24",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HSmQVGLVTHoW57yC3dEhobXbCzoaw1od/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HSmQVGLVTHoW57yC3dEhobXbCzoaw1od&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546702328"
   }
