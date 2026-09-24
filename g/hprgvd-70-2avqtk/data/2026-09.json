@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T19:22:57.510Z",
+ "updated": "2026-09-24T19:34:25.641Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -556,6 +556,26 @@
    "date": "2026-09-24",
    "time": "22:22",
    "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB02212008E64EB45B991",
+   "sender": "הפרגוד",
+   "text": "חברי מכבי\n🩺 *בכל חג ומועד*\n*המומחים שלנו איתכם!*\n\nמתארחים בחג ורוצים לדעת היכן מוקד הרפואה הדחופה הקרוב אליכם?\n\nלחצו כאן >\nhttps://go.serguide.maccabi4u.co.il/heb/urgenttreatment\n\nאו התקשרו 3555*\n\n💙 *שנה טובה*\n*בבריאות איתנה!*",
+   "ts": 1790278436000,
+   "date": "2026-09-24",
+   "time": "22:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ypA6C0Nsu0S1GnjVeJpkAehUFXekffac/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ypA6C0Nsu0S1GnjVeJpkAehUFXekffac&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972535629624"
   }
