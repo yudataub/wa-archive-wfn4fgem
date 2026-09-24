@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T07:15:21.497Z",
+ "updated": "2026-09-24T07:36:00.747Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -1973,6 +1973,77 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0A104EB9D2449977EA6",
+   "sender": "אני",
+   "text": "העדכון עלה בהצלחה ומאומת באתר החי (PASS_SCORE: 80 פעיל).\n\nמה השתנה במשחק \"אושפיזין: אברהם אבינו\":\n\nהרשימה הציבורית נקראת עכשיו \"🎓 התלמידים החכמים שלנו\"\nמוצגים בה רק תלמידים שהגיעו לציון 80 ומעלה\nאין ציון מוצג, אין דירוג, אין מדליות - כולם מופיעים באותה צורה, ממוינים לפי א-ב\nהסינונים (הכל/הכיתה שלי/בית הספר שלי) עדיין עובדים\nמי שמתחת ל-80 פשוט לא מופיע ברשימה, אבל עדיין רואה את הציון האישי שלו במסך הסיום הפרטי שלו (זה לא חלק מ\"הרשימה\")\nהקישור נשאר אותו דבר: https://tinyurl.com/2ah8zanl",
+   "ts": 1790235253000,
+   "date": "2026-09-24",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACF490B9264FE7C5656E4F736FBFC76A",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790235288000,
+   "date": "2026-09-24",
+   "time": "10:34",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "22KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/14A9d0O9TYt5vCXHFtjlp7QIviI8KlHot/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC06B45B23E29071104D079FC729B4C4",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790235314000,
+   "date": "2026-09-24",
+   "time": "10:35",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "37KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Jmf8aRxn9oCa4eTiuW-IOMd9HfpsZ3Ma/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC4A7E039DA2264CBA22051D1D685B86",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790235349000,
+   "date": "2026-09-24",
+   "time": "10:35",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "22KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1pwmXIuwKgUKau4gF--lbnrj9Q5PsyydH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
   }
  ]
 }

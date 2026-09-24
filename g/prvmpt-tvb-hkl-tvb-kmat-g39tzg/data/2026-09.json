@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-23T18:16:26.185Z",
+ "updated": "2026-09-24T07:33:19.278Z",
  "messages": [
   {
    "id": "2ADAD43350A8217C3733",
@@ -24,6 +24,37 @@
    "files": [],
    "drive": null,
    "phone": "972544532075"
+  },
+  {
+   "id": "A5ADF6AE28E8B85B277945A8F83C9563",
+   "sender": "תמר חמאדה",
+   "text": "לשליחת קורות חיים למייל \nתמר חמאדה tammarh@education.gov.il\n\nאשמח שתעבירו בקבוצות השונות 🙏",
+   "ts": 1790234880000,
+   "date": "2026-09-24",
+   "time": "10:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "279KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12D4V51_W0RgOCHnXwBMgp83ovXDgG60v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12D4V51_W0RgOCHnXwBMgp83ovXDgG60v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "AC4075898C0DC16F3E7FDE057B67EC46",
+   "sender": "טלי אטלס- תדמור",
+   "text": "מי אתם, בבקשה?☝🏻",
+   "ts": 1790235197000,
+   "date": "2026-09-24",
+   "time": "10:33",
+   "files": [],
+   "drive": null,
+   "phone": "972502220049"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-09-24T05:27:07.000Z",
+ "updated": "2026-09-24T07:34:30.752Z",
  "messages": [
   {
    "id": "AC9DAC93B4AF85A222AACAB124B9F266",
@@ -382,6 +382,48 @@
    "ts": 1790227605000,
    "date": "2026-09-24",
    "time": "08:26",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC16D9189AB0F740970D5DED908FC1CF",
+   "sender": "הילה שמר",
+   "text": "מקסים! יישר כח!❤️",
+   "ts": 1790234924000,
+   "date": "2026-09-24",
+   "time": "10:28",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC563A5C103C423C24AB4CDF4B366929",
+   "sender": "אורלי אוחנה",
+   "text": "https://tinyurl.com/2ah8zanl",
+   "ts": 1790235060000,
+   "date": "2026-09-24",
+   "time": "10:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "659KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c-Qw-KdOuuAOkilmRbVJfZx8Gkc5pfq1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c-Qw-KdOuuAOkilmRbVJfZx8Gkc5pfq1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC1B766FAF55871D7DFC8B9B40DC706E",
+   "sender": "אורלי אוחנה",
+   "text": "☝️בתחתית הדף מופיע קישור לשעשועון קצר על הדף.\nכל ילד שיענה שמו יופיע במסך.\nחשוב להבהיר שזה לא חידון עם ציון או תחרות בין הילדים.\nזה נועד כסיכום ושינון הלימוד בכייף.",
+   "ts": 1790235260000,
+   "date": "2026-09-24",
+   "time": "10:34",
    "files": [],
    "drive": null,
    "phone": "972507864721"

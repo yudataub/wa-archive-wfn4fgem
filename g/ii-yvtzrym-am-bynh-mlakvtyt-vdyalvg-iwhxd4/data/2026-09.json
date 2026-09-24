@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "II יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-24T06:51:18.519Z",
+ "updated": "2026-09-24T07:34:19.301Z",
  "messages": [
   {
    "id": "3EB0FBDDE152E8DFD565E5",
@@ -466,6 +466,81 @@
    "ts": 1790232668000,
    "date": "2026-09-24",
    "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB02A769CEF0B1B307261",
+   "sender": "נועם",
+   "text": "לשליחת קורות חיים למייל \nתמר חמאדה tammarh@education.gov.il\n\nאשמח שתעבירו בקבוצות השונות 🙏",
+   "ts": 1790234936000,
+   "date": "2026-09-24",
+   "time": "10:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "279KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lAfenelfrWdRPeVeAKajKFGTMiu8a16m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lAfenelfrWdRPeVeAKajKFGTMiu8a16m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB06349E0325705E06AB8",
+   "sender": "נועם",
+   "text": "📇 Tasklite Bot\n+972515143375",
+   "ts": 1790235238000,
+   "date": "2026-09-24",
+   "time": "10:33",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB06250D79C0648C7198D",
+   "sender": "נועם",
+   "text": "בוט בוואטסאפ לבניית אתרים ומערכות",
+   "ts": 1790235240000,
+   "date": "2026-09-24",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB09E7791C73B6A146991",
+   "sender": "נועם",
+   "text": "חינם?",
+   "ts": 1790235241000,
+   "date": "2026-09-24",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB014A5C1892291BE3218",
+   "sender": "נועם",
+   "text": "כן",
+   "ts": 1790235243000,
+   "date": "2026-09-24",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB08BEDB3E694B7D2A1C8",
+   "sender": "נועם",
+   "text": "לפחות כרגע. הוא מאפשר גם חיבור ב mcp ונותן גם את הקוד מקור",
+   "ts": 1790235245000,
+   "date": "2026-09-24",
+   "time": "10:34",
    "files": [],
    "drive": null,
    "phone": "972534663621"
