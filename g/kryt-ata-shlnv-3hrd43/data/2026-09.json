@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T12:13:46.812Z",
+ "updated": "2026-09-24T12:36:50.010Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -672,6 +672,26 @@
    "files": [],
    "drive": null,
    "phone": "972523799062"
+  },
+  {
+   "id": "AC269C116DA872A18F16E9769DC4A7A1",
+   "sender": "שי קובי",
+   "text": "רחוב הארז 18 גבעת רם 0549534747",
+   "ts": 1790253380000,
+   "date": "2026-09-24",
+   "time": "15:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BEwFPsM_afrOeweqRP_vVLAgM65Y_2FK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BEwFPsM_afrOeweqRP_vVLAgM65Y_2FK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549534747"
   }
  ]
 }

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!-- wa-archive-generated v22 -->
+<!--
+  אלפון כללי — נכתב ע"י whatsapp-bridge/site-phones.js.
+  לא לערוך כאן במאגר (יידרס), לערוך ב-site-phones.html ולהעלות SITE_PAGE_VERSION.
+  data/contacts.json = { contacts:[{phone,names,groups:[{slug,name,count,who}],total}],
+                          noPhone:[{name,slug,groupName,count}], groups:{slug:name} }
+-->
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>אלפון</title>
+<style>
+:root{--hue:214;
+--bg:hsl(var(--hue) 28% 90%);--panel:hsl(var(--hue) 40% 98%);--bubble:#fff;--ink:#1f2421;
+--muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);--mark:#ffe680;}
+@media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
+--bubble:hsl(var(--hue) 12% 17%);--ink:#e8edf2;--muted:#94a3b8;--accent:hsl(var(--hue) 45% 62%);
+--line:hsl(var(--hue) 10% 25%);--mark:#7a5c00;}}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:"Segoe UI",Arial,sans-serif;}
+header{position:sticky;top:0;z-index:5;background:var(--accent);color:#fff;padding:12px 14px;box-shadow:0 2px 8px rgba(0,0,0,.18);}
+header h1{margin:0;font-size:17px;font-weight:600;}
+header .sub{font-size:12px;opacity:.85;margin-top:2px;}
+#q{width:100%;box-sizing:border-box;margin-top:9px;padding:10px;border:0;border-radius:8px;font-size:16px;font-family:inherit;}
+main{max-width:860px;margin:0 auto;padding:14px;}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:8px 0;box-shadow:0 1px 2px rgba(0,0,0,.05);}
+.card .cname{font-size:16px;font-weight:700;margin:0 0 2px;}
+.card .aliases{font-size:12px;color:var(--muted);margin-bottom:6px;}
+.card .phone{font-size:13px;color:var(--muted);direction:ltr;unicode-bidi:embed;}
+.card .groups{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+.glink{display:inline-flex;align-items:center;gap:5px;background:var(--bubble);border:1px solid var(--line);
+border-radius:999px;padding:4px 10px;font-size:13px;text-decoration:none;color:var(--ink);}
+.glink:hover{border-color:var(--accent);color:var(--accent);}
+.glink .cnt{color:var(--muted);font-size:12px;}
+.section-hdr{font-size:13px;font-weight:600;color:var(--accent);margin:18px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--line);}
+#status{text-align:center;color:var(--muted);padding:22px 16px;font-size:14px;line-height:1.6;}
+mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 2px;}
+</style>
+</head>
+<body>
+<header>
+<h1>אלפון</h1>
+<div class="sub" id="sub">טוען…</div>
+<input id="q" type="search" placeholder="חיפוש לפי שם או מספר טלפון…" autocomplete="off">
+</header>
+<main>
+<div id="out"></div>
+<div id="status">טוען…</div>
+</main>
+<script>
+var DATA={contacts:[],noPhone:[],groups:{}};
+var el=function(id){return document.getElementById(id);};
+var q=el("q"),out=el("out"),statusEl=el("status"),sub=el("sub");
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
+ return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+
+function norm(s){return String(s||"").trim().replace(/\s+/g," ");}
+
+function matchesQuery(c,qq){
+ if(!qq)return true;
+ var lo=qq.toLowerCase();
+ // חיפוש לפי מספר טלפון
+ if(/\d/.test(qq)){var stripped=qq.replace(/\D/g,"");if(c.phone&&c.phone.includes(stripped))return true;}
+ // חיפוש לפי שם (כל השמות)
+ for(var i=0;i<c.names.length;i++){if(c.names[i].toLowerCase().includes(lo))return true;}
+ return false;}
+
+function matchesQueryNP(np,qq){
+ if(!qq)return true;
+ var lo=qq.toLowerCase();
+ return np.name.toLowerCase().includes(lo)||np.groupName.toLowerCase().includes(lo);}
+
+function hl(text,qq){
+ if(!qq)return esc(text);
+ var s=esc(text),lo=qq.toLowerCase();
+ if(!lo||!/\S/.test(lo))return s;
+ // hl רק על טקסט (לא מספרים בתוך שמות ≥ 3 ספרות, כדי לא לבלבל)
+ var re=new RegExp("("+lo.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi");
+ return esc(text).replace(re,"<mark>$1</mark>");}
+
+function hlPhone(phone,qq){
+ if(!qq)return esc(phone);
+ if(!/\d/.test(qq))return esc(phone);
+ var stripped=qq.replace(/\D/g,"");
+ if(!stripped)return esc(phone);
+ var re=new RegExp("("+stripped.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","g");
+ return esc(phone).replace(re,"<mark>$1</mark>");}
+
+function groupHref(slug,who){
+ // ל-site-page.html: ?who=<שם> מסנן לפי שולח
+ // slug הוא שם התיקייה ב-g/ — הדף הוא ../g/<slug>/
+ return"../g/"+esc(slug)+"/?who="+encodeURIComponent(who);}
+
+function renderCard(c,qq){
+ var canonical=c.names[0]||"";
+ var aliases=c.names.slice(1);
+ var html="<div class='card'>";
+ html+="<div class='cname'>"+hl(canonical,qq)+"</div>";
+ if(aliases.length>0)html+="<div class='aliases'>גם: "+aliases.map(function(n){return hl(n,qq);}).join(" · ")+"</div>";
+ if(c.phone)html+="<div class='phone'>"+hlPhone(c.phone,qq)+"</div>";
+ if(c.groups&&c.groups.length>0){
+  html+="<div class='groups'>";
+  for(var i=0;i<c.groups.length;i++){
+   var g=c.groups[i];
+   html+="<a class='glink' href='"+groupHref(g.slug,g.who)+"'>"+esc(g.name)+"<span class='cnt'>"+g.count+"</span></a>";}
+  html+="</div>";}
+ html+="</div>";
+ return html;}
+
+function renderNP(np,qq){
+ var html="<div class='card'>";
+ html+="<div class='cname'>"+hl(np.name,qq)+"</div>";
+ html+="<div class='aliases'>"+esc(np.groupName)+" · "+np.count+" הודעות (בלי מספר טלפון)</div>";
+ html+="<div class='groups'><a class='glink' href='"+groupHref(np.slug,np.name)+"'>"+esc(np.groupName)+"<span class='cnt'>"+np.count+"</span></a></div>";
+ html+="</div>";
+ return html;}
+
+function render(){
+ var qq=norm(q.value);
+ var contacts=DATA.contacts.filter(function(c){return matchesQuery(c,qq);});
+ var noPhone=DATA.noPhone.filter(function(np){return matchesQueryNP(np,qq);});
+ var html="";
+ if(contacts.length>0){
+  if(noPhone.length>0||!qq)html+="<div class='section-hdr'>אנשי קשר עם מספר טלפון ("+contacts.length+")</div>";
+  for(var i=0;i<contacts.length;i++)html+=renderCard(contacts[i],qq);}
+ if(noPhone.length>0){
+  html+="<div class='section-hdr'>ללא מספר טלפון ("+noPhone.length+")</div>";
+  for(var i=0;i<noPhone.length;i++)html+=renderNP(noPhone[i],qq);}
+ out.innerHTML=html;
+ if(contacts.length===0&&noPhone.length===0){
+  statusEl.textContent=qq?"לא נמצאו תוצאות.":"אין נתונים.";
+  statusEl.removeAttribute("hidden");}
+ else{statusEl.setAttribute("hidden","");statusEl.textContent="";}}
+
+function load(){
+ fetch("data/contacts.json?v="+Date.now())
+  .then(function(r){return r.ok?r.json():Promise.reject(r.status);})
+  .then(function(j){
+   DATA.contacts=j.contacts||[];DATA.noPhone=j.noPhone||[];DATA.groups=j.groups||{};
+   var total=DATA.contacts.length+DATA.noPhone.length;
+   sub.textContent=DATA.contacts.length+" אנשי קשר · "+DATA.noPhone.length+" ללא מספר";
+   statusEl.setAttribute("hidden","");
+   render();})
+  .catch(function(e){statusEl.textContent="שגיאה בטעינת הנתונים ("+e+")";});}
+
+q.addEventListener("input",function(){render();});
+load();
+</script>
+</body>
+</html>
