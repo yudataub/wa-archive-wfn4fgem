@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-24T06:31:50.649Z",
+ "updated": "2026-09-24T09:55:56.860Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -589,6 +589,86 @@
    ],
    "drive": null,
    "phone": "972527035410"
+  },
+  {
+   "id": "4AEB2B26CB69B85FC3BF",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790243726000,
+   "date": "2026-09-24",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1U97JhWk2ZlhPK7kq8zN10-uz7C6sSvXt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U97JhWk2ZlhPK7kq8zN10-uz7C6sSvXt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4A5CCECA96095415CD2A",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790243728000,
+   "date": "2026-09-24",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YaHPaeQZ_XAMqVc2_WRmdsPmoJHjcxR_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YaHPaeQZ_XAMqVc2_WRmdsPmoJHjcxR_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4A6932922A852A67AEAD",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790243733000,
+   "date": "2026-09-24",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/103f77Gf-t4lR52eiurFa5r04NIfiR3mg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=103f77Gf-t4lR52eiurFa5r04NIfiR3mg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4ADD21E09ED43C9DF05F",
+   "sender": "Ofir Hadad",
+   "text": "למכירה בהזדמנות למהירי החלטה!! תיק PRADA מקורי מעור בצבע שחור במצב מצויין, התיק עלה כ-2500 ₪ ונמכר ב-1500 ₪ בלבד!! כל הקודם זוכה",
+   "ts": 1790243735000,
+   "date": "2026-09-24",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "329KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kis2CkCeCVrjjEnyqJ4O__FbBcbIbKcT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kis2CkCeCVrjjEnyqJ4O__FbBcbIbKcT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
   }
  ]
 }
