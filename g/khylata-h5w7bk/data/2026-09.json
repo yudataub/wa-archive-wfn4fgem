@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-24T06:24:50.546Z",
+ "updated": "2026-09-24T06:53:50.996Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -1424,6 +1424,59 @@
    ],
    "drive": null,
    "phone": "972544389935"
+  },
+  {
+   "id": "AC06508806C56BDA11D09C1ADAC41FF6",
+   "sender": "אורי קוגל",
+   "text": "להוציא רשיון נהיגה.\n\n▪️מאיפה מתחילים?\n▪️איך זה מתנהל?\n▪️עברתי טסט,מה עכשיו?\n\nכל תשובות והיישומים,עם האחד שבאמת יודע.\n\nמוזמנים בשמחה.\n\n👇👇👇👇👇👇👇👇",
+   "ts": 1790232537000,
+   "date": "2026-09-24",
+   "time": "09:48",
+   "files": [],
+   "drive": null,
+   "phone": "972528955255"
+  },
+  {
+   "id": "AC2C76D39F9CCEB63BEF748A8B4DC937",
+   "sender": "אורי קוגל",
+   "text": "",
+   "ts": 1790232549000,
+   "date": "2026-09-24",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RRlPICsk8IR3tNy_LrsMYwsiLQH1yF6Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RRlPICsk8IR3tNy_LrsMYwsiLQH1yF6Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528955255"
+  },
+  {
+   "id": "AC412EFD0263F0EF00F82D1115A7141E",
+   "sender": "אורי קוגל",
+   "text": "https://uri-kogel-drives.lovable.app",
+   "ts": 1790232566000,
+   "date": "2026-09-24",
+   "time": "09:49",
+   "files": [],
+   "drive": null,
+   "phone": "972528955255"
+  },
+  {
+   "id": "ACFDBADFE346989166218128006E6485",
+   "sender": "גילה",
+   "text": "מורה מס' 1 ממליצה 🙏",
+   "ts": 1790232819000,
+   "date": "2026-09-24",
+   "time": "09:53",
+   "files": [],
+   "drive": null,
+   "phone": "972524456975"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T06:47:50.964Z",
+ "updated": "2026-09-24T06:48:50.925Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -2590,6 +2590,25 @@
    "files": [],
    "drive": null,
    "phone": "972556890066"
+  },
+  {
+   "id": "ACED9AEC1319E547BC2C1B2F473672AE",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1790232511000,
+   "date": "2026-09-24",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1TB5C10p9CgmkWc_X0dYDSTz3PfpTvp4t/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }
