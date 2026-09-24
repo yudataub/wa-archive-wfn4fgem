@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-09-24T04:57:06.577Z",
+ "updated": "2026-09-24T05:17:36.869Z",
  "messages": [
   {
    "id": "AC5BA4BA3AA525BB2BD27F05EC6E2BCF",
@@ -334,6 +334,26 @@
    ],
    "drive": null,
    "phone": "972523564937"
+  },
+  {
+   "id": "A52DD531739996CBADC6658517A9A8B5",
+   "sender": "תלמוד תורה פלא יועץ",
+   "text": "",
+   "ts": 1790227046000,
+   "date": "2026-09-24",
+   "time": "08:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B2YMKsC96flKwo8J9ys9_a0wOdVO22zv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B2YMKsC96flKwo8J9ys9_a0wOdVO22zv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "97286781607"
   }
  ]
 }
