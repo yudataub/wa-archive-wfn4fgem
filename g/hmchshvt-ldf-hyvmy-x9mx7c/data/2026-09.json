@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "המחשות לדף היומי",
- "updated": "2026-09-23T03:54:20.643Z",
+ "updated": "2026-09-24T04:34:44.558Z",
  "messages": [
   {
    "id": "3A9DB1046DC97376E098",
@@ -38,6 +38,66 @@
      "path": "https://drive.google.com/file/d/1GKiFmWDV1bzYvD4vnOkfpqkjX9rzPvQW/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1GKiFmWDV1bzYvD4vnOkfpqkjX9rzPvQW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A76163203BD9CA60D56",
+   "sender": ".",
+   "text": "״חמור אדום בעלמא״ (בכורות ו, א).",
+   "ts": 1790224477000,
+   "date": "2026-09-24",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IllLoTyuzAxyf98EzZAuCfzqNPpxjuM5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IllLoTyuzAxyf98EzZAuCfzqNPpxjuM5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACF56848E67C0F4B3E1",
+   "sender": ".",
+   "text": "״לאסור חלבה של גמלה״ (רש״י בכורות ו, ב).",
+   "ts": 1790224479000,
+   "date": "2026-09-24",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IPgi-vvXS0ISy1ee8Yg8EtZade3YSAPC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IPgi-vvXS0ISy1ee8Yg8EtZade3YSAPC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A4A380EC257D04E8710",
+   "sender": ".",
+   "text": "״כי אבר מן החי הוא ושרי״ (בכורות ו, ב).",
+   "ts": 1790224481000,
+   "date": "2026-09-24",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a4xH0mO17N_WYofK7w6QU7OZJ0WY5Me9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a4xH0mO17N_WYofK7w6QU7OZJ0WY5Me9&sz=w1200"
     }
    ],
    "drive": null,
