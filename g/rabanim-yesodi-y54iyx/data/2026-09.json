@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T07:00:51.147Z",
+ "updated": "2026-09-24T09:30:49.369Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -1989,6 +1989,24 @@
    ],
    "drive": null,
    "phone": "972585808247"
+  },
+  {
+   "id": "3EB069205AF45894E7A3CA",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790242214000,
+   "date": "2026-09-24",
+   "time": "12:30",
+   "files": [
+    {
+     "name": "המדריך המלא לרב בית הספר.html",
+     "size": "376KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1JSldaG8v0DoFDEMfETCO32Td_5HvDPGi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
   }
  ]
 }
