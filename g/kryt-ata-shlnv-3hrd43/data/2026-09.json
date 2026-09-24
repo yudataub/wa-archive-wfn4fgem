@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T05:47:11.165Z",
+ "updated": "2026-09-24T05:57:11.964Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -24,6 +24,37 @@
    "files": [],
    "drive": null,
    "phone": "972506445764"
+  },
+  {
+   "id": "AC9C6BFCC1E95B8FD4AE7506F3661757",
+   "sender": "שרגא שינובר",
+   "text": "חלוקת סכך מטעם העירייה בבית וגן כעת👇",
+   "ts": 1790229423000,
+   "date": "2026-09-24",
+   "time": "08:57",
+   "files": [],
+   "drive": null,
+   "phone": "972544207687"
+  },
+  {
+   "id": "ACB2942756C364B95CDE3A970A25E46A",
+   "sender": "שרגא שינובר",
+   "text": "",
+   "ts": 1790229425000,
+   "date": "2026-09-24",
+   "time": "08:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "354KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ypiC0e7BWrIggg83PsxAorsI1wu6EagA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ypiC0e7BWrIggg83PsxAorsI1wu6EagA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
   }
  ]
 }
