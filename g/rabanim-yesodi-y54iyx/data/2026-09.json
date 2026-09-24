@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T16:52:51.235Z",
+ "updated": "2026-09-24T18:11:07.868Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2371,6 +2371,25 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "3EB0851D1B6C939DD7572F",
+   "sender": "אהרן קדוש",
+   "text": "",
+   "ts": 1790273462000,
+   "date": "2026-09-24",
+   "time": "21:11",
+   "files": [
+    {
+     "name": "ושמחת בחגך- פנינים ורעיונות לחג הסוכות+שמחת תורה- מחולק לפי ימים.pdf",
+     "size": "1.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bUlCClFmweC57iEfFP6WYAE79i6loQcx/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585808247"
   }
  ]
 }
