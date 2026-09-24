@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-24T15:07:43.461Z",
+ "updated": "2026-09-24T15:23:13.700Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2776,6 +2776,57 @@
    "files": [],
    "drive": null,
    "phone": "972527133456"
+  },
+  {
+   "id": "A5612EA8940D5B0273E2071B2102B11F",
+   "sender": "גולד",
+   "text": "מזמינה אתכם בחום🤗\nאמח מאוד עם כל אחת ואחת. \nתראינה זאת כהזמנה אישית...\nלרכישת כרטיסים לחצי כאן👇\nhttps://glatticket.co.il/114174\nקוד קופון לנשים ונערות- 11111",
+   "ts": 1790263376000,
+   "date": "2026-09-24",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523697751"
+  },
+  {
+   "id": "A567D0580EBA97FA96841FA8C077B90E",
+   "sender": "גולד",
+   "text": "",
+   "ts": 1790263377000,
+   "date": "2026-09-24",
+   "time": "18:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1R8Dil0R0KWub06-7d-haGia_4M_wnOg-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R8Dil0R0KWub06-7d-haGia_4M_wnOg-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523697751"
+  },
+  {
+   "id": "A587B01C17722F9F397AA86C6D70DE4C",
+   "sender": "גולד",
+   "text": "",
+   "ts": 1790263378000,
+   "date": "2026-09-24",
+   "time": "18:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_0rUh8YSYOtmxroziAtdnx8MBc9gdsBe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_0rUh8YSYOtmxroziAtdnx8MBc9gdsBe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523697751"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-24T15:17:43.684Z",
+ "updated": "2026-09-24T15:18:43.637Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -836,6 +836,26 @@
    "files": [],
    "drive": null,
    "phone": "972527222741"
+  },
+  {
+   "id": "ACE1BF7C8B37B36DD22B462D13B930E4",
+   "sender": "Hani",
+   "text": "*🌿🎉 הודעה חשובה לכל המחפשים מקום לשמחה / אירוע / מפגש משפחתי בירושלים בסוכות 🎉🌿*\n\n*🥩 דנוור – מסעדת בשרים בבית הנציב, בדרך חברון בירושלים!*\n\n🍽️ מסעדה לכל דבר, פתוחה כל השנה – ובחג סוכות גם סוכה מרווחת במקום 🌿\n🎊 מתאימה לשמחות ואירועים, גם בשבת (ספר תורה במקום ומתאים גם לעליה לתורה)\n😋 מקום מקסים, טעים ונעים\n✡️ כשר למהדרין – בד״ץ הרב רובין\n🛡️ מרחב מוגן\n🚗 חניה\n\n📞 02-5664466\n🌐 https://www.denverjlm.co.il/",
+   "ts": 1790263108000,
+   "date": "2026-09-24",
+   "time": "18:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bwPzbaYuJFyMZ-YgRWjbC3RZAsNlXoGa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bwPzbaYuJFyMZ-YgRWjbC3RZAsNlXoGa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543661029"
   }
  ]
 }
