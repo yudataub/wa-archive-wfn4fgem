@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-09-24T16:14:14.136Z",
+ "updated": "2026-09-24T19:12:59.761Z",
  "messages": [
   {
    "id": "ACEAE3BB61449682DA4C0AB758D85574",
@@ -120,6 +120,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=1MBteFjUfz8cae7xwQYy5Jk4G2M8tJvkc&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972526681329"
+  },
+  {
+   "id": "AC45C740607C2FDB2886ECE719F3E3C1",
+   "sender": "יעל הראלי",
+   "text": "ערב טוב,\nידוע לכם באיזה שכבת גיל מדובר? יסודי, תיכון?",
+   "ts": 1790277095000,
+   "date": "2026-09-24",
+   "time": "22:11",
+   "files": [],
+   "drive": null,
+   "phone": "972523951440"
+  },
+  {
+   "id": "AC8CBD0A58993E585F96832A788A9AF1",
+   "sender": "אני ולא אחרת",
+   "text": "רק העברתי",
+   "ts": 1790277115000,
+   "date": "2026-09-24",
+   "time": "22:11",
+   "files": [],
    "drive": null,
    "phone": "972526681329"
   }

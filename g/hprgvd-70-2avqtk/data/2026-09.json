@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T19:01:19.722Z",
+ "updated": "2026-09-24T19:14:43.944Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -492,6 +492,46 @@
      "path": "https://drive.google.com/file/d/16UdIcV5RkFCnNs0ebAF2plFiu0Bjs1um/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=16UdIcV5RkFCnNs0ebAF2plFiu0Bjs1um&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0CB8C3832D645A5EB35",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: תזוזות בתקשורת: ברק בטש עוזב את i24NEWS\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790277107000,
+   "date": "2026-09-24",
+   "time": "22:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ktkVtWJxMYaTKG_GE3YvWFh5DfXnsFgI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ktkVtWJxMYaTKG_GE3YvWFh5DfXnsFgI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB01ABDBF05F386085860",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ‏יואלי לנדו התחדש בקדילאק חדשה\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790277234000,
+   "date": "2026-09-24",
+   "time": "22:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yAsubXwzZFL-5LE8Wjn6i1JQlqEQw9Zp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yAsubXwzZFL-5LE8Wjn6i1JQlqEQw9Zp&sz=w1200"
     }
    ],
    "drive": null,
