@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T10:16:59.028Z",
+ "updated": "2026-09-24T10:25:59.372Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -2523,6 +2523,558 @@
    "drive": null,
    "thread": "מיכל",
    "phone": "972545949809"
+  },
+  {
+   "id": "A5670509DB31C5CEFD44C8BBEEB9C10D",
+   "sender": "אני",
+   "text": "הנה עכשיו יש לך הזדמנות לראות כמה ילדים נכנסים לפעילות ממוחשבת\nוזה עוד קל מאוד ללא צורך להכנס לקלאסרום.",
+   "ts": 1790245068000,
+   "date": "2026-09-24",
+   "time": "13:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0E0FBCA2190CAF38468",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245106000,
+   "date": "2026-09-24",
+   "time": "13:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XudYCoySmr6pTSdl5NiInNGpG_9esX86/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XudYCoySmr6pTSdl5NiInNGpG_9esX86&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC0469C7C98C15C82A0144E51C4B5915",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790245135000,
+   "date": "2026-09-24",
+   "time": "13:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "8KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1e_3aBNrwYJIN3ZDR1sCZds9PJ4_m0WEb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "A53A55C4C7FD6DF430EC1F7D6F8EDFF9",
+   "sender": "אני",
+   "text": "תראי מה הוספנו",
+   "ts": 1790245193000,
+   "date": "2026-09-24",
+   "time": "13:19",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0017BF7BBDD3C805F47",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245251000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o1gZICILhmD4JXTbJCtoQwYqn-f4wHik/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o1gZICILhmD4JXTbJCtoQwYqn-f4wHik&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB012A5E7580342292893",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245251000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15K41kq0lls4BexlFZgCAFwp_IIg9nWG6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15K41kq0lls4BexlFZgCAFwp_IIg9nWG6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB01A367EEB04F7204852",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245251000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wGRqOjbi_lDXSf4P80riD37uqsdL8N52/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wGRqOjbi_lDXSf4P80riD37uqsdL8N52&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0369F913B5115FD132E",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245251000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14dMpMWgwfm5ua-T-zAF08QfR8B7Fpdul/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14dMpMWgwfm5ua-T-zAF08QfR8B7Fpdul&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB092B1AEDE82C2EBBF9D",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245251000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "47KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LKmfmXVO2-ZmyNFGVzYG5T-9O1KlK050/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LKmfmXVO2-ZmyNFGVzYG5T-9O1KlK050&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0F5C7DAEFFA1AE768A5",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790245251000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19AUaBMthYdxLAIQjLqDZa2aj5WmRCH2J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19AUaBMthYdxLAIQjLqDZa2aj5WmRCH2J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB02CF4402E854C76D83C",
+   "sender": "אני",
+   "text": "מה את בוחרת?",
+   "ts": 1790245257000,
+   "date": "2026-09-24",
+   "time": "13:20",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC3E5528914E1939E78FEF4A2D83F016",
+   "sender": "אורלי אוחנה",
+   "text": "ההורים מתוסכלים. החלפת לאמריקאי?",
+   "ts": 1790245285000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACCF378907116E3960F9F24964FCFCA7",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245289000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "41KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1WVTxMZ80mtIxYjxJML9ppMJ9HAaICpgT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACCF7D40C3C77674402B98F25F6D3471",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790245300000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "15KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1EnzVF8a2PBjXu7z_B1P1mbMphwObbU1R/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC7493232D9905C244086C0444D7169E",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245302000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M7Ud73AKA86XPvpw7HJEEoF9kLT-bt5V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M7Ud73AKA86XPvpw7HJEEoF9kLT-bt5V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC8D6A9B7693520D58E04E01998BF97B",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245302000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1r7TEodjoa5hgBM9rL6ZJRaxyozvD1qti/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1r7TEodjoa5hgBM9rL6ZJRaxyozvD1qti&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC7408B4DBEEBF1AB95D75C665DEA064",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245303000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DCssH9oL_3I4rbQ5HjhzYOohILFKHb8N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DCssH9oL_3I4rbQ5HjhzYOohILFKHb8N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC8D762BF8AECCB16F0E360C6B66395C",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245303000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p37GtmnsEe3otpYG0laY09wYi0tNcaVv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p37GtmnsEe3otpYG0laY09wYi0tNcaVv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACDEA576F4E4A9B4739A381E2F34CE70",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245303000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dzCeJnTmOD53WjpJOEsDe1MI7vjmKkvY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dzCeJnTmOD53WjpJOEsDe1MI7vjmKkvY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACF08E95767C4A61CAFA0AE00F7EBC46",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245303000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JqDXE8voAM1ifCrXt46XzXM7ZZAC-KQs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JqDXE8voAM1ifCrXt46XzXM7ZZAC-KQs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACF19EB69714CC62B0F72D754E7A1915",
+   "sender": "מיכל",
+   "text": "כמו כאן",
+   "ts": 1790245312000,
+   "date": "2026-09-24",
+   "time": "13:21",
+   "files": [],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC58C00120B3A87A5FA1865F74ED4D97",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790245337000,
+   "date": "2026-09-24",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18ZpvEii8NJjuSudLwKYz2UU3kAUfTG2i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18ZpvEii8NJjuSudLwKYz2UU3kAUfTG2i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "3EB0FC0B0E9E1651CB1293",
+   "sender": "אני",
+   "text": "אין אפשרות יותר למשחק הקודם יש רק אמריקאי\nלמרות שבקודם זה היה מאוד מאתגר - אבל זה היה מדאי קשה",
+   "ts": 1790245339000,
+   "date": "2026-09-24",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFE0C7A44DD7DF081FFFCEAAF282B6F",
+   "sender": "מיכל",
+   "text": "זו תמונה אותנטית?",
+   "ts": 1790245350000,
+   "date": "2026-09-24",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACF44C45A9BF83650B87ADFBB002A288",
+   "sender": "מיכל",
+   "text": "זה מרגיש Ai",
+   "ts": 1790245374000,
+   "date": "2026-09-24",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC87E4055C3C20C396C47F48B9CB37F5",
+   "sender": "אורלי אוחנה",
+   "text": "באברהם אבינו לא ניתן לשנות?",
+   "ts": 1790245378000,
+   "date": "2026-09-24",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC49194EDB6BD8A15CD75E9D793E8570",
+   "sender": "מיכל",
+   "text": "או שלא...",
+   "ts": 1790245383000,
+   "date": "2026-09-24",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACFEE10EE747D0F12430313AA9B0E5C1",
+   "sender": "אורלי אוחנה",
+   "text": "אז נמחק את הקישור",
+   "ts": 1790245385000,
+   "date": "2026-09-24",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB07D4E2244EBD97043F9",
+   "sender": "אני",
+   "text": "כבר שנינו - היכן את רואה את המשחק הישן?",
+   "ts": 1790245397000,
+   "date": "2026-09-24",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0042D908F5D820F2240",
+   "sender": "אני",
+   "text": "בקישור ששלחנו אין את המשחק הישן",
+   "ts": 1790245409000,
+   "date": "2026-09-24",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACBC049EC46D8133642C3D229065F435",
+   "sender": "אורלי אוחנה",
+   "text": "אחת האמהות פנתה להתלונן",
+   "ts": 1790245417000,
+   "date": "2026-09-24",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB07393C5CD2EEBC2EAA4",
+   "sender": "אני",
+   "text": "אמרתי לך היום זה כבר עידן חדש\nאני משנה אצלי \nוזה משתנה אצל כולם\nבלי לשנות את הקישור",
+   "ts": 1790245448000,
+   "date": "2026-09-24",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACABCCECBE7147337EA968EB29397C19",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790245516000,
+   "date": "2026-09-24",
+   "time": "13:25",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "14KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Cs0zwAyKO1X3l5MVSrIt8_TPauFvQ8VV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACE097ECA63B8FE5140762F886CE8BFD",
+   "sender": "הילה שמר",
+   "text": "של סוכות?",
+   "ts": 1790245532000,
+   "date": "2026-09-24",
+   "time": "13:25",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
   }
  ]
 }
