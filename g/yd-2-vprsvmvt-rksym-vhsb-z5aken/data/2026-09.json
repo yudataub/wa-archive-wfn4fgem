@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T05:50:41.217Z",
+ "updated": "2026-09-24T06:20:50.485Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4156,6 +4156,26 @@
    "files": [],
    "drive": null,
    "phone": "972586822644"
+  },
+  {
+   "id": "4AEAE82BAE152DFBC10A",
+   "sender": "Mordechai Danino",
+   "text": "",
+   "ts": 1790230833000,
+   "date": "2026-09-24",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OFgSx9bRYKpwvuR025KTZ-YwGIZRN_3u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OFgSx9bRYKpwvuR025KTZ-YwGIZRN_3u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504168987"
   }
  ]
 }
