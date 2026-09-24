@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T07:05:51.286Z",
+ "updated": "2026-09-24T07:15:21.488Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -2908,6 +2908,70 @@
    ],
    "drive": null,
    "phone": "972505704142"
+  },
+  {
+   "id": "3EB030EBCCC2BE342F386F",
+   "sender": "בית ספר ביחד",
+   "text": "לכל הפונים באישי, נותרו עדיין סטים ניתן להגיע ולקחת.",
+   "ts": 1790233683000,
+   "date": "2026-09-24",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972524441878"
+  },
+  {
+   "id": "A53FE618C23443706DDD4E64F14D7E1D",
+   "sender": "Harelectronics",
+   "text": "רוכבי דו גלגלי לידיעתכם",
+   "ts": 1790233737000,
+   "date": "2026-09-24",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "309KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uHQaKtPMAUsMPR0pq-2ZLZBTq7pjS274/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uHQaKtPMAUsMPR0pq-2ZLZBTq7pjS274&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509252690"
+  },
+  {
+   "id": "AC3E53C47361BF897DDE2AC59D306FC9",
+   "sender": "❤️",
+   "text": "יש למישהו מס של זלזניק?",
+   "ts": 1790234009000,
+   "date": "2026-09-24",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972506135969"
+  },
+  {
+   "id": "3A1D89179FD0C24EA09B",
+   "sender": "אברהם קולפ",
+   "text": "גז הקהילה\nטלפון?",
+   "ts": 1790234035000,
+   "date": "2026-09-24",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972526176205"
+  },
+  {
+   "id": "AC33C76B739DD2E96DF365813C5DC629",
+   "sender": "נעם",
+   "text": "📇 גז הקהילה בן\n+972 52-711-1455",
+   "ts": 1790234111000,
+   "date": "2026-09-24",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972549474921"
   }
  ]
 }

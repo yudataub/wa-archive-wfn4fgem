@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-23T20:27:45.797Z",
+ "updated": "2026-09-24T07:07:51.426Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -1505,6 +1505,25 @@
      "path": "https://drive.google.com/file/d/1vNPD9pDng2qU22w_Zvtbr-RNHK3fX0Kf/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1vNPD9pDng2qU22w_Zvtbr-RNHK3fX0Kf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB054FAB0BEA128A2B385",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "ברוך מציב גבול אלמנה.  \n\nאיזה רגע  מרגש! עם ישראל חי",
+   "ts": 1790233656000,
+   "date": "2026-09-24",
+   "time": "10:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "8.9MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
