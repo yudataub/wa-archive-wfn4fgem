@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T08:31:36.952Z",
+ "updated": "2026-09-24T08:47:00.247Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -7586,6 +7586,26 @@
      "path": "https://drive.google.com/file/d/1cSYWgys1NKrIiQNE1A-QC2k9DhsoR6ox/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1cSYWgys1NKrIiQNE1A-QC2k9DhsoR6ox&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB01044BE97F063360695",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הרב שמואל רבינוביץ ישמש כרב מקדים במוצ\"ש הקרוב אצל מרן הרב יצחק\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790239606000,
+   "date": "2026-09-24",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JilcVHbUCIS0y4BFk08xqiNpjuqNmImD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JilcVHbUCIS0y4BFk08xqiNpjuqNmImD&sz=w1200"
     }
    ],
    "drive": null,
