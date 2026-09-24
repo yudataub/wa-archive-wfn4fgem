@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-24T07:10:51.420Z",
+ "updated": "2026-09-24T07:51:14.658Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -1521,6 +1521,17 @@
    "files": [],
    "drive": null,
    "phone": "972508353555"
+  },
+  {
+   "id": "A5E3AD8F8C055D5B946F988FCC6ADED0",
+   "sender": "yocheved trabelsi",
+   "text": "סטסטסטסטסס֫0ן'",
+   "ts": 1790236258000,
+   "date": "2026-09-24",
+   "time": "10:50",
+   "files": [],
+   "drive": null,
+   "phone": "972542328664"
   }
  ]
 }
