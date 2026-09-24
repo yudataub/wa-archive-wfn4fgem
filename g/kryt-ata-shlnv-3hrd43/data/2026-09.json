@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T12:52:20.544Z",
+ "updated": "2026-09-24T13:37:56.595Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -712,6 +712,26 @@
    ],
    "drive": null,
    "phone": "972504247737"
+  },
+  {
+   "id": "AC77F1DCDA38C4A35A22A25B0DC373C7",
+   "sender": "yanay2020",
+   "text": "",
+   "ts": 1790257062000,
+   "date": "2026-09-24",
+   "time": "16:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16pE_Hk6EZdqmlcMtY__LySNEf6Wn1dQb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16pE_Hk6EZdqmlcMtY__LySNEf6Wn1dQb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529551604"
   }
  ]
 }
