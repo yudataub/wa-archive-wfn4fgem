@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T06:31:50.636Z",
+ "updated": "2026-09-24T06:44:50.847Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -116,6 +116,17 @@
    ],
    "drive": null,
    "phone": "972528894841"
+  },
+  {
+   "id": "ACE200E073E9DF131A3389938ECEDD5A",
+   "sender": "שי קובי",
+   "text": "https://www.gishur-sk.co.il/",
+   "ts": 1790232280000,
+   "date": "2026-09-24",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "phone": "972549534747"
   }
  ]
 }

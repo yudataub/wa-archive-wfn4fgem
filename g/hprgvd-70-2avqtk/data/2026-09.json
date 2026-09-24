@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T06:30:20.633Z",
+ "updated": "2026-09-24T06:42:50.823Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -7426,6 +7426,26 @@
      "path": "https://drive.google.com/file/d/1-p4ywFjPzyCSP2VhlMPNtlGhtjtVefMR/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1-p4ywFjPzyCSP2VhlMPNtlGhtjtVefMR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB09C22D00A99E97B7B16",
+   "sender": "הפרגוד",
+   "text": "הרב מיכה הלוי רב העיר פ\"ת מתיר בניית סוכות בשטח ציבורי בתנאי שלא מפריע למעבר\n\n*יש לכם עדכונים חשובים על פ\"ת? שלחו אלינו ואנחנו כמובן נשמור על דיסקרטיות: 050-9834208*\n\n*הפרגוד מקומי - פתח תקווה* כנסו:",
+   "ts": 1790232155000,
+   "date": "2026-09-24",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10qsBn61ED2cvhfLRwDo0uLFu1YNzOa-S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10qsBn61ED2cvhfLRwDo0uLFu1YNzOa-S&sz=w1200"
     }
    ],
    "drive": null,

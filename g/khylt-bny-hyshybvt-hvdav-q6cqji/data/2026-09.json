@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-24T03:09:44.361Z",
+ "updated": "2026-09-24T06:42:20.834Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -2562,6 +2562,37 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "ACA99CEFABAD82BC80D44E14848E0058",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790232123000,
+   "date": "2026-09-24",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "361KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dyBR9te-wTItMV65qpuPgR8wOKsgUCDU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dyBR9te-wTItMV65qpuPgR8wOKsgUCDU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "ACE618BFF12B15797B7CBEC0B59C5BB6",
+   "sender": "נפתלי רוטנברג",
+   "text": "בית וגן עכשיו מי שרוצה",
+   "ts": 1790232129000,
+   "date": "2026-09-24",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972505600077"
   }
  ]
 }
