@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T14:27:03.791Z",
+ "updated": "2026-09-24T14:42:05.099Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -772,6 +772,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1FUCuuQKx1Yoj9eCpT0GLjLrDbvMP_Ruz&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972523626260"
+  },
+  {
+   "id": "3A9984141B71013E73BD",
+   "sender": "אורנית טל",
+   "text": "מישהו מכיר טכנאי להליכון דגם x21 ?",
+   "ts": 1790260898000,
+   "date": "2026-09-24",
+   "time": "17:41",
+   "files": [],
    "drive": null,
    "phone": "972523626260"
   }
