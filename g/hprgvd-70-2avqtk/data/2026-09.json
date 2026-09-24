@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T13:16:24.837Z",
+ "updated": "2026-09-24T13:35:26.474Z",
  "messages": [
   {
    "id": "gm-1a059a0b897ee224",
@@ -8306,6 +8306,25 @@
      "path": "https://drive.google.com/file/d/197bCjzpemCBjSR9_WzzI3GgC0avpZla2/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=197bCjzpemCBjSR9_WzzI3GgC0avpZla2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0769159CB3C00B11376",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הצצה נדירה ממעונו של פוסק הדור: רגעים לפני יום הכיפורים, בנו, הגאון רבי חיים עוזר שטרנבוך, ראש רשת הכוללים 'תשובות והנהגות', מקבל את ברכת אביו הגאון רבי משה שטרנבוך, מבקש את מחילתו ומברך אותו בחזרה.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790256915000,
+   "date": "2026-09-24",
+   "time": "16:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "12.2MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,

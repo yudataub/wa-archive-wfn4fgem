@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T12:54:20.965Z",
+ "updated": "2026-09-24T13:36:56.486Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4620,6 +4620,26 @@
    "files": [],
    "drive": null,
    "phone": "972506135969"
+  },
+  {
+   "id": "A51F541B18B8E0EF7E152F81C4D15DA0",
+   "sender": "נעלי הפסגה",
+   "text": "פתוחים רצוף עד 23:00 🕜👞🩰\nכל יום עד סוכות 🌿🌿🌿",
+   "ts": 1790257014000,
+   "date": "2026-09-24",
+   "time": "16:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S8rldqGvbUp8W6hy8jcZomavF5PUj3Cx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S8rldqGvbUp8W6hy8jcZomavF5PUj3Cx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556765998"
   }
  ]
 }

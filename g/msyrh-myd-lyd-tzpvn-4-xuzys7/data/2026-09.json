@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-09-24T10:34:44.880Z",
+ "updated": "2026-09-24T13:35:56.448Z",
  "messages": [
   {
    "id": "A5B57AAF4F018468547F6603BE05A4BB",
@@ -762,6 +762,86 @@
      "path": "https://drive.google.com/file/d/1H7i3-J-90YkPNKuWBijRMuVTLzFmUMyB/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1H7i3-J-90YkPNKuWBijRMuVTLzFmUMyB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5B5290CFD33327EC066F94176BBE37C",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "מק אתא קומה ב \n052-7146243 ארון הזזה קטן",
+   "ts": 1790256826000,
+   "date": "2026-09-24",
+   "time": "16:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jHeyYbCnH4TugwapIUqS11wBjggI7ltl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jHeyYbCnH4TugwapIUqS11wBjggI7ltl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A53A06B5A26812FF0963BFCC2585CDBF",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה סלון מחיפה\n+972 52-202-0081",
+   "ts": 1790256895000,
+   "date": "2026-09-24",
+   "time": "16:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nzEsoqzgGKHnD3M0tDZXMxyqu1br32J8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nzEsoqzgGKHnD3M0tDZXMxyqu1br32J8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5B0F9391D6ED2904E87183E5659788B",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה מחיפה נווה שאנן בלי הטלויזיה\n+972 52-202-0081",
+   "ts": 1790256897000,
+   "date": "2026-09-24",
+   "time": "16:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L5aiCUxqrjMPj5wH06_qSZlhG4janiDh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L5aiCUxqrjMPj5wH06_qSZlhG4janiDh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A52D74C22D5397E2CF322993D6370500",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה מוטות לסוכה וסכך \nממגדל העמק \n050-8589562 מלי",
+   "ts": 1790256942000,
+   "date": "2026-09-24",
+   "time": "16:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "456KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TCgcuow5U18AsWMGYamweukMQYnUflI3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TCgcuow5U18AsWMGYamweukMQYnUflI3&sz=w1200"
     }
    ],
    "drive": null,
