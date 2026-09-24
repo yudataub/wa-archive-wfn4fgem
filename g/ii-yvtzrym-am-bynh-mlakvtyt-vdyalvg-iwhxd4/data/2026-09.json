@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "II יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-24T07:50:19.561Z",
+ "updated": "2026-09-24T08:38:44.756Z",
  "messages": [
   {
    "id": "3EB0FBDDE152E8DFD565E5",
@@ -588,6 +588,48 @@
    "files": [],
    "drive": null,
    "phone": "972522258139"
+  },
+  {
+   "id": "3EB0F2BE9651551A5AFC2A",
+   "sender": "חפציה",
+   "text": "וזה ניסוי בTASKLITE\nhttps://mixtures-lab.tasklite.dev/\nעוד עובדת לשייף בו, אבל זה גם שומר לי נתונים (מורה יוצר קוד כיתה, תלמיד נכנס בשם ואימוג'י, מורה רואה מפת חום של התקדמות)",
+   "ts": 1790238544000,
+   "date": "2026-09-24",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x4BIyObLjyG3WteJ1yB4peZXY1TgjuGX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x4BIyObLjyG3WteJ1yB4peZXY1TgjuGX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0649F54B7DDDD5E575B",
+   "sender": "חפציה",
+   "text": "בדקתי אותו",
+   "ts": 1790238577000,
+   "date": "2026-09-24",
+   "time": "11:29",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0A89C6EBB9159D75FE1",
+   "sender": "נועם",
+   "text": "tasklite.dev/ זה ישראלי, המפתח שלח בקבוצה אחרת.",
+   "ts": 1790239094000,
+   "date": "2026-09-24",
+   "time": "11:38",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T08:09:36.772Z",
+ "updated": "2026-09-24T08:30:06.936Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4207,6 +4207,26 @@
    "files": [],
    "drive": null,
    "phone": "972525168212"
+  },
+  {
+   "id": "A55D49259E0BDFBD6AB331A9F80283C0",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "גיאת ארבעת המינים\n\nהרב קוק 27 רכסים\n\n0527638553 - ישראל",
+   "ts": 1790238596000,
+   "date": "2026-09-24",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-KYmgp1H8tHJtKmW0Id4aA58s_4Tircm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-KYmgp1H8tHJtKmW0Id4aA58s_4Tircm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }

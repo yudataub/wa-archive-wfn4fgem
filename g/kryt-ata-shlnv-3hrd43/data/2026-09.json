@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T08:24:06.830Z",
+ "updated": "2026-09-24T08:28:36.907Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -391,6 +391,37 @@
    "files": [],
    "drive": null,
    "phone": "972507974945"
+  },
+  {
+   "id": "ACBDBCF924A5D31DC4F19DFDD8F41A70",
+   "sender": "שלמה פרץ",
+   "text": "שכר גבוה למתאימות",
+   "ts": 1790238501000,
+   "date": "2026-09-24",
+   "time": "11:28",
+   "files": [],
+   "drive": null,
+   "phone": "972502590243"
+  },
+  {
+   "id": "AC9F325296C7568F57ABD2EE575C4CCB",
+   "sender": "שלמה פרץ",
+   "text": "",
+   "ts": 1790238502000,
+   "date": "2026-09-24",
+   "time": "11:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "289KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NTn4F7viH1RyN0HGrZBVwQA7vhZ85kh2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NTn4F7viH1RyN0HGrZBVwQA7vhZ85kh2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502590243"
   }
  ]
 }

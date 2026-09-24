@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-24T08:12:34.902Z",
+ "updated": "2026-09-24T08:39:22.791Z",
  "messages": [
   {
    "id": "3EB0016B2434490308755A",
@@ -750,6 +750,59 @@
    "files": [],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "3EB08E95394912D4D99071",
+   "sender": "חפציה",
+   "text": "וזה ניסוי בTASKLITE\nhttps://mixtures-lab.tasklite.dev/\nעוד עובדת לשייף בו, אבל זה גם שומר לי נתונים (מורה יוצר קוד כיתה, תלמיד נכנס בשם ואימוג'י, מורה רואה מפת חום של התקדמות)",
+   "ts": 1790238543000,
+   "date": "2026-09-24",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-364y1xLjq7BZDdy7hDZMjat21NJefRP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-364y1xLjq7BZDdy7hDZMjat21NJefRP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACC9EB2C8D777FA2C9F2E0DAD2B834C2",
+   "sender": "$$@",
+   "text": "אני מבינה שאת התמונות בערכה יצרת בכלי אחר נכון?",
+   "ts": 1790239024000,
+   "date": "2026-09-24",
+   "time": "11:37",
+   "files": [],
+   "drive": null,
+   "phone": "972528944916"
+  },
+  {
+   "id": "3A100B948D94F731D772",
+   "sender": "בת חן",
+   "text": "מחכה להדרכה שלך על זה! \nגם בלי שיופים 😆 \n\nיעזור לי ממש בכיתות הטרוגניות 🙏🏻",
+   "ts": 1790239032000,
+   "date": "2026-09-24",
+   "time": "11:37",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3A34600996685A682706",
+   "sender": "בת חן",
+   "text": "חברה אמרה לי שהיא יצרה משחקים לימודיים ב \nGpt פיצ'ר של\nSites  שיוצר אתר. \n\nאיך הכלי הזה?",
+   "ts": 1790239142000,
+   "date": "2026-09-24",
+   "time": "11:39",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
   }
  ]
 }
