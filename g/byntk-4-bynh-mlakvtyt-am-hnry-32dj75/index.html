@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v20 -->
+<!-- wa-archive-generated v21 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -28,7 +28,7 @@ header h1{margin:0;font-size:18px;font-weight:600;}
 header .sub{font-size:12px;opacity:.85;margin-top:2px;}
 #search{width:100%;box-sizing:border-box;margin-top:10px;padding:8px 10px;
 border:0;border-radius:8px;font-size:14px;font-family:inherit;}
-#who{width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;border:0;border-radius:8px;
+#who,#mediatype{width:100%;box-sizing:border-box;margin-top:8px;padding:8px 10px;border:0;border-radius:8px;
 font-size:14px;font-family:inherit;background:#fff;color:#1f2421;}
 .thread{color:var(--muted);font-weight:400;font-size:12px;}
 main{max-width:780px;margin:0 auto;padding:16px;}
@@ -132,6 +132,7 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <div class="sub" id="sub">טוען…</div>
 <input id="search" type="search" placeholder="חיפוש בהודעות…">
 <select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
+<select id="mediatype" aria-label="סינון לפי סוג קובץ"><option value="">כל הסוגים</option><option value="text">טקסט בלבד</option><option value="image">תמונות</option><option value="video">וידאו</option><option value="audio">הקלטות</option><option value="doc">מסמכים</option></select>
 </header>
 <script type="text/plain" id="delurl">https://script.google.com/macros/s/AKfycbw3AFtdBmWMxGe6pxATEBzUVnVehh_wU4oDHlOIQbI-IeVgq_BZEmWNg2BQ_-iYM_DD/exec</script>
 <div id="navwrap"><div id="navback"></div>
@@ -161,7 +162,7 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <button id="more" hidden>טען חודש קודם</button>
 <div id="status">טוען…</div></main>
 <script>
-var months=[],loaded=[],all=[],filter="",who="";
+var months=[],loaded=[],all=[],filter="",who="",mediaType="";
 var DELURL=((document.getElementById("delurl")||{}).textContent||"").trim();
 // שמות מוצגים (names.json בשורש המאגר, נערך מהאלפון): { phones:{<מספר>:שם}, names:{<שם ישן>:שם} }
 var NAMES={phones:{},names:{}};
@@ -236,6 +237,19 @@ function render(){
  var list=all.filter(function(m){return !deletedIds[m.id];});
  if(onlyStars)list=list.filter(function(m){return stars[m.id];});
  if(who)list=list.filter(function(m){return whoOf(m)===who;});
+ if(mediaType){
+  if(mediaType==="text"){
+   list=list.filter(function(m){return !(m.files||[]).some(function(f){return f.path;})&&!(m.drive&&m.drive.url);});}
+  else{list=list.filter(function(m){
+   var files=(m.files||[]);
+   var hit=files.some(function(f){
+    if(!f.path)return false;
+    if(mediaType==="video")return isVideo(f);
+    if(mediaType==="image")return isImage(f);
+    if(mediaType==="audio")return isAudio(f);
+    if(mediaType==="doc")return !isVideo(f)&&!isImage(f)&&!isAudio(f);
+    return false;});
+   return hit||(mediaType==="doc"&&!!(m.drive&&m.drive.url));});}}
  if(filter){var q=filter.toLowerCase();list=list.filter(function(m){
   return (m.text||"").toLowerCase().indexOf(q)>-1||
    whoOf(m).toLowerCase().indexOf(q)>-1||(m.sender||"").toLowerCase().indexOf(q)>-1||
@@ -266,11 +280,11 @@ function render(){
  [].forEach.call(feed.querySelectorAll(".day"),function(el){el.id="d-"+el.textContent.trim();});
  buildNav(list);
  statusEl.textContent=list.length?"":(onlyStars&&!starCount()?"אין הודעות מסומנות. לחצו ★ בכותרת לחזרה לכל ההודעות, ואז ★ בשורת הזמן של הודעה כדי לסמן אותה."
-  :((filter||who||onlyStars)?"אין תוצאות.":"אין עדיין הודעות."));
+  :((filter||who||onlyStars||mediaType)?"אין תוצאות.":"אין עדיין הודעות."));
  sub.textContent=(list.length!==all.length?list.length+" מתוך "+all.length:all.length)+" הודעות · "+loaded.length+" מתוך "+months.length+" חודשים";
  buildWho();updateStarBtn();
  more.hidden=loaded.length>=months.length;
- if(!filter&&!who&&!onlyStars&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
+ if(!filter&&!who&&!onlyStars&&!mediaType&&!window.__scrolled){window.__scrolled=true;window.scrollTo(0,document.body.scrollHeight);}}
 // ---- העתקה למייל: HTML מעוצב (שולח, זמן, טקסט, תמונות, קבצים) + טקסט רגיל ----
 var GROUP_NAME=document.querySelector("header h1").textContent;
 function absUrl(u){try{return new URL(u,location.href).href;}catch(e){return u;}}
@@ -564,6 +578,7 @@ function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
 document.getElementById("search").addEventListener("input",function(e){
  filter=e.target.value.trim();render();});
 whoSel.addEventListener("change",function(e){who=e.target.value;render();});
+document.getElementById("mediatype").addEventListener("change",function(e){mediaType=e.target.value;render();});
 more.addEventListener("click",function(){
  var next=months[months.length-1-loaded.length];
  if(!next)return;more.disabled=true;
