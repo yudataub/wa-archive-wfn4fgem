@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T04:30:34.400Z",
+ "updated": "2026-09-24T04:45:34.638Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -2416,6 +2416,114 @@
    "files": [],
    "drive": null,
    "phone": "33659789541"
+  },
+  {
+   "id": "ACACEDB1C5C1FF3C4FBFF7BB3C0CE7F5",
+   "sender": "מוריה מויאל",
+   "text": "בוקר אור, יש לי חלקים של מכונת פסטה יקרים שבהוראות יצרן כתוב לא לשטוף, מה הדין לגבי טבילה? (זה לא חשמלי)",
+   "ts": 1790224745000,
+   "date": "2026-09-24",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "38KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_w2br4cILW3VfSS7tybQ_BEoj4v3ILiV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_w2br4cILW3VfSS7tybQ_BEoj4v3ILiV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542273876"
+  },
+  {
+   "id": "ACDB78C6C340DEBF2D9FC8F6E3E6FF1E",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "עושה רק בצק?",
+   "ts": 1790224778000,
+   "date": "2026-09-24",
+   "time": "07:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "ACF80E02634174472D6BC97DB3734C4D",
+   "sender": "מוריה מויאל",
+   "text": "מכין בצק ממולא",
+   "ts": 1790224803000,
+   "date": "2026-09-24",
+   "time": "07:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542273876"
+  },
+  {
+   "id": "AC549D8B560734823942A5874A9BD4C0",
+   "sender": "Moshe Itshak Amar",
+   "text": "צריך בישול של הבצק נכון? לא צריך טבילה",
+   "ts": 1790224834000,
+   "date": "2026-09-24",
+   "time": "07:40",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC31D82EFEABBDBE5D6706CA6BBC3342",
+   "sender": "מוריה מויאל",
+   "text": "🙏🏻",
+   "ts": 1790224855000,
+   "date": "2026-09-24",
+   "time": "07:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542273876"
+  },
+  {
+   "id": "AC9F64F36086901A154DE467580CBB83",
+   "sender": "Moshe",
+   "text": "ס\"ת שנשרף ושיניים נופלות הן לא סיבה לצום ?",
+   "ts": 1790224884000,
+   "date": "2026-09-24",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972549363131"
+  },
+  {
+   "id": "ACF6EE3978B6AD1B48968168D9A8CB95",
+   "sender": "דוד אקא",
+   "text": "20 ש\"ח פדיון תענית",
+   "ts": 1790224984000,
+   "date": "2026-09-24",
+   "time": "07:43",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC0DAE74871148C08506033A5FBCA9D2",
+   "sender": "דוד אקא",
+   "text": "תראה פסקי תשובות סימן רכ",
+   "ts": 1790224991000,
+   "date": "2026-09-24",
+   "time": "07:43",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC422E7F2289BD0B1B1FBFDED52F7D27",
+   "sender": "Moshe",
+   "text": "תודה רבה",
+   "ts": 1790225113000,
+   "date": "2026-09-24",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "phone": "972549363131"
   }
  ]
 }
