@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T10:07:28.231Z",
+ "updated": "2026-09-24T10:47:18.588Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -2891,6 +2891,37 @@
    "files": [],
    "drive": null,
    "phone": "972526845635"
+  },
+  {
+   "id": "AC8C31CAC29C195888D55FB15DF8EFFD",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "צלם את הסוכה מבחוץ",
+   "ts": 1790246524000,
+   "date": "2026-09-24",
+   "time": "13:42",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC14B89FF834BBF89EC79624527DBDCE",
+   "sender": "ינון אדרי",
+   "text": "ככה?",
+   "ts": 1790246783000,
+   "date": "2026-09-24",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "467KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ctVsX_tSAjuawDQmGBHOQrTV4hqyJeZF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ctVsX_tSAjuawDQmGBHOQrTV4hqyJeZF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507670161"
   }
  ]
 }

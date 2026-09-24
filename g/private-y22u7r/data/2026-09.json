@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T10:38:05.605Z",
+ "updated": "2026-09-24T10:44:52.771Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -3355,6 +3355,97 @@
    "drive": null,
    "thread": "50036553584869",
    "phone": "972559847775"
+  },
+  {
+   "id": "3EB051285C2E5BCB1B6621",
+   "sender": "אני",
+   "text": "הוא מכין לך תמונה יותר טובה",
+   "ts": 1790246338000,
+   "date": "2026-09-24",
+   "time": "13:38",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC9361F629D6DFCB29C0186356FC399C",
+   "sender": "מיכל",
+   "text": "אוקיי תודה רבה",
+   "ts": 1790246435000,
+   "date": "2026-09-24",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "ACA1EA18F43E8E4733154AE6DE5AD13A",
+   "sender": "~sara amor",
+   "text": "תודה רבה הרב",
+   "ts": 1790246596000,
+   "date": "2026-09-24",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "~sara amor",
+   "phone": "972515241998"
+  },
+  {
+   "id": "AC1D6E249D3D2EB80EFFCE6747FB8392",
+   "sender": "~sara amor",
+   "text": "חסר רק את משה למפ",
+   "ts": 1790246601000,
+   "date": "2026-09-24",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "~sara amor",
+   "phone": "972515241998"
+  },
+  {
+   "id": "A5B5A14F26C022B3512ADA69DD85AAEB",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790246643000,
+   "date": "2026-09-24",
+   "time": "13:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hmLZTwxAawZ5yia9G-8WRzOPThf_8rrV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hmLZTwxAawZ5yia9G-8WRzOPThf_8rrV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5C35E7FD8688BE4BF72BDC2D27AD9C",
+   "sender": "~sara amor",
+   "text": "זה מקסים אבל זה עיוות את כל הפנים של כולם אז אני אוותר על זה🙏🏼",
+   "ts": 1790246665000,
+   "date": "2026-09-24",
+   "time": "13:44",
+   "files": [],
+   "drive": null,
+   "thread": "~sara amor",
+   "phone": "972515241998"
+  },
+  {
+   "id": "ACD9AEB0ED9862256BC9AF5855B6FDAC",
+   "sender": "~sara amor",
+   "text": "מושלם\nתודה הרב🙏🏼",
+   "ts": 1790246675000,
+   "date": "2026-09-24",
+   "time": "13:44",
+   "files": [],
+   "drive": null,
+   "thread": "~sara amor",
+   "phone": "972515241998"
   }
  ]
 }
