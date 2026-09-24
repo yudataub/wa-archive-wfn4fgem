@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-24T12:43:11.585Z",
+ "updated": "2026-09-24T13:22:19.838Z",
  "messages": [
   {
    "id": "2ADAD43350A8217C3733",
@@ -314,6 +314,26 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "A58F85A93959ABC303BD3F40E787C8E8",
+   "sender": "תמר חמאדה",
+   "text": "בבוקר הצצה קטנה, ועכשיו מוזמנים להיכנס לסוכה 🌿\n\n״סוכה של סיפורים״ — מרחב שהכנתי לכל המשפחה, עם סבתא שמזמינה לגלות את החג, לשחק, לשוחח וליצור יחד.\n\nמחכים לכם קלפי שיח, משחקי שולחן, משחק דיגיטלי, סרטונים, קישוטים ודפי צביעה — וגם החוברת המלאה להורדה ולהדפסה.\n\nהגירסה הדיגיטלית \nhttps://sukkah-family-book.tammar.chatgpt.site\n\nלהורדת כל הערכה להדפסה  \nhttps://drive.google.com/file/d/1Zag693bjOiNHTo20iuXczCxn-P8fvlz9/view?usp=drivesdk\n\nמאחלת לכולנו חג סוכות שמח, עם זמן ביחד, יצירה וסיפורים חדשים שיישארו איתנו גם אחרי החג.\n\nתמר חמאדה | רעיונות פוגשים בינה\n\nלהצטרפות לקהילה",
+   "ts": 1790256106000,
+   "date": "2026-09-24",
+   "time": "16:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uJwcagtPVn46jOgjhcaKjrx4-hdLvaq_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uJwcagtPVn46jOgjhcaKjrx4-hdLvaq_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }
