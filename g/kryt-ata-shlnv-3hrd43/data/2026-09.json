@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T15:24:43.724Z",
+ "updated": "2026-09-24T16:09:44.030Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -807,6 +807,26 @@
    "files": [],
    "drive": null,
    "phone": "972548009994"
+  },
+  {
+   "id": "3AB1BC31C2A703FC3E9A",
+   "sender": "אסף",
+   "text": "די וי די מקורי של הארי פוטר וחדר הסודות 90₪",
+   "ts": 1790266180000,
+   "date": "2026-09-24",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fS_1wBRUGlh7y3RkhRBLr99PbO3c280U/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fS_1wBRUGlh7y3RkhRBLr99PbO3c280U&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

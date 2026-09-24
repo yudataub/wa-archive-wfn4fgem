@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-24T16:01:43.945Z",
+ "updated": "2026-09-24T16:15:14.193Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3204,6 +3204,67 @@
    "files": [],
    "drive": null,
    "phone": "972556624979"
+  },
+  {
+   "id": "ACA26ED7E54EB54FF08D516537A1CFDB",
+   "sender": "nadav levy05",
+   "text": "https://api.whatsapp.com/send?phone=9720538240485&text=%D7%9C%D7%92%D7%91%D7%99%20%D7%9E%D7%9B%D7%99%D7%A8%D7%AA%20%D7%A1%D7%95%D7%9B%D7%95%D7%AA%2C%20%D7%91%D7%93%D7%99%D7%9D%20%D7%95%D7%A1%D7%9B%D7%9A",
+   "ts": 1790266485000,
+   "date": "2026-09-24",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972538240485"
+  },
+  {
+   "id": "AC0D47795186D9DF4D1926C802D9BB2C",
+   "sender": "nadav levy05",
+   "text": "פתוחים היום עד 1:00 בלילה",
+   "ts": 1790266486000,
+   "date": "2026-09-24",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972538240485"
+  },
+  {
+   "id": "ACBD393EE003E9EF49A1F2181B034933",
+   "sender": "nadav levy05",
+   "text": "",
+   "ts": 1790266486000,
+   "date": "2026-09-24",
+   "time": "19:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IhznKAXOOKhiVLqXYxiIPsmiWDKACOQz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IhznKAXOOKhiVLqXYxiIPsmiWDKACOQz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538240485"
+  },
+  {
+   "id": "ACDB4004B0FA686092FD6CD22FDC58CC",
+   "sender": "nadav levy05",
+   "text": "קרית אתא",
+   "ts": 1790266487000,
+   "date": "2026-09-24",
+   "time": "19:14",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "14.4MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972538240485"
   }
  ]
 }
