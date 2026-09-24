@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T16:27:25.011Z",
+ "updated": "2026-09-24T16:52:51.235Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2349,6 +2349,28 @@
    "files": [],
    "drive": null,
    "phone": "972546909056"
+  },
+  {
+   "id": "3EB05B0661F5D4CFBAC5F5",
+   "sender": "דוד ספיאשוילי",
+   "text": "@237271240417464 שלח פה לכלולנו",
+   "ts": 1790268434000,
+   "date": "2026-09-24",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "A55D026C606567EB475A0D5B66AA41ED",
+   "sender": "הראל מקייס",
+   "text": "https://youtu.be/6cCF5hITRdQ?si=mywcGl3VTQoyEkxg",
+   "ts": 1790268472000,
+   "date": "2026-09-24",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
   }
  ]
 }
