@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-24T08:41:53.246Z",
+ "updated": "2026-09-24T10:03:27.312Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2956,6 +2956,46 @@
    "files": [],
    "drive": null,
    "phone": "972523022223"
+  },
+  {
+   "id": "AC2E5E494F3C914A833D6AB37B6F1E8A",
+   "sender": "גמח עדן",
+   "text": "למסירה עד היום 0556727587 צריך לפרק אותה במצב מעולה מעולה כל הקודם זוכה",
+   "ts": 1790244184000,
+   "date": "2026-09-24",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "427KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zWPAGkqUsBtZXmEKIJ5_iYaF7EGdJAgV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zWPAGkqUsBtZXmEKIJ5_iYaF7EGdJAgV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC8E7FE91E756E7B4894F79C7FBAB20C",
+   "sender": "גמח עדן",
+   "text": "",
+   "ts": 1790244184000,
+   "date": "2026-09-24",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "454KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xCYy4Rbi7BajlgiSXVQP0GGLXQRoUbal/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xCYy4Rbi7BajlgiSXVQP0GGLXQRoUbal&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }

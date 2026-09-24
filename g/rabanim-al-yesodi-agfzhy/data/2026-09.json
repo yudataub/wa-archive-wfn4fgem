@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני העל-יסודי",
- "updated": "2026-09-24T09:57:26.884Z",
+ "updated": "2026-09-24T10:01:27.294Z",
  "messages": [
   {
    "id": "gm-1a059a523f683bdb",
@@ -593,6 +593,88 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "AC836CAD638B263BF364D1CF8ED62B64",
+   "sender": "יניב חדד",
+   "text": "https://share.gemini.google/eacN5PqLjga0",
+   "ts": 1790244004000,
+   "date": "2026-09-24",
+   "time": "13:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VtKSZB7oQZeaQ9yTT8t5olRjiP9o-17Z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VtKSZB7oQZeaQ9yTT8t5olRjiP9o-17Z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545338732"
+  },
+  {
+   "id": "ACBFC64AD5FB21F1095A67E8521043AC",
+   "sender": "יניב חדד",
+   "text": "לומדים יקרים! \n\nאנחנו מסיימים בשעה טובה, *שנה שלישית* של לימוד חלק הגמרא בחק לישראל. \n\nיישר כוח על ההתמדה! \n\nיהי רצון כשם שעד הנה עזרנו ה' להגיע לשבוע הלימוד האחרון של חק לישראל, כך יעזרנו לאורך ימים ושנים!\n\n*מזמין אתכם לצרף לומדים חדשים לקבוצה לזיכוי הרבים* \n\nלהצטרפות -\n\nהצ'עיר",
+   "ts": 1790244004000,
+   "date": "2026-09-24",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "phone": "972545338732"
+  },
+  {
+   "id": "AC3A365755B8E5E053031F4CD4AED047",
+   "sender": "יניב חדד",
+   "text": "",
+   "ts": 1790244005000,
+   "date": "2026-09-24",
+   "time": "13:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "234KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZTZEbAyy9nmlNw0_idGkjx-vnIMjut9a/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZTZEbAyy9nmlNw0_idGkjx-vnIMjut9a&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545338732"
+  },
+  {
+   "id": "AC8066CAF95C8D4FA74FAC2EA45BEB01",
+   "sender": "יניב חדד",
+   "text": "",
+   "ts": 1790244005000,
+   "date": "2026-09-24",
+   "time": "13:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "126KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13JV_47ACxcfcWIrFO5zpa0Ns5uSPXx6V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13JV_47ACxcfcWIrFO5zpa0Ns5uSPXx6V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545338732"
+  },
+  {
+   "id": "ACCFC89B32C36EFFF7A87D503FECA6F9",
+   "sender": "יניב חדד",
+   "text": "'סדר בוקר עם ראש הישיבה' - הכנה לחג הסוכות (תפילה + שיחת הכנה)",
+   "ts": 1790244082000,
+   "date": "2026-09-24",
+   "time": "13:01",
+   "files": [],
+   "drive": null,
+   "phone": "972545338732"
   }
  ]
 }

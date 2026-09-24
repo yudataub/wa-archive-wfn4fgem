@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T09:55:26.843Z",
+ "updated": "2026-09-24T10:00:27.227Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2048,6 +2048,25 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "AC23C738CDD2CDB262F4595EDA6E80C1",
+   "sender": "דוד",
+   "text": "",
+   "ts": 1790243995000,
+   "date": "2026-09-24",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "3KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1cNdxidncUybT4zZGe5G-tWa59ySBQnu-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527890137"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T08:39:52.341Z",
+ "updated": "2026-09-24T10:03:27.337Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4249,6 +4249,46 @@
    "files": [],
    "drive": null,
    "phone": "972584171334"
+  },
+  {
+   "id": "AC08899C8ED4493EB8219645334DAB35",
+   "sender": "גמח עדן",
+   "text": "למסירה עד היום 0556727587 צריך לפרק אותה במצב מעולה מעולה כל הקודם זוכה",
+   "ts": 1790244190000,
+   "date": "2026-09-24",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "427KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PK6Q0aDrO4fawWALY7q9xdT0-MLBINYb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PK6Q0aDrO4fawWALY7q9xdT0-MLBINYb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC8490DEDAFC72A85530DF447AF4721D",
+   "sender": "גמח עדן",
+   "text": "",
+   "ts": 1790244191000,
+   "date": "2026-09-24",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "454KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KRKZpnJKeSS5ygEK5A3WHzJKMZ8wg3Uq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KRKZpnJKeSS5ygEK5A3WHzJKMZ8wg3Uq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-24T09:41:49.711Z",
+ "updated": "2026-09-24T10:05:28.210Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -1543,6 +1543,37 @@
    "files": [],
    "drive": null,
    "phone": "972504759339"
+  },
+  {
+   "id": "AC822790E915AF8605DAA9D127C5DE54",
+   "sender": "עדית",
+   "text": "",
+   "ts": 1790244289000,
+   "date": "2026-09-24",
+   "time": "13:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N3RkYfZJSqdpzYc9Dxp3F6YQmD8brPRP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N3RkYfZJSqdpzYc9Dxp3F6YQmD8brPRP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508666772"
+  },
+  {
+   "id": "AC2C41E7A356642C1573DE45686B3312",
+   "sender": "עדית",
+   "text": "פרסמתי",
+   "ts": 1790244301000,
+   "date": "2026-09-24",
+   "time": "13:05",
+   "files": [],
+   "drive": null,
+   "phone": "972508666772"
   }
  ]
 }

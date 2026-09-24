@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתא שלנו גם בווצאפ 1",
- "updated": "2026-09-24T06:18:50.457Z",
+ "updated": "2026-09-24T10:07:28.478Z",
  "messages": [
   {
    "id": "3EB0662B8710337239AC60",
@@ -49,6 +49,17 @@
    "ts": 1790230721000,
    "date": "2026-09-24",
    "time": "09:18",
+   "files": [],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "3EB08201DD33015CA42F9D",
+   "sender": "אתא שלנו",
+   "text": "https://www.facebook.com/share/p/1DwVXXtbgd/",
+   "ts": 1790244433000,
+   "date": "2026-09-24",
+   "time": "13:07",
    "files": [],
    "drive": null,
    "phone": "972525992887"
