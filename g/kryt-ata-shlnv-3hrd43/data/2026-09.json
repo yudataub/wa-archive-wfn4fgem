@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T10:47:48.630Z",
+ "updated": "2026-09-24T11:06:49.669Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -524,6 +524,59 @@
    "files": [],
    "drive": null,
    "phone": "972508123122"
+  },
+  {
+   "id": "ACA034895C5FC162C4D79C702FACD0A8",
+   "sender": "נעמה אזולאי",
+   "text": "",
+   "ts": 1790247610000,
+   "date": "2026-09-24",
+   "time": "14:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kz4r1b8yCwJIPxQP-NEc8Kh1Mpvb3GGK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kz4r1b8yCwJIPxQP-NEc8Kh1Mpvb3GGK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559971125"
+  },
+  {
+   "id": "ACE07734C217BAF0B6810A7FE093C79D",
+   "sender": "אורלי",
+   "text": "שלחתי לך בפרטי",
+   "ts": 1790247648000,
+   "date": "2026-09-24",
+   "time": "14:00",
+   "files": [],
+   "drive": null,
+   "phone": "972526245691"
+  },
+  {
+   "id": "ACC5E19612BD31A729F753DB02115805",
+   "sender": "שמואל מלול",
+   "text": "https://www.facebook.com/share/p/1DwVXXtbgd/",
+   "ts": 1790247934000,
+   "date": "2026-09-24",
+   "time": "14:05",
+   "files": [],
+   "drive": null,
+   "phone": "972504247737"
+  },
+  {
+   "id": "AC3B26AD60951C7C2AB6FB2C09291763",
+   "sender": "שמואל מלול",
+   "text": "https://katzr.net/6b796b\n\nתושבים יקרים\nהינכם מוזמנים לטקס לציון אירועי השבעה באוקטובר\n\nהטקס יתקיים במעמד ראש העיר יעקב פרץ, רבני העיר והמשפחות השכולות.\n\n🗓 יום שני, 5.10.26 | כ״ד בתשרי תשפ״ז\n🕗 בשעה 20:00\n📍 אודיטוריום המתנ״ס העירוני, פלמ״ח 11\n\nהכניסה חופשית , מותנה ברישום מראש באמצעות הקישור.\nלמעוניינים הסעה מאורגנת \nפרטים בקישור",
+   "ts": 1790247995000,
+   "date": "2026-09-24",
+   "time": "14:06",
+   "files": [],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }

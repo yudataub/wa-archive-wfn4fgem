@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-24T10:57:19.476Z",
+ "updated": "2026-09-24T10:59:49.529Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -1232,6 +1232,26 @@
    ],
    "drive": null,
    "phone": "972542000845"
+  },
+  {
+   "id": "AC3B6745DF0239F03FD7A1CD5374AAFC",
+   "sender": "נעמה אזולאי",
+   "text": "",
+   "ts": 1790247579000,
+   "date": "2026-09-24",
+   "time": "13:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10upNySiNG87y2qQiQS7vmcP4_E-jN0Pm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10upNySiNG87y2qQiQS7vmcP4_E-jN0Pm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559971125"
   }
  ]
 }
