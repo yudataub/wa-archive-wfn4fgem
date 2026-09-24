@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-24T09:06:45.817Z",
+ "updated": "2026-09-24T09:14:45.166Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -2209,6 +2209,18 @@
    "ts": 1790240784000,
    "date": "2026-09-24",
    "time": "12:06",
+   "files": [],
+   "drive": null,
+   "thread": "Ashish pradhan",
+   "phone": "972534033787"
+  },
+  {
+   "id": "3A5E6A4E4F8D38AF9FB5",
+   "sender": "Ashish pradhan",
+   "text": "I went to pay you cash",
+   "ts": 1790241271000,
+   "date": "2026-09-24",
+   "time": "12:14",
    "files": [],
    "drive": null,
    "thread": "Ashish pradhan",
