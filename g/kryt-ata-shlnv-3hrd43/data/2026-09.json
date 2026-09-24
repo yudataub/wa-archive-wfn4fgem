@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T22:45:29.146Z",
+ "updated": "2026-09-24T22:49:14.104Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1037,6 +1037,26 @@
    "files": [],
    "drive": null,
    "phone": "972586868886"
+  },
+  {
+   "id": "AC58682BF32B9CC6CAE2C53CF2803267",
+   "sender": "Orit",
+   "text": "",
+   "ts": 1790290097000,
+   "date": "2026-09-25",
+   "time": "01:48",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "69KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1QsRCa2lFPppY9Ue2p132ZoezxT_vP-Ut/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QsRCa2lFPppY9Ue2p132ZoezxT_vP-Ut&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525306317"
   }
  ]
 }
