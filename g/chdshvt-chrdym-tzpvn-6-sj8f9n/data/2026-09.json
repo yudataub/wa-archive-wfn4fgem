@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-24T06:53:20.993Z",
+ "updated": "2026-09-24T08:12:06.650Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -883,6 +883,26 @@
    "date": "2026-09-24",
    "time": "09:53",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A58BBC48AECF367BA89577CD3C9E0B12",
+   "sender": "י",
+   "text": "*ברוך דיין האמת: הגברת פנינה ולדר ז\"ל מחיפה*\nאשת איש החסד רבי שלמה ולדר ממקימי מוסדות הצדקה והחסד בחיפה, הלוויתה בשעה 12.00 מביתה רחוב מיימון 1 שם התגוררה בשנים האחרונות סמוך לביתה.\n\nלכל העדכונים👇",
+   "ts": 1790237499000,
+   "date": "2026-09-24",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e4IptrrNkYTPyS26MrsZtoWhf7WiG0D9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e4IptrrNkYTPyS26MrsZtoWhf7WiG0D9&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
