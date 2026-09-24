@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T21:13:54.451Z",
+ "updated": "2026-09-24T21:26:38.765Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -859,7 +859,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1aebQmTRC8p9kpkEDrMex_38XJG1Fp2e2/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1aebQmTRC8p9kpkEDrMex_38XJG1Fp2e2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1aebQmTRC8p9kpkEDrMex_38XJG1Fp2e2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hprgvd-70-2avqtk/v/2026-09/3EB06D483DCB642BEE97E4_0.mp4"
     }
    ],
    "drive": null,
@@ -879,7 +880,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/121rdpGZjS-Iq8fsY-unr7dhTFAsvex3l/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=121rdpGZjS-Iq8fsY-unr7dhTFAsvex3l&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=121rdpGZjS-Iq8fsY-unr7dhTFAsvex3l&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hprgvd-70-2avqtk/v/2026-09/3EB060A2B87A1AA9915ECA_0.mp4"
     }
    ],
    "drive": null,
@@ -918,6 +920,76 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "27.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0869DBA2D4B4A640296",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: בסוף בנט בירך שהכל ניהיה בדברו ואפילו ענה לעצמו אמן.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790284784000,
+   "date": "2026-09-25",
+   "time": "00:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1DSCdMyGRPNsOAJ1vEZb-bQCLkNPFElOA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DSCdMyGRPNsOAJ1vEZb-bQCLkNPFElOA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0995258D42E349E553D",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: בנט הגיע למוטיס בלי תיאום עם בעלי המסעדה.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790284992000,
+   "date": "2026-09-25",
+   "time": "00:23",
+   "files": [],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0F4F6BF1DED4C61C1AF",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: מידד טסה פותח את הלב בכתבה אישית בערוץ 13 במוצ\"ש\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790285120000,
+   "date": "2026-09-25",
+   "time": "00:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "8.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0C1410D2283534521C9",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: מלקולם הונליין סגן יו\"ר ועידת  הנשיאים באר\"הב  מלווה עם  ר' מוטי פריד, והרב גולדשמיט מנהל מחלקת שירותי דת, בביקור אצל משפחתו של החייל נריה לייטר בנו של שגריר ישראל באר\"הב \n\nלאחר הביקור מלקולם הונליין ביקר עם יו\"ר הארגון במתחם החסד \"סעד ומרפא\" הפועל בביה\"ח שערי צדק 24/7\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790285173000,
+   "date": "2026-09-25",
+   "time": "00:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eCrNe4_7_SFCSMVfQIPByhfY9mdITHEu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eCrNe4_7_SFCSMVfQIPByhfY9mdITHEu&sz=w1200"
     }
    ],
    "drive": null,
