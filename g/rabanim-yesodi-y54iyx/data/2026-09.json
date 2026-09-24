@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-24T11:44:13.912Z",
+ "updated": "2026-09-24T12:16:20.211Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2174,6 +2174,56 @@
    "files": [],
    "drive": null,
    "phone": "972526024650"
+  },
+  {
+   "id": "ACBC197B2D6A9FF75FD1D389608FE541",
+   "sender": "Alon Cohen",
+   "text": "",
+   "ts": 1790252110000,
+   "date": "2026-09-24",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "418KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BPkAcA9qQC3frFctafjKd2kwUpFsDoIa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BPkAcA9qQC3frFctafjKd2kwUpFsDoIa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502322329"
+  },
+  {
+   "id": "AC724D7D3713CAFA671B2FBA78815826",
+   "sender": "Alon Cohen",
+   "text": "",
+   "ts": 1790252130000,
+   "date": "2026-09-24",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "10.9MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972502322329"
+  },
+  {
+   "id": "AC1226A16A172CE5B3343912F6A80CB3",
+   "sender": "Alon Cohen",
+   "text": "קישוטי סוכה 🎉\n\n *בסימן 60 שנה לשחרור ירושלים* 🇮🇱🇮🇱\n\nנועם בנים טבריה 💐",
+   "ts": 1790252177000,
+   "date": "2026-09-24",
+   "time": "15:16",
+   "files": [],
+   "drive": null,
+   "phone": "972502322329"
   }
  ]
 }
