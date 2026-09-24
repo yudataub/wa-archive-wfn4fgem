@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T05:05:36.708Z",
+ "updated": "2026-09-24T05:43:41.142Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4114,6 +4114,37 @@
    ],
    "drive": null,
    "phone": "972508284449"
+  },
+  {
+   "id": "A5A93FFA69D244AAD8C2ACF4738B262B",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "",
+   "ts": 1790228613000,
+   "date": "2026-09-24",
+   "time": "08:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dZ1nwTwzPTK3xGksezrIE1BTfNHP1fMz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dZ1nwTwzPTK3xGksezrIE1BTfNHP1fMz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527005084"
+  },
+  {
+   "id": "A5FE7DA76DFF87A276BB9F54C1F7D1E2",
+   "sender": "אבי אייזנבך a.a משכנתאות",
+   "text": "התבקשתי לפרסם, נא להתקשר למספר המופיע במודעה בלבד. 053-392-1045",
+   "ts": 1790228614000,
+   "date": "2026-09-24",
+   "time": "08:43",
+   "files": [],
+   "drive": null,
+   "phone": "972527005084"
   }
  ]
 }
