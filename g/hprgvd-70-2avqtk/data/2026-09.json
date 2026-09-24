@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T21:07:20.491Z",
+ "updated": "2026-09-24T21:13:54.451Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -838,7 +838,86 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1EMw3WS5QYHEKa6eEplPUROm5bHfLWQYQ/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1EMw3WS5QYHEKa6eEplPUROm5bHfLWQYQ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1EMw3WS5QYHEKa6eEplPUROm5bHfLWQYQ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hprgvd-70-2avqtk/v/2026-09/3EB04400A1495F1E06C176_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB06D483DCB642BEE97E4",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: מוטי לייטנר מתראיין בקניון סאן מול\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790284027000,
+   "date": "2026-09-25",
+   "time": "00:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1aebQmTRC8p9kpkEDrMex_38XJG1Fp2e2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aebQmTRC8p9kpkEDrMex_38XJG1Fp2e2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB060A2B87A1AA9915ECA",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ויראלי ברשת: בן ישיבה לשוטרים \"אני עריק מעל 500 ימים\"\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790284165000,
+   "date": "2026-09-25",
+   "time": "00:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/121rdpGZjS-Iq8fsY-unr7dhTFAsvex3l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=121rdpGZjS-Iq8fsY-unr7dhTFAsvex3l&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB09EEAF6E998225C6B25",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: כבודו שכח לברך גרסת בנט בבני ברק\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790284262000,
+   "date": "2026-09-25",
+   "time": "00:11",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "19.3MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB033CE38BE35E994BC52",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: נהג החשוד בנהיגה בשכרות נעצר לאחר שסירב לבצע בדיקת אלכוהול בעקבות תאונה שבה פגע באישה. האישה פונתה לבית החולים.\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790284428000,
+   "date": "2026-09-25",
+   "time": "00:13",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "27.5MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
