@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-09-24T06:20:50.501Z",
+ "updated": "2026-09-24T06:29:50.615Z",
  "messages": [
   {
    "id": "AC5BA4BA3AA525BB2BD27F05EC6E2BCF",
@@ -407,6 +407,26 @@
    "files": [],
    "drive": null,
    "phone": "972535658889"
+  },
+  {
+   "id": "A507CA32E5F03BDA437C3A3B06E10F4D",
+   "sender": "ליהי גיוס צהרונים תאגיד לביא",
+   "text": "https://wa.me/972547875096?text=אשמח+לפרטים+",
+   "ts": 1790231382000,
+   "date": "2026-09-24",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nHi0MvKAjON6vW_jUR3vT2wO2Ta9w3NW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nHi0MvKAjON6vW_jUR3vT2wO2Ta9w3NW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547875096"
   }
  ]
 }

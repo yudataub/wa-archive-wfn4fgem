@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T06:25:50.543Z",
+ "updated": "2026-09-24T06:31:50.636Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -96,6 +96,26 @@
    "files": [],
    "drive": null,
    "phone": "972528438008"
+  },
+  {
+   "id": "2A8808CB94B8E1E1198A",
+   "sender": "הדייג דגים טריים מהים אליכם לבית !",
+   "text": "",
+   "ts": 1790231476000,
+   "date": "2026-09-24",
+   "time": "09:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "415KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PxlzBZRDrn9m2RhSH9ZfMq2Zwhm2Sy6v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PxlzBZRDrn9m2RhSH9ZfMq2Zwhm2Sy6v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528894841"
   }
  ]
 }
