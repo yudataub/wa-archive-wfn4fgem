@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-24T10:45:48.070Z",
+ "updated": "2026-09-24T10:57:19.476Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -1192,6 +1192,46 @@
    ],
    "drive": null,
    "phone": "972547575312"
+  },
+  {
+   "id": "AC83F45BCFF8F3EFB6807F18A27721BD",
+   "sender": "תומ",
+   "text": "מי שמעוניין בפרטים שירשום לי שנים בתחומים",
+   "ts": 1790247403000,
+   "date": "2026-09-24",
+   "time": "13:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mLUESnpfTMk-MVHuxfO6O6XqMZo6SBW9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mLUESnpfTMk-MVHuxfO6O6XqMZo6SBW9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
+  },
+  {
+   "id": "ACCFB9D08438FEEDCE16A2C95F8132C2",
+   "sender": "תומ",
+   "text": "",
+   "ts": 1790247404000,
+   "date": "2026-09-24",
+   "time": "13:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jAaTyi-hQyR5ZfQbfK9MY-eJlyayQL9S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jAaTyi-hQyR5ZfQbfK9MY-eJlyayQL9S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
   }
  ]
 }
