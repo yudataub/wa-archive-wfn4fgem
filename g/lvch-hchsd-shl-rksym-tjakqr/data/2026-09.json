@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T12:54:50.957Z",
+ "updated": "2026-09-24T13:02:21.902Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -3157,6 +3157,26 @@
    "files": [],
    "drive": null,
    "phone": "972506135969"
+  },
+  {
+   "id": "AC733A0A7774AA687EE32C53C5E8BC0A",
+   "sender": "אלירן",
+   "text": "למסירה כמות גדולה של בקבוקים \nרחוב האורנים 16 לא להתקשר",
+   "ts": 1790254919000,
+   "date": "2026-09-24",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "323KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xFSlhpIkF4WSB2M6_M0yQFvhUA5ErOl5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xFSlhpIkF4WSB2M6_M0yQFvhUA5ErOl5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523445911"
   }
  ]
 }

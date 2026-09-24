@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "II יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-24T10:36:05.880Z",
+ "updated": "2026-09-24T13:01:48.905Z",
  "messages": [
   {
    "id": "3EB0FBDDE152E8DFD565E5",
@@ -701,6 +701,37 @@
    "ts": 1790246143000,
    "date": "2026-09-24",
    "time": "13:35",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0B99F19698A0BDC91BA",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790254903000,
+   "date": "2026-09-24",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "421KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v-vBzxKaWDCLqbQXcvsUitAvw_v8qzKV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v-vBzxKaWDCLqbQXcvsUitAvw_v8qzKV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0DBCEBCD99E06AB6DBC",
+   "sender": "נועם",
+   "text": "כל בחירה משפיעה! 🗳️\n\nלדנה אין כסף לשכר דירה.\nאסי נקרא למילואים בפעם החמישית.\nונטע גילתה שמישהו מצותת לשיחות שלה.\n\nמה הייתם עושים במקומם?\n\nקבלו החלטות, ראו איך הן משפיעות על המדינה, וגלו איזו מפלגה הכי קרובה לדעות שלכם.\n\nhttps://choices.heyouka.com/",
+   "ts": 1790254904000,
+   "date": "2026-09-24",
+   "time": "16:01",
    "files": [],
    "drive": null,
    "phone": "972534663621"
