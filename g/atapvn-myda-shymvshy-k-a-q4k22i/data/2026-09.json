@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-24T16:21:52.236Z",
+ "updated": "2026-09-24T19:07:34.266Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -876,6 +876,65 @@
    ],
    "drive": null,
    "phone": "972537941565"
+  },
+  {
+   "id": "3EB0E028D5D13F7B6FCDD1",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "חג סוכות שמח\nלכל לקוחותינו \nולכל קוראינו היקרים\n*כל אירועי התרבות לחג בתוך העיתון* \n*מוזמנים לדפדף*\n\nלקבלת העיתון אחת לשבוע\nבאופן דיגיטלי\nהצטרפו לקבוצה השקטה שלנו:\n\nאו שלחו בקשה למייל:\nn0548453220@gmail.com\n\nלביקור באתר שלנו:\nhttps://www.h-tzfonit.com/\n*בחול המועד לא ייצא עיתון הגליון הבא ייצא בע\"ה לאחר שמחת תורה*",
+   "ts": 1790276428000,
+   "date": "2026-09-24",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "315KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-Q0Q1FMtwLGZywZH1ABrpCLE_JIH_vFk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-Q0Q1FMtwLGZywZH1ABrpCLE_JIH_vFk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
+  },
+  {
+   "id": "3EB05962B1E8919196127F",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "גליון 348 הנקודה הצפונית.pdf",
+   "ts": 1790276430000,
+   "date": "2026-09-24",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "גליון 348 הנקודה הצפונית.pdf",
+     "size": "4.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bDgcPHJH6EN6kGWj1ySnqlk5mZGaVMnm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
+  },
+  {
+   "id": "A5BD679156B72FEB61AA2CBCA71DE361",
+   "sender": "תמי",
+   "text": "מי שמחפשת שמחת בית השואבה או אטרקציות חינם לילדים מוזמנת🫶",
+   "ts": 1790276830000,
+   "date": "2026-09-24",
+   "time": "22:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1asyWo1-7vYfH3MKm4UKS9GG_KI11pMzr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1asyWo1-7vYfH3MKm4UKS9GG_KI11pMzr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
   }
  ]
 }

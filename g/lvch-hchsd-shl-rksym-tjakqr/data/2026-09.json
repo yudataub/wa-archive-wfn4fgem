@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T18:58:16.414Z",
+ "updated": "2026-09-24T19:04:58.407Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -3609,6 +3609,37 @@
    ],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "A537308EFF803C59687C2557E265A309",
+   "sender": "ל כ",
+   "text": "נמצא בקו 30",
+   "ts": 1790276347000,
+   "date": "2026-09-24",
+   "time": "21:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bFtl4cRhpgGtsLGNUu0zMzsbGeow3Peb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bFtl4cRhpgGtsLGNUu0zMzsbGeow3Peb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526087458"
+  },
+  {
+   "id": "2ADAAAB353083B7820D0",
+   "sender": "יוקרה מתנות ממותגות מבית דפוס הגבעה",
+   "text": "משהו מכיר את החנות שעונים בגבעה ג?\nויש לה מספר שלה?",
+   "ts": 1790276684000,
+   "date": "2026-09-24",
+   "time": "22:04",
+   "files": [],
+   "drive": null,
+   "phone": "972556691765"
   }
  ]
 }

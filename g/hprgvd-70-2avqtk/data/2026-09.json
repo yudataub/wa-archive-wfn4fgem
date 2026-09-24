@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T18:55:43.217Z",
+ "updated": "2026-09-24T19:01:19.722Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -472,6 +472,26 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "10.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0E04FADCCB1595D7152",
+   "sender": "הפרגוד",
+   "text": "🔥*ג'ילי חדשה במחיר שיעיף לכם את הסכך!*🌴\n\nרק בחול המועד סוכות - ג'ילי בימי מכירה מיוחדים עם הטבות ומחירים חסרי תקדים!\n\n🗓️ ט\"ז – י\"ט תשרי\n🚗 כל דגמי ג'ילי\n🎁 *הנחות חג מיוחדות*\n\nלפרטים נוספים ולנסיעת מבחן 👇 \nhttps://meymadigital.co.il/B8AQL",
+   "ts": 1790276431000,
+   "date": "2026-09-24",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "517KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16UdIcV5RkFCnNs0ebAF2plFiu0Bjs1um/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16UdIcV5RkFCnNs0ebAF2plFiu0Bjs1um&sz=w1200"
     }
    ],
    "drive": null,
