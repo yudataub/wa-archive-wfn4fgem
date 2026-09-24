@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T21:26:38.765Z",
+ "updated": "2026-09-24T21:36:21.451Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -939,7 +939,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1DSCdMyGRPNsOAJ1vEZb-bQCLkNPFElOA/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DSCdMyGRPNsOAJ1vEZb-bQCLkNPFElOA&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1DSCdMyGRPNsOAJ1vEZb-bQCLkNPFElOA&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hprgvd-70-2avqtk/v/2026-09/3EB0869DBA2D4B4A640296_0.mp4"
     }
    ],
    "drive": null,
@@ -990,6 +991,66 @@
      "path": "https://drive.google.com/file/d/1eCrNe4_7_SFCSMVfQIPByhfY9mdITHEu/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1eCrNe4_7_SFCSMVfQIPByhfY9mdITHEu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB021784B76689CD3D71C",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: קבוצת מפגינים ליד כלא 10 לאחר שנחסמו בדרך לסולברג\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790285412000,
+   "date": "2026-09-25",
+   "time": "00:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1H2HfmUxkmXH5_4Yxx-Q0-HG9S8cUDwHU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H2HfmUxkmXH5_4Yxx-Q0-HG9S8cUDwHU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0F009638910D241F3BF",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: סוכה מאוד מהודרת בירושלים\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790285450000,
+   "date": "2026-09-25",
+   "time": "00:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1HPUvE2vUyjGv-1rsJ-GgoOazwqbxfPzQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HPUvE2vUyjGv-1rsJ-GgoOazwqbxfPzQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0F06E3AF041E08EABC7",
+   "sender": "הפרגוד",
+   "text": "בניתם סוכה יפה? \n\nקיבלנו עד כה למעלה מ-150 תמונות  של סוכות. אחת המשפחות תזכה בחופשה זוגית בחוף התמרים עכו \n\nהמשיכו לשלוח לנו תמונות ל-0559735526",
+   "ts": 1790285741000,
+   "date": "2026-09-25",
+   "time": "00:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "286KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L7DacZr3fGvRkSI_qF9G_83PrPna8i_z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L7DacZr3fGvRkSI_qF9G_83PrPna8i_z&sz=w1200"
     }
    ],
    "drive": null,
