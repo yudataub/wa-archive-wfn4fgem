@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתא שלנו גם בווצאפ 1",
- "updated": "2026-09-24T05:27:07.018Z",
+ "updated": "2026-09-24T05:28:07.015Z",
  "messages": [
   {
    "id": "3EB0662B8710337239AC60",
@@ -17,6 +17,26 @@
      "type": "application/pdf",
      "path": "",
      "skipped": "8.2MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "3EB08528625124AEE0AB17",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1790227656000,
+   "date": "2026-09-24",
+   "time": "08:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "368KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mqE9pph2vikTcvyWaWUkHSQ7Uy2W8aDO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mqE9pph2vikTcvyWaWUkHSQ7Uy2W8aDO&sz=w1200"
     }
    ],
    "drive": null,

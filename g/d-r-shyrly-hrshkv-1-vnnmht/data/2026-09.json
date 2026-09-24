@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ד\"ר שירלי הרשקו 1",
- "updated": "2026-09-24T05:23:36.956Z",
+ "updated": "2026-09-24T05:28:07.020Z",
  "messages": [
   {
    "id": "3EB042D20ACC46EB8DD7E3",
@@ -44,6 +44,25 @@
    "date": "2026-09-24",
    "time": "08:23",
    "files": [],
+   "drive": null,
+   "phone": "972587151020"
+  },
+  {
+   "id": "A5714B9936828098E49B2A566BA0AA5D",
+   "sender": "אנשי הקשב",
+   "text": "",
+   "ts": 1790227655000,
+   "date": "2026-09-24",
+   "time": "08:27",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "540KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1GSR_LkMaExzpewIX_5gvW3ccTfYu8hx_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972587151020"
   }
