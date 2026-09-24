@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-09-23T19:25:38.596Z",
+ "updated": "2026-09-24T05:24:47.174Z",
  "messages": [
   {
    "id": "3EB091A47EBAB3BAF520A9",
@@ -108,6 +108,26 @@
      "path": "https://drive.google.com/file/d/1i26FSeQ6bgecD3w49Lr2HE4gcgZMXQuF/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1i26FSeQ6bgecD3w49Lr2HE4gcgZMXQuF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB03824D19A6D18083407",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "🌿 אתגר מיוחד לחג \n*מהי המילה הרמוזה בתמונה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://docs.google.com/forms/d/e/1FAIpQLSdq-NFdmidnNcAWmxuEsnHZx2QWZfPjMk5L71bavJfaXMP26Q/viewform?usp=dialog\n\nשימו 👁️ על ההודעות הבאות בקבוצה - יש לנו הפתעה גדולה בשבילכם!",
+   "ts": 1790227467000,
+   "date": "2026-09-24",
+   "time": "08:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "299KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GpYCnin2MTKu5VqIERkwmR7eAUFq9c6I/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GpYCnin2MTKu5VqIERkwmR7eAUFq9c6I&sz=w1200"
     }
    ],
    "drive": null,
