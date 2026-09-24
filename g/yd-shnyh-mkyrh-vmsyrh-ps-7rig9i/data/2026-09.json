@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-23T19:38:07.830Z",
+ "updated": "2026-09-24T04:04:51.812Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -529,6 +529,46 @@
    "files": [],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "AC87B5D76F6EEE632EE409C90512586A",
+   "sender": "כלנית פרץ",
+   "text": "למכירה סלון 2.70 + הדום במצב מצויין מקרית מוצקין קרקע 1000 שח לשניהם כל הקודם זוכה",
+   "ts": 1790222638000,
+   "date": "2026-09-24",
+   "time": "07:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kpuf_ldij7RFW_O4-tPKYI-JAkxSteRB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kpuf_ldij7RFW_O4-tPKYI-JAkxSteRB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "ACF91D8E1C4FBEE8F6CD3FF7284A36BC",
+   "sender": "כלנית פרץ",
+   "text": "",
+   "ts": 1790222639000,
+   "date": "2026-09-24",
+   "time": "07:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "62KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/137vAuWXXmhNhBVIND7LIW6ck7WinS9_J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=137vAuWXXmhNhBVIND7LIW6ck7WinS9_J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
   }
  ]
 }
