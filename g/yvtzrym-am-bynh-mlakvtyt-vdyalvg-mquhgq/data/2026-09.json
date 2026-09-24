@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-24T07:37:19.361Z",
+ "updated": "2026-09-24T07:44:49.496Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -2687,6 +2687,39 @@
    "ts": 1790235414000,
    "date": "2026-09-24",
    "time": "10:36",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB03D49B07362D90EEA73",
+   "sender": "נועם",
+   "text": "נוצר באינסטנקט: https://files.instinct.com/file-01M394XA6D70SGCBKE6RTB6719",
+   "ts": 1790235632000,
+   "date": "2026-09-24",
+   "time": "10:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB08BD8D7EAB21A79D39C",
+   "sender": "Stdb",
+   "text": "https://files.instinct.com/file-01M39521QK9W20E6NQNMBCWV6P",
+   "ts": 1790235846000,
+   "date": "2026-09-24",
+   "time": "10:44",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB06746D69F1EB1CDDC92",
+   "sender": "Stdb",
+   "text": "שיעור א סינכרוני לקורס שאני בונה נתתי לו את הקישור לנוטבוק של השיעור וביקשתי אתר",
+   "ts": 1790235879000,
+   "date": "2026-09-24",
+   "time": "10:44",
    "files": [],
    "drive": null,
    "phone": "972507579152"

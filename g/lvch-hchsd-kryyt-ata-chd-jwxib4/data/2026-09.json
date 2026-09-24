@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-24T07:24:30.420Z",
+ "updated": "2026-09-24T07:42:44.505Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2810,6 +2810,66 @@
    "files": [],
    "drive": null,
    "phone": "972548528996"
+  },
+  {
+   "id": "A5D9469C2ABFCA0654C6506BCEE53B97",
+   "sender": "דיאמונדס",
+   "text": "מידות אחרונות המלאי מוגבל",
+   "ts": 1790235563000,
+   "date": "2026-09-24",
+   "time": "10:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1foAxVaX9b2dcafpjJX4bZyfZTmXO4i1K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1foAxVaX9b2dcafpjJX4bZyfZTmXO4i1K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547200881"
+  },
+  {
+   "id": "ACE8E32CC89A0BBF493480F3F91D1EB0",
+   "sender": "ישראל",
+   "text": "מ",
+   "ts": 1790235682000,
+   "date": "2026-09-24",
+   "time": "10:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_f6YrMkaO3IRgNoBzAMXyLplXVsMqfPR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_f6YrMkaO3IRgNoBzAMXyLplXVsMqfPR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549917530"
+  },
+  {
+   "id": "AC33A7C242D4F7C06BC6DBE19B5CA0D2",
+   "sender": "ישראל",
+   "text": "",
+   "ts": 1790235750000,
+   "date": "2026-09-24",
+   "time": "10:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1spWmnIzKrylVfK_JJcgiUVQEyEQjuNah/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1spWmnIzKrylVfK_JJcgiUVQEyEQjuNah&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549917530"
   }
  ]
 }
