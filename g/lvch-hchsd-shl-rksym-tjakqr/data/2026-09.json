@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T11:41:14.340Z",
+ "updated": "2026-09-24T12:44:50.359Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -3104,6 +3104,26 @@
    "files": [],
    "drive": null,
    "phone": "972528380666"
+  },
+  {
+   "id": "ACA38B6016C6FBADFFF326624FF011E6",
+   "sender": "אלירן",
+   "text": "8 סנטף באורך 3.6 \nלמסירה באורנים",
+   "ts": 1790253856000,
+   "date": "2026-09-24",
+   "time": "15:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "315KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/155vk7FDBovfs9kVJ87y63SfoW1HGjyna/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=155vk7FDBovfs9kVJ87y63SfoW1HGjyna&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523445911"
   }
  ]
 }

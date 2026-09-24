@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-24T11:43:39.252Z",
+ "updated": "2026-09-24T12:47:12.403Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -3307,6 +3307,17 @@
    "files": [],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "3BECEAAF83B8E5BFDAD4",
+   "sender": "Evyatar Shpilman",
+   "text": "אמרתי - Wall-E זה סרט אימה אפוקליפטי",
+   "ts": 1790254023000,
+   "date": "2026-09-24",
+   "time": "15:47",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
   }
  ]
 }
