@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-24T14:22:31.641Z",
+ "updated": "2026-09-24T14:37:04.503Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -3287,6 +3287,77 @@
    "files": [],
    "drive": null,
    "phone": "972525955804"
+  },
+  {
+   "id": "AC6910A3E514ABB979447948F46C562E",
+   "sender": "Dudi",
+   "text": "",
+   "ts": 1790260302000,
+   "date": "2026-09-24",
+   "time": "17:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wRSQu1mkt5mOMvqx_03mnP7bvMTlG1FW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wRSQu1mkt5mOMvqx_03mnP7bvMTlG1FW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584772228"
+  },
+  {
+   "id": "AC6C70FE43DE6221697036170FE30261",
+   "sender": "שלמה",
+   "text": "",
+   "ts": 1790260387000,
+   "date": "2026-09-24",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_ITkOfCR4vgqx1D1CWYhwNch_WeFH2Id/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_ITkOfCR4vgqx1D1CWYhwNch_WeFH2Id&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545625630"
+  },
+  {
+   "id": "AC02A34F3D624DFA0CF41E32910C68BE",
+   "sender": "Dudi",
+   "text": "",
+   "ts": 1790260393000,
+   "date": "2026-09-24",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NeqM8pFvdT1p4xXy6rmUWLZvHP4Vm2s9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NeqM8pFvdT1p4xXy6rmUWLZvHP4Vm2s9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584772228"
+  },
+  {
+   "id": "ACF77E76726FE8E2727F6BBAFC73022B",
+   "sender": "m.w.",
+   "text": "משו מכיר תופרת לעבודה קטנה לפני החג?",
+   "ts": 1790260602000,
+   "date": "2026-09-24",
+   "time": "17:36",
+   "files": [],
+   "drive": null,
+   "phone": "972585144530"
   }
  ]
 }
