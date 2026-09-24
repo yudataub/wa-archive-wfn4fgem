@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T19:15:42.228Z",
+ "updated": "2026-09-24T19:20:45.278Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -3331,6 +3331,25 @@
    "files": [],
    "drive": null,
    "phone": "972587227470"
+  },
+  {
+   "id": "AC806A0923917B3CE2BBB40B53D6380E",
+   "sender": "דוד אקא",
+   "text": "",
+   "ts": 1790277513000,
+   "date": "2026-09-24",
+   "time": "22:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "27KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1LOKV_4_YNJFJZ15jaz_NxVAJ_tXvo88f/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549454846"
   }
  ]
 }
