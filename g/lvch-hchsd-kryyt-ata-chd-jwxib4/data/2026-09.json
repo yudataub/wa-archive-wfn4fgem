@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-24T07:42:44.505Z",
+ "updated": "2026-09-24T07:59:45.222Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -2870,6 +2870,37 @@
    ],
    "drive": null,
    "phone": "972549917530"
+  },
+  {
+   "id": "ACCC9B5BEADF532D2088C8EFEAA5FF69",
+   "sender": "Oshrit ✌",
+   "text": "היי איפה אפשר לקנות כיסוי לכסא של האושפיזין ?",
+   "ts": 1790236694000,
+   "date": "2026-09-24",
+   "time": "10:58",
+   "files": [],
+   "drive": null,
+   "phone": "972503797322"
+  },
+  {
+   "id": "AC5EA38734F6D4E919257C6284C44599",
+   "sender": "אלירז",
+   "text": "מישו יודע איפה אפשר לקנות כיפה כזאת?",
+   "ts": 1790236773000,
+   "date": "2026-09-24",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CrMxo8-DxwCZrGlDOimRCS5rttvgn8H3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CrMxo8-DxwCZrGlDOimRCS5rttvgn8H3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545535635"
   }
  ]
 }

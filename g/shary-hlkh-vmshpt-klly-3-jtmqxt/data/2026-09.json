@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T07:46:14.558Z",
+ "updated": "2026-09-24T08:07:06.581Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -2686,6 +2686,70 @@
    "files": [],
    "drive": null,
    "phone": "972523115064"
+  },
+  {
+   "id": "AC0FBB46AF97DAE42CE1C7EDBF7D0861",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "שלום ןברכה לכבוד הרבנים\nלגבי הקשירה קרש עם קרש \nהאם אני חייב שהפשתן יעבור דרך הברזל או שמספיק לקשור קרש לקרש?",
+   "ts": 1790236974000,
+   "date": "2026-09-24",
+   "time": "11:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jVJ1hiwIfsNj-DUIQCNcKoVF1OTzPvop/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jVJ1hiwIfsNj-DUIQCNcKoVF1OTzPvop&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529545989"
+  },
+  {
+   "id": "AC25140C691B6E573C23F67AC9098244",
+   "sender": "הרב אוריאל בצר",
+   "text": "אם תפוס טוב מצויין.",
+   "ts": 1790237033000,
+   "date": "2026-09-24",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "AC13EE787B6A17427A602EFAF5FCDCD1",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "אז לא חייב שיעבור בברזל?",
+   "ts": 1790237057000,
+   "date": "2026-09-24",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972529545989"
+  },
+  {
+   "id": "ACBE252C3F61858C16900D4795E9FE28",
+   "sender": "הרב אוריאל בצר",
+   "text": "לא",
+   "ts": 1790237107000,
+   "date": "2026-09-24",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "ACAE30FE9815F1F6E6E2E40DE13E38D0",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "תודה רבה הרב",
+   "ts": 1790237187000,
+   "date": "2026-09-24",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972529545989"
   }
  ]
 }
