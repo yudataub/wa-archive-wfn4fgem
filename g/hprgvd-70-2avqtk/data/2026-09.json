@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T18:40:18.671Z",
+ "updated": "2026-09-24T18:52:43.676Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -413,6 +413,46 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "23.5MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0D70827C6C6D9B19B46",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: ועשית הישר והטוב\n שלט חדש של אייזנקוט\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790275833000,
+   "date": "2026-09-24",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E63hhNZICHCJYR0v5XyVVdtGvT0m_hdi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E63hhNZICHCJYR0v5XyVVdtGvT0m_hdi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0B385DC57055160B286",
+   "sender": "הפרגוד",
+   "text": "*מחברים בריאות, עשייה ומסורת:* לקראת חג הסוכות, הרב לייזר כץ, מנהל מחלקה בארגון הרפואי לב חב״ד, הגיע להנהלת לאומית שירותי בריאות והעניק סטים מהודרים של ארבעת המינים ליו״ר הדירקטוריון, פרופ׳ שלמה מור יוסף, ולמנכ״ל הקופה, חיים פרננדס. מפגש חגיגי שמבטא את החיבור ושיתוף הפעולה בין לב חב״ד ללאומית - למען בריאות הקהילה, לאורך כל השנה.",
+   "ts": 1790275880000,
+   "date": "2026-09-24",
+   "time": "21:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hxrT596OX1vojr42jBjYlrLIJ5JFarK3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hxrT596OX1vojr42jBjYlrLIJ5JFarK3&sz=w1200"
     }
    ],
    "drive": null,
