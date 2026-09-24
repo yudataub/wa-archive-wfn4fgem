@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-09-23T18:46:32.753Z",
+ "updated": "2026-09-24T10:34:44.880Z",
  "messages": [
   {
    "id": "A5B57AAF4F018468547F6603BE05A4BB",
@@ -604,6 +604,166 @@
    "date": "2026-09-23",
    "time": "21:46",
    "files": [],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A501286C385B3B042C9E5D310A264267",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה למי שצריך ,עובד פצצה ,ללא תקלות .לבוא לקחת היום ! \n0552713211\nנהריה",
+   "ts": 1790246055000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/174DeRGrUn4mY5M1Altlwz5UM4Q8cJXPe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=174DeRGrUn4mY5M1Altlwz5UM4Q8cJXPe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A56749CA888A0A885BC77EAD961CD8A6",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה מיטה זוגית מעץ \nמלא + מזרון סימונס\nגודל 140/190\nמחדרה\n0507910082",
+   "ts": 1790246057000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pLjdSRv95u2lFyPT4_qMrPa7UKcNmJYq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pLjdSRv95u2lFyPT4_qMrPa7UKcNmJYq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5BCD6328D6DAC1F5F288DCA3A7A239E",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "אשמח למסור מיטה וחצי מתקפלת לספפה, עם אחסון במצב טוב מעוספיא\n+972 54-835-9628",
+   "ts": 1790246060000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z4cXbzAb8hTURMLwGcQSXrTUtwTXENbI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z4cXbzAb8hTURMLwGcQSXrTUtwTXENbI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5A785A20056608082E992D212D3E2FC",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "קריית ביאליק.0506615927",
+   "ts": 1790246061000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yrEFLFTukJh01vItpJLRmsPAXzqR-sKI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yrEFLFTukJh01vItpJLRmsPAXzqR-sKI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5BAEB89B1DED7E8E5ACA2AB7CF659AC",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "קריית ביאליק.0506615927",
+   "ts": 1790246063000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11F6V2JNyyM7PqVUNAbYvDpCyMlEO3T5Z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11F6V2JNyyM7PqVUNAbYvDpCyMlEO3T5Z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A593C1AD58E2AB27D13BA5EA1989BA4C",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "ספריה למסירה וכמה ספרי קודש כולל ספרי זוהר\n\nקרית שמואל הרב אריה לוין 10\n0548169629",
+   "ts": 1790246064000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jg6MCirVe89HhDbOgunsY04h_CK3P8-z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jg6MCirVe89HhDbOgunsY04h_CK3P8-z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5DC2A0B1924528F96A18B1D9691A783",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה כורסא מקרית אתא \n0542352030",
+   "ts": 1790246066000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "296KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/158wmnBFZaHbS7tstLNRFBUft63vesjjX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=158wmnBFZaHbS7tstLNRFBUft63vesjjX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A58274B4B186DD6716E8B1BFC9E148B7",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "*משכורת חודשית של עד 8,300 ₪  ולימודי הנדסאי בניין ללא עלות מתאים לך?*\n\nאם אתה מחפש מקצוע מעשי, מבוקש ועם אפשרויות קידום תוכנית הנדסאי בניין יכולה להיות הצעד שישנה את המסלול שלך.\n\nבמהלך התוכנית תלמד תכנון קונסטרוקציות, קריאת תוכניות, AutoCAD, ניהול ופיקוח באתרי בנייה, חישוב כמויות, בטיחות ובקרת איכות.\n\n✅ מימון מלא ללימודים\n✅ משכורת מהיום הראשון\n✅ תעודת הנדסאי מטעם המה\"ט\n✅ ניסיון מעשי בתחום\n✅ מסגרת חרדית מותאמת\n✅ הטבות ותנאים מיוחדים\n\n*מספר המקומות מוגבל.*\n\n📞 לבדיקת התאמה: 077-2317863\n\n🪀 לפניות בוואטצאפ לחצו עכשיו כאן 👇\nhttps://wa.me/972506038949?text=אשמח+לקבל+פרטים+נוספים\n\n*השאירו פרטים באתר* 👇\nhttps://malot.org/handasai-binyan/?utm_source=wat&utm_medium=wat&utm_campaign=wat&utm_id=sait",
+   "ts": 1790246067000,
+   "date": "2026-09-24",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "276KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H7i3-J-90YkPNKuWBijRMuVTLzFmUMyB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H7i3-J-90YkPNKuWBijRMuVTLzFmUMyB&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972509122190"
   }
