@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הפרגוד 70",
- "updated": "2026-09-24T18:11:07.863Z",
+ "updated": "2026-09-24T18:21:41.062Z",
  "messages": [
   {
    "id": "3EB0DE2DFE722648126697",
@@ -337,6 +337,63 @@
      "path": "https://drive.google.com/file/d/1tTj7cJXEOXdOvvn_CcBxYPEsRaHBB0Eo/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1tTj7cJXEOXdOvvn_CcBxYPEsRaHBB0Eo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB01D988184D7141D1A52",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: הרבנית אשת הרב יורם אברג׳ל זצ״ל בפניה לתמיכה בתנועת אחי\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790273783000,
+   "date": "2026-09-24",
+   "time": "21:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "9.0MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB0E997A43AB4A0DA8A61",
+   "sender": "הפרגוד",
+   "text": "דודי קפלר הגיע לאמריקה!\n\nDudikepler English Status\n👇👇👇\nhttps://wa.me/972559896625?text=Join+Dudi+Kapler’s+Status",
+   "ts": 1790273854000,
+   "date": "2026-09-24",
+   "time": "21:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "7.0MB — מעל התקרה לקבוצות ארכיון"
+    }
+   ],
+   "drive": null,
+   "phone": "972535629624"
+  },
+  {
+   "id": "3EB08C65FABE47CDC31753",
+   "sender": "הפרגוד",
+   "text": "הפרגוד: מרגש: שירת \"עם ישראל חי\" בנאום ביבי באו\"ם\n\n*להצטרפות:* \n\n*טלגרם: t.me/Moshepargod*\n\n*לשליחת תוכן ופרסום: 053-562-9624*\n\n*לאפליקציית הפרגוד:* *api.hapargod.co.il/api/redirect_to_app*",
+   "ts": 1790273986000,
+   "date": "2026-09-24",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "5.2MB — מעל התקרה לקבוצות ארכיון"
     }
    ],
    "drive": null,
