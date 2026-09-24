@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T13:36:56.486Z",
+ "updated": "2026-09-24T13:55:28.120Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4640,6 +4640,66 @@
    ],
    "drive": null,
    "phone": "972556765998"
+  },
+  {
+   "id": "A55F68B5E1054CA7D77E741862340CA4",
+   "sender": "נעלי הפסגה",
+   "text": "לכל השואלים אנחנו מכבדים כרטיסי:\nהיימיש כארד(טובה וברכה)\nנר ישראל\nרכסים כארד \nמכובד\nכארד שופ(השחור)\n\nחג שמח",
+   "ts": 1790257749000,
+   "date": "2026-09-24",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "74KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T30ps8IvJt1AVDUbPJfOCDD4_HsaHLxu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T30ps8IvJt1AVDUbPJfOCDD4_HsaHLxu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556765998"
+  },
+  {
+   "id": "A532077741FAB0FB640A6F41CF443FC8",
+   "sender": "נעלי הפסגה",
+   "text": "ניתן להשיג בנעלי הפסגה 👞💥🥾",
+   "ts": 1790257762000,
+   "date": "2026-09-24",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zYmdD83Le_wvM3ROeBqbYq8wMrmMwfBM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zYmdD83Le_wvM3ROeBqbYq8wMrmMwfBM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556765998"
+  },
+  {
+   "id": "3A2524420CCE687D32A6",
+   "sender": "נקסט פון",
+   "text": "🟥🟩נקסט פון רכסים🟥🟩\nחנות סלולר📱\nמחירים ללא תחרות💸מוזמנים לחייג,\n✅054-9134487✅",
+   "ts": 1790258117000,
+   "date": "2026-09-24",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LGBDLpdN3yX8yHZ0rRyOTFEojFFmMK9c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LGBDLpdN3yX8yHZ0rRyOTFEojFFmMK9c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549134487"
   }
  ]
 }
