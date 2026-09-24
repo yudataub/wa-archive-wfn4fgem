@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-09-23T17:38:18.322Z",
+ "updated": "2026-09-24T06:03:42.047Z",
  "messages": [
   {
    "id": "A5F78DC18BD6847A4570C583E75C2A62",
@@ -169,6 +169,26 @@
      "path": "https://drive.google.com/file/d/19BzvHQ0GfPquHa8HhlpPoh7YZ7g96M7u/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19BzvHQ0GfPquHa8HhlpPoh7YZ7g96M7u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5C87B95B1E06735B01F6489D72E6963",
+   "sender": "אוריאל פדידה",
+   "text": "https://katzr.net/c31741 לינק לחוברת \nהרישום נפתח היום בשעה 11:00 \n*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1790229811000,
+   "date": "2026-09-24",
+   "time": "09:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "871KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nmsmnuYxMPXC_bWVhZVJHqfgO5QOs5MC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nmsmnuYxMPXC_bWVhZVJHqfgO5QOs5MC&sz=w1200"
     }
    ],
    "drive": null,

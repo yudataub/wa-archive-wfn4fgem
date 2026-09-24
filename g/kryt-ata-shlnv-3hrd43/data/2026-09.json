@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-24T05:57:11.964Z",
+ "updated": "2026-09-24T06:01:42.001Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -55,6 +55,25 @@
    ],
    "drive": null,
    "phone": "972544207687"
+  },
+  {
+   "id": "3AB5CF26358E33E7B929",
+   "sender": "פרומה",
+   "text": "",
+   "ts": 1790229689000,
+   "date": "2026-09-24",
+   "time": "09:01",
+   "files": [
+    {
+     "name": "1323.pdf",
+     "size": "3.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1MZMi5xX1Yz5WeXCasBpr6XWH4MqInRu0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507852627"
   }
  ]
 }
