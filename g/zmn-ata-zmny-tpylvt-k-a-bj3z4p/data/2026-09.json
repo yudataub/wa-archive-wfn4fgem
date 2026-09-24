@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-24T06:18:20.457Z",
+ "updated": "2026-09-24T15:16:43.706Z",
  "messages": [
   {
    "id": "ACB3991222C2529A1206158E73AAAD52",
@@ -164,6 +164,26 @@
    ],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "AC9739962FC64848D0EB2C229F2DB2A3",
+   "sender": "שלום בוצחק",
+   "text": "*קהילת אוהל מאיר-זמני תפילות חג \"סוכות\" התשפ\"ז*",
+   "ts": 1790262993000,
+   "date": "2026-09-24",
+   "time": "18:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eTuAMRbslRFIJ-vBX8qbW9h-kWYJvl0D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eTuAMRbslRFIJ-vBX8qbW9h-kWYJvl0D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

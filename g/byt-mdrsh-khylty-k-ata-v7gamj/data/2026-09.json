@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-24T11:15:50.799Z",
+ "updated": "2026-09-24T15:16:43.672Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -401,6 +401,26 @@
    "files": [],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "AC36EA16EBB366D0FDC62198AC10C544",
+   "sender": "שלום בוצחק",
+   "text": "*קהילת אוהל מאיר-זמני תפילות חג \"סוכות\" התשפ\"ז*",
+   "ts": 1790262992000,
+   "date": "2026-09-24",
+   "time": "18:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ftiCNeNzwbn5Qk5zmUJFxHmyZT5vEWdm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ftiCNeNzwbn5Qk5zmUJFxHmyZT5vEWdm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

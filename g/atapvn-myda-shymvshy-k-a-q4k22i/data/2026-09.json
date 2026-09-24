@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-24T14:17:31.336Z",
+ "updated": "2026-09-24T15:17:43.684Z",
  "messages": [
   {
    "id": "failed-1788248215551",
@@ -794,6 +794,48 @@
    ],
    "drive": null,
    "phone": "972528026112"
+  },
+  {
+   "id": "AC81FDEB8888FF89301C15C5807EC626",
+   "sender": "שלום בוצחק",
+   "text": "*קהילת אוהל מאיר-זמני תפילות חג \"סוכות\" התשפ\"ז*",
+   "ts": 1790262993000,
+   "date": "2026-09-24",
+   "time": "18:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/110_ZXEv-9T2hRbCtg906MuY2QR5b9qc8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=110_ZXEv-9T2hRbCtg906MuY2QR5b9qc8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "ACF2F0EB3EBD278CCEE181F3AA178385",
+   "sender": "יניב",
+   "text": "יש למישהו את הזמנים של הקו לירושלים בחול המועד ?",
+   "ts": 1790263033000,
+   "date": "2026-09-24",
+   "time": "18:17",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
+  },
+  {
+   "id": "ACC40F325FA26C0A3A2B4ED3CEC51BD4",
+   "sender": "יניב",
+   "text": "בבקשה",
+   "ts": 1790263065000,
+   "date": "2026-09-24",
+   "time": "18:17",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
   }
  ]
 }
