@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T10:55:18.842Z",
+ "updated": "2026-09-24T11:17:20.871Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -4395,6 +4395,46 @@
    "files": [],
    "drive": null,
    "phone": "972525368606"
+  },
+  {
+   "id": "ACEEDE3C86D32DC2E9EC7266FEDA6565",
+   "sender": "שמואל",
+   "text": "כל הקודם זוכה המלאי אוזל,תודה",
+   "ts": 1790248065000,
+   "date": "2026-09-24",
+   "time": "14:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aAN5vS_RTJjOt1iZDJ9niTeHuXFf1mth/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aAN5vS_RTJjOt1iZDJ9niTeHuXFf1mth&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "ACF64F60CD3E603BF900C0E3A8173A41",
+   "sender": "מירי",
+   "text": "",
+   "ts": 1790248610000,
+   "date": "2026-09-24",
+   "time": "14:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15PRQZv7xD1D0KsI49KMzd9QUbZuAlR7c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15PRQZv7xD1D0KsI49KMzd9QUbZuAlR7c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534973826"
   }
  ]
 }

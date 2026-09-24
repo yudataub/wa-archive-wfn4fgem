@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-24T10:47:18.588Z",
+ "updated": "2026-09-24T11:14:20.745Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -2918,6 +2918,37 @@
      "path": "https://drive.google.com/file/d/1ctVsX_tSAjuawDQmGBHOQrTV4hqyJeZF/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ctVsX_tSAjuawDQmGBHOQrTV4hqyJeZF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507670161"
+  },
+  {
+   "id": "AC7263826FA416010CD38D7396B5A72D",
+   "sender": "ישראל",
+   "text": "גם מהצד מרחוק",
+   "ts": 1790248261000,
+   "date": "2026-09-24",
+   "time": "14:11",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "ACE0724BA66F7286636D76E16484DCA0",
+   "sender": "ינון אדרי",
+   "text": "",
+   "ts": 1790248431000,
+   "date": "2026-09-24",
+   "time": "14:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "358KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10mzJ_viM2SHhtKIKorRB7SouhbaZnbd0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10mzJ_viM2SHhtKIKorRB7SouhbaZnbd0&sz=w1200"
     }
    ],
    "drive": null,
