@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-24T12:29:19.694Z",
+ "updated": "2026-09-25T07:22:56.199Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -218,6 +218,37 @@
    "files": [],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "AC126D88AFC261C94CD82856FEFFB6D0",
+   "sender": "Hadas Eliyahu",
+   "text": "בוקר טוב, חג סוכות שמח לכולנו \nתוכלי לעדכן כאן כשישלחו ההקלטות ? \nלא נכחתי בסדנאות לצערי וטרם קבלתי מייל \nתודה רבה",
+   "ts": 1790320881000,
+   "date": "2026-09-25",
+   "time": "10:21",
+   "files": [],
+   "drive": null,
+   "phone": "972545604591"
+  },
+  {
+   "id": "AC7FA8B843239363F4D70A941CD6C375",
+   "sender": "כרמלה דינר",
+   "text": "",
+   "ts": 1790320957000,
+   "date": "2026-09-25",
+   "time": "10:22",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SaTMPDzAR3AHmTtSEY8PIg2Fs1ux7fuj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SaTMPDzAR3AHmTtSEY8PIg2Fs1ux7fuj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523939115"
   }
  ]
 }

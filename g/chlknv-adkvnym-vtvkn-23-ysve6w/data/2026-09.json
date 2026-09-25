@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "'חלקנו' - עדכונים ותוכן 23",
- "updated": "2026-09-24T09:45:29.579Z",
+ "updated": "2026-09-25T07:21:26.187Z",
  "messages": [
   {
    "id": "A5173BBB73EA62CDF151F1D2CA3A62BC",
@@ -54,6 +54,26 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1mMm_q-jKGYe2xiy3y7Ir3cdYtTxoS5ok/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972553390473"
+  },
+  {
+   "id": "A568713DFE934D126F593E44BDB37D73",
+   "sender": "מחלקת התוכן חלקי בקהילתי",
+   "text": "*זמני כניסת שבת וחג*",
+   "ts": 1790320854000,
+   "date": "2026-09-25",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1tUfWf8e9uqgOt3Qs-HOYv_7s3pUx5A5P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tUfWf8e9uqgOt3Qs-HOYv_7s3pUx5A5P&sz=w1200"
     }
    ],
    "drive": null,

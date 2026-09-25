@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T07:14:56.107Z",
+ "updated": "2026-09-25T07:25:26.232Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1351,6 +1351,26 @@
    ],
    "drive": null,
    "phone": "972548528996"
+  },
+  {
+   "id": "2AF8B649BE79F92D7119",
+   "sender": "Matan Zverman",
+   "text": "https://calmark.io/p/BMzzb",
+   "ts": 1790321112000,
+   "date": "2026-09-25",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hK2YvtELh66a2f6GZPgaFp1Cn0OP53bO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hK2YvtELh66a2f6GZPgaFp1Cn0OP53bO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559980845"
   }
  ]
 }
