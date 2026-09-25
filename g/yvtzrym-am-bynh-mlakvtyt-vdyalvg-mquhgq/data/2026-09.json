@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T13:17:44.126Z",
+ "updated": "2026-09-25T13:26:14.271Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27394,7 +27394,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1vTmBHZEyPF1XUlEkhj1MbWfAH78MY0AH/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1vTmBHZEyPF1XUlEkhj1MbWfAH78MY0AH&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1vTmBHZEyPF1XUlEkhj1MbWfAH78MY0AH&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/AC1AA0B7063355DDAFAF4CB8B422417D_0.mp4"
     }
    ],
    "drive": null,
@@ -27421,6 +27422,61 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "3EB0BFCC6747F8BBC9334C",
+   "sender": "natalie yehiam",
+   "text": "ראיתי, מפחיד שכל הסוכנים התחילו להגדיל ראש, מצד שני לכל המלחיצים מפני אינסטינקט שימו לב- אין בוט/סוכן שהוא בטוח ברמה של לשלוח לו פרטי אשראי",
+   "ts": 1790342413000,
+   "date": "2026-09-25",
+   "time": "16:20",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A53BEBE62690782D0E2985916B2FBAB7",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "בדיוק",
+   "ts": 1790342511000,
+   "date": "2026-09-25",
+   "time": "16:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A519FD9D7BB247C0C28D6331BD95D4D3",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "מי שחושש לזהות הדיגיטלית לא פותח דף פייסבוק או עמוד באינסטגרם, אפילו לא מספר בווצאפ - בדיגטל הכל חשוף וגלוי לחברות הגדולות גם אם הן אומרות לנו שהכל מוצפן.😏",
+   "ts": 1790342650000,
+   "date": "2026-09-25",
+   "time": "16:24",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A51945A782F157074D34B74A4E1BF42E",
+   "sender": "mary garby",
+   "text": "האמת שאין לי פייסבוק ולא אינסטגרם... \nאבל וואטסאפ...",
+   "ts": 1790342725000,
+   "date": "2026-09-25",
+   "time": "16:25",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5A0F3826792FC32F9091EBA4FF6DC6E",
+   "sender": "mary garby",
+   "text": "ובטעות כשעשיתי לעצמי את הסוכן שלי שמתי לקלוד את המפתח שלי והוא נזף בי",
+   "ts": 1790342771000,
+   "date": "2026-09-25",
+   "time": "16:26",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-25T13:08:00.741Z",
+ "updated": "2026-09-25T13:25:30.965Z",
  "messages": [
   {
    "id": "ACA56CF925497E8C83CA0B0D502D2D7E",
@@ -3810,6 +3810,26 @@
    "files": [],
    "drive": null,
    "phone": "972503004242"
+  },
+  {
+   "id": "AC15F060DC0F87820EC568DC594053C5",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "חג האחדות שמח",
+   "ts": 1790342713000,
+   "date": "2026-09-25",
+   "time": "16:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12WzAr6lttHDsXunN1eXssWhzM1G9b-es/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12WzAr6lttHDsXunN1eXssWhzM1G9b-es&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
   }
  ]
 }
