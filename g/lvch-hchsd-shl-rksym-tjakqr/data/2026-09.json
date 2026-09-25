@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-25T12:04:50.674Z",
+ "updated": "2026-09-25T12:24:20.964Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4173,6 +4173,48 @@
    ],
    "drive": null,
    "phone": "972526200817"
+  },
+  {
+   "id": "ACF5F3922B116DAC3114EC755122E472",
+   "sender": "רחלי בורודיאנסקי",
+   "text": "מה זה אומר.מישהו יודע?",
+   "ts": 1790338964000,
+   "date": "2026-09-25",
+   "time": "15:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k5JVsmlmlLDKZ8_MznS69Qo9oR9OwP0q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k5JVsmlmlLDKZ8_MznS69Qo9oR9OwP0q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507739994"
+  },
+  {
+   "id": "AC6906276BA44C35CE5BB542B82E1ACE",
+   "sender": "Shmuel Eliach",
+   "text": "שצריך למלא אוריאה",
+   "ts": 1790339015000,
+   "date": "2026-09-25",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "phone": "972587114010"
+  },
+  {
+   "id": "AC368547A3AEB0DBA932231F65E60D4F",
+   "sender": "Shmuel Eliach",
+   "text": "וזה מאוחר כבר כי צריך תמיד שיהיה לפחות כחצי מהכמות",
+   "ts": 1790339035000,
+   "date": "2026-09-25",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "phone": "972587114010"
   }
  ]
 }

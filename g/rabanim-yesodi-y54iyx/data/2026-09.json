@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-25T11:46:40.386Z",
+ "updated": "2026-09-25T12:24:50.979Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -8931,6 +8931,25 @@
    ],
    "drive": null,
    "phone": "972508733084"
+  },
+  {
+   "id": "AC7E819B93C1953E9FABF4771D564747",
+   "sender": "קובי",
+   "text": "מצורפת חוברת סיפורים לחג.\nמוזמנים להשתמש ולהעביר.\nשבת שלום וחג שמח!",
+   "ts": 1790339073000,
+   "date": "2026-09-25",
+   "time": "15:24",
+   "files": [
+    {
+     "name": "עולו אושפיזין - חמד דרום-1.pdf",
+     "size": "3.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-fyQJ607-fFX8WRSTNt5IXJQUz3kT2nM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522916682"
   }
  ]
 }
