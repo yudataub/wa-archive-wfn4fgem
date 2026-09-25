@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T07:25:26.232Z",
+ "updated": "2026-09-25T08:29:16.491Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1371,6 +1371,26 @@
    ],
    "drive": null,
    "phone": "972559980845"
+  },
+  {
+   "id": "2AC612B3481725E9CC72",
+   "sender": "גל נקיון ופוליש",
+   "text": "",
+   "ts": 1790324947000,
+   "date": "2026-09-25",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "336KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t245x9QJimy9nG6_YHmax_lQ176KodL4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t245x9QJimy9nG6_YHmax_lQ176KodL4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509985570"
   }
  ]
 }

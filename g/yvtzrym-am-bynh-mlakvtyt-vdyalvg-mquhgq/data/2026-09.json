@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T08:26:18.025Z",
+ "updated": "2026-09-25T08:36:48.182Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -5906,7 +5906,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1OBIa2NQyu1MEaW4qES3kiRaDAKkuPmCT/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1OBIa2NQyu1MEaW4qES3kiRaDAKkuPmCT&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1OBIa2NQyu1MEaW4qES3kiRaDAKkuPmCT&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/A5D953533F2C992FA3E2B063828EE252_0.mp4"
     }
    ],
    "drive": null,
@@ -5944,6 +5945,125 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "A5183866728DC780C389376DDB4C9F83",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "קלוד",
+   "ts": 1790324931000,
+   "date": "2026-09-25",
+   "time": "11:28",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "AC6C18689E27605E4329CBB3F340B986",
+   "sender": "Yossi Attias",
+   "text": "אם תוכל/תרצה לשתף את הפרומפט תבוא עליך הברכה",
+   "ts": 1790324976000,
+   "date": "2026-09-25",
+   "time": "11:29",
+   "files": [],
+   "drive": null,
+   "phone": "972526452485"
+  },
+  {
+   "id": "A5AE5367FA1163459FB57DBA175AE67A",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "קבלו עוד אחד😊",
+   "ts": 1790324984000,
+   "date": "2026-09-25",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1bHt8HkG-zdp0xUC8C4TB1HBcouQBdTsu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bHt8HkG-zdp0xUC8C4TB1HBcouQBdTsu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "AC851390996C5C4B04ABB18591FCA264",
+   "sender": "Yossi Attias",
+   "text": "תבורך בכל מקרה 😁",
+   "ts": 1790324990000,
+   "date": "2026-09-25",
+   "time": "11:29",
+   "files": [],
+   "drive": null,
+   "phone": "972526452485"
+  },
+  {
+   "id": "AC6A003DA512930830F168E2A37F8E91",
+   "sender": "Stdb",
+   "text": "ואוו מה קורה עם הסאונד?",
+   "ts": 1790325051000,
+   "date": "2026-09-25",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A5FCF1053C441DA1633FE612BBA2541B",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "המברך מבורך...\n\nהפרומט פשוט.\nכנס לאתר שלי וצור לי סרטון  שיווקי.😊",
+   "ts": 1790325084000,
+   "date": "2026-09-25",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A5EE465BC2CF59975E4834A4C9E32CD5",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "רגע, שולח לינק לשירות לקוחות, תבקש לדבר עם המנהל.",
+   "ts": 1790325174000,
+   "date": "2026-09-25",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "AC34A4AF4D21A053FB1E762D92A7506D",
+   "sender": "Stdb",
+   "text": "השאלה היא לאיזה כלים נתת לו חיבור שמאפשר לו ליצור את זנףה",
+   "ts": 1790325189000,
+   "date": "2026-09-25",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A5F1EA54B1BC1145897CE5F6C8B499A2",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "לשום כלי.\nהוא לבד יוצר את הסרטון.",
+   "ts": 1790325363000,
+   "date": "2026-09-25",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "ACD828E16545F06CF393BD8C93E99DFC",
+   "sender": "Stdb",
+   "text": "מעניין",
+   "ts": 1790325384000,
+   "date": "2026-09-25",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-09-25T08:09:40.389Z",
+ "updated": "2026-09-25T08:35:18.179Z",
  "messages": [
   {
    "id": "A50C37F3B60616A637148B5C6BE8510E",
@@ -556,6 +556,26 @@
    "files": [],
    "drive": null,
    "phone": "972503695117"
+  },
+  {
+   "id": "AC5492682744D30C6AE88A5E312A2842",
+   "sender": "עטרה",
+   "text": "",
+   "ts": 1790325310000,
+   "date": "2026-09-25",
+   "time": "11:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14yUH_kqJQlSPhX2eZ3-tIFP729A4wOAh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14yUH_kqJQlSPhX2eZ3-tIFP729A4wOAh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528964897"
   }
  ]
 }
