@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מזכי הרבים",
- "updated": "2026-09-25T11:46:40.309Z",
+ "updated": "2026-09-25T12:31:51.086Z",
  "messages": [
   {
    "id": "2A2E7A4B623E5587812C",
@@ -2839,6 +2839,26 @@
    "files": [],
    "drive": null,
    "phone": "972548496066"
+  },
+  {
+   "id": "A5EE909337DE6CE53A3087D7680E2010",
+   "sender": "רב/ מגשר",
+   "text": "חברים מה אומרים על זה",
+   "ts": 1790339504000,
+   "date": "2026-09-25",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14QOSvh5guoLV7dF6n1zLfA2CN-EaecBh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14QOSvh5guoLV7dF6n1zLfA2CN-EaecBh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527188781"
   }
  ]
 }
