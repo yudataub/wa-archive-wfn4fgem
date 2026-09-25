@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "וותיקין של שבת ",
- "updated": "2026-09-25T05:09:51.915Z",
+ "updated": "2026-09-25T06:33:49.558Z",
  "messages": [
   {
    "id": "ACBEC8197D24F1A4151DAB80EF599C42",
@@ -24,6 +24,26 @@
    "files": [],
    "drive": null,
    "phone": "972534712840"
+  },
+  {
+   "id": "AC851B33D57C31B2B7991B9110909F4F",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1790317997000,
+   "date": "2026-09-25",
+   "time": "09:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "10KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vZIT-03jF2N175rk3a8IBaJfJwIja7lo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vZIT-03jF2N175rk3a8IBaJfJwIja7lo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
   }
  ]
 }

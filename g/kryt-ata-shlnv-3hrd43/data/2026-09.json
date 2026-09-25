@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T06:17:49.364Z",
+ "updated": "2026-09-25T06:32:19.533Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1280,6 +1280,26 @@
    ],
    "drive": null,
    "phone": "972546099055"
+  },
+  {
+   "id": "AC0176648C7301F5DB5331871C389B4F",
+   "sender": "שמואל מלול",
+   "text": "סטים כשרים ב־60 ש״ח בלבד!\nנשארו הסטים האחרונים — הזדרזו!\n📍 ליד חנות בקתת העור",
+   "ts": 1790317926000,
+   "date": "2026-09-25",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "344KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13RKR3hcmXPBBEofk57a_VZq8F3nSqNij/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13RKR3hcmXPBBEofk57a_VZq8F3nSqNij&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }
