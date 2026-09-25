@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-25T07:33:56.365Z",
+ "updated": "2026-09-25T09:01:16.965Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -514,6 +514,26 @@
    ],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "ACE04CE990D93A70D0659E68604C1BCD",
+   "sender": "פאר יוסף",
+   "text": "",
+   "ts": 1790326848000,
+   "date": "2026-09-25",
+   "time": "12:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kWyH8w890dush42rub7vrIQ5QuuqLrUR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kWyH8w890dush42rub7vrIQ5QuuqLrUR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532818831"
   }
  ]
 }

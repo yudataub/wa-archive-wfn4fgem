@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T08:29:16.491Z",
+ "updated": "2026-09-25T09:01:16.971Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1391,6 +1391,26 @@
    ],
    "drive": null,
    "phone": "972509985570"
+  },
+  {
+   "id": "AC09DEF3E94E264D5CB91B8634CC9BF2",
+   "sender": "פאר יוסף",
+   "text": "",
+   "ts": 1790326852000,
+   "date": "2026-09-25",
+   "time": "12:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z33Jj5SKQp5quaMFuVuejzb2zw7adXz9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z33Jj5SKQp5quaMFuVuejzb2zw7adXz9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532818831"
   }
  ]
 }
