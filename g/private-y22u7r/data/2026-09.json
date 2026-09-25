@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-25T04:15:36.291Z",
+ "updated": "2026-09-25T05:26:22.236Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -3878,6 +3878,29 @@
      "thumb": "https://drive.google.com/thumbnail?id=1V2LHvK94yfNr79REkSDrzm19SATcpuX4&sz=w1200"
     }
    ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACB388B926760F20260A5BDEC70D9F6F",
+   "sender": "עידן טחן",
+   "text": "בוקר טוב,\nמעניין.\nואיך זה ישלח למייל?",
+   "ts": 1790313685000,
+   "date": "2026-09-25",
+   "time": "08:21",
+   "files": [],
+   "drive": null,
+   "thread": "עידן טחן",
+   "phone": "972545805140"
+  },
+  {
+   "id": "3EB009E4CBC3A3029DEE67",
+   "sender": "אני",
+   "text": "אתה רושם את המיילים באקסל",
+   "ts": 1790313958000,
+   "date": "2026-09-25",
+   "time": "08:25",
+   "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }

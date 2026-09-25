@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-24T14:30:04.290Z",
+ "updated": "2026-09-25T05:26:22.248Z",
  "messages": [
   {
    "id": "AC1A4F4CD69E1A6096ED8229236C1985",
@@ -949,6 +949,17 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC7A4A290E526581877B895DECD688A9",
+   "sender": "זוהרה",
+   "text": "https://youtube.com/shorts/TQ5XwciAFZ8?si=N7KKBSlo00X7a--0",
+   "ts": 1790313968000,
+   "date": "2026-09-25",
+   "time": "08:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525775796"
   }
  ]
 }
