@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-25T04:28:36.524Z",
+ "updated": "2026-09-25T09:34:54.194Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -570,6 +570,26 @@
    ],
    "drive": null,
    "phone": "972522354929"
+  },
+  {
+   "id": "A5D86486F7922DFA88BB98EA4D856492",
+   "sender": ". שמואל טורקוב - שליח הרבי לקריה הרפואית רמב\"ם",
+   "text": "",
+   "ts": 1790328879000,
+   "date": "2026-09-25",
+   "time": "12:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13gtfkrJpApuwZpLbfSv-rGPNRCA8BWVt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13gtfkrJpApuwZpLbfSv-rGPNRCA8BWVt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535224770"
   }
  ]
 }

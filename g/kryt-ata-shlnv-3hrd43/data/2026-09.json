@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T09:16:23.885Z",
+ "updated": "2026-09-25T09:34:54.177Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1431,6 +1431,46 @@
    ],
    "drive": null,
    "phone": "972505315633"
+  },
+  {
+   "id": "AC6956C4668495C903389F708555C966",
+   "sender": "טליה מיינר",
+   "text": "",
+   "ts": 1790328817000,
+   "date": "2026-09-25",
+   "time": "12:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12AsDIHvZvCwF8ePGHU6UxEIkftjQVlZj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12AsDIHvZvCwF8ePGHU6UxEIkftjQVlZj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505315633"
+  },
+  {
+   "id": "AC22742BB918070EBF7ABA787D681983",
+   "sender": "דורית ברונשטיין",
+   "text": "",
+   "ts": 1790328869000,
+   "date": "2026-09-25",
+   "time": "12:34",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "476KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1rv-dGI6C_pFgQuilya4rZRwzEmNrik6W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rv-dGI6C_pFgQuilya4rZRwzEmNrik6W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549085368"
   }
  ]
 }

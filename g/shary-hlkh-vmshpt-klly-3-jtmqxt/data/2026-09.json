@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-25T08:38:46.627Z",
+ "updated": "2026-09-25T09:36:54.214Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -3563,6 +3563,26 @@
    "files": [],
    "drive": null,
    "phone": "972532749036"
+  },
+  {
+   "id": "AC23E3143D89A671F69EE59FCE279B92",
+   "sender": "Rabbi Binyomin Fishman",
+   "text": "כבוד הרבנים,\nהבקבוקים האלו מיועדים למלאות עם מים ולשים על קצה ערבות ו הדסים לשמור על טריות.\nהאם ניתן לקיים מצוות לולב כשהבקבוקים עדיין עליהם? או חייב להוריד אותם קודם נטילת לולב? האם זה בעיה של \"בל תוסיף\"? האם יש הבדל בין ספרדים והאשכנזים?\nתודה רבה!",
+   "ts": 1790328989000,
+   "date": "2026-09-25",
+   "time": "12:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-wT1tV1UvZ11AdAGZxcQV6jzqoNoY2bd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-wT1tV1UvZ11AdAGZxcQV6jzqoNoY2bd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543988038"
   }
  ]
 }

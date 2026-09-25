@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T09:21:24.270Z",
+ "updated": "2026-09-25T09:29:54.387Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -6107,6 +6107,66 @@
    "date": "2026-09-25",
    "time": "12:21",
    "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A5B69F85C311965EF341B26E405BEAFE",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "עוד מיכולות של קלוד",
+   "ts": 1790328586000,
+   "date": "2026-09-25",
+   "time": "12:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "229KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Vm6RmxSB_cAzEGdjSIWKA78okMYUYT77/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Vm6RmxSB_cAzEGdjSIWKA78okMYUYT77&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A559F885642A33D711158C49AF3A3919",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "",
+   "ts": 1790328588000,
+   "date": "2026-09-25",
+   "time": "12:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "395KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c6i1bU8P-MfifOKXPSTRbZtpEAEVkaal/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c6i1bU8P-MfifOKXPSTRbZtpEAEVkaal&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A5E85B6454F28BC39001299E37D75D0F",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "",
+   "ts": 1790328589000,
+   "date": "2026-09-25",
+   "time": "12:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "289KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/176w1zU6dvHnzKGrYh5vd2vxccryTSQSA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=176w1zU6dvHnzKGrYh5vd2vxccryTSQSA&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972526016115"
   }

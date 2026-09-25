@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-09-24T15:49:18.318Z",
+ "updated": "2026-09-25T09:29:24.085Z",
  "messages": [
   {
    "id": "AC9DAC93B4AF85A222AACAB124B9F266",
@@ -456,6 +456,57 @@
    "date": "2026-09-24",
    "time": "18:48",
    "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACA5A7217839084FFAE9266859DF8B9F",
+   "sender": "אורלי אוחנה",
+   "text": "*מיזם \"בעקבות האושפיזין\" יוצא לדרך...* \nבכל יום נשלח לקבוצת ההורים דף לימוד יומי, הילדים צריכים ללמוד אותו בסוכה ולאחר מכן יוכלו להכנס לקישור המצורף ובו יענו על מספר שאלות בעקבות הלמידה.\nתלמיד שילמד על כל האושפיזין יקבל 150 שח לקיוסק המצוות. \nאני רוצה להודות מעומק הלב למורה ג'ולי היקרה שלנו על הכנת דפי הלימוד המושקעים והמיוחדים, תודה רבה על ההשקעה העצומה❤️❤️\nותודה לרב יהודה על הכנת החידונים.\nחשוב להבהיר שהחידון בנוי משאלות אמריקאיות וללא כל ציון.\nחג שמח ושבת מבורכת ❤️❤️",
+   "ts": 1790328518000,
+   "date": "2026-09-25",
+   "time": "12:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC51BF114532A483325F8ED93574B4B0",
+   "sender": "אורלי אוחנה",
+   "text": "https://tinyurl.com/2ah8zanl",
+   "ts": 1790328538000,
+   "date": "2026-09-25",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "659KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1g7MWBddcHxZkJinqlXNV2Wi-2f8cSm4l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1g7MWBddcHxZkJinqlXNV2Wi-2f8cSm4l&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACDA3F4DDBFAFCA9128D664A6AA66FAE",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790328538000,
+   "date": "2026-09-25",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/11SdOYviXSJbs_LxeUs8fDjA3a2MgHbid/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11SdOYviXSJbs_LxeUs8fDjA3a2MgHbid&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972507864721"
   }
