@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "המחשות לדף היומי",
- "updated": "2026-09-24T04:34:44.558Z",
+ "updated": "2026-09-25T04:02:14.234Z",
  "messages": [
   {
    "id": "3A9DB1046DC97376E098",
@@ -98,6 +98,46 @@
      "path": "https://drive.google.com/file/d/1a4xH0mO17N_WYofK7w6QU7OZJ0WY5Me9/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1a4xH0mO17N_WYofK7w6QU7OZJ0WY5Me9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACF75B8660E1E1F2E8F",
+   "sender": ".",
+   "text": "״ומעלו לירקונא״ (בכורות ז, ב).",
+   "ts": 1790308900000,
+   "date": "2026-09-25",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NlggMWB8AFLPY0elPkgsVDX_mkgNzahP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NlggMWB8AFLPY0elPkgsVDX_mkgNzahP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AA12DFAECD036D93F65",
+   "sender": ".",
+   "text": "״דג טמא שבלע דג טהור״ (בכורות ז, ב).",
+   "ts": 1790308903000,
+   "date": "2026-09-25",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fGbCUadmV1cxCF49L-kQpob66eRwTIgL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fGbCUadmV1cxCF49L-kQpob66eRwTIgL&sz=w1200"
     }
    ],
    "drive": null,
