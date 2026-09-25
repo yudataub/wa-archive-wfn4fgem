@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T13:58:08.154Z",
+ "updated": "2026-09-25T14:16:38.405Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35152,6 +35152,48 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "AC2704D7FF69C400850BFE4584283459",
+   "sender": "סיון אבישג",
+   "text": "ב\"ה סגרנו 79 ספרי דברים ו- 61 ספרי תהלים.\nתודה לכל המצטרפים, שה' יברך אתכם.\nשבת שלום וחג שמח🌴🤍\nניפגש בבית המקדש בע\"ה.",
+   "ts": 1790345269000,
+   "date": "2026-09-25",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972505939334"
+  },
+  {
+   "id": "3AE4334165844BCBCBA2",
+   "sender": "הודיה 💗",
+   "text": "צדיקה אשרייך🤍",
+   "ts": 1790345377000,
+   "date": "2026-09-25",
+   "time": "17:09",
+   "files": [],
+   "drive": null,
+   "phone": "972555695380"
+  },
+  {
+   "id": "AC4BFBD74C5FE3997D780FA22217DA03",
+   "sender": "שמואל מלול",
+   "text": "",
+   "ts": 1790345783000,
+   "date": "2026-09-25",
+   "time": "17:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "359KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vEj9-LM-RapWSyWJdIawoD8OIXxQDlSM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vEj9-LM-RapWSyWJdIawoD8OIXxQDlSM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }

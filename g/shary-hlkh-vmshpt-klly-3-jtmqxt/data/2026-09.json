@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-25T13:43:07.952Z",
+ "updated": "2026-09-25T14:15:08.392Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -17319,6 +17319,87 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "AC5DA4E455285585940719C584FABA8B",
+   "sender": "n.e.",
+   "text": "זה בסדר כל הרווחים האלה והסכך הזה? לפחות בדיעבד?",
+   "ts": 1790345376000,
+   "date": "2026-09-25",
+   "time": "17:09",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC597745D14E9605F9E491E318E1D88A",
+   "sender": "n.e.",
+   "text": "",
+   "ts": 1790345406000,
+   "date": "2026-09-25",
+   "time": "17:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1lL8EYeQJ6LDYE4mPoYaFzOPhoPKoARR9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lL8EYeQJ6LDYE4mPoYaFzOPhoPKoARR9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC2B460CAD85016A726939C9FA365C7E",
+   "sender": "שרונה בדש",
+   "text": "שאלה אני מתארחת במלון \nבתכנון להדליק נרות ולצאת ממנו להתארח האם אני יכולה בזמן שנוצר לי בערך חצי שעה עד כניסת השבת להשתמש בנייד?",
+   "ts": 1790345440000,
+   "date": "2026-09-25",
+   "time": "17:10",
+   "files": [],
+   "drive": null,
+   "phone": "972522540262"
+  },
+  {
+   "id": "AC0D9F859A969BB2C9EC69F6083A4C62",
+   "sender": "Moshe Itshak Amar",
+   "text": "",
+   "ts": 1790345552000,
+   "date": "2026-09-25",
+   "time": "17:12",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "27KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1jR7chpZrcf67lWeB0XP6_qQr8goqT3F4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC5A5B45AE44C9408F1A5C03674DCCE7",
+   "sender": "דוד בן חי",
+   "text": "חג שמח לכל הקבוצה היקרה. ושבת שלום ♥️",
+   "ts": 1790345694000,
+   "date": "2026-09-25",
+   "time": "17:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "294KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YESJhcSlQCAXr7ATSftbpnT-DsxdBGzY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YESJhcSlQCAXr7ATSftbpnT-DsxdBGzY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546201061"
   }
  ]
 }
