@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-25T13:32:01.078Z",
+ "updated": "2026-09-25T13:56:38.142Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -7552,6 +7552,57 @@
    "files": [],
    "drive": null,
    "phone": "972527361718"
+  },
+  {
+   "id": "AC3DB37BC5A54994FFD22D94BC7017FD",
+   "sender": "רתם  🙏🏼",
+   "text": "חג שמח 🍷שבת הבאה אנחנו לוחצים PLAY ▶️\nמהצהריים ועד הלילה נפגשים שוב בלב עמק יזרעאל \nליין־אפ מטורף, קהל בוגר, אוויר פתוח והמון טראנס שאנחנו אוהבים ❤️\nרגע לפני שעונת הפארק מסתיימת, בואו לרקוד ופשוט לעוף יחד 🚜🦋\nטרקטור בטבע × אלקטרו פארק\nוואו, כמה שאנחנו מחכים לזה!\nאל תחכו לרגע האחרון עם הכרטיסים.\nhttps://www.eventer.co.il/event/sukkot__gathering/J9rYL\nחג סוכות שמח ❤️\nנתראה בשבת הבאה!",
+   "ts": 1790344105000,
+   "date": "2026-09-25",
+   "time": "16:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KxqcYxZ3Oxv6JdnwC1GyI0JYRMsyhhPD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KxqcYxZ3Oxv6JdnwC1GyI0JYRMsyhhPD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549778816"
+  },
+  {
+   "id": "AC49BC090F45AA127C4A38A85BAA8EDC",
+   "sender": "Shalom Daoudi",
+   "text": "",
+   "ts": 1790344553000,
+   "date": "2026-09-25",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JyUW4BNzcvklBd87o5KyJMFOPzqALdjU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JyUW4BNzcvklBd87o5KyJMFOPzqALdjU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525256249"
+  },
+  {
+   "id": "ACBB9AD42041CFA475F4571BF29D5E0C",
+   "sender": "Shalom Daoudi",
+   "text": "מי שרוצה ברחבת בניין רמז 2 חלות ולחמניות שהביא אחד השכנים מהמאפיה\nחג שמח",
+   "ts": 1790344585000,
+   "date": "2026-09-25",
+   "time": "16:56",
+   "files": [],
+   "drive": null,
+   "phone": "972525256249"
   }
  ]
 }

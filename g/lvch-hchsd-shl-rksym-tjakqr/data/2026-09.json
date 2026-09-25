@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-25T13:20:30.888Z",
+ "updated": "2026-09-25T13:56:08.145Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4246,6 +4246,46 @@
    "files": [],
    "drive": null,
    "phone": "972525901035"
+  },
+  {
+   "id": "ACB86B3F96CE278330B267523F6F30F1",
+   "sender": "רחלי א.",
+   "text": "",
+   "ts": 1790344545000,
+   "date": "2026-09-25",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "196KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VhRPrW4o2KOmQyfy0KGfSMMJ1HqzO5lv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VhRPrW4o2KOmQyfy0KGfSMMJ1HqzO5lv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545687870"
+  },
+  {
+   "id": "AC86800ACF84F0D16F061CC54E4E0E60",
+   "sender": "רחלי א.",
+   "text": "",
+   "ts": 1790344559000,
+   "date": "2026-09-25",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zwq2DjGOY4rJxBD9i6SRKFJXBE-r_rM6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zwq2DjGOY4rJxBD9i6SRKFJXBE-r_rM6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545687870"
   }
  ]
 }

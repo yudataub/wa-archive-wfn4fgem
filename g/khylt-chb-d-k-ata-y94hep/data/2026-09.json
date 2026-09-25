@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-25T11:46:40.101Z",
+ "updated": "2026-09-25T13:55:38.135Z",
  "messages": [
   {
    "id": "AC5FD2B908C06BA39795B313E33C0CF0",
@@ -4167,6 +4167,26 @@
    "files": [],
    "drive": null,
    "phone": "972527996222"
+  },
+  {
+   "id": "AC7D9DF967A870EAC16C3341CB4967D8",
+   "sender": "שי קובי",
+   "text": "",
+   "ts": 1790344524000,
+   "date": "2026-09-25",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1GLM7TNUDaPF8DZBzTbwydubvUSOipK53/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GLM7TNUDaPF8DZBzTbwydubvUSOipK53&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549534747"
   }
  ]
 }

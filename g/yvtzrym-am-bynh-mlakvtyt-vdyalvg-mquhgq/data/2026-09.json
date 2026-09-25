@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T13:41:44.542Z",
+ "updated": "2026-09-25T13:57:14.740Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27513,7 +27513,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1MHadiZxLllb61cbd4iqQCYQDZQX11uyo/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1MHadiZxLllb61cbd4iqQCYQDZQX11uyo&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1MHadiZxLllb61cbd4iqQCYQDZQX11uyo&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/AC194E8797C24B5F9A5F48583C641577_0.mp4"
     }
    ],
    "drive": null,
@@ -27529,6 +27530,37 @@
    "files": [],
    "drive": null,
    "phone": "972543330983"
+  },
+  {
+   "id": "A5B1E01EBDE0147E9345B60B1204015B",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "מוזמנים להשתעשע עם האפליקציה שיצרתי.",
+   "ts": 1790344626000,
+   "date": "2026-09-25",
+   "time": "16:57",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1bMm36i6ZDVQiRGCJk4H20iHqyD79VG-e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bMm36i6ZDVQiRGCJk4H20iHqyD79VG-e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A57D5B7C7AA2519AB570902DE7DF9112",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "https://pixmix-portraits.vercel.app",
+   "ts": 1790344628000,
+   "date": "2026-09-25",
+   "time": "16:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
   }
  ]
 }

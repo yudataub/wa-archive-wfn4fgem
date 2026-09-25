@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מזכי הרבים",
- "updated": "2026-09-25T13:43:07.945Z",
+ "updated": "2026-09-25T13:53:08.095Z",
  "messages": [
   {
    "id": "2A2E7A4B623E5587812C",
@@ -3019,6 +3019,37 @@
    "files": [],
    "drive": null,
    "phone": "972587121515"
+  },
+  {
+   "id": "AC5A728FEFB9080688BDBDA118C6ECB7",
+   "sender": "רועי כהן",
+   "text": "",
+   "ts": 1790344380000,
+   "date": "2026-09-25",
+   "time": "16:53",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/158AQsKRlBqMkYWZfwS-7QTkPcI06K9pJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=158AQsKRlBqMkYWZfwS-7QTkPcI06K9pJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACEB90DEB503E4AA2CA7250AB50324C0",
+   "sender": "רועי כהן",
+   "text": "בטלפון זה נראה קצת שונה מהמחשב כי זה גודל של טלפון אבל גם נחמד מאוד",
+   "ts": 1790344382000,
+   "date": "2026-09-25",
+   "time": "16:53",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
   }
  ]
 }
