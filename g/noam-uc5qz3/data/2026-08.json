@@ -1,7 +1,7 @@
 {
  "month": "2026-08",
  "group": "משפחת נעם",
- "updated": "2026-09-25T11:08:53.209Z",
+ "updated": "2026-09-25T11:46:41.358Z",
  "messages": [
   {
    "id": "gm-1a0525a3029afc81",
@@ -197,6 +197,25 @@
    "drive": null
   },
   {
+   "id": "AC9A816FBDC5C0DE9C11C30F99A2C342",
+   "sender": "אורלי אוחנה",
+   "text": "איגרת פתיחת שנה.pdf",
+   "ts": 1788151843000,
+   "date": "2026-08-31",
+   "time": "07:50",
+   "files": [
+    {
+     "name": "איגרת פתיחת שנה.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
    "id": "gm-1a05627d9c1086ae",
    "sender": "אורלי אוחנה",
    "text": "",
@@ -253,6 +272,17 @@
    "time": "08:43",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC9DBC21249AD317805D32EDDE403257",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1788155198000,
+   "date": "2026-08-31",
+   "time": "08:46",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
   },
   {
    "id": "gm-1a056b9f406df3ab",
@@ -335,6 +365,17 @@
    "drive": null
   },
   {
+   "id": "ACC5A9140878BA5381B81D2F4DBFAE54",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1788163294000,
+   "date": "2026-08-31",
+   "time": "11:01",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
    "id": "gm-1a056d68e32ccf40",
    "sender": "מלכה טרבלסי",
    "text": "",
@@ -343,6 +384,25 @@
    "time": "11:01",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACAAA72AE2B66864F5EC765FD52D80C8",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1788174023000,
+   "date": "2026-08-31",
+   "time": "14:00",
+   "files": [
+    {
+     "name": "VID-20260831-WA0016.mp4",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
   },
   {
    "id": "gm-1a0577a62dd8d9e6",
@@ -473,6 +533,25 @@
    "time": "19:57",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC802AA9B01866F78384C00B35113D06",
+   "sender": "אורלי אוחנה",
+   "text": "לוז למורים-יום ג.docx",
+   "ts": 1788205264000,
+   "date": "2026-08-31",
+   "time": "22:41",
+   "files": [
+    {
+     "name": "לוז למורים-יום ג.docx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
   },
   {
    "id": "gm-1a05956fe33347d8",

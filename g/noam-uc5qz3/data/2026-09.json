@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם",
- "updated": "2026-09-25T11:32:07.910Z",
+ "updated": "2026-09-25T11:57:49.790Z",
  "messages": [
   {
    "id": "gm-1a05b0fd61a0e542",
@@ -51,6 +51,25 @@
    "time": "07:27",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "3A1985C58C7938C9D3AE",
+   "sender": "0556640892",
+   "text": "תורנות מורים יום שלישי 1.9.docx",
+   "ts": 1788237273000,
+   "date": "2026-09-01",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "תורנות מורים יום שלישי 1.9.docx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
   },
   {
    "id": "gm-1a05b3f65bf847db",
@@ -121,6 +140,25 @@
    "drive": null
   },
   {
+   "id": "AC700AD9B0E8E63C08B7BAD7CE949814",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262750000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0012.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
    "id": "gm-1a05cc42629ed9db",
    "sender": "הילה שמר",
    "text": "",
@@ -138,6 +176,595 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC85D3209DD484AA527A69B10491CB82",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262753000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0014.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACB22F87CCAB2578A7AADBA0B3F9F027",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262753000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0013.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC2B6020801B2339F114B5B8AAFB3030",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262754000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0016.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC7C8BEBC7B00CDD343B710AE1F75983",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262754000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0015.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC2399EF4C60E486535AB8B44F81DADC",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262756000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0017.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACBE6866611BA44991F381FEFB9BAF43",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262757000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0019.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACD3E626323B5FB36AD209B401A91B71",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262757000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0018.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC3D771BD70ADAD8085924E655547934",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262758000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0022.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC48B37B0536BC078767A66F663823BD",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262758000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0020.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC661EF9C886FEEE51BD15346EA49FB9",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262758000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0021.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC0A8642817547AC747AF2EA0F05ABFD",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262759000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0023.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC21B064113B0D31191DEAAF397CC596",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262759000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0024.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC32C8968F12420B1B8F6D298C601754",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262760000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0025.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC1F8EE94B49981648B7221B389884FA",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262761000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0026.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC879B0DF039FE9257B88716664B91DF",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262761000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0028.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACA5C32DDA34DD4CAF97CA0368093F07",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262761000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0027.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACC2C331CDE226054731A7ABD95CAD5E",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262761000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0029.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC5514856A50A97126CDF80AE243F74B",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262762000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0030.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC6A83348073498E60B89ABD539574AD",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262762000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0031.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC9EC2E925F7D5EDFB250F34834E81AB",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262762000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0032.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACEBD2310403A5727451006725F15ECA",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262762000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0033.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC36B66CFF0F1CF169FC139970E8EDE3",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262763000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0035.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACE467AFEF03C47243B2486620A65A5A",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262763000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0034.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC2640F676BF7AE410AF314BC6B666C4",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262798000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0036.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC2E4E8A9CDA45DF66C70D09DD1F2849",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262799000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0042.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC4235D95D7B386B5C0FBAA543E67C52",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262799000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0038.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC49B7F3B007694B221A2CACD26CB562",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262799000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0037.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACAAC65FD06E701AA361F3F7F53696D6",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262799000,
+   "date": "2026-09-01",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0039.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC19EF242101AEABF8E107F85DC38E6A",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262800000,
+   "date": "2026-09-01",
+   "time": "14:40",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0040.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACE39E468DF40616403AC5DB4883EEBC",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262800000,
+   "date": "2026-09-01",
+   "time": "14:40",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0043.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACE92603C6B78052E6EB4269568E36F3",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1788262800000,
+   "date": "2026-09-01",
+   "time": "14:40",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0041.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
   },
   {
    "id": "gm-1a05cc4eb0125942",
@@ -189,6 +816,17 @@
    "drive": null
   },
   {
+   "id": "ACC37A27BE904DBCF4D6387378356739",
+   "sender": "מלי",
+   "text": "הדסה דוד",
+   "ts": 1788270569000,
+   "date": "2026-09-01",
+   "time": "16:49",
+   "files": [],
+   "drive": null,
+   "phone": "972522376845"
+  },
+  {
    "id": "gm-1a05d3b9577a5ff0",
    "sender": "מלי",
    "text": "בבקשה",
@@ -217,6 +855,25 @@
    "time": "17:09",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "4AA4BF11B72D1AED6EC4",
+   "sender": "0556640892",
+   "text": "‎⁨תורנות מורים יום רביעי 2.9⁩.docx",
+   "ts": 1788274695000,
+   "date": "2026-09-01",
+   "time": "17:58",
+   "files": [
+    {
+     "name": "תורנות מורים יום רביעי 2.9.docx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
   },
   {
    "id": "gm-1a05d7a71ada69a0",
@@ -364,6 +1021,38 @@
    "time": "08:54",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "A553A91F02F175C238CF5EBF166DCCE5",
+   "sender": "אני",
+   "text": "בשורה טובה לכל המורות\nחוברת חגים מחכה לכן במדף.\nתודה ללבנה שהדפיסה לכולן.",
+   "ts": 1788328559000,
+   "date": "2026-09-02",
+   "time": "08:55",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC0E63CEBCBE8FB916B1FDA0E1348E51",
+   "sender": "מלכה טרבלסקי",
+   "text": "מורות יקרות..אני זקוקה לעזרה בסוף שעה שישית..להעביר את הילדים *למרכז למידה* או *לצהרון*...הילדים הקטנים מאוד מבולבלים",
+   "ts": 1788360884000,
+   "date": "2026-09-02",
+   "time": "17:54",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACBC1CFFFFBA386F9243877964475516",
+   "sender": "מלכה טרבלסקי",
+   "text": "תודה רבה ❤️🤩",
+   "ts": 1788360888000,
+   "date": "2026-09-02",
+   "time": "17:54",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
   },
   {
    "id": "A5C0297D7481D488CB3D5DEB5EB1491E",
@@ -7203,6 +7892,26 @@
    "files": [],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "ACD7C0BDDA77FA0A9F830CDC849FFADE",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790337459000,
+   "date": "2026-09-25",
+   "time": "14:57",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "482KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1q-yOok0tnwpUS0vlM5FI_KoTX7qAPOAv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q-yOok0tnwpUS0vlM5FI_KoTX7qAPOAv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
   }
  ]
 }

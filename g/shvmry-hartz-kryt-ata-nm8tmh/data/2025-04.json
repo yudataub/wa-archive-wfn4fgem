@@ -1,0 +1,56 @@
+{
+ "month": "2025-04",
+ "group": "שומרי הארץ קרית אתא",
+ "updated": "2026-09-25T11:46:38.975Z",
+ "messages": [
+  {
+   "id": "B5A261E5645DD2FCD80528F475AFFCEB",
+   "sender": "0522212258",
+   "text": "",
+   "ts": 1744648811000,
+   "date": "2025-04-14",
+   "time": "19:40",
+   "files": [
+    {
+     "name": "PTT-20250414-WA0011.opus",
+     "size": "",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972522212258"
+  },
+  {
+   "id": "67BBA47FCA110E169D02112A816A2BF1",
+   "sender": "0522212258",
+   "text": "[מיקום חי]",
+   "ts": 1744648825000,
+   "date": "2025-04-14",
+   "time": "19:40",
+   "files": [],
+   "drive": null,
+   "phone": "972522212258"
+  },
+  {
+   "id": "917B401C635A7E6767FC039A58F24C8D",
+   "sender": "0522212258",
+   "text": "",
+   "ts": 1744648921000,
+   "date": "2025-04-14",
+   "time": "19:42",
+   "files": [
+    {
+     "name": "PTT-20250414-WA0012.opus",
+     "size": "",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972522212258"
+  }
+ ]
+}

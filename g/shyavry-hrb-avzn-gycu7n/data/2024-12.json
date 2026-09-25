@@ -1,0 +1,45 @@
+{
+ "month": "2024-12",
+ "group": "שיעורי הרב אוזן",
+ "updated": "2026-09-25T11:46:39.502Z",
+ "messages": [
+  {
+   "id": "1D7CE4AFE63E6E1C7E0594DCCDF3024F",
+   "sender": "אני",
+   "text": "https://www.youtube.com/watch?v=0vycSOTQdZk",
+   "ts": 1734672682000,
+   "date": "2024-12-20",
+   "time": "07:31",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "68ACBFDAAD2B313F699DA278F6F1DC27",
+   "sender": "אני",
+   "text": "שיעור מהרב אוזן על יט כסלו.pdf",
+   "ts": 1734672682000,
+   "date": "2024-12-20",
+   "time": "07:31",
+   "files": [
+    {
+     "name": "שיעור מהרב אוזן על יט כסלו.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "C242DA2F74137AF3BE529E411F1D887E",
+   "sender": "אני",
+   "text": "כאן השיעור כתוב",
+   "ts": 1734672706000,
+   "date": "2024-12-20",
+   "time": "07:31",
+   "files": [],
+   "drive": null
+  }
+ ]
+}

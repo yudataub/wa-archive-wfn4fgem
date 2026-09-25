@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-09-25T11:32:11.365Z",
+ "updated": "2026-09-25T11:57:53.872Z",
  "messages": [
   {
    "id": "AC9DAC93B4AF85A222AACAB124B9F266",
@@ -552,6 +552,26 @@
    "files": [],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "ACD7C0BDDA77FA0A9F830CDC849FFADE",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1790337459000,
+   "date": "2026-09-25",
+   "time": "14:57",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "482KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1ohxHKnbFsuDolh67ov7uU8UMYBX_ouSn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ohxHKnbFsuDolh67ov7uU8UMYBX_ouSn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
   }
  ]
 }

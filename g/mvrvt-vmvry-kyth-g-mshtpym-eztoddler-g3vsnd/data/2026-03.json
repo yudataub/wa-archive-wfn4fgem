@@ -1,0 +1,56 @@
+{
+ "month": "2026-03",
+ "group": "מורות ומורי כיתה ג' משתפים • EZToddler",
+ "updated": "2026-09-25T11:46:41.031Z",
+ "messages": [
+  {
+   "id": "AC110F20569EBE1A2ADC31F00FAE8EE8",
+   "sender": "0527325682",
+   "text": "היי למישהי יש מתכון קליל שאפשר להכין עם הילדים בזום?",
+   "ts": 1772642743000,
+   "date": "2026-03-04",
+   "time": "18:45",
+   "files": [],
+   "drive": null,
+   "phone": "972527325682"
+  },
+  {
+   "id": "3EB031AB8DB865268E6DF5",
+   "sender": "0545586620",
+   "text": "מתכון אורייני לצלחת גבינה עם בצל ירוק.docx",
+   "ts": 1772643571000,
+   "date": "2026-03-04",
+   "time": "18:59",
+   "files": [
+    {
+     "name": "מתכון אורייני לצלחת גבינה עם בצל ירוק.docx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972545586620"
+  },
+  {
+   "id": "3EB096DABFD66EE24485F3",
+   "sender": "0545586620",
+   "text": "מתכון אורייני לסלט חסה.docx",
+   "ts": 1772643572000,
+   "date": "2026-03-04",
+   "time": "18:59",
+   "files": [
+    {
+     "name": "מתכון אורייני לסלט חסה.docx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972545586620"
+  }
+ ]
+}
