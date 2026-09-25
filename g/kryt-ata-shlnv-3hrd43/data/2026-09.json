@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T13:12:30.779Z",
+ "updated": "2026-09-25T13:58:08.154Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35132,6 +35132,26 @@
    ],
    "drive": null,
    "phone": "972504247737"
+  },
+  {
+   "id": "3AC95487A66127FC1B2D",
+   "sender": "אסף",
+   "text": "שעון רטרו 120₪",
+   "ts": 1790344684000,
+   "date": "2026-09-25",
+   "time": "16:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xUWvTolzrvhjDfanbi2shbF4_u1xF-Lm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xUWvTolzrvhjDfanbi2shbF4_u1xF-Lm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }
