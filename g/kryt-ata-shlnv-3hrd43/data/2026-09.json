@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T10:21:10.507Z",
+ "updated": "2026-09-25T10:30:47.420Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1722,6 +1722,46 @@
    ],
    "drive": null,
    "phone": "972507732446"
+  },
+  {
+   "id": "3EB0AD3DCBD6C3425B5C6E",
+   "sender": "עילאי בן הרוש",
+   "text": "מחשב גיימינג למתחילים:\n\nמחשב נייח במצב מצויין, עובד תקין ונבדק במשחקים.\n\ni5-2500 | GTX 660 3GB | 8GB DDR3 | SSD 128GB | MSI H61M-E23 | ספק Antec 500W | קירור Cooler Master | מארז Gigabyte עם חלון ותאורה כחולה | Bluetooth | DVD-RW | Windows מותקן.\n\nULTRAKILL: עד 300 FPS.\nHitman Blood Money: עד 150 FPS.\nמתאים למשחקים קלים, אינדי ורטרו.\n\nמחיר: 400₪, גמיש מעט.",
+   "ts": 1790332227000,
+   "date": "2026-09-25",
+   "time": "13:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "130KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S9giXQUlc8LeDLTN1x3V9Lrfbp1BLux0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S9giXQUlc8LeDLTN1x3V9Lrfbp1BLux0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584844455"
+  },
+  {
+   "id": "3EB009FA4B7BA9ACD0C225",
+   "sender": "עילאי בן הרוש",
+   "text": "קורקינט חשמלי Xiaomi H7\nקורקינט חשמלי של שיאומי מדגם H7. נמכר ללא מטען.\n\nהמצב שלו לא ידוע ולא נבדק, לכן מוכר אותו כמו שהוא. מתאים לתיקון, שיפוץ או לחלקים. מחיר: 200 ₪ 0584844455",
+   "ts": 1790332229000,
+   "date": "2026-09-25",
+   "time": "13:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11IlMIU75MFlbn5b3NQbMbkW-BTpKzHCi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11IlMIU75MFlbn5b3NQbMbkW-BTpKzHCi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584844455"
   }
  ]
 }

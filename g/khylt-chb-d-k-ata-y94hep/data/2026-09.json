@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-25T09:34:54.194Z",
+ "updated": "2026-09-25T10:36:17.836Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -590,6 +590,37 @@
    ],
    "drive": null,
    "phone": "972535224770"
+  },
+  {
+   "id": "ACD8E2001BBB63115CBDAFA08325D829",
+   "sender": "ronentayar",
+   "text": "",
+   "ts": 1790332419000,
+   "date": "2026-09-25",
+   "time": "13:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "263KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T_fDhFP7ahKid2KmQJzsb_NgHR-AFbMM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T_fDhFP7ahKid2KmQJzsb_NgHR-AFbMM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "AC649A3DF275BC7214AF64BC41048B87",
+   "sender": "חגי אלגואז",
+   "text": "חג שמח",
+   "ts": 1790332575000,
+   "date": "2026-09-25",
+   "time": "13:36",
+   "files": [],
+   "drive": null,
+   "phone": "972527996222"
   }
  ]
 }

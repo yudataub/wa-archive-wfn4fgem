@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-25T09:40:09.907Z",
+ "updated": "2026-09-25T10:36:17.828Z",
  "messages": [
   {
    "id": "gm-1a05ace23de8f862",
@@ -2544,6 +2544,46 @@
    ],
    "drive": null,
    "phone": "972585808247"
+  },
+  {
+   "id": "A508AD0E9D646AA35E5D14EB5AD5CF33",
+   "sender": "אביצור מרדכי",
+   "text": "*חידון המשפחות הגדול יוצא לדרך!!* 🚀\nובנוסף בחול המועד סוכות לומדים מסכת סוכה כל המשפחה ומשתתפים בחידה היומית  עם פרסים שווים🥳\n*מעל 1500 ילדים כבר בקבוצות של משנת חיים!!*\nבכל יום תישלח חידה וכל יום הגרלה🎁🎁🎁\n *והכל בחינם*:\n*(מי שכבר רשום בקבוצות של משנת חיים אין צורך להירשם!!!)*\nללחוץ על הקישור ואתם בפנים😍\nשתפו את החברים ואת המשפחה❤️",
+   "ts": 1790332156000,
+   "date": "2026-09-25",
+   "time": "13:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ohnJA4AvmIc9UT6Tcp2IniRpPIi4U_09/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ohnJA4AvmIc9UT6Tcp2IniRpPIi4U_09&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535272728"
+  },
+  {
+   "id": "AC02968BCAD35343D14F06ABA1103361",
+   "sender": "יעקב ביתן",
+   "text": "",
+   "ts": 1790332553000,
+   "date": "2026-09-25",
+   "time": "13:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ifyTEmyAnsMNB-dnYiU1UOQaxIOQcD2i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ifyTEmyAnsMNB-dnYiU1UOQaxIOQcD2i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539474314"
   }
  ]
 }
