@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-25T13:35:14.464Z",
+ "updated": "2026-09-25T13:42:44.557Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -3769,11 +3769,23 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1u7Nj8HItnRw9OCf5vyd5fpW1Npo1jXuq/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1u7Nj8HItnRw9OCf5vyd5fpW1Npo1jXuq&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1u7Nj8HItnRw9OCf5vyd5fpW1Npo1jXuq&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-prvmpt-tvb-hkl-tvb-kmat-g39tzg/v/2026-09/3EB06A468F132FB8DAB5AA_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "AC8179214E588B91C0F7C4FC06A438A8",
+   "sender": "Mayan Shaposhnik",
+   "text": "החתול מתוק\nחג שמייח💐",
+   "ts": 1790343743000,
+   "date": "2026-09-25",
+   "time": "16:42",
+   "files": [],
+   "drive": null,
+   "phone": "972502091901"
   }
  ]
 }

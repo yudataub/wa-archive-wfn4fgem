@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T13:35:14.430Z",
+ "updated": "2026-09-25T13:41:44.542Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27492,11 +27492,43 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1lEZvbe4Lm4lslfMpNoS2PgDigZyc0AP0/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1lEZvbe4Lm4lslfMpNoS2PgDigZyc0AP0&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1lEZvbe4Lm4lslfMpNoS2PgDigZyc0AP0&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB0BAB7CBA52DD1F4F56A_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "AC194E8797C24B5F9A5F48583C641577",
+   "sender": "Tal🥰",
+   "text": "לזכרו של יהודה אטלס. האיש שתמיד ידע להיות ילד.\nסרטון בעברית, כי ליהודה אטלס חייבים עברית, וכי עם המודל החדש של ג'מיני זה יוצא נפלא, מאה אחוז קוד. \nהסרטון מבוסס על הספר\"הילד הזה הוא אני\" (קלוד סירב להכניס ממש טקסטים משם מחשש לזכויות יוצרים) וטיפה דגשים שלי. \nהסוכן עבד אזור ה10 שעות (הפכתי גם לסקיל למי שרוצה).\n#יהודה_אטלס\nhttps://www.facebook.com/share/v/19fmb6gvv9/",
+   "ts": 1790343654000,
+   "date": "2026-09-25",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MHadiZxLllb61cbd4iqQCYQDZQX11uyo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MHadiZxLllb61cbd4iqQCYQDZQX11uyo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543330983"
+  },
+  {
+   "id": "ACD13F4BA0BDAF0DDC7789691F62236A",
+   "sender": "Tal🥰",
+   "text": "קבלתי ומעבירה, לא יודעת למי הקרדיט....",
+   "ts": 1790343678000,
+   "date": "2026-09-25",
+   "time": "16:41",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
   }
  ]
 }
