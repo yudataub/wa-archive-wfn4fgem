@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-25T07:04:20.053Z",
+ "updated": "2026-09-25T07:32:56.361Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -3413,6 +3413,37 @@
    "files": [],
    "drive": null,
    "phone": "972543100741"
+  },
+  {
+   "id": "ACAE2CDA9324742BBFB71B3B803FC4F5",
+   "sender": "עדי סוסן",
+   "text": "",
+   "ts": 1790321559000,
+   "date": "2026-09-25",
+   "time": "10:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/166NtnROYgyfSXoh4MDMYTzA5xBaCm5q5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=166NtnROYgyfSXoh4MDMYTzA5xBaCm5q5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538213011"
+  },
+  {
+   "id": "AC0CC6C62F64C1AC200696ACB393FCC2",
+   "sender": "עדי סוסן",
+   "text": "החבל הזה טוב ללבוד לסוכה?",
+   "ts": 1790321560000,
+   "date": "2026-09-25",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972538213011"
   }
  ]
 }

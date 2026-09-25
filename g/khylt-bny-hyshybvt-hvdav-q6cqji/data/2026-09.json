@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-25T07:00:50.018Z",
+ "updated": "2026-09-25T07:31:56.339Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -3001,6 +3001,46 @@
    "files": [],
    "drive": null,
    "phone": "972528907838"
+  },
+  {
+   "id": "A51B8CF22B56973F1DDE7A1E6A0EDCE0",
+   "sender": "גולד",
+   "text": "לרכישת כרטיסים לחצי כאן👇\nhttps://glatticket.co.il/114174\nקוד קופון לנשים ונערות- 11111\n\nתודה מיוחדת לנציג הקהילה הרב אלקנה ויסנשטרן על התמיכה והסיוע!!",
+   "ts": 1790321491000,
+   "date": "2026-09-25",
+   "time": "10:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WQ6urkPx6lIMdJBMSVeqUW69Zmvh9RXJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WQ6urkPx6lIMdJBMSVeqUW69Zmvh9RXJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523697751"
+  },
+  {
+   "id": "A5470A5CEFA81409BBECA7BC1028C1E6",
+   "sender": "גולד",
+   "text": "",
+   "ts": 1790321491000,
+   "date": "2026-09-25",
+   "time": "10:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QfV2ThxorpsbGJmHKyY8av9ajoIy3tha/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QfV2ThxorpsbGJmHKyY8av9ajoIy3tha&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523697751"
   }
  ]
 }
