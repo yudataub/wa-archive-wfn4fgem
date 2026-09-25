@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T09:11:54.125Z",
+ "updated": "2026-09-25T09:21:24.270Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -6095,6 +6095,17 @@
    "ts": 1790327492000,
    "date": "2026-09-25",
    "time": "12:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A534AEC4DE97A60F5B576301A0CC2442",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "תודה😊\nזה האתר\nhttps://www.pix-mix.me",
+   "ts": 1790328071000,
+   "date": "2026-09-25",
+   "time": "12:21",
    "files": [],
    "drive": null,
    "phone": "972526016115"

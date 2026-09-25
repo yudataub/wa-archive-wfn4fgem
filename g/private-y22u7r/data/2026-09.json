@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-25T09:17:23.890Z",
+ "updated": "2026-09-25T09:20:23.936Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -4206,6 +4206,37 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5357AAEEF431B4DB69597668DA0D8F5",
+   "sender": "אני",
+   "text": "עם נרצה 10 יהיה לך \nוצריך עם ערבות.",
+   "ts": 1790327953000,
+   "date": "2026-09-25",
+   "time": "12:19",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC7A74BFA9C7A58A9E4B0D492ED4B591",
+   "sender": "יוני טולדנו",
+   "text": "",
+   "ts": 1790328000000,
+   "date": "2026-09-25",
+   "time": "12:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "10KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1yq2TFzu33wgOOgJPJC0G8fbZ-32tsOSD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוני טולדנו",
+   "phone": "972503446763"
   }
  ]
 }

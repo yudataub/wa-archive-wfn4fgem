@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-09-25T06:09:06.768Z",
+ "updated": "2026-09-25T09:18:24.221Z",
  "messages": [
   {
    "id": "3EB093E3568C4AF969D477",
@@ -281,6 +281,26 @@
      "path": "https://drive.google.com/file/d/19FYFeGMT9MNarB2ejua26N5RuObcx-SM/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19FYFeGMT9MNarB2ejua26N5RuObcx-SM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0EF5488B20EC019BD1C",
+   "sender": "עמי חניא",
+   "text": "קישוט שהוא גם משחק לסוכה :) \nהאורחים עפים על זה (וגם הילדים)\nחג שמח לכולם!!!",
+   "ts": 1790327879000,
+   "date": "2026-09-25",
+   "time": "12:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "26.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vQ5rds9qtozGS0cBJjnMJjS_jmIPMfMS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vQ5rds9qtozGS0cBJjnMJjS_jmIPMfMS&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-23T16:27:47.309Z",
+ "updated": "2026-09-25T09:27:24.052Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -95,6 +95,246 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC1B01D211FC7625DB92116DA27C6516",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328405000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JtWp8Cb_Gx228i_TNYsuAwhJ-hqrh-l5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JtWp8Cb_Gx228i_TNYsuAwhJ-hqrh-l5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC9A6D23CE401ED171E6F1ABAD35FAAF",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "מדף קטן",
+   "ts": 1790328405000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D7DIES-I-wyc5C5SOljpzLctppRCT78l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D7DIES-I-wyc5C5SOljpzLctppRCT78l&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC9B91548F777505D4A3042524638435",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "גינסים ודגמח למסירה",
+   "ts": 1790328406000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "308KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13hPlzggBM1gChuYOiX0LAuu0deqH2uIC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13hPlzggBM1gChuYOiX0LAuu0deqH2uIC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACB2E195DFE730C801DA52309407A215",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328406000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m62zbWSQ1MIZtBE1CURnzeGOfACMuIG-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m62zbWSQ1MIZtBE1CURnzeGOfACMuIG-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACE31D7D42EAB220757E26FFB4C2469C",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328406000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18mD62VCZ4-SHH4XwJPb06rSNkFrDuGtY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18mD62VCZ4-SHH4XwJPb06rSNkFrDuGtY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACF30B1953A66969A4276945290AEDD6",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328406000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rECEKSDoHd5nisPOr_ky7MNSjupeZZ9d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rECEKSDoHd5nisPOr_ky7MNSjupeZZ9d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC3FFE46145EBF804C8D72265E31FAEE",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328407000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A3gjxmFAqraApszf61auXugNxghNmHWI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A3gjxmFAqraApszf61auXugNxghNmHWI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC75EDA6A096CF5DBDE9FE70F4360672",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328407000,
+   "date": "2026-09-25",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1danKD9b53DUZC14vgFpoxk1eyH_Cc-W8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1danKD9b53DUZC14vgFpoxk1eyH_Cc-W8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACB0135AAF6490F4A961BBBB3D3F161B",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328422000,
+   "date": "2026-09-25",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DTPimPzO6TLHd4PjgI3_1bp1yfJECmqk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DTPimPzO6TLHd4PjgI3_1bp1yfJECmqk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC148F434AC0EDEF7ADBE32F9C86CCA1",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328423000,
+   "date": "2026-09-25",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D3vLg9cUw4BFMvUp72fJbBOowviUxbvr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D3vLg9cUw4BFMvUp72fJbBOowviUxbvr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC862427A41AE5695F722616FD90F519",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328423000,
+   "date": "2026-09-25",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qDabyqZh9hUn7c5yz4SPXL_UAiVQb-H8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qDabyqZh9hUn7c5yz4SPXL_UAiVQb-H8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACCC4119EC1A8A8FA08194325E3A60FA",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790328423000,
+   "date": "2026-09-25",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AzNy6qkyzZUB1WJMWxK1ZuiMhIVNsc1g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AzNy6qkyzZUB1WJMWxK1ZuiMhIVNsc1g&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
   }
  ]
 }
