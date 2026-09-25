@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-25T08:54:16.857Z",
+ "updated": "2026-09-25T11:13:11.119Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5388,6 +5388,26 @@
    "files": [],
    "drive": null,
    "phone": "972552801572"
+  },
+  {
+   "id": "3A12EF240AA910EF52CE",
+   "sender": "Moshe",
+   "text": "למסירה 2 מיטות חוף במצב חדש",
+   "ts": 1790334786000,
+   "date": "2026-09-25",
+   "time": "14:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bia9Wog_cgEBvwPulUwI71TvUOE0B63c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bia9Wog_cgEBvwPulUwI71TvUOE0B63c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555695080"
   }
  ]
 }

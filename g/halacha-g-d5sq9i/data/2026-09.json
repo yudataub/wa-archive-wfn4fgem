@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הלכה כתה ג'",
- "updated": "2026-09-24T20:30:40.934Z",
+ "updated": "2026-09-25T11:08:53.231Z",
  "messages": [
   {
    "id": "failed-1788249471214",
@@ -34,6 +34,25 @@
    "drive": null
   },
   {
+   "id": "AC68F8B99E2AF9A56EE89157066EA7C0",
+   "sender": "0526478257",
+   "text": "",
+   "ts": 1788253834000,
+   "date": "2026-09-01",
+   "time": "12:10",
+   "files": [
+    {
+     "name": "עטיפות למחברות 1.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
    "id": "gm-1a05c3c24cd3d127",
    "sender": "אתי",
    "text": "",
@@ -50,6 +69,25 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "ACFDFD22E49E92931AC275E7AAB02333",
+   "sender": "0526478257",
+   "text": "",
+   "ts": 1788253835000,
+   "date": "2026-09-01",
+   "time": "12:10",
+   "files": [
+    {
+     "name": "IMG-20260901-WA0010.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
   },
   {
    "id": "gm-1a05c3c1b72abd4b",
@@ -89,6 +127,948 @@
    "time": "12:25",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACF6EEBC7307F7ECC75A1F9B7861A3F7",
+   "sender": "0542232206",
+   "text": "אפשר בבקשה קישור לקבוצת הלכה א, ב, ואם יש לחנ\"מ?",
+   "ts": 1788257546000,
+   "date": "2026-09-01",
+   "time": "13:12",
+   "files": [],
+   "drive": null,
+   "phone": "972542232206"
+  },
+  {
+   "id": "AC4D3E0C36BFA3BD55E83DBC9370CBD9",
+   "sender": "0545765743",
+   "text": "אשמח גם לקישורלקבוצת משנה 🙏",
+   "ts": 1788257738000,
+   "date": "2026-09-01",
+   "time": "13:15",
+   "files": [],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "AC1ED1DFFCC64F16C844DF99C4814270",
+   "sender": "אלקנה שטראוס",
+   "text": "יש בתיאור הקבוצה",
+   "ts": 1788258275000,
+   "date": "2026-09-01",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC5A91C8EC32725748CDB758C8A73A78",
+   "sender": "0533413754",
+   "text": "לאיזו חוברת עבודה התכוונתם?",
+   "ts": 1788259142000,
+   "date": "2026-09-01",
+   "time": "13:39",
+   "files": [],
+   "drive": null,
+   "phone": "972533413754"
+  },
+  {
+   "id": "AC2A3E11F17E095D388009ACC392EB0B",
+   "sender": "0545765743",
+   "text": "איפה? אני לא רואה",
+   "ts": 1788259176000,
+   "date": "2026-09-01",
+   "time": "13:39",
+   "files": [],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "ACF07D7AAACE694C357BC71B7C45D666",
+   "sender": "אלקנה שטראוס",
+   "text": "https://docs.google.com/document/d/198B7_5CPebULCuO-nAGsnDI2zL6gk1s519mNQKytRW0/edit?tab=t.0",
+   "ts": 1788259450000,
+   "date": "2026-09-01",
+   "time": "13:44",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC223C659276323FEA66C5134B88AFD2",
+   "sender": "0524348057",
+   "text": "אשמח לתוכנית.לימודים בהלכהמ ובמשנה  לכיתה ג🙏",
+   "ts": 1788267206000,
+   "date": "2026-09-01",
+   "time": "15:53",
+   "files": [],
+   "drive": null,
+   "phone": "972524348057"
+  },
+  {
+   "id": "AC62BFBFB83483D0EC88197F9EB4A873",
+   "sender": "אלקנה שטראוס",
+   "text": "יש באתר. \nתכתבי בגוגל תושבע יסודי",
+   "ts": 1788267405000,
+   "date": "2026-09-01",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC04BBDCEB254CACBCF7E521B8C94C5C",
+   "sender": "0524348057",
+   "text": "halaha3.pdf https://share.google/Sw3Vb4IEUhexxzXbk",
+   "ts": 1788267446000,
+   "date": "2026-09-01",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "phone": "972524348057"
+  },
+  {
+   "id": "AC4A611228D10B720A1DA356FF80B298",
+   "sender": "0524348057",
+   "text": "זה נכון ? תודה",
+   "ts": 1788267469000,
+   "date": "2026-09-01",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "phone": "972524348057"
+  },
+  {
+   "id": "ACD767A63F2797A69B8D5F6CB8F99E08",
+   "sender": "0584006075",
+   "text": "איפה אפשר למצוא  מערכי שיעור לחוברת \"הלכות בהירות\"?",
+   "ts": 1788276972000,
+   "date": "2026-09-01",
+   "time": "18:36",
+   "files": [],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "ACF435284AF9ED84305790ACC7397277",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1788350099000,
+   "date": "2026-09-02",
+   "time": "14:54",
+   "files": [
+    {
+     "name": "pdf. מצגת חודש אלול - המלך בשדה - טייב רפאל",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "3EB0D347E47F5617E7D646",
+   "sender": "0534515774",
+   "text": "יש קבוצה אולי למשנה?",
+   "ts": 1788455307000,
+   "date": "2026-09-03",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972534515774"
+  },
+  {
+   "id": "ACE85E96FC0F557FC8C58892B1611092",
+   "sender": "0526478257",
+   "text": "https://docs.google.com/document/d/198B7_5CPebULCuO-nAGsnDI2zL6gk1s519mNQKytRW0/edit?tab=t.0",
+   "ts": 1788455545000,
+   "date": "2026-09-03",
+   "time": "20:12",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "3EB09ADD802B9EB5A3D439",
+   "sender": "0507788680",
+   "text": "משחק סיכום להקרנה בכיתה על שופר על פי הלכות בהירות",
+   "ts": 1788471314000,
+   "date": "2026-09-04",
+   "time": "00:35",
+   "files": [],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "3EB0E52C0DDBFF5BBCB17B",
+   "sender": "0507788680",
+   "text": "interactive_shofar_game.html",
+   "ts": 1788471315000,
+   "date": "2026-09-04",
+   "time": "00:35",
+   "files": [
+    {
+     "name": "interactive_shofar_game.html",
+     "size": "",
+     "type": "text/html",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "ACC51DDB47AD0BEEF5A74584459EF069",
+   "sender": "0533555158",
+   "text": "היי שבוע טוב\nלמי יש את הקישור של \nחוברת הלכה לתלמיד כיתה ג?",
+   "ts": 1788634198000,
+   "date": "2026-09-05",
+   "time": "21:49",
+   "files": [],
+   "drive": null,
+   "phone": "972533555158"
+  },
+  {
+   "id": "ACDBA74FE8F36FD54AAAA7C0565AEB67",
+   "sender": "0507788680",
+   "text": "יש באתר ויזדי. כרגע פתוח לכולם",
+   "ts": 1788635458000,
+   "date": "2026-09-05",
+   "time": "22:10",
+   "files": [],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "ACC576ED7F9B644E97C636700382C9DC",
+   "sender": "0528449256",
+   "text": "האם יש דף יפה לסימני ראש השנה לכיתה ג?",
+   "ts": 1788684131000,
+   "date": "2026-09-06",
+   "time": "11:42",
+   "files": [],
+   "drive": null,
+   "phone": "972528449256"
+  },
+  {
+   "id": "3EB071481C3563AA738AE0",
+   "sender": "0506730528",
+   "text": "[סקר]",
+   "ts": 1789013668000,
+   "date": "2026-09-10",
+   "time": "07:14",
+   "files": [],
+   "drive": null,
+   "phone": "972506730528"
+  },
+  {
+   "id": "AC8E78F4395BA6FB29A6057BDF191F44",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789018543000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "pdf. מצגת חודש אלול - המלך בשדה - טייב רפאל",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "ACF9329599036FED853C97ABBB859F85",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789018545000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "IMG-20260910-WA0003.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "ACE0E5F660494F4B6BD7090C4C4AE2CB",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789018546000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "IMG-20260910-WA0004.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "ACE692C38E54A715A56D3840FC6B3A66",
+   "sender": "0528063022",
+   "text": "קריאת התורה בראש השנה",
+   "ts": 1789018546000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC5CA6EB7A630F8FE576A48764679235",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789018547000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "IMG-20260910-WA0005.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC024C04926B4AA28D734F844F9DB932",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789018549000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "מצגת לשבת ראש השנה - טייב רפאל.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC06F7E852F728581C8D00D3978C0BFC",
+   "sender": "0528063022",
+   "text": "סימני החג",
+   "ts": 1789018550000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "IMG-20260910-WA0006.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "ACDDD5C3A59E13B7FE145D2E5971BBF5",
+   "sender": "0528063022",
+   "text": "להדפסה",
+   "ts": 1789018551000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "IMG-20260910-WA0007.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC9CE2DFDE7273AEDD57A8D5830D7D90",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789018552000,
+   "date": "2026-09-10",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "מצגת סודות סימני החג - טייב רפאל.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "3EB0445D887E56FF7B04B1",
+   "sender": "0528063022",
+   "text": "[סקר]",
+   "ts": 1789019050000,
+   "date": "2026-09-10",
+   "time": "08:44",
+   "files": [],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC9C28216B8BE954DB0FDFC6B72635FB",
+   "sender": "0546814518",
+   "text": "שבוע טוב\nאשמח לקישור לחומרים ליום כיפור\nתודה!",
+   "ts": 1789361622000,
+   "date": "2026-09-14",
+   "time": "07:53",
+   "files": [],
+   "drive": null,
+   "phone": "972546814518"
+  },
+  {
+   "id": "3EB0D826A549FE05E8349C",
+   "sender": "טחובר",
+   "text": "https://www.abita.co.il/lessons/%D7%99%D7%95%D7%9D-%D7%94%D7%9B%D7%99%D7%A4%D7%95%D7%A8%D7%99%D7%9D/\nשימי לב לסרגל המגוון בצד שמאל ולכך שיש מצגת מנוקדת ולא מנוקדת",
+   "ts": 1789362049000,
+   "date": "2026-09-14",
+   "time": "08:00",
+   "files": [],
+   "drive": null,
+   "phone": "972524578936"
+  },
+  {
+   "id": "3AB4D471E3C1B435A081",
+   "sender": "0584796845",
+   "text": "היי בוקר טוב\nאשמח לחומרי למידה על צום גדליה",
+   "ts": 1789364279000,
+   "date": "2026-09-14",
+   "time": "08:37",
+   "files": [],
+   "drive": null,
+   "phone": "972584796845"
+  },
+  {
+   "id": "AC1A192B021C56112243EC9215841BB2",
+   "sender": "0508488148",
+   "text": "https://www.youtube.com/watch?v=S2OaBYSU7P8&pp=ygUn16bXldedINeS15PXnNeZ15Qg16DXoiDXmdei16fXldeR16HXldef",
+   "ts": 1789364432000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "ACDC2BF8CE9CE68851D8F162622316D8",
+   "sender": "0508488148",
+   "text": "צום גדליה - מצגת, שיעור, וחומרי למידה - אביטה https://share.google/Z2Y7pBhHoO3o8cIWS",
+   "ts": 1789364433000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "AC93D79BA08A8373C6953CE5D95C3291",
+   "sender": "0508488148",
+   "text": "",
+   "ts": 1789364434000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "דף צום גדליה.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "AC29D9C45F97B11531CE6888AADC46B3",
+   "sender": "0508488148",
+   "text": "צום גדליה תשפא",
+   "ts": 1789364435000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "צום גדליה תשפא",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "AC9C5A6FC1AC24315FF4EC0B58CB8A20",
+   "sender": "0508488148",
+   "text": "",
+   "ts": 1789364435000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "צום גדליה.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "ACC88267510BDF8FADCBA4E790FDBC53",
+   "sender": "0508488148",
+   "text": "",
+   "ts": 1789364436000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "צום גדליה-1.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "ACE45C4B55870E1D249266EE8C79C610",
+   "sender": "0508488148",
+   "text": "",
+   "ts": 1789364436000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "צום גדליה .pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "ACC3EE11D16D248A20A057CEF8521E35",
+   "sender": "0508488148",
+   "text": "https://drive.google.com/folderview?id=0BwpslM9oBm3pTTlsSWd4UlluSFU&resourcekey=0-5NaGQ5lL7GJuRCu2Os1p-Q",
+   "ts": 1789364437000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972508488148"
+  },
+  {
+   "id": "3AAE1ECB4C7BA0286E44",
+   "sender": "0584796845",
+   "text": "תודה רבה!",
+   "ts": 1789364456000,
+   "date": "2026-09-14",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972584796845"
+  },
+  {
+   "id": "ACA6AEEDB3DC098F6C880477F3E1E9FA",
+   "sender": "0528020972",
+   "text": "בוקר טוב האם יש למשהו חידון /טריוויה על חגי תשרי לכיתות נמוכות א-ג?",
+   "ts": 1789364706000,
+   "date": "2026-09-14",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "phone": "972528020972"
+  },
+  {
+   "id": "AC3DECABF2E3BC04BD4C11F016D0D954",
+   "sender": "0548327980",
+   "text": "אשמח לחומרים על יום כיפור",
+   "ts": 1789364754000,
+   "date": "2026-09-14",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "phone": "972548327980"
+  },
+  {
+   "id": "AC00727DBE1B7C3224BF169A95A0EE21",
+   "sender": "0546056150",
+   "text": "אשמח לקישור של קבוצת הלכה לכיתה ה‘",
+   "ts": 1789393195000,
+   "date": "2026-09-14",
+   "time": "16:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546056150"
+  },
+  {
+   "id": "AC7546D703DDA999023B4A3417F29BD4",
+   "sender": "0546056150",
+   "text": "בבקשה😇",
+   "ts": 1789412086000,
+   "date": "2026-09-14",
+   "time": "21:54",
+   "files": [],
+   "drive": null,
+   "phone": "972546056150"
+  },
+  {
+   "id": "AC66F8A830BB38015B58FA1AB60BFA26",
+   "sender": "0502028311",
+   "text": "ערב טוב, מחפשת מצגת ליום כיפור שמתאימה לחוברת הלכה לתלמיד🙏",
+   "ts": 1789412207000,
+   "date": "2026-09-14",
+   "time": "21:56",
+   "files": [],
+   "drive": null,
+   "phone": "972502028311"
+  },
+  {
+   "id": "ACDA85E9156579D7FD86A339E040857A",
+   "sender": "אלקנה שטראוס",
+   "text": "בתיאור הקבוצה",
+   "ts": 1789483254000,
+   "date": "2026-09-15",
+   "time": "17:40",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC91606A1E4CD3E4007D362A2D602B69",
+   "sender": "0546056150",
+   "text": "תודה, לא ידעתי🌹",
+   "ts": 1789484037000,
+   "date": "2026-09-15",
+   "time": "17:53",
+   "files": [],
+   "drive": null,
+   "phone": "972546056150"
+  },
+  {
+   "id": "AC286D52800EEBAACBABB91C13051B12",
+   "sender": "0559611722",
+   "text": "שלום,\nאשמח למצגות סרטונים \nליום כיפור,כפרות, 5 האיסורים",
+   "ts": 1789576332000,
+   "date": "2026-09-16",
+   "time": "19:32",
+   "files": [],
+   "drive": null,
+   "phone": "972559611722"
+  },
+  {
+   "id": "AC9BA04E9BAEA91389553B523D186D80",
+   "sender": "0507788680",
+   "text": "",
+   "ts": 1789576721000,
+   "date": "2026-09-16",
+   "time": "19:38",
+   "files": [
+    {
+     "name": "Yom_Kippur_Radiant_Purity_(2).pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "AC1929D877F84739E16C58EDA962682C",
+   "sender": "0507788680",
+   "text": "",
+   "ts": 1789576724000,
+   "date": "2026-09-16",
+   "time": "19:38",
+   "files": [
+    {
+     "name": "Yom_Kippur_Journey.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "ACFEFB79C6B8F5A8D7B5102B33C5D840",
+   "sender": "0507788680",
+   "text": "yom_kippur_prayers_worksheet.pdf",
+   "ts": 1789576724000,
+   "date": "2026-09-16",
+   "time": "19:38",
+   "files": [
+    {
+     "name": "yom_kippur_prayers_worksheet.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "ACF8FF54167AB1BAA017B2D6E6F53D19",
+   "sender": "0507788680",
+   "text": "yom_kippur_worksheet_single_page.pdf",
+   "ts": 1789576745000,
+   "date": "2026-09-16",
+   "time": "19:39",
+   "files": [
+    {
+     "name": "yom_kippur_worksheet_single_page.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "AC446DFAD5732247A3FF3BA7D1970CB1",
+   "sender": "0559611722",
+   "text": "תודה רבה",
+   "ts": 1789576762000,
+   "date": "2026-09-16",
+   "time": "19:39",
+   "files": [],
+   "drive": null,
+   "phone": "972559611722"
+  },
+  {
+   "id": "AC1A3D2997D8096C23FBCF85FA3C267F",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576882000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "IMG-20260916-WA0047.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC3F57A8FF6663BDDFF2DCB0EA98907A",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576882000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "IMG-20260916-WA0046.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC2DD3F9705E8E40ED08BF88E6162FCB",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576890000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "מצגת 1 יום כיפור - טייב רפאל.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC0EEDA40B36B89805A40E2649E8F1B4",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576891000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "מצגת 1 חג הסוכות - טייב רפאל.pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC38BDA134B66CB83308FE8FA0EED516",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576892000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "IMG-20260916-WA0048.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC0A0220993C9E9BE3484560B0908127",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576893000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "IMG-20260916-WA0050.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "ACF61F04A78EC32B6EFF4F9B11563134",
+   "sender": "0528063022",
+   "text": "",
+   "ts": 1789576893000,
+   "date": "2026-09-16",
+   "time": "19:41",
+   "files": [
+    {
+     "name": "IMG-20260916-WA0049.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "3EB0B4A0A2B5FF36C18AFF",
+   "sender": "0559611722",
+   "text": "יש על כפרות?",
+   "ts": 1789577780000,
+   "date": "2026-09-16",
+   "time": "19:56",
+   "files": [],
+   "drive": null,
+   "phone": "972559611722"
+  },
+  {
+   "id": "AC5BFB45E81129F730D150833B3813D8",
+   "sender": "0546814518",
+   "text": "חומרים לסוכות למי יש?",
+   "ts": 1789587871000,
+   "date": "2026-09-16",
+   "time": "22:44",
+   "files": [],
+   "drive": null,
+   "phone": "972546814518"
+  },
+  {
+   "id": "3EB0CA301AE319A6DE11B2",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "תיכנס כאן לאתר\nhttps://sites.google.com/view/yuda-taub-parashat-hashavua/%D7%A7%D7%98%D7%9C%D7%95%D7%92-%D7%94%D7%90%D7%AA%D7%A8?authuser=0\nותבחר קטלוג האתר - ותכתוב סוכות יש ים של חומרים",
+   "ts": 1789588881000,
+   "date": "2026-09-16",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527139520"
+  },
+  {
+   "id": "ACE821B33C1A691C4F9C37C6041EF0DD",
+   "sender": "0507303864",
+   "text": "א עד ת חגים (1).pdf",
+   "ts": 1789591827000,
+   "date": "2026-09-16",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "א עד ת חגים (1).pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+    }
+   ],
+   "drive": null,
+   "phone": "972507303864"
   },
   {
    "id": "gm-1a0abfc4dc56bf69",
