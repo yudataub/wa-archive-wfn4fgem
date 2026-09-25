@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T05:37:22.399Z",
+ "updated": "2026-09-25T05:44:22.512Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1108,6 +1108,37 @@
    ],
    "drive": null,
    "phone": "972543355830"
+  },
+  {
+   "id": "3ADC81C0DC3201A7317C",
+   "sender": "Tal Levi Holder",
+   "text": "נשאר סכך לאסוף מאיפשהו ?",
+   "ts": 1790314903000,
+   "date": "2026-09-25",
+   "time": "08:41",
+   "files": [],
+   "drive": null,
+   "phone": "972505965747"
+  },
+  {
+   "id": "ACC7AA545650D08910456F5E8C93699A",
+   "sender": "🫡",
+   "text": "🍋🍂 מתחדשים לכבוד חג הסוכות! 🍂🍋\n\nהחג כבר כאן – וזה הזמן להיכנס לפסיפלורה ולהתחדש בנעליים חדשות 👟✨\n\n*מבחר ענק הכי גדול בצפון לילדים נערות ונשים*\nדגמים חגיגיים, נוחים ואיכותיים לשבת ויום יום\nאל תחכו לרגע האחרון..\n❗*מכבדים איימיש כארד גיפטא כארד שופ ונדרים*❗\n *מחכים לכם בפסיפלורה* 😊\n\nקניון תימורה ק.אתא קומת כניסה *פתוח רצוף עד 23:00*\n0553165459",
+   "ts": 1790315056000,
+   "date": "2026-09-25",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PaKvus43W5OyjK7MMemRdHyni-nDdF-l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PaKvus43W5OyjK7MMemRdHyni-nDdF-l&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546760845"
   }
  ]
 }

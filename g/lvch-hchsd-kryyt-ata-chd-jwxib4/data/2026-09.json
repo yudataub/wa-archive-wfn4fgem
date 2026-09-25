@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-25T05:35:52.382Z",
+ "updated": "2026-09-25T05:44:22.504Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3423,7 +3423,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1nL2ZXYrAST6b0OVkrFNLWqd4MrSK16FB/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1nL2ZXYrAST6b0OVkrFNLWqd4MrSK16FB&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1nL2ZXYrAST6b0OVkrFNLWqd4MrSK16FB&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-09/AC8720C361C98C1F0A5D88438AC9347F_0.mp4"
     }
    ],
    "drive": null,
@@ -3448,6 +3449,48 @@
    ],
    "drive": null,
    "phone": "972503993998"
+  },
+  {
+   "id": "AC38FABD520ED4B4431738C652221F49",
+   "sender": "ניסים",
+   "text": "📇 יוסף יצחק קסלסי\n+972543293932",
+   "ts": 1790314712000,
+   "date": "2026-09-25",
+   "time": "08:38",
+   "files": [],
+   "drive": null,
+   "phone": "972539623152"
+  },
+  {
+   "id": "AC2261F5D19B016F06E4650044297B4B",
+   "sender": "ניסים",
+   "text": "📇 איש קשר הרב ביסמוט\n+972502233224",
+   "ts": 1790314755000,
+   "date": "2026-09-25",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972539623152"
+  },
+  {
+   "id": "AC3C8AC3E1A5F7C3793A5B8902BE652C",
+   "sender": "🫡",
+   "text": "🍋🍂 מתחדשים לכבוד חג הסוכות! 🍂🍋\n\nהחג כבר כאן – וזה הזמן להיכנס לפסיפלורה ולהתחדש בנעליים חדשות 👟✨\n\n*מבחר ענק הכי גדול בצפון לילדים נערות ונשים*\nדגמים חגיגיים, נוחים ואיכותיים לשבת ויום יום\nאל תחכו לרגע האחרון..\n❗*מכבדים איימיש כארד גיפטא כארד שופ ונדרים*❗\n *מחכים לכם בפסיפלורה* 😊\n\nקניון תימורה ק.אתא קומת כניסה *פתוח רצוף עד 23:00*\n0553165459",
+   "ts": 1790315042000,
+   "date": "2026-09-25",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BOjm7XZBdXDe0UYRP3MQflA9F3WeLqH2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BOjm7XZBdXDe0UYRP3MQflA9F3WeLqH2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546760845"
   }
  ]
 }

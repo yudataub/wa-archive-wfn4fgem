@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-25T05:27:52.277Z",
+ "updated": "2026-09-25T05:43:22.479Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -452,6 +452,26 @@
    ],
    "drive": null,
    "phone": "972547592414"
+  },
+  {
+   "id": "AC59C6BD1F7E721DDDF1BBA125E4CFA6",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790314986000,
+   "date": "2026-09-25",
+   "time": "08:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "278KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mlI89iZ5sRRRRH5cmtmNSNVig7k7rSBG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mlI89iZ5sRRRRH5cmtmNSNVig7k7rSBG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }
