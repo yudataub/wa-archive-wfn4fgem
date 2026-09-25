@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משוחררי קרית אתא",
- "updated": "2026-09-23T13:49:09.496Z",
+ "updated": "2026-09-25T09:46:39.995Z",
  "messages": [
   {
    "id": "3EB0AD79525D74A9D49464",
@@ -53,6 +53,26 @@
    "files": [],
    "drive": null,
    "phone": "972528114222"
+  },
+  {
+   "id": "3A3B4D294CE2B15E1DBA",
+   "sender": "ורד",
+   "text": "",
+   "ts": 1790329590000,
+   "date": "2026-09-25",
+   "time": "12:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BQP3T9SAF4cwAqBFl0ny6pE2Q5Ha2SG2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BQP3T9SAF4cwAqBFl0ny6pE2Q5Ha2SG2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524527065"
   }
  ]
 }

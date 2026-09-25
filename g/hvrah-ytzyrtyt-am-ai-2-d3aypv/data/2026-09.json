@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-25T08:13:47.886Z",
+ "updated": "2026-09-25T09:37:54.526Z",
  "messages": [
   {
    "id": "3EB0D26ABC8BBA9BE3DD66",
@@ -307,6 +307,26 @@
    ],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "ACFEAFDB4823ABE91365AAE1618B301C",
+   "sender": "יעלה אגאי",
+   "text": "",
+   "ts": 1790329050000,
+   "date": "2026-09-25",
+   "time": "12:37",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "398KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1pteikFYe1FBZhchsjcHHBZCoWOCKUcab/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pteikFYe1FBZhchsjcHHBZCoWOCKUcab&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587878729"
   }
  ]
 }

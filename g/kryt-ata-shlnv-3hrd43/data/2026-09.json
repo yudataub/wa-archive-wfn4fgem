@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T09:34:54.177Z",
+ "updated": "2026-09-25T09:40:09.895Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1471,6 +1471,26 @@
    ],
    "drive": null,
    "phone": "972549085368"
+  },
+  {
+   "id": "3EB0F1AD740D41EFA3D269",
+   "sender": "קופת החסד קריית אתא ביט",
+   "text": "מאמצים אושפיזין יום אחד בחג – ומכניסים את הבורא לסוכה!  \n\n​בחג הסוכות הזה, דואגים שלכל משפחה בעיר תהיה סעודת חג מכובדת ושמחה.\n  \n​\n​🍽️ סעודה לאושפיזין אחד: 100 ₪  \n​👨‍👩‍👧‍👦 סעודה למשפחה: 250 ₪  \n​🍷 סעודה בהרחבה: 450 ₪  \n​זוכים לקיים את המצווה כהלכתה ולזכות לשמחה ולשפע מרובה לכל השנה! 🌾🙏\n\n​👉 לתרומה מאובטחת בלחיצה אחת:\nhttps://nedar.im/MLwe\n​📞 ניתן לתרום גם בטלפון: 04-844-1400",
+   "ts": 1790329184000,
+   "date": "2026-09-25",
+   "time": "12:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G0ry4y_PHNu4NpUHTirhuDy6TZOtnKw7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G0ry4y_PHNu4NpUHTirhuDy6TZOtnKw7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553087073"
   }
  ]
 }

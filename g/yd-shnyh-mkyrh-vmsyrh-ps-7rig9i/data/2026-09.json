@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-24T11:28:11.486Z",
+ "updated": "2026-09-25T09:40:39.883Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -709,6 +709,26 @@
    ],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "3AB8969AC391E1915B74",
+   "sender": "אסף",
+   "text": "תקליט ירושלים של זהב - שירי מלחמת ששת הימים 80₪",
+   "ts": 1790329222000,
+   "date": "2026-09-25",
+   "time": "12:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VonDDasLCNUw7XbnPVMairzyzZLsRWLA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VonDDasLCNUw7XbnPVMairzyzZLsRWLA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }
