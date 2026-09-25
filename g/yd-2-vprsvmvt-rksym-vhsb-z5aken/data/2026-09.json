@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-24T21:53:53.909Z",
+ "updated": "2026-09-25T04:39:36.701Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5050,6 +5050,26 @@
    ],
    "drive": null,
    "phone": "972559587941"
+  },
+  {
+   "id": "ACA4E0570B00541BA8BEEEE776C4014F",
+   "sender": "מיכאל אזרד",
+   "text": "מארזי מוצרי טיפוח אחרונים 0548560230 שבת שלום וחג שמח",
+   "ts": 1790311146000,
+   "date": "2026-09-25",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SNpd-E8Lgc8pbd0Y8BzQ-7Dzpjrkloz1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SNpd-E8Lgc8pbd0Y8BzQ-7Dzpjrkloz1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504231888"
   }
  ]
 }
