@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-25T11:13:11.119Z",
+ "updated": "2026-09-25T11:35:41.411Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5408,6 +5408,26 @@
    ],
    "drive": null,
    "phone": "972555695080"
+  },
+  {
+   "id": "2A8D1E7ED01AFD2D7DD6",
+   "sender": "דבח מאור סוכנות גז",
+   "text": "",
+   "ts": 1790336133000,
+   "date": "2026-09-25",
+   "time": "14:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ridpN7QuCc_pq7NZgwWv3D0TInnsmJ8Y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ridpN7QuCc_pq7NZgwWv3D0TInnsmJ8Y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544488800"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם",
- "updated": "2026-09-25T11:08:53.209Z",
+ "updated": "2026-09-25T11:32:07.910Z",
  "messages": [
   {
    "id": "gm-1a05b0fd61a0e542",
@@ -7172,6 +7172,37 @@
    "files": [],
    "drive": null,
    "phone": "972522376845"
+  },
+  {
+   "id": "ACCB66DEFF33ABB4E9F60F6041D1D1F2",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790335899000,
+   "date": "2026-09-25",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lzeA1GDbSNY90_RD2cS6sHDirxCr7v4R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lzeA1GDbSNY90_RD2cS6sHDirxCr7v4R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC48312052C5CB10FE0C00BD1914E195",
+   "sender": "אורלי אוחנה",
+   "text": "☝️תשלחו זאת בבקשה בקבוצת ההורים.",
+   "ts": 1790335915000,
+   "date": "2026-09-25",
+   "time": "14:31",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }

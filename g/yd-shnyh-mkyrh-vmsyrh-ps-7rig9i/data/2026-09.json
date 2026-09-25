@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-25T09:40:39.883Z",
+ "updated": "2026-09-25T11:35:11.399Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -729,6 +729,57 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "AC5FD6DD6C0BF2B693B4BD94256F6D2F",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' של ENVISION עם חיבורי DVI / VGA במצב מצוין. 150 ש\"ח*",
+   "ts": 1790335847000,
+   "date": "2026-09-25",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Zt5IEB9WGYTle79FvTlYbPMTejlQiCte/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Zt5IEB9WGYTle79FvTlYbPMTejlQiCte&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "3A42A5962CFE9648466B",
+   "sender": "תיקי שניאור",
+   "text": "",
+   "ts": 1790336089000,
+   "date": "2026-09-25",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "242KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UzYF2a_GZiLxiL3qW2Eh00GM5buERwpA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UzYF2a_GZiLxiL3qW2Eh00GM5buERwpA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525113309"
+  },
+  {
+   "id": "3A77024A4B9CA8F0ED21",
+   "sender": "תיקי שניאור",
+   "text": "מחליק שיער יפני מחיר מציאה חדש מהקופסה , כל הקודם זוכה 🏅 \nפרטים בפרטי..",
+   "ts": 1790336109000,
+   "date": "2026-09-25",
+   "time": "14:35",
+   "files": [],
+   "drive": null,
+   "phone": "972525113309"
   }
  ]
 }

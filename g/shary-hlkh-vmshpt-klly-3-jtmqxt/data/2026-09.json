@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-25T11:27:11.297Z",
+ "updated": "2026-09-25T11:32:11.354Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -3726,6 +3726,59 @@
    "files": [],
    "drive": null,
    "phone": "972502310077"
+  },
+  {
+   "id": "ACA610A292BC789C8152101D6DA1C064",
+   "sender": ".",
+   "text": "שלום לרב\nמכונת כביסה התקלקלה\nוצריך לקנות חדשה \nהאם אפשר לקנות בחול המועד או לחכות אחרי החג?",
+   "ts": 1790335877000,
+   "date": "2026-09-25",
+   "time": "14:31",
+   "files": [],
+   "drive": null,
+   "phone": "972509777597"
+  },
+  {
+   "id": "AC3DD2A077CB80EC40AAB8A21F4E43BF",
+   "sender": "Ezra shemesh",
+   "text": "כה\"ר אם יש לי בתוך הסוכה הליכון ומנגל גריל אם זה בעיה? (פשוט אני עושה סוכה אם השכן והוא לא רוצה להוציא השאלה אם יש בזה בעיה )",
+   "ts": 1790335904000,
+   "date": "2026-09-25",
+   "time": "14:31",
+   "files": [],
+   "drive": null,
+   "phone": "972534210713"
+  },
+  {
+   "id": "AC80B78910B744D165EA6819EE74BBBF",
+   "sender": "תפארת קופלוביץ",
+   "text": "",
+   "ts": 1790335915000,
+   "date": "2026-09-25",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q_Pl2Ongr39L6hlN6IIyE9PIKzEf2Fvm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q_Pl2Ongr39L6hlN6IIyE9PIKzEf2Fvm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548951101"
+  },
+  {
+   "id": "ACF1FDAF22CA0F55300D277FD0388420",
+   "sender": "תפארת קופלוביץ",
+   "text": "חביתה עם סוגיי גבינות מגורדות",
+   "ts": 1790335916000,
+   "date": "2026-09-25",
+   "time": "14:31",
+   "files": [],
+   "drive": null,
+   "phone": "972548951101"
   }
  ]
 }
