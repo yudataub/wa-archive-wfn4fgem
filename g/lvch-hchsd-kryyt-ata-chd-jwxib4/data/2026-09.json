@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-25T05:18:52.126Z",
+ "updated": "2026-09-25T05:35:52.382Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3408,6 +3408,46 @@
    "files": [],
    "drive": null,
    "phone": "972528715167"
+  },
+  {
+   "id": "AC8720C361C98C1F0A5D88438AC9347F",
+   "sender": "צוקי",
+   "text": "*סוכה פשוטה!*\n*\"שבת סוכות\"*\n*הרב לירון מור שליט\"א*\nhttps://youtu.be/5EiddomXV9M\n *בברכת שבת שלום וחג סוכות שמח🥳🌹*\n📱 *להצטרפות לקבוצה (השקטה) של הרב לירון מור 👇*",
+   "ts": 1790314274000,
+   "date": "2026-09-25",
+   "time": "08:31",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1nL2ZXYrAST6b0OVkrFNLWqd4MrSK16FB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nL2ZXYrAST6b0OVkrFNLWqd4MrSK16FB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477179"
+  },
+  {
+   "id": "3A56A3B3F1DDE9B97910",
+   "sender": "דוד אילוז",
+   "text": "סטים כשרים ב60 ש״ח אחרונים ליד חנות בקתת העור הזדרזו",
+   "ts": 1790314536000,
+   "date": "2026-09-25",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "344KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VTzjztim0wfQBRAQI55N4iNE2hUltFLt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VTzjztim0wfQBRAQI55N4iNE2hUltFLt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503993998"
   }
  ]
 }

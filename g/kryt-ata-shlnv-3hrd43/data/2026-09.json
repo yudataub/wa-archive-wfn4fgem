@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T04:31:36.567Z",
+ "updated": "2026-09-25T05:37:22.399Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1088,6 +1088,26 @@
    ],
    "drive": null,
    "phone": "972525000559"
+  },
+  {
+   "id": "AC40B5AB16EE266E4FB093215014C336",
+   "sender": "hanoh",
+   "text": "",
+   "ts": 1790314612000,
+   "date": "2026-09-25",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "91KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1nnR_ZMGZcwBAZ8DnmM_1nbtoHL_4OGir/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nnR_ZMGZcwBAZ8DnmM_1nbtoHL_4OGir&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543355830"
   }
  ]
 }

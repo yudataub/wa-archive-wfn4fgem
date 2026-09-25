@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-24T17:22:02.133Z",
+ "updated": "2026-09-25T05:27:52.277Z",
  "messages": [
   {
    "id": "AC6521CC27877FD903491D22691B715A",
@@ -432,6 +432,26 @@
    "files": [],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "AC282ECF60A7D7A537E51B59A2B65529",
+   "sender": "Avishai Melamed",
+   "text": "",
+   "ts": 1790314058000,
+   "date": "2026-09-25",
+   "time": "08:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YwEN4JkXTw2Wze1xlFPUiQ6W1WqIaQtM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YwEN4JkXTw2Wze1xlFPUiQ6W1WqIaQtM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547592414"
   }
  ]
 }
