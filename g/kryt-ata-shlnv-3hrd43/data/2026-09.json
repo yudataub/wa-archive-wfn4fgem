@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T13:00:00.619Z",
+ "updated": "2026-09-25T13:12:30.779Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35095,11 +35095,43 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1oYhMLjylohI60OoN_uBmHy7D90i3cbT_/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1oYhMLjylohI60OoN_uBmHy7D90i3cbT_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1oYhMLjylohI60OoN_uBmHy7D90i3cbT_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/A506235FF4BA7EA800D999BCBE9E3854_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972555588218"
+  },
+  {
+   "id": "A514C72940590693D1C4BEBA4A84AEA2",
+   "sender": "טלאור אילוז ציפורניים",
+   "text": "0545891911\nיש לו תתקשרי",
+   "ts": 1790341737000,
+   "date": "2026-09-25",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972555574177"
+  },
+  {
+   "id": "AC333A0AAA2AE47025DF8D31E1B28697",
+   "sender": "שמואל מלול",
+   "text": "",
+   "ts": 1790341926000,
+   "date": "2026-09-25",
+   "time": "16:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I5Y4IZQMnBhd8B31PYBhXOIB0lIoZyyn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I5Y4IZQMnBhd8B31PYBhXOIB0lIoZyyn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }

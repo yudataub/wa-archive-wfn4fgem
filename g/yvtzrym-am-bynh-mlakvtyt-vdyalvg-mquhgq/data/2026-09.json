@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T13:06:13.935Z",
+ "updated": "2026-09-25T13:17:44.126Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27379,6 +27379,48 @@
    "files": [],
    "drive": null,
    "phone": "972587878729"
+  },
+  {
+   "id": "AC1AA0B7063355DDAFAF4CB8B422417D",
+   "sender": "שביט בר-און",
+   "text": "",
+   "ts": 1790341767000,
+   "date": "2026-09-25",
+   "time": "16:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vTmBHZEyPF1XUlEkhj1MbWfAH78MY0AH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vTmBHZEyPF1XUlEkhj1MbWfAH78MY0AH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549980090"
+  },
+  {
+   "id": "3EB03624E5E2F7B69AB53B",
+   "sender": "ווקי שרון מרגולין",
+   "text": "תודה רבה ליובל ששיתף בזה.\nכמה חשוב להיות אמיתי וישר ולא לפחד מאיזו סטיגמה עליך, כדי להזהיר את כולם",
+   "ts": 1790342239000,
+   "date": "2026-09-25",
+   "time": "16:17",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0F025F9E5926FAFBF63",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אלוף",
+   "ts": 1790342240000,
+   "date": "2026-09-25",
+   "time": "16:17",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }
