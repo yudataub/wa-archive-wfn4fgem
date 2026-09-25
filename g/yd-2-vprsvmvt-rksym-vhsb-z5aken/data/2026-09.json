@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-25T08:17:34.173Z",
+ "updated": "2026-09-25T08:38:16.629Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5357,6 +5357,26 @@
    "files": [],
    "drive": null,
    "phone": "972555530767"
+  },
+  {
+   "id": "ACBAA998F948477C41543E717B4A6EF9",
+   "sender": "ברוך אדרי",
+   "text": "חג שמח 🥳",
+   "ts": 1790325477000,
+   "date": "2026-09-25",
+   "time": "11:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lZKVB-BCuTmqP9TJ8vuWSfXGbVPfM4ts/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lZKVB-BCuTmqP9TJ8vuWSfXGbVPfM4ts&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553044700"
   }
  ]
 }

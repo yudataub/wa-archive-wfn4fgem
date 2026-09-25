@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-25T08:17:34.190Z",
+ "updated": "2026-09-25T08:47:16.745Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -1803,6 +1803,46 @@
    "date": "2026-09-25",
    "time": "11:17",
    "files": [],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB0C2E6264D768C95A144",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "קידוש השם! איש החסד אליהו גוטמן מחב”ד בנה סוכה לזמר אביב גפן בביתו שבתל אביב\nAviv Geffen עזר  לחייל | ezer lachayal Dylan Geffen",
+   "ts": 1790325985000,
+   "date": "2026-09-25",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/190ay-DyTjNz_Oj9VIsSPhrjMIiKtj0OG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=190ay-DyTjNz_Oj9VIsSPhrjMIiKtj0OG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB0C2233DE7DFDEC4EBEC",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "*שבת שלום וחג שמח.   זה אלקנה נחמני מגבעת אור מאיר.*\n\nבחודשים האחרונים ברוך ה' הגבעה גדלה מאוד – פרסנו קווי מים, פרצנו שבילי ביטחון, הרחבנו נטיעות והפעילות בשטח הולכת ומתרחבת.\n\n*אבל יחד עם ההתקדמות, ההוצאות השוטפות נהיו כבדות. רק הסולר לריינג'ר, שמשמש אותנו יום־יום לסיורים ולעבודה בגבעה, עולה כ־2,500 ₪ בכל חודש.*\n\n*אז החלטנו ללכת על יעד פשוט:*\n50 אנשים שייקחו על עצמם 50 ₪ בחודש – וככה יחד נכסה את הדלק לריינג'ר באופן קבוע.\n\nחסרים לנו עכשיו השותפים שישלימו את היעד, ואשמח מאוד אם תהיה אחד מהם 🙏\n\n*מצטרפים ב־50 ₪ לחודש כאן:*\nhttps://noarhagevaot.co.il/give/or-meir?a=132\n\nאפשר כמובן לבחור גם סכום אחר או תרומה חד פעמית.\n\nתודה מראש, אלקנה",
+   "ts": 1790326003000,
+   "date": "2026-09-25",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "18.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TkFoxcg5LAfm9h8-WN7bEart_Ub3w2td/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TkFoxcg5LAfm9h8-WN7bEart_Ub3w2td&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534372917"
   }

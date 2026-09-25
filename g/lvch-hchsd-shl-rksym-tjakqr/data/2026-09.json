@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-25T08:09:04.031Z",
+ "updated": "2026-09-25T08:46:16.738Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -3890,6 +3890,37 @@
    "ts": 1790323730000,
    "date": "2026-09-25",
    "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972535869492"
+  },
+  {
+   "id": "ACCD951D87490048E07EB1572AEDCFE9",
+   "sender": "ברוך אדרי",
+   "text": "חג שמח 🥳",
+   "ts": 1790325456000,
+   "date": "2026-09-25",
+   "time": "11:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_GW5JRcaS3zp8SpzA7cKUbOb184BFzBR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_GW5JRcaS3zp8SpzA7cKUbOb184BFzBR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553044700"
+  },
+  {
+   "id": "AC68185CB59D6ACC323F0BEE3B403CFC",
+   "sender": "Moshe",
+   "text": "כרגיל בערב חג ניידות ברכסים שימו לב",
+   "ts": 1790325977000,
+   "date": "2026-09-25",
+   "time": "11:46",
    "files": [],
    "drive": null,
    "phone": "972535869492"
