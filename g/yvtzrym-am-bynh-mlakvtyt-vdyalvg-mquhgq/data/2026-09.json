@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T14:42:45.469Z",
+ "updated": "2026-09-25T14:54:45.669Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27604,6 +27604,26 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "A51506BFC82F4B98FA2C1C8328123391",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "תודה רבה וד\"ש מאליעזר בן יהודה.",
+   "ts": 1790348081000,
+   "date": "2026-09-25",
+   "time": "17:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "821KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17GQp3NTwLBlMBFGjyUKcd8GVnCgsJnRm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17GQp3NTwLBlMBFGjyUKcd8GVnCgsJnRm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526016115"
   }
  ]
 }
