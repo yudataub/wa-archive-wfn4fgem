@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-25T11:46:39.957Z",
+ "updated": "2026-09-25T13:07:30.715Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -7488,6 +7488,37 @@
    "files": [],
    "drive": null,
    "phone": "972527004699"
+  },
+  {
+   "id": "ACACEA1B7EFA2F1D0E69EE6E7261A857",
+   "sender": "אורלי",
+   "text": "",
+   "ts": 1790341596000,
+   "date": "2026-09-25",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "56KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1yP98IxEWmflzIGMk-K3AzO2wSvjHceE4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yP98IxEWmflzIGMk-K3AzO2wSvjHceE4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547575312"
+  },
+  {
+   "id": "A5D4D9AA2E5B83714E01A1A9120081E2",
+   "sender": "אליהו סרוסי",
+   "text": "יש למישהו מקרר קטן להשאיל לחג סוכות",
+   "ts": 1790341652000,
+   "date": "2026-09-25",
+   "time": "16:07",
+   "files": [],
+   "drive": null,
+   "phone": "972503004242"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-25T12:24:50.979Z",
+ "updated": "2026-09-25T13:01:00.626Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -8950,6 +8950,46 @@
    ],
    "drive": null,
    "phone": "972522916682"
+  },
+  {
+   "id": "A5AE661B1D905104FA794E945F383A6E",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "",
+   "ts": 1790341180000,
+   "date": "2026-09-25",
+   "time": "15:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12ZqsGiBbvh7Sbua5SESW0yP5s0TlYo48/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12ZqsGiBbvh7Sbua5SESW0yP5s0TlYo48&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508733084"
+  },
+  {
+   "id": "A5E020F16518E08887CDAD48956A18CB",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "",
+   "ts": 1790341228000,
+   "date": "2026-09-25",
+   "time": "16:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X9DNLGHeZ3rkyLLNFWVrX_vKXp5mljVm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X9DNLGHeZ3rkyLLNFWVrX_vKXp5mljVm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508733084"
   }
  ]
 }

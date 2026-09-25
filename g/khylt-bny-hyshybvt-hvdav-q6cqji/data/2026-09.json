@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-25T12:17:50.859Z",
+ "updated": "2026-09-25T13:03:30.664Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -7622,6 +7622,26 @@
    "files": [],
    "drive": null,
    "phone": "972556630746"
+  },
+  {
+   "id": "AC590BEBCBA5554783467A94AEFE19B6",
+   "sender": "בני קרמר",
+   "text": "זמני התפילות חג הסוכות - בית הכנסת דרך אמונה \n\nתיקון טעות\nמעריב ליל החג בשעה: 19:02",
+   "ts": 1790341394000,
+   "date": "2026-09-25",
+   "time": "16:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E2QAmWwO7OV5EHaF8iRG494fMLMkZjjh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E2QAmWwO7OV5EHaF8iRG494fMLMkZjjh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

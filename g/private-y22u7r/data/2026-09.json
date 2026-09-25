@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-25T12:34:51.112Z",
+ "updated": "2026-09-25T13:01:00.647Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -30258,6 +30258,18 @@
    ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC8E0AA430819EF500F5BC0B1CABB1DB",
+   "sender": "בלייך צבי",
+   "text": "https://www.facebook.com/share/r/1C1FVUwMs9/",
+   "ts": 1790341246000,
+   "date": "2026-09-25",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "thread": "בלייך צבי",
+   "phone": "972524723034"
   }
  ]
 }

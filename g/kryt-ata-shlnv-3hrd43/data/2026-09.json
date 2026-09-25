@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T12:46:51.301Z",
+ "updated": "2026-09-25T13:00:00.619Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35080,6 +35080,26 @@
    "files": [],
    "drive": null,
    "phone": "972533614260"
+  },
+  {
+   "id": "A506235FF4BA7EA800D999BCBE9E3854",
+   "sender": "פרוטלה Fruitella",
+   "text": "חג שמח לכולם❤️🤍",
+   "ts": 1790341182000,
+   "date": "2026-09-25",
+   "time": "15:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1oYhMLjylohI60OoN_uBmHy7D90i3cbT_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oYhMLjylohI60OoN_uBmHy7D90i3cbT_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555588218"
   }
  ]
 }
