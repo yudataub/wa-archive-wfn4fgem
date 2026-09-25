@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-25T13:27:44.300Z",
+ "updated": "2026-09-25T13:35:14.464Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -3743,6 +3743,37 @@
    "files": [],
    "drive": null,
    "phone": "19542978097"
+  },
+  {
+   "id": "3EB04A4BA3B6D4A9242F45",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כן בדיוק ככה",
+   "ts": 1790342999000,
+   "date": "2026-09-25",
+   "time": "16:29",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB06A468F132FB8DAB5AA",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790343297000,
+   "date": "2026-09-25",
+   "time": "16:34",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1u7Nj8HItnRw9OCf5vyd5fpW1Npo1jXuq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1u7Nj8HItnRw9OCf5vyd5fpW1Npo1jXuq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }

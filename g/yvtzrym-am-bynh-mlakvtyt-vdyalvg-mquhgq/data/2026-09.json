@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T13:26:14.271Z",
+ "updated": "2026-09-25T13:35:14.430Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27477,6 +27477,26 @@
    "files": [],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "3EB0BAB7CBA52DD1F4F56A",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790343293000,
+   "date": "2026-09-25",
+   "time": "16:34",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1lEZvbe4Lm4lslfMpNoS2PgDigZyc0AP0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lEZvbe4Lm4lslfMpNoS2PgDigZyc0AP0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }

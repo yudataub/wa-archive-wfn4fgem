@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מזכי הרבים",
- "updated": "2026-09-25T13:18:30.867Z",
+ "updated": "2026-09-25T13:30:31.055Z",
  "messages": [
   {
    "id": "2A2E7A4B623E5587812C",
@@ -2936,6 +2936,45 @@
    "files": [],
    "drive": null,
    "phone": "972515440631"
+  },
+  {
+   "id": "3EB0A92D402A795A347B46",
+   "sender": "רועי כהן",
+   "text": "*חברים יקרים!*\nאני שמח וגאה לשתף אתכם בפרויקט שעבדתי עליו - וכעת הוא זמין *להורדה ולהפצה בחינם לכל מי שרוצה!*\n\n🏛️ *בית המקדש - בזווית אחרת*\nמוזמנים לצאת למסע חווייתי אל *ירושלים הקדומה ובית המקדש* - לפגוש דמויות, להסתובב בין המקומות, ולגלות סיפורים בדרך קצת אחרת...\nוהכול ישירות דרך הטלפון שלכם. 📱\n📱 האפליקציה מיועדת לטלפוני Android תואמים.\n📖 מצורפות הוראות התקנה. מומלץ להתחיל ב-*\"מתחילים כאן\"* ולעקוב אחר השלבים.\n📥 גודל ההורדה הוא כ-2.4 ג״ב, לכן מומלץ להוריד באמצעות Wi-Fi.\n\n🔗 *קישור להורדה:*\nhttps://drive.google.com/file/d/1PvrAlP9MyTP5WJUc103JXCZv9Kk6BSEO/view?usp=sharing\nמוזמנים כמובן *להעביר ולשתף עם חברים ואנשים נוספים*.\nאשמח מאוד לשמוע תגובות, הערות, רעיונות והצעות לשיפור.\n*סיור מהנה! 🏛️*",
+   "ts": 1790343005000,
+   "date": "2026-09-25",
+   "time": "16:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GH3SBsVaFUq4SWX8jid0Z_RUP9urqkKT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GH3SBsVaFUq4SWX8jid0Z_RUP9urqkKT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3EB01F6F68C2843D1EF56F",
+   "sender": "רועי כהן",
+   "text": "",
+   "ts": 1790343012000,
+   "date": "2026-09-25",
+   "time": "16:30",
+   "files": [
+    {
+     "name": "בית המקדש בזווית אחרת - מדריך התחלה.pdf",
+     "size": "11.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jWAI7Xj61soCVR2VMGgXGnpPkVvvo-3i/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
   }
  ]
 }
