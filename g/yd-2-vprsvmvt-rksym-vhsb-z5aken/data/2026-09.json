@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-25T07:10:56.031Z",
+ "updated": "2026-09-25T07:43:26.521Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5262,6 +5262,46 @@
    ],
    "drive": null,
    "phone": "972508284449"
+  },
+  {
+   "id": "A5D4E0F138F80ADD4B7DD7AB8C87D37A",
+   "sender": "נעלי הפסגה",
+   "text": "לכל השואלים אנחנו מכבדים כרטיסי:\nהיימיש כארד(טובה וברכה)\nנר ישראל\nרכסים כארד \nמכובד\nכארד שופ(השחור)\n\nחג שמח",
+   "ts": 1790322177000,
+   "date": "2026-09-25",
+   "time": "10:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "74KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-axN8Y8fmVYEVtji3JWdQzpRyqpz2LUM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-axN8Y8fmVYEVtji3JWdQzpRyqpz2LUM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556765998"
+  },
+  {
+   "id": "A570C4C8C407BC53000E9DD1D2235EE8",
+   "sender": "נעלי הפסגה",
+   "text": "פתוחים עד השעה 13:00💥🥿👟👞",
+   "ts": 1790322179000,
+   "date": "2026-09-25",
+   "time": "10:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p-x8AWAxgFukR-Hj1uY-Q97J_yfDu3Jc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p-x8AWAxgFukR-Hj1uY-Q97J_yfDu3Jc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556765998"
   }
  ]
 }
