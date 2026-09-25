@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-09-24T14:03:31.014Z",
+ "updated": "2026-09-25T07:08:56.006Z",
  "messages": [
   {
    "id": "ACDAB4E3245CCBB226B268EBECB5C0A5",
@@ -50,6 +50,57 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC740018E7F4209D8FC0FA855F938640",
+   "sender": "יעקב בקר",
+   "text": "בוקר טוב\nבית המדרש יצא לחופשה החל מיום ראשון  27.9.26 ט\"ז תשרי\nעד יום ראשון חוזרים ללמוד כ\"ג תשרי\n4.10.26\nהערה\nאת דמי החבר בסך 50 שח יש להעביר ליהודה גולשטיין\nשבת שלום\nוחג שמח\nפתקא טבא",
+   "ts": 1790320071000,
+   "date": "2026-09-25",
+   "time": "10:07",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACC3710FF0C1D5E6907719BCA3346BA8",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1790320116000,
+   "date": "2026-09-25",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "177KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1nQnf8xt_MkU2ucKhgQyk3Kdcwf6VLrvU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nQnf8xt_MkU2ucKhgQyk3Kdcwf6VLrvU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC3C23EF697B9BB8D7C65837FA8B3E1B",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1790320134000,
+   "date": "2026-09-25",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "75KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/16IM-Pw5B_Ic2OF8QttjkSSJYZ3S2uKNS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16IM-Pw5B_Ic2OF8QttjkSSJYZ3S2uKNS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
   }
  ]
 }
