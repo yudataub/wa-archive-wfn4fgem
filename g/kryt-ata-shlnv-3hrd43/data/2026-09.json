@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T09:01:16.971Z",
+ "updated": "2026-09-25T09:16:23.885Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1411,6 +1411,26 @@
    ],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "AC2628D182915C96D71D12C5175DCA2B",
+   "sender": "טליה מיינר",
+   "text": "באישי ורצוי בזמן הקרוב 🙏🏼",
+   "ts": 1790327760000,
+   "date": "2026-09-25",
+   "time": "12:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Y4BzoScevOv0zVu9buQZ8MfjUKlJzT3p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Y4BzoScevOv0zVu9buQZ8MfjUKlJzT3p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505315633"
   }
  ]
 }

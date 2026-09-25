@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-25T07:58:03.935Z",
+ "updated": "2026-09-25T09:13:47.192Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -1350,6 +1350,28 @@
    "files": [],
    "drive": null,
    "phone": "972527004699"
+  },
+  {
+   "id": "ACA2BB581679CFC94768F9654EE85DD0",
+   "sender": "Jenny Blanga",
+   "text": "איפה אפשר למצוא סכך?",
+   "ts": 1790327615000,
+   "date": "2026-09-25",
+   "time": "12:13",
+   "files": [],
+   "drive": null,
+   "phone": "972528979204"
+  },
+  {
+   "id": "AC6E8D066C82F8417DCDB7000DE82F16",
+   "sender": "Jenny Blanga",
+   "text": "בסטוק נגמר",
+   "ts": 1790327616000,
+   "date": "2026-09-25",
+   "time": "12:13",
+   "files": [],
+   "drive": null,
+   "phone": "972528979204"
   }
  ]
 }
