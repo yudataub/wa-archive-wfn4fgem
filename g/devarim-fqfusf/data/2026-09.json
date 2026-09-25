@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חומרים על חומש דברים",
- "updated": "2026-09-25T06:43:07.294Z",
+ "updated": "2026-09-25T06:55:07.475Z",
  "messages": [
   {
    "id": "gm-1a065492ead07cfb",
@@ -1622,6 +1622,48 @@
    "files": [],
    "drive": null,
    "phone": "972506544492"
+  },
+  {
+   "id": "AC7F98191EA90F0368B8F94DDFFE6830",
+   "sender": "שרית בטשוילי",
+   "text": "ותהיה השתלמות מלווה נכון?",
+   "ts": 1790318912000,
+   "date": "2026-09-25",
+   "time": "09:48",
+   "files": [],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "ACE5FD38BF082907BFD341493A4C0EF8",
+   "sender": "ויקטוריה פייקל",
+   "text": "תודה",
+   "ts": 1790319285000,
+   "date": "2026-09-25",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972509093337"
+  },
+  {
+   "id": "AC8FC37168740E04A70B8417D848C51D",
+   "sender": "ויקטוריה פייקל",
+   "text": "",
+   "ts": 1790319287000,
+   "date": "2026-09-25",
+   "time": "09:54",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "154KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Frso5lUP_CmV4XeEIk3J6E2hNznd6zNl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Frso5lUP_CmV4XeEIk3J6E2hNznd6zNl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509093337"
   }
  ]
 }

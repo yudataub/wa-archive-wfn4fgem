@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-25T06:32:49.541Z",
+ "updated": "2026-09-25T06:49:19.795Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5223,6 +5223,25 @@
    ],
    "drive": null,
    "phone": "972504159851"
+  },
+  {
+   "id": "A58D710D6BCF486B9B0F32746343A046",
+   "sender": "יוסף ישראל",
+   "text": "",
+   "ts": 1790318956000,
+   "date": "2026-09-25",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "13KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/12mRurIGD-8BZSBKlLktGrCUEx_hzVW7C/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559503426"
   }
  ]
 }
