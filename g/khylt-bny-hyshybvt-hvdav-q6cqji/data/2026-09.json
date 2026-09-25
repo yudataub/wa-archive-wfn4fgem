@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-25T14:18:08.436Z",
+ "updated": "2026-09-25T14:31:08.630Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -7653,6 +7653,37 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "A5FA8D702801B3B85511960713195377",
+   "sender": "א.א ירק  בכפר",
+   "text": "היה ביום  כיפור בשולחן  איפה שאני ישבתי \nחשבתי ששמת בכוונה",
+   "ts": 1790346639000,
+   "date": "2026-09-25",
+   "time": "17:30",
+   "files": [],
+   "drive": null,
+   "phone": "972549420410"
+  },
+  {
+   "id": "AC1D2AAAEE42AE2405A7FF89907A36D3",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1790346665000,
+   "date": "2026-09-25",
+   "time": "17:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tu1NYPzKAefMDGzeboIjr0FQ_jncuGXh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tu1NYPzKAefMDGzeboIjr0FQ_jncuGXh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-25T14:14:38.380Z",
+ "updated": "2026-09-25T14:37:13.605Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4330,6 +4330,57 @@
    "files": [],
    "drive": null,
    "phone": "972502327724"
+  },
+  {
+   "id": "AC4778CCD39BDB27F6CFDA04CF499C71",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1790346910000,
+   "date": "2026-09-25",
+   "time": "17:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14eWO86WZNnfn_sjqOqZe56tAKdAmu0CP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14eWO86WZNnfn_sjqOqZe56tAKdAmu0CP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC90DA6E3479155FDF021A21433BD8C7",
+   "sender": "יהודה שטרית",
+   "text": "הלך החשמל ????",
+   "ts": 1790346924000,
+   "date": "2026-09-25",
+   "time": "17:35",
+   "files": [],
+   "drive": null,
+   "phone": "972502727391"
+  },
+  {
+   "id": "AC1CE280474DA861805A48D94DA2063F",
+   "sender": "אלי פרידלנד",
+   "text": "",
+   "ts": 1790347031000,
+   "date": "2026-09-25",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JCdNHLFaHu9dSRQ88FQBEg4yafLpAfdF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JCdNHLFaHu9dSRQ88FQBEg4yafLpAfdF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506564337"
   }
  ]
 }

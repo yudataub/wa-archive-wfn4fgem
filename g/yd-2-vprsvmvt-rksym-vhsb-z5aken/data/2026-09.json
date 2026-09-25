@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-25T14:14:08.393Z",
+ "updated": "2026-09-25T14:37:43.605Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5459,6 +5459,46 @@
    "files": [],
    "drive": null,
    "phone": "972529955992"
+  },
+  {
+   "id": "AC6B740D7BA41277277B9802E7B110DE",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1790346916000,
+   "date": "2026-09-25",
+   "time": "17:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hHj6OajItb4eUQhQuwDi-RhJ8yL8BE_Z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hHj6OajItb4eUQhQuwDi-RhJ8yL8BE_Z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC02A7F52830E5EA797A462CD0B0A531",
+   "sender": "אלי פרידלנד",
+   "text": "",
+   "ts": 1790347033000,
+   "date": "2026-09-25",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GeRnIYR609G3s1A63xlIrn7hCez2ERy8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GeRnIYR609G3s1A63xlIrn7hCez2ERy8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506564337"
   }
  ]
 }
