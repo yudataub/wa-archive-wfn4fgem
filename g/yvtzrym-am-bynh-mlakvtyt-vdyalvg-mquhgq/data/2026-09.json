@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T18:27:32.232Z",
+ "updated": "2026-09-25T18:29:02.251Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27687,6 +27687,17 @@
    "ts": 1790360827000,
    "date": "2026-09-25",
    "time": "21:27",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2AE459E11914BBA172CE",
+   "sender": "972 Education Inc. Orly",
+   "text": "הגרסה באנגלית \n\nhttps://files.instinct.com/file-01M3CQGR5NXRN5TQGZGAVZCRS7?link_preview=whatsapp",
+   "ts": 1790360928000,
+   "date": "2026-09-25",
+   "time": "21:28",
    "files": [],
    "drive": null,
    "phone": "13107392984"
