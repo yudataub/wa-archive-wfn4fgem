@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "וותיקין של שבת ",
- "updated": "2026-09-25T06:33:49.558Z",
+ "updated": "2026-09-25T06:41:19.683Z",
  "messages": [
   {
    "id": "ACBEC8197D24F1A4151DAB80EF599C42",
@@ -44,6 +44,26 @@
    ],
    "drive": null,
    "phone": "972555649000"
+  },
+  {
+   "id": "AC16EF91B9023BC5D5227514312BF800",
+   "sender": "שרגא שינובר",
+   "text": "",
+   "ts": 1790318471000,
+   "date": "2026-09-25",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "452KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Euj9fDhSaJyI_yRxjb8hm2oD_Sml-gV_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Euj9fDhSaJyI_yRxjb8hm2oD_Sml-gV_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
   }
  ]
 }

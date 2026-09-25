@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-25T06:37:07.186Z",
+ "updated": "2026-09-25T06:47:07.353Z",
  "messages": [
   {
    "id": "2ADAD43350A8217C3733",
@@ -438,6 +438,59 @@
    "ts": 1790318205000,
    "date": "2026-09-25",
    "time": "09:36",
+   "files": [],
+   "drive": null,
+   "phone": "972542224300"
+  },
+  {
+   "id": "3EB0C95E0A88F53257C830",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790318553000,
+   "date": "2026-09-25",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "19KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ORGpM1TG5g68d68tZ62SOO4ZlVvd4wSo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ORGpM1TG5g68d68tZ62SOO4ZlVvd4wSo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB04138E93A59F82591FF",
+   "sender": "ווקי שרון מרגולין",
+   "text": "https://app.instinct.com/settings?source=agent-settings-link&preview=whatsapp",
+   "ts": 1790318558000,
+   "date": "2026-09-25",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0077BE9DF57089C7500",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אחרי שהתחל לעבוד איתו ונרשמת היכנסי לאתר הזה וכבי את המתג הזה המסומן",
+   "ts": 1790318579000,
+   "date": "2026-09-25",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACD0D0FAB5C821224A3A2F324F2043E6",
+   "sender": "ימית קורן",
+   "text": "🙏🏼",
+   "ts": 1790318815000,
+   "date": "2026-09-25",
+   "time": "09:46",
    "files": [],
    "drive": null,
    "phone": "972542224300"

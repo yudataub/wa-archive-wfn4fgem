@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-25T05:48:52.553Z",
+ "updated": "2026-09-25T06:44:19.720Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -3945,6 +3945,39 @@
    ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5C4ADCC56194AA2EFDCE6E64CA55DD0",
+   "sender": "אחזקת גינות מקצועי מיכאל אלבז",
+   "text": "בוקר טוב,שאלה:למה להושיב בסוכה את האושפיזין עילאין בפינה של הסוכה ולא יחד איתנו סביב השולחן,שאלת הוגנת והגיונית נכון?😉,מה אומר?",
+   "ts": 1790318612000,
+   "date": "2026-09-25",
+   "time": "09:43",
+   "files": [],
+   "drive": null,
+   "thread": "אחזקת גינות מקצועי מיכאל אלבז",
+   "phone": "972539357102"
+  },
+  {
+   "id": "AC57A99D607A795150B675D6E71A6307",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1790318657000,
+   "date": "2026-09-25",
+   "time": "09:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "74KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xilznsRsOetG4CKWPub642lcNNaGXRXr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xilznsRsOetG4CKWPub642lcNNaGXRXr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
   }
  ]
 }
