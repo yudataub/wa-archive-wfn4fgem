@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T09:40:09.895Z",
+ "updated": "2026-09-25T10:21:10.507Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1491,6 +1491,237 @@
    ],
    "drive": null,
    "phone": "972553087073"
+  },
+  {
+   "id": "AC1D1A59CF33350842C3A83C7EEEB8AE",
+   "sender": "Adi",
+   "text": "גראז סייל *מיוחד* בסוכות בק. חיים-\n*0525992006*\nפריטי וינטאז'\nריהוט עתיק\nציורים/תמונות\nכלי נחושת/אלומיניום\nפמוטים/חנוכיות\nכלי עבודה\nאופניים",
+   "ts": 1790331630000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACF1684501BF3DEFB244DC90CB89F1A4",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331630000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hyNoyIIK3N8tI7oSJIYm3z2g_GmhdCiL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hyNoyIIK3N8tI7oSJIYm3z2g_GmhdCiL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC258E44DE493C7ACBC5F035951F64A6",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331631000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W4Nn-8Ovey0Dm1_T6LEo21VBTdxJSJQ0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W4Nn-8Ovey0Dm1_T6LEo21VBTdxJSJQ0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC7EF27F7447B481312AAF2D8449391E",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331635000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n9ZSzzKhQEvD58Fjir80yaVJl2XWbeC0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n9ZSzzKhQEvD58Fjir80yaVJl2XWbeC0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACA311326B989582F2708BF807303532",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331637000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zusIYjxjoPkT-68gLJJoaEI_em4Yo5vH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zusIYjxjoPkT-68gLJJoaEI_em4Yo5vH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC605E4A01826EECAD495354B4802754",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331638000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "315KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1h-w66F-MZ4A31DiACxVGbgvnZ8hCEvVl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1h-w66F-MZ4A31DiACxVGbgvnZ8hCEvVl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACD2004427CABB86D80C470299B0DD66",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331638000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EhlIGRGSuu0Ro9UDknyx_DFHWIW2X9n2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EhlIGRGSuu0Ro9UDknyx_DFHWIW2X9n2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC2E38C5B3B156CC22683135950A4008",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331639000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ORmBG4sr4mm4UfTkhRlAzzO6crfF8rjE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ORmBG4sr4mm4UfTkhRlAzzO6crfF8rjE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC4849E866FCBD9E302FD0886CA40BE9",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331639000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s7Qy1I62Y_fX8XxCZhEBulASBsw_dL1V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s7Qy1I62Y_fX8XxCZhEBulASBsw_dL1V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACC92EFCEF03CF6A40059C7DDB1002CA",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331640000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UtnbvWZQUda42DODY5NhsRinIUfw8eGe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UtnbvWZQUda42DODY5NhsRinIUfw8eGe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACAE9688B5FA6C325873F8C4C437CD82",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331641000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OkGrg6T7Qk_Wmz5Z4LFqSyHbzHCFIDyt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OkGrg6T7Qk_Wmz5Z4LFqSyHbzHCFIDyt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC40A5A808C0CEDC447328E0F043E494",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790331642000,
+   "date": "2026-09-25",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J4y3fcVsDv_3st4cgQ269Kbuo3biDGP2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J4y3fcVsDv_3st4cgQ269Kbuo3biDGP2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
   }
  ]
 }
