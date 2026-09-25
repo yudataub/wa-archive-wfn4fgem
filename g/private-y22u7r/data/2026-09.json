@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-25T05:33:22.338Z",
+ "updated": "2026-09-25T05:48:52.553Z",
  "messages": [
   {
    "id": "ACBE7A5D7384C50FA1C6F33475C95AFA",
@@ -3926,6 +3926,25 @@
    "drive": null,
    "thread": "עידן טחן",
    "phone": "972545805140"
+  },
+  {
+   "id": "3EB020D68AAC7D1CC7A258",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790315301000,
+   "date": "2026-09-25",
+   "time": "08:48",
+   "files": [
+    {
+     "name": "סוכה_של_סיפורים_חוברת_משפחתית.pdf",
+     "size": "28.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1CRDFEcE5sDiHBxjlxOm_6sFmDiVdiuDN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

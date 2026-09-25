@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-24T11:03:49.926Z",
+ "updated": "2026-09-25T05:53:22.612Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -640,6 +640,26 @@
    ],
    "drive": null,
    "phone": "972509540023"
+  },
+  {
+   "id": "AC84A2A0AB3758C51B6905A52B575446",
+   "sender": "משה בן ישי",
+   "text": "",
+   "ts": 1790315585000,
+   "date": "2026-09-25",
+   "time": "08:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "485KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OR9XMiCv5YIupC8nx0lLgSjF81YcxTaj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OR9XMiCv5YIupC8nx0lLgSjF81YcxTaj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525516470"
   }
  ]
 }

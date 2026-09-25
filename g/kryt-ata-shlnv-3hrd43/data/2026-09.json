@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T05:44:22.512Z",
+ "updated": "2026-09-25T05:48:52.563Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1139,6 +1139,26 @@
    ],
    "drive": null,
    "phone": "972546760845"
+  },
+  {
+   "id": "AC0445167716F3243B5264B2121C1395",
+   "sender": "רועי ביטון",
+   "text": "",
+   "ts": 1790315319000,
+   "date": "2026-09-25",
+   "time": "08:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1j8y5wP7k8BmzSy1ONFeKq438S1kf7R7h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1j8y5wP7k8BmzSy1ONFeKq438S1kf7R7h&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546774798"
   }
  ]
 }

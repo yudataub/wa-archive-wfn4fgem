@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-25T05:26:22.248Z",
+ "updated": "2026-09-25T05:52:22.596Z",
  "messages": [
   {
    "id": "AC1A4F4CD69E1A6096ED8229236C1985",
@@ -960,6 +960,66 @@
    "files": [],
    "drive": null,
    "phone": "972525775796"
+  },
+  {
+   "id": "AC1626CBA4F283691FFE731DACC6D57D",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790315304000,
+   "date": "2026-09-25",
+   "time": "08:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "60KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13lKJRBoQAYmJTZXB1jmAmiZdj1RKP-JV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13lKJRBoQAYmJTZXB1jmAmiZdj1RKP-JV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC1085542D4157BB34E1905493306016",
+   "sender": "שרון😄",
+   "text": "🛑 שידור חי \nהבוקר הלימוד בשעה *8:30* בזום\n\nמוזמנים להצטרף <<\n\nhttps://us02web.zoom.us/j/4681239121?pwd=ZHV1V3hyS2FsM2hpakZFMndHRm5rZz09",
+   "ts": 1790315348000,
+   "date": "2026-09-25",
+   "time": "08:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1--KOh1Th2u5DfK_DguPdMulvAUVcXycd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1--KOh1Th2u5DfK_DguPdMulvAUVcXycd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC4178BFDD21325B3F157636DD730AAA",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790315531000,
+   "date": "2026-09-25",
+   "time": "08:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JmCbIy8RYPPrzBWz3feskrG-dv8Iac1P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JmCbIy8RYPPrzBWz3feskrG-dv8Iac1P&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }
