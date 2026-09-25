@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-25T08:07:40.365Z",
+ "updated": "2026-09-25T08:16:17.902Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -77,6 +77,48 @@
    "files": [],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "A59F354AEAFBA2BC7E37DC5233A5124A",
+   "sender": "תמר חמאדה",
+   "text": "@+972 52-560-2285  במיוחד בשבילך \n\nמילים שעושות קסם 4 ✨\nהפעם הופכים את NotebookLM לעוזר למידה אישי לקראת מבחן.\n\nמעלים למחברת את חומרי הלימוד, ובמקום לקבל תשובות מוכנות, התלמידים יכולים לתרגל, לשאול שאלות, לבנות סיכום פעיל ולהתנסות בסימולציה של מבחן - מתוך המקורות שלהם.\n\nהכנתי סרטון קצר שמראה איך מתחילים, וגם פרומפט להעתקה שמגדיר את עוזר הלמידה ואת מצבי העבודה שלו.\n\n🎬 הסרטון: https://youtube.com/shorts/_CvrRJrcL9M?si=0wSdCzSfBgaYEz7R\n📄 הפרומפט להעתקה: https://docs.google.com/document/d/1Wm3PKkfkGFkbP_1p-HtA4EBlErOcnjlpXI0qPuiudC8/edit?usp=drivesdk\n\nרעיונות פוגשים בינה | תמר חמאדה\n\nלהצטרפות לקהילה",
+   "ts": 1790323905000,
+   "date": "2026-09-25",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dtwN7UU3szgCylTKVoEuCPpC2ujiL7B2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dtwN7UU3szgCylTKVoEuCPpC2ujiL7B2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A5E143876617AE13E157F9A9B14D4420",
+   "sender": "תמר חמאדה",
+   "text": "סופ\"ש נעים חג שמח ואשמח לשיתופים מהסוכות שלכם בפרטי  למי שהשתמש בערכה שיצרתי https://sukkah-family-book.tammar.chatgpt.site\n\nחג שמח לחוגגים🌷",
+   "ts": 1790323919000,
+   "date": "2026-09-25",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "ACE3DB54E93D65DECEA4B3ACBDE6F36B",
+   "sender": "אריאלה",
+   "text": "תודה רבה! חג שמח🌸",
+   "ts": 1790324164000,
+   "date": "2026-09-25",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972525602285"
   }
  ]
 }

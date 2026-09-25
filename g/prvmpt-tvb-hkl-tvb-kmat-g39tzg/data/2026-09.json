@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-25T06:47:07.353Z",
+ "updated": "2026-09-25T08:13:17.864Z",
  "messages": [
   {
    "id": "2ADAD43350A8217C3733",
@@ -494,6 +494,26 @@
    "files": [],
    "drive": null,
    "phone": "972542224300"
+  },
+  {
+   "id": "A5FB0695A8113D4A419F57BCDA2FAA17",
+   "sender": "תמר חמאדה",
+   "text": "@+972 52-560-2285  במיוחד בשבילך \n\nמילים שעושות קסם 4 ✨\nהפעם הופכים את NotebookLM לעוזר למידה אישי לקראת מבחן.\n\nמעלים למחברת את חומרי הלימוד, ובמקום לקבל תשובות מוכנות, התלמידים יכולים לתרגל, לשאול שאלות, לבנות סיכום פעיל ולהתנסות בסימולציה של מבחן - מתוך המקורות שלהם.\n\nהכנתי סרטון קצר שמראה איך מתחילים, וגם פרומפט להעתקה שמגדיר את עוזר הלמידה ואת מצבי העבודה שלו.\n\n🎬 הסרטון: https://youtube.com/shorts/_CvrRJrcL9M?si=0wSdCzSfBgaYEz7R\n📄 הפרומפט להעתקה: https://docs.google.com/document/d/1Wm3PKkfkGFkbP_1p-HtA4EBlErOcnjlpXI0qPuiudC8/edit?usp=drivesdk\n\nרעיונות פוגשים בינה | תמר חמאדה\n\nלהצטרפות לקהילה",
+   "ts": 1790323987000,
+   "date": "2026-09-25",
+   "time": "11:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VUWc6WPxQPkiRf8mFjrerPD0WM6H9Xes/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VUWc6WPxQPkiRf8mFjrerPD0WM6H9Xes&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

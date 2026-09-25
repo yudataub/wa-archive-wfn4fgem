@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-24T13:23:19.774Z",
+ "updated": "2026-09-25T08:13:47.886Z",
  "messages": [
   {
    "id": "3EB0D26ABC8BBA9BE3DD66",
@@ -283,6 +283,26 @@
      "path": "https://drive.google.com/file/d/1Ng5HIH7pStSWvv-qS9UYM1u9zl3HGTBs/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Ng5HIH7pStSWvv-qS9UYM1u9zl3HGTBs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A5163842F18932A93F48674F498A56F5",
+   "sender": "תמר חמאדה",
+   "text": "@+972 52-560-2285  במיוחד בשבילך \n\nמילים שעושות קסם 4 ✨\nהפעם הופכים את NotebookLM לעוזר למידה אישי לקראת מבחן.\n\nמעלים למחברת את חומרי הלימוד, ובמקום לקבל תשובות מוכנות, התלמידים יכולים לתרגל, לשאול שאלות, לבנות סיכום פעיל ולהתנסות בסימולציה של מבחן - מתוך המקורות שלהם.\n\nהכנתי סרטון קצר שמראה איך מתחילים, וגם פרומפט להעתקה שמגדיר את עוזר הלמידה ואת מצבי העבודה שלו.\n\n🎬 הסרטון: https://youtube.com/shorts/_CvrRJrcL9M?si=0wSdCzSfBgaYEz7R\n📄 הפרומפט להעתקה: https://docs.google.com/document/d/1Wm3PKkfkGFkbP_1p-HtA4EBlErOcnjlpXI0qPuiudC8/edit?usp=drivesdk\n\nרעיונות פוגשים בינה | תמר חמאדה\n\nלהצטרפות לקהילה",
+   "ts": 1790324001000,
+   "date": "2026-09-25",
+   "time": "11:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nCV-qp5BAQjKtr0VJTPH_eGcS0LX-LR-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nCV-qp5BAQjKtr0VJTPH_eGcS0LX-LR-&sz=w1200"
     }
    ],
    "drive": null,

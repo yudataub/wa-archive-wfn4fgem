@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-25T07:53:56.678Z",
+ "updated": "2026-09-25T08:16:04.157Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -3477,6 +3477,70 @@
    "files": [],
    "drive": null,
    "phone": "972529545989"
+  },
+  {
+   "id": "AC6B49B32D5241A81F0848B3E1A58533",
+   "sender": "חננאל",
+   "text": "כן רק שיהיה קשור חזק",
+   "ts": 1790323687000,
+   "date": "2026-09-25",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972523895343"
+  },
+  {
+   "id": "AC3D4D7C5350A03233490E14951AE7CF",
+   "sender": "חננאל",
+   "text": "כן",
+   "ts": 1790323688000,
+   "date": "2026-09-25",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972523895343"
+  },
+  {
+   "id": "AC65F2720B56378D6C1026CFB65E99D3",
+   "sender": "חננאל",
+   "text": "אפשר",
+   "ts": 1790323688000,
+   "date": "2026-09-25",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972523895343"
+  },
+  {
+   "id": "ACE4F063F78B1B2DE8A3FEF8254CF068",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "תודה רבה הרב\nחג שמח",
+   "ts": 1790324063000,
+   "date": "2026-09-25",
+   "time": "11:14",
+   "files": [],
+   "drive": null,
+   "phone": "972529545989"
+  },
+  {
+   "id": "ACE4E0D8714BD01A1960C801FD7EEA8D",
+   "sender": "Ron",
+   "text": "מותר לזרוק את העטיפה או צריך גניזה?",
+   "ts": 1790324148000,
+   "date": "2026-09-25",
+   "time": "11:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JZduknzOwDg1povyb-jdCAOOUAYyvVCG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JZduknzOwDg1povyb-jdCAOOUAYyvVCG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526845988"
   }
  ]
 }
