@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-25T05:44:22.504Z",
+ "updated": "2026-09-25T06:14:22.960Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3491,6 +3491,26 @@
    ],
    "drive": null,
    "phone": "972546760845"
+  },
+  {
+   "id": "ACC18C9E12AA3C6A3C12D0725BC632F2",
+   "sender": "שרון😄",
+   "text": "עדיין לא מאוחר, אנחנו אוספים תרומות לסייע *לאברכים ובני תורה לקיים את מצוות החג*. \nוהיום במיוחד, כשאברהם אבינו איש החסד יהיה איתנו בע'ה בסוכה. \n\nלתרומות ביט/פייבוקס/אחר- שרון 052-2828512 \n\n💕\"אִישׁ כְּמַתְּנַת יָדוֹ, כְּבִרְכַּת ה' אֱלֹקֶיךָ אֲשֶׁר נָתַן לָךְ.\"\n— דברים ט\"ז, י\"ז💕",
+   "ts": 1790316857000,
+   "date": "2026-09-25",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Eut8Dvq2ooN-ftg69qnhTF5pmoYIW0In/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Eut8Dvq2ooN-ftg69qnhTF5pmoYIW0In&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

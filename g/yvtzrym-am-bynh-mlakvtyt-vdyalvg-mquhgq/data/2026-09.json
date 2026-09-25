@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T06:01:36.666Z",
+ "updated": "2026-09-25T06:17:06.889Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -5391,6 +5391,46 @@
    "date": "2026-09-25",
    "time": "09:01",
    "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0B2033B2BD683077FD1",
+   "sender": "נועם",
+   "text": "בוקר טוב חברים,\nסרטון שהכנתי (בסיוע של אופוס 5.5, VEO ומינימקס) למיזם חברתי למניעת בריונותב רשת\n1. אשמח לחו\"ד ומה לדעתכם ניתן לשפר/האם המסר עובר?\n2. אשמח להצעה לקול אחר בקריינות שישמע מתאים יותר (אתמול לדעתי שלחו בקבוצה קול שהיה נשמע ממש טוב במודל החדש 3.8 של גוגל אבל אני לא מוצא)\nתודה וחג שמח!",
+   "ts": 1790317005000,
+   "date": "2026-09-25",
+   "time": "09:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Kbr5s0-V87mKTjAFCzCc0MCR6k5Wv7VS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kbr5s0-V87mKTjAFCzCc0MCR6k5Wv7VS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB02693A1330A4467A1D3",
+   "sender": "נועם",
+   "text": "בוקר טוב חברים,\nסרטון שהכנתי (בסיוע של אופוס 5.5, VEO ומינימקס) למיזם חברתי למניעת בריונותב רשת\n1. אשמח לחו\"ד ומה לדעתכם ניתן לשפר/האם המסר עובר?\n2. אשמח להצעה לקול אחר בקריינות שישמע מתאים יותר (אתמול לדעתי שלחו בקבוצה קול שהיה נשמע ממש טוב במודל החדש 3.8 של גוגל אבל אני לא מוצא)\nתודה וחג שמח!",
+   "ts": 1790317008000,
+   "date": "2026-09-25",
+   "time": "09:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1mwE4DaKZHxUM7udWClPUXlp30AFkfjxq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mwE4DaKZHxUM7udWClPUXlp30AFkfjxq&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534663621"
   }

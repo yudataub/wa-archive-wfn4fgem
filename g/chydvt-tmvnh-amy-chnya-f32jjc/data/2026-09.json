@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-09-24T14:21:00.097Z",
+ "updated": "2026-09-25T06:09:06.768Z",
  "messages": [
   {
    "id": "3EB093E3568C4AF969D477",
@@ -261,6 +261,26 @@
      "path": "https://drive.google.com/file/d/1HSmQVGLVTHoW57yC3dEhobXbCzoaw1od/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1HSmQVGLVTHoW57yC3dEhobXbCzoaw1od&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0E10A6F72250E237C59",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: תשרי (סוכות)\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1790316516000,
+   "date": "2026-09-25",
+   "time": "09:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19FYFeGMT9MNarB2ejua26N5RuObcx-SM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19FYFeGMT9MNarB2ejua26N5RuObcx-SM&sz=w1200"
     }
    ],
    "drive": null,

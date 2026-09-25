@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T05:48:52.563Z",
+ "updated": "2026-09-25T06:13:52.955Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1159,6 +1159,86 @@
    ],
    "drive": null,
    "phone": "972546774798"
+  },
+  {
+   "id": "AC1DF60A6870F0F2792BEDE0DA026BA3",
+   "sender": "דוד ג",
+   "text": "",
+   "ts": 1790316584000,
+   "date": "2026-09-25",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Im8lHMEpc0Y1hJ-jEXQrDSOnZalAEeZT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Im8lHMEpc0Y1hJ-jEXQrDSOnZalAEeZT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944111"
+  },
+  {
+   "id": "ACD1E22B5005691CED8CFACE7CBEC301",
+   "sender": "דוד ג",
+   "text": "",
+   "ts": 1790316584000,
+   "date": "2026-09-25",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "596KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TEwZCFzP5lviycNXZp_YpXGp3Jh3-38Y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TEwZCFzP5lviycNXZp_YpXGp3Jh3-38Y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944111"
+  },
+  {
+   "id": "ACE3691C261921D7A0368393FB44EF60",
+   "sender": "דוד ג",
+   "text": "לסחורה הכי טובה לשלוח הודעה בפרטי",
+   "ts": 1790316585000,
+   "date": "2026-09-25",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1wM7k-LC8f8_oznJEpgbYckIOMApl0YHx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wM7k-LC8f8_oznJEpgbYckIOMApl0YHx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944111"
+  },
+  {
+   "id": "AC50F59D29193CB89BFD2530A6C21CAE",
+   "sender": "שרון😄",
+   "text": "עדיין לא מאוחר, אנחנו אוספים תרומות לסייע *לאברכים ובני תורה לקיים את מצוות החג*. \nוהיום במיוחד, כשאברהם אבינו איש החסד יהיה איתנו בע'ה בסוכה. \n\nלתרומות ביט/פייבוקס/אחר- שרון 052-2828512 \n\n💕\"אִישׁ כְּמַתְּנַת יָדוֹ, כְּבִרְכַּת ה' אֱלֹקֶיךָ אֲשֶׁר נָתַן לָךְ.\"\n— דברים ט\"ז, י\"ז💕",
+   "ts": 1790316825000,
+   "date": "2026-09-25",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N2Y84Fi0d3-HsC3GwU-6DRiDPkMItLhZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N2Y84Fi0d3-HsC3GwU-6DRiDPkMItLhZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }
