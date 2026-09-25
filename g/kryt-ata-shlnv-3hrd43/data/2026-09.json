@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T03:31:42.492Z",
+ "updated": "2026-09-25T04:31:36.567Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1068,6 +1068,26 @@
    "files": [],
    "drive": null,
    "phone": "972559593991"
+  },
+  {
+   "id": "4A2528A543E0313AB7DF",
+   "sender": "Avi-hi",
+   "text": "שימו לב לא ללחוץ על אף קישור שאתם מקבלים בהודעות sms בסגנון הזה, ניתן להבחין במספר הסלולרי שלא תואם לכביש 6  ובטח גם לא לאף קידומת של מספר ישראלי ובמיוחד לניסוח ההודעה, אין ספק שאותו האקר לא מקצוען ופספס בדיקת QA של הגהה בעברית , מי שחושב בכל זאת שיש לו חוב בכביש 6 מוזמן להיכנס לאיזור האישי דרך הדפדפן בלבד ולבדוק",
+   "ts": 1790310677000,
+   "date": "2026-09-25",
+   "time": "07:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "46KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JA1IlAG4mRFxcTddiyKsvIDM50wJmOX4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JA1IlAG4mRFxcTddiyKsvIDM50wJmOX4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525000559"
   }
  ]
 }

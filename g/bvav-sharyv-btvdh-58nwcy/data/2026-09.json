@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בואו שעריו בתודה🙏",
- "updated": "2026-09-23T04:13:49.004Z",
+ "updated": "2026-09-25T04:29:36.550Z",
  "messages": [
   {
    "id": "AC1BA4B271456E2A012D648F56FF288E",
@@ -37,6 +37,26 @@
      "path": "https://drive.google.com/file/d/1f6xsSBUzZu60tsFkMDdRKeq5ot_h-pnL/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1f6xsSBUzZu60tsFkMDdRKeq5ot_h-pnL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502241426"
+  },
+  {
+   "id": "AC7C1DCF4B10B1D0C609FE9D4F9CA6A8",
+   "sender": ".",
+   "text": "",
+   "ts": 1790310555000,
+   "date": "2026-09-25",
+   "time": "07:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16FJL_ALhktPj-4lGrVMNl-3TwbpQEESm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16FJL_ALhktPj-4lGrVMNl-3TwbpQEESm&sz=w1200"
     }
    ],
    "drive": null,

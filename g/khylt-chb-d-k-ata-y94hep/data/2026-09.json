@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-24T16:07:13.982Z",
+ "updated": "2026-09-25T04:28:36.524Z",
  "messages": [
   {
    "id": "gm-1a05ae6e1899da88",
@@ -510,6 +510,66 @@
    ],
    "drive": null,
    "phone": "972523730397"
+  },
+  {
+   "id": "ACEE628992B9DDF656CA05683BE57545",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1790310499000,
+   "date": "2026-09-25",
+   "time": "07:28",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "34KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1xCy6ls_AWY3ls3zlwH1NRWCm9zKCC1wF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xCy6ls_AWY3ls3zlwH1NRWCm9zKCC1wF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
+  },
+  {
+   "id": "AC0FB9C912729AB91AD026B4E7C0E346",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1790310500000,
+   "date": "2026-09-25",
+   "time": "07:28",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "93KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1cnmrX2BNXkh-sujW0m06Ak8d5xDCrZtw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cnmrX2BNXkh-sujW0m06Ak8d5xDCrZtw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
+  },
+  {
+   "id": "AC806A9AFC1C5CBAAF991C53624D1292",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1790310500000,
+   "date": "2026-09-25",
+   "time": "07:28",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "284KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1dt73EDmBbyUY-_jfkRohcWoa_7sue5sl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dt73EDmBbyUY-_jfkRohcWoa_7sue5sl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
   }
  ]
 }
