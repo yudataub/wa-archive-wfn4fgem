@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T06:54:37.474Z",
+ "updated": "2026-09-25T08:06:40.350Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -5622,6 +5622,72 @@
    "files": [],
    "drive": null,
    "phone": "972549260040"
+  },
+  {
+   "id": "A547A40694322385A005394917CF83CF",
+   "sender": "mary garby",
+   "text": "https://www.instagram.com/reel/DdqJ6zzuQQL/?stkn=MWg4N2NucWtvcjJldg==",
+   "ts": 1790323435000,
+   "date": "2026-09-25",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A530DC3C0AA580387356AE0F40111F0A",
+   "sender": "mary garby",
+   "text": "תראו איזה יופי! \nלא ידעתי שזה אפשרי בכלל",
+   "ts": 1790323448000,
+   "date": "2026-09-25",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A57D74227AD4E82203B9619E14A66EB3",
+   "sender": "ווקי שרון מרגולין",
+   "text": "איזה חלק",
+   "ts": 1790323501000,
+   "date": "2026-09-25",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A52DA4F8564C93CD2D8BB44809037FCB",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לא איזה חלק יופי אלא איזה חלק לא ידעת שאפשרי",
+   "ts": 1790323513000,
+   "date": "2026-09-25",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A513A72A1807209F3305823D3A0CAB82",
+   "sender": "mary garby",
+   "text": "שאפשר לייצר סרטון",
+   "ts": 1790323589000,
+   "date": "2026-09-25",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A52B0142BDD310934A0123803D9C0C3C",
+   "sender": "mary garby",
+   "text": "🤷🏻‍♀️",
+   "ts": 1790323595000,
+   "date": "2026-09-25",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }
