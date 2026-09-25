@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-25T08:16:17.902Z",
+ "updated": "2026-09-25T08:24:48.010Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -119,6 +119,17 @@
    "files": [],
    "drive": null,
    "phone": "972525602285"
+  },
+  {
+   "id": "ACF613A09E5578CA4D480ACD894CB715",
+   "sender": "Silvia Sapoznik",
+   "text": "תעשי בלי השמות",
+   "ts": 1790324688000,
+   "date": "2026-09-25",
+   "time": "11:24",
+   "files": [],
+   "drive": null,
+   "phone": "972549220953"
   }
  ]
 }
