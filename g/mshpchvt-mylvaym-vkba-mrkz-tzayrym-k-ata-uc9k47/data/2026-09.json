@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "❤️משפחות מילואים וקבע❤️- מרכז צעירים ק.אתא",
- "updated": "2026-09-24T11:54:44.807Z",
+ "updated": "2026-09-25T11:07:27.401Z",
  "messages": [
   {
    "id": "3EB015B4434D1974AF7824",
@@ -138,6 +138,26 @@
      "path": "https://drive.google.com/file/d/1eV02aDHqGtQOPCQ6hhMfReAFnHYsngWY/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1eV02aDHqGtQOPCQ6hhMfReAFnHYsngWY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528777020"
+  },
+  {
+   "id": "AC3B63265288EA669079EF17665BFDA5",
+   "sender": "אורטל קליינמן גנות",
+   "text": "",
+   "ts": 1790334429000,
+   "date": "2026-09-25",
+   "time": "14:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p2rvQ2UXvVNgVJVacL0q6u0fmqheKYnL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p2rvQ2UXvVNgVJVacL0q6u0fmqheKYnL&sz=w1200"
     }
    ],
    "drive": null,
