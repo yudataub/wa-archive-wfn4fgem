@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T09:29:54.387Z",
+ "updated": "2026-09-25T10:07:02.488Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -6169,6 +6169,68 @@
    ],
    "drive": null,
    "phone": "972526016115"
+  },
+  {
+   "id": "3EB0A7D7C9E5CB0F76A268",
+   "sender": "נועם",
+   "text": "*ראו פעם חסיד גור שמחפש אתרוג במשך שעות ולא מוכן להתפשר שאלו אותו למה את אשתך לא חיפשת ככה אז הוא ענה עם האתרוג אני צריך להסתובב ברחוב*🤣\n\n*היי איי - פייק ניוז רשמי*\nלהצטרפות לקבוצה\n👇👇👇👇👇",
+   "ts": 1790330392000,
+   "date": "2026-09-25",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1z_9fUA91wGn5IivxJeHYw0G9iaYkwdTN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z_9fUA91wGn5IivxJeHYw0G9iaYkwdTN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB074D0B7627A18392770",
+   "sender": "נועם",
+   "text": "*ראו פעם חסיד גור שמחפש אתרוג במשך שעות ולא מוכן להתפשר שאלו אותו למה את אשתך לא חיפשת ככה אז הוא ענה עם האתרוג אני צריך להסתובב ברחוב*🤣\n\n*היי איי - פייק ניוז רשמי*\nלהצטרפות לקבוצה\n👇👇👇👇👇",
+   "ts": 1790330393000,
+   "date": "2026-09-25",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/19_ylQLNgqIW_Oe3tGSYsWX47tKY_Z5dB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19_ylQLNgqIW_Oe3tGSYsWX47tKY_Z5dB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB01C0C83CCB6BE5F6B52",
+   "sender": "נועם",
+   "text": "רק לפי הדיבוב, הבנתי שזו בינה מלאכותית.",
+   "ts": 1790330426000,
+   "date": "2026-09-25",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB02EFB374C058BD0C201",
+   "sender": "נועם",
+   "text": "רק לפי הדיבוב, הבנתי שזו בינה מלאכותית.",
+   "ts": 1790330804000,
+   "date": "2026-09-25",
+   "time": "13:06",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
