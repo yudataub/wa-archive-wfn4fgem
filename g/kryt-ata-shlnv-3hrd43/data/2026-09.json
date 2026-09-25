@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-25T06:13:52.955Z",
+ "updated": "2026-09-25T06:17:49.364Z",
  "messages": [
   {
    "id": "A5FA68EF34A15D2CEF5CF40D7E375072",
@@ -1214,7 +1214,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1wM7k-LC8f8_oznJEpgbYckIOMApl0YHx/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1wM7k-LC8f8_oznJEpgbYckIOMApl0YHx&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1wM7k-LC8f8_oznJEpgbYckIOMApl0YHx&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/ACE3691C261921D7A0368393FB44EF60_0.mp4"
     }
    ],
    "drive": null,
@@ -1239,6 +1240,46 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC81263458E0AEAF06AD261A83E8B4D4",
+   "sender": "Anatoli",
+   "text": "",
+   "ts": 1790317046000,
+   "date": "2026-09-25",
+   "time": "09:17",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "378KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1n_99ZEFzuh1JvQ_m_SCH20Ao-B23p655/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n_99ZEFzuh1JvQ_m_SCH20Ao-B23p655&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546099055"
+  },
+  {
+   "id": "AC18236F1F174CB22EFD51FAAE630937",
+   "sender": "Anatoli",
+   "text": "",
+   "ts": 1790317048000,
+   "date": "2026-09-25",
+   "time": "09:17",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "91KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/17-aXH8x6vvP2rVmNEr7RDMSWtuP5dzWF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17-aXH8x6vvP2rVmNEr7RDMSWtuP5dzWF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546099055"
   }
  ]
 }

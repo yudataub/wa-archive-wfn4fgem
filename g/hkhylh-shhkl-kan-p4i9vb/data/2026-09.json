@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הקהילה שהכל כאן !!!",
- "updated": "2026-09-25T01:37:08.731Z",
+ "updated": "2026-09-25T06:27:19.473Z",
  "messages": [
   {
    "id": "A58A112CCF15C442E571C8544837F000",
@@ -651,6 +651,26 @@
    "files": [],
    "drive": null,
    "phone": "972552617532"
+  },
+  {
+   "id": "A5A7C284460BDDDB6E0E76425D3E6DFA",
+   "sender": "אריאל דדון",
+   "text": "",
+   "ts": 1790317625000,
+   "date": "2026-09-25",
+   "time": "09:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1iLJjlisHvIgMVbPoSxhwKbklNz4vaE5d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iLJjlisHvIgMVbPoSxhwKbklNz4vaE5d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587875261"
   }
  ]
 }

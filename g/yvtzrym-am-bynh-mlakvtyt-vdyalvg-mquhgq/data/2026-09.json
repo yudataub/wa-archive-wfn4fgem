@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-25T06:17:06.889Z",
+ "updated": "2026-09-25T06:27:37.041Z",
  "messages": [
   {
    "id": "3EB00BBA35052DD68F1BC1",
@@ -5408,7 +5408,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Kbr5s0-V87mKTjAFCzCc0MCR6k5Wv7VS/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Kbr5s0-V87mKTjAFCzCc0MCR6k5Wv7VS&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Kbr5s0-V87mKTjAFCzCc0MCR6k5Wv7VS&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB0B2033B2BD683077FD1_0.mp4"
     }
    ],
    "drive": null,
@@ -5428,9 +5429,87 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1mwE4DaKZHxUM7udWClPUXlp30AFkfjxq/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1mwE4DaKZHxUM7udWClPUXlp30AFkfjxq&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1mwE4DaKZHxUM7udWClPUXlp30AFkfjxq&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB02693A1330A4467A1D3_0.mp4"
     }
    ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB07E3BCA4B16B19DA223",
+   "sender": "ווקי שרון מרגולין",
+   "text": "להעביר על זה משוב?",
+   "ts": 1790317187000,
+   "date": "2026-09-25",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB08F13423349AA41D36C",
+   "sender": "ווקי שרון מרגולין",
+   "text": "או סתם זו הונח פה",
+   "ts": 1790317191000,
+   "date": "2026-09-25",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0AA747605697CAAABE5",
+   "sender": "נועם",
+   "text": "סתם הונח פה, המקור לא נמצא בקבוצה.\nאלא אם אתה רוצה להתיחס כי מעניין אותך.",
+   "ts": 1790317392000,
+   "date": "2026-09-25",
+   "time": "09:23",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A56D12A076CC1AB10112E5EFD47E8869",
+   "sender": "natalie yehiam",
+   "text": "למה יש אש על מסך הטלוויזיה שלה 🫣.. לא קשור",
+   "ts": 1790317448000,
+   "date": "2026-09-25",
+   "time": "09:24",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB06F9D54E01F2040E533",
+   "sender": "נועם",
+   "text": "כן, זה גם מה שאני רשמתי ליוצר...",
+   "ts": 1790317482000,
+   "date": "2026-09-25",
+   "time": "09:24",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A58F5CF41B77173FAFCB579322D42FAE",
+   "sender": "natalie yehiam",
+   "text": "גם החץ ליד המילה \"יחד\" בשקופית הסיום.. ועוד כל מיני דברים קטנים שמציקים לי",
+   "ts": 1790317536000,
+   "date": "2026-09-25",
+   "time": "09:25",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB05B20D28094238F330A",
+   "sender": "נועם",
+   "text": "בכללי, יש הרבה מה לשפר, אבל עצם הביצוע, מעניין.",
+   "ts": 1790317635000,
+   "date": "2026-09-25",
+   "time": "09:27",
+   "files": [],
    "drive": null,
    "phone": "972534663621"
   }
