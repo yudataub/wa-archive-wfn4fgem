@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-25T12:33:21.096Z",
+ "updated": "2026-09-25T12:45:51.289Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -17211,6 +17211,26 @@
    "files": [],
    "drive": null,
    "phone": "972547678713"
+  },
+  {
+   "id": "AC3B431C3DB283B47E4037E9275DFC2E",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "האם סכין כזו מותר לשים בסוכה בשביל לחתוך את החלות!",
+   "ts": 1790340333000,
+   "date": "2026-09-25",
+   "time": "15:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1veYXPLPBFQDUbFd-2V68hzurfOhviFjr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1veYXPLPBFQDUbFd-2V68hzurfOhviFjr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529545989"
   }
  ]
 }

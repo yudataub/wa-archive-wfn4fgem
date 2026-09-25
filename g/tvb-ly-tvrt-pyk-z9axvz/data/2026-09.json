@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-25T11:46:39.059Z",
+ "updated": "2026-09-25T12:39:51.182Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -6398,6 +6398,36 @@
      "path": "https://drive.google.com/file/d/13AnLlgBZlSkhT9WK-R7w8BRGBSJt6Sv2/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=13AnLlgBZlSkhT9WK-R7w8BRGBSJt6Sv2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525775796"
+  },
+  {
+   "id": "AC60953D702CB8895CDB551F38E54713",
+   "sender": "זוהרה",
+   "text": "מאיפה מתחילים ? \n💡מהמצווה היקרה של הסוכה? \n💡 מהאושפיזין הקדושים שבאים לברך אותנו ? \n💡ממצוות השמחה שנאמרה במיוחד  על החג הזה ? \n💡משפע טללי ברכה שיורדים עלינו בסוכה , כשחוסים בצל השכינה ? \n💡מסגולות החג ? \n\nפשוט האזיני וקבלי כלים כדי לקלוט את השפע הרוחני שמושפע עלינו בחג הזה . \nוהכי חשוב : תהיי טובת עין ולב ושתפי אחרות , כדי שגם הן יתברכו בכל הטוב הזה 🪎💕\nיהי רצון שברכת החג עם כל אוצרותיו תלווה אותנו וכל עם ישראל לכל השנה כולה . \nשבת שלום וחג שמח אהובות ויקרות, באהבה רבה ממני נינו 🩷",
+   "ts": 1790339958000,
+   "date": "2026-09-25",
+   "time": "15:39",
+   "files": [],
+   "drive": null,
+   "phone": "972525775796"
+  },
+  {
+   "id": "ACC6719558D934E1AF39CEE5FF089F8C",
+   "sender": "זוהרה",
+   "text": "",
+   "ts": 1790339958000,
+   "date": "2026-09-25",
+   "time": "15:39",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "3.7MB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1E4iD8d3WKYKNvJ2SAs9Aq3tDq01tW7DY/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,
