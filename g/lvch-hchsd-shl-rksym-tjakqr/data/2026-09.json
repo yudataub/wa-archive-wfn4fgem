@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-25T11:36:11.426Z",
+ "updated": "2026-09-25T12:04:50.674Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4122,6 +4122,57 @@
    "files": [],
    "drive": null,
    "phone": "972546377391"
+  },
+  {
+   "id": "ACC472D6745959FA85967CB304D4E074",
+   "sender": "נפתלי ורות שובל",
+   "text": "*?*",
+   "ts": 1790337659000,
+   "date": "2026-09-25",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972535488645"
+  },
+  {
+   "id": "A534A36F9FD334E0CA37D28F33170F10",
+   "sender": "צי מחשבים",
+   "text": "",
+   "ts": 1790337859000,
+   "date": "2026-09-25",
+   "time": "15:04",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "54KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1gzvukHNQLnSPktOXFmN1sw2ccwdyoAbD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gzvukHNQLnSPktOXFmN1sw2ccwdyoAbD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526200817"
+  },
+  {
+   "id": "A5C9802CFD3D62DAFF0F3B12CBD23DE5",
+   "sender": "צי מחשבים",
+   "text": "",
+   "ts": 1790337859000,
+   "date": "2026-09-25",
+   "time": "15:04",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "94KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Z1k4RyZuk4s7SCNITlZIYWVM5N8hyBQy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z1k4RyZuk4s7SCNITlZIYWVM5N8hyBQy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526200817"
   }
  ]
 }
