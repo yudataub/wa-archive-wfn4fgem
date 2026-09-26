@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-25T14:14:08.374Z",
+ "updated": "2026-09-26T20:11:35.515Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -789,6 +789,126 @@
    "date": "2026-09-25",
    "time": "17:13",
    "files": [],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "AC26657805338541731D501558B12F33",
+   "sender": "תהנו",
+   "text": "+972 50-336-6866",
+   "ts": 1790453365000,
+   "date": "2026-09-26",
+   "time": "23:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zS0UCMPYiSR5Ca8xFvXVCQkPnzj8JCr3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zS0UCMPYiSR5Ca8xFvXVCQkPnzj8JCr3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "AC16CF648F35B3EF2EF72C793424454E",
+   "sender": "תהנו",
+   "text": "למכירה גלאקסי z פליפ 5 \n256 גיגה\nבצבע ורוד תקין ועובד מגיע עם מגנים\n\n2000 שקל",
+   "ts": 1790453366000,
+   "date": "2026-09-26",
+   "time": "23:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tk_4Vbp5EscXWEpJGRBFQGn3H8oiRauz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tk_4Vbp5EscXWEpJGRBFQGn3H8oiRauz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "AC7A5D8595B39E1CCE889476E284E9D0",
+   "sender": "תהנו",
+   "text": "למכירה 7 פאלפונים שלא ידוע מה מצבם  לחלקים או למי שמתעסק במכשירים ישנים\nהכל 250 שקל\nבלי חפירות ובלי משחקים מי רציני לרשום עיר ואם אתם רוצים זה מגיע עד אלייכם",
+   "ts": 1790453366000,
+   "date": "2026-09-26",
+   "time": "23:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1O2PmRNeVDqmddymdnewyPSOWKWX-B_hv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O2PmRNeVDqmddymdnewyPSOWKWX-B_hv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "ACEBB4F9EBD72B3BC279AFC64B2F160B",
+   "sender": "תהנו",
+   "text": "למכירה 7 פאלפונים שלא ידוע מה מצבם  לחלקים או למי שמתעסק במכשירים ישנים\nהכל 250 שקל\nבלי חפירות ובלי משחקים מי רציני לרשום עיר ואם אתם רוצים זה מגיע עד אלייכם",
+   "ts": 1790453464000,
+   "date": "2026-09-26",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mFGHQNUM3L13d9QBmJtFx3LxgSgpQuXw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mFGHQNUM3L13d9QBmJtFx3LxgSgpQuXw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "ACC7BBD0AE3A162A788B3A8429736C8A",
+   "sender": "תהנו",
+   "text": "למכירה גלאקסי z פליפ 5 \n256 גיגה\nבצבע ורוד תקין ועובד מגיע עם מגנים\n\n2000 שקל",
+   "ts": 1790453465000,
+   "date": "2026-09-26",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ISIxoo8Gfb5wfKeLkWGsz5Vo-k9tbJ0z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ISIxoo8Gfb5wfKeLkWGsz5Vo-k9tbJ0z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "ACFDE833DD7DD6CB666284F6C49D140A",
+   "sender": "תהנו",
+   "text": "למכירה טבלאט גלאקסי טאב A (2016)\n16 גיגה\nנמכר עקב אי שימוש \n200 שקל\nנמכר ללא מטען \nתרצו מטען 50 שקל מטען חדש בתוספת",
+   "ts": 1790453465000,
+   "date": "2026-09-26",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AO_ojY_pFbKFWIs2rRXeg46L96yVgQci/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AO_ojY_pFbKFWIs2rRXeg46L96yVgQci&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972524580295"
   }
