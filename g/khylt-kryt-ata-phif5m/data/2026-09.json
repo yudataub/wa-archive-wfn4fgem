@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-26T16:30:08.860Z",
+ "updated": "2026-09-26T16:51:09.224Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -7635,6 +7635,26 @@
    "files": [],
    "drive": null,
    "phone": "972505939334"
+  },
+  {
+   "id": "AC73F29B15B1530ACB73931607CA927A",
+   "sender": "זהבה גוטמן",
+   "text": "",
+   "ts": 1790441457000,
+   "date": "2026-09-26",
+   "time": "19:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17NcV31KY9yHX3dy7EM3bwmRf0db_UvcO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17NcV31KY9yHX3dy7EM3bwmRf0db_UvcO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527361718"
   }
  ]
 }

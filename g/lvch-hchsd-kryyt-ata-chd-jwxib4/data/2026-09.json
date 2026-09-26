@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-26T16:36:08.980Z",
+ "updated": "2026-09-26T16:54:39.267Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3644,6 +3644,46 @@
    ],
    "drive": null,
    "phone": "972559326761"
+  },
+  {
+   "id": "ACF6153996A4D9091FF29604F80328BF",
+   "sender": "liad🎀",
+   "text": "",
+   "ts": 1790441634000,
+   "date": "2026-09-26",
+   "time": "19:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CYdK7mO8W8VQA2WsAwjsltAEIW83rDGJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CYdK7mO8W8VQA2WsAwjsltAEIW83rDGJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526624939"
+  },
+  {
+   "id": "AC353648A01A91286681404DF518A357",
+   "sender": "liad🎀",
+   "text": "שבוע טוב תושבות ק.אתא היקרות ! כרטיסים אחרונים לסרט הכי ממטורףףף שהיה!",
+   "ts": 1790441676000,
+   "date": "2026-09-26",
+   "time": "19:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fp1DOiM8Jj_RWpuMdZUCfwZiXiXg1IR9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fp1DOiM8Jj_RWpuMdZUCfwZiXiXg1IR9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526624939"
   }
  ]
 }
