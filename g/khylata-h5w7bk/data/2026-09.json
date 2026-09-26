@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-26T17:06:09.466Z",
+ "updated": "2026-09-26T17:55:40.183Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7090,6 +7090,48 @@
    "files": [],
    "drive": null,
    "phone": "972545599784"
+  },
+  {
+   "id": "AC688B66351EDD2DA7AD5C128B1FA76F",
+   "sender": "דליה",
+   "text": "האם הקניון פתוח🤷🏼‍♀️",
+   "ts": 1790445049000,
+   "date": "2026-09-26",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "phone": "972523121564"
+  },
+  {
+   "id": "AC61925D0F28A274D1540B907FD58718",
+   "sender": "סמדר",
+   "text": "לא",
+   "ts": 1790445249000,
+   "date": "2026-09-26",
+   "time": "20:54",
+   "files": [],
+   "drive": null,
+   "phone": "972524323134"
+  },
+  {
+   "id": "AC0F368DFB117640369516BE0351C8FB",
+   "sender": "אביטל",
+   "text": "",
+   "ts": 1790445329000,
+   "date": "2026-09-26",
+   "time": "20:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15QxYjYbV1I_hQH_SU-bf0AVGv6Bnq4EU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15QxYjYbV1I_hQH_SU-bf0AVGv6Bnq4EU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545494337"
   }
  ]
 }

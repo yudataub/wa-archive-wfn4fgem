@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-26T17:46:10.039Z",
+ "updated": "2026-09-26T17:51:10.129Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35306,11 +35306,23 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1G3b8r-lTkA5TSgdFLUJ-bfMYfik33jrg/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1G3b8r-lTkA5TSgdFLUJ-bfMYfik33jrg&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1G3b8r-lTkA5TSgdFLUJ-bfMYfik33jrg&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/2A19A66A91C7BACFA143_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972509985570"
+  },
+  {
+   "id": "AC9AB182DBCF5C94554AEF83BFA6E28B",
+   "sender": "Amihai Bar Levy",
+   "text": "מישהו שמשכיר מכשיר כפול של ברד?",
+   "ts": 1790445051000,
+   "date": "2026-09-26",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "phone": "972587188488"
   }
  ]
 }
