@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-26T15:06:17.573Z",
+ "updated": "2026-09-26T15:16:17.734Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -27941,6 +27941,101 @@
    "files": [],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "AC900095BC7227C033C17DD36B6D10EE",
+   "sender": "Stdb",
+   "text": "לא הייתי משלם מחירים כאלו",
+   "ts": 1790435304000,
+   "date": "2026-09-26",
+   "time": "18:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A57FFD4C3489798D44A2CF70D4CAA451",
+   "sender": "mary garby",
+   "text": "אנינרואה עכשיו ב200 שח",
+   "ts": 1790435353000,
+   "date": "2026-09-26",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5CAF630F558D534C145F3F43B7BDEE0",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790435394000,
+   "date": "2026-09-26",
+   "time": "18:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "68KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mJ60kNOebdveNe1pq5CEq0Z4iBGk4pDf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mJ60kNOebdveNe1pq5CEq0Z4iBGk4pDf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "AC6A4D0C36F34C0E45024F7BDD7A56F7",
+   "sender": "Nir",
+   "text": "אני פחות מכיר את המחירים של השוק הזה",
+   "ts": 1790435697000,
+   "date": "2026-09-26",
+   "time": "18:14",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "A55162C87F3E6845C53866EDB2122F58",
+   "sender": "אילנית שוורץ",
+   "text": "דוגמה לתמחור שאני מכירה...",
+   "ts": 1790435726000,
+   "date": "2026-09-26",
+   "time": "18:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11sMoxAbfTgQM58Znmvmnu9P0NGBExYTK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11sMoxAbfTgQM58Znmvmnu9P0NGBExYTK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523677123"
+  },
+  {
+   "id": "AC78EAF5114CCED4231F531F48E0B3C1",
+   "sender": "Nir",
+   "text": "אלו מחירים ממש זולים",
+   "ts": 1790435728000,
+   "date": "2026-09-26",
+   "time": "18:15",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "A56C5D46DF2600EFCDA296F2F0786A46",
+   "sender": "אילנית שוורץ",
+   "text": "בקש מקלוד לערוך סקירה ברשת של מחירים.",
+   "ts": 1790435755000,
+   "date": "2026-09-26",
+   "time": "18:15",
+   "files": [],
+   "drive": null,
+   "phone": "972523677123"
   }
  ]
 }
