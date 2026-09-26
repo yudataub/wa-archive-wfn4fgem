@@ -65,6 +65,9 @@ box-shadow:0 1px 2px rgba(0,0,0,.05);display:block;text-decoration:none;color:in
 .hit .files{color:var(--muted);font-size:12px;margin-top:4px;}
 mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 2px;}
 #status{text-align:center;color:var(--muted);padding:22px 16px;font-size:14px;line-height:1.6;}
+.scanbar{height:4px;background:var(--line);overflow:hidden;border-radius:999px;margin-top:10px}
+.scanbar span{display:block;height:100%;width:0;background:var(--accent);transition:width .2s ease}
+.scanbar[hidden]{display:none}
 #more{display:block;width:100%;margin:14px 0 30px;padding:12px;font-size:15px;font-family:inherit;
 background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 #more[hidden]{display:none;}
@@ -78,6 +81,7 @@ border-radius:10px;padding:10px 12px;margin-top:8px}
 <h1>חיפוש בכל הארכיון</h1>
 <div class="sub" id="sub">טוען…</div>
 <input id="q" type="search" placeholder="מה לחפש? (אפשר כמה מילים)" autocomplete="off">
+<div class="scanbar" id="scanbar" hidden aria-label="התקדמות החיפוש"><span id="scanfill"></span></div>
 <div class="tabs">
  <button class="tab" id="tGroups">קבוצות</button>
  <button class="tab" id="tOpts">אפשרויות</button>
@@ -189,7 +193,8 @@ border-radius:10px;padding:10px 12px;margin-top:8px}
 
 <div id="hits"></div><button id="more" hidden>עוד תוצאות</button><div id="status">טוען את האינדקס…</div></main>
 <script>
-var DATA={groups:{},messages:[]},TOK=[],shown=0,PAGE=100,last=[];
+var DATA={groups:{},messages:[]},shown=0,PAGE=100,last=[];
+var ARCH={months:[],run:0,busy:false,done:0,totalMessages:0,failed:0};
 // הטיות דולקות כברירת מחדל: בעברית "סוכה" אמור למצוא גם "בסוכה" ו"סוכות".
 // אפשר לכבות באפשרויות, ולשמור את הבחירה כברירת מחדל.
 var OPT={inflect:true,spell:false,gap:"any",near:5,sort:"new",groups:[],from:"",to:"",exclude:""};
@@ -227,12 +232,9 @@ function words(s){return String(s||"").toLowerCase().split(/[^֐-׿a-z0-9"']+/).
 function terms(){return q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);}
 function excludeTerms(){return OPT.exclude.trim().toLowerCase().split(/\s+/).filter(Boolean);}
 
-// טוקנים לכל הודעה — מחושב פעם אחת ונשמר, אחרת כל הקשה סורקת 3,800 הודעות מחדש
-function tokensOf(i){
- if(TOK[i])return TOK[i];
- var m=DATA.messages[i];
+function tokensOf(m){
  var g=(DATA.groups[m[0]]||{}).name||"";
- return (TOK[i]=words(m[6]+" "+m[5]+" "+(m[7]||"").split("|").join(" ")+" "+g));}
+ return words(m[6]+" "+m[5]+" "+(m[7]||"").split("|").join(" ")+" "+g);}
 
 function anyMatch(toks,re){for(var i=0;i<toks.length;i++)if(re.test(toks[i]))return true;return false;}
 function posOf(toks,re){var p=[];for(var i=0;i<toks.length;i++)if(re.test(toks[i]))p.push(i);return p;}
@@ -256,19 +258,19 @@ function phraseMatch(toks,res){
   if(ok)return true;}
  return false;}
 
-function results(){
+function filterRows(rows){
  var ts=terms(),ex=excludeTerms();
  var res=ts.map(termRe),exRes=ex.map(termRe);
  var gsel=OPT.groups.length?{}:null;
  if(gsel)OPT.groups.forEach(function(s){gsel[s]=1;});
  var out=[];
- for(var i=0;i<DATA.messages.length;i++){
-  var m=DATA.messages[i];
+ for(var i=0;i<rows.length;i++){
+  var m=rows[i];
   if(gsel&&!gsel[m[0]])continue;
   if(OPT.from&&m[3]<OPT.from)continue;
   if(OPT.to&&m[3]>OPT.to)continue;
   if(res.length||exRes.length){
-   var toks=tokensOf(i);
+   var toks=tokensOf(m);
    if(res.length){
     if(OPT.gap==="phrase"){if(!phraseMatch(toks,res))continue;}
     else if(OPT.gap==="near"){
@@ -284,6 +286,9 @@ function results(){
     for(var e=0;e<exRes.length;e++)if(anyMatch(toks,exRes[e])){bad=true;break;}
     if(bad)continue;}}
   out.push(m);}
+ return out;}
+function results(){
+ var out=filterRows(DATA.messages);
  if(OPT.sort==="old")out=out.slice().reverse();
  return out;}
 
@@ -336,9 +341,11 @@ function render(reset){
  hits.insertAdjacentHTML("beforeend",html);
  more.hidden=OPT.sort==="group"||OPT.sort==="sender"||shown>=last.length;
  more.textContent="עוד תוצאות ("+(last.length-shown)+")";
- statusEl.textContent=last.length?"":(ts.length||OPT.exclude||OPT.groups.length?"לא נמצאו תוצאות.":"");
+ if(ARCH.busy){
+  statusEl.textContent="סורק את כל הארכיון… "+ARCH.done+" מתוך "+ARCH.months.length+" חודשים · "+last.length+" תוצאות עד עכשיו";
+ }else statusEl.textContent=last.length?"":(ts.length||OPT.exclude||OPT.groups.length||OPT.from||OPT.to?"לא נמצאו תוצאות.":"הקלד מילה כדי לחפש בכל הקבוצות.");
  var filtered=ts.length||OPT.groups.length||OPT.from||OPT.to||OPT.exclude;
- sub.textContent=(filtered?last.length+" תוצאות · ":"")+DATA.messages.length+" הודעות ב-"+Object.keys(DATA.groups).length+" קבוצות"+
+ sub.textContent=(filtered?last.length+" תוצאות · ":"")+ARCH.totalMessages+" הודעות ב-"+Object.keys(DATA.groups).length+" קבוצות"+
   (OPT.groups.length?" · "+OPT.groups.length+" קבוצות נבחרו":"");
  el("gsum").textContent=OPT.groups.length?OPT.groups.length+" קבוצות נבחרו":"כל הקבוצות";
  saveHash();}
@@ -375,10 +382,10 @@ el("glist").addEventListener("change",function(e){
  var s=e.target.value;
  if(e.target.checked){if(OPT.groups.indexOf(s)<0)OPT.groups.push(s);}
  else OPT.groups=OPT.groups.filter(function(x){return x!==s;});
- render(true);});
+ queueSearch();});
 el("gfind").addEventListener("input",buildGroups);
-el("gAll").addEventListener("click",function(){OPT.groups=[];buildGroups();render(true);});
-el("gNone").addEventListener("click",function(){OPT.groups=[];buildGroups();render(true);});
+el("gAll").addEventListener("click",function(){OPT.groups=[];buildGroups();queueSearch();});
+el("gNone").addEventListener("click",function(){OPT.groups=[];buildGroups();queueSearch();});
 
 // ---- אפשרויות ----
 function optsToForm(){
@@ -389,8 +396,7 @@ function formToOpts(){
  OPT.inflect=el("oInflect").checked;OPT.spell=el("oSpell").checked;
  OPT.gap=el("oGap").value;OPT.near=Number(el("oNear").value)||5;OPT.sort=el("oSort").value;
  OPT.from=el("oFrom").value;OPT.to=el("oTo").value;OPT.exclude=el("oExclude").value;
- TOK=[];   // ההטיות/כתיב משנים את המשמעות של טוקן — לא מטמינים בין מצבים
- render(true);}
+ queueSearch();}
 ["oInflect","oSpell","oGap","oNear","oSort","oFrom","oTo"].forEach(function(id){
  el(id).addEventListener("change",formToOpts);});
 el("oExclude").addEventListener("input",function(){clearTimeout(window.__ex);window.__ex=setTimeout(formToOpts,200);});
@@ -400,7 +406,7 @@ el("oSaveDefault").addEventListener("click",function(){
  lsSet("waSearchDefault",d);el("oDefMsg").textContent="נשמר ✓";setTimeout(function(){el("oDefMsg").textContent="";},1800);});
 el("oReset").addEventListener("click",function(){
  OPT={inflect:true,spell:false,gap:"any",near:5,sort:"new",groups:[],from:"",to:"",exclude:""};
- optsToForm();buildGroups();render(true);});
+ optsToForm();buildGroups();queueSearch();});
 
 // ---- רשימות בשם: ערכות קבוצות וסוגי חיפוש ----
 // שלושה דברים נפרדים בכוונה: "ערכת קבוצות" = אילו קבוצות, "סוג חיפוש" = איך מחפשים,
@@ -430,7 +436,7 @@ el("gsSave").addEventListener("click",function(){
  el("gsName").value="";drawGSets();});
 chipClicks("gsList",GSETS,function(v){
  OPT.groups=Array.isArray(v)?v.slice():[];
- buildGroups();render(true);},drawGSets);
+ buildGroups();queueSearch();},drawGSets);
 
 function drawProfiles(){el("prList").innerHTML=chipsHtml(PROFILES.all(),"לא שמרת עדיין סוגי חיפוש.");}
 el("prSave").addEventListener("click",function(){
@@ -440,7 +446,7 @@ el("prSave").addEventListener("click",function(){
  el("prName").value="";drawProfiles();});
 chipClicks("prList",PROFILES,function(v){
  Object.keys(v||{}).forEach(function(k){OPT[k]=v[k];});
- TOK=[];optsToForm();render(true);},drawProfiles);
+ optsToForm();queueSearch();},drawProfiles);
 
 // ---- חיפושים שמורים + קישור ----
 function saveHash(){
@@ -469,7 +475,7 @@ el("sList").addEventListener("click",function(e){
  if(go!==null&&go!==undefined){
   var s=list[Number(go)];if(!s)return;
   q.value=s.q||"";OPT=JSON.parse(JSON.stringify(s.o));
-  optsToForm();buildGroups();render(true);}});
+  optsToForm();buildGroups();queueSearch();}});
 el("sLink").addEventListener("click",function(){
  saveHash();
  var url=location.href;
@@ -543,29 +549,46 @@ el("aiGo").addEventListener("click",function(){
 
 // ---- טעינה ----
 var timer=null;
-q.addEventListener("input",function(){clearTimeout(timer);timer=setTimeout(function(){render(true);},150);});
+function hasCriteria(){return terms().length||excludeTerms().length||OPT.groups.length||OPT.from||OPT.to;}
+function scanProgress(show){
+ el("scanbar").hidden=!show;
+ el("scanfill").style.width=ARCH.months.length?Math.round(100*ARCH.done/ARCH.months.length)+"%":"0%";}
+function startSearch(){
+ var run=++ARCH.run;
+ DATA.messages=[];last=[];shown=0;hits.innerHTML="";ARCH.done=0;ARCH.failed=0;
+ if(!hasCriteria()){
+  ARCH.busy=false;scanProgress(false);render(true);return;}
+ ARCH.busy=true;scanProgress(true);render(true);
+ function next(i){
+  if(run!==ARCH.run)return;
+  if(i>=ARCH.months.length){
+   ARCH.busy=false;scanProgress(false);render(true);
+   if(ARCH.failed)statusEl.textContent+=(statusEl.textContent?" ":"")+"לא ניתן היה לקרוא "+ARCH.failed+" חודשים.";
+   return;}
+  var mo=ARCH.months[i];
+  fetch("data/"+encodeURIComponent(mo)+".json").then(function(r){if(!r.ok)throw new Error("month");return r.json();})
+   .catch(function(){ARCH.failed++;return [];})
+   .then(function(rows){
+    if(run!==ARCH.run)return;
+    DATA.messages=DATA.messages.concat(filterRows(Array.isArray(rows)?rows:[]));
+    DATA.messages.sort(function(a,b){return b[2]-a[2];});
+    ARCH.done=i+1;scanProgress(true);render(true);
+    setTimeout(function(){next(i+1);},0);});}
+ next(0);}
+function queueSearch(){clearTimeout(timer);timer=setTimeout(startSearch,180);}
+q.addEventListener("input",queueSearch);
 more.addEventListener("click",function(){render(false);});
 fetch("data/index.json?t="+Date.now()).then(function(r){
  if(!r.ok)throw new Error("אין אינדקס");return r.json();})
  .then(function(d){
   DATA.groups=d.groups||{};
-  var months=(d.months||[]).slice().sort().reverse();
-  if(!months.length){statusEl.textContent="הארכיון ריק.";return;}
+  ARCH.months=(d.months||[]).slice().sort().reverse();
+  ARCH.totalMessages=Object.keys(DATA.groups).reduce(function(n,s){return n+Number(DATA.groups[s].n||0);},0);
+  if(!ARCH.months.length){statusEl.textContent="הארכיון ריק.";return;}
   var def=lsGet("waSearchDefault",null);
   if(def)Object.keys(def).forEach(function(k){OPT[k]=def[k];});
   loadHash();                      // קישור משותף גובר על ברירת המחדל
-  optsToForm();buildGroups();drawSaved();drawGSets();drawProfiles();q.focus();
-  var done=0;
-  return Promise.all(months.map(function(mo){
-   return fetch("data/"+encodeURIComponent(mo)+".json").then(function(r){return r.ok?r.json():[];})
-    .catch(function(){return [];})
-    .then(function(rows){
-     DATA.messages=DATA.messages.concat(rows);
-     DATA.messages.sort(function(a,b){return b[2]-a[2];});
-     TOK=[];done++;
-     render(true);
-     statusEl.textContent=done<months.length?("טוען… ("+done+" מתוך "+months.length+" חודשים)")
-      :(last.length?"":"הקלד מילה כדי לחפש בכל הקבוצות.");});}));})
+  optsToForm();buildGroups();drawSaved();drawGSets();drawProfiles();q.focus();startSearch();})
  .catch(function(){statusEl.textContent="האינדקס עדיין לא נבנה. הוא נוצר בריצת site-push הבאה.";});
 </script>
 </body>
