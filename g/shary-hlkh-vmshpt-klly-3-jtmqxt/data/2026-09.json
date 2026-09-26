@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-26T17:51:40.115Z",
+ "updated": "2026-09-26T18:04:16.649Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -17641,6 +17641,47 @@
    "files": [],
    "drive": null,
    "phone": "972542195059"
+  },
+  {
+   "id": "ACFD98C4FC79AA364EFCC3C994847C2C",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "גדול?",
+   "ts": 1790445827000,
+   "date": "2026-09-26",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC44E665AFDCAA30C9F951E0C4B9E114",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "ולמקור",
+   "ts": 1790445840000,
+   "date": "2026-09-26",
+   "time": "21:04",
+   "files": [],
+   "drive": null,
+   "phone": "972529545989"
+  },
+  {
+   "id": "AC7CB28646638D1CEE4B15123D02F3AA",
+   "sender": "מני",
+   "text": "",
+   "ts": 1790445844000,
+   "date": "2026-09-26",
+   "time": "21:04",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/10frkfB3xOiQcP3atP0cmZsKpD2QgHoBY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523396239"
   }
  ]
 }
