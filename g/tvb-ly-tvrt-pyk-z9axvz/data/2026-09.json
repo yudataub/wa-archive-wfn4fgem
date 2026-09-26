@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-26T17:17:39.633Z",
+ "updated": "2026-09-26T17:21:09.658Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -6470,6 +6470,57 @@
      "thumb": "https://drive.google.com/thumbnail?id=1Vc2vrj_xs5xb-TkQ2RXV9jlieUr-0moi&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACE17F816209251931EF8B92D8F8EA43",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790443075000,
+   "date": "2026-09-26",
+   "time": "20:17",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "429KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1vvUKRUPISfdYFRyTWZT09vWuACIE435S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vvUKRUPISfdYFRyTWZT09vWuACIE435S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACF5C88E24270C921A34FF8431967AEB",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790443181000,
+   "date": "2026-09-26",
+   "time": "20:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Gz238ihBx7w21MBBCyKmoSmSC0LQ2g_m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gz238ihBx7w21MBBCyKmoSmSC0LQ2g_m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC37E7049657D41D49EB699EB8434D09",
+   "sender": "שרון😄",
+   "text": "שמחת בית השואבה בק. שמואל, הערב 20:00, רח' שפירא, ברחבה מול פיצה פלוס.",
+   "ts": 1790443272000,
+   "date": "2026-09-26",
+   "time": "20:21",
+   "files": [],
    "drive": null,
    "phone": "972522828512"
   }
