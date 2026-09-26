@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-26T18:45:47.207Z",
+ "updated": "2026-09-26T19:16:24.485Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -700,6 +700,37 @@
    ],
    "drive": null,
    "phone": "972529209669"
+  },
+  {
+   "id": "ACAFF588CB09D1FF922708FAD699904D",
+   "sender": "מיקי רוט",
+   "text": "משהו מכיר\nנחל מוצל עם זרימה טובה כחצי שעה נסיעה מרכסים?",
+   "ts": 1790449916000,
+   "date": "2026-09-26",
+   "time": "22:11",
+   "files": [],
+   "drive": null,
+   "phone": "972523809764"
+  },
+  {
+   "id": "ACAEABEF3D3F2DF5F109DD5B4519F12A",
+   "sender": "לאה נתנזון",
+   "text": "*שבת שמחת תורה*👑\nבמחיר הרגע האחרון💫\nבתי כנסת בקרבת מקום\nישיבת ההסדר *במעלות*\n🏡 וילה מפוארת✨\n🍽️ מטבח מאובזר\n🛋️ סלון מרווח\n🌄 מרפסת רחבה\n🛏️ 5 חדרי שינה\n🛌 10 מיטות + מזרנים\n👨‍👩‍👧‍👦 עד 15 אורחים\n📞 050-954-0023",
+   "ts": 1790450161000,
+   "date": "2026-09-26",
+   "time": "22:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "664KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pFgd_U3Ryuu9e2nx0WSbi4Zjp0THYOXC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pFgd_U3Ryuu9e2nx0WSbi4Zjp0THYOXC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509540023"
   }
  ]
 }

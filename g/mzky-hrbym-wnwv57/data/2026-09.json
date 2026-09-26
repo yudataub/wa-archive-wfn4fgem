@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מזכי הרבים",
- "updated": "2026-09-26T18:30:46.969Z",
+ "updated": "2026-09-26T19:13:54.455Z",
  "messages": [
   {
    "id": "2A2E7A4B623E5587812C",
@@ -3062,6 +3062,17 @@
    "files": [],
    "drive": null,
    "phone": "972502511514"
+  },
+  {
+   "id": "ACC52456DCD55C745A1EC6760A65226F",
+   "sender": "עוז ברזילי",
+   "text": "https://drive.google.com/file/d/1UeutENKcN7JwzpP9WPBOP0i9g1Js2alz/view?usp=drivesdk",
+   "ts": 1790450036000,
+   "date": "2026-09-26",
+   "time": "22:13",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-26T18:28:46.959Z",
+ "updated": "2026-09-26T19:14:24.462Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -5535,6 +5535,26 @@
    "date": "2026-09-26",
    "time": "21:28",
    "files": [],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB00071CE195BAC5DD4E7",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "שלום. חג שמח.  רשימה של ניסי המלחמה ועוד.  ניתן להדפיס כקישוט לסוכה ועוד.   נודה לה' בהלל גם על ניסי מלחמת יום הכיפורים ועל ניסי המלחמה הנוכחית.",
+   "ts": 1790450061000,
+   "date": "2026-09-26",
+   "time": "22:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ms0VzMr0MRSYsBszFX59JnxZInDzEPhf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ms0VzMr0MRSYsBszFX59JnxZInDzEPhf&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534372917"
   }
