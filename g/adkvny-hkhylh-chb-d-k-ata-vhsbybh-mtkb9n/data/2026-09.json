@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "עדכוני הקהילה – חב\"ד ק. אתא והסביבה",
- "updated": "2026-09-25T13:44:37.961Z",
+ "updated": "2026-09-26T17:02:39.407Z",
  "messages": [
   {
    "id": "ACC713FACF36015022C09B21477A9693",
@@ -749,6 +749,26 @@
    "date": "2026-09-25",
    "time": "16:44",
    "files": [],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "AC8BC0BEA22E491EB56190DCAE1C0DC9",
+   "sender": "Yosi Mor",
+   "text": "📣 _תזכורת:_ *שמחת בית השואבה* — *_הלילה_, מוצ\"ש* בשעה *20:30* 🕣‼️\n\n*בבית כנסת חב\"ד*\nחנקין 20, קרית אתא\n\n _{שימו לב לשינוי הקל בשעה. 😊}_\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1790442153000,
+   "date": "2026-09-26",
+   "time": "20:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-OZ1FR5trs_bpGmL237y93-2cTosK_go/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-OZ1FR5trs_bpGmL237y93-2cTosK_go&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545707911"
   }
