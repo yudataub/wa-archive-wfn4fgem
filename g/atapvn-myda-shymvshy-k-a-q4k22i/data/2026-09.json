@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-26T16:21:08.736Z",
+ "updated": "2026-09-26T16:36:08.968Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5021,6 +5021,26 @@
    ],
    "drive": null,
    "phone": "972508422190"
+  },
+  {
+   "id": "A568CA4446959498D5FDE9008DC15449",
+   "sender": "תמי",
+   "text": "היום ב 20:00\nקריית אתא",
+   "ts": 1790440556000,
+   "date": "2026-09-26",
+   "time": "19:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/147VUY273yeUCEZNFbKcyRpkIC5M87J4f/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=147VUY273yeUCEZNFbKcyRpkIC5M87J4f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
   }
  ]
 }
