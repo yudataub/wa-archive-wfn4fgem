@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "המחשות לדף היומי",
- "updated": "2026-09-25T11:08:52.447Z",
+ "updated": "2026-09-26T16:27:18.817Z",
  "messages": [
   {
    "id": "3AC81B24D8449A30EA23",
@@ -1164,6 +1164,86 @@
      "path": "https://drive.google.com/file/d/1fGbCUadmV1cxCF49L-kQpob66eRwTIgL/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1fGbCUadmV1cxCF49L-kQpob66eRwTIgL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2C24723B58AC4C3A8B",
+   "sender": ".",
+   "text": "״שריינ״א״ (רש״י בכורות ח, א).",
+   "ts": 1790440019000,
+   "date": "2026-09-26",
+   "time": "19:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S6pcRNxSZA0ISgHwxfPBRPI0gC28xUMe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S6pcRNxSZA0ISgHwxfPBRPI0gC28xUMe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACD0EF48AC14D82BFF7",
+   "sender": ".",
+   "text": "״ויאמר ה׳ לדג״ (רש״י בכורות ח, א).",
+   "ts": 1790440024000,
+   "date": "2026-09-26",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S9F6d7MpMqRRuGALKFaTtKnLscQN1Kz7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S9F6d7MpMqRRuGALKFaTtKnLscQN1Kz7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A8BF664B2B003E5B2E0",
+   "sender": ".",
+   "text": "״כמאן דמיתפח״ (בכורות ח, ב).",
+   "ts": 1790440026000,
+   "date": "2026-09-26",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UUmiPHw5BUXx07TM-xFMyc-9xN3RoJxv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UUmiPHw5BUXx07TM-xFMyc-9xN3RoJxv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACEA393E993949962B8",
+   "sender": ".",
+   "text": "״משרא דסכיני״ (בכורות ח, ב).",
+   "ts": 1790440033000,
+   "date": "2026-09-26",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PIKRgewThr0PWROZ-b0TfuTiJLymyqJ-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PIKRgewThr0PWROZ-b0TfuTiJLymyqJ-&sz=w1200"
     }
    ],
    "drive": null,
