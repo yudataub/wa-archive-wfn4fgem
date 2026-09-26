@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "'חלקנו' - עדכונים ותוכן 23",
- "updated": "2026-09-25T11:46:38.843Z",
+ "updated": "2026-09-26T19:48:30.174Z",
  "messages": [
   {
    "id": "A589F498F93380611942393FE57FD1E2",
@@ -801,6 +801,26 @@
      "path": "https://drive.google.com/file/d/1cEbKihoXjkeYAr8hQDMKFbB97yj2qbhs/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1cEbKihoXjkeYAr8hQDMKFbB97yj2qbhs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553390473"
+  },
+  {
+   "id": "A59EE5EB13EC2C7D446D69D30CCEF773",
+   "sender": "מחלקת התוכן חלקי בקהילתי",
+   "text": "‏🌴 *מתי מברכים \"לישב בסוכה\"?* 🌴\n‏\n‏הרב אהרון דואר שליט״א, מרבני *חלקי*, עושה סדר בסוגיית 'לישב':\n‏\n‏🍞 על מה מברכים קודם, לחם, מזונות, או סתם כניסה לסוכה?\n‏🕰️ מה קודם - \"לישב בסוכה\" או הברכה על האוכל?\n‏🚪 יצאת לרגע מהסוכה - צריך לברך שוב?\n‏\n‏🎥 צפו בסרטון שיעשה לכם סדר בסוגיה \n‏\n‏שאלות הלכתיות נוספות?!\n‏📲 *רבני בית ההוראה של חלקי זמינים עבורכם במספר 02-6260115*",
+   "ts": 1790452089000,
+   "date": "2026-09-26",
+   "time": "22:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "15.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1khHK_6wkvXJhUIj9kVJjWZWvA7M66KZ0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1khHK_6wkvXJhUIj9kVJjWZWvA7M66KZ0&sz=w1200"
     }
    ],
    "drive": null,
