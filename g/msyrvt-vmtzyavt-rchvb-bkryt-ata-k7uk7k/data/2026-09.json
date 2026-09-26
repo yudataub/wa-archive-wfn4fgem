@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-25T09:27:24.052Z",
+ "updated": "2026-09-26T10:16:33.082Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -333,6 +333,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1AzNy6qkyzZUB1WJMWxK1ZuiMhIVNsc1g&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC83E7B51EFC8C8690EF3B7F3ABCBFDA",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790417765000,
+   "date": "2026-09-26",
+   "time": "13:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PMWFsi2u3YF2AzaP6issPe7HK-euSrda/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PMWFsi2u3YF2AzaP6issPe7HK-euSrda&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACDFF6EBE4070338892A1910C3E18F2F",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "למסירה חדש",
+   "ts": 1790417765000,
+   "date": "2026-09-26",
+   "time": "13:16",
+   "files": [],
    "drive": null,
    "phone": "972502843549"
   }
