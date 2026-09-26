@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-26T18:15:16.779Z",
+ "updated": "2026-09-26T18:23:46.877Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -5419,6 +5419,37 @@
    "date": "2026-09-26",
    "time": "21:15",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A549BFE0DD0CBE68711DEF15BF6EBDCF",
+   "sender": "י",
+   "text": "*בליל שבת: אישה כבת 50 נפצעה קשה מפגיעת רכב בדרך חיפה בקריית אתא* \nחובשים ופרמדיקים של מד\"א העניקו לה טיפול רפואי ופינו אותה לבית החולים רמב\"ם כשהיא מחוסרת הכרה עם חבלת ראש.\n\nלכל העדכונים 👇",
+   "ts": 1790446878000,
+   "date": "2026-09-26",
+   "time": "21:21",
+   "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A56E6E1AD03D52DCDFD32928BCCC9BB7",
+   "sender": "י",
+   "text": "",
+   "ts": 1790447001000,
+   "date": "2026-09-26",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xO5sP8cM1nQhp_RhTpeRTPTto3etMWJ9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xO5sP8cM1nQhp_RhTpeRTPTto3etMWJ9&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }

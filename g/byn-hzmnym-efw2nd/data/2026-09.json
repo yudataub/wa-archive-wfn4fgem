@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-25T05:53:22.612Z",
+ "updated": "2026-09-26T18:24:46.879Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -660,6 +660,26 @@
    ],
    "drive": null,
    "phone": "972525516470"
+  },
+  {
+   "id": "A5C614CE53141230278803B7DD9AA2A8",
+   "sender": "שושנה שטיינר",
+   "text": "",
+   "ts": 1790447060000,
+   "date": "2026-09-26",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "207KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e5VUhjI4PVLNSjN6y1k-5nicazjVXIXw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e5VUhjI4PVLNSjN6y1k-5nicazjVXIXw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545415296"
   }
  ]
 }
