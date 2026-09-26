@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-26T21:36:20.327Z",
+ "updated": "2026-09-26T21:49:20.476Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -931,6 +931,37 @@
    ],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "ACBCBBCC0562A0F8D2E09945E36EA025",
+   "sender": "תהנו",
+   "text": "",
+   "ts": 1790459321000,
+   "date": "2026-09-27",
+   "time": "00:48",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "23KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1X7Q6GS6cewpFbGroAM4XOSX8z-TVHD1g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X7Q6GS6cewpFbGroAM4XOSX8z-TVHD1g&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524580295"
+  },
+  {
+   "id": "AC31826876618700E3BBA87774CE294B",
+   "sender": "תהנו",
+   "text": "@76497696100522 \n\nלשים לב לשעות אין לי כוחות לגנון",
+   "ts": 1790459336000,
+   "date": "2026-09-27",
+   "time": "00:48",
+   "files": [],
+   "drive": null,
+   "phone": "972524580295"
   }
  ]
 }
