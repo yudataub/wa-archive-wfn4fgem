@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-26T18:04:16.649Z",
+ "updated": "2026-09-26T18:13:16.756Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -17682,6 +17682,90 @@
    ],
    "drive": null,
    "phone": "972523396239"
+  },
+  {
+   "id": "AC5A46D0497DC6EA2221634E5F231532",
+   "sender": "רועי מחבוביאן",
+   "text": "שלום לרבנים \nמה הדין שילד גזר את העלים של הלולב ?",
+   "ts": 1790446049000,
+   "date": "2026-09-26",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "252KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n3I7pD8oS8UYUxEEJsCOBu7X7TFI7FD3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n3I7pD8oS8UYUxEEJsCOBu7X7TFI7FD3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509445028"
+  },
+  {
+   "id": "ACF10C3DD615A86B823AA5664730C2D8",
+   "sender": "אורנה",
+   "text": "כן. אלו תכשיטי נוי לאשה . לא לסוכה",
+   "ts": 1790446130000,
+   "date": "2026-09-26",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972542195059"
+  },
+  {
+   "id": "AC288ECAF3C673D633B9BA9DC45AC4B3",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "צלם את כל הראש",
+   "ts": 1790446230000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC3E2415C7F83691908CA8ABC02B5E85",
+   "sender": "רועי מחבוביאן",
+   "text": "",
+   "ts": 1790446293000,
+   "date": "2026-09-26",
+   "time": "21:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T1Bv3ljjfGyrZjInnERyxyGTarALeWUZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T1Bv3ljjfGyrZjInnERyxyGTarALeWUZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509445028"
+  },
+  {
+   "id": "AC9D069AF5266B83E97AB216D439D2DD",
+   "sender": "רועי מחבוביאן",
+   "text": "גזרו רק את החלק המסומן",
+   "ts": 1790446305000,
+   "date": "2026-09-26",
+   "time": "21:11",
+   "files": [],
+   "drive": null,
+   "phone": "972509445028"
+  },
+  {
+   "id": "ACDE929D6071D749DC2D3D497482BDAE",
+   "sender": "עדי סוסן",
+   "text": "שבוע טוב במידה ואני נמצא בסוכה ולא בטוח שהיא כשרה (מבחינת הדפנות) ואני אוכל לחם האם צריך לברך לישב בסוכה?",
+   "ts": 1790446396000,
+   "date": "2026-09-26",
+   "time": "21:13",
+   "files": [],
+   "drive": null,
+   "phone": "972538213011"
   }
  ]
 }

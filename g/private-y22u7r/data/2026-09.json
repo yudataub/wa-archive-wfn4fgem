@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-26T17:42:09.987Z",
+ "updated": "2026-09-26T18:17:46.808Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -30520,6 +30520,170 @@
    "drive": null,
    "thread": "מלכה טרבלסקי",
    "phone": "972528686062"
+  },
+  {
+   "id": "A571E9935BA9617830E7929C4F2CC506",
+   "sender": "אני",
+   "text": "לא אני\nיהודי יקר\nשאת מכירה.",
+   "ts": 1790446203000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC3F7381D4B045B97C965277CD50D968",
+   "sender": "מלכה טרבלסקי",
+   "text": "איזה יופע",
+   "ts": 1790446210000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC14FD34498B3E89E6E9633ADBFCE38C",
+   "sender": "מלכה טרבלסקי",
+   "text": "יופי",
+   "ts": 1790446213000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC0119E9F3AC070D46153F2DC5F60EC1",
+   "sender": "מלכה טרבלסקי",
+   "text": "נראה לי אבא שלך",
+   "ts": 1790446217000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A5230F6D9AA37B18F4C7145209579421",
+   "sender": "אני",
+   "text": "תדרבני בכיתה שלך שיעשו מחר את יצחק ויזכו.",
+   "ts": 1790446247000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC4862475BD8EB0F244BE5506E67C5A2",
+   "sender": "מלכה טרבלסקי",
+   "text": "אוקיי",
+   "ts": 1790446255000,
+   "date": "2026-09-26",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC70205638C707E94C407D827EAD1592",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1790446266000,
+   "date": "2026-09-26",
+   "time": "21:11",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "6KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1eI_lsBMlex4_6ErKzxwf-ZHYN2Gqtz04/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A5E8782E7BA2B94179DE9C788425259A",
+   "sender": "אני",
+   "text": "יצחק אבינו כבר מוכן \nהבת שלי עכשיו עוברת לראות שהכל תקין \nhttps://tinyurl.com/26q47lte\nצריך לכתוב אולי לחכות כמה שניות עד שהדף עולה",
+   "ts": 1790446341000,
+   "date": "2026-09-26",
+   "time": "21:12",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A55A26F2B16137E13864B570B339CE94",
+   "sender": "אני",
+   "text": "גם יצחק מוכן, אפשר לעבור עליו",
+   "ts": 1790446342000,
+   "date": "2026-09-26",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "571KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N-eMyhqNFktqaF2HpDN__QmpXtpKrY8U/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N-eMyhqNFktqaF2HpDN__QmpXtpKrY8U&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A55BFF7A89C3808FC4943A402609E696",
+   "sender": "אני",
+   "text": "https://tinyurl.com/26q47lte",
+   "ts": 1790446347000,
+   "date": "2026-09-26",
+   "time": "21:12",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC63FF4F702F80D37F0F789A6AB2962D",
+   "sender": "מלכה טרבלסקי",
+   "text": "איזה יפה .. .ממש",
+   "ts": 1790446409000,
+   "date": "2026-09-26",
+   "time": "21:13",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A5D81C3624E9BB2D7876444DCF5FA63D",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790446665000,
+   "date": "2026-09-26",
+   "time": "21:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H8EFdDnDLRFETxompQvCaWKUHw7RClne/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H8EFdDnDLRFETxompQvCaWKUHw7RClne&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
