@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "5️⃣הוראה, יצירתיות, בינה ומה שביניהם- ליאת ונגרובסקי",
- "updated": "2026-09-27T13:36:57.992Z",
+ "updated": "2026-09-27T14:51:13.025Z",
  "messages": [
   {
    "id": "ACAB7A8BF49CEA2EA7B4BFF4819126A4",
@@ -444,6 +444,26 @@
    "date": "2026-09-27",
    "time": "16:36",
    "files": [],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "AC640C1D9637C0DF5AA09D3ADF7ACE87",
+   "sender": "ליאת ונגרובסקי",
+   "text": "חידת אושפיזין\n*זהו למי מהאושפיזין מתאים כל אחד מבעלי החיים*\n\nתשובות בקובץ: https://canva.link/5g5x58k1ikepxd3\n\nחג שמח, ליאת ונגרובסקי\n\nלהצטרפות לקבוצה פרשת השבוע בבינה מלאכותית:\nלהצטרפות לקהילת המורים:\nלמעקב בערוץ: https://whatsapp.com/channel/0029VagHeDGHwXb9DEqc7m1f",
+   "ts": 1790520653000,
+   "date": "2026-09-27",
+   "time": "17:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-PDYbM9kr8Wp0fFrB2kW8HsEwcT0hIXg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-PDYbM9kr8Wp0fFrB2kW8HsEwcT0hIXg&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546535745"
   }
