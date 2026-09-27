@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T15:26:56.194Z",
+ "updated": "2026-09-27T15:56:26.662Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36164,6 +36164,26 @@
    ],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "ACF1CB035CD29DFCE41D1022978B6B0D",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1790524576000,
+   "date": "2026-09-27",
+   "time": "18:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dT6x3c4_Lqptj0nXAv5pThe-lg469gHM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dT6x3c4_Lqptj0nXAv5pThe-lg469gHM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T15:38:26.340Z",
+ "updated": "2026-09-27T15:56:26.652Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5071,6 +5071,37 @@
    ],
    "drive": null,
    "phone": "972527632787"
+  },
+  {
+   "id": "AC0328ED7EB97AF679DF974172C32876",
+   "sender": "אסתי שולמן",
+   "text": "פעוט חרדי בן שלוש במצב קשה לאחר שהתנגש בעמוד כשרכב על בימבה בשכונת רמות בירושלים.\n\n*לשליחת חומרים: 0523193074*\n\n*אוֹף דה רקורד🔇 ללא צנזורה • להצטרפות:*\n*ערוץ וואטסאפ:* ‏https://whatsapp.com/channel/0029VbDnkmN9MF9AHOdnOd07\n*גם בטלגרם:* t.me/offtherecord1",
+   "ts": 1790524522000,
+   "date": "2026-09-27",
+   "time": "18:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "713KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12b6wodF31eO0jJkEU5SF6T8kAB_oyG50/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12b6wodF31eO0jJkEU5SF6T8kAB_oyG50&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545852027"
+  },
+  {
+   "id": "ACDB2E810B77EFC99012EDFB4391ADB5",
+   "sender": "אסתי שולמן",
+   "text": "לתשומת ליבכם. אחרי שהרבה ילדים מגיעים אלי עם פציעות מקורקינט ובימבה.",
+   "ts": 1790524560000,
+   "date": "2026-09-27",
+   "time": "18:56",
+   "files": [],
+   "drive": null,
+   "phone": "972545852027"
   }
  ]
 }
