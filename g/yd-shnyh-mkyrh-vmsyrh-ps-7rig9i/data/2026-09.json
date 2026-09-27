@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-27T08:20:22.417Z",
+ "updated": "2026-09-27T09:53:36.156Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -982,6 +982,26 @@
    ],
    "drive": null,
    "phone": "972559985850"
+  },
+  {
+   "id": "3A1FC873661099FF5D08",
+   "sender": "אסף",
+   "text": "חמסה פרחונית לתלייה 70₪",
+   "ts": 1790502802000,
+   "date": "2026-09-27",
+   "time": "12:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "282KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yjWz6n3ophv9WLRE_HYxWNGzu_b4xPfs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yjWz6n3ophv9WLRE_HYxWNGzu_b4xPfs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

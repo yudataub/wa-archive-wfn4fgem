@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-27T08:16:52.333Z",
+ "updated": "2026-09-27T09:55:06.179Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -7706,6 +7706,26 @@
    ],
    "drive": null,
    "phone": "972547575312"
+  },
+  {
+   "id": "ACD2A78E027ABA7863A2E8AD094732AA",
+   "sender": "דוד סונטה מנהלים מפנק",
+   "text": "550 שח מלברו גולד 7 שקיות טבק",
+   "ts": 1790502886000,
+   "date": "2026-09-27",
+   "time": "12:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "354KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZkLl7n5M-2q2vnDgROSNNXz774ugzdZF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZkLl7n5M-2q2vnDgROSNNXz774ugzdZF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503404314"
   }
  ]
 }

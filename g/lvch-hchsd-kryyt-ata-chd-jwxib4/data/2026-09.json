@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T09:41:35.930Z",
+ "updated": "2026-09-27T09:57:36.200Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4252,6 +4252,59 @@
    "files": [],
    "drive": null,
    "phone": "972527073970"
+  },
+  {
+   "id": "AC3948B11BED53AD1D386ECFE3EE9924",
+   "sender": "הודיה ברזלי🌷",
+   "text": "תנסי במשוגע",
+   "ts": 1790502531000,
+   "date": "2026-09-27",
+   "time": "12:48",
+   "files": [],
+   "drive": null,
+   "phone": "972525621472"
+  },
+  {
+   "id": "3AC8F81D7E6DF788BA0F",
+   "sender": "לימור אלקיים",
+   "text": "",
+   "ts": 1790502829000,
+   "date": "2026-09-27",
+   "time": "12:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e9DinrcljvIEDPl8-Q1_ypP95nsKty1j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e9DinrcljvIEDPl8-Q1_ypP95nsKty1j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535437757"
+  },
+  {
+   "id": "3AFA0240D4033AEFEF30",
+   "sender": "לימור אלקיים",
+   "text": "שבוע טוב מועדים לשמחה \nמוזמנים למבחר גלידות 🍦 טריות וטעימות יוגורט ותוספות 🍉🍇קינוחי כוסות וכמובן וופל בלאגי🧇עוגיות 🍪שתייה קרה/ חמה ועוד \nסניפנו פתוח עד 22:00 \nיש משלוחים דרך האפליקציות \nדוכיפת 1 קרית אתא 🙏",
+   "ts": 1790502830000,
+   "date": "2026-09-27",
+   "time": "12:53",
+   "files": [],
+   "drive": null,
+   "phone": "972535437757"
+  },
+  {
+   "id": "AC155E2DB31540667B9275876ECCD908",
+   "sender": "יונה",
+   "text": "מחפש לקנות ערבות איפה אני מוצא עכשיו?",
+   "ts": 1790503043000,
+   "date": "2026-09-27",
+   "time": "12:57",
+   "files": [],
+   "drive": null,
+   "phone": "972527149437"
   }
  ]
 }
