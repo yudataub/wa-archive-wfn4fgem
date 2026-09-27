@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T18:00:45.579Z",
+ "updated": "2026-09-27T18:16:15.797Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36409,6 +36409,26 @@
    "files": [],
    "drive": null,
    "phone": "972545767675"
+  },
+  {
+   "id": "3AB0706B7387D9FD18DF",
+   "sender": "אסף",
+   "text": "קערת סדר פסח 120₪",
+   "ts": 1790532963000,
+   "date": "2026-09-27",
+   "time": "21:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "306KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DJQD0fRXLn4MAJ2zdmFWtnE5QNABQjbb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DJQD0fRXLn4MAJ2zdmFWtnE5QNABQjbb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

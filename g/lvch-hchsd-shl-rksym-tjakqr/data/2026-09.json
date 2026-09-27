@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T16:12:33.660Z",
+ "updated": "2026-09-27T18:13:45.762Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5113,6 +5113,37 @@
    "files": [],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "AC66636186BE4A08DF418A83B2E061A8",
+   "sender": "Dudi",
+   "text": "",
+   "ts": 1790532772000,
+   "date": "2026-09-27",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "525KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QGf6c3oEmgOap7qf4urXSK2bCbeFxN9d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QGf6c3oEmgOap7qf4urXSK2bCbeFxN9d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584772228"
+  },
+  {
+   "id": "AC440DA74BAD1E8DFF60D75369C306A7",
+   "sender": "Dudi",
+   "text": "השמחת חג תתקיים מחר ולא כפי המפורסם ביום ג.\nמועדים לשמחה",
+   "ts": 1790532808000,
+   "date": "2026-09-27",
+   "time": "21:13",
+   "files": [],
+   "drive": null,
+   "phone": "972584772228"
   }
  ]
 }
