@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "תרגולי מקדש תשפ''ו",
- "updated": "2026-09-25T11:46:40.514Z",
+ "updated": "2026-09-27T12:06:27.149Z",
  "messages": [
   {
    "id": "AC3F2663A638CD8101DD2DFF33D263E2",
@@ -158,6 +158,37 @@
    "files": [],
    "drive": null,
    "phone": "972584572087"
+  },
+  {
+   "id": "AC0F09FF7D2BC7ACFF63BC08AEF2BEAA",
+   "sender": "צביה סביר",
+   "text": "שלום! \nאני מחפשת שרטוט אמין של בית המקדש השני, בו מסומנים הכהנים והלווים השומרים על המקדש על פי המשנה.",
+   "ts": 1790510767000,
+   "date": "2026-09-27",
+   "time": "15:06",
+   "files": [],
+   "drive": null,
+   "phone": "972556699894"
+  },
+  {
+   "id": "AC2D0A85092A5DB4342CB0B9528C410D",
+   "sender": "צביה סביר",
+   "text": "",
+   "ts": 1790510768000,
+   "date": "2026-09-27",
+   "time": "15:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AEFnj3xgLuKKqKczRsPfLcTycgaoTqRg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AEFnj3xgLuKKqKczRsPfLcTycgaoTqRg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556699894"
   }
  ]
 }
