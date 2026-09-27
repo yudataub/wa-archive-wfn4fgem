@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T05:23:31.539Z",
+ "updated": "2026-09-27T05:54:01.993Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35494,6 +35494,26 @@
    "files": [],
    "drive": null,
    "phone": "972549534747"
+  },
+  {
+   "id": "2A3CEE4D9C3F72C4D0FF",
+   "sender": "סטאר קור",
+   "text": "",
+   "ts": 1790488430000,
+   "date": "2026-09-27",
+   "time": "08:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-t4rcRyMKd0CUkjYShg8W_RnVpuBjX5X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-t4rcRyMKd0CUkjYShg8W_RnVpuBjX5X&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555574495"
   }
  ]
 }

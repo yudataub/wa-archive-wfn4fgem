@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T04:47:30.985Z",
+ "updated": "2026-09-27T05:52:01.956Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4747,6 +4747,26 @@
    "files": [],
    "drive": null,
    "phone": "972507333664"
+  },
+  {
+   "id": "AC598B05983ED64780E1184E67C05FAC",
+   "sender": "ח.א -בנייה, תשתיות, פיתוח",
+   "text": "למסירה",
+   "ts": 1790488316000,
+   "date": "2026-09-27",
+   "time": "08:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "449KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V-_4cEigg1Vdiq9euNl9Ks6CF-8neqZU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V-_4cEigg1Vdiq9euNl9Ks6CF-8neqZU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542628851"
   }
  ]
 }
