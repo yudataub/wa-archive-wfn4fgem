@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-27T17:15:10.351Z",
+ "updated": "2026-09-27T18:19:45.879Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6098,6 +6098,46 @@
    ],
    "drive": null,
    "phone": "972523127393"
+  },
+  {
+   "id": "AC3BC2CAE48C1248FDC1A46EA1117324",
+   "sender": "גמח עדן",
+   "text": "טרקטורון טייגר 36v \n2200₪ \n0509393809 קרית ים",
+   "ts": 1790533163000,
+   "date": "2026-09-27",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/178gYuxnaipDtdT_DQBmV3afhvYf7mVEl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=178gYuxnaipDtdT_DQBmV3afhvYf7mVEl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC3F1C95111E0BD927AFC50CD59173B6",
+   "sender": "גמח עדן",
+   "text": "",
+   "ts": 1790533163000,
+   "date": "2026-09-27",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bKFOkKN3VbGHqZyjbY3BhLYfRhV2koiu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bKFOkKN3VbGHqZyjbY3BhLYfRhV2koiu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }

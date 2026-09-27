@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T18:05:15.648Z",
+ "updated": "2026-09-27T18:19:15.856Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4638,6 +4638,46 @@
    "files": [],
    "drive": null,
    "phone": "972528715167"
+  },
+  {
+   "id": "ACFBE9B66938351EE193FE2836D599C4",
+   "sender": "גמח עדן",
+   "text": "טרקטורון טייגר 36v \n2200₪ \n0509393809 קרית ים",
+   "ts": 1790533150000,
+   "date": "2026-09-27",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JOxEG9Zx3HE3Gs4r5zss7P9jQ6X6Nphb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JOxEG9Zx3HE3Gs4r5zss7P9jQ6X6Nphb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC107A86912FF8B6F0E8DF2F91D80F69",
+   "sender": "גמח עדן",
+   "text": "",
+   "ts": 1790533151000,
+   "date": "2026-09-27",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QxVZKhpG_HHPdeCSVfR9zVXucXIJfeuQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QxVZKhpG_HHPdeCSVfR9zVXucXIJfeuQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }
