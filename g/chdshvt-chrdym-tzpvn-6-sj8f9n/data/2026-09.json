@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-27T10:48:42.057Z",
+ "updated": "2026-09-27T17:29:10.576Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -5558,6 +5558,26 @@
    "date": "2026-09-27",
    "time": "13:48",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A551BE14167127B7DCE3EC3B54A40114",
+   "sender": "י",
+   "text": "*אור רביד: תושב חיפה בשנות ה-50 לחייו, נעצר לאחר שפגע עם רכבו ברכב אחר בחניון במרכז הרפואי לגליל בנהריה וניסה להימלט מהמקום*\nבבדיקה שנערכה לו התגלתה בגופו כמות אלכוהול גבוהה כמעט פי 4 מהמותר בחוק. רכבו נגרר ורישיון הנהיגה שלו נפסל. (צילום: דוברות המשטרה)\n\nלכל העדכונים 👇",
+   "ts": 1790530149000,
+   "date": "2026-09-27",
+   "time": "20:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Wii-tt8RDsjXHITb6ccRelMK3bS9DFdi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wii-tt8RDsjXHITb6ccRelMK3bS9DFdi&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
