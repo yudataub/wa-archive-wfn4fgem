@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T08:21:37.860Z",
+ "updated": "2026-09-27T11:29:13.980Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -28482,6 +28482,46 @@
    ],
    "drive": null,
    "phone": "972527470596"
+  },
+  {
+   "id": "3EB04CF01742444DF53D30",
+   "sender": "נועם",
+   "text": "סרטון חדש של הליכוד בai\n*לכל עדכוני 'הקו החרדי':*",
+   "ts": 1790508541000,
+   "date": "2026-09-27",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ujgUJl6XoN5wHFw9LU8dCcOlPILywku2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ujgUJl6XoN5wHFw9LU8dCcOlPILywku2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB019451210169FAE10F6",
+   "sender": "נועם",
+   "text": "סרטון חדש של הליכוד בai\n*לכל עדכוני 'הקו החרדי':*",
+   "ts": 1790508542000,
+   "date": "2026-09-27",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1dleT21Ewfk93qd5pyulrg2lcBFQ5QC_6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dleT21Ewfk93qd5pyulrg2lcBFQ5QC_6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
