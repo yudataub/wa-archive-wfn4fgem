@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T09:29:35.760Z",
+ "updated": "2026-09-27T09:41:35.930Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4235,11 +4235,23 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Q1FXzN8hSs4C4mVnt8sF_x2KD7r2Di-w/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Q1FXzN8hSs4C4mVnt8sF_x2KD7r2Di-w&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Q1FXzN8hSs4C4mVnt8sF_x2KD7r2Di-w&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-09/A531AB00034283CF5451A652C2C32647_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "AC205C64836369D5C1A114A8F7E01484",
+   "sender": "רעות",
+   "text": "איפה ניתן לרכוש ציפסר באזור?",
+   "ts": 1790502085000,
+   "date": "2026-09-27",
+   "time": "12:41",
+   "files": [],
+   "drive": null,
+   "phone": "972527073970"
   }
  ]
 }
