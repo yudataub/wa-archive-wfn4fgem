@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-27T13:06:33.509Z",
+ "updated": "2026-09-27T13:19:33.722Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -31642,6 +31642,37 @@
    "drive": null,
    "thread": "רפי",
    "phone": "972505284131"
+  },
+  {
+   "id": "3EB0019D0B53F9580C6652",
+   "sender": "אני",
+   "text": "תודה רבה - יש מאז הבוקר בערך 200 כניסות של תלמידים",
+   "ts": 1790515155000,
+   "date": "2026-09-27",
+   "time": "16:19",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0B70795C8706CC86C52",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790515163000,
+   "date": "2026-09-27",
+   "time": "16:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rYOzdTymnKxVpMqsVYEMFDCtAOohlpkE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rYOzdTymnKxVpMqsVYEMFDCtAOohlpkE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T13:17:33.686Z",
+ "updated": "2026-09-27T13:24:03.789Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35958,6 +35958,37 @@
    ],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "2A416B443BD314EC6178",
+   "sender": "אופק הלל זגורי",
+   "text": "פותח את ידך פתוחים בעזרת השם בחול המועד גם בנשר וגם בקרית אתא \nסניף אתא פתוח רגיל עד השעה 23:00 בלי נדר",
+   "ts": 1790515432000,
+   "date": "2026-09-27",
+   "time": "16:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527766833"
+  },
+  {
+   "id": "2A46A332C034E3ECC9E1",
+   "sender": "אופק הלל זגורי",
+   "text": "",
+   "ts": 1790515438000,
+   "date": "2026-09-27",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "298KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16cVXupIOfAOgTRuU9HhTQy8bCnOJA0_o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16cVXupIOfAOgTRuU9HhTQy8bCnOJA0_o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527766833"
   }
  ]
 }

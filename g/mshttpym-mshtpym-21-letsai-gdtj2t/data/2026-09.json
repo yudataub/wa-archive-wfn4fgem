@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משתתפים משתפים #21 | LetsAI",
- "updated": "2026-09-27T10:03:00.812Z",
+ "updated": "2026-09-27T13:20:27.737Z",
  "messages": [
   {
    "id": "AC2E13F04ADBC987CECBB4F3F3730C68",
@@ -415,6 +415,26 @@
    "files": [],
    "drive": null,
    "phone": "972544396464"
+  },
+  {
+   "id": "2A442969E67D79EFABCA",
+   "sender": "SYSTM | הטמעת סוכני Ai לעסקים",
+   "text": "הגרסא שלי לטרנד\n\n*חג שמח!*",
+   "ts": 1790515217000,
+   "date": "2026-09-27",
+   "time": "16:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12s5C1lAkLcBMpR0uS0Dwj4dpTok0DPPo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12s5C1lAkLcBMpR0uS0Dwj4dpTok0DPPo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534122548"
   }
  ]
 }

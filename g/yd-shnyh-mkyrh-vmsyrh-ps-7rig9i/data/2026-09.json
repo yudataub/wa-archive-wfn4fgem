@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-27T10:52:42.117Z",
+ "updated": "2026-09-27T13:23:03.780Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1042,6 +1042,86 @@
    ],
    "drive": null,
    "phone": "972546608452"
+  },
+  {
+   "id": "3AB89FE779792D0611E4",
+   "sender": "דנה❣️",
+   "text": "למכירה אביזרים לעגלת יויו❣️הכל שמור מאוד כחדש❣️מה כלול:\n*טרמפיסט מקורי בייביזן עמידה/ישיבה\n*כיסוי יויו לטיסה\n*מזרון בייביזן מקורי שחור\n*גגון בייביזן מקורי שחור\n*כיסוי חורף ניילון בנרתיק מקורי בייביזן\n*פגוש קידמי\n*סל של מיננה חדש\n*****הכל יחד רק-500שח❣️*****\nאיסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790515087000,
+   "date": "2026-09-27",
+   "time": "16:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1foFIi9nGTSOqyHt77v1tLlsBqHsCbsnv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1foFIi9nGTSOqyHt77v1tLlsBqHsCbsnv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
+  },
+  {
+   "id": "3AE11C55800F0679E329",
+   "sender": "איתי קובי",
+   "text": "דונה מצב חדש רק 350 ש״ח \nמכונת כביסה מצב חדש רק 400 ש״ח כל הקודם זוכה",
+   "ts": 1790515381000,
+   "date": "2026-09-27",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "885KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11-qLHnzAoqjR0NOZHtvTnG3DBqZDV72T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11-qLHnzAoqjR0NOZHtvTnG3DBqZDV72T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505071079"
+  },
+  {
+   "id": "3A1B8D7C8C42378C354F",
+   "sender": "איתי קובי",
+   "text": "",
+   "ts": 1790515382000,
+   "date": "2026-09-27",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "832KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Lb7Q40MhpTCq1hUcJdDFaV0x6zSO4H52/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Lb7Q40MhpTCq1hUcJdDFaV0x6zSO4H52&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505071079"
+  },
+  {
+   "id": "3A71CCC506B698C16E40",
+   "sender": "איתי קובי",
+   "text": "",
+   "ts": 1790515382000,
+   "date": "2026-09-27",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "300KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z8TjTP-wcMjwHgf1qdeSbmPIzXDjD_l6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z8TjTP-wcMjwHgf1qdeSbmPIzXDjD_l6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505071079"
   }
  ]
 }
