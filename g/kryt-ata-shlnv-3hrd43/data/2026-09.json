@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T14:06:41.382Z",
+ "updated": "2026-09-27T14:37:18.599Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36062,6 +36062,46 @@
    "files": [],
    "drive": null,
    "phone": "972587120930"
+  },
+  {
+   "id": "3AFF134950BEDADB572F",
+   "sender": "דנה❣️",
+   "text": "למכירה מאבריק 1000\nשנת-2015,יד ראשונה❣️\nעשה רק-450שעות❣️\nאין נתונים כאלו!!! הכלי שמור ומטופל ברמה הכי גבוהה! \nמס צהוב,מגיע ל-100קמש!\n*אין כלים כאלו*❣️❣️❣️\nמחיר לבוא לקחת! רק-32,000שח! \nאיסוף מהקריות,בעלות בגוב!\nלפרטים נוספים רק לרציניים!\n0509535820,דנה.",
+   "ts": 1790519746000,
+   "date": "2026-09-27",
+   "time": "17:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "255KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1P0BOfzW946Cck72XfWcOPvpF3zW52mdI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1P0BOfzW946Cck72XfWcOPvpF3zW52mdI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
+  },
+  {
+   "id": "AC46567DA11B0A80B0730F605A0A3E0E",
+   "sender": "המשפחתון של לילך❤️",
+   "text": "",
+   "ts": 1790519813000,
+   "date": "2026-09-27",
+   "time": "17:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "197KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B508dmxiD3r-fcHoUSbX-wYmrGL1vT03/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B508dmxiD3r-fcHoUSbX-wYmrGL1vT03&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533614260"
   }
  ]
 }

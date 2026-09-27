@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-27T13:23:03.780Z",
+ "updated": "2026-09-27T14:36:18.621Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1122,6 +1122,26 @@
    ],
    "drive": null,
    "phone": "972505071079"
+  },
+  {
+   "id": "3A0A093C5F1C18854613",
+   "sender": "דנה❣️",
+   "text": "למכירה מאבריק 1000\nשנת-2015,יד ראשונה❣️\nעשה רק-450שעות❣️\nאין נתונים כאלו!!! הכלי שמור ומטופל ברמה הכי גבוהה! \nמס צהוב,מגיע ל-100קמש!\n*אין כלים כאלו*❣️❣️❣️\nמחיר לבוא לקחת! רק-32,000שח! \nאיסוף מהקריות,בעלות בגוב!\nלפרטים נוספים רק לרציניים!\n0509535820,דנה.",
+   "ts": 1790519774000,
+   "date": "2026-09-27",
+   "time": "17:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "255KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oBsdxa2vY9O0s-qh3k_BeF2sYXihdLq5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oBsdxa2vY9O0s-qh3k_BeF2sYXihdLq5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }
