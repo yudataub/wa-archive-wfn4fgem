@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T05:06:23.522Z",
+ "updated": "2026-09-27T05:15:23.652Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -28298,6 +28298,46 @@
    ],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "3EB024D0EA01DCB0E60654",
+   "sender": "נועם",
+   "text": "https://ronoink.github.io/freechoice/\n\nבחירה חופשית – משחק קליקר מהיר וממכר ל־2–4 שחקנים! בחרו מפלגה, שגרו פתקים לקלפי בקצב מסחרר וצברו כמה שיותר קולות לפני שהשעון נגמר. מי ינצח בבחירות? 🗳️🔥",
+   "ts": 1790486106000,
+   "date": "2026-09-27",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "296KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X5Rxfn_Yi9k7HAAw3Fz_98P4U6sS0kQS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X5Rxfn_Yi9k7HAAw3Fz_98P4U6sS0kQS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB08D8B46C2596AA5BD8D",
+   "sender": "נועם",
+   "text": "https://ronoink.github.io/freechoice/\n\nבחירה חופשית – משחק קליקר מהיר וממכר ל־2–4 שחקנים! בחרו מפלגה, שגרו פתקים לקלפי בקצב מסחרר וצברו כמה שיותר קולות לפני שהשעון נגמר. מי ינצח בבחירות? 🗳️🔥",
+   "ts": 1790486111000,
+   "date": "2026-09-27",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "296KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oj8g3LY2kwP3ZSlWlplyfJ8pPGOKADHH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oj8g3LY2kwP3ZSlWlplyfJ8pPGOKADHH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
