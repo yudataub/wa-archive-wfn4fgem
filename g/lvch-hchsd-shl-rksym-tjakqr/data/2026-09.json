@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T10:02:36.290Z",
+ "updated": "2026-09-27T10:38:11.896Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4912,6 +4912,26 @@
    ],
    "drive": null,
    "phone": "972527632787"
+  },
+  {
+   "id": "AC7AEF88BB813C765B56E049F08D6249",
+   "sender": "אחיה ודעי",
+   "text": "",
+   "ts": 1790505461000,
+   "date": "2026-09-27",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "457KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_jzlSzOzsNa-r82LQHqlvXdI3nxQAR8f/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_jzlSzOzsNa-r82LQHqlvXdI3nxQAR8f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537139805"
   }
  ]
 }

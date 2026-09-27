@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-27T09:55:06.179Z",
+ "updated": "2026-09-27T10:39:11.943Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -7726,6 +7726,26 @@
    ],
    "drive": null,
    "phone": "972503404314"
+  },
+  {
+   "id": "ACD4AFD10DBE0A3693E1CB9B6FFAFEF4",
+   "sender": "יפעת",
+   "text": "למסירה משטח אימון סופג לכלבים מקרית ביאליק",
+   "ts": 1790505539000,
+   "date": "2026-09-27",
+   "time": "13:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19k-eAMW4yq76atW7IG0eYd3l-ePYx96x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19k-eAMW4yq76atW7IG0eYd3l-ePYx96x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523652995"
   }
  ]
 }
