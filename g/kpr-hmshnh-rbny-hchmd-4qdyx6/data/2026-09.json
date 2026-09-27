@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כפר המשנה - רבני החמד!",
- "updated": "2026-09-27T08:16:52.323Z",
+ "updated": "2026-09-27T08:29:52.571Z",
  "messages": [
   {
    "id": "AC41B08E10C95859C776512F9CEBC408",
@@ -11,6 +11,26 @@
    "date": "2026-09-27",
    "time": "11:16",
    "files": [],
+   "drive": null,
+   "phone": "972552776790"
+  },
+  {
+   "id": "ACCD12994917DCB012AF2AC15C525AD7",
+   "sender": "אביעד מושקוביץ",
+   "text": "*הפרוייקט הגדול של סוכות* \n\n🏁🏁🏁*מתחילים!*🏁🏁🏁\n\nפודקאסטים מרתקים על *מסכת סוכה*:\n* סיפורים מרתקים\n* לימוד חוויתי\n* חידות מאתגרות\n* הגרלות עם פרסים מטריפים!\nכל זה בפרוייקט המיוחד שמגיע אליכם *ללא עלות!*\n\nאז למה אתם מחכים??\nמתחילים עוד רגע!\nלפרטים ולהצטרפות למבצע --->\n\nלהתרשמות בערוץ היוטיוב:\nhttps://www.youtube.com/@%D7%9B%D7%A4%D7%A8%D7%94%D7%9E%D7%A9%D7%A0%D7%94",
+   "ts": 1790497766000,
+   "date": "2026-09-27",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "58KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19gOhCTikjllxTCKuGlxTCArBxATJ9Gof/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19gOhCTikjllxTCKuGlxTCArBxATJ9Gof&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972552776790"
   }

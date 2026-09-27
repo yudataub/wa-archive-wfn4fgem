@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-27T08:17:52.345Z",
+ "updated": "2026-09-27T08:29:52.553Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -9045,6 +9045,26 @@
    "date": "2026-09-27",
    "time": "11:17",
    "files": [],
+   "drive": null,
+   "phone": "972552776790"
+  },
+  {
+   "id": "ACA11B50BF6D3B1A8FF7AF6570F4B9F8",
+   "sender": "אביעד מושקוביץ",
+   "text": "*הפרוייקט הגדול של סוכות* \n\n🏁🏁🏁*מתחילים!*🏁🏁🏁\n\nפודקאסטים מרתקים על *מסכת סוכה*:\n* סיפורים מרתקים\n* לימוד חוויתי\n* חידות מאתגרות\n* הגרלות עם פרסים מטריפים!\nכל זה בפרוייקט המיוחד שמגיע אליכם *ללא עלות!*\n\nאז למה אתם מחכים??\nמתחילים עוד רגע!\nלפרטים ולהצטרפות למבצע --->\n\nלהתרשמות בערוץ היוטיוב:\nhttps://www.youtube.com/@%D7%9B%D7%A4%D7%A8%D7%94%D7%9E%D7%A9%D7%A0%D7%94",
+   "ts": 1790497764000,
+   "date": "2026-09-27",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "58KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_JsliAEqfzINE36jmkL8s_BgGP631oLv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_JsliAEqfzINE36jmkL8s_BgGP631oLv&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972552776790"
   }

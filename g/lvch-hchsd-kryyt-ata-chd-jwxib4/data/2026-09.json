@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T08:19:22.373Z",
+ "updated": "2026-09-27T08:29:22.556Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4147,6 +4147,46 @@
    "files": [],
    "drive": null,
    "phone": "972509877002"
+  },
+  {
+   "id": "AC95FD02D2FA8D04A7FC888F3E04292F",
+   "sender": "רוית נאומה",
+   "text": "🎁✨ מתנה עם טאץ׳ אישי לכל אירוע! ✨\n\nכיסוי חלות | כיסוי לפלטה | מגבת נטילת ידיים\n🧵 רקום וממותג עם שם אישי או הקדשה לבחירתכם\n\n🏠 לחנוכת בית | 💕 לחתן וכלה | 🌸 לפרשת חלה\n🎁 ולכל היקרים לכם\n\nמתנות ייחודיות, איכותיות ומרגשות – בעיצוב אישי במיוחד עבורכם.\nרוניתה 0507555188",
+   "ts": 1790497749000,
+   "date": "2026-09-27",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "463KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17UNQy9ERudVq8y5I-91Fy0a_Wn3r-4vx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17UNQy9ERudVq8y5I-91Fy0a_Wn3r-4vx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "ACA9BCCDE841CEDE8CA417EF9186D178",
+   "sender": "רוית נאומה",
+   "text": "",
+   "ts": 1790497750000,
+   "date": "2026-09-27",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "407KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18F2w1fYQBOOh7boCWNlaxHTb_Dw7sDFZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18F2w1fYQBOOh7boCWNlaxHTb_Dw7sDFZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508353555"
   }
  ]
 }
