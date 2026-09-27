@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-26T19:33:54.729Z",
+ "updated": "2026-09-27T05:05:31.237Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -6603,6 +6603,46 @@
    "date": "2026-09-26",
    "time": "22:33",
    "files": [],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC95C0C57EC92EFC2598BDCC276EC0C9",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1790485238000,
+   "date": "2026-09-27",
+   "time": "08:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18OSaPmynEN_Nrb0Jp1_2MiCqhJNq3dqD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18OSaPmynEN_Nrb0Jp1_2MiCqhJNq3dqD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC7310CE57BFE4F7520A97042A0F5708",
+   "sender": "שרון😄",
+   "text": "היום בע'ה! \n\n‏מספר מקומות מוגבל🤍\nכדי לשריין מקום הקישי על הקישור👇",
+   "ts": 1790485507000,
+   "date": "2026-09-27",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jMLsn9Oo01WI7jRDDuYAR2ghi6JH40RD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jMLsn9Oo01WI7jRDDuYAR2ghi6JH40RD&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522828512"
   }
