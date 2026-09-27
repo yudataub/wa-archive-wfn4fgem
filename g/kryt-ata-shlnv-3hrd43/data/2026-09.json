@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T06:50:06.699Z",
+ "updated": "2026-09-27T06:58:36.872Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35562,7 +35562,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1aGbOTL4v--MgtxuGwmwWKK3QJaz1Unlo/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1aGbOTL4v--MgtxuGwmwWKK3QJaz1Unlo&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1aGbOTL4v--MgtxuGwmwWKK3QJaz1Unlo&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/2A3C28AF521A3B23477C_0.mp4"
     }
    ],
    "drive": null,
@@ -35587,6 +35588,26 @@
    ],
    "drive": null,
    "phone": "972508422190"
+  },
+  {
+   "id": "ACF04B06DA95A11AD603E744C560D22B",
+   "sender": "ליאל מנהל מכירות שטח ארצי",
+   "text": "פרטים אצלי!",
+   "ts": 1790492311000,
+   "date": "2026-09-27",
+   "time": "09:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RtpQaGPJ-DZDSr-XejXq7iHaoU-jzGkG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RtpQaGPJ-DZDSr-XejXq7iHaoU-jzGkG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506771163"
   }
  ]
 }
