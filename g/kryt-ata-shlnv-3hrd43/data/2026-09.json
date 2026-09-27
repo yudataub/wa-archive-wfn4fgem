@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T20:28:55.057Z",
+ "updated": "2026-09-27T20:45:25.374Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36542,6 +36542,26 @@
    ],
    "drive": null,
    "phone": "972546929013"
+  },
+  {
+   "id": "AC9361637F47A4736DF2A573E006FA54",
+   "sender": "מאיר בן חמו",
+   "text": "",
+   "ts": 1790541906000,
+   "date": "2026-09-27",
+   "time": "23:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "295KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rUfRaLyM-HnonCyRyVL0x7JM3iPXomHZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rUfRaLyM-HnonCyRyVL0x7JM3iPXomHZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545767675"
   }
  ]
 }
