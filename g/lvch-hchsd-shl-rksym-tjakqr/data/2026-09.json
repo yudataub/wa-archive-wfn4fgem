@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T20:29:25.056Z",
+ "updated": "2026-09-27T21:53:40.168Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5184,6 +5184,37 @@
    ],
    "drive": null,
    "phone": "972527615050"
+  },
+  {
+   "id": "ACEABC597EC13FA14594ECAC63F07C51",
+   "sender": "אביגיל אלפר",
+   "text": "",
+   "ts": 1790545999000,
+   "date": "2026-09-28",
+   "time": "00:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "265KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uSI01ld-qNveUsUTEEprw1XWG2EyLZdX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uSI01ld-qNveUsUTEEprw1XWG2EyLZdX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556764163"
+  },
+  {
+   "id": "AC4694D882B580E31C6E37FBF2E12D7B",
+   "sender": "אביגיל אלפר",
+   "text": "למסירה נמצא בסביון 26 הקודם זוכה במצב חדש",
+   "ts": 1790546009000,
+   "date": "2026-09-28",
+   "time": "00:53",
+   "files": [],
+   "drive": null,
+   "phone": "972556764163"
   }
  ]
 }
