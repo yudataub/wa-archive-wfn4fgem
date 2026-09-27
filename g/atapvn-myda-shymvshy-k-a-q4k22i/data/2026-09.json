@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-26T18:24:16.886Z",
+ "updated": "2026-09-27T03:04:59.491Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5063,6 +5063,26 @@
    "files": [],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "3A4572EFDDE7C2403001",
+   "sender": "ענבר",
+   "text": "*נמאס לשלם יקר כל חודש?* ❗\nזה הזמן לגלות מחירים אחרים\nלא עליאקספרס!\n\nלהצטרפות לקבוצה 👇🏾",
+   "ts": 1790478281000,
+   "date": "2026-09-27",
+   "time": "06:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "205KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10hYMysXt1zpZbfqTxam26WK_jtiJ3VSi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10hYMysXt1zpZbfqTxam26WK_jtiJ3VSi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559594026"
   }
  ]
 }
