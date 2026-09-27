@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-27T08:40:58.228Z",
+ "updated": "2026-09-27T08:53:28.424Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -18666,6 +18666,81 @@
    "files": [],
    "drive": null,
    "phone": "972527277022"
+  },
+  {
+   "id": "A5B8CAE59896ABFFDB60FAFB8C71CFB1",
+   "sender": "Ayala",
+   "text": "עברנו דירה לפני החגים והבית שלנו עדיין מאוד מבולגן. האם ניתן להרכיב בחול המועד ארון, בשביל לארגן בתוכו חלק מהדברים?\nמדובר בארון לא חדש, שכבר היה אצלנו ופורק בשביל המעבר, ולא דורש עבודה רבה להרכבה.",
+   "ts": 1790498961000,
+   "date": "2026-09-27",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972523020088"
+  },
+  {
+   "id": "ACC4F297B050AE617B31E5481FF57389",
+   "sender": "Shlomo (Alex) Kakuriev",
+   "text": "",
+   "ts": 1790498983000,
+   "date": "2026-09-27",
+   "time": "11:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L4Iw85ABEYWDXASI7p6DuqrkKsAfwlIb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L4Iw85ABEYWDXASI7p6DuqrkKsAfwlIb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543100741"
+  },
+  {
+   "id": "AC0F2C724ABAA52B88B4F1E106811CCA",
+   "sender": "Shlomo (Alex) Kakuriev",
+   "text": "אם נהגנו כל השנים לברך המוציא ואז לישב בסוכה. יכולים להמשיך במנהג זה או צריך לשנות?",
+   "ts": 1790498984000,
+   "date": "2026-09-27",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543100741"
+  },
+  {
+   "id": "AC1DDA556A71A95E4F64D710E83E9CA8",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "כן",
+   "ts": 1790499166000,
+   "date": "2026-09-27",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC398BEEF61287081564465B490514B8",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "לא",
+   "ts": 1790499178000,
+   "date": "2026-09-27",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "ACBCFBA876066193A86D9F6E3B1DD4FE",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "יכולים",
+   "ts": 1790499184000,
+   "date": "2026-09-27",
+   "time": "11:53",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }
