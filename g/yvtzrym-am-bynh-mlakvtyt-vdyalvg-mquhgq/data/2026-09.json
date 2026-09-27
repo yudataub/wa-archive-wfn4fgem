@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T06:18:26.281Z",
+ "updated": "2026-09-27T06:47:06.444Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -28360,6 +28360,46 @@
    "files": [],
    "drive": null,
    "phone": "972506275797"
+  },
+  {
+   "id": "3EB0DE192C509EB9A2A61F",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*תפריט הקינוחים בתלת ממד -* עלה בפרומפט היומי. מוזמנים לנסות\n*חדש! אתם יכולים להרשם ולקבל עדכון למייל כשעולה פרומפט חדש*\nבהמשך השבוע קישוטי סוכות מרהיבים ומגניבים\nלפרויקט הפרומפט היומי של שירה רוט זליקוביץ: https://www.lomdot.org/dailyprompt\nחג שמח 💚 שירה\nלקהילה שלי:",
+   "ts": 1790491614000,
+   "date": "2026-09-27",
+   "time": "09:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17AqNl5RfoKM41DOOmc0qJ_J2YUipldpg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17AqNl5RfoKM41DOOmc0qJ_J2YUipldpg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB07F8189A6BECA9058CA",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*תפריט הקינוחים בתלת ממד -* עלה בפרומפט היומי. מוזמנים לנסות\n*חדש! אתם יכולים להרשם ולקבל עדכון למייל כשעולה פרומפט חדש*\nבהמשך השבוע קישוטי סוכות מרהיבים ומגניבים\nלפרויקט הפרומפט היומי של שירה רוט זליקוביץ: https://www.lomdot.org/dailyprompt\nחג שמח 💚 שירה\nלקהילה שלי:",
+   "ts": 1790491616000,
+   "date": "2026-09-27",
+   "time": "09:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1s3ayR5KTG_zNUltoHaBS8sZdTyVJ0frD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s3ayR5KTG_zNUltoHaBS8sZdTyVJ0frD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-26T19:31:54.662Z",
+ "updated": "2026-09-27T06:39:36.574Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -301,6 +301,37 @@
    "ts": 1790451110000,
    "date": "2026-09-26",
    "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB0333258BFB1D7596F0C",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "כפי שהבטחתי פרסמתי את הפרומפט של *תפריט הקינוחים בתלת ממד -* בפרומפט היומי. מוזמנים לנסות\n*חדש! אתם יכולים להרשם ולקבל עדכון למייל כשעולה פרומפט חדש*\nלפרויקט הפרומפט היומי של שירה רוט זליקוביץ: https://www.lomdot.org/dailyprompt",
+   "ts": 1790491135000,
+   "date": "2026-09-27",
+   "time": "09:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ALNsMg1728aXNzBdjDsoPhtDALa-loBi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ALNsMg1728aXNzBdjDsoPhtDALa-loBi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB03C412116DA3C9301F6",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "בהמשך השבוע קישוטי סוכות מרהיבים ומגניבים..",
+   "ts": 1790491176000,
+   "date": "2026-09-27",
+   "time": "09:39",
    "files": [],
    "drive": null,
    "phone": "972523930628"

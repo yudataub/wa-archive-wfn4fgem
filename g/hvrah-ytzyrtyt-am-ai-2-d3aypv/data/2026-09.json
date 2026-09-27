@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-26T17:44:10.900Z",
+ "updated": "2026-09-27T06:42:45.841Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1057,6 +1057,26 @@
    "files": [],
    "drive": null,
    "phone": "972545259465"
+  },
+  {
+   "id": "3EB0583F62094282BF397F",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "כפי שהבטחתי פרסמתי את הפרומפט של *תפריט הקינוחים בתלת ממד -* בפרומפט היומי. מוזמנים לנסות\n*חדש! אתם יכולים להרשם ולקבל עדכון למייל כשעולה פרומפט חדש*\nלפרויקט הפרומפט היומי של שירה רוט זליקוביץ: https://www.lomdot.org/dailyprompt\nחג שמח 💚 שירה",
+   "ts": 1790491357000,
+   "date": "2026-09-27",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1yL3GZvBinlwl08ycP7X1YIkkwyotZFq1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yL3GZvBinlwl08ycP7X1YIkkwyotZFq1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }
