@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T14:28:18.462Z",
+ "updated": "2026-09-27T15:04:48.993Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5009,6 +5009,26 @@
    "files": [],
    "drive": null,
    "phone": "972584043064"
+  },
+  {
+   "id": "AC69A090F8EA0E358929F248F0D73B3A",
+   "sender": "יהודי פשוט",
+   "text": "",
+   "ts": 1790521462000,
+   "date": "2026-09-27",
+   "time": "18:04",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "43KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1xOZDa0yNf9DK8_wDgt660mH4szkEEjgs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xOZDa0yNf9DK8_wDgt660mH4szkEEjgs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548424993"
   }
  ]
 }

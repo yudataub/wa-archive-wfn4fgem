@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-27T14:14:11.513Z",
+ "updated": "2026-09-27T15:00:48.946Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -9146,6 +9146,42 @@
    "files": [],
    "drive": null,
    "phone": "972545696436"
+  },
+  {
+   "id": "3EB0F5A1E7F9B4DF627786",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "משחק לימוד - שבטוח יעלה לכם את המצב רוח😁",
+   "ts": 1790521218000,
+   "date": "2026-09-27",
+   "time": "18:00",
+   "files": [
+    {
+     "name": "חידון_דיני_סוכה.html",
+     "size": "48KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1IF4VEQVZjhzHjelhQ3j_UKB1meRLNSx1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0F0151860837237BA79",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790521242000,
+   "date": "2026-09-27",
+   "time": "18:00",
+   "files": [
+    {
+     "name": "מסע_אל_עולם_החיוך.html",
+     "size": "81KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1gmKdpNg2TUj_j4KboE98vofIhek9JX2d/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
   }
  ]
 }

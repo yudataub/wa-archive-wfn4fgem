@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T14:57:13.093Z",
+ "updated": "2026-09-27T15:07:43.273Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -29047,6 +29047,136 @@
    "ts": 1790521009000,
    "date": "2026-09-27",
    "time": "17:56",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC5AA30914F913B28E67BE9C40B6FCF4",
+   "sender": "Nir",
+   "text": "ההבדל הוא שכאן אתה מעלה תמונות אישיות שלך ואתה רוצה לקבל סרטון מרגש ושההנפשות נראות טוב",
+   "ts": 1790521074000,
+   "date": "2026-09-27",
+   "time": "17:57",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC9B83FBDA51793D81031F01BDF00190",
+   "sender": "Stdb",
+   "text": "ואללה? בוא נראה",
+   "ts": 1790521440000,
+   "date": "2026-09-27",
+   "time": "18:04",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC894FE03B97F9CBFEB403CB762393A8",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1790521502000,
+   "date": "2026-09-27",
+   "time": "18:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aTmBhLG6O9TGFrrbeoAUq8IX_OoSrQYR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aTmBhLG6O9TGFrrbeoAUq8IX_OoSrQYR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC003C3F2D04C3A225C9C5638AC8997A",
+   "sender": "Stdb",
+   "text": "לוקחים 400. \nאיפה ראית את האיכות שלהם,",
+   "ts": 1790521517000,
+   "date": "2026-09-27",
+   "time": "18:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACE159B2DC63BD20DEA52B741AD1482A",
+   "sender": "Stdb",
+   "text": "זו מודל יותר חכם גם כח ברגע שמישהו כבר עשה את ההשקעה של לשים תמונות יותר סיכוי שהוא ישלם",
+   "ts": 1790521558000,
+   "date": "2026-09-27",
+   "time": "18:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACDC954A8B735D0DCC0DF806F0022E91",
+   "sender": "Nir",
+   "text": "בדוגמאות שהם פרסמו",
+   "ts": 1790521589000,
+   "date": "2026-09-27",
+   "time": "18:06",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "ACE15C2FD574943F8B3F624FFFF49A74",
+   "sender": "Nir",
+   "text": "זו הדעה שלי...\nוהכל בסדר",
+   "ts": 1790521620000,
+   "date": "2026-09-27",
+   "time": "18:07",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC3F7F9DECA972406C006DC847E94481",
+   "sender": "Stdb",
+   "text": "בקישור ששרון שלח?",
+   "ts": 1790521625000,
+   "date": "2026-09-27",
+   "time": "18:07",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC5FD6553143539C2B6569D5FC7F0899",
+   "sender": "Nir",
+   "text": "כן",
+   "ts": 1790521633000,
+   "date": "2026-09-27",
+   "time": "18:07",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "ACC7BC9213357B86171D6115F705AFBB",
+   "sender": "Stdb",
+   "text": "יש שם רק קצרים ממש",
+   "ts": 1790521645000,
+   "date": "2026-09-27",
+   "time": "18:07",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACAC8C836949E6E69C6A5D25BFFECADF",
+   "sender": "Nir",
+   "text": "התכוונתי אליהם",
+   "ts": 1790521660000,
+   "date": "2026-09-27",
+   "time": "18:07",
    "files": [],
    "drive": null,
    "phone": "972508356542"
