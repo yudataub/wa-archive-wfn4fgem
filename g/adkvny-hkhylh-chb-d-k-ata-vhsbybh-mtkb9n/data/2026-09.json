@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "עדכוני הקהילה – חב\"ד ק. אתא והסביבה",
- "updated": "2026-09-27T05:59:32.080Z",
+ "updated": "2026-09-27T09:25:05.666Z",
  "messages": [
   {
    "id": "ACC713FACF36015022C09B21477A9693",
@@ -791,6 +791,26 @@
    "date": "2026-09-27",
    "time": "08:59",
    "files": [],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "ACF953B15ED7074B5247AEB752F1EB6D",
+   "sender": "Yosi Mor",
+   "text": "בית כנסת *חב\"ד קרית אתא*\n _(רח' חנקין 20)_\n\n👈 *דף בית הכנסת*  _(חדש! 🤩)_*:*\nhttps://cka.pages.amud.cloud/\n\n👈 *לאיזור האישי:*\nhttps://cka.me.amud.cloud/me\n\nלפרטים נוספים: ר' יוסי וילהלם, 054-983-9770 ☎️\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1790501078000,
+   "date": "2026-09-27",
+   "time": "12:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FXGXU97z0KmDl7zQZLU1ydq6QRnoWtNZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FXGXU97z0KmDl7zQZLU1ydq6QRnoWtNZ&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545707911"
   }

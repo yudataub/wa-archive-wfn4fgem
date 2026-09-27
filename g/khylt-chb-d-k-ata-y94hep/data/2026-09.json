@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-27T09:05:58.576Z",
+ "updated": "2026-09-27T09:27:05.689Z",
  "messages": [
   {
    "id": "AC5FD2B908C06BA39795B313E33C0CF0",
@@ -4410,6 +4410,37 @@
    "files": [],
    "drive": null,
    "phone": "972522354929"
+  },
+  {
+   "id": "ACDABC559A08CACDA7539B0A3A09E059",
+   "sender": "ronentayar",
+   "text": "תודה רבה ראובן",
+   "ts": 1790501093000,
+   "date": "2026-09-27",
+   "time": "12:24",
+   "files": [],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "AC17012FAAF01A3D99E73FD93F7956D8",
+   "sender": "ronentayar",
+   "text": "בית כנסת *חב\"ד קרית אתא*\n _(רח' חנקין 20)_\n\n👈 *דף בית הכנסת*  _(חדש! 🤩)_*:*\nhttps://cka.pages.amud.cloud/\n\n👈 *לאיזור האישי:*\nhttps://cka.me.amud.cloud/me\n\nלפרטים נוספים: ר' יוסי וילהלם, 054-983-9770 ☎️\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1790501206000,
+   "date": "2026-09-27",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HR2XTinpu4LuMg2ZKOeSL4wwP_SwsBBL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HR2XTinpu4LuMg2ZKOeSL4wwP_SwsBBL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
   }
  ]
 }

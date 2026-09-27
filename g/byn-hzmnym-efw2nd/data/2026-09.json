@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-27T08:22:52.454Z",
+ "updated": "2026-09-27T09:26:05.674Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -869,6 +869,66 @@
    ],
    "drive": null,
    "phone": "972503332857"
+  },
+  {
+   "id": "AC6ED3C809110A9717ADD402973195CA",
+   "sender": "חני",
+   "text": "*נשארו תאריכים אחרונים!!*🔥\n\n🍋 'חוות אלפא' מזמינה אתכם להנות בחוה\"מ סוכות מחוויה מדהימה לכל המשפחה 🍋\n\n🌿סוכה גדולה לרשותכם🌿\n\n*השכרת המתחם למשפחות/ קבוצות בתיאום מראש בלבד!!*\nבוקר מ11:00 עד 16:00\nערב מ17:00 עד 22:00\nמהרו להבטיח את מקומכם איתנו:\n📞 050-3332819",
+   "ts": 1790500751000,
+   "date": "2026-09-27",
+   "time": "12:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/11yGF7O3uA7gIgIcTji2y519z6k5zmV0j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11yGF7O3uA7gIgIcTji2y519z6k5zmV0j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534245658"
+  },
+  {
+   "id": "AC7EB992891CA700184E8FC77554188F",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1790501105000,
+   "date": "2026-09-27",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NVi6F79kjkOiJVwJHhXALgRK7EegU0Bm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NVi6F79kjkOiJVwJHhXALgRK7EegU0Bm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC6BD7775E3108D7E6C5E6DCC8793339",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1790501137000,
+   "date": "2026-09-27",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1RDhHYEvtTt1tiQbV8nIr7chQjwDheekf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RDhHYEvtTt1tiQbV8nIr7chQjwDheekf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
   }
  ]
 }
