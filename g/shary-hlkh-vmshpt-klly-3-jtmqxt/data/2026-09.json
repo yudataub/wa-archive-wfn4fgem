@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-27T06:25:06.366Z",
+ "updated": "2026-09-27T06:34:36.494Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -18475,6 +18475,37 @@
    "files": [],
    "drive": null,
    "phone": "972512129301"
+  },
+  {
+   "id": "A52DF5C86D2057DF07004E9290032C1B",
+   "sender": "בן סדיקלר",
+   "text": "לא לברך שוב",
+   "ts": 1790490658000,
+   "date": "2026-09-27",
+   "time": "09:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528685466"
+  },
+  {
+   "id": "ACFEACE98E41BD1266EB4194A06DA924",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "האם זה על אותו רעיון שאם שכח להגיד שהחיינו בסעודה יכול להגיד כל החג גם בשהחיינו בתפילה?",
+   "ts": 1790490861000,
+   "date": "2026-09-27",
+   "time": "09:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11FHyvyHb1HBcolQmPcyoGRrIl_OvmT6y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11FHyvyHb1HBcolQmPcyoGRrIl_OvmT6y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529545989"
   }
  ]
 }
