@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T08:05:22.111Z",
+ "updated": "2026-09-27T08:44:58.294Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35683,6 +35683,37 @@
    ],
    "drive": null,
    "phone": "972524663502"
+  },
+  {
+   "id": "ACE32A6D6D1F1CF4479DB1F0A7BBFD98",
+   "sender": "יוני טולדנו",
+   "text": "🌿 מכירת ערבות להושענא רבה 🌿\nלקראת הושענא רבה\nניתן להשיג ערבות מהודרות במחירים משתלמים! 🌿\n📦 כמות מוגבלת – מומלץ להזמין מראש\n📍 איסוף / משלוחים\n📞 להזמנות: יוני – 050-344-6763\nשנזכה לחתימה טובה ולשנה טובה ומבורכת!\n🍃🌿🍋",
+   "ts": 1790498673000,
+   "date": "2026-09-27",
+   "time": "11:44",
+   "files": [],
+   "drive": null,
+   "phone": "972503446763"
+  },
+  {
+   "id": "2A0B5CAB073E65D7EE83",
+   "sender": "Matan Zverman",
+   "text": "",
+   "ts": 1790498688000,
+   "date": "2026-09-27",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DPhi-BiZUhnzbfkYW2gEIhmVT2MkeE0d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DPhi-BiZUhnzbfkYW2gEIhmVT2MkeE0d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559980845"
   }
  ]
 }

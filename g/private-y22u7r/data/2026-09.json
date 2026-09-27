@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-27T08:23:52.451Z",
+ "updated": "2026-09-27T08:46:28.319Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -31451,6 +31451,44 @@
    "drive": null,
    "thread": "רפי",
    "phone": "972505284131"
+  },
+  {
+   "id": "3EB08D3B20C3CB6A403273",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790498303000,
+   "date": "2026-09-27",
+   "time": "11:38",
+   "files": [
+    {
+     "name": "משחקי חג הסוכות לילדים - מרכז השמחה (1).html",
+     "size": "28KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/15Hlc5fhnjX6YZ0bXZJBUFwji61cXdxUJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB09632D2E3F0E9136C06",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790498779000,
+   "date": "2026-09-27",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "39a4071b-8e44-48fa-9142-33f633e041ed.htm",
+     "size": "11KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1l7iCOVTHCBS2-l1gfF1qonDFVHTOMGhR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
