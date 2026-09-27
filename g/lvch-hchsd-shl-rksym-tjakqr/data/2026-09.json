@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T05:52:01.956Z",
+ "updated": "2026-09-27T06:14:36.156Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -4767,6 +4767,26 @@
    ],
    "drive": null,
    "phone": "972542628851"
+  },
+  {
+   "id": "3EB0768526F9F902682BAB",
+   "sender": "בית ספר ביחד",
+   "text": "מתחילים בעוד כמה דק....",
+   "ts": 1790489664000,
+   "date": "2026-09-27",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "631KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RbGOsNcoYp0Sx8NExuFEduKkqGtXy2_F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RbGOsNcoYp0Sx8NExuFEduKkqGtXy2_F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524441878"
   }
  ]
 }
