@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נחל אליהו - שיעורי הגר\"א דיסקין",
- "updated": "2026-09-25T11:08:52.374Z",
+ "updated": "2026-09-27T08:21:37.888Z",
  "messages": [
   {
    "id": "AC41B58D0F0398CC88B8042EAAA06151",
@@ -166,6 +166,36 @@
      "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
     }
    ],
+   "drive": null,
+   "phone": "972512266924"
+  },
+  {
+   "id": "AC6A7C416463D7FF180F12B634EE48CA",
+   "sender": "להגדיל תורה",
+   "text": "",
+   "ts": 1790497274000,
+   "date": "2026-09-27",
+   "time": "11:21",
+   "files": [
+    {
+     "name": "שובה אלי כי גאלתיך - ערב שבת וחג הסוכות תשפז - הרב אליהו דיסקין - 42767089.mp3",
+     "size": "2.8MB",
+     "type": "audio/mp3",
+     "path": "https://drive.google.com/file/d/12MuBbocBR32TfsBxbkurEIXuxd4WlSTF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972512266924"
+  },
+  {
+   "id": "AC3F144AA6A1160D85BC9DAD8DFD7624",
+   "sender": "להגדיל תורה",
+   "text": "📌  *נחל אליהו - חג הסוכות*\n\n🗓️ יום א' דחוה\"מ סוכות תשפ\"ז\n\n💿  הרב *אליהו דיסקין* שליט\"א \n\nלצפייה 🎥 https://www.kolhalashon.com/he/regularSite/playShiur/42767089\n \n \n ‏‏‏‏🗒️ 🖌️\n📌 >> *שׁוּבָה אֵלַי כִּי גְאַלְתִּיךָ* - ערב שבת וחג הסוכות תשפ\"ז\n\n📲 להצטרפות: https://did.li/p6Sw5",
+   "ts": 1790497291000,
+   "date": "2026-09-27",
+   "time": "11:21",
+   "files": [],
    "drive": null,
    "phone": "972512266924"
   }

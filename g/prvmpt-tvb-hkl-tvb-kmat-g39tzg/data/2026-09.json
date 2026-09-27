@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-27T07:56:37.501Z",
+ "updated": "2026-09-27T08:21:37.853Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4068,6 +4068,46 @@
    ],
    "drive": null,
    "phone": "13107392984"
+  },
+  {
+   "id": "ACA8504D8326FD248685B813B61039B7",
+   "sender": "הילי זוורו",
+   "text": "הכנתי מדריך חדש וקצר על Mizou- הוראה מותאמת אישית עם בוט 🤖✨\nבמדריך תראו איך יוצרים בוט חכם לתלמידים, איך התלמידים מקבלים עזרה בזמן ביצוע משימות, ואיך המורה יכולה לראות את כל הצ׳ט ולעקוב אחר השיחה וההתקדמות.\nhttps://youtu.be/-LYwrwSLe-g?si=knd4D966BiZKHBT8\n\n🌺 💌מוזמנות לקבוצת הוואטאפ השקטה בה אני שולחת מדריכים, רעיונות והזמנות לקורסים והשתלמויות:",
+   "ts": 1790497269000,
+   "date": "2026-09-27",
+   "time": "11:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "655KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Qd2xXe4q6G8nvXO4nKeHPucqEkDLnwh7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qd2xXe4q6G8nvXO4nKeHPucqEkDLnwh7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "AC086B84C449205F8CDBF4D4B9597B69",
+   "sender": "הילי זוורו",
+   "text": "",
+   "ts": 1790497273000,
+   "date": "2026-09-27",
+   "time": "11:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "405KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MY4hj45X-27iL4YSG2FWAqMB9AkL1uQr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MY4hj45X-27iL4YSG2FWAqMB9AkL1uQr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
   }
  ]
 }

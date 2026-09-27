@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-27T08:05:52.118Z",
+ "updated": "2026-09-27T08:23:52.451Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -31325,6 +31325,132 @@
    "drive": null,
    "thread": "יוני טולדנו",
    "phone": "972503446763"
+  },
+  {
+   "id": "3EB03E0BF5242F54B19F8B",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790497329000,
+   "date": "2026-09-27",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "שאלון דיני ישיבת סוכה - בדיקה חכמה.html",
+     "size": "57KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1cE630JgIJnDL0HK_bpDmZ0_wZ09wiJn4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB066E24E2F5D43EC3FA4",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790497329000,
+   "date": "2026-09-27",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "שאלון דיני ישיבת סוכה.html",
+     "size": "22KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1zW8LfPFAtZjtXZfAG2IVovisuGUam5TG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB06BD494B79E5AC86FF2",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790497329000,
+   "date": "2026-09-27",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "מפתח למצגות וסיכום חג הסוכות - ארבעת המינים.html",
+     "size": "14KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/17vKaw54PL-wWoaZ1Mb1FTyC87tC9oqMF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB09AE8BEACCC3A905A65",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790497329000,
+   "date": "2026-09-27",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "משחקי חג הסוכות לילדים - מרכז השמחה.html",
+     "size": "28KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1z6Fdy-gf2_N_leJnY5ATK66prSHhwszn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0DE8ACD6B31CF768BC2",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790497329000,
+   "date": "2026-09-27",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "ימים של חיבה למצוות - יום טוב שבין יום כיפור לסוכות.html",
+     "size": "18KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1qgc8unsv7jFAuMoAc_n0cySIsQkX6k_t/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB014684CF55D2E309B9A",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790497330000,
+   "date": "2026-09-27",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "שעשועון אהבת השם מתוך שמחה.html",
+     "size": "34KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1dxyHkTkRJU6gefQxEa1y9IdDpVt2t8I_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACCD187A70E930C9E4AAD2D1CCA30C05",
+   "sender": "רפי",
+   "text": "מטפל",
+   "ts": 1790497416000,
+   "date": "2026-09-27",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "thread": "רפי",
+   "phone": "972505284131"
   }
  ]
 }

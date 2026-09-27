@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-26T21:49:20.476Z",
+ "updated": "2026-09-27T08:20:22.417Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -962,6 +962,26 @@
    "files": [],
    "drive": null,
    "phone": "972524580295"
+  },
+  {
+   "id": "ACBF515B3CDF3496C3EB8B218040B10C",
+   "sender": "🥰",
+   "text": "כן ציור לילדים מעץ\nלוח דו-צדדי: צד אחד לוח גיר וצד שני הוא לוח מחיק. המשטח האדום זה לאחסון אביזרי כתיבה וציור וישנו מקום מובנה לגליל נייר.\nמגיע גם גליל נייר.\n100 שח\nאיסוף: נהריה",
+   "ts": 1790497205000,
+   "date": "2026-09-27",
+   "time": "11:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19aheEzw9oyI1DW9MGKOb2i22jaHiyE1v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19aheEzw9oyI1DW9MGKOb2i22jaHiyE1v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
   }
  ]
 }
