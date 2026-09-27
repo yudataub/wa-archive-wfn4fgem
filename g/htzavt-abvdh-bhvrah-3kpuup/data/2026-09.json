@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-09-25T11:46:40.470Z",
+ "updated": "2026-09-27T10:20:41.620Z",
  "messages": [
   {
    "id": "AC292A4A6C50410AA88B53E793642408",
@@ -406,6 +406,26 @@
    "files": [],
    "drive": null,
    "phone": "972508626363"
+  },
+  {
+   "id": "ACCAC43DC688E23F1F1703ACC046039D",
+   "sender": "שירה פטיתו ✨",
+   "text": "מורה למתמטיקה \nכיתות ד'-ה' \nבית ספר יסודי, קריית ים.\nבהצלחה רבה ❣️",
+   "ts": 1790504421000,
+   "date": "2026-09-27",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PV4SSnaUPCHDFOj71NmWgvr4_Jxh64XR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PV4SSnaUPCHDFOj71NmWgvr4_Jxh64XR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534319902"
   }
  ]
 }

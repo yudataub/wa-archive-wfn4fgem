@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חומרים על חומש דברים",
- "updated": "2026-09-27T10:05:00.865Z",
+ "updated": "2026-09-27T10:24:31.166Z",
  "messages": [
   {
    "id": "ACE49B8457D8C29D4AF5A82457ECAFF5",
@@ -3539,6 +3539,25 @@
    "files": [],
    "drive": null,
    "phone": "972545806226"
+  },
+  {
+   "id": "3AEFBF9D9EEE5E0833C6",
+   "sender": "לילך רווח",
+   "text": "👆🏻למעוניינים אפשר להעזר גם במצגת הזאת שהכנתי כפתיחה לספר דברים",
+   "ts": 1790504664000,
+   "date": "2026-09-27",
+   "time": "13:24",
+   "files": [
+    {
+     "name": "The_Final_Mission_Briefing_(3).pdf",
+     "size": "22.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1J-njUC4nvJ1WOyUnxr00k893DKC4DgGl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528734129"
   }
  ]
 }
