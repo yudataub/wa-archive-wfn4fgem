@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-27T17:34:10.632Z",
+ "updated": "2026-09-27T18:47:35.192Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8259,6 +8259,37 @@
    ],
    "drive": null,
    "phone": "972585735002"
+  },
+  {
+   "id": "A5B85939A3FA25ED4520CD9E623F5858",
+   "sender": "NATI POWER",
+   "text": "למסירה",
+   "ts": 1790534835000,
+   "date": "2026-09-27",
+   "time": "21:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1F612r-T8QYUDoWh-u2Sj5DWN-G5pZAei/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1F612r-T8QYUDoWh-u2Sj5DWN-G5pZAei&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A527B36303D5AEABF2D9A0F9FAA19F98",
+   "sender": "NATI POWER",
+   "text": "2 חבילות",
+   "ts": 1790534843000,
+   "date": "2026-09-27",
+   "time": "21:47",
+   "files": [],
+   "drive": null,
+   "phone": "972556630746"
   }
  ]
 }
