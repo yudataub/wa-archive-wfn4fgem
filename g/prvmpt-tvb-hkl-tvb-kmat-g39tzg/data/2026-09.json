@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-27T07:47:07.333Z",
+ "updated": "2026-09-27T07:56:37.501Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4013,6 +4013,59 @@
    "date": "2026-09-27",
    "time": "10:46",
    "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "A592DC4C7ED8F1B0D98075B88553A50A",
+   "sender": "natalie yehiam",
+   "text": "לי הוא עדיין יוצר דברים יפים.. אבל לא בדקתי היום, הכנתי לפני החג",
+   "ts": 1790495451000,
+   "date": "2026-09-27",
+   "time": "10:50",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB04D383C83AC52374269",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אורלי מה התוכן שהעלית ומה הפרומפט שכתבת, אנסה לעשות אותו הדבר ונראה מה יוצא",
+   "ts": 1790495546000,
+   "date": "2026-09-27",
+   "time": "10:52",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "2A8F24B69E6490D8D3FF",
+   "sender": "972 Education Inc. Orly",
+   "text": "שלחתי לך את המצגת",
+   "ts": 1790495697000,
+   "date": "2026-09-27",
+   "time": "10:54",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A326F8F45B96D46A865",
+   "sender": "972 Education Inc. Orly",
+   "text": "ביקשתי בסגנון הזה",
+   "ts": 1790495789000,
+   "date": "2026-09-27",
+   "time": "10:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Tse-2fIcB3TfUwNgP2FtYCJ4z6gFA29o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Tse-2fIcB3TfUwNgP2FtYCJ4z6gFA29o&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "13107392984"
   }
