@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-27T09:29:05.717Z",
+ "updated": "2026-09-27T11:49:19.961Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -962,6 +962,46 @@
    ],
    "drive": null,
    "phone": "972524282461"
+  },
+  {
+   "id": "AC45C326F9E533CC6ABDF4B2AADB6825",
+   "sender": "משה בן ישי",
+   "text": "",
+   "ts": 1790509746000,
+   "date": "2026-09-27",
+   "time": "14:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "507KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S9dUVZ2_f0xMbvdatqeLcZr2ZiPJAsZn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S9dUVZ2_f0xMbvdatqeLcZr2ZiPJAsZn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525516470"
+  },
+  {
+   "id": "ACC25E78F23940E976AB69550DB360FF",
+   "sender": "משה בן ישי",
+   "text": "",
+   "ts": 1790509748000,
+   "date": "2026-09-27",
+   "time": "14:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "485KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1P0FwEJCbKX98olHE5-PL4ldSUQ7CvHNs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1P0FwEJCbKX98olHE5-PL4ldSUQ7CvHNs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525516470"
   }
  ]
 }
