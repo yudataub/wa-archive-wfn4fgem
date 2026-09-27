@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T05:14:01.379Z",
+ "updated": "2026-09-27T06:02:02.128Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -3867,6 +3867,26 @@
    "files": [],
    "drive": null,
    "phone": "972556885199"
+  },
+  {
+   "id": "A5041DE4CAB5BB38405551BDC35109A1",
+   "sender": "תמי",
+   "text": "היום בקניון תימורה קריית אתא",
+   "ts": 1790488898000,
+   "date": "2026-09-27",
+   "time": "09:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S8liAD6QfbvYtAjBJWaP2T7pPNCNW5NW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S8liAD6QfbvYtAjBJWaP2T7pPNCNW5NW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
   }
  ]
 }

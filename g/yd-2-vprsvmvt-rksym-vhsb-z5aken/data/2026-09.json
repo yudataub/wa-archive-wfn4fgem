@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-26T20:52:42.953Z",
+ "updated": "2026-09-27T06:03:02.148Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5654,6 +5654,26 @@
    "files": [],
    "drive": null,
    "phone": "972548424993"
+  },
+  {
+   "id": "A54B2A8F1C035844FFECB08A1B50E847",
+   "sender": "תמי",
+   "text": "היום בקניון תימורה קריית אתא",
+   "ts": 1790488956000,
+   "date": "2026-09-27",
+   "time": "09:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YItdDxqad_bcN2-JUSLGbcr1ShC20lkc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YItdDxqad_bcN2-JUSLGbcr1ShC20lkc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
   }
  ]
 }

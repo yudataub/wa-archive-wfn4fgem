@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-27T05:38:01.734Z",
+ "updated": "2026-09-27T06:02:02.118Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5103,6 +5103,26 @@
    ],
    "drive": null,
    "phone": "972559593991"
+  },
+  {
+   "id": "A5C52DA50920651E3724CB098D4EAC53",
+   "sender": "תמי",
+   "text": "היום בקניון תימורה קריית אתא",
+   "ts": 1790488895000,
+   "date": "2026-09-27",
+   "time": "09:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nc_HuknwYZ5LMpWuvicnaFT2aqa4FcCV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nc_HuknwYZ5LMpWuvicnaFT2aqa4FcCV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
   }
  ]
 }
