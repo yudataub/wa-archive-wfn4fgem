@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T06:51:36.491Z",
+ "updated": "2026-09-27T08:14:37.764Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -28422,6 +28422,26 @@
    ],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "AC04427076706C74DC5FF6D5288974A6",
+   "sender": "חפציה",
+   "text": "חברים, מפגש הקהילה הראשון להשנה  שמרו תאריך! \n\"מתכנון פדגוגי למרחב פיזיטלי:\nבונים חווית למידה חוקרת ב-Genially\"\n\nאיך להפוך תוכן לימודי למרחב אינטראקטיבי שמעורר סקרנות ומעודד למידה עצמאית.\n\nעם מעיין שפושניק\n🗓️ יום ד׳, 14/10/26\n⏰ 20:00-21:15\n\nהמפגש חינמי 🎁 שמרו ביומן והירשמו כאן:\nhttps://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nמחכה לכם 💛\nרעיונות פוגשים בינה\nתמר חמאדה \n\nלהצטרפות לקהילה",
+   "ts": 1790496857000,
+   "date": "2026-09-27",
+   "time": "11:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oMMCQfwGE-oseDeqcR5etuDn5_7jiSWA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oMMCQfwGE-oseDeqcR5etuDn5_7jiSWA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
   }
  ]
 }

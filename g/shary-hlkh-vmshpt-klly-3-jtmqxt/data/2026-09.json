@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-27T08:04:52.134Z",
+ "updated": "2026-09-27T08:12:22.238Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -18581,6 +18581,47 @@
    ],
    "drive": null,
    "phone": "972545719431"
+  },
+  {
+   "id": "ACC8E3F5C3931BE366637AF91D6C852C",
+   "sender": "גיורא גבלייב",
+   "text": "אשמח לתשובה תעף מגיעים אליי אורחים🙏🙏",
+   "ts": 1790496651000,
+   "date": "2026-09-27",
+   "time": "11:10",
+   "files": [],
+   "drive": null,
+   "phone": "972545719431"
+  },
+  {
+   "id": "2AF0142E7012A637B6C8",
+   "sender": "מיתרים לנפש",
+   "text": "טורטיה זה בלי שמרים זה לא מזונות ?",
+   "ts": 1790496689000,
+   "date": "2026-09-27",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972556638545"
+  },
+  {
+   "id": "ACE37356DD8A315E483D4E25A40B7F61",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1790496739000,
+   "date": "2026-09-27",
+   "time": "11:12",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "25KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/113e13wEcB4yONj76M1JTBfy9gsyb1sV-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }

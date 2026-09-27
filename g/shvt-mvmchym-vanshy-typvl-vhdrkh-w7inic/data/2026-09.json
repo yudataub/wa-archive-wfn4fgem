@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-09-27T07:20:37.199Z",
+ "updated": "2026-09-27T08:09:22.185Z",
  "messages": [
   {
    "id": "A503C2A89B6E3CE51EFD0D12335CE8A7",
@@ -6792,6 +6792,37 @@
    "files": [],
    "drive": null,
    "phone": "972545625539"
+  },
+  {
+   "id": "AC2DCB5E666DC5A6001660EF27088499",
+   "sender": "שושי ביטון",
+   "text": "",
+   "ts": 1790496518000,
+   "date": "2026-09-27",
+   "time": "11:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "269KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qRwYL64bR4d5HwkGix0TNdIfXZlQiRmB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qRwYL64bR4d5HwkGix0TNdIfXZlQiRmB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526757664"
+  },
+  {
+   "id": "AC169A2B78ADDD5257B17D9AAB458C0D",
+   "sender": "שושי ביטון",
+   "text": "חברים יקרים\nמועדים לשמחה\nברוך ה'\nעברנו לחזק את העוטף! פתחתי קליניקה חדשה בשדרות 🍂",
+   "ts": 1790496549000,
+   "date": "2026-09-27",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526757664"
   }
  ]
 }
