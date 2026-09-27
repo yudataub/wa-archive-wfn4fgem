@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-27T12:18:57.345Z",
+ "updated": "2026-09-27T13:35:10.929Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -9113,6 +9113,24 @@
      "size": "11KB",
      "type": "text/html",
      "path": "https://drive.google.com/file/d/1j-U368GNlU3ehnDTa894cCQnvYF61kTY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0577BBBB4315AD808DB",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "משחקי לילדים ולמבוגרים - מה חייב בסוכה - לפי פסקי המשנה ברורה.",
+   "ts": 1790516081000,
+   "date": "2026-09-27",
+   "time": "16:34",
+   "files": [
+    {
+     "name": "משחק חידון - מה חייב בסוכה בג' רמות.html",
+     "size": "63KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1cnIpcMxbL2NxyAYCTkIIsMq82ZARmgz-/view?usp=drivesdk",
      "skipped": ""
     }
    ],
