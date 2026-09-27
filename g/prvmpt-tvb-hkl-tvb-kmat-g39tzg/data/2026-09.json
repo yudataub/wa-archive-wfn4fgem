@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-27T15:07:43.266Z",
+ "updated": "2026-09-27T15:14:43.384Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -1153,7 +1153,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/16_Lyl2eJ3El-jH7y-PwB4VCxNjp8IaYQ/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=16_Lyl2eJ3El-jH7y-PwB4VCxNjp8IaYQ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=16_Lyl2eJ3El-jH7y-PwB4VCxNjp8IaYQ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-prvmpt-tvb-hkl-tvb-kmat-g39tzg/v/2026-09/AC977AD58FD5441BE133289CA1FF5A95_0.mp4"
     }
    ],
    "drive": null,
@@ -4225,6 +4226,122 @@
    "files": [],
    "drive": null,
    "phone": "13107392984"
+  },
+  {
+   "id": "3EB0371817CB53502C6FCA",
+   "sender": "ווקי שרון מרגולין",
+   "text": "וואלה אורלי זה עבד",
+   "ts": 1790521765000,
+   "date": "2026-09-27",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB000C8D017900F7F2C50",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לקחתי את התמונה הזו כהשראה למצגת",
+   "ts": 1790521771000,
+   "date": "2026-09-27",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0670D0AC99A0D9CE7B9",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790521774000,
+   "date": "2026-09-27",
+   "time": "18:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1boyXIqedvmSNLq3lf3ozvuIpvhmHpXKE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1boyXIqedvmSNLq3lf3ozvuIpvhmHpXKE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0942A0D8B4555DC3587",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אכן ביקשתי שג'מני יעשה קוד JSON של העיצוב (תוך התעלמות מהתוכן)",
+   "ts": 1790521788000,
+   "date": "2026-09-27",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB077666D4183BE495F31",
+   "sender": "ווקי שרון מרגולין",
+   "text": "העלתי לנוטבוק את ה-JSON",
+   "ts": 1790521794000,
+   "date": "2026-09-27",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0586B28DA9410F892A3",
+   "sender": "ווקי שרון מרגולין",
+   "text": "יצרתי מצגת ואמרתי לו להשתמש ב-JSON כעקרונות העיצוב של המצגת וקיבלתי את זו",
+   "ts": 1790521817000,
+   "date": "2026-09-27",
+   "time": "18:10",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0688CE1A8F75333E1C5",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790521828000,
+   "date": "2026-09-27",
+   "time": "18:10",
+   "files": [
+    {
+     "name": "The_Watchful_Wild.pdf",
+     "size": "5.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Tv1UaJflOuFjIknIVAwISW1bnr8Vyvaf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "2AD85D7BEE6AEF80708A",
+   "sender": "972 Education Inc. Orly",
+   "text": "תודה!!!! אני אעשה זאת בהמשך. מתחילה ללמד! \nתודה שבדקת 🫶🏼",
+   "ts": 1790522056000,
+   "date": "2026-09-27",
+   "time": "18:14",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3EB07B2E0F06DF42805EEC",
+   "sender": "ווקי שרון מרגולין",
+   "text": "בשמחה ועכשיו אני גם יודע מה הפתרון",
+   "ts": 1790522070000,
+   "date": "2026-09-27",
+   "time": "18:14",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }
