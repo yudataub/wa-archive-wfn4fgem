@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T11:29:13.980Z",
+ "updated": "2026-09-27T11:38:44.118Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -28497,7 +28497,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ujgUJl6XoN5wHFw9LU8dCcOlPILywku2/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ujgUJl6XoN5wHFw9LU8dCcOlPILywku2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ujgUJl6XoN5wHFw9LU8dCcOlPILywku2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB04CF01742444DF53D30_0.mp4"
     }
    ],
    "drive": null,
@@ -28517,11 +28518,32 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1dleT21Ewfk93qd5pyulrg2lcBFQ5QC_6/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1dleT21Ewfk93qd5pyulrg2lcBFQ5QC_6&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1dleT21Ewfk93qd5pyulrg2lcBFQ5QC_6&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB019451210169FAE10F6_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "A55CB8DF86E64012C640C59C8E9DE7D1",
+   "sender": "חיים ממן",
+   "text": "וזה ימשיך כנראה כל השבוע 🤷🏽‍♂️",
+   "ts": 1790509094000,
+   "date": "2026-09-27",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "775KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M6LSf3HSD0MR-cXTgN8Dxcw27mh1o0jn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M6LSf3HSD0MR-cXTgN8Dxcw27mh1o0jn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
   }
  ]
 }
