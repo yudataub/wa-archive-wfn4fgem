@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-27T12:26:27.469Z",
+ "updated": "2026-09-27T13:06:33.509Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -31588,6 +31588,60 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACCBA2A55193458A747C1D7B66D93F2F",
+   "sender": "רפי",
+   "text": "כן . קיבל",
+   "ts": 1790514380000,
+   "date": "2026-09-27",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "thread": "רפי",
+   "phone": "972505284131"
+  },
+  {
+   "id": "AC83217DE6BBAE2C3068E8E2A0D39AD7",
+   "sender": "רפי",
+   "text": "",
+   "ts": 1790514383000,
+   "date": "2026-09-27",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "64KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1uxpxL19LU52ZwxgXR6ir83L7fGrTwizs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uxpxL19LU52ZwxgXR6ir83L7fGrTwizs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "רפי",
+   "phone": "972505284131"
+  },
+  {
+   "id": "ACD0658E6A5C6B544013B9576BB9EAB8",
+   "sender": "רפי",
+   "text": "",
+   "ts": 1790514384000,
+   "date": "2026-09-27",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "422KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/11I4URpI5T-ww53IZy-wX74oClcPLJNMt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11I4URpI5T-ww53IZy-wX74oClcPLJNMt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "רפי",
+   "phone": "972505284131"
   }
  ]
 }
