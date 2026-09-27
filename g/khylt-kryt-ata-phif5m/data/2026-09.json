@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-27T17:16:10.343Z",
+ "updated": "2026-09-27T17:24:40.474Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -7926,6 +7926,57 @@
    "files": [],
    "drive": null,
    "phone": "972525168212"
+  },
+  {
+   "id": "AC089A61D51B3E1AB6AD5AFAC82C22DB",
+   "sender": "קרולין",
+   "text": "",
+   "ts": 1790529822000,
+   "date": "2026-09-27",
+   "time": "20:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Oz5Wf6NvIBlpj6x4-hl0kPzHcY3ingKE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Oz5Wf6NvIBlpj6x4-hl0kPzHcY3ingKE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505472338"
+  },
+  {
+   "id": "ACD6460B7A359F61D62130AE8202A85D",
+   "sender": "קרולין",
+   "text": "",
+   "ts": 1790529841000,
+   "date": "2026-09-27",
+   "time": "20:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13FGCJNNR6FS6-td0ZAYLLCbEQW9qjd2R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13FGCJNNR6FS6-td0ZAYLLCbEQW9qjd2R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505472338"
+  },
+  {
+   "id": "AC78DF12A70625029C2340FBC9CC7DAB",
+   "sender": "קרולין",
+   "text": "למכירה  מקרר. חדש",
+   "ts": 1790529884000,
+   "date": "2026-09-27",
+   "time": "20:24",
+   "files": [],
+   "drive": null,
+   "phone": "972505472338"
   }
  ]
 }
