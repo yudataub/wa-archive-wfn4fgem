@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v22 -->
+<!-- wa-archive-generated v24 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
   ולהעלות את SITE_PAGE_VERSION ב-site.js.
   הדף קורא data/index.json (רשימת חודשים) ו-data/YYYY-MM.json (הודעות).
-  ויקרא 2 ושופטים מוחלף בשם הקבוצה בזמן הכתיבה, 57 בגוון הצבע של הקבוצה (0–360).
+  ויקרא 2 ושופטים מוחלף בשם הקבוצה בזמן הכתיבה, 350 בגוון הצבע של הקבוצה (0–360).
 -->
 <html lang="he" dir="rtl">
 <head>
@@ -14,8 +14,8 @@
 <meta name="robots" content="noindex, nofollow">
 <title>ויקרא 2 ושופטים — ארכיון</title>
 <style>
-/* צבע הקבוצה: גוון אחד (57, נקבע לפי שם הקבוצה) שממנו נגזרים הכותרת, השמות והרקע */
-:root{--hue:57;
+/* צבע הקבוצה: גוון אחד (350, נקבע לפי שם הקבוצה) שממנו נגזרים הכותרת, השמות והרקע */
+:root{--hue:350;
 --bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
 --muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);--gold:#b8860b;}
 @media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
@@ -130,7 +130,7 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <a id="contactsbtn" class="hbtn" href="contacts.html" title="אלפון הקבוצה — כל מי שכתב וכל איש קשר ששותף">&#128211;</a>
 <button id="navbtn" title="קפיצה לתאריך" aria-label="קפיצה לתאריך">&#128197;</button></div></div>
 <div class="sub" id="sub">טוען…</div>
-<input id="search" type="search" placeholder="חיפוש בהודעות…">
+<input id="search" type="search" placeholder="חיפוש בכל ההודעות…">
 <select id="who" aria-label="סינון לפי איש קשר"><option value="">כל האנשים</option></select>
 <select id="mediatype" aria-label="סינון לפי סוג קובץ"><option value="">כל הסוגים</option><option value="text">טקסט בלבד</option><option value="image">תמונות</option><option value="video">וידאו</option><option value="audio">הקלטות</option><option value="doc">מסמכים</option></select>
 </header>
@@ -186,6 +186,10 @@ var whoSel=document.getElementById("who");
 function whoOf(m){return m.thread?alias(m.thread,m.phone):alias(m.sender,m.phone);}
 function buildWho(){
  var counts={};all.forEach(function(m){var w=whoOf(m);if(w)counts[w]=(counts[w]||0)+1;});
+ // עוד לא נטענו כל החודשים → הרשימה המלאה מ-data/people.json (נבנה ב-site-push מכל החודשים).
+ // המקסימום בין השניים — הודעות שהגיעו אחרי הבנייה האחרונה כבר בחודש הטעון.
+ if(PEOPLE&&loaded.length<months.length){var pc={};PEOPLE.forEach(function(e){var w=alias(e[0],e[1]);if(w)pc[w]=(pc[w]||0)+e[2];});
+  Object.keys(pc).forEach(function(w){if(!counts[w]||counts[w]<pc[w])counts[w]=pc[w];});}
  var names=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]||a.localeCompare(b,"he");});
  if(who&&!counts[who])who="";
  var html='<option value="">כל האנשים ('+names.length+')</option>';
@@ -550,8 +554,8 @@ function jumpToHash(){
  if(show())return;
  statusEl.textContent="מחפש את ההודעה בחודשים קודמים…";
  (function next(){
-  if(loaded.length>=months.length){statusEl.textContent="ההודעה לא נמצאה בארכיון (ייתכן שנמחקה).";return;}
-  var mo=months[months.length-1-loaded.length];
+  var mo=nextMonth();
+  if(!mo){statusEl.textContent="ההודעה לא נמצאה בארכיון (ייתכן שנמחקה).";return;}
   loadMonth(mo).then(function(){render();if(show())statusEl.textContent="";else next();});})();}
 window.addEventListener("hashchange",jumpToHash);
 function loadOlder(mo){
@@ -572,17 +576,40 @@ feed.addEventListener("click",function(e){
   if(d&&d.ok){deletedIds[id]=1;box.classList.add("gone");setTimeout(render,400);}
   else{alert((d&&d.error)||"המחיקה נכשלה.");b.disabled=false;b.textContent="✕";}})
  .catch(function(){alert("לא ניתן היה ליצור קשר עם שירות המחיקה.");b.disabled=false;b.textContent="✕";});});
+var PEOPLE=null;   // [[שם, טלפון, n], ...] מכל החודשים — site-people.js
+function loadPeople(){return fetch("data/people.json?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
+ .then(function(d){if(d&&Array.isArray(d.people))PEOPLE=d.people;}).catch(function(){});}
 function loadDeleted(){return fetch("data/deleted.json?t="+Date.now()).then(function(r){return r.ok?r.json():{ids:[]};})
  .then(function(d){(d.ids||[]).forEach(function(i){deletedIds[String(i)]=1;});}).catch(function(){});}
-function loadMonth(m){return fetch("data/"+m+".json?t="+Date.now())
+var inflight={};
+function loadMonth(m){
+ if(loaded.indexOf(m)>-1)return Promise.resolve();
+ if(inflight[m])return inflight[m];
+ return inflight[m]=fetch("data/"+m+".json?t="+Date.now())
  .then(function(r){return r.ok?r.json():{messages:[]};})
- .then(function(d){all=all.concat(d.messages||[]);loaded.push(m);});}
+ .catch(function(){return {messages:[]};})
+ .then(function(d){delete inflight[m];if(loaded.indexOf(m)>-1)return;all=all.concat(d.messages||[]);loaded.push(m);});}
+// החודש החדש ביותר שעוד לא נטען (החודשים לא בהכרח נטענים ברצף — ניווט לחודש / חיפוש)
+function nextMonth(){for(var i=months.length-1;i>=0;i--)if(loaded.indexOf(months[i])<0)return months[i];return null;}
+// ---- חיפוש/סינון = בכל החודשים: טוען ברקע את כל מה שחסר, מהחדש לישן, 4 במקביל, ומרנדר אחרי כל סבב ----
+var loadingAll=null;
+function loadAllMonths(){
+ if(loadingAll||loaded.length>=months.length)return loadingAll;
+ loadingAll=(function step(){
+  var batch=[];
+  for(var i=months.length-1;i>=0&&batch.length<4;i--)if(loaded.indexOf(months[i])<0)batch.push(months[i]);
+  if(!batch.length){loadingAll=null;render();return Promise.resolve();}
+  return Promise.all(batch.map(loadMonth)).then(function(){
+   if(filter||who||mediaType){render();
+    sub.textContent+=" · מחפש בכל החודשים…";}
+   return step();});})();
+ return loadingAll;}
 document.getElementById("search").addEventListener("input",function(e){
- filter=e.target.value.trim();render();});
-whoSel.addEventListener("change",function(e){who=e.target.value;render();});
-document.getElementById("mediatype").addEventListener("change",function(e){mediaType=e.target.value;render();});
+ filter=e.target.value.trim();render();if(filter)loadAllMonths();});
+whoSel.addEventListener("change",function(e){who=e.target.value;render();if(who)loadAllMonths();});
+document.getElementById("mediatype").addEventListener("change",function(e){mediaType=e.target.value;render();if(mediaType)loadAllMonths();});
 more.addEventListener("click",function(){
- var next=months[months.length-1-loaded.length];
+ var next=nextMonth();
  if(!next)return;more.disabled=true;
  var h=document.body.scrollHeight;
  loadMonth(next).then(function(){more.disabled=false;render();
@@ -591,7 +618,7 @@ fetch("data/index.json?t="+Date.now()).then(function(r){
  if(!r.ok)throw new Error("אין עדיין נתונים");return r.json();})
  .then(function(d){months=(d.months||[]).sort();
   if(!months.length){statusEl.textContent="אין עדיין הודעות.";return;}
-  return Promise.all([loadDeleted(),loadNames()]).then(function(){return loadMonth(months[months.length-1]);}).then(render).then(jumpToHash);})
+  return Promise.all([loadDeleted(),loadNames(),loadPeople()]).then(function(){return loadMonth(months[months.length-1]);}).then(render).then(jumpToHash).then(function(){if(filter||who||mediaType)loadAllMonths();});})
  .catch(function(){statusEl.textContent="הארכיון עדיין ריק. ההודעות יופיעו כאן אחרי ההודעה הראשונה בקבוצה.";});
 </script>
 </body>
