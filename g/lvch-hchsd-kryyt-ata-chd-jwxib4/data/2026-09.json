@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T19:02:35.437Z",
+ "updated": "2026-09-27T19:09:35.563Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4698,6 +4698,26 @@
    ],
    "drive": null,
    "phone": "972559935618"
+  },
+  {
+   "id": "ACFC50EA3045B77B14663ED284F3CEF3",
+   "sender": "מנחם חזן",
+   "text": "*מוכנים לרקוד?🕺*\nהצצה לשמחת בית השואבה בבית המקדש \n\n> הרבי מליובאוויטש עורר להוסיף בכל יום מימי חג הסוכות בשמחה ובריקודים — בשמחת בית השואבה ובכלל, ככתוב: ״ושמחת בחגך״.\n\n*הצטרפו ל׳רגע היומי׳ שיכין אתכם לגאולה 👇🏻*",
+   "ts": 1790536159000,
+   "date": "2026-09-27",
+   "time": "22:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "18.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SUlhztiDL0V1FN1G_x8p19pJaS6WDh3A/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SUlhztiDL0V1FN1G_x8p19pJaS6WDh3A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509877002"
   }
  ]
 }

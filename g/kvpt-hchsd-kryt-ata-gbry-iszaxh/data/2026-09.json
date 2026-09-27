@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-27T16:20:33.790Z",
+ "updated": "2026-09-27T19:09:35.553Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -891,6 +891,26 @@
    ],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "AC411A2CEA60C95F6CF966503A9EF48F",
+   "sender": "מנחם חזן",
+   "text": "*מוכנים לרקוד?🕺*\nהצצה לשמחת בית השואבה בבית המקדש \n\n> הרבי מליובאוויטש עורר להוסיף בכל יום מימי חג הסוכות בשמחה ובריקודים — בשמחת בית השואבה ובכלל, ככתוב: ״ושמחת בחגך״.\n\n*הצטרפו ל׳רגע היומי׳ שיכין אתכם לגאולה 👇🏻*",
+   "ts": 1790536154000,
+   "date": "2026-09-27",
+   "time": "22:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "18.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hBjY5tQDmstbUblLge3MYuND2gaWtOAf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hBjY5tQDmstbUblLge3MYuND2gaWtOAf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509877002"
   }
  ]
 }
