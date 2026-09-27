@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-27T13:41:11.026Z",
+ "updated": "2026-09-27T13:56:11.251Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8144,6 +8144,25 @@
    ],
    "drive": null,
    "phone": "972552748485"
+  },
+  {
+   "id": "AC8DDF165CCB07AED9DEE301B995AADC",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1790517360000,
+   "date": "2026-09-27",
+   "time": "16:56",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "46KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1AJdPbeVrOPkCcJPsrceJikWfuWoas8hv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
   }
  ]
 }

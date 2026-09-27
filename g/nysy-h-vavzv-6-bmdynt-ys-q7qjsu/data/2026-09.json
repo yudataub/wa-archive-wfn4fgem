@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-27T13:46:41.111Z",
+ "updated": "2026-09-27T13:50:11.167Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -5738,7 +5738,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1AF3PN02zsURI-0_9fScfVUMk3OxiT-5i/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1AF3PN02zsURI-0_9fScfVUMk3OxiT-5i&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1AF3PN02zsURI-0_9fScfVUMk3OxiT-5i&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-09/3EB0EBBAAC9BCF1C2BBA1D_0.mp4"
     }
    ],
    "drive": null,
@@ -5758,7 +5759,28 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1zXZfMRI9wb9BmZTc5jTZQe4WctLWnLLg/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1zXZfMRI9wb9BmZTc5jTZQe4WctLWnLLg&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1zXZfMRI9wb9BmZTc5jTZQe4WctLWnLLg&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-09/3EB05896B796A1B455C37F_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB0544DFE15B37F1051E1",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "ברוך ה.   מפדוית השבי לירי אלבג",
+   "ts": 1790516985000,
+   "date": "2026-09-27",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "87KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HjeslhAoHtwIdYqrGiNYs1dNFTH0Rbtu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HjeslhAoHtwIdYqrGiNYs1dNFTH0Rbtu&sz=w1200"
     }
    ],
    "drive": null,
