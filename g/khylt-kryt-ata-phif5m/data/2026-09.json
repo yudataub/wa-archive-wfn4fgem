@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-27T17:45:45.331Z",
+ "updated": "2026-09-27T19:37:17.228Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8057,6 +8057,26 @@
    ],
    "drive": null,
    "phone": "972525369772"
+  },
+  {
+   "id": "3AA9C0401DE6F54FBB92",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "ארון הזזה שמור! \nרוחב 181.5 גובה 237 עומק 60\n700 ש״ח",
+   "ts": 1790537828000,
+   "date": "2026-09-27",
+   "time": "22:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "224KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Oxf40tQ9qHAXIvyVTBZZCyC2S5bME65Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Oxf40tQ9qHAXIvyVTBZZCyC2S5bME65Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
   }
  ]
 }
