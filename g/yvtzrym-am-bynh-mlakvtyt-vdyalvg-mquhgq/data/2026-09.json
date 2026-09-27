@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T15:50:50.549Z",
+ "updated": "2026-09-27T16:04:50.775Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -29200,6 +29200,68 @@
    "date": "2026-09-27",
    "time": "18:50",
    "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0DB184A8AF2C5DFD21B",
+   "sender": "נועם",
+   "text": "בניתי כלי חינמי ליצירת פונטים בעברית. בוחרים סגנון, משחקים עם האותיות ומורידים פונט. עובד מהדפדפן, בלי הרשמה.\nאשמח לראות מה יצרתם\nhttps://kirbyzproductions.github.io/tzur-font/",
+   "ts": 1790525077000,
+   "date": "2026-09-27",
+   "time": "19:04",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0072FD443B2A534E5B9",
+   "sender": "נועם",
+   "text": "בניתי כלי חינמי ליצירת פונטים בעברית. בוחרים סגנון, משחקים עם האותיות ומורידים פונט. עובד מהדפדפן, בלי הרשמה.\nאשמח לראות מה יצרתם\nhttps://kirbyzproductions.github.io/tzur-font/",
+   "ts": 1790525078000,
+   "date": "2026-09-27",
+   "time": "19:04",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0AFFBD40209B0A5EE49",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790525079000,
+   "date": "2026-09-27",
+   "time": "19:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1O5dtGDJa9GIygId3plDUgQx9bbqAPRXf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O5dtGDJa9GIygId3plDUgQx9bbqAPRXf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB058FEEA5C4240BAEBE9",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790525080000,
+   "date": "2026-09-27",
+   "time": "19:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GyvymW1mD_EQj_s6v6sX2OvVhTVjK20K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GyvymW1mD_EQj_s6v6sX2OvVhTVjK20K&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534663621"
   }

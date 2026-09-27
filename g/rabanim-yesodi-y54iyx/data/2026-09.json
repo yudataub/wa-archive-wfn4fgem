@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-27T15:00:48.946Z",
+ "updated": "2026-09-27T16:01:56.744Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -9182,6 +9182,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC25E85E2C946FDB0248BD0251168971",
+   "sender": "יעקב ביתן",
+   "text": "",
+   "ts": 1790524890000,
+   "date": "2026-09-27",
+   "time": "19:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-qQNQclKyT0hhACIHKSxs3tsJ76jaMtb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-qQNQclKyT0hhACIHKSxs3tsJ76jaMtb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539474314"
   }
  ]
 }
