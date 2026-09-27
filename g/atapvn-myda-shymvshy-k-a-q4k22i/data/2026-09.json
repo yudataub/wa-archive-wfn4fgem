@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-27T12:47:03.208Z",
+ "updated": "2026-09-27T12:50:33.243Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5224,6 +5224,26 @@
      "path": "https://drive.google.com/file/d/1sTdkW71WrlQd2cMIej0JyWLoC89xh-8w/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1sTdkW71WrlQd2cMIej0JyWLoC89xh-8w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546760845"
+  },
+  {
+   "id": "AC010FB23382C73D757BCA7D534C9C60",
+   "sender": "🫡",
+   "text": "מחכים לכם 😊 בסניף קרית אתא קניון תימורה ק.אתא קומת כניסה \nפתוח היום עד 19:30",
+   "ts": 1790513426000,
+   "date": "2026-09-27",
+   "time": "15:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17KcMIVU3Q_ekoIDrbSGJ0RKO7oLocQju/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17KcMIVU3Q_ekoIDrbSGJ0RKO7oLocQju&sz=w1200"
     }
    ],
    "drive": null,

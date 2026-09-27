@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T11:43:19.885Z",
+ "updated": "2026-09-27T12:56:03.324Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4327,6 +4327,37 @@
    "files": [],
    "drive": null,
    "phone": "972544473057"
+  },
+  {
+   "id": "ACE10BD8FC3046E785897E8FB2F03CB7",
+   "sender": "🫡",
+   "text": "מחכים לכם 😊 בסניף קרית אתא קניון תימורה ק.אתא קומת כניסה \nפתוח היום עד 19:30",
+   "ts": 1790513462000,
+   "date": "2026-09-27",
+   "time": "15:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tSqKcHPP9MmlKHJUs-0LYLoMiSO0bL9V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tSqKcHPP9MmlKHJUs-0LYLoMiSO0bL9V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546760845"
+  },
+  {
+   "id": "ACB2CCE0F8DF958F2D8D944782BFC0CC",
+   "sender": "Eden Coan",
+   "text": "כל מילהה",
+   "ts": 1790513750000,
+   "date": "2026-09-27",
+   "time": "15:55",
+   "files": [],
+   "drive": null,
+   "phone": "972545457340"
   }
  ]
 }
