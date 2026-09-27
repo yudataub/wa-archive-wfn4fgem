@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-27T15:22:56.121Z",
+ "updated": "2026-09-27T15:36:56.312Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5954,6 +5954,57 @@
    "files": [],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "A5A0EBEB830BEA795B5EEC6220696077",
+   "sender": "אפרת - עיצובים ברמה אחרת",
+   "text": "",
+   "ts": 1790523411000,
+   "date": "2026-09-27",
+   "time": "18:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "663KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1StwX7GMjg6fvpE4LEe_0qroG31wAQP3T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1StwX7GMjg6fvpE4LEe_0qroG31wAQP3T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535526723"
+  },
+  {
+   "id": "A52EDD9499130A7F9DED295CA3AB4BE7",
+   "sender": "אפרת - עיצובים ברמה אחרת",
+   "text": "האופניים ב-5500 נקנו לפני שבוע ב-6000 הקורקינט ב-3500 גמיש בקטנה",
+   "ts": 1790523412000,
+   "date": "2026-09-27",
+   "time": "18:36",
+   "files": [],
+   "drive": null,
+   "phone": "972535526723"
+  },
+  {
+   "id": "A5570E1DA866B9E0979E095E50D5AE35",
+   "sender": "אפרת - עיצובים ברמה אחרת",
+   "text": "",
+   "ts": 1790523412000,
+   "date": "2026-09-27",
+   "time": "18:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14s0WoAB5QOh_k4TZoYGr2hVl1qB1mjZz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14s0WoAB5QOh_k4TZoYGr2hVl1qB1mjZz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535526723"
   }
  ]
 }

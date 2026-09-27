@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-27T15:17:56.067Z",
+ "updated": "2026-09-27T15:32:26.269Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -31962,6 +31962,25 @@
      "path": "https://drive.google.com/file/d/1E-57e7J0CFI0EceZu_qjmByox5D7OjBV/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1E-57e7J0CFI0EceZu_qjmByox5D7OjBV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB06867B5BDA741FC4305",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790523129000,
+   "date": "2026-09-27",
+   "time": "18:32",
+   "files": [
+    {
+     "name": "משחק_ארבעת_המינים.html",
+     "size": "63KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1oay40waYUZC-7ZEylEuY7Al2xheWFsTE/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,
