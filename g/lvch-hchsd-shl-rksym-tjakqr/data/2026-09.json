@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-27T18:13:45.762Z",
+ "updated": "2026-09-27T20:29:25.056Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5144,6 +5144,46 @@
    "files": [],
    "drive": null,
    "phone": "972584772228"
+  },
+  {
+   "id": "AC20683C939D9C292E89AC72424BD058",
+   "sender": "נתנאל רסקין",
+   "text": "למסירה בפרטי",
+   "ts": 1790540869000,
+   "date": "2026-09-27",
+   "time": "23:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "276KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x1FJfORmrjxppQSdJG5QoDkvI4OWzdYn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x1FJfORmrjxppQSdJG5QoDkvI4OWzdYn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527615050"
+  },
+  {
+   "id": "ACAFED09C3EF2DC3C091D060F6E79A00",
+   "sender": "נתנאל רסקין",
+   "text": "",
+   "ts": 1790540950000,
+   "date": "2026-09-27",
+   "time": "23:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "337KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WS7_01xHjCLhDjKqKv9h2wwxoxBT4C4D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WS7_01xHjCLhDjKqKv9h2wwxoxBT4C4D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527615050"
   }
  ]
 }
