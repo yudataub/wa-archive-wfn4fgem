@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-27T00:38:49.418Z",
+ "updated": "2026-09-27T06:51:36.484Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -3973,6 +3973,26 @@
    "files": [],
    "drive": null,
    "phone": "13107392984"
+  },
+  {
+   "id": "A50E0E57CD6B060318D18EB0B9E4B91D",
+   "sender": "תמר חמאדה",
+   "text": "חברים, מפגש הקהילה הראשון להשנה  שמרו תאריך! \n\"מתכנון פדגוגי למרחב פיזיטלי:\nבונים חווית למידה חוקרת ב-Genially\"\n\nאיך להפוך תוכן לימודי למרחב אינטראקטיבי שמעורר סקרנות ומעודד למידה עצמאית.\n\nעם מעיין שפושניק\n🗓️ יום ד׳, 14/10/26\n⏰ 20:00-21:15\n\nהמפגש חינמי 🎁 שמרו ביומן והירשמו כאן:\nhttps://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nמחכה לכם 💛\nרעיונות פוגשים בינה\nתמר חמאדה \n\nלהצטרפות לקהילה",
+   "ts": 1790491877000,
+   "date": "2026-09-27",
+   "time": "09:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MAp-UIV9l-U5Egu24PaKM4ZebcxVNYW5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MAp-UIV9l-U5Egu24PaKM4ZebcxVNYW5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

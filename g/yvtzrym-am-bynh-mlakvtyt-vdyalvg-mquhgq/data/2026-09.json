@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-27T06:47:06.444Z",
+ "updated": "2026-09-27T06:51:36.491Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -28375,7 +28375,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/17AqNl5RfoKM41DOOmc0qJ_J2YUipldpg/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=17AqNl5RfoKM41DOOmc0qJ_J2YUipldpg&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=17AqNl5RfoKM41DOOmc0qJ_J2YUipldpg&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB0DE192C509EB9A2A61F_0.mp4"
     }
    ],
    "drive": null,
@@ -28395,11 +28396,32 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1s3ayR5KTG_zNUltoHaBS8sZdTyVJ0frD/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1s3ayR5KTG_zNUltoHaBS8sZdTyVJ0frD&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1s3ayR5KTG_zNUltoHaBS8sZdTyVJ0frD&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB07F8189A6BECA9058CA_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "A5322F8808A3A733B5BDAA171679C8FA",
+   "sender": "תמר חמאדה",
+   "text": "חברים, מפגש הקהילה הראשון להשנה  שמרו תאריך! \n\"מתכנון פדגוגי למרחב פיזיטלי:\nבונים חווית למידה חוקרת ב-Genially\"\n\nאיך להפוך תוכן לימודי למרחב אינטראקטיבי שמעורר סקרנות ומעודד למידה עצמאית.\n\nעם מעיין שפושניק\n🗓️ יום ד׳, 14/10/26\n⏰ 20:00-21:15\n\nהמפגש חינמי 🎁 שמרו ביומן והירשמו כאן:\nhttps://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nמחכה לכם 💛\nרעיונות פוגשים בינה\nתמר חמאדה \n\nלהצטרפות לקהילה",
+   "ts": 1790491879000,
+   "date": "2026-09-27",
+   "time": "09:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B0cwG1zEryNzkHqYCaVIzXnVnASUZqkE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B0cwG1zEryNzkHqYCaVIzXnVnASUZqkE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

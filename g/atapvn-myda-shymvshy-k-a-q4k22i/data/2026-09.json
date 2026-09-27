@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-27T06:02:02.118Z",
+ "updated": "2026-09-27T06:50:36.727Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5123,6 +5123,26 @@
    ],
    "drive": null,
    "phone": "972559326761"
+  },
+  {
+   "id": "AC93BAEDF74ACFAD10F693AC21DB5201",
+   "sender": "א עמר",
+   "text": "🌿*זה המועד* לקחת אחריות על העתיד שלכם!\n\n*קודקוד פותחת לכם דלתות לתעשייה ומזמינה גם אתכם להיכנס*🚪\n> התכנית החרדית ליחידות ההייטק במערכת הביטחון, שתסדר לכם עתיד מקצועי וכלכלי מבטיח!\n\n⏳ *ימים אחרונים להרשמה למחזור 7!*\n\n✅ *ניסיון מעשי* במסגרת שירות ביחידות טכנולוגיות מובחרות (המוסד, 8200, חט״ל, חיל האוויר ועוד)\n✅ *מלגת קיום* של עד 8,500 ₪ בחודש\n✅ *אחוזי השמה* מהגבוהים בשוק\n\nהתוכנית מיועדת לגברים חרדים בגילאי 21-32 (רווקים מעל גיל 23)\n\n*הקוד שלכם לפרנסה בראש שקט >>>*\nhttps://kodcode.org.il/?utm_source=gantz&utm_medium=whatsapp&utm_campaign=sukot\n\nבוט לחסומים\nhttps://api.whatsapp.com/send?phone=972777298741&text=היי+מעוניין+לשמוע+עוד+על+קודקוד+הגעתי+דרך+גנץ",
+   "ts": 1790491831000,
+   "date": "2026-09-27",
+   "time": "09:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "552KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hhRcIigFY0tEUREFesY-yi9b2uRFBVeE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hhRcIigFY0tEUREFesY-yi9b2uRFBVeE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
   }
  ]
 }

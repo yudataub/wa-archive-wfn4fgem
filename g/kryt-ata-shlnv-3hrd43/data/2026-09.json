@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T06:32:06.450Z",
+ "updated": "2026-09-27T06:50:06.699Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35547,6 +35547,46 @@
    "files": [],
    "drive": null,
    "phone": "972528438008"
+  },
+  {
+   "id": "2A3C28AF521A3B23477C",
+   "sender": "לירוי שירה | החלקת שיער | טיפול קרטין | וצבע לנשים קריות",
+   "text": "ההחלקה שלי היא קונצרט לשיער 🎶✨\n\nובסוף המופע? שיער חלק, מבריק, רך ונעים בלי התעסקות יומיומית.",
+   "ts": 1790491768000,
+   "date": "2026-09-27",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1aGbOTL4v--MgtxuGwmwWKK3QJaz1Unlo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aGbOTL4v--MgtxuGwmwWKK3QJaz1Unlo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506476776"
+  },
+  {
+   "id": "ACC55FD1A2E7DB2FCC3B76BD95491DB1",
+   "sender": "א עמר",
+   "text": "🌿*זה המועד* לקחת אחריות על העתיד שלכם!\n\n*קודקוד פותחת לכם דלתות לתעשייה ומזמינה גם אתכם להיכנס*🚪\n> התכנית החרדית ליחידות ההייטק במערכת הביטחון, שתסדר לכם עתיד מקצועי וכלכלי מבטיח!\n\n⏳ *ימים אחרונים להרשמה למחזור 7!*\n\n✅ *ניסיון מעשי* במסגרת שירות ביחידות טכנולוגיות מובחרות (המוסד, 8200, חט״ל, חיל האוויר ועוד)\n✅ *מלגת קיום* של עד 8,500 ₪ בחודש\n✅ *אחוזי השמה* מהגבוהים בשוק\n\nהתוכנית מיועדת לגברים חרדים בגילאי 21-32 (רווקים מעל גיל 23)\n\n*הקוד שלכם לפרנסה בראש שקט >>>*\nhttps://kodcode.org.il/?utm_source=gantz&utm_medium=whatsapp&utm_campaign=sukot\n\nבוט לחסומים\nhttps://api.whatsapp.com/send?phone=972777298741&text=היי+מעוניין+לשמוע+עוד+על+קודקוד+הגעתי+דרך+גנץ",
+   "ts": 1790491802000,
+   "date": "2026-09-27",
+   "time": "09:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "552KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nrMBfn1fECExprm5iUrze1L_gXakjXlD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nrMBfn1fECExprm5iUrze1L_gXakjXlD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
   }
  ]
 }
