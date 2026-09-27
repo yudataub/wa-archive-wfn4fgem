@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-27T14:04:41.357Z",
+ "updated": "2026-09-27T14:42:48.661Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -19079,6 +19079,37 @@
    "files": [],
    "drive": null,
    "phone": "972529545989"
+  },
+  {
+   "id": "AC73D3B38E1B1E36C126625A4D3B4618",
+   "sender": "noa asulin0",
+   "text": "בתפילת שחרית של השבת הקרובה איזה קוראים על פי המחזור של סוכות?\nכי כתוב שיש גם שחרית לסוכות ושמיני עצרת וגם שחרית לשבת חול המועד",
+   "ts": 1790520056000,
+   "date": "2026-09-27",
+   "time": "17:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GD6w4XDqbsxSMmwMCOq5KH5-Oq1I-6iK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GD6w4XDqbsxSMmwMCOq5KH5-Oq1I-6iK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504410155"
+  },
+  {
+   "id": "AC6E7F4AAE3479591CBBEDDF2E32180F",
+   "sender": "הרב אוריאל בצר",
+   "text": "שחרית לסוכות ושמיני עצרת\n\nלשים לב איפה שמסומן בסידור להזכיר שמיני עצרת ולא סוכות.",
+   "ts": 1790520171000,
+   "date": "2026-09-27",
+   "time": "17:42",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
   }
  ]
 }
