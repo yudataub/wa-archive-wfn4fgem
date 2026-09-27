@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-27T07:10:07.067Z",
+ "updated": "2026-09-27T08:04:52.134Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -18550,6 +18550,37 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "AC809F1B2FC11B2A0BDF870016A82B91",
+   "sender": "גיורא גבלייב",
+   "text": "האם צריך ליטול ידיים??\nטורטיה אחת בערך 70 גרם",
+   "ts": 1790496277000,
+   "date": "2026-09-27",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972545719431"
+  },
+  {
+   "id": "AC8656E644C5745BC0FB35C0D93DB3A9",
+   "sender": "גיורא גבלייב",
+   "text": "",
+   "ts": 1790496279000,
+   "date": "2026-09-27",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "500KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1porAukWRcrq6UQY4MfLv5BI3yzsFOq-i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1porAukWRcrq6UQY4MfLv5BI3yzsFOq-i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545719431"
   }
  ]
 }

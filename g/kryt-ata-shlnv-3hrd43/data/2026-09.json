@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T07:55:21.907Z",
+ "updated": "2026-09-27T08:05:22.111Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35663,6 +35663,26 @@
    "files": [],
    "drive": null,
    "phone": "972503563494"
+  },
+  {
+   "id": "3A453D4B0CA9CE1A31DC",
+   "sender": "שון בן יהודה",
+   "text": "השטיפה של הקריה קרית ים בויז",
+   "ts": 1790496310000,
+   "date": "2026-09-27",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "72KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vWTprinIzhDtBvALCaRhbQ4pdD1-8eHN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vWTprinIzhDtBvALCaRhbQ4pdD1-8eHN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524663502"
   }
  ]
 }
