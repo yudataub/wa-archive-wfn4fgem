@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-27T16:25:03.831Z",
+ "updated": "2026-09-27T17:15:10.351Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6078,6 +6078,26 @@
    "files": [],
    "drive": null,
    "phone": "972559927434"
+  },
+  {
+   "id": "3AAFCB8329BBDBF56587",
+   "sender": "LIRON RIVKA🎀",
+   "text": "",
+   "ts": 1790529296000,
+   "date": "2026-09-27",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17-5VC5xOidQIbYwin44x_1xkbA0m43AF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17-5VC5xOidQIbYwin44x_1xkbA0m43AF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523127393"
   }
  ]
 }
