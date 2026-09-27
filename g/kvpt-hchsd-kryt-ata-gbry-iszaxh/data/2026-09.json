@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-27T07:04:06.972Z",
+ "updated": "2026-09-27T09:35:35.812Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -829,6 +829,46 @@
    "files": [],
    "drive": null,
    "phone": "972505600077"
+  },
+  {
+   "id": "A560C65716E9718C97A0876BAEFD19CD",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*טל רפאל - תקליטן חרדי לחתונות | סט להיטים דתי קיץ 2026 🔥🔥🔥*\n\nhttps://youtu.be/7am8FBWmDkM?si=_zsXME9_bfgRZnhs",
+   "ts": 1790501366000,
+   "date": "2026-09-27",
+   "time": "12:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KDi8J1j6i4cjGW3HcX47xopDtu9LuV3-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KDi8J1j6i4cjGW3HcX47xopDtu9LuV3-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A5BD35979855D46FB1C8BA3E7DBAF928",
+   "sender": "אחזקת גינות מקצועי מיכאל אלבז",
+   "text": "",
+   "ts": 1790501708000,
+   "date": "2026-09-27",
+   "time": "12:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17A-LkL18ZjPbs-E_-V43cNQOncYHEH-Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17A-LkL18ZjPbs-E_-V43cNQOncYHEH-Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539357102"
   }
  ]
 }

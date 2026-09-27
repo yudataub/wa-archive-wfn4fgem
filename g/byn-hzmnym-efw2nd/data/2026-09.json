@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-27T09:26:05.674Z",
+ "updated": "2026-09-27T09:29:05.717Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -884,7 +884,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/11yGF7O3uA7gIgIcTji2y519z6k5zmV0j/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=11yGF7O3uA7gIgIcTji2y519z6k5zmV0j&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=11yGF7O3uA7gIgIcTji2y519z6k5zmV0j&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-09/AC6ED3C809110A9717ADD402973195CA_0.mp4"
     }
    ],
    "drive": null,
@@ -924,11 +925,43 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1RDhHYEvtTt1tiQbV8nIr7chQjwDheekf/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1RDhHYEvtTt1tiQbV8nIr7chQjwDheekf&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1RDhHYEvtTt1tiQbV8nIr7chQjwDheekf&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-09/AC6BD7775E3108D7E6C5E6DCC8793339_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972524031418"
+  },
+  {
+   "id": "ACAF623894EB2061E5BEE1D1AC04D774",
+   "sender": "איריס בר טל",
+   "text": "*מתחם חדש קסום בלב צפת,32 מיטות ואפשרות למזרונים.*\n*סוכה גדולה*\n*נגישות לנכים*\n*חניה בשפע*\n*פנוי בשמתת תורה*\n*מרחק 7 דקות הליכה מהעיר העתיקה*",
+   "ts": 1790501281000,
+   "date": "2026-09-27",
+   "time": "12:28",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACA2DE2776BCF785780E94CD02FACF5B",
+   "sender": "Osher",
+   "text": "בגן לאומי מגדל צדק יש המוני חצבים.\n\nhttps://nelech.co.il/2022/01/26/%D7%92%D7%9F-%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%9E%D7%92%D7%93%D7%9C-%D7%A6%D7%93%D7%A7/",
+   "ts": 1790501326000,
+   "date": "2026-09-27",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "344KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kRBPDDKqMAPDqisziiZ94-tL_EvFaUDQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kRBPDDKqMAPDqisziiZ94-tL_EvFaUDQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524282461"
   }
  ]
 }

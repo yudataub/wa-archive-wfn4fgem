@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T08:44:58.294Z",
+ "updated": "2026-09-27T09:30:05.740Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35714,6 +35714,26 @@
    ],
    "drive": null,
    "phone": "972559980845"
+  },
+  {
+   "id": "A55BBA6C06F4DF4C0850496A7EA22C56",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*טל רפאל - תקליטן חרדי לחתונות | סט להיטים דתי קיץ 2026 🔥🔥🔥*\n\nhttps://youtu.be/7am8FBWmDkM?si=_zsXME9_bfgRZnhs",
+   "ts": 1790501378000,
+   "date": "2026-09-27",
+   "time": "12:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-Q9Uy-0ps6x0XF9S4MPYUmcIPtCMKF8A/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-Q9Uy-0ps6x0XF9S4MPYUmcIPtCMKF8A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
   }
  ]
 }
