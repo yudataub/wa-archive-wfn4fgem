@@ -1,0 +1,47 @@
+{
+ "month": "2026-09",
+ "group": "הוראה יצירתית עם ai 3️⃣",
+ "updated": "2026-09-27T07:30:37.393Z",
+ "messages": [
+  {
+   "id": "AC9C877EE7068F6E9D8A9C94FCB56E6A",
+   "sender": "סוזי גרוס",
+   "text": "",
+   "ts": 1790494209000,
+   "date": "2026-09-27",
+   "time": "10:30",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "60KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1y7KMqdl9grI2U2J9aciv5QE5WiCfUNwJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y7KMqdl9grI2U2J9aciv5QE5WiCfUNwJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522706997"
+  },
+  {
+   "id": "ACCB73A16EC76A5D3845B46AD4E557D6",
+   "sender": "סוזי גרוס",
+   "text": "",
+   "ts": 1790494209000,
+   "date": "2026-09-27",
+   "time": "10:30",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "41KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/17_6QdK4VrvW1SESIm2Vw_--o-xYXhB06/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17_6QdK4VrvW1SESIm2Vw_--o-xYXhB06&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522706997"
+  }
+ ]
+}
