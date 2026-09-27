@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-27T01:44:58.169Z",
+ "updated": "2026-09-27T03:58:30.246Z",
  "messages": [
   {
    "id": "ACE6D7B51F9D97D3DF11A3CBC092D83F",
@@ -1848,6 +1848,37 @@
    "files": [],
    "drive": null,
    "phone": "972547417978"
+  },
+  {
+   "id": "AC32015B8F9EEF3E0AAEDB24FE4219EC",
+   "sender": "שלמה חזיזה ממונה בטיחות 👨‍🔧",
+   "text": "אל המעיין 7.30",
+   "ts": 1790481471000,
+   "date": "2026-09-27",
+   "time": "06:57",
+   "files": [],
+   "drive": null,
+   "phone": "972549288960"
+  },
+  {
+   "id": "AC98494F5F7B537FC97309BD6CA835FD",
+   "sender": "שלמה חזיזה ממונה בטיחות 👨‍🔧",
+   "text": "",
+   "ts": 1790481484000,
+   "date": "2026-09-27",
+   "time": "06:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "286KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s9gbXiikW31Y5a5zFZnI3Uape_fuXJO1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s9gbXiikW31Y5a5zFZnI3Uape_fuXJO1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549288960"
   }
  ]
 }
