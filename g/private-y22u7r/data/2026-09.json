@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-27T14:55:48.873Z",
+ "updated": "2026-09-27T15:17:56.067Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -31942,6 +31942,26 @@
      "type": "text/html",
      "path": "https://drive.google.com/file/d/1OIRxiy5OHesEOnYYby8WmAqe_xPBpuzD/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB02ABBBF55BC09BF1C2F",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790522255000,
+   "date": "2026-09-27",
+   "time": "18:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "487KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E-57e7J0CFI0EceZu_qjmByox5D7OjBV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E-57e7J0CFI0EceZu_qjmByox5D7OjBV&sz=w1200"
     }
    ],
    "drive": null,

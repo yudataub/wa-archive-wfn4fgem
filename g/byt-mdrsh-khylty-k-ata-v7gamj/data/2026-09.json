@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-27T09:29:05.731Z",
+ "updated": "2026-09-27T15:18:26.079Z",
  "messages": [
   {
    "id": "ACA56CF925497E8C83CA0B0D502D2D7E",
@@ -3961,6 +3961,26 @@
    "files": [],
    "drive": null,
    "phone": "972545614454"
+  },
+  {
+   "id": "AC4F6B8B1EAB89738F9E875DA4F94D82",
+   "sender": "אברהם אוחיון",
+   "text": "",
+   "ts": 1790522300000,
+   "date": "2026-09-27",
+   "time": "18:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "404KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HZ1CkKoh28pRf9hpUCHWsY3sFROgnGc3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HZ1CkKoh28pRf9hpUCHWsY3sFROgnGc3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502345227"
   }
  ]
 }

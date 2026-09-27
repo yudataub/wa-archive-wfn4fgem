@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-27T13:34:40.913Z",
+ "updated": "2026-09-27T15:22:56.121Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -5923,6 +5923,37 @@
    "files": [],
    "drive": null,
    "phone": "972559503426"
+  },
+  {
+   "id": "ACC24A1F0D3AA0A7A49866EF01E0B7D2",
+   "sender": "אלי",
+   "text": "",
+   "ts": 1790522416000,
+   "date": "2026-09-27",
+   "time": "18:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IDtildGWmk93pzVDUZ19jkmZjb9coJ6x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IDtildGWmk93pzVDUZ19jkmZjb9coJ6x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522255671"
+  },
+  {
+   "id": "A5DD6C61A26F8A911CFD4ECEFAD90841",
+   "sender": "מאיר מוגרבי",
+   "text": "מישהו מגיע מאיזור חולון לרכסים?",
+   "ts": 1790522579000,
+   "date": "2026-09-27",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

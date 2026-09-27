@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-09-27T12:35:27.610Z",
+ "updated": "2026-09-27T15:18:26.067Z",
  "messages": [
   {
    "id": "AC9DAC93B4AF85A222AACAB124B9F266",
@@ -716,6 +716,37 @@
    "time": "15:35",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC5D99864B56A7FB326752A9078DB22A",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790522292000,
+   "date": "2026-09-27",
+   "time": "18:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "487KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1C9Wjb09a7k6D1lcBTAHPxJEHd2ixpAh_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1C9Wjb09a7k6D1lcBTAHPxJEHd2ixpAh_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC87E2F9916DDE255AE0366C4D261011",
+   "sender": "אורלי אוחנה",
+   "text": "☝️תשלחו בבקשה בקבוצת ההורים.",
+   "ts": 1790522306000,
+   "date": "2026-09-27",
+   "time": "18:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }
