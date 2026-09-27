@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-27T07:12:37.098Z",
+ "updated": "2026-09-27T07:24:37.270Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -5592,7 +5592,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1S54V4-bSk-H_-JZG4vPkrxzRTrxP88Zg/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1S54V4-bSk-H_-JZG4vPkrxzRTrxP88Zg&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1S54V4-bSk-H_-JZG4vPkrxzRTrxP88Zg&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-09/3EB096E426803A78A9807F_0.mp4"
     }
    ],
    "drive": null,
@@ -5612,7 +5613,28 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1JNHFkidDXdX3f90myTKL30C899MEzWgb/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1JNHFkidDXdX3f90myTKL30C899MEzWgb&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1JNHFkidDXdX3f90myTKL30C899MEzWgb&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-09/3EB0CBBE13EFEEA6A3FB41_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB0D2F0E9CDB3EC3A90E1",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "ערוצים בלסטינים מתלוננים:\n\n*بعد إجبار أصحاب المحال التجارية على إغلاقها.. مستوطنون يؤدون طقوسا تلمودية في سوق القطانين المؤدي  للمسجد الأقصى المبارك.*\n\nתרגום : \"לאחר שנכפה על בעלי החנויות לסגור את עסקיהם... מתנחלים עורכים טקסים תלמודיים בשוק עושי הכותנה (בעיר העתיקה בירושלים - א\"ע) , המוביל למסגד אלאקצא.\"\n> abualiexpress",
+   "ts": 1790493855000,
+   "date": "2026-09-27",
+   "time": "10:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1cxyNLcd3d5d-BRcGT8mIsFa5QH0qZ9pK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cxyNLcd3d5d-BRcGT8mIsFa5QH0qZ9pK&sz=w1200"
     }
    ],
    "drive": null,

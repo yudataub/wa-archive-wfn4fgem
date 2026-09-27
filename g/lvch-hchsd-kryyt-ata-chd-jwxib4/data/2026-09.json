@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T07:17:37.145Z",
+ "updated": "2026-09-27T07:19:37.175Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4081,6 +4081,39 @@
    "files": [],
    "drive": null,
    "phone": "972586150770"
+  },
+  {
+   "id": "AC87DACAAAAF35DAAE34787D68F616A9",
+   "sender": "DJ yossi hatan",
+   "text": "תדבר איתו הוא גם תותח",
+   "ts": 1790493484000,
+   "date": "2026-09-27",
+   "time": "10:18",
+   "files": [],
+   "drive": null,
+   "phone": "972586150770"
+  },
+  {
+   "id": "ACC5DC957ECA9A3405C2EFDDD7F40FD8",
+   "sender": "Eden Coan",
+   "text": "📇 לירן אלקובי דייגי\n+972508343218",
+   "ts": 1790493486000,
+   "date": "2026-09-27",
+   "time": "10:18",
+   "files": [],
+   "drive": null,
+   "phone": "972545457340"
+  },
+  {
+   "id": "ACA430C323AA5AAB89D73592684B32FF",
+   "sender": "Eden Coan",
+   "text": "אחד המומלצים",
+   "ts": 1790493550000,
+   "date": "2026-09-27",
+   "time": "10:19",
+   "files": [],
+   "drive": null,
+   "phone": "972545457340"
   }
  ]
 }
