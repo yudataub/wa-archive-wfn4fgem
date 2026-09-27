@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T15:10:19.073Z",
+ "updated": "2026-09-27T15:41:26.381Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4497,6 +4497,26 @@
    "files": [],
    "drive": null,
    "phone": "972543530543"
+  },
+  {
+   "id": "A549B7C4426892FE35D773CE225D57F8",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "",
+   "ts": 1790523666000,
+   "date": "2026-09-27",
+   "time": "18:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z0Av_3boH7j75QhuLHjtBVzKIVUUm6uR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z0Av_3boH7j75QhuLHjtBVzKIVUUm6uR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545223044"
   }
  ]
 }
