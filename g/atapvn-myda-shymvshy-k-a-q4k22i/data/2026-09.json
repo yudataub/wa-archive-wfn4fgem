@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-27T12:15:27.295Z",
+ "updated": "2026-09-27T12:47:03.208Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5175,6 +5175,59 @@
    "files": [],
    "drive": null,
    "phone": "972522354929"
+  },
+  {
+   "id": "A583BC562E50D5D64BDB5A0F202143C9",
+   "sender": "אלירן",
+   "text": "📇 יוסי שיפוצים מספר 1\n+972543608655",
+   "ts": 1790512706000,
+   "date": "2026-09-27",
+   "time": "15:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524306601"
+  },
+  {
+   "id": "A5FAFBF443A3694CD010E534309C0AFC",
+   "sender": "אלירן",
+   "text": "מומלץ!",
+   "ts": 1790512708000,
+   "date": "2026-09-27",
+   "time": "15:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524306601"
+  },
+  {
+   "id": "AC236808A1FC3739A0D79D62C531C7D8",
+   "sender": "🫡",
+   "text": "מחכים לכם בסניף קרית אתא קניון תימורה ק.אתא \nפתוח היום עד 19:30",
+   "ts": 1790513205000,
+   "date": "2026-09-27",
+   "time": "15:46",
+   "files": [],
+   "drive": null,
+   "phone": "972546760845"
+  },
+  {
+   "id": "ACA47A016A63F7A0255C3335F94DB9C1",
+   "sender": "🫡",
+   "text": "",
+   "ts": 1790513205000,
+   "date": "2026-09-27",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sTdkW71WrlQd2cMIej0JyWLoC89xh-8w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sTdkW71WrlQd2cMIej0JyWLoC89xh-8w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546760845"
   }
  ]
 }
