@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-27T13:31:33.925Z",
+ "updated": "2026-09-27T13:46:11.096Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4369,6 +4369,70 @@
    "files": [],
    "drive": null,
    "phone": "972523022223"
+  },
+  {
+   "id": "A55EBB14051ACFEFC8170A45FF8F404A",
+   "sender": "גיא אפיק Dj",
+   "text": "",
+   "ts": 1790516343000,
+   "date": "2026-09-27",
+   "time": "16:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c6vb0YdKcpuAb3iGuZsoaWhcuTw9ONeJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c6vb0YdKcpuAb3iGuZsoaWhcuTw9ONeJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548047828"
+  },
+  {
+   "id": "A5E3CE05115A967AA66475ACDFF32C0C",
+   "sender": "אליהו סרוסי",
+   "text": "למי יש הדסים וערבות ? \nאו מאיפה אפשר לקנות",
+   "ts": 1790516391000,
+   "date": "2026-09-27",
+   "time": "16:39",
+   "files": [],
+   "drive": null,
+   "phone": "972503004242"
+  },
+  {
+   "id": "AC352DFA287A3FA5F6ECAE10F3D60F39",
+   "sender": "גמח עדן",
+   "text": "אושר עי",
+   "ts": 1790516412000,
+   "date": "2026-09-27",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC462C8F00CB6C7A92BE80753A13E1B1",
+   "sender": "גמח עדן",
+   "text": "עד",
+   "ts": 1790516413000,
+   "date": "2026-09-27",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC2BAE81447DC0F92601765BCE8DED56",
+   "sender": "liad🎀",
+   "text": "דוד מתתיהו \n0504133428",
+   "ts": 1790516770000,
+   "date": "2026-09-27",
+   "time": "16:46",
+   "files": [],
+   "drive": null,
+   "phone": "972526624939"
   }
  ]
 }

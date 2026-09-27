@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-27T13:36:10.964Z",
+ "updated": "2026-09-27T13:39:10.985Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5259,6 +5259,26 @@
    "files": [],
    "drive": null,
    "phone": "972503004242"
+  },
+  {
+   "id": "A546965CD2E4D5A592E9CE14F0879629",
+   "sender": "גיא אפיק Dj",
+   "text": "",
+   "ts": 1790516339000,
+   "date": "2026-09-27",
+   "time": "16:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hIi2pg6Xmlh4bFh6MjbMcLAXNDFKaKeI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hIi2pg6Xmlh4bFh6MjbMcLAXNDFKaKeI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548047828"
   }
  ]
 }

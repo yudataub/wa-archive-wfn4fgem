@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T13:24:03.789Z",
+ "updated": "2026-09-27T13:40:41.016Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -35989,6 +35989,46 @@
    ],
    "drive": null,
    "phone": "972527766833"
+  },
+  {
+   "id": "A594B8080FAA15B744B5A1708CD5F0B0",
+   "sender": "גיא אפיק Dj",
+   "text": "",
+   "ts": 1790516348000,
+   "date": "2026-09-27",
+   "time": "16:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NliI-a-rGV7GyjJdXhjTyTXs50-H2dOD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NliI-a-rGV7GyjJdXhjTyTXs50-H2dOD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548047828"
+  },
+  {
+   "id": "3A0FA8890F3EC0C96748",
+   "sender": "אורנית טל",
+   "text": "מועדים לשמחה 💐\nיש לכם אורחים בסוכה ?\nבואו לטופ  לפנק אותם עם פינוק מתוק , מארזים של יוגורט /גלידה / וופל בלגי /קרפ צרפתי ….ועוד מגוון פינוקים מתוקים . \nבסניף ,באתר ובאפליקציה top-mango.co.il",
+   "ts": 1790516428000,
+   "date": "2026-09-27",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UtlQAxNsSyOiV0987JM9LLtJ2EsVDtvD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UtlQAxNsSyOiV0987JM9LLtJ2EsVDtvD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523626260"
   }
  ]
 }
