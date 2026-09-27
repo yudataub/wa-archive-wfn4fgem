@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-27T17:46:45.349Z",
+ "updated": "2026-09-27T20:01:54.643Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -5856,6 +5856,26 @@
    "date": "2026-09-27",
    "time": "20:46",
    "files": [],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB042A462229D76985335",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "ברוך ה.  חג שמח.  רואים את מהפכת ההתיישבות בעיניים: עשרות אלפי מטיילים ביקרו היום בחוות וביישובים החדשים, השר סמוטריץ׳ ונציגי הציונות הדתית פגשו אותם (ערוץ 7)",
+   "ts": 1790539302000,
+   "date": "2026-09-27",
+   "time": "23:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/18k_Lz3yJsxK3aRflHNO6uNHPGmcN3aNO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18k_Lz3yJsxK3aRflHNO6uNHPGmcN3aNO&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534372917"
   }

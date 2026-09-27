@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-27T19:56:17.514Z",
+ "updated": "2026-09-27T19:59:17.538Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36502,6 +36502,26 @@
    ],
    "drive": null,
    "phone": "972545767675"
+  },
+  {
+   "id": "2A23AAD81EB2CA018C4A",
+   "sender": "Sweet By Paz",
+   "text": "אהובים שלי \nמוזמנים להזמין\nמחירים נוחים ושירות מהלב  🤍",
+   "ts": 1790539123000,
+   "date": "2026-09-27",
+   "time": "22:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "263KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RUlkNTdPw_Idg9-4bjmyg4X0b28Ax3h_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RUlkNTdPw_Idg9-4bjmyg4X0b28Ax3h_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502650668"
   }
  ]
 }
