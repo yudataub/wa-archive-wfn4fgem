@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-28T05:38:59.696Z",
+ "updated": "2026-09-28T07:04:01.064Z",
  "messages": [
   {
    "id": "AC5FD2B908C06BA39795B313E33C0CF0",
@@ -4483,6 +4483,37 @@
    "files": [],
    "drive": null,
    "phone": "972523730397"
+  },
+  {
+   "id": "ACA01965B485F63F85F18641A8173DE1",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1790579019000,
+   "date": "2026-09-28",
+   "time": "10:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "317KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LGm10rKglaGkOmnpLS8LXjHEcRp2GXXi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LGm10rKglaGkOmnpLS8LXjHEcRp2GXXi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
+  },
+  {
+   "id": "ACB4C2038888C6E176ED12DAE434F787",
+   "sender": "ר.א",
+   "text": "מצלמה של המשטרה ברחוב זבולון לפני הפניה של לילנבלום",
+   "ts": 1790579020000,
+   "date": "2026-09-28",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972522354929"
   }
  ]
 }

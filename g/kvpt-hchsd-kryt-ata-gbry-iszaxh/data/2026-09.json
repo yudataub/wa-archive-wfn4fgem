@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-28T05:11:29.310Z",
+ "updated": "2026-09-28T07:00:31.013Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -923,6 +923,26 @@
    "files": [],
    "drive": null,
    "phone": "972539623152"
+  },
+  {
+   "id": "ACCEF9310F6618CEF57757A5DA5B5DC3",
+   "sender": "נתי שיינבליט",
+   "text": "",
+   "ts": 1790578810000,
+   "date": "2026-09-28",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sQFeh8FXXfH2Fbli7AIy1_wnwfMbaPrr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sQFeh8FXXfH2Fbli7AIy1_wnwfMbaPrr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529595959"
   }
  ]
 }

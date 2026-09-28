@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-28T05:56:30.001Z",
+ "updated": "2026-09-28T07:00:01.013Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -7156,6 +7156,26 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "ACDEE6C86D7B15D52B62D8B9A5EC6224",
+   "sender": "זוהרה",
+   "text": "*אלפי כהנים יברכו אותך - באהבת חינם!*\n\nשלחו עכשיו את שמכם למוקד תהילים ארצי *ללא תשלום*, והוא יוזכר בברכת הכהנים בחג הסוכות בכותל המערבי, לכל הישועות, באהבה!\n*לחצו כאן*\nhttps://tehillim-center.s.gy/FBjO6q",
+   "ts": 1790578782000,
+   "date": "2026-09-28",
+   "time": "09:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "366KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k9JakUSww0XhBUTbpGGOAGHCzFqa1656/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k9JakUSww0XhBUTbpGGOAGHCzFqa1656&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525775796"
   }
  ]
 }

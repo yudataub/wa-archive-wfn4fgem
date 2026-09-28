@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-28T06:47:30.824Z",
+ "updated": "2026-09-28T07:05:01.076Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8108,6 +8108,68 @@
    "files": [],
    "drive": null,
    "phone": "972547575312"
+  },
+  {
+   "id": "AC94844DBA9B0EDD2C3B3F4F87EA105D",
+   "sender": "מיכל",
+   "text": "מצלמה של המשטרה ברחוב זבולון לפני הפניה של לילנבלום",
+   "ts": 1790578777000,
+   "date": "2026-09-28",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "phone": "972547029885"
+  },
+  {
+   "id": "ACBF2FDAFEA841E07D60BF6972CC3820",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1790578923000,
+   "date": "2026-09-28",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "317KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eG6gIuJQ69oxWt1usWTezjBn8GqIWs3u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eG6gIuJQ69oxWt1usWTezjBn8GqIWs3u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547029885"
+  },
+  {
+   "id": "A5F280F72BBA1CC20B03D6E6C34BA1A5",
+   "sender": "עדן : שעות מענה- בין 7:00 עד 16:00 לאחר מכן יענו ההודעות ביום שאחריו",
+   "text": "בחיפה לשיפוצים- חשמל\n 90 לשעה \nתכתבו לי בפרטי",
+   "ts": 1790578944000,
+   "date": "2026-09-28",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972556624979"
+  },
+  {
+   "id": "AC51422DC8F2137CDF98569DCF1E972F",
+   "sender": "נריה ממן",
+   "text": "",
+   "ts": 1790579083000,
+   "date": "2026-09-28",
+   "time": "10:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q8W0krcSWwXsaj4dmu9mbNjokeIggCc-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q8W0krcSWwXsaj4dmu9mbNjokeIggCc-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537118255"
   }
  ]
 }
