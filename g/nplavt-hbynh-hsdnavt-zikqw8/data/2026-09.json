@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-28T05:45:29.816Z",
+ "updated": "2026-09-28T06:56:30.943Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -409,6 +409,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=1ZpAb7brhq1bsQzDv9VLr1fg2fftlrbBC&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC05E35D3BE709BA3CE110FB48F666FD",
+   "sender": "jannaok",
+   "text": "ניסיתי. עובד כמו צ'אט רגיל. מסוגל ליצור תמונה לפי פרומט.",
+   "ts": 1790578502000,
+   "date": "2026-09-28",
+   "time": "09:55",
+   "files": [],
+   "drive": null,
+   "phone": "972549260040"
+  },
+  {
+   "id": "3EB0F1CD7981AB28ADBDDA",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "תנסו את הפרומפטים שלי...",
+   "ts": 1790578571000,
+   "date": "2026-09-28",
+   "time": "09:56",
+   "files": [],
    "drive": null,
    "phone": "972523930628"
   }

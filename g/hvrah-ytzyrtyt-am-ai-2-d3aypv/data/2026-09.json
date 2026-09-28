@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T06:43:55.129Z",
+ "updated": "2026-09-28T06:54:25.314Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1157,6 +1157,77 @@
    ],
    "drive": null,
    "phone": "972527470596"
+  },
+  {
+   "id": "A5925302BB17C6F1F8D4F7B42DA4476C",
+   "sender": "תמר חמאדה",
+   "text": "לא מוצאת",
+   "ts": 1790578315000,
+   "date": "2026-09-28",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "AC0A3A1FA58784795F7119BBD06849AB",
+   "sender": "הילי זוורו",
+   "text": "",
+   "ts": 1790578409000,
+   "date": "2026-09-28",
+   "time": "09:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "64KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a6-qqAGfK4vpe2ea-oW9NSmUXwFBThqW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a6-qqAGfK4vpe2ea-oW9NSmUXwFBThqW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "AC305B33DD74807D900461CBC027DB4A",
+   "sender": "רביב תאשור",
+   "text": "",
+   "ts": 1790578434000,
+   "date": "2026-09-28",
+   "time": "09:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PlT9mvNJfPDcB6JxyUmTWsEf3cz2T62o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PlT9mvNJfPDcB6JxyUmTWsEf3cz2T62o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528855564"
+  },
+  {
+   "id": "3EB02189F49E009D40CCB2",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "במחשב כאן",
+   "ts": 1790578454000,
+   "date": "2026-09-28",
+   "time": "09:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "6KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/136VZQ0UG9xMFGFhumu825OO95yOo2dKp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=136VZQ0UG9xMFGFhumu825OO95yOo2dKp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

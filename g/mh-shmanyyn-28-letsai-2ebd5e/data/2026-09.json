@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-09-27T17:26:35.639Z",
+ "updated": "2026-09-28T06:57:25.352Z",
  "messages": [
   {
    "id": "A5E92C77F148AA8EFEF87CC5572FAE54",
@@ -291,6 +291,26 @@
    "files": [],
    "drive": null,
    "phone": "972533057615"
+  },
+  {
+   "id": "3EB067351DFD2009A56A87",
+   "sender": "לטס בינה מלאכותית",
+   "text": "*סוכנים של OpenAI פורצים להאגינג פייס, דריו אמודאי צועק לעצור וטראמפ וג'נסן מאנוידיה משתיקים אותו*\nאביתר אדרי, מייסד שותף ב-LetsAI מספר בראיון לטלוויזיה מה הוא חושב על סערת האיומים והסיכונים התורנית, והאם באמת אפשר לעצור את הרכבת ולרדת (או לפחות להאט). לראיון המלא👇\nhttps://youtu.be/jIqf0pufnVI?si=gp55eZHH1Ab4QVMr\n\n*לעוד עדכוני AI ומדריכים חינמיים, הצטרפו לקהילות של LetsAI 👇*\nhttps://ltsai.co/newslatter",
+   "ts": 1790578616000,
+   "date": "2026-09-28",
+   "time": "09:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "112KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TLx0dYMBXZVlsL3YaiEcI7fJIsxsJ7MD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TLx0dYMBXZVlsL3YaiEcI7fJIsxsJ7MD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586408042"
   }
  ]
 }
