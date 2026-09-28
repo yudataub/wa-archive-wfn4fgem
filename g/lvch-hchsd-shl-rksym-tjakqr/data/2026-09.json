@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T16:07:52.015Z",
+ "updated": "2026-09-28T16:15:22.113Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5854,6 +5854,37 @@
    "files": [],
    "drive": null,
    "phone": "972556636178"
+  },
+  {
+   "id": "ACD263E9F2E01E8A2B1B7C2DF2F1A1C9",
+   "sender": "Dudi",
+   "text": "של הרב ולדמן שליט\"א \nבשעה 9:30 מתחיל",
+   "ts": 1790612077000,
+   "date": "2026-09-28",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972584772228"
+  },
+  {
+   "id": "AC9BE1ACA637F122B9042D703C8B5A57",
+   "sender": "Dudi",
+   "text": "",
+   "ts": 1790612112000,
+   "date": "2026-09-28",
+   "time": "19:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K3aFxvXuwr5TTF-c01Vbbr-AyqoA71Bm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K3aFxvXuwr5TTF-c01Vbbr-AyqoA71Bm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584772228"
   }
  ]
 }
