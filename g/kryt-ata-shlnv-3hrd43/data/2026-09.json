@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T10:54:27.070Z",
+ "updated": "2026-09-28T11:36:27.669Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36981,6 +36981,106 @@
    ],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "AC00A786C515E3AA590F2BF559564DD3",
+   "sender": "חנה ענת אסייג",
+   "text": "",
+   "ts": 1790595127000,
+   "date": "2026-09-28",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18fO7h_zRuEh_42jwhMpsLmpqXuThnr-Y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18fO7h_zRuEh_42jwhMpsLmpqXuThnr-Y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556882906"
+  },
+  {
+   "id": "ACDA7E4E78D20BFBA865FEEFFCC3B45E",
+   "sender": "חנה ענת אסייג",
+   "text": "",
+   "ts": 1790595128000,
+   "date": "2026-09-28",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xDfFyQ_bVzUs08AZMgCnDJkT5KBlajQ0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xDfFyQ_bVzUs08AZMgCnDJkT5KBlajQ0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556882906"
+  },
+  {
+   "id": "3EB048272091EA3F5912A5",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790595355000,
+   "date": "2026-09-28",
+   "time": "14:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZPDdsKXvEGDgX1v3EteOCYu5BMQYCVVR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZPDdsKXvEGDgX1v3EteOCYu5BMQYCVVR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "AC647B7FDE070D0E7D1426EA4BFEFBB8",
+   "sender": "עילאי בן הרוש",
+   "text": "מחשב גיימינג:\n\nמחשב נייח במצב מצויין, עובד תקין ונבדק במשחקים.\n\ni5-2500 | GTX 660 3GB | 8GB DDR3 | SSD 128GB | MSI H61M-E23 | ספק Antec 500W | קירור Cooler Master | מארז Gigabyte עם חלון ותאורה כחולה | Bluetooth | DVD-RW | Windows מותקן.\n\nמחיר: 400₪",
+   "ts": 1790595378000,
+   "date": "2026-09-28",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "130KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zX2GVgQCCkKsQ-9z41JV4cWGxkmmESFy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zX2GVgQCCkKsQ-9z41JV4cWGxkmmESFy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584844455"
+  },
+  {
+   "id": "AC8C068B787F5D672D284F66C0420EB7",
+   "sender": "עילאי בן הרוש",
+   "text": "קורקינט חשמלי Xiaomi H7\nקורקינט חשמלי של שיאומי מדגם H7. נמכר ללא מטען. מוזמנים להגיע ולבדוק בתיאום מראש. מחיר: 200 ₪ 0584844455",
+   "ts": 1790595380000,
+   "date": "2026-09-28",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X2b1zzwHf_35smGb7eExhbWGE55CWstA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X2b1zzwHf_35smGb7eExhbWGE55CWstA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584844455"
   }
  ]
 }

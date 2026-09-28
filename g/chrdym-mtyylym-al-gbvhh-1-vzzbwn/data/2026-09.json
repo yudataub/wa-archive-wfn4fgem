@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים מטיילים על🔥 גבוהה 1",
- "updated": "2026-09-28T11:04:27.227Z",
+ "updated": "2026-09-28T11:36:27.693Z",
  "messages": [
   {
    "id": "AC443865212441AC4B4EF82EA8E6C783",
@@ -528,6 +528,26 @@
    "files": [],
    "drive": null,
    "phone": "972587169946"
+  },
+  {
+   "id": "AC6F68817D30DDCE5F991C04917806FF",
+   "sender": "מרדכי מרשיין",
+   "text": "החלקה על הקרח בביג מגדל העמק עד השעה שבע",
+   "ts": 1790595383000,
+   "date": "2026-09-28",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "934KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ftlDaOSW_BDTUMr7OGAqAe1eoGgdnkLZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ftlDaOSW_BDTUMr7OGAqAe1eoGgdnkLZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527165618"
   }
  ]
 }
