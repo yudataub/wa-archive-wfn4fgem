@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-28T20:43:55.573Z",
+ "updated": "2026-09-28T21:26:03.272Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -19975,6 +19975,77 @@
    "files": [],
    "drive": null,
    "phone": "972545719431"
+  },
+  {
+   "id": "AC0F50587ED9D46AADFC4119B9A295A7",
+   "sender": "הרב אוריאל בצר",
+   "text": "",
+   "ts": 1790630348000,
+   "date": "2026-09-29",
+   "time": "00:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "29KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1GYlkx3y1bIliXszTBari1cmjjGwdXHdP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "3A3447F039D030B5DC11",
+   "sender": "מיכאל",
+   "text": "אם אני כעת אצל סבתא שלי ואין לה סוכה האם אפשר להקל בשעה כזאת לאכול מחוץ לסוכה לחם ומיני מזונות?",
+   "ts": 1790630610000,
+   "date": "2026-09-29",
+   "time": "00:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546277790"
+  },
+  {
+   "id": "AC9538AB4163E5AA10EBE52D457977EC",
+   "sender": "הרב אוריאל בצר",
+   "text": "",
+   "ts": 1790630667000,
+   "date": "2026-09-29",
+   "time": "00:24",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "40KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/13xfyxa3PpCI8S6PGu06u50G8TK-4ej-1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "AC29C350F22D3F1F8A0AC8477FDE26FA",
+   "sender": "יובל הנוק",
+   "text": "אין על התורה שלנו היא אמת",
+   "ts": 1790630713000,
+   "date": "2026-09-29",
+   "time": "00:25",
+   "files": [],
+   "drive": null,
+   "phone": "972584331307"
+  },
+  {
+   "id": "3A8E22C1973CC5C900D3",
+   "sender": "מיכאל",
+   "text": "ובאופן כזה\nלגבי ברכת המזון/ על המחיה כרגיל?\nאם אוכל בתוך 7.5 דקות את הכזית?",
+   "ts": 1790630759000,
+   "date": "2026-09-29",
+   "time": "00:25",
+   "files": [],
+   "drive": null,
+   "phone": "972546277790"
   }
  ]
 }
