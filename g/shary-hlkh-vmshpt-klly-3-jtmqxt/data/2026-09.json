@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-28T05:28:29.585Z",
+ "updated": "2026-09-28T05:37:59.677Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -19404,6 +19404,46 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "AC055E51A7C924A4FB4D1DB44FF11A2D",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "שלום וברכה לכבוד הרבנים על מה שמובא פה מה הכי נכון לעשות?\nנראה שאין הלכה חותכת\nחוץ לקבוע סעודה עם  לחם\nאשמח לתשובה",
+   "ts": 1790573865000,
+   "date": "2026-09-28",
+   "time": "08:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nXhBGtlQof-qC-Bx_VUH7w3-fAP1gtr9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nXhBGtlQof-qC-Bx_VUH7w3-fAP1gtr9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529545989"
+  },
+  {
+   "id": "AC1B603BAFFE71630D4586A7FB7CD58F",
+   "sender": "מִי כָמֹכָה בָּאֵלִם ה'🙏",
+   "text": "",
+   "ts": 1790573866000,
+   "date": "2026-09-28",
+   "time": "08:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TED63Wvnx74TycmcpJot3Pvl-ZnZiycU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TED63Wvnx74TycmcpJot3Pvl-ZnZiycU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529545989"
   }
  ]
 }

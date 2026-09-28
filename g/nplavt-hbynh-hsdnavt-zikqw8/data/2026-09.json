@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-27T08:36:58.158Z",
+ "updated": "2026-09-28T05:45:29.816Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -391,6 +391,26 @@
    "files": [],
    "drive": null,
    "phone": "972523888099"
+  },
+  {
+   "id": "3EB0760CE6F89CC3ABC647",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "ראיתם את הסמל החדש שצף בוואטסאפ\nלוחצים עליו ונפתח צאט עם ה-AI של מטא, בלי לצאת מהאפליקציה\nמה אפשר לעשות איתו:\n* להתייעץ איתו על כל דבר\n* לפתח איתו תוכן לימודי\n* לנסח הודעות\n* לתזמן משימות\n*נסו את זה ותגידו מה דעתכם*\nממני ב 💚 שירה\nלעוד תכנים הצטרפו לקהילה שלי:",
+   "ts": 1790574315000,
+   "date": "2026-09-28",
+   "time": "08:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "5KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZpAb7brhq1bsQzDv9VLr1fg2fftlrbBC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZpAb7brhq1bsQzDv9VLr1fg2fftlrbBC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T05:32:29.610Z",
+ "updated": "2026-09-28T05:42:29.755Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32123,6 +32123,60 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC87F456EF72404594814FA0CB795349",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790574110000,
+   "date": "2026-09-28",
+   "time": "08:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "616KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JJA85mUo7RSi2epfsetszkDooqBiVFdB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JJA85mUo7RSi2epfsetszkDooqBiVFdB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC95F988E679339CA2D438D33CD93761",
+   "sender": "אורלי אוחנה",
+   "text": "משה רבינו",
+   "ts": 1790574110000,
+   "date": "2026-09-28",
+   "time": "08:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "625KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BcKtfJDaXlm9OKWLowSWqErrrFJ26fBE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BcKtfJDaXlm9OKWLowSWqErrrFJ26fBE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC5BFC9179EA1B891D8F0818EC179518",
+   "sender": "אורלי אוחנה",
+   "text": "מועדים לשמחה,\nתוכל בבקשה להכין חידון על משה רבנו ואהרן הכהן.",
+   "ts": 1790574149000,
+   "date": "2026-09-28",
+   "time": "08:42",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
   }
  ]
 }

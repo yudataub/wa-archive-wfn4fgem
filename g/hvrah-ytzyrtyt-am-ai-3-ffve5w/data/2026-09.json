@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-09-28T02:32:09.575Z",
+ "updated": "2026-09-28T05:45:29.801Z",
  "messages": [
   {
    "id": "AC9C877EE7068F6E9D8A9C94FCB56E6A",
@@ -53,6 +53,26 @@
    "files": [],
    "drive": null,
    "phone": "972559762305"
+  },
+  {
+   "id": "3EB00475ED80CD9C0FC082",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "ראיתם את הסמל החדש שצף בוואטסאפ\nלוחצים עליו ונפתח צאט עם ה-AI של מטא, בלי לצאת מהאפליקציה\nמה אפשר לעשות איתו:\n* להתייעץ איתו על כל דבר\n* לפתח איתו תוכן לימודי\n* לנסח הודעות\n* לתזמן משימות\n*נסו את זה ותגידו מה דעתכם*\nממני ב 💚 שירה\nלעוד תכנים הצטרפו לקהילה שלי:",
+   "ts": 1790574308000,
+   "date": "2026-09-28",
+   "time": "08:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "5KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z2xBJKxSMLnYdqdMiaVd-dauOfNDNysF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z2xBJKxSMLnYdqdMiaVd-dauOfNDNysF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }
