@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-28T17:38:23.705Z",
+ "updated": "2026-09-28T17:49:37.136Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -131,7 +131,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1VhruBCSGxqxcceo6csnG8Zl9ZuUQYqy5/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1VhruBCSGxqxcceo6csnG8Zl9ZuUQYqy5&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1VhruBCSGxqxcceo6csnG8Zl9ZuUQYqy5&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-09/ACE5EE52DF2EB79A7AC6F5D78794345D_0.mp4"
     }
    ],
    "drive": null
@@ -227,7 +228,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1nUTlROUnbKjxsQDQqZFhpWvOoz2ZmKUN/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1nUTlROUnbKjxsQDQqZFhpWvOoz2ZmKUN&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1nUTlROUnbKjxsQDQqZFhpWvOoz2ZmKUN&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-09/AC9DD6A2DDFEF059A9BCDB4E04D49E93_0.mp4"
     }
    ],
    "drive": null,
@@ -1107,6 +1109,57 @@
    ],
    "drive": null,
    "phone": "972509525796"
+  },
+  {
+   "id": "ACE2651F482DCBF7B3A0535E08E1C991",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1790617746000,
+   "date": "2026-09-28",
+   "time": "20:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TGhpeFf1d373rW3wmnfGmQXR_WwALISa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TGhpeFf1d373rW3wmnfGmQXR_WwALISa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC282BE80378E1B810E5990948F8B829",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1790617748000,
+   "date": "2026-09-28",
+   "time": "20:49",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ZCQAhH1-SzuR6zzA-indiK5roZW9HXcU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZCQAhH1-SzuR6zzA-indiK5roZW9HXcU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACB5E6574D5909DC9170C7FB883CF43B",
+   "sender": "איריס בר טל",
+   "text": "*מתחם חדש קסום בלב צפת,32 מיטות ואפשרות למזרונים.*\n*סוכה גדולה*\n*נגישות לנכים*\n*חניה בשפע*\n*פנוי בשמתת תורה*\n*מרחק 7 דקות הליכה מהעיר העתיקה*",
+   "ts": 1790617748000,
+   "date": "2026-09-28",
+   "time": "20:49",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
   }
  ]
 }
