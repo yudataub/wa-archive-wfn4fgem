@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-09-28T08:43:02.788Z",
+ "updated": "2026-09-28T09:50:27.124Z",
  "messages": [
   {
    "id": "AC9DAC93B4AF85A222AACAB124B9F266",
@@ -335,10 +335,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.7MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1eUrWMMA402j4AQxfW_wPdoVjodjMDefP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eUrWMMA402j4AQxfW_wPdoVjodjMDefP&sz=w1200"
     }
    ],
    "drive": null,

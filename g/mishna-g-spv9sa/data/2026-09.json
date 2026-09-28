@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-09-25T11:46:41.153Z",
+ "updated": "2026-09-28T09:50:27.122Z",
  "messages": [
   {
    "id": "failed-1788252992590",
@@ -372,32 +372,14 @@
    "files": [
     {
      "name": "מחברת משנה עטיפה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972526478257"
-  },
-  {
-   "id": "gm-1a07b9613fefd2df",
-   "sender": "אתי",
-   "text": "",
-   "ts": 1788779821000,
-   "date": "2026-09-07",
-   "time": "14:17",
-   "files": [
-    {
-     "name": "מחברת משנה עטיפה.pdf",
      "size": "350KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1A3dlI776F8FaHHpqU3oGAN--Ro-a0ar0/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972526478257"
   },
   {
    "id": "gm-1a07fefa37aeb0fa",

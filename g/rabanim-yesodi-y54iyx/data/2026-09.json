@@ -1,31 +1,12 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-28T09:34:44.467Z",
+ "updated": "2026-09-28T09:50:27.143Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
    "sender": "0528123601",
    "text": "סליחות בית ספר.pdf",
-   "ts": 1788229849000,
-   "date": "2026-09-01",
-   "time": "05:30",
-   "files": [
-    {
-     "name": "סליחות בית ספר.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972528123601"
-  },
-  {
-   "id": "gm-1a05ace23de8f862",
-   "sender": "יעקב לוי",
-   "text": "",
    "ts": 1788229849000,
    "date": "2026-09-01",
    "time": "05:30",
@@ -38,31 +19,13 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972528123601"
   },
   {
    "id": "3EB0919D214431CB9A89B7",
    "sender": "0528123601",
    "text": "סדר תפילה שש שנתי.docx",
-   "ts": 1788229850000,
-   "date": "2026-09-01",
-   "time": "05:30",
-   "files": [
-    {
-     "name": "סדר תפילה שש שנתי.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972528123601"
-  },
-  {
-   "id": "gm-1a05ace1f4af62f5",
-   "sender": "יעקב לוי",
-   "text": "",
    "ts": 1788229850000,
    "date": "2026-09-01",
    "time": "05:30",
@@ -75,7 +38,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972528123601"
   },
   {
    "id": "gm-1a05acec48a3850c",
@@ -2755,32 +2719,14 @@
    "files": [
     {
      "name": "חנן פורת - מקורות וציטוטים מדבריו.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972586522072"
-  },
-  {
-   "id": "gm-1a07c1189c449ab7",
-   "sender": "shmu54",
-   "text": "",
-   "ts": 1788787907000,
-   "date": "2026-09-07",
-   "time": "16:31",
-   "files": [
-    {
-     "name": "חנן פורת - מקורות וציטוטים מדבריו.docx",
      "size": "2.4MB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
      "path": "https://docs.google.com/document/d/1ruzpbVeS7grXlsNnojThhdS3iVo7cxzG/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972586522072"
   },
   {
    "id": "gm-1a07c119dcad4bdf",
@@ -2983,10 +2929,10 @@
    "files": [
     {
      "name": "חנן פורת - מקורות וציטוטים מדבריו.docx",
-     "size": "",
+     "size": "2.4MB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+     "path": "https://docs.google.com/document/d/1scIoaeyKacstzv82TRFrJ_QNB41OTPzw/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
     }
    ],
    "drive": null,
@@ -3010,24 +2956,6 @@
    ],
    "drive": null,
    "phone": "972508733084"
-  },
-  {
-   "id": "gm-1a07c5078fea3e12",
-   "sender": "המוהל הרב יאיר אסולין",
-   "text": "",
-   "ts": 1788792036000,
-   "date": "2026-09-07",
-   "time": "17:40",
-   "files": [
-    {
-     "name": "חנן פורת - מקורות וציטוטים מדבריו.docx",
-     "size": "2.4MB",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "https://docs.google.com/document/d/1scIoaeyKacstzv82TRFrJ_QNB41OTPzw/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
-     "skipped": ""
-    }
-   ],
-   "drive": null
   },
   {
    "id": "gm-1a07c50a4eb52013",
@@ -3210,32 +3138,14 @@
    "files": [
     {
      "name": "_חברותות צום גדליה (1).pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972524591311"
-  },
-  {
-   "id": "gm-1a07d1584bb2a01e",
-   "sender": "הראל מקייס",
-   "text": "",
-   "ts": 1788804952000,
-   "date": "2026-09-07",
-   "time": "21:15",
-   "files": [
-    {
-     "name": "_חברותות צום גדליה (1).pdf",
      "size": "818KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1Yxg4YEGMc6mXgyMjOJGPh7bO_h8sK6nb/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972524591311"
   },
   {
    "id": "gm-1a07d18c17b5abc0",
@@ -3267,32 +3177,14 @@
    "files": [
     {
      "name": "חגי תשרי תשפז לדפוס.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972505613015"
-  },
-  {
-   "id": "gm-1a07d312229b9004",
-   "sender": "חגי דיאמנט",
-   "text": "",
-   "ts": 1788806762000,
-   "date": "2026-09-07",
-   "time": "21:46",
-   "files": [
-    {
-     "name": "חגי תשרי תשפז לדפוס.pdf",
      "size": "457KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1GzI5ypCKtMcykVxlUA5SjJHAbVSXwJKb/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972505613015"
   },
   {
    "id": "AC206C5B0E55211516D2B7E8F9B3752C",
@@ -3361,56 +3253,19 @@
    "files": [
     {
      "name": "חנן פורת - שיעור על התשובה.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972586522072"
-  },
-  {
-   "id": "gm-1a07d454e5d2f5dc",
-   "sender": "shmu54",
-   "text": "אני שולח שיעור נפלא של חנן פורת ז\"ל על התשובה, שקיבלתי זה עתה. תמלול רפי קפלן.",
-   "ts": 1788808085000,
-   "date": "2026-09-07",
-   "time": "22:08",
-   "files": [
-    {
-     "name": "חנן פורת - שיעור על התשובה.docx",
      "size": "36KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
      "path": "https://docs.google.com/document/d/1mhklWHTDovj2UekfqrdlYlV_anMIP2BQ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972586522072"
   },
   {
    "id": "3EB016110929A99A01CE38",
    "sender": "הרב שמואל כץ",
    "text": "חנן פורת - שיעור על תפילת חנה ובכי רחל אמנו.docx",
-   "ts": 1788820361000,
-   "date": "2026-09-08",
-   "time": "01:32",
-   "files": [
-    {
-     "name": "חנן פורת - שיעור על תפילת חנה ובכי רחל אמנו.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972586522072"
-  },
-  {
-   "id": "gm-1a07e00a36a51d08",
-   "sender": "shmu54",
-   "text": "מצרף שיעור נפלא של חנן פורת ז\"ל על בכי חנה ורחל אמנו בהפטרה של יום ב' של ראש השנה.",
    "ts": 1788820361000,
    "date": "2026-09-08",
    "time": "01:32",
@@ -3423,7 +3278,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972586522072"
   },
   {
    "id": "gm-1a07f309602696e4",
@@ -3445,56 +3301,19 @@
    "files": [
     {
      "name": "ארבעת המינים.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972585808247"
-  },
-  {
-   "id": "gm-1a07f3aedb0f5889",
-   "sender": "אהרן קדוש",
-   "text": "",
-   "ts": 1788840951000,
-   "date": "2026-09-08",
-   "time": "07:15",
-   "files": [
-    {
-     "name": "ארבעת המינים.pdf",
      "size": "8.5MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1DvR_kNLkAaektEtsLQBQQJoXGPGX2aXF/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972585808247"
   },
   {
    "id": "3EB08D202EF653276C7D6A",
    "sender": "אהרן קדוש",
    "text": "רעיון לראש השנה - כְּלִי יָקָר - אלול תשפו.pdf",
-   "ts": 1788840960000,
-   "date": "2026-09-08",
-   "time": "07:16",
-   "files": [
-    {
-     "name": "רעיון לראש השנה - כְּלִי יָקָר - אלול תשפו.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972585808247"
-  },
-  {
-   "id": "gm-1a07f3af12538227",
-   "sender": "אהרן קדוש",
-   "text": "",
    "ts": 1788840960000,
    "date": "2026-09-08",
    "time": "07:16",
@@ -3507,30 +3326,12 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972585808247"
   },
   {
    "id": "AC58DEE1E0E758F95697326D3797AD1A",
    "sender": "0545468763",
-   "text": "",
-   "ts": 1788844497000,
-   "date": "2026-09-08",
-   "time": "08:14",
-   "files": [
-    {
-     "name": "הלכות חגי תשרי-הרב יצחק שלו-התשפ''ז.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972545468763"
-  },
-  {
-   "id": "gm-1a07f7109ce3744c",
-   "sender": "לתקן עולם במלכות שדי",
    "text": "",
    "ts": 1788844497000,
    "date": "2026-09-08",
@@ -3544,31 +3345,13 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972545468763"
   },
   {
    "id": "3EB01EF2A309D9C5C7BC70",
    "sender": "הרב שמואל כץ",
    "text": "מושגים ביהדות - אלול וחגי תשרי.docx",
-   "ts": 1788845709000,
-   "date": "2026-09-08",
-   "time": "08:35",
-   "files": [
-    {
-     "name": "מושגים ביהדות - אלול וחגי תשרי.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972586522072"
-  },
-  {
-   "id": "gm-1a07f8367c36a72b",
-   "sender": "shmu54",
-   "text": "מושגים ביהדות - אלול, חגי תשרי",
    "ts": 1788845709000,
    "date": "2026-09-08",
    "time": "08:35",
@@ -3581,7 +3364,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972586522072"
   },
   {
    "id": "ACF32266F25207D2BA36DC2454484CA1",
@@ -3632,32 +3416,14 @@
    "files": [
     {
      "name": "ראש השנה שחל בשבת.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972586522072"
-  },
-  {
-   "id": "gm-1a07fa1e37c093d5",
-   "sender": "shmu54",
-   "text": "על ראש השנה שחל בשבת - טוב לדרשה בבית הספר ובבית הכנסת",
-   "ts": 1788847707000,
-   "date": "2026-09-08",
-   "time": "09:08",
-   "files": [
-    {
-     "name": "ראש השנה שחל בשבת.docx",
      "size": "17KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
      "path": "https://docs.google.com/document/d/1TN5LUVYzbW7R-zo1jMZg12lXo9hi2qHU/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972586522072"
   },
   {
    "id": "AC2359F987F2283BE55BDFCCBE63BFC1",
@@ -4009,56 +3775,19 @@
    "files": [
     {
      "name": "דברי תורה לשלחן החג לכיתה ב'.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972522213736"
-  },
-  {
-   "id": "gm-1a0854d999aea1af",
-   "sender": "1",
-   "text": "",
-   "ts": 1788942845000,
-   "date": "2026-09-09",
-   "time": "11:34",
-   "files": [
-    {
-     "name": "דברי תורה לשלחן החג לכיתה ב'.pdf",
      "size": "362KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1ksDCF8V49_LRvV4FszvFDUh1DvAj-jv-/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972522213736"
   },
   {
    "id": "3EB01A1C84BD7587669D80",
    "sender": "0522213736",
    "text": "דף דברי תורה לראש השנה - כיתות ג- ה.pdf",
-   "ts": 1788942846000,
-   "date": "2026-09-09",
-   "time": "11:34",
-   "files": [
-    {
-     "name": "דף דברי תורה לראש השנה - כיתות ג- ה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972522213736"
-  },
-  {
-   "id": "gm-1a0854d9a569e377",
-   "sender": "1",
-   "text": "",
    "ts": 1788942846000,
    "date": "2026-09-09",
    "time": "11:34",
@@ -4071,31 +3800,13 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972522213736"
   },
   {
    "id": "3EB0E948A67696EBF0EA4A",
    "sender": "0523115761",
    "text": "סימני החג- מעודכן.pptx",
-   "ts": 1788943087000,
-   "date": "2026-09-09",
-   "time": "11:38",
-   "files": [
-    {
-     "name": "סימני החג- מעודכן.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972523115761"
-  },
-  {
-   "id": "gm-1a0855157eba3e25",
-   "sender": "shalompks8",
-   "text": "",
    "ts": 1788943087000,
    "date": "2026-09-09",
    "time": "11:38",
@@ -4108,7 +3819,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972523115761"
   },
   {
    "id": "gm-1a0855227bfbacbb",
@@ -4200,32 +3912,14 @@
    "files": [
     {
      "name": "��דף עבודה שנהיה לראש.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972543118860"
-  },
-  {
-   "id": "gm-1a086263c038201b",
-   "sender": "אפי",
-   "text": "",
-   "ts": 1788956767000,
-   "date": "2026-09-09",
-   "time": "15:26",
-   "files": [
-    {
-     "name": "��דף עבודה שנהיה לראש.docx",
      "size": "1.0MB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
      "path": "https://docs.google.com/document/d/1SiMjgGi2nzn-FpSQ3DMc-0-N-V3hqTP0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972543118860"
   },
   {
    "id": "3EB0F3EA7B1B2E1455D680",
@@ -6615,56 +6309,19 @@
    "files": [
     {
      "name": "ערב סליחות.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972526024650"
-  },
-  {
-   "id": "gm-1a0adaaa0bef798f",
-   "sender": "kipnis adi",
-   "text": "",
-   "ts": 1789620030000,
-   "date": "2026-09-17",
-   "time": "07:40",
-   "files": [
-    {
-     "name": "ערב סליחות.pdf",
      "size": "395KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1qAXBBGQ19Sf-kSGwpKI08U3BJ5_ebBEr/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972526024650"
   },
   {
    "id": "3EB07E969DC863D96E58AF",
    "sender": "0547607984",
    "text": "משפטים של הרב חנן פורת.pdf",
-   "ts": 1789620159000,
-   "date": "2026-09-17",
-   "time": "07:42",
-   "files": [
-    {
-     "name": "משפטים של הרב חנן פורת.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972547607984"
-  },
-  {
-   "id": "gm-1a0adac960e03626",
-   "sender": "שמואל אמינוב",
-   "text": "10 משפטים של הרב חנן פורת שהתלמידים צובעים ותולים",
    "ts": 1789620159000,
    "date": "2026-09-17",
    "time": "07:42",
@@ -6677,7 +6334,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972547607984"
   },
   {
    "id": "gm-1a0adb67148cabd2",
@@ -8323,10 +7981,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "18.4MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "18.4MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1NlJcPVx_DuNu1lwCSsrqs6tDIt6RIXAc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NlJcPVx_DuNu1lwCSsrqs6tDIt6RIXAc&sz=w1200"
     }
    ],
    "drive": null,

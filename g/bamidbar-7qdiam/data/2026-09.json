@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "במדבר ושמואל א",
- "updated": "2026-09-28T07:15:31.256Z",
+ "updated": "2026-09-28T09:50:27.100Z",
  "messages": [
   {
    "id": "failed-1788239665664",
@@ -934,32 +934,14 @@
    "files": [
     {
      "name": "ציר זמן במדבר משחק.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972509452770"
-  },
-  {
-   "id": "gm-1a0665256965032c",
-   "sender": "פנינה כ\"ץ",
-   "text": "כל קבוצה תקבל סט תמונות עליהם לרשום את התאריך ולהסתדר בשורה לפי הסדר. רק אחרי כן ימלאו את דף הכבודה האישי",
-   "ts": 1788423059000,
-   "date": "2026-09-03",
-   "time": "11:10",
-   "files": [
-    {
-     "name": "ציר זמן במדבר משחק.pptx",
      "size": "7.2MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1H8i2Y9ndciIqVL8fKRfq1O-4BaFD39z-/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972509452770"
   },
   {
    "id": "gm-1a066597e24349fb",
@@ -1871,32 +1853,14 @@
    "files": [
     {
      "name": "הקדמה ספר שמואל.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972543979764"
-  },
-  {
-   "id": "gm-1a07383aa25b6c99",
-   "sender": "מתן - עולם של תוכן",
-   "text": "",
-   "ts": 1788644399000,
-   "date": "2026-09-06",
-   "time": "00:39",
-   "files": [
-    {
-     "name": "הקדמה ספר שמואל.pptx",
      "size": "2.3MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1F09tHuH2qwg_OY91s0UcNpoAs-TEwooa/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972543979764"
   },
   {
    "id": "gm-1a07399551999afc",
@@ -1976,32 +1940,14 @@
    "files": [
     {
      "name": "4. סדר חניית השבטים במדבר.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972548871102"
-  },
-  {
-   "id": "gm-1a0752218e95a1bc",
-   "sender": "חיה ברכה",
-   "text": "",
-   "ts": 1788671556000,
-   "date": "2026-09-06",
-   "time": "08:12",
-   "files": [
-    {
-     "name": "4. סדר חניית השבטים במדבר.pptx",
      "size": "8.4MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1BOKhqbxSd1SRma8ksNp9l6ZNUtCX2358/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972548871102"
   },
   {
    "id": "gm-1a0753ee038a8fc8",
@@ -2122,32 +2068,14 @@
    "files": [
     {
      "name": "עטיפה מחברת תורה במדבר.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972527457800"
-  },
-  {
-   "id": "gm-1a07606f9b0363be",
-   "sender": "בתיה",
-   "text": "",
-   "ts": 1788686558000,
-   "date": "2026-09-06",
-   "time": "12:22",
-   "files": [
-    {
-     "name": "עטיפה מחברת תורה במדבר.pdf",
      "size": "665KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1iVBfDBUPuK5iaGcTGnFzMkZEjEubekQH/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972527457800"
   },
   {
    "id": "AC084EB0E4E24DAC6C7F01FFE08EFE59",
@@ -2218,32 +2146,14 @@
    "files": [
     {
      "name": "פרשת במדבר - חניית בנ''י.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972505722088"
-  },
-  {
-   "id": "gm-1a076214ffeb523a",
-   "sender": "Mushka Katz",
-   "text": "",
-   "ts": 1788688286000,
-   "date": "2026-09-06",
-   "time": "12:51",
-   "files": [
-    {
-     "name": "פרשת במדבר - חניית בנ''י.pdf",
      "size": "325KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1nKNOLXxPh-NGGw8GS_tpP2NR82RYmt2N/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972505722088"
   },
   {
    "id": "4AEA5A1931CCE9C8899A",
@@ -2336,32 +2246,14 @@
    "files": [
     {
      "name": "סימנייה כתב רשי- ליאת ונגרובסקי",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972545839400"
-  },
-  {
-   "id": "gm-1a076d3d54bad5d8",
-   "sender": "Avital",
-   "text": "",
-   "ts": 1788699984000,
-   "date": "2026-09-06",
-   "time": "16:06",
-   "files": [
-    {
-     "name": "סימנייה כתב רשי- ליאת ונגרובסקי",
      "size": "689KB",
      "type": "application/octet-stream",
      "path": "https://drive.google.com/file/d/1PcwYc6fjwRi0Fk0bYS1I_EobkEM44LYc/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972545839400"
   },
   {
    "id": "gm-1a076d47cec7513b",
@@ -2742,32 +2634,14 @@
    "files": [
     {
      "name": "סדר חניה של בני ישראל.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972556608835"
-  },
-  {
-   "id": "gm-1a07d32155a8452c",
-   "sender": "אשר לב יונה",
-   "text": "",
-   "ts": 1788806816000,
-   "date": "2026-09-07",
-   "time": "21:46",
-   "files": [
-    {
-     "name": "סדר חניה של בני ישראל.pptx",
      "size": "12.1MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1iv7vjcVBXBhuFth2McNs6vONolCo61_Z/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972556608835"
   },
   {
    "id": "gm-1a07d332981682cf",
@@ -3132,32 +3006,14 @@
    "files": [
     {
      "name": "במדבר-חוברת-עבודה-חומש-בהבנה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972548871102"
-  },
-  {
-   "id": "gm-1a081a4d74a2f860",
-   "sender": "חיה ברכה",
-   "text": "",
-   "ts": 1788881450000,
-   "date": "2026-09-08",
-   "time": "18:30",
-   "files": [
-    {
-     "name": "במדבר-חוברת-עבודה-חומש-בהבנה.pdf",
      "size": "2.3MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1BQxJimrfY0fyja2V_iFOD3SIYAAx1wun/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972548871102"
   },
   {
    "id": "ACA7BC26BF0CB559FA2D7752AD9D59E7",
@@ -3169,32 +3025,14 @@
    "files": [
     {
      "name": "במדבר-חוברת-עבודה-חומש-בהבנה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972548871102"
-  },
-  {
-   "id": "gm-1a081a51171e03ed",
-   "sender": "חיה ברכה",
-   "text": "",
-   "ts": 1788881465000,
-   "date": "2026-09-08",
-   "time": "18:31",
-   "files": [
-    {
-     "name": "במדבר-חוברת-עבודה-חומש-בהבנה.pdf",
      "size": "2.3MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1BQxJimrfY0fyja2V_iFOD3SIYAAx1wun/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972548871102"
   },
   {
    "id": "gm-1a081a541aad1003",
@@ -4165,32 +4003,14 @@
    "files": [
     {
      "name": "פרשת כי תבוא- כתב רש'י- כרמית גרמאי.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972556791164"
-  },
-  {
-   "id": "gm-1a0b368fe207001d",
-   "sender": "תמר",
-   "text": "",
-   "ts": 1789716388000,
-   "date": "2026-09-18",
-   "time": "10:26",
-   "files": [
-    {
-     "name": "פרשת כי תבוא- כתב רש'י- כרמית גרמאי.pdf",
      "size": "409KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1SdKVHPvzAoZrGiiX6RpMJvjLe8wXb2Go/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972556791164"
   },
   {
    "id": "gm-1a0b368f96ff665b",
@@ -4212,32 +4032,14 @@
    "files": [
     {
      "name": "פרשת האזינו-חידון א-ב'- כרמית גרמאי.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972587697854"
-  },
-  {
-   "id": "gm-1a0b37634c0c4589",
-   "sender": "צילה",
-   "text": "",
-   "ts": 1789717253000,
-   "date": "2026-09-18",
-   "time": "10:40",
-   "files": [
-    {
-     "name": "פרשת האזינו-חידון א-ב'- כרמית גרמאי.pdf",
      "size": "463KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/11nL0X7hzYUzQGNPH9XsMyrYdJnWnzR4L/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972587697854"
   },
   {
    "id": "AC397B5B84FBD77F9030CD7016132684",

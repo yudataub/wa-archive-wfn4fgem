@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-09-25T11:46:41.147Z",
+ "updated": "2026-09-28T09:50:27.121Z",
  "messages": [
   {
    "id": "failed-1788249119335",
@@ -850,32 +850,14 @@
    "files": [
     {
      "name": "מחברת משנה עטיפה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972526478257"
-  },
-  {
-   "id": "gm-1a07bed62d0e8e67",
-   "sender": "אתי",
-   "text": "",
-   "ts": 1788785543000,
-   "date": "2026-09-07",
-   "time": "15:52",
-   "files": [
-    {
-     "name": "מחברת משנה עטיפה.pdf",
      "size": "350KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1iEFyomXrLoryQQI5famGPf21z4NoKFYj/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972526478257"
   },
   {
    "id": "gm-1a07bee826668714",
@@ -1142,32 +1124,14 @@
    "files": [
     {
      "name": "משנה 7.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972523486547"
-  },
-  {
-   "id": "gm-1a0ade7ac51a0c24",
-   "sender": "מוטי אלבז",
-   "text": "",
-   "ts": 1789624032000,
-   "date": "2026-09-17",
-   "time": "08:47",
-   "files": [
-    {
-     "name": "משנה 7.pdf",
      "size": "345KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/12FYFhGyqe45NqpROawhGKjwqVddxqs8h/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972523486547"
   },
   {
    "id": "gm-1a0ae14a0d368c84",

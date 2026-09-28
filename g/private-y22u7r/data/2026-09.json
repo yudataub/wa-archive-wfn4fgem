@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T09:36:44.498Z",
+ "updated": "2026-09-28T09:50:27.133Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -26634,10 +26634,11 @@
    "files": [
     {
      "name": "ה1.jpg",
-     "size": "",
+     "size": "18.2MB",
      "type": "image/jpeg",
-     "path": "",
-     "skipped": "18.2MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/19DD3-cGZ9Qs297T3al9uHIMzIdIVpNEk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19DD3-cGZ9Qs297T3al9uHIMzIdIVpNEk&sz=w1200"
     }
    ],
    "drive": null,

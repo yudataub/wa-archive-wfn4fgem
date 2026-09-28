@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T09:30:14.400Z",
+ "updated": "2026-09-28T09:54:44.801Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36908,6 +36908,59 @@
    "files": [],
    "drive": null,
    "phone": "972527322555"
+  },
+  {
+   "id": "4A0E2DC2B9FD987D6012",
+   "sender": "Avi-hi",
+   "text": "למכירה לול תינוקות (סגנון של פעם) במחיר סימלי",
+   "ts": 1790588920000,
+   "date": "2026-09-28",
+   "time": "12:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XnR8wmiQei9CgyylKhNQWSVLZ8jGer67/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XnR8wmiQei9CgyylKhNQWSVLZ8jGer67&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525000559"
+  },
+  {
+   "id": "AC2C6749AC2E5052F53F47746A745E9B",
+   "sender": "הלב שלי נקרע לשניים",
+   "text": "אולי בברכת השם ממול קניון כפיר.",
+   "ts": 1790589052000,
+   "date": "2026-09-28",
+   "time": "12:50",
+   "files": [],
+   "drive": null,
+   "phone": "972537170815"
+  },
+  {
+   "id": "AC0AA3EB88F7BD0FF8579EE1A09115E7",
+   "sender": "מאיר בן חמו",
+   "text": "מאפיית רפאל",
+   "ts": 1790589094000,
+   "date": "2026-09-28",
+   "time": "12:51",
+   "files": [],
+   "drive": null,
+   "phone": "972545767675"
+  },
+  {
+   "id": "ACF6D4817D9FF9D86DD4A8A453E71E23",
+   "sender": "eric",
+   "text": "חברים יקרים נכון לעכשיו צריכים לבוא לקחת אותם. במידה ויהיה שינוי העדכן.",
+   "ts": 1790589259000,
+   "date": "2026-09-28",
+   "time": "12:54",
+   "files": [],
+   "drive": null,
+   "phone": "972505070091"
   }
  ]
 }

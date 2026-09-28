@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-09-25T11:46:41.082Z",
+ "updated": "2026-09-28T09:50:27.119Z",
  "messages": [
   {
    "id": "failed-1788250723219",
@@ -1243,32 +1243,14 @@
    "files": [
     {
      "name": "מסכת אבות מצוירת (פרק א).pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972526478257"
-  },
-  {
-   "id": "gm-1a07c9f9c3906dc2",
-   "sender": "אתי",
-   "text": "",
-   "ts": 1788797225000,
-   "date": "2026-09-07",
-   "time": "19:07",
-   "files": [
-    {
-     "name": "מסכת אבות מצוירת (פרק א).pdf",
      "size": "572KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1x5RU7oD3hHPBiUzzxGN_RsHoksGmiX0Q/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972526478257"
   },
   {
    "id": "AC18AFEE47BE06E0AF1993379B968B41",
@@ -1409,32 +1391,14 @@
    "files": [
     {
      "name": ". ai מצגת מקסימה השתלשלות משנה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972542898770"
-  },
-  {
-   "id": "gm-1a07fcb412f5b2de",
-   "sender": "קוביטשעק",
-   "text": "",
-   "ts": 1788850412000,
-   "date": "2026-09-08",
-   "time": "09:53",
-   "files": [
-    {
-     "name": ". ai מצגת מקסימה השתלשלות משנה.pdf",
      "size": "5.7MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1xyAsE0BqZqw4p7zRR0cK1Ac6I86_sa8w/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972542898770"
   },
   {
    "id": "gm-1a07fd0fa59452e9",

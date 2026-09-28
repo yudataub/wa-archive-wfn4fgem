@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-09-25T11:46:41.237Z",
+ "updated": "2026-09-28T09:50:27.149Z",
  "messages": [
   {
    "id": "gm-1a059e044bea945c",
@@ -1805,55 +1805,18 @@
    "files": [
     {
      "name": "מצגת מנוקדת ומעולה לפרשת ויקרא.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972509605150"
-  },
-  {
-   "id": "gm-1a065b20c776e9cb",
-   "sender": "אורית הודיה",
-   "text": "",
-   "ts": 1788412557000,
-   "date": "2026-09-03",
-   "time": "08:15",
-   "files": [
-    {
-     "name": "מצגת מנוקדת ומעולה לפרשת ויקרא.pdf",
      "size": "2.5MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1IpS9nFD8UPGEVOPu4CUoFttuRB7SzmwI/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "AC87CB56BD4194F54BA2D2C0113DCF54",
-   "sender": "0509605150",
-   "text": "",
-   "ts": 1788412558000,
-   "date": "2026-09-03",
-   "time": "08:15",
-   "files": [
-    {
-     "name": "פרק א' - קורבן עולה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972509605150"
   },
   {
-   "id": "gm-1a065b2118fa50fc",
-   "sender": "אורית הודיה",
+   "id": "AC87CB56BD4194F54BA2D2C0113DCF54",
+   "sender": "0509605150",
    "text": "",
    "ts": 1788412558000,
    "date": "2026-09-03",
@@ -1867,7 +1830,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972509605150"
   },
   {
    "id": "gm-1a0660add99131d7",
@@ -1919,55 +1883,18 @@
    "files": [
     {
      "name": "סימניה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972545599744"
-  },
-  {
-   "id": "gm-1a0671f08d05f169",
-   "sender": "יפעת שלמה",
-   "text": "",
-   "ts": 1788436479000,
-   "date": "2026-09-03",
-   "time": "14:54",
-   "files": [
-    {
-     "name": "סימניה.pdf",
      "size": "165KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1I8LbPMFEGD5bZYzEI-EiLFINgYoqDPIA/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "AC3A1F5F218A163CD66AB634E17FCD09",
-   "sender": "0545599744",
-   "text": "",
-   "ts": 1788436482000,
-   "date": "2026-09-03",
-   "time": "14:54",
-   "files": [
-    {
-     "name": "סימניות הקטרה ורשי ויקרא- דוצ- 4 עותקים.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972545599744"
   },
   {
-   "id": "gm-1a0671f12ccc73e3",
-   "sender": "יפעת שלמה",
+   "id": "AC3A1F5F218A163CD66AB634E17FCD09",
+   "sender": "0545599744",
    "text": "",
    "ts": 1788436482000,
    "date": "2026-09-03",
@@ -1981,7 +1908,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972545599744"
   },
   {
    "id": "gm-1a0671f6a7c314fb",
@@ -2400,32 +2328,14 @@
    "files": [
     {
      "name": "שופטים - מבוא - דף עבודה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972534325747"
-  },
-  {
-   "id": "gm-1a06bc1d2e3d37c8",
-   "sender": "דברת",
-   "text": "",
-   "ts": 1788514255000,
-   "date": "2026-09-04",
-   "time": "12:30",
-   "files": [
-    {
-     "name": "שופטים - מבוא - דף עבודה.pdf",
      "size": "275KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/13w39gy_uNTW4b0X4fkpyiERB9fr9Thre/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972534325747"
   },
   {
    "id": "gm-1a06be9fde3b200d",
@@ -3052,56 +2962,19 @@
    "files": [
     {
      "name": "מצגת מלוה שופטים 4 פרק ג1.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972545702150"
-  },
-  {
-   "id": "gm-1a0739aec6a16718",
-   "sender": "זאביק 😉",
-   "text": "",
-   "ts": 1788645924000,
-   "date": "2026-09-06",
-   "time": "01:05",
-   "files": [
-    {
-     "name": "מצגת מלוה שופטים 4 פרק ג1.pptx",
      "size": "1.1MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1deHbdcETcAn4Wn_7SmTxA8caqPkXG3qV/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972545702150"
   },
   {
    "id": "ACC44E78AFBE2F4E463C9E2DAC6C7DCD",
    "sender": "0545702150",
    "text": "מצגת מלוה שופטים ג אהוד בן גרא.pptx",
-   "ts": 1788645925000,
-   "date": "2026-09-06",
-   "time": "01:05",
-   "files": [
-    {
-     "name": "מצגת מלוה שופטים ג אהוד בן גרא.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972545702150"
-  },
-  {
-   "id": "gm-1a0739af3905a755",
-   "sender": "זאביק 😉",
-   "text": "",
    "ts": 1788645925000,
    "date": "2026-09-06",
    "time": "01:05",
@@ -3114,7 +2987,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972545702150"
   },
   {
    "id": "AC10BE6207614E4ADBB6EAD8E01FAC63",
@@ -3126,10 +3000,10 @@
    "files": [
     {
      "name": "מצגת לפרק ד.pptx",
-     "size": "",
+     "size": "2.3MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
+     "path": "https://docs.google.com/presentation/d/19R453xT6R1y221Q8bXTTpCfntADOnCGL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
     }
    ],
    "drive": null,
@@ -3145,50 +3019,14 @@
    "files": [
     {
      "name": "מצגת מלוה שופטים 3 פרק ב.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972545702150"
-  },
-  {
-   "id": "gm-1a0739af1bdbdbbe",
-   "sender": "זאביק 😉",
-   "text": "",
-   "ts": 1788645926000,
-   "date": "2026-09-06",
-   "time": "01:05",
-   "files": [
-    {
-     "name": "מצגת מלוה שופטים 3 פרק ב.pptx",
      "size": "714KB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1Si868H1YjjQyq7D70OlSP_O5tlT58iBA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "gm-1a0739af6d1ef41f",
-   "sender": "זאביק 😉",
-   "text": "",
-   "ts": 1788645926000,
-   "date": "2026-09-06",
-   "time": "01:05",
-   "files": [
-    {
-     "name": "מצגת לפרק ד.pptx",
-     "size": "2.3MB",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "https://docs.google.com/presentation/d/19R453xT6R1y221Q8bXTTpCfntADOnCGL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
-     "skipped": ""
-    }
-   ],
-   "drive": null
+   "drive": null,
+   "phone": "972545702150"
   },
   {
    "id": "ACC240235A38D7EC790632C64C92F9EF",
@@ -3319,32 +3157,14 @@
    "files": [
     {
      "name": "5. קרבן חטאת- פרק ד.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972542261101"
-  },
-  {
-   "id": "gm-1a075a6def03b299",
-   "sender": "ישראל יוקל",
-   "text": "",
-   "ts": 1788680255000,
-   "date": "2026-09-06",
-   "time": "10:37",
-   "files": [
-    {
-     "name": "5. קרבן חטאת- פרק ד.pptx",
      "size": "8.0MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1QZjo3uPt6SiD6OENQTK8dcFuHVh2zpTL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972542261101"
   },
   {
    "id": "gm-1a075a7424c97a9d",
@@ -3962,55 +3782,18 @@
    "files": [
     {
      "name": "שופטים - מבוא - דף עבודה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972535336683"
-  },
-  {
-   "id": "gm-1a0800f953c76fc2",
-   "sender": "מיכל ישראלי",
-   "text": "",
-   "ts": 1788854894000,
-   "date": "2026-09-08",
-   "time": "11:08",
-   "files": [
-    {
-     "name": "שופטים - מבוא - דף עבודה.pdf",
      "size": "275KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/151Xt2l0a4g6H9oahnLamoVMDvFN0xSFN/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "ACB590817A9416BF9FBFB0D6C1B98496",
-   "sender": "0535336683",
-   "text": "",
-   "ts": 1788854897000,
-   "date": "2026-09-08",
-   "time": "11:08",
-   "files": [
-    {
-     "name": "חוברת ללימוד ספר שופטים- שירה עמר_260902_190058.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972535336683"
   },
   {
-   "id": "gm-1a0800fa2eca08b8",
-   "sender": "מיכל ישראלי",
+   "id": "ACB590817A9416BF9FBFB0D6C1B98496",
+   "sender": "0535336683",
    "text": "",
    "ts": 1788854897000,
    "date": "2026-09-08",
@@ -4024,30 +3807,12 @@
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "AC2C08E6E3C955D2903475141C8EE6E8",
-   "sender": "0535336683",
-   "text": "",
-   "ts": 1788854898000,
-   "date": "2026-09-08",
-   "time": "11:08",
-   "files": [
-    {
-     "name": "שופטים פרק א.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972535336683"
   },
   {
-   "id": "gm-1a0800fa463f0734",
-   "sender": "מיכל ישראלי",
+   "id": "AC2C08E6E3C955D2903475141C8EE6E8",
+   "sender": "0535336683",
    "text": "",
    "ts": 1788854898000,
    "date": "2026-09-08",
@@ -4061,30 +3826,12 @@
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "AC13AAD058C67A4C5D0084A48BEE2765",
-   "sender": "0535336683",
-   "text": "",
-   "ts": 1788854899000,
-   "date": "2026-09-08",
-   "time": "11:08",
-   "files": [
-    {
-     "name": "ויהי בימי שפוט השופטים, חוברת סיכום ולמידה ספר שופטים_20250723_212847_0000.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972535336683"
   },
   {
-   "id": "gm-1a0800fb54577ad2",
-   "sender": "מיכל ישראלי",
+   "id": "AC13AAD058C67A4C5D0084A48BEE2765",
+   "sender": "0535336683",
    "text": "",
    "ts": 1788854899000,
    "date": "2026-09-08",
@@ -4098,7 +3845,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972535336683"
   },
   {
    "id": "gm-1a080b6602b1024e",
@@ -4120,32 +3868,14 @@
    "files": [
     {
      "name": "ממד- חוברות על חומשים ונביאים - הרב שושן - תשפו-ז.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972503236686"
-  },
-  {
-   "id": "gm-1a080b849020ed16",
-   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
-   "text": "",
-   "ts": 1788865943000,
-   "date": "2026-09-08",
-   "time": "14:12",
-   "files": [
-    {
-     "name": "ממד- חוברות על חומשים ונביאים - הרב שושן - תשפו-ז.pdf",
      "size": "8.2MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1ycBuQgqTv3ewXticnTYAqEWHY61_Xtor/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972503236686"
   },
   {
    "id": "gm-1a080b82c0f98a32",
@@ -4257,32 +3987,14 @@
    "files": [
     {
      "name": "סיפורים חומש ויקרא.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972522228672"
-  },
-  {
-   "id": "gm-1a081558266886b7",
-   "sender": "רונית פונצ'יק",
-   "text": "",
-   "ts": 1788876253000,
-   "date": "2026-09-08",
-   "time": "17:04",
-   "files": [
-    {
-     "name": "סיפורים חומש ויקרא.pdf",
      "size": "353KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1hHBPTSp1cjY6HdDZkraDqmNSJLNQDykD/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972522228672"
   },
   {
    "id": "AC5A73374BA512C78AA7FD7B4ECA2400",
@@ -4503,32 +4215,14 @@
    "files": [
     {
      "name": "סימניות הקטרה ורשי ויקרא- דוצ- 4 עותקים.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972503236686"
-  },
-  {
-   "id": "gm-1a085512e2f21a77",
-   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
-   "text": "",
-   "ts": 1788943080000,
-   "date": "2026-09-09",
-   "time": "11:38",
-   "files": [
-    {
-     "name": "סימניות הקטרה ורשי ויקרא- דוצ- 4 עותקים.pdf",
      "size": "178KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1o0Y707RrpU4p6UQAL9jJ2_eudssr2fCW/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972503236686"
   },
   {
    "id": "gm-1a08555a6fbe2524",
@@ -5953,32 +5647,14 @@
    "files": [
     {
      "name": "ממד- חוברות על חומשים ונביאים - הרב שושן - תשפו-ז.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972503236686"
-  },
-  {
-   "id": "gm-1a0ae3a6d240a244",
-   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
-   "text": "",
-   "ts": 1789629446000,
-   "date": "2026-09-17",
-   "time": "10:17",
-   "files": [
-    {
-     "name": "ממד- חוברות על חומשים ונביאים - הרב שושן - תשפו-ז.pdf",
      "size": "8.2MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1_dzsJQeaftk85tWTlJNUdgR4o46x8ura/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972503236686"
   },
   {
    "id": "gm-1a0b35353ed1b6f5",

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חומרים על חומש דברים",
- "updated": "2026-09-27T11:47:44.301Z",
+ "updated": "2026-09-28T09:50:27.112Z",
  "messages": [
   {
    "id": "ACE49B8457D8C29D4AF5A82457ECAFF5",
@@ -1252,55 +1252,18 @@
    "files": [
     {
      "name": "חומש דברים פרק ב', שיעור בקליק, השימוש מותר למנויים פעילים בלבד.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972508744451"
-  },
-  {
-   "id": "gm-1a0668e0c1c9d374",
-   "sender": "זהר",
-   "text": "",
-   "ts": 1788426977000,
-   "date": "2026-09-03",
-   "time": "12:16",
-   "files": [
-    {
-     "name": "חומש דברים פרק ב', שיעור בקליק, השימוש מותר למנויים פעילים בלבד.pdf",
      "size": "179KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1pclEqFo15ieZ6ka5g3PcLlOVJLMlDNjC/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "AC22673F5C430BD7A7856740FBA56F78",
-   "sender": "0508744451",
-   "text": "",
-   "ts": 1788426978000,
-   "date": "2026-09-03",
-   "time": "12:16",
-   "files": [
-    {
-     "name": "חומש דברים פרק א', שיעור בקליק, השימוש מותר למנויים פעילים בלבד.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972508744451"
   },
   {
-   "id": "gm-1a0668e1165972d4",
-   "sender": "זהר",
+   "id": "AC22673F5C430BD7A7856740FBA56F78",
+   "sender": "0508744451",
    "text": "",
    "ts": 1788426978000,
    "date": "2026-09-03",
@@ -1314,7 +1277,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972508744451"
   },
   {
    "id": "gm-1a0668e14b70ada9",
@@ -1385,32 +1349,14 @@
    "files": [
     {
      "name": "תורה חומש דברים_20260904_092339_0000.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972533345585"
-  },
-  {
-   "id": "gm-1a06b1a4ccc9a0a4",
-   "sender": "אלירן",
-   "text": "עטיפה למחברת דברים ושמואל ב",
-   "ts": 1788503276000,
-   "date": "2026-09-04",
-   "time": "09:27",
-   "files": [
-    {
-     "name": "תורה חומש דברים_20260904_092339_0000.pdf",
      "size": "276KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1t4288gSgnDw91T4DFrGjywL2BDy_P1qb/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972533345585"
   },
   {
    "id": "gm-1a06b2f29ec40815",
@@ -1783,55 +1729,18 @@
    "files": [
     {
      "name": "דברים שיעור 4 פרק א מינוי השופטים.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972547228856"
-  },
-  {
-   "id": "gm-1a07573454ff3a6a",
-   "sender": "Yair Lieberman",
-   "text": "",
-   "ts": 1788676878000,
-   "date": "2026-09-06",
-   "time": "09:41",
-   "files": [
-    {
-     "name": "דברים שיעור 4 פרק א מינוי השופטים.pptx",
      "size": "2.4MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
      "path": "https://docs.google.com/presentation/d/1K1y-PE9bEP1O8wPWS5iG5rGQ9EOjZnkh/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
-  },
-  {
-   "id": "AC58A06402BBA09EBCC2F833F311A576",
-   "sender": "הרב יאיר ליברמן",
-   "text": "",
-   "ts": 1788676888000,
-   "date": "2026-09-06",
-   "time": "09:41",
-   "files": [
-    {
-     "name": "דברים שיעור 5 המרגלים.pptx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
    "drive": null,
    "phone": "972547228856"
   },
   {
-   "id": "gm-1a075738d4909bbb",
-   "sender": "Yair Lieberman",
+   "id": "AC58A06402BBA09EBCC2F833F311A576",
+   "sender": "הרב יאיר ליברמן",
    "text": "",
    "ts": 1788676888000,
    "date": "2026-09-06",
@@ -1845,7 +1754,8 @@
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972547228856"
   },
   {
    "id": "gm-1a07573675cd0506",
@@ -2439,32 +2349,14 @@
    "files": [
     {
      "name": "דף_עבודה_דברים_פרק_א_שמות_מימין.docx",
-     "size": "",
-     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972508744451"
-  },
-  {
-   "id": "gm-1a07d56c9983ab44",
-   "sender": "זהר",
-   "text": "",
-   "ts": 1788809230000,
-   "date": "2026-09-07",
-   "time": "22:27",
-   "files": [
-    {
-     "name": "דף_עבודה_דברים_פרק_א_שמות_מימין.docx",
      "size": "31KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
      "path": "https://docs.google.com/document/d/1nFAhX_VK_NvK4ebeuzlUK9xPD1R9pTLz/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972508744451"
   },
   {
    "id": "ACA49F7ABCADE636479D57307F27081B",

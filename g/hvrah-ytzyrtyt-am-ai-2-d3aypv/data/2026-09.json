@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T07:05:55.503Z",
+ "updated": "2026-09-28T09:50:27.116Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -695,10 +695,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "13.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "13.6MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1IptdWeqATAxgstYLhXSbCEVHjfuKtzf9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IptdWeqATAxgstYLhXSbCEVHjfuKtzf9&sz=w1200"
     }
    ],
    "drive": null
@@ -910,10 +911,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "7.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "7.3MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1JM6rHDzRXh2NjsM6Jth68eOcAfqAknBS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JM6rHDzRXh2NjsM6Jth68eOcAfqAknBS&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני העל-יסודי",
- "updated": "2026-09-28T04:03:28.216Z",
+ "updated": "2026-09-28T09:50:27.139Z",
  "messages": [
   {
    "id": "AC20A191436E074C341DC07C8BF0668B",
@@ -1375,32 +1375,14 @@
    "files": [
     {
      "name": "תשובת ר שמעון.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972585993821"
-  },
-  {
-   "id": "gm-1a0af9577884f595",
-   "sender": "בראון דסברג",
-   "text": "",
-   "ts": 1789652199000,
-   "date": "2026-09-17",
-   "time": "16:36",
-   "files": [
-    {
-     "name": "תשובת ר שמעון.pdf",
      "size": "80KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/16QW7Xem7f2p0b0AK6R6RSE7tGOQOs7P9/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972585993821"
   },
   {
    "id": "gm-1a0afc4ef719cd4b",
@@ -1422,32 +1404,14 @@
    "files": [
     {
      "name": "דף מקורות ליום כיפור - ערכו של הרהור תשובה.pdf",
-     "size": "",
-     "type": "application/pdf",
-     "path": "",
-     "skipped": "מהגיבוי — הקובץ בטלפון, לא הועלה"
-    }
-   ],
-   "drive": null,
-   "phone": "972523858317"
-  },
-  {
-   "id": "gm-1a0afc4f816be6e0",
-   "sender": "מדרשת חיות דקדושא",
-   "text": "",
-   "ts": 1789655312000,
-   "date": "2026-09-17",
-   "time": "17:28",
-   "files": [
-    {
-     "name": "דף מקורות ליום כיפור - ערכו של הרהור תשובה.pdf",
      "size": "179KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/12-UTbmF89S8TE8DCtrHoz8sSC_HeVg5R/view?usp=drivesdk",
      "skipped": ""
     }
    ],
-   "drive": null
+   "drive": null,
+   "phone": "972523858317"
   },
   {
    "id": "gm-1a0b2deb5a4ffb5b",
