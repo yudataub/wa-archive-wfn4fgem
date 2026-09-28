@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T16:50:38.694Z",
+ "updated": "2026-09-28T17:15:44.846Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31784,6 +31784,134 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "A52B718A92ECE4DB697A3B8FC9EE3EC7",
+   "sender": "mary garby",
+   "text": "זה מה שאמרתי היום😍",
+   "ts": 1790615288000,
+   "date": "2026-09-28",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "3EB09FA3E4AE0CCF072879",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1790615375000,
+   "date": "2026-09-28",
+   "time": "20:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/19TnRMI9lsxoSzT9JXRxbWftwPqAu5tKt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19TnRMI9lsxoSzT9JXRxbWftwPqAu5tKt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0D761621723535DC5BB",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1790615406000,
+   "date": "2026-09-28",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "65KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1XTEiamUENcvZr4JYWu46GgMxB7SAg2aa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XTEiamUENcvZr4JYWu46GgMxB7SAg2aa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB02F84BB70F8BC3AC4AE",
+   "sender": "Stdb",
+   "text": "אבל את זה שווה לכם לראות מבטיח וזה ההדגמה שלי לעניין של תוכן",
+   "ts": 1790615585000,
+   "date": "2026-09-28",
+   "time": "20:13",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB04D2820CDB1C3588623",
+   "sender": "נועם",
+   "text": "שיניתי את שם בקבוצה בשבילך.",
+   "ts": 1790615613000,
+   "date": "2026-09-28",
+   "time": "20:13",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A598C96BB5611F048E349A9B9D6B10C6",
+   "sender": "natalie yehiam",
+   "text": "הוא ממש חותם לך? מילא שהיא קראה לעצמה \"ליבי\", היא חותמת לי עם לב והשם שלה בכל הודעה",
+   "ts": 1790615614000,
+   "date": "2026-09-28",
+   "time": "20:13",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A5C4934CFFECB86DD2350095A79C6B12",
+   "sender": "mary garby",
+   "text": "זה לא ראיתי.. מצד שני אני לא לידו כרגע",
+   "ts": 1790615675000,
+   "date": "2026-09-28",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A564AC371E02EEA5081B1467C6E39D53",
+   "sender": "natalie yehiam",
+   "text": "האמת שזה סרטון מקסים והקול המשועמם והאדיש שלו בול כמו שאני מדמיינת אותך מקריא",
+   "ts": 1790615690000,
+   "date": "2026-09-28",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A537D95F07D20F22247D9D2B7E0D519C",
+   "sender": "natalie yehiam",
+   "text": "גם האיורים ממחישים",
+   "ts": 1790615721000,
+   "date": "2026-09-28",
+   "time": "20:15",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB055EE5A5A90B8C3D337",
+   "sender": "Stdb",
+   "text": "הרבה יותר מייצג",
+   "ts": 1790615738000,
+   "date": "2026-09-28",
+   "time": "20:15",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
   }
  ]
 }

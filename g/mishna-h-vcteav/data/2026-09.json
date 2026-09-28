@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-09-28T16:33:52.478Z",
+ "updated": "2026-09-28T17:13:29.820Z",
  "messages": [
   {
    "id": "AC30893F5D27BEAE728E9326FB9C1446",
@@ -1198,6 +1198,26 @@
    "files": [],
    "drive": null,
    "phone": "972528394886"
+  },
+  {
+   "id": "AC2EB16BFB8BB35F7A09B7F3828FB217",
+   "sender": "אביבה יחיאל",
+   "text": "",
+   "ts": 1790615604000,
+   "date": "2026-09-28",
+   "time": "20:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l9CPIMpY-OMU86XMS9dfkHEab9TkwKpi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l9CPIMpY-OMU86XMS9dfkHEab9TkwKpi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504188931"
   }
  ]
 }

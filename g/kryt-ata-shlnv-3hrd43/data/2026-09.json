@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T17:05:59.710Z",
+ "updated": "2026-09-28T17:14:29.843Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -34135,7 +34135,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1E3oiSXti3Edx3ddinWg4PIfh16MZtieP/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1E3oiSXti3Edx3ddinWg4PIfh16MZtieP&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1E3oiSXti3Edx3ddinWg4PIfh16MZtieP&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/2A92C8D5F3FD6CC787B0_0.mp4"
     }
    ],
    "drive": null,
@@ -38714,6 +38715,46 @@
    "files": [],
    "drive": null,
    "phone": "972506064441"
+  },
+  {
+   "id": "2AE7EE1CB4A7DB83F9F3",
+   "sender": "גל נקיון ופוליש",
+   "text": "🇮🇱 תומכים בעסק של מילואימניק 💪🇮🇱\n\n🏠✨ נכנסים לבית חדש? סיימתם שיפוץ? זה הזמן לניקיון יסודי באמת! ✨🏠\n\nאחרי קבלן או שיפוץ הבית נשאר עם אבק, לכלוך, שאריות חומרי בנייה, כתמים וסימנים שלא תמיד יורדים בניקיון רגיל.\n\n🧼 ניקיון יסודי לבית חדש מקבלן ואחרי שיפוץ\n✨ פוליש והברקת רצפות\n🪟 ניקוי חלונות ומסילות\n🚪 ניקוי דלתות ומשקופים\n🧹 הסרת אבק ולכלוך גם מהפינות הקטנות\n🏠 הכנת הבית לכניסה – נקי, מבריק ומוכן למגורים!\n\nאנחנו מגיעים עם ציוד וחומרים מקצועיים ודואגים לכל הפרטים הקטנים, כדי שתוכלו להיכנס לבית נקי, מבריק ומוכן להתחלה חדשה ✨\n\n📞 לתיאום וקבלת הצעת מחיר: 050-998-5570\n\n🇮🇱 גל ניקיון ופוליש – עסק של מילואימניק\nעובדים מכל הלב, מנקים עד הפרט האחרון.",
+   "ts": 1790615406000,
+   "date": "2026-09-28",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vlKyZuFTXF2wuJWyAnomr0TdDTCy0Tep/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vlKyZuFTXF2wuJWyAnomr0TdDTCy0Tep&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509985570"
+  },
+  {
+   "id": "4A849681C066E4628D81",
+   "sender": "אימפריאל סטון משטחי יוקרה",
+   "text": "",
+   "ts": 1790615666000,
+   "date": "2026-09-28",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I3tf8nz2Da0IkpbM5ZseUegVsIKU2E_q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I3tf8nz2Da0IkpbM5ZseUegVsIKU2E_q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546662959"
   }
  ]
 }
