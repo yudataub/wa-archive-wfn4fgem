@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T09:32:44.435Z",
+ "updated": "2026-09-28T09:42:14.596Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6265,6 +6265,57 @@
    "files": [],
    "drive": null,
    "phone": "972554421940"
+  },
+  {
+   "id": "ACA1F1D5A20BD2049A0425E4E5830318",
+   "sender": "⚔️𝕰𝖑𝖈𝖍𝖆𝖓𝖆𝖓 𝖌𝖎𝖌𝖎 ⚔️",
+   "text": "יש לך מספר",
+   "ts": 1790588346000,
+   "date": "2026-09-28",
+   "time": "12:39",
+   "files": [],
+   "drive": null,
+   "phone": "972555511421"
+  },
+  {
+   "id": "A527EF5ED506BCA57952FE8983FCA90C",
+   "sender": "סטודיו יעל ברזל",
+   "text": "*הזדמנות מיוחדת להגיע ולראות מקרוב את דגם בית המקדש המרהיב מעץ!*✨\n\n*ימים שלישי ורביעי, חול המועד סוכות.*\n🕙 *בין השעות 10:00-12:00*\n\n📍 גלריית שמעון טיאר, המייסדים 24, כפר חסידים\n📞 052-2610439",
+   "ts": 1790588347000,
+   "date": "2026-09-28",
+   "time": "12:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iDv5RBcdw0ym2uwdYmjNJbGW-Vjo7z9k/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iDv5RBcdw0ym2uwdYmjNJbGW-Vjo7z9k&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526699371"
+  },
+  {
+   "id": "3A747A45DA8A0559E3F8",
+   "sender": "יוסי מנחם",
+   "text": "דרושים עובדים יר״ש \nתחילת עבודה מיידית",
+   "ts": 1790588519000,
+   "date": "2026-09-28",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Guk9UGwfIh_Oz-1KeqSDtiCKNsKdIlGk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Guk9UGwfIh_Oz-1KeqSDtiCKNsKdIlGk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529955992"
   }
  ]
 }

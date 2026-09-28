@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-28T09:17:44.221Z",
+ "updated": "2026-09-28T09:41:44.580Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7482,6 +7482,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1x94T8rKTbSfVVItOMGhAx0_AvUDfY0mq&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972526494933"
+  },
+  {
+   "id": "A53FD7495F352032E07E4F031BFC8E30",
+   "sender": "אושרי סגל",
+   "text": "נמסר",
+   "ts": 1790588480000,
+   "date": "2026-09-28",
+   "time": "12:41",
+   "files": [],
    "drive": null,
    "phone": "972526494933"
   }

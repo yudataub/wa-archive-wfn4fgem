@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T09:26:14.362Z",
+ "updated": "2026-09-28T09:41:14.574Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5378,6 +5378,26 @@
    ],
    "drive": null,
    "phone": "972554421940"
+  },
+  {
+   "id": "3A3770D7A9C8F9159735",
+   "sender": "יוסי מנחם",
+   "text": "תחילת עבודה מיידית",
+   "ts": 1790588458000,
+   "date": "2026-09-28",
+   "time": "12:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fIFxNBGy5Wp6qlf-EvJhSXYk8Yn88L8w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fIFxNBGy5Wp6qlf-EvJhSXYk8Yn88L8w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529955992"
   }
  ]
 }

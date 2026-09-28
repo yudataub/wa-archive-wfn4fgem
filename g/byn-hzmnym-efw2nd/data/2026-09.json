@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-28T08:34:02.377Z",
+ "updated": "2026-09-28T09:38:44.537Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1053,6 +1053,26 @@
    ],
    "drive": null,
    "phone": "972503332857"
+  },
+  {
+   "id": "AC6D0043D8D085CA079CBDEDE4841323",
+   "sender": "חני",
+   "text": "*המקום המושלם בשבילכם לגיבוש משפחתי עוד היום‼️*\n\n🍋 'חוות אלפא' מזמינה אתכם להנות בחוה\"מ סוכות מחוויה מדהימה לכל המשפחה 🍋\n\n*השכרת כל המתחם הענק למשפחות/ קבוצות גדולות בתיאום מראש בלבד!!*\n\nמהרו להבטיח את מקומכם איתנו:\n📞 050-3332819",
+   "ts": 1790588317000,
+   "date": "2026-09-28",
+   "time": "12:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HCWCkKugZe6biUnFeFubrBmD9Zm_eOwc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HCWCkKugZe6biUnFeFubrBmD9Zm_eOwc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534245658"
   }
  ]
 }
