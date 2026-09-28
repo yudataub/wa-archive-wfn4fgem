@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-09-28T05:56:59.993Z",
+ "updated": "2026-09-28T10:10:18.990Z",
  "messages": [
   {
    "id": "AC9C877EE7068F6E9D8A9C94FCB56E6A",
@@ -113,6 +113,26 @@
    ],
    "drive": null,
    "phone": "972526070763"
+  },
+  {
+   "id": "3EB0E1DE1E77C43DCD8C88",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט היומי\n*קישוטי נייר לסוכות בסגנון כוורת*\nהכניסו לפרומפט באזור הסוגריים המרובעים את הצורה המיוחדת של הקישוט שאתם רוצים.\nלפרומפט:  https://www.lomdot.org/dailyprompt\nלהצטרפות לקהילה שלי:\nחג שמח 💚 שירה",
+   "ts": 1790590208000,
+   "date": "2026-09-28",
+   "time": "13:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-787gRIN2BCfKPGa2WfgdciVqm0ObwF3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-787gRIN2BCfKPGa2WfgdciVqm0ObwF3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

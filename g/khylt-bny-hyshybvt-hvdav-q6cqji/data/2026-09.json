@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-28T09:44:14.624Z",
+ "updated": "2026-09-28T10:16:49.048Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8530,6 +8530,68 @@
    "files": [],
    "drive": null,
    "phone": "972559358099"
+  },
+  {
+   "id": "3EB07D24F68D64354ED93F",
+   "sender": "נועה רוזנטל",
+   "text": "איפה יש מנחה בזמן הקרוב?",
+   "ts": 1790590192000,
+   "date": "2026-09-28",
+   "time": "13:09",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
+  },
+  {
+   "id": "AC2C02C73ABBC1DCA2F62C1E6DBBB6C5",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1790590353000,
+   "date": "2026-09-28",
+   "time": "13:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c-1dovS_GZpzXiVUP2qP0j7Y8kGl5IVw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c-1dovS_GZpzXiVUP2qP0j7Y8kGl5IVw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC9EEC5706AA11D8DBAA7B9C43372E17",
+   "sender": "moshe",
+   "text": "שימו לב אחרי מפגש הסיטי לכיוון צומת של פרוסטיק יש מצלמה סמויה",
+   "ts": 1790590359000,
+   "date": "2026-09-28",
+   "time": "13:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "358KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tCN3243JMfhIQQ2jAaJxoK9m3HsRQXiH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tCN3243JMfhIQQ2jAaJxoK9m3HsRQXiH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532462420"
+  },
+  {
+   "id": "A5B8BAE3E8987096B0B982005DBFEE28",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "איפה זה מפגש הסיטי?",
+   "ts": 1790590584000,
+   "date": "2026-09-28",
+   "time": "13:16",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

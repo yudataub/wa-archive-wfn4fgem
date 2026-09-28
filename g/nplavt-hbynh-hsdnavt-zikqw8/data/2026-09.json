@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-28T06:56:30.943Z",
+ "updated": "2026-09-28T10:16:49.058Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -433,6 +433,37 @@
    "files": [],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "3EB015B204DD48ADF359B6",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט היומי\n*קישוטי נייר לסוכות בסגנון כוורת*\nהכניסו לפרומפט באזור הסוגריים המרובעים את הצורה המיוחדת של הקישוט שאתם רוצים.\nלפרומפט:  https://www.lomdot.org/dailyprompt\nלהצטרפות לקהילה שלי:\nחג שמח 💚 שירה",
+   "ts": 1790590208000,
+   "date": "2026-09-28",
+   "time": "13:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13ev4pLvtVhnhVWVxeHL3Cv7EgU9xL9nH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13ev4pLvtVhnhVWVxeHL3Cv7EgU9xL9nH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC495CBD9159308D84320303B5F3492C",
+   "sender": "כרמלה דינר",
+   "text": "איך שולחים לוואטצאפ",
+   "ts": 1790590591000,
+   "date": "2026-09-28",
+   "time": "13:16",
+   "files": [],
+   "drive": null,
+   "phone": "972523939115"
   }
  ]
 }
