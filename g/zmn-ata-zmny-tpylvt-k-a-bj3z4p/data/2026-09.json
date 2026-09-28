@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-28T02:16:57.929Z",
+ "updated": "2026-09-28T02:22:58.022Z",
  "messages": [
   {
    "id": "ACE6D7B51F9D97D3DF11A3CBC092D83F",
@@ -2018,6 +2018,48 @@
    "date": "2026-09-28",
    "time": "05:16",
    "files": [],
+   "drive": null,
+   "phone": "972522354929"
+  },
+  {
+   "id": "AC2CE09E365B58C4B89C7C6BDA5FAF83",
+   "sender": "ערן כהן",
+   "text": "בוקר טוב,\n*שבת אחים* בהוגו מולר.\n5:45 קורבנות, בסביבות 6 הודו",
+   "ts": 1790561935000,
+   "date": "2026-09-28",
+   "time": "05:18",
+   "files": [],
+   "drive": null,
+   "phone": "972544275258"
+  },
+  {
+   "id": "AC0367B123675308C9C41CBC0F9C5EAA",
+   "sender": "ר.א",
+   "text": "תודה",
+   "ts": 1790562087000,
+   "date": "2026-09-28",
+   "time": "05:21",
+   "files": [],
+   "drive": null,
+   "phone": "972522354929"
+  },
+  {
+   "id": "AC9E75E352ABABB39AE4C8CE53540B30",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1790562147000,
+   "date": "2026-09-28",
+   "time": "05:22",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "35KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1PgwELWm9-Gd1pC_qS2BDS1bmP8NzkQCt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PgwELWm9-Gd1pC_qS2BDS1bmP8NzkQCt&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522354929"
   }
