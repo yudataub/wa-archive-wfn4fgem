@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-28T09:53:14.789Z",
+ "updated": "2026-09-28T11:46:35.084Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1084,6 +1084,26 @@
    "files": [],
    "drive": null,
    "phone": "972544803435"
+  },
+  {
+   "id": "2A135395BEB544068AC0",
+   "sender": "Michal Machpud | UNSTOPPABLE",
+   "text": "מחפשים בילוי שפוגע בול? 🎱🎤🍕\nסנוקר, קריוקי, משחקים ואוכל — הכול במקום אחד.\n\n📍 אזור התעשייה שער בנימין, רחוב הקידר 4\nנכנסים לשער בנימין, בכיכר השנייה — כיכר המועצה— פונים ימינה, ממשיכים כ־100 מטר, והמתחם נמצא מצד ימין.\n\nלפרטים והזמנות:\n[https://www.kaiufa.co.il](https://www.kaiufa.co.il)\n\n🎬 @unstoppable.business",
+   "ts": 1790595965000,
+   "date": "2026-09-28",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fUDLboXGNELl00wrbm69lMidF9K0xNpE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fUDLboXGNELl00wrbm69lMidF9K0xNpE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509525796"
   }
  ]
 }

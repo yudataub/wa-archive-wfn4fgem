@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T11:06:27.276Z",
+ "updated": "2026-09-28T11:38:34.948Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6356,6 +6356,26 @@
    ],
    "drive": null,
    "phone": "972538283971"
+  },
+  {
+   "id": "3A50B250F3238757894F",
+   "sender": "Yoad🤟🏾",
+   "text": "מטבח מוסדי ומקצועי \nמנות איכותיות ומושקעות \nהכל מהדרין ובמחירים מפתיעים! \n\nמספקים משלוחים לרכסים/ חיפה/ קריות/ עכו/ נהריה \n\n053-2730086",
+   "ts": 1790595481000,
+   "date": "2026-09-28",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "354KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15QZ2NnnAnASMRdPpAOutGtgBYgkBrNOM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15QZ2NnnAnASMRdPpAOutGtgBYgkBrNOM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532730086"
   }
  ]
 }
