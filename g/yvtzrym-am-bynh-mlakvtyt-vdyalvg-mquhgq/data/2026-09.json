@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T08:35:57.314Z",
+ "updated": "2026-09-28T08:45:57.448Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -30740,6 +30740,68 @@
    "files": [],
    "drive": null,
    "phone": "972544269091"
+  },
+  {
+   "id": "AC20748A4F063CEE9C4DCDC617A1017B",
+   "sender": "חפציה",
+   "text": "בשבוע שעבר המרתי איתו סביבת למידה שלמה שבניתי בפלטפורמה חיצונית לפני כמה שנים, תוך שעות ספורות הכל עבר למיקום אצלי, כולל ההקלטות שמלוות כל לחיצה, הטקסטים, העיצובים (אני בדיבור עם הפלטפורמה לגבי המדיה של המאגר שלהם מקסימום נג'נרט חדש, רק שזה 400 פריטים).\nבגלל שזה אצלי, כבר הוספנו מעקב מורה (כמו באתר רשי וכתב עגול ), בחירת דמות והלבשה שלה, כוכבי איכות ביצוע לכל תחנה ועוד מלא.\n\nהילדים שלי משחקים כדי לזהות מה עדיין לא מושלם, שיפורי עיצוב ונוציא את זה מחדש. היו אלפי כניסות, מקווה שהמרחב החדש יעשה את העבודה ויעזור לתלמידים ליהנות וגם להשלים את המסלול",
+   "ts": 1790584683000,
+   "date": "2026-09-28",
+   "time": "11:38",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB09DD7361CEC3402A2EE",
+   "sender": "Ezy Levy",
+   "text": "גם לי נפלה הלסת לראות את הדבר הזה, אז החלטתי לנסות בעצמי ( בהיותי חובב הגיון וביטויי - כבר הוצאתי ספר בעבר של 200 פתגמים בהיגיון) ניסיתי את מה שהיא הסבירה בסרטון. ואחרי פרומפט אחד בלבד בלי שום התערבות מצידי קיבלתי את זה.\nאני חייב לומר שהתרשמתי ברמות.\n\nזה הפרומפט( כמעט זהה למה שהיא כתבה )\ntake these photos and  make an amazing motion graphic video from them. matching the ideas in an amazing style and\n  create motion graphics that will blow my mind, show the most awesome capabilities, in estigate web for anything that\n  can help you, with music' sounds and browse any librRY AND TOOL (YOU CAN use opencv, birefnet, lama, GSAP'\n  hyperframes, webgl, free music etc)",
+   "ts": 1790585078000,
+   "date": "2026-09-28",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/16VeUarWofSzNhDowSG3MEyKiLYnSieXL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16VeUarWofSzNhDowSG3MEyKiLYnSieXL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "A51E4DB110A5DD74F2CD4769FB735BE7",
+   "sender": "תמר חמאדה",
+   "text": "הניסיון שלי",
+   "ts": 1790585112000,
+   "date": "2026-09-28",
+   "time": "11:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1w96Ruu4mGgl9uJBxalxBZ5oo0NLnqKHe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1w96Ruu4mGgl9uJBxalxBZ5oo0NLnqKHe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A529367C5B1075669F6B8A732B71DFB7",
+   "sender": "תמר חמאדה",
+   "text": "בקשתי עכשיו יותר פרוק ובלי קריינות",
+   "ts": 1790585134000,
+   "date": "2026-09-28",
+   "time": "11:45",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }
