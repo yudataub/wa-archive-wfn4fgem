@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T11:38:34.948Z",
+ "updated": "2026-09-28T11:52:05.182Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6376,6 +6376,117 @@
    ],
    "drive": null,
    "phone": "972532730086"
+  },
+  {
+   "id": "3AE1FF844AD44392881C",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596317000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CP50muZsRDiwrvVwTP8jMW3CAFT8FVX7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CP50muZsRDiwrvVwTP8jMW3CAFT8FVX7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A0B20582E0110D25005",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596318000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "353KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gmm-35OjtnmMMazT2DMueMSKNXdWYfE2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gmm-35OjtnmMMazT2DMueMSKNXdWYfE2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A5959F9B2BAC03DF0A3",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596319000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZMUlDiqo6JueAPvtQN-g_Hyd0FjwDjJY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZMUlDiqo6JueAPvtQN-g_Hyd0FjwDjJY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3AB82C1B01C850955DA1",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596321000,
+   "date": "2026-09-28",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TAVPR-l1LaxNsgP_kTM6QDYh70FeZPFo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TAVPR-l1LaxNsgP_kTM6QDYh70FeZPFo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A6536F86C73C20DE8A3",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596323000,
+   "date": "2026-09-28",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VJJ6ONI29DQnhv2pYkPBA_oWgdUgwwyM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VJJ6ONI29DQnhv2pYkPBA_oWgdUgwwyM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A506EE4CF4FE606E8BB",
+   "sender": "אורטל",
+   "text": "למסירה חינם \nעגלת תינוק במצב מצויין \nמופיע בתמונה דגם \nלפרטים במספר \n0527136060\nנא לא לפנות אליי רק במספר הנ״ל",
+   "ts": 1790596324000,
+   "date": "2026-09-28",
+   "time": "14:52",
+   "files": [],
+   "drive": null,
+   "phone": "972585789234"
   }
  ]
 }

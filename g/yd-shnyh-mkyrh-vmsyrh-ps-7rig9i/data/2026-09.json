@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T10:59:27.140Z",
+ "updated": "2026-09-28T11:48:05.116Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1273,6 +1273,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "3EB05CC753B2F77CB03171",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790596053000,
+   "date": "2026-09-28",
+   "time": "14:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SRXBfKCKhZ0leAUVu0n39fYOq7Ws0XmH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SRXBfKCKhZ0leAUVu0n39fYOq7Ws0XmH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

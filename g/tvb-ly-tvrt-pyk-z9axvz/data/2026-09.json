@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-28T07:00:01.013Z",
+ "updated": "2026-09-28T11:55:05.254Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -7176,6 +7176,37 @@
    ],
    "drive": null,
    "phone": "972525775796"
+  },
+  {
+   "id": "AC4FB95BD2E46D9BE969FF5567850A81",
+   "sender": "שרון😄",
+   "text": "היום בעזרת השם בקריית אתא לבנות בלבד",
+   "ts": 1790596445000,
+   "date": "2026-09-28",
+   "time": "14:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v0Ev5-XrBDbnFCVSCUf4v8Dc4F9KBqJx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v0Ev5-XrBDbnFCVSCUf4v8Dc4F9KBqJx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC1E8CD7845851922F4459AB1268A1B4",
+   "sender": "שרון😄",
+   "text": "רבנו הקדוש אמר \n״אפילו מי שנוגע בי מעט .. מה מעלתו לעד ולעולמי עולמים״ 🥹🥹✨\n\n```חיזוקים מפי תורת רבי נחמן מברסלב\nמוזמנות להיכנס - נשים בלבד```",
+   "ts": 1790596496000,
+   "date": "2026-09-28",
+   "time": "14:54",
+   "files": [],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T11:32:27.656Z",
+ "updated": "2026-09-28T11:52:05.187Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5464,6 +5464,128 @@
    "files": [],
    "drive": null,
    "phone": "972586161285"
+  },
+  {
+   "id": "3A037B05F60EFBEB3ED1",
+   "sender": "יעל פולק רזניק",
+   "text": "מישהו שנוסע לירושלים ויכול להביא בקבוק לבחורה ששכחה אותה ברכסים 🙏🏻",
+   "ts": 1790596100000,
+   "date": "2026-09-28",
+   "time": "14:48",
+   "files": [],
+   "drive": null,
+   "phone": "972549843477"
+  },
+  {
+   "id": "3AAE8A4E79E297984259",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596316000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/154qYbI9irho5tUxfpPf7fJ9mRYkrkXRy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=154qYbI9irho5tUxfpPf7fJ9mRYkrkXRy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3ABC4ACBB090799F2898",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596317000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "353KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VlaBobqeFKt0cPo0HLT0RxdZu_gzI3d4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VlaBobqeFKt0cPo0HLT0RxdZu_gzI3d4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A76ADC68619DE07E60D",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596318000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CE8na61olzPMu0KHMFDvZydjtdHex9Os/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CE8na61olzPMu0KHMFDvZydjtdHex9Os&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A2E97D6A31EB4A65F97",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596319000,
+   "date": "2026-09-28",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l3dekjWeqXhcm6T4dGoqJlyCJtiTnihf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l3dekjWeqXhcm6T4dGoqJlyCJtiTnihf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A6E0C6E9EFA09694B90",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1790596321000,
+   "date": "2026-09-28",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qqhC8pcwR6T3k-DSK6JZiz6OGGT6puE_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qqhC8pcwR6T3k-DSK6JZiz6OGGT6puE_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A32A207D93BC9F4973F",
+   "sender": "אורטל",
+   "text": "למסירה חינם \nעגלת תינוק במצב מצויין \nמופיע בתמונה דגם \nלפרטים במספר \n0527136060\nנא לא לפנות אליי רק במספר הנ״ל",
+   "ts": 1790596323000,
+   "date": "2026-09-28",
+   "time": "14:52",
+   "files": [],
+   "drive": null,
+   "phone": "972585789234"
   }
  ]
 }
