@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T08:14:02.044Z",
+ "updated": "2026-09-28T08:27:32.254Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36665,6 +36665,81 @@
    ],
    "drive": null,
    "phone": "972506397884"
+  },
+  {
+   "id": "ACB9AF7F6A1036BE7FEB36C5F80F6F96",
+   "sender": "עודד דניאלי",
+   "text": "למכירה כיסוי לשולחן פינג פונג \nעודד 0549255022",
+   "ts": 1790583714000,
+   "date": "2026-09-28",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972549255022"
+  },
+  {
+   "id": "AC221A177B11B536C5906AC2D50F9417",
+   "sender": "עודד דניאלי",
+   "text": "",
+   "ts": 1790583728000,
+   "date": "2026-09-28",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q-3EryvbY-J5npzKH5C7QUp54PJdaB9-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q-3EryvbY-J5npzKH5C7QUp54PJdaB9-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549255022"
+  },
+  {
+   "id": "ACCD66F3088E750414C89CE8CD09A155",
+   "sender": "עודד דניאלי",
+   "text": "שמשונית  מכל לים\nאיכותית מאוד\nעם רוכסן",
+   "ts": 1790583757000,
+   "date": "2026-09-28",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972549255022"
+  },
+  {
+   "id": "AC31ED62C26F0AA1B5FFFE4802C14D09",
+   "sender": "יהודה",
+   "text": "מועדים לשמחה מה הכתובת של פארק הספורט? ואיך מגיעים לשם מהמרכז של אתא?",
+   "ts": 1790584006000,
+   "date": "2026-09-28",
+   "time": "11:26",
+   "files": [],
+   "drive": null,
+   "phone": "972535877583"
+  },
+  {
+   "id": "ACF073AEC9EF95AE596F667DE977D13C",
+   "sender": "עודד דניאלי",
+   "text": "תכתוב בוויז",
+   "ts": 1790584021000,
+   "date": "2026-09-28",
+   "time": "11:27",
+   "files": [],
+   "drive": null,
+   "phone": "972549255022"
+  },
+  {
+   "id": "ACAC3273B3BF006416A567383D4F7A43",
+   "sender": "עודד דניאלי",
+   "text": "לוקי",
+   "ts": 1790584025000,
+   "date": "2026-09-28",
+   "time": "11:27",
+   "files": [],
+   "drive": null,
+   "phone": "972549255022"
   }
  ]
 }
