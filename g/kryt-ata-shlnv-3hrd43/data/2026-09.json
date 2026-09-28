@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T07:22:01.175Z",
+ "updated": "2026-09-28T07:32:01.336Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -12776,7 +12776,7 @@
   },
   {
    "id": "AC5024A700EA3F826A6A1CA0198FB001",
-   "sender": "0584769537",
+   "sender": "רוז פרג",
    "text": "המאפים של נופר החליטו לפנק את לקוחות שלהם למארזים לחג מהרו לשריין נשארו 9 מארזים אחרונים מבצע למארזים האחרונים 100 שח כרמיאל וקרית אתא למספר 0508787491",
    "ts": 1788980835000,
    "date": "2026-09-09",
@@ -36594,6 +36594,26 @@
    ],
    "drive": null,
    "phone": "972527322555"
+  },
+  {
+   "id": "AC9480AA5171A93F142B8B7FC07F53DB",
+   "sender": "רוז פרג",
+   "text": "",
+   "ts": 1790580704000,
+   "date": "2026-09-28",
+   "time": "10:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "196KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KD5S0KfGgqNNC4UY59gobhsvlEAzAY3W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KD5S0KfGgqNNC4UY59gobhsvlEAzAY3W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584769537"
   }
  ]
 }

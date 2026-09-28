@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילל - הלל חיפה 🤩",
- "updated": "2026-09-25T11:46:40.812Z",
+ "updated": "2026-09-28T07:37:01.488Z",
  "messages": [
   {
    "id": "3A4F3DE251D5D4BF031C",
@@ -32,6 +32,26 @@
    "files": [],
    "drive": null,
    "phone": "972526953311"
+  },
+  {
+   "id": "3EB006EF28834318D0BA1F",
+   "sender": "Sofya Pl",
+   "text": "*מוזמנים ומוזמנות לערב חגיגי של לימוד, טעמים, חברים בסוכה של קהילת מוריה!*\n\nנלמד ונכין יחד קוקטיילים בהשראת ארבעת המינים, נשב יחד ונשוחח על על שמחה, משמעות, זמן וחיים מתוך ספר קהלת - אחד הספרים המרתקים בתנ\"ך 🍋🌿\n\n📅 יום שלישי, 29.9\n🕖 19:00\n📍 קהילת מוריה, חורב 7, חיפה\n\nמחכים לכם 💚",
+   "ts": 1790580997000,
+   "date": "2026-09-28",
+   "time": "10:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1C4ch03oS44x-7uJqezoYUEZCfYh3AJJg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1C4ch03oS44x-7uJqezoYUEZCfYh3AJJg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586885261"
   }
  ]
 }
