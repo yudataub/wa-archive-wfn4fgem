@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-28T09:07:44.039Z",
+ "updated": "2026-09-28T09:13:14.111Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -5653,6 +5653,46 @@
    "date": "2026-09-28",
    "time": "12:07",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5DF5A906F5D1760CEB6FA06BE3507B7",
+   "sender": "י",
+   "text": "*בארגוני הפשיעה עסקים כרגיל: שני רכבים מבצעיים נתפסו סמוך לנצרת*\nהראשון ממוגן ירי והשני רכב עם לוחיות זיהוי מזויפות. (צילום: דוברות המשטרה)\n\nלכל העדכונים👇",
+   "ts": 1790586613000,
+   "date": "2026-09-28",
+   "time": "12:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fW3J8vPTpuIeXGf1uNreT7GZWuqBA0iF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fW3J8vPTpuIeXGf1uNreT7GZWuqBA0iF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5FEDA3B67CE0BAF8CE14127188DCB2B",
+   "sender": "י",
+   "text": "*🎭מי עומדת מאחורי המסכה? על מי גילי יכולה לסמוך? ומה קורה כשהמקום הכי בטוח הופך לזירת סכנה?*\n\n       *דֶּה זָ'ה ווּ 2*\n  הפקת הענק החדשה של\n*חני רובינשטיין וחיה מורגנשטרן ✈️*\n\nהפעם המסע לוקח אותך לתאילנד 🇹🇭\nאל תוך *עלילה סוחפת* שבה שום דבר הוא לא בדיוק כפי שהוא נראה…\n\n*מעל 400 מציגות • לוקיישנים מרהיבים • סטנדרט קולנועי ברמה גבוהה*🔝\n\nבואי ליהנות מדרמה מלאת מתח, הומור ורגש, בחוויית צפייה עוצרת נשימה! 🤩\n\nהסרט יוקרן בחוה״מ בפריסה ארצית!\n\n📽️ *סרטונים והצצות מאחורי הקלעים • טריילר וזמני ההקרנה כאן 👈* https://dejavu2.chanir.co.il/",
+   "ts": 1790586777000,
+   "date": "2026-09-28",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "18.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1czktuGNTEYXbodHOdhxnBytj2r2EVqte/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1czktuGNTEYXbodHOdhxnBytj2r2EVqte&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }

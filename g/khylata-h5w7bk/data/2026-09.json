@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-28T08:41:02.753Z",
+ "updated": "2026-09-28T09:17:44.221Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7464,6 +7464,26 @@
    "files": [],
    "drive": null,
    "phone": "972546225644"
+  },
+  {
+   "id": "A5D946A75F68BCB5CF4295B3FB3E608C",
+   "sender": "אושרי סגל",
+   "text": "למסירה מבית וגן",
+   "ts": 1790587059000,
+   "date": "2026-09-28",
+   "time": "12:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x94T8rKTbSfVVItOMGhAx0_AvUDfY0mq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x94T8rKTbSfVVItOMGhAx0_AvUDfY0mq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526494933"
   }
  ]
 }
