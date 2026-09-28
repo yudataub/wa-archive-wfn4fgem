@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T08:50:02.088Z",
+ "updated": "2026-09-28T09:25:32.629Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -30815,6 +30815,37 @@
    "files": [],
    "drive": null,
    "phone": "972585777177"
+  },
+  {
+   "id": "A51435357C5C2E0F17014DA3FA2E6005",
+   "sender": "natalie yehiam",
+   "text": "",
+   "ts": 1790587373000,
+   "date": "2026-09-28",
+   "time": "12:22",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Nc3JcftJgsUPnLzKhNLiUkRMOfyHQPSC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Nc3JcftJgsUPnLzKhNLiUkRMOfyHQPSC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A56C2392FF8F90024C07907CE85EF4EB",
+   "sender": "natalie yehiam",
+   "text": "אני לקחתי את הסגנון של דנה והתאמתי אליי, אין כאן פרשנות והסבר של הפתגם כמו של תמר, ביקשתי שיכין לי סרטון שמשלב בין שני ביטויים בעברית (אני נתתי לו את הביטויים) בהשראת הסרטון שהראתי של דנה אבל עם רקע שמתאים לנושא ואפקטים קשורים",
+   "ts": 1790587508000,
+   "date": "2026-09-28",
+   "time": "12:25",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
   }
  ]
 }

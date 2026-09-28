@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T09:10:14.075Z",
+ "updated": "2026-09-28T09:26:14.362Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5347,6 +5347,37 @@
    "files": [],
    "drive": null,
    "phone": "972552650126"
+  },
+  {
+   "id": "AC54564A705B322172D9C1CF53764B36",
+   "sender": "אריאל מנצור מורה נהיגה",
+   "text": "לא",
+   "ts": 1790587424000,
+   "date": "2026-09-28",
+   "time": "12:23",
+   "files": [],
+   "drive": null,
+   "phone": "972542415060"
+  },
+  {
+   "id": "AC073A9D84F89F85DF19E5E81DB71B95",
+   "sender": "ידידיה",
+   "text": "",
+   "ts": 1790587549000,
+   "date": "2026-09-28",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "301KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18xDbeiX3GlVeGGK9Ciu3qbaeC6vmrVBa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18xDbeiX3GlVeGGK9Ciu3qbaeC6vmrVBa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972554421940"
   }
  ]
 }
