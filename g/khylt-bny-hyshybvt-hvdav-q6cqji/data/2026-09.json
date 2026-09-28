@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-28T12:06:35.413Z",
+ "updated": "2026-09-28T12:22:05.656Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8732,6 +8732,48 @@
    "time": "15:06",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC466BCC804AB6E31B4DCDF42E32A9EF",
+   "sender": "יעקב קרלינסקי",
+   "text": "כן",
+   "ts": 1790597991000,
+   "date": "2026-09-28",
+   "time": "15:19",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACC69315C9AE017F00996D7BAE9D04B2",
+   "sender": "שרגא רוזנטל",
+   "text": "באיזה שעה?",
+   "ts": 1790598029000,
+   "date": "2026-09-28",
+   "time": "15:20",
+   "files": [],
+   "drive": null,
+   "phone": "972547477628"
+  },
+  {
+   "id": "AC66529DABBDAE40140985F88A3BBFD8",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1790598110000,
+   "date": "2026-09-28",
+   "time": "15:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "475KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MVo4aPDyJ9C9OxNxSZpwQGADIT7kfxHj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MVo4aPDyJ9C9OxNxSZpwQGADIT7kfxHj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }
