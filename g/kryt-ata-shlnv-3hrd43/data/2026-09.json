@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T07:11:01.170Z",
+ "updated": "2026-09-28T07:22:01.175Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36574,6 +36574,26 @@
    "files": [],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "AC223CAF15BD40507C337AE9889E4ACF",
+   "sender": "זהבית ברששת",
+   "text": "הזמנות לסוכות ב' נפתחו....",
+   "ts": 1790580086000,
+   "date": "2026-09-28",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "691KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nk8XIaFUwqGwYcNUfrXDIKEikU3RAeik/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nk8XIaFUwqGwYcNUfrXDIKEikU3RAeik&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527322555"
   }
  ]
 }

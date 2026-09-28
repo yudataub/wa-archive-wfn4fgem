@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T07:16:31.251Z",
+ "updated": "2026-09-28T07:20:01.132Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32464,6 +32464,46 @@
      "size": "104KB",
      "type": "audio/ogg; codecs=opus",
      "path": "https://drive.google.com/file/d/1a_9rfKcl5kNBKJwTRa253jKyW_BBinbd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מענדי",
+   "phone": "972585770542"
+  },
+  {
+   "id": "AC0B7CD6966F82F261EFCE7B26F1C8F4",
+   "sender": "מענדי",
+   "text": "",
+   "ts": 1790579939000,
+   "date": "2026-09-28",
+   "time": "10:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "159KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1eI83EDVKsw-ysIhU_AXn1MHw9frpsVae/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מענדי",
+   "phone": "972585770542"
+  },
+  {
+   "id": "ACB80681EE830CA6D4EB49B67F8824F0",
+   "sender": "מענדי",
+   "text": "",
+   "ts": 1790579989000,
+   "date": "2026-09-28",
+   "time": "10:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "121KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/18HZ_xstsYAkouDinZzeqzaT49r04jUDv/view?usp=drivesdk",
      "skipped": ""
     }
    ],
