@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מזכי הרבים",
- "updated": "2026-09-28T14:34:29.141Z",
+ "updated": "2026-09-28T14:38:59.145Z",
  "messages": [
   {
    "id": "2A2E7A4B623E5587812C",
@@ -3161,6 +3161,25 @@
      "type": "text/html",
      "path": "https://drive.google.com/file/d/1MT1YsTELT53X1jYO0iHjza0oSQWLIoC-/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0371DD7AA9467F19CA1",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790606331000,
+   "date": "2026-09-28",
+   "time": "17:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gkXpQAE2EAhBvVSwMIWF3vTQlZVU26L0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gkXpQAE2EAhBvVSwMIWF3vTQlZVU26L0&sz=w1200"
     }
    ],
    "drive": null

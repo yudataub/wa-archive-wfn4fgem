@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-28T14:34:29.133Z",
+ "updated": "2026-09-28T14:38:59.164Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8850,6 +8850,25 @@
      "type": "text/html",
      "path": "https://drive.google.com/file/d/1cukqUYEPBOGFJlfXXc53Eu0Wm5vUxxK4/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB04950214B594546D49D",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790606331000,
+   "date": "2026-09-28",
+   "time": "17:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GnaSgO3_78L7rsv1QH5fttSUXG3hBZ0r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GnaSgO3_78L7rsv1QH5fttSUXG3hBZ0r&sz=w1200"
     }
    ],
    "drive": null

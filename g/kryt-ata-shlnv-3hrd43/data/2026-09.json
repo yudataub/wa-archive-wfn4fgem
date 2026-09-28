@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T14:31:29.055Z",
+ "updated": "2026-09-28T14:42:29.201Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -38447,6 +38447,26 @@
    "files": [],
    "drive": null,
    "phone": "972505965747"
+  },
+  {
+   "id": "2AE6DFCB69181086EDC1",
+   "sender": "Kim Eliya Nails",
+   "text": "למסירה טלוויזיוה\nמעדיפה לתת למי שאין משפחה קשת יום/חייל בודד",
+   "ts": 1790606542000,
+   "date": "2026-09-28",
+   "time": "17:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PPInnmKCx_y17QV1nM-P8n80IRCsz7-F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PPInnmKCx_y17QV1nM-P8n80IRCsz7-F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528058380"
   }
  ]
 }

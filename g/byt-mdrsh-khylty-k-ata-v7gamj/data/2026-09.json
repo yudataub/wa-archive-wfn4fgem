@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-28T14:34:29.091Z",
+ "updated": "2026-09-28T14:38:59.154Z",
  "messages": [
   {
    "id": "ACA56CF925497E8C83CA0B0D502D2D7E",
@@ -4191,6 +4191,25 @@
      "type": "text/html",
      "path": "https://drive.google.com/file/d/1BTpEzVlObqPpD_e0f4Nu-1a57e-6HuFk/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB0EE0A8579D27495CF2D",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790606331000,
+   "date": "2026-09-28",
+   "time": "17:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o-lt5R3ezAwWH_XAsH22OnvNjjV1jNj5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o-lt5R3ezAwWH_XAsH22OnvNjjV1jNj5&sz=w1200"
     }
    ],
    "drive": null

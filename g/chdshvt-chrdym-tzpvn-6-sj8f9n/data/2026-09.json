@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-28T14:21:28.899Z",
+ "updated": "2026-09-28T14:44:59.250Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -5882,6 +5882,26 @@
    "date": "2026-09-28",
    "time": "17:21",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A571B51D30679DC7CF27D5B721795796",
+   "sender": "י",
+   "text": "*משילות? תוך ימים ספורים: נתלשו עשרות דגלי ישראל שתלו פעילי הצינות הדתית באזור מג׳ד אל-כרום בגליל*\n\nלכל העדכונים👇",
+   "ts": 1790606677000,
+   "date": "2026-09-28",
+   "time": "17:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CZ9DNx2e6juOpntlIhy9F8XyYnaqQ404/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CZ9DNx2e6juOpntlIhy9F8XyYnaqQ404&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
