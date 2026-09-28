@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-09-28T07:41:01.503Z",
+ "updated": "2026-09-28T07:53:01.698Z",
  "messages": [
   {
    "id": "A5DFEDEE2A758F54B9AA98DE6717B713",
@@ -859,6 +859,26 @@
      "path": "https://drive.google.com/file/d/13zkmfIGby9NPVsrWfy6OYb3xLPFGI81j/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=13zkmfIGby9NPVsrWfy6OYb3xLPFGI81j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5CA6E64F093F2C5279F2C4F33E6E493",
+   "sender": "אוריאל פדידה",
+   "text": "* אם תכתבו בצאט גי פי טי. *3dBilborad/*\nותצרפו תמונה תקבלו אותה בסגנון כזה על מבנה . \n*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1790581955000,
+   "date": "2026-09-28",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MiFB_JcS2nJQLPH92RJhn8nWGhbn4hbu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MiFB_JcS2nJQLPH92RJhn8nWGhbn4hbu&sz=w1200"
     }
    ],
    "drive": null,
