@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-28T15:31:07.005Z",
+ "updated": "2026-09-28T18:23:16.371Z",
  "messages": [
   {
    "id": "ACE6D7B51F9D97D3DF11A3CBC092D83F",
@@ -2204,6 +2204,26 @@
    "files": [],
    "drive": null,
    "phone": "972503004242"
+  },
+  {
+   "id": "AC767D8DFEAA3A17C3C8F7DF5CE6B126",
+   "sender": "מרדכי",
+   "text": "*🚨כל המשנה-ברורה=בשנה!!*\n10 דקות ביום!\n*....ממוצאי שמחת תורה*",
+   "ts": 1790619790000,
+   "date": "2026-09-28",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "372KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xHwEo7Q3WjIvNCliPdSq0asRXbTUqB0B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xHwEo7Q3WjIvNCliPdSq0asRXbTUqB0B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }
