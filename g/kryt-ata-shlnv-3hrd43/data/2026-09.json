@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T14:42:29.201Z",
+ "updated": "2026-09-28T15:24:36.863Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -38467,6 +38467,57 @@
    ],
    "drive": null,
    "phone": "972528058380"
+  },
+  {
+   "id": "ACBF5217266A52AB0D4E8FE9BD6153FD",
+   "sender": "שמואל מלול",
+   "text": "מת'ח תחנת אתא סנ'צ ג'נט מגן יחד עם סגנה ושוטרים נוספים בביקור חג אצל ראש מועצת רכסים יצחק רייך\n\n‏להצטרפות לקבוצת הווטסאפ שלנו",
+   "ts": 1790608775000,
+   "date": "2026-09-28",
+   "time": "18:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nN8WH521JjMXGbFn2QbTCGCP5U_nPC8s/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nN8WH521JjMXGbFn2QbTCGCP5U_nPC8s&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
+  },
+  {
+   "id": "AC838F13233BD538CB1A55984A7DDD42",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790609053000,
+   "date": "2026-09-28",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qU6hdqtLO_Cvwd4JrSKfpa1fG5bLVVYn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qU6hdqtLO_Cvwd4JrSKfpa1fG5bLVVYn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC64A02D660A28314FB29498A831B3C5",
+   "sender": "Adi",
+   "text": "איילת,ובתה מאיה מקצועניות,מקסימות, נעימות. יחס אישי בסבלנות אין קץ.\nחווית חובה *לצלול ולראות טיפה מהכחול הגדול*.\nממליצה מנסיון אישי",
+   "ts": 1790609055000,
+   "date": "2026-09-28",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "phone": "972507732446"
   }
  ]
 }

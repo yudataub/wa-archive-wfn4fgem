@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T15:16:23.767Z",
+ "updated": "2026-09-28T15:26:53.914Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31364,6 +31364,25 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "AC533512BAF0E0D68D8F10C74F6D8899",
+   "sender": "jannaok",
+   "text": "",
+   "ts": 1790609207000,
+   "date": "2026-09-28",
+   "time": "18:26",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "815KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/111U1uG8uLDfgC5RO-JjNp2CVdTVsuqfF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549260040"
   }
  ]
 }
