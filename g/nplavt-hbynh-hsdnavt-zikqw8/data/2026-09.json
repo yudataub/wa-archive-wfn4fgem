@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-28T13:14:43.517Z",
+ "updated": "2026-09-28T14:22:58.903Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -560,6 +560,57 @@
    "files": [],
    "drive": null,
    "phone": "972523939115"
+  },
+  {
+   "id": "AC014CD823C16B93C08CD27D8C178CB9",
+   "sender": "סוזי גרוס",
+   "text": "",
+   "ts": 1790605212000,
+   "date": "2026-09-28",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cdZ4K5qHkFqfo1F7UTi4E6PZhOWCO_Kn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cdZ4K5qHkFqfo1F7UTi4E6PZhOWCO_Kn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522706997"
+  },
+  {
+   "id": "AC30B8E3506A6DBC3E2ECBABF4BCA9D5",
+   "sender": "סוזי גרוס",
+   "text": "",
+   "ts": 1790605311000,
+   "date": "2026-09-28",
+   "time": "17:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1UCUrL5FMlop1qoE5IfEPvUs0uJUXtCut/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UCUrL5FMlop1qoE5IfEPvUs0uJUXtCut&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522706997"
+  },
+  {
+   "id": "ACF8A9FAA6058FA5219D02F432588895",
+   "sender": "סוזי גרוס",
+   "text": "כאן בקשתי שיסתובב וקול אנושי יאמר .... 👆🏻",
+   "ts": 1790605374000,
+   "date": "2026-09-28",
+   "time": "17:22",
+   "files": [],
+   "drive": null,
+   "phone": "972522706997"
   }
  ]
 }
