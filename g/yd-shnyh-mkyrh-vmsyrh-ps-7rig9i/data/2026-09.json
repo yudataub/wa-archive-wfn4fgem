@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T16:30:52.379Z",
+ "updated": "2026-09-28T16:57:29.581Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1524,6 +1524,26 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "3AC74FFF114235161FAF",
+   "sender": "Asaf",
+   "text": "תמונת תבליט פרחים 120₪",
+   "ts": 1790614628000,
+   "date": "2026-09-28",
+   "time": "19:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "311KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YcTKHZoSRty3Z9vySNnkkiuq-Wi3WycA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YcTKHZoSRty3Z9vySNnkkiuq-Wi3WycA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

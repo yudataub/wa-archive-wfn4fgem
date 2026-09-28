@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-28T16:35:08.458Z",
+ "updated": "2026-09-28T16:56:08.759Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -3017,7 +3017,7 @@
   },
   {
    "id": "ACA4DCEC9958AB8397AEBFD4C8F5AEB9",
-   "sender": "0502666414",
+   "sender": "Mordechai",
    "text": "חידוש: אני יכול עכשיו לעבוד מול ה-Instinct של אנשים אחרים - לתאם תוכניות ולסגור דברים בשבילך, ממציאת זמן לפגישה ועד תכנון משותף. קיבלת גם 15 הזמנות נוספות להכניס אנשים, והן בתוקף ל-48 שעות בלבד.",
    "ts": 1789509109000,
    "date": "2026-09-16",
@@ -4187,7 +4187,7 @@
   },
   {
    "id": "ACE9963CD984EF20232F78FC13736BC7",
-   "sender": "0502666414",
+   "sender": "Mordechai",
    "text": "Hey, we have the capacity to support more users at this moment. Over the next 48 hours, you'll be able to invite as many people as you'd like. These invites won't be counted toward your limit. Here's your invite code:\nhttps://app.instinct.com/invite?t=5vgzgtnyk77hpmyrji3g45ihf4",
    "ts": 1789727547000,
    "date": "2026-09-18",
@@ -5742,6 +5742,72 @@
    "files": [],
    "drive": null,
    "phone": "972546535745"
+  },
+  {
+   "id": "ACAD78889C05FE6576A3493787074710",
+   "sender": "Mordechai",
+   "text": "צריך להתקין איזה סקילים? \nפרומט מיוחד?",
+   "ts": 1790614220000,
+   "date": "2026-09-28",
+   "time": "19:50",
+   "files": [],
+   "drive": null,
+   "phone": "972502666414"
+  },
+  {
+   "id": "A5E7006C13CA1B711CE2339DA81A8A46",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "תזכירו לי מחר בבוקר ואשתף את הפרומפט. זה של דורי אדר",
+   "ts": 1790614248000,
+   "date": "2026-09-28",
+   "time": "19:50",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "AC99D21CD1C9B5B57909F2A4C3AA522D",
+   "sender": "עמי חניא",
+   "text": "הוא עושה את זה באונליין\nרק לראות שאתן עם סונט 5.5",
+   "ts": 1790614256000,
+   "date": "2026-09-28",
+   "time": "19:50",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC45457A7821769B0605CE97B98F179E",
+   "sender": "עמי חניא",
+   "text": "אני עשיתי בלי פרומט מיוחד רק כתבתי לו מה אני רוצה",
+   "ts": 1790614271000,
+   "date": "2026-09-28",
+   "time": "19:51",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "A5F17C02553402EE10F43DBBEAB77964",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "אני השתמשתי בשלו. מה ששלחתי זה הניסיון הראשון. מחר אשרדג אותו עוד",
+   "ts": 1790614301000,
+   "date": "2026-09-28",
+   "time": "19:51",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "AC5DAC495DD205F452C941B9691E0EFC",
+   "sender": "חפציה",
+   "text": "ממש אנימציה כייפית. ומותאם למותג, לא גנרי",
+   "ts": 1790614552000,
+   "date": "2026-09-28",
+   "time": "19:55",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
   }
  ]
 }

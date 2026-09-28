@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T16:47:22.704Z",
+ "updated": "2026-09-28T16:55:59.557Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5907,6 +5907,26 @@
    "files": [],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "A57B4C989B4E11E9E12922B37EF9B7EC",
+   "sender": "Harelectronics",
+   "text": "למה אסור להשתמש במי ברז ברדיאטור",
+   "ts": 1790614540000,
+   "date": "2026-09-28",
+   "time": "19:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/158H-QSq29aKgrID01RUIgujvm6CinXwY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=158H-QSq29aKgrID01RUIgujvm6CinXwY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509252690"
   }
  ]
 }
