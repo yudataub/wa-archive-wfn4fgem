@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T10:17:49.076Z",
+ "updated": "2026-09-28T10:45:49.466Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5420,6 +5420,17 @@
    "files": [],
    "drive": null,
    "phone": "972559125123"
+  },
+  {
+   "id": "A59D95D4EAEF0B8D36AAD2479B021DD7",
+   "sender": "Harelectronics",
+   "text": "מתי זמני מנחה בדרכי דב",
+   "ts": 1790592348000,
+   "date": "2026-09-28",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "phone": "972509252690"
   }
  ]
 }

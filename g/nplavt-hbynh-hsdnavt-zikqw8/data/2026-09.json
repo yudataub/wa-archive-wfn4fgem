@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-09-28T10:16:49.058Z",
+ "updated": "2026-09-28T10:43:49.433Z",
  "messages": [
   {
    "id": "A5480C2CC5D2CF4D03DC6D401F44DBE0",
@@ -464,6 +464,57 @@
    "files": [],
    "drive": null,
    "phone": "972523939115"
+  },
+  {
+   "id": "AC8AB7F324A0A5590878A32DF36DDD79",
+   "sender": "סוזי גרוס",
+   "text": "",
+   "ts": 1790592136000,
+   "date": "2026-09-28",
+   "time": "13:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/186uYxOjJW0eJBMUsvNjEvJCJVwQcQtdN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=186uYxOjJW0eJBMUsvNjEvJCJVwQcQtdN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522706997"
+  },
+  {
+   "id": "AC6C48D2651FE313825D2266C8B4613C",
+   "sender": "סוזי גרוס",
+   "text": "",
+   "ts": 1790592186000,
+   "date": "2026-09-28",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1dklUjVd_ZRDsk1_XwGxqK37uojlP4DUQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dklUjVd_ZRDsk1_XwGxqK37uojlP4DUQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522706997"
+  },
+  {
+   "id": "ACD8783323EB6ED98387C00CF9EA49D4",
+   "sender": "סוזי גרוס",
+   "text": "שירה תודה רבה על כל הטוב שאת מרעיפה עלינו. 🙏🙏",
+   "ts": 1790592225000,
+   "date": "2026-09-28",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "phone": "972522706997"
   }
  ]
 }
