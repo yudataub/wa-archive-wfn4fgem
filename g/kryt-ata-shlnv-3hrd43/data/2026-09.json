@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T18:41:16.606Z",
+ "updated": "2026-09-28T18:53:46.779Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -38898,6 +38898,26 @@
    "files": [],
    "drive": null,
    "phone": "972526802811"
+  },
+  {
+   "id": "A57FBE8D4B5274214B0658D04C104D74",
+   "sender": "גיל יעקובוביץ",
+   "text": "מי שמעוניינת להגיע שתעדכן את מירב על מנת שתוכל להערך... תודה רבה!",
+   "ts": 1790621598000,
+   "date": "2026-09-28",
+   "time": "21:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13ZNCqMvMNkP20I-U3rBvYdAEGrigQ5yw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13ZNCqMvMNkP20I-U3rBvYdAEGrigQ5yw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525168212"
   }
  ]
 }
