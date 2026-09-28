@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-09-27T10:46:12.014Z",
+ "updated": "2026-09-28T04:45:28.892Z",
  "messages": [
   {
    "id": "AC292A4A6C50410AA88B53E793642408",
@@ -437,6 +437,26 @@
    "files": [],
    "drive": null,
    "phone": "972522378396"
+  },
+  {
+   "id": "AC8F6F25617CF27B5CC629FC4FC0CB8D",
+   "sender": "יהונתן חי",
+   "text": "",
+   "ts": 1790570714000,
+   "date": "2026-09-28",
+   "time": "07:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BjTV20HrXns53XjMOfQ4OyPYQEL_qNKR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BjTV20HrXns53XjMOfQ4OyPYQEL_qNKR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502218518"
   }
  ]
 }
