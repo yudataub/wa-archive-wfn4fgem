@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-28T07:05:01.076Z",
+ "updated": "2026-09-28T08:03:01.864Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8170,6 +8170,26 @@
    ],
    "drive": null,
    "phone": "972537118255"
+  },
+  {
+   "id": "ACB6AE1A242352E6B7744E80B2B55AA2",
+   "sender": "Iris Abziz",
+   "text": "",
+   "ts": 1790582577000,
+   "date": "2026-09-28",
+   "time": "11:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17awPxRUUi3a75LNAo9xioHu6fAcFXHs0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17awPxRUUi3a75LNAo9xioHu6fAcFXHs0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528013313"
   }
  ]
 }
