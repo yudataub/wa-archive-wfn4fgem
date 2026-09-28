@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T15:30:00.864Z",
+ "updated": "2026-09-28T15:43:31.064Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31405,6 +31405,46 @@
    "files": [],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "3EB0473C8181E48CB819E0",
+   "sender": "נועם",
+   "text": "בניתי פייפליין הפקה ארוז כ-skill/plugin ל-Claude Code ו-Codex, שמפיק פרסומת שלמה מהטרמינל: בריף, בימוי, ייצור שוטים, קריינות, מוזיקה, כתוביות עברית RTL וסאונד. כל העריכה היא `plan.json` אחד שמתרנדר ב-Blender VSE ומיוצא גם ל-DaVinci Resolve. כל קריאה לספק AI בתשלום עוברת ledger עם תקרה ואישור, בלי retries אוטומטיים. הסרטון למטה הופק ב-pipeline הזה מקצה לקצה.\nהסרטון נוצר עם הכלי\n‏https://github.com/Meir770ar/blender-campaign-studio",
+   "ts": 1790610192000,
+   "date": "2026-09-28",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KHTSG17lBLCcIhm6g7zN0gvwgwI1ffPN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KHTSG17lBLCcIhm6g7zN0gvwgwI1ffPN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB067BF83DC338D729D50",
+   "sender": "נועם",
+   "text": "בניתי פייפליין הפקה ארוז כ-skill/plugin ל-Claude Code ו-Codex, שמפיק פרסומת שלמה מהטרמינל: בריף, בימוי, ייצור שוטים, קריינות, מוזיקה, כתוביות עברית RTL וסאונד. כל העריכה היא `plan.json` אחד שמתרנדר ב-Blender VSE ומיוצא גם ל-DaVinci Resolve. כל קריאה לספק AI בתשלום עוברת ledger עם תקרה ואישור, בלי retries אוטומטיים. הסרטון למטה הופק ב-pipeline הזה מקצה לקצה.\nהסרטון נוצר עם הכלי\n‏https://github.com/Meir770ar/blender-campaign-studio",
+   "ts": 1790610195000,
+   "date": "2026-09-28",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MMzODbhG3n70bXOdaI2kzk9CnvEpkhWJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MMzODbhG3n70bXOdaI2kzk9CnvEpkhWJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
