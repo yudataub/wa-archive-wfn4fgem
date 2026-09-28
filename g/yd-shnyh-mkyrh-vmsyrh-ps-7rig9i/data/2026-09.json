@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T06:39:30.715Z",
+ "updated": "2026-09-28T10:24:19.163Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1193,6 +1193,46 @@
    ],
    "drive": null,
    "phone": "972559985850"
+  },
+  {
+   "id": "AC42DA62CA649C14A3ED933E611D5836",
+   "sender": "Daniel",
+   "text": "למכירה אמבטיה רכה (מתקפלת עם העגלה) לניו בורן, לעגלת יויו כחדשה 150₪, צבע טורקיז",
+   "ts": 1790590804000,
+   "date": "2026-09-28",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZHkdHz5S-plfVv_xVF8FiYq3PQvqyvgi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZHkdHz5S-plfVv_xVF8FiYq3PQvqyvgi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523371048"
+  },
+  {
+   "id": "ACB663EB0F68CB90C380A2D9D84B4004",
+   "sender": "איתי חן",
+   "text": "",
+   "ts": 1790591030000,
+   "date": "2026-09-28",
+   "time": "13:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nQ5mkqhDUkMurNMl1s2IDIKSHUMGq-3G/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nQ5mkqhDUkMurNMl1s2IDIKSHUMGq-3G&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528875059"
   }
  ]
 }
