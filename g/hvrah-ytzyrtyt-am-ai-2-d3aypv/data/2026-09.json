@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T10:10:38.925Z",
+ "updated": "2026-09-28T10:57:46.741Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1316,6 +1316,26 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "3A670D88CD77896FFE8C",
+   "sender": "מיטל רוט",
+   "text": "",
+   "ts": 1790593058000,
+   "date": "2026-09-28",
+   "time": "13:57",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "374KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1MP3p5C8V14n9C0IN7a79nLx1R5X2hfAc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MP3p5C8V14n9C0IN7a79nLx1R5X2hfAc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544700566"
   }
  ]
 }

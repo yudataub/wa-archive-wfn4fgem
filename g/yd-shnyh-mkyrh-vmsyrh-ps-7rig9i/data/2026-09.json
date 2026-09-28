@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T10:24:19.163Z",
+ "updated": "2026-09-28T10:54:27.106Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1233,6 +1233,26 @@
    ],
    "drive": null,
    "phone": "972528875059"
+  },
+  {
+   "id": "3AA6795E40EFCBF292CD",
+   "sender": "דנה❣️",
+   "text": "למכירה מסך מחשב מצויין רק-100שח❣️איסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790592861000,
+   "date": "2026-09-28",
+   "time": "13:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QutxqHlARbMAVkmzH0Mn6vM5PMw6UgvX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QutxqHlARbMAVkmzH0Mn6vM5PMw6UgvX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }

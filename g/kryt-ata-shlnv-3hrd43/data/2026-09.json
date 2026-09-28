@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T09:54:44.801Z",
+ "updated": "2026-09-28T10:54:27.070Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36961,6 +36961,26 @@
    "files": [],
    "drive": null,
    "phone": "972505070091"
+  },
+  {
+   "id": "3ADD7E28B9D18E194943",
+   "sender": "דנה❣️",
+   "text": "למכירה מסך מחשב מצויין רק-100שח❣️איסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790592843000,
+   "date": "2026-09-28",
+   "time": "13:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19QqP7r51H_Bz8SSnHmG6yNbn1C467W0Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19QqP7r51H_Bz8SSnHmG6yNbn1C467W0Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }
