@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T13:00:37.778Z",
+ "updated": "2026-09-28T13:14:07.987Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31128,6 +31128,123 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "AC9E0ADDD86CA3151B946DF55461CEF5",
+   "sender": "Stdb",
+   "text": "גרסת HD: כותרת חדה, ופי שלושה נצנצים ✨",
+   "ts": 1790600926000,
+   "date": "2026-09-28",
+   "time": "16:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1EvQfT-_6XcAXxF_ooi9uSfRB-5W8T1D6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EvQfT-_6XcAXxF_ooi9uSfRB-5W8T1D6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACB36C0EE6DE151BD21F8C7C56003300",
+   "sender": "Stdb",
+   "text": "נוצר עם אינסטינקט",
+   "ts": 1790600930000,
+   "date": "2026-09-28",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC5256DBB63B0E9CBC6A26EA928A58C0",
+   "sender": "Stdb",
+   "text": "🤢",
+   "ts": 1790600940000,
+   "date": "2026-09-28",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0CD4DC82E4BECC33C09",
+   "sender": "ווקי שרון מרגולין",
+   "text": "קרעת אותי מצחוק",
+   "ts": 1790600978000,
+   "date": "2026-09-28",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0003EC12F051C8BA01A",
+   "sender": "ווקי שרון מרגולין",
+   "text": "חזרנו ל 1980",
+   "ts": 1790600979000,
+   "date": "2026-09-28",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3A9DF62890D8523D1BBB",
+   "sender": "Evyatar Shpilman",
+   "text": "איך אומרים, זה לא הסרטון, זאת האומנות",
+   "ts": 1790601061000,
+   "date": "2026-09-28",
+   "time": "16:11",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "3EB084AC35BA35F6DE25E3",
+   "sender": "נועם",
+   "text": "היכן היונים?",
+   "ts": 1790601090000,
+   "date": "2026-09-28",
+   "time": "16:11",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB098D996D13AD66D2926",
+   "sender": "ווקי שרון מרגולין",
+   "text": "10 שניות, כל התותחים: פולי קפה במסלול סביב הכוס, קצף שחושף את המילה אות אחר אות, מאצ'ה שמחליפה את הכוס פריים-פריים - ובסוף כל הפריטים מתאספים לפנים, המהלך הכי סלדג'האמר שיש. כל תנוחה מוחזקת שני פריימים כמו בסטופ-מושן אמיתי, והכל יושב על הפעימה.\n\nהדיוק: זה חיקוי דיגיטלי של השפה על הנכסים שלך, לא צילום פיזי.",
+   "ts": 1790601219000,
+   "date": "2026-09-28",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "619KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1UrMHsD4ZwX0lGqCo3Lg9b4jBuFpwpT72/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UrMHsD4ZwX0lGqCo3Lg9b4jBuFpwpT72&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0055F38F162547BFBA9",
+   "sender": "ווקי שרון מרגולין",
+   "text": "יצא ממש מדהים 😂🤣🫣",
+   "ts": 1790601240000,
+   "date": "2026-09-28",
+   "time": "16:14",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }
