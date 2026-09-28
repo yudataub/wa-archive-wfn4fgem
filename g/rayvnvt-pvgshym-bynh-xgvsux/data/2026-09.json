@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-28T05:19:23.811Z",
+ "updated": "2026-09-28T07:44:56.127Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -194,6 +194,46 @@
    "files": [],
    "drive": null,
    "phone": "972528926740"
+  },
+  {
+   "id": "A533F3B2DFA7D97C7345574D1865AF7D",
+   "sender": "תמר חמאדה",
+   "text": "חברים, מילים שעושות קסם 5 ✨\nהפעם: \"העיתון שלא היה\".\n\nמעלים חומר לימוד או מדביקים טקסט, והפרומפט הופך אותו לשער עיתון מעוצב שמתאים לכיתה. כותרת ראשית, ידיעות קצרות ותמונות שממחישות את הנושא. הנה דוגמה שיצרתי על שרשרת מזון 🌿\n\nאפשר לשנות את קהל היעד ולהשתמש בחומר שלכן. רק כדאי לעבור על הכיתוב שבתמונה לפני שמדפיסים.\n\nהפרומפט המלא בקישור כאן 👇\n[כאן תדביקי את הקישור]\n\nרעיונות פוגשים בינה | תמר חמאדה",
+   "ts": 1790581283000,
+   "date": "2026-09-28",
+   "time": "10:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E8J-NcHmvNcweUthaq7E8vaPCiNc6kXd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E8J-NcHmvNcweUthaq7E8vaPCiNc6kXd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A536B7E0059F013B80368BC1241A2043",
+   "sender": "תמר חמאדה",
+   "text": "חברים, מילים שעושות קסם 5 ✨\nהפעם: \"העיתון שלא היה\".\n\nמעלים חומר לימוד או מדביקים טקסט, והפרומפט הופך אותו לשער עיתון מעוצב שמתאים לכיתה. כותרת ראשית, ידיעות קצרות ותמונות שממחישות את הנושא. הנה דוגמה שיצרתי על שרשרת מזון 🌿\n\nאפשר לשנות את קהל היעד ולהשתמש בחומר שלכם. רק כדאי לעבור על הכיתוב שבתמונה לפני שמדפיסים.\n\nהפרומפט המלא כאן 👇\nhttps://docs.google.com/document/d/186WDJLGJeg3QEaIKJLkhDtg12xaqJWHFWTNUKR_LyKc/edit?usp=drivesdk\n\nרעיונות פוגשים בינה | תמר חמאדה\n\nלהצטרפות לקהילה",
+   "ts": 1790581473000,
+   "date": "2026-09-28",
+   "time": "10:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Gg1JerI95bG-N47D545rZciea_e-b8Za/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gg1JerI95bG-N47D545rZciea_e-b8Za&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

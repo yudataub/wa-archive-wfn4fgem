@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-09-28T07:38:31.509Z",
+ "updated": "2026-09-28T07:41:01.503Z",
  "messages": [
   {
    "id": "A5DFEDEE2A758F54B9AA98DE6717B713",
@@ -839,6 +839,26 @@
      "path": "https://drive.google.com/file/d/1uLZpn2LxoitxBr6XO8yqUbJS_Nze3cUP/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1uLZpn2LxoitxBr6XO8yqUbJS_Nze3cUP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A527E004D5682B5169DC85C6D16AC4AD",
+   "sender": "אוריאל פדידה",
+   "text": "שימו לב ניתן לקבל את החזר המס במשכורות אוקטובר-דצמבר כמובן אם הקבלות שויכו לפי הת.ז שלכם. *הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1790581236000,
+   "date": "2026-09-28",
+   "time": "10:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "252KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13zkmfIGby9NPVsrWfy6OYb3xLPFGI81j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13zkmfIGby9NPVsrWfy6OYb3xLPFGI81j&sz=w1200"
     }
    ],
    "drive": null,
