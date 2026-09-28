@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-28T17:18:59.907Z",
+ "updated": "2026-09-28T17:30:00.077Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -5925,6 +5925,26 @@
    "date": "2026-09-28",
    "time": "20:18",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A52FDA7006930AC0910E7C9B0C223522",
+   "sender": "י",
+   "text": "*שמחת בית השואבה המרכזית ברכסים: מנכ\"ל המועצה משה אדלר סיים כעת ישיבת היערכות נוספת במשטרת מרחב אשר תחנת קריית אתא, שבסיומה ניתנו האישורים הסופיים לקיום האירוע מחר*\nבאירוע מחר יישמחו מרדכי בן דוד, משה לוק ומנדי וייס בניצוחו של יהודה גלילי עם תזמורת מורחבת.\n\nלכל העדכונים👇",
+   "ts": 1790616569000,
+   "date": "2026-09-28",
+   "time": "20:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rPzpyQcyS4OVJlbJh0FHreU_ra4DFo22/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rPzpyQcyS4OVJlbJh0FHreU_ra4DFo22&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
