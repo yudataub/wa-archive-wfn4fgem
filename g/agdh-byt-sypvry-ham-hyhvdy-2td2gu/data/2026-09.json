@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אגדה - בית סיפורי העם היהודי ",
- "updated": "2026-09-25T14:26:08.559Z",
+ "updated": "2026-09-28T13:55:50.784Z",
  "messages": [
   {
    "id": "3A14BEA3BE40ADD2885C",
@@ -11,6 +11,26 @@
    "date": "2026-09-25",
    "time": "17:26",
    "files": [],
+   "drive": null,
+   "phone": "972505704875"
+  },
+  {
+   "id": "3AA09B009AD90CAD0506",
+   "sender": "שרה בק",
+   "text": "הפטנט המקורי של העגלון והצחוק שצחק הבעל שם טוב(: \nסיפור מתוק לספר בסוכה או על העגלה…😊\n\nhttps://agadah.org.il/?p=1551\nמועדים לשמחה! 🌿🍋\n\nמוזמנים להצטרף לקבוצת הוואטסאפ של אגדה🤗",
+   "ts": 1790603727000,
+   "date": "2026-09-28",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "315KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RIJ5CA5hilljOr5bHC2OohT4Q6_TWpZq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RIJ5CA5hilljOr5bHC2OohT4Q6_TWpZq&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972505704875"
   }

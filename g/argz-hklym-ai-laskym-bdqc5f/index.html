@@ -247,8 +247,7 @@ function fileHtml(f){
    '<a class="drv" href="'+href+'" target="_blank" rel="noopener" title="פתיחה בדרייב">דרייב ↗</a></span>';}
  return '<a class="file" href="'+href+'" target="_blank" rel="noopener">'+
   esc(f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>";}
-function isHtmlFile(f){return f.type==="text/html"||/\.x?html?$/i.test(f.name||"");}
-function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
+function isHtmlFile(f){return f.type==="text/html"||/\.x?html?$/i.test(f.name||"");}function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
  '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
 function render(){
  var list=all.filter(function(m){return !deletedIds[m.id];});
