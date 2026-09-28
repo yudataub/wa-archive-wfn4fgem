@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "המחשות לדף היומי",
- "updated": "2026-09-27T04:55:53.373Z",
+ "updated": "2026-09-28T03:38:52.112Z",
  "messages": [
   {
    "id": "3AC81B24D8449A30EA23",
@@ -1264,6 +1264,46 @@
      "path": "https://drive.google.com/file/d/1SHJV5PzbzdwjqZMC9_uDv5vdb8Vnc1G4/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1SHJV5PzbzdwjqZMC9_uDv5vdb8Vnc1G4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF959CC90D62BED7301",
+   "sender": ".",
+   "text": "״וקוברו״ (בכורות י, ב).",
+   "ts": 1790566698000,
+   "date": "2026-09-28",
+   "time": "06:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "126KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VqJDz2ZbfzcwyW3A0ZzFIT7P_6GXMpcG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VqJDz2ZbfzcwyW3A0ZzFIT7P_6GXMpcG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AAF06ABC42980147A8C",
+   "sender": ".",
+   "text": "״ולאחר מיתה אינו שוה אלא דינר להאכיל לכלבו״ (רש״י בכורות י, ב).",
+   "ts": 1790566699000,
+   "date": "2026-09-28",
+   "time": "06:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1awocDMOvPdqRYUzylO7socq1H-YRsTf_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1awocDMOvPdqRYUzylO7socq1H-YRsTf_&sz=w1200"
     }
    ],
    "drive": null,
