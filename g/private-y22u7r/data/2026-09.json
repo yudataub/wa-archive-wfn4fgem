@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T15:07:06.623Z",
+ "updated": "2026-09-28T15:16:36.763Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32826,6 +32826,37 @@
    "drive": null,
    "thread": "kipnis adi",
    "phone": "972526024650"
+  },
+  {
+   "id": "A52984AF54F23ECAE8558E01E6291C97",
+   "sender": "כשהלב מתרחב השינוי מתקרב",
+   "text": "היי וברכה 🌻 \nאיך מגיעים לאתר הזה?",
+   "ts": 1790608422000,
+   "date": "2026-09-28",
+   "time": "18:13",
+   "files": [],
+   "drive": null,
+   "thread": "כשהלב מתרחב השינוי מתקרב",
+   "phone": "972505800809"
+  },
+  {
+   "id": "A50FA9D0B9E35C41293522D439F72593",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790608592000,
+   "date": "2026-09-28",
+   "time": "18:16",
+   "files": [
+    {
+     "name": "מרכז המשחקים - חג הסוכות.html",
+     "size": "13KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1Jzk8uuE4wRifqpzUENZoclQfAtly3eMp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

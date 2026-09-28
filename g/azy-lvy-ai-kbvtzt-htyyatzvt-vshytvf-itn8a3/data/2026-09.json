@@ -1,1 +1,642 @@
-{"month":"2026-09","group":"עזי לוי - AI - קבוצת התייעצות ושיתוף","updated":"2026-09-27T07:09:18.962Z","messages":[{"id":"3EB0D85FD9F070CE2D2951","sender":"Ezy Levy","text":"","ts":1788453873000,"date":"2026-09-03","time":"19:44","files":[{"name":"IMG-20260903-WA0019.jpg","size":"86KB","type":"image/jpeg","path":"https://drive.google.com/file/d/1Y1DiOQzU10J5BpJYqx3JEl0hrkvlIT8W/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1Y1DiOQzU10J5BpJYqx3JEl0hrkvlIT8W&sz=w1200"}],"drive":null,"phone":"972544266802"},{"id":"3EB0281DDF470247A21B12","sender":"Ezy Levy","text":"היי חברים, הרבה זמן לא הייתי מעורב כאן.  \nאני גם סוחב התמכרות קשה לקלוד, וכדי לגוון עושה לאחרונה קצת שטויות בקודקס ובאנטי־גרביטי. בקרוב אשתף ואספר על הכול.  \nלפני כשבועיים בניתי פרויקט קטן לשימוש פנימי במחשב — לקח בערך 5–6 דקות להגיע לגרסה ראשונית. זו אפליקציה שעוזרת לי לשמור סרטונים שאני רשאי להשתמש בהם ממספר פלטפורמות חברתיות. אני נעזר לעיתים בסרטונים בהרצאות ובסדנאות, והכלי הזה מאוד מקל עליי.  \nבשלב הזה החלטתי לא להפיץ את האפליקציה עצמה, כדי לא להיכנס לסוגיות של זכויות יוצרים ותנאי השימוש של הפלטפורמות. במקום זאת, אני משתף את הפרומפט שממנו התחלתי בקודקס:\n“Build a simple desktop application with a GUI that accepts a URL to a publicly accessible video from platforms such as YouTube, LinkedIn, Instagram, X, Threads, TikTok, and Facebook, and saves content that the user owns or is authorized to download as an MP4 file in a selected folder. Where legally permitted, allow extracting the audio as MP3. The application must not bypass DRM, authentication, paywalls, private-content restrictions, or other access cont","ts":1788453874000,"date":"2026-09-03","time":"19:44","files":[],"drive":null,"phone":"972544266802"},{"id":"3EB04C1110C7187C85EA28","sender":"0528189921","text":"לתמלול הקלטות בעברית\nיש לי מעל 10 שעות הקלטות \nמה הכי מומלץ?","ts":1788703560000,"date":"2026-09-06","time":"17:06","files":[],"drive":null,"phone":"972528189921"},{"id":"3EB02BAF94E6F97569E2AE","sender":"0528189921","text":"והכי מאובטח","ts":1788703562000,"date":"2026-09-06","time":"17:06","files":[],"drive":null,"phone":"972528189921"},{"id":"AC8302A872CB3DA25C7AA7805125EF8F","sender":"Nadav","text":"לא יודע מה להגיד על מאובטח אבל שווה לנסות את notebook lm או איך שהם לא קוראים לזה היום...","ts":1788703653000,"date":"2026-09-06","time":"17:07","files":[],"drive":null,"phone":"972525802441"},{"id":"3B4E4FBC9540124D463C","sender":"Evyatar Shpilman","text":"הכי מאובטח, לעשות בעצמך","ts":1788703657000,"date":"2026-09-06","time":"17:07","files":[],"drive":null,"phone":"972547620744"},{"id":"3EB0C7F1C320D49488B5CA","sender":"0528189921","text":"הבעיה שהוא לא מחלק בין דוברים","ts":1788703737000,"date":"2026-09-06","time":"17:08","files":[],"drive":null,"phone":"972528189921"},{"id":"3EB03A123BAAAE9C225979","sender":"Ezy Levy","text":"האם 10 השעות הן הקלטה אחת או אוסף של הקלטות ?","ts":1788705577000,"date":"2026-09-06","time":"17:39","files":[],"drive":null,"phone":"972544266802"},{"id":"3EB0C1CE406BAFD7C6CF0A","sender":"0528189921","text":"אוסף של הקלטות \nמחולק ל19 הקלטות","ts":1788705700000,"date":"2026-09-06","time":"17:41","files":[],"drive":null,"phone":"972528189921"},{"id":"3EB080E1DDA86785890E41","sender":"0528189921","text":"אפילו בתשלום","ts":1788705716000,"date":"2026-09-06","time":"17:41","files":[],"drive":null,"phone":"972528189921"},{"id":"3EB06D6A93AEB639B220C9","sender":"Ezy Levy","text":"https://www.ezylevy.com/aitools\nיש פה  כל מיני אפליקציות תמלול - תנסה, לדעתי תמללי הייתה טובה בפעם האחרונה שהתנסיתי","ts":1788706351000,"date":"2026-09-06","time":"17:52","files":[],"drive":null,"phone":"972544266802"},{"id":"3AC99ED36D7472007340","sender":"0525574607","text":"https://www.ivrit.ai/he/174-2/","ts":1788706577000,"date":"2026-09-06","time":"17:56","files":[],"drive":null,"phone":"972525574607"},{"id":"3AD5AE11C6B59FAEB435","sender":"0525574607","text":"הכי מוצלח ממה שיצא לי לבדוק","ts":1788706591000,"date":"2026-09-06","time":"17:56","files":[],"drive":null,"phone":"972525574607"},{"id":"3EB077669296162DDCFC0A","sender":"Ezy Levy","text":"טוב , אתם יודעים שאני לא נוטה להתפעל ממודלים חדשים\nאבל למי שמעניין אותו  אז השבוע הזה היה עמוס בכמות ההשקות. תוך פחות משבוע יצאו שלושה עדכונים משמעותיים, אחד מ-Anthropic, אחד מ-OpenAI ואחד מ-X. בואו נעבור על כל אחד בקצרה, כי יש כאן גם שדרוגי מודל אמיתיים ועוד יותר מזה.\n\nראשית, קלוד. *Anthropic שחררו את Fable 5.1* - שיחקתי איתו קצת והוא באמת חזק ומדוייק.\nלפי הבנצ'מארקים של החברה הוא עוקף את Fable 5, את Opus 5 ואפילו את GPT-5.6 Sol של OpenAI.\nונתון מעניין הוא המחיר: כ-25 אחוז זול יותר מ-Fable 5 בעבודה רגילה.\n\nשנית, *OpenAI. הם השיקו את GPT-6 Astra* , וגרג ברוקמן, נשיא החברה, קרא לזה \"קפיצה של דור\" ואמר שבעתיד אולי יראו בזה את תחילת ה-AGI. משפט גדול, אבל בפועל מדובר במודל שמוביל בשימוש במחשב, גלישה, תכנות, מדע ועבודה מקצועית. הוא מפעיל תוכנות, בודק מסכים, בונה אתרים, מייצר מסמכים, מריץ בדיקות QA, מנתח נתונים מדעיים ואפילו יודע לבנות מודלים ובקיצור חגיגה אמיתית.\n\nשלישית,  *Grok Bot* הוא לא מודל בסיס חדש, הוא *מוצר סוכן שפועל על המחשב בשבילכם* : אפשר לפתוח באמצעותו כמות בוטים בקלות. לכל Bot יש מחשב ענן משלו, הוא מתחבר לכלים שאתם כבר משתמשים בהם, עובד 24/7 וחוזר אליכם רק כשהוא צריך אישור.\nהסתייגות שחשוב לציין: הגישה דורשת מנוי לא זול בכלל,וגם הוא ב-BETA , אז שווה לקחת את זה בפרופורציה, למרות ששמעתי שהוא כל כך אינטאיטיבי שזה כואב.\nהשבוע אני מתכוון להתנסות בגרוק-בוט אז אדע יותר ואשתף.\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.","ts":1788722025000,"date":"2026-09-06","time":"22:13","files":[{"name":"IMG-20260906-WA0031.jpg","size":"262KB","type":"image/jpeg","path":"https://drive.google.com/file/d/166sFes5hgEp4Tsv07WQ335J5x0e3BuCz/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=166sFes5hgEp4Tsv07WQ335J5x0e3BuCz&sz=w1200"}],"drive":null,"phone":"972544266802"},{"id":"2AB0F7D837994AB0DFB1","sender":"0528189921","text":"השאלה כמה הוא מאובטח ?","ts":1788722188000,"date":"2026-09-06","time":"22:16","files":[],"drive":null,"phone":"972528189921"},{"id":"3EB01E045886BE312B76","sender":"0522603831","text":"המודל התבלבל בשיוך האייקונים למודלים הנכונים - ובזה מותר האדם מהבינה, זה לא סתם סיסמה","ts":1788722377000,"date":"2026-09-06","time":"22:19","files":[],"drive":null,"phone":"972522603831"},{"id":"AC6BC06F30812A9C0B0C60A77C997DFE","sender":"0523578697","text":"Turboscribe","ts":1788722573000,"date":"2026-09-06","time":"22:22","files":[],"drive":null,"phone":"972523578697"},{"id":"3EB0CE55DC4A81756291F7","sender":"Ezy Levy","text":"נתתי לו דרור :)","ts":1788723991000,"date":"2026-09-06","time":"22:46","files":[],"drive":null,"phone":"972544266802"},{"id":"3EB07CEEFAC702AB02B3F8","sender":"Ezy Levy","text":"זה קטע מגניב אז אני חולק אותו אתכם\nב GPT עשו שילוב  בין ASTRA6 למודול של SITES, ופתאום יש אפשרות ליצור בתוך אותם כלים גם דמויות וגם יצירות בתלת מימד.\nהמודול של SITES בכלל מגניב בלי שום קשר לזה, הוא מאפשר ליצור אתרים שלמים ולפרסם אותם בדקות. אעשה על זה פוסט נפרד.\n\nבקשר ל- 3D\nאם רציתם דמות שמלווה פרויקט, אווטאר לסייט שאתם בונים, או אלמנט תלת מימדי להצגה\nאפשר לבנות את זה בתוך אותה סביבת עבודה שכבר משלבת טקסט ותמונה, והפעם גם תלת מימדי.\n\nהנה דוגמא לאיך עובד מנוע בנזין במודל תלת מימד אנימטיבי.\nhttps://engine-cutaway-lab.ezyle.chatgpt.site\nאיך עושים:\nב-GPT בוחרים במודל  ASTRA6 וב - SITES, עושים את זה לפני הפרומפט (SITES@)\nוכותבים את הפרומפט שלכם.\nתבלו\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.","ts":1789023684000,"date":"2026-09-10","time":"10:01","files":[{"name":"IMG-20260910-WA0011.jpg","size":"105KB","type":"image/jpeg","path":"https://drive.google.com/file/d/1GRpx4-FbYSMsHf5Q1HKK1LyGouOZBbm_/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1GRpx4-FbYSMsHf5Q1HKK1LyGouOZBbm_&sz=w1200"}],"drive":null,"phone":"972544266802"},{"id":"3EB0C148392C93D1E18164","sender":"Ezy Levy","text":"הפרומפט שנתתי היה פשוט וקצר באורך של שורה אחת\nוהניסוי הבא יהיה לעשות דמות אמיתית לפי תמונה ולהפוך למודל הדפסה תלת מימד - אעדכן","ts":1789023739000,"date":"2026-09-10","time":"10:02","files":[],"drive":null,"phone":"972544266802"},{"id":"AC03EC786201693DB062D9FBD0BEA0B3","sender":"Nadav","text":"","ts":1789891688000,"date":"2026-09-20","time":"11:08","files":[{"name":"IMG-20260920-WA0026.jpg","size":"42KB","type":"image/jpeg","path":"https://drive.google.com/file/d/1oCpB8lWbkS0ro4tXDLRIzLmJPGZ5ipoz/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1oCpB8lWbkS0ro4tXDLRIzLmJPGZ5ipoz&sz=w1200"}],"drive":null,"phone":"972525802441"},{"id":"ACC86192AC20614C969E2CAF633B22FD","sender":"Nadav","text":"השבוע עבדתי עם קלוד על מסך ששולט על הרכבים שלנו, מציג לוח שנה, שולט על שואב אבק רובוטי ועוד. במהלך העבודה, קלוד חרג מסמכותו והפעיל את השואב אבק הרובוטי תוך כדי סדרת הבדיקות. אתמול הוא חתם את העבודה שלו ב\"גמר חתימה טובה\".","ts":1789891689000,"date":"2026-09-20","time":"11:08","files":[],"drive":null,"phone":"972525802441"},{"id":"AC61DA02B3C41F8CFB3FA5B5E1898368","sender":"Nadav","text":"תקשיבו, יכול להיות שאתם יודעים את זה מזמן - לא ידעתי: \n\nיש לי  משימה לקלוד שברור לי שהוא ישרוף את כל הטוקנים של ה 5 שעות הקרובות ואז יתקע. \n\nאני מחלק את המשימה למנות קטנות, מבקש ממנו לעשות 10 מנות בכל 5 שעות. הוא שם לעצמו תזכורת (routine) ומתחיל במשימה. ככה הוא גם לא נתקע, גם עובד בלילה עצמאית, גם משאיר לי בכל רגע נתון חצי ממכסת הטוקנים שלי כדי שאוכל להמשיך לעבוד ולהתקדם בפרויקטים אחרים. אגב, זה גמיש - אפשר לומר לו - תעשה עכשיו 15 ואחר כך כל 5 שעות 10 ובלילה - אחרי 23 - תעשה גם 15.","ts":1790087905000,"date":"2026-09-22","time":"17:38","files":[],"drive":null,"phone":"972525802441"},{"id":"3EB0D550534F8964C13E1E","sender":"Ezy Levy","text":"מעולה נדב, זה טוב שאתה מזכיר את זה.\n\nהייתי צריך להעלות 66 סרטונים ליוטיוב, אבל מכיוון שיש הגבלה יומית על העלאה אוטומטית, ביקשתי מקלוד שיעלה את כולם לתיקיה מסויימת בחשבון שלי,\nאז הוא חילק את העבודה ל-9 ימים ובכל יום ב12:05 בלילה הוא חזר למשימה עד שסיים.\nכך שהוא יכול לקבל גם הוראות למשימה מתמשכת , גם חזרתיות וגם לשמור על קוהרנתיות.\n\nעכשיו מסקרן אותי מאוד מה המשימה שנתת לו.","ts":1790089177000,"date":"2026-09-22","time":"17:59","files":[],"drive":null,"phone":"972544266802"},{"id":"ACB5EC2C50E32C3673B761D5A98DF6BC","sender":"Nadav","text":"https://geniza.co.il/\n\nנראה לי שזה הפרויקט הראשון שלי עם קלוד קוד, הבסיס נבנה בלילה אחד ואז מקצה שיפורים וכו', פיצ'רים שונים ועוד. \nאבל אז ראיתי שלא הייתי מספיק מדויק בפרומפט הראשון - קלוד היה אמור לקחת כ 36,000 תקצירים באנגלית ולתרגם אותם לעברית. חלק מהתקצירים הוא קיצר ולא תרגם תרגום מלא. \nקלוד קוד ניתח את הפערים בין העברית לאנגלית וקבע תוכנית עבודה במקומות שפער המילים היה גבוה במיוחד ובחלוקה להמון המון משימות סגרנו לאט לאט את היעד - בכל פעם שנזכרתי בזה והיה לי תקציב טוקנים. עד הפעם האחרונה שהכנסתי אותו לעבוד על ה routine ואז סגרנו את הפער בכמה יממות בלי שהרגשתי כלום...","ts":1790089601000,"date":"2026-09-22","time":"18:06","files":[],"drive":null,"phone":"972525802441"},{"id":"3EB04120CB0A28E9BC5C9D","sender":"Ezy Levy","text":"אוו-ווה  בהצלחה עם זה. :)","ts":1790089936000,"date":"2026-09-22","time":"18:12","files":[],"drive":null,"phone":"972544266802"},{"id":"ACEE9C857499EE88286DB4B5970E7A9F","sender":"ערן","text":"מעניין וחשוב מאוד 🙏🏽","ts":1790089951000,"date":"2026-09-22","time":"18:12","files":[],"drive":null,"phone":"972502356464"},{"id":"AC5AAE4E6A8C4700D9CA21453EC80D67","sender":"ערן","text":"האם אפשר ליצור דבר כזה מעמיק ומקיף על היישוב הישן בארץ ישראל (ירושלים, חברון, צפת, טבריה) @163539654291682","ts":1790090004000,"date":"2026-09-22","time":"18:13","files":[],"drive":null,"phone":"972502356464"},{"id":"AC7CCEDD06A939E16CF5CCFE9BDAAC7A","sender":"ערן","text":"האם אפשר ליצור דבר כזה מעמיק ומקיף על היישוב הישן בארץ ישראל (ירושלים, חברון, צפת, טבריה)","ts":1790090004000,"date":"2026-09-22","time":"18:13","files":[],"drive":null,"phone":"972502356464"},{"id":"AC8E2D64105EAA7BF3B885C86E048C23","sender":"Nadav","text":"צריך לראות מה בסיס הנתונים וכמובן לראות שלא פוגעים בזכויות יוצרים..","ts":1790090482000,"date":"2026-09-22","time":"18:21","files":[],"drive":null,"phone":"972525802441"},{"id":"AC0326D2285991739EF677BF51BC8C4C","sender":"ערן","text":"אני מחפש המלצות לאתרים/כלים בינה מלאכותית ליצור סרטונים קצרים 10-30 שניות *חינם*🙏🏽","ts":1790161720000,"date":"2026-09-23","time":"14:08","files":[],"drive":null,"phone":"972502356464"},{"id":"AC6CEC23C5CF8050FBFC58DDCDF9268E","sender":"הדס רכלבסקי","text":"Vids \nשל גוגל","ts":1790161802000,"date":"2026-09-23","time":"14:10","files":[],"drive":null,"phone":"972523333169"},{"id":"ACF93ED730C2FA6A6F1F92C1A5393796","sender":"ערן","text":"על מה לוחצים כאן כדי לשגר את הבקשה שלי","ts":1790162366000,"date":"2026-09-23","time":"14:19","files":[{"name":"תמונה.jpg","size":"206KB","type":"image/jpeg","path":"https://drive.google.com/file/d/1tecN4FTwsHOZ8WgSR2QoP1-5iiB7K3KI/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1tecN4FTwsHOZ8WgSR2QoP1-5iiB7K3KI&sz=w1200"}],"drive":null,"phone":"972502356464"},{"id":"ACCE69BE8D8C4B151A5B3BDBDE52AF5C","sender":"ערן","text":"מה כמות הקרדיטים שיש לנו להשתמש בהם לאורך היום","ts":1790162420000,"date":"2026-09-23","time":"14:20","files":[],"drive":null,"phone":"972502356464"},{"id":"ACB4D3208224CC9EC141FBAC30155DDB","sender":"הדס רכלבסקי","text":"אני לא יודעת\nצריך לבדוק","ts":1790162787000,"date":"2026-09-23","time":"14:26","files":[],"drive":null,"phone":"972523333169"},{"id":"AC058998E5EF62C18F74CE65C09168A8","sender":"ערן","text":"תודה הדס","ts":1790162845000,"date":"2026-09-23","time":"14:27","files":[],"drive":null,"phone":"972502356464"},{"id":"3EB0687519D1ED68AE63CA","sender":"Ezy Levy","text":"גם בFLOW יש לך כמות מסויימת בחינם\nואם אתה מנוי בג'מיני יש כמות יחסית גדולה","ts":1790164794000,"date":"2026-09-23","time":"14:59","files":[],"drive":null,"phone":"972544266802"},{"id":"3EB0A9DF2BA1040AE8BC85","sender":"ערן","text":"לא מנוי","ts":1790164842000,"date":"2026-09-23","time":"15:00","files":[],"drive":null,"phone":"972502356464"},{"id":"3EB060E88A1C2FE181B3B7","sender":"ערן","text":"תודה","ts":1790164843000,"date":"2026-09-23","time":"15:00","files":[],"drive":null,"phone":"972502356464"},{"id":"3EB023C186F4766A501A73","sender":"ערן","text":"התחלתי ליצור עם הילד שלי פרוייקט חדש LegoBall דרך סרטונים קצרים אנחנו מראים את התקצירים וקבוצות בליגה הספרדית :)","ts":1790164917000,"date":"2026-09-23","time":"15:01","files":[{"name":"וידאו.mp4","size":"7.4MB","type":"video/mp4","path":"https://drive.google.com/file/d/1X_3icTBrZCSJeKL2wxEjkem-rP9E3LED/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1X_3icTBrZCSJeKL2wxEjkem-rP9E3LED&sz=w1200","mirror":"https://yudataub.github.io/wa-vid-azy-lvy-ai-kbvtzt-htyyatzvt-vshytvf-itn8a3/v/2026-09/3EB023C186F4766A501A73_0.mp4"}],"drive":null,"phone":"972502356464"},{"id":"3EB0499CB4640002B83EEC","sender":"ערן","text":"מרגיש לי שאני מתחיל להתמכר לאתר הזה","ts":1790164941000,"date":"2026-09-23","time":"15:02","files":[],"drive":null,"phone":"972502356464"},{"id":"AC3EDB01126087CE31C56CF46E3452C4","sender":"Nadav","text":"יפה!! באיזה כלי?","ts":1790165188000,"date":"2026-09-23","time":"15:06","files":[],"drive":null,"phone":"972525802441"},{"id":"3EB0D8F3761E1C33A71EB1","sender":"ערן","text":"google vids","ts":1790165203000,"date":"2026-09-23","time":"15:06","files":[],"drive":null,"phone":"972502356464"},{"id":"3EB05F12D6818D431C64BA","sender":"ערן","text":"אני ברמת מתחילים :)","ts":1790165209000,"date":"2026-09-23","time":"15:06","files":[],"drive":null,"phone":"972502356464"},{"id":"ACD0785C249301BAB9C59F4E6EA1EC67","sender":"Nadav","text":"💪","ts":1790166038000,"date":"2026-09-23","time":"15:20","files":[],"drive":null,"phone":"972525802441"},{"id":"3EB05068A2C957C59C1144","sender":"ערן","text":"תודה חבר","ts":1790166105000,"date":"2026-09-23","time":"15:21","files":[],"drive":null,"phone":"972502356464"},{"id":"3EB0D4F3719B3D35B23A10","sender":"ערן","text":"את זה יצרנו עם google flow","ts":1790166626000,"date":"2026-09-23","time":"15:30","files":[{"name":"וידאו.mp4","size":"7.3MB","type":"video/mp4","path":"https://drive.google.com/file/d/1_rRs-iIcb_iMeDJXofK-fHH6ATZPs2TF/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1_rRs-iIcb_iMeDJXofK-fHH6ATZPs2TF&sz=w1200","mirror":"https://yudataub.github.io/wa-vid-azy-lvy-ai-kbvtzt-htyyatzvt-vshytvf-itn8a3/v/2026-09/3EB0D4F3719B3D35B23A10_0.mp4"}],"drive":null,"phone":"972502356464"},{"id":"3EB059A9D6618B5E93168F","sender":"ערן","text":"מעניין להשוות בין התוצרים של כל כלי עם התלמידים שלנו","ts":1790166666000,"date":"2026-09-23","time":"15:31","files":[],"drive":null,"phone":"972502356464"},{"id":"A5DCE07FA1109F70D9D6A68DBFD09A38","sender":"Ezy Levy","text":"מקסים","ts":1790167715000,"date":"2026-09-23","time":"15:48","files":[],"drive":null,"phone":"972544266802"}]}
+{
+ "month": "2026-09",
+ "group": "עזי לוי - AI - קבוצת התייעצות ושיתוף",
+ "updated": "2026-09-28T15:10:23.683Z",
+ "messages": [
+  {
+   "id": "3EB0D85FD9F070CE2D2951",
+   "sender": "Ezy Levy",
+   "text": "",
+   "ts": 1788453873000,
+   "date": "2026-09-03",
+   "time": "19:44",
+   "files": [
+    {
+     "name": "IMG-20260903-WA0019.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Y1DiOQzU10J5BpJYqx3JEl0hrkvlIT8W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Y1DiOQzU10J5BpJYqx3JEl0hrkvlIT8W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0281DDF470247A21B12",
+   "sender": "Ezy Levy",
+   "text": "היי חברים, הרבה זמן לא הייתי מעורב כאן.  \nאני גם סוחב התמכרות קשה לקלוד, וכדי לגוון עושה לאחרונה קצת שטויות בקודקס ובאנטי־גרביטי. בקרוב אשתף ואספר על הכול.  \nלפני כשבועיים בניתי פרויקט קטן לשימוש פנימי במחשב — לקח בערך 5–6 דקות להגיע לגרסה ראשונית. זו אפליקציה שעוזרת לי לשמור סרטונים שאני רשאי להשתמש בהם ממספר פלטפורמות חברתיות. אני נעזר לעיתים בסרטונים בהרצאות ובסדנאות, והכלי הזה מאוד מקל עליי.  \nבשלב הזה החלטתי לא להפיץ את האפליקציה עצמה, כדי לא להיכנס לסוגיות של זכויות יוצרים ותנאי השימוש של הפלטפורמות. במקום זאת, אני משתף את הפרומפט שממנו התחלתי בקודקס:\n“Build a simple desktop application with a GUI that accepts a URL to a publicly accessible video from platforms such as YouTube, LinkedIn, Instagram, X, Threads, TikTok, and Facebook, and saves content that the user owns or is authorized to download as an MP4 file in a selected folder. Where legally permitted, allow extracting the audio as MP3. The application must not bypass DRM, authentication, paywalls, private-content restrictions, or other access cont",
+   "ts": 1788453874000,
+   "date": "2026-09-03",
+   "time": "19:44",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB04C1110C7187C85EA28",
+   "sender": "0528189921",
+   "text": "לתמלול הקלטות בעברית\nיש לי מעל 10 שעות הקלטות \nמה הכי מומלץ?",
+   "ts": 1788703560000,
+   "date": "2026-09-06",
+   "time": "17:06",
+   "files": [],
+   "drive": null,
+   "phone": "972528189921"
+  },
+  {
+   "id": "3EB02BAF94E6F97569E2AE",
+   "sender": "0528189921",
+   "text": "והכי מאובטח",
+   "ts": 1788703562000,
+   "date": "2026-09-06",
+   "time": "17:06",
+   "files": [],
+   "drive": null,
+   "phone": "972528189921"
+  },
+  {
+   "id": "AC8302A872CB3DA25C7AA7805125EF8F",
+   "sender": "Nadav",
+   "text": "לא יודע מה להגיד על מאובטח אבל שווה לנסות את notebook lm או איך שהם לא קוראים לזה היום...",
+   "ts": 1788703653000,
+   "date": "2026-09-06",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "3B4E4FBC9540124D463C",
+   "sender": "Evyatar Shpilman",
+   "text": "הכי מאובטח, לעשות בעצמך",
+   "ts": 1788703657000,
+   "date": "2026-09-06",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "3EB0C7F1C320D49488B5CA",
+   "sender": "0528189921",
+   "text": "הבעיה שהוא לא מחלק בין דוברים",
+   "ts": 1788703737000,
+   "date": "2026-09-06",
+   "time": "17:08",
+   "files": [],
+   "drive": null,
+   "phone": "972528189921"
+  },
+  {
+   "id": "3EB03A123BAAAE9C225979",
+   "sender": "Ezy Levy",
+   "text": "האם 10 השעות הן הקלטה אחת או אוסף של הקלטות ?",
+   "ts": 1788705577000,
+   "date": "2026-09-06",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0C1CE406BAFD7C6CF0A",
+   "sender": "0528189921",
+   "text": "אוסף של הקלטות \nמחולק ל19 הקלטות",
+   "ts": 1788705700000,
+   "date": "2026-09-06",
+   "time": "17:41",
+   "files": [],
+   "drive": null,
+   "phone": "972528189921"
+  },
+  {
+   "id": "3EB080E1DDA86785890E41",
+   "sender": "0528189921",
+   "text": "אפילו בתשלום",
+   "ts": 1788705716000,
+   "date": "2026-09-06",
+   "time": "17:41",
+   "files": [],
+   "drive": null,
+   "phone": "972528189921"
+  },
+  {
+   "id": "3EB06D6A93AEB639B220C9",
+   "sender": "Ezy Levy",
+   "text": "https://www.ezylevy.com/aitools\nיש פה  כל מיני אפליקציות תמלול - תנסה, לדעתי תמללי הייתה טובה בפעם האחרונה שהתנסיתי",
+   "ts": 1788706351000,
+   "date": "2026-09-06",
+   "time": "17:52",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3AC99ED36D7472007340",
+   "sender": "0525574607",
+   "text": "https://www.ivrit.ai/he/174-2/",
+   "ts": 1788706577000,
+   "date": "2026-09-06",
+   "time": "17:56",
+   "files": [],
+   "drive": null,
+   "phone": "972525574607"
+  },
+  {
+   "id": "3AD5AE11C6B59FAEB435",
+   "sender": "0525574607",
+   "text": "הכי מוצלח ממה שיצא לי לבדוק",
+   "ts": 1788706591000,
+   "date": "2026-09-06",
+   "time": "17:56",
+   "files": [],
+   "drive": null,
+   "phone": "972525574607"
+  },
+  {
+   "id": "3EB077669296162DDCFC0A",
+   "sender": "Ezy Levy",
+   "text": "טוב , אתם יודעים שאני לא נוטה להתפעל ממודלים חדשים\nאבל למי שמעניין אותו  אז השבוע הזה היה עמוס בכמות ההשקות. תוך פחות משבוע יצאו שלושה עדכונים משמעותיים, אחד מ-Anthropic, אחד מ-OpenAI ואחד מ-X. בואו נעבור על כל אחד בקצרה, כי יש כאן גם שדרוגי מודל אמיתיים ועוד יותר מזה.\n\nראשית, קלוד. *Anthropic שחררו את Fable 5.1* - שיחקתי איתו קצת והוא באמת חזק ומדוייק.\nלפי הבנצ'מארקים של החברה הוא עוקף את Fable 5, את Opus 5 ואפילו את GPT-5.6 Sol של OpenAI.\nונתון מעניין הוא המחיר: כ-25 אחוז זול יותר מ-Fable 5 בעבודה רגילה.\n\nשנית, *OpenAI. הם השיקו את GPT-6 Astra* , וגרג ברוקמן, נשיא החברה, קרא לזה \"קפיצה של דור\" ואמר שבעתיד אולי יראו בזה את תחילת ה-AGI. משפט גדול, אבל בפועל מדובר במודל שמוביל בשימוש במחשב, גלישה, תכנות, מדע ועבודה מקצועית. הוא מפעיל תוכנות, בודק מסכים, בונה אתרים, מייצר מסמכים, מריץ בדיקות QA, מנתח נתונים מדעיים ואפילו יודע לבנות מודלים ובקיצור חגיגה אמיתית.\n\nשלישית,  *Grok Bot* הוא לא מודל בסיס חדש, הוא *מוצר סוכן שפועל על המחשב בשבילכם* : אפשר לפתוח באמצעותו כמות בוטים בקלות. לכל Bot יש מחשב ענן משלו, הוא מתחבר לכלים שאתם כבר משתמשים בהם, עובד 24/7 וחוזר אליכם רק כשהוא צריך אישור.\nהסתייגות שחשוב לציין: הגישה דורשת מנוי לא זול בכלל,וגם הוא ב-BETA , אז שווה לקחת את זה בפרופורציה, למרות ששמעתי שהוא כל כך אינטאיטיבי שזה כואב.\nהשבוע אני מתכוון להתנסות בגרוק-בוט אז אדע יותר ואשתף.\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.",
+   "ts": 1788722025000,
+   "date": "2026-09-06",
+   "time": "22:13",
+   "files": [
+    {
+     "name": "IMG-20260906-WA0031.jpg",
+     "size": "262KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/166sFes5hgEp4Tsv07WQ335J5x0e3BuCz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=166sFes5hgEp4Tsv07WQ335J5x0e3BuCz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "2AB0F7D837994AB0DFB1",
+   "sender": "0528189921",
+   "text": "השאלה כמה הוא מאובטח ?",
+   "ts": 1788722188000,
+   "date": "2026-09-06",
+   "time": "22:16",
+   "files": [],
+   "drive": null,
+   "phone": "972528189921"
+  },
+  {
+   "id": "3EB01E045886BE312B76",
+   "sender": "0522603831",
+   "text": "המודל התבלבל בשיוך האייקונים למודלים הנכונים - ובזה מותר האדם מהבינה, זה לא סתם סיסמה",
+   "ts": 1788722377000,
+   "date": "2026-09-06",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972522603831"
+  },
+  {
+   "id": "AC6BC06F30812A9C0B0C60A77C997DFE",
+   "sender": "0523578697",
+   "text": "Turboscribe",
+   "ts": 1788722573000,
+   "date": "2026-09-06",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523578697"
+  },
+  {
+   "id": "3EB0CE55DC4A81756291F7",
+   "sender": "Ezy Levy",
+   "text": "נתתי לו דרור :)",
+   "ts": 1788723991000,
+   "date": "2026-09-06",
+   "time": "22:46",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB07CEEFAC702AB02B3F8",
+   "sender": "Ezy Levy",
+   "text": "זה קטע מגניב אז אני חולק אותו אתכם\nב GPT עשו שילוב  בין ASTRA6 למודול של SITES, ופתאום יש אפשרות ליצור בתוך אותם כלים גם דמויות וגם יצירות בתלת מימד.\nהמודול של SITES בכלל מגניב בלי שום קשר לזה, הוא מאפשר ליצור אתרים שלמים ולפרסם אותם בדקות. אעשה על זה פוסט נפרד.\n\nבקשר ל- 3D\nאם רציתם דמות שמלווה פרויקט, אווטאר לסייט שאתם בונים, או אלמנט תלת מימדי להצגה\nאפשר לבנות את זה בתוך אותה סביבת עבודה שכבר משלבת טקסט ותמונה, והפעם גם תלת מימדי.\n\nהנה דוגמא לאיך עובד מנוע בנזין במודל תלת מימד אנימטיבי.\nhttps://engine-cutaway-lab.ezyle.chatgpt.site\nאיך עושים:\nב-GPT בוחרים במודל  ASTRA6 וב - SITES, עושים את זה לפני הפרומפט (SITES@)\nוכותבים את הפרומפט שלכם.\nתבלו\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.",
+   "ts": 1789023684000,
+   "date": "2026-09-10",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "IMG-20260910-WA0011.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GRpx4-FbYSMsHf5Q1HKK1LyGouOZBbm_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GRpx4-FbYSMsHf5Q1HKK1LyGouOZBbm_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0C148392C93D1E18164",
+   "sender": "Ezy Levy",
+   "text": "הפרומפט שנתתי היה פשוט וקצר באורך של שורה אחת\nוהניסוי הבא יהיה לעשות דמות אמיתית לפי תמונה ולהפוך למודל הדפסה תלת מימד - אעדכן",
+   "ts": 1789023739000,
+   "date": "2026-09-10",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "AC03EC786201693DB062D9FBD0BEA0B3",
+   "sender": "Nadav",
+   "text": "",
+   "ts": 1789891688000,
+   "date": "2026-09-20",
+   "time": "11:08",
+   "files": [
+    {
+     "name": "IMG-20260920-WA0026.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oCpB8lWbkS0ro4tXDLRIzLmJPGZ5ipoz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oCpB8lWbkS0ro4tXDLRIzLmJPGZ5ipoz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "ACC86192AC20614C969E2CAF633B22FD",
+   "sender": "Nadav",
+   "text": "השבוע עבדתי עם קלוד על מסך ששולט על הרכבים שלנו, מציג לוח שנה, שולט על שואב אבק רובוטי ועוד. במהלך העבודה, קלוד חרג מסמכותו והפעיל את השואב אבק הרובוטי תוך כדי סדרת הבדיקות. אתמול הוא חתם את העבודה שלו ב\"גמר חתימה טובה\".",
+   "ts": 1789891689000,
+   "date": "2026-09-20",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "AC61DA02B3C41F8CFB3FA5B5E1898368",
+   "sender": "Nadav",
+   "text": "תקשיבו, יכול להיות שאתם יודעים את זה מזמן - לא ידעתי: \n\nיש לי  משימה לקלוד שברור לי שהוא ישרוף את כל הטוקנים של ה 5 שעות הקרובות ואז יתקע. \n\nאני מחלק את המשימה למנות קטנות, מבקש ממנו לעשות 10 מנות בכל 5 שעות. הוא שם לעצמו תזכורת (routine) ומתחיל במשימה. ככה הוא גם לא נתקע, גם עובד בלילה עצמאית, גם משאיר לי בכל רגע נתון חצי ממכסת הטוקנים שלי כדי שאוכל להמשיך לעבוד ולהתקדם בפרויקטים אחרים. אגב, זה גמיש - אפשר לומר לו - תעשה עכשיו 15 ואחר כך כל 5 שעות 10 ובלילה - אחרי 23 - תעשה גם 15.",
+   "ts": 1790087905000,
+   "date": "2026-09-22",
+   "time": "17:38",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "3EB0D550534F8964C13E1E",
+   "sender": "Ezy Levy",
+   "text": "מעולה נדב, זה טוב שאתה מזכיר את זה.\n\nהייתי צריך להעלות 66 סרטונים ליוטיוב, אבל מכיוון שיש הגבלה יומית על העלאה אוטומטית, ביקשתי מקלוד שיעלה את כולם לתיקיה מסויימת בחשבון שלי,\nאז הוא חילק את העבודה ל-9 ימים ובכל יום ב12:05 בלילה הוא חזר למשימה עד שסיים.\nכך שהוא יכול לקבל גם הוראות למשימה מתמשכת , גם חזרתיות וגם לשמור על קוהרנתיות.\n\nעכשיו מסקרן אותי מאוד מה המשימה שנתת לו.",
+   "ts": 1790089177000,
+   "date": "2026-09-22",
+   "time": "17:59",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "ACB5EC2C50E32C3673B761D5A98DF6BC",
+   "sender": "Nadav",
+   "text": "https://geniza.co.il/\n\nנראה לי שזה הפרויקט הראשון שלי עם קלוד קוד, הבסיס נבנה בלילה אחד ואז מקצה שיפורים וכו', פיצ'רים שונים ועוד. \nאבל אז ראיתי שלא הייתי מספיק מדויק בפרומפט הראשון - קלוד היה אמור לקחת כ 36,000 תקצירים באנגלית ולתרגם אותם לעברית. חלק מהתקצירים הוא קיצר ולא תרגם תרגום מלא. \nקלוד קוד ניתח את הפערים בין העברית לאנגלית וקבע תוכנית עבודה במקומות שפער המילים היה גבוה במיוחד ובחלוקה להמון המון משימות סגרנו לאט לאט את היעד - בכל פעם שנזכרתי בזה והיה לי תקציב טוקנים. עד הפעם האחרונה שהכנסתי אותו לעבוד על ה routine ואז סגרנו את הפער בכמה יממות בלי שהרגשתי כלום...",
+   "ts": 1790089601000,
+   "date": "2026-09-22",
+   "time": "18:06",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "3EB04120CB0A28E9BC5C9D",
+   "sender": "Ezy Levy",
+   "text": "אוו-ווה  בהצלחה עם זה. :)",
+   "ts": 1790089936000,
+   "date": "2026-09-22",
+   "time": "18:12",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "ACEE9C857499EE88286DB4B5970E7A9F",
+   "sender": "ערן",
+   "text": "מעניין וחשוב מאוד 🙏🏽",
+   "ts": 1790089951000,
+   "date": "2026-09-22",
+   "time": "18:12",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "AC5AAE4E6A8C4700D9CA21453EC80D67",
+   "sender": "ערן",
+   "text": "האם אפשר ליצור דבר כזה מעמיק ומקיף על היישוב הישן בארץ ישראל (ירושלים, חברון, צפת, טבריה) @163539654291682",
+   "ts": 1790090004000,
+   "date": "2026-09-22",
+   "time": "18:13",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "AC7CCEDD06A939E16CF5CCFE9BDAAC7A",
+   "sender": "ערן",
+   "text": "האם אפשר ליצור דבר כזה מעמיק ומקיף על היישוב הישן בארץ ישראל (ירושלים, חברון, צפת, טבריה)",
+   "ts": 1790090004000,
+   "date": "2026-09-22",
+   "time": "18:13",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "AC8E2D64105EAA7BF3B885C86E048C23",
+   "sender": "Nadav",
+   "text": "צריך לראות מה בסיס הנתונים וכמובן לראות שלא פוגעים בזכויות יוצרים..",
+   "ts": 1790090482000,
+   "date": "2026-09-22",
+   "time": "18:21",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "AC0326D2285991739EF677BF51BC8C4C",
+   "sender": "ערן",
+   "text": "אני מחפש המלצות לאתרים/כלים בינה מלאכותית ליצור סרטונים קצרים 10-30 שניות *חינם*🙏🏽",
+   "ts": 1790161720000,
+   "date": "2026-09-23",
+   "time": "14:08",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "AC6CEC23C5CF8050FBFC58DDCDF9268E",
+   "sender": "הדס רכלבסקי",
+   "text": "Vids \nשל גוגל",
+   "ts": 1790161802000,
+   "date": "2026-09-23",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523333169"
+  },
+  {
+   "id": "ACF93ED730C2FA6A6F1F92C1A5393796",
+   "sender": "ערן",
+   "text": "על מה לוחצים כאן כדי לשגר את הבקשה שלי",
+   "ts": 1790162366000,
+   "date": "2026-09-23",
+   "time": "14:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tecN4FTwsHOZ8WgSR2QoP1-5iiB7K3KI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tecN4FTwsHOZ8WgSR2QoP1-5iiB7K3KI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "ACCE69BE8D8C4B151A5B3BDBDE52AF5C",
+   "sender": "ערן",
+   "text": "מה כמות הקרדיטים שיש לנו להשתמש בהם לאורך היום",
+   "ts": 1790162420000,
+   "date": "2026-09-23",
+   "time": "14:20",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "ACB4D3208224CC9EC141FBAC30155DDB",
+   "sender": "הדס רכלבסקי",
+   "text": "אני לא יודעת\nצריך לבדוק",
+   "ts": 1790162787000,
+   "date": "2026-09-23",
+   "time": "14:26",
+   "files": [],
+   "drive": null,
+   "phone": "972523333169"
+  },
+  {
+   "id": "AC058998E5EF62C18F74CE65C09168A8",
+   "sender": "ערן",
+   "text": "תודה הדס",
+   "ts": 1790162845000,
+   "date": "2026-09-23",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB0687519D1ED68AE63CA",
+   "sender": "Ezy Levy",
+   "text": "גם בFLOW יש לך כמות מסויימת בחינם\nואם אתה מנוי בג'מיני יש כמות יחסית גדולה",
+   "ts": 1790164794000,
+   "date": "2026-09-23",
+   "time": "14:59",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0A9DF2BA1040AE8BC85",
+   "sender": "ערן",
+   "text": "לא מנוי",
+   "ts": 1790164842000,
+   "date": "2026-09-23",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB060E88A1C2FE181B3B7",
+   "sender": "ערן",
+   "text": "תודה",
+   "ts": 1790164843000,
+   "date": "2026-09-23",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB023C186F4766A501A73",
+   "sender": "ערן",
+   "text": "התחלתי ליצור עם הילד שלי פרוייקט חדש LegoBall דרך סרטונים קצרים אנחנו מראים את התקצירים וקבוצות בליגה הספרדית :)",
+   "ts": 1790164917000,
+   "date": "2026-09-23",
+   "time": "15:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1X_3icTBrZCSJeKL2wxEjkem-rP9E3LED/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X_3icTBrZCSJeKL2wxEjkem-rP9E3LED&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-azy-lvy-ai-kbvtzt-htyyatzvt-vshytvf-itn8a3/v/2026-09/3EB023C186F4766A501A73_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB0499CB4640002B83EEC",
+   "sender": "ערן",
+   "text": "מרגיש לי שאני מתחיל להתמכר לאתר הזה",
+   "ts": 1790164941000,
+   "date": "2026-09-23",
+   "time": "15:02",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "AC3EDB01126087CE31C56CF46E3452C4",
+   "sender": "Nadav",
+   "text": "יפה!! באיזה כלי?",
+   "ts": 1790165188000,
+   "date": "2026-09-23",
+   "time": "15:06",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "3EB0D8F3761E1C33A71EB1",
+   "sender": "ערן",
+   "text": "google vids",
+   "ts": 1790165203000,
+   "date": "2026-09-23",
+   "time": "15:06",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB05F12D6818D431C64BA",
+   "sender": "ערן",
+   "text": "אני ברמת מתחילים :)",
+   "ts": 1790165209000,
+   "date": "2026-09-23",
+   "time": "15:06",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "ACD0785C249301BAB9C59F4E6EA1EC67",
+   "sender": "Nadav",
+   "text": "💪",
+   "ts": 1790166038000,
+   "date": "2026-09-23",
+   "time": "15:20",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "3EB05068A2C957C59C1144",
+   "sender": "ערן",
+   "text": "תודה חבר",
+   "ts": 1790166105000,
+   "date": "2026-09-23",
+   "time": "15:21",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB0D4F3719B3D35B23A10",
+   "sender": "ערן",
+   "text": "את זה יצרנו עם google flow",
+   "ts": 1790166626000,
+   "date": "2026-09-23",
+   "time": "15:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1_rRs-iIcb_iMeDJXofK-fHH6ATZPs2TF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_rRs-iIcb_iMeDJXofK-fHH6ATZPs2TF&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-azy-lvy-ai-kbvtzt-htyyatzvt-vshytvf-itn8a3/v/2026-09/3EB0D4F3719B3D35B23A10_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "3EB059A9D6618B5E93168F",
+   "sender": "ערן",
+   "text": "מעניין להשוות בין התוצרים של כל כלי עם התלמידים שלנו",
+   "ts": 1790166666000,
+   "date": "2026-09-23",
+   "time": "15:31",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "A5DCE07FA1109F70D9D6A68DBFD09A38",
+   "sender": "Ezy Levy",
+   "text": "מקסים",
+   "ts": 1790167715000,
+   "date": "2026-09-23",
+   "time": "15:48",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "A5131CA519A3472A3FBD86B69B5600DD",
+   "sender": "Ezy Levy",
+   "text": "בעקבות ה-motion graphics  שרץ עכשיו  (ואחרי שראיתי פוסט של דנה אקרמן גרין) ניסיתי בעצמי. \nפרומפט אחד על חמש תמונות גנריות שהיו לי בתיקיה. בלי עריכה, הוא בחר וערך הכל.",
+   "ts": 1790608180000,
+   "date": "2026-09-28",
+   "time": "18:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ERPoBnD3gcW3OEJ0GKn4WvUvRN2sbP3v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ERPoBnD3gcW3OEJ0GKn4WvUvRN2sbP3v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "A5CBD75157DA0BD37C61F1EB2E449F52",
+   "sender": "Ezy Levy",
+   "text": "גם לי נפלה הלסת לראות את הדבר הזה, אז החלטתי לנסות בעצמי ( בהיותי חובב הגיון וביטויים - כבר הוצאתי ספר בעבר של 200 פתגמים בהיגיון) ניסיתי את מה שהיא הסבירה בסרטון. ואחרי פרומפט אחד בלבד בלי שום התערבות מצידי קיבלתי את זה.\nאני חייב לומר שהתרשמתי ברמות.\n\nזה הפרומפט( כמעט זהה למה שהיא כתבה )\ntake these photos and  make an amazing motion graphic video from them. matching the ideas in an amazing style and\n  create motion graphics that will blow my mind, show the most awesome capabilities, investigate web for anything that\n  can help you, with music' sounds and browse any library and tiils (you can use opencv, birefnet, lama, GSAP'\n  hyperframes, webgl, free music etc)",
+   "ts": 1790608217000,
+   "date": "2026-09-28",
+   "time": "18:10",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  }
+ ]
+}
