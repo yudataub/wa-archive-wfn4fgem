@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T12:56:43.230Z",
+ "updated": "2026-09-28T12:58:43.274Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -37329,6 +37329,37 @@
    "files": [],
    "drive": null,
    "phone": "972523288448"
+  },
+  {
+   "id": "A5C34194D0F4F4D8BFCDFA91C7374A28",
+   "sender": "חיים לוי יעוץ משכנתאות",
+   "text": "0583296894\nאליהו \nרמה גבוהה",
+   "ts": 1790600278000,
+   "date": "2026-09-28",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "phone": "972537941565"
+  },
+  {
+   "id": "A532209F1D70238E371F6A4BAAF5FF05",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*הקפות שניות שמחת תורה הכי שמחות בעיר*\n\n הציבור היקר מוזמן להקפות שניות בהשתתפות הרב ישי פרי שליט\"א.\n\n על המוזיקה דיג'יי טל רפאל. \n\nמוצ\"ש כ\"ב תשרי תשפ\"ז\n( 3.10.26 למניינם)\nבשעה 20:30 בישיבת החיים לדוד רחוב ההגה 7 חיפה",
+   "ts": 1790600302000,
+   "date": "2026-09-28",
+   "time": "15:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/117ys6q_x1swY--XgdRryIx0HZfsHEctd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=117ys6q_x1swY--XgdRryIx0HZfsHEctd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
   }
  ]
 }

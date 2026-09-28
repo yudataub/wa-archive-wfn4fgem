@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-28T12:12:35.507Z",
+ "updated": "2026-09-28T12:59:13.278Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4959,6 +4959,26 @@
    "files": [],
    "drive": null,
    "phone": "972547200881"
+  },
+  {
+   "id": "A51D8895B0CD89A34026B67C3C8636B5",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*הקפות שניות שמחת תורה הכי שמחות בעיר*\n\n הציבור היקר מוזמן להקפות שניות בהשתתפות הרב ישי פרי שליט\"א.\n\n על המוזיקה דיג'יי טל רפאל. \n\nמוצ\"ש כ\"ב תשרי תשפ\"ז\n( 3.10.26 למניינם)\nבשעה 20:30 בישיבת החיים לדוד רחוב ההגה 7 חיפה",
+   "ts": 1790600323000,
+   "date": "2026-09-28",
+   "time": "15:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eWevP2bgUyaB5_s2-crrIc-cUZQD_Z5S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eWevP2bgUyaB5_s2-crrIc-cUZQD_Z5S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-28T11:47:54.282Z",
+ "updated": "2026-09-28T13:07:37.896Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -366,6 +366,37 @@
    "files": [],
    "drive": null,
    "phone": "972533550719"
+  },
+  {
+   "id": "A550D87440FA6971E425CDB24760E416",
+   "sender": "תמר חמאדה",
+   "text": "חברים, מפגש הקהילה הראשון להשנה  שמרו תאריך! \n\"מתכנון פדגוגי למרחב פיזיטלי:\nבונים חווית למידה חוקרת ב-Genially\"\n\nאיך להפוך תוכן לימודי למרחב אינטראקטיבי שמעורר סקרנות ומעודד למידה עצמאית.\n\nעם מעיין שפושניק\n🗓️ יום ד׳, 14/10/26\n⏰ 20:00-21:15\n\nהמפגש חינמי 🎁 שמרו ביומן והירשמו כאן:\nhttps://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nמחכה לכם 💛\nרעיונות פוגשים בינה\nתמר חמאדה \n\nלהצטרפות לקהילה",
+   "ts": 1790600839000,
+   "date": "2026-09-28",
+   "time": "16:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e_9biVwbgUXLYDOv7ujwVwKcEQtGhdFj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e_9biVwbgUXLYDOv7ujwVwKcEQtGhdFj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A53EFB8CEAD7154BA955F019F39C1591",
+   "sender": "תמר חמאדה",
+   "text": "מקפיצה שוב",
+   "ts": 1790600841000,
+   "date": "2026-09-28",
+   "time": "16:07",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }
