@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T18:53:46.779Z",
+ "updated": "2026-09-28T18:58:46.861Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -38918,6 +38918,26 @@
    ],
    "drive": null,
    "phone": "972525168212"
+  },
+  {
+   "id": "A58BE4FA6E3E4BF06EB7E23F2094FDC6",
+   "sender": "מאיר מוגרבי",
+   "text": "*אנשים יקרים* לפני שאתם מגיבים דברים ונכנסים לויכוחים ומתחילים להגיד כן כשר לא כשר פשוט תקראו את הרצף של ההודעות ותבינו שהתכוונתי לסופר סטופ מרקט ביגור שאלו איזה סופר פתוח וענו סטופ מרקט אני כתבתי ששם לדעתי מוכרים טרף אני לא יודע וזהו זה הכל, מועדים לשמחה",
+   "ts": 1790621916000,
+   "date": "2026-09-28",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "26KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hBY1Qnxt1jd5oCLeCaCV5JITeD1qXinn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hBY1Qnxt1jd5oCLeCaCV5JITeD1qXinn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }
