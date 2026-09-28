@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-28T06:04:00.135Z",
+ "updated": "2026-09-28T06:25:30.434Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7369,6 +7369,26 @@
    ],
    "drive": null,
    "phone": "972523492545"
+  },
+  {
+   "id": "AC3FF82BFCFBBD047F1BDB687073087B",
+   "sender": "מילכה סיבוני",
+   "text": "🚨 אבדה כלבה 🚨\nניצה, כלבה יקרה ואהובה, נעלמה בקריית אתא, באזור קניון כפיר, ברחוב מקור ברוך.\n💜 היא עונדת קולר סגול.\nאנחנו מאוד רוצים למצוא אותה ולהחזיר אותה הביתה 🙏\nאם מישהו ראה אותה, מצא אותה או יודע משהו שיכול לעזור, בבקשה ליצור קשר בהקדם:\n📞 052-6986242\nאנא שתפו כמה שיותר כדי שניצה תחזור הביתה ❤️🐾\nתודה רבה לכל מי שעוזר ומשתף 🙏",
+   "ts": 1790576704000,
+   "date": "2026-09-28",
+   "time": "09:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "134KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LTldmnmKkrURQZ0rExOSNrauJEHrjz-f/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LTldmnmKkrURQZ0rExOSNrauJEHrjz-f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504211463"
   }
  ]
 }
