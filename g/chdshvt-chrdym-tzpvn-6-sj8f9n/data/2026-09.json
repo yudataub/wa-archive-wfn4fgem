@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-28T09:35:44.496Z",
+ "updated": "2026-09-28T12:04:35.364Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -5715,6 +5715,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1Ro1GIgdx4T7a583ey07_NJF9UIy7WzRA&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A51377357CA12BC5342DFF8FDDE541BB",
+   "sender": "י",
+   "text": "*עיריית טירת כרמל מזהירה מהודעה המתחזה לאגף הגביה של העירייה*\n\"בשעות האחרונות מופצת לתושבים הודעת SMS המתחזה להודעה מטעם אגף הגבייה בעירייה ודורשת להסדיר לכאורה חוב באמצעות קישור.\n\nההודעה אינה מטעם עיריית טירת כרמל. אין ללחוץ על הקישור, אין להזין פרטים אישיים או פרטי אשראי ואין לבצע באמצעותו כל תשלום.\n\nלכל העדכונים👇",
+   "ts": 1790597044000,
+   "date": "2026-09-28",
+   "time": "15:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wiEggbdJFvQGYt2GmTxLgvGa0Hb4gKcC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wiEggbdJFvQGYt2GmTxLgvGa0Hb4gKcC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A517D6A181D1613C75D6BC5AEFD32CB3",
+   "sender": "י",
+   "text": "*עומס מבקרים נרשם בגן הלאומי גן השלושה ובשמורת הטבע נחל שניר* \nמרשות הטבע והגנים נמסר כי מומלץ להגיע לאתרי טיול אחרים באזורים הסמוכים.\n\nלכל העדכונים 👇",
+   "ts": 1790597045000,
+   "date": "2026-09-28",
+   "time": "15:04",
+   "files": [],
    "drive": null,
    "phone": "972506064441"
   }

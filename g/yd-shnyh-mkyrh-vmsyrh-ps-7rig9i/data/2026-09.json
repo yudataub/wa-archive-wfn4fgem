@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T11:48:05.116Z",
+ "updated": "2026-09-28T12:03:05.352Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1293,6 +1293,66 @@
    ],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "AC0DBB4BE82F386365AA6A110BC6A582",
+   "sender": "רחלי בן סימון",
+   "text": "למכירה,\nטרמפולינה טייני לאב, משילב\nמצב מעולה 140 ש\"ח \nמקרית מוצקין",
+   "ts": 1790596967000,
+   "date": "2026-09-28",
+   "time": "15:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Rvumwf-5ed08X-xzM_gpRIeRCf_bso62/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Rvumwf-5ed08X-xzM_gpRIeRCf_bso62&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527974222"
+  },
+  {
+   "id": "AC89CBF829316DCCDFEBFA5E3729339C",
+   "sender": "רחלי בן סימון",
+   "text": "למכירה, \nאופניים 14\" , מצב חדש מתאים לגיל 3-4\n300 ש\"ח מקרית מוצקין",
+   "ts": 1790596967000,
+   "date": "2026-09-28",
+   "time": "15:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JDyUXIJiHV-Km4lCKrteM7GKkIINoM1J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JDyUXIJiHV-Km4lCKrteM7GKkIINoM1J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527974222"
+  },
+  {
+   "id": "ACF9BFF3237160415166BE2717C3730B",
+   "sender": "רחלי בן סימון",
+   "text": "למכירה,\nשידה מאיקאה, 3 מגירות, חדשה\nמקרית מוצקין \n450 ש\"ח",
+   "ts": 1790596967000,
+   "date": "2026-09-28",
+   "time": "15:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1d2v3nHPxvc-Top3l5_xGOpPVZgXyragi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d2v3nHPxvc-Top3l5_xGOpPVZgXyragi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527974222"
   }
  ]
 }
