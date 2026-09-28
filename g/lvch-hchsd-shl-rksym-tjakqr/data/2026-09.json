@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T18:17:16.253Z",
+ "updated": "2026-09-28T18:32:16.501Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -6027,6 +6027,37 @@
    "files": [],
    "drive": null,
    "phone": "972552748485"
+  },
+  {
+   "id": "ACE88563112851B6CFB3101A27CE2E55",
+   "sender": "גרשון",
+   "text": "",
+   "ts": 1790620321000,
+   "date": "2026-09-28",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qMhypbgUaOKTG18Q4RyBhL_J3D-DhBcD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qMhypbgUaOKTG18Q4RyBhL_J3D-DhBcD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533131331"
+  },
+  {
+   "id": "ACEEB8BD864C49E14D2ABAC2B5EC97D1",
+   "sender": "גרשון",
+   "text": "עכשיו מתחיל",
+   "ts": 1790620322000,
+   "date": "2026-09-28",
+   "time": "21:32",
+   "files": [],
+   "drive": null,
+   "phone": "972533131331"
   }
  ]
 }

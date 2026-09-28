@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T18:03:37.362Z",
+ "updated": "2026-09-28T18:34:46.504Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6709,6 +6709,79 @@
    ],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "AC8BA84552956C02C70DC24CE0819B5A",
+   "sender": "גרשון",
+   "text": "",
+   "ts": 1790620165000,
+   "date": "2026-09-28",
+   "time": "21:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/159g_y9q7Ii74VY-_Vr5KN61eC_NHdrY9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=159g_y9q7Ii74VY-_Vr5KN61eC_NHdrY9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533131331"
+  },
+  {
+   "id": "ACB244B66F023C3EA51A6C4A9A8D9ECD",
+   "sender": "גרשון",
+   "text": "עכשיו מתחיל",
+   "ts": 1790620165000,
+   "date": "2026-09-28",
+   "time": "21:29",
+   "files": [],
+   "drive": null,
+   "phone": "972533131331"
+  },
+  {
+   "id": "A5002BF61C32E165D6FACECD0BD8C32B",
+   "sender": "יוסף ישראל",
+   "text": "יש למישהו סכך לסוכה למכירה או להשאיל",
+   "ts": 1790620218000,
+   "date": "2026-09-28",
+   "time": "21:30",
+   "files": [],
+   "drive": null,
+   "phone": "972559503426"
+  },
+  {
+   "id": "A5B96D2607591B5809F4C4F3E3F229C3",
+   "sender": "יוסף ישראל",
+   "text": "יש למישהו סכך לסוכה למכירה או להשאיל",
+   "ts": 1790620389000,
+   "date": "2026-09-28",
+   "time": "21:33",
+   "files": [],
+   "drive": null,
+   "phone": "972559503426"
+  },
+  {
+   "id": "3A5B3AD6DE720B1ECB2B",
+   "sender": "מוריה",
+   "text": "",
+   "ts": 1790620479000,
+   "date": "2026-09-28",
+   "time": "21:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_cvud5hDi7y_1iDhV_pJYF_I5LfFua0u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_cvud5hDi7y_1iDhV_pJYF_I5LfFua0u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508284449"
   }
  ]
 }
