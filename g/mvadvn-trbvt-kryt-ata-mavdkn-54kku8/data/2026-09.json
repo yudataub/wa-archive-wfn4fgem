@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-09-27T14:37:18.644Z",
+ "updated": "2026-09-28T05:35:59.651Z",
  "messages": [
   {
    "id": "3AF373DF625E1CE1FDA7",
@@ -241,6 +241,26 @@
    "date": "2026-09-27",
    "time": "17:37",
    "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3AB2A0B193BD575BB8DA",
+   "sender": "חגית סייג",
+   "text": "נפגשים היום 🍻🍻🍻",
+   "ts": 1790573753000,
+   "date": "2026-09-28",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "264KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iYr-cghzgrm8y44u3naXZv2CatlY89MG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iYr-cghzgrm8y44u3naXZv2CatlY89MG&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522346593"
   }

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ספריית מסמכים</title>
+<meta name="robots" content="noindex, nofollow">
+<!-- נבנה ע"י wa-backup/docs_catalog.py — לא לערוך כאן, לערוך את docs_catalog.html ולהריץ שוב -->
+<style>
+:root{--bg:#f6f7f5;--card:#fff;--ink:#1f2421;--muted:#6b7280;--line:#e3e6e2;--accent:#2f6d4f;--accent-2:#e8f1ec;--chip:#eef0ed;--priv:#8a4b12;--priv-bg:#fbeedd;--warn:#9a3412;
+  --k-pdf:#c0392b;--k-word:#2b5797;--k-ppt:#c55a11;--k-xls:#217346;--k-html:#6d3fb5;--k-zip:#6b6b3a;--k-txt:#56606b;--k-other:#56606b;}
+@media (prefers-color-scheme:dark){:root{--bg:#141816;--card:#1d2320;--ink:#e7ebe8;--muted:#9aa39e;--line:#2c3430;--accent:#6fc29a;--accent-2:#203029;--chip:#252c28;--priv:#f0b46e;--priv-bg:#3a2a18;--warn:#fb923c;
+  --k-pdf:#ef6f5e;--k-word:#6f9be0;--k-ppt:#f0935a;--k-xls:#5cc08a;--k-html:#b08cf0;--k-zip:#bdbd7a;--k-txt:#9aa3ad;--k-other:#9aa3ad;}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Segoe UI",Arial,sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 16px 10px}
+h1{margin:0 0 2px;font-size:20px}
+.sub{color:var(--muted);font-size:13px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;align-items:center}
+.seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--line);border-radius:18px;overflow:hidden;background:var(--card)}
+.seg button{border:0;background:none;color:var(--ink);padding:6px 12px;font:inherit;font-size:13px;cursor:pointer}
+.seg button.on{background:var(--accent);color:#fff}
+select,input[type=search]{border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);padding:6px 12px;font:inherit;font-size:13px;max-width:100%}
+input[type=search]{flex:1 1 240px;min-width:0}
+#grp{max-width:260px}
+main{padding:10px 16px 40px;max-width:1100px;margin:0 auto}
+.row{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin:0 0 8px;cursor:pointer;font:inherit;color:inherit}
+.row:hover{border-color:var(--accent)}
+.ico{flex:0 0 44px;height:52px;border-radius:6px;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:flex-end;justify-content:center;padding-bottom:6px;position:relative;letter-spacing:.3px}
+.ico::before{content:"";position:absolute;top:0;left:0;border-style:solid;border-width:0 0 12px 12px;border-color:transparent transparent rgba(255,255,255,.35) var(--bg)}
+.k-pdf{background:var(--k-pdf)}.k-word{background:var(--k-word)}.k-ppt{background:var(--k-ppt)}.k-xls{background:var(--k-xls)}.k-html{background:var(--k-html)}.k-zip{background:var(--k-zip)}.k-txt,.k-other{background:var(--k-txt)}
+.body{flex:1;min-width:0}
+.nm{font-weight:600;word-break:break-word}
+.meta{color:var(--muted);font-size:13px;margin-top:2px}
+.cap{font-size:13px;margin-top:3px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:5px}
+.chip{font-size:11px;background:var(--chip);border-radius:999px;padding:0 8px}
+.chip.p{background:var(--priv-bg);color:var(--priv)}
+.chip.x{background:transparent;border:1px solid var(--warn);color:var(--warn)}
+.chip.n{background:var(--accent-2);color:var(--accent)}
+.empty{color:var(--muted);text-align:center;padding:40px}
+#more{height:40px}
+dialog{border:0;border-radius:18px;padding:0;background:var(--card);color:var(--ink);width:min(94vw,760px);max-height:90vh}
+dialog::backdrop{background:rgba(0,0,0,.55)}
+.dwrap{display:flex;flex-direction:column;max-height:90vh}
+.dh{display:flex;gap:12px;align-items:center;padding:16px 16px 10px;border-bottom:1px solid var(--line)}
+.dh .nm{font-size:17px}
+.info{padding:10px 16px;overflow:auto;font-size:14px}
+.txt{white-space:pre-wrap;word-break:break-word;margin:0 0 10px;padding:8px 10px;background:var(--bg);border-radius:10px}
+.occ{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;border-top:1px solid var(--line);padding:7px 0}
+.occ.mine{background:var(--accent-2);margin:0 -8px;padding:7px 8px;border-radius:8px}
+.occ .g{font-weight:600}
+.occ .m{color:var(--muted);font-size:13px}
+.occ a{margin-inline-start:auto;color:var(--accent);font-size:13px;white-space:nowrap}
+.acts{display:flex;gap:8px;padding:10px 16px 14px;border-top:1px solid var(--line)}
+.acts a,.acts button{flex:1;text-align:center;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);color:var(--ink);font:inherit;font-size:14px;cursor:pointer;text-decoration:none}
+.acts .pri{background:var(--accent);color:#fff;border-color:var(--accent)}
+.acts .off{opacity:.45;pointer-events:none}
+@media (max-width:520px){header{position:static}.ico{flex-basis:36px;height:44px;font-size:10px}#grp{max-width:100%}}
+</style>
+</head>
+<body>
+<header>
+  <h1>ספריית מסמכים</h1>
+  <div class="sub" id="sum"></div>
+  <div class="bar">
+    <div class="seg" id="who"><button data-v="me" class="on">ששלחתי</button><button data-v="">כל המסמכים</button></div>
+    <input type="search" id="q" placeholder="חיפוש בשם הקובץ, בכיתוב, בקבוצה…" aria-label="חיפוש">
+  </div>
+  <div class="bar">
+    <div class="seg" id="kind"><button data-v="" class="on">הכול</button><button data-v="pdf">PDF</button><button data-v="word">Word</button><button data-v="ppt">מצגות</button><button data-v="html">HTML</button><button data-v="xls">אקסל</button><button data-v="etc">אחר</button></div>
+    <div class="seg" id="scope"><button data-v="" class="on">כל המקומות</button><button data-v="g">קבוצות</button><button data-v="055">פרטי 055</button><button data-v="052">פרטי 052</button></div>
+  </div>
+  <div class="bar">
+    <select id="topic" aria-label="נושא"></select>
+    <select id="grp" aria-label="קבוצה"></select>
+    <select id="year" aria-label="שנה"></select>
+    <select id="file" aria-label="קובץ"><option value="">עם קובץ ובלי</option><option value="1">רק עם קובץ בדרייב</option><option value="l">רק שנמצאו במחשב</option><option value="0">רק בלי קובץ בכלל</option></select>
+    <select id="self" aria-label="העברות לעצמי"><option value="">כולל העברות בין הטלפונים שלי</option><option value="no">בלי העברות לעצמי</option></select>
+    <select id="sort" aria-label="מיון"><option value="new">חדשים קודם</option><option value="old">ישנים קודם</option><option value="n">נשלחו להכי הרבה מקומות</option><option value="az">לפי שם</option></select>
+  </div>
+</header>
+<main><div id="list"></div><div id="more"></div><div class="empty" id="empty" hidden>אין מסמכים בסינון הזה.</div></main>
+<dialog id="dlg"><div class="dwrap">
+  <div class="dh" id="dhead"></div>
+  <div class="info" id="dinfo"></div>
+  <div class="acts"><a id="dopen" class="pri" target="_blank" rel="noopener">פתיחה בדרייב</a><a id="ddl" target="_blank" rel="noopener">הורדה</a><a id="dlocal" class="pri" target="_blank" rel="noopener" hidden>💻 פתיחה מהמחשב</a><a id="dview" class="pri" target="_blank" rel="noopener" hidden>🌐 פתיחה כדף</a><button id="dclose">סגירה</button></div>
+</div></dialog>
+<script src="data.js"></script>
+<script>
+var D=window.DOCS||{groups:[],people:[],items:[],topics:[],site:"",built:""};
+var KLBL={pdf:"PDF",word:"DOC",ppt:"PPT",xls:"XLS",html:"HTML",zip:"ZIP",txt:"TXT",other:"FILE"};
+var st={self:"",who:"me",q:"",kind:"",scope:"",topic:"",grp:"",year:"",file:"",sort:"new"},cur=[],shown=0,CHUNK=150;
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+function pad(n){return n<10?"0"+n:""+n;}
+function fdate(ts){var d=new Date(ts);return pad(d.getDate())+"."+pad(d.getMonth()+1)+"."+d.getFullYear();}
+function ftime(ts){var d=new Date(ts);return fdate(ts)+" "+pad(d.getHours())+":"+pad(d.getMinutes());}
+function place(o){var g=D.groups[o[0]];return o[5]==="@self"?"↔ בין הטלפונים שלי":g[2]?(o[5]||"צ'אט פרטי"):g[1];}
+function driveView(d){return !d?"":d.indexOf("/")>=0?d:"https://drive.google.com/file/d/"+d+"/view";}
+// נתיב מקומי → file:/// (כל מקטע מקודד בנפרד — "#" ו-"%" בשמות קבצים שוברים encodeURI)
+function fileUrl(p){return "file:///"+p.replace(/\\/g,"/").split("/").map(function(s,i){return i?encodeURIComponent(s):s;}).join("/");}
+function driveDl(d){return !d?"":d.indexOf("/")>=0?d:"https://drive.google.com/uc?export=download&id="+d;}
+D.items.forEach(function(x){x._q=(x.n+" "+x.o.map(function(o){return place(o)+" "+D.people[o[3]]+" "+o[4];}).join(" ")).toLowerCase();});
+function occOk(o){
+  var g=D.groups[o[0]];
+  if(st.who==="me"&&!o[6])return false;
+  if(st.self==="no"&&o[5]==="@self")return false;
+  if(st.scope==="g"&&g[2])return false;
+  if((st.scope==="055"||st.scope==="052")&&g[2]!==st.scope)return false;
+  if(st.grp!==""&&o[0]!==+st.grp)return false;
+  if(st.year&&new Date(o[2]).getFullYear()!==+st.year)return false;
+  return true;}
+function list(){
+  var q=st.q.trim().toLowerCase(),out=[];
+  D.items.forEach(function(x){
+    if(st.kind==="etc"?["pdf","word","ppt","html","xls"].indexOf(x.k)>=0:(st.kind&&x.k!==st.kind))return;
+    if(st.file==="1"&&!x.d)return;if(st.file==="0"&&(x.d||x.l))return;if(st.file==="l"&&!x.l)return;
+    if(st.topic&&x.t.indexOf(st.topic)<0)return;
+    if(q&&x._q.indexOf(q)<0)return;
+    var m=x.o.filter(occOk);if(!m.length)return;
+    var places={};m.forEach(function(o){places[o[0]+"|"+o[5]]=1;});
+    out.push({x:x,m:m,t:m[0][2],np:Object.keys(places).length});});
+  var s=st.sort;
+  out.sort(function(a,b){
+    if(s==="old")return a.t-b.t;
+    if(s==="n")return b.np-a.np||b.t-a.t;
+    if(s==="az")return a.x.n.localeCompare(b.x.n,"he");
+    return b.t-a.t;});
+  return out;}
+function rowHtml(r,i){
+  var x=r.x,o=r.m[0],cap="",priv=r.m.some(function(o){return D.groups[o[0]][2];});
+  for(var j=0;j<r.m.length&&!cap;j++)cap=r.m[j][4];
+  var where=esc(place(o))+(r.np===2?" ועוד מקום אחד":r.np>2?" ועוד "+(r.np-1)+" מקומות":"");
+  return '<button class="row" data-i="'+i+'"><span class="ico k-'+x.k+'">'+KLBL[x.k]+'</span><span class="body">'+
+    '<div class="nm">'+esc(x.n||"(בלי שם)")+"</div>"+
+    '<div class="meta">'+fdate(r.t)+" · "+(st.who==="me"?"נשלח אל ":esc(D.people[o[3]])+" · ")+where+(x.s?" · "+esc(x.s):"")+"</div>"+
+    (cap?'<div class="cap">'+esc(cap)+"</div>":"")+
+    '<div class="chips">'+(r.np>1?'<span class="chip n">'+r.np+" מקומות</span>":"")+(priv?'<span class="chip p">🔒 פרטי</span>':"")+(r.m.some(function(o){return o[5]==="@self";})?'<span class="chip">↔ לעצמי</span>':"")+
+    (x.d?"":x.l?'<span class="chip n">💻 במחשב'+(x.lx===2?" (לוודא)":x.lx?" (שם דומה)":"")+"</span>":'<span class="chip x">הקובץ נשאר בטלפון</span>')+x.t.map(function(t){return '<span class="chip">'+esc(t)+"</span>";}).join("")+
+    "</div></span></button>";}
+function renderChunk(){var h="",end=Math.min(shown+CHUNK,cur.length);for(var i=shown;i<end;i++)h+=rowHtml(cur[i],i);
+  document.getElementById("list").insertAdjacentHTML("beforeend",h);shown=end;}
+function render(){
+  cur=list();shown=0;document.getElementById("list").innerHTML="";renderChunk();
+  document.getElementById("empty").hidden=cur.length>0;
+  var withF=cur.filter(function(r){return r.x.d;}).length;
+  document.getElementById("sum").textContent=cur.length.toLocaleString("he-IL")+(st.who==="me"?" מסמכים ששלחתי":" מסמכים")+
+    " ("+withF.toLocaleString("he-IL")+" עם קובץ בדרייב) · מתוך "+D.items.length.toLocaleString("he-IL")+" בארכיון · נבנה "+D.built;}
+new IntersectionObserver(function(e){if(e[0].isIntersecting&&shown<cur.length)renderChunk();},{rootMargin:"1200px"}).observe(document.getElementById("more"));
+function fillGroups(){
+  var cnt={};D.items.forEach(function(x){x.o.forEach(function(o){if(st.who==="me"&&!o[6])return;cnt[o[0]]=(cnt[o[0]]||0)+1;});});
+  var sel=document.getElementById("grp"),v=st.grp,opts=Object.keys(cnt).map(function(i){return [+i,D.groups[i],cnt[i]];}).filter(function(p){
+    var g=p[1];if(st.scope==="g")return !g[2];if(st.scope)return g[2]===st.scope;return true;});
+  opts.sort(function(a,b){return b[2]-a[2];});
+  sel.innerHTML='<option value="">כל הקבוצות ('+opts.length+')</option>'+opts.map(function(p){
+    return '<option value="'+p[0]+'">'+esc((p[1][2]?"🔒 ":"")+p[1][1])+" · "+p[2]+"</option>";}).join("");
+  sel.value=opts.some(function(p){return ""+p[0]===v;})?v:"";st.grp=sel.value;}
+(function(){
+  var ys={};D.items.forEach(function(x){x.o.forEach(function(o){ys[new Date(o[2]).getFullYear()]=1;});});
+  document.getElementById("year").innerHTML='<option value="">כל השנים</option>'+Object.keys(ys).sort().reverse().map(function(y){return "<option>"+y+"</option>";}).join("");
+  document.getElementById("topic").innerHTML='<option value="">כל הנושאים</option>'+D.topics.map(function(t){return "<option>"+esc(t)+"</option>";}).join("");
+})();
+fillGroups();
+// דף "המסמכים שלי" (docs_catalog.py --mine-site): הכול שלי — בלי מתג, כותרת אחרת
+if(D.mineOnly){document.getElementById("who").style.display="none";document.querySelector("h1").textContent="המסמכים שלי";
+  document.title="המסמכים שלי";}
+// בגרסת האתר אין נתיבים מקומיים (docs_catalog.py --site מסיר אותם) — אין טעם באפשרות הזו
+if(!D.items.some(function(x){return x.l;})){var lo=document.querySelector('#file option[value="l"]');if(lo)lo.remove();}
+function seg(id,after){var el=document.getElementById(id);el.addEventListener("click",function(e){
+  var b=e.target.closest("button");if(!b)return;
+  [].forEach.call(el.children,function(c){c.classList.toggle("on",c===b);});
+  st[id]=b.getAttribute("data-v");if(after)after();render();});}
+seg("who",fillGroups);seg("kind");seg("scope",fillGroups);
+["topic","grp","year","file","sort","self"].forEach(function(id){document.getElementById(id).addEventListener("change",function(e){st[id]=e.target.value;render();});});
+var qt;document.getElementById("q").addEventListener("input",function(e){clearTimeout(qt);qt=setTimeout(function(){st.q=e.target.value;render();},200);});
+var dlg=document.getElementById("dlg");
+document.getElementById("list").addEventListener("click",function(e){
+  var t=e.target.closest(".row");if(!t)return;var x=cur[+t.getAttribute("data-i")].x;
+  document.getElementById("dhead").innerHTML='<span class="ico k-'+x.k+'">'+KLBL[x.k]+'</span><div><div class="nm">'+esc(x.n||"(בלי שם)")+
+    '</div><div class="meta">'+(x.s?esc(x.s)+" · ":"")+"נשלח "+x.o.length+" פעמים"+(x.t.length?" · "+esc(x.t.join(", ")):"")+"</div></div>";
+  var txts={},h="";x.o.forEach(function(o){if(o[4])txts[o[4]]=1;});
+  Object.keys(txts).slice(0,3).forEach(function(t){h+='<p class="txt">'+esc(t)+"</p>";});
+  if(!x.d&&x.l)h+='<p class="meta">הקובץ לא הועלה לדרייב, אבל נמצא במחשב'+(x.lx===2?" — אבל <b>השם כללי מדי</b>, ייתכן שזה קובץ אחר עם אותו שם. כדאי לפתוח ולוודא":x.lx?" <b>בשם דומה</b> (לא זהה — כדאי לוודא שזה אותו קובץ)":"")+
+    (x.lc>1?" · נמצאו "+x.lc+" עותקים, מוצג הטוב ביותר":"")+':<br><bdi style="word-break:break-all">'+esc(x.l)+"</bdi></p>";
+  else if(!x.d)h+='<p class="meta">הקובץ עצמו לא הועלה לדרייב ולא נמצא במחשב — הוא נמצא רק בטלפון. השם והכיתוב נשמרו מהגיבוי.</p>';
+  var occ=x.o.slice().sort(function(a,b){return b[6]-a[6]||a[2]-b[2];});
+  occ.slice(0,60).forEach(function(o){var g=D.groups[o[0]];
+    h+='<div class="occ'+(o[6]?" mine":"")+'"><span class="g">'+esc(place(o))+"</span>"+(g[2]&&o[5]!=="@self"?'<span class="chip p">פרטי '+g[2]+"</span>":"")+
+      '<span class="m">'+esc(D.people[o[3]])+" · "+ftime(o[2])+"</span>"+
+      '<a href="'+D.site+g[0]+"/#m-"+encodeURIComponent(o[1])+'" target="_blank" rel="noopener">להודעה ↗</a></div>';});
+  if(occ.length>60)h+='<div class="occ"><span class="m">ועוד '+(occ.length-60)+" הופעות</span></div>";
+  var inf=document.getElementById("dinfo");inf.innerHTML=h;inf.scrollTop=0;
+  var a=document.getElementById("dopen"),dl=document.getElementById("ddl");
+  a.href=driveView(x.d)||"#";dl.href=driveDl(x.d)||"#";a.classList.toggle("off",!x.d);dl.classList.toggle("off",!x.d);
+  a.hidden=dl.hidden=!!(!x.d&&x.l);
+  var lo=document.getElementById("dlocal");lo.hidden=!x.l;if(x.l)lo.href=fileUrl(x.l);
+  // HTML מהדרייב: דרך שירות html-viewer (דרייב עצמו לא מציג HTML) — הכפתור הראשי, "פתיחה בדרייב" יורד לרגיל
+  var vw=document.getElementById("dview"),canView=!!(D.viewer&&x.k==="html"&&x.d&&x.d.indexOf("/")<0);
+  vw.hidden=!canView;if(canView)vw.href=D.viewer+"?id="+encodeURIComponent(x.d);a.classList.toggle("pri",!canView);
+  dlg.showModal();});
+document.getElementById("dclose").addEventListener("click",function(){dlg.close();});
+dlg.addEventListener("click",function(e){if(e.target===dlg)dlg.close();});
+render();
+</script>
+</body>
+</html>
