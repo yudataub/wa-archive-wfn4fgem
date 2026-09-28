@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T08:45:57.448Z",
+ "updated": "2026-09-28T08:50:02.088Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -30766,7 +30766,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/16VeUarWofSzNhDowSG3MEyKiLYnSieXL/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=16VeUarWofSzNhDowSG3MEyKiLYnSieXL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=16VeUarWofSzNhDowSG3MEyKiLYnSieXL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB09DD7361CEC3402A2EE_0.mp4"
     }
    ],
    "drive": null,
@@ -30786,7 +30787,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1w96Ruu4mGgl9uJBxalxBZ5oo0NLnqKHe/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1w96Ruu4mGgl9uJBxalxBZ5oo0NLnqKHe&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1w96Ruu4mGgl9uJBxalxBZ5oo0NLnqKHe&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/A51E4DB110A5DD74F2CD4769FB735BE7_0.mp4"
     }
    ],
    "drive": null,
@@ -30802,6 +30804,17 @@
    "files": [],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "A5C30ADE5A2825A0A85DD02F403DAF10",
+   "sender": "דביר ביטון הדרכות וסדנאות בינה מלאכותית",
+   "text": "מטורףךף מטורף הקלוד הזה",
+   "ts": 1790585381000,
+   "date": "2026-09-28",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972585777177"
   }
  ]
 }
