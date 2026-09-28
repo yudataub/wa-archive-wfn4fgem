@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T05:45:24.219Z",
+ "updated": "2026-09-28T06:43:55.129Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1126,6 +1126,37 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "AC45C38B8F01E712CE116967B3388067",
+   "sender": "הילי זוורו",
+   "text": "הוא עושה פליירים בעברית כותב ויוצר תמונות",
+   "ts": 1790577759000,
+   "date": "2026-09-28",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "AC4A3667382A2874E18966614883F08C",
+   "sender": "הילי זוורו",
+   "text": "אשכרה הוא עשה לי",
+   "ts": 1790577804000,
+   "date": "2026-09-28",
+   "time": "09:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "364KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EBID3wyvcnZa9j-INb7kyzabg7arxYGt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EBID3wyvcnZa9j-INb7kyzabg7arxYGt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
   }
  ]
 }

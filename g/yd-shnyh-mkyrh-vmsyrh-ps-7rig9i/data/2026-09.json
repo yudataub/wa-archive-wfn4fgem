@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-27T15:26:26.185Z",
+ "updated": "2026-09-28T06:39:30.715Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1173,6 +1173,26 @@
    ],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "ACB29CD65E2974E2890A91A216BF8F14",
+   "sender": "🥰",
+   "text": "ערכת קפה ניידת\nכוללת: \nגזייה, פינג'אן נירוסטה, 2קופסאות פלסטיק (לדברים כמו קפה, סוכר), כפית רב פעמית וגפרורים.\n*ערכה חדשה* מגיעה עם תיק.\n150 ש\"ח \nאיסוף: נהריה ולפעמים מעלות",
+   "ts": 1790577558000,
+   "date": "2026-09-28",
+   "time": "09:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "405KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L8iIb7lo6_y3z0-eyjiUpguMU4p5IbKx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L8iIb7lo6_y3z0-eyjiUpguMU4p5IbKx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
   }
  ]
 }

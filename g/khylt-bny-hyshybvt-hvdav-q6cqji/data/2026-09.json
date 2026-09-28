@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-28T06:15:00.305Z",
+ "updated": "2026-09-28T06:42:00.702Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8334,6 +8334,26 @@
    ],
    "drive": null,
    "phone": "972585735002"
+  },
+  {
+   "id": "AC88FD16F39412872323A31AFED22C7D",
+   "sender": "moshe",
+   "text": "",
+   "ts": 1790577715000,
+   "date": "2026-09-28",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "26KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Gjfi-WdPVqS-jkaIPmt31PPF4SHbgeSd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gjfi-WdPVqS-jkaIPmt31PPF4SHbgeSd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532462420"
   }
  ]
 }

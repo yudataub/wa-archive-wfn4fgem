@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T06:34:00.575Z",
+ "updated": "2026-09-28T06:41:30.702Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32268,6 +32268,80 @@
    ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5E47F3156C6543375A69C5735B623D9",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790577490000,
+   "date": "2026-09-28",
+   "time": "09:38",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "56KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1H-DQu1D7xgmTakY5Zyyv4Y9ifKUPfiG8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56EEBC76912EFE79AA0B962F11C6E3A",
+   "sender": "אני",
+   "text": "אם תוכלי מתי שיוצא לך לבקש מהמורים להעלות תמונות עם שמות אני לא ראיתי כמעט אף אחד שעשה את זה חוץ ממך",
+   "ts": 1790577542000,
+   "date": "2026-09-28",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5165AC03E87C2D301C4D5C717AF76C",
+   "sender": "הילה שמר",
+   "text": "תודה רבה הרב🙏",
+   "ts": 1790577632000,
+   "date": "2026-09-28",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC9B4C9B91CA8D325FEB7BFD566BAF6A",
+   "sender": "הילה שמר",
+   "text": "אין בעיה",
+   "ts": 1790577645000,
+   "date": "2026-09-28",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "A59A0558BCA9642147763E910C2B820D",
+   "sender": "יוני לביא",
+   "text": "",
+   "ts": 1790577680000,
+   "date": "2026-09-28",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "65KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1GwUGGKw7l89-xOD7iHlc0ijkmB6OnDKi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוני לביא",
+   "phone": "972546702313"
   }
  ]
 }
