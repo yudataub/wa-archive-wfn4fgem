@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-28T11:07:57.294Z",
+ "updated": "2026-09-28T11:11:27.328Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8658,6 +8658,70 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "ACC62232807CBB9DC2E72B96A7899B5A",
+   "sender": "אליהו חזן",
+   "text": "",
+   "ts": 1790593753000,
+   "date": "2026-09-28",
+   "time": "14:09",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "90KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/10wVwej3R2rmISZ2sKzbg9v6kX0h9EDCw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10wVwej3R2rmISZ2sKzbg9v6kX0h9EDCw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502770777"
+  },
+  {
+   "id": "AC89F9607F20FB13671E2CAB2C776A97",
+   "sender": "אלקנה",
+   "text": "תבדוק אצל גרינבוים מרכסים  לדעתי נשאר לו",
+   "ts": 1790593775000,
+   "date": "2026-09-28",
+   "time": "14:09",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "3EB0927E722036E1687E7D",
+   "sender": "נועה רוזנטל",
+   "text": "מה המספר?",
+   "ts": 1790593850000,
+   "date": "2026-09-28",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
+  },
+  {
+   "id": "AC6BAAA3AAC903C3397B70BAC40F62BA",
+   "sender": "אלקנה",
+   "text": "📇 עופות גרינבוים, נויבירט\n+972504192062",
+   "ts": 1790593865000,
+   "date": "2026-09-28",
+   "time": "14:11",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "3EB065A077474F6F7F88D7",
+   "sender": "נועה רוזנטל",
+   "text": "🙏",
+   "ts": 1790593874000,
+   "date": "2026-09-28",
+   "time": "14:11",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
   }
  ]
 }
