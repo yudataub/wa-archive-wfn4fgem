@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-28T12:12:35.522Z",
+ "updated": "2026-09-28T12:43:43.062Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -19631,6 +19631,26 @@
    "files": [],
    "drive": null,
    "phone": "972506243544"
+  },
+  {
+   "id": "3A915A67B9113D382F38",
+   "sender": "Daniel Golan",
+   "text": "אם מחממים בזה חלב בדרך כלל\nמותר לחמם תחליף חלב ושיהיה פרווה?",
+   "ts": 1790599403000,
+   "date": "2026-09-28",
+   "time": "15:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "269KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fRI8WAq7HXLmYlccKkhfUfHA-RV90hvz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fRI8WAq7HXLmYlccKkhfUfHA-RV90hvz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502337224"
   }
  ]
 }
