@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-28T14:47:23.360Z",
+ "updated": "2026-09-28T16:03:31.352Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -5666,6 +5666,59 @@
    "files": [],
    "drive": null,
    "phone": "972507218099"
+  },
+  {
+   "id": "AC348D31993C7D6B010813D33D0DEBDA",
+   "sender": "עמי חניא",
+   "text": "אני במנוי של 20 דולר",
+   "ts": 1790611329000,
+   "date": "2026-09-28",
+   "time": "19:02",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "A5EEA1CD744D846832C36C16FF49AA63",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "גם אני עשיתי🙃",
+   "ts": 1790611356000,
+   "date": "2026-09-28",
+   "time": "19:02",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A5C83CD91D8C5AFAE49BE751C0D4054A",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1790611377000,
+   "date": "2026-09-28",
+   "time": "19:02",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1sgD5e9iSuC-K-66DeBAwBagzZPOIamug/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sgD5e9iSuC-K-66DeBAwBagzZPOIamug&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A579D7D51B42BC93834667105ECEE1CF",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "זה ממש מגניב",
+   "ts": 1790611378000,
+   "date": "2026-09-28",
+   "time": "19:02",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
   }
  ]
 }

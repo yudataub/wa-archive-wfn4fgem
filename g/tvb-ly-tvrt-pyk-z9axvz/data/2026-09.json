@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-28T15:41:37.126Z",
+ "updated": "2026-09-28T16:02:42.053Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -7447,6 +7447,26 @@
      "path": "https://drive.google.com/file/d/1R5BXdXHXjac0IsmJerr_AMFzCGk_pbN4/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1R5BXdXHXjac0IsmJerr_AMFzCGk_pbN4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACA4575B67EEE61E43E2B967895CA81C",
+   "sender": "שרון😄",
+   "text": "התחלנו\nhttps://tanya.org.il/live",
+   "ts": 1790611339000,
+   "date": "2026-09-28",
+   "time": "19:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "255KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TnvotV_0fmFTZxACOADW40vAxSXJn4uc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TnvotV_0fmFTZxACOADW40vAxSXJn4uc&sz=w1200"
     }
    ],
    "drive": null,
