@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-28T17:01:29.655Z",
+ "updated": "2026-09-28T17:38:23.698Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -4103,10 +4103,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "6.0MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "6.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1z9J5I_BLaWimkgpUBmS8GjZrP_hGH2N6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z9J5I_BLaWimkgpUBmS8GjZrP_hGH2N6&sz=w1200"
     }
    ],
    "drive": null
@@ -4463,10 +4464,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.1MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1c_ROJ7oZwdEEJzbRd9nw_gJR_INxd2uE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c_ROJ7oZwdEEJzbRd9nw_gJR_INxd2uE&sz=w1200"
     }
    ],
    "drive": null,
@@ -4482,10 +4484,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "16.9MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "16.9MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1Q9rl4EpKP4-HzIubbmKy-sV2YThS6lJR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q9rl4EpKP4-HzIubbmKy-sV2YThS6lJR&sz=w1200"
     }
    ],
    "drive": null,
@@ -4849,10 +4852,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "10.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "10.6MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1oU8g0OL1rNeG9vk8vKJD4UWx668foYv7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oU8g0OL1rNeG9vk8vKJD4UWx668foYv7&sz=w1200"
     }
    ],
    "drive": null,

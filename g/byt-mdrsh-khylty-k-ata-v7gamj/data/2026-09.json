@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-28T15:30:37.006Z",
+ "updated": "2026-09-28T17:38:23.713Z",
  "messages": [
   {
    "id": "ACA56CF925497E8C83CA0B0D502D2D7E",
@@ -3417,10 +3417,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.1MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1GUTi2n_1FisvckG9dvcQZYX9EKj1oaSH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GUTi2n_1FisvckG9dvcQZYX9EKj1oaSH&sz=w1200"
     }
    ],
    "drive": null,

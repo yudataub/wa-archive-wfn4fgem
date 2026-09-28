@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-28T17:02:59.676Z",
+ "updated": "2026-09-28T17:38:23.832Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -498,10 +498,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "6.0MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "6.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1qxQP9HlRRbDHMbvekE87a4wsLIJLKShS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qxQP9HlRRbDHMbvekE87a4wsLIJLKShS&sz=w1200"
     }
    ],
    "drive": null
@@ -640,10 +641,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1GGv7z7y0ZBJseFdrY-jq7Ey8ipv7KIrx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GGv7z7y0ZBJseFdrY-jq7Ey8ipv7KIrx&sz=w1200"
     }
    ],
    "drive": null
@@ -1415,10 +1417,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.1MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1H15BGxWj3u9XMEIaqvmKvAlD8i_dTlA7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H15BGxWj3u9XMEIaqvmKvAlD8i_dTlA7&sz=w1200"
     }
    ],
    "drive": null,
@@ -3257,10 +3260,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "14.4MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "14.4MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1AQI0TJ0WfIClek8mYU_TkUN3_aTcRY4W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AQI0TJ0WfIClek8mYU_TkUN3_aTcRY4W&sz=w1200"
     }
    ],
    "drive": null,

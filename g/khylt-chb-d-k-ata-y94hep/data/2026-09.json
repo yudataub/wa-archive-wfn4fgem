@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-28T16:00:12.017Z",
+ "updated": "2026-09-28T17:38:23.813Z",
  "messages": [
   {
    "id": "AC5FD2B908C06BA39795B313E33C0CF0",
@@ -3980,10 +3980,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "6.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "6.3MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1W6pLfZWtdnQI1g5pHpmW16J7Z3myPBLg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W6pLfZWtdnQI1g5pHpmW16J7Z3myPBLg&sz=w1200"
     }
    ],
    "drive": null,
@@ -4032,10 +4033,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "8.8MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "8.8MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1TTGf9KVp6sH0su-4YaVrkqFbqkuOT-4X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TTGf9KVp6sH0su-4YaVrkqFbqkuOT-4X&sz=w1200"
     }
    ],
    "drive": null,
@@ -4082,10 +4084,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "10.0MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "10.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1YqhKGOiaHvuss5QO6qPWeVRul-Z42okY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YqhKGOiaHvuss5QO6qPWeVRul-Z42okY&sz=w1200"
     }
    ],
    "drive": null,

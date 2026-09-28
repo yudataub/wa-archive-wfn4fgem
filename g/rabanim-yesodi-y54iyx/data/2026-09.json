@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-28T15:07:36.627Z",
+ "updated": "2026-09-28T17:38:23.876Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -7589,10 +7589,10 @@
    "files": [
     {
      "name": "דיני סוכה .pdf",
-     "size": "",
+     "size": "7.0MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "7.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/19Kgss81cd2fytD3CD-layRyYr1bDLcRB/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,
@@ -7619,10 +7619,10 @@
    "files": [
     {
      "name": "Sukkah_Inspector_Field_Guide_(2).pdf",
-     "size": "",
+     "size": "22.0MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "22.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1NUezIKLg08CbfAM2Z1NYcdnq6PjbM2qz/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,
@@ -7689,10 +7689,10 @@
    "files": [
     {
      "name": "sukkah_quiz.pptx",
-     "size": "",
+     "size": "61.0MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "61.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://docs.google.com/presentation/d/1yf3f-lrHeRz6P1XX3SSOCpD5gJF_FN-s/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
     }
    ],
    "drive": null,
@@ -8246,10 +8246,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "10.9MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "10.9MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1UUOmHnxFz1QhMXSmYWIveI7ineTo4L0r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UUOmHnxFz1QhMXSmYWIveI7ineTo4L0r&sz=w1200"
     }
    ],
    "drive": null,

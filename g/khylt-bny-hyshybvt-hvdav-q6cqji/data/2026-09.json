@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-28T16:49:22.751Z",
+ "updated": "2026-09-28T17:38:23.801Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -5370,10 +5370,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1A9tfQNKz4I3NbXmFmxjMW7kMdyTJujTI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A9tfQNKz4I3NbXmFmxjMW7kMdyTJujTI&sz=w1200"
     }
    ],
    "drive": null
@@ -6869,10 +6870,10 @@
    "files": [
     {
      "name": "הציצית השכפ''ץ והלהבה.pdf",
-     "size": "",
+     "size": "9.3MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "9.3MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1inIFu3VHaLKgJ4ZWINptfVjJn7Es3ZDV/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,

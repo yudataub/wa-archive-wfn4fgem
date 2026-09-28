@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T17:37:30.217Z",
+ "updated": "2026-09-28T17:38:23.900Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -369,10 +369,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "6.0MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "6.0MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1mFEOZsfLa_G4Nr2vKoU2VMziikNKnbeG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mFEOZsfLa_G4Nr2vKoU2VMziikNKnbeG&sz=w1200"
     }
    ],
    "drive": null
@@ -2179,10 +2180,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "25.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "25.6MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1rxVSlkyyHjquwS5fhWrOAzZ5_Qr-Aptn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rxVSlkyyHjquwS5fhWrOAzZ5_Qr-Aptn&sz=w1200"
     }
    ],
    "drive": null,
@@ -4539,10 +4541,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "6.8MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "6.8MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1v1a31HmErUKuM4IMqIvf361zTAgmZxQD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v1a31HmErUKuM4IMqIvf361zTAgmZxQD&sz=w1200"
     }
    ],
    "drive": null,

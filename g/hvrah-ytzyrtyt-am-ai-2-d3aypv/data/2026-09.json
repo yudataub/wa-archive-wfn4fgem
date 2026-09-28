@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T16:19:38.250Z",
+ "updated": "2026-09-28T17:42:45.258Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1482,6 +1482,25 @@
    "files": [],
    "drive": null,
    "phone": "972546702328"
+  },
+  {
+   "id": "AC9D23EE81079803B34AAEC65F5A3F81",
+   "sender": "Timor Shwartz Miler",
+   "text": "תרומתי לקבוצה הנהדרת\nביקשתי מקלוד שיכין לי אפליקציה ללימוד ציר זמן באמנות המערבית \nועכשיו השאלה איך לשתף כך שיפתח אצל כולם.\nניסוי ותעיה ולמדתי שצריך לבקש שיכין את הקובץ html בלי Javascript \nאשמח לתגובה אם נפתח לכם. אם כן הגעתי אל היעד🏁 מי מכיר את הנושא של שיתוף artifact של קלוד ופתיחה לשיתוף? זה הסיפור. בינתיים עדיין לא מצאתי את ההגדרה הזו בנייד אז הסתפקתי בקובץ להורדה",
+   "ts": 1790617362000,
+   "date": "2026-09-28",
+   "time": "20:42",
+   "files": [
+    {
+     "name": "art-timeline (2).html",
+     "size": "33KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1maIf7mwcd4DyH_w9bHYsKtd0yKShkMAf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523771652"
   }
  ]
 }

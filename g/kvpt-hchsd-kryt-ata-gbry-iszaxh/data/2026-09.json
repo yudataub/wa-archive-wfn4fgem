@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-28T15:42:37.136Z",
+ "updated": "2026-09-28T17:38:23.822Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -243,10 +243,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.3MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1VS6jWDrn1Jkt8fsGbG3X58oAQE7PSPLL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VS6jWDrn1Jkt8fsGbG3X58oAQE7PSPLL&sz=w1200"
     }
    ],
    "drive": null
@@ -535,10 +536,11 @@
    "files": [
     {
      "name": "וידאו.mp4",
-     "size": "",
+     "size": "5.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "5.1MB — מעל התקרה לקבוצות ארכיון"
+     "path": "https://drive.google.com/file/d/1ebmK943O1NaAsTf1V-pXfoNv6I1UeZbe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ebmK943O1NaAsTf1V-pXfoNv6I1UeZbe&sz=w1200"
     }
    ],
    "drive": null,
