@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-27T19:34:47.175Z",
+ "updated": "2026-09-28T06:04:00.135Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7349,6 +7349,26 @@
    "files": [],
    "drive": null,
    "phone": "972524305483"
+  },
+  {
+   "id": "ACB2A739D8D4D2855FA2BB5FCACAFF47",
+   "sender": "מאיה",
+   "text": "https://wa.me/972523492545?text=היי%20מאיה,%20אשמח%20לשמוע%20פרטים%20על%20הטיפול%20והסדנאות",
+   "ts": 1790575407000,
+   "date": "2026-09-28",
+   "time": "09:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lHaui2k1JwGpNwki_QL1Vm_wpjHfF2vI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lHaui2k1JwGpNwki_QL1Vm_wpjHfF2vI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523492545"
   }
  ]
 }
