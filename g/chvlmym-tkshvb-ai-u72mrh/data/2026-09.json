@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-28T17:17:14.872Z",
+ "updated": "2026-09-28T19:14:38.852Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -5874,6 +5874,25 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "AC53554D76712B40CFDC43575DB722F5",
+   "sender": "Lily",
+   "text": "",
+   "ts": 1790622872000,
+   "date": "2026-09-28",
+   "time": "22:14",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1mbYgeBQaYEy3395QiAc1Tm_lVU-JEKAP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587657524"
   }
  ]
 }
