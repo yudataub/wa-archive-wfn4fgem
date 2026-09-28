@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T08:27:32.254Z",
+ "updated": "2026-09-28T08:34:02.383Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -32805,7 +32805,7 @@
   },
   {
    "id": "ACDDEB9A0624F699966C9670FBA97C5B",
-   "sender": "0504235686",
+   "sender": "דניאל לוי",
    "text": "",
    "ts": 1790190786000,
    "date": "2026-09-23",
@@ -32824,7 +32824,7 @@
   },
   {
    "id": "AC16C19E98CB92BDFF4CACCAEC38509B",
-   "sender": "0504235686",
+   "sender": "דניאל לוי",
    "text": "אולי משהו צריך לסוכה או לגינה",
    "ts": 1790190792000,
    "date": "2026-09-23",
@@ -36740,6 +36740,70 @@
    "files": [],
    "drive": null,
    "phone": "972549255022"
+  },
+  {
+   "id": "ACB43F1EB6217F044A94BF92E02D1B2F",
+   "sender": "יהודה",
+   "text": "איך מגיעים מהמרכז בתחבורה ציבורית?",
+   "ts": 1790584082000,
+   "date": "2026-09-28",
+   "time": "11:28",
+   "files": [],
+   "drive": null,
+   "phone": "972535877583"
+  },
+  {
+   "id": "AC9188A95D61C4FE06821C79A45F3F62",
+   "sender": "יהודה",
+   "text": "של אתא איפה הפינה של שלומי?",
+   "ts": 1790584168000,
+   "date": "2026-09-28",
+   "time": "11:29",
+   "files": [],
+   "drive": null,
+   "phone": "972535877583"
+  },
+  {
+   "id": "ACC72AD30AC581B3B17E2D0199681A71",
+   "sender": "רחל  מעתוק",
+   "text": "תבדקו אם פתוח שם בשעות האלו",
+   "ts": 1790584279000,
+   "date": "2026-09-28",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972524300981"
+  },
+  {
+   "id": "AC2B5BD929D0101D533E043B34AB843B",
+   "sender": "דניאל לוי",
+   "text": "שימו לב אחרי מפגש הסיטי לכיוון צומת של פרוסטיק יש מצלמה סמויה",
+   "ts": 1790584292000,
+   "date": "2026-09-28",
+   "time": "11:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "358KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CkdWJiKcOpdCKM4Zyz8iEWtFA6Mwj_ll/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CkdWJiKcOpdCKM4Zyz8iEWtFA6Mwj_ll&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504235686"
+  },
+  {
+   "id": "3A63477AA0C79F5E2AA2",
+   "sender": "אחיה דייפני",
+   "text": "אלוף",
+   "ts": 1790584431000,
+   "date": "2026-09-28",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972526015520"
   }
  ]
 }
