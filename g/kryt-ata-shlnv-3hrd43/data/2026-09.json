@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T15:24:36.863Z",
+ "updated": "2026-09-28T15:33:07.014Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -38518,6 +38518,26 @@
    "files": [],
    "drive": null,
    "phone": "972507732446"
+  },
+  {
+   "id": "3A1F8F9D43F92FCE320B",
+   "sender": "אסף",
+   "text": "תמונת תבליט פרחים 120₪",
+   "ts": 1790609564000,
+   "date": "2026-09-28",
+   "time": "18:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l4OPU0iCS0j0VFlp2lKgiBbgZArOUhYG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l4OPU0iCS0j0VFlp2lKgiBbgZArOUhYG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

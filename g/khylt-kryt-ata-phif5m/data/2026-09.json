@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-28T15:07:36.644Z",
+ "updated": "2026-09-28T15:31:06.988Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -3389,7 +3389,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1wDW6eSuaTDHhxfmgJh2WcOvaO3udLjbr/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1wDW6eSuaTDHhxfmgJh2WcOvaO3udLjbr&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1wDW6eSuaTDHhxfmgJh2WcOvaO3udLjbr&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-09/2A8D86708CB74E862B12_0.mp4"
     }
    ],
    "drive": null,
@@ -3696,7 +3697,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Isofv258iuKMsAEX9pUg4ILWxUrgLhfu/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Isofv258iuKMsAEX9pUg4ILWxUrgLhfu&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Isofv258iuKMsAEX9pUg4ILWxUrgLhfu&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-09/ACD8228BE839F09724F9B56ABCD34F37_0.mp4"
     }
    ],
    "drive": null,
@@ -3727,7 +3729,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1n09rB64qKaHXBskd021c6jp2EM8MuWir/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1n09rB64qKaHXBskd021c6jp2EM8MuWir&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1n09rB64qKaHXBskd021c6jp2EM8MuWir&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-09/A57BD49E7E93CBB89D6EB77605019FBB_0.mp4"
     }
    ],
    "drive": null,
@@ -3927,7 +3930,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1VfkRkriMW0S7R6dRMoZZpKa1Li68EoZP/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1VfkRkriMW0S7R6dRMoZZpKa1Li68EoZP&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1VfkRkriMW0S7R6dRMoZZpKa1Li68EoZP&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-09/A5D7D4A06D74314E2135D8990034E0E5_0.mp4"
     }
    ],
    "drive": null,
@@ -8441,6 +8445,17 @@
    ],
    "drive": null,
    "phone": "972544814659"
+  },
+  {
+   "id": "A5DEBF9F9A6B2B800BD50F6F49F75742",
+   "sender": "אליהו סרוסי",
+   "text": "כעת יש הכנסת ספר תורה ברחוב המגינים בק. אתא שימו לב",
+   "ts": 1790609446000,
+   "date": "2026-09-28",
+   "time": "18:30",
+   "files": [],
+   "drive": null,
+   "phone": "972503004242"
   }
  ]
 }

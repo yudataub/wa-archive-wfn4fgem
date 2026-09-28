@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T15:16:36.763Z",
+ "updated": "2026-09-28T15:28:36.941Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32855,6 +32855,17 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5685066E413A9986D42EFEAF71553F3",
+   "sender": "אני",
+   "text": "https://script.google.com/macros/s/AKfycbx4ZxfBx7dlCyAec8QpFkqY7R4wUtwEIYHLUNEtPsjjYQyVYBtQrmdAX8MJyVzlp3sPXg/exec?id=19TWEx1CUL223nYCSiJILjTiD-TSCdDzN\nדוגמא מה ניתן לעשות",
+   "ts": 1790609315000,
+   "date": "2026-09-28",
+   "time": "18:28",
+   "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
