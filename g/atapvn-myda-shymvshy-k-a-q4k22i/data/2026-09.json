@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-28T09:26:14.370Z",
+ "updated": "2026-09-28T10:01:18.816Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5406,6 +5406,26 @@
    "files": [],
    "drive": null,
    "phone": "972559326761"
+  },
+  {
+   "id": "ACEBF383369A213C2CAEA696BE6FFE94",
+   "sender": "B",
+   "text": "",
+   "ts": 1790589646000,
+   "date": "2026-09-28",
+   "time": "13:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jz-9KJfX9MVeJP6kxME4z2No6rcdVEpg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jz-9KJfX9MVeJP6kxME4z2No6rcdVEpg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T09:50:27.158Z",
+ "updated": "2026-09-28T10:01:38.768Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -20200,7 +20200,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1yjUUWpLwUOUIMNlKyA1BLWtS3V5lpAEe/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1yjUUWpLwUOUIMNlKyA1BLWtS3V5lpAEe&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1yjUUWpLwUOUIMNlKyA1BLWtS3V5lpAEe&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB00BBA35052DD68F1BC1_0.mp4"
     }
    ],
    "drive": null
@@ -20219,7 +20220,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1VvuI4iUUZQrzi3ZdfActJVCQufXS-gKH/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1VvuI4iUUZQrzi3ZdfActJVCQufXS-gKH&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1VvuI4iUUZQrzi3ZdfActJVCQufXS-gKH&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-09/3EB0FBDDE152E8DFD565E5_0.mp4"
     }
    ],
    "drive": null
@@ -30852,6 +30854,17 @@
    "files": [],
    "drive": null,
    "phone": "972544269091"
+  },
+  {
+   "id": "AC7BC8627E03AD3982D90630F5C0D112",
+   "sender": "Stdb",
+   "text": "לדעתי מספיק שיש לו חיבור לגוגל",
+   "ts": 1790589697000,
+   "date": "2026-09-28",
+   "time": "13:01",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
   }
  ]
 }
