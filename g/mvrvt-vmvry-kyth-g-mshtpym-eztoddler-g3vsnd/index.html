@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- wa-archive-generated v24 -->
+<!-- wa-archive-generated v25 -->
 <!--
   דף הארכיון של קבוצה אחת. נכתב על ידי whatsapp-bridge/site.js לתוך
   g/<slug>/index.html — לא לערוך שם (יידרס בעדכון גרסה); לערוך כאן,
@@ -65,6 +65,8 @@ font-size:11px;font-family:inherit;cursor:pointer;line-height:1.4;text-decoratio
 .file{display:inline-block;background:var(--panel);border:1px solid var(--line);
 border-radius:8px;padding:6px 10px;font-size:13px;text-decoration:none;color:var(--ink);}
 .file.dead{opacity:.6;}
+.htmlfile{display:inline-flex;align-items:center;gap:8px;flex-wrap:wrap;align-self:flex-start;}
+.htmlfile .drv{font-size:12px;color:var(--muted,#6b7280);}
 .video{position:relative;display:block;max-width:100%;border-radius:8px;overflow:hidden;background:#000;}
 .video img{opacity:.85;}
 .video .play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:44px;text-shadow:0 2px 10px rgba(0,0,0,.6);}
@@ -135,6 +137,7 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <select id="mediatype" aria-label="סינון לפי סוג קובץ"><option value="">כל הסוגים</option><option value="text">טקסט בלבד</option><option value="image">תמונות</option><option value="video">וידאו</option><option value="audio">הקלטות</option><option value="doc">מסמכים</option></select>
 </header>
 <script type="text/plain" id="delurl">https://script.google.com/macros/s/AKfycbw3AFtdBmWMxGe6pxATEBzUVnVehh_wU4oDHlOIQbI-IeVgq_BZEmWNg2BQ_-iYM_DD/exec</script>
+<script type="text/plain" id="htmlview">https://script.google.com/macros/s/AKfycbx4ZxfBx7dlCyAec8QpFkqY7R4wUtwEIYHLUNEtPsjjYQyVYBtQrmdAX8MJyVzlp3sPXg/exec</script>
 <div id="navwrap"><div id="navback"></div>
 <div id="nav"><div class="nav-head"><h2>קפיצה לתאריך</h2><button id="navclose" title="סגירה" aria-label="סגירה">✕</button></div><div id="navlist"></div></div></div>
 <main>
@@ -164,6 +167,8 @@ border:1px solid var(--line);border-radius:10px;cursor:pointer;}
 <script>
 var months=[],loaded=[],all=[],filter="",who="",mediaType="";
 var DELURL=((document.getElementById("delurl")||{}).textContent||"").trim();
+// html-viewer.gs: דרייב לא מציג HTML — השירות מגיש את הקובץ כדף, בדומיין של גוגל (מבודד מה-localStorage כאן)
+var HTMLVIEW=((document.getElementById("htmlview")||{}).textContent||"").trim();
 // שמות מוצגים (names.json בשורש המאגר, נערך מהאלפון): { phones:{<מספר>:שם}, names:{<שם ישן>:שם} }
 var NAMES={phones:{},names:{}};
 function alias(name,phone){return (phone&&NAMES.phones[phone])||NAMES.names[name]||name;}
@@ -235,8 +240,14 @@ function fileHtml(f){
  if(isAudio(f)&&driveIdOf(f)){
   return '<a class="file audio" href="'+href+'" data-drive="'+esc(driveIdOf(f))+'" target="_blank" rel="noopener">▶ '+
    esc(/^(PTT|AUD)/i.test(f.name)?"הודעה קולית":f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>";}
+ // קובץ HTML מהדרייב: הקישור הראשי פותח אותו כדף דרך html-viewer; קישור קטן לדרייב נשאר (הורדה/שיתוף)
+ if(HTMLVIEW&&isHtmlFile(f)&&driveIdOf(f)){
+  return '<span class="htmlfile"><a class="file" href="'+encodeURI(HTMLVIEW)+"?id="+encodeURIComponent(driveIdOf(f))+
+   '" target="_blank" rel="noopener" title="פתיחה כדף">🌐 '+esc(f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>"+
+   '<a class="drv" href="'+href+'" target="_blank" rel="noopener" title="פתיחה בדרייב">דרייב ↗</a></span>';}
  return '<a class="file" href="'+href+'" target="_blank" rel="noopener">'+
   esc(f.name)+(f.size?" ("+esc(f.size)+")":"")+"</a>";}
+function isHtmlFile(f){return f.type==="text/html"||/\.x?html?$/i.test(f.name||"");}
 function driveHtml(d){return '<a class="file" href="'+encodeURI(d.url)+
  '" target="_blank" rel="noopener">'+esc(d.name)+" ("+esc(d.size)+") — בדרייב</a>";}
 function render(){
