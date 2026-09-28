@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T12:03:05.346Z",
+ "updated": "2026-09-28T12:55:43.218Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6498,6 +6498,37 @@
    "files": [],
    "drive": null,
    "phone": "972528409041"
+  },
+  {
+   "id": "2A5C5D85A1E0DA3D4570",
+   "sender": "Diana",
+   "text": "החלקה אורגנית במחיר מיוחד לקראת החג !",
+   "ts": 1790599974000,
+   "date": "2026-09-28",
+   "time": "15:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Yx0u-BAOtZwHRI42pItRxZihOyaEhivz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Yx0u-BAOtZwHRI42pItRxZihOyaEhivz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528508065"
+  },
+  {
+   "id": "A5DD3CEFF5949E770343BFBDE30ABB33",
+   "sender": "תשמשי קדושה",
+   "text": "מחפש סופר סתם דחוף בקרית אתא שמוכר מזוזות",
+   "ts": 1790600137000,
+   "date": "2026-09-28",
+   "time": "15:55",
+   "files": [],
+   "drive": null,
+   "phone": "972583278823"
   }
  ]
 }

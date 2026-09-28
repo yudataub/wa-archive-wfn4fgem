@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T12:12:35.536Z",
+ "updated": "2026-09-28T12:56:43.230Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -37254,6 +37254,81 @@
    ],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "2A5F89E29924BB78D51B",
+   "sender": "Diana",
+   "text": "החלקה אורגנית במחיר מיוחד לקראת החג !",
+   "ts": 1790599978000,
+   "date": "2026-09-28",
+   "time": "15:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-JElpnu3AjnbDuOU_m2RKTHlsTzglokM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-JElpnu3AjnbDuOU_m2RKTHlsTzglokM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528508065"
+  },
+  {
+   "id": "A5E2A093B0AF3F1147C7AC06FA915B75",
+   "sender": "תשמשי קדושה",
+   "text": "מחפש סופר",
+   "ts": 1790600031000,
+   "date": "2026-09-28",
+   "time": "15:53",
+   "files": [],
+   "drive": null,
+   "phone": "972583278823"
+  },
+  {
+   "id": "A5E34B60B7D578BDCA9D91591EC28FD5",
+   "sender": "תשמשי קדושה",
+   "text": "של מזוזות דחוף",
+   "ts": 1790600033000,
+   "date": "2026-09-28",
+   "time": "15:53",
+   "files": [],
+   "drive": null,
+   "phone": "972583278823"
+  },
+  {
+   "id": "3A931ED84EC48D698D92",
+   "sender": "שלמה והודיה בן חיים",
+   "text": "שלח הודעה בפרטי אפנה אותך למישהו טוב",
+   "ts": 1790600162000,
+   "date": "2026-09-28",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972536891688"
+  },
+  {
+   "id": "3A5C3A65CE6D8D186703",
+   "sender": "שירה אילוז",
+   "text": "בעלי",
+   "ts": 1790600198000,
+   "date": "2026-09-28",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972523288448"
+  },
+  {
+   "id": "3A8C5FC9BA7CBABC5D3D",
+   "sender": "שירה אילוז",
+   "text": "0507320488",
+   "ts": 1790600200000,
+   "date": "2026-09-28",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972523288448"
   }
  ]
 }
