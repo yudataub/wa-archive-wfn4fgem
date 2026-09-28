@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T04:15:28.407Z",
+ "updated": "2026-09-28T05:55:29.962Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6160,6 +6160,26 @@
    "files": [],
    "drive": null,
    "phone": "972559927434"
+  },
+  {
+   "id": "2A4C4482F6AED612916F",
+   "sender": "הדייג דגים טריים מהים אליכם לבית !",
+   "text": "הדייג מחכה לכם עם דגים טריים לכבוד החג ✨🎣",
+   "ts": 1790574909000,
+   "date": "2026-09-28",
+   "time": "08:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1R7bKLuVaVAqPJwHjbXFR4XYWCzOfRHJD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R7bKLuVaVAqPJwHjbXFR4XYWCzOfRHJD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528894841"
   }
  ]
 }

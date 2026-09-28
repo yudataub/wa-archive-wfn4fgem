@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-09-28T05:45:29.801Z",
+ "updated": "2026-09-28T05:56:59.993Z",
  "messages": [
   {
    "id": "AC9C877EE7068F6E9D8A9C94FCB56E6A",
@@ -73,6 +73,46 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "AC0646904200D46B22AB751161B0499C",
+   "sender": "רחלה תורג'מן",
+   "text": "",
+   "ts": 1790575016000,
+   "date": "2026-09-28",
+   "time": "08:56",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "155KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1TX5KaGIbncEJuRTCd_vhk446WVmoGcYN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TX5KaGIbncEJuRTCd_vhk446WVmoGcYN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526070763"
+  },
+  {
+   "id": "AC0BC4554EC2465E16EE32C0A8A0F6CB",
+   "sender": "רחלה תורג'מן",
+   "text": "",
+   "ts": 1790575016000,
+   "date": "2026-09-28",
+   "time": "08:56",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "44KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1ZupmQ4WiXr3m1JuQc7f6ddgRhSyfLnpq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZupmQ4WiXr3m1JuQc7f6ddgRhSyfLnpq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526070763"
   }
  ]
 }
