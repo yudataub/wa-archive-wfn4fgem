@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T12:03:05.352Z",
+ "updated": "2026-09-28T12:13:05.511Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1353,6 +1353,26 @@
    ],
    "drive": null,
    "phone": "972527974222"
+  },
+  {
+   "id": "3AF32B8AE9CC45F4C90A",
+   "sender": "דנה❣️",
+   "text": "תלת אופן לנסיכות💝\nרק-150שח!!!\nאיסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790597558000,
+   "date": "2026-09-28",
+   "time": "15:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XBAMGISm8TdD_LJnoG-YeM41MuQoXZV3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XBAMGISm8TdD_LJnoG-YeM41MuQoXZV3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T11:55:05.227Z",
+ "updated": "2026-09-28T12:12:35.536Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -37234,6 +37234,26 @@
    "files": [],
    "drive": null,
    "phone": "972555574177"
+  },
+  {
+   "id": "3A7567ACDEB90D348255",
+   "sender": "דנה❣️",
+   "text": "תלת אופן לנסיכות💝\nרק-150שח!!!\nאיסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790597551000,
+   "date": "2026-09-28",
+   "time": "15:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V0WsoqcSpSq9unmvduBj11wXmBX3U82j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V0WsoqcSpSq9unmvduBj11wXmBX3U82j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }
