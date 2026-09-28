@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-28T00:36:59.487Z",
+ "updated": "2026-09-28T01:52:30.867Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4454,6 +4454,28 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "2ABA9DE0A80008B670BF",
+   "sender": "972 Education Inc. Orly",
+   "text": "אה הבנתי.",
+   "ts": 1790560334000,
+   "date": "2026-09-28",
+   "time": "04:52",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2AD25A21E9A3E0047A22",
+   "sender": "972 Education Inc. Orly",
+   "text": "לא התנסיתי בו",
+   "ts": 1790560341000,
+   "date": "2026-09-28",
+   "time": "04:52",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
   }
  ]
 }
