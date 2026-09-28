@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T11:03:46.812Z",
+ "updated": "2026-09-28T11:24:53.910Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1406,6 +1406,37 @@
    "files": [],
    "drive": null,
    "phone": "972526134003"
+  },
+  {
+   "id": "3EB07D15E604703050B39F",
+   "sender": "עמי חניא",
+   "text": "סרטון עם קלוד - הוא הכין את הכל וחיבר הכל לבד :)\nשלחתי לו את האתר של OrQuiz וסרטון ואמרתי לו שיעשה מזה סרטון תדמית מדליק.\nזו הגרסה החמישית אחרי כמה תיקונים.\nאת הסאונד עשיתי בנפרד עם אילבן לאבס - לא מושלם אבל סביר מאוד.\nוהוא עשה אנימציה נהדרת באופן כללי וגם הביא את היתרונות שלנו בצורה ברורה.",
+   "ts": 1790594587000,
+   "date": "2026-09-28",
+   "time": "14:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ahbFn9cj-pdXmpF-lbGRD89p1XAThKOK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ahbFn9cj-pdXmpF-lbGRD89p1XAThKOK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC7DF20335E53B69748A5CA0B5CA5F50",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "מהמם",
+   "ts": 1790594684000,
+   "date": "2026-09-28",
+   "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

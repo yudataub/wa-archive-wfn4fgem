@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T10:53:16.655Z",
+ "updated": "2026-09-28T11:27:53.977Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -30932,6 +30932,68 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "3EB013225C677B3334D68A",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790594868000,
+   "date": "2026-09-28",
+   "time": "14:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "205KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1aMsIlCrswF5Igjs5kXDd7HzZPJHBI9Z-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aMsIlCrswF5Igjs5kXDd7HzZPJHBI9Z-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB03F3798EC1E6DBFE6FC",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790594869000,
+   "date": "2026-09-28",
+   "time": "14:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "205KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1xtHJuUCqxX67Rpuwi6xhYp4X2pc1r_AJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xtHJuUCqxX67Rpuwi6xhYp4X2pc1r_AJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0231AA1C8CFDCF3A367",
+   "sender": "נועם",
+   "text": "נוצר באינסטינקט.",
+   "ts": 1790594871000,
+   "date": "2026-09-28",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB052B5D94E6F678EE8B0",
+   "sender": "נועם",
+   "text": "נוצר באינסטינקט.",
+   "ts": 1790594872000,
+   "date": "2026-09-28",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
