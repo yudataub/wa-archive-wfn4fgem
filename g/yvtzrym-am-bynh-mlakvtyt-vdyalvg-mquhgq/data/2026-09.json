@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T15:43:31.064Z",
+ "updated": "2026-09-28T15:53:01.205Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31443,6 +31443,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=1MMzODbhG3n70bXOdaI2kzk9CnvEpkhWJ&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0CEF6047B5945F19ADD",
+   "sender": "Stdb",
+   "text": "לא שווה אם זה לא באינסטינקט",
+   "ts": 1790610703000,
+   "date": "2026-09-28",
+   "time": "18:51",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0B2409CD92C9501E92C",
+   "sender": "נועם",
+   "text": "שלח לאינסינקט, הוא יעשה את זה גם.",
+   "ts": 1790610773000,
+   "date": "2026-09-28",
+   "time": "18:52",
+   "files": [],
    "drive": null,
    "phone": "972534663621"
   }

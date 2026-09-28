@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T15:33:07.014Z",
+ "updated": "2026-09-28T15:52:11.872Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -13343,7 +13343,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ZF9BqwEMO5vRyNGO5PpcF-FYn2QAgjBC/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ZF9BqwEMO5vRyNGO5PpcF-FYn2QAgjBC&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ZF9BqwEMO5vRyNGO5PpcF-FYn2QAgjBC&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/AC7944AF60F5ABB3C3C9E18165837281_0.mp4"
     }
    ],
    "drive": null,
@@ -16483,7 +16484,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1EosuaFPmOPFFLR0linSa25dWFXbHQ0y3/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1EosuaFPmOPFFLR0linSa25dWFXbHQ0y3&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1EosuaFPmOPFFLR0linSa25dWFXbHQ0y3&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/2AE9C9EF66F42ACF4F42_0.mp4"
     }
    ],
    "drive": null,
@@ -16731,7 +16733,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Jk9ukd6j3943kIWqZW94LZlmvuT9lTvs/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Jk9ukd6j3943kIWqZW94LZlmvuT9lTvs&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Jk9ukd6j3943kIWqZW94LZlmvuT9lTvs&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/2AD4F1D9D6CD905F3CFF_0.mp4"
     }
    ],
    "drive": null,
@@ -16813,7 +16816,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1POQipgjARGtQppVxQ8WY4966IFFO4lWj/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1POQipgjARGtQppVxQ8WY4966IFFO4lWj&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1POQipgjARGtQppVxQ8WY4966IFFO4lWj&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/3A415EE296837EA862F4_0.mp4"
     }
    ],
    "drive": null,
@@ -38538,6 +38542,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "3A8388F85F374EA3E5F4",
+   "sender": "Eliram",
+   "text": "",
+   "ts": 1790610715000,
+   "date": "2026-09-28",
+   "time": "18:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GVzFXs554SRz6L544kf42UpXBa4V4aYG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GVzFXs554SRz6L544kf42UpXBa4V4aYG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523411900"
   }
  ]
 }

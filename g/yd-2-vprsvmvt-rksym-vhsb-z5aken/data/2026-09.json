@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T14:53:59.392Z",
+ "updated": "2026-09-28T15:48:41.808Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6613,6 +6613,37 @@
    ],
    "drive": null,
    "phone": "972584478840"
+  },
+  {
+   "id": "A5342E68746BB3B722CE561337DA2A5E",
+   "sender": "ל כ",
+   "text": "למכירה חדש רק האריזה נפתחה במקום 120 100",
+   "ts": 1790610495000,
+   "date": "2026-09-28",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "phone": "972526087458"
+  },
+  {
+   "id": "A5C8A99AFD06D0681209C0DA72928B88",
+   "sender": "ל כ",
+   "text": "",
+   "ts": 1790610495000,
+   "date": "2026-09-28",
+   "time": "18:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18Fl8X-kUy61pP93Y-7yWihoIIrreoq5A/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18Fl8X-kUy61pP93Y-7yWihoIIrreoq5A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526087458"
   }
  ]
 }
