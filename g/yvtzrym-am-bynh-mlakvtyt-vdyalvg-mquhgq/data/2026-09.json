@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T10:21:09.068Z",
+ "updated": "2026-09-28T10:33:16.334Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -30879,6 +30879,26 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "ACA75DDD6268F90CF08150060DE5C218",
+   "sender": "הילי זוורו",
+   "text": "בואו ללמוד להכין פודקאסטים מהממים, הקלטות אישיות, הקראה והנגשה בgoogle ai studio 🌷\n\nhttps://youtu.be/b6erGYaL_XU?si=4vnK18HHIfxpvif9\n\n🌺 💌מוזמנות לקבוצת הוואטאפ השקטה בה אני שולחת מדריכים, רעיונות והזמנות לקורסים והשתלמויות:",
+   "ts": 1790591568000,
+   "date": "2026-09-28",
+   "time": "13:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "370KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1y8g1ZaK9EI0Z2yLeNkW-SuKCSeXDIqWd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y8g1ZaK9EI0Z2yLeNkW-SuKCSeXDIqWd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
   }
  ]
 }

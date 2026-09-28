@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-28T09:22:14.306Z",
+ "updated": "2026-09-28T10:33:49.282Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8201,6 +8201,46 @@
    "files": [],
    "drive": null,
    "phone": "972503004242"
+  },
+  {
+   "id": "ACE06D5478C71BD2FEC4C46F3E0DA305",
+   "sender": "תומ",
+   "text": "",
+   "ts": 1790591623000,
+   "date": "2026-09-28",
+   "time": "13:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V9HWplGs9cXTEeq-63j5urILbxB83mZw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V9HWplGs9cXTEeq-63j5urILbxB83mZw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
+  },
+  {
+   "id": "ACD260C6B4869E8F0B924C5C7EC3CFE0",
+   "sender": "תומ",
+   "text": "",
+   "ts": 1790591624000,
+   "date": "2026-09-28",
+   "time": "13:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1su5oa0ayIhMjldx7TwPn_VW4qad14EwH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1su5oa0ayIhMjldx7TwPn_VW4qad14EwH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
   }
  ]
 }

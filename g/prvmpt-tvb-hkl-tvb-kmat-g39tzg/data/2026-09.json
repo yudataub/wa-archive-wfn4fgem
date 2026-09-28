@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-28T08:57:02.201Z",
+ "updated": "2026-09-28T10:32:46.320Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4726,6 +4726,26 @@
    ],
    "drive": null,
    "phone": "972506407467"
+  },
+  {
+   "id": "ACF21F9DDB7527CB5682EB810266071F",
+   "sender": "הילי זוורו",
+   "text": "בואו ללמוד להכין פודקאסטים מהממים, הקלטות אישיות, הקראה והנגשה בgoogle ai studio 🌷\n\nhttps://youtu.be/b6erGYaL_XU?si=4vnK18HHIfxpvif9\n\n🌺 💌מוזמנות לקבוצת הוואטאפ השקטה בה אני שולחת מדריכים, רעיונות והזמנות לקורסים והשתלמויות:",
+   "ts": 1790591560000,
+   "date": "2026-09-28",
+   "time": "13:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "370KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12OPxm0jur8r-naOUDzGp46VpCZQWhJQl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12OPxm0jur8r-naOUDzGp46VpCZQWhJQl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
   }
  ]
 }
