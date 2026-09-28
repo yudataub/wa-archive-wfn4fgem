@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-28T11:51:54.354Z",
+ "updated": "2026-09-28T13:18:38.069Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -5614,6 +5614,36 @@
    "files": [],
    "drive": null,
    "phone": "972522556136"
+  },
+  {
+   "id": "ACD4B6E76B096CB9DBD06C25E86B77F1",
+   "sender": "שרית חיים",
+   "text": "",
+   "ts": 1790601491000,
+   "date": "2026-09-28",
+   "time": "16:18",
+   "files": [
+    {
+     "name": "מיומנויות cil.pdf",
+     "size": "693KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1zbPZ3QFhW-fbG5qNS7e7fZeGMFwZBS7R/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507102836"
+  },
+  {
+   "id": "AC155DAA1435763EA7870F08853D1575",
+   "sender": "שרית חיים",
+   "text": "אולי זה🤔👆",
+   "ts": 1790601505000,
+   "date": "2026-09-28",
+   "time": "16:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507102836"
   }
  ]
 }
