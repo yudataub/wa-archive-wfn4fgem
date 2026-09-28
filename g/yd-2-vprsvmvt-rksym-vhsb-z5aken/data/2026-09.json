@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T17:38:23.900Z",
+ "updated": "2026-09-28T18:03:37.362Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6689,6 +6689,26 @@
    ],
    "drive": null,
    "phone": "972526699371"
+  },
+  {
+   "id": "A545883B190EEF99104F827CB0F2C499",
+   "sender": "מאיר מוגרבי",
+   "text": "למכירה מחשב נייד אסוס מעבד i3 מסך 14 אינצ' ראם 8 הארד דיסק 256 ssd ווינדוס אופיס ותוכנות בסיסיות סוללה טובה שמור כמו חדש כולל מטען מקורי 054-6084870",
+   "ts": 1790618605000,
+   "date": "2026-09-28",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kscR5lNCacxtaH1yn3UzzrOduFeFtZFj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kscR5lNCacxtaH1yn3UzzrOduFeFtZFj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }
