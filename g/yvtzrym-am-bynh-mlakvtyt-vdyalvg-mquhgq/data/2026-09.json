@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T13:29:08.223Z",
+ "updated": "2026-09-28T14:12:16.087Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31267,6 +31267,37 @@
    "files": [],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "3EB0E72AC00D2ABC32F11E",
+   "sender": "Stdb",
+   "text": "לא כל הנוצץ זהב ✨",
+   "ts": 1790604727000,
+   "date": "2026-09-28",
+   "time": "17:12",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1y1ei2FFkK6ejtKWglTsKienqDNHHOX09/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y1ei2FFkK6ejtKWglTsKienqDNHHOX09&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0842CF2C308AB58A244",
+   "sender": "Stdb",
+   "text": "עשיתי באינסטינקט",
+   "ts": 1790604732000,
+   "date": "2026-09-28",
+   "time": "17:12",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-28T13:32:20.442Z",
+ "updated": "2026-09-28T14:14:28.792Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7634,6 +7634,17 @@
    ],
    "drive": null,
    "phone": "972545885131"
+  },
+  {
+   "id": "AC44E2764121FF668A32288EE3395459",
+   "sender": "ישראל יעקב",
+   "text": "https://www.youtube.com/live/jfWv5YN3-bM?si=UiUP8mVy7ClaFexy",
+   "ts": 1790604855000,
+   "date": "2026-09-28",
+   "time": "17:14",
+   "files": [],
+   "drive": null,
+   "phone": "972506617366"
   }
  ]
 }
