@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "954- חדשות קרית אתא 🔟",
- "updated": "2026-09-27T11:03:19.283Z",
+ "updated": "2026-09-28T07:13:31.213Z",
  "messages": [
   {
    "id": "A56BC6F701DD918F6CEDB84CC27BEA52",
@@ -216,6 +216,26 @@
    "date": "2026-09-27",
    "time": "14:02",
    "files": [],
+   "drive": null,
+   "phone": "972542240130"
+  },
+  {
+   "id": "A5F4C0F064DF9A3E5A99B720618FD97A",
+   "sender": "לוין",
+   "text": "",
+   "ts": 1790579599000,
+   "date": "2026-09-28",
+   "time": "10:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-1OrPUS8nSglVN7g_cXCQMKSs-X0CEcq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-1OrPUS8nSglVN7g_cXCQMKSs-X0CEcq&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972542240130"
   }

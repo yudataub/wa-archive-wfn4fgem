@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-28T07:03:01.056Z",
+ "updated": "2026-09-28T07:08:31.124Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -4813,6 +4813,26 @@
    "files": [],
    "drive": null,
    "phone": "972556624979"
+  },
+  {
+   "id": "AC46809DE7A0F1808EAE340623482DF9",
+   "sender": "שמעון בלמס 💐",
+   "text": "שימו לב\nצומת העמקים/ויצמן בק.ביאליק.\nמצלמה מצלמת מעבר אור אדום\n + מהירות.\n\nכולל מעבר באור כתום.",
+   "ts": 1790579296000,
+   "date": "2026-09-28",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fS19UHVnSAq1hxZ55Nq7qgV5Wb0Zz0yx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fS19UHVnSAq1hxZ55Nq7qgV5Wb0Zz0yx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547262999"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T06:59:31.002Z",
+ "updated": "2026-09-28T07:16:31.251Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32450,6 +32450,26 @@
    "drive": null,
    "thread": "אורלי אוחנה",
    "phone": "972507864721"
+  },
+  {
+   "id": "AC7143942EAEA5BD98C475DB7F40D9D2",
+   "sender": "מענדי",
+   "text": "",
+   "ts": 1790579777000,
+   "date": "2026-09-28",
+   "time": "10:16",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "104KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1a_9rfKcl5kNBKJwTRa253jKyW_BBinbd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מענדי",
+   "phone": "972585770542"
   }
  ]
 }
