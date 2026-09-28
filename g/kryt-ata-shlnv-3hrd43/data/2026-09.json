@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-28T07:44:31.547Z",
+ "updated": "2026-09-28T08:14:02.044Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -36645,6 +36645,26 @@
    "files": [],
    "drive": null,
    "phone": "972523495237"
+  },
+  {
+   "id": "AC98DB8F629E8F2270352A194FF2A30D",
+   "sender": "תמר",
+   "text": "למסירה מיטה וחצי וארון הזזה",
+   "ts": 1790583237000,
+   "date": "2026-09-28",
+   "time": "11:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "298KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jrmSGNi4NpK76mrQLMGYobnLZPG7VahL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jrmSGNi4NpK76mrQLMGYobnLZPG7VahL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506397884"
   }
  ]
 }

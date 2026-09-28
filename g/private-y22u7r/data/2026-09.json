@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T07:20:01.132Z",
+ "updated": "2026-09-28T08:11:32.014Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32510,6 +32510,17 @@
    "drive": null,
    "thread": "מענדי",
    "phone": "972585770542"
+  },
+  {
+   "id": "3EB0911D1CA1CC34DD60FB",
+   "sender": "אני",
+   "text": "משה רבינו\nhttps://tinyurl.com/2ynf7nas",
+   "ts": 1790583087000,
+   "date": "2026-09-28",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
