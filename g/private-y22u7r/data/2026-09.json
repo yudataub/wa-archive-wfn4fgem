@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T14:56:29.432Z",
+ "updated": "2026-09-28T15:07:06.623Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32780,6 +32780,52 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB086F4091A9D6A76B211",
+   "sender": "אני",
+   "text": "יש כאן הלכות בהירות עם גישה\nhttps://www.classe.world/teacher/#!/en/session/lessonsTable/164064",
+   "ts": 1790607758000,
+   "date": "2026-09-28",
+   "time": "18:02",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC403462D5A9432D01F472DC8B16F3CC",
+   "sender": "הילה שמר",
+   "text": "איזה יופי מעולה! תודה!",
+   "ts": 1790607904000,
+   "date": "2026-09-28",
+   "time": "18:05",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB02A83D80C9D68056174",
+   "sender": "אני",
+   "text": "תראה כמה חומר יש לך כאן\nhttps://drive.google.com/drive/folders/15Dm-MJN48MjUaciBsyiDfACStiW1_2BF?usp=drive_link",
+   "ts": 1790607932000,
+   "date": "2026-09-28",
+   "time": "18:05",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5F5B325C8BAC40CFC78C8603104A4A",
+   "sender": "kipnis adi",
+   "text": "תודה רבה",
+   "ts": 1790608002000,
+   "date": "2026-09-28",
+   "time": "18:06",
+   "files": [],
+   "drive": null,
+   "thread": "kipnis adi",
+   "phone": "972526024650"
   }
  ]
 }
