@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T16:26:52.343Z",
+ "updated": "2026-09-28T16:30:52.379Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1424,6 +1424,106 @@
    ],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "AC4E93157464E544546978E45987BB5B",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1790613044000,
+   "date": "2026-09-28",
+   "time": "19:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pA1Iufj9FQsLE_IpshEBqdqYTXno3CFA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pA1Iufj9FQsLE_IpshEBqdqYTXno3CFA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC049F8C5F9E82640887EAE57AFA3812",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1790613045000,
+   "date": "2026-09-28",
+   "time": "19:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "126KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hGkQCIvykhEvglwXJFyE0XENXmMWNQL4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hGkQCIvykhEvglwXJFyE0XENXmMWNQL4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACD9A8C02664DDEC5D718026EA926C3F",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1790613045000,
+   "date": "2026-09-28",
+   "time": "19:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15GB1zvW5yfS2VOJR9DSJpZURAVHjBPyy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15GB1zvW5yfS2VOJR9DSJpZURAVHjBPyy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC22465017F4638EAD2ED977A9203F2A",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1790613046000,
+   "date": "2026-09-28",
+   "time": "19:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tefKQLpVpPdaTcKK8xfLgHK6xWF35J13/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tefKQLpVpPdaTcKK8xfLgHK6xWF35J13&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACE0DFCEC104FBF46669D3B835E547F5",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1790613046000,
+   "date": "2026-09-28",
+   "time": "19:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xkc2ClSLSEs4fnS5rH-hFz6zVz3YUv1W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xkc2ClSLSEs4fnS5rH-hFz6zVz3YUv1W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-28T16:27:38.349Z",
+ "updated": "2026-09-28T16:33:38.446Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -31623,6 +31623,143 @@
    "date": "2026-09-28",
    "time": "19:27",
    "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A5A06C15EC4F9FFE91AA9E8325299302",
+   "sender": "natalie yehiam",
+   "text": "צריך סקיל לאמלקים",
+   "ts": 1790612895000,
+   "date": "2026-09-28",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "AC86E83CB14B5A7BE8A64EB29E13FE00",
+   "sender": "Stdb",
+   "text": "אני רוצה לעשות אוטומציה לזה אבל אני עצלן מדי ולא אחבר וואטסאפ בשביל זה",
+   "ts": 1790612930000,
+   "date": "2026-09-28",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A5705603BE7E9125C6C4A50695C5C7FE",
+   "sender": "natalie yehiam",
+   "text": "צריך סוכן כזה שרץ ברקע, תופס הודעות מעל X תווים וכותב בקצרה מה רצה המשורר",
+   "ts": 1790612965000,
+   "date": "2026-09-28",
+   "time": "19:29",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "ACD068240295DE3F629D84401A88E544",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1790612996000,
+   "date": "2026-09-28",
+   "time": "19:29",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "65KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1yIDiiTU9OUaBqtTWQ9GI3JtLGLmFsUQD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yIDiiTU9OUaBqtTWQ9GI3JtLGLmFsUQD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC2353AE7DC0BE19B74D7970CC5C8559",
+   "sender": "Stdb",
+   "text": "הו הנה משהו מעולה שנוצר באינסטינקט",
+   "ts": 1790613022000,
+   "date": "2026-09-28",
+   "time": "19:30",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A5FBF1C129AC0996B839EE882FD7DA14",
+   "sender": "natalie yehiam",
+   "text": "משהו מעניין לגבי אינסטינקט, היא התחילה לחתום בשם שלה על דברים.. גם אצלכם?",
+   "ts": 1790613114000,
+   "date": "2026-09-28",
+   "time": "19:31",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3A5E6C6CF1E447444F17",
+   "sender": "אנטולי",
+   "text": "גם איפוס עובד על מצב work בצ׳אט GPT",
+   "ts": 1790613123000,
+   "date": "2026-09-28",
+   "time": "19:32",
+   "files": [],
+   "drive": null,
+   "phone": "972522258139"
+  },
+  {
+   "id": "A5487C2C921A4A5BA80AB99D9B9201F7",
+   "sender": "Henry Ai",
+   "text": "רשמתי",
+   "ts": 1790613142000,
+   "date": "2026-09-28",
+   "time": "19:32",
+   "files": [],
+   "drive": null,
+   "phone": "972585005171"
+  },
+  {
+   "id": "ACBE34CEA390B77D15218BE9690F95CA",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1790613200000,
+   "date": "2026-09-28",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TA6fmwhL8pAR1ePaPNSVWTy6uJbH3O1H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TA6fmwhL8pAR1ePaPNSVWTy6uJbH3O1H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC93991ECAF28E30E576CE43E546BF2C",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1790613209000,
+   "date": "2026-09-28",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "65KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1GIgHiW1bFFGHxGs0cXpgpd3ZB06AS0uc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GIgHiW1bFFGHxGs0cXpgpd3ZB06AS0uc&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972507579152"
   }
