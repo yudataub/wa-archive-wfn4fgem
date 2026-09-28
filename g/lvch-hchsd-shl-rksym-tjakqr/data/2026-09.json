@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T14:01:20.860Z",
+ "updated": "2026-09-28T14:34:29.121Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5751,6 +5751,24 @@
    "files": [],
    "drive": null,
    "phone": "972536403000"
+  },
+  {
+   "id": "3EB032DDAC0EA88AC208E5",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790606043000,
+   "date": "2026-09-28",
+   "time": "17:34",
+   "files": [
+    {
+     "name": "מרכז המשחקים - חג הסוכות.html",
+     "size": "13KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1eOp6Hb5xdfOSuszex-f2llDxopvGoTIE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
   }
  ]
 }
