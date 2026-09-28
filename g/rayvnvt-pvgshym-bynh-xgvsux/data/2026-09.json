@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-28T13:33:38.295Z",
+ "updated": "2026-09-28T14:52:23.421Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -417,6 +417,28 @@
    ],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "AC7105F8C19C59F786F69C17F7AC2CFF",
+   "sender": "יפית גתר",
+   "text": "והכל ללא מנוי?",
+   "ts": 1790607085000,
+   "date": "2026-09-28",
+   "time": "17:51",
+   "files": [],
+   "drive": null,
+   "phone": "972537295998"
+  },
+  {
+   "id": "AC01553685ED41BAF8699EE643FBF79E",
+   "sender": "Silvia Sapoznik",
+   "text": "כן",
+   "ts": 1790607117000,
+   "date": "2026-09-28",
+   "time": "17:51",
+   "files": [],
+   "drive": null,
+   "phone": "972549220953"
   }
  ]
 }

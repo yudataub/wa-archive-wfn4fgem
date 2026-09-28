@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T14:44:59.263Z",
+ "updated": "2026-09-28T14:56:29.432Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32732,6 +32732,52 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB06D7CD623AF3FFCA4A7",
+   "sender": "אני",
+   "text": "https://script.google.com/macros/s/AKfycbx4ZxfBx7dlCyAec8QpFkqY7R4wUtwEIYHLUNEtPsjjYQyVYBtQrmdAX8MJyVzlp3sPXg/exec?id=1dL8Bt72rqtuWGErJkIIAoOh22bfo1yBs",
+   "ts": 1790607166000,
+   "date": "2026-09-28",
+   "time": "17:52",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC359481C8BC533FF70F88FF55149704",
+   "sender": "הילה שמר",
+   "text": "מעולה! תודה רבה🙏",
+   "ts": 1790607279000,
+   "date": "2026-09-28",
+   "time": "17:54",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACA2EFCC9FA7CC778636DAB75E01AD5F",
+   "sender": "הילה שמר",
+   "text": "זה מסודר יפה",
+   "ts": 1790607290000,
+   "date": "2026-09-28",
+   "time": "17:54",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB075B6A9C6398F1D2FD9",
+   "sender": "אני",
+   "text": "https://drive.google.com/drive/folders/1NTP9RERCgpDAWrwnJ0lPV7zgjT_PXbWF?usp=drive_link",
+   "ts": 1790607381000,
+   "date": "2026-09-28",
+   "time": "17:56",
+   "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }

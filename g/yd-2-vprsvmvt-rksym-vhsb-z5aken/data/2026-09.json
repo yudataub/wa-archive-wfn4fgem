@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T14:05:20.927Z",
+ "updated": "2026-09-28T14:53:59.392Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6593,6 +6593,26 @@
    "files": [],
    "drive": null,
    "phone": "972552801359"
+  },
+  {
+   "id": "A5683DCFAC7580FBB5EEF18B7E1DAC4D",
+   "sender": "אסתי ניסים",
+   "text": "מוזמנות באהבה כל שני והיום לסוכה שלנו לשיעור מחזק באמונה באווירת חג",
+   "ts": 1790607210000,
+   "date": "2026-09-28",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VkRJ9_ooDc_1yLa2vKIAUZIsi7KsE839/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VkRJ9_ooDc_1yLa2vKIAUZIsi7KsE839&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584478840"
   }
  ]
 }

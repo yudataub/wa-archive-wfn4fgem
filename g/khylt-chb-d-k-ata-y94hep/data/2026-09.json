@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-28T14:47:29.296Z",
+ "updated": "2026-09-28T14:56:59.437Z",
  "messages": [
   {
    "id": "AC5FD2B908C06BA39795B313E33C0CF0",
@@ -4612,6 +4612,26 @@
    "date": "2026-09-28",
    "time": "17:47",
    "files": [],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "AC423171AEF43D58E6085A307FB79D53",
+   "sender": "ronentayar",
+   "text": "*רבי יומי - י\"ז תשרי*\n\nשהרבי מסביר (לילדים)\nמה זה *שמחת בית השואבה*‼️\n\n*\"עם ישראל חי\" - ויעבור את כל קשיי הגלות*",
+   "ts": 1790607408000,
+   "date": "2026-09-28",
+   "time": "17:56",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1_bx54_1nyaYwIk0HaeU5Re_uufCQdvHt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_bx54_1nyaYwIk0HaeU5Re_uufCQdvHt&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972523730397"
   }
