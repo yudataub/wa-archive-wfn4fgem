@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-28T13:32:20.412Z",
+ "updated": "2026-09-28T13:43:50.613Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -32671,6 +32671,36 @@
    "files": [],
    "drive": null,
    "thread": "אוריה דהישראלי"
+  },
+  {
+   "id": "3EB0B5C966E50BD6BFBFDF",
+   "sender": "אני",
+   "text": "היום אנחנו חוזרים לקריה\nאז בעזרת השם ממחר בוקר",
+   "ts": 1790602995000,
+   "date": "2026-09-28",
+   "time": "16:43",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0712BAE4D9C5D5CC3F9",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790603006000,
+   "date": "2026-09-28",
+   "time": "16:43",
+   "files": [
+    {
+     "name": "מרכז המשחקים - חג הסוכות.html",
+     "size": "13KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1ryJ0SkKUoSNVW8A8nCOFhBjmTzrrGNeJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
