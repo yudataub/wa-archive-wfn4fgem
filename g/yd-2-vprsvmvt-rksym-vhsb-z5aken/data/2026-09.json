@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-28T09:42:14.596Z",
+ "updated": "2026-09-28T11:06:27.276Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6316,6 +6316,46 @@
    ],
    "drive": null,
    "phone": "972529955992"
+  },
+  {
+   "id": "A5E2587C74E2BF2AAF2BA69187202EE9",
+   "sender": "מתוק בממלכה",
+   "text": "מועדים לשמחה\nיש גם דוכני מזון פנוי להשכרות \nבאיסוף עצמי ..",
+   "ts": 1790593571000,
+   "date": "2026-09-28",
+   "time": "14:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "275KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sILjP1Devb1DVSfCxEg4LCTl9BUuR9mF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sILjP1Devb1DVSfCxEg4LCTl9BUuR9mF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538283971"
+  },
+  {
+   "id": "A5829F31A1A289D9B2BADF4DA27822D6",
+   "sender": "מתוק בממלכה",
+   "text": "",
+   "ts": 1790593573000,
+   "date": "2026-09-28",
+   "time": "14:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17ONj-D_3I4VM-_kTIaQGCOYDinrUgDn4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17ONj-D_3I4VM-_kTIaQGCOYDinrUgDn4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538283971"
   }
  ]
 }

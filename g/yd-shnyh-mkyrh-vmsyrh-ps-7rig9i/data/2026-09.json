@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T10:54:27.106Z",
+ "updated": "2026-09-28T10:59:27.140Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1253,6 +1253,26 @@
    ],
    "drive": null,
    "phone": "972509535820"
+  },
+  {
+   "id": "3A57E31D7EDAB44682E4",
+   "sender": "אסף",
+   "text": "שעון רטרו 120₪",
+   "ts": 1790593161000,
+   "date": "2026-09-28",
+   "time": "13:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FRF_1ODliGMViTRvjNHS3uNTvmr-zmVI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FRF_1ODliGMViTRvjNHS3uNTvmr-zmVI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

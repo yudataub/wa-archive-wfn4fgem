@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T10:57:46.741Z",
+ "updated": "2026-09-28T11:03:46.812Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1336,6 +1336,76 @@
    ],
    "drive": null,
    "phone": "972544700566"
+  },
+  {
+   "id": "3ADF9F1B680DCFC9D8AC",
+   "sender": "מיטל רוט",
+   "text": "",
+   "ts": 1790593071000,
+   "date": "2026-09-28",
+   "time": "13:57",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "24KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1wwHivR8jI2J1I-t8OwgHj2yp1sIYgwCS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wwHivR8jI2J1I-t8OwgHj2yp1sIYgwCS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544700566"
+  },
+  {
+   "id": "3AB594DADCF2E581F452",
+   "sender": "מיטל רוט",
+   "text": "",
+   "ts": 1790593081000,
+   "date": "2026-09-28",
+   "time": "13:58",
+   "files": [
+    {
+     "name": "מדבקה",
+     "size": "",
+     "type": "image/webp",
+     "path": "",
+     "skipped": "וואטסאפ לא איפשר להוריד"
+    }
+   ],
+   "drive": null,
+   "phone": "972544700566"
+  },
+  {
+   "id": "ACD3DE53A69370CCF01D39D07990CAD3",
+   "sender": "תמר סרולביץ",
+   "text": "",
+   "ts": 1790593154000,
+   "date": "2026-09-28",
+   "time": "13:59",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "24KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1lXWi_Xw0qHE1rOBoO-kJi02TcXzGpBA5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lXWi_Xw0qHE1rOBoO-kJi02TcXzGpBA5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546651406"
+  },
+  {
+   "id": "3EB08DE863DC8020E4F04A",
+   "sender": "שירן באליק בנדיקט",
+   "text": "רגע המחשב עושה כאן שטיקים",
+   "ts": 1790593425000,
+   "date": "2026-09-28",
+   "time": "14:03",
+   "files": [],
+   "drive": null,
+   "phone": "972526134003"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-28T09:23:14.337Z",
+ "updated": "2026-09-28T11:03:57.217Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -954,6 +954,26 @@
    "files": [],
    "drive": null,
    "phone": "972503004242"
+  },
+  {
+   "id": "A53227F516C9297A4B6ADB731FE88774",
+   "sender": "עזריאל",
+   "text": "למישהו יש את המודעה?",
+   "ts": 1790593405000,
+   "date": "2026-09-28",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "23KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uWt8EngKZr7Ifs2YT0mWDgJtJvMoBPyr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uWt8EngKZr7Ifs2YT0mWDgJtJvMoBPyr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }
