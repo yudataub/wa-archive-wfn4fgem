@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T16:14:22.097Z",
+ "updated": "2026-09-28T16:26:52.343Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1404,6 +1404,26 @@
    "files": [],
    "drive": null,
    "phone": "972524580295"
+  },
+  {
+   "id": "3A6203E09E258C4FA170",
+   "sender": "דנה❣️",
+   "text": "שולחן סלון מרובע מעוצב תחתית כסופה גיאומטרית ופלטת זכוכית❣️רק-250שח!!!\nאיסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790612804000,
+   "date": "2026-09-28",
+   "time": "19:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "338KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pJaO2wXj4Vcz2Bnl4ulj-Ql-bw9_5lyR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pJaO2wXj4Vcz2Bnl4ulj-Ql-bw9_5lyR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }

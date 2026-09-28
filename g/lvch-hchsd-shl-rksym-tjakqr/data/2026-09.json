@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-28T16:15:22.113Z",
+ "updated": "2026-09-28T16:22:22.232Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -5883,6 +5883,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1K3aFxvXuwr5TTF-c01Vbbr-AyqoA71Bm&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972584772228"
+  },
+  {
+   "id": "ACEED8269A4BA7A57ED9F553E9A0BCE6",
+   "sender": "Dudi",
+   "text": "מחפש הלילה בסביבות 1 נסיעה מרכסים לבני ברק .\nבתשלום לזוג.",
+   "ts": 1790612524000,
+   "date": "2026-09-28",
+   "time": "19:22",
+   "files": [],
    "drive": null,
    "phone": "972584772228"
   }
