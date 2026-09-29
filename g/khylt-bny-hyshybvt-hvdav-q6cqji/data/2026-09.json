@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-29T02:50:17.342Z",
+ "updated": "2026-09-29T04:41:23.261Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -8924,6 +8924,26 @@
    ],
    "drive": null,
    "phone": "972502770777"
+  },
+  {
+   "id": "AC512D7D2B23215FAA051E6CD1D25D41",
+   "sender": "Konstantin Vitkin",
+   "text": "הלו\"ז הזה רלוונטי עדיין? אין מניין ב-7:30.",
+   "ts": 1790656877000,
+   "date": "2026-09-29",
+   "time": "07:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i3yTNfQ8LkKiQVk3Ws5Sy9av7hh2Tc8u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i3yTNfQ8LkKiQVk3Ws5Sy9av7hh2Tc8u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545991386"
   }
  ]
 }
