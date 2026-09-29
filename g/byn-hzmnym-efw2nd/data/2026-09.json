@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-28T21:05:33.024Z",
+ "updated": "2026-09-29T04:30:23.072Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1194,6 +1194,26 @@
    "files": [],
    "drive": null,
    "phone": "972533181421"
+  },
+  {
+   "id": "2ACE6E1E6010AF4C8D2B",
+   "sender": "סולמות ופיגומים",
+   "text": "",
+   "ts": 1790656200000,
+   "date": "2026-09-29",
+   "time": "07:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QP5T0Kgk7N6EAW2GV4bSQxpGQMv1NkOp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QP5T0Kgk7N6EAW2GV4bSQxpGQMv1NkOp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534332141"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-29T02:57:25.337Z",
+ "updated": "2026-09-29T04:28:56.667Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4765,6 +4765,47 @@
    "ts": 1790650624000,
    "date": "2026-09-29",
    "time": "05:57",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "A50FBE9F9C82EABAF9E4FA007AD35746",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790656098000,
+   "date": "2026-09-29",
+   "time": "07:28",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "1.1MB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Hg2areKJ98ZGA-iqQVfxgg2QPm-muD71/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A529606532334D291F8D4D9758AC4290",
+   "sender": "ווקי שרון מרגולין",
+   "text": "עוד משהו שניתן ליצור עם אינסטינקט",
+   "ts": 1790656104000,
+   "date": "2026-09-29",
+   "time": "07:28",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "2AFEC9B341F2867E185E",
+   "sender": "972 Education Inc. Orly",
+   "text": "מהמם",
+   "ts": 1790656141000,
+   "date": "2026-09-29",
+   "time": "07:29",
    "files": [],
    "drive": null,
    "phone": "13107392984"

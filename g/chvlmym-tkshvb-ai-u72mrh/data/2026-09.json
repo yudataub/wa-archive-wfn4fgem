@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-28T19:14:38.852Z",
+ "updated": "2026-09-29T04:35:56.741Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -5893,6 +5893,48 @@
    ],
    "drive": null,
    "phone": "972587657524"
+  },
+  {
+   "id": "3EB00F1FFE8EB5425C9EC1",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "טוב, זה מטורף! בזמן שישנתי הוא בנה לי סרטונים (לפייס ולאינסטגרם) על כל אחד מהמחוללים",
+   "ts": 1790656374000,
+   "date": "2026-09-29",
+   "time": "07:32",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "3EB03969EB92514299B0FE",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1790656450000,
+   "date": "2026-09-29",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/14n5aC_k8BK5gazdczlfFE1fdFbpYw_ke/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14n5aC_k8BK5gazdczlfFE1fdFbpYw_ke&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "3EB082E42196DE24100B4A",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "https://www.facebook.com/share/v/1bjbX9TyyH/ זה הפוסט המקורי של דורי אדר שממנו נעזרתי בפרומפט",
+   "ts": 1790656539000,
+   "date": "2026-09-29",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
   }
  ]
 }
