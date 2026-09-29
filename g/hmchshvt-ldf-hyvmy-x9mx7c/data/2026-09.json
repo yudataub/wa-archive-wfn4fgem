@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "המחשות לדף היומי",
- "updated": "2026-09-28T03:38:52.112Z",
+ "updated": "2026-09-29T05:19:57.444Z",
  "messages": [
   {
    "id": "3AC81B24D8449A30EA23",
@@ -1304,6 +1304,86 @@
      "path": "https://drive.google.com/file/d/1awocDMOvPdqRYUzylO7socq1H-YRsTf_/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1awocDMOvPdqRYUzylO7socq1H-YRsTf_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A0781E2E2951155C0E4",
+   "sender": ".",
+   "text": "״בר דנקא״ (בכורות יא, א).",
+   "ts": 1790659173000,
+   "date": "2026-09-29",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1r-x66pTb5eP4vOxpqWRC_Jmv8VUTyIsl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1r-x66pTb5eP4vOxpqWRC_Jmv8VUTyIsl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A7FB73EF4A83C923CCF",
+   "sender": ".",
+   "text": "״הגונב פטר חמור״ (בכורות יא, א).",
+   "ts": 1790659175000,
+   "date": "2026-09-29",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dNHS3ELjxpwta6G9kgpVRXCW2VUvS7lq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dNHS3ELjxpwta6G9kgpVRXCW2VUvS7lq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AC5F394CB98A2C115A5",
+   "sender": ".",
+   "text": "״והוא הדין דאפילו היה לו ספק פטר חמור אחד או שנים״ (רש״י בכורות יא, א).",
+   "ts": 1790659176000,
+   "date": "2026-09-29",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YqBEEjr5_OxpXyzTAfolUIFaSoAvbM1F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YqBEEjr5_OxpXyzTAfolUIFaSoAvbM1F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AB8A2240E1B4B9F1B96",
+   "sender": ".",
+   "text": "״ודאי חלפינהו״ (בכורות יא, ב).",
+   "ts": 1790659177000,
+   "date": "2026-09-29",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LWy35NnGCjS9JT4dD7e1UrOzQq34TT0X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LWy35NnGCjS9JT4dD7e1UrOzQq34TT0X&sz=w1200"
     }
    ],
    "drive": null,

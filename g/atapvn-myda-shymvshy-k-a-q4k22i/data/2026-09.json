@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-29T01:23:09.225Z",
+ "updated": "2026-09-29T05:18:41.633Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5662,6 +5662,26 @@
    "files": [],
    "drive": null,
    "phone": "972559593991"
+  },
+  {
+   "id": "AC70980784F6FC78F3A27AD8B403841D",
+   "sender": "בני קרמר",
+   "text": "שחרית בימי חול המועד בשעה 08:45\nבית הכנסת דרך אמונה\nנורדאו 22 קרית אתא",
+   "ts": 1790659093000,
+   "date": "2026-09-29",
+   "time": "08:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_z9V7Eh9ASWTbugcolbtqwNaAlQI_BPW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_z9V7Eh9ASWTbugcolbtqwNaAlQI_BPW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }
