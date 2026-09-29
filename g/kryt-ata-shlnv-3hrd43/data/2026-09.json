@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T08:39:18.846Z",
+ "updated": "2026-09-29T09:14:56.231Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39413,6 +39413,46 @@
    ],
    "drive": null,
    "phone": "972524340803"
+  },
+  {
+   "id": "AC0B0C5016D3744F44859A4009D377C8",
+   "sender": "שרון😄",
+   "text": "מועדים לשמחה למכירה מיטה וחצי במצב מצויין עם ארגז מצעים בגודל אורך 1.80 רוחב 1.60 נדרש פירוק והרכבה\nלמסירה מיידית מקרית ים אין מעלית קומה 2\nעלות מכירה 250 שקל",
+   "ts": 1790673154000,
+   "date": "2026-09-29",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10dUQTPlBWCgnUa3ySggCUAgcvEQ2fQRA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10dUQTPlBWCgnUa3ySggCUAgcvEQ2fQRA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC1528BA3360D277D9C86B2E851BA3A4",
+   "sender": "ליאל מנהל מכירות שטח ארצי",
+   "text": "פרטים בפרטי",
+   "ts": 1790673267000,
+   "date": "2026-09-29",
+   "time": "12:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1y3TBVZco4O0pypzf9HOP0HWRUd96mhzl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y3TBVZco4O0pypzf9HOP0HWRUd96mhzl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506771163"
   }
  ]
 }

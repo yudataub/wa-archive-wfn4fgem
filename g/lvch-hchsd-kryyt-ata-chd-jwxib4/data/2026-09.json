@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T08:20:18.536Z",
+ "updated": "2026-09-29T09:12:56.204Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5217,6 +5217,26 @@
    "files": [],
    "drive": null,
    "phone": "972548450944"
+  },
+  {
+   "id": "AC62205743531EDBAE3E24D7B305236E",
+   "sender": "שרון😄",
+   "text": "מועדים לשמחה למכירה מיטה וחצי במצב מצויין עם ארגז מצעים בגודל אורך 1.80 רוחב 1.60 נדרש פירוק והרכבה\nלמסירה מיידית מקרית ים אין מעלית קומה 2\nעלות מכירה 250 שקל",
+   "ts": 1790673148000,
+   "date": "2026-09-29",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mGMnjeSjFGP3AB6jaUPPenF-GsMVcbzm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mGMnjeSjFGP3AB6jaUPPenF-GsMVcbzm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T09:07:26.106Z",
+ "updated": "2026-09-29T09:12:56.260Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6949,6 +6949,26 @@
    ],
    "drive": null,
    "phone": "972529955992"
+  },
+  {
+   "id": "AC5018EABD774BC870CD67FFC831DA59",
+   "sender": "שרון😄",
+   "text": "מועדים לשמחה למכירה מיטה וחצי במצב מצויין עם ארגז מצעים בגודל אורך 1.80 רוחב 1.60 נדרש פירוק והרכבה\nלמסירה מיידית מקרית ים אין מעלית קומה 2\nעלות מכירה 250 שקל",
+   "ts": 1790673161000,
+   "date": "2026-09-29",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Psc_dEQx3QtM47FTFz0zAHKkzzuB0eD8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Psc_dEQx3QtM47FTFz0zAHKkzzuB0eD8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

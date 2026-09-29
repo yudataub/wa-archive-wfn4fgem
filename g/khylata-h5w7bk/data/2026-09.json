@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-29T08:21:48.548Z",
+ "updated": "2026-09-29T09:17:26.257Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7730,6 +7730,48 @@
    "files": [],
    "drive": null,
    "phone": "972542040409"
+  },
+  {
+   "id": "ACE449759F9F19DC8E107E7E4FFCDD74",
+   "sender": "רוית נאומה",
+   "text": "נחל חדרה מקסים שם \nפלאפארק יוקנעם \nטיילת נתניה ואחר כך יש שם מקום מקסים\nבשם פיאנו עיר ימים יש שם פעילות לילדים מסעדות ואווירה מיוחדת \n\nבלאגן ביגור",
+   "ts": 1790673029000,
+   "date": "2026-09-29",
+   "time": "12:10",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC04239911D13E283B386C5083C3BFE7",
+   "sender": "שרון😄",
+   "text": "מועדים לשמחה למכירה מיטה וחצי במצב מצויין עם ארגז מצעים בגודל אורך 1.80 רוחב 1.60 נדרש פירוק והרכבה\nלמסירה מיידית מקרית ים אין מעלית קומה 2\nעלות מכירה 250 שקל",
+   "ts": 1790673148000,
+   "date": "2026-09-29",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qrG_AmwryTeNx6SvhjJbZ8G_AQLJSohL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qrG_AmwryTeNx6SvhjJbZ8G_AQLJSohL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC0C2AA4B27DFB8608E7580055A9809A",
+   "sender": "נורית גאון",
+   "text": "למסירה הכל בחינם בלבד מוזמנים לקבוצת הוואטספ כאן",
+   "ts": 1790673431000,
+   "date": "2026-09-29",
+   "time": "12:17",
+   "files": [],
+   "drive": null,
+   "phone": "972524305483"
   }
  ]
 }
