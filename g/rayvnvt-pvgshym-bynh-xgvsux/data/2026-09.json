@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-29T09:35:03.818Z",
+ "updated": "2026-09-29T09:46:03.996Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -510,7 +510,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1b0X8-4lbxUWBfdhopnub89KNbF1OhZhj/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1b0X8-4lbxUWBfdhopnub89KNbF1OhZhj&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1b0X8-4lbxUWBfdhopnub89KNbF1OhZhj&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rayvnvt-pvgshym-bynh-xgvsux/v/2026-09/AC5C2B117F2AD628869C177A2D52545D_0.mp4"
     }
    ],
    "drive": null,
@@ -581,6 +582,28 @@
    "files": [],
    "drive": null,
    "phone": "972544432223"
+  },
+  {
+   "id": "3AD6CF52417DCF07DBA6",
+   "sender": "Hani",
+   "text": "נפלא🙏🙏",
+   "ts": 1790674755000,
+   "date": "2026-09-29",
+   "time": "12:39",
+   "files": [],
+   "drive": null,
+   "phone": "972584020994"
+  },
+  {
+   "id": "AC7C0DD7D58532CFA8E65656DDC2226E",
+   "sender": "Hellit",
+   "text": "לא מאשר...\nכותב אולי עוד 12 שעות יאשר 😫",
+   "ts": 1790675156000,
+   "date": "2026-09-29",
+   "time": "12:45",
+   "files": [],
+   "drive": null,
+   "phone": "972505254138"
   }
  ]
 }

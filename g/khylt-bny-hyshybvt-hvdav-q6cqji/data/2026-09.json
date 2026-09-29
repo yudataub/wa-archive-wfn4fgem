@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-29T09:33:26.478Z",
+ "updated": "2026-09-29T09:47:26.724Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -9075,6 +9075,68 @@
    "time": "12:33",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "A57B289323C6CBDEC49CD11658435761",
+   "sender": "NATI POWER",
+   "text": "",
+   "ts": 1790675076000,
+   "date": "2026-09-29",
+   "time": "12:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "382KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Rm4d0P8b_lwpFEfflP4uD28NdnbXDB7c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Rm4d0P8b_lwpFEfflP4uD28NdnbXDB7c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A5470AF728779E20AAFFF7746C090294",
+   "sender": "NATI POWER",
+   "text": "אפשר להגיע. החלוקה עכשיו רח' בר אילן 8 רק להביא שקיות",
+   "ts": 1790675077000,
+   "date": "2026-09-29",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A54D7C5488D5411D59C324AA703083EE",
+   "sender": "NATI POWER",
+   "text": "",
+   "ts": 1790675219000,
+   "date": "2026-09-29",
+   "time": "12:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rHrH2AFuS1wrNVxRR92iWkhSCUKJrVDX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rHrH2AFuS1wrNVxRR92iWkhSCUKJrVDX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A5DE98CD371C6DDE922EC9A554F8AFB4",
+   "sender": "NATI POWER",
+   "text": "ביקשו שהעביר , נשארו עוד הרבה דברים לחלוקה",
+   "ts": 1790675219000,
+   "date": "2026-09-29",
+   "time": "12:46",
+   "files": [],
+   "drive": null,
+   "phone": "972556630746"
   }
  ]
 }
