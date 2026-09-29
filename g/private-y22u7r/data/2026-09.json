@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T13:55:02.306Z",
+ "updated": "2026-09-29T14:07:39.114Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -34064,6 +34064,50 @@
    "drive": null,
    "thread": "דבורה ויינר",
    "phone": "972509101095"
+  },
+  {
+   "id": "AC3B73E9FCA82681C076C2906D965286",
+   "sender": "בלייך צבי",
+   "text": "הקו החרדי: ליפא שמעלצער בהלל מוזיקאלי עם השטריימל המטורף והצבעוני מ'הערציס שטריימלעך'\n*לכל עדכוני 'הקו החרדי':*",
+   "ts": 1790690360000,
+   "date": "2026-09-29",
+   "time": "16:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1dQkPwnO1E-NOjOqPma_zsalWX0YCYqlO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dQkPwnO1E-NOjOqPma_zsalWX0YCYqlO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "בלייך צבי",
+   "phone": "972524723034"
+  },
+  {
+   "id": "ACEC236AB751F2D7096DFAA8A9309947",
+   "sender": "israel f.",
+   "text": "אם יש לכם משהו באזור הקרוב לישיבה עד קומה ראשונה תעדכנו אותי בבקשה",
+   "ts": 1790690510000,
+   "date": "2026-09-29",
+   "time": "17:01",
+   "files": [],
+   "drive": null,
+   "thread": "israel f.",
+   "phone": "972527184548"
+  },
+  {
+   "id": "A50525BC673AD334580C8DCEE95AC662",
+   "sender": "אני",
+   "text": "מה המחיר שאת יכולה?",
+   "ts": 1790690850000,
+   "date": "2026-09-29",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
