@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T16:38:32.009Z",
+ "updated": "2026-09-29T17:06:02.412Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -34278,6 +34278,71 @@
    "ts": 1790699893000,
    "date": "2026-09-29",
    "time": "19:38",
+   "files": [],
+   "drive": null,
+   "thread": "גל דנינו",
+   "phone": "972502960615"
+  },
+  {
+   "id": "3A4619AEF55E0F1AC023",
+   "sender": "גל דנינו",
+   "text": "",
+   "ts": 1790701120000,
+   "date": "2026-09-29",
+   "time": "19:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "404KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ntRlJaOCJwwMyWDUgcrgN-qyLpuf9fC9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ntRlJaOCJwwMyWDUgcrgN-qyLpuf9fC9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "גל דנינו",
+   "phone": "972502960615"
+  },
+  {
+   "id": "3AA50895AB6207C6F12A",
+   "sender": "גל דנינו",
+   "text": "",
+   "ts": 1790701120000,
+   "date": "2026-09-29",
+   "time": "19:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12zZUU9x2d5aN9FqSu8fGr4qFcOdD8KPz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12zZUU9x2d5aN9FqSu8fGr4qFcOdD8KPz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "גל דנינו",
+   "phone": "972502960615"
+  },
+  {
+   "id": "3EB02CDF7F4A66B70B5D48",
+   "sender": "אני",
+   "text": "תודה רבה וסליחה שחיכתם - הלכתי בדיוק לתפילת עברית\nמצורף הניגון של המשניות שנעם תמיד תהנה להיזכר בהם\nhttps://www.youtube.com/watch?v=X-gqSVmOyZE",
+   "ts": 1790701431000,
+   "date": "2026-09-29",
+   "time": "20:03",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A8E6D071AA554F3A801",
+   "sender": "גל דנינו",
+   "text": "זה בסדר גמור,\nתודה רבה רבה🙏🏻🙏🏻🙏🏻\nזכינו!",
+   "ts": 1790701540000,
+   "date": "2026-09-29",
+   "time": "20:05",
    "files": [],
    "drive": null,
    "thread": "גל דנינו",

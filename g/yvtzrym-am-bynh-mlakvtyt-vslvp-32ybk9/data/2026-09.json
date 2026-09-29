@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T16:47:44.353Z",
+ "updated": "2026-09-29T17:01:14.616Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2208,6 +2208,58 @@
    "files": [],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "AC0882B003C39292D72930D1EEEF91EE",
+   "sender": "הילי זוורו",
+   "text": "סיפור בנוטבוק. יצא מהמם אבל, הוא היה חייב לכניס תרשים זרימה בסוף וטבלה 😳",
+   "ts": 1790701147000,
+   "date": "2026-09-29",
+   "time": "19:59",
+   "files": [
+    {
+     "name": "תעלומת_הספינת_האבודה_בחלל_260929_195819.pdf",
+     "size": "20.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FigZjRqoROizrBunPU3zvnjmZoU0jQYE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "A5AFE8A5A29FD5B929BE6BEECD72746D",
+   "sender": "ווקי שרון מרגולין",
+   "text": "חחח קורע",
+   "ts": 1790701217000,
+   "date": "2026-09-29",
+   "time": "20:00",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A50EA7091671B55EFA25078D35DE06C2",
+   "sender": "ווקי שרון מרגולין",
+   "text": "יצא יפה",
+   "ts": 1790701224000,
+   "date": "2026-09-29",
+   "time": "20:00",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC1E1693C032860DBA53CF8583CF464E",
+   "sender": "הילי זוורו",
+   "text": "קורע",
+   "ts": 1790701272000,
+   "date": "2026-09-29",
+   "time": "20:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527470596"
   }
  ]
 }
