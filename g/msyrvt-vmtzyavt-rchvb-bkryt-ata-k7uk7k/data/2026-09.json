@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-29T12:35:55.626Z",
+ "updated": "2026-09-29T14:22:39.358Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -377,6 +377,57 @@
    "files": [],
    "drive": null,
    "phone": "972522488015"
+  },
+  {
+   "id": "AC5DC2DE589346287FE5560E562B294D",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790691751000,
+   "date": "2026-09-29",
+   "time": "17:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1R2KZKfK_Yl_YmSih23zrztMm68jQkuYT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R2KZKfK_Yl_YmSih23zrztMm68jQkuYT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACCE7B5EB5AE98641EF9698540D5FF49",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790691751000,
+   "date": "2026-09-29",
+   "time": "17:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zgV2XeW9BgIYSlVrxw9LoX6ZInnpZPaL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zgV2XeW9BgIYSlVrxw9LoX6ZInnpZPaL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACDA724BA5A6C7E96FA39F2A39B25B66",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "למסירה קומה-2 צריך לעלות 2 קומות ללא מעלית",
+   "ts": 1790691751000,
+   "date": "2026-09-29",
+   "time": "17:22",
+   "files": [],
+   "drive": null,
+   "phone": "972502843549"
   }
  ]
 }
