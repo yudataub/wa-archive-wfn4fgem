@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-28T23:50:23.695Z",
+ "updated": "2026-09-29T00:08:53.970Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -20076,6 +20076,17 @@
    "files": [],
    "drive": null,
    "phone": "972587712355"
+  },
+  {
+   "id": "ACCAD93DF1ACB70A2C07EC6FD342A968",
+   "sender": "Moshe Itshak Amar",
+   "text": "אין וידוי בימים אלו",
+   "ts": 1790640527000,
+   "date": "2026-09-29",
+   "time": "03:08",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
   }
  ]
 }
