@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T07:57:02.320Z",
+ "updated": "2026-09-29T08:03:02.413Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -292,7 +292,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1J8PxLbYHL_ZzKf_YgSO5CNVHb9ojx5PF/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1J8PxLbYHL_ZzKf_YgSO5CNVHb9ojx5PF&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1J8PxLbYHL_ZzKf_YgSO5CNVHb9ojx5PF&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-09/ACBF1E57F0A3778BAD398BA846860723_0.mp4"
     }
    ],
    "drive": null,
@@ -576,11 +577,45 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1C5NaW-uDyCL6GchQaikJAeD9LEzW4fSw/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1C5NaW-uDyCL6GchQaikJAeD9LEzW4fSw&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1C5NaW-uDyCL6GchQaikJAeD9LEzW4fSw&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-09/3EB0A63775BACF227ED5D4_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "3EB0144AA6F7E19F79C4C0",
+   "sender": "ווקי שרון מרגולין",
+   "text": "הנה עידן פה אני מסכים איתך לגמרי.\nמה זה?\nלמה זה טוב?\nמה זה בא ללמה?\nמה זה מראה מוכיח או תורם?\n\nאלוהים יודע",
+   "ts": 1790668719000,
+   "date": "2026-09-29",
+   "time": "10:58",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB07244392B0009B58B82",
+   "sender": "נועם",
+   "text": "מדגים יכולת שנראתה לי מעניינת.\nלפי הסקר שעשיתי, ביקשו שאשלח כל מה שנראה לי מעניין בתחום וכל אחד יחליט לעצמו.",
+   "ts": 1790668927000,
+   "date": "2026-09-29",
+   "time": "11:02",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB08CBDBCEE6FC939042E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אני הבעתי את דעתי",
+   "ts": 1790668963000,
+   "date": "2026-09-29",
+   "time": "11:02",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }
