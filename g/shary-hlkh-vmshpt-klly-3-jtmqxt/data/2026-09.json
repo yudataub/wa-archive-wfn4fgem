@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-29T08:16:18.448Z",
+ "updated": "2026-09-29T10:18:33.884Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -20285,6 +20285,26 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "3A57A7DB205CD3BCFFEF",
+   "sender": "מיכאל",
+   "text": "אפשר לאכול מחוץ לסוכה?",
+   "ts": 1790677110000,
+   "date": "2026-09-29",
+   "time": "13:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fXhoe4ZUV78qNcfotMrkmxGLsehcGyqT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fXhoe4ZUV78qNcfotMrkmxGLsehcGyqT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546277790"
   }
  ]
 }
