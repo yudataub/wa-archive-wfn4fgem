@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-09-29T13:58:02.358Z",
+ "updated": "2026-09-29T14:51:09.799Z",
  "messages": [
   {
    "id": "gm-1a059e044bea945c",
@@ -5692,6 +5692,45 @@
    "files": [],
    "drive": null,
    "phone": "972547777168"
+  },
+  {
+   "id": "4AB4BE6E9E8E192CEF47",
+   "sender": "אוסנת",
+   "text": "",
+   "ts": 1790693335000,
+   "date": "2026-09-29",
+   "time": "17:48",
+   "files": [
+    {
+     "name": "מצגת לכיתה ד'1 הקדמה לספר ויקרא_20260905_223545_0000.pdf",
+     "size": "32.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rLAFSxGPWUf01cnnq2oVjxdHxTkJ224q/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502456309"
+  },
+  {
+   "id": "3A6D04124F7A13498179",
+   "sender": "אוסנת",
+   "text": "",
+   "ts": 1790693438000,
+   "date": "2026-09-29",
+   "time": "17:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wPHHd3kIDtJm-iWNesr3c0mZ1fQjW1dT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wPHHd3kIDtJm-iWNesr3c0mZ1fQjW1dT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502456309"
   }
  ]
 }
