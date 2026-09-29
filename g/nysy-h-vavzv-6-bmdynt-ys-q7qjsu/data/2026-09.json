@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-09-29T10:19:03.897Z",
+ "updated": "2026-09-29T12:09:17.667Z",
  "messages": [
   {
    "id": "failed-1788242409840",
@@ -6422,6 +6422,46 @@
      "type": "text/html",
      "path": "https://drive.google.com/file/d/17iewTO0VBDglJYvgrYfRAjcsnrccCW70/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB01DA75B344028D9DCE1",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "",
+   "ts": 1790683671000,
+   "date": "2026-09-29",
+   "time": "15:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TDtd8vz1F122FHpJFP6EuOwyw9ZpBjwI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TDtd8vz1F122FHpJFP6EuOwyw9ZpBjwI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB079A82DCE336DCD0E45",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "*מרגש: \"הושיע את עמך\" למרגלות מערת המכפלה*\n\nכ-10,000 מתפללים השתתפו באירוע הלל במערת המכפלה, בהובלת הרב שמואל אליהו, לציון 60 שנה לחידוש הריבונות היהודית בחברון.\n\n(צילום: נעמי רטבי.  מערוץ 7)",
+   "ts": 1790683747000,
+   "date": "2026-09-29",
+   "time": "15:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "19.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vkr0QZq_2cRpLLrNMUt-eqIRWKTYxdQG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vkr0QZq_2cRpLLrNMUt-eqIRWKTYxdQG&sz=w1200"
     }
    ],
    "drive": null,
