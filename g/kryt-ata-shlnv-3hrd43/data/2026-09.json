@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T07:32:19.297Z",
+ "updated": "2026-09-29T07:56:49.628Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39209,6 +39209,57 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "3ACB8792749AFD0C9445",
+   "sender": "תהילה אלגרסי",
+   "text": "הזמנות לחג שני מתקבלות עד מחר בערב 🤍\nמהרו לשריין לכם קינוח טעים ומתוק לחג! 🍰✨\n\nמחכה לכם עם כל המתוקים של\nהמתוקים של תהילה 🤎",
+   "ts": 1790668500000,
+   "date": "2026-09-29",
+   "time": "10:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tobY-W33J21uWFS8icycAuTrjyiDRabh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tobY-W33J21uWFS8icycAuTrjyiDRabh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532397782"
+  },
+  {
+   "id": "3AAA0E9ED42EB130AD72",
+   "sender": "תהילה אלגרסי",
+   "text": "",
+   "ts": 1790668507000,
+   "date": "2026-09-29",
+   "time": "10:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X_51mPn6168t-TIx38tL25VYrj7Fmrqa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X_51mPn6168t-TIx38tL25VYrj7Fmrqa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532397782"
+  },
+  {
+   "id": "ACE559D11717ADCE609D32ADB5660E1C",
+   "sender": "עוז ברזילי",
+   "text": "מישהו ראה אולי ארטישוק ירושלמי באחד הסופרים בקריה?",
+   "ts": 1790668583000,
+   "date": "2026-09-29",
+   "time": "10:56",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
   }
  ]
 }

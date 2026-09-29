@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "טוב לי תורת פיך",
- "updated": "2026-09-29T07:45:19.465Z",
+ "updated": "2026-09-29T07:49:19.520Z",
  "messages": [
   {
    "id": "ACD31A6B571860909266730380B35D46",
@@ -7970,6 +7970,26 @@
    "date": "2026-09-29",
    "time": "10:44",
    "files": [],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACD910B1B4367B5E42376E9F1C9FBCE2",
+   "sender": "שרון😄",
+   "text": "*מוכנים לרקוד?🕺*\nהצצה לשמחת בית השואבה בבית המקדש \n\n> הרבי מליובאוויטש עורר להוסיף בכל יום מימי חג הסוכות בשמחה ובריקודים — בשמחת בית השואבה ובכלל, ככתוב: ״ושמחת בחגך״.\n\n*הצטרפו ל׳רגע היומי׳ שיכין אתכם לגאולה 👇🏻*",
+   "ts": 1790668130000,
+   "date": "2026-09-29",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "18.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1zsG8JE830Y6sfz5LH3_mbGmgUvNyxJMU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zsG8JE830Y6sfz5LH3_mbGmgUvNyxJMU&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522828512"
   }
