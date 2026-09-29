@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T11:56:17.470Z",
+ "updated": "2026-09-29T12:56:55.917Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -33985,6 +33985,17 @@
    "drive": null,
    "thread": "israel f.",
    "phone": "972527184548"
+  },
+  {
+   "id": "3EB055D61A0FA45975A902",
+   "sender": "אני",
+   "text": "https://bookpod.co.il/?sku=28603",
+   "ts": 1790686608000,
+   "date": "2026-09-29",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
