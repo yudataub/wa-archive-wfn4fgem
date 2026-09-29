@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T19:32:37.647Z",
+ "updated": "2026-09-29T19:47:07.913Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2922,6 +2922,48 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "A59B5716DFFE71B6E0936B69178FC0B2",
+   "sender": "mary garby",
+   "text": "🤷🏻‍♀️",
+   "ts": 1790710794000,
+   "date": "2026-09-29",
+   "time": "22:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "AC619ABF68130AEAB123A70D137932E8",
+   "sender": "חפציה",
+   "text": "מוכן! דקה ושלוש, עם הקריינות: מטאורים נשרפים בכניסה לאטמוספירה, קרני שמש מסוננות, חום נלכד, עננים וסופה בשכבה התחתונה מעל תמונות לוויין אמיתיות, ומאדים-נוגה-אנחנו בסוף. המושן מסביר את התהליכים, לא רק יפה.",
+   "ts": 1790711206000,
+   "date": "2026-09-29",
+   "time": "22:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1j1v3U_13WlWpw6s0qhYtlgNXmXgaSU90/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1j1v3U_13WlWpw6s0qhYtlgNXmXgaSU90&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACD215E8C8260E53DE1F9B5C53F70909",
+   "sender": "חפציה",
+   "text": "ניסיתי לבקש משהו דומה לואני. לא הצליח (והקריינית מתחנפת מעצבן ממש)",
+   "ts": 1790711213000,
+   "date": "2026-09-29",
+   "time": "22:46",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
   }
  ]
 }

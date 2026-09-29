@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-09-29T08:05:49.795Z",
+ "updated": "2026-09-29T19:42:51.596Z",
  "messages": [
   {
    "id": "ACFE0785D5A1EC556DC918C3583D40CE",
@@ -507,6 +507,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1mVjiTUZYYZ2in3Pwqf1SQ2QxW3uUmimu&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972548111153"
+  },
+  {
+   "id": "A5A22E4E0B6DC4EF7D18B29ABBE022AB",
+   "sender": "שפרה ארנון מגשי פירות וירקות בגולן",
+   "text": "חיילינו הצדיקים מקיימים מצוות סוכה ברכס הבופור🌿💪🏼",
+   "ts": 1790710857000,
+   "date": "2026-09-29",
+   "time": "22:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V7p2iYE2bCcyO8c79WOxihRa8S89RYBI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V7p2iYE2bCcyO8c79WOxihRa8S89RYBI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556662216"
+  },
+  {
+   "id": "AC87705D87C6E4B014E127EC4FF11C9D",
+   "sender": "ריקי טל 😊",
+   "text": "https://www.facebook.com/share/p/1EhTpBCDad/",
+   "ts": 1790710955000,
+   "date": "2026-09-29",
+   "time": "22:42",
+   "files": [],
    "drive": null,
    "phone": "972548111153"
   }
