@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T08:34:18.769Z",
+ "updated": "2026-09-29T09:07:26.106Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6929,6 +6929,26 @@
    ],
    "drive": null,
    "phone": "972559503426"
+  },
+  {
+   "id": "3AC0F37DE1E38CF3C784",
+   "sender": "יוסי מנחם",
+   "text": "דרושים עובדים יר״ש \nתחילת עבודה מיידית",
+   "ts": 1790672831000,
+   "date": "2026-09-29",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MGWayksGeprmxmZV_bxebfFrkdDbBgme/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MGWayksGeprmxmZV_bxebfFrkdDbBgme&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529955992"
   }
  ]
 }

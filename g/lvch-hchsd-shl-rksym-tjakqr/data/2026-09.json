@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-29T08:35:48.775Z",
+ "updated": "2026-09-29T09:06:56.130Z",
  "messages": [
   {
    "id": "gm-1a059d58f7bc7fcf",
@@ -6200,6 +6200,26 @@
    "files": [],
    "drive": null,
    "phone": "972587161155"
+  },
+  {
+   "id": "3AE37B1CC6AFEFBF6930",
+   "sender": "יוסי מנחם",
+   "text": "דרושים עובדים יר״ש \nתחילת עבודה מיידית",
+   "ts": 1790672805000,
+   "date": "2026-09-29",
+   "time": "12:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Pl78tfRPjb4jKdNXYl5ko1W0cqdGKRGk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pl78tfRPjb4jKdNXYl5ko1W0cqdGKRGk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529955992"
   }
  ]
 }
