@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T09:31:56.449Z",
+ "updated": "2026-09-29T09:56:33.560Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6989,6 +6989,26 @@
    ],
    "drive": null,
    "phone": "972552801359"
+  },
+  {
+   "id": "AC6C19D53AE7D7FF8E8FD0ADF3101A0D",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1790675786000,
+   "date": "2026-09-29",
+   "time": "12:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "431KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12qoBVqBms6J6t31Z6084ncFxCvC9ttoz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12qoBVqBms6J6t31Z6084ncFxCvC9ttoz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
   }
  ]
 }

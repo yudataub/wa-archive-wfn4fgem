@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T09:41:26.623Z",
+ "updated": "2026-09-29T09:50:56.773Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -33776,6 +33776,25 @@
    "drive": null,
    "thread": "שיר עיצוב ושיקום גבות",
    "phone": "972525922725"
+  },
+  {
+   "id": "3EB0B51227CC4119F1151C",
+   "sender": "אני",
+   "text": "מהדורה עם תמונות",
+   "ts": 1790675448000,
+   "date": "2026-09-29",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "ספר_ניסי_תשפו_הרב הראל פדידה.html",
+     "size": "2.4MB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1IvY59EIQkeuuR8bP0ueDfuykpPx-mR1d/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
