@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים מטיילים על🔥 גבוהה 1",
- "updated": "2026-09-29T06:28:12.755Z",
+ "updated": "2026-09-29T06:29:12.727Z",
  "messages": [
   {
    "id": "AC443865212441AC4B4EF82EA8E6C783",
@@ -639,6 +639,26 @@
    "files": [],
    "drive": null,
    "phone": "972535213220"
+  },
+  {
+   "id": "AC70D4FA59508D7496B04436981865EA",
+   "sender": "כבי",
+   "text": "",
+   "ts": 1790663345000,
+   "date": "2026-09-29",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "49KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1MdMfbI5oVcKzroF-mKpPMVANPXtEWDLr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MdMfbI5oVcKzroF-mKpPMVANPXtEWDLr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504123124"
   }
  ]
 }
