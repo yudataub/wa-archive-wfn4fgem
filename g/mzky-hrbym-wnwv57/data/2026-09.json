@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מזכי הרבים",
- "updated": "2026-09-28T20:50:55.732Z",
+ "updated": "2026-09-29T20:54:04.168Z",
  "messages": [
   {
    "id": "2A2E7A4B623E5587812C",
@@ -3198,6 +3198,26 @@
    "date": "2026-09-28",
    "time": "23:50",
    "files": [],
+   "drive": null,
+   "phone": "972522258276"
+  },
+  {
+   "id": "AC9D4EA05F4F75080F795A5867C1F5C5",
+   "sender": "אבי כהן",
+   "text": "ברכת מזל טוב\n\nלידידנו היקר והנכבד\nהרב ישראל חיים הי״ו\nממקימי דרך הבעש״ט\nוממפיצי אורה בארץ ובעולם\n\nלרגל היכנס בנו היקר\nלעול תורה ומצוות\n\nיהי רצון שיזכה לגדלו לתורה, לחופה ולמעשים טובים,\nולרוות ממנו ומכל יוצאי חלציו רוב נחת דקדושה,\nמתוך בריאות, שמחה וברכה.\n\nבאהבה ובהערכה\nמשפחת דרך הבעש״ט\n\n@254262634393611",
+   "ts": 1790715223000,
+   "date": "2026-09-29",
+   "time": "23:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DW9EMP9OGpT0ECZYNZ0GiWc2Yi2SygDr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DW9EMP9OGpT0ECZYNZ0GiWc2Yi2SygDr&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522258276"
   }
