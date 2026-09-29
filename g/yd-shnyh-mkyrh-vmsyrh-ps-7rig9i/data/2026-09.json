@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-29T14:56:16.558Z",
+ "updated": "2026-09-29T15:04:16.683Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -2255,6 +2255,46 @@
    ],
    "drive": null,
    "phone": "972525677282"
+  },
+  {
+   "id": "3A34B0713B3A9053997D",
+   "sender": "Asaf",
+   "text": "תמונת ברכת הבית 90₪",
+   "ts": 1790694198000,
+   "date": "2026-09-29",
+   "time": "18:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SOlROMqQFOsHbpn25l4ha-xAlX7dZxYy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SOlROMqQFOsHbpn25l4ha-xAlX7dZxYy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "3EB098B91F76DF96DA54E0",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790694227000,
+   "date": "2026-09-29",
+   "time": "18:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ub1wlGBZhZclswDruipbGT_WL70Qzjf_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ub1wlGBZhZclswDruipbGT_WL70Qzjf_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

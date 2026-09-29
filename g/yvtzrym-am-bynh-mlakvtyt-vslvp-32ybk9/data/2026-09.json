@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T14:52:22.586Z",
+ "updated": "2026-09-29T15:02:52.764Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -1196,6 +1196,57 @@
    "files": [],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "3EB0A9557FC2AF5C63C0EE",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מישהו נתקל בזה כעת בקלוד?",
+   "ts": 1790693883000,
+   "date": "2026-09-29",
+   "time": "17:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "10KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19vlKoUB8Uo6kNpnW4kG-zACTqpl_6fnW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19vlKoUB8Uo6kNpnW4kG-zACTqpl_6fnW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A53B3DFE413B7E9526A896A309DC2251",
+   "sender": "natalie yehiam",
+   "text": "כן, בדיוק כתבו על זה בקבוצה אחרת..",
+   "ts": 1790694150000,
+   "date": "2026-09-29",
+   "time": "18:02",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A59688973EAFE6821A272FD3CCCD5173",
+   "sender": "natalie yehiam",
+   "text": "",
+   "ts": 1790694156000,
+   "date": "2026-09-29",
+   "time": "18:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "458KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HiJTN6TGFOTsIj5hVGX0pty6zewlCOC6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HiJTN6TGFOTsIj5hVGX0pty6zewlCOC6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544269091"
   }
  ]
 }
