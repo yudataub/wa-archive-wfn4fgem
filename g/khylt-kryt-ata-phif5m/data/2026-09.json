@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-29T10:10:03.757Z",
+ "updated": "2026-09-29T11:00:41.464Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8571,6 +8571,26 @@
    "files": [],
    "drive": null,
    "phone": "972537118255"
+  },
+  {
+   "id": "ACFC51E6C99C0703EC8BDD75632C9ABD",
+   "sender": "emilyy782",
+   "text": "2 עגלות כיסא, כיסא גלגלים במצב מעולה לילדים/ אנשים עם צרכים מיוחדים אם אתם מכיר או יודעים שיש מי שצריך אפשר להפנות אותו רחוב אושה 19 מרכז יום אורון  ליד פנימיית אהבה",
+   "ts": 1790679624000,
+   "date": "2026-09-29",
+   "time": "14:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EpTHiTCMOQrBu0R1Ee3x3-ssZhQD5LVl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EpTHiTCMOQrBu0R1Ee3x3-ssZhQD5LVl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559909393"
   }
  ]
 }
