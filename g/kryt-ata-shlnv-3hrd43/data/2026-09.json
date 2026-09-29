@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T09:14:56.231Z",
+ "updated": "2026-09-29T09:32:26.458Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39453,6 +39453,26 @@
    ],
    "drive": null,
    "phone": "972506771163"
+  },
+  {
+   "id": "3A2FBB5BCBA1D4FB9895",
+   "sender": "אסתר ברדה",
+   "text": "מי שמארחת השנה ורוצה לעשות 'וואו' בשולחן החג – הסטורי הזה בדיוק בשבילה\n👇👇👇\n\nhttps://katzr.net/333d1c",
+   "ts": 1790674328000,
+   "date": "2026-09-29",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HTq3zjLqCi21Wz_XMuhZoo5iUmGG0u36/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HTq3zjLqCi21Wz_XMuhZoo5iUmGG0u36&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
   }
  ]
 }

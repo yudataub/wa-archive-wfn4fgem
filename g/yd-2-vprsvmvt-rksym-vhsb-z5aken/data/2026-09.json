@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T09:12:56.260Z",
+ "updated": "2026-09-29T09:31:56.449Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6969,6 +6969,26 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "3A9012F7800E0F53FE0F",
+   "sender": "אסתר ברדה",
+   "text": "מי שמארחת השנה ורוצה לעשות 'וואו' בשולחן החג – הסטורי הזה בדיוק בשבילה\n👇👇👇\n\nhttps://katzr.net/333d1c",
+   "ts": 1790674286000,
+   "date": "2026-09-29",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k1uPuZiXrK8vlw5SJDG2oUFc3NKRBaJT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k1uPuZiXrK8vlw5SJDG2oUFc3NKRBaJT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
   }
  ]
 }

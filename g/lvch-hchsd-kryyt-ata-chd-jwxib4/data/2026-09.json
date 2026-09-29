@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T09:12:56.204Z",
+ "updated": "2026-09-29T09:32:26.478Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5237,6 +5237,37 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "3AFF55961699E6D8C3AA",
+   "sender": "אסתר ברדה",
+   "text": "מי שמארחת השנה ורוצה לעשות 'וואו' בשולחן החג – הסטורי הזה בדיוק בשבילה\n👇👇👇\n\nhttps://katzr.net/333d1c",
+   "ts": 1790674330000,
+   "date": "2026-09-29",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ny3ywqoL7TbDXrft51ds8RoX2UP37iSE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ny3ywqoL7TbDXrft51ds8RoX2UP37iSE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
+  },
+  {
+   "id": "ACAF998BBF7E6C1048FC0739086A559D",
+   "sender": "חגית אהרון",
+   "text": "השבוע עדכנו: שני, שלישי ורביעי בשעות 10-14",
+   "ts": 1790674340000,
+   "date": "2026-09-29",
+   "time": "12:32",
+   "files": [],
+   "drive": null,
+   "phone": "972522821001"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-29T09:20:33.570Z",
+ "updated": "2026-09-29T09:35:03.818Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -492,6 +492,92 @@
    "ts": 1790673615000,
    "date": "2026-09-29",
    "time": "12:20",
+   "files": [],
+   "drive": null,
+   "phone": "972544432223"
+  },
+  {
+   "id": "AC5C2B117F2AD628869C177A2D52545D",
+   "sender": "Silvia Sapoznik",
+   "text": "",
+   "ts": 1790674106000,
+   "date": "2026-09-29",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "15.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1b0X8-4lbxUWBfdhopnub89KNbF1OhZhj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b0X8-4lbxUWBfdhopnub89KNbF1OhZhj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549220953"
+  },
+  {
+   "id": "AC3AF4DF92CAE30C8A752D5B87806861",
+   "sender": "sandra Cohen",
+   "text": "זה באומני, ביקשת מטינסטינקט ליצור לך?",
+   "ts": 1790674149000,
+   "date": "2026-09-29",
+   "time": "12:29",
+   "files": [],
+   "drive": null,
+   "phone": "972526499259"
+  },
+  {
+   "id": "AC78B00B95A4A9EA6AD167CC573D4C82",
+   "sender": "Silvia Sapoznik",
+   "text": "Omni",
+   "ts": 1790674219000,
+   "date": "2026-09-29",
+   "time": "12:30",
+   "files": [],
+   "drive": null,
+   "phone": "972549220953"
+  },
+  {
+   "id": "AC52C15948A97838B59157744AFD3924",
+   "sender": "Silvia Sapoznik",
+   "text": "זה גם אווטר של הילד",
+   "ts": 1790674275000,
+   "date": "2026-09-29",
+   "time": "12:31",
+   "files": [],
+   "drive": null,
+   "phone": "972549220953"
+  },
+  {
+   "id": "ACD647E510ECEB46CBAF20788E3D9D7A",
+   "sender": "Hila Asulin",
+   "text": "קודם כל, וואו. ממש מגניב יצא לך.\nאני רציתי אנימציה פשוטה. של נערה ש\"מטיילת\" מפריים לפריים כשהכל קשור לעוטף ול 7 באוקטובר.",
+   "ts": 1790674293000,
+   "date": "2026-09-29",
+   "time": "12:31",
+   "files": [],
+   "drive": null,
+   "phone": "972544432223"
+  },
+  {
+   "id": "AC5D58170664847BE697BAC901DC59A1",
+   "sender": "Silvia Sapoznik",
+   "text": "קודם עשיתי מצגת בnoyebooklm אחר כך ביקשתי שמכל דף יעשה סרטון בסוף חיברתי את כל הסרטונים בcliipchamp של windows,  גם חינמי",
+   "ts": 1790674457000,
+   "date": "2026-09-29",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "phone": "972549220953"
+  },
+  {
+   "id": "AC481DD2D57343851355ECA992BC9C1D",
+   "sender": "Hila Asulin",
+   "text": "מרשים",
+   "ts": 1790674482000,
+   "date": "2026-09-29",
+   "time": "12:34",
    "files": [],
    "drive": null,
    "phone": "972544432223"
