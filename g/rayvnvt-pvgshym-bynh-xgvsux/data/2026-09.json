@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-29T16:51:44.447Z",
+ "updated": "2026-09-29T17:16:44.889Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -691,6 +691,37 @@
    "files": [],
    "drive": null,
    "phone": "972507975380"
+  },
+  {
+   "id": "AC328695DDD8C4E10EDB80795D344849",
+   "sender": "דור גולדמן",
+   "text": "*טיפ טכנו פדגוגי*\nיצרת תוכן או אתר נהדר בקנבס של ג'מיני וכבר הפצת את הקישור, אבל צריך פתאום לעשות בו שינויים? איזה באסה זה שוב לשלוח קישור מעודכן לכולם, או להטמיע מחדש את הקוד בגוגל סייסטס? \n\n*אז במקום לעשות את זה, אפשר לייצר קישור קבוע בעזרת אתר נוסף כמו Flyn, ורק להחליף את קישור היעד (הקישור לקנבס שהכנתם) בכל פעם שהוא משתנה 😍*\n\nהסברים נוספים- באינפוגרפיקה המצורפת",
+   "ts": 1790701914000,
+   "date": "2026-09-29",
+   "time": "20:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HXLg1zwmNOQDVN_bQ4cpUMIloBI7VbrR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HXLg1zwmNOQDVN_bQ4cpUMIloBI7VbrR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528926740"
+  },
+  {
+   "id": "A535F607397A41EA12C3ED27CC1EBF4F",
+   "sender": "תמר חמאדה",
+   "text": "מעניין",
+   "ts": 1790702201000,
+   "date": "2026-09-29",
+   "time": "20:16",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

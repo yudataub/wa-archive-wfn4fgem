@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-29T11:47:47.350Z",
+ "updated": "2026-09-29T17:12:02.533Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1285,6 +1285,37 @@
    ],
    "drive": null,
    "phone": "972509540023"
+  },
+  {
+   "id": "A52A2012445AA5F6BFA6715187BCE6F2",
+   "sender": "תמר דרעי",
+   "text": "*מחיר הדקה ה90*\n*פנוי ממחר*\nאפשרות ל3 או 5 חד' שינה",
+   "ts": 1790701902000,
+   "date": "2026-09-29",
+   "time": "20:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526616006"
+  },
+  {
+   "id": "A5BB2CA79ACABF50FF6759CD0C30F1F5",
+   "sender": "תמר דרעי",
+   "text": "",
+   "ts": 1790701903000,
+   "date": "2026-09-29",
+   "time": "20:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TJSyaOpSiaTHH4fzqyhfoerea1Dtz8Xu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TJSyaOpSiaTHH4fzqyhfoerea1Dtz8Xu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526616006"
   }
  ]
 }

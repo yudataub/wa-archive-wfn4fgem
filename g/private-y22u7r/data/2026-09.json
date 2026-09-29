@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T17:06:02.412Z",
+ "updated": "2026-09-29T17:15:02.559Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -34347,6 +34347,30 @@
    "drive": null,
    "thread": "גל דנינו",
    "phone": "972502960615"
+  },
+  {
+   "id": "ACD7BBFFC292449AE4E0B495F3849414",
+   "sender": "Korin",
+   "text": "ערב טוב כב' הרב",
+   "ts": 1790702073000,
+   "date": "2026-09-29",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "thread": "Korin",
+   "phone": "972525244249"
+  },
+  {
+   "id": "AC7D0DD5D2908EAF797669DD672166F3",
+   "sender": "Korin",
+   "text": "גם מחר עוד ניתן להגיע?",
+   "ts": 1790702082000,
+   "date": "2026-09-29",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "thread": "Korin",
+   "phone": "972525244249"
   }
  ]
 }
