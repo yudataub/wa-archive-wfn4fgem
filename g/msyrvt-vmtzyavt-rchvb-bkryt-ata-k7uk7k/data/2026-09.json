@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-29T14:33:09.527Z",
+ "updated": "2026-09-29T16:14:24.725Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -539,6 +539,59 @@
    "files": [],
    "drive": null,
    "phone": "972502843549"
+  },
+  {
+   "id": "3A305071CA8B3A489DAF",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1790698399000,
+   "date": "2026-09-29",
+   "time": "19:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "279KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pVOhXPvHiSWSBomMrXDC63y16OtsR6yQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pVOhXPvHiSWSBomMrXDC63y16OtsR6yQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A5FDC5AD3F48113061C",
+   "sender": "יפה",
+   "text": "למסירה פינת אוכל מסירה מיידית",
+   "ts": 1790698422000,
+   "date": "2026-09-29",
+   "time": "19:13",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AB9CE46BF0CF280505E",
+   "sender": "יפה",
+   "text": "📇 דנה🌿\n+972523231680",
+   "ts": 1790698443000,
+   "date": "2026-09-29",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A83C0B34E34FC9C4EAD",
+   "sender": "יפה",
+   "text": "טלפון של בעלת פינת האוכל",
+   "ts": 1790698457000,
+   "date": "2026-09-29",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
   }
  ]
 }

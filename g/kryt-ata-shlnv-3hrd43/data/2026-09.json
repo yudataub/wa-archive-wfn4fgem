@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T16:07:54.622Z",
+ "updated": "2026-09-29T16:08:54.636Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39688,6 +39688,26 @@
    "files": [],
    "drive": null,
    "phone": "972549474921"
+  },
+  {
+   "id": "ACA5D0A17DB794B381D3CB501B9FEA9C",
+   "sender": "גיא בניסבי",
+   "text": "לקוחות יקרים,\nשימו לב💙 \n\nלהצטרפות לקבוצות המבצעים: https://netto-chisachon.toshavil.co.il/",
+   "ts": 1790698118000,
+   "date": "2026-09-29",
+   "time": "19:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-4KNlcDjpcl76X3Issd_kYrh9w4hamAv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-4KNlcDjpcl76X3Issd_kYrh9w4hamAv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506445764"
   }
  ]
 }

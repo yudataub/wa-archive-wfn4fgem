@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בינטק 4 - בינה מלאכותית עם הנרי",
- "updated": "2026-09-28T16:18:52.172Z",
+ "updated": "2026-09-29T16:14:54.729Z",
  "messages": [
   {
    "id": "A568ECDE72E9F37DF6C41EA6631A6448",
@@ -357,6 +357,26 @@
      "path": "https://drive.google.com/file/d/1flWJgUl2mFJ5UhkUqPFOl4dlzeydzfZJ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1flWJgUl2mFJ5UhkUqPFOl4dlzeydzfZJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585005171"
+  },
+  {
+   "id": "A5A189D128CF8384D33CBD1079BE0B78",
+   "sender": "Henry Ai",
+   "text": "אתמול ElevenLabs הכריזה על Eleven v4, מודל הקריינות הכי איכותי שלה עד היום.\n\nהמודל מבין טון, קצב והקשר מהטקסט ומקריא בהתאם, ואפשר לכוון אותו עם תגיות בתוך הטקסט כמו צחוק, לחישה או אפילו קול גשם ברקע. הוא תומך ביותר מ-90 שפות כולל עברית, ושומר על קול עקבי גם בשיחה בין כמה דוברים.\nבמקביל יצאה גרסת Turbo מהירה, שמיועדת לסוכני קול ולשיחות בזמן אמת.\n\nהכלי זמין כבר עכשיו באתר, כולל בחשבון החינמי (עד 10,000 תווים בחודש, שימוש מסחרי מצריך מנוי בתשלום), וגם ב-API. אפליקציית ההקראה ElevenReader (אייפון, אנדרואיד ודפדפן) כבר רצה על המודל החדש.\n\nקישור לכלי ElevenLabs 👇🏼\nhttps://try.elevenlabs.io/AI22\n\nההכרזה הרשמית 👇🏼\nhttps://elevenlabs.io/blog/eleven-v4\n\nקישור לאפליקציית ElevenReader 👇🏼\nhttps://elevenreader.io\n\nלהזמנת הרצאה, סדנה או ייעוץ להטמעת כלי בינה מלאכותית ואוטומציות אצלכם בארגון צרו איתי קשר בווצאפ - 0585005171 🦾\nיש לכם.ן חברים שעדיין לא בקבוצות בהן אני שולח תכנים נגישים על בינה מלאכותית? שלחו להם שיצטרפו 👇🏼\nתהנו\nהנרי - henryai.space 🩷",
+   "ts": 1790698478000,
+   "date": "2026-09-29",
+   "time": "19:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UPuhZs-Sj_cWmqKj3ojfwa3s6tN2Jy7L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UPuhZs-Sj_cWmqKj3ojfwa3s6tN2Jy7L&sz=w1200"
     }
    ],
    "drive": null,

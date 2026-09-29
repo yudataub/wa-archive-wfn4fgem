@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילאתא",
- "updated": "2026-09-29T15:51:54.428Z",
+ "updated": "2026-09-29T16:14:54.735Z",
  "messages": [
   {
    "id": "gm-1a05b2c6c11bce5c",
@@ -7783,6 +7783,48 @@
    "files": [],
    "drive": null,
    "phone": "972547388641"
+  },
+  {
+   "id": "3A9D104AD32E0F7EF08A",
+   "sender": "יפה",
+   "text": "למסירה פינת אוכל מסירה מיידית",
+   "ts": 1790698488000,
+   "date": "2026-09-29",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AADF5B0516D854DE8D2",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1790698488000,
+   "date": "2026-09-29",
+   "time": "19:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "279KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Zd3oEuMyFhLYgk-MSlqpQTPVLejqpHlP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Zd3oEuMyFhLYgk-MSlqpQTPVLejqpHlP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AE246E09A9AD62D5D0B",
+   "sender": "יפה",
+   "text": "📇 דנה🌿\n+972523231680",
+   "ts": 1790698489000,
+   "date": "2026-09-29",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
   }
  ]
 }

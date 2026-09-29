@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T15:54:24.439Z",
+ "updated": "2026-09-29T16:11:54.693Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5422,6 +5422,48 @@
    "ts": 1790697263000,
    "date": "2026-09-29",
    "time": "18:54",
+   "files": [],
+   "drive": null,
+   "phone": "972527073970"
+  },
+  {
+   "id": "AC985FFEAE6DA54050E8AF5580F14154",
+   "sender": "צורית דמתי",
+   "text": "לא. הרגע עברתי שם וסגרו",
+   "ts": 1790698153000,
+   "date": "2026-09-29",
+   "time": "19:09",
+   "files": [],
+   "drive": null,
+   "phone": "972545583552"
+  },
+  {
+   "id": "AC4FC76DF1BF0CE65F3F4B2F1197926F",
+   "sender": "liad🎀",
+   "text": "",
+   "ts": 1790698251000,
+   "date": "2026-09-29",
+   "time": "19:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x-k4P_lZLrk-sLNq5edobZTxkFv9W4Am/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x-k4P_lZLrk-sLNq5edobZTxkFv9W4Am&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526624939"
+  },
+  {
+   "id": "AC40A233763C49349AB54A52E76492F6",
+   "sender": "רעות",
+   "text": "ונטו חסכון?",
+   "ts": 1790698305000,
+   "date": "2026-09-29",
+   "time": "19:11",
    "files": [],
    "drive": null,
    "phone": "972527073970"
