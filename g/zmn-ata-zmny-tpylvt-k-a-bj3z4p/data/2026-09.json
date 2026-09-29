@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-09-29T05:18:41.678Z",
+ "updated": "2026-09-29T05:51:12.146Z",
  "messages": [
   {
    "id": "ACE6D7B51F9D97D3DF11A3CBC092D83F",
@@ -2245,6 +2245,26 @@
    ],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "AC948B745488F4066AD7F4EFB9821297",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790661059000,
+   "date": "2026-09-29",
+   "time": "08:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AHkLJEpYEjFRJZhGSiOybFilVkRMg64L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AHkLJEpYEjFRJZhGSiOybFilVkRMg64L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }
