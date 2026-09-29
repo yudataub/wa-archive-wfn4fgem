@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T19:47:07.913Z",
+ "updated": "2026-09-29T19:57:08.066Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2948,7 +2948,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1j1v3U_13WlWpw6s0qhYtlgNXmXgaSU90/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1j1v3U_13WlWpw6s0qhYtlgNXmXgaSU90&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1j1v3U_13WlWpw6s0qhYtlgNXmXgaSU90&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-09/AC619ABF68130AEAB123A70D137932E8_0.mp4"
     }
    ],
    "drive": null,
@@ -2964,6 +2965,83 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "ACDA074483AB2883DC8F644B2F48A92A",
+   "sender": "Tal🥰",
+   "text": "את נתת לו את הטקסט?",
+   "ts": 1790711344000,
+   "date": "2026-09-29",
+   "time": "22:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
+  },
+  {
+   "id": "AC277B216ABF59915286104C8AD6EDB1",
+   "sender": "Tal🥰",
+   "text": "מאיזה כלי?",
+   "ts": 1790711377000,
+   "date": "2026-09-29",
+   "time": "22:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
+  },
+  {
+   "id": "ACA76291BB03636817E366F5949D6D58",
+   "sender": "Tal🥰",
+   "text": "יחסית מוצלח ומלמד מאוד",
+   "ts": 1790711398000,
+   "date": "2026-09-29",
+   "time": "22:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
+  },
+  {
+   "id": "AC9C66972F7DA3D42DB8A1C92039E6C8",
+   "sender": "חפציה",
+   "text": "לא\nאינס'",
+   "ts": 1790711402000,
+   "date": "2026-09-29",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC71806EDF803240CA2ED24E9153C312",
+   "sender": "חפציה",
+   "text": "לא מספיק בהיר. יכול להיות שהכנה מקדימה של תמונות היתה פותרת",
+   "ts": 1790711423000,
+   "date": "2026-09-29",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACD7A2F9571D7EEE01500B09C3B78B57",
+   "sender": "Tal🥰",
+   "text": "באמת נשמע כמו קריינות של שיווק מתחנף. \nאבל סביר מאוד בעיני \nוגם התוכן בהיר, מעניין ופשוט",
+   "ts": 1790711474000,
+   "date": "2026-09-29",
+   "time": "22:51",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
+  },
+  {
+   "id": "AC9567889D5A14B8F835113D30133A17",
+   "sender": "Tal🥰",
+   "text": "עשית לי חשק לנסות גם",
+   "ts": 1790711823000,
+   "date": "2026-09-29",
+   "time": "22:57",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
   }
  ]
 }

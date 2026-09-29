@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-29T19:18:18.315Z",
+ "updated": "2026-09-29T19:53:21.767Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -6061,6 +6061,26 @@
      "path": "https://drive.google.com/file/d/1ptJs7ilhsYosvBdG9iXNLtMOc8k9P4KD/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ptJs7ilhsYosvBdG9iXNLtMOc8k9P4KD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5C8FCB525F71459C62DBC1AB182F829",
+   "sender": "י",
+   "text": "בלגן באירוע ברכסים: המשטרה עצרה את האירוע בעקבות שלטענתה מספר משתתפים לא נשמעו להוראות.\n\nלכל העדכונים 👇",
+   "ts": 1790711586000,
+   "date": "2026-09-29",
+   "time": "22:53",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1BTFM9gY4eRkTCHzRyXpO_f16qc7YUF8R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BTFM9gY4eRkTCHzRyXpO_f16qc7YUF8R&sz=w1200"
     }
    ],
    "drive": null,
