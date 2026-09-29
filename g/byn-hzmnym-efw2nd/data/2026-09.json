@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-29T08:15:18.435Z",
+ "updated": "2026-09-29T11:47:47.350Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1265,6 +1265,26 @@
    "files": [],
    "drive": null,
    "phone": "972534332141"
+  },
+  {
+   "id": "ACBA37E22DD59D9BE0FA338A918BDF41",
+   "sender": "לאה נתנזון",
+   "text": "*שבת שמחת תורה*👑\nבמחיר הרגע האחרון💫\nבתי כנסת בקרבת מקום\nישיבת ההסדר במעלות\n🏡 וילה מפוארת✨\n🍽️ מטבח מאובזר\n🛋️ סלון מרווח\n🌄 מרפסת רחבה\n🛏️ 5 חדרי שינה\n🛌 10 מיטות + מזרנים\n👨‍👩‍👧‍👦 עד 15 אורחים\n📞 050-954-0023",
+   "ts": 1790682437000,
+   "date": "2026-09-29",
+   "time": "14:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "664KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DJ-F2TPJox_cFSWZOnnlkoPZaIXrGYQR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DJ-F2TPJox_cFSWZOnnlkoPZaIXrGYQR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509540023"
   }
  ]
 }

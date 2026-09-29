@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-28T16:57:29.581Z",
+ "updated": "2026-09-29T11:38:47.242Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -1544,6 +1544,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "3A592D7FC22053CE52D6",
+   "sender": "דנה מוזס",
+   "text": "למכירה לול לתינוק כולל מזרון❣️רק-200שח❣️איסוף מקרית אתא.\n0509535820,דנה.",
+   "ts": 1790681922000,
+   "date": "2026-09-29",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FeH-5nsBzca4p8PxR6pBpAdOCrB8zuVX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FeH-5nsBzca4p8PxR6pBpAdOCrB8zuVX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
   }
  ]
 }
