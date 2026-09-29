@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-29T10:51:11.298Z",
+ "updated": "2026-09-29T12:43:25.738Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5764,6 +5764,26 @@
    ],
    "drive": null,
    "phone": "972547264000"
+  },
+  {
+   "id": "A50E889A23058A01B1B2F368FA73D6E8",
+   "sender": "אורית החלקות שיער",
+   "text": "לפרטים נוספים למספר 053-9322270",
+   "ts": 1790685776000,
+   "date": "2026-09-29",
+   "time": "15:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dvgAUoZNzPuwvJhG1G_7QenvVndx-v32/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dvgAUoZNzPuwvJhG1G_7QenvVndx-v32&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559593991"
   }
  ]
 }
