@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T08:33:48.742Z",
+ "updated": "2026-09-29T08:47:18.960Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -33566,6 +33566,26 @@
    "drive": null,
    "thread": "גל דנינו",
    "phone": "972502960615"
+  },
+  {
+   "id": "A558A815E6A019FBE9FA2696E4AF0489",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790671611000,
+   "date": "2026-09-29",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "423KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14wzLZLG6QWL4tjuaRoThVR8BzK4L-caL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14wzLZLG6QWL4tjuaRoThVR8BzK4L-caL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
