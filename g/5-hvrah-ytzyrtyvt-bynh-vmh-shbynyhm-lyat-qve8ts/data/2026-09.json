@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "5️⃣הוראה, יצירתיות, בינה ומה שביניהם- ליאת ונגרובסקי",
- "updated": "2026-09-28T09:33:02.788Z",
+ "updated": "2026-09-29T10:01:34.222Z",
  "messages": [
   {
    "id": "ACAB7A8BF49CEA2EA7B4BFF4819126A4",
@@ -475,6 +475,26 @@
    "date": "2026-09-28",
    "time": "12:32",
    "files": [],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "ACD435AF104B5412EAA2E0F241625A01",
+   "sender": "ליאת ונגרובסקי",
+   "text": "\"אחרי החגים\"🍎🌿📖\nמאגר רעיונות והצעות לפעילויות עם תלמידים למפגש אחרי החגים\nhttps://canva.link/gc0iutfv0nko00j\n\nמועדים לשמחה, ליאת ונגרובסקי\nלהצטרפות לקהילה:\nלמעקב בערוץ: https://whatsapp.com/channel/0029VagHeDGHwXb9DEqc7m1f",
+   "ts": 1790676087000,
+   "date": "2026-09-29",
+   "time": "13:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TD0rF6HvGAXqxsCJj2u3OfLzsCLGwnRF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TD0rF6HvGAXqxsCJj2u3OfLzsCLGwnRF&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546535745"
   }
