@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T13:26:01.859Z",
+ "updated": "2026-09-29T15:11:16.796Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39595,6 +39595,26 @@
    ],
    "drive": null,
    "phone": "972524340803"
+  },
+  {
+   "id": "3EB02086C72EEC763C0FCD",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790694673000,
+   "date": "2026-09-29",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rORTYkKeSRd5p5tGrXVZ8hTiL2y0Pc_S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rORTYkKeSRd5p5tGrXVZ8hTiL2y0Pc_S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

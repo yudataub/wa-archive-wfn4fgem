@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-09-29T14:37:52.335Z",
+ "updated": "2026-09-29T15:13:59.689Z",
  "messages": [
   {
    "id": "3A2A9D70CE1CADCFBDAE",
@@ -637,6 +637,37 @@
    "files": [],
    "drive": null,
    "phone": "972507437479"
+  },
+  {
+   "id": "AC929BC87A41FBD402F2D848D85CE9E2",
+   "sender": "Silvia Sapoznik",
+   "text": "",
+   "ts": 1790694770000,
+   "date": "2026-09-29",
+   "time": "18:12",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1gjxcEzdD-8umwGHPifB_q4E8_ZqzB0lv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gjxcEzdD-8umwGHPifB_q4E8_ZqzB0lv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549220953"
+  },
+  {
+   "id": "AC5BA13EA631AE458522DC4CB3CB56A3",
+   "sender": "Silvia Sapoznik",
+   "text": "שוב, קודם מצגת, אחר כך סרטון בinstinct",
+   "ts": 1790694815000,
+   "date": "2026-09-29",
+   "time": "18:13",
+   "files": [],
+   "drive": null,
+   "phone": "972549220953"
   }
  ]
 }
