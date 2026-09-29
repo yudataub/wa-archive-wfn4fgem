@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T06:13:12.499Z",
+ "updated": "2026-09-29T06:59:43.242Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39117,6 +39117,26 @@
    ],
    "drive": null,
    "phone": "972556717628"
+  },
+  {
+   "id": "AC5B1DCF8E4C08F6946DD91AD1405F57",
+   "sender": "עוז ברזילי",
+   "text": "לקרוא לילד בשמו\n\n*למעקב 🔔 ביוטיוב ובכושר-טיוב* : 👇\nhttps://www.youtube.com/@HaravYaronUzanOfficial\n*להצטרפות לקבוצה השקטה* : 👇",
+   "ts": 1790665167000,
+   "date": "2026-09-29",
+   "time": "09:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "38.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/15CvcV-iCjzSrmGmFg-jpBtgJlN853K7N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15CvcV-iCjzSrmGmFg-jpBtgJlN853K7N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524325624"
   }
  ]
 }
