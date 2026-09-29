@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T17:27:45.056Z",
+ "updated": "2026-09-29T17:33:15.134Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2374,7 +2374,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1UMtOy2eI6k4cEsvPXaAGGashEvdRbLNZ/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1UMtOy2eI6k4cEsvPXaAGGashEvdRbLNZ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1UMtOy2eI6k4cEsvPXaAGGashEvdRbLNZ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-09/AC2B6B0043C2C433C8E0FC416467510D_0.mp4"
     }
    ],
    "drive": null,
@@ -2434,6 +2435,94 @@
    "files": [],
    "drive": null,
    "phone": "972527470596"
+  },
+  {
+   "id": "3EB0CDA7CD015A923CC700",
+   "sender": "Stdb",
+   "text": "דן איטס משחק הראשון שלי נקרא ?",
+   "ts": 1790702895000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB024281CF13A78E4C088",
+   "sender": "Stdb",
+   "text": "כמו שאומרים בACME",
+   "ts": 1790702905000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB04701CE042217D4BD31",
+   "sender": "Stdb",
+   "text": "back to the drawing board",
+   "ts": 1790702913000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB027CDC809ACF62D9E3D",
+   "sender": "Stdb",
+   "text": "+ מעברים ממש לא חלקים אין התאמה בין הדיבור לתנועות הפה והעשן ברקע ממש לא ברור מהמטרה שלו",
+   "ts": 1790702936000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB012D8F28ED91F5FCC7B",
+   "sender": "Stdb",
+   "text": "תמיד שמח לפרגן",
+   "ts": 1790703017000,
+   "date": "2026-09-29",
+   "time": "20:30",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB06441B1F8C0D2026E02",
+   "sender": "Stdb",
+   "text": "גם הסיום לא ברור ברחובות העיר ימלאו ילדים משחקים ברחובותיה ?",
+   "ts": 1790703133000,
+   "date": "2026-09-29",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC7BADDC6B985D40C4E7CF0182741723",
+   "sender": "Stdb",
+   "text": "אבדוק זו עשויה להיות אפשרות",
+   "ts": 1790703168000,
+   "date": "2026-09-29",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC4A2A628FCE8621AD74EB5CDA62EAAE",
+   "sender": "Stdb",
+   "text": "אם המשתמש חינמי?",
+   "ts": 1790703186000,
+   "date": "2026-09-29",
+   "time": "20:33",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
   }
  ]
 }

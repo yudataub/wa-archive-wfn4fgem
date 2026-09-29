@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-29T11:00:41.464Z",
+ "updated": "2026-09-29T17:28:39.597Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8591,6 +8591,57 @@
    ],
    "drive": null,
    "phone": "972559909393"
+  },
+  {
+   "id": "AC2C227D59AF71AAC91344C057876E3C",
+   "sender": "דוד סונטה מנהלים מפנק",
+   "text": "",
+   "ts": 1790702916000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N_vgLFTVTNJiGT3I0R68E_oNhnLJqALc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N_vgLFTVTNJiGT3I0R68E_oNhnLJqALc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503404314"
+  },
+  {
+   "id": "AC26D29B8D49CC58E7782A0CE3683855",
+   "sender": "דוד סונטה מנהלים מפנק",
+   "text": "למכירה ספה חשמלית חדשה ממש, נקנתה לפני כשנה ונמכרת עקב מעבר דירה.\nמחיר : 1000 שח\nגמיש קצת במחיר לרציניים!",
+   "ts": 1790702917000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972503404314"
+  },
+  {
+   "id": "AC854449BE86BE9284537031DBC32A5C",
+   "sender": "דוד סונטה מנהלים מפנק",
+   "text": "",
+   "ts": 1790702917000,
+   "date": "2026-09-29",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dRoz2CofW1iV6QGfeiW0Kx4NCJ8PVElv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dRoz2CofW1iV6QGfeiW0Kx4NCJ8PVElv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503404314"
   }
  ]
 }
