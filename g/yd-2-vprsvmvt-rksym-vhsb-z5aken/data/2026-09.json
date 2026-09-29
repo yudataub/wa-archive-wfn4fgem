@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T07:17:50.993Z",
+ "updated": "2026-09-29T08:34:18.769Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6909,6 +6909,26 @@
    ],
    "drive": null,
    "phone": "972534973826"
+  },
+  {
+   "id": "A5D884CC6316307EA3382BB4CD694C6F",
+   "sender": "יוסף ישראל",
+   "text": "למכירה\n 2025 \n10 אלף קילומטר \nעבר את הריקול \nוהוחלף מנוע חדש(\n במסגרת הריקול \n\n69.500 אלף שח",
+   "ts": 1790670845000,
+   "date": "2026-09-29",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c_cG92O0i8I3Xqd1Mc5uFb2Aajm-kjcU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c_cG92O0i8I3Xqd1Mc5uFb2Aajm-kjcU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559503426"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T08:18:18.489Z",
+ "updated": "2026-09-29T08:32:18.715Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39373,6 +39373,26 @@
    ],
    "drive": null,
    "phone": "972555574177"
+  },
+  {
+   "id": "A5D521ACC1A1D380DB99480C2DFB7DCE",
+   "sender": "עדי אלוני",
+   "text": "*שימו לב יש צבעים חדשים🙏🏼💚*\nחברים יקרים 🤲🏽 פתחנו  הזדמנות נוספת לעשות הזמנה של הכובעים לזכר אושרי🙏🏼\nמצורפים לינק לרישום ולינק לתשלום.\nעלות כובע: 110 ש\"ח.\n*התשלום בביט פייבוקס , ומוזמן*\nחובה למלא את הרישום!\n*אין ביטולי הזמנות*\n*למקומות רחוקים ייתכן עיכוב עד שיגיע נא גלו סבלנות*🙏🏼\n *להרשמה להזמנה:*\nhttps://forms.gle/WXZWvm85suQ8MUJK8\n *לתשלום בפייבוקס:*\nhttps://links.payboxapp.com/Hh48NO4yPUb\n*תשלום בביט*\nhttps://www.bitpay.co.il/app/share-info?i=UPyzdMDj&j=true\nלכל שאלה באהבה \nעדי 0528895928",
+   "ts": 1790670718000,
+   "date": "2026-09-29",
+   "time": "11:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yWMG6QOqNTCqTqCuTOoM_JgqZe9eVHgv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yWMG6QOqNTCqTqCuTOoM_JgqZe9eVHgv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528895928"
   }
  ]
 }
