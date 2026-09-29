@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חנן פורת - דמות",
- "updated": "2026-09-29T05:04:41.376Z",
+ "updated": "2026-09-29T11:31:41.977Z",
  "messages": [
   {
    "id": "gm-1a05b76f9a3dd0ea",
@@ -5471,6 +5471,25 @@
    ],
    "drive": null,
    "phone": "972508762019"
+  },
+  {
+   "id": "ACF5EC2A52BD79E21F8CE6A7FF334430",
+   "sender": "דוד ברג",
+   "text": "",
+   "ts": 1790681481000,
+   "date": "2026-09-29",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1CH5s44F-TnpUYO3mXnSzHObmKVif_1gR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544848993"
   }
  ]
 }
