@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T11:51:47.394Z",
+ "updated": "2026-09-29T15:37:47.201Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5394,6 +5394,26 @@
    ],
    "drive": null,
    "phone": "972539260179"
+  },
+  {
+   "id": "2A7E8F53A9638B486BC8",
+   "sender": "אלישבע לוז – יעוץ ושיווק נדלן",
+   "text": "",
+   "ts": 1790696256000,
+   "date": "2026-09-29",
+   "time": "18:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19SMKKh6B3P8o-n5jUjHdycVef1pWDP99/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19SMKKh6B3P8o-n5jUjHdycVef1pWDP99&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552813938"
   }
  ]
 }
