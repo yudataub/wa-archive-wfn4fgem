@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T19:04:00.178Z",
+ "updated": "2026-09-29T19:26:37.544Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2779,6 +2779,125 @@
    "date": "2026-09-29",
    "time": "22:03",
    "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5D5D486EA07651F76DCF884FE3B57CE",
+   "sender": "ווקי שרון מרגולין",
+   "text": "איפה יש סקילס בג'מיני",
+   "ts": 1790709547000,
+   "date": "2026-09-29",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5D8EA8B669506DC2D769C286487EE0E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לאן אמורים להעביר את הבוטים",
+   "ts": 1790709555000,
+   "date": "2026-09-29",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A572B24D22A78D4A9F1B38E26C907F22",
+   "sender": "mary garby",
+   "text": "מנוי בתשלום",
+   "ts": 1790709560000,
+   "date": "2026-09-29",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A56DB26CC3AFA3934CF33C16A9DC8458",
+   "sender": "mary garby",
+   "text": "זה בעצם הספארק",
+   "ts": 1790709597000,
+   "date": "2026-09-29",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A504F4485D1FBAFB2264FB9BEB26961E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אבל לא לכולם יש ספארק",
+   "ts": 1790709707000,
+   "date": "2026-09-29",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A59BEF45A2278BBD8DD3D139375CA718",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לי למשל אין",
+   "ts": 1790709712000,
+   "date": "2026-09-29",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A50C682EB28AEA7BF595CDF6D001724C",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ויש לי חשבון פרו",
+   "ts": 1790709717000,
+   "date": "2026-09-29",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5D4C102ED2349213FD548B3A81505A7",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ומי שאין לו חשבון פרו אז הכל יימחק סתם ככה?",
+   "ts": 1790709734000,
+   "date": "2026-09-29",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A511073167A5F625E945AC41CB87E398",
+   "sender": "mary garby",
+   "text": "אם יש לך פרו יש לך ספארק",
+   "ts": 1790709909000,
+   "date": "2026-09-29",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5AE78F38C5ABC0B92A7E4407C2DDE0C",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790709992000,
+   "date": "2026-09-29",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DLFeJB0xv1xXm8o8iOI486I3-xwr4mwD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DLFeJB0xv1xXm8o8iOI486I3-xwr4mwD&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546887626"
   }

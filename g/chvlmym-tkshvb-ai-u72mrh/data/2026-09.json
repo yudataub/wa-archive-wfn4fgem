@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-29T19:13:30.347Z",
+ "updated": "2026-09-29T19:20:07.442Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -6132,6 +6132,37 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "3EB00BB02E543D380A3A87",
+   "sender": "ויטלי",
+   "text": "שלום רב \nאשמח לעזרה. התחברתי לחשבון של משרד החינוך. נכנסתי לקאנבה וזו ההודעה:",
+   "ts": 1790709584000,
+   "date": "2026-09-29",
+   "time": "22:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "24KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t84SokiJlPfhF_9MJPZ45EtRMgZVpZ6_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t84SokiJlPfhF_9MJPZ45EtRMgZVpZ6_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548172225"
+  },
+  {
+   "id": "3EB049E02F9029DAE0B8C3",
+   "sender": "ויטלי",
+   "text": "מה זה אומר?",
+   "ts": 1790709587000,
+   "date": "2026-09-29",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972548172225"
   }
  ]
 }

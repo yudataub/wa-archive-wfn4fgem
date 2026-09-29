@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-29T17:59:39.967Z",
+ "updated": "2026-09-29T19:18:18.315Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -6043,6 +6043,26 @@
    "date": "2026-09-29",
    "time": "20:59",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5395EF4377924E0340BC31C8AE3638D",
+   "sender": "י",
+   "text": "*תאונת דרכים קשה בין 2 משאיות בדרך יגאל ידין בחיפה - פצוע קשה פונה לביה\"ח*\nחובשים ופרמדיקים של מד\"א העניקו טיפול רפואי ופינו לבי\"ח רמב\"ם גבר כבן 40 במצב קשה, מורדם  ומונשם עם חבלת ראש.\n\nלכל העדכונים 👇",
+   "ts": 1790709492000,
+   "date": "2026-09-29",
+   "time": "22:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "207KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ptJs7ilhsYosvBdG9iXNLtMOc8k9P4KD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ptJs7ilhsYosvBdG9iXNLtMOc8k9P4KD&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
