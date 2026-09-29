@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-29T10:44:34.269Z",
+ "updated": "2026-09-29T10:51:11.285Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -9226,6 +9226,26 @@
    "files": [],
    "drive": null,
    "phone": "972552748485"
+  },
+  {
+   "id": "ACAA1375E3887249D01B22F645D79B19",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1790679053000,
+   "date": "2026-09-29",
+   "time": "13:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1206EevKUUk7H2dk8M0dgEI28igpK3XaM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1206EevKUUk7H2dk8M0dgEI28igpK3XaM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

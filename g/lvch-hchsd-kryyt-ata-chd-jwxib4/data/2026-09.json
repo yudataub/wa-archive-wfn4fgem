@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T09:32:26.478Z",
+ "updated": "2026-09-29T10:51:41.296Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5268,6 +5268,37 @@
    "files": [],
    "drive": null,
    "phone": "972522821001"
+  },
+  {
+   "id": "AC13099BCAFF9AEE19851B86388B5BD9",
+   "sender": "B",
+   "text": "",
+   "ts": 1790679069000,
+   "date": "2026-09-29",
+   "time": "13:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vkEwcDXu_YHDqfALSCaWm8PZj5D7fd5Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vkEwcDXu_YHDqfALSCaWm8PZj5D7fd5Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "A5A6237E09BBD59C90D67FB32837E44A",
+   "sender": "גיא אפיק Dj",
+   "text": "https://driveclub.co.il/?ref=LP5886BP\n\n1000 מצטרפים אחרונים בחינם לפני שמגיעים ליעד של 50,000 תרשמו מהר אחכ זה יהיה בתשלום.. חבל",
+   "ts": 1790679080000,
+   "date": "2026-09-29",
+   "time": "13:51",
+   "files": [],
+   "drive": null,
+   "phone": "972548047828"
   }
  ]
 }
