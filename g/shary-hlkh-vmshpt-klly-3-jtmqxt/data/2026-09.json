@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-09-29T10:18:33.884Z",
+ "updated": "2026-09-29T10:34:34.102Z",
  "messages": [
   {
    "id": "gm-1a059bda93e2b4d0",
@@ -20305,6 +20305,48 @@
    ],
    "drive": null,
    "phone": "972546277790"
+  },
+  {
+   "id": "AC377D70206FD9B90CFFD7527E9A16B2",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "כמה גרם קמח",
+   "ts": 1790677840000,
+   "date": "2026-09-29",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "3A81DAC56FB892EA4C3E",
+   "sender": "מיכאל",
+   "text": "20.7 אחוז רשום שזה יוצא 13.455 גרם",
+   "ts": 1790677983000,
+   "date": "2026-09-29",
+   "time": "13:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "593KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s8_Wc0yeiPjdjOt62OLi-0tQFdScuKLu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s8_Wc0yeiPjdjOt62OLi-0tQFdScuKLu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546277790"
+  },
+  {
+   "id": "ACE0188DD970D6B447617C2129F31DA9",
+   "sender": "חננאל",
+   "text": "כן",
+   "ts": 1790678050000,
+   "date": "2026-09-29",
+   "time": "13:34",
+   "files": [],
+   "drive": null,
+   "phone": "972523895343"
   }
  ]
 }
