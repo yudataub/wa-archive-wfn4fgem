@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T17:18:02.633Z",
+ "updated": "2026-09-29T17:27:39.594Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39723,11 +39723,43 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1zKy7m0HVH_7KH9ZlcsW9b0ppWmaUPHAM/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1zKy7m0HVH_7KH9ZlcsW9b0ppWmaUPHAM&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1zKy7m0HVH_7KH9ZlcsW9b0ppWmaUPHAM&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-09/AC141C55999A33B9767D4CB2B82A010F_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972559935618"
+  },
+  {
+   "id": "AC8F413E961BEA1F170B3B7CE450D290",
+   "sender": "יוני טולדנו",
+   "text": "🌿 מכירת ערבות להושענא רבה 🌿\nלקראת הושענא רבה\nניתן להשיג ערבות מהודרות במחירים משתלמים! 🌿\n📦 כמות מוגבלת – מומלץ להזמין מראש\n📍 איסוף / משלוחים\n📞 להזמנות: יוני – 050-344-6763\nשנזכה לחתימה טובה ולשנה טובה ומבורכת!\n🍃🌿🍋",
+   "ts": 1790702356000,
+   "date": "2026-09-29",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972503446763"
+  },
+  {
+   "id": "2ACB2E55654AE7BAA489",
+   "sender": "Ayala Sapir",
+   "text": "נשארו 3 מקומות. זהו. 😭🔥✈️\n\nלמסע שאנחנו הולכות לזכור כל החיים.\nמגיעה לבד? את חוזרת עם משפחה. 🤍\n\n3 בנות אחרונות מצטרפות אלינו לאומן.\nמי מרגישה שזה שלה? 🥹✨",
+   "ts": 1790702850000,
+   "date": "2026-09-29",
+   "time": "20:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "411KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1u5iSaUzvF4NU5xFFTrzY7ib5RMOeY7Y5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1u5iSaUzvF4NU5xFFTrzY7ib5RMOeY7Y5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559676555"
   }
  ]
 }
