@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-28T17:42:45.258Z",
+ "updated": "2026-09-29T16:22:37.251Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1501,6 +1501,26 @@
    ],
    "drive": null,
    "phone": "972523771652"
+  },
+  {
+   "id": "A586B5A4E940B06B1D0944E7E15BFE15",
+   "sender": "Henry Ai",
+   "text": "אתמול ElevenLabs הכריזה על Eleven v4, מודל הקריינות הכי איכותי שלה עד היום.\n\nהמודל מבין טון, קצב והקשר מהטקסט ומקריא בהתאם, ואפשר לכוון אותו עם תגיות בתוך הטקסט כמו צחוק, לחישה או אפילו קול גשם ברקע. הוא תומך ביותר מ-90 שפות כולל עברית, ושומר על קול עקבי גם בשיחה בין כמה דוברים.\nבמקביל יצאה גרסת Turbo מהירה, שמיועדת לסוכני קול ולשיחות בזמן אמת.\n\nהכלי זמין כבר עכשיו באתר, כולל בחשבון החינמי (עד 10,000 תווים בחודש, שימוש מסחרי מצריך מנוי בתשלום), וגם ב-API. אפליקציית ההקראה ElevenReader (אייפון, אנדרואיד ודפדפן) כבר רצה על המודל החדש.\n\nקישור לכלי ElevenLabs 👇🏼\nhttps://try.elevenlabs.io/AI22\n\nההכרזה הרשמית 👇🏼\nhttps://elevenlabs.io/blog/eleven-v4\n\nקישור לאפליקציית ElevenReader 👇🏼\nhttps://elevenreader.io\n\nתהנו\nהנרי - henryai.space 🩷",
+   "ts": 1790698933000,
+   "date": "2026-09-29",
+   "time": "19:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Omi7mi0WGLpeNtvmxEvyscNiHqzxEXKm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Omi7mi0WGLpeNtvmxEvyscNiHqzxEXKm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585005171"
   }
  ]
 }

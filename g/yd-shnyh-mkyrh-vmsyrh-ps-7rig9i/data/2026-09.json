@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-29T15:29:47.070Z",
+ "updated": "2026-09-29T16:22:24.859Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -2315,6 +2315,37 @@
    ],
    "drive": null,
    "phone": "972559985850"
+  },
+  {
+   "id": "ACB108F5C1C2A3126CCDDD130FFB4553",
+   "sender": "Daniel",
+   "text": "",
+   "ts": 1790698914000,
+   "date": "2026-09-29",
+   "time": "19:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DnS2AGBkkBhnfUhyccQv2HWJlw4rOI77/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DnS2AGBkkBhnfUhyccQv2HWJlw4rOI77&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523371048"
+  },
+  {
+   "id": "AC93EED7E185221413038F99FAC188EC",
+   "sender": "Daniel",
+   "text": "חגורת גב להריון במצב חדש 50₪",
+   "ts": 1790698915000,
+   "date": "2026-09-29",
+   "time": "19:21",
+   "files": [],
+   "drive": null,
+   "phone": "972523371048"
   }
  ]
 }
