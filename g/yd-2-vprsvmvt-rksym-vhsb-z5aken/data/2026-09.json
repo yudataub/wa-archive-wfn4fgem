@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T13:46:02.186Z",
+ "updated": "2026-09-29T13:50:32.232Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -7133,6 +7133,26 @@
    "files": [],
    "drive": null,
    "phone": "972556717628"
+  },
+  {
+   "id": "AC74CB7DB3837831BE2B24724D8679D9",
+   "sender": "תן חיוך אח יקר הכל לטובה❤️‍🔥",
+   "text": "",
+   "ts": 1790689809000,
+   "date": "2026-09-29",
+   "time": "16:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JGJ1RGTQeFHYFckEvZJkGtVu4sA7yBW0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JGJ1RGTQeFHYFckEvZJkGtVu4sA7yBW0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525310305"
   }
  ]
 }
