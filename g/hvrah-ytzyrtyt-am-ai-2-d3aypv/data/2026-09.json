@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-29T16:22:37.251Z",
+ "updated": "2026-09-29T18:19:52.689Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1521,6 +1521,26 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "AC92EDA97A7EFD2E461B38C8FD1DD700",
+   "sender": "הילי זוורו",
+   "text": "https://youtu.be/U-JXaM3nlVQ?si=5F0i4neV7iV7J9Hr\n\nמוזמנות לבוא ללמוד איך מכינים סרטונים יפים עם AI בקנבה 😀\n\nאני מציגה גם הרבה רעיונות ❤️\n\nהילי",
+   "ts": 1790705984000,
+   "date": "2026-09-29",
+   "time": "21:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19Vb_LiJpHzFrN69y3B6IXNVo2ChN0fr3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19Vb_LiJpHzFrN69y3B6IXNVo2ChN0fr3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527470596"
   }
  ]
 }

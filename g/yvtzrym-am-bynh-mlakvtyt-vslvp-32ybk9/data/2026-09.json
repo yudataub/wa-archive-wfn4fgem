@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T18:17:22.660Z",
+ "updated": "2026-09-29T18:26:59.607Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2619,6 +2619,112 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "A5DC75749DD54A19CC4A938E4E117015",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ההתנגדות הייתה על החיבור שלו למידע שלי, גישה לחשבונות וכדומה.\nואחרי מחקר מעמיק שעשיתי הגעתי למסקנה שמבחינתי זה בסדר להשתמש בו בדרך מסוימת",
+   "ts": 1790705885000,
+   "date": "2026-09-29",
+   "time": "21:18",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0638DCF72C17171C80D",
+   "sender": "Stdb",
+   "text": "ממקיי",
+   "ts": 1790705900000,
+   "date": "2026-09-29",
+   "time": "21:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3B190F03E60DFF325AC2",
+   "sender": "Evyatar Shpilman",
+   "text": "אני רק מקווה שבסוף אתם לא תצטערו על זה",
+   "ts": 1790706052000,
+   "date": "2026-09-29",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "A52EB727EFBCBBEDF63FB1B791F8E452",
+   "sender": "mary garby",
+   "text": "ישב השיקוץ ולמד יומיים להכין סירטונים....",
+   "ts": 1790706146000,
+   "date": "2026-09-29",
+   "time": "21:22",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A564EB37E0C94886FC4C8C814A8B46AB",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790706212000,
+   "date": "2026-09-29",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1jmH47f4Vm2E3h6D-xd8Sl4BGF1OktUcP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jmH47f4Vm2E3h6D-xd8Sl4BGF1OktUcP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "3A7FE3AFFD046CEC314C",
+   "sender": "Rivi Horvatt",
+   "text": "מקסים מרי מפריע לי שכל דבר שנכנס מגיע משמאל לימין",
+   "ts": 1790706354000,
+   "date": "2026-09-29",
+   "time": "21:25",
+   "files": [],
+   "drive": null,
+   "phone": "972504539595"
+  },
+  {
+   "id": "A564C21FA159C03515DC3E28E0FCA990",
+   "sender": "mary garby",
+   "text": "בדיוק מה שכתבתי לו...",
+   "ts": 1790706372000,
+   "date": "2026-09-29",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A552F86AE866FD2FB473E3035537DE0C",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790706415000,
+   "date": "2026-09-29",
+   "time": "21:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bW4QDhsp-RPHyGPuUzw8bFtUYk3Z0tNC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bW4QDhsp-RPHyGPuUzw8bFtUYk3Z0tNC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }
