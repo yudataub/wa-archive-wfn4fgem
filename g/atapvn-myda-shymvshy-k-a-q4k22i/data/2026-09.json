@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-09-29T12:43:25.738Z",
+ "updated": "2026-09-29T13:22:01.793Z",
  "messages": [
   {
    "id": "AC25E2933D784232662E6414BA366E5B",
@@ -5784,6 +5784,26 @@
    ],
    "drive": null,
    "phone": "972559593991"
+  },
+  {
+   "id": "AC480DD4718E5E4688F77D31DF26D2BC",
+   "sender": "גליה שם-טוב😊",
+   "text": "היי חברים וחברות פתחתי קבוצה שקטה\n לעדכונים על טברנות יווניות והופעות שלי ... (קבוצה ללא חפירות) \nמי שרוצה להצטרף \nולהיות בטברנות הכי שמחות ושוות שלי \nשישלח לי הודעה בפרטי ואשלח קשור \nסיגלית טואטי ❤️❤️\n0539871966\n0522819629",
+   "ts": 1790688096000,
+   "date": "2026-09-29",
+   "time": "16:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "483KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-K0ghwCUWMEH9XFO_OUCPPEuMoXoTCdt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-K0ghwCUWMEH9XFO_OUCPPEuMoXoTCdt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523414033"
   }
  ]
 }

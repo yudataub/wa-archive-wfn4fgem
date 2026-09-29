@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T12:59:55.984Z",
+ "updated": "2026-09-29T13:26:01.859Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39575,6 +39575,26 @@
    ],
    "drive": null,
    "phone": "972504247737"
+  },
+  {
+   "id": "AC98161529C02199D6EA6E031690D37C",
+   "sender": "מורן שושן",
+   "text": "מארז 7 חלקים לתינוק 0-3",
+   "ts": 1790688344000,
+   "date": "2026-09-29",
+   "time": "16:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CETIsezl_W_NhpW6bVvPKQcdnXz6g7rJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CETIsezl_W_NhpW6bVvPKQcdnXz6g7rJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524340803"
   }
  ]
 }
