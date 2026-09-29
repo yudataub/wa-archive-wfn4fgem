@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-29T10:51:11.285Z",
+ "updated": "2026-09-29T14:14:39.240Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -9246,6 +9246,26 @@
    ],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "ACFC906355B09308AA0D6EBEF5567858",
+   "sender": "יעקב קרלינסקי",
+   "text": "היום דרשת מורינו הרב שליט\"א",
+   "ts": 1790691277000,
+   "date": "2026-09-29",
+   "time": "17:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jVjcUiAGHOB9YCZuQc4yEPmn0-dCbcy4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jVjcUiAGHOB9YCZuQc4yEPmn0-dCbcy4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }

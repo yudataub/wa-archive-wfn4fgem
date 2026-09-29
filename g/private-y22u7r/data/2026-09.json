@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T14:07:39.114Z",
+ "updated": "2026-09-29T14:15:39.245Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -34079,7 +34079,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1dQkPwnO1E-NOjOqPma_zsalWX0YCYqlO/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1dQkPwnO1E-NOjOqPma_zsalWX0YCYqlO&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1dQkPwnO1E-NOjOqPma_zsalWX0YCYqlO&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-private-y22u7r/v/2026-09/AC3B73E9FCA82681C076C2906D965286_0.mp4"
     }
    ],
    "drive": null,
@@ -34108,6 +34109,18 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC9D8E2AAFD3AC81B43E7EB4024066F5",
+   "sender": "דבורה ויינר",
+   "text": "עד 450 ש\"ח  \nל 20 עותקים.\nכולל משלוח.\nאפשר?",
+   "ts": 1790691330000,
+   "date": "2026-09-29",
+   "time": "17:15",
+   "files": [],
+   "drive": null,
+   "thread": "דבורה ויינר",
+   "phone": "972509101095"
   }
  ]
 }
