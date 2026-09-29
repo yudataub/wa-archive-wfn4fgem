@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הקהילה שהכל כאן !!!",
- "updated": "2026-09-28T17:38:23.778Z",
+ "updated": "2026-09-29T07:09:20.850Z",
  "messages": [
   {
    "id": "A58A112CCF15C442E571C8544837F000",
@@ -907,6 +907,26 @@
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1mYRUqqFLRzUBLbn1dC2_IoxPGrJPi86f&sz=w1200",
      "mirror": "https://yudataub.github.io/wa-vid-hkhylh-shhkl-kan-p4i9vb/v/2026-09/A5C438A9C0786742F607D759D4B466E3_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972587875261"
+  },
+  {
+   "id": "A56E2C2C25DFB39729230F73F0A715AB",
+   "sender": "אריאל דדון",
+   "text": "",
+   "ts": 1790665742000,
+   "date": "2026-09-29",
+   "time": "10:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "28.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12KGUt2bVfo6SiB0cvfrY8VjneDMkQZ2W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12KGUt2bVfo6SiB0cvfrY8VjneDMkQZ2W&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "כפר המשנה",
- "updated": "2026-09-27T15:37:26.334Z",
+ "updated": "2026-09-29T07:15:20.967Z",
  "messages": [
   {
    "id": "AC5E5D75D6C09F6B150DD5AA0A97F7B1",
@@ -33,6 +33,26 @@
    ],
    "drive": null,
    "phone": "972552776790"
+  },
+  {
+   "id": "AC498C6FF4602FDA0C7C9769CA751AA4",
+   "sender": "יסכה מושקוביץ 🤩",
+   "text": "*בר המצווה של נדב* 🎊\n📅 *יום 3 – \"הלולב שעל שולחן האוכל\"* \n📖 מסכת סוכה | פרק ג' | משנה י'\n🎧 מחכים לכם בפרק החדש של *כפר המשנה*\n\n🔗 https://youtu.be/i2zZNCYcA6U\n\n📝 קישור לשאלון\nhttps://forms.gle/cC2Aa9aP2br7RmqWA\n\n*חדש בכפר המשנה!*\nאתר לימוד וחוויה - המסע שלכם במסכת סוכה!\nסרטונים, משחקי למידה וצבירת נקודות!\nhttps://kfar-hamishna.com\n[האתר בפיתוח, נשמח לשמוע אם יש תקלות].",
+   "ts": 1790666104000,
+   "date": "2026-09-29",
+   "time": "10:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LAzEQp-OZ_LjINJgrTt85V3ufUM-tY14/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LAzEQp-OZ_LjINJgrTt85V3ufUM-tY14&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504005023"
   }
  ]
 }

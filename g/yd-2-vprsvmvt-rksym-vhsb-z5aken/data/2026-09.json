@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T06:55:13.157Z",
+ "updated": "2026-09-29T07:17:50.993Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6889,6 +6889,26 @@
    "files": [],
    "drive": null,
    "phone": "972542415060"
+  },
+  {
+   "id": "AC9858FEBD62DFB4B0274D88A83FA037",
+   "sender": "מירי",
+   "text": "*הזדמנות מיוחדת להגיע ולראות מקרוב את דגם בית המקדש המרהיב מעץ!*✨\n\n*ימים שלישי ורביעי, חול המועד סוכות.*\n🕙 *בין השעות 10:00-12:00*\n\n📍 גלריית שמעון טיאר, המייסדים 24, כפר חסידים\n📞 052-2610439",
+   "ts": 1790666257000,
+   "date": "2026-09-29",
+   "time": "10:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x90iAUQ_O0lDGRNByiqo6JZVIn-KleMg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x90iAUQ_O0lDGRNByiqo6JZVIn-KleMg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534973826"
   }
  ]
 }
