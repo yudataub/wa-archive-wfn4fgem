@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-29T04:28:56.667Z",
+ "updated": "2026-09-29T04:53:57.014Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4806,6 +4806,37 @@
    "ts": 1790656141000,
    "date": "2026-09-29",
    "time": "07:29",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A26ACD83544EC69BADE",
+   "sender": "972 Education Inc. Orly",
+   "text": "",
+   "ts": 1790657603000,
+   "date": "2026-09-29",
+   "time": "07:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BHRKIZGpUVcROATTmPYuqkRiwwiPUyQl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BHRKIZGpUVcROATTmPYuqkRiwwiPUyQl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2AECDBB69C606ABBF5FE",
+   "sender": "972 Education Inc. Orly",
+   "text": "למי שעובד/ת מול המחשב",
+   "ts": 1790657621000,
+   "date": "2026-09-29",
+   "time": "07:53",
    "files": [],
    "drive": null,
    "phone": "13107392984"
