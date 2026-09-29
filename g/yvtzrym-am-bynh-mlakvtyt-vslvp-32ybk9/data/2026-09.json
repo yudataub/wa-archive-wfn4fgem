@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T20:07:19.677Z",
+ "updated": "2026-09-29T20:47:50.301Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -3064,6 +3064,37 @@
    "files": [],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "AC05BF4421E89FA48E6BB022B7D142EF",
+   "sender": "Tal🥰",
+   "text": "",
+   "ts": 1790714802000,
+   "date": "2026-09-29",
+   "time": "23:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1icIZ9xgjaDeOFGdVxfX6KQHoUgyR1MLd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1icIZ9xgjaDeOFGdVxfX6KQHoUgyR1MLd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543330983"
+  },
+  {
+   "id": "AC9FDD2D32EB7D4FBCF77CF7FF90E0C1",
+   "sender": "Tal🥰",
+   "text": "דיי מרוצה מהתוצאה. \nתודה חפציה על ההשראה. ❤️",
+   "ts": 1790714854000,
+   "date": "2026-09-29",
+   "time": "23:47",
+   "files": [],
+   "drive": null,
+   "phone": "972543330983"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-09-29T19:43:21.608Z",
+ "updated": "2026-09-29T20:39:33.889Z",
  "messages": [
   {
    "id": "A503C2A89B6E3CE51EFD0D12335CE8A7",
@@ -7318,6 +7318,43 @@
    "files": [],
    "drive": null,
    "phone": "972506743210"
+  },
+  {
+   "id": "3EB0E735B71BDBF39AEFE7",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790714357000,
+   "date": "2026-09-29",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "פרסומת - ספר סודות ארבעת המינים.html",
+     "size": "13KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/13oQg0Xs6oqn88bGBMVAZAvCvp3YVjzn1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3EB051F1A4F6E716009095",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1790714358000,
+   "date": "2026-09-29",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13tkk8g8HXeW_LqzB_pXCsw60EYS3FpSu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13tkk8g8HXeW_LqzB_pXCsw60EYS3FpSu&sz=w1200"
+    }
+   ],
+   "drive": null
   }
  ]
 }
