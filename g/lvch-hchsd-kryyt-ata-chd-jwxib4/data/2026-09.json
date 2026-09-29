@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T16:11:54.693Z",
+ "updated": "2026-09-29T16:33:25.037Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5467,6 +5467,28 @@
    "files": [],
    "drive": null,
    "phone": "972527073970"
+  },
+  {
+   "id": "AC67CD6FEA436201C37A4F588FA25C36",
+   "sender": "oded Siboni",
+   "text": "פתוח",
+   "ts": 1790699492000,
+   "date": "2026-09-29",
+   "time": "19:31",
+   "files": [],
+   "drive": null,
+   "phone": "972507974945"
+  },
+  {
+   "id": "AC172460C912FC75ACEB5EAF1C87E176",
+   "sender": "oded Siboni",
+   "text": "‏להצטרפות לקבוצה שלי ב-‏WhatsApp‏:",
+   "ts": 1790699605000,
+   "date": "2026-09-29",
+   "time": "19:33",
+   "files": [],
+   "drive": null,
+   "phone": "972507974945"
   }
  ]
 }
