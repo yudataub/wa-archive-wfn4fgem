@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-28T19:43:50.525Z",
+ "updated": "2026-09-29T06:47:13.081Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5084,6 +5084,26 @@
    ],
    "drive": null,
    "phone": "972509858517"
+  },
+  {
+   "id": "A5C1FE5EFC2994B53E61225D2C8072A9",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "*הודעה חשובה* הכרטיסים אוזלים וביום האירוע תמיד יש לליעד עומס, תרכשו מראש וככה תחסכו לכן ולליעד עומס מיותר ותשמרו מקום מוקדם 🙏🏼",
+   "ts": 1790664431000,
+   "date": "2026-09-29",
+   "time": "09:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qTHa699We0oJrUn08Dw1FGTNynGjQLrJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qTHa699We0oJrUn08Dw1FGTNynGjQLrJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545223044"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-29T06:31:42.755Z",
+ "updated": "2026-09-29T06:45:43.031Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -33248,6 +33248,38 @@
    "ts": 1790663506000,
    "date": "2026-09-29",
    "time": "09:31",
+   "files": [],
+   "drive": null,
+   "thread": "טוביה ברוך",
+   "phone": "972546270052"
+  },
+  {
+   "id": "AC81CFB6CD6148DA87B8FA989A2087DE",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1790664305000,
+   "date": "2026-09-29",
+   "time": "09:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "15KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1WXWZU29KoXl5FAAXAxIDQDPKwQP5_W5E/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסקי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A53A478E57BB009C31FB99C2B36747AE",
+   "sender": "טוביה ברוך",
+   "text": "זה חבר שלי מבית אל כנס לערוץ שלו יש עוד תוכן טוב",
+   "ts": 1790664320000,
+   "date": "2026-09-29",
+   "time": "09:45",
    "files": [],
    "drive": null,
    "thread": "טוביה ברוך",
