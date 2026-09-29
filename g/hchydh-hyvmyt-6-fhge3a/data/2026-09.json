@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-09-28T19:33:09.141Z",
+ "updated": "2026-09-29T06:02:28.135Z",
  "messages": [
   {
    "id": "3EB0EE173B40E17678439B",
@@ -1177,6 +1177,26 @@
      "path": "https://drive.google.com/file/d/1t76LyCQE5fAPxfRT7ywsh2pcmqfkIbMn/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1t76LyCQE5fAPxfRT7ywsh2pcmqfkIbMn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0CCEC8133C7441C3037",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "📖 חידה מפה חגיגית: \n📍 *איזה ישוב רמוז בתמונה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://docs.google.com/forms/d/e/1FAIpQLSdq-NFdmidnNcAWmxuEsnHZx2QWZfPjMk5L71bavJfaXMP26Q/viewform?usp=dialog\n\n 🧲 חדש! המשחק הדיגיטלי של *ארץ-קיר!* 👇\nhttps://roo.ws/nu1_HGTd\nמועדים לשמחה!",
+   "ts": 1790661730000,
+   "date": "2026-09-29",
+   "time": "09:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "419KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1d9SymwJvD__myLPDkElNMTbnH-ZwbpQT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d9SymwJvD__myLPDkElNMTbnH-ZwbpQT&sz=w1200"
     }
    ],
    "drive": null,
