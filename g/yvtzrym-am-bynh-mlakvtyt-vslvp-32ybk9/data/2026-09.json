@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T08:16:32.656Z",
+ "updated": "2026-09-29T08:22:02.717Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -631,7 +631,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1aPY2jpCqeaTi17IrSiqWKC2akd2VyZ7l/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1aPY2jpCqeaTi17IrSiqWKC2akd2VyZ7l&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1aPY2jpCqeaTi17IrSiqWKC2akd2VyZ7l&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-09/A584EE3AF09D3DA9A8E6E58244D3B460_0.mp4"
     }
    ],
    "drive": null,
@@ -735,6 +736,17 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "ACE52FB59C62ADB80638E2DD995A6184",
+   "sender": "Stdb",
+   "text": "צודק עדיין זוועה במיוחד הקריין",
+   "ts": 1790670121000,
+   "date": "2026-09-29",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
   }
  ]
 }

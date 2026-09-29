@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא שלנו",
- "updated": "2026-09-29T08:14:19.869Z",
+ "updated": "2026-09-29T08:18:18.489Z",
  "messages": [
   {
    "id": "A5142997723F1A9FCCA5CD69775D12B1",
@@ -39313,6 +39313,66 @@
    "files": [],
    "drive": null,
    "phone": "972524325624"
+  },
+  {
+   "id": "A5D47056FA5FC730338951D8D06BA6F4",
+   "sender": "טלאור אילוז ציפורניים",
+   "text": "",
+   "ts": 1790669868000,
+   "date": "2026-09-29",
+   "time": "11:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14o2jOMOzUXxXzVtK9lBXQRgzUV6z4WcU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14o2jOMOzUXxXzVtK9lBXQRgzUV6z4WcU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555574177"
+  },
+  {
+   "id": "A5B1F8D1331ADD2862A93DBD3FD316D5",
+   "sender": "טלאור אילוז ציפורניים",
+   "text": "",
+   "ts": 1790669869000,
+   "date": "2026-09-29",
+   "time": "11:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZuWkwvaab3KjBfwERT2tqcX5q6HL8Zed/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZuWkwvaab3KjBfwERT2tqcX5q6HL8Zed&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555574177"
+  },
+  {
+   "id": "A56608D6A340F73D7952B3F48A0CD14A",
+   "sender": "טלאור אילוז ציפורניים",
+   "text": "*זמן של שקט, קפה טוב ואת יוצאת עם ציפורניים מושלמות* ☕💅🏽🌸\nפותחת יומן לקביעת תורים לשבוע הבא. \nאם גם לך בא להתפנק זה הזמן לדאוג לעצמך ...\n\n▪️בניה\n▪️מילוי\n▪️אנטומי\n▪️ג'ל רגליים\n📍רכסים, מצפה השחר📍\nלתיאום תור בפרטי, מחכה לך🩷",
+   "ts": 1790669870000,
+   "date": "2026-09-29",
+   "time": "11:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1farPiFZVBPJhDnVkb06xJpnwO9Jc_Rq9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1farPiFZVBPJhDnVkb06xJpnwO9Jc_Rq9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555574177"
   }
  ]
 }
