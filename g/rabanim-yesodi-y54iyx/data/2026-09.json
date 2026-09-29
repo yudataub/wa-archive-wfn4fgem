@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני בי\"ס",
- "updated": "2026-09-29T11:38:47.223Z",
+ "updated": "2026-09-29T12:01:47.546Z",
  "messages": [
   {
    "id": "3EB09A234D296353927D72",
@@ -9135,6 +9135,25 @@
    "files": [],
    "drive": null,
    "phone": "972523114680"
+  },
+  {
+   "id": "A54CB592AFF2073BF6585E9AFF0A69ED",
+   "sender": "בריחה בחוויה",
+   "text": "",
+   "ts": 1790683278000,
+   "date": "2026-09-29",
+   "time": "15:01",
+   "files": [
+    {
+     "name": "דף לימוד הושענא רבה_260929_150051.pdf",
+     "size": "2.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16dzsQNcepSyRaaAmxUvInDfGAPQ7rOU6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545696436"
   }
  ]
 }
