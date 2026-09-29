@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T05:52:12.167Z",
+ "updated": "2026-09-29T06:15:12.518Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -6805,6 +6805,46 @@
    ],
    "drive": null,
    "phone": "972538283971"
+  },
+  {
+   "id": "AC069EECD6952115D5D7F2768BA938DC",
+   "sender": "טולי",
+   "text": "דבר האבד...!!!\nנעליים מידה 43 100% עור אמיתי נקנו מאמזון ב-300 שח נבחרות ב-180 במצב חדש נלבשו רק בחג נמכרות עקב מידה לא מתאימה בהזדמנות",
+   "ts": 1790662406000,
+   "date": "2026-09-29",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aoLpUULxsgqcVi3cltg-r3ui93EwuEZz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aoLpUULxsgqcVi3cltg-r3ui93EwuEZz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "ACFB74FB2C48B8A6E541867531CD797A",
+   "sender": "טולי",
+   "text": "מידה 43 מצב חדש עור אמיתי נקנו במיין שיך ללקוח שניהם ב100₪!!!",
+   "ts": 1790662512000,
+   "date": "2026-09-29",
+   "time": "09:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1d59L2n4redQ7RWVJkHMzqzNdf1r96VmO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d59L2n4redQ7RWVJkHMzqzNdf1r96VmO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
   }
  ]
 }

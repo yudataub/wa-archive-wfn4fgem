@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "משניות לילדים 1⃣",
- "updated": "2026-09-28T10:29:49.228Z",
+ "updated": "2026-09-29T06:14:12.523Z",
  "messages": [
   {
    "id": "A5E504AAB1566B05041DB5CA41BCDA2B",
@@ -109,6 +109,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1LE4Sj9dOTcBJAACDtjr0fryBuZpjK4uM&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A5FE64411952E3D8FDD12463EE37A0EC",
+   "sender": "משנת חיים",
+   "text": "https://youtu.be/tEEsoYyNdBk?feature=shared\n*מחכים לכם ביום החמישי הקרוב לחידון הגדול*🙌🏻\n\n*והזוכה בחידה של אתמול- עדיאל מתתיהו*🏆\n\n*והחידה היומית היא:*\nמי צריך לתת למי מתנה? \nכנסו לקישור ותענו: https://forms.gle/mMULz4ZmthNf9Znh6",
+   "ts": 1790662453000,
+   "date": "2026-09-29",
+   "time": "09:14",
+   "files": [],
    "drive": null,
    "phone": "972555533789"
   }
