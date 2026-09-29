@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-29T13:11:56.183Z",
+ "updated": "2026-09-29T13:46:02.186Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -7062,6 +7062,77 @@
    "files": [],
    "drive": null,
    "phone": "972559563407"
+  },
+  {
+   "id": "AC178BB6F5A57BA3D91E2584AB603665",
+   "sender": "טולי",
+   "text": "נעליים במצב חדש מידה 43 אינם בשימוש נמכרות כולם 120 שקל לזוג למי שלוקח הכל",
+   "ts": 1790689542000,
+   "date": "2026-09-29",
+   "time": "16:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I_eVT8aShnoOWlrStCHYLAWBxYeg5aBS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I_eVT8aShnoOWlrStCHYLAWBxYeg5aBS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "ACB29AD300E459D90FE7FF35A59F91CD",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1790689543000,
+   "date": "2026-09-29",
+   "time": "16:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eowaxceg9LDt6YO_FQ0M6y4H4a7MVY58/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eowaxceg9LDt6YO_FQ0M6y4H4a7MVY58&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "AC03A32D9073F08E48F93E11C289AB89",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1790689544000,
+   "date": "2026-09-29",
+   "time": "16:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cqGc9xsaer_6wzqk_24H0aStKZiwK90m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cqGc9xsaer_6wzqk_24H0aStKZiwK90m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "AC43B241434C5679839293575CB8CA30",
+   "sender": "טולי",
+   "text": "עור אמיתי כולם!",
+   "ts": 1790689544000,
+   "date": "2026-09-29",
+   "time": "16:45",
+   "files": [],
+   "drive": null,
+   "phone": "972556717628"
   }
  ]
 }
