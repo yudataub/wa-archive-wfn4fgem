@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T18:26:59.607Z",
+ "updated": "2026-09-29T18:36:29.744Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -2678,7 +2678,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1jmH47f4Vm2E3h6D-xd8Sl4BGF1OktUcP/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1jmH47f4Vm2E3h6D-xd8Sl4BGF1OktUcP&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1jmH47f4Vm2E3h6D-xd8Sl4BGF1OktUcP&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-09/A564EB37E0C94886FC4C8C814A8B46AB_0.mp4"
     }
    ],
    "drive": null,
@@ -2723,6 +2724,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=1bW4QDhsp-RPHyGPuUzw8bFtUYk3Z0tNC&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "ACD17BB38A65FB14E932E18DF12488BE",
+   "sender": "Stdb",
+   "text": "מחליף את ואני בעצם",
+   "ts": 1790706969000,
+   "date": "2026-09-29",
+   "time": "21:36",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "A51F5A4232A28772F6A2EBEEF43F2D37",
+   "sender": "mary garby",
+   "text": "לגמרי...",
+   "ts": 1790706985000,
+   "date": "2026-09-29",
+   "time": "21:36",
+   "files": [],
    "drive": null,
    "phone": "972546887626"
   }
