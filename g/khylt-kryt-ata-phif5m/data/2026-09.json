@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-29T04:48:53.393Z",
+ "updated": "2026-09-29T07:21:21.093Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -221,7 +221,7 @@
   },
   {
    "id": "AC234D4EE6280FA2176D26DE2F2897AC",
-   "sender": "0526821835",
+   "sender": "שושי",
    "text": "",
    "ts": 1788334405000,
    "date": "2026-09-02",
@@ -4106,7 +4106,7 @@
   },
   {
    "id": "AC7BB6F7DAE8ADBFF5BA9568CE29E912",
-   "sender": "0526821835",
+   "sender": "שושי",
    "text": "",
    "ts": 1789485081000,
    "date": "2026-09-15",
@@ -5120,7 +5120,7 @@
   },
   {
    "id": "AC5CDDC8C3546D66C124D3D8CF7873C1",
-   "sender": "0526821835",
+   "sender": "שושי",
    "text": "",
    "ts": 1789653162000,
    "date": "2026-09-17",
@@ -8520,6 +8520,26 @@
    ],
    "drive": null,
    "phone": "972527361718"
+  },
+  {
+   "id": "ACFA1823EEB9A7A15DCA8012B6EAE3AE",
+   "sender": "שושי",
+   "text": "",
+   "ts": 1790666480000,
+   "date": "2026-09-29",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ffkPedI0C-pUeX4XysbAMvYG1PbmKSv4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ffkPedI0C-pUeX4XysbAMvYG1PbmKSv4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526821835"
   }
  ]
 }
