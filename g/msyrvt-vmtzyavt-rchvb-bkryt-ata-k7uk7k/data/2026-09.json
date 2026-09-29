@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-29T14:22:39.358Z",
+ "updated": "2026-09-29T14:33:09.527Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -425,6 +425,117 @@
    "ts": 1790691751000,
    "date": "2026-09-29",
    "time": "17:22",
+   "files": [],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC033D098DB3509359E8A578FB2519C7",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790692380000,
+   "date": "2026-09-29",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ImDt-ZQH_8I1l9SqdjL3vny90q_yPYu4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ImDt-ZQH_8I1l9SqdjL3vny90q_yPYu4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACEAF6F96523143C3D3DE852DDE47409",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790692380000,
+   "date": "2026-09-29",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bQV4Ppw17EFOeY5GTJXvOK47pkoOhvQP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bQV4Ppw17EFOeY5GTJXvOK47pkoOhvQP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC67CB178F5DE2D5B1AE0E746F62DA75",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790692381000,
+   "date": "2026-09-29",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Yyse43nxzcRcEd2E3qz3P6Tmwo3sOlvF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Yyse43nxzcRcEd2E3qz3P6Tmwo3sOlvF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC7FBF7302F797EA23639A15B6EE30D3",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790692382000,
+   "date": "2026-09-29",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QmSE0047gEH483P89QPWXUz3ajeeMC62/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QmSE0047gEH483P89QPWXUz3ajeeMC62&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC7525CA5146371C3BCC649841175833",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1790692383000,
+   "date": "2026-09-29",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p8DXAHsXbNjL-9QJ7V7i5yGkAuLs92pf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p8DXAHsXbNjL-9QJ7V7i5yGkAuLs92pf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC06CC96EFB836E6565A64320A4F93C6",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "למסריה. תקין לגמרי. זקוק לניקוי.\nצריך להעלות 2 קומות",
+   "ts": 1790692384000,
+   "date": "2026-09-29",
+   "time": "17:33",
    "files": [],
    "drive": null,
    "phone": "972502843549"
