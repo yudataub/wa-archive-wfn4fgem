@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-29T11:45:47.340Z",
+ "updated": "2026-09-29T11:51:47.394Z",
  "messages": [
   {
    "id": "failed-1788244401506",
@@ -5332,6 +5332,68 @@
    "files": [],
    "drive": null,
    "phone": "972528715167"
+  },
+  {
+   "id": "ACF5DF295291785EFCB6136EAC956FF8",
+   "sender": "יעקב קרלינסקי",
+   "text": "📇 שיפוצניק רפול\n+972 53-312-2429",
+   "ts": 1790682531000,
+   "date": "2026-09-29",
+   "time": "14:48",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC94D52510902ADECABA267C8DF377D6",
+   "sender": "רוית נאומה",
+   "text": "איפה יש היום / מחר שמחת בית השואבה  בע\"ה ?",
+   "ts": 1790682595000,
+   "date": "2026-09-29",
+   "time": "14:49",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC44FCEEC1E609051D15904690CFBF0C",
+   "sender": "Shayla Koral גמ\"ח שמללי",
+   "text": "",
+   "ts": 1790682687000,
+   "date": "2026-09-29",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v94OGSQBEwOmTUqAgiQXO7Mrfrq0wrQE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v94OGSQBEwOmTUqAgiQXO7Mrfrq0wrQE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539260179"
+  },
+  {
+   "id": "ACAE88F70D934AD598A695E06A8ECF84",
+   "sender": "Shayla Koral גמ\"ח שמללי",
+   "text": "במוצקין",
+   "ts": 1790682688000,
+   "date": "2026-09-29",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "737KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xUuRQTyi7WX36x0j5tC9nSqRhgfPzl_W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xUuRQTyi7WX36x0j5tC9nSqRhgfPzl_W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539260179"
   }
  ]
 }
