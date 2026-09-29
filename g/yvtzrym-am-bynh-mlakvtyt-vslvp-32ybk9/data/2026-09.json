@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T05:04:27.193Z",
+ "updated": "2026-09-29T06:23:28.499Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -175,6 +175,25 @@
    "files": [],
    "drive": null,
    "phone": "972544269091"
+  },
+  {
+   "id": "3EB0F8967D5E084635A44F",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790662999000,
+   "date": "2026-09-29",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "408KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1yhhXzkioxroK1HM1cbce8EREzVBgusQW/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }

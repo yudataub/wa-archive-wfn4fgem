@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-09-29T05:39:57.756Z",
+ "updated": "2026-09-29T06:23:28.488Z",
  "messages": [
   {
    "id": "A5AF054532CD3B2930D2393832D63046",
@@ -4860,6 +4860,55 @@
    "date": "2026-09-29",
    "time": "08:39",
    "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "2ADD0F4F43479C332D81",
+   "sender": "972 Education Inc. Orly",
+   "text": "",
+   "ts": 1790662894000,
+   "date": "2026-09-29",
+   "time": "09:21",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "460KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1bREkkUTjoMq4OYaKtgestsxBQLD3424d/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3EB0621DF2C3CB825F99D6",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מעולה",
+   "ts": 1790662953000,
+   "date": "2026-09-29",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0209CC714A5F1DE4D80",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1790662996000,
+   "date": "2026-09-29",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "408KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1KhwU7cNbxCDshLkSy8gyr_FbUUl2ssr0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972526673667"
   }
