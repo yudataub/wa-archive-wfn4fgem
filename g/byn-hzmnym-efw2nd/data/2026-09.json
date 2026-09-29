@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-29T04:48:23.371Z",
+ "updated": "2026-09-29T05:35:11.920Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1234,6 +1234,26 @@
    ],
    "drive": null,
    "phone": "972545447575"
+  },
+  {
+   "id": "A5CB1C4922E5BDF66F03458E2A3EE09F",
+   "sender": "צימר הראל",
+   "text": "",
+   "ts": 1790660096000,
+   "date": "2026-09-29",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m2LfE-lwJdO9x7k9gUpuMfZi4EtmfpRX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m2LfE-lwJdO9x7k9gUpuMfZi4EtmfpRX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507225762"
   }
  ]
 }
