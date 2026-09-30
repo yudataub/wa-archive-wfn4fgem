@@ -3,7 +3,8 @@
 <!--
   אלפון כללי — נכתב ע"י whatsapp-bridge/site-phones.js.
   לא לערוך כאן במאגר (יידרס), לערוך ב-site-phones.html ולהעלות SITE_PAGE_VERSION.
-  data/contacts.json = { contacts:[{phone,names,groups:[{slug,name,count,who}],total}],
+  data/contacts.json = { contacts:[{phone,names,groups:[{slug,name,count,who}],total,h}],
+    h = היסטוריית שמות (מקור, תאריכים, מי שלח כרטיס) — ראו site-phones.js
                           noPhone:[{name,slug,groupName,count}], groups:{slug:name} }
 -->
 <html lang="he" dir="rtl">
@@ -37,6 +38,22 @@ border-radius:999px;padding:4px 10px;font-size:13px;text-decoration:none;color:v
 .section-hdr{font-size:13px;font-weight:600;color:var(--accent);margin:18px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--line);}
 #status{text-align:center;color:var(--muted);padding:22px 16px;font-size:14px;line-height:1.6;}
 mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 2px;}
+details.hist{margin-top:8px;}
+details.hist>summary{cursor:pointer;font-size:13px;color:var(--accent);list-style:none;display:inline-block;
+padding:3px 10px;border:1px solid var(--line);border-radius:999px;background:var(--bubble);}
+details.hist>summary::-webkit-details-marker{display:none;}
+details.hist[open]>summary{border-color:var(--accent);}
+.hrow{display:flex;gap:10px;align-items:flex-start;padding:8px 2px;border-bottom:1px dashed var(--line);}
+.hrow:last-child{border-bottom:0;}
+.hsrc{flex:0 0 auto;font-size:11px;font-weight:600;border-radius:6px;padding:2px 7px;margin-top:2px;white-space:nowrap;
+background:var(--bubble);border:1px solid var(--line);color:var(--muted);}
+.hsrc.msg{color:#15803d;border-color:#86efac;}.hsrc.card{color:#b45309;border-color:#fcd34d;}
+.hsrc.book{color:#1d4ed8;border-color:#93c5fd;}.hsrc.prof{color:#7c3aed;border-color:#c4b5fd;}.hsrc.edit{color:#be123c;border-color:#fda4af;}
+.hbody{min-width:0;flex:1;}
+.hname{font-weight:600;font-size:14px;overflow-wrap:anywhere;}
+.hmeta{font-size:12px;color:var(--muted);margin-top:2px;line-height:1.55;overflow-wrap:anywhere;}
+.hmeta a{color:var(--accent);}
+.hnote{font-size:11px;color:var(--muted);margin-top:6px;}
 </style>
 </head>
 <body>
@@ -50,13 +67,47 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 2px;}
 <div id="status">טוען…</div>
 </main>
 <script>
-var DATA={contacts:[],noPhone:[],groups:{}};
+var DATA={contacts:[],noPhone:[],groups:{}},SHOWN=[];
 var el=function(id){return document.getElementById(id);};
 var q=el("q"),out=el("out"),statusEl=el("status"),sub=el("sub");
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
  return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 
 function norm(s){return String(s||"").trim().replace(/\s+/g," ");}
+
+// תאריך עברי — כמו בקטלוג הסרטונים. d = ימים מ-1970 (site-phones.js)
+var HEBFMT=null;try{HEBFMT=new Intl.DateTimeFormat("he-u-ca-hebrew",{day:"numeric",month:"long",year:"numeric"});}catch(e){}
+function gem(n){var s="",L=[[400,"ת"],[300,"ש"],[200,"ר"],[100,"ק"]],T="יכלמנסעפצ",U="אבגדהוזחט";
+ n=n%1000;L.forEach(function(p){while(n>=p[0]){s+=p[1];n-=p[0];}});
+ if(n===15)s+="טו";else if(n===16)s+="טז";else{if(n>=10){s+=T[Math.floor(n/10)-1];n%=10;}if(n)s+=U[n-1];}
+ return s.length<2?s+"׳":s.slice(0,-1)+"״"+s.slice(-1);}
+function gdate(d){var t=new Date(d*86400000+43200000);return t.getDate()+"."+(t.getMonth()+1)+"."+t.getFullYear();}
+function hdate(d){var t=new Date(d*86400000+43200000);if(!HEBFMT)return gdate(d);var p={};
+ HEBFMT.formatToParts(t).forEach(function(x){p[x.type]=x.value;});
+ return gem(+p.day)+" ב"+p.month+" "+gem(+p.year);}
+function hd(d){return "<span title='"+gdate(d)+"'>"+hdate(d)+"</span>";}
+function range(e){if(!e.f)return "";return e.l?"מ-"+hd(e.f)+" עד "+hd(e.l):hd(e.f);}
+
+var SRC={msg:"בהודעות",card:"📇 כרטיס",book:"האלפון שלך",prof:"פרופיל וואטסאפ",edit:"✎ ידני"};
+function histRow(e,qq){
+ var meta=[];
+ if(e.s==="msg"){
+  meta.push("כך הופיע כשולח"+(e.c?" · "+e.c.toLocaleString("he")+" הודעות":"")+(e.gc?" · ב-"+e.gc+" קבוצות":""));
+  if(e.f)meta.push(range(e));}
+ else if(e.s==="card"){
+  (e.by||[]).forEach(function(b){
+   var g=DATA.groups[b.g]||b.g;
+   meta.push("שלח/ה: "+esc(b.w)+(b.g?" · ב<a href='../g/"+esc(b.g)+"/'>"+esc(g)+"</a>":"")+(b.d?" · "+hd(b.d):""));});
+  if(e.bn&&e.bn>(e.by||[]).length)meta.push("ועוד "+(e.bn-(e.by||[]).length)+" פעמים");}
+ else if(e.s==="book")meta.push("כך שמור באלפון האישי שלך");
+ else if(e.s==="prof")meta.push("השם שבחר לעצמו בפרופיל הוואטסאפ (מהרשימה של 27.9)");
+ else if(e.s==="edit")meta.push("שינוי שם שעשית ב-✎ — זה השם המוצג בכל הארכיון");
+ return "<div class='hrow'><span class='hsrc "+e.s+"'>"+SRC[e.s]+"</span><div class='hbody'><div class='hname'>"+hl(e.n,qq)+
+  "</div><div class='hmeta'>"+meta.join("<br>")+"</div></div></div>";}
+function histHtml(c,qq){
+ return c.h.map(function(e){return histRow(e,qq);}).join("")+
+  "<div class='hnote'>ריחוף על תאריך מראה תאריך לועזי. \"בהודעות\" כולל גם שמות שהושלמו אוטומטית להודעות ישנות.</div>";}
+function histCount(c){var u={};c.h.forEach(function(e){u[e.n]=1;});return Object.keys(u).length;}
 
 function matchesQuery(c,qq){
  if(!qq)return true;
@@ -93,7 +144,7 @@ function groupHref(slug,who){
  // slug הוא שם התיקייה ב-g/ — הדף הוא ../g/<slug>/
  return"../g/"+esc(slug)+"/?who="+encodeURIComponent(who);}
 
-function renderCard(c,qq){
+function renderCard(c,qq,idx){
  var canonical=c.names[0]||"";
  var aliases=c.names.slice(1);
  var html="<div class='card'>";
@@ -106,6 +157,12 @@ function renderCard(c,qq){
    var g=c.groups[i];
    html+="<a class='glink' href='"+groupHref(g.slug,g.who)+"'>"+esc(g.name)+"<span class='cnt'>"+g.count+"</span></a>";}
   html+="</div>";}
+ if(c.h&&c.h.length){
+  // נפתח אוטומטית כשהחיפוש מצא שם שמופיע רק בהיסטוריה
+  var only=qq&&!/\d/.test(qq)&&!c.names.slice(0,1).some(function(n){return n.toLowerCase().includes(qq.toLowerCase());})&&
+   c.h.some(function(e){return e.n.toLowerCase().includes(qq.toLowerCase());});
+  html+="<details class='hist' data-i='"+idx+"'"+(only?" open":"")+"><summary>📜 היסטוריית שמות ("+histCount(c)+")</summary>"+
+   (only?histHtml(c,qq):"")+"</details>";}
  html+="</div>";
  return html;}
 
@@ -124,7 +181,8 @@ function render(){
  var html="";
  if(contacts.length>0){
   if(noPhone.length>0||!qq)html+="<div class='section-hdr'>אנשי קשר עם מספר טלפון ("+contacts.length+")</div>";
-  for(var i=0;i<contacts.length;i++)html+=renderCard(contacts[i],qq);}
+  for(var i=0;i<contacts.length;i++)html+=renderCard(contacts[i],qq,i);}
+ SHOWN=contacts;
  if(noPhone.length>0){
   html+="<div class='section-hdr'>ללא מספר טלפון ("+noPhone.length+")</div>";
   for(var i=0;i<noPhone.length;i++)html+=renderNP(noPhone[i],qq);}
@@ -146,6 +204,10 @@ function load(){
   .catch(function(e){statusEl.textContent="שגיאה בטעינת הנתונים ("+e+")";});}
 
 q.addEventListener("input",function(){render();});
+// ההיסטוריה נבנית רק כשפותחים (אלפי כרטיסים בדף)
+document.addEventListener("toggle",function(ev){
+ var d=ev.target;if(!d.classList||!d.classList.contains("hist")||!d.open||d.querySelector(".hrow"))return;
+ var c=SHOWN[+d.getAttribute("data-i")];if(c)d.insertAdjacentHTML("beforeend",histHtml(c,norm(q.value)));},true);
 load();
 </script>
 </body>
