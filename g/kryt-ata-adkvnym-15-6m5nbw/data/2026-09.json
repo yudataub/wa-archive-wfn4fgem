@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קרית אתא - עדכונים 15",
- "updated": "2026-09-29T12:55:25.902Z",
+ "updated": "2026-09-30T17:32:14.335Z",
  "messages": [
   {
    "id": "3EB0E0ACCDDE05E2FFB950",
@@ -182,6 +182,26 @@
      "path": "https://drive.google.com/file/d/1psB2JbyxwuyPRSAf_awZWXN0ZqVneend/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1psB2JbyxwuyPRSAf_awZWXN0ZqVneend&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114243"
+  },
+  {
+   "id": "3EB0ED08952CEE755906DE",
+   "sender": "עיריית קרית אתא",
+   "text": "תושבים יקרים, חג סוכות שמח! \r\n\r\nעיריית קרית אתא מזמינה אתכם לחגיגות שמחת תורה וההקפות השניות, שיתקיימו במוצאי החג, יום שבת ה-3.10, החל מהשעה 20:00, במוקדים שונים ברחבי העיר.\r\n\r\n📍 מוקדי ההקפות השניות:\r\n- רחבת בתי הכנסת, רחוב הוגו מולר 40 (רחבת יהודה בן בבא)\r\n- בית הכנסת עמנואל דוידשווילי, רחוב דוידשווילי\r\n- בית הכנסת ברכת אליהו, רחוב הנביאים 16\r\n- בית הכנסת היכל רשב\"י, רחוב י.ל. פרץ 16\r\n- בית הכנסת תפארת משה, רחבת העירייה\r\n- בית הכנסת היכל עוז ושלום, רחוב מבצע סיני\r\n- בית הכנסת אוהל מאיר, רחוב נורדאו\r\n\r\nחג סוכות שמח 💙\r\n\r\n👈🏻 להצטרפות לקבוצה הרשמית של עיריית קרית אתא:\r\nhttps://kiryat-ata.toshavil.co.il/group?g=עדכונים",
+   "ts": 1790789512000,
+   "date": "2026-09-30",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19mu_TqlkXpFVyboC1OgNaba8FZb0Pxh6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19mu_TqlkXpFVyboC1OgNaba8FZb0Pxh6&sz=w1200"
     }
    ],
    "drive": null,

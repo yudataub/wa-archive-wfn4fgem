@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חנן פורת - דמות",
- "updated": "2026-09-29T15:36:17.173Z",
+ "updated": "2026-09-30T17:00:10.737Z",
  "messages": [
   {
    "id": "gm-1a05b76f9a3dd0ea",
@@ -5501,6 +5501,26 @@
    "files": [],
    "drive": null,
    "phone": "972524378820"
+  },
+  {
+   "id": "AC7A9562EC8A5ECE1486B2F9A0F01079",
+   "sender": "גלית סגל",
+   "text": "נראה כמו צלב",
+   "ts": 1790787585000,
+   "date": "2026-09-30",
+   "time": "19:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kJFMR-FUJp0NH_yfkrdGSmqRyX4D13Zy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kJFMR-FUJp0NH_yfkrdGSmqRyX4D13Zy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556617480"
   }
  ]
 }

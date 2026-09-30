@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "עדכונים וטיפים על בינה מלאכותית #2",
- "updated": "2026-09-30T07:31:42.321Z",
+ "updated": "2026-09-30T15:10:32.608Z",
  "messages": [
   {
    "id": "A5C40AD7BC61CF98DD46519308A14041",
@@ -296,6 +296,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=13XJaMRLP91AL0L-ojJfBQlt3Awlzg0Iy&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972585777177"
+  },
+  {
+   "id": "A5692FD11EECEB1C4999AC7531DCD64A",
+   "sender": "דביר ביטון הדרכות וסדנאות בינה מלאכותית",
+   "text": "[סקר]",
+   "ts": 1790781006000,
+   "date": "2026-09-30",
+   "time": "18:10",
+   "files": [],
    "drive": null,
    "phone": "972585777177"
   }
