@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-29T18:54:17.920Z",
+ "updated": "2026-09-30T07:21:35.291Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1338,6 +1338,37 @@
    "files": [],
    "drive": null,
    "phone": "972586847435"
+  },
+  {
+   "id": "ACF507DF9EB1F0CEC8B72983E397265F",
+   "sender": "אדוה קנדל",
+   "text": "",
+   "ts": 1790750676000,
+   "date": "2026-09-30",
+   "time": "09:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CmLBmrjQC429RkuatCjCPPPaGa7jMeNI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CmLBmrjQC429RkuatCjCPPPaGa7jMeNI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556676945"
+  },
+  {
+   "id": "AC555F497E694086653092C94BAF9692",
+   "sender": "גיל",
+   "text": "איזה פעילויות יש הבוקר לילדים בני 5 ו6?",
+   "ts": 1790752894000,
+   "date": "2026-09-30",
+   "time": "10:21",
+   "files": [],
+   "drive": null,
+   "phone": "972525122283"
   }
  ]
 }

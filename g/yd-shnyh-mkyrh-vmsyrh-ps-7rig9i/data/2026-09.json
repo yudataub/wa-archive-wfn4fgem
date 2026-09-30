@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-29T16:22:24.859Z",
+ "updated": "2026-09-30T08:26:26.034Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -2346,6 +2346,86 @@
    "files": [],
    "drive": null,
    "phone": "972523371048"
+  },
+  {
+   "id": "AC0D91214F83D8AF5C523FEBE981E44F",
+   "sender": "🥰",
+   "text": "1. מכונת קפה אוטומטית דגם Nespresso Lattissima Pro (EN750) מבית נספרסו. כוללת מיכל חלב נשלף ומערכת אוטומטית להכנת קפוצ'ינו ולאטה בלחיצת כפתור. \n2. מתקן אחסון לקפסולות קפה מסוג Nespresso Versilo העשוי מזכוכית אקרילית שקופה.\n3. מיכל חלב נשלף נוסף, חדש!\n4. קפסולות *מתנה*\n5. יש גם חומר לניקוי אבנית - *מתנה* ועוד 15 קפסולות - *מתנה*\n*התווספו לאחר צילום התמונה*\n800 שח - גמיש.\nאיסוף: נהריה ולפעמים מעלות",
+   "ts": 1790752308000,
+   "date": "2026-09-30",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wLyNvzq-JFyRGSqPAgyA1ipjuSWDPH9b/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wLyNvzq-JFyRGSqPAgyA1ipjuSWDPH9b&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
+  },
+  {
+   "id": "4A69FE9E14774F84C51E",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790756753000,
+   "date": "2026-09-30",
+   "time": "11:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "326KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eKtbg2DX_ITor8zTI8kdPQKrxvUo-vNW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eKtbg2DX_ITor8zTI8kdPQKrxvUo-vNW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4A28C61197BA42FAE27F",
+   "sender": "Ofir Hadad",
+   "text": "",
+   "ts": 1790756754000,
+   "date": "2026-09-30",
+   "time": "11:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "196KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18oxYlpCx8_jquAw2IJf7_F8D5azoPe-s/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18oxYlpCx8_jquAw2IJf7_F8D5azoPe-s&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
+  },
+  {
+   "id": "4A11800C778A593D3FA2",
+   "sender": "Ofir Hadad",
+   "text": "למכירה בהזדמנות!! 2 מסכי מחשב בגודל 22 אינץ', מסך של PHILIPS בפורמט רחב ומסך של SAMSUNG בפורמט מרובע, שניהם תקינים ועובדים טוב, לשניהם יש כניסות VGA ו-DVI, מחיר ל-SAMSUNG 120 ש״ח, מחיר לפיליפס 150 ש״ח, מחיר לשניהם 200 ש\"ח. כל הקודם זוכה!!",
+   "ts": 1790756756000,
+   "date": "2026-09-30",
+   "time": "11:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jNMchL-lwzV2T6Aq6eoQkuXuFH-JCKtl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jNMchL-lwzV2T6Aq6eoQkuXuFH-JCKtl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406000"
   }
  ]
 }

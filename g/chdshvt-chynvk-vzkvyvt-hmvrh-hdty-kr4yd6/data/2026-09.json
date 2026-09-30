@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-09-30T05:10:00.634Z",
+ "updated": "2026-09-30T08:20:25.969Z",
  "messages": [
   {
    "id": "A5DFEDEE2A758F54B9AA98DE6717B713",
@@ -923,6 +923,66 @@
      "path": "https://drive.google.com/file/d/1EFQY90oXUu5UHL96ZG2_YUKND-6NMPBg/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1EFQY90oXUu5UHL96ZG2_YUKND-6NMPBg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A56C229E49D28989425C74B92294D4BD",
+   "sender": "אוריאל פדידה",
+   "text": "השחקן המורה שחר מור בסרטון הנוגע לתוכנית האוצר להעביר את המורים להיות עובדי עיריה ...( פורסם באוגוסט האחרון)\n*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1790755134000,
+   "date": "2026-09-30",
+   "time": "10:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/10lzuJ-q4LRc0i8ObBXzFk69o4Yhm1n3o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10lzuJ-q4LRc0i8ObBXzFk69o4Yhm1n3o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A569FD6E6AD98A23B9A3755D39DB337D",
+   "sender": "אוריאל פדידה",
+   "text": "",
+   "ts": 1790756328000,
+   "date": "2026-09-30",
+   "time": "11:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aiTxF-QAcmjO-_pPEDlusXh6ranvMmDM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aiTxF-QAcmjO-_pPEDlusXh6ranvMmDM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A54A5E2019F136A6C639811AC19959DC",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1790756419000,
+   "date": "2026-09-30",
+   "time": "11:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TmloXIgYoVJ01lARNKJkSiSllrcGMMaG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TmloXIgYoVJ01lARNKJkSiSllrcGMMaG&sz=w1200"
     }
    ],
    "drive": null,

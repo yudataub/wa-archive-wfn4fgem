@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חרדים מטיילים על🔥 גבוהה 1",
- "updated": "2026-09-29T17:20:02.637Z",
+ "updated": "2026-09-30T06:44:34.645Z",
  "messages": [
   {
    "id": "AC443865212441AC4B4EF82EA8E6C783",
@@ -725,6 +725,26 @@
    "files": [],
    "drive": null,
    "phone": "972548150771"
+  },
+  {
+   "id": "AC26FA0B5A6D0A23EAE815FC2BF3A98A",
+   "sender": "אדוה קנדל",
+   "text": "",
+   "ts": 1790750666000,
+   "date": "2026-09-30",
+   "time": "09:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J6Rbd1LhzCZaGQLfhn9pjCgHM1i03QfI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J6Rbd1LhzCZaGQLfhn9pjCgHM1i03QfI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556676945"
   }
  ]
 }

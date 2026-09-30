@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-29T14:05:32.428Z",
+ "updated": "2026-09-30T09:21:52.459Z",
  "messages": [
   {
    "id": "ACA56CF925497E8C83CA0B0D502D2D7E",
@@ -1946,7 +1946,7 @@
   },
   {
    "id": "ACB4B8193879241655AE53FFBE815D85",
-   "sender": "0506620383",
+   "sender": "אייל",
    "text": "אני לא חושב שצריך לנרמל תעריפים של כל תרומה יש בתורה עניין של מחצית השקל וגם זה בבית המקדש מבלי לפגוע חס ושלום בשמות שלרבנים אבל בתרומה באף מקום אין עניין כמה סכום של תרומה תועיל.רשום גם בפרוש איש אשר ידבנו ליבו יביא את תרומת ה'",
    "ts": 1789474174000,
    "date": "2026-09-15",
@@ -4297,6 +4297,46 @@
    "date": "2026-09-29",
    "time": "17:05",
    "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "ACEC42CDAAC63D5E6B6C4086BFE76E0D",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790749641000,
+   "date": "2026-09-30",
+   "time": "09:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "255KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p-XSGCN606ktA5ayWVryYMFJzb0_26jL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p-XSGCN606ktA5ayWVryYMFJzb0_26jL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACF49F75DDB94B132B0B6017FE9F89FD",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "",
+   "ts": 1790760109000,
+   "date": "2026-09-30",
+   "time": "12:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/14H_Dtak7n0IazvOFiOeGu9Ps_rQFLrsE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14H_Dtak7n0IazvOFiOeGu9Ps_rQFLrsE&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972524709727"
   }

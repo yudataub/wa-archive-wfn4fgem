@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-09-28T10:10:18.990Z",
+ "updated": "2026-09-30T06:45:34.651Z",
  "messages": [
   {
    "id": "AC9C877EE7068F6E9D8A9C94FCB56E6A",
@@ -131,6 +131,48 @@
      "thumb": "https://drive.google.com/thumbnail?id=1-787gRIN2BCfKPGa2WfgdciVqm0ObwF3&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB0797921DBB844FECD85",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט היומי\n*גלגל המזל לשילוב בפעילות בכיתה / חברתית*\nרוצים את הפרומפט? \nכנסו לכאן: https://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי:\nחג שמח  💚 שירה",
+   "ts": 1790749556000,
+   "date": "2026-09-30",
+   "time": "09:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/16vZNrXua72sBZW7perAKCT7wY0f2FGVY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16vZNrXua72sBZW7perAKCT7wY0f2FGVY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "ACDD2BE7A2C50606149EA094BC8EDAB7",
+   "sender": "כרמלה דינר",
+   "text": "מקסים!",
+   "ts": 1790749785000,
+   "date": "2026-09-30",
+   "time": "09:29",
+   "files": [],
+   "drive": null,
+   "phone": "972523939115"
+  },
+  {
+   "id": "AC5DBB472BF4C9E7F98D06FB7EA19660",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "אגב את הסרטון עשיתי בקלוד",
+   "ts": 1790750735000,
+   "date": "2026-09-30",
+   "time": "09:45",
+   "files": [],
    "drive": null,
    "phone": "972523930628"
   }

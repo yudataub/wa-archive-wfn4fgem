@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "וובינרים ואירועים #30 | LetsAI Events",
- "updated": "2026-09-27T14:57:44.218Z",
+ "updated": "2026-09-30T05:55:10.193Z",
  "messages": [
   {
    "id": "ACA79EA77CE52A2712022C0245E5ED49",
@@ -102,6 +102,26 @@
    ],
    "drive": null,
    "phone": "972586408042"
+  },
+  {
+   "id": "A50A6CCC4D1969B4D02C93E7C2D86F7A",
+   "sender": "אביתר אדרי letsai",
+   "text": "*זה הלינק לזום לוובינר הבוקר שלנו - היום (רביעי 30.9) ב-10:00.*\nכניסה חינם (מוזמנים לשתף את הלינק) ⬇️\nhttps://ltsai.co/webinars-30-09-2026\n\nבלו\"ז - \"הכה את המומחה\"... אתם מתקילים אותנו בלייב עם בקשות / שאלות, והמומחים שלנו בונים את הפתרון בזמן אמת (ותו\"כ תנועה, גם מסבירים לכם את הרציונל מאוחרי ההחלטות, הפעולות והכלים שנבחרו). כך תבינו טוב יותר איך אתם יכולים לקחת את זה לעולמות שלכם, ובאיזו צורה AI יכול לעזור למטרות העסקיות שלכם.",
+   "ts": 1790747680000,
+   "date": "2026-09-30",
+   "time": "08:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RznABQ-i_EuEh5bPJK7iQLQG1CRL9TU7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RznABQ-i_EuEh5bPJK7iQLQG1CRL9TU7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506686869"
   }
  ]
 }

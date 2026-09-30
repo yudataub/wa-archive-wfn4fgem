@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-09-30T02:39:37.387Z",
+ "updated": "2026-09-30T09:34:05.224Z",
  "messages": [
   {
    "id": "A503C2A89B6E3CE51EFD0D12335CE8A7",
@@ -7366,6 +7366,103 @@
    "files": [],
    "drive": null,
    "phone": "972595620682"
+  },
+  {
+   "id": "AC36A9025D61A00E736C906FFA5A6BAA",
+   "sender": "טלי זיו",
+   "text": "אין לפרסם בקבוצה זו ללא אישור!!!",
+   "ts": 1790755735000,
+   "date": "2026-09-30",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972544918799"
+  },
+  {
+   "id": "AC6D79983CA07042BF7B5120F18406F7",
+   "sender": "רבקה",
+   "text": "שלום, האם יש חומרי סיכה שמומלצים  בהריון או אסורים בהריון? תודה.",
+   "ts": 1790759437000,
+   "date": "2026-09-30",
+   "time": "12:10",
+   "files": [],
+   "drive": null,
+   "phone": "972524767175"
+  },
+  {
+   "id": "AC7002500651F58D0E8F23AEEF55CD6E",
+   "sender": "Ayala HaLevi",
+   "text": "אכתוב שבהריון עוד יותר מומלץ להיזהר משימוש בחומרי סיכה על בסיס שמן שעלולים לפגוע בפלורה הטבעית של האיזור",
+   "ts": 1790759536000,
+   "date": "2026-09-30",
+   "time": "12:12",
+   "files": [],
+   "drive": null,
+   "phone": "972586655058"
+  },
+  {
+   "id": "ACADF71EE2B4A0256305B2318640362E",
+   "sender": "רבקה",
+   "text": "אז מה כן? תודה",
+   "ts": 1790760588000,
+   "date": "2026-09-30",
+   "time": "12:29",
+   "files": [],
+   "drive": null,
+   "phone": "972524767175"
+  },
+  {
+   "id": "AC5DBEA3C95E879D9747EEB843CBC2ED",
+   "sender": "נדב רט",
+   "text": "",
+   "ts": 1790760706000,
+   "date": "2026-09-30",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s0_hUvgPM5dmWDTxG--51tf42Pk9bXST/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s0_hUvgPM5dmWDTxG--51tf42Pk9bXST&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528084999"
+  },
+  {
+   "id": "AC84ECA8C2A0352F87BB39D423613B88",
+   "sender": "רבקה",
+   "text": "תודה. יש עוד אופציות? \nשמן קוקוס גם לא מומלץ?",
+   "ts": 1790760791000,
+   "date": "2026-09-30",
+   "time": "12:33",
+   "files": [],
+   "drive": null,
+   "phone": "972524767175"
+  },
+  {
+   "id": "AC4C1AD6BBD0F70CAD33B2786063606C",
+   "sender": "Ayala HaLevi",
+   "text": "בול\n\nומזכירה את מה שיש זמין לכולנו..\nרוק ולעזור לעורר טבעי",
+   "ts": 1790760809000,
+   "date": "2026-09-30",
+   "time": "12:33",
+   "files": [],
+   "drive": null,
+   "phone": "972586655058"
+  },
+  {
+   "id": "AC6FE62C7C0E73B2BD032081684FD8CA",
+   "sender": "Ayala HaLevi",
+   "text": "ממש לא על שמן קוקוס!\nאוי ואבוי!\n\nממליצה להזכיר לאישה גם שתיה מרובה..",
+   "ts": 1790760844000,
+   "date": "2026-09-30",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "phone": "972586655058"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-09-29T06:27:28.573Z",
+ "updated": "2026-09-30T09:34:27.371Z",
  "messages": [
   {
    "id": "3EB0E449CBB5211645E903",
@@ -1242,6 +1242,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1ufH0WBqLlAHnoKFARGel1gKJZPukfEu4&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB040557A2BAF52FC652F",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: מקומות בארץ\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1790750866000,
+   "date": "2026-09-30",
+   "time": "09:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ViW6bDC7DeH0WpR50tJcl1rcNy-OELAP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ViW6bDC7DeH0WpR50tJcl1rcNy-OELAP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB077E00C6711CE92DD8D",
+   "sender": "עמי חניא",
+   "text": "התראיינתי בכיכר השבת - בין השאר גם על חידות התמונה (לקראת הסוף) :)\nhttps://www.kikar.co.il/omanot/tlvcse",
+   "ts": 1790760860000,
+   "date": "2026-09-30",
+   "time": "12:34",
+   "files": [],
    "drive": null,
    "phone": "972546702328"
   }

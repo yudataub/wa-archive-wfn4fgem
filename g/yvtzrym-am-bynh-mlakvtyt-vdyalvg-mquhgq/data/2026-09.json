@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-09-30T02:55:23.613Z",
+ "updated": "2026-09-30T06:30:10.790Z",
  "messages": [
   {
    "id": "A5CB32929752868FB8DB475B05F2C9F0",
@@ -1455,7 +1455,7 @@
   },
   {
    "id": "3A70E2BA179A35E4297B",
-   "sender": "0546868698",
+   "sender": "גנית",
    "text": "יצירת סרטון\nhttps://www.instagram.com/reel/DcqNEKqMH_B/?stkn=MXEyZnE3b2Q1ZHJtOQ==",
    "ts": 1788638807000,
    "date": "2026-09-05",
@@ -32222,6 +32222,37 @@
    "files": [],
    "drive": null,
    "phone": "972528926740"
+  },
+  {
+   "id": "3A96225169D11B6E6B32",
+   "sender": "Hagit",
+   "text": "לא יהיה ג״ם בכלל כמו שסגרו בChatGPT",
+   "ts": 1790749095000,
+   "date": "2026-09-30",
+   "time": "09:18",
+   "files": [],
+   "drive": null,
+   "phone": "972522556245"
+  },
+  {
+   "id": "3EB06A17CE9F0A815F3CC3",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט היומי\n*גלגל המזל לשילוב בפעילות בכיתה / חברתית*\nרוצים את הפרומפט? \nכנסו לכאן: https://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי:\nחג שמח  💚 שירה",
+   "ts": 1790749779000,
+   "date": "2026-09-30",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/15Mj4Zyrbs5bySntxyHoZXNGPtjZ7b1Ww/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15Mj4Zyrbs5bySntxyHoZXNGPtjZ7b1Ww&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

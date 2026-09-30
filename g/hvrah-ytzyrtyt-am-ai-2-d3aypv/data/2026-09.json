@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-09-30T02:55:23.387Z",
+ "updated": "2026-09-30T09:31:57.341Z",
  "messages": [
   {
    "id": "3EB0ACFE881DEF9DEBE840",
@@ -1554,6 +1554,90 @@
    "files": [],
    "drive": null,
    "phone": "972546702328"
+  },
+  {
+   "id": "3EB03E71284FCB5B30B26D",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט היומי\n*גלגל המזל לשילוב בפעילות בכיתה / חברתית*\nרוצים את הפרומפט? \nכנסו לכאן: https://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי:\nחג שמח  💚 שירה",
+   "ts": 1790749641000,
+   "date": "2026-09-30",
+   "time": "09:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TIj96FxZB3tPr6b884CWBkLvI2g7tPQy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TIj96FxZB3tPr6b884CWBkLvI2g7tPQy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB05064E10EA2D68CA35F",
+   "sender": "עמי חניא",
+   "text": "בשביל ההשוואה, נתתי בדיוק את אותה המשימה עם אותן ההוראות לקלוד.\n*זה הסרטון שקלוד הכין עבורי (סונט 5.5) עם אותן הוראות* - אבל הוא קצת פחות מכיר אותי.\nלקח לו כשעה, ושני סבבי תיקונים על מנת שזה יהיה ברמת עובר.\nהוא כתב את התסריט על בסיס האתר של מופאש לבד.\nבשביל שהוא יערוך על המחשב הוא ביקש ממני להתקין את קלוד על המחשב.\nhttps://www.youtube.com/watch?v=8e_VsieHDPA",
+   "ts": 1790750345000,
+   "date": "2026-09-30",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3AC2DE5BCEBDAEFC3DEE",
+   "sender": "גנית",
+   "text": "בשני המקרים היה דרוש מנוי בתשלום?",
+   "ts": 1790757513000,
+   "date": "2026-09-30",
+   "time": "11:38",
+   "files": [],
+   "drive": null,
+   "phone": "972546868698"
+  },
+  {
+   "id": "AC62DB3E85F82B77FE7B4446C5009B2C",
+   "sender": "עמי חניא",
+   "text": "אין לי חינמי אז לא יודע לומר",
+   "ts": 1790757568000,
+   "date": "2026-09-30",
+   "time": "11:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "A573965A0E215A97A0ED6F4166E8C574",
+   "sender": "תמר חמאדה",
+   "text": "אז הנה סרטון הדרכה על דוחות אינטראקטיביים. ביקשתם סרטון, קיבלתם! \n\nלמה לקרוא מסמך סטטי כשאפשר פשוט \"לדבר\" עם הנתונים שלכם? הפיצ'ר החדש ב-NotebookLM מאפשר לכם לסכם  ולדלות תובנות מדויקות ברגע.\n\nצפו עכשיו בהדרכה: https://youtu.be/OTcXY2X2UcY\n\nתמר חמאדה\nרעיונות פוגשים בינה",
+   "ts": 1790760700000,
+   "date": "2026-09-30",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "197KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rZLx0RtDqPELnMGMj7UsYG5FdxDhojDG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rZLx0RtDqPELnMGMj7UsYG5FdxDhojDG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A5545F5C71D14FFB42E9D78CA9FF3343",
+   "sender": "תמר חמאדה",
+   "text": "https://www.facebook.com/share/p/19bGhiA2eE/\n\nוקצת פדגוגיה מאחורי הדוחות עקבו אחריי",
+   "ts": 1790760701000,
+   "date": "2026-09-30",
+   "time": "12:31",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

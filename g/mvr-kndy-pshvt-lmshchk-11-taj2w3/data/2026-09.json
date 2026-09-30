@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מור קנדי - פשוט למשחק 11",
- "updated": "2026-09-28T15:06:23.648Z",
+ "updated": "2026-09-30T09:05:43.958Z",
  "messages": [
   {
    "id": "A545E17572AC94B8843E29868A5BC114",
@@ -295,6 +295,37 @@
    "ts": 1790607977000,
    "date": "2026-09-28",
    "time": "18:06",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A57EDFBDFBA5148FD9377C6CF834B8E8",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1790759120000,
+   "date": "2026-09-30",
+   "time": "12:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "36KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Qs091lzQqzBNl6fIOEqwBlyGI59UXsVM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qs091lzQqzBNl6fIOEqwBlyGI59UXsVM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A54DC00D53F1AB577A03874F113FF2AF",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "זום בהפתעה🎁\nהיום בשעה 12:30. \nהנושא- *מחוללי פאזל וצמדים*\nהקישור לזום:\nמור קנדי is inviting you to a scheduled Zoom meeting.\n\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/86728036556?pwd=w0pZaNROttmB1qW6y0VQ4eOKldaTJg.1\n\nJoin and take notes\nhttps://us06web.zoom.us/j/86728036556?pwd=w0pZaNROttmB1qW6y0VQ4eOKldaTJg.1&mynotes=on\n\nMeeting chat link\nhttps://us06web.zoom.us/launch/jc/86728036556\n\nMeeting ID: 867 2803 6556\nPasscode: 572589",
+   "ts": 1790759121000,
+   "date": "2026-09-30",
+   "time": "12:05",
    "files": [],
    "drive": null,
    "phone": "972547461614"

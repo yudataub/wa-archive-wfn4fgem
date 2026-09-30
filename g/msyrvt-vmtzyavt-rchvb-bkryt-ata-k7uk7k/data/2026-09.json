@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-09-29T16:14:24.725Z",
+ "updated": "2026-09-30T08:33:56.159Z",
  "messages": [
   {
    "id": "AC9486E822232E7601E1ED9EF32AB50C",
@@ -590,6 +590,119 @@
    "date": "2026-09-29",
    "time": "19:14",
    "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "ACD20B3E73E041326B22E8937F15A34F",
+   "sender": "עדי חסיד",
+   "text": "מידה 12-18 למסירה לבנים",
+   "ts": 1790749590000,
+   "date": "2026-09-30",
+   "time": "09:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "773KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Qzm_eajwkZphjmaAl2zqQD9vtFUEiBC9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qzm_eajwkZphjmaAl2zqQD9vtFUEiBC9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "3AB446C6E52BF5C69BCD",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1790756484000,
+   "date": "2026-09-30",
+   "time": "11:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/131t0Uf6zm5Z4jRy0jtRb6m6GS75nmum2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=131t0Uf6zm5Z4jRy0jtRb6m6GS75nmum2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AF714E6EFAB74DC9705",
+   "sender": "יפה",
+   "text": "למסירה סט לתבלינים וסוכר  קפה ותה",
+   "ts": 1790756512000,
+   "date": "2026-09-30",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AE86A95B8A1C0D5E089",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1790756528000,
+   "date": "2026-09-30",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "341KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sJLtmaa4QBme9SbLmVTiDtR4zdFkWXHW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sJLtmaa4QBme9SbLmVTiDtR4zdFkWXHW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A18F78C87EC05B9BA32",
+   "sender": "יפה",
+   "text": "סכו״ם  מחבת גדולה  ועוד",
+   "ts": 1790756787000,
+   "date": "2026-09-30",
+   "time": "11:26",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A19E08EEC14A64DC118",
+   "sender": "יפה",
+   "text": "צלחות",
+   "ts": 1790757030000,
+   "date": "2026-09-30",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A6AA26B0FCC3B571E59",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1790757222000,
+   "date": "2026-09-30",
+   "time": "11:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XrCcTqKOMT1_RV7PxtkaziwSTHAN6T2F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XrCcTqKOMT1_RV7PxtkaziwSTHAN6T2F&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972548005466"
   }

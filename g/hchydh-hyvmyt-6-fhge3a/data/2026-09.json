@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-09-30T02:55:23.656Z",
+ "updated": "2026-09-30T05:57:40.252Z",
  "messages": [
   {
    "id": "3EB0EE173B40E17678439B",
@@ -1238,6 +1238,26 @@
      "path": "https://drive.google.com/file/d/18ADjT7FVHHhyGCZxhm4i1RgSa8hQyHij/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=18ADjT7FVHHhyGCZxhm4i1RgSa8hQyHij&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB06B09AA661E003A3925",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "חידה חגיגית במיוחד: \n*מהן המילים הרמוזות בתמונה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://forms.gle/KJM5viL4zYMHsgEB7\n\n👈 *יש לכם אושפיזין בחג? צרפו אותם לקהילה* \nהנה קישור ההצטרפות:\nחג שמח!",
+   "ts": 1790747829000,
+   "date": "2026-09-30",
+   "time": "08:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "446KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GtBTM7ve0QcgiIb_H07kEt58n7yb0o6o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GtBTM7ve0QcgiIb_H07kEt58n7yb0o6o&sz=w1200"
     }
    ],
    "drive": null,
