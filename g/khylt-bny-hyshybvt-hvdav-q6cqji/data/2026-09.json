@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-09-30T09:34:35.227Z",
+ "updated": "2026-09-30T13:37:36.993Z",
  "messages": [
   {
    "id": "failed-1788239261418",
@@ -9365,6 +9365,81 @@
    "files": [],
    "drive": null,
    "phone": "972537173783"
+  },
+  {
+   "id": "AC3E9C152D9A2592616A5EBE54FBA407",
+   "sender": "ישראל אהרוני",
+   "text": "והעיקר \"שפה זה לא קרית ספר\"🤣",
+   "ts": 1790761365000,
+   "date": "2026-09-30",
+   "time": "12:42",
+   "files": [],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "ACC60440CEE438BF093DB65A5CFA4897",
+   "sender": "יצחק",
+   "text": "עד מתי יש פתוח היום?",
+   "ts": 1790766350000,
+   "date": "2026-09-30",
+   "time": "14:05",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "ACA83BC338D96E7CC6D71B36959498DC",
+   "sender": "אבי קרליץ",
+   "text": "יש מישהו שנמצא באושר עד ויכול להביא לי משהו קטן ?",
+   "ts": 1790766518000,
+   "date": "2026-09-30",
+   "time": "14:08",
+   "files": [],
+   "drive": null,
+   "phone": "972508383749"
+  },
+  {
+   "id": "AC4A902E4E20E8992CF283F81A266F7E",
+   "sender": "יעקב קרלינסקי",
+   "text": "22:00",
+   "ts": 1790766882000,
+   "date": "2026-09-30",
+   "time": "14:14",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACD43B05DDDA69B4DB33E263AC0D907A",
+   "sender": ".",
+   "text": "במודעה רשום 23:00",
+   "ts": 1790767451000,
+   "date": "2026-09-30",
+   "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972547319217"
+  },
+  {
+   "id": "AC12C116A43820A5007DCF07800869E8",
+   "sender": "יעקב קרלינסקי",
+   "text": "https://nedar.im/gtMk",
+   "ts": 1790775425000,
+   "date": "2026-09-30",
+   "time": "16:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xf0MRvzwepRQa1gXDPXPZv3W6CrfQKrk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xf0MRvzwepRQa1gXDPXPZv3W6CrfQKrk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }

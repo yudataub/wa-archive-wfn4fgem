@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "אמהות בצפון🥰",
- "updated": "2026-09-30T06:41:34.590Z",
+ "updated": "2026-09-30T10:56:13.622Z",
  "messages": [
   {
    "id": "A5CC2175A50111EED3E4F4D7C8DDBE93",
@@ -69,6 +69,26 @@
      "path": "https://drive.google.com/file/d/1OpgAXx0DzY9ZDmKxDZO5mmmFXyytjgmR/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1OpgAXx0DzY9ZDmKxDZO5mmmFXyytjgmR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A57770A3B0E8D037C94FD402FC51B601",
+   "sender": "תמי",
+   "text": "*לעוד פעילויות חינם כנסו לקבוצה*",
+   "ts": 1790765753000,
+   "date": "2026-09-30",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "386KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mRSvnxDq0ZeEJrm1QFdvXp2lHOEIlTh3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mRSvnxDq0ZeEJrm1QFdvXp2lHOEIlTh3&sz=w1200"
     }
    ],
    "drive": null,

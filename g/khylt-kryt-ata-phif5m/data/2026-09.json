@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת קרית אתא",
- "updated": "2026-09-30T08:46:21.875Z",
+ "updated": "2026-09-30T12:20:59.307Z",
  "messages": [
   {
    "id": "failed-1788247470268",
@@ -8673,6 +8673,101 @@
    ],
    "drive": null,
    "phone": "972523652995"
+  },
+  {
+   "id": "3A6D2A071A7D33402A12",
+   "sender": "רונית גבאי",
+   "text": "מחפשת מישהו שעושה רובה בין קרמיקה לשיש במטבח",
+   "ts": 1790762292000,
+   "date": "2026-09-30",
+   "time": "12:58",
+   "files": [],
+   "drive": null,
+   "phone": "972546602619"
+  },
+  {
+   "id": "ACDA4421E87A76647B041DEC33FD96DA",
+   "sender": "נריה ממן",
+   "text": "📇 רפי הנדימן\n+972523018130",
+   "ts": 1790762343000,
+   "date": "2026-09-30",
+   "time": "12:59",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "A501A23397293152670744552B15BD1D",
+   "sender": "הילה לוי Hila Levi Makeup artist",
+   "text": "‏יש ללחוץ על הקישור כדי להציג את הקטלוג שלנו ב-WhatsApp: ‏https://wa.me/c/972535713897",
+   "ts": 1790763481000,
+   "date": "2026-09-30",
+   "time": "13:18",
+   "files": [],
+   "drive": null,
+   "phone": "972535473225"
+  },
+  {
+   "id": "3A431B10F27573FA8D97",
+   "sender": "רונית גבאי",
+   "text": "*ראשוני: טיסה נוספת מדובאי לתל אביב מסתובבת חזרה לדובאי באמצע הדרך*\n\n(דין פישר)",
+   "ts": 1790763549000,
+   "date": "2026-09-30",
+   "time": "13:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546602619"
+  },
+  {
+   "id": "AC19C390007EE629E26087B79C0AD67F",
+   "sender": "נריה ממן",
+   "text": "נו באמת ?????",
+   "ts": 1790763570000,
+   "date": "2026-09-30",
+   "time": "13:19",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "2AA62368C9FD916F91DE",
+   "sender": "מספרתך",
+   "text": "מספרתך זבולון 9 מספרה לנשים בלבד במרכז קריית אתא עם יחס אישי ומותאם פן החל מ50 צבע ופן 150 פסים החל מ350 תספורת ופן 150 תוספות 1500 *החלקה אורגנית עם התחייבות לתוצאה החל מ400* אורטל 0558834326 אינסטגרם https://www.instagram.com/ortal_hair?igsh=MWRid3hwNXFpczN5aA%3D%3D&utm_source=qr",
+   "ts": 1790770853000,
+   "date": "2026-09-30",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "911KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1uv9Kwmgc4pAWLdsGNNu3OccfPJ3qDnJA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uv9Kwmgc4pAWLdsGNNu3OccfPJ3qDnJA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972558834326"
+  },
+  {
+   "id": "2A8AF5324F89E7588BD0",
+   "sender": "מספרתך",
+   "text": "",
+   "ts": 1790770854000,
+   "date": "2026-09-30",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1iBkj6cISH1GRnVAwJB6QGke7hHODCqbt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iBkj6cISH1GRnVAwJB6QGke7hHODCqbt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972558834326"
   }
  ]
 }

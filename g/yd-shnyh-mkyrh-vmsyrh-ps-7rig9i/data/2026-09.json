@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-09-30T08:26:26.034Z",
+ "updated": "2026-09-30T13:17:06.663Z",
  "messages": [
   {
    "id": "gm-1a05a2b0e72164e1",
@@ -2426,6 +2426,139 @@
    ],
    "drive": null,
    "phone": "972532406000"
+  },
+  {
+   "id": "AC54631DB359A8543757E9AEE74DA853",
+   "sender": "אביעד ויסולי",
+   "text": "עמותת אנשים מחלקת כריכים מזינים יום-יום לילדים שצריכים אותם, למען לימוד על בטן מלאה ולב רגוע. עזרו לנו שלא יהיה אף ילד רעב! לינק לתרומה: https://bepeople.org.il/don//",
+   "ts": 1790765201000,
+   "date": "2026-09-30",
+   "time": "13:46",
+   "files": [],
+   "drive": null,
+   "phone": "972505791746"
+  },
+  {
+   "id": "3ADAA77F366CB2C3BBFC",
+   "sender": "Asaf",
+   "text": "תמונה בעבודת נייר, פרחים ושיבולים 120₪",
+   "ts": 1790767935000,
+   "date": "2026-09-30",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jFjBMYpmgmjZUhtogDrDWb1rqWrwYfY2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jFjBMYpmgmjZUhtogDrDWb1rqWrwYfY2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "3EB020245A606CCB97CAE5",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790769038000,
+   "date": "2026-09-30",
+   "time": "14:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XDRMQh5J0uAiQQkw22f3-EEDLsLIQJRE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XDRMQh5J0uAiQQkw22f3-EEDLsLIQJRE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "AC9D85674EC4D11BC98D7F4C9106D9A8",
+   "sender": "כלנית פרץ",
+   "text": "למסירה מידה 36",
+   "ts": 1790769479000,
+   "date": "2026-09-30",
+   "time": "14:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BYpl_BId0CKUH30FRGd5mH0q5jWGZ5Lx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BYpl_BId0CKUH30FRGd5mH0q5jWGZ5Lx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "3EB012BE7071E9B77225C4",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790769490000,
+   "date": "2026-09-30",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sBIbZzjXIflc84TJX8coMNBea0FJHtOu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sBIbZzjXIflc84TJX8coMNBea0FJHtOu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "AC33CA6B39124413160ED7383FD47DEA",
+   "sender": "כלנית פרץ",
+   "text": "למסירה תיקי בית ספר",
+   "ts": 1790771463000,
+   "date": "2026-09-30",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AokYQLYpbaUPKpGIHW7_93VKVKcate7u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AokYQLYpbaUPKpGIHW7_93VKVKcate7u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "AC8694F03EC50AE54FFD043BEF665139",
+   "sender": "כלנית פרץ",
+   "text": "שמור",
+   "ts": 1790774201000,
+   "date": "2026-09-30",
+   "time": "16:16",
+   "files": [],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "AC481E8B43C9EC957ED7EFEBEF5629BD",
+   "sender": "כלנית פרץ",
+   "text": "שמור",
+   "ts": 1790774208000,
+   "date": "2026-09-30",
+   "time": "16:16",
+   "files": [],
+   "drive": null,
+   "phone": "972546608452"
   }
  ]
 }

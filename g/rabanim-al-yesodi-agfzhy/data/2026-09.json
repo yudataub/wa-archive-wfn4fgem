@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "רבני העל-יסודי",
- "updated": "2026-09-29T15:57:24.483Z",
+ "updated": "2026-09-30T11:28:51.098Z",
  "messages": [
   {
    "id": "AC20A191436E074C341DC07C8BF0668B",
@@ -1840,6 +1840,46 @@
      "path": "https://drive.google.com/file/d/1kyGz-9IQdv3cK3r1xg-cjc0VbYdXFUP4/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1kyGz-9IQdv3cK3r1xg-cjc0VbYdXFUP4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "AC6FC58B220D27D58E02626F091EC389",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1790766035000,
+   "date": "2026-09-30",
+   "time": "14:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "404KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1czYk7jHrbU_KWj5zjdRIQfXLkMWrDrms/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1czYk7jHrbU_KWj5zjdRIQfXLkMWrDrms&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "ACB48916CF4F80987847BA2C635215CB",
+   "sender": "אליהו ממן",
+   "text": "*מזמור לתודה*\nhttps://youtu.be/YuATsdPUTFw?si=lGzWFAXvttTE9ruw\n*עם ישראל חי (מחרוזת)*\nhttps://youtu.be/1h6dIEQMz3s?si=X1X4PSGqhVjKVuO8\n*עת מלחמה*\nhttps://youtu.be/GMdvVnOuIgk?si=EGfxNAS5tglETwLH",
+   "ts": 1790767721000,
+   "date": "2026-09-30",
+   "time": "14:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "404KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DKVdVV3fxYhoUKCjuHmu4bKGskTAkzdm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DKVdVV3fxYhoUKCjuHmu4bKGskTAkzdm&sz=w1200"
     }
    ],
    "drive": null,

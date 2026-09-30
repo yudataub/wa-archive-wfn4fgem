@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-09-30T09:29:22.555Z",
+ "updated": "2026-09-30T09:48:35.451Z",
  "messages": [
   {
    "id": "AC5FD2B908C06BA39795B313E33C0CF0",
@@ -5184,11 +5184,23 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1RNYMUf6_SLGPPsSL54itQvyAmrOudRb3/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1RNYMUf6_SLGPPsSL54itQvyAmrOudRb3&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1RNYMUf6_SLGPPsSL54itQvyAmrOudRb3&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-09/AC635FC712FF242FE23B102B5FBE1468_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972507146770"
+  },
+  {
+   "id": "AC7DCC89D5766DF0EE1D016D23CBD18D",
+   "sender": "ronentayar",
+   "text": "http://youtube.com/post/Ugkx9bxExFbGtDPJaVxouBJ2jR--qTnkEdu0?si=KqnNAVyw1HM-fXmG",
+   "ts": 1790761714000,
+   "date": "2026-09-30",
+   "time": "12:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523730397"
   }
  ]
 }

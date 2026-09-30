@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "בין הזמנים 🏖",
- "updated": "2026-09-30T07:21:35.291Z",
+ "updated": "2026-09-30T11:09:13.810Z",
  "messages": [
   {
    "id": "ACA052AB277BF82B3CF482F34C651BA6",
@@ -1369,6 +1369,46 @@
    "files": [],
    "drive": null,
    "phone": "972525122283"
+  },
+  {
+   "id": "AC6045D0A4CD9224D3F9C55F13EC5C37",
+   "sender": "שושנה בכר Chochana Behar",
+   "text": "זה היום 1/2 מי ירושלים \nבגוש עציון \nחוות מגן אברהם בוואז",
+   "ts": 1790766526000,
+   "date": "2026-09-30",
+   "time": "14:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JL_9-SsCjvluDyNHd76sIbQTmKIKX_MY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JL_9-SsCjvluDyNHd76sIbQTmKIKX_MY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523828665"
+  },
+  {
+   "id": "ACAA0F087C87E6ED9A9FDD86C9E81E05",
+   "sender": "שושנה בכר Chochana Behar",
+   "text": "",
+   "ts": 1790766527000,
+   "date": "2026-09-30",
+   "time": "14:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DUuwsjhetbDLiJo-Xsu812a82eoM-R91/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DUuwsjhetbDLiJo-Xsu812a82eoM-R91&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523828665"
   }
  ]
 }

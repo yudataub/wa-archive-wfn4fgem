@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-30T05:44:01.187Z",
+ "updated": "2026-09-30T12:20:59.231Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -1137,6 +1137,37 @@
    "files": [],
    "drive": null,
    "phone": "972505600077"
+  },
+  {
+   "id": "AC6C0E344A9EEEFED1D8F21C4D3AF93B",
+   "sender": "מנחם חזן",
+   "text": "https://youtube.com/shorts/QEvSTZVInSA?si=vrLtirJllwUwalfN",
+   "ts": 1790761131000,
+   "date": "2026-09-30",
+   "time": "12:38",
+   "files": [],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "A594BBF45C7E0DD5AE6D614A2EDC0EB2",
+   "sender": "יהודה מנחם מוכר דירות בקריות",
+   "text": "מועדים לשמחה\nבלעדיות חדשה מרכז העיר- קריית אתא\nברחוב הציונות המבוקש\n\nדירת 4 חדרים משופצת קומפלט 💫להיכנס עם מזוודה!!\n\nכ־106 מ״ר בנוי לפי ארנונה\n\nקומה ראשונה -2 דיירים בלבד בקומה\n\nבניין שמור מטופח🌿\n\nמחסן בטאבו\n\nמרפסת סגורה ענקית\n\nחדרים גדולים וחללים מרווחים💫\n\nבנייה איכותית של פעם, במיקום מרכזי ונוח, במרחק הליכה מחנויות, בתי כנסת וסופרים.\n\nקיים מקלט תת קרקעי בבניין  מטופח ומרווח - לבטחון מקסימלי!!\n\nמחיר שיווק 1,350,000🔥🔥\n\nנכס שכדאי לראות!\n\nלפרטים ולתיאום ביקור\nיהודה מנחם -0535413981",
+   "ts": 1790770837000,
+   "date": "2026-09-30",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J_ccxMErFls62iA12wpWcdvlrfK76jvr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J_ccxMErFls62iA12wpWcdvlrfK76jvr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535413981"
   }
  ]
 }

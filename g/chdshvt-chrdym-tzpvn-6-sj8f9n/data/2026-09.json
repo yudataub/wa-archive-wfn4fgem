@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-09-30T08:43:21.861Z",
+ "updated": "2026-09-30T10:26:43.132Z",
  "messages": [
   {
    "id": "gm-1a059a16cf71b3d8",
@@ -6116,6 +6116,26 @@
    "date": "2026-09-30",
    "time": "11:43",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A51EEBF7C0B9697FCCCF0FE80166EE3C",
+   "sender": "י",
+   "text": "*אור רביד בתיעוד: צרורות ירי ללא הפסקה: רעולי פנים יורים מנשק אוטומטי הלילה באל-בטוף שבצפון* \n(צילום: לפי סעיף 27א')\n\nלכל העדכונים 👇",
+   "ts": 1790763998000,
+   "date": "2026-09-30",
+   "time": "13:26",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "697KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12qU3-2QbJwSmsXKFkEE7OAtbGHTwst7Y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12qU3-2QbJwSmsXKFkEE7OAtbGHTwst7Y&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }
