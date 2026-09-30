@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-09-29T21:01:20.507Z",
+ "updated": "2026-09-30T05:05:33.131Z",
  "messages": [
   {
    "id": "AC139C4A5D4959F4E0D594A8D9BE601C",
@@ -3116,6 +3116,26 @@
    ],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "3EB0FFAA02B273D42BEFC6",
+   "sender": "ווקי שרון מרגולין",
+   "text": "בלגן בחלון של ג'מני\nפתאום הופיע לי: כל הסקילים,\nאבל הרשימה שמתחתיו זה בכלל לא סקילים אלא כל מה שהיה אצלי עם סיכה,",
+   "ts": 1790744725000,
+   "date": "2026-09-30",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "36KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gKKxhX5fuFotxiCfi9el2QnyEEeIHiq2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gKKxhX5fuFotxiCfi9el2QnyEEeIHiq2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }

@@ -145,7 +145,7 @@ function groupHref(slug,who){
  return"../g/"+esc(slug)+"/?who="+encodeURIComponent(who);}
 
 function renderCard(c,qq,idx){
- var canonical=c.names[0]||"";
+ var canonical=c.names[0]||c.phone||"";
  var aliases=c.names.slice(1);
  var html="<div class='card'>";
  html+="<div class='cname'>"+hl(canonical,qq)+"</div>";

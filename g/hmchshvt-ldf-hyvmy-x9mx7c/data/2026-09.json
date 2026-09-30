@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "המחשות לדף היומי",
- "updated": "2026-09-29T05:19:57.444Z",
+ "updated": "2026-09-30T05:12:33.206Z",
  "messages": [
   {
    "id": "3AC81B24D8449A30EA23",
@@ -1384,6 +1384,46 @@
      "path": "https://drive.google.com/file/d/1LWy35NnGCjS9JT4dD7e1UrOzQq34TT0X/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1LWy35NnGCjS9JT4dD7e1UrOzQq34TT0X&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A4A86D11A77503C987A",
+   "sender": ".",
+   "text": "״ולא בחיה״ (בכורות יב, א).",
+   "ts": 1790745128000,
+   "date": "2026-09-30",
+   "time": "08:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PnZYOzb-HVkIJexjDdI6qIsMA0yT-oxz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PnZYOzb-HVkIJexjDdI6qIsMA0yT-oxz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A69EB6940EFB0CFF2D9",
+   "sender": ".",
+   "text": "״ועבד עבודה בפטר חמור״ (רש״י בכורות יב, ב).",
+   "ts": 1790745129000,
+   "date": "2026-09-30",
+   "time": "08:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qOb8kyf6MiS5tkTS5sGJl8yUnNIb8V7t/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qOb8kyf6MiS5tkTS5sGJl8yUnNIb8V7t&sz=w1200"
     }
    ],
    "drive": null,

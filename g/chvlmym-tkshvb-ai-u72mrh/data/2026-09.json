@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "חולמים תקשוב AI",
- "updated": "2026-09-29T21:35:23.781Z",
+ "updated": "2026-09-30T05:37:40.014Z",
  "messages": [
   {
    "id": "ACFBB33215B041850AE23A4FEC522979",
@@ -6262,6 +6262,70 @@
    "files": [],
    "drive": null,
    "phone": "972542207149"
+  },
+  {
+   "id": "3EB05C7F6D2BB2E47CA147",
+   "sender": "ויטלי",
+   "text": "שלום רב\nאשמח לעזרה. פתאום בחשבון רגיל וגם בחשבון של משרד החינוך נעלם לי \"גמיני\". \nוזה מה שכתוב לי במחשב",
+   "ts": 1790742906000,
+   "date": "2026-09-30",
+   "time": "07:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "34KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nn-egY0BLFk4jPmR8diHuvAXaiQcP5L5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nn-egY0BLFk4jPmR8diHuvAXaiQcP5L5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548172225"
+  },
+  {
+   "id": "AC91CAB5C9F67036C0DD1CD162A48E09",
+   "sender": "חפציה",
+   "text": "מוזר ממש! עבד ופתאום הפסיק? בכל מכשיר? אולי משהו גורם לו לחשוב שאינך בישראל?",
+   "ts": 1790745116000,
+   "date": "2026-09-30",
+   "time": "08:11",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACE4B7C984E6B2B302325A09655B3CCF",
+   "sender": "חפציה",
+   "text": "נכנסים לאתר בי'ס וירטואלי",
+   "ts": 1790745797000,
+   "date": "2026-09-30",
+   "time": "08:23",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACF2FC6BEF9AFAAC2D0A5BAD603414E5",
+   "sender": "⛵",
+   "text": "אולי ה vpn מופעל?",
+   "ts": 1790746464000,
+   "date": "2026-09-30",
+   "time": "08:34",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
+  },
+  {
+   "id": "ACD345816012AB99D2BE1A801D8B2A8E",
+   "sender": "ויטלי",
+   "text": "הוא צריך להיות \" לא מופעל\"?",
+   "ts": 1790746654000,
+   "date": "2026-09-30",
+   "time": "08:37",
+   "files": [],
+   "drive": null,
+   "phone": "972548172225"
   }
  ]
 }
