@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-09-30T17:00:40.728Z",
+ "updated": "2026-09-30T20:39:12.033Z",
  "messages": [
   {
    "id": "gm-1a059d59008c3267",
@@ -7551,6 +7551,99 @@
    "files": [],
    "drive": null,
    "phone": "972524398726"
+  },
+  {
+   "id": "A539FD3CCD4B783DC313FF0233434A5C",
+   "sender": "Harelectronics",
+   "text": "*שימו לב* אולי זה קרה לי , אבל צריך להזהיר.\nקיבלתי במשך היום מספר שיחות טלפון ממספרים שונים ואומרים לי באנגלית שאם אני ביקשתי להחליף מספר לחץ על 1 ואם לא אז 2 , וכמובן דמי דלוח,  יש מצב שהשתלטו לו על הטלפון.\nוהיו היום מספר טלפונים מאנשים שאיני מכיר שאמרו לי שאני התקשרתי אליהם לפני כמה דקות , דבר שלא היה , וזה אומר שניסו לזייף את מספר הטלפון שלי , וגם זה סוג של הונאה",
+   "ts": 1790791798000,
+   "date": "2026-09-30",
+   "time": "21:09",
+   "files": [],
+   "drive": null,
+   "phone": "972509252690"
+  },
+  {
+   "id": "ACD57FB9A90CC69366A86E67BEE384AA",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1790800594000,
+   "date": "2026-09-30",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ex8boW2ZwOgfQQhta3B8LngZxCglPVaV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ex8boW2ZwOgfQQhta3B8LngZxCglPVaV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "AC5D09356AD588AB8588D62B25B30AE3",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1790800595000,
+   "date": "2026-09-30",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dQCr0rhYbTcnNbswjBti6Htb0qnJ8z9P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dQCr0rhYbTcnNbswjBti6Htb0qnJ8z9P&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "AC8067196A73821B572C503B82E76082",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1790800595000,
+   "date": "2026-09-30",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M6-B-y3z6SckJaxVY8l9hA3jfaP1vQPk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M6-B-y3z6SckJaxVY8l9hA3jfaP1vQPk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "ACB58393B9B3A7D00046BD01336D5FC0",
+   "sender": "טולי",
+   "text": "נעליים מידה 43 💯₪ לזוג יש עוד מי שמעוניין מגבעה א",
+   "ts": 1790800675000,
+   "date": "2026-09-30",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "AC1066A48CBADA088033B18139A8F237",
+   "sender": "טולי",
+   "text": "חלקם חדשות מחיר טוב למי שמפנה הכל",
+   "ts": 1790800731000,
+   "date": "2026-09-30",
+   "time": "23:38",
+   "files": [],
+   "drive": null,
+   "phone": "972556717628"
   }
  ]
 }

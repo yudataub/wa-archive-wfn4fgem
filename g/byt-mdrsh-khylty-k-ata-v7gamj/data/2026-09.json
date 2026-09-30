@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-09-30T16:58:40.694Z",
+ "updated": "2026-09-30T17:47:14.512Z",
  "messages": [
   {
    "id": "ACA56CF925497E8C83CA0B0D502D2D7E",
@@ -4362,6 +4362,26 @@
    "files": [],
    "drive": null,
    "phone": "972503446763"
+  },
+  {
+   "id": "A549D9080528F9D55B6AFA681E68E97A",
+   "sender": "דניאל",
+   "text": "יש משהו שמבין בטריס חשמלי \nהתריס לא נסגר לי נראה שיש בעיית חשמל אבל בארון הכל למעלה אין לי איך לסגור את המםעל",
+   "ts": 1790790405000,
+   "date": "2026-09-30",
+   "time": "20:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12_ew2pETqafYro6m7kYEW0KcvEA41Mab/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12_ew2pETqafYro6m7kYEW0KcvEA41Mab&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506966563"
   }
  ]
 }

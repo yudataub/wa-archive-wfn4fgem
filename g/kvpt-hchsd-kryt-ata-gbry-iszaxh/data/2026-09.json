@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-09-30T14:29:44.559Z",
+ "updated": "2026-09-30T20:10:11.521Z",
  "messages": [
   {
    "id": "gm-1a059a1ef241ae8a",
@@ -1188,6 +1188,59 @@
    ],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "ACDC178F967C0B89B07577EA8A302E6C",
+   "sender": "נהוראי סלמה",
+   "text": "מי יודע אם יש היום שמחת בית השואבה באזור שלנו",
+   "ts": 1790794280000,
+   "date": "2026-09-30",
+   "time": "21:51",
+   "files": [],
+   "drive": null,
+   "phone": "972543443484"
+  },
+  {
+   "id": "AC16A6FE9ACB71991BC19CF453E04F3C",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1790794618000,
+   "date": "2026-09-30",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NEh-MtEhC3dL8EZHuXSM4-nE2QQUmZ2k/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NEh-MtEhC3dL8EZHuXSM4-nE2QQUmZ2k&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC49D6B86DD5A2911E8BC7568DFDDCDF",
+   "sender": "aviaabo93",
+   "text": "לצ,להךעף%***נקלצלל,גךלדםםד",
+   "ts": 1790795377000,
+   "date": "2026-09-30",
+   "time": "22:09",
+   "files": [],
+   "drive": null,
+   "phone": "972523758308"
+  },
+  {
+   "id": "ACBBEAD6D323603FC0F4E1D11812FB54",
+   "sender": "יהודה קרויזר",
+   "text": "נכון",
+   "ts": 1790798983000,
+   "date": "2026-09-30",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972543497912"
   }
  ]
 }

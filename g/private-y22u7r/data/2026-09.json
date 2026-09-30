@@ -1,7 +1,7 @@
 {
  "month": "2026-09",
  "group": "הודעות פרטיות",
- "updated": "2026-09-30T17:36:14.362Z",
+ "updated": "2026-09-30T19:49:04.585Z",
  "messages": [
   {
    "id": "ACCF84F34F48DA0E7471DC1C97989543",
@@ -34748,6 +34748,195 @@
    "drive": null,
    "thread": "יאיר סבג",
    "phone": "972552464116"
+  },
+  {
+   "id": "3EB070DF293C9D200FB1A3",
+   "sender": "אני",
+   "text": "אתה יכול לבוא עכשיו לפני שמישהוא אחר יקדים אותך\nסוקולוב 30 קרית אתא - קומת קרקע הרב טאוב",
+   "ts": 1790789869000,
+   "date": "2026-09-30",
+   "time": "20:37",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A3579EAA0FF816621DE",
+   "sender": "יאיר סבג",
+   "text": "אפשר להגיע עוד שעה, אני לא בבית",
+   "ts": 1790789900000,
+   "date": "2026-09-30",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "thread": "יאיר סבג",
+   "phone": "972552464116"
+  },
+  {
+   "id": "3EB0E7A6B6208385DCC6D6",
+   "sender": "אני",
+   "text": "אני יגיד לך אם לקחו את זה לפני כן\nבשמחה\nמועדים לשמחה",
+   "ts": 1790789923000,
+   "date": "2026-09-30",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A51167F0C111F11A2EC21942927AFF6C",
+   "sender": "הדר לוריא",
+   "text": "עוד 22 דקות לפי הווייז, אפשרי להגיע?",
+   "ts": 1790790609000,
+   "date": "2026-09-30",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "thread": "הדר לוריא",
+   "phone": "972509492782"
+  },
+  {
+   "id": "3EB050029916FDBD9C88FD",
+   "sender": "אני",
+   "text": "עוד כמה זמן אתה מגיע - כי זה או אותה או אחר. \nואמרתי לו לחכות לך ליאיר שלנו",
+   "ts": 1790791335000,
+   "date": "2026-09-30",
+   "time": "21:02",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A6DEBDB0B29A4C9ED63",
+   "sender": "יאיר סבג",
+   "text": "עוד 40 דקות בול אנחנו מגיעים תודה",
+   "ts": 1790791869000,
+   "date": "2026-09-30",
+   "time": "21:11",
+   "files": [],
+   "drive": null,
+   "thread": "יאיר סבג",
+   "phone": "972552464116"
+  },
+  {
+   "id": "3A49388316C54948C50E",
+   "sender": "יאיר סבג",
+   "text": "👍🏻",
+   "ts": 1790791956000,
+   "date": "2026-09-30",
+   "time": "21:12",
+   "files": [],
+   "drive": null,
+   "thread": "יאיר סבג",
+   "phone": "972552464116"
+  },
+  {
+   "id": "A538D9D9E3725E049B29AF560D6C9600",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790792575000,
+   "date": "2026-09-30",
+   "time": "21:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "376KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yN9wRoLi6nnMbAX8TJqcoiwHjJV9vmDZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yN9wRoLi6nnMbAX8TJqcoiwHjJV9vmDZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56DB9870D1CA8CD5832A6FC0FCB9D82",
+   "sender": "אני",
+   "text": "",
+   "ts": 1790792599000,
+   "date": "2026-09-30",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "28KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1qX78fHFp6mIdq-pu4q29-V4vqwMwOU5L/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A9B6121BA6D703DD812",
+   "sender": "יאיר סבג",
+   "text": "תודה רבה",
+   "ts": 1790792631000,
+   "date": "2026-09-30",
+   "time": "21:23",
+   "files": [],
+   "drive": null,
+   "thread": "יאיר סבג",
+   "phone": "972552464116"
+  },
+  {
+   "id": "3A5E98F5E9C60F562661",
+   "sender": "יאיר סבג",
+   "text": "🥳🥳",
+   "ts": 1790792637000,
+   "date": "2026-09-30",
+   "time": "21:23",
+   "files": [],
+   "drive": null,
+   "thread": "יאיר סבג",
+   "phone": "972552464116"
+  },
+  {
+   "id": "AC31CFC9C80C3423350719E08D4ABB5E",
+   "sender": "אריה יונה",
+   "text": "📍חשפתי כבר 114 ישובים במשחק המפה של ישראל🇮🇱\nנראה אם תצליחו לעקוף אותי 🫵\nhttps://roo.ws/QOFLi4sr\n🧩 ארץ קיר - מחברים את ישראל!",
+   "ts": 1790796177000,
+   "date": "2026-09-30",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "thread": "אריה יונה",
+   "phone": "972556785647"
+  },
+  {
+   "id": "A51AEB59ADDFD63927B8494537BB71D5",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/aaa/catalog.html\nויש עוד הרבה ספרים",
+   "ts": 1790796377000,
+   "date": "2026-09-30",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A52EF5C0C912B604364124B77A43CDA5",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/aaa/catalog.html",
+   "ts": 1790796403000,
+   "date": "2026-09-30",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB07EBE06F81591A145E8",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/aaa/catalog.html?v=2",
+   "ts": 1790797742000,
+   "date": "2026-09-30",
+   "time": "22:49",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
