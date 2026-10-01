@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-01T10:10:07.119Z",
+ "updated": "2026-10-01T16:27:28.827Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -31,6 +31,26 @@
    "date": "2026-10-01",
    "time": "13:10",
    "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC9F2375B90F97AEB9E41BBF1E62DB40",
+   "sender": "עדי חסיד",
+   "text": "נעלי קרוקס למסירה",
+   "ts": 1790872024000,
+   "date": "2026-10-01",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dG0jTZnXX9iSv9LhETOXrsOUi4fGjWQb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dG0jTZnXX9iSv9LhETOXrsOUi4fGjWQb&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522488015"
   }

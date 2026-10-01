@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-01T07:44:50.500Z",
+ "updated": "2026-10-01T17:37:36.523Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -89,6 +89,47 @@
      "path": "https://drive.google.com/file/d/1XigRssHQmY3BO4DYqf-jbNcvTQq1JOyc/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1XigRssHQmY3BO4DYqf-jbNcvTQq1JOyc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A507A3CB046D30766424DDAF4AD90887",
+   "sender": "mary garby",
+   "text": "איך הופכים טקסטים של תרגול קריאה, דפי עבודה, מבחנים וכדו׳, לנגישים יותר עבור תלמידים? 7 טיפים פשוטים, עם דוגמאות, ב-5 דקות 🎬\nhttps://youtu.be/nj-RT6OstQA\n\nאמנם באנגלית אך יש כתוביות ונכון לכל שפה או תחום דעת.",
+   "ts": 1790872228000,
+   "date": "2026-10-01",
+   "time": "19:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A59565B4A14A2A8A7CEC712EB704F34A",
+   "sender": "mary garby",
+   "text": "תודה לבתיה מירסקי על השיתוף🙏",
+   "ts": 1790872253000,
+   "date": "2026-10-01",
+   "time": "19:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A51212BAEAF0D721765AE37675034E04",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1790876248000,
+   "date": "2026-10-01",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "שיח בכיתות עם החזרה מחופשת סוכות, תשפז.pdf",
+     "size": "158KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1kfa0GOg8Uxtc8dX1jovGOy0XoPJ2gi1G/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,

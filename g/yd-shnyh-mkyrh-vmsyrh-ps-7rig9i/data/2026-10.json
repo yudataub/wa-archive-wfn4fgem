@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-01T11:43:21.380Z",
+ "updated": "2026-10-01T16:45:35.713Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -42,6 +42,46 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "3EB07282E313A6AE6FF73C",
+   "sender": "Noam",
+   "text": "*מסך מחשב 22 אינץ' עם חיבורי DVI / VGA במצב מצוין*\n*ניתן להוסיף מתאם HDMI. מחיר 130 ש\"ח*",
+   "ts": 1790869272000,
+   "date": "2026-10-01",
+   "time": "18:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qGdNISsyYKemGYuAXMq_iSLQW29_90EK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qGdNISsyYKemGYuAXMq_iSLQW29_90EK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "3EB088D47185A6D3A1A20A",
+   "sender": "Noam",
+   "text": "*למכירה טלויזיה 40 אינץ' (לא חכמה)  של סוני . במצב מצוין. 300 ש\"ח*",
+   "ts": 1790873111000,
+   "date": "2026-10-01",
+   "time": "19:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "17KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SqwEI4lE0J_q9_vVkxQCEv0He7bf_aMX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SqwEI4lE0J_q9_vVkxQCEv0He7bf_aMX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

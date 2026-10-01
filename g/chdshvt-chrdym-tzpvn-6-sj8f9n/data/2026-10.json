@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-10-01T11:03:13.394Z",
+ "updated": "2026-10-01T17:09:06.062Z",
  "messages": [
   {
    "id": "A56435C4B5D54A46720DFCF71EF39E08",
@@ -60,9 +60,21 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1TpbKHMPNGT-dVP1V6hwSycW3281HmpLN/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1TpbKHMPNGT-dVP1V6hwSycW3281HmpLN&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1TpbKHMPNGT-dVP1V6hwSycW3281HmpLN&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chdshvt-chrdym-tzpvn-6-sj8f9n/v/2026-10/A512DA020DBE39EF5D9DB3A2EC0A0CC8_0.mp4"
     }
    ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5CE0E8138B8DEF6932BBEEE6871BC05",
+   "sender": "י",
+   "text": "*רוכב אופנוע בן 18 נפצע בינוני לאחר שנפגע מאוטובוס בכפר מר'אר* \nצוותי מד\"א העניקו לו טיפול רפואי ופינו אותו למרכז רפואי צפון (פוריה) עם חבלות בגפיים.\n\nלכל העדכונים 👇",
+   "ts": 1790874526000,
+   "date": "2026-10-01",
+   "time": "20:08",
+   "files": [],
    "drive": null,
    "phone": "972506064441"
   }

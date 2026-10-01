@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-01T10:48:37.688Z",
+ "updated": "2026-10-01T16:28:28.844Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -135,6 +135,37 @@
    ],
    "drive": null,
    "phone": "972509865699"
+  },
+  {
+   "id": "A58EA7654E918B6C16F890BA10B4145C",
+   "sender": "עזריאל",
+   "text": "מחפשים צימר לסוף השבוע הבא, מיום חמישי עד מוצאי שבת.\n\n11 מבוגרים ו־6 ילדים.\nדרושים דשא גדול, בריכה מגודרת ו־5 חדרים סגורים.\n\nתקציב עד 5,500 ₪.\n\nיש לכם משהו כזה? שלחו הודעה בוואטסאפ:\nhttps://wa.me/972559334207",
+   "ts": 1790869428000,
+   "date": "2026-10-01",
+   "time": "18:43",
+   "files": [],
+   "drive": null,
+   "phone": "972583214490"
+  },
+  {
+   "id": "AC90919EA6CE78F17ECB45F337E10036",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1790872078000,
+   "date": "2026-10-01",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hChrKrFfzbN6mjHY5adqCV4GE0F5f-Je/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hChrKrFfzbN6mjHY5adqCV4GE0F5f-Je&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
   }
  ]
 }

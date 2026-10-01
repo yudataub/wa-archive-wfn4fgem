@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משניות לילדים 1⃣",
- "updated": "2026-10-01T06:39:19.213Z",
+ "updated": "2026-10-01T15:35:22.496Z",
  "messages": [
   {
    "id": "A50AF6435A95DBBE4769D831D5F9F1D5",
@@ -31,6 +31,37 @@
    "date": "2026-10-01",
    "time": "09:39",
    "files": [],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A523B3222981596090BA97838ABAB309",
+   "sender": "משנת חיים",
+   "text": "https://edu-il.zoom.us/j/2061793798\nילדים מתוקים😍\nכנסו לקישור המצורף ומחכים לכם שם עם חידון לכל המשפחה🩷",
+   "ts": 1790863331000,
+   "date": "2026-10-01",
+   "time": "17:02",
+   "files": [],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A56CB79CFAC852EAB629DAC4D77E5158",
+   "sender": "משנת חיים",
+   "text": "אלו הזוכים השובר לגלידה משפחתית🏆🩷\nשלחו הודעה למספר- 0535272728",
+   "ts": 1790868897000,
+   "date": "2026-10-01",
+   "time": "18:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "282KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G1CMVxKJfFvLCba-j0qFevr4U1BvDk6n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G1CMVxKJfFvLCba-j0qFevr4U1BvDk6n&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972555533789"
   }

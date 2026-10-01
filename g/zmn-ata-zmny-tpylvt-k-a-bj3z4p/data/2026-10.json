@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-01T10:09:37.115Z",
+ "updated": "2026-10-01T15:10:22.132Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -93,6 +93,57 @@
    "files": [],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "ACF29C8D89632ED32D16B0B513A60D8F",
+   "sender": "שלום בוצחק",
+   "text": "*קהילת אוהל מאיר-זמני תפילות חג \"שמחת תורה\" התשפ\"ז*",
+   "ts": 1790867105000,
+   "date": "2026-10-01",
+   "time": "18:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "295KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mCjlJOFihOqyRwQeaLaN3yWb_dj1fRW1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mCjlJOFihOqyRwQeaLaN3yWb_dj1fRW1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "AC868B6FB02A6FB01575CEAFB25598EB",
+   "sender": "שלום בוצחק",
+   "text": "*הקפות שניות בבית הכנסת \"אוהל מאיר\"- כולם מוזמנים !*",
+   "ts": 1790867243000,
+   "date": "2026-10-01",
+   "time": "18:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "365KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11mlCs2hwoRsuwrwBAjxmj4_9s2buflxV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11mlCs2hwoRsuwrwBAjxmj4_9s2buflxV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "AC3023EDAE6F208244719E0F76FE6C43",
+   "sender": "רבקה מימון",
+   "text": "איפה יש ערבית עכשיו",
+   "ts": 1790867404000,
+   "date": "2026-10-01",
+   "time": "18:10",
+   "files": [],
+   "drive": null,
+   "phone": "972507242016"
   }
  ]
 }

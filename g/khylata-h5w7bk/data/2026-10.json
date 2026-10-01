@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-01T11:42:51.377Z",
+ "updated": "2026-10-01T17:15:36.201Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -99,6 +99,86 @@
    "files": [],
    "drive": null,
    "phone": "972528762156"
+  },
+  {
+   "id": "3AA5EE1A638C27042038",
+   "sender": "מרדכי בן עזרא",
+   "text": "*הקפות שניות בבית הכנסת \"אוהל מאיר\"- כולם מוזמנים !*",
+   "ts": 1790868105000,
+   "date": "2026-10-01",
+   "time": "18:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "365KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SBQt3NEVkE7YREiH3z9K2WwkogU7BADR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SBQt3NEVkE7YREiH3z9K2WwkogU7BADR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526692566"
+  },
+  {
+   "id": "AC1DA09025B0C88D0EAC39BA2C902DD7",
+   "sender": "הראל מור",
+   "text": "",
+   "ts": 1790869190000,
+   "date": "2026-10-01",
+   "time": "18:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q4FK4nNndv2_r8R56ncWnmmpQYC2WZX8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q4FK4nNndv2_r8R56ncWnmmpQYC2WZX8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525257771"
+  },
+  {
+   "id": "AC0A2D79BB234C98C9CD4D053A510A85",
+   "sender": "שרון😄",
+   "text": "🌿 הרשמו עכשיו לליל הלימוד של הושענא רבה – על מה שהכי יקר לנו: המרחב המשפחתי לאור החג.\n\nפרויקט \"מועדים למשפחה\" מזמין אתכם לערב של תוכן ושיח על זוגיות, אינטימיות, הורות, משפחה ותרבות – מתוך רוח המועד ומתוך הרצון להכניס עוד עומק ואור הביתה. 💛\n\n✨ ההשתתפות ללא עלות.\n\n📌 להרשמה:\nhttp://chagim.family\n\n🔒 לחסומים:\nhttps://newclass.ravpage.co.il/sukot3\n\n👨‍👩‍👧‍👦 יש לכם בני משפחה או חברים שזה יכול לעניין אותם? הזמינו אותם להצטרף.\n\n📲 ונשמח מאוד שתעבירו את ההזמנה בקבוצות המתאימות – כדי שהאור הזה יגיע לעוד בתים.\n\n🎥 לא תוכלו להשתתף בשידור החי? הקלטות יישלחו לכל הנרשמים.\n\nלפרטים נוספים 03-9111041",
+   "ts": 1790874383000,
+   "date": "2026-10-01",
+   "time": "20:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a2TgXdEfAxtI3Obrnl3pquRCJqvYQaYp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a2TgXdEfAxtI3Obrnl3pquRCJqvYQaYp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACA952476E3434A5EE361AB8430562E7",
+   "sender": "Racheli Amittai רחלי אמתי",
+   "text": "ליל הושענא רבה\nנא השתתפותכם",
+   "ts": 1790874907000,
+   "date": "2026-10-01",
+   "time": "20:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1biSRBkmQKaETPHaG2MKUR-tsJyQGfJfY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1biSRBkmQKaETPHaG2MKUR-tsJyQGfJfY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528397104"
   }
  ]
 }

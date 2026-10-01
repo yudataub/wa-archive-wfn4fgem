@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-01T10:09:37.121Z",
+ "updated": "2026-10-01T15:25:22.376Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -165,6 +165,86 @@
    "files": [],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "ACE5F3343EFCA31B23EF5FF31C991EA9",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "",
+   "ts": 1790864172000,
+   "date": "2026-10-01",
+   "time": "17:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1K2DgYFP7Q-Ci9KTIyNeDGZaAb2a8Q0AX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K2DgYFP7Q-Ci9KTIyNeDGZaAb2a8Q0AX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC76CD63EAC98659859E2DA2475CDE07",
+   "sender": "שלום בוצחק",
+   "text": "*קהילת אוהל מאיר-זמני תפילות חג \"שמחת תורה\" התשפ\"ז*",
+   "ts": 1790867067000,
+   "date": "2026-10-01",
+   "time": "18:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "295KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gOq5JTbqbybATI6Q_WH4HuALVLmReskQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gOq5JTbqbybATI6Q_WH4HuALVLmReskQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "AC0B6480CAC6F8DB48D25584F36598A3",
+   "sender": "שלום בוצחק",
+   "text": "*הקפות שניות בבית הכנסת \"אוהל מאיר\"- כולם מוזמנים !*",
+   "ts": 1790867243000,
+   "date": "2026-10-01",
+   "time": "18:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "365KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aUaXjmhmuIsG9dcZjH45-0dbjBQzqI_J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aUaXjmhmuIsG9dcZjH45-0dbjBQzqI_J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "3A0BD3E7E07D3BAF3BE4",
+   "sender": "Netanel",
+   "text": "",
+   "ts": 1790868302000,
+   "date": "2026-10-01",
+   "time": "18:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13lBczAVMwiz1Dl4IKsgMVbPmnpf1eg5n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13lBczAVMwiz1Dl4IKsgMVbPmnpf1eg5n&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546004741"
   }
  ]
 }
