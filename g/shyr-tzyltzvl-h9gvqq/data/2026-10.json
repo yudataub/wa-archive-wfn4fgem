@@ -1,0 +1,83 @@
+{
+ "month": "2026-10",
+ "group": "שיר צילצול🎼",
+ "updated": "2026-10-01T18:25:50.803Z",
+ "messages": [
+  {
+   "id": "3EB0FC2C20F70260E519A1",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1790879099000,
+   "date": "2026-10-01",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "תשמח - ירון בר - צילצול.mp3",
+     "size": "835KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1Wf5_aRJ16jm_xq8NNVv3muT6ApM6Xi-A/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "3EB085F014BCE329A2F899",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1790879102000,
+   "date": "2026-10-01",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "אמני ישראל - אני מאמין - צילצול.mp3",
+     "size": "399KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1OYThFzpae7ngUQIsKj-a-yu2RJ0KNzRk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "3EB01A8F8E4529B219BA33",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1790879115000,
+   "date": "2026-10-01",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "מתנות קטנות - צמד ילד - צילצול.mp3",
+     "size": "910KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1L1Nn753TwhpxdHiBaJG8TNeRV7tKCj7P/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "3EB06AE2064A5EE89E6991",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1790879122000,
+   "date": "2026-10-01",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "אורי דוידי - הלואי - צילצול.mp3",
+     "size": "685KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1lqULJhFoq0iVo_QnyH-43f10hlD93zer/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  }
+ ]
+}

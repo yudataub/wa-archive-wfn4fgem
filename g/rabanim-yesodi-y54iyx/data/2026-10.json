@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-01T11:58:51.610Z",
+ "updated": "2026-10-01T20:30:59.339Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -172,6 +172,37 @@
    "files": [],
    "drive": null,
    "phone": "972585808247"
+  },
+  {
+   "id": "AC12F43D17ED414D0D18F2D104F07022",
+   "sender": "בדרכי תמר - לע\"נ תמר הרמן",
+   "text": "*בגמר הדין מרבים בחסד*\nאנחנו רוצים גם לחלק שקיות ממתקים למשפחות המאושפזות בהלל יפה \nעלות שקית 15 ש\"ח\nמדובר על 60 שקיות \n*מי רוצה לזכות במצווה*\nקישור לתרומה \nhttps://meshulam.co.il/s/fcfe0eab-d07a-bf76-851a-63dff5d3d896",
+   "ts": 1790883879000,
+   "date": "2026-10-01",
+   "time": "22:44",
+   "files": [],
+   "drive": null,
+   "phone": "972542248777"
+  },
+  {
+   "id": "AC61211F760D1BB7AB23110BD079C338",
+   "sender": "עובד נתן",
+   "text": "אני לא יודעת מי הוציא את הפרסום הזה, אבל הוא חימם את הלב, ממש.",
+   "ts": 1790886627000,
+   "date": "2026-10-01",
+   "time": "23:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "374KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JYIilMBYG_sppDvpGkJll3C-y8WeMZlZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JYIilMBYG_sppDvpGkJll3C-y8WeMZlZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524380505"
   }
  ]
 }

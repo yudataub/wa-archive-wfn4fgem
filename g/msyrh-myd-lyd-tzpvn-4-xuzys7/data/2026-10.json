@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-10-01T10:15:37.157Z",
+ "updated": "2026-10-01T18:45:51.127Z",
  "messages": [
   {
    "id": "A5593079A0B4B06AAF4593ED7EF43B56",
@@ -120,6 +120,57 @@
      "thumb": "https://drive.google.com/thumbnail?id=1mRI3OCHYzL8muontbJt4EWW2SMTQcfMq&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A505E514939AF51E0A06967F14803A7F",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "למסירה עגלה - אמבטיה+טיולון\nמקרית אתא\n+972 54-998-1004",
+   "ts": 1790880323000,
+   "date": "2026-10-01",
+   "time": "21:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "267KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MsKzP_oLekM2F9XC6KKMICAeAkGrxIs0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MsKzP_oLekM2F9XC6KKMICAeAkGrxIs0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A508FA4BD06E2372456CB560642FF273",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "הליכון של חברת יורק\nבקושי שומש \nמהכרמל בחיפה \nלמסירה היום באופן מיידי\nנכנס במעלית רק צריך לקשור אותו עם חבל / רצועה. \nשני 0534981915\n*ווטסאפ בלבד*",
+   "ts": 1790880333000,
+   "date": "2026-10-01",
+   "time": "21:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "368KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RHvQFbUhp78S7OhR9zQoZxL-DDdj_cy2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RHvQFbUhp78S7OhR9zQoZxL-DDdj_cy2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A50D9F0CF91AB2D5FDFC45A6FCC7F04D",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "*כל ההקפות השניות בצפון במקום אחד!*\n\nקרוב ל- *1,000 צופים* כבר מחוברים ל- *סטטוס החרדי בצפון*, ובכל יום נשלחים אלינו *עשרות אירועים ותיעודים* מכל רחבי הצפון.\n\nהקפות שניות • תפילות חג מוזיקליות • אירועי חג • תיעודים ועדכונים מהשטח\n\n*רוצים לדעת איפה יש הקפות שניות בצפון? הצטרפו עכשיו 👇*\nhttps://wa.me/972509122190?text=אשמח%20להצטרף%20לסטטוס%20החרדי%20בצפון",
+   "ts": 1790880341000,
+   "date": "2026-10-01",
+   "time": "21:45",
+   "files": [],
    "drive": null,
    "phone": "972509122190"
   }

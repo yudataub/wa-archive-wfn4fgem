@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-01T07:42:13.711Z",
+ "updated": "2026-10-01T19:54:58.787Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -63,6 +63,137 @@
    ],
    "drive": null,
    "phone": "972515587794"
+  },
+  {
+   "id": "3EB0A194B6CC4EC126E033",
+   "sender": "efraTehila😍😍",
+   "text": "היי\nאשמח אם אפשר לשלוח את המצגת הזו שוב\nוגם את המצגות הנוספות שנשלחו לאחר מכן (פרקים ג-ד)",
+   "ts": 1790883566000,
+   "date": "2026-10-01",
+   "time": "22:39",
+   "files": [],
+   "drive": null,
+   "phone": "972584470762"
+  },
+  {
+   "id": "AC5B61AB7E4FD60784DE2B7ADBD3062E",
+   "sender": "יפעת שלמה",
+   "text": "",
+   "ts": 1790883773000,
+   "date": "2026-10-01",
+   "time": "22:42",
+   "files": [
+    {
+     "name": "פרק ב' קורבנות מנחה.pdf",
+     "size": "3.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10pmaUYpcWyqrBLB5T5-UaX9LbxnuuM0r/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545599744"
+  },
+  {
+   "id": "AC67D2A2AFC387F4B5E859CF3226F26D",
+   "sender": "יפעת שלמה",
+   "text": "",
+   "ts": 1790883775000,
+   "date": "2026-10-01",
+   "time": "22:42",
+   "files": [
+    {
+     "name": "פרק ג' קורבן שלמים.pdf",
+     "size": "1.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rzsDUirElMEWOD9Oq_3vgN3MlEadariI/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545599744"
+  },
+  {
+   "id": "AC64037E9A32940DCD07976634C134AA",
+   "sender": "יפעת שלמה",
+   "text": "",
+   "ts": 1790883806000,
+   "date": "2026-10-01",
+   "time": "22:43",
+   "files": [
+    {
+     "name": "פרק ד קורבן חטאת.pdf",
+     "size": "348KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bJkFL3_3NF-PXnQ7-PfHhFVqY2kH_xi0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545599744"
+  },
+  {
+   "id": "AC4044BD8050720FB26FEC19F4B3B698",
+   "sender": "שמרית חנן",
+   "text": "פרק א ?",
+   "ts": 1790883913000,
+   "date": "2026-10-01",
+   "time": "22:45",
+   "files": [],
+   "drive": null,
+   "phone": "972507547154"
+  },
+  {
+   "id": "3EB034640692C342A19D07",
+   "sender": "efraTehila😍😍",
+   "text": "תודה רבה!🙏🏼",
+   "ts": 1790884299000,
+   "date": "2026-10-01",
+   "time": "22:51",
+   "files": [],
+   "drive": null,
+   "phone": "972584470762"
+  },
+  {
+   "id": "3EB0E476025584B88A71D7",
+   "sender": "efraTehila😍😍",
+   "text": "",
+   "ts": 1790884330000,
+   "date": "2026-10-01",
+   "time": "22:52",
+   "files": [
+    {
+     "name": "פרק א' - קורבן עולה (1).pdf",
+     "size": "",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "וואטסאפ לא איפשר להוריד"
+    }
+   ],
+   "drive": null,
+   "phone": "972584470762"
+  },
+  {
+   "id": "ACD62F8D9F6BA1FEB5FC7F7AC8EAC73E",
+   "sender": "שמרית חנן",
+   "text": "תודה",
+   "ts": 1790884451000,
+   "date": "2026-10-01",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972507547154"
+  },
+  {
+   "id": "ACF3F4F2452B6AF5146E4BBBF4947BA5",
+   "sender": "שמרית חנן",
+   "text": "צרפו אותי מאוחר \nאין לי את כל החומרים",
+   "ts": 1790884475000,
+   "date": "2026-10-01",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972507547154"
   }
  ]
 }

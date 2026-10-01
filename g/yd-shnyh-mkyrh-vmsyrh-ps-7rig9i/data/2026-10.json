@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-01T16:45:35.713Z",
+ "updated": "2026-10-01T19:01:09.986Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -82,6 +82,77 @@
    ],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "3ADE809B0060561AA3F7",
+   "sender": "Dana Mouwes",
+   "text": "",
+   "ts": 1790881254000,
+   "date": "2026-10-01",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rrC7QOpOcOs6UmlewDS9MuNIuQ6U4YdR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rrC7QOpOcOs6UmlewDS9MuNIuQ6U4YdR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508110855"
+  },
+  {
+   "id": "3AA1211F2E0ACF65B9C0",
+   "sender": "Dana Mouwes",
+   "text": "",
+   "ts": 1790881255000,
+   "date": "2026-10-01",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Mk4Qn5MvsFovjYPuMWd1K8K9xB63CWYs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Mk4Qn5MvsFovjYPuMWd1K8K9xB63CWYs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508110855"
+  },
+  {
+   "id": "3AF17891A7514EA7CA49",
+   "sender": "Dana Mouwes",
+   "text": "",
+   "ts": 1790881255000,
+   "date": "2026-10-01",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "44KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ssu80i5IGJI9PLtUcC-i2PZ_PGSd_yPR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ssu80i5IGJI9PLtUcC-i2PZ_PGSd_yPR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508110855"
+  },
+  {
+   "id": "3A28C565C2473867498E",
+   "sender": "Dana Mouwes",
+   "text": "‏New Balance 327 Black White Gum \nמידה 40 \nנקנו ב630 מוכרת 530 ש״ח\nחדשות לא נלבשו! \nמוזמנות להגיע למדוד",
+   "ts": 1790881256000,
+   "date": "2026-10-01",
+   "time": "22:00",
+   "files": [],
+   "drive": null,
+   "phone": "972508110855"
   }
  ]
 }

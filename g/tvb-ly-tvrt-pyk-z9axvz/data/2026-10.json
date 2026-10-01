@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-01T17:18:36.228Z",
+ "updated": "2026-10-01T19:43:58.623Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -533,6 +533,57 @@
      "path": "https://drive.google.com/file/d/1gTJdrjAAIwfMLifXdH-fY38cI3h1Ktqa/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1gTJdrjAAIwfMLifXdH-fY38cI3h1Ktqa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACC5270EB6BE756B155F8A52A7804887",
+   "sender": "זוהרה",
+   "text": "",
+   "ts": 1790878293000,
+   "date": "2026-10-01",
+   "time": "21:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12exDhhcrwBhFpevrYIbBzKGQeZQghNYM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12exDhhcrwBhFpevrYIbBzKGQeZQghNYM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525775796"
+  },
+  {
+   "id": "AC5AAA34FCE01622AFC5C6F0631CC200",
+   "sender": "שרון😄",
+   "text": "🌿 נפגשים הערב ב־21:30 בשידור חי!\n\nמוזמנים להצטרף אלינו ללימוד מיוחד ומרומם לקראת ליל הושענא רבה ✨\nנלמד, נתבונן וניכנס יחד לעומק של הלילה הגדול הזה.\n\n📲 הכניסה לזום מכאן:\nhttps://us02web.zoom.us/j/4681239121?pwd=ZHV1V3hyS2FsM2hpakZFMndHRm5rZz09\n\n21:30 בדיוק — מחכים לכם!",
+   "ts": 1790883814000,
+   "date": "2026-10-01",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC8466F6DE884F540D274D470F348CAE",
+   "sender": "שרון😄",
+   "text": "🌿 ידעתם שליל הושענא רבה הוא לא פחות *מיום הכיפורים* ושהוא רגע השיא של המסע שהתחיל באלול? \n\nהלילה נעשה ״*חותם בתוך חותם״* – זמן מיוחד לתורה, תפילה וישועה.\n\nהערב ב־21:30 בשידור חי בזום נקרא יחד את ספר דברים, נתחזק ונבקש על השנה החדשה.\n\n✨ *הושע נ״א – הושיע לנו ליום נ״א*",
+   "ts": 1790883814000,
+   "date": "2026-10-01",
+   "time": "22:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "266KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c0m5NOOIk_faJhfGXuxbYSIuLi6jgltx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c0m5NOOIk_faJhfGXuxbYSIuLi6jgltx&sz=w1200"
     }
    ],
    "drive": null,

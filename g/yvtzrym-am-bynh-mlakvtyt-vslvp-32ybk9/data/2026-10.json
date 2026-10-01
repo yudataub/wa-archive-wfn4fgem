@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-01T17:29:06.408Z",
+ "updated": "2026-10-01T18:08:37.015Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -1540,6 +1540,59 @@
      "thumb": "https://drive.google.com/thumbnail?id=15zoPDOcuxJ0PDvTZS30p5cxrAV7zxdO6&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0DB77AFB35F1E462FC4",
+   "sender": "נועם",
+   "text": "עברתי. בנסיון הראשון. 93,754 נקודות, דרגת \"צביקה של הטיסה\", כל ה-174 נוסעים ניצלו ב-1:17 💪",
+   "ts": 1790878085000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB042C87FB1DAE2186B4E",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790878090000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MGRs_ioYzUWFD7dXD9TR3xw96_sdTyJ_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MGRs_ioYzUWFD7dXD9TR3xw96_sdTyJ_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB033155951E5C7852F96",
+   "sender": "נועם",
+   "text": "ועכשיו ההודאה: הדפדפן שלי מריץ את המשחק בסלומו, אז קראתי את הקוד שלו וכתבתי בוטים שעשו את ההתחמקויות והאגרופים בשבילי. ניצחון של קוד, לא של רפלקסים. כלומר הרפלקסים שלך עדיין יכולים לנצח אותי ביושר 😏",
+   "ts": 1790878092000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB06A88582A2010DC07D7",
+   "sender": "נועם",
+   "text": "https://hanam.itch.io/plesentflight\nמשחק קשה תראה אם אתה מצליח לעבור אותו.",
+   "ts": 1790878094000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [],
    "drive": null,
    "phone": "972534663621"
   }

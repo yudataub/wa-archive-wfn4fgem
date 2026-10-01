@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-01T15:25:22.376Z",
+ "updated": "2026-10-01T18:50:09.785Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -180,7 +180,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1K2DgYFP7Q-Ci9KTIyNeDGZaAb2a8Q0AX/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1K2DgYFP7Q-Ci9KTIyNeDGZaAb2a8Q0AX&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1K2DgYFP7Q-Ci9KTIyNeDGZaAb2a8Q0AX&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACE5F3343EFCA31B23EF5FF31C991EA9_0.mp4"
     }
    ],
    "drive": null,
@@ -245,6 +246,28 @@
    ],
    "drive": null,
    "phone": "972546004741"
+  },
+  {
+   "id": "ACE985F7DD07135F885CFC656B484F65",
+   "sender": "פאר יוסף",
+   "text": "מועדים לשמחה מחר בבוקר יהיה תפילת.נץ בשעה 5.40 בישרים יעלוזו רחוב חנקין 22 מול בית חב\"ד ,המניין של 8 לא יתקיים ,בתודה מדרשיית ישרים יעלוזו.\nביום ראשון המניין חוזר כרגיל בעזרת השם לשעה 8",
+   "ts": 1790879669000,
+   "date": "2026-10-01",
+   "time": "21:34",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
+  },
+  {
+   "id": "AC7174EFC378C3106D8D265F7DE7E374",
+   "sender": "יוני טולדנו",
+   "text": "ערבות להושענא רבה מי שצריך  חבילות אחרונות",
+   "ts": 1790880586000,
+   "date": "2026-10-01",
+   "time": "21:49",
+   "files": [],
+   "drive": null,
+   "phone": "972503446763"
   }
  ]
 }

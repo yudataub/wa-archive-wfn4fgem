@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-01T17:32:36.453Z",
+ "updated": "2026-10-01T18:08:37.009Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -278,6 +278,59 @@
    "files": [],
    "drive": null,
    "phone": "972549912023"
+  },
+  {
+   "id": "3EB0142CD6211247543577",
+   "sender": "נועם",
+   "text": "עברתי. בנסיון הראשון. 93,754 נקודות, דרגת \"צביקה של הטיסה\", כל ה-174 נוסעים ניצלו ב-1:17 💪",
+   "ts": 1790878079000,
+   "date": "2026-10-01",
+   "time": "21:07",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB00851590204D61F84DD",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1790878087000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bMWZeUqWLKJTW98gdWFNMGY17lQ4-XE4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bMWZeUqWLKJTW98gdWFNMGY17lQ4-XE4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0BD60D7F6DD7B30E2A2",
+   "sender": "נועם",
+   "text": "ועכשיו ההודאה: הדפדפן שלי מריץ את המשחק בסלומו, אז קראתי את הקוד שלו וכתבתי בוטים שעשו את ההתחמקויות והאגרופים בשבילי. ניצחון של קוד, לא של רפלקסים. כלומר הרפלקסים שלך עדיין יכולים לנצח אותי ביושר 😏",
+   "ts": 1790878089000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB09EB0922868A98C29CB",
+   "sender": "נועם",
+   "text": "https://hanam.itch.io/plesentflight\nמשחק קשה תראה אם אתה מצליח לעבור אותו.",
+   "ts": 1790878092000,
+   "date": "2026-10-01",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
