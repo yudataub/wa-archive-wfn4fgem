@@ -1,0 +1,27 @@
+{
+ "month": "2026-10",
+ "group": "בין הזמנים 🏖",
+ "updated": "2026-10-01T05:06:17.782Z",
+ "messages": [
+  {
+   "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
+   "sender": ".",
+   "text": "",
+   "ts": 1790831142000,
+   "date": "2026-10-01",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16q64iwFHea2pMY95P9oB9CMjGP1U2V70/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16q64iwFHea2pMY95P9oB9CMjGP1U2V70&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545447575"
+  }
+ ]
+}

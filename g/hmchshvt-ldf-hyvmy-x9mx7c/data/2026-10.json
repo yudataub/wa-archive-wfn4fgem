@@ -1,0 +1,47 @@
+{
+ "month": "2026-10",
+ "group": "המחשות לדף היומי",
+ "updated": "2026-10-01T03:41:42.405Z",
+ "messages": [
+  {
+   "id": "3A300DD33B39332E1742",
+   "sender": ".",
+   "text": "״עורפו מאחוריו״ (בכורות יג, א).",
+   "ts": 1790826080000,
+   "date": "2026-10-01",
+   "time": "06:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "67KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A-p1OH9I1SgrbfDsW4UeKOad0ZgZNkc3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A-p1OH9I1SgrbfDsW4UeKOad0ZgZNkc3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AB0A8ED5FADFE4A20A1",
+   "sender": ".",
+   "text": "״ומצא בהן עבודת כוכבים״ (בכורות יג, ב).",
+   "ts": 1790826082000,
+   "date": "2026-10-01",
+   "time": "06:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1U1-LvTz3vMr7Xzxla7LI4Axoza7YPoBL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U1-LvTz3vMr7Xzxla7LI4Axoza7YPoBL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  }
+ ]
+}

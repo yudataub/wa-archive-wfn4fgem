@@ -1,0 +1,78 @@
+{
+ "month": "2026-10",
+ "group": "קהילת קרית אתא",
+ "updated": "2026-10-01T05:24:18.006Z",
+ "messages": [
+  {
+   "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
+   "sender": "זהבה גוטמן",
+   "text": "",
+   "ts": 1790829444000,
+   "date": "2026-10-01",
+   "time": "07:37",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "60KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1LOChohuMyAIikW0GAQ-YlfVTQMC8n0XG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LOChohuMyAIikW0GAQ-YlfVTQMC8n0XG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "AC1532BF8D7F820452221218888717F1",
+   "sender": "זהבה גוטמן",
+   "text": "",
+   "ts": 1790829445000,
+   "date": "2026-10-01",
+   "time": "07:37",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "9KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1t_Y95tD-CFBeLgqb-He7Ad3s25Fin0vb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t_Y95tD-CFBeLgqb-He7Ad3s25Fin0vb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "A5E8C7AE4CAD50390A100AC0DDCD346D",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "היום! פתיחת שערים ב-12\nהאירוע פתוח לכל הקריות והסביבה",
+   "ts": 1790832249000,
+   "date": "2026-10-01",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972545223044"
+  },
+  {
+   "id": "A5559C8A6FA353C733645F5B8A14109C",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "",
+   "ts": 1790832250000,
+   "date": "2026-10-01",
+   "time": "08:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-1N3d_QlbTZQwFL2C15ki7wmhLwXZ2__/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-1N3d_QlbTZQwFL2C15ki7wmhLwXZ2__&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545223044"
+  }
+ ]
+}

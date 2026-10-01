@@ -1,0 +1,38 @@
+{
+ "month": "2026-10",
+ "group": "קהילאתא",
+ "updated": "2026-10-01T05:24:18.025Z",
+ "messages": [
+  {
+   "id": "A53828E628982E187A2526334656735F",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "היום! פתיחת שערים ב-12\nהאירוע פתוח לכל הקריות והסביבה",
+   "ts": 1790832252000,
+   "date": "2026-10-01",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972545223044"
+  },
+  {
+   "id": "A530736456058A9817C823DAF94709C1",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "",
+   "ts": 1790832253000,
+   "date": "2026-10-01",
+   "time": "08:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Rzkh9_bBUhDV8ZTDisNPfrjq9GBTvkkn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Rzkh9_bBUhDV8ZTDisNPfrjq9GBTvkkn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545223044"
+  }
+ ]
+}
