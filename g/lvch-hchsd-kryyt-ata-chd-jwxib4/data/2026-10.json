@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-09-30T21:04:20.017Z",
+ "updated": "2026-10-01T08:06:14.049Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -46,6 +46,59 @@
    "files": [],
    "drive": null,
    "phone": "972553151834"
+  },
+  {
+   "id": "ACDA95D5146636E793311445A319D3B8",
+   "sender": "😃",
+   "text": "מאיפה?",
+   "ts": 1790837777000,
+   "date": "2026-10-01",
+   "time": "09:56",
+   "files": [],
+   "drive": null,
+   "phone": "972542868980"
+  },
+  {
+   "id": "AC0AF4DB917EF2AC8BDEEDF7D751D376",
+   "sender": "מנחם חזן",
+   "text": "כמידי שנה ניתן להשיג אצל ימין חזן +972 53-952-7646  ערבות עבור ההושענות\nניתן לשלם גם בביט\nניתן כבר לבוא לאסוף פינסקר 17 קרית אתא",
+   "ts": 1790838085000,
+   "date": "2026-10-01",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "AC12A2C2E807BBE5C1EABB294E1AF831",
+   "sender": "liad🎀",
+   "text": "",
+   "ts": 1790841958000,
+   "date": "2026-10-01",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wIjPrVN3MVgE3x-wYtdES1lBQZK_PVN7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wIjPrVN3MVgE3x-wYtdES1lBQZK_PVN7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526624939"
+  },
+  {
+   "id": "AC12ED1FC906F3DC8A676C20074A5392",
+   "sender": "liad🎀",
+   "text": "היום ‼️‼️‼️",
+   "ts": 1790841962000,
+   "date": "2026-10-01",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972526624939"
   }
  ]
 }

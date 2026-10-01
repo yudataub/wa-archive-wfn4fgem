@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-01T04:19:17.100Z",
+ "updated": "2026-10-01T08:49:21.922Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -37,7 +37,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1S7I-nxKkV6YSrS1DjXQ6uIykAHj8LyJ0/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1S7I-nxKkV6YSrS1DjXQ6uIykAHj8LyJ0&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1S7I-nxKkV6YSrS1DjXQ6uIykAHj8LyJ0&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/AC2B08FAB78E13AED6CD4A34C2B645E7_0.mp4"
     }
    ],
    "drive": null,
@@ -62,6 +63,77 @@
    ],
    "drive": null,
    "phone": "972545614454"
+  },
+  {
+   "id": "AC4815183C47E824EE7B00D44CD86744",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790836472000,
+   "date": "2026-10-01",
+   "time": "09:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "266KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nJn_mb-snaKceJnAuQ-hCvMu-FeBP8lT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nJn_mb-snaKceJnAuQ-hCvMu-FeBP8lT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC8A163617461E95835148E867D00305",
+   "sender": "פאר יוסף",
+   "text": "בשעה 11.00 שיעור עם הרב גדי אביטל ראש כולל ודיין ,השיעור מתקיים בישרים יעלוזו רחוב חנקין 22 מול בית חב\"ד ,חבל לפספס",
+   "ts": 1790840043000,
+   "date": "2026-10-01",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
+  },
+  {
+   "id": "ACDEDEABEA3D96B4764E5F33E34E7CA7",
+   "sender": "שלום בוצחק",
+   "text": "",
+   "ts": 1790844431000,
+   "date": "2026-10-01",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "297KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ruV-8trW2g_89Abf1gaagWgRiWVvWukJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ruV-8trW2g_89Abf1gaagWgRiWVvWukJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "AC3EE541E5F9E23E42EBD9B42C0600F8",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790844534000,
+   "date": "2026-10-01",
+   "time": "11:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qdIuUG8ocEIW_95e_s0hucdhEgV45Ut4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qdIuUG8ocEIW_95e_s0hucdhEgV45Ut4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

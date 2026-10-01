@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-01T05:06:17.782Z",
+ "updated": "2026-10-01T07:15:49.790Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -22,6 +22,79 @@
    ],
    "drive": null,
    "phone": "972545447575"
+  },
+  {
+   "id": "2A9E6AE182AEA908B917",
+   "sender": "מדרשת שירת. חנה",
+   "text": "מועדים לשמחה,\nמחפשת שינוע מחר-יום שישי מירושלים לגולן \nארוחת שבת ללוחמים,\nאפשר גם חלק מהדרך\nשלומית חמל מדרשת שירת חנה\n0503566662\nאנא הפיצו🙌❤️",
+   "ts": 1790833325000,
+   "date": "2026-10-01",
+   "time": "08:42",
+   "files": [],
+   "drive": null,
+   "phone": "972503566662"
+  },
+  {
+   "id": "AC368E7B1C313FC02D643DA83F05C15C",
+   "sender": "חן ואנונו",
+   "text": "",
+   "ts": 1790838681000,
+   "date": "2026-10-01",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-jU93m0ycbDJ14DubkAWzQ_kuW9va-xI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-jU93m0ycbDJ14DubkAWzQ_kuW9va-xI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528909195"
+  },
+  {
+   "id": "AC8A5BCD626DF98EFE00D2A40D90DF48",
+   "sender": "איריס בר טל",
+   "text": "https://gan-mekadem.lovable.app",
+   "ts": 1790838826000,
+   "date": "2026-10-01",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACF69B15D0EA92A4B4A5A85CD2DE3570",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1790838828000,
+   "date": "2026-10-01",
+   "time": "10:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BbBDlc0j7Uq5XnltRCv2-8wIYivOvZh_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BbBDlc0j7Uq5XnltRCv2-8wIYivOvZh_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACB81783F147916EB73DF6F10D0054DE",
+   "sender": "איריס בר טל",
+   "text": "*מתחם יפהפה בלב צפת*\n*32 מיטות,אפשרות למזרונים*\n*שבתות חתן,חלאקה,*\n*בריתות,חינה ואירועים קטנים*",
+   "ts": 1790838929000,
+   "date": "2026-10-01",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
   }
  ]
 }

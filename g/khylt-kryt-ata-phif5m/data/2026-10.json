@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-01T05:24:18.006Z",
+ "updated": "2026-10-01T08:25:51.614Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -73,6 +73,86 @@
    ],
    "drive": null,
    "phone": "972545223044"
+  },
+  {
+   "id": "2A4614A6E34518AB39F4",
+   "sender": "אמור בן אבגי",
+   "text": "",
+   "ts": 1790836167000,
+   "date": "2026-10-01",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "356KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mt6g6s0QzqpEWmXRUuZhwKOxpfagd_UP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mt6g6s0QzqpEWmXRUuZhwKOxpfagd_UP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538307001"
+  },
+  {
+   "id": "3A4331FE85306477FD63",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "ארון הזזה שמור\nרוחב 181.5 גובה 237 עומק 60\n700 ש״ח",
+   "ts": 1790843144000,
+   "date": "2026-10-01",
+   "time": "11:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "112KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_rEayh1iFYU3kQSmTYUCRG9CodQcNFtG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_rEayh1iFYU3kQSmTYUCRG9CodQcNFtG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
+  },
+  {
+   "id": "3A39BDC134E3A26EBAB6",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "",
+   "ts": 1790843145000,
+   "date": "2026-10-01",
+   "time": "11:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YHhAlK9am7nFK8uXtbCVEOBhi8wuH4nc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YHhAlK9am7nFK8uXtbCVEOBhi8wuH4nc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
+  },
+  {
+   "id": "3AC7E11749DF6626163C",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "",
+   "ts": 1790843145000,
+   "date": "2026-10-01",
+   "time": "11:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ngfa-kKyrn2x_ophetH1JA3TmLr7HBxj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ngfa-kKyrn2x_ophetH1JA3TmLr7HBxj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
   }
  ]
 }

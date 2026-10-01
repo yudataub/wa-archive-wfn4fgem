@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-09-30T21:08:50.097Z",
+ "updated": "2026-10-01T09:22:29.695Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -13,6 +13,123 @@
    "files": [],
    "drive": null,
    "phone": "972545668518"
+  },
+  {
+   "id": "ACC482892F4CF3C987582E76EADC4222",
+   "sender": "Zohar",
+   "text": "",
+   "ts": 1790837300000,
+   "date": "2026-10-01",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G9j0IPrr6TcbNg-f_4QILGJYWMFIv-ue/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G9j0IPrr6TcbNg-f_4QILGJYWMFIv-ue&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528308161"
+  },
+  {
+   "id": "AC85AC232AA7AA19E440AB2308690488",
+   "sender": "דוד שפרונג",
+   "text": "מיקום ההלוויה השתנה לאולם ההספדים הישן",
+   "ts": 1790837917000,
+   "date": "2026-10-01",
+   "time": "09:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1F2Rd2wTVaiLvHGWnxfMyq_ZtWkUb0AED/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1F2Rd2wTVaiLvHGWnxfMyq_ZtWkUb0AED&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505719939"
+  },
+  {
+   "id": "AC5ED8DE7C60340BA5E0DA12AB9ACC11",
+   "sender": "דוד שפרונג",
+   "text": "אשתו של הרב בן נעים ראש אולפנת אשדוד לשעבר נפטרה הלילה . ברוך דיין האמת",
+   "ts": 1790837973000,
+   "date": "2026-10-01",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505719939"
+  },
+  {
+   "id": "ACF98EB990E83A55DA54A011F4D8B5F3",
+   "sender": "שמואל אמינוב",
+   "text": "השם הרשמי של המלחמה הוא מלחמת התקומה. יש בזה סמנטיקה חשובה.",
+   "ts": 1790838218000,
+   "date": "2026-10-01",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972547607984"
+  },
+  {
+   "id": "ACCDA7AF5B6B83C594C524EDC6BDA033",
+   "sender": "מרדכי וינגרטן",
+   "text": "ברוך דיין האמת😢",
+   "ts": 1790838372000,
+   "date": "2026-10-01",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "phone": "972522675154"
+  },
+  {
+   "id": "ACA98B3B2D9A82526F11C9A7C0DC46B1",
+   "sender": "ערן גדות",
+   "text": "מועדים לשמחה \nדיברתי עם המנהלת שלי על קיום כנס הודיה על נס המטוס ועל הניסים הרבים.\nכשחוזרים מהחג \nהיא שמחה מאוד \nממליץ להרים את הכפפה!!!\n*\"דחה דחיתני לנפול -*\n*והשם עזרני !!!!..*\n*זה היום עשה ה'**\n*\"נגילה ונשמחה בו\"*\n\nמקווה להכין מצגת ולשלוח כאן",
+   "ts": 1790845709000,
+   "date": "2026-10-01",
+   "time": "12:08",
+   "files": [],
+   "drive": null,
+   "phone": "972503071376"
+  },
+  {
+   "id": "A5955646317DBF7AB5D160A5E849652D",
+   "sender": "רב לעריכת חופות",
+   "text": "חזק וברוך",
+   "ts": 1790846206000,
+   "date": "2026-10-01",
+   "time": "12:16",
+   "files": [],
+   "drive": null,
+   "phone": "972545567287"
+  },
+  {
+   "id": "3EB01FCD4A8DCCCD747F3D",
+   "sender": "דוד ספיאשוילי",
+   "text": "יש פה מישהו שהכין שירונים לשמחת תורה עם מלל להקפות (לאו דווקא לבית הספר או מתאים לילדים)",
+   "ts": 1790846543000,
+   "date": "2026-10-01",
+   "time": "12:22",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "3EB06D5785424F4A796590",
+   "sender": "דוד ספיאשוילי",
+   "text": "?",
+   "ts": 1790846544000,
+   "date": "2026-10-01",
+   "time": "12:22",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-01T05:37:18.217Z",
+ "updated": "2026-10-01T09:01:22.143Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -13,6 +13,45 @@
    "files": [],
    "drive": null,
    "phone": "972527452710"
+  },
+  {
+   "id": "AC2983F8494BA4C3E2C0236D29BE142E",
+   "sender": "לוני מדיוני 🇮🇱",
+   "text": "",
+   "ts": 1790840680000,
+   "date": "2026-10-01",
+   "time": "10:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JQGTKQ5ZHWwle_hEXNng8mRxCLutnQn5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JQGTKQ5ZHWwle_hEXNng8mRxCLutnQn5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523292090"
+  },
+  {
+   "id": "ACDEAFAFAFFAF24CEF59397CDC73A13B",
+   "sender": "אחינעם",
+   "text": "רעיון חמוד שמצאתי עכשיו אם מישהו רוצה להרחיב גם על המקום המיוחד של ספרי התורה",
+   "ts": 1790845261000,
+   "date": "2026-10-01",
+   "time": "12:01",
+   "files": [
+    {
+     "name": "ארון-הקודש-יצירה-צבעוני-.pdf",
+     "size": "1.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_mqw49qUCyotzXc0C_1JsFBBB5EsqR3n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586788467"
   }
  ]
 }

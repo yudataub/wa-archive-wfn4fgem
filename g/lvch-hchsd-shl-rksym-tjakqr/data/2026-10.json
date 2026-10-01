@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-09-30T21:31:20.399Z",
+ "updated": "2026-10-01T09:23:59.729Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -46,6 +46,70 @@
    "files": [],
    "drive": null,
    "phone": "972559334207"
+  },
+  {
+   "id": "3A43C4DE34D3E38951FA",
+   "sender": "יוסי מנחם",
+   "text": "מי משכיר פלטות מוסדיות לשבת חוץ מרענן?",
+   "ts": 1790834714000,
+   "date": "2026-10-01",
+   "time": "09:05",
+   "files": [],
+   "drive": null,
+   "phone": "972529955992"
+  },
+  {
+   "id": "A551DC1564D9DFE529E358C369B7696D",
+   "sender": "לא עסק",
+   "text": "מועדים לשמחה, למישהו יש סטנד מסך שמקרינים עליו?",
+   "ts": 1790836947000,
+   "date": "2026-10-01",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972556841195"
+  },
+  {
+   "id": "3A7E94D8C64FF7F7544C",
+   "sender": "יוסי מנחם",
+   "text": "מאיפה אפשר להשיג לפידים כמו של הכנסת ספר תורה",
+   "ts": 1790837498000,
+   "date": "2026-10-01",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972529955992"
+  },
+  {
+   "id": "3A9B529DE45AB938368E",
+   "sender": "יוסי מנחם",
+   "text": "מאיפה אפשר להשיג לפידים כמו של הכנסת ספר תורה",
+   "ts": 1790846616000,
+   "date": "2026-10-01",
+   "time": "12:23",
+   "files": [],
+   "drive": null,
+   "phone": "972529955992"
+  },
+  {
+   "id": "3A91ECD0114FBD7856CC",
+   "sender": "יוסי מנחם",
+   "text": "",
+   "ts": 1790846617000,
+   "date": "2026-10-01",
+   "time": "12:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "38KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nv6phjnF3RcF-eSgifMqPETCRvirn13N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nv6phjnF3RcF-eSgifMqPETCRvirn13N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529955992"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "month": "2026-10",
+ "group": "אתא שלנו גם בווצאפ 1",
+ "updated": "2026-10-01T06:42:49.272Z",
+ "messages": [
+  {
+   "id": "A500C754EB9651F22DB12095074D0930",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1790836943000,
+   "date": "2026-10-01",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1QE7Mb382J9VNO6Y__oFtOs5-FqHBLn7_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QE7Mb382J9VNO6Y__oFtOs5-FqHBLn7_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  }
+ ]
+}
