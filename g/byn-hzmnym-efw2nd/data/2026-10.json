@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-01T07:15:49.790Z",
+ "updated": "2026-10-01T10:48:37.688Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -95,6 +95,46 @@
    "files": [],
    "drive": null,
    "phone": "972524031418"
+  },
+  {
+   "id": "ACDFE5678B5004915D6524D2EE9C8D3E",
+   "sender": "חני",
+   "text": "*נותר מקום להיום בערב ולמחר‼️*\n\n🍋 'חוות אלפא' מזמינה אתכם להנות בחוה\"מ סוכות מחוויה מדהימה לכל המשפחה 🍋\n\n*השכרת כל המתחם למשפחות/ קבוצות בתיאום מראש בלבד!!*\n\nמהרו להבטיח את מקומכם איתנו:\n📞 050-3332819",
+   "ts": 1790849024000,
+   "date": "2026-10-01",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i8cC4bfbZ97TsjXfi81txfw4lguaVeEJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i8cC4bfbZ97TsjXfi81txfw4lguaVeEJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534245658"
+  },
+  {
+   "id": "AC8A6B61C3CF98EF18AC0276AE658D9F",
+   "sender": "שרה אורן",
+   "text": "פנוי לשמחת תורה!! \nמוזמנים אלינו ל'אורן בשדה' - יחידת האירוח היפה שלנו שבמושב שדה אילן 🌻\n🌸 2 חדרי שינה- מתאים לזוג עם עד 5 ילדים\n🌸 מטבח מאובזר כולל אבזור מלא לשבת וחג\n🌸 בית כנסת ומכולת במרחק דקת הליכה \n🌸 גינה עם פינת משחקים לילדים \n🌸 מגוון מסלולי טיולים ואטרקציות באיזור\n🌸 600 שח לזוג!! \nלפרטים נוספים 0509865699 שרה",
+   "ts": 1790851697000,
+   "date": "2026-10-01",
+   "time": "13:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "166KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1h96icSUHXAbxa1NdHvIiBasN1mP5bCt6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1h96icSUHXAbxa1NdHvIiBasN1mP5bCt6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509865699"
   }
  ]
 }

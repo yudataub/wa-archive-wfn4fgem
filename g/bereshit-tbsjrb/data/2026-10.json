@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-01T09:01:22.143Z",
+ "updated": "2026-10-01T11:43:51.398Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -52,6 +52,151 @@
    ],
    "drive": null,
    "phone": "972586788467"
+  },
+  {
+   "id": "2A0033D3C02CAB13D369",
+   "sender": "אלישבע סויסה",
+   "text": "מועדים לשמחה ☺️אשמח לקבל קישורים או חומרים אם נשלחו פה ללימוד תורה לכיתה א, לצערי רק עכשיו נחשפתי לקבוצה 🙏🏻",
+   "ts": 1790853924000,
+   "date": "2026-10-01",
+   "time": "14:25",
+   "files": [],
+   "drive": null,
+   "phone": "972535322807"
+  },
+  {
+   "id": "ACF57C6E8AC8019FE72AD85177CAE72C",
+   "sender": "אחינעם",
+   "text": "לאהבת תורה או לפרשת בראשית?",
+   "ts": 1790854003000,
+   "date": "2026-10-01",
+   "time": "14:26",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "2A76F2D6A7187888D888",
+   "sender": "אלישבע סויסה",
+   "text": "בראשית",
+   "ts": 1790854250000,
+   "date": "2026-10-01",
+   "time": "14:30",
+   "files": [],
+   "drive": null,
+   "phone": "972535322807"
+  },
+  {
+   "id": "ACFFF8D0E5A746FACB5E4B7B3A8FCD36",
+   "sender": "אחינעם",
+   "text": "",
+   "ts": 1790854498000,
+   "date": "2026-10-01",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "טקסט הפסקה שלך (1).pdf",
+     "size": "165KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jpbZ-w4L2J00fGHUkE0nukQL2km1CBNc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "ACE3A66A4B05D7F860951B7E6A629A91",
+   "sender": "אחינעם",
+   "text": "",
+   "ts": 1790854499000,
+   "date": "2026-10-01",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "טקסט הפסקה שלך (2).pdf",
+     "size": "375KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1nL3XJEMzm3XjBtiB2FzVbJgGR3f23bxy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "ACE59D861C9A9FF82AC9ACA871767306",
+   "sender": "אחינעם",
+   "text": "בזה אין הוראות אבל אני מקריאה ואז מותחים קו לתמונה המתאימה...",
+   "ts": 1790854538000,
+   "date": "2026-10-01",
+   "time": "14:35",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC3684A7BCFCCA6BBC2E30C7AE2F5864",
+   "sender": "אחינעם",
+   "text": "זה יצירה ליום שלומדים בו על שבת",
+   "ts": 1790854555000,
+   "date": "2026-10-01",
+   "time": "14:35",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC7E1200778F2140E5F2C1F1ECC23633",
+   "sender": "אחינעם",
+   "text": "יצירה ליום החמישי מקפלים כמו אקורדיון ואז מצד אחד רואים ציפורים ומצד שני רואים את הדגים",
+   "ts": 1790854603000,
+   "date": "2026-10-01",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "יצירה לאחינעם .pdf",
+     "size": "198KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1H1tEikaT9tAThdu88-I4WLKnEKMZldPO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "2A26243BA6C6ABBB7997",
+   "sender": "אלישבע סויסה",
+   "text": "זה מקסים! ממש תודה  רבה 🙏🏻❤️ יש כזה לכל ימי הבריאה? או קובץ דרייב משותף של הקבוצה?",
+   "ts": 1790854894000,
+   "date": "2026-10-01",
+   "time": "14:41",
+   "files": [],
+   "drive": null,
+   "phone": "972535322807"
+  },
+  {
+   "id": "AC73C6F7B1CC30D0D4DF817850B3BBF7",
+   "sender": "אחינעם",
+   "text": "לא שידוע לי, ביקשתי ממורה בבית הספר שתכין לי את זה...\nאני לרוב פשוט עם חוברת פסוק בפסוק",
+   "ts": 1790854983000,
+   "date": "2026-10-01",
+   "time": "14:43",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "2A7EEE45E9EFA365B14B",
+   "sender": "אלישבע סויסה",
+   "text": "תודה רבה ❤️",
+   "ts": 1790855020000,
+   "date": "2026-10-01",
+   "time": "14:43",
+   "files": [],
+   "drive": null,
+   "phone": "972535322807"
   }
  ]
 }

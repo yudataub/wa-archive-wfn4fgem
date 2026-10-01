@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-01T09:27:59.798Z",
+ "updated": "2026-10-01T13:24:06.461Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -572,11 +572,478 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ZfqyVG3ZLegk8L96H9PA4Y9NqDot0hG2/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ZfqyVG3ZLegk8L96H9PA4Y9NqDot0hG2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ZfqyVG3ZLegk8L96H9PA4Y9NqDot0hG2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/A51B7DE2E7B5CD97A37BF56A4C5C7745_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972555574177"
+  },
+  {
+   "id": "A59D91EC9612C88782EEDF3059A829BE",
+   "sender": "אלירן",
+   "text": "",
+   "ts": 1790848202000,
+   "date": "2026-10-01",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mJhtAE1o0aJSXgeBG5eKGl9FFML3Iz3d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mJhtAE1o0aJSXgeBG5eKGl9FFML3Iz3d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524306601"
+  },
+  {
+   "id": "2A58054799C3968ADEC3",
+   "sender": "Diana",
+   "text": "",
+   "ts": 1790848363000,
+   "date": "2026-10-01",
+   "time": "12:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "205KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14KCXGCihMAq9kXAjw4VvhGpmiUSvnP8e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14KCXGCihMAq9kXAjw4VvhGpmiUSvnP8e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528508065"
+  },
+  {
+   "id": "3AC42902057EAD8AD9F1",
+   "sender": "אסף",
+   "text": "",
+   "ts": 1790848585000,
+   "date": "2026-10-01",
+   "time": "12:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fGmErkvUg1Nqno3_mGGiQ3dRetkb9xLx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fGmErkvUg1Nqno3_mGGiQ3dRetkb9xLx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502774900"
+  },
+  {
+   "id": "A531654F83B1D42E46780444200714EB",
+   "sender": "רביד אזולאי-מקור האוכל והקינוחים",
+   "text": "❤️ *פותחים את הלב לשמיני עצרת*❤️\n\nמשפחה מרובת ילדים זקוקה לעזרה כדי להיכנס לחג בכבוד, עם שולחן חג מלא ושמח לילדים 🙏\n\n*כל סכום, קטן כגדול, מצטרף ועושה הבדל* ❤️\n\n*לתרומה בביט* 👇\nhttps://www.bitpay.co.il/app/share-info?i=VPdHlB0I&j=true\n\n*תזכו למצוות ושנזכה תמיד להיות בצד הנותן*🙏❤️",
+   "ts": 1790851224000,
+   "date": "2026-10-01",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972507799833"
+  },
+  {
+   "id": "AC2F996BF5B8D9F04E12F7EA6722B868",
+   "sender": "odet",
+   "text": "🌿מכירת ערבות  🌿\nהערב, החל מהשעה 19:00, תתקיים מכירת ערבות בבית הכנסת מאקווא רח' המגינים 12 קרית אתא.\n\nמחכים לכם בשמחה! 💚",
+   "ts": 1790855833000,
+   "date": "2026-10-01",
+   "time": "14:57",
+   "files": [],
+   "drive": null,
+   "phone": "972542555579"
+  },
+  {
+   "id": "AC6D258E2E543ACE0DEBB1393D8AE630",
+   "sender": "דודי שטרן",
+   "text": "",
+   "ts": 1790855858000,
+   "date": "2026-10-01",
+   "time": "14:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LCQCC7gNywRyU16wX9hZhfGeb-6T5L82/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LCQCC7gNywRyU16wX9hZhfGeb-6T5L82&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
+  },
+  {
+   "id": "AC3C3561B4C88F27F156927511CFA082",
+   "sender": "שושי",
+   "text": "",
+   "ts": 1790857444000,
+   "date": "2026-10-01",
+   "time": "15:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eF-rdv2B41Lmzk1FPXHiF5m3TTAephp7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eF-rdv2B41Lmzk1FPXHiF5m3TTAephp7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526821835"
+  },
+  {
+   "id": "ACFBA2C0AD5B7C1C5ADE1690EDF34B74",
+   "sender": "דודי שטרן",
+   "text": "",
+   "ts": 1790857580000,
+   "date": "2026-10-01",
+   "time": "15:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QhRX-vOQIZ5reAe_X2AodOIAXD8Cxl_M/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QhRX-vOQIZ5reAe_X2AodOIAXD8Cxl_M&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
+  },
+  {
+   "id": "ACDDDB96626582E89B3097DB713E2F43",
+   "sender": "שמואל מלול",
+   "text": "",
+   "ts": 1790858624000,
+   "date": "2026-10-01",
+   "time": "15:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "754KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fDpyG1A8YiKj4F71hfpKkFOxQ_1zelfB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fDpyG1A8YiKj4F71hfpKkFOxQ_1zelfB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
+  },
+  {
+   "id": "3A9298A27D4860D3F1C1",
+   "sender": "תהילה אלגרסי",
+   "text": "להזמנות בפרטי\n0532397782",
+   "ts": 1790859391000,
+   "date": "2026-10-01",
+   "time": "15:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZBCvVlH56XCgWJOYGjqnL1vP2_EZ9Vbm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZBCvVlH56XCgWJOYGjqnL1vP2_EZ9Vbm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532397782"
+  },
+  {
+   "id": "3A406CB39C91702E861D",
+   "sender": "תהילה אלגרסי",
+   "text": "",
+   "ts": 1790859392000,
+   "date": "2026-10-01",
+   "time": "15:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18mcnHqKqb_4XX7VbKrpmGhVov8q6rKA-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18mcnHqKqb_4XX7VbKrpmGhVov8q6rKA-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532397782"
+  },
+  {
+   "id": "3A180B7775320126A195",
+   "sender": "אוריאן",
+   "text": "אלופה",
+   "ts": 1790859650000,
+   "date": "2026-10-01",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972505230888"
+  },
+  {
+   "id": "A56386F8BD977BCED066395AB212CE3D",
+   "sender": "שמחה פאות",
+   "text": "​\n​🌿 חג שמח! דיל ערבות בפינסקר 17 🌿\nתפסו אותן מתחת לבניין!\n​🔥 מבצע כמות עד הערב: עד השעה 8 בערב \nרק 4 ש״ח לסט (בלקיחת 10 סטים ומעלה",
+   "ts": 1790859668000,
+   "date": "2026-10-01",
+   "time": "16:01",
+   "files": [],
+   "drive": null,
+   "phone": "972533397673"
+  },
+  {
+   "id": "ACAF7AF10D787FA85B22AA54A6BB2ED4",
+   "sender": "Adi",
+   "text": "גראז' סייל שווה\n0525992006",
+   "ts": 1790859929000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC626AF7C9F25678CA9A9DE35DA1FB1D",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859931000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "267KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GD3E6SruRRPDOGMtDCJiwxGbl9B2kykV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GD3E6SruRRPDOGMtDCJiwxGbl9B2kykV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC21A718EB4FBA6CBC790102E0C01A88",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859933000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A6-vKys-1O2FlgmEBbY7IjhoukPvBwSI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A6-vKys-1O2FlgmEBbY7IjhoukPvBwSI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC30E041F95A18205F649C9B32939524",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859933000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YlHUmGJYSgZLt6Ob2b8SdgNupkWA2dLh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YlHUmGJYSgZLt6Ob2b8SdgNupkWA2dLh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC6EEB6B9202DD1BC7ACD37210BF2023",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859934000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "300KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LOqB-FcawyGLYa2zu0g0Q1dAmyS8VToR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LOqB-FcawyGLYa2zu0g0Q1dAmyS8VToR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC2CE7378FD0058323A156B18F1A1755",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859935000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "263KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14kg-di2vblp47WSOfXKi4cJBDu12xyTu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14kg-di2vblp47WSOfXKi4cJBDu12xyTu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACC086943F1553FD24666F1A1B7443E7",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859936000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "204KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oAX-smk26KQM3DcQIe416qItsaVgQ0KF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oAX-smk26KQM3DcQIe416qItsaVgQ0KF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC008EDA8F5273373F57956AA05D5FB1",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859937000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PMKgZWH_-ZzvOvcPHEMZ3_TuxDIjX9i1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PMKgZWH_-ZzvOvcPHEMZ3_TuxDIjX9i1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC1DA82DE6963A8E4446318532C9398B",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859938000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M1nDNsVSWo6TYDUsy5lRw-SF4y0XTXYb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M1nDNsVSWo6TYDUsy5lRw-SF4y0XTXYb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "ACA8E96C87C9362A246A6F800BB15F73",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859939000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "315KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W7pdCAV1-PJAjtV2upiqwcsNgEu6BxYE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W7pdCAV1-PJAjtV2upiqwcsNgEu6BxYE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC6AE9DA861D00A309E6AF8ECD6B079D",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859940000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-vRQMJDOVuUCp8_gu4HDVmUqN58pYztp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-vRQMJDOVuUCp8_gu4HDVmUqN58pYztp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "AC80DA35B2322772AD34689DAFBD9F4A",
+   "sender": "Adi",
+   "text": "",
+   "ts": 1790859940000,
+   "date": "2026-10-01",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14CyEn0vNyEE7aN-kr8MLBvOSTsiDVbG3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14CyEn0vNyEE7aN-kr8MLBvOSTsiDVbG3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507732446"
+  },
+  {
+   "id": "3A3F3DEEE1E1BBA28A5B",
+   "sender": "yakov atias ",
+   "text": "*היום הערב הגדול הגיע*\n*הסגולות והמנהגים של הושענא רבה*\n🌙 להישאר ער בלילה וללמוד תורה\nליל הושענא רבה נחשב זמן מיוחד מאוד להתעוררות ולתיקון. יש מנהג להישאר ערים ולעסוק בתורה כל הלילה\nפתק ישועות-פתק שבו מתחילים להודות קודם לכן ואז לבקש ולהתפלל על דברים\nעלינו לשבח הפוך וישר\nשבע הקפות -  תפילת שחרית של הושנע רבה(השנה זה יוצא בשישי בוקר ) \nמקיפים את בימית הבית כנסת \n7 פעמים עם ארבעת המינים \nלקרוא את כל ספר דברים בכוונה. \nלומר את כל ספר תהילים\nנשמת כל חי\nצדקה וקבלה לעתיד \nלעשות תשובה,עדיין אפשר לבקש סליחה אם פגענו במישהו!\nחיבוט ערבה להמתקת הדינים -בסיום ההושענות נוטלים חמש ערבות וחובטים אותן בקרקע חמש פעמים.🩷",
+   "ts": 1790861024000,
+   "date": "2026-10-01",
+   "time": "16:23",
+   "files": [],
+   "drive": null,
+   "phone": "972529551000"
   }
  ]
 }

@@ -1,0 +1,47 @@
+{
+ "month": "2026-10",
+ "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
+ "updated": "2026-10-01T11:43:21.380Z",
+ "messages": [
+  {
+   "id": "3AC8543D3F3920204988",
+   "sender": "Asaf",
+   "text": "תמונת גובלן ילד 120₪",
+   "ts": 1790852275000,
+   "date": "2026-10-01",
+   "time": "13:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rPfLkJuTuAPxN1vUBBceF9bWeWQaRaz1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rPfLkJuTuAPxN1vUBBceF9bWeWQaRaz1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "ACF806F3903D9227EF667248F115CC7A",
+   "sender": "המשפחה שלי !",
+   "text": "איסוף מחולון וראשון לציון",
+   "ts": 1790854971000,
+   "date": "2026-10-01",
+   "time": "14:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qJIZqGcrQbBUi9m4hKZRwH_sDiItsISX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qJIZqGcrQbBUi9m4hKZRwH_sDiItsISX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  }
+ ]
+}

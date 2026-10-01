@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-01T09:29:59.806Z",
+ "updated": "2026-10-01T13:36:36.683Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -119,6 +119,165 @@
    "files": [],
    "drive": null,
    "phone": "972527603559"
+  },
+  {
+   "id": "ACE11F365DBC1BF8E77E8F537DD9645D",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1790847665000,
+   "date": "2026-10-01",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11rOjE20sjCpaBIHpLwd2OTErxj9YXfqV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11rOjE20sjCpaBIHpLwd2OTErxj9YXfqV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC63735605955CF0209761B12A02F217",
+   "sender": "ישי",
+   "text": "https://www.matara.pro/nedarimplus/online/?mosad=7002511",
+   "ts": 1790847721000,
+   "date": "2026-10-01",
+   "time": "12:42",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACC10D13AB5C03A29C95ECC9933F8160",
+   "sender": "ישי",
+   "text": "https://www.matara.pro/nedarimplus/online/?mosad=7002511",
+   "ts": 1790847819000,
+   "date": "2026-10-01",
+   "time": "12:43",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACCA3F6E72F988AD9C6055016FA1710C",
+   "sender": "ישי",
+   "text": "לבחור בקטגוריית עמלים",
+   "ts": 1790847851000,
+   "date": "2026-10-01",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACDC0097658702AA2F6B46BD7F1DF39F",
+   "sender": "יעקב קרלינסקי",
+   "text": "היום דרשת הרה\"ג ר' יעקב ראקוב שליט\"א בשעה 20:30 ולאח\"מ קריאת משנה תורה!!",
+   "ts": 1790849572000,
+   "date": "2026-10-01",
+   "time": "13:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EH0g2D6rucyCxwicQB5l640vpjH4GtUq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EH0g2D6rucyCxwicQB5l640vpjH4GtUq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC81788CCA12A9E0857F2EC4948AC4FF",
+   "sender": "אליהו ראקוב ⁰⁵²⁵⁵²⁹²⁰⁰",
+   "text": "חברים.\nאבא שלי מגיע מירושלים הלוך וחזור במיוחד \nאשמח אם זה אפשרי שכמה שיותר יבואו לשמוע אותו .\n\nהוא מדבר טוב! מבטיח!",
+   "ts": 1790850142000,
+   "date": "2026-10-01",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "phone": "972525529200"
+  },
+  {
+   "id": "ACA5DFE4EF202B9121E2CA7C32C2E7CD",
+   "sender": "דוד יוליס",
+   "text": "מחפש טרמפ לבחור לשמחת תורה לירושלים",
+   "ts": 1790856081000,
+   "date": "2026-10-01",
+   "time": "15:01",
+   "files": [],
+   "drive": null,
+   "phone": "972506568711"
+  },
+  {
+   "id": "AC22129D38A39525D260C7286A96E8CA",
+   "sender": "אלקנה",
+   "text": "גם אני מחפש לבן שלי",
+   "ts": 1790857315000,
+   "date": "2026-10-01",
+   "time": "15:21",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "AC8AD20DAF010670A774D425BF986AA8",
+   "sender": "ישראל ישורון",
+   "text": "על הבוקר ממש",
+   "ts": 1790857659000,
+   "date": "2026-10-01",
+   "time": "15:27",
+   "files": [],
+   "drive": null,
+   "phone": "972559908983"
+  },
+  {
+   "id": "ACC291CBE6E26791372AF621FF61C536",
+   "sender": "ישראל ישורון",
+   "text": "יעזור",
+   "ts": 1790857661000,
+   "date": "2026-10-01",
+   "time": "15:27",
+   "files": [],
+   "drive": null,
+   "phone": "972559908983"
+  },
+  {
+   "id": "AC066DE9CB66374CE6EF7A5AE9C9933C",
+   "sender": "ישראל ישורון",
+   "text": "?",
+   "ts": 1790857688000,
+   "date": "2026-10-01",
+   "time": "15:28",
+   "files": [],
+   "drive": null,
+   "phone": "972559908983"
+  },
+  {
+   "id": "AC734B92CF1619C36F5B3963B371745C",
+   "sender": "אלקנה",
+   "text": "*סוכה במקום*\n\n🔥 *השטיבל - טשולנט יוקרתי הכי משובח בניחוח של פעם* 🔥\n*בקרית אתא*\n*חוויה יהודית אותנטית ברמה גבוהה, טעימה ומחממת לב*\nאם אתם רוצים לצאת מהשגרה, לטעום אוכל יהודי משובח במסעדת בוטיק *עם חלות הבית שלא טעמתם בחיים*\nומה בתפריט:\n✅ *טשולנט הבית עם בשר משובח*\n✅ *טשולנט פרווה*\n✅ *קישקע מיוחד במינו*\n✅ *יאפצ'וק בשר נדיר נדיר*\n✅ *קוגל אטריות ירושלמי מבית אבא*\n✅ *קוגל תפוחי אדמה אוברנייט*\n✅ *פרוסות קוגל תפו\"א*\n✅ *הערינג פיקנטי עם ירקות*\n✅ *טורטיה קריספי בשרי*\n✅ *בלינצ'ס כבד/תפו\"א*\n✅ *כבד קצוץ*\n✅ *ארבעס*\n*מומלץ! טעמת - התמכרת!*\n*פתוח עד 1.00 בלילה*\n*כל הפרטים במודעה 👆*\n*להזמנות:*\n*0529407610*\n\n*פרטים נוספים באתר*\nhttps://cholenet.co.il/cholenet/hashtibel-cholent-kiryat-ata/",
+   "ts": 1790861792000,
+   "date": "2026-10-01",
+   "time": "16:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Kb263MQrZ6D4-n81dGh8Vj8GZFk_ctdS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kb263MQrZ6D4-n81dGh8Vj8GZFk_ctdS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
   }
  ]
 }

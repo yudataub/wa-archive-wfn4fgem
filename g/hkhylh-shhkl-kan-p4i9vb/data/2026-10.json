@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הקהילה שהכל כאן !!!",
- "updated": "2026-10-01T08:11:44.157Z",
+ "updated": "2026-10-01T10:31:37.422Z",
  "messages": [
   {
    "id": "A5D1E80E5976E62B479BF18C87D33D1B",
@@ -17,11 +17,32 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1e_-1uFhQSabmC9saQ3veoDkpYRaLVEAL/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1e_-1uFhQSabmC9saQ3veoDkpYRaLVEAL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1e_-1uFhQSabmC9saQ3veoDkpYRaLVEAL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hkhylh-shhkl-kan-p4i9vb/v/2026-10/A5D1E80E5976E62B479BF18C87D33D1B_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972587875261"
+  },
+  {
+   "id": "AC5C5A13F59F1B836F83B60D4920F7E4",
+   "sender": "הכל ממנו והכל לטובה🙂🙌🙌",
+   "text": "מועדים לשמחה. \nעם קבוצות הפרסום החזקות ברשת.\nכנסו ופרסמו חינם 🙏⚘️...!!!",
+   "ts": 1790850665000,
+   "date": "2026-10-01",
+   "time": "13:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H5rEioPykRxCCpjRs96qZmzDPN6_xMqS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H5rEioPykRxCCpjRs96qZmzDPN6_xMqS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528331875"
   }
  ]
 }

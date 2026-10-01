@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-01T09:23:59.734Z",
+ "updated": "2026-10-01T13:36:06.653Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -146,6 +146,205 @@
    ],
    "drive": null,
    "phone": "972529955992"
+  },
+  {
+   "id": "AC60A3DCBC2018F9258179166F364175",
+   "sender": "מאיר שקלאר",
+   "text": "היום בהכנסת ספר תורה זה כבר לא קיים המשטרה אוסרת\nלכן יש סיכוי שכבר לא מייצרים או מייבאים את זה",
+   "ts": 1790847777000,
+   "date": "2026-10-01",
+   "time": "12:42",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "2AFF53C6A98F5C59405D",
+   "sender": "גבו",
+   "text": "",
+   "ts": 1790848223000,
+   "date": "2026-10-01",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12dWXVI0xB1Cg6Gysh6TUrbyWCyoSNI0P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12dWXVI0xB1Cg6Gysh6TUrbyWCyoSNI0P&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525736001"
+  },
+  {
+   "id": "2AC3018BD7FDE33633C4",
+   "sender": "Diana",
+   "text": "",
+   "ts": 1790848356000,
+   "date": "2026-10-01",
+   "time": "12:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "205KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QLnc-Me6Xi3CKgD_KiAPweYGPaJPzvJv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QLnc-Me6Xi3CKgD_KiAPweYGPaJPzvJv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528508065"
+  },
+  {
+   "id": "4AB4996FAD3A53A39B86",
+   "sender": "maayan",
+   "text": "",
+   "ts": 1790848498000,
+   "date": "2026-10-01",
+   "time": "12:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MUIuVXxAhGJYldKwmPHOAk88betoYX0B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MUIuVXxAhGJYldKwmPHOAk88betoYX0B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555661431"
+  },
+  {
+   "id": "AC11447E4768D886FA44DEC6A8C30094",
+   "sender": "המשפחה שלי שהם כל עולמי❤️🫶",
+   "text": "היייי אני חיבת נעליים לחג לבן שלי בן 4 ולידר סגור איפה יכולה למצוא????",
+   "ts": 1790848590000,
+   "date": "2026-10-01",
+   "time": "12:56",
+   "files": [],
+   "drive": null,
+   "phone": "972505707835"
+  },
+  {
+   "id": "ACD238E7F0C14A4537E237CC6FF719D5",
+   "sender": "הדס מוזס",
+   "text": "תבדקי בסקופ\n to go",
+   "ts": 1790848686000,
+   "date": "2026-10-01",
+   "time": "12:58",
+   "files": [],
+   "drive": null,
+   "phone": "972548475122"
+  },
+  {
+   "id": "ACFBB0A56F5D412A2E1CD07717601D30",
+   "sender": "המשפחה שלי שהם כל עולמי❤️🫶",
+   "text": "אין בסה",
+   "ts": 1790848760000,
+   "date": "2026-10-01",
+   "time": "12:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505707835"
+  },
+  {
+   "id": "ACC2D28FF1E14BE657E2F80AC84A35FB",
+   "sender": "מוטי",
+   "text": "מי שנוסע מרכסים לאחיסמך ויכול להעביר חבילה קטנה עבור הרב יעקובי לפני החג\nנשמח שיצור קשר\n0527124419\nתודה",
+   "ts": 1790850651000,
+   "date": "2026-10-01",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972587151984"
+  },
+  {
+   "id": "AC5A204241200AEF3A2C7121CCD634F3",
+   "sender": "❤️",
+   "text": "מישהו מגיע למקס סטוק במקרה?",
+   "ts": 1790851312000,
+   "date": "2026-10-01",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972506135969"
+  },
+  {
+   "id": "AC82A3D64D47F38095C3E2621EE13807",
+   "sender": "טליה מיינר",
+   "text": "משהיא ברכסים יש שמנים של שלוס\nצריכה דחוף ילקוט הרועים 🙏🏼",
+   "ts": 1790854576000,
+   "date": "2026-10-01",
+   "time": "14:36",
+   "files": [],
+   "drive": null,
+   "phone": "972505315633"
+  },
+  {
+   "id": "AC8C1E4A33DA4649F46784C6BCFA8BC2",
+   "sender": "יוסי מוזס",
+   "text": "ב.ד.ה\nר' רפי כָּלֵב ז\"ל\nאבא של עידית זוהר",
+   "ts": 1790855431000,
+   "date": "2026-10-01",
+   "time": "14:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC53826DA8035B818CCB972D660FCA9F",
+   "sender": "יוסי מוזס",
+   "text": "פרטים על מועד הלוויה בהמשך",
+   "ts": 1790855432000,
+   "date": "2026-10-01",
+   "time": "14:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC06DAFC92F7E60502C59C5C78D79FDA",
+   "sender": "זאבי דויטש",
+   "text": "",
+   "ts": 1790857469000,
+   "date": "2026-10-01",
+   "time": "15:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SBU70PchO1I3CLy21naBf4SztmgC7bp4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SBU70PchO1I3CLy21naBf4SztmgC7bp4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555530767"
+  },
+  {
+   "id": "AC524217D6F0BB0F21D51EB3BFE81040",
+   "sender": "אלקנה",
+   "text": "*סוכה במקום*\n\n🔥 *השטיבל - טשולנט יוקרתי הכי משובח בניחוח של פעם* 🔥\n*בקרית אתא*\n*חוויה יהודית אותנטית ברמה גבוהה, טעימה ומחממת לב*\nאם אתם רוצים לצאת מהשגרה, לטעום אוכל יהודי משובח במסעדת בוטיק *עם חלות הבית שלא טעמתם בחיים*\nומה בתפריט:\n✅ *טשולנט הבית עם בשר משובח*\n✅ *טשולנט פרווה*\n✅ *קישקע מיוחד במינו*\n✅ *יאפצ'וק בשר נדיר נדיר*\n✅ *קוגל אטריות ירושלמי מבית אבא*\n✅ *קוגל תפוחי אדמה אוברנייט*\n✅ *פרוסות קוגל תפו\"א*\n✅ *הערינג פיקנטי עם ירקות*\n✅ *טורטיה קריספי בשרי*\n✅ *בלינצ'ס כבד/תפו\"א*\n✅ *כבד קצוץ*\n✅ *ארבעס*\n*מומלץ! טעמת - התמכרת!*\n*פתוח עד 1.00 בלילה*\n*כל הפרטים במודעה 👆*\n*להזמנות:*\n*0529407610*\n\n*פרטים נוספים באתר*\nhttps://cholenet.co.il/cholenet/hashtibel-cholent-kiryat-ata/",
+   "ts": 1790861746000,
+   "date": "2026-10-01",
+   "time": "16:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1baIMq2NB4x_e8Qsoaf16OJ8mIPPDFkgI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1baIMq2NB4x_e8Qsoaf16OJ8mIPPDFkgI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
   }
  ]
 }

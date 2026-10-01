@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-01T08:25:51.614Z",
+ "updated": "2026-10-01T13:29:06.536Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -153,6 +153,79 @@
    ],
    "drive": null,
    "phone": "972537234021"
+  },
+  {
+   "id": "ACB3C183B1802A7022EE273530AB86A4",
+   "sender": "רתם  🙏🏼",
+   "text": "מחפשת שידת צד למיטה עבור חייל",
+   "ts": 1790847650000,
+   "date": "2026-10-01",
+   "time": "12:40",
+   "files": [],
+   "drive": null,
+   "phone": "972549778816"
+  },
+  {
+   "id": "2AA30181049F1865B7A0",
+   "sender": "דורית מלאכית",
+   "text": "תמסרו ליד שרה",
+   "ts": 1790847941000,
+   "date": "2026-10-01",
+   "time": "12:45",
+   "files": [],
+   "drive": null,
+   "phone": "972545716630"
+  },
+  {
+   "id": "AC20488A130A1E283200DEF5B68A2DC3",
+   "sender": "Shalom Daoudi",
+   "text": "יש לי מוזמנים",
+   "ts": 1790848172000,
+   "date": "2026-10-01",
+   "time": "12:49",
+   "files": [],
+   "drive": null,
+   "phone": "972525256249"
+  },
+  {
+   "id": "AC8B851CD09D7BCEA464BC19DFF25D66",
+   "sender": "שושי",
+   "text": "",
+   "ts": 1790857400000,
+   "date": "2026-10-01",
+   "time": "15:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kPtMpQRktOmb3z4CJO3rzyUW0HraMHEh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kPtMpQRktOmb3z4CJO3rzyUW0HraMHEh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526821835"
+  },
+  {
+   "id": "AC9CB7CC324BC9F2DBD299BEF6936EFD",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1790861340000,
+   "date": "2026-10-01",
+   "time": "16:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k5ES_rL-NigbpinRuq28hrVPsdq1I_Ln/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k5ES_rL-NigbpinRuq28hrVPsdq1I_Ln&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

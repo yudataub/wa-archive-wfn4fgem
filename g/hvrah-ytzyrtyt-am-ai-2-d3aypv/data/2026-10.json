@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-01T09:28:52.153Z",
+ "updated": "2026-10-01T12:52:25.190Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -39,7 +39,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/183y4ZdlDCbhThdE9FINyEtFl0nVbf6eF/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=183y4ZdlDCbhThdE9FINyEtFl0nVbf6eF&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=183y4ZdlDCbhThdE9FINyEtFl0nVbf6eF&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hvrah-ytzyrtyt-am-ai-2-d3aypv/v/2026-10/3EB0E9FE86520CD561CAC2_0.mp4"
     }
    ],
    "drive": null,
@@ -66,6 +67,37 @@
    "files": [],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "A5F15DCD50C852A4C2F05F9B0D69CE00",
+   "sender": "תמר חמאדה",
+   "text": "מה קורה כשנותנים לרעיונות בקהילה במה?\n\nאנחנו פותחים את מפגשי הקהילה החודשיים של רעיונות פוגשים בינה — בכל מפגש נלמד מהעשייה של חברי וחברות הקהילה.\n\nוהפעם נארח את מעיין שפושניק למפגש:\nמתכנון פדגוגי למרחב פיזיטלי: בונים חוויית למידה חוקרת ב־Genially\n\nנכיר איך להפוך תוכן לימודי למרחב אינטראקטיבי שמעורר סקרנות ומעודד למידה עצמאית.\n\nיום רביעי | 14.10.26 | 20:00–21:15\n\nמוזמנים ומוזמנות להצטרף, לקבל רעיונות ולחשוב יחד על אפשרויות חדשות ללמידה.\n\nלהרשמה:\nhttps://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nמחכה לפגוש אתכם,\nתמר חמאדה",
+   "ts": 1790859043000,
+   "date": "2026-10-01",
+   "time": "15:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E6-zFe0M50nKaknsR2HAjgeGUOswBhOz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E6-zFe0M50nKaknsR2HAjgeGUOswBhOz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "ACB0366CBB661ED0A78087ADD1C51751",
+   "sender": "sandra Cohen",
+   "text": "הקישור לא מוביל אותי לפורמס",
+   "ts": 1790859125000,
+   "date": "2026-10-01",
+   "time": "15:52",
+   "files": [],
+   "drive": null,
+   "phone": "972526499259"
   }
  ]
 }
