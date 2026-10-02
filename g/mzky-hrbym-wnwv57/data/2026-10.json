@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-01T19:37:58.523Z",
+ "updated": "2026-10-02T05:29:20.114Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -479,7 +479,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1fJ5ODbOAEIzQckYURI8hD5Wf00TDUdCk/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1fJ5ODbOAEIzQckYURI8hD5Wf00TDUdCk&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1fJ5ODbOAEIzQckYURI8hD5Wf00TDUdCk&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mzky-hrbym-wnwv57/v/2026-10/AC62F06489CAC8C86DE64416A9A29472_0.mp4"
     }
    ],
    "drive": null,
@@ -495,6 +496,16 @@
    "files": [],
    "drive": null,
    "phone": "972542104147"
+  },
+  {
+   "id": "A5D92932BE097F9E8D779E6D348E20DB",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://yudataub.github.io/aaa/%D7%A1%D7%A4%D7%A8%D7%99%20%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%98%D7%90%D7%95%D7%91/%D7%A9%D7%99%D7%A2%D7%95%D7%A8%D7%99%20%D7%99%D7%95%D7%98%D7%99%D7%95%D7%91/index.html\n\nאפליקציה שהופך את כל שיעור לכתוב וגם מחלקת לפי נוסעים",
+   "ts": 1790918933000,
+   "date": "2026-10-02",
+   "time": "08:28",
+   "files": [],
+   "drive": null
   }
  ]
 }

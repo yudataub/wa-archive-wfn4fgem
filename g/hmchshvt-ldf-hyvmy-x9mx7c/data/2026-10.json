@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-01T03:41:42.405Z",
+ "updated": "2026-10-02T05:09:10.347Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -38,6 +38,46 @@
      "path": "https://drive.google.com/file/d/1U1-LvTz3vMr7Xzxla7LI4Axoza7YPoBL/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1U1-LvTz3vMr7Xzxla7LI4Axoza7YPoBL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A3574F3CBDA5718498E",
+   "sender": ".",
+   "text": "״והקדישן להמכר״ (רש״י בכורות יד, א).",
+   "ts": 1790917724000,
+   "date": "2026-10-02",
+   "time": "08:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kDjdWL6Pra_I2AjtqMv0CK7AQJwuQ7MJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kDjdWL6Pra_I2AjtqMv0CK7AQJwuQ7MJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AA39BC19FD80D4FA84D",
+   "sender": ".",
+   "text": "״שכל אחד ואחד בונה במה לעצמו״ (רש״י בכורות יד, ב).",
+   "ts": 1790917726000,
+   "date": "2026-10-02",
+   "time": "08:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Dmf6ABbO3Uwf8CV6m53PRliHVgplbXB1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Dmf6ABbO3Uwf8CV6m53PRliHVgplbXB1&sz=w1200"
     }
    ],
    "drive": null,

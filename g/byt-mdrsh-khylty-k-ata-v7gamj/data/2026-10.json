@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-01T22:38:00.219Z",
+ "updated": "2026-10-02T05:29:50.134Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -279,6 +279,46 @@
    "files": [],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "AC18485D7905F7D742403AD349780F93",
+   "sender": "מרדכי",
+   "text": "*📣 חג שמחת תורה!*\nוזה הזמן להוסיף כמה דקות ביום\nכדי ששנה הבאה תחוג את שמחת התורה ברמה גבוהה יותר\n*קישורים לקבוצות: 👇*\nwa.me/585000759?text=שיעורים",
+   "ts": 1790909793000,
+   "date": "2026-10-02",
+   "time": "05:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "387KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hExjTYBVnrDZkw9maCTg2EnuikSIKKSK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hExjTYBVnrDZkw9maCTg2EnuikSIKKSK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC2E92E0AF372A54F977B74DDB4E444E",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790918961000,
+   "date": "2026-10-02",
+   "time": "08:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16O-vPiuTN655JWTLe6WND8hGmtBWbSUN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16O-vPiuTN655JWTLe6WND8hGmtBWbSUN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

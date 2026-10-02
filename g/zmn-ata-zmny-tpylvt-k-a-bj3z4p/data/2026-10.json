@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-01T18:35:20.948Z",
+ "updated": "2026-10-02T05:29:50.124Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -155,6 +155,46 @@
    "files": [],
    "drive": null,
    "phone": "972525554380"
+  },
+  {
+   "id": "AC6AA2ACC01469523EA2F45F671F50BB",
+   "sender": "מרדכי",
+   "text": "*📣 חג שמחת תורה!*\nוזה הזמן להוסיף כמה דקות ביום\nכדי ששנה הבאה תחוג את שמחת התורה ברמה גבוהה יותר\n*קישורים לקבוצות: 👇*\nwa.me/585000759?text=שיעורים",
+   "ts": 1790909790000,
+   "date": "2026-10-02",
+   "time": "05:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "387KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_IlP-djzL2Jx3jF3mY2pp1Q86LigirQY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_IlP-djzL2Jx3jF3mY2pp1Q86LigirQY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACCF1F14A19CB0EF1205251BB23C43C7",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1790918962000,
+   "date": "2026-10-02",
+   "time": "08:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JuBP9_MsPYEmT6lOKn_9zUMnZLpVgUZK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JuBP9_MsPYEmT6lOKn_9zUMnZLpVgUZK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }
