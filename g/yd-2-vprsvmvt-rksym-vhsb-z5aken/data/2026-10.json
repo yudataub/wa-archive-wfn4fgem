@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-01T20:35:29.404Z",
+ "updated": "2026-10-01T22:08:29.778Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -542,6 +542,26 @@
    "files": [],
    "drive": null,
    "phone": "972548492812"
+  },
+  {
+   "id": "AC5FA8B2B4C3D7A3865C2DFCCBC2009E",
+   "sender": "מאיר גמליאל",
+   "text": "",
+   "ts": 1790892481000,
+   "date": "2026-10-02",
+   "time": "01:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1b144WKxjzyDzotjiVtOxSoc05aqAElay/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b144WKxjzyDzotjiVtOxSoc05aqAElay&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528380666"
   }
  ]
 }

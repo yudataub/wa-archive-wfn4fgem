@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-01T18:10:14.020Z",
+ "updated": "2026-10-01T23:17:30.827Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -169,6 +169,46 @@
    "files": [],
    "drive": null,
    "phone": "972523772770"
+  },
+  {
+   "id": "ACF7C5C4912C9FFA55B30EA39DBF7A4B",
+   "sender": "חגי אלגואז",
+   "text": "קוד היציאה ממצב חירום במטוס (קוד תעופה) זה 7700,הרבי מנהל את העולם",
+   "ts": 1790896006000,
+   "date": "2026-10-02",
+   "time": "02:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t4NyuGFvRF-P0rVxMa2OxQPSLfYTjvYZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t4NyuGFvRF-P0rVxMa2OxQPSLfYTjvYZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527996222"
+  },
+  {
+   "id": "AC337DD737F74B3DAFFFBD9199E79CE8",
+   "sender": "ronentayar",
+   "text": "",
+   "ts": 1790896623000,
+   "date": "2026-10-02",
+   "time": "02:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "330KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1h4QebdVSgEv4uUC9R2z1du22Wat0DK1v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1h4QebdVSgEv4uUC9R2z1du22Wat0DK1v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
   }
  ]
 }
