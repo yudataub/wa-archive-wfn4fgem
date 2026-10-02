@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-01T04:14:47.028Z",
+ "updated": "2026-10-02T08:06:22.586Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -51,6 +51,108 @@
    "date": "2026-10-01",
    "time": "07:14",
    "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0AB19C90B83DF9B9947",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790927972000,
+   "date": "2026-10-02",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "הודעות חשובות.docx",
+     "size": "17KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1ocvQXfJ3Q91g2pGkjeKnpwMJ6EXuc9xT/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC378DD36C51B06B5B74E1E262166312",
+   "sender": "אורלי אוחנה",
+   "text": "https://www.canva.com/link?target=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAGQLm9qSEw%2F7Iiz57xDJKgo8sZu83wVsw%2Fview%3Futm_content%3DDAGQLm9qSEw%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Duniquelinks%26utlId%3Dh90d015177e&design=DAHUCJz3OOo&utl=h5ebfe34267&accessRole=viewer&linkSource=document",
+   "ts": 1790927995000,
+   "date": "2026-10-02",
+   "time": "10:59",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACF4C961C08A4636E5335A2EE9194889",
+   "sender": "אורלי אוחנה",
+   "text": "https://www.canva.com/link?target=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAGynjHcktw%2F7nqurMrDrCS3SQCNojkcVg%2Fview%3Futm_content%3DDAGynjHcktw%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Duniquelinks%26utlId%3Dh381b31fb33&design=DAHUCJz3OOo&utl=h5ebfe34267&accessRole=viewer&linkSource=document",
+   "ts": 1790927996000,
+   "date": "2026-10-02",
+   "time": "10:59",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACD2151F81444C098B821B587AC37110",
+   "sender": "אורלי אוחנה",
+   "text": "צוות יקר❤️\nמצ\"ב קובץ הודעות חשובות לקראת החזרה לשגרת לימודים.\nפתקא טבא, שבת מבורכת וחג שמח, אורלי.",
+   "ts": 1790928127000,
+   "date": "2026-10-02",
+   "time": "11:02",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACDD86580D8D42733C0646BF55354564",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790928139000,
+   "date": "2026-10-02",
+   "time": "11:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "44KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qKmUhV_MOdkhVfXGihOS_stqtR0swUPY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qKmUhV_MOdkhVfXGihOS_stqtR0swUPY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC7D46DF71D873532BFE7E4C7FDA5847",
+   "sender": "אורלי אוחנה",
+   "text": "לא לשכוח לשלוח להורים❤️",
+   "ts": 1790928304000,
+   "date": "2026-10-02",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC060B715EB18BA093E6B544A973F010",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1790928373000,
+   "date": "2026-10-02",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "שיח בכיתות עם החזרה מחופשת סוכות, תשפז.pdf",
+     "size": "158KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mJaErLemw7Y8FX5NLur_eyXQsYDLLHp-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972507864721"
   }

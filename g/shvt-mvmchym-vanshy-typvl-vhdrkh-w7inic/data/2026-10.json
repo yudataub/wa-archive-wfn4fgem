@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-10-01T09:07:52.215Z",
+ "updated": "2026-10-02T09:17:18.096Z",
  "messages": [
   {
    "id": "3EB0A702EEAB0BA951E587",
@@ -17,7 +17,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1dyCtsVez9gm4RYYrUsenjwx9YS9RK_Fx/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1dyCtsVez9gm4RYYrUsenjwx9YS9RK_Fx&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1dyCtsVez9gm4RYYrUsenjwx9YS9RK_Fx&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/v/2026-10/3EB0A702EEAB0BA951E587_0.mp4"
     }
    ],
    "drive": null,
@@ -154,6 +155,39 @@
    "files": [],
    "drive": null,
    "phone": "972543972154"
+  },
+  {
+   "id": "AC4E8EFDD8F55D63B232943530E327F3",
+   "sender": "לאה ברבר",
+   "text": "מישהו מכיר מטפל/ ת  לבחור חסידי שירד.... והתחזק מאוד ולכן וגר כעת בויליאמסבורג... שרוצה לקבל טיפול פסיכולוגי ארוך טווח ממישהו משם??",
+   "ts": 1790932250000,
+   "date": "2026-10-02",
+   "time": "12:10",
+   "files": [],
+   "drive": null,
+   "phone": "972504111325"
+  },
+  {
+   "id": "A5DE3E118355F1F83F6D7B1A4B5D4550",
+   "sender": "תהילה לויאן",
+   "text": "מחפשת אשת מקצוע טובה עם השקפה שמרנית לטיפול באישה מסורתית בעניין הזהות המינית שלה.\nתודה\nחג שמח!",
+   "ts": 1790932518000,
+   "date": "2026-10-02",
+   "time": "12:15",
+   "files": [],
+   "drive": null,
+   "phone": "972533330646"
+  },
+  {
+   "id": "A5B729F43CD7070A0BCBF7D858325695",
+   "sender": "תהילה לויאן",
+   "text": "בירושלים",
+   "ts": 1790932616000,
+   "date": "2026-10-02",
+   "time": "12:16",
+   "files": [],
+   "drive": null,
+   "phone": "972533330646"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וותיקין של שבת ",
- "updated": "2026-10-01T16:46:05.730Z",
+ "updated": "2026-10-02T06:30:51.023Z",
  "messages": [
   {
    "id": "ACCF643EFC1BFF4C20B7CB7FD5E27F23",
@@ -13,6 +13,57 @@
    "files": [],
    "drive": null,
    "phone": "972534712840"
+  },
+  {
+   "id": "ACE3DDE88F97F2AFE6A7AD7615EF4239",
+   "sender": "oriyaagolnik",
+   "text": "זמני תפילות שב\"ק שמחת תורה:\nמנחה ערב שבת וחג - 18:03.\nערבית ליל שבת וחג - 18:53.\n\nהנץ החמה:\nתחילת התפילה - 5:48.\nהא-ל בתעצומות - 6:17.\nהנץ החמה - 6:35.\nיזכור (משוער) - 7:45.\n\nמנחה שב\"ק וחג - 17:33.\n\nערבית מוצאי שבת וחג - 18:58.\n\nחג שמח ושבת שלום ומבורך!!!",
+   "ts": 1790922217000,
+   "date": "2026-10-02",
+   "time": "09:23",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC37C18382CB2BB1DAF43E00E9968E80",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1790922585000,
+   "date": "2026-10-02",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "76KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/100KZ75Oe6XLKdF1voQaifR90NDhqPDCB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=100KZ75Oe6XLKdF1voQaifR90NDhqPDCB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
+  },
+  {
+   "id": "AC6D3D171F0D58C5B4D5097275BD462E",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1790922625000,
+   "date": "2026-10-02",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "44KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1V2qbIKagKgyVF44tozTw5uYpa4xy1s0O/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V2qbIKagKgyVF44tozTw5uYpa4xy1s0O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
   }
  ]
 }

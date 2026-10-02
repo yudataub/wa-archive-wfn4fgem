@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-02T02:57:26.421Z",
+ "updated": "2026-10-02T09:33:18.358Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -63,7 +63,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1oca8JZ6zd94kkdP3fXUlGLVTHo9bbKav/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1oca8JZ6zd94kkdP3fXUlGLVTHo9bbKav&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1oca8JZ6zd94kkdP3fXUlGLVTHo9bbKav&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-private-y22u7r/v/2026-10/A543DC94189429AEB1384055CBE1A8FF_0.mp4"
     }
    ],
    "drive": null,
@@ -273,6 +274,48 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC36689816B7D940AA48E1769FA0B7BE",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1790933546000,
+   "date": "2026-10-02",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "583KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p77_NEz41_k7YRXng9lnrkDL-QxXeFiK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p77_NEz41_k7YRXng9lnrkDL-QxXeFiK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "AC055FF7C82B1EBDA0FBF7027326B9F1",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1790933577000,
+   "date": "2026-10-02",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "70KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-Dw2oXxBGVE6iNk-WZek2wcm1KZj9174/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-Dw2oXxBGVE6iNk-WZek2wcm1KZj9174&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
   }
  ]
 }

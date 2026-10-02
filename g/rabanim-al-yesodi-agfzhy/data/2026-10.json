@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-01T12:49:29.284Z",
+ "updated": "2026-10-02T08:34:22.987Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -33,6 +33,75 @@
    ],
    "drive": null,
    "phone": "972509018403"
+  },
+  {
+   "id": "ACC2FC758590F684EB93EA62CA857010",
+   "sender": "אליהו ממן",
+   "text": "*🎶 שירים*\r\nhttps://tinyurl.com/44hfn2ty\n*🎶 שיעורים*\r\nhttps://tinyurl.com/5xxxyjhu",
+   "ts": 1790926480000,
+   "date": "2026-10-02",
+   "time": "10:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "305KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/187HXd43G6Vth0D3srCPmUmfB7pN9BW6x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=187HXd43G6Vth0D3srCPmUmfB7pN9BW6x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "A584033BF69B844AA77A7410FFBB47E2",
+   "sender": "יאיר שמחי",
+   "text": "",
+   "ts": 1790928410000,
+   "date": "2026-10-02",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "שירון שמחת תורה!!.pdf",
+     "size": "528KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FSe_9S3B6pNmGvY5zjJrLLF-Y5A_93Xc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524609030"
+  },
+  {
+   "id": "AC63CD279DEB8D63794324A0414AA29C",
+   "sender": "מירי דנציגר",
+   "text": "תודה רבה",
+   "ts": 1790928831000,
+   "date": "2026-10-02",
+   "time": "11:13",
+   "files": [],
+   "drive": null,
+   "phone": "972525802399"
+  },
+  {
+   "id": "3EB0F1B6F5C61F61334BDB",
+   "sender": "מדרשת חיות דקדושא",
+   "text": "*הנה זה בא!* 🥁🥁🥁\n\n*רשימת השירים המקיפה והשלמה לשמחת תורה תשפ\"ז שתרים לכם את ההקפות!* 🎼🚀\n\nכמיטב המסורת, אנו שולחים לכם את הרשימה: \n✅ שתעזור לכם לשלוף שירים שהקהילה שלכם מכירה, בזמן אמת\n✅ להלהיב את הציבור\n✅ לחבר את הנוער עם שירים\n✅ לתת כבוד לתורה ולבטא את האהבה והשמחה שלנו בה!\n\nשנה טובה ופתקא טבא \n🔥 ממדרשת חיות דקדושא 🔥\nhttps://livemitzvot.org/",
+   "ts": 1790930041000,
+   "date": "2026-10-02",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "רשימת השירים המקיפה ביותר לשמחת תורה תשפז.pdf",
+     "size": "566KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TPFgTamqXVutun5486g2Wew2o_EBYrMw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523858317"
   }
  ]
 }

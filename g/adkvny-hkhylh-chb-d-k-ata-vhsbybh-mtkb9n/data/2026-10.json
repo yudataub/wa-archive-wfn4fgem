@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עדכוני הקהילה – חב\"ד ק. אתא והסביבה",
- "updated": "2026-10-01T19:13:40.189Z",
+ "updated": "2026-10-02T08:31:22.941Z",
  "messages": [
   {
    "id": "AC8F7D0BF842DE74720C61F52CB5703F",
@@ -40,6 +40,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1uZOm7-H5vfIl6V45rvo0qm2_MvCDl7RE&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "AC16B0E6B17B2A02FC622533281322FF",
+   "sender": "Yosi Mor",
+   "text": "בשו\"ט. הסתיים בהצלחה תודה לא-ל. יישר כח לכל מי שהתפלל וברך וחיזק! 🙏",
+   "ts": 1790929858000,
+   "date": "2026-10-02",
+   "time": "11:30",
+   "files": [],
    "drive": null,
    "phone": "972545707911"
   }

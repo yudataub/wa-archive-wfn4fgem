@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-01T15:44:28.008Z",
+ "updated": "2026-10-02T07:09:42.167Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/1WgBmDY7_r8FbyKCf3Ru1FfrARt05KKDO/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1WgBmDY7_r8FbyKCf3Ru1FfrARt05KKDO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB072FB7E20A779CBC6EA",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: שמחת תורה\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1790924960000,
+   "date": "2026-10-02",
+   "time": "10:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xvIvkYX1Gna_JFRO-Lb9UrYgo4wbnlE6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xvIvkYX1Gna_JFRO-Lb9UrYgo4wbnlE6&sz=w1200"
     }
    ],
    "drive": null,

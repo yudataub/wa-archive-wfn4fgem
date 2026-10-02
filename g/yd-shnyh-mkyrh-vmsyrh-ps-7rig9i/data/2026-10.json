@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-01T19:01:09.986Z",
+ "updated": "2026-10-02T09:20:18.166Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -153,6 +153,26 @@
    "files": [],
    "drive": null,
    "phone": "972508110855"
+  },
+  {
+   "id": "3A88D4E2B87D5A44ADF9",
+   "sender": "Asaf",
+   "text": "קערה עם גובלן 100₪",
+   "ts": 1790932797000,
+   "date": "2026-10-02",
+   "time": "12:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H4Fl8m6fgIgsRQWKSQ6VLeg4OBeugfaa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H4Fl8m6fgIgsRQWKSQ6VLeg4OBeugfaa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

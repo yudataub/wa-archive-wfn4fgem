@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כפר המשנה",
- "updated": "2026-10-01T09:52:00.131Z",
+ "updated": "2026-10-02T06:55:51.395Z",
  "messages": [
   {
    "id": "AC93386502AAFCDB260AAA657A9E26CC",
@@ -33,6 +33,26 @@
    "files": [],
    "drive": null,
    "phone": "972542818718"
+  },
+  {
+   "id": "AC08F4BE929E758072FB8C5AD2E77B97",
+   "sender": "יסכה מושקוביץ 🤩",
+   "text": "*בר המצווה של נדב* 🎊\n📅 *יום 6 – \"מהומה בבית הכנסת\"* \n📖 מסכת סוכה | פרק ג' | משנה י\"ג-י\"ד\n🎧 מחכים לכם בפרק החדש של *כפר המשנה*\n\n🔗 https://youtu.be/_bRkLj4Eit8\n\n📝 קישור לשאלון\nhttps://forms.gle/puS3ZGh27sDhnwgL8\n\n*חדש בכפר המשנה!*\nאתר לימוד וחוויה - המסע שלכם במסכת סוכה!\nסרטונים, משחקי למידה וצבירת נקודות!\nhttps://kfar-hamishna.com\n[האתר בפיתוח, נשמח לשמוע אם יש תקלות].",
+   "ts": 1790924125000,
+   "date": "2026-10-02",
+   "time": "09:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "40KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SyuonXn7psFMzp3Z3EVG9mzI2I2SRJPv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SyuonXn7psFMzp3Z3EVG9mzI2I2SRJPv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504005023"
   }
  ]
 }
