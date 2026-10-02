@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-02T13:03:51.596Z",
+ "updated": "2026-10-02T14:06:15.442Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -639,6 +639,59 @@
      "thumb": "https://drive.google.com/thumbnail?id=1lg91L3ubOGytQGRQr7fx4rPmJqHCNoKN&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "A50C9151ED2E48A64550559888FABBFE",
+   "sender": "NATI POWER",
+   "text": "",
+   "ts": 1790949236000,
+   "date": "2026-10-02",
+   "time": "16:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BEr7IHRcdy7QHapOmOtvbFYLtsSodC2V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BEr7IHRcdy7QHapOmOtvbFYLtsSodC2V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "AC687CBF9FA235FE5D3E0302FA351FB7",
+   "sender": "יצחק ומירי הסקין",
+   "text": "יש גמ''ח תרופות?",
+   "ts": 1790949252000,
+   "date": "2026-10-02",
+   "time": "16:54",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "AC6DCA6D5DF6D094F25498B0F4A40490",
+   "sender": "יעקב קרלינסקי",
+   "text": "יש ברכסים",
+   "ts": 1790949560000,
+   "date": "2026-10-02",
+   "time": "16:59",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACAFADB7A274F0E644BBE3B81DEC9AE7",
+   "sender": "יעקב קרלינסקי",
+   "text": "סופרפארם בביג פתוח",
+   "ts": 1790949960000,
+   "date": "2026-10-02",
+   "time": "17:06",
+   "files": [],
    "drive": null,
    "phone": "972552748485"
   }

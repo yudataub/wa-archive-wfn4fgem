@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-02T13:25:21.911Z",
+ "updated": "2026-10-02T14:37:15.907Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -779,6 +779,26 @@
    "files": [],
    "drive": null,
    "phone": "972552535777"
+  },
+  {
+   "id": "A56EA2B2C85D68AA07FFDCCFED1ADBDD",
+   "sender": "עזריאל",
+   "text": "",
+   "ts": 1790951821000,
+   "date": "2026-10-02",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1juV4PRaJv-1NmzXbB_Z-d0rfEtqf1a5Y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1juV4PRaJv-1NmzXbB_Z-d0rfEtqf1a5Y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }

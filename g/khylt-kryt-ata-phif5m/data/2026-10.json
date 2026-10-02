@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-02T13:12:21.725Z",
+ "updated": "2026-10-02T14:43:45.994Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -605,7 +605,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Dl7vdY-eZOL6t_ub5OkZg_Lm6tsqsjya/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Dl7vdY-eZOL6t_ub5OkZg_Lm6tsqsjya&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Dl7vdY-eZOL6t_ub5OkZg_Lm6tsqsjya&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/AC5A893A59D702B3B0E6466424EF2E93_0.mp4"
     }
    ],
    "drive": null,
@@ -690,6 +691,26 @@
    ],
    "drive": null,
    "phone": "972533443043"
+  },
+  {
+   "id": "A5BFDA92D3C4776468C4729F9F1E9E78",
+   "sender": "נווה היופי של שירן",
+   "text": "היי חג שמח ושבת שלום.\nבעלי עם התקף גאוט וניתקע בלי כדורים יש אולי למישהו אולי כמה כדורים לתת עד ראשון שרופא ינפיק מרשם",
+   "ts": 1790952219000,
+   "date": "2026-10-02",
+   "time": "17:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Jx9RKHwe36iVAEoep58h7-Hn2JnDkOM2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Jx9RKHwe36iVAEoep58h7-Hn2JnDkOM2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532407888"
   }
  ]
 }

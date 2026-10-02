@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-10-02T10:46:49.477Z",
+ "updated": "2026-10-02T13:57:22.428Z",
  "messages": [
   {
    "id": "ACAA37DC60E64C63863EDF33581F1386",
@@ -68,6 +68,46 @@
    "files": [],
    "drive": null,
    "phone": "972507917700"
+  },
+  {
+   "id": "A52422E98444F97BDB23FF101E2D442A",
+   "sender": "עדי אלוני",
+   "text": "תסתכלו לידכם",
+   "ts": 1790949410000,
+   "date": "2026-10-02",
+   "time": "16:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "166KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/137dLbO8-C8K9-DqDudctpA7Fvj_zTCR2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=137dLbO8-C8K9-DqDudctpA7Fvj_zTCR2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528895928"
+  },
+  {
+   "id": "A501F4B8C008FAA53A91B0AC96BC0FA6",
+   "sender": "עדי אלוני",
+   "text": "",
+   "ts": 1790949411000,
+   "date": "2026-10-02",
+   "time": "16:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11cYITO_D0ZMxX5z3mQUGObdDmzWm_mth/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11cYITO_D0ZMxX5z3mQUGObdDmzWm_mth&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528895928"
   }
  ]
 }

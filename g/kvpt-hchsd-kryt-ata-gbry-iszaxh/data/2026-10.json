@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-02T09:50:18.613Z",
+ "updated": "2026-10-02T14:37:15.888Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -270,6 +270,57 @@
    ],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "ACB03FC5D33886A6E0153E5708E270A2",
+   "sender": "oded Siboni",
+   "text": "מועדים לשמחה...🌹🌹\nיש מישהו שיוצא לרכסים עם מקום 1 פנוי?",
+   "ts": 1790948617000,
+   "date": "2026-10-02",
+   "time": "16:43",
+   "files": [],
+   "drive": null,
+   "phone": "972507974945"
+  },
+  {
+   "id": "A5F25A47A37F84CF31598A804F462D5E",
+   "sender": "עזריאל",
+   "text": "🔥 *מעל 40 מוקדים של הקפות שניות בצפון  הכול בסטטוס אחד!*\n\nרוצים לדעת איפה ההקפות השניות השוות במוצאי שמחת תורה? הצטרפו ל *סטטוס החרדי בצפון* וקבלו את העדכונים 👇\nhttps://wa.me/972509122190?text=אשמח%20להצטרף%20לסטטוס%20החרדי%20בצפון",
+   "ts": 1790949946000,
+   "date": "2026-10-02",
+   "time": "17:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18Dou_W7UsZbiQC42ld-B0ogd7LbuHCOD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18Dou_W7UsZbiQC42ld-B0ogd7LbuHCOD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
+  },
+  {
+   "id": "A53F2CCD62C1EA1BB619B8D8C4454E4C",
+   "sender": "עזריאל",
+   "text": "",
+   "ts": 1790951817000,
+   "date": "2026-10-02",
+   "time": "17:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16GwQ52-XhCXvOv_CRSZzEIJJppKFS7-y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16GwQ52-XhCXvOv_CRSZzEIJJppKFS7-y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }

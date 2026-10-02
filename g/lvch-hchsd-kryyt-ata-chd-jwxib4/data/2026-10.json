@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-02T11:40:50.292Z",
+ "updated": "2026-10-02T14:51:22.049Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -957,6 +957,57 @@
    ],
    "drive": null,
    "phone": "972547264000"
+  },
+  {
+   "id": "AC5115AE9D1EBBCF669F3A2E382DD3F7",
+   "sender": "oded Siboni",
+   "text": "יש מישהו שיוצא לרכסים לפני שבת ויש לו מקום לבחור ??",
+   "ts": 1790948459000,
+   "date": "2026-10-02",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972507974945"
+  },
+  {
+   "id": "AC27566D88962901E7228692AA78ED2C",
+   "sender": "א עמר",
+   "text": "🔥 *מעל 40 מוקדים של הקפות שניות בצפון  הכול בסטטוס אחד!*\n\nרוצים לדעת איפה ההקפות השניות השוות במוצאי שמחת תורה? הצטרפו ל *סטטוס החרדי בצפון* וקבלו את העדכונים 👇\nhttps://wa.me/972509122190?text=אשמח%20להצטרף%20לסטטוס%20החרדי%20בצפון",
+   "ts": 1790949476000,
+   "date": "2026-10-02",
+   "time": "16:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BD8wDu5BXj3_agYPQgPuw836vT9k346x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BD8wDu5BXj3_agYPQgPuw836vT9k346x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
+  },
+  {
+   "id": "AC731980AE6D87D9D006DD10650EFC2E",
+   "sender": "א עמר",
+   "text": "",
+   "ts": 1790952660000,
+   "date": "2026-10-02",
+   "time": "17:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19JzsmSDgob7pG8vmJt8NBdGto3OIHBGl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19JzsmSDgob7pG8vmJt8NBdGto3OIHBGl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
   }
  ]
 }

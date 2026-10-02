@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-02T11:46:20.398Z",
+ "updated": "2026-10-02T14:11:45.509Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -463,7 +463,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1PSaWFkjlmqf22tnnO-ntWvgl732ivt31/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1PSaWFkjlmqf22tnnO-ntWvgl732ivt31&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1PSaWFkjlmqf22tnnO-ntWvgl732ivt31&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-10/ACFA66F194A14E53F8D6ABB815480996_0.mp4"
     }
    ],
    "drive": null,
@@ -490,6 +491,66 @@
    "files": [],
    "drive": null,
    "phone": "972549534747"
+  },
+  {
+   "id": "AC4AFF88BB180189248CC35973D2983C",
+   "sender": "Moshe",
+   "text": "שוויון = שמחה! חג שמח",
+   "ts": 1790950115000,
+   "date": "2026-10-02",
+   "time": "17:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Ti61T_NR8oKh4YZEiDvvIy4iQ2kghfIY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ti61T_NR8oKh4YZEiDvvIy4iQ2kghfIY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "AC355D847C967BCD4D3BC48DBCE03733",
+   "sender": "Moshe",
+   "text": "",
+   "ts": 1790950279000,
+   "date": "2026-10-02",
+   "time": "17:11",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "91KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1SA18RZlS22-rZNospld4bi3eIk1Pf8TD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SA18RZlS22-rZNospld4bi3eIk1Pf8TD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "AC6CE5E75E869D3D551923C2CC248A70",
+   "sender": "Moshe",
+   "text": "",
+   "ts": 1790950280000,
+   "date": "2026-10-02",
+   "time": "17:11",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "51KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/13BWaeztAiJFHuTU3FPhBrgVq--NqMEB8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13BWaeztAiJFHuTU3FPhBrgVq--NqMEB8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
   }
  ]
 }

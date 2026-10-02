@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-02T13:04:51.600Z",
+ "updated": "2026-10-02T14:05:15.423Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -143,6 +143,26 @@
    "files": [],
    "drive": null,
    "phone": "972556834055"
+  },
+  {
+   "id": "AC3757E407882666A3AD7DD0FDC18ADA",
+   "sender": "ריקי טל 😊",
+   "text": "",
+   "ts": 1790949907000,
+   "date": "2026-10-02",
+   "time": "17:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "449KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bkzZejT8TrCBbE_WG7ni2GEz2I606T-j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bkzZejT8TrCBbE_WG7ni2GEz2I606T-j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548111153"
   }
  ]
 }

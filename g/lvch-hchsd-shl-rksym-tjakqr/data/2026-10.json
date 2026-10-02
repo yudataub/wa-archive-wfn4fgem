@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-02T12:47:21.366Z",
+ "updated": "2026-10-02T14:37:15.898Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -976,6 +976,26 @@
    "files": [],
    "drive": null,
    "phone": "972505704142"
+  },
+  {
+   "id": "A531DBB9560B36208931F829F2A08190",
+   "sender": "עזריאל",
+   "text": "",
+   "ts": 1790951820000,
+   "date": "2026-10-02",
+   "time": "17:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19fB7zXg-kdmdOiJZwe0MRP-yJIwgo6xz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19fB7zXg-kdmdOiJZwe0MRP-yJIwgo6xz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }
