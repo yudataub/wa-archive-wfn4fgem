@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-02T08:43:23.091Z",
+ "updated": "2026-10-02T12:43:21.281Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -350,6 +350,26 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "AC0C56607B65B234ED7C148606512EC4",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "שוויון = שמחה! חג שמח",
+   "ts": 1790944984000,
+   "date": "2026-10-02",
+   "time": "15:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1qC7fsOdIByP_IP51ukguAEL04PU-MqGL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qC7fsOdIByP_IP51ukguAEL04PU-MqGL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
   }
  ]
 }

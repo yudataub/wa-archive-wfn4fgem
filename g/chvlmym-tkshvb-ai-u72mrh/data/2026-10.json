@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-02T09:34:44.467Z",
+ "updated": "2026-10-02T12:43:30.720Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -389,7 +389,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/16pJC_gqRWsmN1TkBfuze1p19KGP0E2hj/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=16pJC_gqRWsmN1TkBfuze1p19KGP0E2hj&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=16pJC_gqRWsmN1TkBfuze1p19KGP0E2hj&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chvlmym-tkshvb-ai-u72mrh/v/2026-10/A5605EBE456D5F692FEADABAE029CF72_0.mp4"
     }
    ],
    "drive": null,
@@ -482,6 +483,83 @@
    "files": [],
    "drive": null,
    "phone": "972506544492"
+  },
+  {
+   "id": "AC24612C28BC90AEAAC1D5F69B4C7EBD",
+   "sender": "לימור כלפה שמואל",
+   "text": "שמעתי עליו\nמנסה כבר כמה ימים להתחבר\nהוא לא מאפשר",
+   "ts": 1790935823000,
+   "date": "2026-10-02",
+   "time": "13:10",
+   "files": [],
+   "drive": null,
+   "phone": "972542242174"
+  },
+  {
+   "id": "AC6E70A5948C2A19EB19E45804A9F2A3",
+   "sender": "חפציה",
+   "text": "הקישור מתחלף מדי פעם",
+   "ts": 1790936879000,
+   "date": "2026-10-02",
+   "time": "13:27",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC0399F974FD8F1E952464F674E63BCA",
+   "sender": "Shani Malka",
+   "text": "יש תוכנה ליצירת מיינקראפט?",
+   "ts": 1790937017000,
+   "date": "2026-10-02",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972526604140"
+  },
+  {
+   "id": "3A0E832B6E7C3114A59D",
+   "sender": "בת חן",
+   "text": "קצת קריפי, לא?",
+   "ts": 1790937083000,
+   "date": "2026-10-02",
+   "time": "13:31",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "ACA82F54BE09424BC692D3447403B197",
+   "sender": "חפציה",
+   "text": "שהוא מחליף כי ביקשתי? לא",
+   "ts": 1790937106000,
+   "date": "2026-10-02",
+   "time": "13:31",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3AD5B686B277AEAE5C18",
+   "sender": "בת חן",
+   "text": "אה חשבתי שזה קורה לבד",
+   "ts": 1790937258000,
+   "date": "2026-10-02",
+   "time": "13:34",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3BEB2492698B86246AE4",
+   "sender": "Evyatar Shpilman",
+   "text": "למה? למה לנסות לרדוף אחרי ״הדבר הבא״, מה זה עוזר? זה רק מלחיץ וכל שבוע יהיה ״דבר חדש״.\n\nאם יש לך כלים שמשמשים אותך ועושים את העבודה, קחי את הזמן, אל תלחצי, יש לך כבר מה שאת צריכה.\n\nעם הזמן תלמדי אולי עוד כלי שישדרג או ייעל את הכלים שאת כבר עושה בהם שימוש.",
+   "ts": 1790944991000,
+   "date": "2026-10-02",
+   "time": "15:43",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
   }
  ]
 }

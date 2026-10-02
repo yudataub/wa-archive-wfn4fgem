@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-02T09:34:18.379Z",
+ "updated": "2026-10-02T13:03:51.596Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -495,6 +495,152 @@
    "files": [],
    "drive": null,
    "phone": "972533384050"
+  },
+  {
+   "id": "3EB024C6677A7D2E0B9D2C",
+   "sender": "ישי",
+   "text": "מישהו במקרה יוצא לרכסים בחצי שעה הקרובה?",
+   "ts": 1790934048000,
+   "date": "2026-10-02",
+   "time": "12:40",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB023D2C41FCB68AB6A98",
+   "sender": "ישי",
+   "text": "לא לשכוח לעדכן אותי בהקדם לאחר תשלום העליות וכו' כדי שארשום זאת.",
+   "ts": 1790934157000,
+   "date": "2026-10-02",
+   "time": "12:42",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "A5D7F9E6540135F96363B5018DF7ACE7",
+   "sender": "נחמיה ג'יגה סולאר",
+   "text": "אני יוצא עוד כמה דקות לקחת את הבן שלי לאוטובוס",
+   "ts": 1790934830000,
+   "date": "2026-10-02",
+   "time": "12:53",
+   "files": [],
+   "drive": null,
+   "phone": "972527133456"
+  },
+  {
+   "id": "ACA79A7F317BC18CC8FE8AB8D76FE405",
+   "sender": "Reflex to relax",
+   "text": "יש מישהו שיוצא עכשיו לבני ברק אולי להעביר שקית קטנה?",
+   "ts": 1790938653000,
+   "date": "2026-10-02",
+   "time": "13:57",
+   "files": [],
+   "drive": null,
+   "phone": "972549176801"
+  },
+  {
+   "id": "A5BE4A7BE171D9670A364F3916440269",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "מישהו מב\"ב לאזור בימים הקרובים?",
+   "ts": 1790943342000,
+   "date": "2026-10-02",
+   "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "ACC30A70ECF812B2881477C7344033BC",
+   "sender": "נפתלי רוטנברג",
+   "text": "חלות טריות חמות וטעימות\n\nבאישי",
+   "ts": 1790944658000,
+   "date": "2026-10-02",
+   "time": "15:37",
+   "files": [],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "ACCA62939FD9D8C2A432CFF680E724B0",
+   "sender": "בני קרמר",
+   "text": "זמני התפילות שמחת תורה\nבית הכנסת דרך אמונה",
+   "ts": 1790945190000,
+   "date": "2026-10-02",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-kOnyZA3AOgoEmaoIzvE0o-4VtjL_Pax/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-kOnyZA3AOgoEmaoIzvE0o-4VtjL_Pax&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC4419E869A08A010023D15EAB847D05",
+   "sender": "בני קרמר",
+   "text": "הקפות שניות בהיכל בית הכנסת",
+   "ts": 1790945204000,
+   "date": "2026-10-02",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MFUzrHpDHgpK3xwmeXiexSPjimR4tfoV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MFUzrHpDHgpK3xwmeXiexSPjimR4tfoV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "ACD75570EB62665AD500FE8DC9228DEE",
+   "sender": "נפתלי רוטנברג",
+   "text": "",
+   "ts": 1790945498000,
+   "date": "2026-10-02",
+   "time": "15:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S9MqnxkR5UO0r29mVl8DV3J8FAMW8OXO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S9MqnxkR5UO0r29mVl8DV3J8FAMW8OXO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "AC49C7D7194081CE14C7985010C3A41D",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1790946206000,
+   "date": "2026-10-02",
+   "time": "16:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lg91L3ubOGytQGRQr7fx4rPmJqHCNoKN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lg91L3ubOGytQGRQr7fx4rPmJqHCNoKN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }

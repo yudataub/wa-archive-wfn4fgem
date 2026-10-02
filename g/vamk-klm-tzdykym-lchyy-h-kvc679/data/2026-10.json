@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-02T09:23:18.254Z",
+ "updated": "2026-10-02T13:04:51.600Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -73,6 +73,76 @@
    ],
    "drive": null,
    "phone": "972548111153"
+  },
+  {
+   "id": "3AA09728DC4F78D2621B",
+   "sender": "יפעת שירה",
+   "text": "",
+   "ts": 1790935375000,
+   "date": "2026-10-02",
+   "time": "13:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "32KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NxoOJzffTh7eL5z_IqgeehCSRzLarJvC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NxoOJzffTh7eL5z_IqgeehCSRzLarJvC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587106108"
+  },
+  {
+   "id": "ACD0A87838E0C03E00FB41C779F02FA9",
+   "sender": "עמיחי בן שחר",
+   "text": "ב7/10/23 לתוך שעות הלילה מגיעה אל הקיבוץ פלוגה ב (של ארז) גדוד 630 בהובלת המג\"ד נתי אלקובי ז\"ל\nב9/10 עדיין היו עיכובים באספקות לוגיסטיות של אוכל ללוחמים,מפה לשם אנחנו מוצאים אוכל שיש בבית כנסת שהיה לכבוד החג,וחלק מזה מוצאים שקיות הפתעה של הילדים ואוכלים מה שיש..\n*שלוש שנים אחרי*,חג שמחת תורה, פלוגה ב בסבב השישי שלהם כשהפעם הם חוזרים להגן על כרם שלום.. והם נזכרו בשקיות..אז לחג הזה הם קנו ארגז שקיות הפתעה לילדים להגיד תודה על השקיות  שהתפנקו עליהם אז...\n\n*אלו הם גיבוריך ישראל!! 🇮🇱❤️🇮🇱*",
+   "ts": 1790944705000,
+   "date": "2026-10-02",
+   "time": "15:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "375KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LQC8kIBM6vubAZVGp8aBAMGS3IrMCiBJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LQC8kIBM6vubAZVGp8aBAMGS3IrMCiBJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504949159"
+  },
+  {
+   "id": "AC98B005114AF59F0FCAE414D721BC29",
+   "sender": "יפה בוכבזה",
+   "text": "",
+   "ts": 1790946280000,
+   "date": "2026-10-02",
+   "time": "16:04",
+   "files": [
+    {
+     "name": "וזאת הברכה פז 416_261002_120942.pdf",
+     "size": "69KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TWIuP-aGnLsHC_w-K3neK9ILqgLr9W34/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556834055"
+  },
+  {
+   "id": "ACF0711CBCA6890B5293190AB37D88B5",
+   "sender": "יפה בוכבזה",
+   "text": "*דף לחג שמחת תורה*👆🏻 \nכולל א - ת מענייני דיומא \nלע\"נ אמי מורתי \n*אמילי מילי בת ניטה ע\"ה* \n*ואמו\"ר - שלום בן כמונה ע\"ה*   \n*סבי טמזרתי בר סגיירה ע\"ה שנלב\"ע ביום שמחת תורה*\nלהצלחת ושמירת חיילנו ואחדות עמנו ולרפואת כל הפצועים והחולים מעם ישראל🙏🏻\n*לגאולה שלמה ברחמים* 🙌🏻\n*שבת שלום וחג שמח🎊*",
+   "ts": 1790946281000,
+   "date": "2026-10-02",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972556834055"
   }
  ]
 }

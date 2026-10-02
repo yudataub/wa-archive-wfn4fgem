@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-02T09:20:18.166Z",
+ "updated": "2026-10-02T11:34:50.180Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -173,6 +173,66 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "ACDA4E69DDB24ECCBE6678E889B26EE3",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1790934970000,
+   "date": "2026-10-02",
+   "time": "12:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fSo9kl0da1KEAQ0rzmeo0nsXIb_5EsE1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fSo9kl0da1KEAQ0rzmeo0nsXIb_5EsE1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
+  },
+  {
+   "id": "AC6E1425FCEC17059669FBE19D7BB732",
+   "sender": "don't worry, be happy",
+   "text": "למכירה כאלה המוקפים בעיגול.\nצעצוע אינטראקטיבי ומנורת לילה בשם Fizzy Pets מבית Silverlit\nבקבוק קסום עם אפקטים של קול, תאורה ומצבי ריקוד.\nשניהם ב100 שח\n(אחד חדש עולה 80)\nאיסוף: נהריה ולפעמים מעלות",
+   "ts": 1790935645000,
+   "date": "2026-10-02",
+   "time": "13:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JcAzVJUiL8L7WJ-naHr1kCSlbFeJXuqS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JcAzVJUiL8L7WJ-naHr1kCSlbFeJXuqS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
+  },
+  {
+   "id": "ACCC731E874C3F8C67246DFB64F42D3C",
+   "sender": "Noam",
+   "text": "*למכירה טלויזיה 32 אינץ' של פנסוניק (לא חכמה) + שלט מקורי. במצב מצוין . 175 ש\"ח*.",
+   "ts": 1790940881000,
+   "date": "2026-10-02",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UkWJY5Wi_lZjJ_QWsb_uy7RlvRanRHs-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UkWJY5Wi_lZjJ_QWsb_uy7RlvRanRHs-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-02T08:27:52.898Z",
+ "updated": "2026-10-02T09:41:48.471Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -280,7 +280,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1XtVTRVespLlaEINZ16V_GwQCdnBMAwwI/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1XtVTRVespLlaEINZ16V_GwQCdnBMAwwI&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1XtVTRVespLlaEINZ16V_GwQCdnBMAwwI&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylata-h5w7bk/v/2026-10/AC71D7B79404BFC9CBCA366D734EC4B8_0.mp4"
     }
    ],
    "drive": null,
@@ -316,6 +317,17 @@
    ],
    "drive": null,
    "phone": "972534281627"
+  },
+  {
+   "id": "AC823B6D8AD86E1A40828D3015A19657",
+   "sender": "חני",
+   "text": "השבת אבידה - נמצא באזור רח' בעל שם טוב רחפן,  יימסר על פי סימנים.",
+   "ts": 1790934106000,
+   "date": "2026-10-02",
+   "time": "12:41",
+   "files": [],
+   "drive": null,
+   "phone": "972528750931"
   }
  ]
 }

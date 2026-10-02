@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-02T08:47:53.185Z",
+ "updated": "2026-10-02T09:50:18.613Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -250,6 +250,26 @@
    ],
    "drive": null,
    "phone": "972534281627"
+  },
+  {
+   "id": "A5F53B6E33099CC0194A54DD65AA93AA",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*הקפות שניות שמחת תורה הכי שמחות בעיר*\n\n הציבור היקר מוזמן להקפות שניות בהשתתפות הרב ישי פרי שליט\"א.\n\n*על המוזיקה דיג'יי טל רפאל*\n\nמוצ\"ש כ\"ב תשרי תשפ\"ז\n( 3.10.26 למניינם)\nבשעה 20:30 בישיבת החיים לדוד רחוב ההגה 7 חיפה",
+   "ts": 1790934606000,
+   "date": "2026-10-02",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13AHrQe4Mdj5PLcsHRfn5zq_iBmDbrCJQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13AHrQe4Mdj5PLcsHRfn5zq_iBmDbrCJQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
   }
  ]
 }

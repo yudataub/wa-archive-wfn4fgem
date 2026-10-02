@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-02T08:20:52.812Z",
+ "updated": "2026-10-02T11:46:20.398Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -397,6 +397,99 @@
    "files": [],
    "drive": null,
    "phone": "972527996222"
+  },
+  {
+   "id": "AC206399C0CAE1B84437F33CD5CE14BD",
+   "sender": "ronentayar",
+   "text": "ישתבח שמו, הודו להשם כי טוב כי לעולם חסדו",
+   "ts": 1790935453000,
+   "date": "2026-10-02",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "ACCB27AA6C535D062161A0ABED46795B",
+   "sender": "שי קובי",
+   "text": "",
+   "ts": 1790935571000,
+   "date": "2026-10-02",
+   "time": "13:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1b3mVd16WmdVteB3UhW8k-S5ROnov8E9U/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b3mVd16WmdVteB3UhW8k-S5ROnov8E9U&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549534747"
+  },
+  {
+   "id": "AC1DFCB5D6F099B62C2139E0CC11A6CC",
+   "sender": "ronentayar",
+   "text": "",
+   "ts": 1790938004000,
+   "date": "2026-10-02",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "379KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bvvyv20b4iXOXEk3oggDF2b6iKWF3S1J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bvvyv20b4iXOXEk3oggDF2b6iKWF3S1J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "ACFA66F194A14E53F8D6ABB815480996",
+   "sender": "תמיד בשמחה",
+   "text": "סיפור לשבת ולחג 🌸 לפתוח פתח\n\nלהצטרפות ✨",
+   "ts": 1790938316000,
+   "date": "2026-10-02",
+   "time": "13:51",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "16.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1PSaWFkjlmqf22tnnO-ntWvgl732ivt31/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PSaWFkjlmqf22tnnO-ntWvgl732ivt31&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555661480"
+  },
+  {
+   "id": "AC27929775A441A19097B0D07C915A6B",
+   "sender": "ronentayar",
+   "text": "https://www.facebook.com/share/v/1A3UAzopFW/",
+   "ts": 1790940275000,
+   "date": "2026-10-02",
+   "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "ACDAEBFD1A25B4C2DE48FF892E6990CB",
+   "sender": "שי קובי",
+   "text": "",
+   "ts": 1790941552000,
+   "date": "2026-10-02",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972549534747"
   }
  ]
 }
