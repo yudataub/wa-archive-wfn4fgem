@@ -1,0 +1,58 @@
+{
+ "month": "2026-10",
+ "group": "משנה כתה ה מפמ\"ר",
+ "updated": "2026-10-03T17:17:13.083Z",
+ "messages": [
+  {
+   "id": "3A6A7B51DD7731313316",
+   "sender": "פריאל מרגלית",
+   "text": "שבוע טוב!\nבעבר שלחו כאן חוברת עבודה מקסימה.. לצערי נמחק לי הקובץ.\nאשמח מאוד אם מישהו יכול לשלוח שוב 🙏🏻",
+   "ts": 1791045892000,
+   "date": "2026-10-03",
+   "time": "19:44",
+   "files": [],
+   "drive": null,
+   "phone": "972509545406"
+  },
+  {
+   "id": "3EB06CBE731A30EC002660",
+   "sender": "חן לביא",
+   "text": "הפשטתי את הדף של ההקדמה לתושבע\"פ ששלחו כאן",
+   "ts": 1791047805000,
+   "date": "2026-10-03",
+   "time": "20:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m_P0QDY6BQKpaK1Ej2kMPi_q2ffi_csX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m_P0QDY6BQKpaK1Ej2kMPi_q2ffi_csX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0D62D87E68DE6039144",
+   "sender": "חן לביא",
+   "text": "",
+   "ts": 1791047806000,
+   "date": "2026-10-03",
+   "time": "20:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "346KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QZ_6Z57EHY_LW-2GrgoKLkMw011pTHrc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QZ_6Z57EHY_LW-2GrgoKLkMw011pTHrc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-03T10:24:06.860Z",
+ "updated": "2026-10-03T16:09:42.127Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -144,6 +144,48 @@
    ],
    "drive": null,
    "phone": "972528931791"
+  },
+  {
+   "id": "ACDD6AFE76B0D36026BD31617D0F9C21",
+   "sender": "מירה בוחבוט",
+   "text": "היי מה שלומך אשמח שתפרסמי אותי שוב המון תודה רבה,",
+   "ts": 1791037246000,
+   "date": "2026-10-03",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lva_2_A8ihh5iUWHbXEz2B0mwHRi989i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lva_2_A8ihh5iUWHbXEz2B0mwHRi989i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
+  },
+  {
+   "id": "AC548292C61858DC86F4D26C66A31EF0",
+   "sender": "עדי חסיד",
+   "text": "מכנסי פוטר  שחור מידה 2 למסירה",
+   "ts": 1791043738000,
+   "date": "2026-10-03",
+   "time": "19:08",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACF1719D8ADA1A90C04E4301C439DECA",
+   "sender": "עדי חסיד",
+   "text": "בגדי קיץ בנים מידה 18-24 חודשים",
+   "ts": 1791043769000,
+   "date": "2026-10-03",
+   "time": "19:09",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
   }
  ]
 }

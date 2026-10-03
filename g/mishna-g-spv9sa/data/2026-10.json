@@ -1,0 +1,47 @@
+{
+ "month": "2026-10",
+ "group": "משנה מפמ\"ר ג",
+ "updated": "2026-10-03T17:17:43.095Z",
+ "messages": [
+  {
+   "id": "3EB0D6D8A7D613172DF49D",
+   "sender": "חן לביא",
+   "text": "הפשטתי את הדף של ההקדמה לתושבע\"פ ששלחו כאן",
+   "ts": 1791047841000,
+   "date": "2026-10-03",
+   "time": "20:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SRgY2Wo9xeHuL48jMnh821l0VnrmJ3HQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SRgY2Wo9xeHuL48jMnh821l0VnrmJ3HQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0F23F553EC9A9FF9E05",
+   "sender": "חן לביא",
+   "text": "",
+   "ts": 1791047842000,
+   "date": "2026-10-03",
+   "time": "20:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "346KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pU8PKcS7ngrWk3N7F_R1wRhyIuF_dzQv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pU8PKcS7ngrWk3N7F_R1wRhyIuF_dzQv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  }
+ ]
+}

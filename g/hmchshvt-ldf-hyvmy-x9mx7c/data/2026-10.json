@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-02T05:09:10.347Z",
+ "updated": "2026-10-03T16:19:04.857Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -78,6 +78,46 @@
      "path": "https://drive.google.com/file/d/1Dmf6ABbO3Uwf8CV6m53PRliHVgplbXB1/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Dmf6ABbO3Uwf8CV6m53PRliHVgplbXB1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACD946A849D5280B84E",
+   "sender": ".",
+   "text": "״כונסן לכיפה״ (בכורות טו, ב).",
+   "ts": 1791044329000,
+   "date": "2026-10-03",
+   "time": "19:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FxhAl-DvfaR6tWWBOwcSo7V4l43xummL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FxhAl-DvfaR6tWWBOwcSo7V4l43xummL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF20E1618600AF49FCF",
+   "sender": ".",
+   "text": "״שמא יגדל מהן עדרים עדרים״ (בכורות טו, ב).",
+   "ts": 1791044331000,
+   "date": "2026-10-03",
+   "time": "19:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/155EpMhAqmZFj1MtDBi8IllRPGsCJKKgc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=155EpMhAqmZFj1MtDBi8IllRPGsCJKKgc&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-02T10:47:19.480Z",
+ "updated": "2026-10-03T16:55:12.775Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -328,6 +328,27 @@
    "drive": null,
    "thread": "בלייך צבי",
    "phone": "972524723034"
+  },
+  {
+   "id": "AC7C988D79B1122704C47F7DEC7238ED",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1791046501000,
+   "date": "2026-10-03",
+   "time": "19:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "37KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OqyTkdTBxkveqijoxVfH-_bLSvzogRdK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OqyTkdTBxkveqijoxVfH-_bLSvzogRdK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
   }
  ]
 }

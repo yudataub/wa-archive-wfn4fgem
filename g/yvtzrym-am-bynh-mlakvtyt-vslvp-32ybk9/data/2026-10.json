@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-03T13:30:02.381Z",
+ "updated": "2026-10-03T16:39:35.159Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -3386,6 +3386,79 @@
    "files": [],
    "drive": null,
    "phone": "972505646915"
+  },
+  {
+   "id": "2A539E4735DB0F903DD7",
+   "sender": "972 Education Inc. Orly",
+   "text": "https://youtu.be/MTta9qFgysI?is=3IokEinvSj9ns2Ah",
+   "ts": 1791038742000,
+   "date": "2026-10-03",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3EB002D390D1CFB9A0CC95",
+   "sender": "טַלִּי",
+   "text": "אינסטניקט אלוף ביצירת קליפים. שולחת 2 דוגמאות לדברים שהכין לי.",
+   "ts": 1791045106000,
+   "date": "2026-10-03",
+   "time": "19:31",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "AC93A19190202E44539F879605B83C29",
+   "sender": "טַלִּי",
+   "text": "",
+   "ts": 1791045125000,
+   "date": "2026-10-03",
+   "time": "19:32",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1YCKsS582ulk8j69AbsoqCtJhWpJ6Kzr8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YCKsS582ulk8j69AbsoqCtJhWpJ6Kzr8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "3EB0A29587832E965D93A4",
+   "sender": "טַלִּי",
+   "text": "ואת זה הכנתי לתלמידים שלי במדעי המחשב. אני מראה להם את זה בתחילת השנה, כשכל המושגים עוד נשמעים להם כמו סינית, ואז שוב בסוף השנה - כשהם כבר מכירים ומבינים את כולם.",
+   "ts": 1791045345000,
+   "date": "2026-10-03",
+   "time": "19:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1UTMKnyUf5JOPiROjoG0XKVnCC0qaRafY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UTMKnyUf5JOPiROjoG0XKVnCC0qaRafY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "A5DF5F815C829AE4AD1E68F6FE01CF86",
+   "sender": "natalie yehiam",
+   "text": "יפה",
+   "ts": 1791045569000,
+   "date": "2026-10-03",
+   "time": "19:39",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
   }
  ]
 }

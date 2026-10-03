@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-02T08:28:52.915Z",
+ "updated": "2026-10-03T16:48:12.669Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -217,6 +217,26 @@
    "files": [],
    "drive": null,
    "phone": "972549148109"
+  },
+  {
+   "id": "AC918AAD6371F8FBCC54E2CD34237B87",
+   "sender": "שלום בוצחק",
+   "text": "*הקפות שניות בבית הכנסת \"אוהל מאיר\"- כולם מוזמנים !*\n@all",
+   "ts": 1791046063000,
+   "date": "2026-10-03",
+   "time": "19:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "365KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CjVk9ETDTHdrdvb1V77wqV-n_U81ngdi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CjVk9ETDTHdrdvb1V77wqV-n_U81ngdi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-02T14:06:15.442Z",
+ "updated": "2026-10-03T16:52:42.730Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -692,6 +692,46 @@
    "date": "2026-10-02",
    "time": "17:06",
    "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC8549124855D93E60B4C1F3FB3D06A4",
+   "sender": "בני קרמר",
+   "text": "הקפות שניות בליווי תזמורת \nבהיכל בית הכנסת דרך אמונה",
+   "ts": 1791046100000,
+   "date": "2026-10-03",
+   "time": "19:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12OAPHxtZ6EbTH1bYp9hr4-LB_-t2yuNc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12OAPHxtZ6EbTH1bYp9hr4-LB_-t2yuNc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC90BE5DA125ED950CCE46F18F08D692",
+   "sender": "יעקב קרלינסקי",
+   "text": "https://nedar.im/lrlB",
+   "ts": 1791046360000,
+   "date": "2026-10-03",
+   "time": "19:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1avmiwx_22q2NMvw7G36o8uaVEGE7lJc7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1avmiwx_22q2NMvw7G36o8uaVEGE7lJc7&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972552748485"
   }
