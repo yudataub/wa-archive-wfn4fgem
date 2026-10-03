@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-03T06:06:07.740Z",
+ "updated": "2026-10-03T11:51:08.162Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -762,6 +762,77 @@
    ],
    "drive": null,
    "phone": "972549778816"
+  },
+  {
+   "id": "AC849F28D710120B92D4797C4C54B10A",
+   "sender": "שולה",
+   "text": "",
+   "ts": 1791025799000,
+   "date": "2026-10-03",
+   "time": "14:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "43.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/11rj4b5bb1gBOWVy2x8gWbA2g5-ScksY1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11rj4b5bb1gBOWVy2x8gWbA2g5-ScksY1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545437896"
+  },
+  {
+   "id": "AC9C3C2115CBDBCDD29ADF05EA01ACAA",
+   "sender": "שולה",
+   "text": "חובה לראות עד הסוף",
+   "ts": 1791025800000,
+   "date": "2026-10-03",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "phone": "972545437896"
+  },
+  {
+   "id": "AC1F831D9DF9352D03101A97D01AD494",
+   "sender": "יפעת",
+   "text": "2 בוסטרים לילדים ללא גב למסירה מקרית ביאליק",
+   "ts": 1791028195000,
+   "date": "2026-10-03",
+   "time": "14:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HtU5W7Xmgf3PQzeLh6fdF01c30gisKcZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HtU5W7Xmgf3PQzeLh6fdF01c30gisKcZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523652995"
+  },
+  {
+   "id": "ACB55E30A856C3754B1CA06F53AA6BAE",
+   "sender": "יפעת",
+   "text": "למסירה מדליק פחמים, נלקחו כמה קוביות, מקרית ביאליק",
+   "ts": 1791028239000,
+   "date": "2026-10-03",
+   "time": "14:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lAvZCcRHDRfuWWCw6zU0HoMhm1MgK7u8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lAvZCcRHDRfuWWCw6zU0HoMhm1MgK7u8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523652995"
   }
  ]
 }

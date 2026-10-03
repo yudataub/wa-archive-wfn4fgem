@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-03T09:19:35.844Z",
+ "updated": "2026-10-03T10:24:06.860Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -80,6 +80,66 @@
      "path": "https://drive.google.com/file/d/1IISQnleiZdxUWoAayCjxPiy74dS8U25z/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1IISQnleiZdxUWoAayCjxPiy74dS8U25z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "AC3D40676A78820276B386464FFCAAEF",
+   "sender": "טלי דוד",
+   "text": "",
+   "ts": 1791022666000,
+   "date": "2026-10-03",
+   "time": "13:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "336KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LNbTNxGe2oKECGdrXhPlKUauD9hM7j4j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LNbTNxGe2oKECGdrXhPlKUauD9hM7j4j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "AC6EDFAD9C82FEC09F763C89454E3A47",
+   "sender": "טלי דוד",
+   "text": "קלמר מלא צבעים",
+   "ts": 1791022666000,
+   "date": "2026-10-03",
+   "time": "13:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IUj1ftqkaG02NM5AO1dclYcHh4bh7Zv7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IUj1ftqkaG02NM5AO1dclYcHh4bh7Zv7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "ACB1288CEB51777B5AC15FC96A795477",
+   "sender": "טלי דוד",
+   "text": "אוגדנית למחברות עם השם *מאיה*",
+   "ts": 1791023028000,
+   "date": "2026-10-03",
+   "time": "13:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kp6ysXMVCJG9HQLARiee-vVEwgzLflJ8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kp6ysXMVCJG9HQLARiee-vVEwgzLflJ8&sz=w1200"
     }
    ],
    "drive": null,
