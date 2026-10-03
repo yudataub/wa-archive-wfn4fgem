@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-03T05:28:37.158Z",
+ "updated": "2026-10-03T06:06:07.740Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -731,6 +731,37 @@
    ],
    "drive": null,
    "phone": "972527361718"
+  },
+  {
+   "id": "AC5098D695D8B6C6532D25721B285C93",
+   "sender": "רתם  🙏🏼",
+   "text": "יש בנמצא?",
+   "ts": 1791007536000,
+   "date": "2026-10-03",
+   "time": "09:05",
+   "files": [],
+   "drive": null,
+   "phone": "972549778816"
+  },
+  {
+   "id": "ACF5B8BF311F899A8DDE4E1E5D4534A2",
+   "sender": "רתם  🙏🏼",
+   "text": "בוקר טוב היום זה קורה!!! 🚜🦋\n טרקטור בטבע ואלקטרו פארק נפגשים ל-10 שעות של טראנס מהצהריים ועד הלילה וזה הטיימטייבל שלנו 🔥\nתסתכלו על השעות האלה…\nאין פה שעה לפספס!\nתבואו מוקדם, תבואו לרקוד, לשחרר ולעוף איתנו מהצליל הראשון ועד האחרון ❤️\nהשקיעה תתפוס אותנו כבר עמוק בתוך הרחבה ומשם ממשיכים אל הלילה 🌛\nמי שעוד לא סגר כרטיס, זה הזמן.\nקליק פה >>>\nhttps://www.eventer.co.il/event/sukkot__gathering/J9rYL",
+   "ts": 1791007536000,
+   "date": "2026-10-03",
+   "time": "09:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "295KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ko85B7If3gGI7FhQ7Tf_BPpIcpvBLMz-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ko85B7If3gGI7FhQ7Tf_BPpIcpvBLMz-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549778816"
   }
  ]
 }

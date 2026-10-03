@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-02T06:22:50.932Z",
+ "updated": "2026-10-03T09:19:35.844Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -64,6 +64,26 @@
    "files": [],
    "drive": null,
    "phone": "972559971125"
+  },
+  {
+   "id": "AC93A91573508B38B203C1E3C4CE743E",
+   "sender": "טלי דוד",
+   "text": "מתקן לנייר טואלט.\n(חלוד)",
+   "ts": 1791019150000,
+   "date": "2026-10-03",
+   "time": "12:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IISQnleiZdxUWoAayCjxPiy74dS8U25z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IISQnleiZdxUWoAayCjxPiy74dS8U25z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
   }
  ]
 }
