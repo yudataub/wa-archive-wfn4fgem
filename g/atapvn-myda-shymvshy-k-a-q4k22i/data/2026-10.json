@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-03T17:19:43.133Z",
+ "updated": "2026-10-03T21:03:31.111Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -542,6 +542,46 @@
    ],
    "drive": null,
    "phone": "972535413981"
+  },
+  {
+   "id": "2ABCF8E6A3FABE743DA8",
+   "sender": "בר סליפק - המקום שלך שמדובר בכושר ותזונה",
+   "text": "אחרי החגים – חוזרים לשגרה! 🔥\n\nהחגים מאחורינו, החגים היו מלאים בארוחות, אירוחים ופינוקים 😅\nעכשיו זה הזמן לחזור לעצמנו ולשים את הבריאות והכושר במקום הראשון 💪\n\n🏋️ אימוני כוח בקבוצות אישיות קטנות\n🎯 תוכנית אימונים לפי המטרה והקצב שלך\n🥗 הכוונה תזונתית\n📏 מעקבים ומדידות\n🔥 ליווי אישי לאורך כל הדרך\n\nאל תחכה ל״מתי יהיה לי זמן״ — השגרה מתחילה עכשיו!\n\n📲 לפרטים מלאים ולאימון נסיון \n שלחו לי הודעה בפרטי\n*סטודיו כושר לגברים בלבד*\nבר סליפק | מאמן כושר ותזונה",
+   "ts": 1791049557000,
+   "date": "2026-10-03",
+   "time": "20:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Fh8F4DRUWawHu1V9OzfliRtKzYPCBLgz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Fh8F4DRUWawHu1V9OzfliRtKzYPCBLgz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547556711"
+  },
+  {
+   "id": "A5D140DEB5DAE54F81B6D08F3B9FC9DA",
+   "sender": "גיא אפיק Dj",
+   "text": "",
+   "ts": 1791061393000,
+   "date": "2026-10-04",
+   "time": "00:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pgipIMYebMMBfY0Ua2lx_u2wvTHRQy_e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pgipIMYebMMBfY0Ua2lx_u2wvTHRQy_e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548047828"
   }
  ]
 }

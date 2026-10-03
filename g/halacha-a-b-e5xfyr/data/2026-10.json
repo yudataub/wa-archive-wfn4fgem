@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-02T09:03:47.864Z",
+ "updated": "2026-10-03T19:24:42.930Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -52,6 +52,80 @@
    "date": "2026-10-02",
    "time": "12:03",
    "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC6D0CBF56C1B648901BBFF5A8903DA8",
+   "sender": "יאיר אושרית",
+   "text": "שבוע טוב ומבורך,\nיש חומרים / מצגת בנושא כבוד ועונג שבת?",
+   "ts": 1791054728000,
+   "date": "2026-10-03",
+   "time": "22:12",
+   "files": [],
+   "drive": null,
+   "phone": "972544943995"
+  },
+  {
+   "id": "ACC299A252B863BD6488C1AC8EDE391D",
+   "sender": "אחינעם",
+   "text": "https://drive.google.com/drive/folders/1QZ7KGBFgVME0E67qPkJdu3qFHweQcZll",
+   "ts": 1791054821000,
+   "date": "2026-10-03",
+   "time": "22:13",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "ACFB056CE5E5C7BAAE33A63417733824",
+   "sender": "אחינעם",
+   "text": "https://drive.google.com/drive/folders/1maDmLXzWM6RwgpT8fcp-OMJ7A-1nWTO5",
+   "ts": 1791054822000,
+   "date": "2026-10-03",
+   "time": "22:13",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC460EAE5E5C44614D50DEFE940C32BD",
+   "sender": "Rivka",
+   "text": "מועדים לשמחה,\nאשמח לחומרים בנושא תפילה כיתות א,ב",
+   "ts": 1791055266000,
+   "date": "2026-10-03",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972528282561"
+  },
+  {
+   "id": "AC763D52E1628C0D805CE34605122A45",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/18hW759QLl92UBL8U-l2XwhoYY8geHTRg",
+   "ts": 1791055441000,
+   "date": "2026-10-03",
+   "time": "22:24",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC051D49E1302878F139937FF487E665",
+   "sender": "אחינעם",
+   "text": "",
+   "ts": 1791055455000,
+   "date": "2026-10-03",
+   "time": "22:24",
+   "files": [
+    {
+     "name": "חוברת לקראת סידור.pdf",
+     "size": "939KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1D-toL9raqbq8-AGVGeN3aTHK6lQNRfy8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972586788467"
   }

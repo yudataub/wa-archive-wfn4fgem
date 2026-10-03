@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-02T14:05:15.423Z",
+ "updated": "2026-10-03T20:09:55.123Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -163,6 +163,26 @@
    ],
    "drive": null,
    "phone": "972548111153"
+  },
+  {
+   "id": "AC283C391C55B46D7CEB77692F668D27",
+   "sender": "רונית פורר",
+   "text": "",
+   "ts": 1791058167000,
+   "date": "2026-10-03",
+   "time": "23:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UlAnv6MNW2--9Bmsw6db32AZVdIrvA4F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UlAnv6MNW2--9Bmsw6db32AZVdIrvA4F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522573971"
   }
  ]
 }

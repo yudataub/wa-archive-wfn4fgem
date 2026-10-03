@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-01T15:46:22.636Z",
+ "updated": "2026-10-03T17:44:13.576Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -22,6 +22,46 @@
    ],
    "drive": null,
    "phone": "972549048110"
+  },
+  {
+   "id": "3A7BE012D1BD57430F33",
+   "sender": "רחל שמוקלר",
+   "text": "",
+   "ts": 1791049373000,
+   "date": "2026-10-03",
+   "time": "20:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1u9jJCaDCurBjxZmqjA2-MKRkuu7b-g0u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1u9jJCaDCurBjxZmqjA2-MKRkuu7b-g0u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507689251"
+  },
+  {
+   "id": "3EB0F22E993F10675B18C5",
+   "sender": "רינתיה זלצמן",
+   "text": "",
+   "ts": 1791049443000,
+   "date": "2026-10-03",
+   "time": "20:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "436KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sQiiUxDjw5mw49DZQhR54KhuNLfTCMoq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sQiiUxDjw5mw49DZQhR54KhuNLfTCMoq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502933608"
   }
  ]
 }

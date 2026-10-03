@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-01T20:31:59.350Z",
+ "updated": "2026-10-03T20:01:55.006Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -46,6 +46,104 @@
    "files": [],
    "drive": null,
    "phone": "972555686252"
+  },
+  {
+   "id": "3EB0B797D595065EAF2F55",
+   "sender": "רחלי אסולין",
+   "text": "אפשר להקפיץ בבקשה שוב? נמחק אצלי",
+   "ts": 1791057600000,
+   "date": "2026-10-03",
+   "time": "23:00",
+   "files": [],
+   "drive": null,
+   "phone": "972523847700"
+  },
+  {
+   "id": "AC0EEC5E1D804387583DF01EF14FB226",
+   "sender": "ARAZI SHARONA",
+   "text": "",
+   "ts": 1791057655000,
+   "date": "2026-10-03",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "שמואל א פרק ד (1).pptx",
+     "size": "784KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1gokNcMTl431IyxcgIamn76NjCdZm3wqf/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "AC33CA396B99C7868515475EE0A93DEB",
+   "sender": "ARAZI SHARONA",
+   "text": "",
+   "ts": 1791057656000,
+   "date": "2026-10-03",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "שמואל א פרק א (1).pptx",
+     "size": "1.5MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1DJTA0sALrrYmB8tZWqKSEzlKt5h_Hmd2/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "AC8AC2703D87140E4B17DC6B58B89684",
+   "sender": "ARAZI SHARONA",
+   "text": "",
+   "ts": 1791057656000,
+   "date": "2026-10-03",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "שמואל א פרק ג (1).pptx",
+     "size": "698KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1gFijgNPVMzMPEgHhyylhsj2rUWwuP1Dq/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "AC431E0DE8ABA1775ADA4A10367791F2",
+   "sender": "ARAZI SHARONA",
+   "text": "",
+   "ts": 1791057657000,
+   "date": "2026-10-03",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "הקדמה ספר שמואל.pptx",
+     "size": "2.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1OQD2xt1s-lEEVH8Y1MkS_Xy3HaVLIz7C/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "ACBF7453EC46EC842631CF7585A7ABC5",
+   "sender": "רחלי אסולין",
+   "text": "🙏",
+   "ts": 1791057699000,
+   "date": "2026-10-03",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972523847700"
   }
  ]
 }

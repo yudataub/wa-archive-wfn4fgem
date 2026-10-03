@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-03T17:35:13.402Z",
+ "updated": "2026-10-03T21:13:31.273Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -1122,6 +1122,103 @@
    "files": [],
    "drive": null,
    "phone": "972548468706"
+  },
+  {
+   "id": "AC7DBD59A9CA7C91617D6DEC736919B5",
+   "sender": "זמין",
+   "text": "כולבו רוטשילד היה לו שנה שעברה",
+   "ts": 1791050271000,
+   "date": "2026-10-03",
+   "time": "20:57",
+   "files": [],
+   "drive": null,
+   "phone": "972504119468"
+  },
+  {
+   "id": "A54AAD6BA02DA310D90F2917760DF023",
+   "sender": "מאיר מוגרבי",
+   "text": "נכון",
+   "ts": 1791051579000,
+   "date": "2026-10-03",
+   "time": "21:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "3A1B5439676D3C27415B",
+   "sender": "Avishay",
+   "text": "https://maps.app.goo.gl/a2AgtAVoXwWD4i3P9",
+   "ts": 1791051701000,
+   "date": "2026-10-03",
+   "time": "21:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s2C8IXNkXuXy8gl1Rl9MLysPo-rOHL1c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s2C8IXNkXuXy8gl1Rl9MLysPo-rOHL1c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545422379"
+  },
+  {
+   "id": "A5B65F48009862F12D854C28D6CFD450",
+   "sender": "אברהם בורודיאנסקי",
+   "text": "שבוע טוב\nמי המנהלת של הפנימיה של אור חדש",
+   "ts": 1791056253000,
+   "date": "2026-10-03",
+   "time": "22:37",
+   "files": [],
+   "drive": null,
+   "phone": "972507333664"
+  },
+  {
+   "id": "AC8A7C2CF78B532DF6FEE988991F07EB",
+   "sender": "אבי טויטו",
+   "text": "אישתו של חיים בלוי",
+   "ts": 1791056639000,
+   "date": "2026-10-03",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972526455107"
+  },
+  {
+   "id": "AC25074BF018F7C9077BC5935D76C374",
+   "sender": "מלי דרוקמן. הנקה. שינה.",
+   "text": "יוכי בלוי 0548435342",
+   "ts": 1791056668000,
+   "date": "2026-10-03",
+   "time": "22:44",
+   "files": [],
+   "drive": null,
+   "phone": "972522442235"
+  },
+  {
+   "id": "A515E95D506FCF77E9D09B2DBF96914C",
+   "sender": "אברהם בורודיאנסקי",
+   "text": "תודה לכולם",
+   "ts": 1791057718000,
+   "date": "2026-10-03",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972507333664"
+  },
+  {
+   "id": "3AC92131DABF19774241",
+   "sender": "יוסי מנחם",
+   "text": "מחפש בחור לקחת רכב עם נוסעים לירושלים ולהחזיר את הרכב חזרה לפה \nאחרי הקפות שניות סביב 2:00\nבתשלום",
+   "ts": 1791062004000,
+   "date": "2026-10-04",
+   "time": "00:13",
+   "files": [],
+   "drive": null,
+   "phone": "972529955992"
   }
  ]
 }
