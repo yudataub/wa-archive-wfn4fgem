@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-03T19:26:25.314Z",
+ "updated": "2026-10-03T21:53:30.213Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -3611,6 +3611,28 @@
    "files": [],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "2A305DDC0FA4AF993FF3",
+   "sender": "972 Education Inc. Orly",
+   "text": "@90958934863942  הנה עוד אחד בשבילך https://www.instagram.com/reel/DeCy795qTqt/?stkn=Z3o1ZWUwYzc4MWl3",
+   "ts": 1791064320000,
+   "date": "2026-10-04",
+   "time": "00:52",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2AE632A1D760B43B3E9D",
+   "sender": "972 Education Inc. Orly",
+   "text": "גם השיר?",
+   "ts": 1791064401000,
+   "date": "2026-10-04",
+   "time": "00:53",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
   }
  ]
 }
