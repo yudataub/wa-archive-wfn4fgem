@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-04T05:33:13.093Z",
+ "updated": "2026-10-04T08:05:44.716Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -332,6 +332,26 @@
    "files": [],
    "drive": null,
    "phone": "972542527476"
+  },
+  {
+   "id": "3EB0486453FCB0829617D7",
+   "sender": "קופת החסד קריית אתא ביט",
+   "text": "*לעילוי נשמת יקירכם* \n\nלטופס האוטומטי שזוכר בשבילכם את מעות ''יזכור''\nhttps://nedar.im/oppz\n\nלתרומת מעות יזכור \nhttps://nedar.im/oqzU",
+   "ts": 1791101140000,
+   "date": "2026-10-04",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n8puh8awP-K5RK49had0Guc9aa3YifBK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n8puh8awP-K5RK49had0Guc9aa3YifBK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553087073"
   }
  ]
 }

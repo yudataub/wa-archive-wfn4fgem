@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-02T07:25:21.951Z",
+ "updated": "2026-10-04T09:32:56.909Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -189,6 +189,26 @@
    "files": [],
    "drive": null,
    "phone": "972546592048"
+  },
+  {
+   "id": "A5DB2EEB307453C603B235BF408289B3",
+   "sender": "צימר הראל",
+   "text": "צימר הראל\nשבי דרום\n0507225762\n800 שח לזוג לילה",
+   "ts": 1791106344000,
+   "date": "2026-10-04",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/15zxIrgkmTtettLkgGyn4Z__oscNQ3cyp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15zxIrgkmTtettLkgGyn4Z__oscNQ3cyp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507225762"
   }
  ]
 }

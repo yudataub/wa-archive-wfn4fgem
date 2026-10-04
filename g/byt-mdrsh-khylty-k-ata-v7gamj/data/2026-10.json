@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-03T17:45:13.586Z",
+ "updated": "2026-10-04T09:16:15.861Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -402,6 +402,37 @@
    "files": [],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "AC518EDA6D6905A29A28D198B318B070",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791094810000,
+   "date": "2026-10-04",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "258KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cj_uh4uFjjoZSYG2F7W6IVAQGgObyUXC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cj_uh4uFjjoZSYG2F7W6IVAQGgObyUXC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACD637086F8FDE2687312E8A8D0BE873",
+   "sender": "שלום בוצחק",
+   "text": "📢📣📢📣\n\n*חברים יקרים שימו לב ❤️* \n\n*תפילת פלג מנחה בבית הכנסת-\"אוהל מאיר\"*\n*בשעה 17:15*\n\n*ברוכים הבאים!*",
+   "ts": 1791105372000,
+   "date": "2026-10-04",
+   "time": "12:16",
+   "files": [],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

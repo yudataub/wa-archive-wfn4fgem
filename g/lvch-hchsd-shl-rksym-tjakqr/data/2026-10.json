@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-04T05:22:12.902Z",
+ "updated": "2026-10-04T08:29:45.072Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -1263,6 +1263,48 @@
    "files": [],
    "drive": null,
    "phone": "972584171334"
+  },
+  {
+   "id": "ACE705096CA32515BB8DB39AD177BAD3",
+   "sender": "יוסי מוזס",
+   "text": "054-8478735\n054-8478706",
+   "ts": 1791098087000,
+   "date": "2026-10-04",
+   "time": "10:14",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "A56E047523D01732CE5F89D9FEF3D338",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "👍🏼",
+   "ts": 1791099249000,
+   "date": "2026-10-04",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "phone": "972503207070"
+  },
+  {
+   "id": "A5DDAF6155F530B1541316B433C95623",
+   "sender": "אברהם בויאר",
+   "text": "👥  גם מחר *לאחר תפילת שחרית* נתכנס יחד לשידור חוזר של השיעור דף היומי של ר' *אלי סטפנסקי*\n\n*בכורות דף ד'*\n\n☕🕜  \"גמר חתימה טובה רבויתיי\"\n\n🔗 *לקבוצת העדכונים של דף היומי MDY - לעבדך באמת הצטרפו בלינק*:",
+   "ts": 1791102556000,
+   "date": "2026-10-04",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "396KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XWl3XVEEY9_zFli4JKKIG701PfApyswO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XWl3XVEEY9_zFli4JKKIG701PfApyswO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527192102"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-04T05:37:43.158Z",
+ "updated": "2026-10-04T06:50:58.802Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -76,6 +76,107 @@
    "files": [],
    "drive": null,
    "phone": "972523393602"
+  },
+  {
+   "id": "AC5994999F1F26556224830CE6ACC84B",
+   "sender": "סלעית ויסמן",
+   "text": "",
+   "ts": 1791092697000,
+   "date": "2026-10-04",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "התמצאות בחומש3 (1).pdf",
+     "size": "124KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1HRS2m4Lc664VM9CMNJ98A6vA53adAoYd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524560600"
+  },
+  {
+   "id": "AC2B84D2636C1380AD0103D3982BFB81",
+   "sender": "סלעית ויסמן",
+   "text": "",
+   "ts": 1791092700000,
+   "date": "2026-10-04",
+   "time": "08:45",
+   "files": [
+    {
+     "name": "התמצאות בפסוקיםם (1).pdf",
+     "size": "275KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1I2pHnXueUVlowZRrHay2X5j09SBuXQGc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524560600"
+  },
+  {
+   "id": "ACC6DEBA168C7EAF0824F84AD1372506",
+   "sender": "סלעית ויסמן",
+   "text": "",
+   "ts": 1791092700000,
+   "date": "2026-10-04",
+   "time": "08:45",
+   "files": [
+    {
+     "name": "התמצאות בחומש2 (1).pdf",
+     "size": "137KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10CnTggJOTh5qChPJ9Ur19ud0vC1sae2S/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524560600"
+  },
+  {
+   "id": "ACDD95728183F175F6B0B71C99B59581",
+   "sender": "Miriam",
+   "text": "תודה לך על כל החומר!",
+   "ts": 1791094401000,
+   "date": "2026-10-04",
+   "time": "09:13",
+   "files": [],
+   "drive": null,
+   "phone": "972587176233"
+  },
+  {
+   "id": "3ACF7B2931209A46797E",
+   "sender": "Avigail",
+   "text": "יש כזה להביא ?",
+   "ts": 1791096444000,
+   "date": "2026-10-04",
+   "time": "09:47",
+   "files": [],
+   "drive": null,
+   "phone": "972535834186"
+  },
+  {
+   "id": "3A3968EC3456B60E4195",
+   "sender": "Avigail",
+   "text": "לנביא",
+   "ts": 1791096449000,
+   "date": "2026-10-04",
+   "time": "09:47",
+   "files": [],
+   "drive": null,
+   "phone": "972535834186"
+  },
+  {
+   "id": "3A6C8F54B2B03D19EB14",
+   "sender": "אפרת יפרח🫶🏻",
+   "text": "וגם בשמות אם יש 🙂",
+   "ts": 1791096634000,
+   "date": "2026-10-04",
+   "time": "09:50",
+   "files": [],
+   "drive": null,
+   "phone": "972523571440"
   }
  ]
 }

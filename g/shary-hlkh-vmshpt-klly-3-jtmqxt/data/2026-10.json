@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-03T21:37:08.405Z",
+ "updated": "2026-10-04T09:35:56.964Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -2210,6 +2210,220 @@
    "files": [],
    "drive": null,
    "phone": "972533890390"
+  },
+  {
+   "id": "3AE7DD450C5E59418A34",
+   "sender": "Hagit Abergel Sela",
+   "text": "מה מברכים?👇🏻",
+   "ts": 1791095258000,
+   "date": "2026-10-04",
+   "time": "09:27",
+   "files": [],
+   "drive": null,
+   "phone": "972542311114"
+  },
+  {
+   "id": "3A522D6FAB78107AEF71",
+   "sender": "Hagit Abergel Sela",
+   "text": "",
+   "ts": 1791095267000,
+   "date": "2026-10-04",
+   "time": "09:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ulZYpigEVY5iwjqWS41qunlY2RsaRogU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ulZYpigEVY5iwjqWS41qunlY2RsaRogU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542311114"
+  },
+  {
+   "id": "3A0BE6B19B9E30A39F98",
+   "sender": "Hagit Abergel Sela",
+   "text": "ואיך הכשרות הזאת?👆🏻",
+   "ts": 1791095320000,
+   "date": "2026-10-04",
+   "time": "09:28",
+   "files": [],
+   "drive": null,
+   "phone": "972542311114"
+  },
+  {
+   "id": "ACA3F54534D0E9BADA214A2EA3C48938",
+   "sender": "ישראל",
+   "text": "אם זה קשיח כמו גרסיני ברכתו מזונות",
+   "ts": 1791097836000,
+   "date": "2026-10-04",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "ACD27A78AEA055ACBF5C1C35C68583E2",
+   "sender": "ישראל",
+   "text": "נחשב טוב",
+   "ts": 1791097837000,
+   "date": "2026-10-04",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "3A671DB99DA0809C94E3",
+   "sender": "Hagit Abergel Sela",
+   "text": "כמו שחשבתי\nתודה רבה\nתבורכו",
+   "ts": 1791098171000,
+   "date": "2026-10-04",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "phone": "972542311114"
+  },
+  {
+   "id": "AC3C41713DD18BE60F0897C9B098A54A",
+   "sender": "אמיר מור",
+   "text": "בוקר טוב\nאם אני הולך לקבוע מזוזה בגן ילדים,הגן לא שלי כמובן.\nמברך כרגיל?",
+   "ts": 1791099622000,
+   "date": "2026-10-04",
+   "time": "10:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542891429"
+  },
+  {
+   "id": "ACBDDC21E5034AF644FD82EAAAE5C297",
+   "sender": "טליה חמו",
+   "text": "היי פעם ראשונה נתקלת בברכה ראשונה המוציא והאחרונה בורא נפשות זה לחם משקדים וזרעי פשתן זה בסדר?",
+   "ts": 1791102270000,
+   "date": "2026-10-04",
+   "time": "11:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "309KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k0-_oMAldSejBzshrsmYUzteXDN3mBIC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k0-_oMAldSejBzshrsmYUzteXDN3mBIC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547723782"
+  },
+  {
+   "id": "ACEB01E36917D1E609F70791D416B695",
+   "sender": "ישראל",
+   "text": "לא יברך",
+   "ts": 1791103466000,
+   "date": "2026-10-04",
+   "time": "11:44",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC3E4DCCD394D56FC52E27F079AB13DB",
+   "sender": "אמיר מור",
+   "text": "היכן להתקין את המזוזה בדלת כזאת?\nאין מקום במשקוף",
+   "ts": 1791105059000,
+   "date": "2026-10-04",
+   "time": "12:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bwasrK3-fDV7c6fZxoUKnI2D-6SW3v55/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bwasrK3-fDV7c6fZxoUKnI2D-6SW3v55&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542891429"
+  },
+  {
+   "id": "3A3B519C4658CCADA723",
+   "sender": "~ידידיה",
+   "text": "אם לא התפללתי עד עכשיו תפילת שחרית האם אני עדיין יכול להתפלל?",
+   "ts": 1791105433000,
+   "date": "2026-10-04",
+   "time": "12:17",
+   "files": [],
+   "drive": null,
+   "phone": "972548737256"
+  },
+  {
+   "id": "AC746E49A9A49DA7E55D473C6E5AA12C",
+   "sender": "ישראל",
+   "text": "תפילה בלי שמע וברכות קריאת שמע ולסיים עמידה לפני 12:27.\nלומר אלוקי נשמע ברוך שאמר אשרי ישתבח אם לא דחה הזמן במזיד ואז עמידה. אחר כך ישלים השאר בלי ברכות קריאת",
+   "ts": 1791105686000,
+   "date": "2026-10-04",
+   "time": "12:21",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC0A7D9169B9849C38DD883545C3DA13",
+   "sender": "ישראל",
+   "text": "חובה לקום בזמן לקריאת שמע ומניין",
+   "ts": 1791105700000,
+   "date": "2026-10-04",
+   "time": "12:21",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "ACC3D7CDA8B2F7EF94DDE1BE8840D477",
+   "sender": "ישראל",
+   "text": "@90873052319948 @254864030433422",
+   "ts": 1791105734000,
+   "date": "2026-10-04",
+   "time": "12:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC7B06E34B0A0F5D15DF3028EB301D4E",
+   "sender": "ישראל",
+   "text": "יש בזה מחלוקת ועדיף לאכול  גם פרוסה של לחם רגיל בלי ברכה על הנטילה או שתי פרוסות לחם רגיל עם ברכה בנטילה. \nאם אוכלים רק את הלחם הזה אז לפחות לאכול לפניו כזית או לשתות חצי כוס מדברים שהם נפשות ובסוף הברכה רק נפשות",
+   "ts": 1791105919000,
+   "date": "2026-10-04",
+   "time": "12:25",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "ACA8C07D185E62C5690E6333B5E990A4",
+   "sender": "טליה חמו",
+   "text": "הכוונה אם אני אוכל.ת לחמניה כזו אז לשתות מים ןואז לברך נפשות?",
+   "ts": 1791106115000,
+   "date": "2026-10-04",
+   "time": "12:28",
+   "files": [],
+   "drive": null,
+   "phone": "972547723782"
+  },
+  {
+   "id": "3A02A31A6555FC7632F3",
+   "sender": "~ידידיה",
+   "text": "אם אני רק עכשיו מתחיל להתפלל מה לעשות עם עמידה?",
+   "ts": 1791106557000,
+   "date": "2026-10-04",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "phone": "972548737256"
   }
  ]
 }

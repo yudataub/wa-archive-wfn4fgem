@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-10-01T14:36:14.738Z",
+ "updated": "2026-10-04T07:48:59.730Z",
  "messages": [
   {
    "id": "3EB0C2395372C4C50CC48F",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/16_cbtcXtNVkbrcd0Y8m_N2RqbBugmdqR/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=16_cbtcXtNVkbrcd0Y8m_N2RqbBugmdqR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB0B130711EC93541C7EE",
+   "sender": "הרצאות מהכורסא",
+   "text": "מי הם הכוחות שמעצבים מחדש את הסדר העולמי וכיצד משתנה מאזן הכוחות? עוד מעט נארח באולפן את *ד\"ר  ענת הוכברג מרום* למפגש זום פתוח בנושא.\n\n👈🏼 *להצטרפות בשעה 11:00*: https://bit.ly/3OT7WFZ",
+   "ts": 1791100115000,
+   "date": "2026-10-04",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/151ly6r9sr5ao8hWmEKWqQjBLDdWNGe4U/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=151ly6r9sr5ao8hWmEKWqQjBLDdWNGe4U&sz=w1200"
     }
    ],
    "drive": null,

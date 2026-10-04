@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-04T03:58:11.723Z",
+ "updated": "2026-10-04T09:14:45.841Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -270,6 +270,37 @@
    "files": [],
    "drive": null,
    "phone": "972525554380"
+  },
+  {
+   "id": "ACDCB632A8C8B2D5A3156CE102D3CC22",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791094805000,
+   "date": "2026-10-04",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "258KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1beUqymVYnmQ41ak66w-a-Bc_n3CgK3C9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1beUqymVYnmQ41ak66w-a-Bc_n3CgK3C9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC2A377798E95F23D3803D3D35C2D7ED",
+   "sender": "שלום בוצחק",
+   "text": "📢📣📢📣\n\n*שימו לב ❤️* \n\n*תפילת פלג מנחה בשעה 17:15*\n\n*ברוכים הבאים!*",
+   "ts": 1791105268000,
+   "date": "2026-10-04",
+   "time": "12:14",
+   "files": [],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

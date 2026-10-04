@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-03T21:52:08.637Z",
+ "updated": "2026-10-04T09:37:26.988Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -410,6 +410,288 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08ECD3E618AED3B9238",
+   "sender": "אני",
+   "text": "זה עובד לך הקובץ?",
+   "ts": 1791092475000,
+   "date": "2026-10-04",
+   "time": "08:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB02C7772040FE49A1228",
+   "sender": "לבנה",
+   "text": "בוקר טוב לא מצליחה להוריד אותו",
+   "ts": 1791092645000,
+   "date": "2026-10-04",
+   "time": "08:44",
+   "files": [],
+   "drive": null,
+   "thread": "לבנה",
+   "phone": "972526794592"
+  },
+  {
+   "id": "ACBCA0F0ABBD67AA735A7993068D8630",
+   "sender": "לבנה",
+   "text": "",
+   "ts": 1791092673000,
+   "date": "2026-10-04",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "45KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MbgbxQlYIS2hlNisSl-G_WKzo-SxCrwT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MbgbxQlYIS2hlNisSl-G_WKzo-SxCrwT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "לבנה",
+   "phone": "972526794592"
+  },
+  {
+   "id": "3EB0925ACBD1653ABF6232",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791092694000,
+   "date": "2026-10-04",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "313KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1MPJITtH7lXpOhsPVsz-Wq50oFNb72NpJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0EAEC0EA9855559192B",
+   "sender": "אני",
+   "text": "מקווה שהילדים לא יתחילו לרקוד בכיתות😊",
+   "ts": 1791092757000,
+   "date": "2026-10-04",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC650B2E1016C91DCFAA889F8386FA68",
+   "sender": "אליהו חזן",
+   "text": "",
+   "ts": 1791094959000,
+   "date": "2026-10-04",
+   "time": "09:22",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "14KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1N5cdUiK68gePhexWAD1A-8Mf4yhZDVSf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אליהו חזן",
+   "phone": "972502770777"
+  },
+  {
+   "id": "AC52CBED618091EABBAF1550C01A8B21",
+   "sender": "אליהו חזן",
+   "text": "",
+   "ts": 1791094965000,
+   "date": "2026-10-04",
+   "time": "09:22",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "7KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1iwn2ehLCILJgVG4ncEPicEH_V1s--BOl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אליהו חזן",
+   "phone": "972502770777"
+  },
+  {
+   "id": "3EB07A0D111B217F2F33C9",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791097916000,
+   "date": "2026-10-04",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "אוצר החכמה_-_      וזאת הברכה - מנדלבוים, אלכסנדר אריה בן שמחה__      227.pdf",
+     "size": "1.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FYbZ-BpKfERHze9LrE-LajCu2CDtk5_8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACF017B3B696493237048D63CE76EBDE",
+   "sender": "שירן",
+   "text": "שלום הרב אני המחליפה של נועם",
+   "ts": 1791099171000,
+   "date": "2026-10-04",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "thread": "שירן",
+   "phone": "972532342184"
+  },
+  {
+   "id": "AC151DB79145006BC8E8B335E2FCB2BA",
+   "sender": "שירן",
+   "text": "אני צריכה שתשלח לי את האתר והססימא כדי להיכנס בבקשה",
+   "ts": 1791099199000,
+   "date": "2026-10-04",
+   "time": "10:33",
+   "files": [],
+   "drive": null,
+   "thread": "שירן",
+   "phone": "972532342184"
+  },
+  {
+   "id": "3EB03A41F4DB2BD735A864",
+   "sender": "אני",
+   "text": "תתקשר אלי לקבל הסבר\nלטלפון",
+   "ts": 1791099285000,
+   "date": "2026-10-04",
+   "time": "10:34",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0D3B1E73A7FD647AE4A",
+   "sender": "אני",
+   "text": "בהצלחה רבה\nאת לא מצאת הסיסמה יש 2 משניות ש עובדות ללא סיסמה\nhttps://www.afikoman.org.il/%D7%AA%D7%9B%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%AA%D7%95%D7%A7%D7%A9%D7%91%D7%95%D7%AA/%D7%90%D7%91%D7%95%D7%AA-%D7%91%D7%A9%D7%AA-%D7%A3-%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%91-%D7%93/",
+   "ts": 1791100297000,
+   "date": "2026-10-04",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC40AD173F1F2734F96976C0BF49BF8A",
+   "sender": "שירן",
+   "text": "רבקי נתנה לי את שלה בהמשך אני יצור קשר עם נועם שיהיה לי גם סיסמא",
+   "ts": 1791100480000,
+   "date": "2026-10-04",
+   "time": "10:54",
+   "files": [],
+   "drive": null,
+   "thread": "שירן",
+   "phone": "972532342184"
+  },
+  {
+   "id": "3EB0024894970171969F09",
+   "sender": "אני",
+   "text": "בהצלחה רבה - מה השם משפחה שלך?",
+   "ts": 1791100928000,
+   "date": "2026-10-04",
+   "time": "11:02",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACC3E5320D1E8610B120F126BDD5AA16",
+   "sender": "שירן",
+   "text": "אלול",
+   "ts": 1791101014000,
+   "date": "2026-10-04",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "thread": "שירן",
+   "phone": "972532342184"
+  },
+  {
+   "id": "3EB0307C628CA0728C36F7",
+   "sender": "אני",
+   "text": "972547593245&",
+   "ts": 1791102937000,
+   "date": "2026-10-04",
+   "time": "11:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB01FC8044E10BC0B6343",
+   "sender": "אני",
+   "text": "האם אפשר להגדיל את הזיכרון של המחשב ל 64 מגה",
+   "ts": 1791102978000,
+   "date": "2026-10-04",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "4F11984449273CE5E5",
+   "sender": "173130282725403",
+   "text": "לא קיבלנו תגובה, השיחה מועברת לנציג... 👨‍💻",
+   "ts": 1791103292000,
+   "date": "2026-10-04",
+   "time": "11:41",
+   "files": [],
+   "drive": null,
+   "thread": "173130282725403",
+   "phone": "972547593245"
+  },
+  {
+   "id": "3EB0049BF58506A8A29126",
+   "sender": "אני",
+   "text": "אפשר לקנות את הספר שכתבת על סבתא רחל - מודפס עם התמונות",
+   "ts": 1791106525000,
+   "date": "2026-10-04",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB06814B237298A1217DB",
+   "sender": "אני",
+   "text": "כאן בקטלוג",
+   "ts": 1791106536000,
+   "date": "2026-10-04",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5504E8941297710AA16ACA92153A41",
+   "sender": "מלכה",
+   "text": "שתהיה בריא לא מאמינה, אין כמוך.\nאהיה איתך בקשר🌹",
+   "ts": 1791106649000,
+   "date": "2026-10-04",
+   "time": "12:37",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה",
+   "phone": "972532826822"
   }
  ]
 }

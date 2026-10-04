@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-03T19:10:12.763Z",
+ "updated": "2026-10-04T09:27:26.853Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -745,6 +745,81 @@
    "files": [],
    "drive": null,
    "phone": "972555649000"
+  },
+  {
+   "id": "AC209983C6893110DC00C0D4D55BA824",
+   "sender": "ישי",
+   "text": "בוסטר פשוט לילד לרכב למסירה. באישי.",
+   "ts": 1791097520000,
+   "date": "2026-10-04",
+   "time": "10:05",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB072405A39FB84FB9D5F",
+   "sender": "קופת החסד קריית אתא ביט",
+   "text": "*לעילוי נשמת יקירכם* \n\nלטופס האוטומטי שזוכר בשבילכם את מעות ''יזכור''\nhttps://nedar.im/oppz\n\nלתרומת מעות יזכור \nhttps://nedar.im/oqzU",
+   "ts": 1791101140000,
+   "date": "2026-10-04",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n0hcgeVOdV_Dqx9D-TGULvQ1CnBfQuMT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n0hcgeVOdV_Dqx9D-TGULvQ1CnBfQuMT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553087073"
+  },
+  {
+   "id": "3EB0E951BBE6B9EF2E4E3C",
+   "sender": "ישי",
+   "text": "מס' של רסמקין? יש למישהו?",
+   "ts": 1791105502000,
+   "date": "2026-10-04",
+   "time": "12:18",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC0441E3B7577F58557593D1CEA839E2",
+   "sender": "moshe",
+   "text": "בטוח בשם?",
+   "ts": 1791105664000,
+   "date": "2026-10-04",
+   "time": "12:21",
+   "files": [],
+   "drive": null,
+   "phone": "972532462420"
+  },
+  {
+   "id": "3EB010C98B868743F168B7",
+   "sender": "ישי",
+   "text": "כן",
+   "ts": 1791105738000,
+   "date": "2026-10-04",
+   "time": "12:22",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0528A17B994B6C35341",
+   "sender": "ישי",
+   "text": "תזכורת לשותפות בהוצאות בית המקדש של כל אחד ואחד מאיתנו.\n\nניתן לשלם את הרכישות/העליות/המתנות של שמחת תורה בקישור המצ\"ב\nhttps://www.matara.pro/nedarimplus/online/?mosad=7002511\nנא לשים לב שלכל רכישה מצורפת בדרך כלל גם מתנה על 'מי שברך'.\n\nנא לעדכן אותי בהקדם על ביצוע תשלום כדי שאעדכן זאת ברישומים.",
+   "ts": 1791106048000,
+   "date": "2026-10-04",
+   "time": "12:27",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
   }
  ]
 }

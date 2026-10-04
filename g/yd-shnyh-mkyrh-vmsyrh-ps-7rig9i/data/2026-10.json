@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-03T03:00:34.997Z",
+ "updated": "2026-10-04T09:36:26.968Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -335,6 +335,106 @@
    "files": [],
    "drive": null,
    "phone": "972546002522"
+  },
+  {
+   "id": "ACAF7C1E3743C1CC85C4BA081C5B0DDD",
+   "sender": "מוכר דברים",
+   "text": "למכירה מחשב נייד שלא ידוע מה מצבו 150 שקל\nללא מטען נמכר כמו שהוא בלי שאלות מיותרות רוצים שלחו פרטי\nacer\nפרטים בפרטי",
+   "ts": 1791105728000,
+   "date": "2026-10-04",
+   "time": "12:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Pk4MsTMthL089-ndlMvDKVOiv1mkS_2f/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pk4MsTMthL089-ndlMvDKVOiv1mkS_2f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "AC858728B3DDA6E1A151D1B9D090D4EC",
+   "sender": "מוכר דברים",
+   "text": "למכירה גלאקסי נוט 10 לייט דרוש החלפת מסך 500 שקל  גמיש קצת עקב אי שימוש ואין זמן להתעסק בזה",
+   "ts": 1791105731000,
+   "date": "2026-10-04",
+   "time": "12:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1O2hyyt-EDKNbFsw3gtvv24YkaxjTmm27/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O2hyyt-EDKNbFsw3gtvv24YkaxjTmm27&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "ACCB8C955BAD059D80100E801E6F88CD",
+   "sender": "מוכר דברים",
+   "text": "למכירה גלאקסי s20 FE 5G\n128 גיגה\nחדש באריזה רק ניפתח הקבוצה לצילום  בצבע ענן מנטה כזה ירוק תכלת  מגיע עם הקופסא וכבל של טייפ סי של שתי הצדדים \nיבואן רשמי של פרטנר\nנקנה מיזמן ונשכח בארון \nמוכר ב1100 שקל",
+   "ts": 1791105951000,
+   "date": "2026-10-04",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UaQxayn-a3L11da8xx7lz2PJdy8hYzPp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UaQxayn-a3L11da8xx7lz2PJdy8hYzPp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "3A229C96B3B196F9AB3D",
+   "sender": "Asaf",
+   "text": "ציור אפריקאי 100₪",
+   "ts": 1791106491000,
+   "date": "2026-10-04",
+   "time": "12:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "384KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18NjQBCPWcp7NmxhrDCDFa5KrMT92-HHy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18NjQBCPWcp7NmxhrDCDFa5KrMT92-HHy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "ACFEE4B6CA597B998631F2A25AA6FA94",
+   "sender": "מוכר דברים",
+   "text": "למכירה גלאקסי a10\nתקין ועובד\n\n400 שקל",
+   "ts": 1791106582000,
+   "date": "2026-10-04",
+   "time": "12:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MoOg_iW2ndWdWGirCOfnzyYfFl10cxEG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MoOg_iW2ndWdWGirCOfnzyYfFl10cxEG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
   }
  ]
 }

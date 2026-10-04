@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-03T17:44:13.576Z",
+ "updated": "2026-10-04T09:08:45.747Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -62,6 +62,66 @@
    ],
    "drive": null,
    "phone": "972502933608"
+  },
+  {
+   "id": "A5D0692DCD440E9EAF59D5D988B9E9BD",
+   "sender": "ליהי גיוס צהרונים תאגיד לביא",
+   "text": "https://wa.me/972547875096?text=אשמח+לפרטים+",
+   "ts": 1791096123000,
+   "date": "2026-10-04",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1X047YNqTwjWR3KlGpldhiFZD8O5seiWY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1X047YNqTwjWR3KlGpldhiFZD8O5seiWY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547875096"
+  },
+  {
+   "id": "AC7B27C58731F2B82BF04AC4F50B7B5A",
+   "sender": "e. forman",
+   "text": "https://wa.me/972535323413=אני\n50% משרה,\nתחילת עבודה במיידי.",
+   "ts": 1791103057000,
+   "date": "2026-10-04",
+   "time": "11:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "275KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DkBvZtN4rPOAGmkh483QuI9Yf_wHPaF4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DkBvZtN4rPOAGmkh483QuI9Yf_wHPaF4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535323413"
+  },
+  {
+   "id": "A57599BA327CBE63EB8536B31106C4BA",
+   "sender": "שחר שאער",
+   "text": "",
+   "ts": 1791104896000,
+   "date": "2026-10-04",
+   "time": "12:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bLTRRFUZ_-zYm4tnBXmcL3uHYhreN7X3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bLTRRFUZ_-zYm4tnBXmcL3uHYhreN7X3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
   }
  ]
 }

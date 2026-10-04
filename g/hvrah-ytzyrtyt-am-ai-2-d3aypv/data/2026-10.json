@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-01T16:26:21.526Z",
+ "updated": "2026-10-04T05:42:02.755Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -118,6 +118,26 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "3EB06D2C6263749FB76E3F",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט_היומי\n*הדמות שלך על כריכת מגזין לאישה*\nצפו בזה בתאריך 4/10/26\nובעוד המון פרומפטים מגניבים הניתנים להעתקה וישום\nhttps://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\nברכת חורף טוב, שגרה בטוחה ורגועה 🩵 שירה",
+   "ts": 1791092507000,
+   "date": "2026-10-04",
+   "time": "08:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1f1RZ-GQfz_YKzeh_uWXTw0cp51Xo54OF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1f1RZ-GQfz_YKzeh_uWXTw0cp51Xo54OF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

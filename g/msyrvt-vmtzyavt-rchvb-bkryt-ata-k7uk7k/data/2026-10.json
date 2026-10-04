@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-03T17:45:43.602Z",
+ "updated": "2026-10-04T09:33:26.917Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -197,6 +197,117 @@
    "files": [],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "2A319FBBB516FA7120A0",
+   "sender": "שוהם פיננסים",
+   "text": "מוזמנת לבא לקחת ממני 1",
+   "ts": 1791097195000,
+   "date": "2026-10-04",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "phone": "972526660231"
+  },
+  {
+   "id": "AC802DC96C9AA846E1DA357537B33697",
+   "sender": "טלי דוד",
+   "text": "",
+   "ts": 1791097409000,
+   "date": "2026-10-04",
+   "time": "10:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TtcxmsEv0-b_nBKTzjvlXmJJaOySgJyV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TtcxmsEv0-b_nBKTzjvlXmJJaOySgJyV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "ACC1480E7C04948B2FD655948712A6D7",
+   "sender": "טלי דוד",
+   "text": "למסירה קלמר 3 תאים של חד קרן.\nדרוש ניקיון",
+   "ts": 1791097409000,
+   "date": "2026-10-04",
+   "time": "10:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FCp-406zJyF7kZZd8nyNapoAXgMQv8Gp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FCp-406zJyF7kZZd8nyNapoAXgMQv8Gp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "AC6CD7D9CEC458D88C1ADB0B1EA94214",
+   "sender": "Rachel Marko",
+   "text": "",
+   "ts": 1791106289000,
+   "date": "2026-10-04",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Xsq0vc2ZLjcO7AE6wU-z8DCTnBPJsDOW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Xsq0vc2ZLjcO7AE6wU-z8DCTnBPJsDOW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549391824"
+  },
+  {
+   "id": "AC5AA1DB95BD0697DB82C755FC6460DA",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1791106305000,
+   "date": "2026-10-04",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BJajOeWsWLr7uFrCMJfPe4KtexPAiCkH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BJajOeWsWLr7uFrCMJfPe4KtexPAiCkH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
+  },
+  {
+   "id": "AC68B043392A132827D318F1A01A1C28",
+   "sender": "Rachel Marko",
+   "text": "משטח לשידת החתלה",
+   "ts": 1791106379000,
+   "date": "2026-10-04",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S62BPIxL_BQPk_6x8GnlCfZw3FRKdTO-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S62BPIxL_BQPk_6x8GnlCfZw3FRKdTO-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549391824"
   }
  ]
 }

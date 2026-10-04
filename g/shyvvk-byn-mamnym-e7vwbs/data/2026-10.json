@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיווק בין מאמנים",
- "updated": "2026-10-01T05:39:18.263Z",
+ "updated": "2026-10-04T05:54:13.461Z",
  "messages": [
   {
    "id": "ACCDAFDAD874AD95584839AA143D6A2C",
@@ -18,6 +18,26 @@
      "path": "https://drive.google.com/file/d/1o1Cgox9srKGtaVsXKH0CeNbWSsfzvoX5/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1o1Cgox9srKGtaVsXKH0CeNbWSsfzvoX5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "ACC575308BB7FB01045C6D4A84CA7103",
+   "sender": "קובי גטניו",
+   "text": "נפגשים היום בשעה 20:00.\nאם יש לכם סיפור אישי על אובדן מוזמנים לשתף בשידור על ההתמודדות והחיים לצד.\nקישור לשידור ינתן בשעה 19:30.",
+   "ts": 1791093239000,
+   "date": "2026-10-04",
+   "time": "08:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11W-mPb0aP23kUeE9pQbXUQONvr7p2zca/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11W-mPb0aP23kUeE9pQbXUQONvr7p2zca&sz=w1200"
     }
    ],
    "drive": null,

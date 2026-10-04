@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-03T18:04:35.047Z",
+ "updated": "2026-10-04T09:24:15.949Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -64,6 +64,88 @@
    "files": [],
    "drive": null,
    "phone": "972524664998"
+  },
+  {
+   "id": "ACC55B1D682B3A28A685A7DFBAC73D44",
+   "sender": "yoniblu1",
+   "text": "אפשר בבקשה לשלוח שוב. לא נפתח לי.  \nתודה רבה",
+   "ts": 1791099722000,
+   "date": "2026-10-04",
+   "time": "10:42",
+   "files": [],
+   "drive": null,
+   "phone": "972556662740"
+  },
+  {
+   "id": "ACAEC1C1FAA53F5994FD8ED24EBCDD12",
+   "sender": "איתי",
+   "text": "",
+   "ts": 1791100330000,
+   "date": "2026-10-04",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "עטיפה משנה בנים כאמדט.docx",
+     "size": "114KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1wxCl6o0cKm2f402rMVC5xSPu2pByNV89/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972558861017"
+  },
+  {
+   "id": "ACA38952D7A8BE570BA7673965908BC9",
+   "sender": "תמר רון",
+   "text": "",
+   "ts": 1791101189000,
+   "date": "2026-10-04",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "הקדמה ללימוד משנה וגמרא גירסת תשפד.pptx",
+     "size": "256KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1SWCL0u3HlqvAFa88r_31HdR4X3ZVIkQM/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "ACCA85C32B4FB43FDB93B589701DCF36",
+   "sender": "שוקר בת אל",
+   "text": "ממי ניתן להזמין את חוברות משנה של סולמות? אפשר טלפון?🙏",
+   "ts": 1791103488000,
+   "date": "2026-10-04",
+   "time": "11:44",
+   "files": [],
+   "drive": null,
+   "phone": "972537662063"
+  },
+  {
+   "id": "AC352F8FFD1BE7FD4704466D9309C59B",
+   "sender": "אלקנה שטראוס",
+   "text": "📇 אלעד לחיאני- סולמות\n+972508741973",
+   "ts": 1791103564000,
+   "date": "2026-10-04",
+   "time": "11:46",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC23EE787C2CEDBEAC7CB3521C61E238",
+   "sender": "שוקר בת אל",
+   "text": "תודה",
+   "ts": 1791105829000,
+   "date": "2026-10-04",
+   "time": "12:23",
+   "files": [],
+   "drive": null,
+   "phone": "972537662063"
   }
  ]
 }

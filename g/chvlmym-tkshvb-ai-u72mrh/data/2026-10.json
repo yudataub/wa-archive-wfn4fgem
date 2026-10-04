@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-03T20:47:45.720Z",
+ "updated": "2026-10-04T08:04:33.452Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -809,6 +809,48 @@
    "files": [],
    "drive": null,
    "phone": "972587708082"
+  },
+  {
+   "id": "3EB0BE45D98AE93ECA60E6",
+   "sender": "חפציה",
+   "text": "בינה מלאכותית- חדשנות בכיתה\nהשתלמות 30 שעות דרך פסג\"ה מעלה אדומים עם חפציה בן ארצי\nמפגש פא\"פ אחד (2.11) , והשאר מקוון.\nבמצפן - 202095\nתינתן עדיפות ברישום לתושבי מעלה אדומים, גוש אדומים מועצה מקומית בקעת הירדן ומגילות",
+   "ts": 1791094637000,
+   "date": "2026-10-04",
+   "time": "09:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QF1csdsKxaYuPXThVuOeaTIND451MqS9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QF1csdsKxaYuPXThVuOeaTIND451MqS9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB009B0F006C846E791FE",
+   "sender": "חפציה",
+   "text": "מאמר מעמיק על סגנונות ליצירת תמונות קומיקס ואנימציה - מאוד מושקע ומעניין\nhttps://www.neolemon.com/blog/list-of-art-styles-for-ai-prompts/",
+   "ts": 1791100810000,
+   "date": "2026-10-04",
+   "time": "11:00",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB07742DA1E6C5EAA8E20",
+   "sender": "חפציה",
+   "text": "זה ממש אוצר... אני מנסה לעשות מזה קטלוג נוח יותר",
+   "ts": 1791101062000,
+   "date": "2026-10-04",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
   }
  ]
 }

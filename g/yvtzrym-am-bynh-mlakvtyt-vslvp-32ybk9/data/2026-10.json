@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-04T05:36:02.635Z",
+ "updated": "2026-10-04T05:40:02.713Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -3648,7 +3648,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1T64c6I9hOmtFobMh--3Ylb7tu4sfjGNN/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1T64c6I9hOmtFobMh--3Ylb7tu4sfjGNN&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1T64c6I9hOmtFobMh--3Ylb7tu4sfjGNN&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-10/A55A5DBA47B0FA96AE6C88C0E7DF0614_0.mp4"
     }
    ],
    "drive": null,
@@ -3679,7 +3680,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1RV2I8JmzeYEcmKIMcq3pZTS5bhfgj8n2/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1RV2I8JmzeYEcmKIMcq3pZTS5bhfgj8n2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1RV2I8JmzeYEcmKIMcq3pZTS5bhfgj8n2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-10/A57F3C2B377E24ACFA1B4E5CC0C97D34_0.mp4"
     }
    ],
    "drive": null,
@@ -3776,7 +3778,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1B4FOoubfT64rLCjVUvpGoATJDanbcHom/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1B4FOoubfT64rLCjVUvpGoATJDanbcHom&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1B4FOoubfT64rLCjVUvpGoATJDanbcHom&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-10/2AE392C45A1B5F6EA6B4_0.mp4"
     }
    ],
    "drive": null,
@@ -3869,6 +3872,28 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "3EB0ED5AAE48B826C5FA10",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "אני יצרתי רשימה שבדקתי שעובדת:\nכאן: https://www.lomdot.org/dailyprompt\nתחפשו בשורות החיפוש פקודות",
+   "ts": 1791092290000,
+   "date": "2026-10-04",
+   "time": "08:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "2A5C8A52FAEAD35F4901",
+   "sender": "972 Education Inc. Orly",
+   "text": "https://www.facebook.com/1440950041/posts/pfbid0aYSd2jvqfoCd4h2HJa5gB7mqS9JsBf2N7yvpkxpdfqzYSZ5gGUVVbPY89oSsTiqPl/?mibextid=wwXIfr",
+   "ts": 1791092383000,
+   "date": "2026-10-04",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
   }
  ]
 }

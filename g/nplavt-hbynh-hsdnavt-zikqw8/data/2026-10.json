@@ -1,1 +1,81 @@
-{"month":"2026-10","group":"נפלאות הבינה - הסדנאות","updated":"2026-10-01T09:26:59.785Z","messages":[{"id":"3EB02352C54029ADF46A0C","sender":"שירה רוט זליקוביץ","text":"#הפרומפט היומי\n*לוח ספירה לאחור רב-אירועי מעוצב*\nהעתיקו את הפרומפט לג'ימיני (במצב קנבס) או לקלוד, הכניסו את שם האירוע, המועד והיום לסוגריים המרובעות. \nמה תקבלו? לא רק אירוע בודד אלא דשבורד שמיצר לכם שעון ספירה לאחור לכל ארוע עם אפשרות של שיתוף. \nלפרומפט: https://www.lomdot.org/dailyprompt","ts":1790835638000,"date":"2026-10-01","time":"09:20","files":[{"name":"וידאו.mp4","size":"992KB","type":"video/mp4","path":"https://drive.google.com/file/d/1xNCJq1dWRB5nrPI3H0sLAwGZBDJ4oB6v/view?usp=drivesdk","skipped":"","thumb":"https://drive.google.com/thumbnail?id=1xNCJq1dWRB5nrPI3H0sLAwGZBDJ4oB6v&sz=w1200","mirror":"https://yudataub.github.io/wa-vid-nplavt-hbynh-hsdnavt-zikqw8/v/2026-10/3EB02352C54029ADF46A0C_0.mp4"}],"drive":null,"phone":"972523930628"},{"id":"3EB018E06788B5540E123D","sender":"שירה רוט זליקוביץ","text":"חברים\nבדקתי שוב את הפרומפט של יצירת הדשבורד. \nכדי ששיתוף אירוע יעבוד, צריך לפרסם את הקובץ באתר משלו. הדרך הכי פשוטה היא Netlify Drop, והיא חינמית: מורידים את קובץ ה-HTML מהצ'אט, משנים את שמו ל-index.html ומכניסים אותו לתיקייה, נכנסים ל-app.netlify.com/drop וגוררים את התיקייה לחלון. מי שמכיר אפשר גם מגיטהב. למי שלא מכיר אז אכניס פרומפט שיוצר אירוע ספציפי","ts":1790843877000,"date":"2026-10-01","time":"11:37","files":[],"drive":null,"phone":"972523930628"},{"id":"ACA7F2B4A26CA0024EFF256A9FB74291","sender":"כרמלה דינר","text":"אני לא מכירה, אשמח לפרומפט ספציפי שיוצר אירוע.","ts":1790845990000,"date":"2026-10-01","time":"12:13","files":[],"drive":null,"phone":"972523939115"},{"id":"3EB0FE900F611564007F28","sender":"שירה רוט זליקוביץ","text":"כבר עלה לאתר","ts":1790846792000,"date":"2026-10-01","time":"12:26","files":[],"drive":null,"phone":"972523930628"}]}
+{
+ "month": "2026-10",
+ "group": "נפלאות הבינה - הסדנאות",
+ "updated": "2026-10-04T05:43:13.278Z",
+ "messages": [
+  {
+   "id": "3EB02352C54029ADF46A0C",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט היומי\n*לוח ספירה לאחור רב-אירועי מעוצב*\nהעתיקו את הפרומפט לג'ימיני (במצב קנבס) או לקלוד, הכניסו את שם האירוע, המועד והיום לסוגריים המרובעות. \nמה תקבלו? לא רק אירוע בודד אלא דשבורד שמיצר לכם שעון ספירה לאחור לכל ארוע עם אפשרות של שיתוף. \nלפרומפט: https://www.lomdot.org/dailyprompt",
+   "ts": 1790835638000,
+   "date": "2026-10-01",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "992KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1xNCJq1dWRB5nrPI3H0sLAwGZBDJ4oB6v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xNCJq1dWRB5nrPI3H0sLAwGZBDJ4oB6v&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-nplavt-hbynh-hsdnavt-zikqw8/v/2026-10/3EB02352C54029ADF46A0C_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB018E06788B5540E123D",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "חברים\nבדקתי שוב את הפרומפט של יצירת הדשבורד. \nכדי ששיתוף אירוע יעבוד, צריך לפרסם את הקובץ באתר משלו. הדרך הכי פשוטה היא Netlify Drop, והיא חינמית: מורידים את קובץ ה-HTML מהצ'אט, משנים את שמו ל-index.html ומכניסים אותו לתיקייה, נכנסים ל-app.netlify.com/drop וגוררים את התיקייה לחלון. מי שמכיר אפשר גם מגיטהב. למי שלא מכיר אז אכניס פרומפט שיוצר אירוע ספציפי",
+   "ts": 1790843877000,
+   "date": "2026-10-01",
+   "time": "11:37",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "ACA7F2B4A26CA0024EFF256A9FB74291",
+   "sender": "כרמלה דינר",
+   "text": "אני לא מכירה, אשמח לפרומפט ספציפי שיוצר אירוע.",
+   "ts": 1790845990000,
+   "date": "2026-10-01",
+   "time": "12:13",
+   "files": [],
+   "drive": null,
+   "phone": "972523939115"
+  },
+  {
+   "id": "3EB0FE900F611564007F28",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "כבר עלה לאתר",
+   "ts": 1790846792000,
+   "date": "2026-10-01",
+   "time": "12:26",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB0EF4C9D7199E1354E5B",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט_היומי\n*הדמות שלך על כריכת מגזין לאישה*\nצפו בזה בתאריך 4/10/26\nובעוד המון פרומפטים מגניבים הניתנים להעתקה וישום\nhttps://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\nברכת חורף טוב, שגרה בטוחה ורגועה 🩵 שירה",
+   "ts": 1791092581000,
+   "date": "2026-10-04",
+   "time": "08:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-VqXewCFBYEWd_jLAKxHA92oWuBVnN2K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-VqXewCFBYEWd_jLAKxHA92oWuBVnN2K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  }
+ ]
+}
