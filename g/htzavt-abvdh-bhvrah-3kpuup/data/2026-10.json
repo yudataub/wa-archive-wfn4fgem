@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-04T11:07:10.881Z",
+ "updated": "2026-10-04T17:13:15.187Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -42,6 +42,26 @@
    ],
    "drive": null,
    "phone": "972527637341"
+  },
+  {
+   "id": "AC5D78B4930880FA6DC373FD98B59004",
+   "sender": "yochai🤩❤💚",
+   "text": "",
+   "ts": 1791133970000,
+   "date": "2026-10-04",
+   "time": "20:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TSoX4D-q2JU3fBONKOHqQ19NUrYskyoT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TSoX4D-q2JU3fBONKOHqQ19NUrYskyoT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503737325"
   }
  ]
 }

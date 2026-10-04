@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-04T13:04:53.793Z",
+ "updated": "2026-10-04T16:40:06.657Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -705,6 +705,37 @@
    ],
    "drive": null,
    "phone": "972528026112"
+  },
+  {
+   "id": "A5823ED44B786CBC3BA816D5E20CE5D0",
+   "sender": "אורית החלקות שיער",
+   "text": "לפרטים נוספים למספר 0539865875",
+   "ts": 1791126461000,
+   "date": "2026-10-04",
+   "time": "18:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m0t1qI-CgzEp99ktIF23WZYEqWeBTyly/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m0t1qI-CgzEp99ktIF23WZYEqWeBTyly&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559593991"
+  },
+  {
+   "id": "3EB0DF8D9BD4EBBFFD23",
+   "sender": "חיים לוי יעוץ משכנתאות",
+   "text": "[סקר]",
+   "ts": 1791131979000,
+   "date": "2026-10-04",
+   "time": "19:39",
+   "files": [],
+   "drive": null,
+   "phone": "972537941565"
   }
  ]
 }

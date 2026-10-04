@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיווק בין מאמנים",
- "updated": "2026-10-04T05:54:13.461Z",
+ "updated": "2026-10-04T16:25:06.420Z",
  "messages": [
   {
    "id": "ACCDAFDAD874AD95584839AA143D6A2C",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/11W-mPb0aP23kUeE9pQbXUQONvr7p2zca/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=11W-mPb0aP23kUeE9pQbXUQONvr7p2zca&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB063D1AC61276BD06090",
+   "sender": "קובי גטניו",
+   "text": "נפגשים היום בשעה 20:00- מתמודדים עם הכאב עם כלים מעולמות ה-CBT.אם יש לכם סיפור אישי,מוזמנים לשידור לשתף.קישור לשידור:https://yozmotgroup.zoom.us/j/89198804371",
+   "ts": 1791131101000,
+   "date": "2026-10-04",
+   "time": "19:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19S-32D4vxqRq9wrFPpr-oUeJCWQdeytO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19S-32D4vxqRq9wrFPpr-oUeJCWQdeytO&sz=w1200"
     }
    ],
    "drive": null,

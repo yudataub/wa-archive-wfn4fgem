@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-10-04T12:38:48.897Z",
+ "updated": "2026-10-04T13:51:01.378Z",
  "messages": [
   {
    "id": "A50F22EA41D67F3A17A00CB1FD164526",
@@ -100,6 +100,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1KPjFFoSVvsGWXAqNKiVon6Lz3RqiM4vu&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A51BEC8D92E325DED8BDEFD283969F51",
+   "sender": "אוריאל פדידה",
+   "text": "חברי אשמורת ? *חוגגים יום הולדת?* סמוך לתאריך הלידה למשך כחודש אתם יכולים לממש את הטבת יום ההולדת. \nלרוב נשלח מסרון לתזכורת. וגם אם לא ניתן להכנס לאתר אשמורת ולבחור שי. ( חלק בתוספת תשלום)\n*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1791121247000,
+   "date": "2026-10-04",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RKv1qzga6AhZxfr-OWCF2kqmjF9bAjUW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RKv1qzga6AhZxfr-OWCF2kqmjF9bAjUW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5B53FDBA06A4987DCC2EEA174B7024A",
+   "sender": "אוריאל פדידה",
+   "text": "📌 חשוב לזכור שימוש בנוטבוק לפרוטוקול יכול להיות רק בסביבה של משתמש ארגוני של משרד החינוך. ( המוגן מפי שימוש חיצוני, וכמובן ברשות הנוכחים ) .",
+   "ts": 1791121838000,
+   "date": "2026-10-04",
+   "time": "16:50",
+   "files": [],
    "drive": null,
    "phone": "972506202812"
   }

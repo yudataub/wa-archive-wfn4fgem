@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-04T11:33:11.283Z",
+ "updated": "2026-10-04T17:35:52.604Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -551,6 +551,106 @@
      "path": "https://drive.google.com/file/d/1l-N7JOXspifgi6yAWbPPBv2hSv-OSuiJ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1l-N7JOXspifgi6yAWbPPBv2hSv-OSuiJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "3A03A1D62A7A86D4EA99",
+   "sender": "דנה מוזס",
+   "text": "למכירה סלקל ג׳ואי סיגניצ׳ור נשכב עם גגון כפול,\nכולל בסיס איזופיקס קבוע לרכב\nבמצב חדש❣️❣️❣️רק-450שח❣️\nאיסוף מקרית אתא.\n0509535820,דנה❣️",
+   "ts": 1791126348000,
+   "date": "2026-10-04",
+   "time": "18:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iJBJcRi86tsFh6Ch-9Cj9giGQpThJ-Xy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iJBJcRi86tsFh6Ch-9Cj9giGQpThJ-Xy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509535820"
+  },
+  {
+   "id": "AC1FB5DB1380F1D00B892D682F530092",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791135334000,
+   "date": "2026-10-04",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rOUhhe9qtBBsTVCbRJc-ta7tWykGmaQS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rOUhhe9qtBBsTVCbRJc-ta7tWykGmaQS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACA341E5286960A5B606FB7A20FD9BDA",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791135334000,
+   "date": "2026-10-04",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MUDzmfRlEHOuBHjdfdFUcOWWxBe9UImf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MUDzmfRlEHOuBHjdfdFUcOWWxBe9UImf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACE6A06E91FF54BF64437F52E5AB9B7A",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791135334000,
+   "date": "2026-10-04",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BqI2hXrSttlXcmJ4NCqL4u-Ph-cNYhTT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BqI2hXrSttlXcmJ4NCqL4u-Ph-cNYhTT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC139F64DE660E9146108C71A540F878",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791135335000,
+   "date": "2026-10-04",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cBMleckYj-Ny116Dcw_5xr7P2je5oBer/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cBMleckYj-Ny116Dcw_5xr7P2je5oBer&sz=w1200"
     }
    ],
    "drive": null,

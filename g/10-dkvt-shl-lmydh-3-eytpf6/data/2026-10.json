@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "10 דקות של למידה 3",
- "updated": "2026-10-01T10:00:52.643Z",
+ "updated": "2026-10-04T17:01:27.982Z",
  "messages": [
   {
    "id": "3EB0811D2E55A7B002952B",
@@ -20,6 +20,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=1ZjnzxRsWaLdAA-AklfBBZhjK3h_e53vw&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB011559EBE19F0618902",
+   "sender": "Or Pelach",
+   "text": "ערב טוב @all \nלהלן קישור לזום.\n*מתחילים ב-20:00*\nשימו 🩷 - יש רק 100 מקומות.\nhttps://us06web.zoom.us/j/87421714119?pwd=tkUBiyaDSzSlJD0itaoQrBaiz9onh9.1",
+   "ts": 1791130089000,
+   "date": "2026-10-04",
+   "time": "19:08",
+   "files": [],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB0977DD5B28F1F9ED282",
+   "sender": "Or Pelach",
+   "text": "קישור מעודכן: https://us06web.zoom.us/j/88066336669?pwd=Lb9ULA81ox9OSWgGkG4xK5FGHJgWCx.1",
+   "ts": 1791133257000,
+   "date": "2026-10-04",
+   "time": "20:00",
+   "files": [],
    "drive": null,
    "phone": "972545691051"
   }

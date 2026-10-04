@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-04T11:11:40.937Z",
+ "updated": "2026-10-04T16:41:06.671Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -144,6 +144,57 @@
    "files": [],
    "drive": null,
    "phone": "972503954200"
+  },
+  {
+   "id": "AC67341DB1A9B364A21A5435DF56B569",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1791130412000,
+   "date": "2026-10-04",
+   "time": "19:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NDJBgR9SvhWK9MrKb8meQRBGvWLB7rd8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NDJBgR9SvhWK9MrKb8meQRBGvWLB7rd8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548427609"
+  },
+  {
+   "id": "ACC2B515CB118B83AB96DA6280E6FE54",
+   "sender": "Lital Mastriz",
+   "text": "",
+   "ts": 1791131810000,
+   "date": "2026-10-04",
+   "time": "19:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "266KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OmxrXXEb5D5x6rzlRyEeVxMA8oxNrivC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OmxrXXEb5D5x6rzlRyEeVxMA8oxNrivC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587235900"
+  },
+  {
+   "id": "AC5E5055B5CB6F81F73C053658F8C43B",
+   "sender": "Elisheva",
+   "text": "שלום וברכה,\nאני מתענינת לגבי משרה למורה עמיתה או מקצועית . בירושלים עדיפות לאזור גילה.\nאני בעלת תואר ראשון בחינוך וחברה.\nובעלת תעודת הוראה.\nעם 12 שנות ניסיון.\nאלישבע גורסיה\n0533661350",
+   "ts": 1791132054000,
+   "date": "2026-10-04",
+   "time": "19:40",
+   "files": [],
+   "drive": null,
+   "phone": "972533661350"
   }
  ]
 }

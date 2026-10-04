@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-04T12:27:48.747Z",
+ "updated": "2026-10-04T15:30:58.843Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -788,6 +788,99 @@
    "files": [],
    "drive": null,
    "phone": "972555628710"
+  },
+  {
+   "id": "ACD4CDF03FD5B91681A50AF2547F1A4A",
+   "sender": "אורלי",
+   "text": "תתקיים השתלמות בתנך לספר ויקרא ושופטים?",
+   "ts": 1791121291000,
+   "date": "2026-10-04",
+   "time": "16:41",
+   "files": [],
+   "drive": null,
+   "phone": "972548001078"
+  },
+  {
+   "id": "ACB2BC18F8076A7695305B1476A1FC24",
+   "sender": "ישראל יוקל",
+   "text": "בע\"ה תתקיים השנה השתלמות.\nאשלח פרטים בע\"ה בהמשך.",
+   "ts": 1791121497000,
+   "date": "2026-10-04",
+   "time": "16:44",
+   "files": [],
+   "drive": null,
+   "phone": "972542261101"
+  },
+  {
+   "id": "AC382AA56E3C8AAA3A4E5C443A6A1B49",
+   "sender": "michal Aloni",
+   "text": "עבודת חקר שתלמידי הכהנים עשו לפני שנתיים.\nהשנה אי\"ה יש לי בן כהן אחד בכיתה (השאר בנות)\nאנו ניפגש ביום שישי בבית הכנסת עם האבא הכהן של התחמיד ונלמד ונחקור...\nבטוחה שיהיה מרתק ואקטואלי תורת חיים.",
+   "ts": 1791123106000,
+   "date": "2026-10-04",
+   "time": "17:11",
+   "files": [],
+   "drive": null,
+   "phone": "972502320458"
+  },
+  {
+   "id": "AC8407D7EB3BDD9C15788E0D40840876",
+   "sender": "🤝",
+   "text": "אם אפשר לשלוח שוב. תודה",
+   "ts": 1791127298000,
+   "date": "2026-10-04",
+   "time": "18:21",
+   "files": [],
+   "drive": null,
+   "phone": "972542148318"
+  },
+  {
+   "id": "AC0F66BA0FB534210C9388842FB897E7",
+   "sender": "ליאורה כהן😍",
+   "text": "",
+   "ts": 1791127418000,
+   "date": "2026-10-04",
+   "time": "18:23",
+   "files": [
+    {
+     "name": "כשאדם מגיע לבית המקדש-משימה לסיום הקרבנות.pdf.pdf",
+     "size": "516KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RQAlrtZsLJ6i797DUfCpd2YLNL5LMhnp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505708421"
+  },
+  {
+   "id": "AC9450ABDDA67FB03DEBF73B12082F00",
+   "sender": "חיוש🐻",
+   "text": "תודה",
+   "ts": 1791127490000,
+   "date": "2026-10-04",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "phone": "972522220820"
+  },
+  {
+   "id": "3EB0A89D4AA2388C6350C5",
+   "sender": "ישראל יוקל",
+   "text": "ערכתי אותו מעט (באישורה של דינה כמובן)",
+   "ts": 1791127828000,
+   "date": "2026-10-04",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "עותק של כשאדם מגיע לבית המקדש (1).pdf",
+     "size": "447KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1aIa0NIeBlTS5nmmFY0G-QD8_NiJ4pwt3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542261101"
   }
  ]
 }

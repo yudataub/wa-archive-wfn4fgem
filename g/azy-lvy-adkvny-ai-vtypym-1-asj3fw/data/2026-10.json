@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עזי לוי -עדכוני AI וטיפים -1",
- "updated": "2026-10-04T13:00:49.289Z",
+ "updated": "2026-10-04T14:36:58.831Z",
  "messages": [
   {
    "id": "3EB06B8149D092A82FFE26",
@@ -37,7 +37,28 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1rPyJ8TElNwAnYSoCig31NSU70NkGAryX/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1rPyJ8TElNwAnYSoCig31NSU70NkGAryX&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1rPyJ8TElNwAnYSoCig31NSU70NkGAryX&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-azy-lvy-adkvny-ai-vtypym-1-asj3fw/v/2026-10/3EB03098B40DF6047948B9_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0F94183BD91E3C0DDB0",
+   "sender": "Ezy Levy",
+   "text": "עוד שינוי גדול שהגיע מהכיוון של GOOGLE\nגוגל מתחילה להעביר את ה GEMS ל SKILLS.  ( כמו GPTS שהפכו ל PLUGINS )\nוזה לא רק שינוי בשם.\nאם בניתם לעצמכם GEM ב Gemini, אז ככה:\nה- *GEM* הוא עוזר שבניתם למשימה מסוימת.\nוה- *SKILL* הוא יכולת ש Gemini יכול להפעיל כשצריך, גם כחלק מתהליך גדול יותר.\n\nלדוגמה:\nבמקום לבנות GEM נפרד שכותב סיכום ישיבה, אפשר ליצור SKILL שמגדיר בדיוק איך אתם רוצים שהסיכום ייראה, החלטות, משימות, אחראים ותאריכים.\nואז Gemini יכול להשתמש ביכולת הזאת בכל פעם שאתם מבקשים ממנו לטפל בישיבה. ללא צורך בהפעלת בוט מיוחד לכך.\nכלומר, פחות \"בוט לכל משימה\", יותר \"יכולות שאפשר להרכיב ביחד\".\nבאמצע אוקטובר כבר לא יהיה אפשר ליצור או לערוך GEMS, ואמצע בנובמבר יתחיל המעבר האוטומטי בחשבונות פרטיים.\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.",
+   "ts": 1791124611000,
+   "date": "2026-10-04",
+   "time": "17:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WQlCAveeABXZ2IO2PhKgqKsEGSTE3wMe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WQlCAveeABXZ2IO2PhKgqKsEGSTE3wMe&sz=w1200"
     }
    ],
    "drive": null,

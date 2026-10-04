@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-04T13:20:24.050Z",
+ "updated": "2026-10-04T16:27:36.428Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -252,6 +252,80 @@
    "files": [],
    "drive": null,
    "phone": "972507570338"
+  },
+  {
+   "id": "AC63E2F5CB2C62CE133047A898E259B4",
+   "sender": "אלקנה שטראוס",
+   "text": "אין קישורים...\nהמשימות נמצאות במאגר המשימות באתר מפמר  תושבע",
+   "ts": 1791121818000,
+   "date": "2026-10-04",
+   "time": "16:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC5857AA561DF48310EB3D141184CB30",
+   "sender": "אלקנה שטראוס",
+   "text": "לא הכול קיים. חלק עדיין בבניה ועולה לאט לאט לאתר",
+   "ts": 1791121859000,
+   "date": "2026-10-04",
+   "time": "16:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "ACE166DE7D3AFB4AAEE97F277B608192",
+   "sender": "אורית הודיה",
+   "text": "https://share.google/aimode/GmRbVSxmevoLOZK8i",
+   "ts": 1791122018000,
+   "date": "2026-10-04",
+   "time": "16:53",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACE640A5A8C4D73B69037A4D82F49ECB",
+   "sender": "אוריה",
+   "text": "מציאת פרק והלכה מתוך הכתוב בחוברת\nדפדוף אחורה וקדימה בקיצושע עד למקום הנכון\nקריאה של השאלות הרלוונטיות בחוברת\nקריאת הסעיפים הרלוונטיים בקיצושע תוך מציאת מילות התשובה\nחזרה לשאלות, מענה במחברת\nחזרה לקיצושע להדגשות במידת הצורך",
+   "ts": 1791126853000,
+   "date": "2026-10-04",
+   "time": "18:14",
+   "files": [],
+   "drive": null,
+   "phone": "972546645422"
+  },
+  {
+   "id": "AC4B4EA7529947E072F552BA99D88CEA",
+   "sender": "אתי",
+   "text": "https://docs.google.com/document/d/198B7_5CPebULCuO-nAGsnDI2zL6gk1s519mNQKytRW0/edit?tab=t.0",
+   "ts": 1791131043000,
+   "date": "2026-10-04",
+   "time": "19:24",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC2B97060B477E75375F40AF060616D1",
+   "sender": "תמי",
+   "text": "",
+   "ts": 1791131232000,
+   "date": "2026-10-04",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "3KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1UEtlErRiIxgQ2iY2gEzUIXVcKjDhf039/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525986370"
   }
  ]
 }

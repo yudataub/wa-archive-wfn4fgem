@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-04T13:27:54.152Z",
+ "updated": "2026-10-04T16:27:36.452Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -506,6 +506,46 @@
    "files": [],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "AC8E894971182B16D3C310BD9DACFAFC",
+   "sender": "גדז' שמעון",
+   "text": "🧐 למה התורה נגמרת לפני שהגיע הסוף??\nסרטון מסכם בפרויקט סרטוני פרשת השבוע שאני עושה עם ידידי נעם יעקובסון. \n*בקרוב יוצא הספר!* 📔 \n\n(אמנם אין כאן את התשובה לחידה היומית, אבל בכל זאת) \nשווה צפיה!\n\nלהצטרפות לקבוצת הואטסאפ של *סרטוני נעם יעקובסון*- ליחצו כאן",
+   "ts": 1791123392000,
+   "date": "2026-10-04",
+   "time": "17:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "24.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1cL2x_e4OPXE3_5AaahSSB4N5JdFvD8Lu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cL2x_e4OPXE3_5AaahSSB4N5JdFvD8Lu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545614454"
+  },
+  {
+   "id": "ACE3AD6B40999DF8082C0E2EE62F1D0A",
+   "sender": "אלינוי פינטו נדלן תיווך",
+   "text": "טיל בליסטי \nלמכירה \nבקריית אתא \nרחוב כצנלסון \n4 חדרים 100 מ\"ר \nקומה 2 \nחניה מקורה \nמחסן\nבניין בוטיק 6 דיירים סך הכל \nמרחק הליכה מגן כצנלסון ומכל מוקדי העניין \nמחיר 1280000\nלפרטים : אלינוי פינטו תיווך ומשכנתאות 0528232974",
+   "ts": 1791131249000,
+   "date": "2026-10-04",
+   "time": "19:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xYfE0-f0DYfLjL2_JvSAbAGi1IqLZKit/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xYfE0-f0DYfLjL2_JvSAbAGi1IqLZKit&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528232974"
   }
  ]
 }

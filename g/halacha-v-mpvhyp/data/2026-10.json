@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-04T12:21:18.680Z",
+ "updated": "2026-10-04T17:34:52.571Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -84,6 +84,102 @@
    "files": [],
    "drive": null,
    "phone": "972585803058"
+  },
+  {
+   "id": "3EB0F8CBEA0C9598785227",
+   "sender": "דוד ביטון",
+   "text": "ערב טוב,\nאשמח לרעיונות לתכנים ללמידה 🙏",
+   "ts": 1791134874000,
+   "date": "2026-10-04",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972544282904"
+  },
+  {
+   "id": "AC18A9117958EE892C49E70659E895D6",
+   "sender": "ליזה",
+   "text": "אשמח לקבל קישור לקבוצה של כיתה ה🙏",
+   "ts": 1791135006000,
+   "date": "2026-10-04",
+   "time": "20:30",
+   "files": [],
+   "drive": null,
+   "phone": "972583283047"
+  },
+  {
+   "id": "3EB02B76EDD2576B2E6278",
+   "sender": "דוד ביטון",
+   "text": "יש בתיאור הקבוצה את כל הקישורים לכל הקבוצות",
+   "ts": 1791135037000,
+   "date": "2026-10-04",
+   "time": "20:30",
+   "files": [],
+   "drive": null,
+   "phone": "972544282904"
+  },
+  {
+   "id": "AC5763432A39EC43697FC53B42F774C8",
+   "sender": "ליזה",
+   "text": "משום מה הטלפון לא פותח לי את הקישור",
+   "ts": 1791135093000,
+   "date": "2026-10-04",
+   "time": "20:31",
+   "files": [],
+   "drive": null,
+   "phone": "972583283047"
+  },
+  {
+   "id": "3EB0C0A0F5320CD9BBA99B",
+   "sender": "דוד ביטון",
+   "text": "",
+   "ts": 1791135132000,
+   "date": "2026-10-04",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972544282904"
+  },
+  {
+   "id": "ACAC928281D2A02FBB7905D4BB9552B4",
+   "sender": "ליזה",
+   "text": "תודה רבה",
+   "ts": 1791135177000,
+   "date": "2026-10-04",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972583283047"
+  },
+  {
+   "id": "ACCCBAE4D324A0136A86D90E69635FBD",
+   "sender": "עינב כהן",
+   "text": "אשמח לתוכנית הלימודים בהלכה",
+   "ts": 1791135220000,
+   "date": "2026-10-04",
+   "time": "20:33",
+   "files": [],
+   "drive": null,
+   "phone": "972523335693"
+  },
+  {
+   "id": "3EB022FFC3CF8751B7B0DC",
+   "sender": "דוד ביטון",
+   "text": "",
+   "ts": 1791135280000,
+   "date": "2026-10-04",
+   "time": "20:34",
+   "files": [
+    {
+     "name": "tochnitnew6 (1).docx",
+     "size": "29KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1zv7RC5CFNQipYhZVnrsDcqi0cyd8jw2b/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544282904"
   }
  ]
 }

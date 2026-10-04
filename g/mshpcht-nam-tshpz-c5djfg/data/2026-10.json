@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-04T12:51:23.581Z",
+ "updated": "2026-10-04T16:15:36.296Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -213,6 +213,36 @@
    "ts": 1791118256000,
    "date": "2026-10-04",
    "time": "15:50",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC4A67582B6F480E75DD55D22CADFA38",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1791130515000,
+   "date": "2026-10-04",
+   "time": "19:15",
+   "files": [
+    {
+     "name": "115446 alon briut talmidim_2026-27_misrad briut_biz.indd ver 2.0.pdf",
+     "size": "4.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FD8LHmMt4tc5v_B6LgYg7LEO8rgeXTh2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC3D4FB19E734D0CEF00384730424C09",
+   "sender": "אורלי אוחנה",
+   "text": "☝️נא לשלוח לקבוצת ההורים",
+   "ts": 1791130525000,
+   "date": "2026-10-04",
+   "time": "19:15",
    "files": [],
    "drive": null,
    "phone": "972507864721"

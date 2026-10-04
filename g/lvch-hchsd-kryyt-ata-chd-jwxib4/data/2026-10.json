@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-04T12:43:18.993Z",
+ "updated": "2026-10-04T14:31:17.565Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -1528,6 +1528,154 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC6D556FF2486F6C63D3AF8D51CF0A00",
+   "sender": "דויד אלבו",
+   "text": "שלום האם דוכן פלאפל ירושלים שליד חנות תיקים נסגר ?",
+   "ts": 1791121971000,
+   "date": "2026-10-04",
+   "time": "16:52",
+   "files": [],
+   "drive": null,
+   "phone": "972528546866"
+  },
+  {
+   "id": "ACB80DC76FF6C4A7E9FBE6BB9A4FF22E",
+   "sender": "דויד אלבו",
+   "text": "מול הקניון מעבר לכביש",
+   "ts": 1791122001000,
+   "date": "2026-10-04",
+   "time": "16:53",
+   "files": [],
+   "drive": null,
+   "phone": "972528546866"
+  },
+  {
+   "id": "2A1D485908AAB39C3621",
+   "sender": "גבו",
+   "text": "",
+   "ts": 1791122493000,
+   "date": "2026-10-04",
+   "time": "17:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "300KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12FlEpOaxWWlVRgKW-MqWGahe5FSOp9rj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12FlEpOaxWWlVRgKW-MqWGahe5FSOp9rj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525736001"
+  },
+  {
+   "id": "2AA16CF1BC7549D211BB",
+   "sender": "גבו",
+   "text": "למסירה מקרית אתא",
+   "ts": 1791122496000,
+   "date": "2026-10-04",
+   "time": "17:01",
+   "files": [],
+   "drive": null,
+   "phone": "972525736001"
+  },
+  {
+   "id": "2A8912AE788962F9B0FC",
+   "sender": "גבו",
+   "text": "0525736001",
+   "ts": 1791122502000,
+   "date": "2026-10-04",
+   "time": "17:01",
+   "files": [],
+   "drive": null,
+   "phone": "972525736001"
+  },
+  {
+   "id": "ACD40CEA3432A488BDDD1DBC1B2E3B74",
+   "sender": "אריאל",
+   "text": "למישהו יש תמי 4 או בר מים שלא משתמשים למסירה או במחיר מוזל",
+   "ts": 1791122547000,
+   "date": "2026-10-04",
+   "time": "17:02",
+   "files": [],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "ACB19921B622B6081021BCD43D342E3D",
+   "sender": "עדי ישראל 🫶",
+   "text": "",
+   "ts": 1791123141000,
+   "date": "2026-10-04",
+   "time": "17:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "333KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xdtQvi4H6D0jQE1NkLZ3mjL1ijFVl70b/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xdtQvi4H6D0jQE1NkLZ3mjL1ijFVl70b&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "ACA7D4C3BE548AFE29A0BF9BAF2FEFBF",
+   "sender": "עדי ישראל 🫶",
+   "text": "להורים ולתלמידים שלום. היוםםם!!!\nאנכנו חוזרים לפעילות\nבבהס גורדון ק.אתא ר\"ח ברנר 1 באולם הספורט.\nגני ילדים חובה 17:00-18:00\n\nכיתות ב ג ד 18:00-19:00",
+   "ts": 1791123142000,
+   "date": "2026-10-04",
+   "time": "17:12",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "ACD121C6ED57102FF4CCFB4EB69D92B8",
+   "sender": "עדי ישראל 🫶",
+   "text": "מחר אפשר לבוא לאימון ניסיון",
+   "ts": 1791123142000,
+   "date": "2026-10-04",
+   "time": "17:12",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "A50BD1F9489C33C395E259BD7F84487C",
+   "sender": "גיל יעקובוביץ",
+   "text": "היי, אם יש למישהו אתרוג שבירכו עליו שאין לו צורך בו אשמח לקחת לטובת ריבת אתרוגים❤️\n\n0528524292-קורל\n\nתודה תבוא עליכם הברכה❤️",
+   "ts": 1791124190000,
+   "date": "2026-10-04",
+   "time": "17:29",
+   "files": [],
+   "drive": null,
+   "phone": "972525168212"
+  },
+  {
+   "id": "AC4FB69AEDCA13498779AEE50E3E5C47",
+   "sender": ".",
+   "text": "",
+   "ts": 1791124253000,
+   "date": "2026-10-04",
+   "time": "17:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "392KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WPP4DWaWpVjmHOxq4v15JHdeFhqj7BcJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WPP4DWaWpVjmHOxq4v15JHdeFhqj7BcJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552969311"
   }
  ]
 }

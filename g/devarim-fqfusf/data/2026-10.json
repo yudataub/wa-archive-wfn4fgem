@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-04T10:15:26.122Z",
+ "updated": "2026-10-04T16:43:57.681Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -289,6 +289,58 @@
    "files": [],
    "drive": null,
    "phone": "972524669264"
+  },
+  {
+   "id": "AC79C6E2D6496C4F736C6F8F1E5B12AF",
+   "sender": "𝕊𝕙𝕒𝕟𝕚 ℕah𝕞𝕒𝕟𝕚",
+   "text": "",
+   "ts": 1791123596000,
+   "date": "2026-10-04",
+   "time": "17:19",
+   "files": [
+    {
+     "name": "סיכום שמואל א והקשר לשמואל ב.pdf",
+     "size": "22.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19UEx4YjWrOOhlw1uAfDZG5NtTmom1QvU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559489202"
+  },
+  {
+   "id": "AC697B8EAC2AA7F600F8B1895F83FC7D",
+   "sender": ".@",
+   "text": "שלום רב, אשמח לשמוע באיזו חוברת אתם משתמשים לחומש דברים? \n\nעדיפות לחוברת קלילה, תואמת לכיתת ל\"ל 🙏🙏🙏",
+   "ts": 1791131233000,
+   "date": "2026-10-04",
+   "time": "19:27",
+   "files": [],
+   "drive": null,
+   "phone": "972542255308"
+  },
+  {
+   "id": "AC0D81F0813E04AA3C90439D388EE265",
+   "sender": "הודיה לנקרי🥰",
+   "text": "ישקו העדרים",
+   "ts": 1791131299000,
+   "date": "2026-10-04",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "phone": "972525333679"
+  },
+  {
+   "id": "AC8525BA573F9E8644F22C572EC738D6",
+   "sender": "😍",
+   "text": "בינת המקראות",
+   "ts": 1791132217000,
+   "date": "2026-10-04",
+   "time": "19:43",
+   "files": [],
+   "drive": null,
+   "phone": "972584091501"
   }
  ]
 }

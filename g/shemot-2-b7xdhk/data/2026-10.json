@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-04T06:50:58.802Z",
+ "updated": "2026-10-04T16:50:44.858Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -177,6 +177,99 @@
    "files": [],
    "drive": null,
    "phone": "972523571440"
+  },
+  {
+   "id": "ACDEFBB4CF8E346E152BEF2ADD089D36",
+   "sender": "שירה אסולין",
+   "text": "מחפשת דף הקדמה לחומש שמות",
+   "ts": 1791127992000,
+   "date": "2026-10-04",
+   "time": "18:33",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "ACD46B8BA311C6D10DE45BD86E68162D",
+   "sender": "שירה אסולין",
+   "text": "מחפשת דפי עבודה בחומש שמות",
+   "ts": 1791127994000,
+   "date": "2026-10-04",
+   "time": "18:33",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "ACD41D5E08A5AF2A7F16C871F2508B67",
+   "sender": "נטלי חייק🎀",
+   "text": "יש מצגת ממש טובה ששלחו בתחילת השנה.",
+   "ts": 1791129650000,
+   "date": "2026-10-04",
+   "time": "19:00",
+   "files": [],
+   "drive": null,
+   "phone": "972548525125"
+  },
+  {
+   "id": "AC0F90578E21C9CCD197C2644268994D",
+   "sender": "נטלי חייק🎀",
+   "text": "",
+   "ts": 1791129723000,
+   "date": "2026-10-04",
+   "time": "19:02",
+   "files": [
+    {
+     "name": "הקדמה לחומש שמות מצגת מלווה שיעור עם חידון מבראשית (1) (2).pptx",
+     "size": "152KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1UtQnVf5LiSatSH3kS0oC97gc7QUUCBbz/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548525125"
+  },
+  {
+   "id": "3EB0F0CE83D72818911FDF",
+   "sender": "טובה אטינגר",
+   "text": "משתפת חידון שהכנתי על פרק א כחזרה אחרי החופשה. ממליצה לחלק את הכיתה לשתי קבוצות זה יוצר עניין כשיש תחרות, וגם  כך הבנות החזקות עזרו לקבוצה שלהם...",
+   "ts": 1791131297000,
+   "date": "2026-10-04",
+   "time": "19:28",
+   "files": [
+    {
+     "name": "מצגת חזרה על פרשת שמות פרק א.pptx",
+     "size": "2.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1vTAjyAIwNWpnBSQdxj_WBpmBd1g9zp3C/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537414782"
+  },
+  {
+   "id": "3EB05C16E0B65A6E9AA432",
+   "sender": "טובה אטינגר",
+   "text": "כמובן עם חומשים פתוחים",
+   "ts": 1791131779000,
+   "date": "2026-10-04",
+   "time": "19:36",
+   "files": [],
+   "drive": null,
+   "phone": "972537414782"
+  },
+  {
+   "id": "ACC3B3553373FC7EBE9691A695C26CE3",
+   "sender": "שירה אסולין",
+   "text": "אשמח לדפי עבודה בחומש שמות",
+   "ts": 1791132643000,
+   "date": "2026-10-04",
+   "time": "19:50",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
   }
  ]
 }
