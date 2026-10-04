@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "10 דקות של למידה 3",
- "updated": "2026-10-04T17:01:27.982Z",
+ "updated": "2026-10-04T18:38:44.498Z",
  "messages": [
   {
    "id": "3EB0811D2E55A7B002952B",
@@ -41,6 +41,17 @@
    "ts": 1791133257000,
    "date": "2026-10-04",
    "time": "20:00",
+   "files": [],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB01C6DD5B95BFCEB13D9",
+   "sender": "Or Pelach",
+   "text": "להלן קישור להקלטת המפגש:\nhttps://youtu.be/fQWN8DwMxl4",
+   "ts": 1791139106000,
+   "date": "2026-10-04",
+   "time": "21:38",
    "files": [],
    "drive": null,
    "phone": "972545691051"

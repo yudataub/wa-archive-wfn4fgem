@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-04T14:31:17.565Z",
+ "updated": "2026-10-04T21:16:21.340Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -1230,7 +1230,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Dixeov79ryxkXl1lz1_3OVVDp_LfQg0C/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Dixeov79ryxkXl1lz1_3OVVDp_LfQg0C&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Dixeov79ryxkXl1lz1_3OVVDp_LfQg0C&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2A949E478BD54A28F6D5_0.mp4"
     }
    ],
    "drive": null,
@@ -1250,7 +1251,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/16gU5hXq65nMGkoZR0VIS_wyxo_QRgIXh/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=16gU5hXq65nMGkoZR0VIS_wyxo_QRgIXh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=16gU5hXq65nMGkoZR0VIS_wyxo_QRgIXh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2A4BF61703F00F53EC10_0.mp4"
     }
    ],
    "drive": null,
@@ -1676,6 +1678,147 @@
    ],
    "drive": null,
    "phone": "972552969311"
+  },
+  {
+   "id": "A53B4BA215384402A83DC630BD2EE1C2",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*למכירה*\n\nתמי 4 פאמילי טאץ\nשמור כחדש\n058-713-2636",
+   "ts": 1791135835000,
+   "date": "2026-10-04",
+   "time": "20:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Iyo_BTp_FOIR4IgCXYrM1NhawoSbwHDM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Iyo_BTp_FOIR4IgCXYrM1NhawoSbwHDM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "AC5302383C154F54FFC1736385618A8A",
+   "sender": "דויד אלבו",
+   "text": "ערב טוב למבינים במים וחשמל מה הסיבה על חשבון מים גבוה וגם חשבון חשמל גבוה בקריית אתא ?? שמעתי ממישהו שזה בגלל שקריית אתא הייתה כפר מושב מזמן לפני שנהפך לעיר ? אשמח להסברים",
+   "ts": 1791135947000,
+   "date": "2026-10-04",
+   "time": "20:45",
+   "files": [],
+   "drive": null,
+   "phone": "972528546866"
+  },
+  {
+   "id": "AC718D865987F9B89E3060D8AD22A2C1",
+   "sender": "הודיה ברזלי🌷",
+   "text": "אתה משלם על מה שאתה משתמש, אין קשר בין מה שהיה בעבר עם העיר/מושב וכו...",
+   "ts": 1791136413000,
+   "date": "2026-10-04",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "phone": "972525621472"
+  },
+  {
+   "id": "AC258C9E1F752E2345304502F06AC0EF",
+   "sender": "א עמר",
+   "text": "הזדמנות לפרסם משרות בחינם בצפון\n\nנתקלתם במודעת דרושים שמתאימה לציבור החרדי? אפשר לשלוח אותה למספר 058-321-4490, והיא תפורסם בקבוצת פרנסה טובה  צפון שמונה למעלה מ3000 חברים, ללא תשלום.\n\nאפשר לשלוח משרות מחיפה והקריות, עכו, כרמיאל, נהריה, צפת, טבריה, עפולה והסביבה.",
+   "ts": 1791137426000,
+   "date": "2026-10-04",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "phone": "972508422190"
+  },
+  {
+   "id": "AC3B8AC49ACEEEC898DAA4A51616DA15",
+   "sender": "B",
+   "text": "ארנונה?",
+   "ts": 1791138494000,
+   "date": "2026-10-04",
+   "time": "21:28",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "AC6EC8B310CD105FCA63DD66EF6865C9",
+   "sender": "יעל",
+   "text": "שלום . מחפשת למישהי דירה לשכירות האיזור הבעל שם טוב.דירה 4 . עם מעלית וממד\". מי מכיר ??",
+   "ts": 1791138520000,
+   "date": "2026-10-04",
+   "time": "21:28",
+   "files": [],
+   "drive": null,
+   "phone": "972547633464"
+  },
+  {
+   "id": "ACA4143B9928E09C83A29B5A346B5CB3",
+   "sender": "דויד אלבו",
+   "text": "מים וחשמל",
+   "ts": 1791139576000,
+   "date": "2026-10-04",
+   "time": "21:46",
+   "files": [],
+   "drive": null,
+   "phone": "972528546866"
+  },
+  {
+   "id": "AC4A692C3624D1D8859C5A1D22EB5AB4",
+   "sender": "אלירן",
+   "text": "*🏠 להשכרה ברכסים - רח' האורנים, גבעה א'*\n\nדירת 3 חדרים חדשה ומרווחת!\n📐 60 מ\"ר + *40 מ\"ר מרפסת סוכה גדולה*\n🏠 קומת קרקע - כניסה נוחה, בלי מדרגות\n✨ חדשה\n🔑 כניסה מיידית\n\nלפרטים ותיאום:\n📞 052-715-2249\n📞 052-344-5911",
+   "ts": 1791139897000,
+   "date": "2026-10-04",
+   "time": "21:51",
+   "files": [],
+   "drive": null,
+   "phone": "972523445911"
+  },
+  {
+   "id": "A58A4EDF071C4896B07059BB581C7E51",
+   "sender": "הזמרת חן ברוכים -בר יעוץ והפקות",
+   "text": "הציבור היקר מתבקש להתפלל ולומר פרקי תהילים\nעבור האישה\nלבנה חיה בת מירב מרים תחי'\n(אחות האברך הר' דוד מוגרבי הי\"ו)\nשנמצאת כעת במצב קשה\nוזקוקה לרחמי שמיים מרובים\nבתוך שאר חולי ישראל\nוהן ק-ל כביר לא ימאס תפילת רבים\nונזכה להתבשר בבשורות טובות.",
+   "ts": 1791141433000,
+   "date": "2026-10-04",
+   "time": "22:17",
+   "files": [],
+   "drive": null,
+   "phone": "972545223044"
+  },
+  {
+   "id": "AC836B2600549B2C4BC11A60B076C8DE",
+   "sender": "מנחם חזן",
+   "text": "רפואה שלמה אמן",
+   "ts": 1791144173000,
+   "date": "2026-10-04",
+   "time": "23:02",
+   "files": [],
+   "drive": null,
+   "phone": "972509877002"
+  },
+  {
+   "id": "AC0978347376D7987B931E37C8B21D3D",
+   "sender": "עדי ישראל 🫶",
+   "text": "רפואה שלמה אמןן 🙏",
+   "ts": 1791147355000,
+   "date": "2026-10-04",
+   "time": "23:55",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "ACF109E1A8A79E1052D30922D6390201",
+   "sender": "רוית נאומה",
+   "text": "רפואה שלימה בע\"ה יתברך",
+   "ts": 1791148557000,
+   "date": "2026-10-05",
+   "time": "00:15",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-04T09:48:57.202Z",
+ "updated": "2026-10-04T20:12:40.796Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -353,6 +353,169 @@
    "files": [],
    "drive": null,
    "phone": "972532324016"
+  },
+  {
+   "id": "3ADF5669345A2521EC80",
+   "sender": "AYALA",
+   "text": "ערב טוב\nלמישהו יש חומרי לימוד על פרשת במדבר פרקים ג-ד?",
+   "ts": 1791138586000,
+   "date": "2026-10-04",
+   "time": "21:29",
+   "files": [],
+   "drive": null,
+   "phone": "972543924189"
+  },
+  {
+   "id": "ACBE96F0653A7E5E8D17470342192195",
+   "sender": "אילנה אפרת אברמוביץ",
+   "text": "טפשר חוברת על במדבר  לכיתה ה",
+   "ts": 1791138765000,
+   "date": "2026-10-04",
+   "time": "21:32",
+   "files": [],
+   "drive": null,
+   "phone": "972585914371"
+  },
+  {
+   "id": "3AC283D7D7A5A8A72ED3",
+   "sender": "AYALA",
+   "text": "אני מורה לכיתת תקשורת\nאני צריכה משהו קליל/פעילות בנושאים של הפרקים🙏🏻",
+   "ts": 1791138922000,
+   "date": "2026-10-04",
+   "time": "21:35",
+   "files": [],
+   "drive": null,
+   "phone": "972543924189"
+  },
+  {
+   "id": "AC574EA80B9647E63D117597EA1C43D2",
+   "sender": "Michal Shterenberg",
+   "text": "מצטרפת",
+   "ts": 1791139158000,
+   "date": "2026-10-04",
+   "time": "21:39",
+   "files": [],
+   "drive": null,
+   "phone": "972502991960"
+  },
+  {
+   "id": "AC026FC4CB704D0D80C973ACEE4BFF31",
+   "sender": "Tammy",
+   "text": "ערב טוב\nצריכה בבקשה את הקישור לקבוצה של דברים ושמואל ב",
+   "ts": 1791143002000,
+   "date": "2026-10-04",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972507875066"
+  },
+  {
+   "id": "ACEF73EED5522F8FEC1BCAF08F2484F4",
+   "sender": "תמר",
+   "text": "יש מפת מסע בנ\"י במדבר רלוונטית?",
+   "ts": 1791143604000,
+   "date": "2026-10-04",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972532243233"
+  },
+  {
+   "id": "AC5BDB997465020B79FC1B35A7F419A8",
+   "sender": "תמר",
+   "text": "אשמח❣️",
+   "ts": 1791143607000,
+   "date": "2026-10-04",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972532243233"
+  },
+  {
+   "id": "AC3A5F1B2495972D880DCE5C0D409DEC",
+   "sender": "בת חן",
+   "text": "מחפשת דף עבודה על תפילת חנה",
+   "ts": 1791143633000,
+   "date": "2026-10-04",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972525099981"
+  },
+  {
+   "id": "3EB05051F187C50391CDB1",
+   "sender": "חנה🤍🤍🩷🩷🩵🩵",
+   "text": "",
+   "ts": 1791143742000,
+   "date": "2026-10-04",
+   "time": "22:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18v8SLotA_6BFJpjigWg0N0eBwlTM0Whe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18v8SLotA_6BFJpjigWg0N0eBwlTM0Whe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538671271"
+  },
+  {
+   "id": "ACECBBEF215B2E987149D64397797C3A",
+   "sender": "פנינה כ\"ץ",
+   "text": "מהמם",
+   "ts": 1791144274000,
+   "date": "2026-10-04",
+   "time": "23:04",
+   "files": [],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "AC3F79F1787873B09D9F9608DFFC22AA",
+   "sender": "פנינה כ\"ץ",
+   "text": "אפשר בקובץ פתוח בבקשה?",
+   "ts": 1791144278000,
+   "date": "2026-10-04",
+   "time": "23:04",
+   "files": [],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "3EB0AA1E87B9D58A10A686",
+   "sender": "חנה🤍🤍🩷🩷🩵🩵",
+   "text": "https://canva.link/jrjiqk5z4unaf92",
+   "ts": 1791144693000,
+   "date": "2026-10-04",
+   "time": "23:11",
+   "files": [],
+   "drive": null,
+   "phone": "972538671271"
+  },
+  {
+   "id": "3EB02F067AE144E494231A",
+   "sender": "חנה🤍🤍🩷🩷🩵🩵",
+   "text": "בשמחה",
+   "ts": 1791144694000,
+   "date": "2026-10-04",
+   "time": "23:11",
+   "files": [],
+   "drive": null,
+   "phone": "972538671271"
+  },
+  {
+   "id": "ACCA3C74DD06B5574F290034698E252C",
+   "sender": "אילנה אפרת אברמוביץ",
+   "text": "אפשר חוברת לספר במדבר",
+   "ts": 1791144742000,
+   "date": "2026-10-04",
+   "time": "23:12",
+   "files": [],
+   "drive": null,
+   "phone": "972585914371"
   }
  ]
 }

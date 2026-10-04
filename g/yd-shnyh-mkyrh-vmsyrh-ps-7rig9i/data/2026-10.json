@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-04T17:35:52.604Z",
+ "updated": "2026-10-04T18:22:27.630Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -655,6 +655,88 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "3EB0C7D9E2E200DA62205F",
+   "sender": "Noam",
+   "text": "*מסך מחשב של LG בגודל 22 אינץ' במצב מצוין. ניתן להוסיף מתאם  HDMI . מחיר 130 ש\"ח*",
+   "ts": 1791137503000,
+   "date": "2026-10-04",
+   "time": "21:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "11KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZT2VJcmVg-fjftHb1Dke2JaBNd1Qc1Yb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZT2VJcmVg-fjftHb1Dke2JaBNd1Qc1Yb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "AC27DBA0C4CA0B3B9CA66D8958077FD6",
+   "sender": "מוכר דברים",
+   "text": "​✨ ברוכים הבאים לקבוצת יד2 בשמים ואיפור | מכירה מסירה ארצית! ✨\n​הקבוצה מיועדת למכירה ולמסירה של מוצרי טיפוח, בשמים ואיפור מכל הארץ.\nכדי לשמור על הסדר והאיכות של הקבוצה, אנא קראו והקפידו על החוקים הבאים:\n​📜 חוקי הקבוצה\n​🚫 ללא קישורים ופרסומות: חל איסור מוחלט על שליחת קישורים ופרסומות מכל סוג.\n​📸 מגבלת תמונות: ניתן לשלוח עד 4 תמונות בלבד לכל פריט.\n​🏷️ פרטי הפריט: כל הודעה חייבת לכלול:\n​מחיר (או מצוין כ\"מסירה\")\n​עיר\n​מצב המוצר: חדש / משומש\n​סוג הצעות: מכירה / מסירה\n​📬 פניות ומענה: לכל שאלה יש לפנות למנהל אחד בלבד (אין לפנות לכל המנהלים במקביל).\n​⏰ שעות פעילות הקבוצה\n​ראשון עד חמישי: 08:00 – 22:00\n​שישי: 08:00 – 14:00\n​שבתות וחגים: הקבוצה סגורה\n​📌 שימו לב: הקבוצה נפתחת לכתיבה בימי ראשון בלבד!\n​🔗 קישור לשיתוף הקבוצה:",
+   "ts": 1791138011000,
+   "date": "2026-10-04",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "3ADE1AB8773FCFD7F484",
+   "sender": "מורדי ממן",
+   "text": "",
+   "ts": 1791138111000,
+   "date": "2026-10-04",
+   "time": "21:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gJSjyDxtL2Afn9eocNxiSqV78R_FXsjg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gJSjyDxtL2Afn9eocNxiSqV78R_FXsjg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534209129"
+  },
+  {
+   "id": "3AE0E050754535FBE196",
+   "sender": "מורדי ממן",
+   "text": "",
+   "ts": 1791138111000,
+   "date": "2026-10-04",
+   "time": "21:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MupxfvdtH8zGdYaYVCs1Kzw3pd4BU9Qo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MupxfvdtH8zGdYaYVCs1Kzw3pd4BU9Qo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534209129"
+  },
+  {
+   "id": "3AD225BF3C45602E4F6F",
+   "sender": "מורדי ממן",
+   "text": "ספה פינתית קורדרוי שמנת 260 ס״מ -שזלוג ימני \nלמכירה פרטים בפרטי",
+   "ts": 1791138112000,
+   "date": "2026-10-04",
+   "time": "21:21",
+   "files": [],
+   "drive": null,
+   "phone": "972534209129"
   }
  ]
 }

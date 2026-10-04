@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-04T08:05:44.716Z",
+ "updated": "2026-10-04T18:13:53.132Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -352,6 +352,37 @@
    ],
    "drive": null,
    "phone": "972553087073"
+  },
+  {
+   "id": "A5994E361E52C4DBB288D2554016F2A6",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*למכירה*\n\nתמי 4 פאמילי טאץ\nשמור כחדש\n058-713-2636",
+   "ts": 1791135863000,
+   "date": "2026-10-04",
+   "time": "20:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NPeWDuMxvhXQncDxy6bvB2rS5WaMrKi_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NPeWDuMxvhXQncDxy6bvB2rS5WaMrKi_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A5803A8ADCEC7E2F7D56F56C4ADE3EDE",
+   "sender": "עזריאל",
+   "text": "הזדמנות לפרסם משרות בחינם בצפון\n\nנתקלתם במודעת דרושים שמתאימה לציבור החרדי? אפשר לשלוח אותה למספר 058-321-4490, והיא תפורסם בקבוצת פרנסה טובה  צפון שמונה למעלה מ3000 חברים, ללא תשלום.\n\nאפשר לשלוח משרות מחיפה והקריות, עכו, כרמיאל, נהריה, צפת, טבריה, עפולה והסביבה.",
+   "ts": 1791137626000,
+   "date": "2026-10-04",
+   "time": "21:13",
+   "files": [],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }

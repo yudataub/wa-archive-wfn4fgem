@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-04T17:09:45.156Z",
+ "updated": "2026-10-04T19:42:33.647Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -848,6 +848,57 @@
    "files": [],
    "drive": null,
    "phone": "972542089996"
+  },
+  {
+   "id": "ACA9B3D619F6015D083E6CE4C19E8C27",
+   "sender": "יאיר בוכבינדר",
+   "text": "חברים יקרים❣️\n\nבשעה טובה יצא לאור \"עץ ארז\" חלק ח' מאת הרב אליהו רחמים זייני שליט\"א📚🤩\nבין הסוגיות שבכרך:\n📖 רשות הרבים דאורייתא\n📖 הנחת תפילין בתשעה באב\n📖 על שלוש השבועות\nועוד סוגיות רבות.\n\nלהזמנה באתר👇🏽\nhttps://www.orvishua.com/product/%d7%a2%d7%a5-%d7%90%d7%a8%d7%96-%d7%97%d7%9c%d7%a7-%d7%97/\n\nבברכה,\nחנות הספרים📚",
+   "ts": 1791140485000,
+   "date": "2026-10-04",
+   "time": "22:01",
+   "files": [],
+   "drive": null,
+   "phone": "972545885131"
+  },
+  {
+   "id": "AC2BCD0F658B903D27202E237FC30C3A",
+   "sender": "סמדר",
+   "text": "",
+   "ts": 1791142923000,
+   "date": "2026-10-04",
+   "time": "22:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1y_ZoWXm97QEIY0Kn-RJvdJrsAe87PEHX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y_ZoWXm97QEIY0Kn-RJvdJrsAe87PEHX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524323134"
+  },
+  {
+   "id": "AC6F51E9769A733CAD3A94708E92B415",
+   "sender": "סמדר",
+   "text": "",
+   "ts": 1791142923000,
+   "date": "2026-10-04",
+   "time": "22:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "130KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1b1qSDhtGB-CONKiK0iX8hjgJ9hcnHGyR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b1qSDhtGB-CONKiK0iX8hjgJ9hcnHGyR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524323134"
   }
  ]
 }

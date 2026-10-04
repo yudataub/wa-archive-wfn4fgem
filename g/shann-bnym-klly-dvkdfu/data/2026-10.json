@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-10-04T16:25:06.411Z",
+ "updated": "2026-10-04T18:24:27.683Z",
  "messages": [
   {
    "id": "ACAA37DC60E64C63863EDF33581F1386",
@@ -581,6 +581,26 @@
    "files": [],
    "drive": null,
    "phone": "972509510076"
+  },
+  {
+   "id": "3A3151D700D507426B2A",
+   "sender": "יוסי מאירוב",
+   "text": "דרושים מורים שרוצים להגיע למשפחה,להוביל,לתרום ולסייע\nמוכר גם לסטאז'.\nמוזמנים לפנות!",
+   "ts": 1791138145000,
+   "date": "2026-10-04",
+   "time": "21:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "354KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VYL42rmAmJCLdaJ6U8iv3IifzUSYMFYl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VYL42rmAmJCLdaJ6U8iv3IifzUSYMFYl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545459059"
   }
  ]
 }

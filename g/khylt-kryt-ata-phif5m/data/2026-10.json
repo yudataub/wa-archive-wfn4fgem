@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-04T17:10:15.154Z",
+ "updated": "2026-10-04T18:09:23.083Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -1222,6 +1222,26 @@
    "files": [],
    "drive": null,
    "phone": "972542089996"
+  },
+  {
+   "id": "A59A9A728B9D9BE4D179FFE4E6BD2598",
+   "sender": "נטלי שיר",
+   "text": "",
+   "ts": 1791137351000,
+   "date": "2026-10-04",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I1uDftUJRCb__p_VwTqU3LkCkZUZNhje/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I1uDftUJRCb__p_VwTqU3LkCkZUZNhje&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542514562"
   }
  ]
 }

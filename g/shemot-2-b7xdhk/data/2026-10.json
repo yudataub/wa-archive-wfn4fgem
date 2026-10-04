@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-04T16:50:44.858Z",
+ "updated": "2026-10-04T20:24:43.307Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -270,6 +270,88 @@
    "files": [],
    "drive": null,
    "phone": "972586342815"
+  },
+  {
+   "id": "3EB085E37D294C79457DB9",
+   "sender": "בדרך אמונה בחרתי🤍💖",
+   "text": "אפשר להעלות את זה שוב בבקשה",
+   "ts": 1791142221000,
+   "date": "2026-10-04",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972524933111"
+  },
+  {
+   "id": "ACA169CCFD8EFA3D162BE46963B382B2",
+   "sender": "Sterni Schtroks",
+   "text": "יש מצגת ליהושע?",
+   "ts": 1791142272000,
+   "date": "2026-10-04",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972559611722"
+  },
+  {
+   "id": "AC4C55E943F8A781990406E6EFB6BBE6",
+   "sender": "הודיה זיני",
+   "text": "",
+   "ts": 1791142354000,
+   "date": "2026-10-04",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "הַקְדָּמָה לְסֵפֶר יְהוֹשֻׁעַ - טקסט (מנוקד)+משימות.pdf",
+     "size": "318KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bQqhFt81fs9vSUe_tpeducZLcX5u0GSy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584263284"
+  },
+  {
+   "id": "3AAAB1B985BA49EB1E1D",
+   "sender": "אֲבִישַׁג🦋",
+   "text": "טקסט על פרק א׳ יהושוע",
+   "ts": 1791142444000,
+   "date": "2026-10-04",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972584548500"
+  },
+  {
+   "id": "3EB06FBF4A3FC0F346BBE6",
+   "sender": "טובה אטינגר",
+   "text": "מצגת חזרה על פרק א בפרשת שמות",
+   "ts": 1791143786000,
+   "date": "2026-10-04",
+   "time": "22:56",
+   "files": [
+    {
+     "name": "מצגת חזרה על פרשת שמות פרק א.pdf",
+     "size": "1011KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1AvlAFINLImQkkMsNkfJLtzAt86LNXdrV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537414782"
+  },
+  {
+   "id": "AC606E6A71A83F656E47FC451BEA1299",
+   "sender": "אתי דחבש",
+   "text": "אשמח להקדמה לספר שופטים",
+   "ts": 1791145459000,
+   "date": "2026-10-04",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972502488002"
   }
  ]
 }

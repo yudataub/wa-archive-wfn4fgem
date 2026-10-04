@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-04T11:44:11.462Z",
+ "updated": "2026-10-04T19:47:33.719Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -74,6 +74,188 @@
    ],
    "drive": null,
    "phone": "972775719850"
+  },
+  {
+   "id": "AC3E2E606ADD2C5C5FF339234CD884AD",
+   "sender": "איילת שלמה",
+   "text": "ערב טוב.\nאשמח שתכוונו אותי איך להתחיל ללמד משנה מסכת סוכה לכיתת בנות.\nלאחר ההקדמה שעשיתי כולל מצגת",
+   "ts": 1791136492000,
+   "date": "2026-10-04",
+   "time": "20:54",
+   "files": [],
+   "drive": null,
+   "phone": "972552492648"
+  },
+  {
+   "id": "ACB84933CB7DA24FF2D5DA036AC5FDC9",
+   "sender": "ציפי רוזן",
+   "text": "הפריסה השנתית היא לא מותאמת לחוברת משניות בהירות לכיתה ד",
+   "ts": 1791136633000,
+   "date": "2026-10-04",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15xYh6ZAXu7EDmCs3HrcSpSbakrZ14nsJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15xYh6ZAXu7EDmCs3HrcSpSbakrZ14nsJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523541031"
+  },
+  {
+   "id": "AC1F8494F1E2956DB69AA5AB5DFA8BD2",
+   "sender": "איילת שלמה",
+   "text": "אז מה עושים?",
+   "ts": 1791136686000,
+   "date": "2026-10-04",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972552492648"
+  },
+  {
+   "id": "AC3C48CC237A40A95739E0DC54E0C01F",
+   "sender": "ציפי רוזן",
+   "text": "אני גם שואלת",
+   "ts": 1791136721000,
+   "date": "2026-10-04",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972523541031"
+  },
+  {
+   "id": "AC17EF3A5BE493200F81C074ADB21283",
+   "sender": "אלקנה שטראוס",
+   "text": "משניות בהירות אינה לפי תכ\"ל. תפנו לרכז הקודש שלכם שיסייע מול ההנהלה לרכישת חוברת מותאמת (רצים למסכת)",
+   "ts": 1791136850000,
+   "date": "2026-10-04",
+   "time": "21:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC8592406514D0E1D1E28DF20F8F381F",
+   "sender": "✨️",
+   "text": "כנל",
+   "ts": 1791136962000,
+   "date": "2026-10-04",
+   "time": "21:02",
+   "files": [],
+   "drive": null,
+   "phone": "972543553131"
+  },
+  {
+   "id": "AC56DE299364112FE53ADC1F33DC661D",
+   "sender": "בתאל קובי",
+   "text": "מה עושים אם יש רק שיעור אחד בשבוע?",
+   "ts": 1791137500000,
+   "date": "2026-10-04",
+   "time": "21:11",
+   "files": [],
+   "drive": null,
+   "phone": "972549425523"
+  },
+  {
+   "id": "AC6D02E306D281D83FC59D65E1F1BB9C",
+   "sender": "בתאל קובי",
+   "text": "לא נראה ריאלי לסיים את המסכת",
+   "ts": 1791137501000,
+   "date": "2026-10-04",
+   "time": "21:11",
+   "files": [],
+   "drive": null,
+   "phone": "972549425523"
+  },
+  {
+   "id": "ACADCBEC2296A2FE38F8C9D20A0C2EFE",
+   "sender": "ציפי רוזן",
+   "text": "נכון.",
+   "ts": 1791137823000,
+   "date": "2026-10-04",
+   "time": "21:17",
+   "files": [],
+   "drive": null,
+   "phone": "972523541031"
+  },
+  {
+   "id": "ACE3504BD3CF3291C58820B0C8B04470",
+   "sender": "Lior.A",
+   "text": "לדעתי אם לומדים שתי משניות בשבוע זה ריאלי",
+   "ts": 1791139147000,
+   "date": "2026-10-04",
+   "time": "21:39",
+   "files": [],
+   "drive": null,
+   "phone": "972533285811"
+  },
+  {
+   "id": "3A76CADCA7EB00DAC0F3",
+   "sender": "אלעזר",
+   "text": "ריאלי בהחלט\nיש משניות קלות. \nבשעת הצורך אפשר ללמוד בקצב מהיר יותר חלק מהמשניות ולהיעזר בסרטונים המעולים שיש",
+   "ts": 1791139709000,
+   "date": "2026-10-04",
+   "time": "21:48",
+   "files": [],
+   "drive": null,
+   "phone": "972533334930"
+  },
+  {
+   "id": "ACBB929FF58D8D96550AD5B402257EEC",
+   "sender": "בתאל קובי",
+   "text": "בקושי משנה אחת מצליחות להבין בשיעור.. אז שתיים בשיעור אחד?",
+   "ts": 1791139841000,
+   "date": "2026-10-04",
+   "time": "21:50",
+   "files": [],
+   "drive": null,
+   "phone": "972549425523"
+  },
+  {
+   "id": "3EB09327CEADC994BBC483",
+   "sender": "אלקנה שטראוס",
+   "text": "לכן בת-אל כתבה שתי משניות בשבוע",
+   "ts": 1791139909000,
+   "date": "2026-10-04",
+   "time": "21:51",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB020CBA8C07F5E1266FC",
+   "sender": "אסף אלדר",
+   "text": "תודה לתמונות מCHATGPT",
+   "ts": 1791142549000,
+   "date": "2026-10-04",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "מסכת סוכה.pdf",
+     "size": "1.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1nh2fGK18gSKpYHWw_RIJbhjEQSqreAdU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "3EB039F12FB00831062D4F",
+   "sender": "אסף אלדר",
+   "text": "https://canva.link/awh9prt821xpdov",
+   "ts": 1791143237000,
+   "date": "2026-10-04",
+   "time": "22:47",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
   }
  ]
 }

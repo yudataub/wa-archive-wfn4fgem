@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-04T15:30:58.843Z",
+ "updated": "2026-10-04T20:33:13.428Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -881,6 +881,96 @@
    ],
    "drive": null,
    "phone": "972542261101"
+  },
+  {
+   "id": "3AFA2D47B66389EA5164",
+   "sender": "הילה בר",
+   "text": "עריכה למחברת נביא שופטים🙏",
+   "ts": 1791144825000,
+   "date": "2026-10-04",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972553046261"
+  },
+  {
+   "id": "AC07036B50B19656C6AAB2BED0E17578",
+   "sender": "רננה",
+   "text": "אפשר שיעור הקדמה לשופטים?",
+   "ts": 1791145091000,
+   "date": "2026-10-04",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972525080019"
+  },
+  {
+   "id": "AC77A76A20B6C344F268FB69219260C4",
+   "sender": "רננה",
+   "text": "",
+   "ts": 1791145743000,
+   "date": "2026-10-04",
+   "time": "23:29",
+   "files": [],
+   "drive": null,
+   "phone": "972525080019"
+  },
+  {
+   "id": "AC6FA6861BF529815A5C170766325D6A",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791145921000,
+   "date": "2026-10-04",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "חוברת עבודה שופטים.pdf",
+     "size": "1.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1czm3NetuqMj9z3arrHC9DuO0dCjQJokz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACBBA265CD8D9AD950B475278DFF513F",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791145932000,
+   "date": "2026-10-04",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "Joshua_to_Judges.pptx",
+     "size": "10.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/14kEJKVoNdM9ziDZNCyEO-DlekjCT1pLF/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC654A42663D034515EEE51F49420432",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791145959000,
+   "date": "2026-10-04",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "The_Judges_Era.pdf",
+     "size": "19.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1b7ztTQJbjHrfE54ewlMH0pV4TSHDj5dL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
   }
  ]
 }
