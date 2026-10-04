@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-03T13:03:01.913Z",
+ "updated": "2026-10-04T13:33:26.676Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -1465,6 +1465,109 @@
    ],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "A54C90FB08965849D4BE1C3D8671FDC9",
+   "sender": "תמר חמאדה",
+   "text": "חברים, אחרי שחקרתי לעומק את נושא הפיכת הג׳מים לסקילז - וכפי שהבטחתי לחזור עם הפרטים המלאים.\n\nאז קודם כל, מה קורה בג׳מיני? גוגל מעבירה אותנו מ-Gems ל-Skills.\nומה זה בעצם Skills? חבילת הוראות שמלמדת את ג׳מיני לבצע משהו בצורה קבועה ומדויקת - בלי לכתוב את הכל מחדש כל פעם.\nהסבר מלא בסרטון הבא -\n https://youtu.be/WaERD7c1f04\n\nובמפגש הקהילה הראשון שלנו, שיתקיים ב-14 לחודש, אראה לכם את כל הדרך: איך מגבים את הג׳מים שלנו וממירים אותם לסקילז, גם באופן ידני 💛\nלהרשמה למפגש: https://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nרעיונות פוגשים בינה | תמר חמאדה",
+   "ts": 1791108903000,
+   "date": "2026-10-04",
+   "time": "13:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1quYaSenMVp6tw5FD5ddEr4-SYCAZKubZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1quYaSenMVp6tw5FD5ddEr4-SYCAZKubZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "ACEDABF89294E9D2BF3A7B7B52031746",
+   "sender": "טַלִּי",
+   "text": "האם יש פתרון כזה גם ל GPT's?",
+   "ts": 1791109063000,
+   "date": "2026-10-04",
+   "time": "13:17",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "ACB5593E7B9E640B713C4F78CD5B3721",
+   "sender": "Liran Bar Zeev",
+   "text": "הצלחתי לבצע את המעבר באופן כללי.\n\nבעייה שנתקלתי בה שלדעתי אין לה עדיין פתרון היא ג׳מס שהיו מחוברים לנוטבוק כמקור ידע.\n\nלהבנתי אין עדיין תמיכה בכך.\n\nאם יש כזאת אשמח לשמוע איך עושים זאת.",
+   "ts": 1791109804000,
+   "date": "2026-10-04",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972509030065"
+  },
+  {
+   "id": "A5FDF4B1AB10F5EE6C44F8C44F0D39E6",
+   "sender": "סייבר אנד קודינג",
+   "text": "כן..אם לא רלוונטי אמחק",
+   "ts": 1791109834000,
+   "date": "2026-10-04",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528372666"
+  },
+  {
+   "id": "3EB0C7146EE56C312DB8FA",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791110762000,
+   "date": "2026-10-04",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "exploded-product-visualizer.zip",
+     "size": "2KB",
+     "type": "application/x-zip-compressed",
+     "path": "https://drive.google.com/file/d/1_vgBDrhK5qfwtjtsIsWmDHSMFnVTOPDL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A589CBD9A747BF3084D1DF9091B839F6",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אני רק כתבתי: הסברון למה מחירי הנפט עולים.\n\nרוצים ללמוד ליצור סרטונים כאלו בכזו קלות?\nמוזמנים לוובינאר שלי",
+   "ts": 1791117352000,
+   "date": "2026-10-04",
+   "time": "15:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "18.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CzvUD1F7ita3fHa_FKpT-WgT-Is2ucvl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CzvUD1F7ita3fHa_FKpT-WgT-Is2ucvl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACADB33DFB669E59C8BECC67C3EDE1F3",
+   "sender": "תמר⛱️🦦🕵🏻‍♀",
+   "text": "מתי?? זה?",
+   "ts": 1791120791000,
+   "date": "2026-10-04",
+   "time": "16:33",
+   "files": [],
+   "drive": null,
+   "phone": "972545240551"
   }
  ]
 }

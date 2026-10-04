@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-04T08:31:45.113Z",
+ "updated": "2026-10-04T12:27:48.747Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -644,6 +644,150 @@
    "files": [],
    "drive": null,
    "phone": "972525687351"
+  },
+  {
+   "id": "2AF8F046C76CA5230409",
+   "sender": "אפרת בן חמו",
+   "text": "מחפשת גם",
+   "ts": 1791108157000,
+   "date": "2026-10-04",
+   "time": "13:02",
+   "files": [],
+   "drive": null,
+   "phone": "972555507557"
+  },
+  {
+   "id": "AC31491CE20B3CF82C8FB70AFEDE9D55",
+   "sender": "תהילה",
+   "text": "יש מצגת להקדמה לחומש ויקרא?",
+   "ts": 1791109388000,
+   "date": "2026-10-04",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "phone": "972547455711"
+  },
+  {
+   "id": "ACE1154241C0C5A7144780440F7A9E20",
+   "sender": "שני",
+   "text": "",
+   "ts": 1791110230000,
+   "date": "2026-10-04",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "מצגת לכיתה ד'1 הקדמה לספר ויקרא_20260905_223545_0000.pdf",
+     "size": "32.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1osZxqiK3ZwkxIwK27EPla35mDtl-YHKC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508330116"
+  },
+  {
+   "id": "ACBEF001B0D302B000F6012F5A5D19FF",
+   "sender": "שני",
+   "text": "",
+   "ts": 1791110231000,
+   "date": "2026-10-04",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13h3TtjN3MNP65Q5UUO6qOiZWoTIZLNHJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13h3TtjN3MNP65Q5UUO6qOiZWoTIZLNHJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508330116"
+  },
+  {
+   "id": "AC7EF115A417EF55E720B25094E21254",
+   "sender": "שני",
+   "text": "",
+   "ts": 1791110232000,
+   "date": "2026-10-04",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "דף עבודה הקדמה לספר ויקרא.pdf",
+     "size": "102KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tNPfYAH6eRJzcYe4iK3KEuuhKyW-jiaL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508330116"
+  },
+  {
+   "id": "AC1C95EEA53FB03FFF5EAFD9DC282E63",
+   "sender": "תהילה",
+   "text": "",
+   "ts": 1791110881000,
+   "date": "2026-10-04",
+   "time": "13:48",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "11KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1L7D9EHkz_gDqW1HJm60GjkXiMsXCFYFg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L7D9EHkz_gDqW1HJm60GjkXiMsXCFYFg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547455711"
+  },
+  {
+   "id": "3EB00B208E8A151C4D108E",
+   "sender": "רינת שמע",
+   "text": "אפשר בבקשה לשלוח דף עם שמות השופטים?",
+   "ts": 1791114136000,
+   "date": "2026-10-04",
+   "time": "14:42",
+   "files": [],
+   "drive": null,
+   "phone": "972543099241"
+  },
+  {
+   "id": "ACE5F0A855258F91AD23C8914788EE63",
+   "sender": "חסידה כנפי רוח",
+   "text": "איך אפשר לצרף עוד מורה לקבוצה?",
+   "ts": 1791115870000,
+   "date": "2026-10-04",
+   "time": "15:11",
+   "files": [],
+   "drive": null,
+   "phone": "972515587794"
+  },
+  {
+   "id": "ACE52A83463BDF1A3E84A768A43CA3F5",
+   "sender": "שני",
+   "text": "דרך פה. https://did.li/kvotzot",
+   "ts": 1791116128000,
+   "date": "2026-10-04",
+   "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972508330116"
+  },
+  {
+   "id": "AC43D0DF4014DCC670EF82FBBFF715A8",
+   "sender": "דבורה יעקבזון",
+   "text": "אפשר בבקשה לשלוח מצגת הקדמה לשופטים?",
+   "ts": 1791116842000,
+   "date": "2026-10-04",
+   "time": "15:27",
+   "files": [],
+   "drive": null,
+   "phone": "972555628710"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-04T09:03:15.666Z",
+ "updated": "2026-10-04T11:37:11.343Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -926,6 +926,26 @@
      "path": "https://drive.google.com/file/d/1LFq-k_wG0nicqayx4GvKuAiJVmRbnRZX/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1LFq-k_wG0nicqayx4GvKuAiJVmRbnRZX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "AC7C3AD6127D6FC10D51208A19E3B499",
+   "sender": "ronentayar",
+   "text": "תושבים יקרים,\r\nמחברת מעיינות אתא נמסר כי בעקבות עבודות לשדרוג תשתיות המים שמבצעת חברת מקורות בעיר, תופסק זמנית אספקת המים הלילה, בין יום ראשון ליום שני, 04-05.10.26, החל מהשעה 22:00 ועד לשעה 10:00 למחרת בבוקר.\r\n\r\nהפסקת המים תחול באזורים הבאים:\r\nשכונות: גבעת טל, גבעת אלונים, גבעת רם וגבעת הרקפות.\r\nרחובות: הרצוג, משאש, בן עמי, השבעה, קיש, בר כוכבא, גוש עציון, המכבים, מבצע סיני, סמטת הושע, סמטת עמוס, הרב מימון, מ\"ג, מינץ, יצחק שדה, אריה רגב וסמטת יואל.\r\n\r\nלפניות ובירורים: 1800-200-464\r\n\r\n------------\r\nלהצטרפות לקבוצת הוואטסאפ העירונית:\r\nhttps://kiryat-ata.toshavil.co.il/group?g=עדכונים",
+   "ts": 1791113808000,
+   "date": "2026-10-04",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "297KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tWlq7X3mG3-zft8j_x4pYH_TRPJAkEtd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tWlq7X3mG3-zft8j_x4pYH_TRPJAkEtd&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-04T07:13:59.174Z",
+ "updated": "2026-10-04T12:21:18.680Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -35,6 +35,55 @@
    "files": [],
    "drive": null,
    "phone": "972508738650"
+  },
+  {
+   "id": "AC80BCF2B228C59507E1A1899C14F47E",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1791116407000,
+   "date": "2026-10-04",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "התמצאות בקיצור שולחן ערוך מעודכן.docx",
+     "size": "19KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Hx9JiGtGtbGexnfU4RlUHOVDP-L03GfA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "AC482455E3B1635DA45D20045C8D77C4",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1791116409000,
+   "date": "2026-10-04",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "מיומנויות הלכה מקרה דין טעם.docx",
+     "size": "23KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1orj7TlpEnkvQJH5oAZ5W8g9JCR-qPAJ0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "AC2F2774763EDAFB5316829B572E014B",
+   "sender": "יצחק ינון סלאב",
+   "text": "שתי מיומנויות לבניית לומד עצמי👆",
+   "ts": 1791116475000,
+   "date": "2026-10-04",
+   "time": "15:21",
+   "files": [],
+   "drive": null,
+   "phone": "972585803058"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-04T09:27:26.853Z",
+ "updated": "2026-10-04T13:38:01.188Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -820,6 +820,151 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "AC62FA6E5C967F78E04DD87E8A4C63D8",
+   "sender": "ישראל אהרוני",
+   "text": "",
+   "ts": 1791106857000,
+   "date": "2026-10-04",
+   "time": "12:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Pxjp5I1StwBwuIcWIwcx9A4bqypElYZC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pxjp5I1StwBwuIcWIwcx9A4bqypElYZC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "ACC1D8E055FE992B7EB956440414E5B5",
+   "sender": "ישראל אהרוני",
+   "text": "חושים בפעולה, חוג חוויתי ומהנה לבנים! *לטווח גילאים 4-5.5 שנים.*",
+   "ts": 1791106870000,
+   "date": "2026-10-04",
+   "time": "12:41",
+   "files": [],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "AC0D554B017CF1FE3069F62F56BC964E",
+   "sender": "ישראל אהרוני",
+   "text": "",
+   "ts": 1791106935000,
+   "date": "2026-10-04",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "366KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sxLA4-uVF4lBMp-xhwakRuLxqPXzGY_V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sxLA4-uVF4lBMp-xhwakRuLxqPXzGY_V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "AC4A837B01A4E1CA63392A75B8260D3D",
+   "sender": "ישראל אהרוני",
+   "text": "משחקות בכיף: חוג לבנות בכיתה א' שמסייע לילדות להשתלב מבחינה חברתית ולהרגיש בטוחות בעצמן ובין החברות. *פתוח לרישום גם לכיתות ב'.*",
+   "ts": 1791106950000,
+   "date": "2026-10-04",
+   "time": "12:42",
+   "files": [],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "3EB08AFEFDA2E53CDDA5F8",
+   "sender": "ישי",
+   "text": "כווווולם מוזמנים!!!",
+   "ts": 1791109303000,
+   "date": "2026-10-04",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "419KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gHC-CQ4WWOKZgnbLrW02tcQGiOyHaM6L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gHC-CQ4WWOKZgnbLrW02tcQGiOyHaM6L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC57227010F8964F5016A96CA23C4EE2",
+   "sender": "ישי",
+   "text": "יש למישהו רעיון איך ועם מה לאטום חורים וקרעים בסככה מפי וי סי או עור או לא יודע איך נקרא החומר הזה.... סככות מתקפלות כמו שיש לחנויות מעל הפתח....",
+   "ts": 1791114395000,
+   "date": "2026-10-04",
+   "time": "14:46",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACCC116420CE1E65C346A4B9294006DD",
+   "sender": "אליהו חזן",
+   "text": "תנסה מול טמבור אולי יש להם טיפים להגברת יריות אם טלאים חומר חסין חום וגשם",
+   "ts": 1791116347000,
+   "date": "2026-10-04",
+   "time": "15:19",
+   "files": [],
+   "drive": null,
+   "phone": "972502770777"
+  },
+  {
+   "id": "ACF11B09FD5F09E3C26011FF2EBD33DD",
+   "sender": "ישי",
+   "text": "🙏",
+   "ts": 1791118588000,
+   "date": "2026-10-04",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "A55D4C3ADA372878BA9568B752B39AE9",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1791119765000,
+   "date": "2026-10-04",
+   "time": "16:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TmaYvuLWz8Plv3xhPt50jnf9_WvZAG3F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TmaYvuLWz8Plv3xhPt50jnf9_WvZAG3F&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC6FB4BAF2A955A591434EB9ACF34037",
+   "sender": "שרגא רוזנטל",
+   "text": "הגיע הזמן לפתוח כאן אור החיים או יפה נוף",
+   "ts": 1791121080000,
+   "date": "2026-10-04",
+   "time": "16:38",
+   "files": [],
+   "drive": null,
+   "phone": "972547477628"
   }
  ]
 }

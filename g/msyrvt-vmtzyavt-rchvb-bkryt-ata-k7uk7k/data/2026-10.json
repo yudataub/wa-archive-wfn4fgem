@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-04T09:33:26.917Z",
+ "updated": "2026-10-04T10:12:57.531Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -308,6 +308,26 @@
    ],
    "drive": null,
    "phone": "972549391824"
+  },
+  {
+   "id": "AC72C76A549ADD509FC18C36294CAB9D",
+   "sender": "עדי חסיד",
+   "text": "שמלות קצר מידה 6-8 בנות למסירה",
+   "ts": 1791108767000,
+   "date": "2026-10-04",
+   "time": "13:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "864KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M1scF1groQ9Y_aR2kBhBDe23uEk7Nnbz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M1scF1groQ9Y_aR2kBhBDe23uEk7Nnbz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
   }
  ]
 }

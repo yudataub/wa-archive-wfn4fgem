@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-04T09:16:45.856Z",
+ "updated": "2026-10-04T13:04:53.793Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -614,6 +614,97 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "ACAE3FC04390CF2D366B8C3CE517C2D1",
+   "sender": ".",
+   "text": "🔥שתפו🔥",
+   "ts": 1791106814000,
+   "date": "2026-10-04",
+   "time": "12:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fqkKBP1pWXMIl0Z2QkTctaVBpKWJn51d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fqkKBP1pWXMIl0Z2QkTctaVBpKWJn51d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526071389"
+  },
+  {
+   "id": "A595391C1E5F8CD46C95B14917071D2E",
+   "sender": "קשר כשר",
+   "text": "שבוע טוב לכולם משלוחים לכל הארץ להשיג בקשר כשר בס\"ד",
+   "ts": 1791106911000,
+   "date": "2026-10-04",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "414KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zyLadvuAcHMdeFevd-OE6r_DDQhtHN06/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zyLadvuAcHMdeFevd-OE6r_DDQhtHN06&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559579411"
+  },
+  {
+   "id": "3A0A843CA954797A559C",
+   "sender": "יונתן לוי",
+   "text": "‏לפרטים055-9541314",
+   "ts": 1791112462000,
+   "date": "2026-10-04",
+   "time": "14:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eS--6mW8Petm5FO6iLUo2QMPCBx11WBp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eS--6mW8Petm5FO6iLUo2QMPCBx11WBp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559541314"
+  },
+  {
+   "id": "AC2178AEEEB1FA871083E8B48D418F49",
+   "sender": "Sara👑",
+   "text": "לשליחת קורות חיים ויצירת קשר:\n050-2251885\ntiful@levchash.co.il",
+   "ts": 1791119088000,
+   "date": "2026-10-04",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972528026112"
+  },
+  {
+   "id": "AC6A63D47807D11890F099913457BC33",
+   "sender": "Sara👑",
+   "text": "",
+   "ts": 1791119088000,
+   "date": "2026-10-04",
+   "time": "16:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "767KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lJOfMHD8Fuu7_lOYImQZRnNBIewHPSq4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lJOfMHD8Fuu7_lOYImQZRnNBIewHPSq4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528026112"
   }
  ]
 }

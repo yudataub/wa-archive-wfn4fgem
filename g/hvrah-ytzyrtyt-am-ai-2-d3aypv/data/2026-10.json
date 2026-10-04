@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-04T05:42:02.755Z",
+ "updated": "2026-10-04T10:15:26.156Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -138,6 +138,26 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "A510B8054EE8AF0FDC086A57BC92DA54",
+   "sender": "תמר חמאדה",
+   "text": "חברים, אחרי שחקרתי לעומק את נושא הפיכת הג׳מים לסקילז - וכפי שהבטחתי לחזור עם הפרטים המלאים.\n\nאז קודם כל, מה קורה בג׳מיני? גוגל מעבירה אותנו מ-Gems ל-Skills.\nומה זה בעצם Skills? חבילת הוראות שמלמדת את ג׳מיני לבצע משהו בצורה קבועה ומדויקת - בלי לכתוב את הכל מחדש כל פעם.\nהסבר מלא בסרטון הבא -\n https://youtu.be/WaERD7c1f04\n\nובמפגש הקהילה הראשון שלנו, שיתקיים ב-14 לחודש, אראה לכם את כל הדרך: איך מגבים את הג׳מים שלנו וממירים אותם לסקילז, גם באופן ידני 💛\nלהרשמה למפגש: https://form.svhrt.com/6ab8a9105f15ef5ec38f2f7f\n\nרעיונות פוגשים בינה | תמר חמאדה",
+   "ts": 1791108906000,
+   "date": "2026-10-04",
+   "time": "13:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pkvEpSMoZNvDfD4D3pSo4lz6L2JX-Trq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pkvEpSMoZNvDfD4D3pSo4lz6L2JX-Trq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

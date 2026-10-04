@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-04T07:28:29.396Z",
+ "updated": "2026-10-04T13:26:54.144Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -572,6 +572,59 @@
    "files": [],
    "drive": null,
    "phone": "972527972919"
+  },
+  {
+   "id": "2A0E1B845970CBBAE23A",
+   "sender": "מזכירות הרב יצחק ישי בנון",
+   "text": "מכירים דפוס שעושה את זה?",
+   "ts": 1791113005000,
+   "date": "2026-10-04",
+   "time": "14:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v261i2JKKbjbOoZOzws1b3kiTRpsehUI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v261i2JKKbjbOoZOzws1b3kiTRpsehUI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549834444"
+  },
+  {
+   "id": "3EB08FC76E84E2DA863E93",
+   "sender": "ישיבת אור דוד",
+   "text": "עושים את זה בבית מדפיסים ושמים ערבה ועושים למנציה אף בית דפוס לא יעשה לך דבר כזה",
+   "ts": 1791113087000,
+   "date": "2026-10-04",
+   "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972542402031"
+  },
+  {
+   "id": "2A5C43EF846F643C3FBD",
+   "sender": "מזכירות הרב יצחק ישי בנון",
+   "text": "תבורך",
+   "ts": 1791114308000,
+   "date": "2026-10-04",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972549834444"
+  },
+  {
+   "id": "3EB0A2239FDE2FFE10522B",
+   "sender": "ישיבת אור דוד",
+   "text": "מישהו עבד פעם עם קריינות בAI שמתאימה לפרסומת שיודע לדבר עברית תקינה ואיזה אתר מומלץ? תודה.",
+   "ts": 1791120406000,
+   "date": "2026-10-04",
+   "time": "16:26",
+   "files": [],
+   "drive": null,
+   "phone": "972542402031"
   }
  ]
 }

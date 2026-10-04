@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-04T09:36:26.968Z",
+ "updated": "2026-10-04T11:33:11.283Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -435,6 +435,126 @@
    ],
    "drive": null,
    "phone": "972537540299"
+  },
+  {
+   "id": "AC12CB1DBD7255C060FF24153A5E83BB",
+   "sender": "מוכר דברים",
+   "text": "למכירה 2 מכשירי גלאקסי\n\nלמכירה גלאקסי s7 תקין עובד \n32 גיגה\n250 שקל\nאם תרצו תוספת מטען יש אפשרות בתוספת 50 שקל מטען חדש\n\nלמכירה גלאקסי s22 אולטרה עובד\n256 גיגה נמכר רק מכשיר \nבצבע שחור \n2000 שקל גמיש",
+   "ts": 1791107101000,
+   "date": "2026-10-04",
+   "time": "12:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "65KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GJP3ANOmXSTQo0OALskKmXJ-6mgUYGbN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GJP3ANOmXSTQo0OALskKmXJ-6mgUYGbN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "ACE1EF0F489834F6A6AF45A4C6FDC286",
+   "sender": "מוכר דברים",
+   "text": "למכירה 2 זוגות אופניים במצב טוב \nאחד עם גלגלי עזר\nו1 רגיל לילדים\n200 שקל שתיהם",
+   "ts": 1791111841000,
+   "date": "2026-10-04",
+   "time": "14:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KR9bEoElK9Oqg3sMeV-GyoY3Yg3AOwyz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KR9bEoElK9Oqg3sMeV-GyoY3Yg3AOwyz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "AC2872B407C998F89F60BAC29285897C",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791113578000,
+   "date": "2026-10-04",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qWQ1GevlGaxWijdByYAsKuZ5IImf_EMl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qWQ1GevlGaxWijdByYAsKuZ5IImf_EMl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC45657BBD915EBBA26827437518DCFC",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791113578000,
+   "date": "2026-10-04",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "384KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19AighpexeJtycccmsDNT5VD-iCQl9qAT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19AighpexeJtycccmsDNT5VD-iCQl9qAT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC81A0E934AD30424DDD57D31FFC7164",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791113578000,
+   "date": "2026-10-04",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rLXN1_1btzpGDJijL4_zpMeXFjWASdp7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rLXN1_1btzpGDJijL4_zpMeXFjWASdp7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACCFD0D4EBF6DD9E90F71547BF01E826",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791113579000,
+   "date": "2026-10-04",
+   "time": "14:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l-N7JOXspifgi6yAWbPPBv2hSv-OSuiJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l-N7JOXspifgi6yAWbPPBv2hSv-OSuiJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
   }
  ]
 }

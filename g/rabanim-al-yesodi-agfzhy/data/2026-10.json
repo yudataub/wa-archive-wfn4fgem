@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-04T06:35:58.609Z",
+ "updated": "2026-10-04T10:04:27.433Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -135,6 +135,26 @@
    "files": [],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "A5190540401F12D2EB78C77A4A253D70",
+   "sender": "הראל מקייס",
+   "text": "",
+   "ts": 1791108257000,
+   "date": "2026-10-04",
+   "time": "13:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ko-RyesJx-shXB7dStibMlU5xm0LPq_F/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ko-RyesJx-shXB7dStibMlU5xm0LPq_F&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524591311"
   }
  ]
 }

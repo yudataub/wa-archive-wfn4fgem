@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-03T19:24:42.930Z",
+ "updated": "2026-10-04T12:47:53.531Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -128,6 +128,99 @@
    ],
    "drive": null,
    "phone": "972586788467"
+  },
+  {
+   "id": "ACD68A21FBD71D1DA6FF6261AA5D93A6",
+   "sender": "חני",
+   "text": "ולכיתה א?\nאשמח",
+   "ts": 1791116265000,
+   "date": "2026-10-04",
+   "time": "15:17",
+   "files": [],
+   "drive": null,
+   "phone": "972584916468"
+  },
+  {
+   "id": "AC9D0C199F26D577507CE0BF7D15E515",
+   "sender": "נעה",
+   "text": "",
+   "ts": 1791116513000,
+   "date": "2026-10-04",
+   "time": "15:21",
+   "files": [
+    {
+     "name": "משיב הרוח ומוריד הגשם - לצביעה.pdf",
+     "size": "258KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1eouF8DKE4Kq8Remt8PEwtV07-_ID4L4Y/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC051B0617F26725EA27A124B4DB9046",
+   "sender": "נעה",
+   "text": "",
+   "ts": 1791116515000,
+   "date": "2026-10-04",
+   "time": "15:21",
+   "files": [
+    {
+     "name": "_'משיב הרוח ומוריד הגשם- רחלי אשכנזי'.pdf",
+     "size": "258KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UpvEWuK8lElYcO0IU1dwEYtYMw748SVi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC3F5DAB2E1B0F596DD5786ADEF2DF07",
+   "sender": "ויולה בן משה",
+   "text": "יש גם באתר אחיה דף צביעה של משיב הרוח...",
+   "ts": 1791116785000,
+   "date": "2026-10-04",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "phone": "972556699387"
+  },
+  {
+   "id": "AC1C36BDF7D4858D27515AEA1F6C4EA2",
+   "sender": "חני",
+   "text": "תושה",
+   "ts": 1791117401000,
+   "date": "2026-10-04",
+   "time": "15:36",
+   "files": [],
+   "drive": null,
+   "phone": "972584916468"
+  },
+  {
+   "id": "ACD9EC2002B38027A6F288943D074487",
+   "sender": "חני",
+   "text": "תודה!",
+   "ts": 1791117402000,
+   "date": "2026-10-04",
+   "time": "15:36",
+   "files": [],
+   "drive": null,
+   "phone": "972584916468"
+  },
+  {
+   "id": "3EB0407114BF0522A82C80",
+   "sender": "🌹🌹",
+   "text": "יש למישהו מצגת על הרב יורם אברגל זצל?",
+   "ts": 1791118072000,
+   "date": "2026-10-04",
+   "time": "15:47",
+   "files": [],
+   "drive": null,
+   "phone": "972506390946"
   }
  ]
 }

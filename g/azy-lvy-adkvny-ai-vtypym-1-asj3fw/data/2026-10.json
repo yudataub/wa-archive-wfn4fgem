@@ -1,0 +1,47 @@
+{
+ "month": "2026-10",
+ "group": "עזי לוי -עדכוני AI וטיפים -1",
+ "updated": "2026-10-04T13:00:49.289Z",
+ "messages": [
+  {
+   "id": "3EB06B8149D092A82FFE26",
+   "sender": "Ezy Levy",
+   "text": "הי חברים, שבוע טוב\nכשאמרתי שלא אכתוב שבוע, לא ידעתי כמה דברים מטורפים יקרו בשבוע :)\n\nאז השבוע *OpenAI הכריזה על Dots* . מערכת סוכנים שעובדת עצמאית בענן גם אם אנחנו לא מחוברים למחשב.\nעדיין לא התנסיתי בו אבל הרעיון כבר מוכר.\nוהוא די פשוט: במקום לתת ל AI כל פעם משימה חדשה, נותנים לו תחום אחריות.\n\n*לכל Dot יש מחשב ענן, דפדפן, גישה לכלים שאנחנו עובדים איתם, זיכרון של הפרויקט* , והוא יכול להמשיך לעבוד גם כשאנחנו לא מול המחשב.\n\nבמובן הזה זה מזכיר את Grok Bot ואת הכיוון שאנחנו כבר רואים גם ב- Claude וב Codex , שאפשר להמשיך לפתח בענן גם בלי שהמחשב יהיה פתוח.\nהעניין הוא לא רק עוד סוכן, אלא יותר עצמאות משימתית.\n\nפחות:\n״תעשה לי את המשימה הזאת״\nיותר:\n״אתה אחראי על התהליך הזה״\n* הפיצ'ר זמין כרגע רק למנויים של 100$ ומעלה. עדיין לא הגיע למנויים הפשוטים :(\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה  \n\nאפשר להעביר למי שרוצים.",
+   "ts": 1791118007000,
+   "date": "2026-10-04",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "422KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uz8cz-gSRscRUCkojpcxDKJxyNzyT4s8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uz8cz-gSRscRUCkojpcxDKJxyNzyT4s8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB03098B40DF6047948B9",
+   "sender": "Ezy Levy",
+   "text": "ועוד משהו שהתפוצץ ברשת זה ה- Motion graphics  שקלוד יכול לעשות עם כל מיני תמונות ומעל וידאו, ורק ע\"י שימוש בקוד , ללא כלים נוספים.\nאז אחרי שראיתי דוגמה שפירסמה דנה אקרמן גרין, ודברים נפלאים שעושה גיא אגא.\nוהיום כבר כל בן אדם שני ברשת.\nעשיתי ניסוי קטן שפרסמתי בקבוצת ההתייעצות.\nוכתבתי פרומפט אחד על חמש תמונות גנריות שהיו לי בתיקיה של פתגמי היגיון שכתבתי לפני 15 שנה. \nבלי עריכה, הוא בחר את התנועה , את המוזיקה וערך הכל. בלי מקצה תיקונים.\nעל אף שזו דוגמא פשוטה מאוד, אני חייב לומר שהתרשמתי ברמות.\n\nזה הפרומפט:\nTake these photos and make an amazing motion graphics video from them, matching the ideas in an amazing style.\nCreate motion graphics that will blow my mind and showcase the most awesome capabilities.\nSearch the web for anything that can help you, including music, sounds, libraries, and tools.\nYou can use OpenCV, BiRefNet, LaMa, GSAP, Hyperframes, WebGL, free music, and any other relevant tools or resources.\nאתם יכולים לנסות בעצמכם.\nהיום כבר מסתובבים ברשת סקילים לרוב שעושים דברים מורכבים יותר מאלה.\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה  \n\nאפשר להעביר למי שרוצים.",
+   "ts": 1791118832000,
+   "date": "2026-10-04",
+   "time": "16:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rPyJ8TElNwAnYSoCig31NSU70NkGAryX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rPyJ8TElNwAnYSoCig31NSU70NkGAryX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  }
+ ]
+}

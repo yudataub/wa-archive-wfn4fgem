@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משולחן מפמ\"ר היסטוריה חמ\"ד תשפ\"ז",
- "updated": "2026-10-02T06:45:51.252Z",
+ "updated": "2026-10-04T12:12:18.519Z",
  "messages": [
   {
    "id": "ACE22073EE35619C5577922FA3274676",
@@ -32,6 +32,47 @@
    "ts": 1790923529000,
    "date": "2026-10-02",
    "time": "09:45",
+   "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "AC0EF3C5C4FC48E6000C68F3A13EF969",
+   "sender": "יוסי לונדין",
+   "text": "צהריים טובים.\nמחר,  כ\"ד תשרי, יום הזכרון הלאומי לטבח שמחת תורה ולפרוץ מלחמת התקומה.\nמצ\"ב\n-את אגרת ראש החמ\"ד ליום זה\n-מערך שהכין צוות ההדרכה לקראת יום זה.\n*שימו לב* בסרטון המשולב במערך ישנה אזעקה מוקלטת, וכמובן על המורה לצפות בסרט מראש לבדוק את התאמתו לכיתה.",
+   "ts": 1791115901000,
+   "date": "2026-10-04",
+   "time": "15:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "AC95F7DBB48D15415C31B8BCD77C9ACF",
+   "sender": "יוסי לונדין",
+   "text": "",
+   "ts": 1791115903000,
+   "date": "2026-10-04",
+   "time": "15:11",
+   "files": [
+    {
+     "name": "MemorialDay7.10.pdf",
+     "size": "427KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_SJbIxX8GB2U0SwS9EaHWWhjqImIN8ld/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "AC9004EC003E260EC9BCD06025CF5A2F",
+   "sender": "יוסי לונדין",
+   "text": "אגרת ראש מינהל החמ\"ד לקראת יום הזכרון ה-3 לאירועי שמחת תורה:  https://meyda.education.gov.il/files/hemed/hodesh-behodsho/Third-Memorial-Day-Letter-Simchat-Torah-Events.pdf",
+   "ts": 1791115919000,
+   "date": "2026-10-04",
+   "time": "15:11",
    "files": [],
    "drive": null,
    "phone": "972526071630"
