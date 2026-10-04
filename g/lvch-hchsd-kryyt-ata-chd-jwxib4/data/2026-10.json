@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-03T21:03:31.127Z",
+ "updated": "2026-10-04T05:32:43.078Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -1085,7 +1085,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1FfxJFbIu_Ickg4mV7pkcYZr1ZafnJaTb/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1FfxJFbIu_Ickg4mV7pkcYZr1ZafnJaTb&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1FfxJFbIu_Ickg4mV7pkcYZr1ZafnJaTb&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2A61EAA84B3DFB34C722_0.mp4"
     }
    ],
    "drive": null,
@@ -1150,6 +1151,70 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "AC464F48896ABCEA070B93A977AC9F53",
+   "sender": "דויד אלבו",
+   "text": "שבוע ובוקר מבורך בבקשה איפה מקום שבו ניתן למסור שקיות בגדים למסירה בקריית אתא ?",
+   "ts": 1791089155000,
+   "date": "2026-10-04",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "phone": "972528546866"
+  },
+  {
+   "id": "ACD2407F3117301CD3C71A03C91BE810",
+   "sender": "Or Hageula2",
+   "text": "",
+   "ts": 1791089345000,
+   "date": "2026-10-04",
+   "time": "07:49",
+   "files": [],
+   "drive": null,
+   "phone": "972523987371"
+  },
+  {
+   "id": "AC3B40386D6A9772C1C54FF26E3AF420",
+   "sender": "Or Hageula2",
+   "text": "יש קבוצת מסירה של קרית אתא  בשם *אמהות לא אוגרות*",
+   "ts": 1791089379000,
+   "date": "2026-10-04",
+   "time": "07:49",
+   "files": [],
+   "drive": null,
+   "phone": "972523987371"
+  },
+  {
+   "id": "ACF3CF385AF17FABE10793A5FB5CC256",
+   "sender": "נתי שיינבליט",
+   "text": "",
+   "ts": 1791091161000,
+   "date": "2026-10-04",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vQqWmzxXfj_n5ZGqZ0j-z7WvLfoT0f16/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vQqWmzxXfj_n5ZGqZ0j-z7WvLfoT0f16&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529595959"
+  },
+  {
+   "id": "AC2020DC433538BA8D50F9D4797FBA5D",
+   "sender": "Oshri David Tubul",
+   "text": "דרוש/ה עובד/ת ניקיון למשרדים – תנאים מעולים! 🧹✨\n​📍 מיקום: אזור תעשייה מילואות (כפר מסריק) – רק 10 דקות נסיעה מקרית ים!\n☀️ שעות עבודה: שעות הבוקר.\n📅 היקף משרה:\n​יום ראשון – עד 2 שעות עבודה.\n​יום רביעי – עד 4 שעות עבודה.\n​🧹 הגדרת התפקיד: ניקיון משרדים קטנים, חדרי שירותים ומטבחון.\n​💰 ​שכר מתגמל\n​פנסיה וקרן השתלמות מהיום הראשון!\n​מענק התמדה למתמידים/ות.\n​תלוש שכר מסודר וכל התנאים הסוציאליים לפי חוק.\n​מתאים מאוד למי שמחפש/ת השלמת הכנסה בתנאים מצוינים!\n054-2527476",
+   "ts": 1791091942000,
+   "date": "2026-10-04",
+   "time": "08:32",
+   "files": [],
+   "drive": null,
+   "phone": "972542527476"
   }
  ]
 }

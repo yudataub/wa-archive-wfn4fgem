@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-03T20:46:30.879Z",
+ "updated": "2026-10-04T05:29:13.025Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -1056,7 +1056,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1qubXE6KsktD-Ua_5F6KjI_HhZ0uqinBz/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1qubXE6KsktD-Ua_5F6KjI_HhZ0uqinBz&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1qubXE6KsktD-Ua_5F6KjI_HhZ0uqinBz&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/3EB0DD9B7F0B9EDBC67348_0.mp4"
     }
    ],
    "drive": null,
@@ -1132,6 +1133,50 @@
    "files": [],
    "drive": null,
    "phone": "972548433114"
+  },
+  {
+   "id": "AC5C3F3CBABE57F3860591A1F95170A4",
+   "sender": "אורדן",
+   "text": "בוקר ושבוע טוב.\nיש למישהו קובץ תהילים מחולק לפי פרק לדף?\nרוצה לחלק לכול תלמיד פרק אחד כך שכמה כיתות יחד יכולות לסיים ספר תהילים מבלי להתעייף או לחפף...\nתודה",
+   "ts": 1791084023000,
+   "date": "2026-10-04",
+   "time": "06:20",
+   "files": [],
+   "drive": null,
+   "phone": "972523633810"
+  },
+  {
+   "id": "A5C10FAE58828134D94D0DAF2C226F4D",
+   "sender": "אלישיב רבהון",
+   "text": "שלום ושבוע טוב, יש למישהו המלצה לתוכנית לימודים ההלכה עבור תלמידי כיתות א ב? כולל חומרים/חוברות עבודה... תודה רבה!",
+   "ts": 1791091459000,
+   "date": "2026-10-04",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972587665750"
+  },
+  {
+   "id": "ACF48075190F74DA983478672145DD39",
+   "sender": "קובי",
+   "text": "יש בפורטל תושבע \n@150689011486885",
+   "ts": 1791091482000,
+   "date": "2026-10-04",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "A55C8D8A427670AA6202B8B43DB61FB9",
+   "sender": "אלישיב רבהון",
+   "text": "תודה רבה, מחפש הרחבות...",
+   "ts": 1791091739000,
+   "date": "2026-10-04",
+   "time": "08:28",
+   "files": [],
+   "drive": null,
+   "phone": "972587665750"
   }
  ]
 }

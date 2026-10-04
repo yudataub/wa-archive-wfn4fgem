@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-03T16:19:04.857Z",
+ "updated": "2026-10-04T04:15:57.341Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -118,6 +118,26 @@
      "path": "https://drive.google.com/file/d/155EpMhAqmZFj1MtDBi8IllRPGsCJKKgc/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=155EpMhAqmZFj1MtDBi8IllRPGsCJKKgc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A9197BEF5EDB102EC83",
+   "sender": ".",
+   "text": "״כנגד ים אוקיינוס״ (רש״י בכורות טז, א).",
+   "ts": 1791087326000,
+   "date": "2026-10-04",
+   "time": "07:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D3UW5jazdfA0MvvYasoFQkekLJGjcFMw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D3UW5jazdfA0MvvYasoFQkekLJGjcFMw&sz=w1200"
     }
    ],
    "drive": null,

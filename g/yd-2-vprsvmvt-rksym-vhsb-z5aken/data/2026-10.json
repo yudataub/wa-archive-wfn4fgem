@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-03T21:31:38.313Z",
+ "updated": "2026-10-04T05:36:43.152Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -908,7 +908,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1cf_7HB7aSPyoiABxG0uf93fZqJTVOeQD/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1cf_7HB7aSPyoiABxG0uf93fZqJTVOeQD&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1cf_7HB7aSPyoiABxG0uf93fZqJTVOeQD&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/2A87843525F7F688565B_0.mp4"
     }
    ],
    "drive": null,
@@ -1035,6 +1036,25 @@
    ],
    "drive": null,
    "phone": "972548492466"
+  },
+  {
+   "id": "A5EDDDC1971E7897ED229E18E3A65365",
+   "sender": "יוסף ישראל",
+   "text": "",
+   "ts": 1791092194000,
+   "date": "2026-10-04",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "21KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1EqOEFjv_4Jf6Zv0By4t2vuviOPPGyebb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559503426"
   }
  ]
 }
