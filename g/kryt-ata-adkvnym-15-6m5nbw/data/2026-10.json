@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא - עדכונים 15",
- "updated": "2026-10-05T08:33:59.744Z",
+ "updated": "2026-10-05T10:20:02.908Z",
  "messages": [
   {
    "id": "3EB055DB3C7286106A6077",
@@ -51,6 +51,26 @@
    "date": "2026-10-05",
    "time": "11:33",
    "files": [],
+   "drive": null,
+   "phone": "972528114243"
+  },
+  {
+   "id": "ACA780C2C42EF3D4939AF0180551DE27",
+   "sender": "עיריית קרית אתא",
+   "text": "תושבים יקרים,\nהערב יתקיים טקס הזיכרון העירוני לציון שלוש שנים לאירועי השבעה באוקטובר. הטקס יתקיים באודיטוריום במתנ\"ס (הפלמ\"ח 11), החל מהשעה 20:00. \n\nהציבור הרחב מוזמן להגיע לערב של זיכרון, התייחדות וחיבוק המשפחות השכולות. \n\n----\nלהצטרפות לקבוצת הוואטסאפ העירונית:\nhttps://kiryat-ata.toshavil.co.il/group?g=עדכונים",
+   "ts": 1791195572000,
+   "date": "2026-10-05",
+   "time": "13:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uBUxFcEWKUzyMGG7GkiWgCp-6AuaMDo3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uBUxFcEWKUzyMGG7GkiWgCp-6AuaMDo3&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972528114243"
   }

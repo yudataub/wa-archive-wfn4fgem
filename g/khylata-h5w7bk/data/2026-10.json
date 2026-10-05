@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-05T09:13:00.353Z",
+ "updated": "2026-10-05T11:56:18.378Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -959,6 +959,46 @@
    ],
    "drive": null,
    "phone": "972546090286"
+  },
+  {
+   "id": "ACDD05261C3176C7077520378237016C",
+   "sender": "א עמר",
+   "text": "🚨 *רגעעע לפני שאתם מוציאים כסף...* 🚨\n\n_אולי מישהו בצפון מוסר עכשיו_\n*בדיוק את מה שאתם מחפשים — בחינם.*\n\n━━━ *מסירה מיד ליד – צפון* ━━━\n\n🛋️ רהיטים\n⚡ מוצרי חשמל\n🏠 ציוד לבית\n📦 ועוד המון דברים\n\n*12,000 חברים כבר בפנים*\n_ואלפי פריטים כבר עברו מיד ליד._\n\n*מה שאתם צריכים לקנות היום*\n_יכול להיות שמישהו אחר רוצה למסור היום._\n\n⬇️⬇️⬇️\n\n*אל תחכו לפספס את המסירה הבאה*\n👇 _מצטרפים עכשיו בחינם:_ 👇",
+   "ts": 1791201178000,
+   "date": "2026-10-05",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "34KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1R_qSnJetZf846kfqKilx9gM3JUX1naxb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R_qSnJetZf846kfqKilx9gM3JUX1naxb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
+  },
+  {
+   "id": "ACB64A93E5E9C6FD9B1EB74D6581D4B6",
+   "sender": "נירה",
+   "text": "",
+   "ts": 1791201362000,
+   "date": "2026-10-05",
+   "time": "14:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "265KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZfGcn5ak69zgzO4Ja0y9qmiOtvxE0KOF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZfGcn5ak69zgzO4Ja0y9qmiOtvxE0KOF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502117325"
   }
  ]
 }

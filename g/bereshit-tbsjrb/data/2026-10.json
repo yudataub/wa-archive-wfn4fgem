@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-05T06:57:03.593Z",
+ "updated": "2026-10-05T13:32:03.438Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -925,6 +925,58 @@
    ],
    "drive": null,
    "phone": "4917640585779"
+  },
+  {
+   "id": "AC8A620DBAB4034737BABD8312BB2208",
+   "sender": "שושי דנן",
+   "text": "אשמח לדפי צביעה למחברת בנושא בריאת העולם לכיתה א",
+   "ts": 1791206480000,
+   "date": "2026-10-05",
+   "time": "16:21",
+   "files": [],
+   "drive": null,
+   "phone": "972587708489"
+  },
+  {
+   "id": "AC4B0A92C64800827BA734580F0039A8",
+   "sender": "רחלי מנדלסון",
+   "text": "",
+   "ts": 1791206653000,
+   "date": "2026-10-05",
+   "time": "16:24",
+   "files": [
+    {
+     "name": "_אלבום בריאת העולם.pdf",
+     "size": "22.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OwRD97Ar9NNN9FWQxI1bxa40e7REPB0N/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "ACE1298D89D5CB5243D2ACFEEEC465BD",
+   "sender": "אתי איבגי",
+   "text": "תודה רבה!🌹",
+   "ts": 1791206941000,
+   "date": "2026-10-05",
+   "time": "16:29",
+   "files": [],
+   "drive": null,
+   "phone": "972527429899"
+  },
+  {
+   "id": "ACD9A76B874CAC179607E5128D72B8F3",
+   "sender": "יעל בלייך",
+   "text": "אשמח בבקשה לדפי עבודה לפרשת וירא",
+   "ts": 1791207115000,
+   "date": "2026-10-05",
+   "time": "16:31",
+   "files": [],
+   "drive": null,
+   "phone": "972544344165"
   }
  ]
 }

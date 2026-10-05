@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-05T08:41:29.878Z",
+ "updated": "2026-10-05T13:26:26.408Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -1960,6 +1960,147 @@
    "files": [],
    "drive": null,
    "phone": "972585789234"
+  },
+  {
+   "id": "A510A5E3BFFECB88D4E0570DF864A6E3",
+   "sender": "מאיר מוגרבי",
+   "text": "ארון מדפים של איקאה עשוי מסיבית\nיש מדפים שקרסו איך אני ממלא את\nהסיבית ומחזיר את החיבורים של הניטים איך שקוראים לזה?",
+   "ts": 1791195620000,
+   "date": "2026-10-05",
+   "time": "13:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "ACAA7B4375131FDB60A3BBFC53196C1A",
+   "sender": "אבי טויטו",
+   "text": "ח”י שקלים לקופת העיר והרבה ישועות",
+   "ts": 1791195868000,
+   "date": "2026-10-05",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "phone": "972526455107"
+  },
+  {
+   "id": "A5FDFC6ED1F0FFC8B0769516943C19EE",
+   "sender": "מאיר מוגרבי",
+   "text": "תודה",
+   "ts": 1791196050000,
+   "date": "2026-10-05",
+   "time": "13:27",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "AC5BF073D161CFDCE0402CFAFCC4F049",
+   "sender": "אליעזר",
+   "text": "אולי תלך על כיוון כזה..",
+   "ts": 1791196941000,
+   "date": "2026-10-05",
+   "time": "13:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "34KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/156gK6wSCfo-gWtq9ZAEXOnL1OoOHDjaE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=156gK6wSCfo-gWtq9ZAEXOnL1OoOHDjaE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545512193"
+  },
+  {
+   "id": "A54E92BDB602F18B20FDBE1DCC7E071E",
+   "sender": "יחיאל פאקר",
+   "text": "יכול להיות שכדאי להרכיב את הזויות ע\"י קדיחה ובורג עם אום\nבהצלחה",
+   "ts": 1791197737000,
+   "date": "2026-10-05",
+   "time": "13:55",
+   "files": [],
+   "drive": null,
+   "phone": "972548480844"
+  },
+  {
+   "id": "AC8E640E0805F70C08B56B1B1F452DAC",
+   "sender": "יובל",
+   "text": "או דבק עץ או אפוקסי",
+   "ts": 1791199994000,
+   "date": "2026-10-05",
+   "time": "14:33",
+   "files": [],
+   "drive": null,
+   "phone": "972545854860"
+  },
+  {
+   "id": "A57652AF3CEAC9D6F859B70AFE53124D",
+   "sender": "Harelectronics",
+   "text": "צומת עין המפרץ לכיוון עכו שוטר מצלם על הגשר,תיזהרו",
+   "ts": 1791202462000,
+   "date": "2026-10-05",
+   "time": "15:14",
+   "files": [],
+   "drive": null,
+   "phone": "972509252690"
+  },
+  {
+   "id": "A550FCD95B46510D2B6D26588E6B4901",
+   "sender": "elazar222",
+   "text": "צהריים טובים \nאיפה יש עמדה של קול הלשון?",
+   "ts": 1791203089000,
+   "date": "2026-10-05",
+   "time": "15:24",
+   "files": [],
+   "drive": null,
+   "phone": "972528409041"
+  },
+  {
+   "id": "3EB086C7CE160844075310",
+   "sender": "ד.",
+   "text": "מאורות",
+   "ts": 1791203104000,
+   "date": "2026-10-05",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "phone": "972502553781"
+  },
+  {
+   "id": "3EB094B32406BD37A87293",
+   "sender": "ד.",
+   "text": "מאורות",
+   "ts": 1791203133000,
+   "date": "2026-10-05",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "phone": "972502553781"
+  },
+  {
+   "id": "A57FBD3B8DA0AC5AD736BB7110ABD759",
+   "sender": "Harelectronics",
+   "text": "גם בחניכי הישיבות",
+   "ts": 1791204045000,
+   "date": "2026-10-05",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "phone": "972509252690"
+  },
+  {
+   "id": "3EB0EE0280873A788B0D6B",
+   "sender": "ד.",
+   "text": "נראה לי שגם באהל מלכה",
+   "ts": 1791206761000,
+   "date": "2026-10-05",
+   "time": "16:26",
+   "files": [],
+   "drive": null,
+   "phone": "972502553781"
   }
  ]
 }

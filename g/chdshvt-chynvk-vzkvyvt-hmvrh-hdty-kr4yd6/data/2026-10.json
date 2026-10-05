@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-10-04T13:51:01.378Z",
+ "updated": "2026-10-05T11:59:48.439Z",
  "messages": [
   {
    "id": "A50F22EA41D67F3A17A00CB1FD164526",
@@ -131,6 +131,26 @@
    "date": "2026-10-04",
    "time": "16:50",
    "files": [],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5B2EFB470318A7FD2A82D2E0D73B9F0",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1791201583000,
+   "date": "2026-10-05",
+   "time": "14:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "262KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ugNjU0W4H78aAAhSwWVAvMVzQ34eQ4NS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ugNjU0W4H78aAAhSwWVAvMVzQ34eQ4NS&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506202812"
   }

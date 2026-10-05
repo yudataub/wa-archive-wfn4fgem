@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-04T16:52:14.869Z",
+ "updated": "2026-10-05T11:46:11.322Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -1052,6 +1052,101 @@
    "time": "19:51",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "A559B249A123467DFBCFC46B99F9E80C",
+   "sender": "NATI POWER",
+   "text": "",
+   "ts": 1791193777000,
+   "date": "2026-10-05",
+   "time": "12:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a-IDxMBnzgOtAzggStG11TzBndGQVuXf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a-IDxMBnzgOtAzggStG11TzBndGQVuXf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A5872D573AFA902710F5B3F2E92CF0AE",
+   "sender": "NATI POWER",
+   "text": "",
+   "ts": 1791193777000,
+   "date": "2026-10-05",
+   "time": "12:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "470KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Tez4a7-xDaCYqmdX-hgDYxo6k-sAEiIw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Tez4a7-xDaCYqmdX-hgDYxo6k-sAEiIw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A54E8D4D81FFE3596724E5566D3D1DBC",
+   "sender": "NATI POWER",
+   "text": "התבקשתי להעביר מחר החלוקה",
+   "ts": 1791193778000,
+   "date": "2026-10-05",
+   "time": "12:49",
+   "files": [],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "3EB0541935257F78F58051",
+   "sender": "נחמיה ג'יגה סולאר",
+   "text": "מישהו שנוסע בזמן הקרוב לכיוון תל אביב ויש לו מקום 1 פנוי?",
+   "ts": 1791194575000,
+   "date": "2026-10-05",
+   "time": "13:02",
+   "files": [],
+   "drive": null,
+   "phone": "972527133456"
+  },
+  {
+   "id": "A5593B2198C248BC3CD3A4E9A63EF809",
+   "sender": "א.ו",
+   "text": "מי בקהילה מתקין מצלמות אבטחה?",
+   "ts": 1791199871000,
+   "date": "2026-10-05",
+   "time": "14:31",
+   "files": [],
+   "drive": null,
+   "phone": "972546334224"
+  },
+  {
+   "id": "A5F3E728BF76813BADDDF98C06EA6DA3",
+   "sender": "NATI POWER",
+   "text": "אבישי ציוני",
+   "ts": 1791200729000,
+   "date": "2026-10-05",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "A535B5D232A20C4B0CAF90098E7153F7",
+   "sender": "א.א ירק  בכפר",
+   "text": "מספר 1",
+   "ts": 1791200745000,
+   "date": "2026-10-05",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972549420410"
   }
  ]
 }

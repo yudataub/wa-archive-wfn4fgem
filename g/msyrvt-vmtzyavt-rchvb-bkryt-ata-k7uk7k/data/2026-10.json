@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-05T09:26:55.426Z",
+ "updated": "2026-10-05T10:22:02.937Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -423,6 +423,26 @@
    ],
    "drive": null,
    "phone": "972523520009"
+  },
+  {
+   "id": "ACA6BD5D9B81853D105DE299FAEBD264",
+   "sender": "שרון😄",
+   "text": "משפחה גדולה שמתמודדת בגבורה עם הרבה קשיים כלכליים,  *זקוקה בדחיפות למיטה יהודית*. המיטות שבורות ואי אפשר לישון עליהן. ( ישנים כרגע רק על מזרונים שגם הם על הפנים ).\nהאם מישהו מוסר מיטות כאלה? מכיר מישהו שמתכנן להחליף? \nאפשר גם בתשלום  נמוך.\nנשמח ממש לעזרה בחסד האנושי הזה..\nלתיאום, שרון 052-2828512",
+   "ts": 1791195695000,
+   "date": "2026-10-05",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "59KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1P9ungYYltXwgLPxiqDljO2LmSs82699k/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1P9ungYYltXwgLPxiqDljO2LmSs82699k&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

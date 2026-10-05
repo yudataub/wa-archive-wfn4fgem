@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-05T09:05:30.233Z",
+ "updated": "2026-10-05T09:51:55.803Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -1931,6 +1931,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1IjPswRRCeOlWr-_jMK7b_p3Hhb66iVFs&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972505800809"
+  },
+  {
+   "id": "A5BB51B015BD5EBEE9715ED1D97670AC",
+   "sender": "דוד מסינג",
+   "text": "יש רעיונות בכיוונים חינוכיים כמו זה?",
+   "ts": 1791193134000,
+   "date": "2026-10-05",
+   "time": "12:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-kjkyNyZAunjXZtuvxONuvese7bSAptP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-kjkyNyZAunjXZtuvxONuvese7bSAptP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585803339"
+  },
+  {
+   "id": "A52D10717F8CE3B2120C7C2B4429615A",
+   "sender": "כשהלב מתרחב השינוי מתקרב",
+   "text": "ספרי קודש קומיקס\nמשחקי חשיבה, \nמשחקי קלפים שונים \n\"משחקי קופסא\"",
+   "ts": 1791193894000,
+   "date": "2026-10-05",
+   "time": "12:51",
+   "files": [],
    "drive": null,
    "phone": "972505800809"
   }

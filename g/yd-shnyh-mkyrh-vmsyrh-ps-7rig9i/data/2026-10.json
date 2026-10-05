@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-04T18:22:27.630Z",
+ "updated": "2026-10-05T13:01:26.026Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -737,6 +737,128 @@
    "files": [],
    "drive": null,
    "phone": "972534209129"
+  },
+  {
+   "id": "3A253A4AE75C5C8C771A",
+   "sender": "Asaf",
+   "text": "אמבטיית ציפורים תלויה 80₪",
+   "ts": 1791204343000,
+   "date": "2026-10-05",
+   "time": "15:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "273KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gMH6O4dopzdPMGURBOVjorRFBAvy-0S9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gMH6O4dopzdPMGURBOVjorRFBAvy-0S9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "AC3D28C39CD31C406A7DE61B64B1C3C4",
+   "sender": "כלנית פרץ",
+   "text": "יש גם מיטה זןגית עם מזרן חדש ומקררר",
+   "ts": 1791205246000,
+   "date": "2026-10-05",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "AC4DCE23413AD9B14AA1688649B28BA1",
+   "sender": "כלנית פרץ",
+   "text": "",
+   "ts": 1791205272000,
+   "date": "2026-10-05",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o94cb7-sRpjEF3hgSfzZrUNzZw-s8XTQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o94cb7-sRpjEF3hgSfzZrUNzZw-s8XTQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "ACE25BD664A66B4EB58F6EB4F7E3E5E7",
+   "sender": "כלנית פרץ",
+   "text": "למסירה מקרית ים",
+   "ts": 1791205272000,
+   "date": "2026-10-05",
+   "time": "16:01",
+   "files": [],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "ACF91BDFFCCAE6A81AB5FF5145C840E0",
+   "sender": "כלנית פרץ",
+   "text": "",
+   "ts": 1791205272000,
+   "date": "2026-10-05",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "234KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L0_oLDMjcAZKriLPkblGB6vfHY8rrtba/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L0_oLDMjcAZKriLPkblGB6vfHY8rrtba&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "AC026AC78E519F43322614EDA921C176",
+   "sender": "כלנית פרץ",
+   "text": "",
+   "ts": 1791205273000,
+   "date": "2026-10-05",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1aHwVQjFHAERkOwN7gN6182yDFzTSQOEE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aHwVQjFHAERkOwN7gN6182yDFzTSQOEE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "AC5C349807C4B48D8B73FC8F210B7D2A",
+   "sender": "כלנית פרץ",
+   "text": "",
+   "ts": 1791205273000,
+   "date": "2026-10-05",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZD2a7gwMp1s7Mr3hfaJuboO57rd_y0sF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZD2a7gwMp1s7Mr3hfaJuboO57rd_y0sF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
   }
  ]
 }

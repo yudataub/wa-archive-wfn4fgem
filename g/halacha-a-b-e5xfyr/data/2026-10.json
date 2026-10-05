@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-05T08:44:59.921Z",
+ "updated": "2026-10-05T12:54:55.934Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -254,6 +254,45 @@
    "files": [],
    "drive": null,
    "phone": "972545994067"
+  },
+  {
+   "id": "AC4A6BDA74F190079ACBB3198BD8605A",
+   "sender": "רונה",
+   "text": "",
+   "ts": 1791204882000,
+   "date": "2026-10-05",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "משנתו של הרב יורם אברג'ל זצוק''ל - טייב רפאל.pdf",
+     "size": "25.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1nOSC-ljUeRxuvGmrGMM-E0HIC1c_FWeR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546081268"
+  },
+  {
+   "id": "AC848927CAF3436D5A3D6326033AB3B8",
+   "sender": "רונה",
+   "text": "",
+   "ts": 1791204885000,
+   "date": "2026-10-05",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KpfHK7TCoq0MvWmIj01h08_AMMqzK15p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KpfHK7TCoq0MvWmIj01h08_AMMqzK15p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546081268"
   }
  ]
 }
