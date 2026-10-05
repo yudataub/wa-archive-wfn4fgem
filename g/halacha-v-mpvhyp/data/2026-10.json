@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-04T23:55:42.094Z",
+ "updated": "2026-10-05T07:20:03.920Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -191,6 +191,50 @@
    "files": [],
    "drive": null,
    "phone": "972502223710"
+  },
+  {
+   "id": "AC3F50D8BEB525BB7E5F23C6782ED8A3",
+   "sender": "לילך אורה יוסף",
+   "text": "שלום וברכה\nאשמח למצגת ודפי עבודה על הזכרת ושאילת גשמים🙏🙏",
+   "ts": 1791181141000,
+   "date": "2026-10-05",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972502291070"
+  },
+  {
+   "id": "3AEAC62BC0A48E675711",
+   "sender": "בת חן",
+   "text": "https://drive.google.com/file/d/1ZYOSosc0RCvqQq6jMZ7sz_h_4ibEXLyW/view?usp=drivesdk",
+   "ts": 1791184518000,
+   "date": "2026-10-05",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3A861CBD21F0D9FAA738",
+   "sender": "בת חן",
+   "text": "https://docs.google.com/document/d/1W5dQcOTKABP-Gt51fRKqxr80dUxgmT5s/edit?usp=drivesdk&ouid=110002809679579042513&rtpof=true&sd=true",
+   "ts": 1791184536000,
+   "date": "2026-10-05",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "ACF29F0B65479FB99A21DD93C899581C",
+   "sender": "לילך אורה יוסף",
+   "text": "תודה רבה",
+   "ts": 1791184780000,
+   "date": "2026-10-05",
+   "time": "10:19",
+   "files": [],
+   "drive": null,
+   "phone": "972502291070"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-05T05:35:35.556Z",
+ "updated": "2026-10-05T06:19:06.230Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -856,6 +856,90 @@
    "files": [],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "3A739AC40865B25D3943",
+   "sender": "קרין רוזנר",
+   "text": "זה מה שמופיע בלחיצה על הקישור",
+   "ts": 1791178665000,
+   "date": "2026-10-05",
+   "time": "08:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sPC5bwByuIYkMvyqHMj3bcFfxNV1rS9g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sPC5bwByuIYkMvyqHMj3bcFfxNV1rS9g&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549106556"
+  },
+  {
+   "id": "AC6B6443ADC5226F1A244B2573949805",
+   "sender": "אילנה",
+   "text": "גם אצלי",
+   "ts": 1791178708000,
+   "date": "2026-10-05",
+   "time": "08:38",
+   "files": [],
+   "drive": null,
+   "phone": "972506547651"
+  },
+  {
+   "id": "A5AE9CB2839D37E87372E7ED90C399B7",
+   "sender": "תמר חמאדה",
+   "text": "מעניין למרות שיש כ200 נרשמים",
+   "ts": 1791178933000,
+   "date": "2026-10-05",
+   "time": "08:42",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "ACA986BCAF5FC6551CBC8258CF604DDB",
+   "sender": "ד\"ר חיננית לויפר פלד",
+   "text": "נרשמתי, אבל אין שעה, והנושא המופיע אחר. על איזו שעה מדובר? בעניין ה skills. תודה",
+   "ts": 1791179287000,
+   "date": "2026-10-05",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972522662274"
+  },
+  {
+   "id": "A5C5E647D71BEC0841D7003F5B343ED3",
+   "sender": "תמר חמאדה",
+   "text": "קודם מעיין מתחילה. המפגש מהשעה 20:00-21:30",
+   "ts": 1791179595000,
+   "date": "2026-10-05",
+   "time": "08:53",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "AC5E0179411EADB81C46A5FFDC7FD63E",
+   "sender": "ד\"ר חיננית לויפר פלד",
+   "text": "",
+   "ts": 1791181118000,
+   "date": "2026-10-05",
+   "time": "09:18",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "30KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1WQtfaa4X_DysFGtDgoz7CIgwlQEkd5Ai/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WQtfaa4X_DysFGtDgoz7CIgwlQEkd5Ai&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522662274"
   }
  ]
 }

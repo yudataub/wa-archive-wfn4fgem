@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-04T19:42:33.647Z",
+ "updated": "2026-10-05T09:13:00.353Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -899,6 +899,66 @@
    ],
    "drive": null,
    "phone": "972524323134"
+  },
+  {
+   "id": "AC5ABC630BA8414FD445AE9333C7519E",
+   "sender": "שרון😄",
+   "text": "מקום טוב (לעבוד בו),\nצוות איכותי.\nיחס טוב. \nתנאים טובים😄.\nמומלץ!\nלפרטים 054-4359667",
+   "ts": 1791180585000,
+   "date": "2026-10-05",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "330KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1u-tpz1x-kvtsb7ICkIwlq79zki3QmHIu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1u-tpz1x-kvtsb7ICkIwlq79zki3QmHIu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACF79D798A9FB8B1E4FF181C3938DA8D",
+   "sender": "מאיה",
+   "text": "*המציאות בבתי הספר זועקת* *החרמות מנהלים את הילדים מתחת לרדאר.*\n*צוותי חינוך, תנו לתלמידים שלכם כלים פרקטיים ואמיתיים להצלת נפשות.*\n*ההרצאה \"מהחרם לחוסן\" משלבת סיפור אישי עם ארגז כלים יישומי מ-NLP.*\n*אל תחכו למקרה הבא – דברו איתי: מאיה אביטל 052-3492545*",
+   "ts": 1791184892000,
+   "date": "2026-10-05",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "309KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kmd7Ob2Wx3BcYIrlxzYrTSr0RBasH2OB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kmd7Ob2Wx3BcYIrlxzYrTSr0RBasH2OB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523492545"
+  },
+  {
+   "id": "AC17FC0226626D88A0EBC49730A92AF3",
+   "sender": "Avishai Hamo",
+   "text": "",
+   "ts": 1791191572000,
+   "date": "2026-10-05",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12KRitesEbJoXpNZC00h5T3qrCtNIc859/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12KRitesEbJoXpNZC00h5T3qrCtNIc859&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090286"
   }
  ]
 }

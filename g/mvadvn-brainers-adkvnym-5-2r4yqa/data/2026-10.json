@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון Brainers עדכונים 5",
- "updated": "2026-10-04T08:52:45.523Z",
+ "updated": "2026-10-05T07:17:03.886Z",
  "messages": [
   {
    "id": "3EB00D7FDECFA6F358E73B",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/1sfL612YMJJIWbxK4aPfSNKw6PUMXEKOR/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1sfL612YMJJIWbxK4aPfSNKw6PUMXEKOR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522879192"
+  },
+  {
+   "id": "2A8087644B098900A8D0",
+   "sender": "לי ברקוביץ׳",
+   "text": "*תזכורת על המפגש השבועי היום* ✨\n\nבריינרים יקרים, היום אנחנו נפגשים עם *אופק לוי* שילמד אותנו איך לבנות מערכת אישית חכמה לניהול משימות - נראה איך ניגשים נכון לבנייה של מערכת כזו, ואיך משלבים בה סוכן AI *שעובד בשבילנו ומייעל לנו את התהליכים* 💻\n\nמפגש פרקטי במיוחד, ממליצים לשריין שעה וחצי מראש.\n\n🕐 מתחילים ב-20:30\n\n🔗 *זה הלינק למפגש:*\nhttps://go.brainai.co.il/brainerslive\n\n🎥 המפגש יוקלט ויעלה לאתר המועדון מחר\n\n*צוות המועדון & עדן ביבס* 💙\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1791184608000,
+   "date": "2026-10-05",
+   "time": "10:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FooAw_FgYa2RL-uUSTZgRnwX8r_GDg3r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FooAw_FgYa2RL-uUSTZgRnwX8r_GDg3r&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-10-04T20:36:43.479Z",
+ "updated": "2026-10-05T09:00:30.160Z",
  "messages": [
   {
    "id": "A5C84B0636B2C6BFD91B867288D03D38",
@@ -417,6 +417,66 @@
    "files": [],
    "drive": null,
    "phone": "972555627027"
+  },
+  {
+   "id": "AC0689C3A58A8AA0749168EE7AECBE9F",
+   "sender": "yamit",
+   "text": "",
+   "ts": 1791185808000,
+   "date": "2026-10-05",
+   "time": "10:36",
+   "files": [
+    {
+     "name": "קורות חיים ומכתב פנייה - רונית כהן.pdf",
+     "size": "57KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mClOXisLNr6t4T3NsaTK2eDdf140_9v6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522242994"
+  },
+  {
+   "id": "ACCBC964D6210A0703998216CD06FABA",
+   "sender": "yamit",
+   "text": "מורה לתנ״ך תושבת חוזרת , מחפשת משרה להוראת התנ״ך \nבתיכון או חטיבת בינייים  , בעיר מודיעין. \nטלפון - \n052-5967857",
+   "ts": 1791185810000,
+   "date": "2026-10-05",
+   "time": "10:36",
+   "files": [],
+   "drive": null,
+   "phone": "972522242994"
+  },
+  {
+   "id": "ACA5D941B14C7A6A34371471E6867567",
+   "sender": "🎀Yehudit🎀",
+   "text": "",
+   "ts": 1791186319000,
+   "date": "2026-10-05",
+   "time": "10:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1S71DJtyaWLOmjPZfmn2vNJNaDXTSZzfQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539486966"
+  },
+  {
+   "id": "AC97B8A980711300B3AF5B9162758C7C",
+   "sender": "אביטל חסן",
+   "text": "מתנת היומלדת מההסתדרות.\n הזמנתי ולא הגיע למי פונים?",
+   "ts": 1791190818000,
+   "date": "2026-10-05",
+   "time": "12:00",
+   "files": [],
+   "drive": null,
+   "phone": "972559906276"
   }
  ]
 }

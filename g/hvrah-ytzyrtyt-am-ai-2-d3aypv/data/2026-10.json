@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-05T05:07:35.120Z",
+ "updated": "2026-10-05T07:53:41.062Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -276,6 +276,37 @@
    "files": [],
    "drive": null,
    "phone": "972526499259"
+  },
+  {
+   "id": "AC664A4C606F36DF12E5CFB89F0DD982",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "אני בעד קלוד. את התמונות אפשר לצרף ממודל אחר",
+   "ts": 1791179532000,
+   "date": "2026-10-05",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB06971B4F7EA23E2C811",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "הפרומפט_היומי\n*מעבר יום-ללילה מהפנט*\nצפו בזה בתאריך 5/10/26\nובעוד המון פרומפטים מגניבים הניתנים להעתקה וישום\nhttps://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\nברכת חורף טוב, שגרה בטוחה ורגועה 🩵 שירה",
+   "ts": 1791186810000,
+   "date": "2026-10-05",
+   "time": "10:53",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fUdw_6l_Uv139d6QITGlPIYIs3NdIoQz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fUdw_6l_Uv139d6QITGlPIYIs3NdIoQz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

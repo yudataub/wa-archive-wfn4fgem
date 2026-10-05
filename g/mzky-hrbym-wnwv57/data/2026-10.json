@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-04T22:09:57.250Z",
+ "updated": "2026-10-05T08:55:30.082Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -700,6 +700,70 @@
    "files": [],
    "drive": null,
    "phone": "972527200640"
+  },
+  {
+   "id": "A529E8FE7BA87D96F1DFEE2503D28C2A",
+   "sender": "מוסדות התקרבות",
+   "text": "",
+   "ts": 1791183094000,
+   "date": "2026-10-05",
+   "time": "09:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VkDWUd7uJgEsH5LU7PQ_HhC-7G0GVqut/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VkDWUd7uJgEsH5LU7PQ_HhC-7G0GVqut&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533105280"
+  },
+  {
+   "id": "A5A41F370BC2CE59E0261ACD7550533A",
+   "sender": "מוסדות התקרבות",
+   "text": "כאלו שמואל\nמאזניים כאלו",
+   "ts": 1791183100000,
+   "date": "2026-10-05",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972533105280"
+  },
+  {
+   "id": "A56218DB545A37555D434E77EEAEAE13",
+   "sender": "מוסדות התקרבות",
+   "text": "רק מי על המאזניים?!\nלא הבנתי\nמורנו ורבנו?\nלמי הכוונה?",
+   "ts": 1791183122000,
+   "date": "2026-10-05",
+   "time": "09:52",
+   "files": [],
+   "drive": null,
+   "phone": "972533105280"
+  },
+  {
+   "id": "AC63DC00C563FA48ED32B668D678EE91",
+   "sender": "עוז ברזילי",
+   "text": "איזה מחשב נייד הכי זול שיש יכול להחזיק אדובי ואם למישהו יש משמוש תקין אשמח להצעה",
+   "ts": 1791190472000,
+   "date": "2026-10-05",
+   "time": "11:54",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "AC5C6B12348D5FAB4B148BCA32EED891",
+   "sender": "עוז ברזילי",
+   "text": "השימוש באדובי יהיה מתון לא אגרסיבי מידי",
+   "ts": 1791190506000,
+   "date": "2026-10-05",
+   "time": "11:55",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
   }
  ]
 }

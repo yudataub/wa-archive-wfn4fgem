@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-05T05:18:35.325Z",
+ "updated": "2026-10-05T07:57:41.097Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -612,6 +612,26 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "3EB03C5FE9F33A9609094F",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט_היומי\n*מעבר יום-ללילה מהפנט*\nהעלו תמונת רחוב/ בית וצרפו את הפרומפט \nצפו בזה בתאריך 5/10/26\nובעוד המון פרומפטים מגניבים הניתנים להעתקה וישום\nhttps://www.lomdot.org/dailyprompt\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\nברכת חורף טוב, שגרה בטוחה ורגועה 🩵 שירה",
+   "ts": 1791187029000,
+   "date": "2026-10-05",
+   "time": "10:57",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SE73df1SlMo0hBJ03c77AeAOEaaejs3N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SE73df1SlMo0hBJ03c77AeAOEaaejs3N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

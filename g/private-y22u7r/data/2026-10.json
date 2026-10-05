@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-05T05:15:32.132Z",
+ "updated": "2026-10-05T08:59:30.144Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -1377,7 +1377,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ai6v4EmysCxI1M_FCsliTuQwzKcmjYHy/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ai6v4EmysCxI1M_FCsliTuQwzKcmjYHy&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ai6v4EmysCxI1M_FCsliTuQwzKcmjYHy&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-private-y22u7r/v/2026-10/3EB0FDFDD994BDD75E5ED4_0.mp4"
     }
    ],
    "drive": null,
@@ -1436,6 +1437,180 @@
    "drive": null,
    "thread": "אשר לב יונה",
    "phone": "972556608835"
+  },
+  {
+   "id": "AC493EDFBE9564715FAFE58C8D26381C",
+   "sender": "אביעד ביר",
+   "text": "אני אשמח לקבל את התוכנה של החותך צילצולים כי אני אחראי על הצילצולים בביה''ס שאני עובד בו ויש לי מחשב נייד שאני עורך בו את הצילצולים",
+   "ts": 1791179686000,
+   "date": "2026-10-05",
+   "time": "08:54",
+   "files": [],
+   "drive": null,
+   "thread": "אביעד ביר",
+   "phone": "972539218034"
+  },
+  {
+   "id": "3EB0510B520E11AA78CF2E",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791182897000,
+   "date": "2026-10-05",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "claude_bridge.py",
+     "size": "9KB",
+     "type": "text/x-python",
+     "path": "https://drive.google.com/file/d/1Qllgp7wmQ_GzJih3Wfo5qESD3TvAR0jo/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0AB478C9309C53D0767",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791182897000,
+   "date": "2026-10-05",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "start-bridge.bat",
+     "size": "833B",
+     "type": "application/x-msdownload",
+     "path": "https://drive.google.com/file/d/1eG6eA_UGaGvKkD5Gp0wPUriThV-DOczk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0FCC7520D0DB524BCF0",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791182897000,
+   "date": "2026-10-05",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "מקצר שירים לצלצול.html",
+     "size": "26KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1kRocW0VaabaCSS1pzEV0Les9MwE_UKOs/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0F803CF5669BA6A297D",
+   "sender": "🌺Maya Itzkovich🌺",
+   "text": "https://us05web.zoom.us/j/86845667654?pwd=P9mzM5GbVW8ITpa7UDfYJ3eWyfzJCe.1",
+   "ts": 1791183610000,
+   "date": "2026-10-05",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "thread": "🌺Maya Itzkovich🌺",
+   "phone": "972544881602"
+  },
+  {
+   "id": "AC93C5F642BF794DCD87E3BB013BA6B6",
+   "sender": "אושרית",
+   "text": "לא הבנתי \nתרצו שיכתבו לכם חוות דעת מה דעתם? לא אוכל להתחייב מחילה",
+   "ts": 1791183654000,
+   "date": "2026-10-05",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "thread": "אושרית",
+   "phone": "972523093097"
+  },
+  {
+   "id": "3EB08ECC74EB84D249A261",
+   "sender": "אני",
+   "text": "תאמר להם רק שמי שנהנה צריך לשלם - התשלום הוא מטבעות מילים",
+   "ts": 1791183730000,
+   "date": "2026-10-05",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB03EB39BF9D7AD2D2E9E",
+   "sender": "🌺Maya Itzkovich🌺",
+   "text": "https://us05web.zoom.us/j/86149367755?pwd=ShFc5B2JSsP8XDYxzGWtYUlj5GoMGI.1",
+   "ts": 1791185930000,
+   "date": "2026-10-05",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "thread": "🌺Maya Itzkovich🌺",
+   "phone": "972544881602"
+  },
+  {
+   "id": "3EB0EED4F6BF2895096040",
+   "sender": "אני",
+   "text": "אישור למודים תעודת זהות קדמית ואחורית וספח",
+   "ts": 1791187823000,
+   "date": "2026-10-05",
+   "time": "11:10",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A50F4A6F3A5E37237EF0F196BEE71316",
+   "sender": "אני",
+   "text": "לשלוח לך את הקבצים או להעלות אותם לפורטל",
+   "ts": 1791187944000,
+   "date": "2026-10-05",
+   "time": "11:12",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A7DCE80AEEDD33F45A3",
+   "sender": "🌺Maya Itzkovich🌺",
+   "text": "לפורטל עצמו",
+   "ts": 1791187957000,
+   "date": "2026-10-05",
+   "time": "11:12",
+   "files": [],
+   "drive": null,
+   "thread": "🌺Maya Itzkovich🌺",
+   "phone": "972544881602"
+  },
+  {
+   "id": "AC9907AD5C55F6955D3558913CC09C70",
+   "sender": "אושרית",
+   "text": "ולצרף נייד שלך ?",
+   "ts": 1791190751000,
+   "date": "2026-10-05",
+   "time": "11:59",
+   "files": [],
+   "drive": null,
+   "thread": "אושרית",
+   "phone": "972523093097"
+  },
+  {
+   "id": "ACE4E67B91D0D213A9F599F2771C3119",
+   "sender": "אושרית",
+   "text": "אני מחנכת בתלמוד תורה",
+   "ts": 1791190761000,
+   "date": "2026-10-05",
+   "time": "11:59",
+   "files": [],
+   "drive": null,
+   "thread": "אושרית",
+   "phone": "972523093097"
   }
  ]
 }

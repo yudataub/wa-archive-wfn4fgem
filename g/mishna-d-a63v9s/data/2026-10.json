@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-04T19:47:33.719Z",
+ "updated": "2026-10-05T08:55:00.080Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -256,6 +256,61 @@
    "files": [],
    "drive": null,
    "phone": "972522405556"
+  },
+  {
+   "id": "ACF76D732C1943F52D3C10DFB71348EA",
+   "sender": "איילת",
+   "text": "סליחה אם כבר כתבו ופספסתי. יש קישור לסרטונים?",
+   "ts": 1791183192000,
+   "date": "2026-10-05",
+   "time": "09:53",
+   "files": [],
+   "drive": null,
+   "phone": "972508228422"
+  },
+  {
+   "id": "AC253B124C6EE8E1BC1CED7ED3AE3E12",
+   "sender": "אביחי זגורי",
+   "text": "זה בחינם?",
+   "ts": 1791185201000,
+   "date": "2026-10-05",
+   "time": "10:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525393128"
+  },
+  {
+   "id": "AC8735ECD362C74F679738E5104353D4",
+   "sender": "איילת",
+   "text": "תודה, אבדוק",
+   "ts": 1791185288000,
+   "date": "2026-10-05",
+   "time": "10:28",
+   "files": [],
+   "drive": null,
+   "phone": "972508228422"
+  },
+  {
+   "id": "3EB0584EF5A062721607CA",
+   "sender": "אלעזר",
+   "text": "https://docs.google.com/document/d/1HquiOQW5vweP3R8XUCrB9IVZXaqW5oFRGUwcWijkSqg/edit?usp=sharing",
+   "ts": 1791190466000,
+   "date": "2026-10-05",
+   "time": "11:54",
+   "files": [],
+   "drive": null,
+   "phone": "972533334930"
+  },
+  {
+   "id": "3EB061EEFF1211985434CE",
+   "sender": "אלעזר",
+   "text": "זה עוד קובץ לא סופי אבל ניסיתי לרכז אותם כאן",
+   "ts": 1791190473000,
+   "date": "2026-10-05",
+   "time": "11:54",
+   "files": [],
+   "drive": null,
+   "phone": "972533334930"
   }
  ]
 }

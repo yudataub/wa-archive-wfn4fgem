@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-05T04:15:06.947Z",
+ "updated": "2026-10-05T06:40:03.334Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -425,6 +425,36 @@
    "time": "07:14",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "3A32F657C2B0441E65FE",
+   "sender": "הודיה סילברמן🌿",
+   "text": "למישהו יש צלצול לדרך אמונה בחרתי?",
+   "ts": 1791179557000,
+   "date": "2026-10-05",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972584345567"
+  },
+  {
+   "id": "ACBD14753F2997A790304E9C8A59E58D",
+   "sender": "שירלי",
+   "text": "",
+   "ts": 1791182395000,
+   "date": "2026-10-05",
+   "time": "09:39",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "1.2MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1edeYpn_ek8P3iN_YL1XPqRHFJ9zv8Sj_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522645413"
   }
  ]
 }

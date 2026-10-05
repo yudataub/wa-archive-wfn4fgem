@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-04T18:09:23.083Z",
+ "updated": "2026-10-05T08:31:29.726Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -1242,6 +1242,66 @@
    ],
    "drive": null,
    "phone": "972542514562"
+  },
+  {
+   "id": "AC6E69D89DA3DD02E611CADCBC8FD407",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791186198000,
+   "date": "2026-10-05",
+   "time": "10:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1toxi3QIp-HQ3LaGID5tXMdO97mMvrVVo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1toxi3QIp-HQ3LaGID5tXMdO97mMvrVVo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "ACA54EC9E1CE736A76E9288F67B85692",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791186201000,
+   "date": "2026-10-05",
+   "time": "10:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1t21--dMDPfOcmicAtqD5W967D9_KCckH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t21--dMDPfOcmicAtqD5W967D9_KCckH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "A5C1A518C91BFA70344E32C9D52564A9",
+   "sender": "פאר והדר",
+   "text": "ממשיכים להכין לכם עוגות מעוצבות מושלמות לכל חגיגה..🩷🧡💚💛\nעוגות גן עוגות שכבות מעוצבות עוגות בנטו עוגות מוס מושחתות שוקולד מארזי הפתעה ומגשי אירוח טעימים מושלמים במיוחד בהתאמה אישית ...💚💛💚💛\n\nכמוכן מכינה לכם מארזי מיני דונאטס וטילונים לקישוט עצמי לילדים עם צבעי מאכל ושוקולד במחירים שווים לכל כיס לתעסוקה מושלמת לחופש..🩷🧡💛\n\nהמוצרים עדה חרדית ובית יוסף\nאיסוף מקרית ביאליק .\n\nלהזמנות\n0527317774\n\nאיסוף מקרית ביאליק \nהמוצרים הינם עדה חרדית ובית יוסף..",
+   "ts": 1791189084000,
+   "date": "2026-10-05",
+   "time": "11:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OkirKOAMQ0rQdZI55hJXGpzrf2Kecnz1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OkirKOAMQ0rQdZI55hJXGpzrf2Kecnz1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527317774"
   }
  ]
 }

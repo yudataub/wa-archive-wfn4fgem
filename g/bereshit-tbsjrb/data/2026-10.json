@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-05T05:37:02.479Z",
+ "updated": "2026-10-05T06:57:03.593Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -857,6 +857,69 @@
      "size": "10.5MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1mNPrxCnelcyR-vhlYffYIgP1NBuvqM6N/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "ACBEE1C064D72806D4F0F1B09422116A",
+   "sender": "יהונתן מילר",
+   "text": "תודה!",
+   "ts": 1791181424000,
+   "date": "2026-10-05",
+   "time": "09:23",
+   "files": [],
+   "drive": null,
+   "phone": "972542035900"
+  },
+  {
+   "id": "ACAF37F2AFC1A45DE18D37EF4C2A5B1F",
+   "sender": "רבקה וולף",
+   "text": "יש למישהו רעיון לפעילות או משחק לסיכום ימי הבריאה? אני רוצה לחזור עם התלמידים על הימים הראשונים שלמדנו לפני החגים, והבמשך לחזור שוב על כל הימים כשנגמור.\nכיתה קטנה.",
+   "ts": 1791181768000,
+   "date": "2026-10-05",
+   "time": "09:29",
+   "files": [],
+   "drive": null,
+   "phone": "972549436940"
+  },
+  {
+   "id": "AC2E1FB84D7A1F8FE847A97A954B8771",
+   "sender": "רבקה וולף",
+   "text": "בנוסף, יש למישהו קישור לשיר \"מה ברא ה'\"? או שיר אחר על הבריאה",
+   "ts": 1791182287000,
+   "date": "2026-10-05",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "phone": "972549436940"
+  },
+  {
+   "id": "ACD6E39A374C5D3638C41B4270920284",
+   "sender": "אחינעם",
+   "text": "אפשר לעשות קוביה של ימי הבריאה",
+   "ts": 1791182761000,
+   "date": "2026-10-05",
+   "time": "09:46",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "A599673AE6F9135F33F216FCA3C03849",
+   "sender": "Michal Biton",
+   "text": "מטילים את הקוביה ואז שאלה על היום הזה",
+   "ts": 1791183420000,
+   "date": "2026-10-05",
+   "time": "09:57",
+   "files": [
+    {
+     "name": "קוביית הבריאה.pdf",
+     "size": "515KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/15IRj4REhv_QCXWS6HhgHv_jDEtw7kUCj/view?usp=drivesdk",
      "skipped": ""
     }
    ],

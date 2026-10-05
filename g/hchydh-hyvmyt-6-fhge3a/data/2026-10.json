@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-10-04T19:25:22.050Z",
+ "updated": "2026-10-05T09:03:24.725Z",
  "messages": [
   {
    "id": "3EB0B3E2508A48B76E72A4",
@@ -159,6 +159,46 @@
      "path": "https://drive.google.com/file/d/1i4_vjLLzTtUVK0LEyaLEHYuklrycXe-5/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1i4_vjLLzTtUVK0LEyaLEHYuklrycXe-5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0BC1503B7818CCD1DC9",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "😡 מהחדשות לחידה היומית: \n*מהי המילה הרמוזה בתמונה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://forms.gle/KJM5viL4zYMHsgEB7\n\n👈 *יש לכם חברים שעדיין לא חברים בקהילה?* \nהנה קישור ההצטרפות:\nאחלה יום!",
+   "ts": 1791181049000,
+   "date": "2026-10-05",
+   "time": "09:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "349KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MKaHNy0aortIdYk6FHiyNtvE_N9dPNo6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MKaHNy0aortIdYk6FHiyNtvE_N9dPNo6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0D754056521555AF4D3",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "🫨למה עשינו חידה על הסרט NAZA? \nכי מתנהל עכשיו קרב עולמי חשוב, \nואתם ממש יכולים לעזור בו. \nתקשיבו לידידי אריאל אוורבוך,\nשיצא למלחמה על האמת. \nתצפו בסרטון האלטנרטיבי שהופק:\n*נז\"א - הסיפור האמיתי* \nובעיקר תפיצו אותו לכל מי שאתם מכירים - בארץ ובחו\"ל.\nhttps://nazadocumentary.com/\n(אח\"כ גם תגשו לפתור את החידה היומית...)",
+   "ts": 1791190994000,
+   "date": "2026-10-05",
+   "time": "12:03",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "17.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/19Qxg2w9abllsbNNgM5aLZYsd3MRtHb_e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19Qxg2w9abllsbNNgM5aLZYsd3MRtHb_e&sz=w1200"
     }
    ],
    "drive": null,

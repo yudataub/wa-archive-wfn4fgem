@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-04T16:15:36.411Z",
+ "updated": "2026-10-05T08:16:17.136Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -243,6 +243,48 @@
    "ts": 1791130525000,
    "date": "2026-10-04",
    "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB01116F06C6953BBC5B4",
+   "sender": "וואצאפ כשר",
+   "text": "*תשפז❤️*\n\nמורים יקרים!\nמצורף קישור לקובץ שיתופי, בו כל מורה יכתוב את ההשתלמויות שבהן ישתתף בשנה\nהנוכחית.\nנא לפרט את שם ההשתלמות ואת היקף השעות.\nhttps://docs.google.com/document/d/1KRthF5LjlLpLzjGRAIaWge8fmw8FfCeNdQV7ASJx6NI/edit?usp=sharing\nנא למלא את המידע עד לסוף השבוע.\nתודה רבה\n*בשורות טובות,*\n*רננה סלהוב*",
+   "ts": 1791180056000,
+   "date": "2026-10-05",
+   "time": "09:00",
+   "files": [],
+   "drive": null,
+   "phone": "972552671189"
+  },
+  {
+   "id": "3AA10477619CB941C775",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791180854000,
+   "date": "2026-10-05",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cZQqTNH4JHHBPdbZ9G0oLO__lXGuXVY9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cZQqTNH4JHHBPdbZ9G0oLO__lXGuXVY9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "ACEA21D1EB511704C45E7C46A0FF449D",
+   "sender": "אורלי אוחנה",
+   "text": "צוות יקר ,\nלא לשכוח לעדכן במשוב בבקשה.",
+   "ts": 1791188150000,
+   "date": "2026-10-05",
+   "time": "11:15",
    "files": [],
    "drive": null,
    "phone": "972507864721"

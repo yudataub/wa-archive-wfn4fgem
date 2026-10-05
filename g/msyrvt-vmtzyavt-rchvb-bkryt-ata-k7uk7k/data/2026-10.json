@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-05T05:34:02.446Z",
+ "updated": "2026-10-05T09:26:55.426Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -339,6 +339,90 @@
    "files": [],
    "drive": null,
    "phone": "972548005466"
+  },
+  {
+   "id": "ACD9ADB90D8D27F5608FCC8C4092D965",
+   "sender": "מירה פרבשטיין",
+   "text": "יש לי שק שינה.",
+   "ts": 1791181339000,
+   "date": "2026-10-05",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523520009"
+  },
+  {
+   "id": "3A54716673CB5121E66E",
+   "sender": "יפה",
+   "text": "תודה על הרצון הטוב מחפשת שק שינה מקרית אתא  כי את גרה קצת חוק",
+   "ts": 1791181529000,
+   "date": "2026-10-05",
+   "time": "09:25",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "AC991EB84DE0E8748D07EA8ABC5840B6",
+   "sender": "נעמה אזולאי",
+   "text": "לאור ריבוי בקשות לסיוע במזון, נפתחה קבוצה חדשה למסירת אוכל, עבור תושבי ק. אתא. \nמוזמנים להצטרף ולסייע/להסתייע. \n\nהכנתם יותר מדי אוכל? חבל שייזרק! ❤️\n\nבואו נהפוך את העודף להזדמנות לעשות טוב, לחזק את הקהילה ולהפיץ מעשים טובים. אוכל שנשאר אצלכם יכול לשמח מישהו אחר. 🥰\n\nהצטרפו לקבוצת \"אוכל למסירה – קריית אתא\"\n\nיחד נצמצם בזבוז מזון ונרבה בנתינה!",
+   "ts": 1791181914000,
+   "date": "2026-10-05",
+   "time": "09:31",
+   "files": [],
+   "drive": null,
+   "phone": "972559971125"
+  },
+  {
+   "id": "ACC2E18F543826F4BA26E329F124208C",
+   "sender": "ראובן הספל",
+   "text": "יש לי שק שינה למסרה בקריית אתא 0522377781",
+   "ts": 1791189283000,
+   "date": "2026-10-05",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972522377781"
+  },
+  {
+   "id": "AC351A9F5D86056DC37E2D4BA042A82C",
+   "sender": "עדי חסיד",
+   "text": "נעלי קרוקס למסירה",
+   "ts": 1791192236000,
+   "date": "2026-10-05",
+   "time": "12:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PM9gm9QaNz6Js08SNd1Sn3Zz0pATtPsS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PM9gm9QaNz6Js08SNd1Sn3Zz0pATtPsS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACBAA77CAC8F47AB1D444FF48FF3BCA7",
+   "sender": "מירה פרבשטיין",
+   "text": "למסירה, שולחן סלון לבן, 60/1.60 ס\"מ.",
+   "ts": 1791192414000,
+   "date": "2026-10-05",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/107mI78Sw2y1YLNp5lAIznV2bB89ZYlZq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=107mI78Sw2y1YLNp5lAIznV2bB89ZYlZq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523520009"
   }
  ]
 }

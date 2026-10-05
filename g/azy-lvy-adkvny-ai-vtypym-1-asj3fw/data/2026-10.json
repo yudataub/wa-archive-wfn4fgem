@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עזי לוי -עדכוני AI וטיפים -1",
- "updated": "2026-10-04T14:36:58.831Z",
+ "updated": "2026-10-05T06:42:36.532Z",
  "messages": [
   {
    "id": "3EB06B8149D092A82FFE26",
@@ -59,6 +59,26 @@
      "path": "https://drive.google.com/file/d/1WQlCAveeABXZ2IO2PhKgqKsEGSTE3wMe/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1WQlCAveeABXZ2IO2PhKgqKsEGSTE3wMe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0282AEE029A1093E953",
+   "sender": "Ezy Levy",
+   "text": "בוקר טוב\nלכל מי שעובד עם Gemini Notebook, גוגל הרחיבה את השימוש בתוצרים החזותיים.\nבמקום לחכות 24 שעות לחידוש המכסה,  היא מתחדשת עכשיו כל 5 שעות.\nבנוסף, המכסה הופכת לגמישה יותר, אתם מחליטים אם לנצל אותה על וידאו, מצגות או תוצרים אחרים.\n*ואם נגמרה המכסה, אפשר להכניס יצירה לתור והיא תיווצר אוטומטית כשהמכסה תתחדש.*\nבקיצור, פחות לחכות, יותר לעבוד.\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.",
+   "ts": 1791182545000,
+   "date": "2026-10-05",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yV6lPpODY42cz2urpfPQHfbNRqS32hGt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yV6lPpODY42cz2urpfPQHfbNRqS32hGt&sz=w1200"
     }
    ],
    "drive": null,

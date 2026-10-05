@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת מלמדי גמרא סדורה",
- "updated": "2026-10-03T17:46:13.618Z",
+ "updated": "2026-10-05T06:40:33.348Z",
  "messages": [
   {
    "id": "AC130ED618D8AC57C2CFE56F846C21D4",
@@ -13,6 +13,25 @@
    "files": [],
    "drive": null,
    "phone": "972586161191"
+  },
+  {
+   "id": "3EB0DD201EBCC6257D81B3",
+   "sender": "דניאל ברק ווינט",
+   "text": "אם זה מתאים - בשמחה רבה.\nהחכמה היא להתחיל מההתחלה ואז להעלות.\nוכך גם בגמרא סדורה - מה איפיון הפיסקה ואז הבנת הפיסקה.",
+   "ts": 1791182407000,
+   "date": "2026-10-05",
+   "time": "09:40",
+   "files": [
+    {
+     "name": "קידושין - מצוות האב על הבן - דפי עבודה דני ווינט.pdf",
+     "size": "369KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14QN6ZwyU0Ge8sd5eGpW_ugtYGimz0Hqf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526071122"
   }
  ]
 }

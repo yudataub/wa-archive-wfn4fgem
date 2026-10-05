@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-04T20:12:40.796Z",
+ "updated": "2026-10-05T09:14:00.380Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -516,6 +516,157 @@
    "files": [],
    "drive": null,
    "phone": "972585914371"
+  },
+  {
+   "id": "3A00943115F720B7B556",
+   "sender": "בתאל בתיה",
+   "text": "בוקר טוב, \nלמי יש הסבר ברור לבמדבר פרק ג׳  עם הלווים והבכורות ??",
+   "ts": 1791181979000,
+   "date": "2026-10-05",
+   "time": "09:32",
+   "files": [],
+   "drive": null,
+   "phone": "972509001811"
+  },
+  {
+   "id": "AC99FE574368A308CC70954316B6887C",
+   "sender": "גילה פלוס",
+   "text": "מפקד הלוויים ופדיון הבכורות",
+   "ts": 1791182170000,
+   "date": "2026-10-05",
+   "time": "09:36",
+   "files": [
+    {
+     "name": "DOC-20261004-WA0025.pdf",
+     "size": "520KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QR2VUzdj5Vipm9VpdJ_4IrF4UUDMRNXj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509026825"
+  },
+  {
+   "id": "AC8C7E1E5C6DD1B43CE5F64CC492C063",
+   "sender": "אדרת🌸",
+   "text": "מחפשת מצגת על פרק ב' פרשת במדבר",
+   "ts": 1791182477000,
+   "date": "2026-10-05",
+   "time": "09:41",
+   "files": [],
+   "drive": null,
+   "phone": "972545700437"
+  },
+  {
+   "id": "AC93E0FE08369767F5F16AE104427202",
+   "sender": "עינב כהן",
+   "text": "אשמח לתוכנית הלימודים בבמדבר ןשמואל א",
+   "ts": 1791182691000,
+   "date": "2026-10-05",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "phone": "972523335693"
+  },
+  {
+   "id": "AC84662409AE8C82966DAECB95A578C4",
+   "sender": "סיון סעדו",
+   "text": "אפשר לוח קיר לספר במדבר?",
+   "ts": 1791184822000,
+   "date": "2026-10-05",
+   "time": "10:20",
+   "files": [],
+   "drive": null,
+   "phone": "972509345620"
+  },
+  {
+   "id": "2A96E15F4A5D803A59DA",
+   "sender": "תיקי מותגים",
+   "text": "יא אני גם אשמח ממש",
+   "ts": 1791189387000,
+   "date": "2026-10-05",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972533058097"
+  },
+  {
+   "id": "AC570C473C254793BDF04167245D7EB0",
+   "sender": "גילה פלוס",
+   "text": "חומש במדבר | תנ\"ך חמ\"ד ליסודי | המרחב הפדגוגי | משרד החינוך https://share.google/Dih1l9dVF5Y7g6ltT",
+   "ts": 1791190729000,
+   "date": "2026-10-05",
+   "time": "11:58",
+   "files": [],
+   "drive": null,
+   "phone": "972509026825"
+  },
+  {
+   "id": "ACD9362FAB19CAE59CB263637A4F7D07",
+   "sender": "גילה פלוס",
+   "text": "נביא - שמואל א | תנ\"ך - חמ\"ד ליסודי | מרחב פדגוגי | פורטל עובדי הוראה https://share.google/ARIkw01okYZMcOw65",
+   "ts": 1791190771000,
+   "date": "2026-10-05",
+   "time": "11:59",
+   "files": [],
+   "drive": null,
+   "phone": "972509026825"
+  },
+  {
+   "id": "AC74E75B2E1E63606CBA09E9D05E39C1",
+   "sender": "גילה פלוס",
+   "text": "שמתי את שני הקישורים⬆️ בקבוצה שלי עם עצמי וזה ממש עוזר לי לבנות את השיעורים שלי. ממליצה בחום!",
+   "ts": 1791190870000,
+   "date": "2026-10-05",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "phone": "972509026825"
+  },
+  {
+   "id": "3AB24A63050B6D426246",
+   "sender": "עקיבא חי גולן",
+   "text": "https://www.youtube.com/watch?v=C5c1lxqCj8Q&feature=youtu.be",
+   "ts": 1791191305000,
+   "date": "2026-10-05",
+   "time": "12:08",
+   "files": [],
+   "drive": null,
+   "phone": "972523115880"
+  },
+  {
+   "id": "3ABAC25109B40540AD81",
+   "sender": "עקיבא חי גולן",
+   "text": "https://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/pedagogy-of-the-hamad-bible/measurement/\nבקטגוריה של כיתה ד באתר.\nבנוסף יש קטגורייה של חימוד כתב רש״י עם חומרים מתאימים בכתובת הבאה באתר-",
+   "ts": 1791191545000,
+   "date": "2026-10-05",
+   "time": "12:12",
+   "files": [],
+   "drive": null,
+   "phone": "972523115880"
+  },
+  {
+   "id": "3A93296131C6F6C66E59",
+   "sender": "עקיבא חי גולן",
+   "text": "https://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/teaching-materials/vaikra/#pos_330761",
+   "ts": 1791191546000,
+   "date": "2026-10-05",
+   "time": "12:12",
+   "files": [],
+   "drive": null,
+   "phone": "972523115880"
+  },
+  {
+   "id": "3AB84F3853D9384C31B1",
+   "sender": "עקיבא חי גולן",
+   "text": "מוזמנת לשלוח לי בפרטי מה הבעיה ונטפל",
+   "ts": 1791191633000,
+   "date": "2026-10-05",
+   "time": "12:13",
+   "files": [],
+   "drive": null,
+   "phone": "972523115880"
   }
  ]
 }

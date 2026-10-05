@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-05T05:35:32.448Z",
+ "updated": "2026-10-05T08:50:00.002Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -993,6 +993,58 @@
    "files": [],
    "drive": null,
    "phone": "972546806138"
+  },
+  {
+   "id": "AC5540CB31311FF878583B7E3A7D2614",
+   "sender": "אביחי זגורי",
+   "text": "אני התחלתי להדפיס להם דפים מחוברת שמלמדת על כתב רשי יש אותה בגוגל והיא ממש טובה",
+   "ts": 1791179902000,
+   "date": "2026-10-05",
+   "time": "08:58",
+   "files": [],
+   "drive": null,
+   "phone": "972525393128"
+  },
+  {
+   "id": "ACD2EB3FE9F12CD65F0D9765FC406A2D",
+   "sender": "ישראל יוקל",
+   "text": "להביא את הפירוש בכתב רגיל",
+   "ts": 1791180036000,
+   "date": "2026-10-05",
+   "time": "09:00",
+   "files": [],
+   "drive": null,
+   "phone": "972542261101"
+  },
+  {
+   "id": "AC938C212985046EE40220DC2D520CD2",
+   "sender": "אתי סגל",
+   "text": "יש למשהו שיר של פרשות חומש ויקרא?",
+   "ts": 1791189781000,
+   "date": "2026-10-05",
+   "time": "11:43",
+   "files": [],
+   "drive": null,
+   "phone": "972525770397"
+  },
+  {
+   "id": "ACF200AE21ADF1DEEDCCFD0B4807709A",
+   "sender": "רחלי מנדלסון",
+   "text": "",
+   "ts": 1791190189000,
+   "date": "2026-10-05",
+   "time": "11:49",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "1.7MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1mU1XUvQA8mvi97sgdvBwlnMtafw1az60/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584960699"
   }
  ]
 }
