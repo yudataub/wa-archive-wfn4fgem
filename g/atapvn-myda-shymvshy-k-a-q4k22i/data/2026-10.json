@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-05T11:52:18.325Z",
+ "updated": "2026-10-05T14:47:11.606Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -1056,7 +1056,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1pzTyFGL8_mciYzSrOpthN_QQ1UGC4dS1/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1pzTyFGL8_mciYzSrOpthN_QQ1UGC4dS1&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1pzTyFGL8_mciYzSrOpthN_QQ1UGC4dS1&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/2AADD1CFF4FEC11C47EA_0.mp4"
     }
    ],
    "drive": null,
@@ -1092,6 +1093,26 @@
    ],
    "drive": null,
    "phone": "972508422190"
+  },
+  {
+   "id": "AC66ADF8BA473BB754B00E3A193762B3",
+   "sender": "אור אבן - חן 🫶",
+   "text": "מתחתנים? \nלפני החופה, לפני המילים ...\nיש רגעים קטנים שמספרים הכל.\nנשמר אותם בשבילכם.\nצרו קשר ונתעד גם את הרגעים שלכם 🤍\nזמין לכם בווטסאפ\n052-8844911 שרון\n#צילוםחתונות #אהבה #רגעיםשלאחוזרים #WeddingIsrael . https://www.0528844911.co.il/card.html",
+   "ts": 1791211604000,
+   "date": "2026-10-05",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "436KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Lfz6Ke_3wOGgpt7TG70Z5tRoEsNT6QR-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Lfz6Ke_3wOGgpt7TG70Z5tRoEsNT6QR-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523408097"
   }
  ]
 }

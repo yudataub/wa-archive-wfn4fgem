@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בינטק 4 - בינה מלאכותית עם הנרי",
- "updated": "2026-10-04T16:01:36.131Z",
+ "updated": "2026-10-05T15:25:48.786Z",
  "messages": [
   {
    "id": "A5376B6D1C623677A8FB7B68EA86B10B",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/1GQrJEOBMyBPLk8zLiGvF0njeLFJAyxfp/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1GQrJEOBMyBPLk8zLiGvF0njeLFJAyxfp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585005171"
+  },
+  {
+   "id": "A535BAD8E5D3DD844751D9DE7A0C6F22",
+   "sender": "Henry Ai",
+   "text": "אם אתם משתמשים בג׳מיני (Gemini, הצ׳אטבוט של גוגל) יש שני עדכונים שכדאי להכיר 🤖\n\nהראשון טוב - ג׳מיני מקבל סקילס (Skills), הוראות שמורות למשימות שחוזרות, למשל ״נסח מייל ללקוח בסגנון שלי״. שומרים פעם אחת ומפעילים בהקלדת / בתיבת ההודעה, ואפשר לשלב כמה סקילס בבקשה אחת. זמין גם בחינם, תומך בעברית, באפליקציה ובמחשב, והפריסה הדרגתית. הסקילס מחליפים בהדרגה את Gems, והג׳מס הקיימים יועברו אליהם אוטומטית.\n\nהשני פחות נעים - מ-9 באוקטובר (יום שישי), בחשבונות אישיים:\n- בחינם - נשאר רק המודל הקל Flash-Lite, בלי Flash ו-Pro\n- מנוי Google AI Plus, הזול מבין המנויים - מאבד את Pro ונשאר עם Flash-Lite ו-Flash, התאריך המדויק יישלח במייל\n- מנוי Google AI Pro - לא מאבד כלום ומקבל את Deep Think, מצב חשיבה עמוקה\n\nבקיצור, הכלי נשאר חינמי אבל הדגמים החזקים עוברים למנויים. מי שמסתמך על Pro בעבודה כדאי שיבדוק מראש את המנוי שלו.\n\nבאיזה מודל של ג׳מיני אתם משתמשים הכי הרבה?\n\nהמדריך המקיף שלי לג׳מיני 👇🏼\nhttps://youtu.be/MApDy8hEFEg\nמדריך הסקילס שלי בקלוד, הפורמט פתוח וזהה ברעיון 👇🏼\nhttps://youtu.be/dUmOy9Xbc-o\nהכלי עצמו 👇🏼\nhttps://gemini.google.com\n\nלהזמנת הרצאה, סדנה או ייעוץ להטמעת כלי בינה מלאכותית ואוטומציות אצלכם בארגון צרו איתי קשר בווצאפ - 0585005171 🦾\nיש לכם.ן חברים שעדיין לא בקבוצות בהן אני שולח תכנים נגישים על בינה מלאכותית? שלחו להם שיצטרפו 👇🏼\nתהנו\nהנרי - henryai.space 🩷",
+   "ts": 1791213921000,
+   "date": "2026-10-05",
+   "time": "18:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nSO7AC8SDPrjAPe0pEmgWc2tmrQWS2zQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nSO7AC8SDPrjAPe0pEmgWc2tmrQWS2zQ&sz=w1200"
     }
    ],
    "drive": null,

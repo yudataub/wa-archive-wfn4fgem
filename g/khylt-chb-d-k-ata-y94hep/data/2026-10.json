@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-05T03:18:45.239Z",
+ "updated": "2026-10-05T14:51:41.671Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -961,6 +961,39 @@
    "files": [],
    "drive": null,
    "phone": "972523730397"
+  },
+  {
+   "id": "ACF4E0DF16F10ABF1609C7D29F8332DE",
+   "sender": "Moshe",
+   "text": "מתי מינחה ?",
+   "ts": 1791211853000,
+   "date": "2026-10-05",
+   "time": "17:50",
+   "files": [],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "ACE549ABB1529AEAB8E8FBA74BF85FB2",
+   "sender": "חגי אלגואז",
+   "text": "שש ורבע",
+   "ts": 1791211876000,
+   "date": "2026-10-05",
+   "time": "17:51",
+   "files": [],
+   "drive": null,
+   "phone": "972527996222"
+  },
+  {
+   "id": "AC0910288B1AD908C530FA97C328C67D",
+   "sender": "Moshe",
+   "text": "👍",
+   "ts": 1791211901000,
+   "date": "2026-10-05",
+   "time": "17:51",
+   "files": [],
+   "drive": null,
+   "phone": "972506456770"
   }
  ]
 }

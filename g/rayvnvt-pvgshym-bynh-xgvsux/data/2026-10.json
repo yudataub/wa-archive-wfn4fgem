@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-05T06:19:06.230Z",
+ "updated": "2026-10-05T16:50:57.922Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -940,6 +940,70 @@
    ],
    "drive": null,
    "phone": "972522662274"
+  },
+  {
+   "id": "A5BC11B03C4E433980BF8FD1B66C089C",
+   "sender": "תמר חמאדה",
+   "text": "חברים, סרטון חדש בסדרה \"ג׳מים לסקילז\"! 🎬\n https://youtu.be/ca-Ki3nFZxA?si=DSbmdfHHz34Jc4oF\n\nאיך מעבירים את הג׳מים ל-Skills בשלושה שלבים:\n\n1️⃣ גיבוי: ב-Drive לוחצים הורדה על התיקייה Gemini Gems.\n2️⃣ המרה: באפליקציה שיצרנו (בהשראתו שםםפ שרון מרגולין):\n https://creative-rolypoly-14ef0c.netlify.app/\n\n3️⃣ העלאה: ב-Gemini: הגדרות ← כישורים (Skills) ← מעלים כל קובץ.\n\n💡 מעלים רק מה שצריכים. תמונות ו-PDF מצורפים עוברים בנפרד.\n\nובמפגש הקהילה הראשון נצלול לעומק 💛\n\nרעיונות פוגשים בינה | תמר חמאדה",
+   "ts": 1791211634000,
+   "date": "2026-10-05",
+   "time": "17:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dsc5DhpW4dnoZy7WreGyOOhkysH2Edhm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dsc5DhpW4dnoZy7WreGyOOhkysH2Edhm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "ACBED1CD787B9151771F99EDEED07A61",
+   "sender": "אילנה",
+   "text": "תודה רבה.",
+   "ts": 1791211724000,
+   "date": "2026-10-05",
+   "time": "17:48",
+   "files": [],
+   "drive": null,
+   "phone": "972506547651"
+  },
+  {
+   "id": "3A04F3E13486AA098AE0",
+   "sender": "Alkalay Irit",
+   "text": "האם המפגש עדיין ב14 ?",
+   "ts": 1791215559000,
+   "date": "2026-10-05",
+   "time": "18:52",
+   "files": [],
+   "drive": null,
+   "phone": "16176331490"
+  },
+  {
+   "id": "A5584A776B142394EA33CFA9B5D422CE",
+   "sender": "תמר חמאדה",
+   "text": "כן",
+   "ts": 1791216681000,
+   "date": "2026-10-05",
+   "time": "19:11",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "3A7DDC7F3404B94094F6",
+   "sender": "Alkalay Irit",
+   "text": "תודה ממש מצפה.. עדיין מנסה להבין את כל העניין הזה של המעבר מGems to Skills",
+   "ts": 1791219031000,
+   "date": "2026-10-05",
+   "time": "19:50",
+   "files": [],
+   "drive": null,
+   "phone": "16176331490"
   }
  ]
 }

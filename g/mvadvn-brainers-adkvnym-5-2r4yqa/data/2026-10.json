@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון Brainers עדכונים 5",
- "updated": "2026-10-05T07:17:03.886Z",
+ "updated": "2026-10-05T17:25:04.102Z",
  "messages": [
   {
    "id": "3EB00D7FDECFA6F358E73B",
@@ -60,6 +60,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1FooAw_FgYa2RL-uUSTZgRnwX8r_GDg3r&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972522879192"
+  },
+  {
+   "id": "2AB8767F3E8DF029356B",
+   "sender": "לי ברקוביץ׳",
+   "text": "*עוד כמה דקות מתחיליםםם* 🤩\n\nמפגש עם *אופק לוי* על בניית מערכת אישית לניהול משימות, ואיך משלבים בה סוכן AI חכם שמנהל ומבצע פעולות בשבילנו 💻\n\n🔗 *זה הלינק למפגש:*\nhttps://go.brainai.co.il/brainerslive\n\n🕣 *מתחילים ב־20:30 בדיוק*\n\nהמפגש יוקלט ויעלה לאתר המועדון מחר",
+   "ts": 1791221078000,
+   "date": "2026-10-05",
+   "time": "20:24",
+   "files": [],
    "drive": null,
    "phone": "972522879192"
   }

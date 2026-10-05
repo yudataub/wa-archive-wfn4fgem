@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-05T12:54:55.934Z",
+ "updated": "2026-10-05T14:34:41.405Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -293,6 +293,157 @@
    ],
    "drive": null,
    "phone": "972546081268"
+  },
+  {
+   "id": "AC57A1A8626344910F5B89D9BE9CD430",
+   "sender": "נעה",
+   "text": "אשמח לחומרים חדשים בנושא שבת \nובנושא כיבוד הורים",
+   "ts": 1791207818000,
+   "date": "2026-10-05",
+   "time": "16:43",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC20474D1A79327511DAA7581A170151",
+   "sender": "תפארת רייכנברג",
+   "text": "אשמח לדף עבודה",
+   "ts": 1791208124000,
+   "date": "2026-10-05",
+   "time": "16:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523115938"
+  },
+  {
+   "id": "ACEF13D7389FBF1DBEE205F3B9DA6E7F",
+   "sender": "עמיהוד שילה",
+   "text": "https://ap.wps.com/cms/docs/d/cbPagj3s0uSczC0i?lg=he-IL&sa=601.1074&ps=1&fn=%D7%93%D7%A3%20%D7%A2%D7%91%D7%95%D7%93%D7%94%20%D7%9E%D7%A9%D7%99%D7%91%20%D7%94%D7%A8%D7%95%D7%97%20%D7%9B%D7%99%D7%AA%D7%94%20%D7%92'.docx&refer=whatsapp\n\nפתח באפליקציה:\nhttps://go.wps.com/s6bdEFJp9C8Q",
+   "ts": 1791209984000,
+   "date": "2026-10-05",
+   "time": "17:19",
+   "files": [],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "ACE12AFB1EFB4F2649A75DD51448B421",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791210080000,
+   "date": "2026-10-05",
+   "time": "17:21",
+   "files": [
+    {
+     "name": "Document 16.pdf",
+     "size": "212KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1NqhkAV9FkVeeutVYuJMa-UXWLfdB_xIU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "ACEB4842F0C28CB528633E033E855301",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791210101000,
+   "date": "2026-10-05",
+   "time": "17:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "299KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-3xalERdaWhuqC8LvNp-Y3oO3-fxck6G/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-3xalERdaWhuqC8LvNp-Y3oO3-fxck6G&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "ACB51AB42DBCF49FD547EAE700A7FF17",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791210254000,
+   "date": "2026-10-05",
+   "time": "17:24",
+   "files": [
+    {
+     "name": "Document 17.pdf",
+     "size": "459KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14cZhiqlyrR7DRYmi-LysZ7JdTXwwrZXL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "AC76BC6EF68A9D7BA3273F32A1DE36EE",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791210342000,
+   "date": "2026-10-05",
+   "time": "17:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "38KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1meTOS427-fV7_t-3sXgQwmHoCOsiwq2w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1meTOS427-fV7_t-3sXgQwmHoCOsiwq2w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "AC193CDD37D1D511A50D80C9610EED63",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791210401000,
+   "date": "2026-10-05",
+   "time": "17:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "39KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Wy7Z3RUw6PVHnMGShuExgZY0ShyNQFso/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wy7Z3RUw6PVHnMGShuExgZY0ShyNQFso&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "AC574D08ED4780D3027FAF48797FE455",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791210864000,
+   "date": "2026-10-05",
+   "time": "17:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "43KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/186V-1EBw4Qt9gyYKVZ6hVqauMXOsCQJY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=186V-1EBw4Qt9gyYKVZ6hVqauMXOsCQJY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
   }
  ]
 }

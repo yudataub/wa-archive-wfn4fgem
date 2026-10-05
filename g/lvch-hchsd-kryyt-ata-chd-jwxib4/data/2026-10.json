@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-05T13:05:56.108Z",
+ "updated": "2026-10-05T17:16:03.937Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -2105,7 +2105,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ry33fpBJFKicXtjASnKhTiAIMO3oob2I/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ry33fpBJFKicXtjASnKhTiAIMO3oob2I&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ry33fpBJFKicXtjASnKhTiAIMO3oob2I&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2A0A31D6659091E500BC_0.mp4"
     }
    ],
    "drive": null,
@@ -2335,6 +2336,57 @@
    "files": [],
    "drive": null,
    "phone": "972534717664"
+  },
+  {
+   "id": "A5EC8FE16DF5A744E9870739792946BC",
+   "sender": "סטודיו יעל ברזל",
+   "text": "*🌿 אחרי החגים - חוזרים לעצמנו!*\n> אחרי כל הארוחות, האירוחים, המתוקים והיציאה מהשגרה…\n\nמרגישים שהבטן כבדה או נפוחה?\nשהאנרגיה פחות כמו שהייתם רוצים?\nאו שפשוט הגיע הזמן לעשות קצת סדר בהרגלים?\n\n*זום חינמי מיוחד 👇*\nאני מזמינה אתכם למפגש היכרות מיוחד בזום על Clean 9 - תהליך ניקוי גוף של 9 ימים 💚\n\n*במפגש נדבר על:*\n✨ איך נראים 9 הימים ומה כולל התהליך\n✨ תזונה פשוטה וברורה\n✨ המוצרים שמלווים את התהליך\n✨ איך חוזרים להרגלי אכילה מסודרים יותר\n✨ איך נראה הליווי לאורך הדרך\n\nבאים לשמוע, לשאול שאלות ולהבין אם זה מתאים לכם.\n\n*ההדרכה בזום וללא עלות❗*\nרוצים להצטרף? לחצו על הקישור והשאירו לי הודעה 👇\nhttps://wa.me/972559714969?text=אשמח+להירשם+לזום+ניקוי+רעלים",
+   "ts": 1791209807000,
+   "date": "2026-10-05",
+   "time": "17:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AyYUR7RcYUw55GrogdBelGKgyTBmmlel/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AyYUR7RcYUw55GrogdBelGKgyTBmmlel&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526699371"
+  },
+  {
+   "id": "ACF0B3C1B866C4FA78C4CFAFBF276B19",
+   "sender": "שרון😄",
+   "text": "תינוקי  ממשפחה שאנו מסייעים לה בק. אתא זקוק  לכזו מטרנה👆🏻(שלב 3, מהדרין).\nאמא *ממש לא יכולה* לקנות לו. למישהו יש למסור כזה?      \n\n (ואם אפשר להביא ישירות ..חסד עם התינוק).\n  \n  לתיאום, שרון    0522828512  \n                                                                                                                                  🌹%💯 חסד. החיוך של אמא חוזר אליכם עם ריבית🌹",
+   "ts": 1791215994000,
+   "date": "2026-10-05",
+   "time": "18:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "64KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HWx3P6PHK2E_ewudQ2smGDhdhRbSwISG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HWx3P6PHK2E_ewudQ2smGDhdhRbSwISG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC61F5FBD8798E2E0945BAB22253F3E9",
+   "sender": "י.  כהן",
+   "text": "האם יש המלצה על מכבסה לווילונות?",
+   "ts": 1791220560000,
+   "date": "2026-10-05",
+   "time": "20:16",
+   "files": [],
+   "drive": null,
+   "phone": "972555649000"
   }
  ]
 }

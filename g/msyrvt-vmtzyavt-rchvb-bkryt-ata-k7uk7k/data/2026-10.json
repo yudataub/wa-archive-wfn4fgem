@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-05T10:22:02.937Z",
+ "updated": "2026-10-05T17:15:33.932Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -443,6 +443,46 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "ACBB1CBBE9D94F28DE48CC5D54971D6C",
+   "sender": "שרון😄",
+   "text": "תינוקי  ממשפחה שאנו מסייעים לה בק. אתא זקוק  לכזו מטרנה👆🏻(שלב 3, מהדרין).\nאמא *ממש לא יכולה* לקנות לו. למישהו יש למסור כזה?      \n\n (ואם אפשר להביא ישירות ..חסד עם התינוק).\n  \n  לתיאום, שרון    0522828512  \n                                                                                                                                  🌹%💯 חסד. החיוך של אמא חוזר אליכם עם ריבית🌹",
+   "ts": 1791216176000,
+   "date": "2026-10-05",
+   "time": "19:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "64KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NtJwhmTC9gZVpbE5nRrN8TzurtIVcEIg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NtJwhmTC9gZVpbE5nRrN8TzurtIVcEIg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC5D8468E16F1AB8AD42258B880A49FA",
+   "sender": "עדנה שווט",
+   "text": "מישהו רוצה את המטקות?",
+   "ts": 1791220510000,
+   "date": "2026-10-05",
+   "time": "20:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gvUNhTIXFqyyGhq-Uw7zaeYe8muegl-y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gvUNhTIXFqyyGhq-Uw7zaeYe8muegl-y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
   }
  ]
 }

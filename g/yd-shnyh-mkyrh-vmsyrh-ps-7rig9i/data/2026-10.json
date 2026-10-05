@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-05T13:01:26.026Z",
+ "updated": "2026-10-05T16:24:56.518Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -859,6 +859,86 @@
    ],
    "drive": null,
    "phone": "972546608452"
+  },
+  {
+   "id": "ACF6642EBA296BE2D3F2B88E3CD83DD8",
+   "sender": "מוכר דברים",
+   "text": "למכירה גלקסי s9+\nתקין רק צריך להחליף מסך \nהגב תקין\nנמכר עקב שלא צריך את המכשיר\n450 שקל",
+   "ts": 1791211447000,
+   "date": "2026-10-05",
+   "time": "17:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uKdZ-bHRti14lbneJ5g6Pzjv4yHFYiqb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uKdZ-bHRti14lbneJ5g6Pzjv4yHFYiqb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "AC8E92EFB05632C2635D1B18E46A5E48",
+   "sender": "המשפחה שלי !",
+   "text": "הליכון לתינוק \nקורקיניט לא עובד ללא מטען \n55 יח' ספרי ילדים מבחר עצום \nמשחקים וצעצועים ופאזלים חיות \nכן כן שמעתם ראיתם הכל ב 599 ₪ גמיש במחיר לרציניים בלבד !\nניתן לבצע משלוחים ,\nאיסוף מראשון לציון חולון ובת ים \nלמהירי החלטה !",
+   "ts": 1791212457000,
+   "date": "2026-10-05",
+   "time": "18:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n6XHPOhQBb-Hmpc4qaYy-f73FYGL74KD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n6XHPOhQBb-Hmpc4qaYy-f73FYGL74KD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC9F2656EB8B92DC36585428FA630E16",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791212458000,
+   "date": "2026-10-05",
+   "time": "18:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10R2mMyWqkAfzyYUOddQNbcYsG04Lm05N/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10R2mMyWqkAfzyYUOddQNbcYsG04Lm05N&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACEE8CF8773F098C8E90193BA7D15179",
+   "sender": "מוכר דברים",
+   "text": "למכירה אוזניות חדשות חד קרן בלוטוס לא ניפתחו ולא היו בשימוש מפרסם לחבר שנתן לי למכור לו\nנמכר עקב שלא צריכים אותם\n\n160  שקל גמיש  קצת",
+   "ts": 1791217492000,
+   "date": "2026-10-05",
+   "time": "19:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "65KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GV1XhTgjCx19q7zWdVxibZDv6PF4Yz0l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GV1XhTgjCx19q7zWdVxibZDv6PF4Yz0l&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
   }
  ]
 }

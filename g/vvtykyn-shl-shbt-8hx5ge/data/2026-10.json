@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וותיקין של שבת ",
- "updated": "2026-10-04T07:50:59.777Z",
+ "updated": "2026-10-05T13:54:33.782Z",
  "messages": [
   {
    "id": "ACCF643EFC1BFF4C20B7CB7FD5E27F23",
@@ -152,6 +152,37 @@
    "files": [],
    "drive": null,
    "phone": "972534712840"
+  },
+  {
+   "id": "ACB12A2F81B1D620B280181828ADA09A",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1791208222000,
+   "date": "2026-10-05",
+   "time": "16:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LMfh1-8VIjBBDSvV-N7rvxLmSdgp8PZ6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LMfh1-8VIjBBDSvV-N7rvxLmSdgp8PZ6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
+  },
+  {
+   "id": "AC836EC712DD730D636B3D200D74CE9D",
+   "sender": "שרגא שינובר",
+   "text": "וואו.... מדהים 😯",
+   "ts": 1791208474000,
+   "date": "2026-10-05",
+   "time": "16:54",
+   "files": [],
+   "drive": null,
+   "phone": "972544207687"
   }
  ]
 }

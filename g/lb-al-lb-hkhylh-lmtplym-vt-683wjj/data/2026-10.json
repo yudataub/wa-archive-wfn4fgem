@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "💚 לב על לב 💚 הקהילה למטפלים/ות✨",
- "updated": "2026-10-05T10:20:32.918Z",
+ "updated": "2026-10-05T15:03:41.844Z",
  "messages": [
   {
    "id": "3A013C7439C33C16AD1A",
@@ -72,6 +72,37 @@
    "ts": 1791195633000,
    "date": "2026-10-05",
    "time": "13:20",
+   "files": [],
+   "drive": null,
+   "phone": "972525151212"
+  },
+  {
+   "id": "3A45870575B5411EF863",
+   "sender": "ליה קדושים",
+   "text": "",
+   "ts": 1791212616000,
+   "date": "2026-10-05",
+   "time": "18:03",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1R8227FR29j8enmBe-pnYqJdJBk2kg-HE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1R8227FR29j8enmBe-pnYqJdJBk2kg-HE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525151212"
+  },
+  {
+   "id": "3ACA0862D8F07D4E3DF9",
+   "sender": "ליה קדושים",
+   "text": "*✨להרשמה לאבחון 👇🏻💫*\nhttps://levallev.co.il/diagnostic-cards/",
+   "ts": 1791212617000,
+   "date": "2026-10-05",
+   "time": "18:03",
    "files": [],
    "drive": null,
    "phone": "972525151212"
