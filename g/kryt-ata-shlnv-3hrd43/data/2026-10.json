@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-04T19:46:33.697Z",
+ "updated": "2026-10-04T21:56:56.995Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -5017,6 +5017,26 @@
    ],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "3A1782D1CF5F183468E3",
+   "sender": "רון גרובמן",
+   "text": "",
+   "ts": 1791150992000,
+   "date": "2026-10-05",
+   "time": "00:56",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/13ETi5yrcym31QOJ7_2F_bK9fdPl1TEaB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13ETi5yrcym31QOJ7_2F_bK9fdPl1TEaB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532204924"
   }
  ]
 }

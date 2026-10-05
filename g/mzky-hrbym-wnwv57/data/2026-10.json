@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-04T17:04:45.055Z",
+ "updated": "2026-10-04T22:09:57.250Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -647,6 +647,59 @@
    "files": [],
    "drive": null,
    "phone": "972556621549"
+  },
+  {
+   "id": "AC19E26431C60B36C9A86AB8491F0375",
+   "sender": "👑",
+   "text": "אני מחפש קריקטורה של מאזניים \nיש מי שיכול לעזור לי בבקשה",
+   "ts": 1791150154000,
+   "date": "2026-10-05",
+   "time": "00:42",
+   "files": [],
+   "drive": null,
+   "phone": "972515009000"
+  },
+  {
+   "id": "A5DA247625EF759C7BA0B5B28879C4FE",
+   "sender": "שמואל קורייב",
+   "text": "",
+   "ts": 1791151258000,
+   "date": "2026-10-05",
+   "time": "01:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yBI0SkJOeKkcc6Y9pWxSN3qodv91idyD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yBI0SkJOeKkcc6Y9pWxSN3qodv91idyD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "AC2C89B770A2E9467FCBBEE8EA621E1B",
+   "sender": "👑",
+   "text": "תודה \nחיפשתי כיוון אחר",
+   "ts": 1791151668000,
+   "date": "2026-10-05",
+   "time": "01:07",
+   "files": [],
+   "drive": null,
+   "phone": "972515009000"
+  },
+  {
+   "id": "A549DF9C2A76E90DD9F8ACD513FC172C",
+   "sender": "שמואל קורייב",
+   "text": "מה הכיוון ריבי ברדי?",
+   "ts": 1791151793000,
+   "date": "2026-10-05",
+   "time": "01:09",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
   }
  ]
 }
