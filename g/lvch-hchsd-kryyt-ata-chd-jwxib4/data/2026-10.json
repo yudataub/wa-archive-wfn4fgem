@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-05T17:16:03.937Z",
+ "updated": "2026-10-05T21:29:23.492Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -2387,6 +2387,57 @@
    "files": [],
    "drive": null,
    "phone": "972555649000"
+  },
+  {
+   "id": "AC8A0476C8CC3B3F9D6C6086E2EBEA04",
+   "sender": "עדי לוי",
+   "text": "יש סופר שעדיין פתוח?",
+   "ts": 1791223974000,
+   "date": "2026-10-05",
+   "time": "21:12",
+   "files": [],
+   "drive": null,
+   "phone": "972534328242"
+  },
+  {
+   "id": "AC86149BB050249F2BCBFAFAB8D20CB6",
+   "sender": "דודי שטרן",
+   "text": "כל יום מתקיים השיעור רק הדף של רב אלי\nבבית הכנסת טשענגר רחוב כצנלסון 30 \nבשעה 21:00\nכולם מוזמנים",
+   "ts": 1791226194000,
+   "date": "2026-10-05",
+   "time": "21:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iF6NXSl6hW_ME9cgN-ZmP6vdPLT3d_w9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iF6NXSl6hW_ME9cgN-ZmP6vdPLT3d_w9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
+  },
+  {
+   "id": "AC3AE2E033009895C852D060A7BBC410",
+   "sender": "דודי שטרן",
+   "text": "",
+   "ts": 1791235752000,
+   "date": "2026-10-06",
+   "time": "00:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "386KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TUXcTPJSL8-_IAikLy9nG9VeMWia2hMe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TUXcTPJSL8-_IAikLy9nG9VeMWia2hMe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548528996"
   }
  ]
 }

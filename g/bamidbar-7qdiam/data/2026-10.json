@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-05T17:36:04.252Z",
+ "updated": "2026-10-05T20:21:21.695Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -766,6 +766,143 @@
    "files": [],
    "drive": null,
    "phone": "972546466047"
+  },
+  {
+   "id": "ACDFD6C1B42AADDC354F3FAFB7DF5769",
+   "sender": "בתיה",
+   "text": "",
+   "ts": 1791226248000,
+   "date": "2026-10-05",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "3. סדר החניה - גדול ללוח.pdf",
+     "size": "133KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tH6rN-BO9DJKfxWPxtV9DS2vMrYHDGg9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527457800"
+  },
+  {
+   "id": "AC5634EBC823BC8BB89C0FC09094058E",
+   "sender": "בתיה",
+   "text": "",
+   "ts": 1791226250000,
+   "date": "2026-10-05",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kjSl891NUig-yIbRedJP1OGawqm0cZ_6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kjSl891NUig-yIbRedJP1OGawqm0cZ_6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527457800"
+  },
+  {
+   "id": "AC01AF952BE85F16C097190BB0EA5059",
+   "sender": "בתיה",
+   "text": "",
+   "ts": 1791226251000,
+   "date": "2026-10-05",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "פרשיות במדבר-1.pdf",
+     "size": "191KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1AOGCiPMcP__jT21AVbFo6iYJV0XA_BUE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527457800"
+  },
+  {
+   "id": "ACF41A51C31DD14059A793C1DC3CE9A3",
+   "sender": "בתיה",
+   "text": "",
+   "ts": 1791226252000,
+   "date": "2026-10-05",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "פרשות במדבר.pdf",
+     "size": "195KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1NHRyZIizF-5tzQCtIV-qVDy8BL1MeFfZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527457800"
+  },
+  {
+   "id": "AC130F838FDABD2047418CA6545480D3",
+   "sender": "בתיה",
+   "text": "",
+   "ts": 1791226253000,
+   "date": "2026-10-05",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "לכתך אחרי במדבר- -1.pdf",
+     "size": "982KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QjW2jDRYCuqeQxtsu-MRt7fAYozTalEL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527457800"
+  },
+  {
+   "id": "ACDCBE7DB47FF8AEFF047E4FC66EACC6",
+   "sender": "בתיה",
+   "text": "",
+   "ts": 1791226254000,
+   "date": "2026-10-05",
+   "time": "21:50",
+   "files": [
+    {
+     "name": "קישוט קיר תורה.pdf",
+     "size": "396KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1HkN8BoraO7XcHBR0v3vsCTnFShlZFqss/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527457800"
+  },
+  {
+   "id": "3EB0E058385ED9D6D6D34E",
+   "sender": "נתן מרדכי מורדיפר",
+   "text": "אם יש למישהו מערך שיעור במצגת על פרק א בנושא של ספירת בנ\"י אשמח",
+   "ts": 1791227936000,
+   "date": "2026-10-05",
+   "time": "22:18",
+   "files": [],
+   "drive": null,
+   "phone": "972547114614"
+  },
+  {
+   "id": "ACB2F33F307823141BF96EBDE38B9F15",
+   "sender": "פרח ירימי",
+   "text": "אפשר להקפיץ את האתר המלווה של המצגות בספר שמואל",
+   "ts": 1791231668000,
+   "date": "2026-10-05",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "phone": "972548368645"
   }
  ]
 }

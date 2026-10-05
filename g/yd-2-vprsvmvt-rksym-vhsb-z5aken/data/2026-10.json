@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-05T17:22:04.049Z",
+ "updated": "2026-10-05T18:39:39.451Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -3095,6 +3095,97 @@
    ],
    "drive": null,
    "phone": "972505522534"
+  },
+  {
+   "id": "AC7974E0E8AA0AB1CABCD2A82FAD6B30",
+   "sender": "❤️",
+   "text": "",
+   "ts": 1791225065000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "67KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K8W2QdNL4z9Wy5qhp-NsdDU82wEtv0zj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K8W2QdNL4z9Wy5qhp-NsdDU82wEtv0zj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506135969"
+  },
+  {
+   "id": "ACB0E33D8A2840A7ED268AC937B0C866",
+   "sender": "❤️",
+   "text": "",
+   "ts": 1791225066000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qj0ZGuld4UO-A3qa3F-Db0VcDZvPf2BV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qj0ZGuld4UO-A3qa3F-Db0VcDZvPf2BV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506135969"
+  },
+  {
+   "id": "ACE3F6863C82C40A2A371706A5E79123",
+   "sender": "❤️",
+   "text": "למכירה מיטת תינוק איקאה וכסא אוכל תינוק איקאה במצב חדש",
+   "ts": 1791225130000,
+   "date": "2026-10-05",
+   "time": "21:32",
+   "files": [],
+   "drive": null,
+   "phone": "972506135969"
+  },
+  {
+   "id": "ACFDC6E26B22417337D91C2FFFC4D772",
+   "sender": "טולי",
+   "text": "",
+   "ts": 1791225519000,
+   "date": "2026-10-05",
+   "time": "21:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CeHRl_-6R5kQIJhP2npcRSgzbZx4CQ3w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CeHRl_-6R5kQIJhP2npcRSgzbZx4CQ3w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "ACB3C296E379476D434FD001BF345372",
+   "sender": "טולי",
+   "text": "נעליים מידה 43  כחדשות נלבשו רק בחג מאמזון \nעור אמיתי זמש\n180₪(נקנו ב-300)",
+   "ts": 1791225573000,
+   "date": "2026-10-05",
+   "time": "21:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cjw_FOuSQCFXjBXl7KTIm1RLss7AhVa5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cjw_FOuSQCFXjBXl7KTIm1RLss7AhVa5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556717628"
   }
  ]
 }

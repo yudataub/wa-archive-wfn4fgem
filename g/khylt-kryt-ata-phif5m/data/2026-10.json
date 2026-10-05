@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-05T17:15:33.923Z",
+ "updated": "2026-10-05T19:59:48.201Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -1558,7 +1558,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1sXa1PLavc3BwpEzspBlGT88uLHeetVFS/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1sXa1PLavc3BwpEzspBlGT88uLHeetVFS&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1sXa1PLavc3BwpEzspBlGT88uLHeetVFS&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/AC138DCFA4C833B273D939ADFB348715_0.mp4"
     }
    ],
    "drive": null,
@@ -1674,6 +1675,26 @@
    ],
    "drive": null,
    "phone": "972542089996"
+  },
+  {
+   "id": "AC866EDE763BD8A6971D96D40922CB0D",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791230369000,
+   "date": "2026-10-05",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1qi6eTHgbigAOTV5SJajUjapCm7DDkMtS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qi6eTHgbigAOTV5SJajUjapCm7DDkMtS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

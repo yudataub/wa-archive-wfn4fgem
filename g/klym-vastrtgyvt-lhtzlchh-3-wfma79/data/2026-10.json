@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-05T16:38:57.715Z",
+ "updated": "2026-10-05T18:36:42.950Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -812,6 +812,37 @@
    "files": [],
    "drive": null,
    "phone": "972545935505"
+  },
+  {
+   "id": "A5B1A4D3211A14E2353E1E91FAFA9AB1",
+   "sender": "mary garby",
+   "text": "https://openstuff.co.il/mini-tools/180art/",
+   "ts": 1791225061000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A575EDC94A43F23888ECF977AFBD210A",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791225377000,
+   "date": "2026-10-05",
+   "time": "21:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qyuu0jwPw1bss8zpIH2D4wRvRGZ_7EHE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qyuu0jwPw1bss8zpIH2D4wRvRGZ_7EHE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

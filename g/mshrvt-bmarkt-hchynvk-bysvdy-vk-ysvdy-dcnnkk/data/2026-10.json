@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-05T17:04:03.773Z",
+ "updated": "2026-10-05T18:58:44.708Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -248,6 +248,79 @@
    "files": [],
    "drive": null,
    "phone": "972503039951"
+  },
+  {
+   "id": "AC9CD244D46E6E54E93309C1FB3BB7BE",
+   "sender": "יאיר זוסמן",
+   "text": "",
+   "ts": 1791221891000,
+   "date": "2026-10-05",
+   "time": "20:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jsepP2tXOOCCRrkpDLPwCh6c1x5E3DHB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jsepP2tXOOCCRrkpDLPwCh6c1x5E3DHB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526032712"
+  },
+  {
+   "id": "ACC135FAA77F2EAD2FDCDA295E70CEB6",
+   "sender": "⁰00",
+   "text": "מחפשים דחוף ביותר גננת מנהלת  בבית אריה.\nלכל השנה.\nגן גילאי 4-5 של משרד החינוך.\nמשרה מלאה.\n0505708559.",
+   "ts": 1791221899000,
+   "date": "2026-10-05",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972505708559"
+  },
+  {
+   "id": "ACA34009888771409A1A13742404EF52",
+   "sender": "יסכה דהאן",
+   "text": "",
+   "ts": 1791222962000,
+   "date": "2026-10-05",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "phone": "972502845065"
+  },
+  {
+   "id": "AC8A705F4F7AFFAE21BFEC3AEEC47CF5",
+   "sender": "יסכה דהאן",
+   "text": "",
+   "ts": 1791222965000,
+   "date": "2026-10-05",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "phone": "972502845065"
+  },
+  {
+   "id": "3AEBE70EFBE324242A10",
+   "sender": "ליאת אחרק",
+   "text": "",
+   "ts": 1791226699000,
+   "date": "2026-10-05",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KovsFrF5OjYBezdfKyhzxSJqr5cGEMIY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KovsFrF5OjYBezdfKyhzxSJqr5cGEMIY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526551816"
   }
  ]
 }

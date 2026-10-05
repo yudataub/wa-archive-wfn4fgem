@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-05T15:46:49.122Z",
+ "updated": "2026-10-05T20:49:52.971Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -73,6 +73,26 @@
    "files": [],
    "drive": null,
    "phone": "972528897000"
+  },
+  {
+   "id": "AC0F489416EA5BAF301298F6E5CACFA0",
+   "sender": "אשרי ראט",
+   "text": "בחריש",
+   "ts": 1791233372000,
+   "date": "2026-10-05",
+   "time": "23:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zIpB9T94sK-zSqtsnlFngjtSGfboBHbC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zIpB9T94sK-zSqtsnlFngjtSGfboBHbC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584273346"
   }
  ]
 }

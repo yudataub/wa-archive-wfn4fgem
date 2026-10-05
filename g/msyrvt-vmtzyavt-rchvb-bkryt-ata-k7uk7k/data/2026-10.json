@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-05T17:15:33.932Z",
+ "updated": "2026-10-05T18:23:39.268Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -483,6 +483,37 @@
    ],
    "drive": null,
    "phone": "972542089996"
+  },
+  {
+   "id": "AC4F14AF4CD2E7D79A3D7B91DBE83679",
+   "sender": "עדי חסיד",
+   "text": "בגדי קיץ מידה 12-18 חודשים בנים",
+   "ts": 1791224162000,
+   "date": "2026-10-05",
+   "time": "21:16",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC3418ADC1A8E44E2C9601C40D3E9D8B",
+   "sender": "עדי חסיד",
+   "text": "מגבות לתינוק בנים למסירה",
+   "ts": 1791224602000,
+   "date": "2026-10-05",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "384KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_0n4oU0KlFnItbnxPV3-B-wZwyA0hhgt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_0n4oU0KlFnItbnxPV3-B-wZwyA0hhgt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
   }
  ]
 }

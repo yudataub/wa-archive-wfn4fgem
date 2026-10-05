@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-05T17:36:05.388Z",
+ "updated": "2026-10-05T20:14:58.560Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -714,6 +714,242 @@
    "date": "2026-10-05",
    "time": "20:35",
    "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0650B6B301EF02D1113",
+   "sender": "נועם",
+   "text": "מכירים את זה שנותנים לקלוד משימה, ואז סתם יושבים ומחכים לו?\n\nבניתי לעצמי משהו קטן בשביל הזמן הזה. דמות עץ שעומדת בפינת המסך, ובכל פעם שהסוכן עובד היא מראה לי תרגיל אחד. קצת צוואר, קצת כתפיים, ולפעמים גם דאב.\n\nמה שאולי יעניין אתכם יותר זה איך זה נבנה. הכל נעשה ב-Claude Code בתוך יום: האפליקציה, בובת העץ בבלנדר, ו-435 תרגילים מונפשים. את התרגילים כתבו 10 סוכנים במקביל, כל אחד קיבל קטגוריה, ואחרי כל אחד עבר סוכן נוסף שהסתכל על התמונות ותיקן תנוחות שיצאו עקום. היו גם פספוסים, בדאב למשל היד נכנסה לתוך הראש עד שתיקנו.\n\nזה בחינם ובקוד פתוח, כולל כל האנימציות אם מישהו רוצה להשתמש בהן בפרויקט שלו. בינתיים רק לווינדוס.\n\nהאפליקציה והספרייה המלאה: https://parametric.co.il/desk-break/\nהקוד: https://github.com/shlomorsh/desk-break\n\nאשמח לשמוע מה חסר שם.",
+   "ts": 1791224320000,
+   "date": "2026-10-05",
+   "time": "21:18",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1tDtN24jy1_oIav_5GErEDU0EttzByvqV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tDtN24jy1_oIav_5GErEDU0EttzByvqV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB07B75B6FC77E4F796C3",
+   "sender": "חפציה",
+   "text": "https://openstuff.co.il/mini-tools/180art והנה חדש - אוסף 180 סגנונות \nשאפשר לתת לבינה כשהיא מחוללת לנו תמונה - או מצגת",
+   "ts": 1791224958000,
+   "date": "2026-10-05",
+   "time": "21:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-rmD6g5dcrSXGLQDkcEUdUHk-BNXQqJ5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-rmD6g5dcrSXGLQDkcEUdUHk-BNXQqJ5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0E9DDFF8A12B167A9CF",
+   "sender": "נועם",
+   "text": "שכפלת באילבנלאבס?",
+   "ts": 1791225124000,
+   "date": "2026-10-05",
+   "time": "21:32",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB08E0C2BE1AB90D83426",
+   "sender": "נועם",
+   "text": "תשכפל שוב במודל v4\nזה פשוט מטורף",
+   "ts": 1791225126000,
+   "date": "2026-10-05",
+   "time": "21:32",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB03E265A58487FFC1FCE",
+   "sender": "נועם",
+   "text": "אימון בv4 באמת הרבה יותר טוב!!",
+   "ts": 1791225130000,
+   "date": "2026-10-05",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1oJx0Ib8x-UZVQyNhJPcqVrmI5TK0fGQY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oJx0Ib8x-UZVQyNhJPcqVrmI5TK0fGQY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0CDAC39C2C08F9D00FD",
+   "sender": "נועם",
+   "text": "*המעצבת הראשית של Claude Code חשפה איך הצוות שלה באנתרופיק מעצב עם Claude* 🤯\r\n\r\nהאמת שציפיתי למשהו יותר גרנדיוזי, אבל כנראה שהגאונות היא בפשטות. *זו השיטה שלה:*\r\n\r\n✅ היא מתארת במשפט אחד מה היא רוצה לעצב ולמה.\r\n✅ היא תמיד מבקשת חמש גרסאות שונות לגמרי.\r\n✅ בשלב הבא היא נותנת ל-Claude לבחור את הטובה ביותר מתוך החמש, ולהסביר לה למה לדעתו זה המנצח.\r\n✅ בסוף קלוד קוד גם בודק לבד בדפדפן, מתקן ומציע סט שיפורים.\r\n\r\nמה שאהבתי כאן זו העובדה שבמקום לנסות להנדס את הכל בעצמה, מה שבלתי אפשרי למי שלא מעצב, היא נותנת לקלוד לתת לה את התשובות.\r\n\r\n*כדי שיהיה לכם קל ופשוט אז...*\r\n\r\n💎 לקחתי את השיטה שלה ויצרתי על בסיסה סקיל שאתם יכולים להטמיע בקלות + פרומפט פשוט - וככה יש לכם את המעצבת של קלוד אצלכם בכיס 😎\r\n\r\n*הכל נמצא כאן:*\r\nhttps://go.brainai.co.il/design-versions\r\n\r\n*נ.ב*\r\n👈🏼 שיתפתי אתכם שבחודשים האחרונים בנינו מחדש את תכנית ההכשרה שלנו. זה הולך להיות משהו *שעדיין לא היה בישראל*, ואני מתרגש רק מלכתוב את זה. *תהיו ערניים, פרטים ממש בקרוב 🤫*\r\n\r\nעדן\r\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1791228919000,
+   "date": "2026-10-05",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "תמונה.png",
+     "size": "1.1MB",
+     "type": "image/png",
+     "path": "https://drive.google.com/file/d/1qiBP5MIyeE0OsvgbllInlCQ_Y2ns58BR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qiBP5MIyeE0OsvgbllInlCQ_Y2ns58BR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB03FC9E55F735CA58EF2",
+   "sender": "נועם",
+   "text": "🗓 וובינר #2 בסדרת AI למנהלים:\n*אוטומציות למנהלי ומנהלות בית ספר*\n\nאיך בונים משימות שפועלות לבד, גם כשהמחשב שלכם סגור\n\n📅 יום שלישי 13.10 | 20:00 | זום | ללא עלות\n\n👈 להרשמה: https://tinyurl.com/4zakdapd\n\nהוובינר מיועד למנהלים/ות, אבל גם למורים ובעלי תפקידים אחרים שרוצים ללמוד איך להשתמש בבינה מלאכותית למשימות ניהוליות.\n\nלהצטרפות לקבוצת הווטסאפ למנהלים/ות: https://shorturl.at/ROV89",
+   "ts": 1791228994000,
+   "date": "2026-10-05",
+   "time": "22:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z-6T_fRwt2qJ3SEoexHcEE8sGBEfpVmT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z-6T_fRwt2qJ3SEoexHcEE8sGBEfpVmT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0EBFA1D7E13F558BD39",
+   "sender": "נועם",
+   "text": "מישהו יודע להגיד אם יש משתמש קנבה פתוח לתלמידי משרד החינוך?",
+   "ts": 1791229824000,
+   "date": "2026-10-05",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB06EE7AA6AF8388348AE",
+   "sender": "נועם",
+   "text": "כן",
+   "ts": 1791229826000,
+   "date": "2026-10-05",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB065927CE94A476C49F6",
+   "sender": "נועם",
+   "text": "כשהם בהזדהות תחת המשתמש של ססמא אחידה",
+   "ts": 1791229827000,
+   "date": "2026-10-05",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB05E4747549A84FDE9B0",
+   "sender": "נועם",
+   "text": "לצפייה בתוכנית הכנס: https://lp.vp4.me/i54k",
+   "ts": 1791229830000,
+   "date": "2026-10-05",
+   "time": "22:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "134KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JtYZdQUu0GGhWyVlvFo6HiFBxU_J3znQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JtYZdQUu0GGhWyVlvFo6HiFBxU_J3znQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0EAE66FD8465E96A370",
+   "sender": "נועם",
+   "text": "*הסקילים הגיעו לג׳מיני, גם בחינם* 🤯\nוהם הולכים בקרוב להחליף את ה־Gems.\n\nאם אתם מסבירים לג׳מיני שוב ושוב איך לכתוב בשבילכם, לסכם מסמכים או להכין תוכן, מעכשיו אפשר *לשמור את ההוראות פעם אחת* ולהשתמש בהן בכל שיחה.\n\nזה נקרא *Skills*: הוראות קבועות למשימה מסוימת, כמו כתיבת פוסטים בסגנון שלכם או סיכום פגישות במבנה שאתם אוהבים.\n\n*ככה יוצרים סקיל* \n\n1️⃣ פתחו את ג׳מיני במחשב והיכנסו להגדרות > כישורים \n\n2️⃣ בחרו *יצירה באמצעות גימיני* ותארו מה אתם רוצים שהוא יעשה. למשל:\n\n״צור לי סקיל לסיכום פגישות. בכל פעם שאשלח תמלול פגישה ואבקש סיכום, הצג את ההחלטות שהתקבלו, המשימות, מי אחראי לכל משימה ומועד הביצוע. אם פרט חסר, ציין שהוא לא נמסר.״\n\n3️⃣ בפעם הבאה, הקלידו `/` בשיחה ובחרו את הסקיל שיצרתם.\n\nג׳מיני יכול גם לזהות בעצמו מתי הסקיל מתאים ולהפעיל אותו. ואפשר *לשלב כמה סקילים באותה שיחה*, למשל סגנון הכתיבה שלכם יחד עם הנחיות העסק.\n\n✦ זה זמין *גם בלי מנוי בתשלום*. ההשקה הדרגתית, אז ייתכן שהאפשרות עדיין לא מופיעה אצלכם ותגיע בקרוב. \n\n✦ ה־Gems יתחילו להתחלף בסקילים בחשבונות אישיים *בנובמבר 2026*,\n\n♻️ שתפו חברים שעדיין מדביקים את אותן ההוראות בכל שיחה:)\n\n📌 לינק להצטרפות לקבוצה:\nhttps://practice-ai.co.il/sl/ha1qo0\n\nתמיד פה בשבילכם,\n\nבר,\n#בינה_מלאכותית_בגובה_העיניים",
+   "ts": 1791230364000,
+   "date": "2026-10-05",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KmD7h3B8qgoXwG1u7Xmzmk-bVEeLm0JE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KmD7h3B8qgoXwG1u7Xmzmk-bVEeLm0JE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0049EC9509C34A5BCA4",
+   "sender": "נועם",
+   "text": "https://youtu.be/0Zgy7-GhYnI?si=Pybam5YAaKlGKsBA\n\nקלוד תכנן חלק בתלת מימד, אני הדפסתי ואז הוא הכין סרטון הסבר. בניגוד לרושם שהוא מנסה לצייר - ההתערבות שלי היתה מינימלית... 😅",
+   "ts": 1791231273000,
+   "date": "2026-10-05",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0EC82E85572D975249A",
+   "sender": "נועם",
+   "text": "יש לך סקילים יעודיים ליצירת סרטונים עם קלוד?",
+   "ts": 1791231275000,
+   "date": "2026-10-05",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB03CE9C8979AFA014229",
+   "sender": "נועם",
+   "text": "קלוד כיוצר ועורך וידאו-1.md",
+   "ts": 1791231277000,
+   "date": "2026-10-05",
+   "time": "23:14",
+   "files": [
+    {
+     "name": "קלוד כיוצר ועורך וידאו-1.md",
+     "size": "90KB",
+     "type": "text/markdown",
+     "path": "https://drive.google.com/file/d/15VUTe5KN20zcJp7bXeQ5BwVnXnM5dRud/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972534663621"
   }

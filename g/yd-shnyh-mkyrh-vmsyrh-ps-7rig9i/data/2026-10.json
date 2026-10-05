@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-05T16:24:56.518Z",
+ "updated": "2026-10-05T18:27:39.330Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -939,6 +939,77 @@
    ],
    "drive": null,
    "phone": "972537540299"
+  },
+  {
+   "id": "3A4F89FB21C2A0BB9DD7",
+   "sender": "Dana Mouwes",
+   "text": "",
+   "ts": 1791224833000,
+   "date": "2026-10-05",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11mBh7M4WLvwBSpINJNuxkSO7CX8lMe0c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11mBh7M4WLvwBSpINJNuxkSO7CX8lMe0c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508110855"
+  },
+  {
+   "id": "3A9963E2FFF330142F69",
+   "sender": "Dana Mouwes",
+   "text": "",
+   "ts": 1791224838000,
+   "date": "2026-10-05",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zvK1pkjpdEC8ViMngaBOIAjgJtKXLXWa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zvK1pkjpdEC8ViMngaBOIAjgJtKXLXWa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508110855"
+  },
+  {
+   "id": "3A618CDD0A1B581FD4A6",
+   "sender": "Dana Mouwes",
+   "text": "הזמנה חדשה שרק הגיעה ולצערי לא יושבת לי בול. \nהג׳ינס הכי אופנתי ונוח, \nברמודה ארוכה. מידה 38 בד סטרת ונוח. \nחדש לא נלבש עם תיקת. \nנקנה ב269 ש״ח ונמכר ב200 ש״ח.",
+   "ts": 1791224839000,
+   "date": "2026-10-05",
+   "time": "21:27",
+   "files": [],
+   "drive": null,
+   "phone": "972508110855"
+  },
+  {
+   "id": "3A9EFED295E7AB3CE5CA",
+   "sender": "Dana Mouwes",
+   "text": "",
+   "ts": 1791224839000,
+   "date": "2026-10-05",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18IyVM7IWC-FS9NCzMcQ47pAvPYnWaEv9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18IyVM7IWC-FS9NCzMcQ47pAvPYnWaEv9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508110855"
   }
  ]
 }

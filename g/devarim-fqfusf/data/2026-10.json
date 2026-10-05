@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-05T17:25:05.256Z",
+ "updated": "2026-10-05T21:04:35.851Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -374,6 +374,449 @@
    "files": [],
    "drive": null,
    "phone": "79164802586"
+  },
+  {
+   "id": "AC33CA3E0B0AD858206ADDC01E49C64D",
+   "sender": "נעמה",
+   "text": "אשמח לדעת אם יש קובץ מסוים שממנו אתם מסכמים בשמואל ב.",
+   "ts": 1791221890000,
+   "date": "2026-10-05",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524669264"
+  },
+  {
+   "id": "AC66DABE60D28D6349765C2CBD80FF43",
+   "sender": "yochai🤩❤💚",
+   "text": "למישהו יש סיכומים של הפרקים?",
+   "ts": 1791224281000,
+   "date": "2026-10-05",
+   "time": "21:18",
+   "files": [],
+   "drive": null,
+   "phone": "972503737325"
+  },
+  {
+   "id": "AC3D1CE33D4417778BDF79731EEBA525",
+   "sender": "עפרה שוגרמן",
+   "text": "אני נעזרת ב'ללמוד וללמד' כבר שנים.. גם בתורה.",
+   "ts": 1791224651000,
+   "date": "2026-10-05",
+   "time": "21:24",
+   "files": [],
+   "drive": null,
+   "phone": "972523992807"
+  },
+  {
+   "id": "ACB1FB8E20698A9F8BE3E3FCE9F81DF2",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225097000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק ג.docx",
+     "size": "19KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1svA6taPRl8a1ZiLkfLbNTce3aAm-Jf9e/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACF4084CAEC67D4AC129A42632633B51",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225100000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "שמואל ב פרק ג פסוק כ- סוף.docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1V615OlIFqGnR8Fi_XnWjhXrr48ivLt52/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC72A368683BA273502758F3AFE66667",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225102000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק א (1).docx",
+     "size": "23KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/14WdqqTgxxj-1jguAeJF15dDnTJoalL2N/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC8FB02B40E0A84BC1137F92BA872DC3",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225102000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק גשמואל ב פסוקים א-כ.docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/16GLYSid3OxTtXgp2RY7v5i3aIMx0f4Zq/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACD132E5CC022C1681F28B6FCE9F2BD8",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225103000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק ד-ה (3).docx",
+     "size": "24KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1j7E67Z9hNmRkNmohST43-chOHgT7Z3zg/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC617B8E4DAAA140D9425E8CA28AEC3F",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225104000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק ו (2).docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1FKdrfmPeZmPE5mCvhst7f6NzxiVqgpn0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC20D2701207B7E023CCC66AD42705F6",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225105000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק ז (1).docx",
+     "size": "17KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/14rqNpjxOPAMdwyc4LpRBwku6vzDbJ95B/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACF743BF8CC1C0B5290518D986DA5407",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225106000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק ט (1).docx",
+     "size": "22KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1c9OW0OKDG_tO0OfD7ISkdC7ja7dGFhZY/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACC83292DACA142B7F33FEC63BF864B3",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791225107000,
+   "date": "2026-10-05",
+   "time": "21:31",
+   "files": [
+    {
+     "name": "פרק ח.docx",
+     "size": "16KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/14QFnp3glJKvyanhHfoalewnTZ9bVon8p/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC58406B627ACFD5F0C0460B8F660DBB",
+   "sender": "1",
+   "text": "תודה רבה!!!",
+   "ts": 1791225214000,
+   "date": "2026-10-05",
+   "time": "21:33",
+   "files": [],
+   "drive": null,
+   "phone": "972539535909"
+  },
+  {
+   "id": "3A335C9A188AEC9EC55C",
+   "sender": "בת חן",
+   "text": "https://canva.link/dq0y70p5ovk9dr1\n\nמצגת שבניתי לעצמי תוך כדי הוראת הספר . \n\n✅בתחילת המצגת יש שקף ״תוכן״ שניתן בעזרתו לנווט בין הפרקים\n✅ המצגת מעודכנת עד תחילת פרק כ״א (אשת יפת תואר..) \n*בעזרת השם במהלך השנה אעדכן ואוסיף את הפרקים שחסרים* \n✅ במצגת משולבים קטעים להקרנה על הלוח וכן דפי עבודה שונים שעברו בקבוצות וברשת. \n\n*️⃣ בסוף המצגת יש קישורים לשתי מיני- מצגות שעשיתי כשפרצה המלחמה ורצינו בכל זאת לסיים עם התלמידות את הספר. אז מצגת אחת היא ללמידה עצמאית של הבנות \nומצגת שנייה עשינו ללימוד ביחד בכיתה. \n*️⃣ בתקווה שבעז״ה לא נצטרך את זה השנה ונוכל לסיים את הספר בלי צמצום\n\n*המצגת לעילוי נשמת החייל עוז ישעיה גרובר הי״ד* \nשהיום חל יום ההולדת שלו 🥹",
+   "ts": 1791225296000,
+   "date": "2026-10-05",
+   "time": "21:34",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "AC7657B2EC0C90D0E94ED6E2BF543736",
+   "sender": "שרה כנפי רוח",
+   "text": "אשמח גם לפרק ב תודה רבה",
+   "ts": 1791225837000,
+   "date": "2026-10-05",
+   "time": "21:43",
+   "files": [],
+   "drive": null,
+   "phone": "972515485941"
+  },
+  {
+   "id": "3AF65CBC3B4B5D75A337",
+   "sender": "Shani💖",
+   "text": "סליחה על השאלה\nהאם יש קבוצה למשנה לכיתה ו? וחומרים להסטוריה?",
+   "ts": 1791225916000,
+   "date": "2026-10-05",
+   "time": "21:45",
+   "files": [],
+   "drive": null,
+   "phone": "972532460919"
+  },
+  {
+   "id": "AC71D4782480F1B5F8EEE0E407446261",
+   "sender": "מוטי אלבז",
+   "text": "הנה חלק 1",
+   "ts": 1791226116000,
+   "date": "2026-10-05",
+   "time": "21:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "3AE2CADB8CCEC45B9328",
+   "sender": "לירון בן לולו💕",
+   "text": "אשמח לסיכום פרק א׳ בחומש דברים בעיקר על חטא המרגלים",
+   "ts": 1791226190000,
+   "date": "2026-10-05",
+   "time": "21:49",
+   "files": [],
+   "drive": null,
+   "phone": "972542057474"
+  },
+  {
+   "id": "ACFEB0FBEEF82E4943EA3BE1CE452EDA",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791226190000,
+   "date": "2026-10-05",
+   "time": "21:49",
+   "files": [
+    {
+     "name": "פרק ב (3).docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Nr98mnbQGOTaJta7MLxey2NIc63IQUQd/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC62BD0D13E5F75EBE86D0BB04410A91",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791226628000,
+   "date": "2026-10-05",
+   "time": "21:57",
+   "files": [
+    {
+     "name": "פרשת דברים (2).doc",
+     "size": "152KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1dLydELjrtbvgpte5qRweXAk81ayPJjnf/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "3AE8B217899E6800C6DA",
+   "sender": "חני כהן",
+   "text": "אשמח לקבל את תכנית הלימודים",
+   "ts": 1791228142000,
+   "date": "2026-10-05",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972527707109"
+  },
+  {
+   "id": "AC77D993654011408A119AD66D02E009",
+   "sender": "יצחק ינון סלאב",
+   "text": "באתר",
+   "ts": 1791228190000,
+   "date": "2026-10-05",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "AC3351F1790179FE6617678D934AFAB5",
+   "sender": "עינב",
+   "text": "יש כזה מפרק ד' 🙏🙏",
+   "ts": 1791228425000,
+   "date": "2026-10-05",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972526280611"
+  },
+  {
+   "id": "AC18C8F31324E0028965384709576008",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791228831000,
+   "date": "2026-10-05",
+   "time": "22:33",
+   "files": [
+    {
+     "name": "פרשת עקב (1).docx",
+     "size": "113KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1rxYvLDJllMhuQ396V2YAs39P-p87tA2t/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC9616300ECFE334135D3DB5293378C9",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791228832000,
+   "date": "2026-10-05",
+   "time": "22:33",
+   "files": [
+    {
+     "name": "פרשת ואתחנן (1).docx",
+     "size": "93KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1T4-WE63UPQy71-8uBVeQ56x6ErPJgIhf/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "A57FAA09DA377DA9BD1BF4F05576330E",
+   "sender": "נעמי עזרא",
+   "text": "",
+   "ts": 1791229074000,
+   "date": "2026-10-05",
+   "time": "22:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "207KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vz_zW-mQ2b1q8I3JW1NqQo_YQcgd4_GG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vz_zW-mQ2b1q8I3JW1NqQo_YQcgd4_GG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522160567"
+  },
+  {
+   "id": "AC074857743F5B42B122AAC349F30C7D",
+   "sender": "עינב",
+   "text": "תודה!",
+   "ts": 1791229664000,
+   "date": "2026-10-05",
+   "time": "22:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526280611"
+  },
+  {
+   "id": "ACA12F3779DC7FE10D467A52E763E94D",
+   "sender": "שרית בטשוילי",
+   "text": "תוכנית",
+   "ts": 1791232254000,
+   "date": "2026-10-05",
+   "time": "23:30",
+   "files": [],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "ACB9878E825078AA32271365F210B3D6",
+   "sender": "אורטל פסין",
+   "text": "מישהו קרא את המפרט של המבחן?",
+   "ts": 1791234253000,
+   "date": "2026-10-06",
+   "time": "00:04",
+   "files": [],
+   "drive": null,
+   "phone": "972502775327"
+  },
+  {
+   "id": "ACDB1DCF4C0E3024C96001F95F018263",
+   "sender": "אורטל פסין",
+   "text": "זה לא רק על חומש דברים לפי מה שכתוב",
+   "ts": 1791234259000,
+   "date": "2026-10-06",
+   "time": "00:04",
+   "files": [],
+   "drive": null,
+   "phone": "972502775327"
   }
  ]
 }
