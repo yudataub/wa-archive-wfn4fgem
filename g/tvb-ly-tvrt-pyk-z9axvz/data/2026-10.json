@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-04T14:20:47.409Z",
+ "updated": "2026-10-05T05:23:02.249Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -1385,6 +1385,26 @@
    "date": "2026-10-04",
    "time": "17:20",
    "files": [],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACCBA48A6E8670498214E628BEBA7685",
+   "sender": "שרון😄",
+   "text": "יום מבורך ומוצלח הרבה בריאות אושר ועושר שכל משאלותיך יתגשמו במהרה אמן 🌹🌸🤍💚",
+   "ts": 1791177778000,
+   "date": "2026-10-05",
+   "time": "08:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/192ltIBfKUbZVUiDwiDzu0PBBg9q-nkVb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=192ltIBfKUbZVUiDwiDzu0PBBg9q-nkVb&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522828512"
   }

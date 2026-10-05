@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-03T20:18:25.268Z",
+ "updated": "2026-10-05T05:37:02.479Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -726,6 +726,142 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "AC32A3FE5C6D0E652897B1F17D709111",
+   "sender": "אתי איבגי",
+   "text": "בוקר טוב \nמחפשת חוברת לך-לך.\nתודה",
+   "ts": 1791171820000,
+   "date": "2026-10-05",
+   "time": "06:43",
+   "files": [],
+   "drive": null,
+   "phone": "972527429899"
+  },
+  {
+   "id": "A54D637D32CD676DD3B7C8DDB5B64060",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791177772000,
+   "date": "2026-10-05",
+   "time": "08:22",
+   "files": [
+    {
+     "name": "דפי עבודה פרשת לך לך מיכל ביטון 2024.pdf",
+     "size": "5.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ZwyBHXYsf6SRj4Xo6oH06K4tXMLBDTvm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "3AF3A70FBA18FD2753D1",
+   "sender": "לימור קסטוריאנו",
+   "text": "והאם יש גם לבראשית?",
+   "ts": 1791178216000,
+   "date": "2026-10-05",
+   "time": "08:30",
+   "files": [],
+   "drive": null,
+   "phone": "972542290014"
+  },
+  {
+   "id": "A5A188FFDBA6B845A4ECDD7A52949B99",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791178587000,
+   "date": "2026-10-05",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "מראה לוח בראשית.tmp",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ac_PaNkXfMHsolFlM38OM9g6j-QvMr5Z/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A59B6E247083D86025E352023CC06AAB",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791178588000,
+   "date": "2026-10-05",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "מצגת פרשת בראשית.pdf",
+     "size": "2.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1O44NHjb6zpd9c8fm7nprv-pBcDOwyrK_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5CBC597EB07E0F2F6EE3B38625F3805",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791178589000,
+   "date": "2026-10-05",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "בראשית דפי עבודה מיכל ביטון.pdf",
+     "size": "7.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1f3ANPm8JrCP7YFvjkr_HOjMsY3YQF15p/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5DD44BA9083E29691265653E5807607",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791178589000,
+   "date": "2026-10-05",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "רביעיות פרשת בראשית - בלי ציורים.pdf",
+     "size": "3.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rYbP0tEWYyUemPNTJVDjRYd5h7jlVyFj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A583DA3B90F55FD40231933BABB99835",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791178590000,
+   "date": "2026-10-05",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "זיכרון בראשית.pdf",
+     "size": "10.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mNPrxCnelcyR-vhlYffYIgP1NBuvqM6N/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
   }
  ]
 }

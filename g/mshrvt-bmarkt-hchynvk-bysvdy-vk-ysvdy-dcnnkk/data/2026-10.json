@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-04T18:38:57.884Z",
+ "updated": "2026-10-05T03:47:36.497Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -206,6 +206,37 @@
    "files": [],
    "drive": null,
    "phone": "972537128784"
+  },
+  {
+   "id": "AC2ECE5A6006C6ED1FC3A326EF145B8D",
+   "sender": "Pery",
+   "text": "אני פרי מחפשת לעשות שנת סטאז‘ בחנינוך גופני איזה ימים",
+   "ts": 1791170539000,
+   "date": "2026-10-05",
+   "time": "06:22",
+   "files": [],
+   "drive": null,
+   "phone": "972535891313"
+  },
+  {
+   "id": "3ADD97FD217AE6644F4D",
+   "sender": "אורלי שלמה",
+   "text": "",
+   "ts": 1791172041000,
+   "date": "2026-10-05",
+   "time": "06:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "279KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aiX-PWBF3g1QRsPqG47qGT_dfcehmuTe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aiX-PWBF3g1QRsPqG47qGT_dfcehmuTe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000121"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-04T04:15:57.341Z",
+ "updated": "2026-10-05T04:13:34.331Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -138,6 +138,46 @@
      "path": "https://drive.google.com/file/d/1D3UW5jazdfA0MvvYasoFQkekLJGjcFMw/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1D3UW5jazdfA0MvvYasoFQkekLJGjcFMw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A53380DCE39140A4FFF",
+   "sender": ".",
+   "text": "״אחד המיוחד ובא מששת ימי בראשית״ (בכורות יז, א).",
+   "ts": 1791173308000,
+   "date": "2026-10-05",
+   "time": "07:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n-7DesYFeNTpt3RwIa8CYuwF3GNmk1Wu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n-7DesYFeNTpt3RwIa8CYuwF3GNmk1Wu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD3E0D60AAA5A7DA66D",
+   "sender": ".",
+   "text": "״בידי אדם שיש שהות לברר״ (תוס׳ בכורות יז, ב).",
+   "ts": 1791173607000,
+   "date": "2026-10-05",
+   "time": "07:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XYWGC8bJ2XCUttClJqjroX96nRVuotNS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XYWGC8bJ2XCUttClJqjroX96nRVuotNS&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-04T20:17:10.866Z",
+ "updated": "2026-10-05T05:15:32.132Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -1124,6 +1124,318 @@
    "drive": null,
    "thread": "יובל ברחד",
    "phone": "972545443547"
+  },
+  {
+   "id": "AC31084D99BA49E15968B58CBEE32F90",
+   "sender": "בלייך צבי",
+   "text": "*אם היה לי סוף שבוע אחד לבנות דברים ב-Claude Code, אלה 5 הפרויקטים שהייתי מתחיל מהם.*\n\nלא עוד אתר, מחשבון או אפליקציית To Do, אלא מערכות שבאמת חוסכות זמן ועובדות בשבילכם ביום יום.\n\n1️⃣ *מערכת שאומרת לכם בכל בוקר מה פספסתם*\n\nהיא עוברת על המיילים, היומן והמשימות ומרכזת מה דורש את תשומת הלב שלכם: למי שכחתם לענות, איזה דדליין מתקרב ומה השתנה מאז אתמול.\n\nהמערכת שבניתי לעצמי מרגישה כמו מזכירה אישית שדואגת שלא אפספס שום דבר חשוב.\n\n2️⃣ *מנהל כספים אישי*\n\nמחברים בצורה מאובטחת את המידע הפיננסי דרך ה-API של Financy ובונים דשבורד של הכנסות, הוצאות ומנויים.\n\nבעבר שילמתי לרייזאפ. היום בניתי לעצמי גרסה מותאמת אישית על סטרואידים.\n\n3️⃣ *מוח שני*\n\nמקום אחד שמרכז מסמכים, מיילים, פגישות, רעיונות ופרויקטים ומתעדכן אוטומטית מהכלים שאתם כבר משתמשים בהם.\n\nבמקום לחפש איפה כתבתם משהו לפני חצי שנה, פשוט שואלים.\n\n4️⃣ *סוכן פגישות*\n\nלפני הפגישה הוא אוסף את כל המידע ומכין תקציר. אחריה הוא מתמלל, מוציא החלטות ומשימות ומעביר הכל אוטומטית למוח השני שלכם.\n\n5️⃣ *מערכת שמנתחת את התוכן שלכם באינסטגרם*\n\nכל התוכן ונתוני הביצועים נכנסים למקום אחד, והמערכת מזהה אילו נושאים והוקים עובדים, מה פחות ואיזה תוכן כדאי ליצור בהמשך.\n\nאלה בדיוק הפרויקטים שממחישים למה Claude Code הוא הרבה יותר מכלי לכתיבת קוד.\n\nהכנתי סרטון קצר שבו אני מראה את כל 5 הרעיונות האלה. אגב, גם את הסרטון Claude Code ערך בעצמו.\n\nובסוף הסרטון מחכה לכם מדריך עם 30 רעיונות נוספים לפרויקטים שאפשר לבנות.\nhttps://www.instagram.com/reel/DeFJYs-MA4n/?stkn=bTBwcTEyamk3NjAw\n\nשבוע טוב לכולם,\nאופיר\n\n📌 לצירוף חברים לקבוצת הוואטסאפ שלנו, העבירו את הלינק להצטרפות:\nbit.ly/BNA-AI",
+   "ts": 1791167293000,
+   "date": "2026-10-05",
+   "time": "05:28",
+   "files": [],
+   "drive": null,
+   "thread": "בלייך צבי",
+   "phone": "972524723034"
+  },
+  {
+   "id": "3EB0A410CE2035E64F0C15",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791168102000,
+   "date": "2026-10-05",
+   "time": "05:41",
+   "files": [
+    {
+     "name": "התלמידי החכמים שלנו בסוכות.pdf",
+     "size": "957KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14cGAkJLUR8WZPdoJJpfSMblooF6mNqu9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08C67C5A5F042FF0799",
+   "sender": "אני",
+   "text": "לא",
+   "ts": 1791168120000,
+   "date": "2026-10-05",
+   "time": "05:42",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0A58EF7174123C07CC1",
+   "sender": "אני",
+   "text": "כן",
+   "ts": 1791168120000,
+   "date": "2026-10-05",
+   "time": "05:42",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0526F1841CF63E99355",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791168152000,
+   "date": "2026-10-05",
+   "time": "05:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "12KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1306JzSwBCTym5k-qfTCF3_u0V8xdb5FK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1306JzSwBCTym5k-qfTCF3_u0V8xdb5FK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC745337BCD187F3B1E1B817AB9858EE",
+   "sender": "אורלי אוחנה",
+   "text": "זה מקסים. אפשרי להראות את זה במסך?\nכי זה פורמט של pdf",
+   "ts": 1791168316000,
+   "date": "2026-10-05",
+   "time": "05:45",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "A5F52499DA1D24E588D800B0FEB6D211",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791168350000,
+   "date": "2026-10-05",
+   "time": "05:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "390KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Btbu6jOdTMYvMZbgczIzcnGgi-XRdZgh/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB05CA8EB412D6B962521",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791168406000,
+   "date": "2026-10-05",
+   "time": "05:46",
+   "files": [
+    {
+     "name": "Sukkah_of_Honor.pptx",
+     "size": "13.5MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Mm1A0qJ0A5L2gYLr2Q5JrHSTLtdK61Z0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5212A9EA63FF995435E50480ADBF428",
+   "sender": "אני",
+   "text": "אם תגיד להם שהתשלום על זה במטבעות של מילים אני אומנם לא לוקח כסף אבל אני צריך לדעת שאנשים נהנים אתה רק מנסה לדמיין בכמה שעות עבודה מדובר",
+   "ts": 1791170950000,
+   "date": "2026-10-05",
+   "time": "06:29",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB074EF8FF57BC746372A",
+   "sender": "אני",
+   "text": "https://youtu.be/mG3ibZTnubg",
+   "ts": 1791172041000,
+   "date": "2026-10-05",
+   "time": "06:47",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACBA0B487BCAC0CD53EF6D744435937C",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1791172099000,
+   "date": "2026-10-05",
+   "time": "06:48",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "56KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1l-DbvhH3RQJ97-jjYjQVS0c30yjOOWC2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0ACD46AD30D5F3B6BE9",
+   "sender": "אני",
+   "text": "יש שם אינטרנט ויש יוטיוב",
+   "ts": 1791172234000,
+   "date": "2026-10-05",
+   "time": "06:50",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08747A5321750409395",
+   "sender": "אני",
+   "text": "אני אמר מניסיון",
+   "ts": 1791172243000,
+   "date": "2026-10-05",
+   "time": "06:50",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC57A68E189B73D3381C0DFFB97C1398",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1791172388000,
+   "date": "2026-10-05",
+   "time": "06:53",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "63KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1eZbLKmrZNt8aUbnWyR2aDz8tUWM-Xv6U/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0CACF5052B0C3824B7E",
+   "sender": "אני",
+   "text": "יש כפתור שנקרא לולאה",
+   "ts": 1791172435000,
+   "date": "2026-10-05",
+   "time": "06:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HaMmGsxnY9f9LXpRS-Zh0XNPiKC6lDSm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HaMmGsxnY9f9LXpRS-Zh0XNPiKC6lDSm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0B81E175491D608BCE1",
+   "sender": "אני",
+   "text": "אבל יש לי גם סרטון אם אתם רוצים",
+   "ts": 1791172445000,
+   "date": "2026-10-05",
+   "time": "06:54",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0FDFDD994BDD75E5ED4",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791172458000,
+   "date": "2026-10-05",
+   "time": "06:54",
+   "files": [
+    {
+     "name": "Sukkah_of_Honor.mp4",
+     "size": "3.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ai6v4EmysCxI1M_FCsliTuQwzKcmjYHy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ai6v4EmysCxI1M_FCsliTuQwzKcmjYHy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0B425D3331948774D25",
+   "sender": "אני",
+   "text": "יש כאן את הסרטון - עם המזכירה או סייעת יכולה להעביר לדיסק אונקי ולשים - זה הכי טוב",
+   "ts": 1791172770000,
+   "date": "2026-10-05",
+   "time": "06:59",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACCABB5AC691E0BA590B85D0690EABE6",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1791172868000,
+   "date": "2026-10-05",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "8KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Xkavc_TKzM0pOpZdCgWaNpiloHC2kXVK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB07E753B4E4E251BB807",
+   "sender": "אני",
+   "text": "אם אפשר לבקש שכר טירחה🏆\nשבשעה 12 תיכנסי 5 דקות לכיתה ו בנים - שאני יוכל להתחיל את השיעור.\nבורא עולם כנראה דואג לחלק את המתנות שלו\nובעזרת ה' מקווה שבקרוב יתן לי גם את המתנה של הטלת משמעת - אבל כרגע אני עדיין צריך עזרה.",
+   "ts": 1791173384000,
+   "date": "2026-10-05",
+   "time": "07:09",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACB0CA2C8F630ACAD4753A1DFE77E2B8",
+   "sender": "אשר לב יונה",
+   "text": "בוקר טוב\nיש איזה חוברת הלכה או נושא שאנחנו צריכים לעסוק בו בתפילה?",
+   "ts": 1791177322000,
+   "date": "2026-10-05",
+   "time": "08:15",
+   "files": [],
+   "drive": null,
+   "thread": "אשר לב יונה",
+   "phone": "972556608835"
   }
  ]
 }

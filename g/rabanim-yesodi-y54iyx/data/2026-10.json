@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-04T21:28:51.550Z",
+ "updated": "2026-10-05T04:44:01.636Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -1498,7 +1498,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1d1jXKHRSX9gQR25WU2r_YU9oVoEBB92_/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1d1jXKHRSX9gQR25WU2r_YU9oVoEBB92_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1d1jXKHRSX9gQR25WU2r_YU9oVoEBB92_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/ACC067CDB13138E27F41C0024ECD5895_0.mp4"
     }
    ],
    "drive": null,
@@ -1750,6 +1751,80 @@
    "files": [],
    "drive": null,
    "phone": "972543979764"
+  },
+  {
+   "id": "AC81A3971629F13D4F19AA1FCC00BE22",
+   "sender": "יהודה פנסטרהיים",
+   "text": "",
+   "ts": 1791170936000,
+   "date": "2026-10-05",
+   "time": "06:28",
+   "files": [
+    {
+     "name": "דף לימוד יום זיכרון חרבות ברזל.html",
+     "size": "26KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1g-dXBi7skjFBVuDl_-nhetWdif6H3Pjd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586100265"
+  },
+  {
+   "id": "ACFD74F9C95D01A2DFC53A900B6497C2",
+   "sender": "משה ברכה",
+   "text": "יתכן שבאופן הזה, יגרום לאנשים לא לקבע את הקונצפט של יום אבל לאומי.",
+   "ts": 1791172988000,
+   "date": "2026-10-05",
+   "time": "07:03",
+   "files": [],
+   "drive": null,
+   "phone": "972523791306"
+  },
+  {
+   "id": "AC8B88DB5D9A3175756B661F1FFE06FF",
+   "sender": "איתיאל חלימי",
+   "text": "אני בכלל לא בטוח *שהציבור* לא שם.\n\nהציבור מלא אמונה,  ומתמלא אמונה כל יום ויום\n\nאין סיבה שנחזור לאותו קיבעון מחשבתי \n\nלדעתי הציבור יברך על כך שילדיו יחזרו הביתה מטקס של עוצמה והודיה",
+   "ts": 1791173568000,
+   "date": "2026-10-05",
+   "time": "07:12",
+   "files": [],
+   "drive": null,
+   "phone": "972528109719"
+  },
+  {
+   "id": "ACF4C3DCDC37F669A328F8155E83BD80",
+   "sender": "איתי",
+   "text": "נפלא ביותר, אמת לאמיתה.",
+   "ts": 1791174011000,
+   "date": "2026-10-05",
+   "time": "07:20",
+   "files": [],
+   "drive": null,
+   "phone": "972543598058"
+  },
+  {
+   "id": "AC2F2849AF9359EBDA0C88889FB0AB7F",
+   "sender": "שלמה",
+   "text": "ברוך שכיוונתי..\nאני השתמשתי בחוברת הנפלאה של הרב רימון (ועוד רבנים חשובים) כבסיס לשיח\nיצויין שהיא מחנוכה תשפ\"ו ומאז היו עוד ניסים רבים\nhttps://www.sulamot.org/wp-content/uploads/2025/12/%D7%97%D7%95%D7%91%D7%A8%D7%AA-%D7%97%D7%A0%D7%95%D7%9B%D7%94-%D7%A6%D7%A4%D7%99%D7%94-%D7%93%D7%99%D7%92%D7%99%D7%98%D7%9C%D7%99%D7%AA.pdf",
+   "ts": 1791175381000,
+   "date": "2026-10-05",
+   "time": "07:43",
+   "files": [],
+   "drive": null,
+   "phone": "972506998507"
+  },
+  {
+   "id": "AC33631EDDD249466A62D26B2691BB61",
+   "sender": "שלמה",
+   "text": "בנוסף כתבנו על בוגרי בית הספר שנפלו במלחמה ואיך אפשר ללמוד מהם",
+   "ts": 1791175440000,
+   "date": "2026-10-05",
+   "time": "07:44",
+   "files": [],
+   "drive": null,
+   "phone": "972506998507"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-04T16:10:06.219Z",
+ "updated": "2026-10-05T05:15:32.140Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -35,6 +35,66 @@
    "files": [],
    "drive": null,
    "phone": "972556676134"
+  },
+  {
+   "id": "ACC458D8F897FE3CF244C064CEF1CDD1",
+   "sender": "אפי",
+   "text": "https://drive.google.com/file/d/14xQkRlGWUYnoMmgEFYlvUM1CQLloJ29B/view?usp=sharing חטא האצבע המאשימה בראשית",
+   "ts": 1791172702000,
+   "date": "2026-10-05",
+   "time": "06:58",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC76C4735F54CBBE3BE846D3847D26D8",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1791172704000,
+   "date": "2026-10-05",
+   "time": "06:58",
+   "files": [
+    {
+     "name": "חטא האצבע המאשימה פרשה ובדיחה.docx",
+     "size": "16KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1ZhFcZpCQehbvS_h4yWBEhU93fomDZO6Z/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC62C3522BBD63E0399C096C9AEA75A3",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1791172705000,
+   "date": "2026-10-05",
+   "time": "06:58",
+   "files": [
+    {
+     "name": "The_Anatomy_of_Blame.pptx",
+     "size": "9.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1JkLm8Ra1k6Z85i6ax1T_MPfHrlRxvrwW/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC3CEF8A894BABE830FBA6FDD3C13647",
+   "sender": "איטה רז",
+   "text": "בקר טוב?",
+   "ts": 1791177328000,
+   "date": "2026-10-05",
+   "time": "08:15",
+   "files": [],
+   "drive": null,
+   "phone": "972528536477"
   }
  ]
 }

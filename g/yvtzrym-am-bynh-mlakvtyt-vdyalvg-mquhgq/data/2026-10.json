@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-04T16:03:06.257Z",
+ "updated": "2026-10-05T05:18:35.325Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -461,7 +461,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/18hZo8hCbYh6-5EmBCGiKwgh1WaV9wTP6/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=18hZo8hCbYh6-5EmBCGiKwgh1WaV9wTP6&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=18hZo8hCbYh6-5EmBCGiKwgh1WaV9wTP6&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/3EB0F9C774B9B068D7C91C_0.mp4"
     }
    ],
    "drive": null,
@@ -543,7 +544,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1MEIM8XPmlu0Axmn8fOzevgPvEVtto9_j/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1MEIM8XPmlu0Axmn8fOzevgPvEVtto9_j&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1MEIM8XPmlu0Axmn8fOzevgPvEVtto9_j&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/A51C3432AEF43796B252394097E73491_0.mp4"
     }
    ],
    "drive": null,
@@ -588,6 +590,28 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "3EB0B0645D012F3C264183",
+   "sender": "נועם",
+   "text": "קיבלת במתנה כתבה מאתר TheMarker. \n הרופאות אמרו לנתח, ה-AI חשב אחרת: מי באמת מקבל את ההחלטה? - מגזין - TheMarker https://www.themarker.com/magazine/2026-10-04/ty-article-magazine/.highlight/000001a0-e733-d272-adf6-fff79ec50000?gift=33626784c5a5412aa0b1bd01736308da",
+   "ts": 1791177511000,
+   "date": "2026-10-05",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB045A9989F96A0F810DD",
+   "sender": "נועם",
+   "text": "כתוב מצוין.\n\nאשתף כאן במאמר מוסגר שלפני חודש עברתי ביופסיה בהרדמה מלאה (הכל בסדר). \n\nלפני הביופסיה שאלתי את הצ'אט (שליווה אותי לאורך כל הדרך) למה אני צריך להתכונן. הוא אמר לי שלא להתרגש, אבל יש לי בעיה רפואית אחרת שבאופן רגיל אינה סיפור גדול, אבל הביופסיה עלולה להחריף אותה דרמטית, עד כדי הגעה למיון בשבוע אחרי הניתוח בצרחות ובייסורים (אני מתאר זאת כך כי ראיתי את התופעה הזו בעבר כחובש שהביא אנשים לבית החולים, והיא השאירה בי חותם עמוק). כך שצריך להגיד למנתח שיש לי את הבעיה האחרת, כדי שיידע לתת לי את הטיפול הנכון ולהימנע מההתדרדרות הזו מלקרות.\n\nהגיע זמן הביופסיה. המנתח הגיע, הקריא לי מה הוא עומד לעשות. נתן לי עט ואמר לי - \"תחתום!\"\n\nשאלתי אותו אם הוא מודע לבעיה הרפואית האחרת. כי בכל זאת, היא הייתה במסמכים שנתתי לו. פניו הזדעפו והוא אמר - \"זה לא טוב!\"\n\nדפדף שני עמודים קדימה במסמכים, מצא את המסמך ששוטח את הבעיה ההיא, והסביר לי מה לעשות ואיזה כדורים לקחת כדי למנוע את ההתדרדרות. \n\nהביופסיה עברה בסדר בסופו של דבר (אין סרטן), וגם ההתדרדרות האמורה לא קרתה, כנראה בגלל הכדורים שלקחתי. אבל באותה נקודה הבנתי סופית שרק לי יש אחריות על הבריאות שלי. לא לרופאים, לא לאחיות, לא למומחים. ולראשונה אני יכול לקחת את האחריות הזו ברצינות בזכות המומחה המלאכותי שתמיד לצידי. \n\n(וזאת, כמובן, כל עוד אני דואג להתייחס גם אליו בזהירות ובביקורתיות)",
+   "ts": 1791177513000,
+   "date": "2026-10-05",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

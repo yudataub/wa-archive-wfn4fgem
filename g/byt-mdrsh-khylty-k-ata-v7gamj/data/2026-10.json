@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-04T19:45:33.696Z",
+ "updated": "2026-10-05T03:29:45.372Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -567,6 +567,17 @@
    ],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "ACB5A01F860648E2E2750B7752E2112F",
+   "sender": "משה נחמן חי פרץ",
+   "text": "https://www.facebook.com/share/r/18ySWDiUaR/",
+   "ts": 1791170983000,
+   "date": "2026-10-05",
+   "time": "06:29",
+   "files": [],
+   "drive": null,
+   "phone": "972549912156"
   }
  ]
 }
