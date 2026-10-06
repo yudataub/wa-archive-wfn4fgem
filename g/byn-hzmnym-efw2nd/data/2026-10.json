@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-05T18:43:14.539Z",
+ "updated": "2026-10-06T00:13:53.506Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -263,6 +263,26 @@
    ],
    "drive": null,
    "phone": "972526616006"
+  },
+  {
+   "id": "AC0A6A733FD091D7666EA836ADCAD951",
+   "sender": "ג. פ",
+   "text": "",
+   "ts": 1791245613000,
+   "date": "2026-10-06",
+   "time": "03:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eaTkyCH3oK7usKP23XtQi5bX7YqFKkCs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eaTkyCH3oK7usKP23XtQi5bX7YqFKkCs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584001585"
   }
  ]
 }

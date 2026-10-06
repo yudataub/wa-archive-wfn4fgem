@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-05T18:58:44.708Z",
+ "updated": "2026-10-05T21:56:00.439Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -321,6 +321,25 @@
    ],
    "drive": null,
    "phone": "972526551816"
+  },
+  {
+   "id": "ACDAC3CEC8C965F0E81411E39659FE0E",
+   "sender": "Pery",
+   "text": "קורות",
+   "ts": 1791237359000,
+   "date": "2026-10-06",
+   "time": "00:55",
+   "files": [
+    {
+     "name": "קורות חיים פרי הורוביץ (1).pdf",
+     "size": "355KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EQ27a_u_DZ2pkRcA4e9KxhhHLptJ87pb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535891313"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-05T21:28:23.476Z",
+ "updated": "2026-10-05T22:37:38.605Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -6544,6 +6544,37 @@
    ],
    "drive": null,
    "phone": "972548528996"
+  },
+  {
+   "id": "ACBD10E9980CB4F25A04B2F4EACCEAA0",
+   "sender": "רחל",
+   "text": "",
+   "ts": 1791239843000,
+   "date": "2026-10-06",
+   "time": "01:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "41KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ogPFvmBDTnJE5XtZhsuKDTbjwFogk7yF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ogPFvmBDTnJE5XtZhsuKDTbjwFogk7yF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532297973"
+  },
+  {
+   "id": "ACEEAF8AFC904D8452A759C918355728",
+   "sender": "רחל",
+   "text": "למכירה אופניים 053-2297973",
+   "ts": 1791239845000,
+   "date": "2026-10-06",
+   "time": "01:37",
+   "files": [],
+   "drive": null,
+   "phone": "972532297973"
   }
  ]
 }
