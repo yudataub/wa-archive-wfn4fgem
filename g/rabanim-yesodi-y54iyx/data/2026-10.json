@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-06T17:00:36.629Z",
+ "updated": "2026-10-06T20:57:23.245Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -2711,6 +2711,116 @@
    ],
    "drive": null,
    "phone": "972539474314"
+  },
+  {
+   "id": "AC0E75FA1E999B5A9C7F2EFF46DD20E4",
+   "sender": "Alon Cohen",
+   "text": "*מסע אל דמות החמ\"ד - צועדים באורחותיו (מנגינת חייו* ✨\n\nרבני חמ\"ד היקרים 💐\nמשתף *בתעודת הוקרה* של המיזם ששותף לפני כמה ימים . \n\nמוזמנים לקחת דוגמא מהרעיון . 💪\n\nוכמובן מי שירצה את הקישור פתוח לעריכה , בשמחה שיעדכן בפרטי 👍\n\nבברכת \" *הקודש במרכז* \" 🏆\nאלון כהן - סגן ורב נועם בנים טבריה💐",
+   "ts": 1791316249000,
+   "date": "2026-10-06",
+   "time": "22:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "294KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TuvXhikURFofc1PQ6JrUiuoW219ooo6p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TuvXhikURFofc1PQ6JrUiuoW219ooo6p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502322329"
+  },
+  {
+   "id": "3EB04DE6ECBA510356C13E",
+   "sender": "sarash6422",
+   "text": "חוברת הלכות נטילת ידיים ה-ו.הלכה יומית שעשינו ..לצערי אין לי קובץ פתוח",
+   "ts": 1791316727000,
+   "date": "2026-10-06",
+   "time": "22:58",
+   "files": [
+    {
+     "name": "חוברת ה-ו עם מספור מעודכן.pdf",
+     "size": "4.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BHlbfPMi0V8gGSXuZvabMEroBPeUPye1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586909721"
+  },
+  {
+   "id": "3EB01414B8CAB28E8B2EC2",
+   "sender": "sarash6422",
+   "text": "בתוך החוברת יש גם שיר המנון למבצע במנגינת ע\"י ניגונים.. מי שרוצה יש לי הקלטה של השיר אבל שירת נשים-מתאים לבתי ספר של בנות\\",
+   "ts": 1791316799000,
+   "date": "2026-10-06",
+   "time": "22:59",
+   "files": [],
+   "drive": null,
+   "phone": "972586909721"
+  },
+  {
+   "id": "3EB07BE8BA8C4F50F9EC67",
+   "sender": "sarash6422",
+   "text": "אצלינו הוא היה הרבה זמן המנגינה של הצלצול בתחילת הפסקת אוכל",
+   "ts": 1791316978000,
+   "date": "2026-10-06",
+   "time": "23:02",
+   "files": [],
+   "drive": null,
+   "phone": "972586909721"
+  },
+  {
+   "id": "AC414BCDF4D1168782ACB56A801B374E",
+   "sender": "shalompks8",
+   "text": "",
+   "ts": 1791320202000,
+   "date": "2026-10-06",
+   "time": "23:56",
+   "files": [
+    {
+     "name": "א-ת בראשית תשפ'ג.doc",
+     "size": "157KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1xx82Jj59N9lxwkG0BGfr5o7MQFm45zMv/edit?usp=drivesdk&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523115761"
+  },
+  {
+   "id": "AC3A282345EF725CF70886BD4A3D1253",
+   "sender": "shalompks8",
+   "text": "",
+   "ts": 1791320203000,
+   "date": "2026-10-06",
+   "time": "23:56",
+   "files": [
+    {
+     "name": "בראשית-לכיתות הצעירות -תשפ'ז.doc",
+     "size": "871KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1P8F3YSXoHYidIRUCHIzovBkHc9IPf4Vp/edit?usp=drivesdk&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523115761"
+  },
+  {
+   "id": "AC4CC5D503135B7096565201A136B588",
+   "sender": "shalompks8",
+   "text": "דפי פרשת השבוע בשתי רמות",
+   "ts": 1791320213000,
+   "date": "2026-10-06",
+   "time": "23:56",
+   "files": [],
+   "drive": null,
+   "phone": "972523115761"
   }
  ]
 }

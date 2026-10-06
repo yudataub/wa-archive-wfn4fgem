@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-06T17:36:44.005Z",
+ "updated": "2026-10-06T19:16:05.793Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -850,6 +850,48 @@
    "files": [],
    "drive": null,
    "phone": "972537666878"
+  },
+  {
+   "id": "AC967FD0CAE555D3E34E66D3DAC370E5",
+   "sender": "ספיר. היא מקור האנרגיה...",
+   "text": "ממליץ לכולם  על קייטרינג גבו...",
+   "ts": 1791308396000,
+   "date": "2026-10-06",
+   "time": "20:39",
+   "files": [],
+   "drive": null,
+   "phone": "972532707075"
+  },
+  {
+   "id": "AC7C1513E2D81E0E35BBFAEDAC083120",
+   "sender": "רוברט יצחק",
+   "text": "מנחת השבת בבית וגן, מהדרין,  שנים אני איתו",
+   "ts": 1791310508000,
+   "date": "2026-10-06",
+   "time": "21:15",
+   "files": [],
+   "drive": null,
+   "phone": "972524755906"
+  },
+  {
+   "id": "ACF097D8EA5F69A86AA9A708D7EFC4CC",
+   "sender": "גדז' שמעון",
+   "text": "הסיפור המטורף של ברק ניקסון \nיודע מי שמר עליו 🔥\n\n*את משלנו-הניה בל*",
+   "ts": 1791314157000,
+   "date": "2026-10-06",
+   "time": "22:15",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "33.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1kId_39PhDRuujw5y2IS8RguOb3IDGajo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kId_39PhDRuujw5y2IS8RguOb3IDGajo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545614454"
   }
  ]
 }

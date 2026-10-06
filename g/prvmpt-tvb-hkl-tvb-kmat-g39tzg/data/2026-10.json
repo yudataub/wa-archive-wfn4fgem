@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-06T17:24:01.190Z",
+ "updated": "2026-10-06T18:17:39.420Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -1865,7 +1865,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/135mFhPpAojjjarkExBQ7vGcUoFfW8YlJ/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=135mFhPpAojjjarkExBQ7vGcUoFfW8YlJ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=135mFhPpAojjjarkExBQ7vGcUoFfW8YlJ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-prvmpt-tvb-hkl-tvb-kmat-g39tzg/v/2026-10/3EB0F2A86980F9A8AB4759_0.mp4"
     }
    ],
    "drive": null,
@@ -1912,6 +1913,59 @@
    "date": "2026-10-06",
    "time": "20:24",
    "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACA0C0A9F6441EB9E4491B7C4699BEDA",
+   "sender": "ענבל",
+   "text": "זה נוצר בקלוד?",
+   "ts": 1791308646000,
+   "date": "2026-10-06",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972502343065"
+  },
+  {
+   "id": "ACB14F167FCBCC48146FD775B3317D37",
+   "sender": "ענבל",
+   "text": "מדהים",
+   "ts": 1791308647000,
+   "date": "2026-10-06",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972502343065"
+  },
+  {
+   "id": "A58FB682690F157510084C1FEE26BE4A",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כן",
+   "ts": 1791310008000,
+   "date": "2026-10-06",
+   "time": "21:06",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5132657AF2D7E2F96324E982E913C4E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "המהדורה המרכזית עם יונית וברהני. דקה ו-14 שניות, עם עז קטנה שלועסת נייר.",
+   "ts": 1791310646000,
+   "date": "2026-10-06",
+   "time": "21:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1veONmpmofAu-Zr5boNgARICkfgtwCInK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1veONmpmofAu-Zr5boNgARICkfgtwCInK&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972526673667"
   }

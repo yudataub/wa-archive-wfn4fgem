@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-06T11:43:27.869Z",
+ "updated": "2026-10-06T19:19:35.839Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -1153,6 +1153,47 @@
    "files": [],
    "drive": null,
    "phone": "972539475612"
+  },
+  {
+   "id": "AC8E5A39A5CE2F91C9E3658186991230",
+   "sender": "✍🏻",
+   "text": "מחפש מישהו שיש לו תקציר חייו של מרן בסרט או מצגת לרגל ההילולה?",
+   "ts": 1791314069000,
+   "date": "2026-10-06",
+   "time": "22:14",
+   "files": [],
+   "drive": null,
+   "phone": "972543967957"
+  },
+  {
+   "id": "A5A52783D336DB64113A5EAE80264955",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "📇 הרב אוזן בית מורשת מורשת מרן\n+97233080794",
+   "ts": 1791314106000,
+   "date": "2026-10-06",
+   "time": "22:15",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "A5520B1E0100EC5EB21F3EC92A4D1C3F",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "",
+   "ts": 1791314364000,
+   "date": "2026-10-06",
+   "time": "22:19",
+   "files": [
+    {
+     "name": "חוברת תקציר סרט מרן תולדות חייו - המרכז למורשת מרן.pdf",
+     "size": "17.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1t6oW1DB7DqJKsRLr6Ay6X2UDbPCb5C8S/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972529551584"
   }
  ]
 }

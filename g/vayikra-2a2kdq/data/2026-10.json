@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-06T10:48:50.506Z",
+ "updated": "2026-10-06T21:23:23.660Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -1953,6 +1953,149 @@
    "files": [],
    "drive": null,
    "phone": "972502888366"
+  },
+  {
+   "id": "AC1A9BF804B1692120670F8953B2B811",
+   "sender": "~ חן איטח",
+   "text": "מחלקים ליפני אפיה או אחרי",
+   "ts": 1791310526000,
+   "date": "2026-10-06",
+   "time": "21:15",
+   "files": [],
+   "drive": null,
+   "phone": "972508555461"
+  },
+  {
+   "id": "AC0F99CFF290DF634678C1AD9034FF1C",
+   "sender": "חנה שרה קיי",
+   "text": "מחפשת את הפוסטר לקיר שופטים- משהו יפה כזה שהיה מai של שמות השופטים, זה היה תמונה לאורך עם מסגרת כחולה כזו \nאשמח אם מי שיש יכול להקפיץ תודה!",
+   "ts": 1791317129000,
+   "date": "2026-10-06",
+   "time": "23:05",
+   "files": [],
+   "drive": null,
+   "phone": "972552422630"
+  },
+  {
+   "id": "AC78A7011030CC5B836EB87D270F3A68",
+   "sender": "ארז משה 🇮🇱",
+   "text": "",
+   "ts": 1791317255000,
+   "date": "2026-10-06",
+   "time": "23:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "282KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1g_qRbxHPBIK_25zVN9eOpa4V6u_2S_Um/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1g_qRbxHPBIK_25zVN9eOpa4V6u_2S_Um&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526524012"
+  },
+  {
+   "id": "AC22D7364A62E511B5AC2AA49475307D",
+   "sender": "חנה שרה קיי",
+   "text": "תודה!",
+   "ts": 1791317265000,
+   "date": "2026-10-06",
+   "time": "23:07",
+   "files": [],
+   "drive": null,
+   "phone": "972552422630"
+  },
+  {
+   "id": "AC6C2916B69925F6E76A7DA47B454C76",
+   "sender": "גבי דעי",
+   "text": "אשמח לשליחה חוזרת בבקשה",
+   "ts": 1791317295000,
+   "date": "2026-10-06",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972586718870"
+  },
+  {
+   "id": "A5C21D3C058F158C7AF7700744EB57EB",
+   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
+   "text": "",
+   "ts": 1791317458000,
+   "date": "2026-10-06",
+   "time": "23:10",
+   "files": [
+    {
+     "name": "4. קרבן שלמים- פרק ג.pptx",
+     "size": "32.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1cEghEvHnI-jfRr8T9hnSyx0mtxc9OzOF/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503236686"
+  },
+  {
+   "id": "AC7BC4F72AF0516AF08980B637B6D648",
+   "sender": "אתי סגל",
+   "text": "יש למשהו בקובץ תוכנית לימודים- עבודה לויקרא ?",
+   "ts": 1791317737000,
+   "date": "2026-10-06",
+   "time": "23:15",
+   "files": [],
+   "drive": null,
+   "phone": "972525770397"
+  },
+  {
+   "id": "3EB0C534CCB5D740CBB33F",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791320760000,
+   "date": "2026-10-07",
+   "time": "00:06",
+   "files": [
+    {
+     "name": "חידות התמצאות בספר שופטים.pdf",
+     "size": "3.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ZRHFF0v-tBXaNzLccWQoqdTLE-bTkXF1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "3EB0D291C75B0F8681CA44",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791320772000,
+   "date": "2026-10-07",
+   "time": "00:06",
+   "files": [
+    {
+     "name": "📜 חידות התמצאות בספר שופטים.docx",
+     "size": "29KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1_P5i4lSpzB-iVZfEreTC32HRvbPZ1RMz/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC98B108713F6A82341761B61F1E1445",
+   "sender": "אביחי זגורי",
+   "text": "למישו יש מערך שיעור על הסיפור של אדני בזק בפרק א?",
+   "ts": 1791321773000,
+   "date": "2026-10-07",
+   "time": "00:22",
+   "files": [],
+   "drive": null,
+   "phone": "972525393128"
   }
  ]
 }

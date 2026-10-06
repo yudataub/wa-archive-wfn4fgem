@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-06T15:26:55.182Z",
+ "updated": "2026-10-06T20:08:15.571Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -2978,6 +2978,132 @@
    "files": [],
    "drive": null,
    "phone": "972543154547"
+  },
+  {
+   "id": "AC7953094BB0C366183C5EFCC148F58D",
+   "sender": ".",
+   "text": "מחפשים צלמת דתיה עד 500 ₪ לאירוע ביתי עד 3 שעות תודה",
+   "ts": 1791311289000,
+   "date": "2026-10-06",
+   "time": "21:28",
+   "files": [],
+   "drive": null,
+   "phone": "972552969311"
+  },
+  {
+   "id": "A55B559BDCA06333135EC4CA38824498",
+   "sender": "מוישי ולדמן",
+   "text": "אולי פייבלזון\nתבררו\nממש ממליצים עליה",
+   "ts": 1791313714000,
+   "date": "2026-10-06",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "A5685F4143CD1572B6A614057B8F8D06",
+   "sender": "מוישי ולדמן",
+   "text": "📇 אבי פייבלזון\n+972537173783",
+   "ts": 1791313724000,
+   "date": "2026-10-06",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "A5C5240272E9F7A6CD9F5BE51EC78A18",
+   "sender": "מוישי ולדמן",
+   "text": "זה בעלה",
+   "ts": 1791313727000,
+   "date": "2026-10-06",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "AC4C4FF400711A2820B125488F1D09B5",
+   "sender": "טלי",
+   "text": "📇 מיכל צלמת\n+972548777084",
+   "ts": 1791316467000,
+   "date": "2026-10-06",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972536363199"
+  },
+  {
+   "id": "AC4EDF6CFCAAB1B96D328C71864C16EB",
+   "sender": "עדי ישראל 🫶",
+   "text": "למכירה קרייזר 7מקומות 10אלף שמור 0546253888",
+   "ts": 1791317280000,
+   "date": "2026-10-06",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "AC9EC6012ED4988FFBF256803BD7C4D5",
+   "sender": "עדי ישראל 🫶",
+   "text": "",
+   "ts": 1791317280000,
+   "date": "2026-10-06",
+   "time": "23:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RE79iZ2MqqjFbUIetV3yXMnslBnZQAGr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RE79iZ2MqqjFbUIetV3yXMnslBnZQAGr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "AC0606270567B0589899D2A9F6DA4B66",
+   "sender": "עדי ישראל 🫶",
+   "text": "",
+   "ts": 1791317281000,
+   "date": "2026-10-06",
+   "time": "23:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MdRwY9Mtgng_K7R1C95Oedp4BHbX7uu3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MdRwY9Mtgng_K7R1C95Oedp4BHbX7uu3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543530543"
+  },
+  {
+   "id": "AC1F97864A6B1929B5AC2C6894C2DB0B",
+   "sender": "עדי ישראל 🫶",
+   "text": "",
+   "ts": 1791317283000,
+   "date": "2026-10-06",
+   "time": "23:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/136B_JwmxrW54zMyzvcisDBi26uLG45CT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=136B_JwmxrW54zMyzvcisDBi26uLG45CT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543530543"
   }
  ]
 }

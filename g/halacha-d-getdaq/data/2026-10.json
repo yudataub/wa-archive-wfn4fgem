@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-06T14:18:49.582Z",
+ "updated": "2026-10-06T19:04:35.581Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -456,6 +456,69 @@
    "files": [],
    "drive": null,
    "phone": "972587110272"
+  },
+  {
+   "id": "AC86D8467D6868A98BE831CF09A69B89",
+   "sender": "צופיה",
+   "text": "אמח אם משהו יוכל לשלוח תוכנית לימודים בהלכה לכיתה ד\nתודה",
+   "ts": 1791309202000,
+   "date": "2026-10-06",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "phone": "972512771970"
+  },
+  {
+   "id": "3AB10ED6D7999A3487D0",
+   "sender": "249658060333210",
+   "text": "",
+   "ts": 1791310348000,
+   "date": "2026-10-06",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "halaha4.pdf",
+     "size": "498KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16A5cYx3fbAt5Kr3I5apuCVlk6t5LxjF_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535483502"
+  },
+  {
+   "id": "AC240455965B2D8F8055E5C0ACDBEFE5",
+   "sender": "אורית הודיה",
+   "text": "ערב טוב\nאשמח לשלוח שוב את פרטי ההשתלמות בהלכה🙏",
+   "ts": 1791313367000,
+   "date": "2026-10-06",
+   "time": "22:02",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC4F99113EB364DC7199A60747C68554",
+   "sender": "אורית הודיה",
+   "text": "מצאתי",
+   "ts": 1791313431000,
+   "date": "2026-10-06",
+   "time": "22:03",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC7A5DE9299697A83FD0803A821F41FD",
+   "sender": "אדוה לוז😊",
+   "text": "למי יש חומרים על הגשם ?",
+   "ts": 1791313464000,
+   "date": "2026-10-06",
+   "time": "22:04",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
   }
  ]
 }

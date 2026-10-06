@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-06T17:27:13.861Z",
+ "updated": "2026-10-06T18:40:46.138Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -3269,6 +3269,27 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A557F98C45BE00B2DF5CD2D584340B32",
+   "sender": "החוט המשולש",
+   "text": "https://www.3dthread.net/gift-card",
+   "ts": 1791312034000,
+   "date": "2026-10-06",
+   "time": "21:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ADQnoUcDU0Obw7S-QxN5v3EOo-p_yolA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ADQnoUcDU0Obw7S-QxN5v3EOo-p_yolA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "החוט המשולש",
+   "phone": "972503705447"
   }
  ]
 }

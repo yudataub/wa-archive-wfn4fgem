@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-06T13:10:05.018Z",
+ "updated": "2026-10-06T18:39:16.111Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1170,6 +1170,126 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "AC2412955500E2A57AFDF720BD2751EC",
+   "sender": "מוכר דברים",
+   "text": "למכירה גלאקסי z פליפ 5 \n256 גיגה\nבצבע ורוד תקין ועובד מגיע עם מגנים\n\n1700 שקל",
+   "ts": 1791309507000,
+   "date": "2026-10-06",
+   "time": "20:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dtMGLr4QUxgNFt2GWxNXDO7NPf3eEl72/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dtMGLr4QUxgNFt2GWxNXDO7NPf3eEl72&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "AC2D8368401041252A0798721D7ABE0B",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791311134000,
+   "date": "2026-10-06",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "461KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TC6Jf3w-Z8hMJvQPh2YuDCj_kNLrkery/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TC6Jf3w-Z8hMJvQPh2YuDCj_kNLrkery&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC34A07EEF04D5AA84F1DE5C03A9EC33",
+   "sender": "המשפחה שלי !",
+   "text": "מחיר סימלי מראשון לציון",
+   "ts": 1791311134000,
+   "date": "2026-10-06",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "423KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LQ2W0wKna66P3B_nneIcFko7SMxXqbws/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LQ2W0wKna66P3B_nneIcFko7SMxXqbws&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC1D3F7BC738E4E2A9EF309B35FBA17B",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791311135000,
+   "date": "2026-10-06",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_V0VM4L7X0A1dlzDonH8LDPYTZc7bmC1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_V0VM4L7X0A1dlzDonH8LDPYTZc7bmC1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC4CFC0B85162A8A38793D5D4BA32DEB",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791311135000,
+   "date": "2026-10-06",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1C-QUbv0hQZeOGW6QMmivIcakCdrDahLx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1C-QUbv0hQZeOGW6QMmivIcakCdrDahLx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC0D99188BBC5EE6430A97969233B579",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1791311946000,
+   "date": "2026-10-06",
+   "time": "21:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wxTs-ZWg7cMrLS8g_MKfBRSab8PZkxzI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wxTs-ZWg7cMrLS8g_MKfBRSab8PZkxzI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
   }
  ]
 }
