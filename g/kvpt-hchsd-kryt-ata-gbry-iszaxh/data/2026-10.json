@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-05T12:00:48.457Z",
+ "updated": "2026-10-06T09:21:57.657Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -434,6 +434,26 @@
    ],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "A537034BDF8A25AF8A45D896868C0ED8",
+   "sender": "שמחת חינם",
+   "text": "",
+   "ts": 1791278495000,
+   "date": "2026-10-06",
+   "time": "12:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "252KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DEPsav5q8Q_KwoCaSoEKWtGGYl8DibD4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DEPsav5q8Q_KwoCaSoEKWtGGYl8DibD4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545820048"
   }
  ]
 }

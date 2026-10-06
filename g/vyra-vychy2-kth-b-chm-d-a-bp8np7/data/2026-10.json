@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-05T19:23:15.031Z",
+ "updated": "2026-10-06T07:22:31.375Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -288,6 +288,99 @@
    "files": [],
    "drive": null,
    "phone": "972584021019"
+  },
+  {
+   "id": "AC127EA9BD6029FAC87A53ED3F314555",
+   "sender": "🌹",
+   "text": "בוקר טוב.\nאפשר בבקשה קישור לקבוצה של בראשית-לך לך",
+   "ts": 1791270750000,
+   "date": "2026-10-06",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972546761221"
+  },
+  {
+   "id": "AC38F21D66502ECEBF3C8EB71C579138",
+   "sender": "נעמה ארנון",
+   "text": "",
+   "ts": 1791271020000,
+   "date": "2026-10-06",
+   "time": "10:17",
+   "files": [],
+   "drive": null,
+   "phone": "972542061902"
+  },
+  {
+   "id": "AC2B88F49DE0EDCD2BC8B29AF3DD1C3E",
+   "sender": "🌹",
+   "text": "כותב לי שאי אפשר",
+   "ts": 1791271052000,
+   "date": "2026-10-06",
+   "time": "10:17",
+   "files": [],
+   "drive": null,
+   "phone": "972546761221"
+  },
+  {
+   "id": "3EB01B45B90F4FF033DD1C",
+   "sender": "עמירם אלבה",
+   "text": "לפנות למספר שם. אל שרונה (מנהלת הקבוצה)",
+   "ts": 1791271158000,
+   "date": "2026-10-06",
+   "time": "10:19",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "3EB03752FCE1FE9168AF40",
+   "sender": "עמירם אלבה",
+   "text": "",
+   "ts": 1791271207000,
+   "date": "2026-10-06",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "הזמנה למשתה יצחק תשפד בנות.docx",
+     "size": "81KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1cxvBMC68yHJidoohTrZRcbhkrJtoHYPZ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "3EB0C17828E645658B18F2",
+   "sender": "עמירם אלבה",
+   "text": "",
+   "ts": 1791271208000,
+   "date": "2026-10-06",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "הזמנה למשתה יצחק תשפד בנים.docx",
+     "size": "81KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1x5Hzl_N6HoDPfAsdmZA8W7nrpsHl42d6/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "ACCCD91FD156C9719D0B4ADE34D6992E",
+   "sender": "עמירם אלבה",
+   "text": "📚 אוצרות תלמוד תורה מורשה – בראשית 📚\n\nמקווה שכולם מכירים את המדריך למורה של תלמוד תורה מורשה. החומרים מופיעים גם באתר של החמ״ד.\n\nזה לא מדריך למורה לקראת שימוש בחוברת מסוימת, אלא מדריך למורה שמבין שחובתו היא להתמלא קצת בהתרגשות לפני שהוא מלמד בכיתה.\n\nכמובן, אין הכוונה שהמדריך מחליף הכנת שיעור. להפך – הוא נועד לעזור למורה להיכנס ללימוד מתוך התבוננות, חיבור והתרגשות.\n\nומי שאין לו זמן להכין שיעור עם 70 פנים לתורה, אני מאוד ממליץ להיעזר לפחות בקריאת החוברות הללו לפני השיעור.\n\n📖 ומה נמצא כאן?\n\nבקישור המצורף נמצאים גם המדריכים למורה על ספר בראשית, וגם החוברות ששימשו במורשה כדפי קשר לחזרה בבית.\n\nהחוברות מתמצתות הרבה מהמסרים בשפה של ילדים, ולכן הן יכולות להיות כלי מצוין נוסף גם עבור המורה וגם לחזרה עם התלמידים.\n\n✨ כל האוצרות הללו מרוכזים כאן:\n\nhttps://drive.google.com/drive/folders/1Nm1ET2433VUcGqLZJGVSjRBq_G0juskO?usp=sharing\n\nמוזמנים ליהנות ולהעשיר את השיעורים! 📚",
+   "ts": 1791271334000,
+   "date": "2026-10-06",
+   "time": "10:22",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
   }
  ]
 }

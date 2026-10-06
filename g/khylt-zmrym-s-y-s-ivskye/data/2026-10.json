@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת זמרים S.Y.S",
- "updated": "2026-10-05T15:23:18.758Z",
+ "updated": "2026-10-06T06:15:57.033Z",
  "messages": [
   {
    "id": "AC7A6D841DA48F2096EE021C8DFCC55F",
@@ -20,6 +20,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1umpywnwQkPwA-oHqkQkkdZyQoGkRTnvd&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972523350502"
+  },
+  {
+   "id": "AC8D669660E4639F13ABB4546810F22C",
+   "sender": "אוריה דהישראלי",
+   "text": "בוקר צינון וצרידות? הנה כמה דברים שיכולים לעזור לגוף להתחזק ולהתגבר: \n\nhttps://youtube.com/shorts/Wz22CJQqUSw?si=cthbnZgTBOmgkENB",
+   "ts": 1791267336000,
+   "date": "2026-10-06",
+   "time": "09:15",
+   "files": [],
    "drive": null,
    "phone": "972523350502"
   }

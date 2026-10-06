@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מלכים - הוראה בכיתה ו (לא בתוכנית הרשמית)",
- "updated": "2026-10-05T22:49:08.783Z",
+ "updated": "2026-10-06T08:00:01.854Z",
  "messages": [
   {
    "id": "3EB03188AC026A3C5B2761",
@@ -225,6 +225,36 @@
    "files": [],
    "drive": null,
    "phone": "15514222828"
+  },
+  {
+   "id": "AC26D567ABAB61A8394D5146372AA086",
+   "sender": "sarash6422",
+   "text": "",
+   "ts": 1791269371000,
+   "date": "2026-10-06",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "ספר_מלכים-_מבט_כולל_(4).pdf",
+     "size": "23.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1SCPdV2pkD0uFfTwrLyG1z4L8GmjvJZIK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586909721"
+  },
+  {
+   "id": "AC5B8C1EC78D78C3D438F8C4B628B5EF",
+   "sender": "sarash6422",
+   "text": "הרב מנחם שחור",
+   "ts": 1791273581000,
+   "date": "2026-10-06",
+   "time": "10:59",
+   "files": [],
+   "drive": null,
+   "phone": "972586909721"
   }
  ]
 }

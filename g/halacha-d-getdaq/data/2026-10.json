@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-04T16:27:36.428Z",
+ "updated": "2026-10-06T08:19:58.584Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -326,6 +326,37 @@
    ],
    "drive": null,
    "phone": "972525986370"
+  },
+  {
+   "id": "ACB9531640390A7BD1E126A7D0928EF8",
+   "sender": "שרית דאודי- יקב תקוע",
+   "text": "אפשר לשלוח לי בבקשה כריכה למחברת הלכה?",
+   "ts": 1791271011000,
+   "date": "2026-10-06",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "phone": "972542307375"
+  },
+  {
+   "id": "AC87C11983E71A45D47172A0AC415560",
+   "sender": "ענבל ונגרובר",
+   "text": "",
+   "ts": 1791274779000,
+   "date": "2026-10-06",
+   "time": "11:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10LV80VNMbeec4bSGbboGS0U1bafdSMiP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10LV80VNMbeec4bSGbboGS0U1bafdSMiP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545207494"
   }
  ]
 }

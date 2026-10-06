@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות 055",
- "updated": "2026-10-06T05:17:12.751Z",
+ "updated": "2026-10-06T05:45:43.251Z",
  "messages": [
   {
    "id": "ACE8A246EB9C4D6A6F9019D3EE46B860",
@@ -70,6 +70,18 @@
    "files": [],
    "drive": null,
    "thread": "אריה יונה"
+  },
+  {
+   "id": "2AC3F73032F07137A9B8",
+   "sender": "Yelena",
+   "text": "לא",
+   "ts": 1791265541000,
+   "date": "2026-10-06",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "thread": "Yelena",
+   "phone": "972542635143"
   }
  ]
 }

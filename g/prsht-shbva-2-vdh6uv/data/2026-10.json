@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-06T04:28:28.429Z",
+ "updated": "2026-10-06T06:52:27.456Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -931,6 +931,82 @@
    ],
    "drive": null,
    "phone": "972528308252"
+  },
+  {
+   "id": "AC62CDAD429B99AA82D02F0FB0CDAFDF",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791269542000,
+   "date": "2026-10-06",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "פרשת בראשית לא מנוקד- כרמית ג.pdf",
+     "size": "708KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1vKgqttPFjb-LvRa29LDszs3aPyNtNE0Y/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACC1182FBD31B002329853B4A07CDA0A",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791269544000,
+   "date": "2026-10-06",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "פרשת בראשית- בכתב רש'י- כרמית.pdf",
+     "size": "536KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1spt0VA-Lnjy9LVdzmw1on9IRwSuofJZ4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC339ED6E5CEA603BB569269B6285B2C",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791269546000,
+   "date": "2026-10-06",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "פרשת בראשית - מנוקד- כרמית גרמאי.pdf",
+     "size": "708KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1G4ojN4oQloc5MnW85bKVFm4_yMgClghT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACF343245BDCB8B93762002DA5BD4C4B",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791269548000,
+   "date": "2026-10-06",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "פרשת בראשית- חידון א'-ב' מנוקד- כרמית גרמאי.pdf",
+     "size": "476KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1K4w716QhfNHNdolhuGui6aGOep-gOo-m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
   }
  ]
 }

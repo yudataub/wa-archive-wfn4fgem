@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-05T21:45:30.279Z",
+ "updated": "2026-10-06T08:32:28.765Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -1056,6 +1056,70 @@
    "files": [],
    "drive": null,
    "phone": "972504696525"
+  },
+  {
+   "id": "3EB0B3AFFA8DFAD06E2A80",
+   "sender": "הרב רפאל אוחיון",
+   "text": "חברים, פעם היה פה דיבור על איך מנקים סאונד של הרצאה?\nהמיקרופון לא עשה סינכרון עם הרסיבר והכל הוקלט דרך הטלפון",
+   "ts": 1791267813000,
+   "date": "2026-10-06",
+   "time": "09:23",
+   "files": [],
+   "drive": null,
+   "phone": "972548496066"
+  },
+  {
+   "id": "3EB03741B60C40825C8489",
+   "sender": "הרב רפאל אוחיון",
+   "text": "חברים!!!\nמצאתי כלי מטורף!",
+   "ts": 1791268626000,
+   "date": "2026-10-06",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "phone": "972548496066"
+  },
+  {
+   "id": "3EB0D3BC8187C0F53D84D8",
+   "sender": "הרב רפאל אוחיון",
+   "text": "https://auphonic.com/",
+   "ts": 1791268631000,
+   "date": "2026-10-06",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "phone": "972548496066"
+  },
+  {
+   "id": "3EB0B853FFC8DAD73458FB",
+   "sender": "הרב רפאל אוחיון",
+   "text": "העליתי לו קובץ MP3 של ההרצאה, כמעט לא שומעים כלום! והוא עשה לי את זה ברמה של פוד-קאסט",
+   "ts": 1791268689000,
+   "date": "2026-10-06",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "phone": "972548496066"
+  },
+  {
+   "id": "A5C6C189CBAE14925AFF98EA90A183E7",
+   "sender": "רב/ מגשר",
+   "text": "מי יודע מה הקבצים האלה.  כל יום זה עולה לי",
+   "ts": 1791275522000,
+   "date": "2026-10-06",
+   "time": "11:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A7oDan8mTWpJIQ8x428jIVnpywIexsfN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A7oDan8mTWpJIQ8x428jIVnpywIexsfN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527188781"
   }
  ]
 }

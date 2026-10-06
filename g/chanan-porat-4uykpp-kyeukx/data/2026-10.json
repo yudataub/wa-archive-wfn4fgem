@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-05T18:23:09.245Z",
+ "updated": "2026-10-06T08:12:58.553Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -419,6 +419,66 @@
    "files": [],
    "drive": null,
    "phone": "972525703945"
+  },
+  {
+   "id": "AC55232EE3CEB40B7F07073AD471260A",
+   "sender": "ורד נחמה נוישטטר",
+   "text": "",
+   "ts": 1791269168000,
+   "date": "2026-10-06",
+   "time": "09:46",
+   "files": [
+    {
+     "name": "תורה ועבודה בפרדס סיפור כרטיס.pdf",
+     "size": "5.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10CFapv4x8LhzybmXSa0lQ3RPxFpbvvL2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502203021"
+  },
+  {
+   "id": "AC8EFBE9F272F47D30195EB789B6BDB7",
+   "sender": "ורד נחמה נוישטטר",
+   "text": "*\"לקום מחר בבוקר ולהתחיל מבראשית\"* (נעמי שמר)  \n\nגננות יקרות, \nשמחות לשלוח לכן את הכרטיסיפור השני על דמותו של הרב חנן פורת. הסיפור מתאר את החיבור ואהבת התורה שהיתה לחנן - מתאים לתחילת לימוד העמקה בסיפורי התורה.\n\nתהנו 🙏",
+   "ts": 1791269173000,
+   "date": "2026-10-06",
+   "time": "09:46",
+   "files": [],
+   "drive": null,
+   "phone": "972502203021"
+  },
+  {
+   "id": "A554438BD76170BEA4CA3427500D897D",
+   "sender": "אלינור ח הלוי",
+   "text": "אשמח לדפי חברותות ליום פטירת רחל אימנו.",
+   "ts": 1791271003000,
+   "date": "2026-10-06",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "phone": "972527185522"
+  },
+  {
+   "id": "2A5AC8D8C5F904B4D557",
+   "sender": "שירה עם שלם",
+   "text": "",
+   "ts": 1791274372000,
+   "date": "2026-10-06",
+   "time": "11:12",
+   "files": [
+    {
+     "name": "עותק של ערב אמהות ובנות- יום פטירת רחל אמנו תשפה (1).pdf",
+     "size": "9.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1zzLxbI-da87kd5Gz7zcDpu3jZeuCp35f/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972532805918"
   }
  ]
 }

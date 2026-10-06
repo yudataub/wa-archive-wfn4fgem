@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-05T08:51:47.726Z",
+ "updated": "2026-10-06T07:52:58.506Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -118,6 +118,26 @@
      "path": "https://drive.google.com/file/d/11GfjoMmrlvxRBozXSRbo1cGeen1vvxas/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=11GfjoMmrlvxRBozXSRbo1cGeen1vvxas&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0F8D9F4CEE0E0AB6EAF",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קלה\nנושא: בר מצווה\n\nהחידה היא חלק מחוברת בר מצווה https://clap.co.il/aF7\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1791273171000,
+   "date": "2026-10-06",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "205KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KcZ6S2YKqjiBDKbArggBq4svAqa5lSR_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KcZ6S2YKqjiBDKbArggBq4svAqa5lSR_&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-05T21:22:23.393Z",
+ "updated": "2026-10-06T08:17:58.569Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -737,6 +737,68 @@
    "files": [],
    "drive": null,
    "phone": "972546660233"
+  },
+  {
+   "id": "AC7C9D47BE3F6C23C318EEB3F66D0E32",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791265930000,
+   "date": "2026-10-06",
+   "time": "08:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16Yo2BmI5C8Jv3VOTdDXbKz673cRqP6_3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16Yo2BmI5C8Jv3VOTdDXbKz673cRqP6_3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC5CAF75BE63E6D341653FB55CD25D1B",
+   "sender": "גדז' שמעון",
+   "text": "",
+   "ts": 1791268580000,
+   "date": "2026-10-06",
+   "time": "09:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17WP7H_qUaivSlsAb9csiGypmTH6hczsw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17WP7H_qUaivSlsAb9csiGypmTH6hczsw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545614454"
+  },
+  {
+   "id": "AC7DC90B187EDEDC03A1F50B7FBB9C2D",
+   "sender": "גדז' שמעון",
+   "text": "שימו לב, זה מחר בערב",
+   "ts": 1791268598000,
+   "date": "2026-10-06",
+   "time": "09:36",
+   "files": [],
+   "drive": null,
+   "phone": "972545614454"
+  },
+  {
+   "id": "AC2E7B42C1C8F485111DF18D0B3D2DE8",
+   "sender": "דליה",
+   "text": "מחפשת מקום שעושה מגבות ממותגות.  \nכמו שהיה פעם פינוק רקום",
+   "ts": 1791274665000,
+   "date": "2026-10-06",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972523121564"
   }
  ]
 }

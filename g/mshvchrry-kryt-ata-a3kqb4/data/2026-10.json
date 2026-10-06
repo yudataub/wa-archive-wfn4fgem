@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משוחררי קרית אתא",
- "updated": "2026-10-04T08:35:45.191Z",
+ "updated": "2026-10-06T08:27:28.662Z",
  "messages": [
   {
    "id": "AC8F9B623A83B9BA7F2D652E78DCBB7D",
@@ -49,6 +49,46 @@
      "path": "https://drive.google.com/file/d/1F2hBJBemOh7R-TNNZM_jwaoNN9dd8xjG/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1F2hBJBemOh7R-TNNZM_jwaoNN9dd8xjG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC79CBEA3FD823B418580C1BC3FF9196",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*למידע מפורט על זכויות חיילים משוחררים, בקרו באתר:*\n🔗 https://www.hachvana.mod.gov.il/Pages/default.aspx\n\n*רוצים להתייעץ או לקבוע פגישת ייעוץ אישית?*\n📞 צרו קשר בטלפון: 052-8114222\n📅 או קבעו תור דרך אתר My Visit:\nhttps://myvisit.com/#!/home/signin",
+   "ts": 1791267273000,
+   "date": "2026-10-06",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1BG6hwZndZ9GgEhvz3qLZeLkba773Y83T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BG6hwZndZ9GgEhvz3qLZeLkba773Y83T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "ACE8E9DF313A1E37BFB7CFBA8EA33300",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*להכיר את ארץ ישראל היפה עם חבר'ה איכותיים - זו הולכת להיות חוויה בלתי נשכחת!* ✨\n\nמכון תבור מזמין אתכם ל-10 ימים של חוויות והיכרות מעמיקה עם הארץ  דרך סיורים, מפגשים מסקרנים, הרצאות מרתקות ועוד 🥾\n\nלמי זה מיועד? חיילים/ות משוחררים/ות ומסיימי/ות שירות לאומי עד גיל 25. 🎯\n\nמתי? 25.11-04.12  🏕️\n\n🔗 מהרו להירשם: https://rishum.app/tabor-hadracha",
+   "ts": 1791275222000,
+   "date": "2026-10-06",
+   "time": "11:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AhcQnQ2T0IqhXiwjcU-3apJwJEIgg5nD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AhcQnQ2T0IqhXiwjcU-3apJwJEIgg5nD&sz=w1200"
     }
    ],
    "drive": null,
