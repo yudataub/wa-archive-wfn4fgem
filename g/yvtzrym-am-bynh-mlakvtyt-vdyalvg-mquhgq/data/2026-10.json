@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-05T20:14:58.560Z",
+ "updated": "2026-10-06T05:03:12.554Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -950,6 +950,37 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACA1E984CC7E79DB555A606E3D390937",
+   "sender": "סמאהר אבו שקארה",
+   "text": "",
+   "ts": 1791261399000,
+   "date": "2026-10-06",
+   "time": "07:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mUk_dVgXiYBPiSr3VFswL7wwXRKv8B-8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mUk_dVgXiYBPiSr3VFswL7wwXRKv8B-8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505225127"
+  },
+  {
+   "id": "3EB0207843E50E98521C9D",
+   "sender": "נועם",
+   "text": "נראה לי שהסבירות למצוא כאן נמוכה ועדיף לפרסם בקבוצות אחרות.",
+   "ts": 1791262977000,
+   "date": "2026-10-06",
+   "time": "08:02",
+   "files": [],
    "drive": null,
    "phone": "972534663621"
   }

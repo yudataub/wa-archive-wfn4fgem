@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-05T18:23:39.268Z",
+ "updated": "2026-10-06T05:14:48.595Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -514,6 +514,26 @@
    ],
    "drive": null,
    "phone": "972522488015"
+  },
+  {
+   "id": "AC5BD7C0A3A153CD5912F1FCD7FDC366",
+   "sender": "טלי דוד",
+   "text": "נמצא בכצנלסון 10 למטה\nלא ידוע רמת תקינות\nאין צורך לפנות בפרטי, \n*פשוט לבוא לקחת*",
+   "ts": 1791263667000,
+   "date": "2026-10-06",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "316KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vMRGdFhqlQWYRGh6v54J0nOJ3J2k8IpY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vMRGdFhqlQWYRGh6v54J0nOJ3J2k8IpY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
   }
  ]
 }

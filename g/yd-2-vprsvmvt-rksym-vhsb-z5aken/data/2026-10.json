@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-05T22:12:04.643Z",
+ "updated": "2026-10-06T04:53:03.400Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -3197,6 +3197,37 @@
    "files": [],
    "drive": null,
    "phone": "972548525400"
+  },
+  {
+   "id": "A5C70860374CD4186D84CE8699AC86EA",
+   "sender": "יוסף ישראל",
+   "text": "חברים אנחנו מתחילים להכניס הזמנות דגים לשבוע הקרוב  ב\"ה \nהשבוע למי שמזמין מעל 100 ש\"ח משלוח חינם בתוך רכסים .",
+   "ts": 1791262033000,
+   "date": "2026-10-06",
+   "time": "07:47",
+   "files": [],
+   "drive": null,
+   "phone": "972559503426"
+  },
+  {
+   "id": "2ADB5F154AA473849669",
+   "sender": "הדייג דגים טריים מהים אליכם לבית !",
+   "text": "",
+   "ts": 1791262360000,
+   "date": "2026-10-06",
+   "time": "07:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "281KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11191Pk8UgVB--acd-_1DHJQEcPmgTqSQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11191Pk8UgVB--acd-_1DHJQEcPmgTqSQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528894841"
   }
  ]
 }

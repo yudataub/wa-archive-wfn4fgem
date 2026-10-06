@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-05T18:36:42.950Z",
+ "updated": "2026-10-06T05:01:42.539Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -843,6 +843,57 @@
    ],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "A5A51EE009C5DD49D43571DCF119F1CC",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791261035000,
+   "date": "2026-10-06",
+   "time": "07:30",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "11KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/19XWHbHAmMQhgTDPtvxbBYE7dLW4NQeJU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19XWHbHAmMQhgTDPtvxbBYE7dLW4NQeJU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A599B8F3E3BD0918ADEF8A9327DFD648",
+   "sender": "mary garby",
+   "text": "*שאלות חימום לתרגול שליפה (Retrieval Practice)* 🧠✨\n*(מאת ד\"ר פוג'ה ק. אגרוואל / retrievalpractice.org)*\nשאלות קלות, כיפיות ומפעילות שמתאימות לכרטיסי כניסה/יציאה, שוברי קרח (Icebreakers) או נושאי כתיבה:\n🍦 *1.* מהו טעם הגלידה *הכי פחות* אהוב עליך?\n🧳 *2.* אם היית יכול/ה לנסוע לכל מקום בעולם (מקום שלא היית בו מעולם), לאן היית נוסע/ת?\n⏳ *3.* האם היית מעדיף/ה לבקר בעולם לפני 100 שנה או בעוד 100 שנה? מדוע?\n🎩 *4.* אם היית חייב/ת לחבוש כובע בכל יום לכל שארית חייך, איזה סוג של כובע זה היה?\n🎈 *5.* האם היית מעדיף/ה שתהיה בבעלותך סירת מפרש או כדור פורח? מדוע?\n🍳 *6.* מה המאכל האהוב עליך לארוחת בוקר?\n📖 *7.* מהי המילה האהובה עליך? מדוע היא האהובה עליך?\n🍽️ *8.* אם היית יכול/ה לאכול רק מאכל או מנה אחת לכל שארית חייך, מה זה היה?\n🎸 *9.* איזה סוג של בעל חיים היה יכול להיות מוזיקאי ממש טוב? מדוע?\n😀 *10.* מהו האימוג'י האהוב עליך? תאר/י או צייר/י אותו!\n🏆 \n\nמתוך אתר: retrievalpractice.org",
+   "ts": 1791261043000,
+   "date": "2026-10-06",
+   "time": "07:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D7isTl4OP6F6DsBuHBzVj8xVZjMwP2Lr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D7isTl4OP6F6DsBuHBzVj8xVZjMwP2Lr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "3A4CEC0D41EFED11EDD9",
+   "sender": "נילי אונגו לוי",
+   "text": "בוקר טוב האם יש ספר לימוד פתוח לשימוש ו/או דפי עבודה בגיאוגרפיה בנושא המזרח התיכון לתלמידים שלא למדו גיאוגרפיה (כיתה קטנה)בחטיבה?",
+   "ts": 1791262894000,
+   "date": "2026-10-06",
+   "time": "08:01",
+   "files": [],
+   "drive": null,
+   "phone": "972508344485"
   }
  ]
 }

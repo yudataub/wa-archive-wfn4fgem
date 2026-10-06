@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-10-05T22:36:08.582Z",
+ "updated": "2026-10-06T05:34:48.885Z",
  "messages": [
   {
    "id": "3EB0A702EEAB0BA951E587",
@@ -1961,7 +1961,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1YAzh7drkvCcOMbna8wENk6gGmdhI1oXl/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1YAzh7drkvCcOMbna8wENk6gGmdhI1oXl&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1YAzh7drkvCcOMbna8wENk6gGmdhI1oXl&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/v/2026-10/AC8AFA8C6A13FAD222A17B28CA630F5B_0.mp4"
     }
    ],
    "drive": null,
@@ -2349,6 +2350,83 @@
    "files": [],
    "drive": null,
    "phone": "972504403887"
+  },
+  {
+   "id": "ACCF86906D07337609434E0E1AA80AE0",
+   "sender": "זהר",
+   "text": "מחפשת בשביל חברה, מטפלת תותחית עו\"סית או פסיכולוגית שמטפלת גם בשיטת המובחנות, באיזור ישובי בנימין",
+   "ts": 1791261972000,
+   "date": "2026-10-06",
+   "time": "07:46",
+   "files": [],
+   "drive": null,
+   "phone": "972545417195"
+  },
+  {
+   "id": "AC0C0CFCC34F6C74FDCB94AE1D743222",
+   "sender": "מלכה שליסל",
+   "text": "חידוד הוא יקר ערך\nלא רק חידוש :)",
+   "ts": 1791262359000,
+   "date": "2026-10-06",
+   "time": "07:52",
+   "files": [],
+   "drive": null,
+   "phone": "972548460490"
+  },
+  {
+   "id": "AC9EBFDAEB00384AEDB8332FA1435214",
+   "sender": "מלכה שליסל",
+   "text": "תודה לכולם על ההשקעה בתגובות🙏\nאמן שיהיה לתועלת",
+   "ts": 1791262474000,
+   "date": "2026-10-06",
+   "time": "07:54",
+   "files": [],
+   "drive": null,
+   "phone": "972548460490"
+  },
+  {
+   "id": "AC59D0132C189E59A08A39F2AE8A7234",
+   "sender": "מירב דיין",
+   "text": "מחפשת מטפל *דתי יראה שמים* לזוג מסורתי לקשיים בתקשורת באזור *מודעין בלבד*\nתודה רבה",
+   "ts": 1791264211000,
+   "date": "2026-10-06",
+   "time": "08:23",
+   "files": [],
+   "drive": null,
+   "phone": "972523664491"
+  },
+  {
+   "id": "AC3FAD5FEC3DE5E164731118CCC886E2",
+   "sender": "אביחיל גרינולד יועץ זוגי",
+   "text": "📇 הרב יהודה ישרים\n+972526691574",
+   "ts": 1791264556000,
+   "date": "2026-10-06",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547414942"
+  },
+  {
+   "id": "AC45B1531340E626ECEF6EB584B7D6B0",
+   "sender": "אביחיל גרינולד יועץ זוגי",
+   "text": "מגשר\nיועץ זוגי\nמרכז עמק השווה במודיעין",
+   "ts": 1791264572000,
+   "date": "2026-10-06",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547414942"
+  },
+  {
+   "id": "AC2A43D99AE347A2FE62EA841961E3A4",
+   "sender": "זהר",
+   "text": "מטפלת אישית לא זוגית",
+   "ts": 1791264877000,
+   "date": "2026-10-06",
+   "time": "08:34",
+   "files": [],
+   "drive": null,
+   "phone": "972545417195"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-05T21:33:30.156Z",
+ "updated": "2026-10-06T05:38:18.949Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -1708,6 +1708,88 @@
    "files": [],
    "drive": null,
    "phone": "972544811537"
+  },
+  {
+   "id": "AC39FC3C45A766727F3079EA5267FB8E",
+   "sender": "עדי",
+   "text": "",
+   "ts": 1791257812000,
+   "date": "2026-10-06",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "חוברת עבודה ספר יהושע.pdf",
+     "size": "479KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Gz1cwkLXmsdrGQfXA78aKvukzlj0p9nH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "ACAEB5A73F28F4B29806F8644E2E4A11",
+   "sender": "עדי",
+   "text": "",
+   "ts": 1791257813000,
+   "date": "2026-10-06",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "ספר יהושע - חוברת עבודה (גדסי).pdf",
+     "size": "2.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1orQAJe9u5b08TKePaoBaDKCT723rgaGC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "3A64D2885D4D2F104F5C",
+   "sender": "דינה מנצור",
+   "text": "לדעתי אסור לשלוח חוברות כאלו בלי הסכמה מפורשת, קיבלתם כזו?",
+   "ts": 1791260823000,
+   "date": "2026-10-06",
+   "time": "07:27",
+   "files": [],
+   "drive": null,
+   "phone": "972544811537"
+  },
+  {
+   "id": "AC1DDF5F45A66B38E5835ABC98E4B790",
+   "sender": "עדי",
+   "text": "מתנצלת, נראה לי שנשלח כאן בעבר ופשוט שלחתי שוב",
+   "ts": 1791261522000,
+   "date": "2026-10-06",
+   "time": "07:38",
+   "files": [],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "ACCC5A542C44C29336C0F5576A38FDD7",
+   "sender": "ARAZI SHARONA",
+   "text": "יכול להיות שאישרו פרסום כיוון שאין התראת שמירת זכויות...אך כן רשום רכישה דרך בונוס ספרים וכאן אנו נכנסים לתמונה ושומרים על זכויות יוצרים.\nבמידה וקיבלתם אישור בכתב בלבד אנא העלו ע\"מ שנוכל לזכות את הרבים.\nבשורות טובות\nמנהל תפעול חמ\"ד",
+   "ts": 1791261692000,
+   "date": "2026-10-06",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "3EB0C58573B0780F6B46DA",
+   "sender": "esterzomrati",
+   "text": "אשמח לקבל מרכז למידה או דפי עבודה לתרגול כתב רש\"י",
+   "ts": 1791265103000,
+   "date": "2026-10-06",
+   "time": "08:38",
+   "files": [],
+   "drive": null,
+   "phone": "972502182888"
   }
  ]
 }

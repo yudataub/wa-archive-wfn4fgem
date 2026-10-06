@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-05T18:15:11.568Z",
+ "updated": "2026-10-06T05:35:18.903Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -439,6 +439,26 @@
    "files": [],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "4A83CC1623071932A662",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791264907000,
+   "date": "2026-10-06",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OAL9xTjps7WoQXna4X7_9zz26B-m27Nv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OAL9xTjps7WoQXna4X7_9zz26B-m27Nv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
   }
  ]
 }

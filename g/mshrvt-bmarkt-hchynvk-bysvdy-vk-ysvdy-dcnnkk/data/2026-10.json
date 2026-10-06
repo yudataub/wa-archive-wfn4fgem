@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-05T21:56:00.439Z",
+ "updated": "2026-10-06T04:19:28.270Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -340,6 +340,57 @@
    ],
    "drive": null,
    "phone": "972535891313"
+  },
+  {
+   "id": "AC8446D12BD93DC2D8FD4CAB3C238D9E",
+   "sender": "ישעיהו",
+   "text": "",
+   "ts": 1791260171000,
+   "date": "2026-10-06",
+   "time": "07:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E2Zsz_ScQmV3LLL8_aPxXL369c-TAbHU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E2Zsz_ScQmV3LLL8_aPxXL369c-TAbHU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555589421"
+  },
+  {
+   "id": "AC88E59743120EF1D628033FF60C8162",
+   "sender": "ישעיהו",
+   "text": "",
+   "ts": 1791260213000,
+   "date": "2026-10-06",
+   "time": "07:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gZg_LmwDmwHq6WT8NRiVo7w_bq76HAEI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gZg_LmwDmwHq6WT8NRiVo7w_bq76HAEI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555589421"
+  },
+  {
+   "id": "AC29E18497AD7A22A50F912AC0029CF7",
+   "sender": "ישעיהו",
+   "text": "☝️מקום מעולה ומסודר.\nצוות מדהים.",
+   "ts": 1791260359000,
+   "date": "2026-10-06",
+   "time": "07:19",
+   "files": [],
+   "drive": null,
+   "phone": "972555589421"
   }
  ]
 }

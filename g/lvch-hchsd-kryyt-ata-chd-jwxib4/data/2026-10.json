@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-05T21:29:23.492Z",
+ "updated": "2026-10-06T05:13:48.579Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -2438,6 +2438,48 @@
    ],
    "drive": null,
    "phone": "972548528996"
+  },
+  {
+   "id": "AC3341C0CDCD875B8969DBD1F942DA1B",
+   "sender": "Eden Coan",
+   "text": "נמצאו 2 טבעות, יהלום ונישואין!\n ביום רביעי 30/09/2026,\nבשירותים של התחנה מרכזית בירושלים בקומת הרציפים.\nהמאבדת יכולה להתקשר למס': 0527145787\nבבקשה להפיץ בכמה שיותר קבוצות🙏🙏!!",
+   "ts": 1791258705000,
+   "date": "2026-10-06",
+   "time": "06:51",
+   "files": [],
+   "drive": null,
+   "phone": "972545457340"
+  },
+  {
+   "id": "AC3EEE1627EF4ADD6BFD18696D17FD74",
+   "sender": "ניסים",
+   "text": "השבת אבידה",
+   "ts": 1791262434000,
+   "date": "2026-10-06",
+   "time": "07:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14FLl1i2eVaH6mxkWx7u5zxvV7-ADzbJm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14FLl1i2eVaH6mxkWx7u5zxvV7-ADzbJm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539623152"
+  },
+  {
+   "id": "3A3FA617E12011E3EFD6",
+   "sender": "מתנאל אטיאס",
+   "text": "שלחתי את המספר שלך לבן אדם אשרייך",
+   "ts": 1791263630000,
+   "date": "2026-10-06",
+   "time": "08:13",
+   "files": [],
+   "drive": null,
+   "phone": "972524174490"
   }
  ]
 }

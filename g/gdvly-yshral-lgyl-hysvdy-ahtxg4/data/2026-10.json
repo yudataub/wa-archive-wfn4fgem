@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-05T22:23:04.833Z",
+ "updated": "2026-10-06T04:25:58.409Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -338,6 +338,26 @@
    "ts": 1791238975000,
    "date": "2026-10-06",
    "time": "01:22",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "3EB0748B64048D32C871AA",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://drive.google.com/drive/folders/1iCm69asFTdbEhvLUm_DY8xxBI13bpA7V?usp=sharing\n\nsent via JONI",
+   "ts": 1791259812000,
+   "date": "2026-10-06",
+   "time": "07:10",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5741DBFE4B03A1B94526996298F9D01",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://drive.google.com/drive/folders/1iCm69asFTdbEhvLUm_DY8xxBI13bpA7V?usp=sharing",
+   "ts": 1791260735000,
+   "date": "2026-10-06",
+   "time": "07:25",
    "files": [],
    "drive": null
   }

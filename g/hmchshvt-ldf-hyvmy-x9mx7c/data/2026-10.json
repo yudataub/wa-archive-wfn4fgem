@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-05T04:13:34.331Z",
+ "updated": "2026-10-06T04:01:41.674Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -178,6 +178,46 @@
      "path": "https://drive.google.com/file/d/1XYWGC8bJ2XCUttClJqjroX96nRVuotNS/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1XYWGC8bJ2XCUttClJqjroX96nRVuotNS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A1679F1D739949FD3EC",
+   "sender": ".",
+   "text": "״שהיית אוכל תמרים בבבל״ (רש״י בכורות יח, א).",
+   "ts": 1791259299000,
+   "date": "2026-10-06",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I7RIuWp-bvcTX5Qd-FTx2REFLf1zgYZB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I7RIuWp-bvcTX5Qd-FTx2REFLf1zgYZB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ADD85E4BD28C6D1776F",
+   "sender": ".",
+   "text": "״שמניח רועה בין שניהם לחולקה״ (רש״י בכורות יח, ב).",
+   "ts": 1791259300000,
+   "date": "2026-10-06",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DEyQWzA8gQp5x2iIiGBzun4GpQFI0gnd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DEyQWzA8gQp5x2iIiGBzun4GpQFI0gnd&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-05T20:01:18.198Z",
+ "updated": "2026-10-06T04:13:28.196Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -2934,7 +2934,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1RO7V5TTTP0k9LrQiOu4J6tTuHdivy_rG/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1RO7V5TTTP0k9LrQiOu4J6tTuHdivy_rG&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1RO7V5TTTP0k9LrQiOu4J6tTuHdivy_rG&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/v/2026-10/AC3EE89B49200B12C1B7AA4ABA1C911F_0.mp4"
     }
    ],
    "drive": null,
@@ -3027,6 +3028,26 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "AC6A9AB287D926BA8AA0836DDEF45211",
+   "sender": "noa asulin0",
+   "text": "זה נכון?",
+   "ts": 1791260003000,
+   "date": "2026-10-06",
+   "time": "07:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mleA2w9-rQ81Valq-ekjTU1GDG4w4r9y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mleA2w9-rQ81Valq-ekjTU1GDG4w4r9y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504410155"
   }
  ]
 }
