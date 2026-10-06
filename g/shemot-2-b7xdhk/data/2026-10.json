@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-05T19:51:48.101Z",
+ "updated": "2026-10-06T17:24:13.821Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -483,6 +483,110 @@
    "files": [],
    "drive": null,
    "phone": "972535834186"
+  },
+  {
+   "id": "AC7B049402A58F4B04B9A6D55943C1BD",
+   "sender": "צופיה גביש",
+   "text": "📇 חמוטל שרפי\n+972503996683",
+   "ts": 1791306873000,
+   "date": "2026-10-06",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "phone": "972535456747"
+  },
+  {
+   "id": "ACA79FA576F44AABBB890A27753554A7",
+   "sender": "צופיה גביש",
+   "text": "אפשר לצרף בבקשה🙏",
+   "ts": 1791306875000,
+   "date": "2026-10-06",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "phone": "972535456747"
+  },
+  {
+   "id": "AC4131057FCAE0B0066CD9F4F6FEBB66",
+   "sender": "שירה אסולין",
+   "text": "אפשר לשלוח את זה שוב בבקשה",
+   "ts": 1791306885000,
+   "date": "2026-10-06",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "ACC79C65CC3F74D85397C29826BE1D88",
+   "sender": "שירה אסולין",
+   "text": "אפשר בבקשה לשלוח את זה שוב",
+   "ts": 1791306990000,
+   "date": "2026-10-06",
+   "time": "20:16",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "AC02AFEC8C5E92672BF195E114F8FDF8",
+   "sender": "קרן פלט🌸",
+   "text": "",
+   "ts": 1791307038000,
+   "date": "2026-10-06",
+   "time": "20:17",
+   "files": [
+    {
+     "name": "חוברת לחומש שמות להדפסה תשעז סופי.pdf",
+     "size": "6.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QzcPaZqxbtVvG2wc7Jma51sON71R1lkL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502028311"
+  },
+  {
+   "id": "AC733DEC074D1B6A2D84AC265942735A",
+   "sender": "שירה אסולין",
+   "text": "אפשר בבקשה גם לשלוח את יהושע",
+   "ts": 1791307080000,
+   "date": "2026-10-06",
+   "time": "20:18",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "AC4C483CDCA605DBE0FEA5F2CDF015C6",
+   "sender": "קרן פלט🌸",
+   "text": "",
+   "ts": 1791307132000,
+   "date": "2026-10-06",
+   "time": "20:18",
+   "files": [
+    {
+     "name": "חוברת לספר יהושע- שירה עמר.pdf",
+     "size": "1.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QGXGVp1_GTwbweyscNoE-Eybd0_mPR0m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502028311"
+  },
+  {
+   "id": "AC86469E140D0C4498A1A85FE8D5F4CF",
+   "sender": "שירה אסולין",
+   "text": "יש כזה מנוקד?",
+   "ts": 1791307440000,
+   "date": "2026-10-06",
+   "time": "20:24",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
   }
  ]
 }

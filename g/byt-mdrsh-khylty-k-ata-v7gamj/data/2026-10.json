@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-06T12:10:28.297Z",
+ "updated": "2026-10-06T17:36:44.005Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -819,6 +819,37 @@
    ],
    "drive": null,
    "phone": "972546660233"
+  },
+  {
+   "id": "A54FC2C3498FCC1AFE8B4A62CF4512E1",
+   "sender": "אוהד אקספרס",
+   "text": "",
+   "ts": 1791303145000,
+   "date": "2026-10-06",
+   "time": "19:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bPiVzrQDlGD8WGskpswwu91sH3XtYrvy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bPiVzrQDlGD8WGskpswwu91sH3XtYrvy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543109788"
+  },
+  {
+   "id": "A57D5DBAE92A2A867FE4B5589CD060BE",
+   "sender": "יניב מאדים סתם ברמה",
+   "text": "📇 אלדד אלמקייס קייטרינג\n+972524403056",
+   "ts": 1791308192000,
+   "date": "2026-10-06",
+   "time": "20:36",
+   "files": [],
+   "drive": null,
+   "phone": "972537666878"
   }
  ]
 }

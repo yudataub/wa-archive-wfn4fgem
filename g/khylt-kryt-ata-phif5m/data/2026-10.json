@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-06T12:56:04.808Z",
+ "updated": "2026-10-06T15:02:24.756Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2073,11 +2073,65 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1JiGwXrOsZDGWBnYz0243Nt6xwXMCjzJ-/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1JiGwXrOsZDGWBnYz0243Nt6xwXMCjzJ-&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1JiGwXrOsZDGWBnYz0243Nt6xwXMCjzJ-&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/AC857E3E2B4FDF11252CCC976C24C0A9_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972538282761"
+  },
+  {
+   "id": "ACCE3EAC3E0C5FC6CC3EFCCFAD8C245C",
+   "sender": "זהבה גוטמן",
+   "text": "אולמי לבן באיזור המפעלים בקרית אתא",
+   "ts": 1791297865000,
+   "date": "2026-10-06",
+   "time": "17:44",
+   "files": [],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "AC97BDD8AD3B5F1460D822C85ED92CB9",
+   "sender": "זהבה גוטמן",
+   "text": "אחלה אוכל וטעים",
+   "ts": 1791297874000,
+   "date": "2026-10-06",
+   "time": "17:44",
+   "files": [],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "AC8816CC5570A994221C2D617E46FEEE",
+   "sender": "Ilana Zinober",
+   "text": "למכירה שידה סינית במצב מעולה עם מגירות  רוחב 78\nעומק 48 גובה 65",
+   "ts": 1791298924000,
+   "date": "2026-10-06",
+   "time": "18:02",
+   "files": [],
+   "drive": null,
+   "phone": "972524290382"
+  },
+  {
+   "id": "ACAB32D69D4CD867F62654C52D21B7AF",
+   "sender": "Ilana Zinober",
+   "text": "",
+   "ts": 1791298935000,
+   "date": "2026-10-06",
+   "time": "18:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VkUTj--RDZ7fkb5FRAEt-WhJN5bw311i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VkUTj--RDZ7fkb5FRAEt-WhJN5bw311i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524290382"
   }
  ]
 }

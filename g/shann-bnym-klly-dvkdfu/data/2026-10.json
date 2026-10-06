@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-10-06T06:26:57.123Z",
+ "updated": "2026-10-06T17:23:13.813Z",
  "messages": [
   {
    "id": "ACAA37DC60E64C63863EDF33581F1386",
@@ -898,6 +898,185 @@
    "files": [],
    "drive": null,
    "phone": "972507668243"
+  },
+  {
+   "id": "AC60D083B6C8840A7E7B7CB7A8AEF1C3",
+   "sender": "יהב רחמים",
+   "text": "היי חברים, מה נשמע?\nאשמח לדעת, בסמסטר קיץ. האם צריך להגיע למכללה? למשל לצורך מבחנים? או שכל העבודות זה מקוון דרך המודל?",
+   "ts": 1791294036000,
+   "date": "2026-10-06",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "3A1134229282EB80B6F6",
+   "sender": "אסף קפלן",
+   "text": "",
+   "ts": 1791294080000,
+   "date": "2026-10-06",
+   "time": "16:41",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1vr6WwpXFIrEr3aOq5CK_hMpanYAuoKbz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543071100"
+  },
+  {
+   "id": "ACAFD149CFA13BC16D6C2061AE4F8F44",
+   "sender": "יהב רחמים",
+   "text": "הלחץ זה לא להגיע למכללה. חחח. זה העניין שאני משלב את זה עם עבודה.",
+   "ts": 1791294145000,
+   "date": "2026-10-06",
+   "time": "16:42",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC337FDE772D0F5FE4DE4E6E6845CCDD",
+   "sender": "נתנאל מזרחי",
+   "text": "אתה מתכוון למרוכזי קיץ או סמסטר ב?\nסמסטר ב זה לפי המערכת ששיבצו לך-אתה יכול לבקש בדכ בשנה א לא להגיע למכללה. \nבמרוכזי קיץ גם שנה א צריכים להגיע לקורסים פרונטליים למכללה לחלק מהימי לימוד",
+   "ts": 1791294307000,
+   "date": "2026-10-06",
+   "time": "16:45",
+   "files": [],
+   "drive": null,
+   "phone": "972586399578"
+  },
+  {
+   "id": "AC31712C73E5149C83B8D31D99F19892",
+   "sender": "יהב רחמים",
+   "text": "לדעתי סמסטר קיץ. כמו אנגלית. ועוד קורסים מקוונים שנשאר",
+   "ts": 1791294424000,
+   "date": "2026-10-06",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "ACCAFCFF18D62C577A016D4607B03CB5",
+   "sender": "יהב רחמים",
+   "text": "זה רשום סמסטר קיץ",
+   "ts": 1791294437000,
+   "date": "2026-10-06",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC7D00BA707F7714C1FC868B39F78DD7",
+   "sender": "יהב רחמים",
+   "text": "סמסטר ק'.",
+   "ts": 1791294464000,
+   "date": "2026-10-06",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC5689C23297DCA00E16A2D330923DCF",
+   "sender": "נתנאל מזרחי",
+   "text": "אז בדכ צריך להגיע פיזית אבל זה רק שבוע-שבועיים",
+   "ts": 1791294539000,
+   "date": "2026-10-06",
+   "time": "16:48",
+   "files": [],
+   "drive": null,
+   "phone": "972586399578"
+  },
+  {
+   "id": "AC7F8FF951F72E39A9ADF1D5ED5962AF",
+   "sender": "יהב רחמים",
+   "text": "אה למשל מה20 ביוני. עד 5.7?",
+   "ts": 1791294571000,
+   "date": "2026-10-06",
+   "time": "16:49",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC72A8F7C6D0CD509AB97F163C301DC6",
+   "sender": "יהב רחמים",
+   "text": "משהו כזה?",
+   "ts": 1791294575000,
+   "date": "2026-10-06",
+   "time": "16:49",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC3285D3E8D8ED33B0885392252B3F3D",
+   "sender": "יהב נהוראי בגים",
+   "text": "",
+   "ts": 1791294608000,
+   "date": "2026-10-06",
+   "time": "16:50",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "14KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1hg6ekJ3kDTgxOmZHCFv7iyak2bd-W48f/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534245858"
+  },
+  {
+   "id": "AC5234B23C473634265086BBD9CDDD4D",
+   "sender": "יהב רחמים",
+   "text": "הבנתי. תודה רבה🙏😇",
+   "ts": 1791294647000,
+   "date": "2026-10-06",
+   "time": "16:50",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC0D8DA23BF8C97912EBD01106FECC2F",
+   "sender": "yuvalvadee",
+   "text": "למי שצריך - קורסי קיץ מרוכזים תשפ\"ז יהיו כמו בתשפ\"ו:\nרביעי א אב במכללה\nחמישי ב אב בזום\nראשון ה אב במכללה\nשני ו אב בזום\nשלישי ז אב במכללה\nראשון יב אב בזום\nבשעות 18:30-09:00",
+   "ts": 1791297317000,
+   "date": "2026-10-06",
+   "time": "17:35",
+   "files": [],
+   "drive": null,
+   "phone": "972546702322"
+  },
+  {
+   "id": "AC086095D75A7B7830011AFCFF833C6C",
+   "sender": "ברכיה",
+   "text": "אשרי העם שאלו בניו!!",
+   "ts": 1791307381000,
+   "date": "2026-10-06",
+   "time": "20:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1O08a8yA1DOdoOH4imqC96ucPDYmLivMO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O08a8yA1DOdoOH4imqC96ucPDYmLivMO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506858622"
   }
  ]
 }

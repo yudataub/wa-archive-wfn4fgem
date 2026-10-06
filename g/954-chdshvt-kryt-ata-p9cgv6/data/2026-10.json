@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "954- חדשות קרית אתא 🔟",
- "updated": "2026-10-04T05:48:13.359Z",
+ "updated": "2026-10-06T15:53:02.351Z",
  "messages": [
   {
    "id": "3EB01768198174B2C1C326",
@@ -32,6 +32,26 @@
    "date": "2026-10-04",
    "time": "08:47",
    "files": [],
+   "drive": null,
+   "phone": "972542240130"
+  },
+  {
+   "id": "3EB0E20A40E74FFAE30C5E",
+   "sender": "לוין",
+   "text": "הזדרזו ולחצו על הלינק לרכישת כרטיס: https://tic.li/yNBpJNy",
+   "ts": 1791301957000,
+   "date": "2026-10-06",
+   "time": "18:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I9hGFF8uQsDRwNWtm6YIauIhc6xwrN0P/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I9hGFF8uQsDRwNWtm6YIauIhc6xwrN0P&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972542240130"
   }

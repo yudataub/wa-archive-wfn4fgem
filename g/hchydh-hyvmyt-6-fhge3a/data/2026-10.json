@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-10-06T11:55:15.633Z",
+ "updated": "2026-10-06T15:55:16.285Z",
  "messages": [
   {
    "id": "3EB0B3E2508A48B76E72A4",
@@ -300,6 +300,26 @@
      "path": "https://drive.google.com/file/d/19UYtPJ4ANgT8ryT1Ba0EQQjedVYXtins/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19UYtPJ4ANgT8ryT1Ba0EQQjedVYXtins&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "AC503833E23EB40A3081886F4FF46724",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "📍צמצמנו את איזור החיפושים...\n*איזה ישוב רמוז בחידה? 🤔*\nלצפייה בחידה ובדיקת התשובה שלכם\nhttps://docs.google.com/forms/d/e/1FAIpQLSdq-NFdmidnNcAWmxuEsnHZx2QWZfPjMk5L71bavJfaXMP26Q/viewform?usp=dialog\n\n 🧲 *ארץ-קיר* - המשחק שממגנט את כל המשפחה למפת המדינה!\nהזמינו עכשיו לפני שכל העותקים נגמרים...\neretz-kir.com  🇮🇱",
+   "ts": 1791302085000,
+   "date": "2026-10-06",
+   "time": "18:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "255KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VT_PLbthNpsliDyX3CUSOMjYgmADzK29/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VT_PLbthNpsliDyX3CUSOMjYgmADzK29&sz=w1200"
     }
    ],
    "drive": null,

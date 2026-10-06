@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-04T05:32:43.102Z",
+ "updated": "2026-10-06T17:21:13.784Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -54,6 +54,26 @@
    "files": [],
    "drive": null,
    "phone": "972542527476"
+  },
+  {
+   "id": "AC6BCD0E43EC0628CD9DB30198F862E5",
+   "sender": "ידידיה ינון רענן",
+   "text": "",
+   "ts": 1791307269000,
+   "date": "2026-10-06",
+   "time": "20:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iR_rjWxjI5UZJ08sMLr_qCXqkq5pLIlQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iR_rjWxjI5UZJ08sMLr_qCXqkq5pLIlQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505704142"
   }
  ]
 }

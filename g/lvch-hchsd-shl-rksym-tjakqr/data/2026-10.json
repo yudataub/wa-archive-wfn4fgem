@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-06T12:07:58.262Z",
+ "updated": "2026-10-06T17:29:13.888Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -2807,6 +2807,187 @@
    "files": [],
    "drive": null,
    "phone": "972534407067"
+  },
+  {
+   "id": "AC4BCE573669F9699FBFCB20F6A4BCFE",
+   "sender": "משה",
+   "text": "מישו מכיר רפד מקצועי לרכב?",
+   "ts": 1791294245000,
+   "date": "2026-10-06",
+   "time": "16:44",
+   "files": [],
+   "drive": null,
+   "phone": "972512994206"
+  },
+  {
+   "id": "3EB0444255F9BC1C114DF1",
+   "sender": "בית ספר ביחד",
+   "text": "מחפשים המלצות על רופאי שיניים (מכבי או פרטי) בקרית אתא/רכסים או נשר \nרק עם המלצות אמיתיות מניסיון.... תודה רבה",
+   "ts": 1791295737000,
+   "date": "2026-10-06",
+   "time": "17:08",
+   "files": [],
+   "drive": null,
+   "phone": "972524441878"
+  },
+  {
+   "id": "AC95AB5CA3FDF0D1970D97C853BDEE5D",
+   "sender": "broyerto",
+   "text": "מספר טלפון של רחלי מילבסקי יש למישהו?",
+   "ts": 1791296859000,
+   "date": "2026-10-06",
+   "time": "17:27",
+   "files": [],
+   "drive": null,
+   "phone": "972525973054"
+  },
+  {
+   "id": "AC65B0100CBC521609341EF0941B5D33",
+   "sender": "יובל",
+   "text": "למסירה מיטת תינוק",
+   "ts": 1791296946000,
+   "date": "2026-10-06",
+   "time": "17:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CFnt8PgoToZrFtlbxSlkoXFduzQ3SArW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CFnt8PgoToZrFtlbxSlkoXFduzQ3SArW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509849678"
+  },
+  {
+   "id": "AC4C1D603CCD77DC80BA77B0C19FCBC6",
+   "sender": "יהודי פשוט",
+   "text": "📇 מילבסקי\n+972 54-842-0730",
+   "ts": 1791297992000,
+   "date": "2026-10-06",
+   "time": "17:46",
+   "files": [],
+   "drive": null,
+   "phone": "972548424993"
+  },
+  {
+   "id": "AC12E6688B13701C5F88BFFA323C20EC",
+   "sender": "יהודי פשוט",
+   "text": "בעלה",
+   "ts": 1791297994000,
+   "date": "2026-10-06",
+   "time": "17:46",
+   "files": [],
+   "drive": null,
+   "phone": "972548424993"
+  },
+  {
+   "id": "A52DBD53A1303393EE388356A448B1A9",
+   "sender": "תמר גנץ",
+   "text": "📇 רחלי מילבסקי\n+972 52-712-7135",
+   "ts": 1791298283000,
+   "date": "2026-10-06",
+   "time": "17:51",
+   "files": [],
+   "drive": null,
+   "phone": "972559334207"
+  },
+  {
+   "id": "AC53D0CAE11F776B9B8F1CA7652FC6F8",
+   "sender": "הדס מוזס",
+   "text": "משהו יודע עד מתי קלוי פתוח היום?",
+   "ts": 1791298788000,
+   "date": "2026-10-06",
+   "time": "17:59",
+   "files": [],
+   "drive": null,
+   "phone": "972548475122"
+  },
+  {
+   "id": "AC9E249D8FE0FB4155C6BA517968CB03",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1791300198000,
+   "date": "2026-10-06",
+   "time": "18:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oYoEtTHGM40O2TcfT4W088w88fPe7lQo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oYoEtTHGM40O2TcfT4W088w88fPe7lQo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC7D6E7B1A606646063891B642C179E1",
+   "sender": "יוסי מוזס",
+   "text": "https://tic.li/gv0KWLO",
+   "ts": 1791300200000,
+   "date": "2026-10-06",
+   "time": "18:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "3EB07A68E34E0D43441A8C",
+   "sender": "Mandel Galit",
+   "text": "מחפשת מסעדות כשרות, שניתן לרכוש אצלן אוכל מוכן לשבת, בהכשר בד\"ץ או לנדאו, בערים עפולה, מודיעין עילית וביתר. אשמח למי שיודע לכוון אותי. תודה !",
+   "ts": 1791300878000,
+   "date": "2026-10-06",
+   "time": "18:34",
+   "files": [],
+   "drive": null,
+   "phone": "972535468970"
+  },
+  {
+   "id": "ACDA7829A45A5B5464907A9DA9771DAD",
+   "sender": "Moshe",
+   "text": "מחפש מישהו שיוצא לקראת ספר בשעה הקרובה ויש לו מקום לבחור אחד\nתודה",
+   "ts": 1791301614000,
+   "date": "2026-10-06",
+   "time": "18:46",
+   "files": [],
+   "drive": null,
+   "phone": "972535869492"
+  },
+  {
+   "id": "ACFA9AFB372EE915B58241133D479630",
+   "sender": "Ne.",
+   "text": "יש בעפולה קייטרינג ביתי מעולה אם רלוונטי",
+   "ts": 1791307599000,
+   "date": "2026-10-06",
+   "time": "20:26",
+   "files": [],
+   "drive": null,
+   "phone": "972552727381"
+  },
+  {
+   "id": "ACAB8552A1CE83CB9DAB88722D46E854",
+   "sender": "Ne.",
+   "text": "",
+   "ts": 1791307732000,
+   "date": "2026-10-06",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "694KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CYhixJWi3tLmaxdSPKMweB6Cg0ewO1Oz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CYhixJWi3tLmaxdSPKMweB6Cg0ewO1Oz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552727381"
   }
  ]
 }

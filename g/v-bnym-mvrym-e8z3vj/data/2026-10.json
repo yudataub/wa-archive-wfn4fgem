@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ו בנים מורים😍",
- "updated": "2026-10-05T17:44:41.092Z",
+ "updated": "2026-10-06T14:34:19.834Z",
  "messages": [
   {
    "id": "AC6D5503A9568FFE88A43C034EDC232F",
@@ -52,6 +52,47 @@
    "date": "2026-10-05",
    "time": "20:44",
    "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC5E52F0AF682C89FE31F2D623597186",
+   "sender": "מלכה טרבלסקי",
+   "text": "מורים יקרים",
+   "ts": 1791297228000,
+   "date": "2026-10-06",
+   "time": "17:33",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACC165DDB66E02AA096DEAF75AC4D99C",
+   "sender": "מלכה טרבלסקי",
+   "text": "נא לכתוב במשוב",
+   "ts": 1791297233000,
+   "date": "2026-10-06",
+   "time": "17:33",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACB7B47818668BC2636426F0464CBABE",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1791297240000,
+   "date": "2026-10-06",
+   "time": "17:34",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "11KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1OTWF9TiuNHgmaE9UTIAdEZ6PjpZQpBM3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972528686062"
   }

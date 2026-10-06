@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-06T13:03:34.908Z",
+ "updated": "2026-10-06T17:00:36.629Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -2649,6 +2649,68 @@
    "files": [],
    "drive": null,
    "phone": "972526307439"
+  },
+  {
+   "id": "AC6B0A5D43295F329480B3F35130EA1E",
+   "sender": "1",
+   "text": "ערב טוב.\nאשריכם הרבנים היקרים שאתם יוזמים מבצעים נאים ומעודדים.\nנתחיל את מבצע נט\"י בחודש חשוון.\nאבל ברשתוכם, פרסום הזוכים בחודש אדר למבצע המתקיים בחודש חשוון???\nמי מהתלמידים ואף מהמורים יזכור על מה מדובר?\nמדוע לא לפרסם את הזוכים מיד בסיום המבצע? \nואח\"כ נעבור למבצע הבא??\nדבר ברור הוא שאם התלמידים לא יקבלו את  \"שכרם\" על המבצע הראשון, לא יתנו אמון גם במבצע \"האחרון\"!!!",
+   "ts": 1791304180000,
+   "date": "2026-10-06",
+   "time": "19:29",
+   "files": [],
+   "drive": null,
+   "phone": "972522213736"
+  },
+  {
+   "id": "AC3E28C70D617D5EE51D8683C6B26A6C",
+   "sender": "נתנאל זכריה",
+   "text": "אני רב בית ספר חינוך מיוחד כוללני.\nמחפש מבצע שנוגע בתפילה, בנאדם לחברו ומאמץ לימודי.\nאשמח לשמוע🙏🙏🙏",
+   "ts": 1791305277000,
+   "date": "2026-10-06",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544536075"
+  },
+  {
+   "id": "AC1ED13DEE46F616990D23D9DCC0352A",
+   "sender": "יעקב ביתן",
+   "text": "",
+   "ts": 1791306007000,
+   "date": "2026-10-06",
+   "time": "20:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17DBWu4_aWnc9LG71fr2_1-vhLrjGvc8-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17DBWu4_aWnc9LG71fr2_1-vhLrjGvc8-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539474314"
+  },
+  {
+   "id": "AC2AD51D938DF84B029720269BE6FDF3",
+   "sender": "יעקב ביתן",
+   "text": "",
+   "ts": 1791306007000,
+   "date": "2026-10-06",
+   "time": "20:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YAPUUjybSe1R8zXuvzuLuo_biRziiTd9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YAPUUjybSe1R8zXuvzuLuo_biRziiTd9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539474314"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-06T12:33:34.438Z",
+ "updated": "2026-10-06T15:53:02.335Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -1352,6 +1352,46 @@
    ],
    "drive": null,
    "phone": "972559579411"
+  },
+  {
+   "id": "ACE99BA05E4C75E8BF117CA247097B5C",
+   "sender": "Sara👑",
+   "text": "קריית אתא\n\n*על כל אחד לבדוק את תוכן הפעילויות, אין מי מהקבוצה אחראי על התוכן והזמנים*\n\nהכניסה בחינם לכל הפעילויות.\n\n*לעוד פעילויות חינם כנסו לקבוצה:*",
+   "ts": 1791294686000,
+   "date": "2026-10-06",
+   "time": "16:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "415KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vzO6xHp2J-YiQ00Mm6WQWGnqaAROWqv2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vzO6xHp2J-YiQ00Mm6WQWGnqaAROWqv2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528026112"
+  },
+  {
+   "id": "3A629BA338DC703B603D",
+   "sender": "ריקי🙈",
+   "text": "🌸 *בשמים לגברים ולנשים עד 180₪ בלבד!*\n\nמגוון ריחות ודגמים, באיכות גבוהה כולל בקבוק ואריזה.\n\n⚠️ *חשוב: הבשמים לא מקוריים, אלא חיקוי באיכות גבוהה.*\n\n💰 המחיר משתנה לפי הדגם\n🔥 כמות מוגבלת כל הקודם זוכה!\n\nלפרטים נוספים לפרטי\n📍אשקלון",
+   "ts": 1791301949000,
+   "date": "2026-10-06",
+   "time": "18:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VErLR-o1yxZLEQHY8HV2LggvHnWszpmC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VErLR-o1yxZLEQHY8HV2LggvHnWszpmC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506059675"
   }
  ]
 }

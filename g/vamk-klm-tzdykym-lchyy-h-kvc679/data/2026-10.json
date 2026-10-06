@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-06T06:24:57.113Z",
+ "updated": "2026-10-06T16:23:36.046Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -203,6 +203,46 @@
    ],
    "drive": null,
    "phone": "972548111153"
+  },
+  {
+   "id": "AC2FA11AAE9C1CE8FE89E8DCEB1ECB58",
+   "sender": "רונית פורר",
+   "text": "תראו מה אומרים על הגיבורים שלנו בעולם! 💙🇮🇱 כבוד! שתפו בקבוצות כדי שנדע שיש במה להתגאות!",
+   "ts": 1791297149000,
+   "date": "2026-10-06",
+   "time": "17:32",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/106p6oSM-eLqQTK0US1ADEhOvB-0zShM4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=106p6oSM-eLqQTK0US1ADEhOvB-0zShM4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522573971"
+  },
+  {
+   "id": "ACFC1B4E031EA03AC8DFB025E0D9822B",
+   "sender": "יפה בוכבזה",
+   "text": "*ישועות: קורת גג אחת לתוכן יהודי יום יומי*\n\nזמני תפילה, מניין קרוב, חזנים, לימוד יומי וניהול לגבאי. בחינם, בעברית ובאנגלית, בלי להוריד מהחנות.\n\nhttps://yeshuot.vercel.app\n\n*מוזמנים להשתמש ולהפיץ לזיכוי הרבים*",
+   "ts": 1791303805000,
+   "date": "2026-10-06",
+   "time": "19:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fnMPFfNS8evg7Uq0wTjNMvRknhH2jCtd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fnMPFfNS8evg7Uq0wTjNMvRknhH2jCtd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556834055"
   }
  ]
 }

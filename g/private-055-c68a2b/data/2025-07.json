@@ -1786,43 +1786,43 @@
    "time": "08:35",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3F4725BC4A3206D0F3B4",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "<!DOCTYPE html>\n<html lang=\"he\" dir=\"rtl\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>מחולל שיעורי כישורי חיים</title>\n    <script src=\"https://cdn.tailwindcss.com\"></script>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700&display=swap\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css\">\n    <style>\n        body {\n            font-family: 'Assistant', sans-serif;\n        }\n        .form-label { @apply block text-lg font-semibold text-gray-700 mb-2; }\n        .form-input { @apply block w-full p-3 bg-gray-50 border border-gray-300 rounded-lg text-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition; }\n        .btn { @apply py-2 px-4 text-lg font-bold rounded-lg shadow-md transform hover:scale-105 transition-transform flex items-center justify-center disabled:opacity-50 disabled:cursor-not-allowed; }\n        .btn-primary { @apply w-full py-4 text-xl bg-blue-600 hover:bg-blue-700 text-white; }\n        .btn-secondary { @apply bg-purple-500 hover:bg-purple-600 text-white; }\n        .btn-tertiary { @apply w-full py-3 text-lg bg-green-600 hover:bg-green-700 text-white; }\n        .loader {\n            border: 5px solid #f3f3f3;\n            border-top: 5px solid #3498db;\n            border-radius: 50%;\n            width: 50px;\n            height: 50px;\n            animation: spin 1s linear infinite;\n        }\n        @keyframes spin {\n            0% { transform: rotate(0deg); }\n            100% { transform: rotate(360deg); }\n        }\n        .output-container { @apply prose prose-lg max-w-none p-4 mt-8 bg-blue-50/30 rounded-lg; }\n        .output-container h2 { @apply text-3xl font-bold text-gray-800 border-b-2 border-gray-200 pb-2 mb-4; }\n        .output-container h3 { @apply text-2xl font-bold text-blue-800 mt-6 mb-3 border-b-2 border-blue-200 pb-2; }\n        .output-container ul { @apply list-disc list-inside space-y-2; }\n        .modal-backdrop { @apply fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50; }\n        .modal-content { @apply bg-white rounded-lg shadow-xl p-6 w-11/12 max-w-2xl; }\n        .modal-body { @apply my-4 text-lg; }\n    </style>\n</head>\n<body class=\"bg-gray-100 flex items-center justify-center min-h-screen p-4\">\n\n    <div class=\"w-full max-w-4xl bg-white rounded-2xl shadow-2xl overflow-hidden\">\n        <header class=\"p-6 bg-gray-800 text-white text-center\">\n            <h1 class=\"text-3xl font-bold\">מחולל שיעורי כישורי חיים</h1>\n            <p class=\"text-lg mt-1\">יצירת מערכי שיעור למתבגרים על הרצף, עם כוחות על של AI</p>\n        </header>\n\n        <main class=\"p-6 md:p-8\">\n            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6 mb-8\">\n                <div>\n                    <label for=\"life-skill-domain\" class=\"form-label\">1. בחרו תחום כישורי חיים:</label>\n                    <select id=\"life-skill-domain\" class=\"form-input\" required>\n                        <option value=\"ייצוג עצמי ומימוש זכויות\">8. ייצוג עצמי ומימוש זכויות</option>\n                        <option value=\"טיפול עצמי, עצמאות ואוטונומיה\">1. טיפול עצמי, עצמאות ואוטונומיה</option>\n                        <option value=\"בית ומשפחה\">2. בית ומשפחה</option>\n                        <option value=\"חברה וקהילה\">3. חברה וקהילה</option>\n                        <option value=\"התמודדות במצבי לחץ ומשבר\">4. התמודדות במצבי לחץ ומשבר</option>\n                        <option value=\"פנאי, תרבות ורוח\">5. פנאי, תרבות ורוח</option>\n                        <option value=\"ידע והשכלה\">6. ידע והשכלה</option>\n                        <option value=\"תעסוקה\">7. תעסוקה</option>\n                        <option value=\"בריאות ובטיחות\">9. בריאות ובטיחות</option>\n                        <option value=\"מיניות ויחסים בין-אישיים\">10. מיניות ויחסים בין-אישיים</option>\n                    </select>\n                </div>\n                <div>\n                    <label for=\"lesson-subtopic\" class=\"form-label\">2. ציינו תת-נושא (אופציונלי):</label>\n                    <div class=\"flex gap-2\">\n                        <input type=\"text\" id=\"lesson-subtopic\" class=\"form-input\" placeholder=\"לדוגמה: איתור חוזקות ואתגרים\">\n                        <button id=\"suggest-ideas-btn\" class=\"btn btn-secondary\" title=\"הצע לי רעיונות לתת-נושא\">\n                            <i class=\"fas fa-lightbulb mr-2\"></i> ✨\n                        </button>\n                    </div>\n                </div>\n            </div>\n             <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6 mb-8\">\n                <div>\n                    <label for=\"student-age\" class=\"form-label\">3. גיל התלמיד:</label>\n                    <input type=\"number\" id=\"student-age\" class=\"form-input\" placeholder=\"13-18\" min=\"13\" max=\"18\" required>\n                </div>\n                <div>\n                    <label for=\"functional-level\" class=\"form-label\">4. רמת תפקוד:</label>\n                    <select id=\"functional-level\" class=\"form-input\" required>\n                        <option value=\"גבוהה\" selected>גבוהה (משולב/כיתת תקשורת)</option>\n                        <option value=\"בינונית\">בינונית</option>\n                    </select>\n                </div>\n            </div>\n            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-4\">\n                <button id=\"generate-btn\" class=\"btn btn-primary\">\n                    <i class=\"fas fa-magic-wand-sparkles mr-3\"></i>\n                    ייצור מערך שיעור\n                </button>\n                <button id=\"generate-story-btn\" class=\"btn btn-tertiary\">\n                    <i class=\"fas fa-book-reader mr-3\"></i>\n                    ✨ צור סיפור חברתי\n                </button>\n            </div>\n\n            <div id=\"loading-indicator\" class=\"hidden flex-col items-center justify-center mt-8\">\n                <div class=\"loader\"></div>\n                <p class=\"mt-4 text-lg text-gray-600\">יוצר... זה עשוי לקחת מספר רגעים.</p>\n            </div>\n\n            <div id=\"error-message\" class=\"hidden text-center p-4 mt-8 bg-red-100 text-red-700 rounded-lg\"></div>\n\n            <div id=\"lesson-plan-output\" class=\"output-container\"></div>\n            <div id=\"parent-summary-section\" class=\"hidden mt-6\">\n                 <button id=\"generate-summary-btn\" class=\"btn btn-secondary w-full\">\n                    <i class=\"fas fa-users mr-3\"></i>\n                    ✨ כתוב סיכום להורים\n                </button>\n                <div id=\"parent-summary-output\" class=\"output-container\"></div>\n            </div>\n        </main>\n    </div>\n\n    <!-- Modal for AI features -->\n    <div id=\"ai-modal\" class=\"modal-backdrop hidden\">\n        <div class=\"modal-content\">\n            <h3 id=\"modal-title\" class=\"text-2xl font-bold text-gray-800\"></h3>\n            <div id=\"modal-body\" class=\"modal-body\"></div>\n            <div class=\"text-left\">\n                <button id=\"modal-close-btn\" class=\"btn bg-gray-300 hover:bg-gray-400\">סגור</button>\n            </div>\n        </div>\n    </div>\n\n    <script>\n    document.addEventListener('DOMContentLoaded', () => {\n        const generateBtn = document.getElementById('generate-btn');\n        const generateStoryBtn = document.getElementById('generate-story-btn');\n        const suggestIdeasBtn = document.getElementById('suggest-ideas-btn');\n        const generateSummaryBtn = document.getElementById('generate-summary-btn');\n\n        const loadingIndicator = document.getElementById('loading-indicator');\n        const outputContainer = document.getElementById('lesson-plan-output');\n        const errorMessage = document.getElementById('error-message');\n        const parentSummarySection = document.getElementById('parent-summary-section');\n        const parentSummaryOutput = document.getElementById('parent-summary-output');\n        \n        const aiModal = document.getElementById('ai-modal');\n        const modalTitle = document.getElementById('modal-title');\n        const modalBody = document.getElementById('modal-body');\n        const modalCloseBtn = document.getElementById('modal-close-btn');\n        \n        let currentLessonPlan = '';\n\n        async function callGemini(prompt) {\n            loadingIndicator.classList.remove('hidden');\n            errorMessage.classList.add('hidden');\n            let resultText = '';\n            try {\n                let chatHistory = [{ role: \"user\", parts: [{ text: prompt }] }];\n                const payload = { contents: chatHistory };\n                const apiKey = \"\"; // Provided by environment\n                const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;\n                \n                const response = await fetch(apiUrl, {\n                    method: 'POST',\n                    headers: { 'Content-Type': 'application/json' },\n                    body: JSON.stringify(payload)\n                });\n\n                if (!response.ok) {\n                    throw new Error(`API call failed with status: ${response.status}`);\n                }\n\n                const result = await response.json();\n                \n                if (result.candidates?.[0]?.content?.parts?.[0]?.text) {\n                    resultText = result.candidates[0].content.parts[0].text;\n                } else {\n                    throw new Error('Invalid response structure from API.');\n                }\n            } catch (error) {\n                errorMessage.textContent = `אירעה שגיאה: ${error.message}`;\n                errorMessage.classList.remove('hidden');\n            } finally {\n                loadingIndicator.classList.add('hidden');\n                return resultText;\n            }\n        }\n        \n        function getInputs() {\n            return {\n                domain: document.getElementById('life-skill-domain').value,\n                subtopic: document.getElementById('lesson-subtopic').value,\n                age: document.getElementById('student-age').value,\n                level: document.getElementById('functional-level').value,\n            };\n        }\n\n        function validateInputs(inputs) {\n            if (!inputs.domain || !inputs.age || !inputs.level) {\n                errorMessage.textContent = 'יש למלא את כל שדות החובה (תחום, גיל, רמת תפקוד).';\n                errorMessage.classList.remove('hidden');\n                return false;\n            }\n            return true;\n        }\n\n        generateBtn.addEventListener('click', async () => {\n            const inputs = getInputs();\n            if (!validateInputs(inputs)) return;\n\n            generateBtn.disabled = true;\n            generateStoryBtn.disabled = true;\n            outputContainer.innerHTML = '';\n            parentSummarySection.classList.add('hidden');\n            parentSummaryOutput.innerHTML = '';\n\n            const prompt = `\n                Act as an expert in special education, creating a lesson plan for an autistic teenager.\n                Your response MUST be based on pedagogical principles for explicit instruction.\n                Generate a detailed, structured, and practical lesson plan in HEBREW.\n                **Lesson & Student Details:**\n                - Life Skill Domain: ${inputs.domain}\n                - Specific Sub-topic: ${inputs.subtopic || 'כללי'}\n                - Student's Age: ${inputs.age}\n                - Functional Level: ${inputs.level}\n                **Mandatory Lesson Plan Structure (in Hebrew):**\n                Your output must be a single block of HTML code.\n                For any activity that involves practice or role-playing, add the following button:\n                <button class='btn btn-secondary gemini-feature-btn' data-gemini-action='generate-script' data-activity-description='...The description of the activity...'>✨ צור תסריט לסימולציה</button>\n                1.  <h2>מערך שיעור בכישורי חיים: ${inputs.domain}</h2>\n                2.  <h3><i class=\"fas fa-bullseye mr-2\"></i>מטרות השיעור</h3>\n                3.  <h3><i class=\"fas fa-cogs mr-2\"></i>מהלך השיעור (מבוסס הוראה מפורשת)</h3>\n                4.  <h3><i class=\"fas fa-user-friends mr-2\"></i>התאמות ודגשים לרמת התפקוד (${inputs.level})</h3>\n            `;\n            \n            const generatedHtml = await callGemini(prompt);\n            if(generatedHtml) {\n                currentLessonPlan = generatedHtml;\n                outputContainer.innerHTML = generatedHtml;\n                parentSummarySection.classList.remove('hidden');\n            }\n            generateBtn.disabled = false;\n            generateStoryBtn.disabled = false;\n        });\n\n        generateStoryBtn.addEventListener('click', async () => {\n             const inputs = getInputs();\n            if (!validateInputs(inputs)) return;\n\n            generateBtn.disabled = true;\n            generateStoryBtn.disabled = true;\n            outputContainer.innerHTML = '';\n            parentSummarySection.classList.add('hidden');\n            parentSummaryOutput.innerHTML = '';\n\n            const prompt = `Act as a special education professional. Write a short, simple social story in Hebrew for an autistic teenager (age ${inputs.age}) about the topic of '${inputs.subtopic || inputs.domain}'. The story should be written from a first-person perspective ('אני...'). Use simple language, short sentences, and a positive, reassuring tone. Break the social situation down into clear steps or rules. The story should explain what to expect, what to do, and why it's helpful. Format it as simple HTML with a <h2> title and <p> tags.`;\n\n            const generatedHtml = await callGemini(prompt);\n            if(generatedHtml) {\n                outputContainer.innerHTML = generatedHtml;\n            }\n            generateBtn.disabled = false;\n            generateStoryBtn.disabled = false;\n        });\n\n        generateSummaryBtn.addEventListener('click', async () => {\n            if (!currentLessonPlan) return;\n            \n            generateSummaryBtn.disabled = true;\n            parentSummaryOutput.innerHTML = '';\n\n            const prompt = `Based on the following Hebrew lesson plan, write a short, friendly summary for parents in Hebrew. The summary should be encouraging and easy to understand. Structure it with three parts: 1. **מה למדנו היום?** (briefly describe the main skill). 2. **למה זה חשוב?** (explain the skill's importance in simple terms). 3. **איך מתרגלים בבית?** (suggest one simple, practical activity to reinforce the skill at home). Here is the lesson plan: ${currentLessonPlan}`;\n            \n            const generatedHtml = await callGemini(prompt);\n            if(generatedHtml) {\n                parentSummaryOutput.innerHTML = generatedHtml;\n            }\n            generateSummaryBtn.disabled = false;\n        });\n        \n        suggestIdeasBtn.addEventListener('click', async () => {\n            const inputs = getInputs();\n            if(!inputs.domain || !inputs.age) {\n                errorMessage.textContent = 'יש לבחור תחום וגיל כדי לקבל הצעות.';\n                errorMessage.classList.remove('hidden');\n                return;\n            }\n\n            modalTitle.textContent = '✨ רעיונות לתתי-נושאים';\n            modalBody.innerHTML = '<div class=\"loader mx-auto\"></div>';\n            aiModal.classList.remove('hidden');\n\n            const prompt = `For the life skill domain \"${inputs.domain}\", suggest 5 practical and specific lesson sub-topics for a ${inputs.age}-year-old autistic teenager. The topics should be concrete and actionable. For example, if the domain is 'ייצוג עצמי ומימוש זכויות', good suggestions would be 'איתור החוזקות והאתגרים שלי', 'כיצד להשתתף בכתיבת התל\"א שלי', or 'הצבת מטרה אישית ומעקב אחריה'. Return the list in Hebrew, with each item on a new line.`;\n\n            const ideasText = await callGemini(prompt);\n            if(ideasText) {\n                const ideasHtml = ideasText.split('\\n').map(idea => {\n                    if (idea.trim() === '') return '';\n                    const cleanIdea = idea.replace(/^\\d+\\.\\s*/, '').trim();\n                    return `<div class=\"p-2 mb-2 bg-purple-100 rounded-md cursor-pointer hover:bg-purple-200\" data-idea=\"${cleanIdea}\">${cleanIdea}</div>`;\n                }).join('');\n                modalBody.innerHTML = '<div>בחר/י רעיון כדי להוסיף אותו לשדה:</div>' + ideasHtml;\n            }\n        });\n\n        outputContainer.addEventListener('click', async (e) => {\n            const target = e.target.closest('.gemini-feature-btn');\n            if (target && target.dataset.geminiAction === 'generate-script') {\n                const activityDescription = target.dataset.activityDescription;\n                \n                modalTitle.textContent = '✨ תסריט לסימולציה';\n                modalBody.innerHTML = '<div class=\"loader mx-auto\"></div>';\n                aiModal.classList.remove('hidden');\n\n                const prompt = `Based on this activity for an autistic teenager: \"${activityDescription}\", write a simple, short role-playing script in Hebrew for a teacher and a student. Format it clearly with \"מורה:\" and \"תלמיד:\" labels.`;\n\n                const scriptText = await callGemini(prompt);\n                if(scriptText) {\n                    modalBody.innerHTML = `<div class=\"whitespace-pre-wrap p-4 bg-gray-100 rounded-lg\">${scriptText}</div>`;\n                }\n            }\n        });\n        \n        modalCloseBtn.addEventListener('click', () => aiModal.classList.add('hidden'));\n        aiModal.addEventListener('click', (e) => {\n            if (e.target === aiModal) aiModal.classList.add('hidden');\n        });\n        modalBody.addEventListener('click', (e) => {\n            if (e.target.dataset.idea) {\n                document.getElementById('lesson-subtopic').value = e.target.dataset.idea;\n                aiModal.classList.add('hidden');\n            }\n        });\n    });\n    </script>\n</body>\n</html>",
    "ts": 1753594827000,
    "date": "2025-07-27",
    "time": "08:40",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3FC3F5BE1A8E2C378807",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "כשאני לוחץ לשתף ואז העתק-זה מה שזה נותן",
    "ts": 1753594847000,
    "date": "2025-07-27",
    "time": "08:40",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "F46ABBD2EB021221154DB7EE782E98D8",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "לוחצת",
    "ts": 1753594871000,
    "date": "2025-07-27",
    "time": "08:41",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1834,19 +1834,19 @@
    "time": "08:43",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3F40DD78CBBE890CB2F0",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "מחשב",
    "ts": 1753595002000,
    "date": "2025-07-27",
    "time": "08:43",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1858,12 +1858,12 @@
    "time": "08:43",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3FA8D3F148A8D7D0E022",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "",
    "ts": 1753595063000,
    "date": "2025-07-27",
@@ -1879,7 +1879,7 @@
     }
    ],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1891,7 +1891,7 @@
    "time": "08:45",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1903,19 +1903,19 @@
    "time": "08:46",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3F7A3259D5B608B9CF5B",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "אז גם פה בקישור ששלחת זה לא פותח אפליקציה אלא תאור בקשה",
    "ts": 1753595245000,
    "date": "2025-07-27",
    "time": "08:47",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1927,7 +1927,7 @@
    "time": "08:48",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1939,19 +1939,19 @@
    "time": "08:50",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3FFF39A44D0450877C11",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "כן, זה אותו דבר, כבר ניסתי את זה קודם",
    "ts": 1753595455000,
    "date": "2025-07-27",
    "time": "08:50",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1963,7 +1963,7 @@
    "time": "08:51",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1975,7 +1975,7 @@
    "time": "08:52",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1987,7 +1987,7 @@
    "time": "09:00",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -1999,19 +1999,19 @@
    "time": "09:04",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "3FF31BC0F1E8C6B0B165",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "כתוב לי שלא ניתן לטעון את השיחה.. היא לא קיימת או שנמחקה",
    "ts": 1753626263000,
    "date": "2025-07-27",
    "time": "17:24",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -2031,19 +2031,19 @@
     }
    ],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
    "id": "8550DA3F0AA1F2F7FA3D450D51C3D64A",
-   "sender": "0545343431",
+   "sender": "אסתר קוניה",
    "text": "מה הגרסה בה אתה משתמש?",
    "ts": 1753629312000,
    "date": "2025-07-27",
    "time": "18:15",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {
@@ -2055,7 +2055,7 @@
    "time": "18:15",
    "files": [],
    "drive": null,
-   "thread": "0545343431",
+   "thread": "אסתר קוניה",
    "phone": "972545343431"
   },
   {

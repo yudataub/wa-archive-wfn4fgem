@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-06T12:37:04.481Z",
+ "updated": "2026-10-06T14:16:49.538Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -421,6 +421,67 @@
    "files": [],
    "drive": null,
    "phone": "972548025517"
+  },
+  {
+   "id": "3A165177E0F2BFC9BBF4",
+   "sender": "חנה",
+   "text": "שלום,  יש חוברת על פרקי אבות לכיתה א?",
+   "ts": 1791295794000,
+   "date": "2026-10-06",
+   "time": "17:09",
+   "files": [],
+   "drive": null,
+   "phone": "972524295159"
+  },
+  {
+   "id": "ACFFDC541157E5727919151122F5A48F",
+   "sender": "לימור אליאס",
+   "text": "אפשר לשלוח שןב זה לא נפתח לי",
+   "ts": 1791295967000,
+   "date": "2026-10-06",
+   "time": "17:12",
+   "files": [],
+   "drive": null,
+   "phone": "972524348057"
+  },
+  {
+   "id": "AC9D088F7EB325A18B9D2C40F40112D0",
+   "sender": "איתי",
+   "text": "",
+   "ts": 1791296032000,
+   "date": "2026-10-06",
+   "time": "17:13",
+   "files": [
+    {
+     "name": "מצגת מבוא לתושב'ע.pdf",
+     "size": "24.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/168Kl06mdQXviike9MoynSGLJ6p2xyK4g/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972558861017"
+  },
+  {
+   "id": "ACA2EB9669FEFF554D90CA8A3EE4B881",
+   "sender": "לימור אליאס",
+   "text": "",
+   "ts": 1791296192000,
+   "date": "2026-10-06",
+   "time": "17:16",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "33KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/10I-fUqxqNX9a68p_iTQcJC1gIw-_Y8YD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10I-fUqxqNX9a68p_iTQcJC1gIw-_Y8YD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524348057"
   }
  ]
 }
