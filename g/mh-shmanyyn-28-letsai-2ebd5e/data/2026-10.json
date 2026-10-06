@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-10-05T08:53:47.758Z",
+ "updated": "2026-10-06T12:19:15.988Z",
  "messages": [
   {
    "id": "AC3857EC3276D53072B06D9F3FC6FDB0",
@@ -44,6 +44,26 @@
    ],
    "drive": null,
    "phone": "972586408042"
+  },
+  {
+   "id": "AC057654805644D33F853B80B60C3C4F",
+   "sender": "Lets Ai",
+   "text": "*מבצע מיוחד על קורס אוטומציות וסוכנים - תקף להיום עד חצות בלבד*\nמחיר מוזל: 2,390 ₪ במקום 2,990 ₪. \n\nלמימוש לחצו על הלינק 👇\nhttps://letsai.co.il/f3v9h",
+   "ts": 1791289128000,
+   "date": "2026-10-06",
+   "time": "15:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S-YKuYdpAw9rx_2ecbIWFnUxFz8onECy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S-YKuYdpAw9rx_2ecbIWFnUxFz8onECy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533057615"
   }
  ]
 }

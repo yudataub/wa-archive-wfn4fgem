@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-06T08:38:58.896Z",
+ "updated": "2026-10-06T13:07:34.979Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -488,6 +488,134 @@
    "files": [],
    "drive": null,
    "phone": "972526071523"
+  },
+  {
+   "id": "ACD2977814B96436D45176219012DCAA",
+   "sender": "אפרת חתוכה",
+   "text": "מחפשת דף פעילות לז' מרחשון לכיתות א ב. תודה💕",
+   "ts": 1791290527000,
+   "date": "2026-10-06",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "phone": "972526761130"
+  },
+  {
+   "id": "ACFD147E6638533806958D0D562ABA35",
+   "sender": "דבורה מנוח",
+   "text": "אשמח ממש",
+   "ts": 1791291662000,
+   "date": "2026-10-06",
+   "time": "16:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526071523"
+  },
+  {
+   "id": "AC253884458A43AD0ECFDE2FEAF4EF6D",
+   "sender": "נעה",
+   "text": "https://drive.google.com/drive/folders/1QZ7KGBFgVME0E67qPkJdu3qFHweQcZll",
+   "ts": 1791291962000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "ACEEE6A3621F10C1CC685E8B256881B7",
+   "sender": "נעה",
+   "text": "https://drive.google.com/drive/folders/1maDmLXzWM6RwgpT8fcp-OMJ7A-1nWTO5",
+   "ts": 1791291963000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC1DE0D09A3A8364BB9885A8A758AF2D",
+   "sender": "נעה",
+   "text": "נושא שבת , כיבוד הורים",
+   "ts": 1791291964000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "ACCE99E2768A55FEE7152520AA78D171",
+   "sender": "נעה",
+   "text": "השבת אבידה",
+   "ts": 1791291979000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC989EEF91A476217FDDD0B584AA96A8",
+   "sender": "נעה",
+   "text": "",
+   "ts": 1791292007000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WjBU5aP8toUBTTG4y6p3dKOAsB_8QlDm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WjBU5aP8toUBTTG4y6p3dKOAsB_8QlDm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC5C5A9DBCF673485013054A91AC371F",
+   "sender": "נעה",
+   "text": "",
+   "ts": 1791292008000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1afncNsipzgqrVdd7138hk9thOsM1r2uC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1afncNsipzgqrVdd7138hk9thOsM1r2uC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC55452ADA0DD4A24CFBA1DD1BA25B12",
+   "sender": "נעה",
+   "text": "הצ'ט הכין לי",
+   "ts": 1791292017000,
+   "date": "2026-10-06",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "AC38E02355EECE9D067D6B08B02AAED8",
+   "sender": "נעה",
+   "text": "יש מלא סיפורים בנושאים הנל",
+   "ts": 1791292036000,
+   "date": "2026-10-06",
+   "time": "16:07",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
   }
  ]
 }

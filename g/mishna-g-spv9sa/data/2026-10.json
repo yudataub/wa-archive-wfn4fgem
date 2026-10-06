@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-03T21:02:01.077Z",
+ "updated": "2026-10-06T13:20:12.030Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -53,6 +53,78 @@
    "files": [],
    "drive": null,
    "phone": "972527128105"
+  },
+  {
+   "id": "ACE9AF873D86C25DA64E2529EFC77919",
+   "sender": "רעות",
+   "text": "למישהו יש לשלוח לי בבקשה כריכה למחברת הלכה?",
+   "ts": 1791288581000,
+   "date": "2026-10-06",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "phone": "972585858540"
+  },
+  {
+   "id": "AC34D5BA8D3ADF0C835BA1A699CA0CE9",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1791288784000,
+   "date": "2026-10-06",
+   "time": "15:13",
+   "files": [
+    {
+     "name": "הוסף כותרת משנה (1).pdf",
+     "size": "329KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RFq_GMR8AzQvIp3ZFBW7ylWPzLclrHPt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC0FCE2687B178503271EC0550FA8294",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1791288785000,
+   "date": "2026-10-06",
+   "time": "15:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14IA2CoQ9tPsVX9oaIAYyId0-FZD0Jlui/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14IA2CoQ9tPsVX9oaIAYyId0-FZD0Jlui&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "3A10AB96DC8572896F52",
+   "sender": "🩵🤍",
+   "text": "היי\nיש תוכנית לכיתה ג ? מצגות ?",
+   "ts": 1791289619000,
+   "date": "2026-10-06",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "phone": "972534850907"
+  },
+  {
+   "id": "ACE82F8CCD66E301467AC5BA782F1705",
+   "sender": "לירון",
+   "text": "אשמח לסרטונים ללימוד משנה כיתה ג",
+   "ts": 1791292806000,
+   "date": "2026-10-06",
+   "time": "16:20",
+   "files": [],
+   "drive": null,
+   "phone": "972526005158"
   }
  ]
 }

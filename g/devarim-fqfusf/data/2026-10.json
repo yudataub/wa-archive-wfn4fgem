@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-06T09:12:36.636Z",
+ "updated": "2026-10-06T10:53:30.823Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -850,6 +850,66 @@
    "files": [],
    "drive": null,
    "phone": "972545928644"
+  },
+  {
+   "id": "AC0C078877C89457DE88481E611B86E0",
+   "sender": "noamvetzler1",
+   "text": "תודה רבה",
+   "ts": 1791282386000,
+   "date": "2026-10-06",
+   "time": "13:26",
+   "files": [],
+   "drive": null,
+   "phone": "972509043093"
+  },
+  {
+   "id": "AC03AA46DF7B7BE7A3659D9EDBC8893F",
+   "sender": "noamvetzler1",
+   "text": "אפשר לשלוח שוב? לא מצליח להיכנס",
+   "ts": 1791282419000,
+   "date": "2026-10-06",
+   "time": "13:26",
+   "files": [],
+   "drive": null,
+   "phone": "972509043093"
+  },
+  {
+   "id": "ACAA009205DFEF64A03B4D20313E7A0E",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1791283987000,
+   "date": "2026-10-06",
+   "time": "13:53",
+   "files": [
+    {
+     "name": "שמואל ב פרק ב.pptx",
+     "size": "4.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1dDOKNhTyYmk7kvjtb1kACWd-dlDZ2aNG/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "ACE20B3D2B3D19417264C9D1BD564C2C",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1791283991000,
+   "date": "2026-10-06",
+   "time": "13:53",
+   "files": [
+    {
+     "name": "שמואל ב פרק ג.pptx",
+     "size": "3.5MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1xRF3PEnvJVohhouaJTGn-yMIFDnQskt8/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-06T08:08:28.454Z",
+ "updated": "2026-10-06T10:29:13.778Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -188,6 +188,37 @@
    "files": [],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "3A1139BD23CACE8782BF",
+   "sender": "עותניאל מנצור",
+   "text": "*חורף טוב ומאיר לרבני החמ\"ד🔥*\n\nב\"ה אנו זוכים לפתוח בימים אלו מחזורים חדשים של בית המדרש לרבני החמ\"ד!\n\nאמנם בית המדרש מוכר לגמול השתלמות, אבל זה הדבר הכי שולי פה...\n\n*מדובר בבית מדרש חי ותוסס שיונק מגדולי הדור📖*\n\nכחלק מהתכנית תתקיים שבת מיוחדת עם הרב בן ציון אלגאזי לרבנים ונשותיהם!🍷\n\n*הירשמו עכשיו📝👇>>>*\nhttps://www.yedidhemed.co.il/beit_midrash/",
+   "ts": 1791281590000,
+   "date": "2026-10-06",
+   "time": "13:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "204KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nE_5RYFyhTcPXsXQA_dzUGZrLOxonTKt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nE_5RYFyhTcPXsXQA_dzUGZrLOxonTKt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "ACE4855BBCFCDFE668BF9CA708963D4D",
+   "sender": ",",
+   "text": "ואוו מרשים",
+   "ts": 1791282548000,
+   "date": "2026-10-06",
+   "time": "13:29",
+   "files": [],
+   "drive": null,
+   "phone": "972509018403"
   }
  ]
 }

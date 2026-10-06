@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-06T09:30:05.606Z",
+ "updated": "2026-10-06T11:59:58.117Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -1579,6 +1579,357 @@
    "files": [],
    "drive": null,
    "phone": "972507272122"
+  },
+  {
+   "id": "ACA712FE12C6C097DA5452B5F4333682",
+   "sender": "עמירם אלבה",
+   "text": "לא אמרתי לא ללמד אלא המלצתי לא להמחיש בדף צביעה דברים שהם מאוד רוחניים כמו פיתוי הנחש ולהט החרב המתהפכת",
+   "ts": 1791280579000,
+   "date": "2026-10-06",
+   "time": "12:56",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "AC87CA8B266CFC88536B34491528A9CD",
+   "sender": "אחינעם",
+   "text": "אה אוקי רק מבחינת דפי הצביעה, חשבתי גם מבחינת ההסברים",
+   "ts": 1791280662000,
+   "date": "2026-10-06",
+   "time": "12:57",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC6E4D56DAA6295A507B3C7EF48BBA43",
+   "sender": "שלומית",
+   "text": "📇 הרב נדב חוברות תורה\n+972527204809",
+   "ts": 1791280671000,
+   "date": "2026-10-06",
+   "time": "12:57",
+   "files": [],
+   "drive": null,
+   "phone": "972549288921"
+  },
+  {
+   "id": "ACF1142659889D6DA62DDC1F26D7E7C9",
+   "sender": "הדס מרחום",
+   "text": "על אלו חוברות מדובר?\nמה השם שלהן",
+   "ts": 1791281690000,
+   "date": "2026-10-06",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972525054090"
+  },
+  {
+   "id": "AC1711B7AD93685DD5DE0365F02962ED",
+   "sender": "עליזה אילוז",
+   "text": "הי יש אפשרות לשלוח דפי עבודה/צביעה בנושא דור המבול,פרשת נח?\nתודה",
+   "ts": 1791281738000,
+   "date": "2026-10-06",
+   "time": "13:15",
+   "files": [],
+   "drive": null,
+   "phone": "972545725132"
+  },
+  {
+   "id": "A5325845A7B9A66457641C09DC953A13",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791287300000,
+   "date": "2026-10-06",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "פרשת נח מגדל בבל יצירה.pdf",
+     "size": "166KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1dpGfOaJnrpR0vgBsjSBdYQgFeQ6-L_Do/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5594124FE2053E2230CBC72D7E9DE3E",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791287301000,
+   "date": "2026-10-06",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "פרשת נח (1) יצירה.pdf",
+     "size": "281KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1iFbGM6LaGZJw-SFjWPSO8pN1bJXVNajS/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5A19B2B3275059195BE5CD24177D290",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791287302000,
+   "date": "2026-10-06",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "עבודה הדבקה תיבת נח.pdf",
+     "size": "299KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13offFWF04F0VE6maJds-6qDxXPqXgMyK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5BA18BE176DBB2B7352EDA4C3938198",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791287303000,
+   "date": "2026-10-06",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "תיבת נח.pdf",
+     "size": "509KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1LFiiT3RghfUIpXvr46F3nkenNc_JgR6D/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5CBC4A764CC40E771DD8ACE52A8E624",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791287303000,
+   "date": "2026-10-06",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "פרשת נח דפי עבודה מיכל ביטון 2023.pdf",
+     "size": "2.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Sd3DrL7s0VuCM5qEfPp7wvGMmqTzTPyX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "AC7F3CE87ED929BDDFDDE8F8B94B714A",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287746000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".נח בונה תבה .pdf",
+     "size": "519KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bwmJZf-dg2XEuHq96PgO3dPEpJGqxntB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC9AE9FB1F182A07980B316A8B78B63E",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287749000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".היונה שבה עם עלה זית.pdf",
+     "size": "534KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ShHxz1W7tlH-zx2zwH5MBNfdP0-oSMq4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC9033C727CD7989A45D6D090B6BCA94",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287750000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".נח בונה תבה 2.pdf",
+     "size": "900KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1uGsMxXHwwa9msU4AfD2jHkVd6W5rKApK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC089F5EF4B6C08C9534EF8F07F8F94B",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287751000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".בעלי החיים עלים לתיבה מעצמם.pdf",
+     "size": "8.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16MkYLmULalNG7jVeB0E7xkkexKKZmroH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACE472BF97AB9D6B58613FB95EE35B76",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287751000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".ברכת הקשת 2.pdf",
+     "size": "1.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1qbj6Cbp2NuG-jKGj8qiLxMnT_l43pPfB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC97D58F9148EFC121C9AE1FF44C162C",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287752000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".התבה שטה במי המבול.pdf",
+     "size": "5.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KskC_N2SMrarAL6eHuKuYGVpMIuurACE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACB133F49B1047E0F8114805B06A0040",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287758000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".זוכר הברית.pdf",
+     "size": "6.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14xrIdTTuZful_dyKTm5qh3LyfxCdXeKn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC010EB2DFE681AF21587EA54FF613C4",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287759000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [
+    {
+     "name": ".מגדל בבל.pdf",
+     "size": "6.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10vkYFF7oKa515rz-PxeDWsEadbsf-KIV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC7F6C0C9B6C4F1745503BA7607EF749",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287760000,
+   "date": "2026-10-06",
+   "time": "14:56",
+   "files": [
+    {
+     "name": ".עלה זית טרף בפיה.pdf",
+     "size": "8.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UWcsIliD9bOJS5OuF33cBdBWaMK2i44m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC922206071A485336F509EB6A8C37AD",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791287761000,
+   "date": "2026-10-06",
+   "time": "14:56",
+   "files": [
+    {
+     "name": ".נח מקריב קרבן תודה.pdf",
+     "size": "7.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1vbgeuZas5kspl4xP4JOBrPEzkIZRkHQw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC795578D3B7434AE81AD70705FCC5EA",
+   "sender": "יעל מימון",
+   "text": "מקסים? יש כזה בבנות?\nואם יש כזה עם כל מילות הברכה בכלל טוב😊",
+   "ts": 1791287989000,
+   "date": "2026-10-06",
+   "time": "14:59",
+   "files": [],
+   "drive": null,
+   "phone": "972523115220"
   }
  ]
 }

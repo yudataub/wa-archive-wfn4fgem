@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-06T09:28:05.567Z",
+ "updated": "2026-10-06T12:56:04.808Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -1793,7 +1793,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1zj_tqqJN6XgqX-ru9DnNGHNCGfvwqYRz/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1zj_tqqJN6XgqX-ru9DnNGHNCGfvwqYRz&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1zj_tqqJN6XgqX-ru9DnNGHNCGfvwqYRz&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2A28020722D305463CD8_0.mp4"
     }
    ],
    "drive": null,
@@ -1993,6 +1994,90 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "AC67868FAC2C359BFF3783C348D24BA6",
+   "sender": "Gila",
+   "text": "*דרושות מדריכות לחוגי צהרון בנשר |טירת כרמל*\n\nמחפשת מדריכות אחראיות, אנרגטיות ועם גישה טובה ואהבה לילדים להעברת חוגים בצהרונים.\n\n✨ המערכים והציוד מוכנים – רק להגיע ולהעביר\n✨ עבודה מסודרת וגמישה\n✨ עבודה מתגמלת, מהנה ומספקת\n✨ ליווי ותמיכה מקצועית לאורך הדרך\n\nמתאים למי שאוהבת לעבוד עם ילדים, יצירתית, אחראית ובעלת אנרגיות טובות.\n\nלפרטים נוספים – מוזמנות לפנות אליי בפרטי 054-3114578",
+   "ts": 1791281607000,
+   "date": "2026-10-06",
+   "time": "13:13",
+   "files": [],
+   "drive": null,
+   "phone": "972502198987"
+  },
+  {
+   "id": "ACD5B3D10EE866C89FFD1529208AC89C",
+   "sender": "שלומית",
+   "text": "הי לכולם מחפשת אולם לבת מצוה באיזור הקריה. אשמח לשמוע.",
+   "ts": 1791287392000,
+   "date": "2026-10-06",
+   "time": "14:49",
+   "files": [],
+   "drive": null,
+   "phone": "972544518145"
+  },
+  {
+   "id": "AC6CE88E06E264B7E0FDA144C36448A1",
+   "sender": "רחל  מעתוק",
+   "text": "אולמי גל",
+   "ts": 1791287753000,
+   "date": "2026-10-06",
+   "time": "14:55",
+   "files": [],
+   "drive": null,
+   "phone": "972524300981"
+  },
+  {
+   "id": "AC81048828DA7716420D14B486810962",
+   "sender": "הודיה ברזלי🌷",
+   "text": "שובו במים",
+   "ts": 1791287858000,
+   "date": "2026-10-06",
+   "time": "14:57",
+   "files": [],
+   "drive": null,
+   "phone": "972525621472"
+  },
+  {
+   "id": "ACF5EA90D6FB77331DFBBE8E3894A127",
+   "sender": "יפעת",
+   "text": "2 בוסטרים לילדים ללא גב למסירה מקרית ביאליק",
+   "ts": 1791287931000,
+   "date": "2026-10-06",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-tp3oUW9bGEm2Fzu3iRsF-WsoZ5t4lhy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-tp3oUW9bGEm2Fzu3iRsF-WsoZ5t4lhy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523652995"
+  },
+  {
+   "id": "AC857E3E2B4FDF11252CCC976C24C0A9",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791291358000,
+   "date": "2026-10-06",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "430KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1JiGwXrOsZDGWBnYz0243Nt6xwXMCjzJ-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JiGwXrOsZDGWBnYz0243Nt6xwXMCjzJ-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

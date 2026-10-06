@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-06T09:34:35.668Z",
+ "updated": "2026-10-06T13:22:12.037Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -2863,6 +2863,110 @@
    ],
    "drive": null,
    "phone": "972526303010"
+  },
+  {
+   "id": "AC4B1BA9D4E1643C584D8B84FDD93D4A",
+   "sender": "B",
+   "text": "",
+   "ts": 1791280521000,
+   "date": "2026-10-06",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AxOXy0XHwOnFN2y5n4gZqI-nNTdZhEwi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AxOXy0XHwOnFN2y5n4gZqI-nNTdZhEwi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "AC490E15C43C2546281570B9AB383067",
+   "sender": "טלי",
+   "text": "מומלצת",
+   "ts": 1791281716000,
+   "date": "2026-10-06",
+   "time": "13:15",
+   "files": [],
+   "drive": null,
+   "phone": "972536363199"
+  },
+  {
+   "id": "A5D6121803367AD6BFA7D489A3676D6F",
+   "sender": "מרנג",
+   "text": "מרנג - מגשי אירוח בוטיק\nלישיבות, אירועים, גיבושים ואירוח ביתי.\nלצפייה בקטלוג והזמנות:\nhttps://wa.me/c/972583637600",
+   "ts": 1791283036000,
+   "date": "2026-10-06",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "524KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/119rPJlG-u0Z9Ur-Isyv6g4ZIwjslsIcW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=119rPJlG-u0Z9Ur-Isyv6g4ZIwjslsIcW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583637600"
+  },
+  {
+   "id": "A56FBDDB888CE6F898631B7F3D148D42",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - תקליטן חרדי - עובדיה פרי חוגג בר מצווה (אולמי רימון, רכסים) 058-713-2636*\n\nhttps://youtu.be/useJ8lHnkmo?si=LwbJfXPyhAtMGSwD",
+   "ts": 1791285960000,
+   "date": "2026-10-06",
+   "time": "14:26",
+   "files": [],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A5184DDAF32A15BD05C90E954C01EB04",
+   "sender": "הדסי בן",
+   "text": "",
+   "ts": 1791290196000,
+   "date": "2026-10-06",
+   "time": "15:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N6xWgitoctoPPcKBQuA-PLjlG9o4Rknb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N6xWgitoctoPPcKBQuA-PLjlG9o4Rknb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505838100"
+  },
+  {
+   "id": "3A902F030A7D7E15354A",
+   "sender": "סהר עמר",
+   "text": "מחפש דירה להשכרה חדשה בעיר\nאם מישהו מכיר שיפנה אליי🙏🏼",
+   "ts": 1791292817000,
+   "date": "2026-10-06",
+   "time": "16:20",
+   "files": [],
+   "drive": null,
+   "phone": "972525254342"
+  },
+  {
+   "id": "AC4E786BEBAF1E651323E49D4398D5C1",
+   "sender": "Or Hageula2",
+   "text": "📇 לואיזה זולפו דירה קומה כצנלסון\n+972523906603",
+   "ts": 1791292923000,
+   "date": "2026-10-06",
+   "time": "16:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523987371"
   }
  ]
 }

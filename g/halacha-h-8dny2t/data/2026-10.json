@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-05T10:45:03.290Z",
+ "updated": "2026-10-06T11:22:20.992Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -232,6 +232,69 @@
    "files": [],
    "drive": null,
    "phone": "972502223710"
+  },
+  {
+   "id": "ACA37957E36D1BED83ECF8EE32A0B57B",
+   "sender": "תמר רון",
+   "text": "הי\nאפשר בבקשה בדחיפות לשלח לי מצגת על שאילת ובקשת גשמים?🙏",
+   "ts": 1791281010000,
+   "date": "2026-10-06",
+   "time": "13:03",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "AC8A1B070414FD5507CCF4FF8E923ABE",
+   "sender": "אתי משיח",
+   "text": "האם יש דף לימוד בחברותות  לשאילת גשמים ובקשת גשמים?",
+   "ts": 1791281933000,
+   "date": "2026-10-06",
+   "time": "13:18",
+   "files": [],
+   "drive": null,
+   "phone": "972504721124"
+  },
+  {
+   "id": "4AA32BEF0DF7F9CA12C3",
+   "sender": "גלעד",
+   "text": "מציע להתאים אותו לרמה של הכיתה באמצעות שאלות ברמת הכיתה.",
+   "ts": 1791284561000,
+   "date": "2026-10-06",
+   "time": "14:02",
+   "files": [
+    {
+     "name": "לימוד חברותות גשם ג-ד.docx",
+     "size": "104KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1VwHb0WnH1HyMGwuibxDWQ6DDVqp5CjT_/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528109301"
+  },
+  {
+   "id": "AC356FDB33F55F4343FB6BD46B9EBDDD",
+   "sender": "תמר רון",
+   "text": "וואי\nתודה",
+   "ts": 1791284693000,
+   "date": "2026-10-06",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "AC75E1602D8C245F4EC14060EF561F48",
+   "sender": "נתן",
+   "text": "https://drive.google.com/drive/folders/1MJFb0YqydtiWS2qelCSC6bsKnbuJkg1D",
+   "ts": 1791285719000,
+   "date": "2026-10-06",
+   "time": "14:21",
+   "files": [],
+   "drive": null,
+   "phone": "972528308062"
   }
  ]
 }

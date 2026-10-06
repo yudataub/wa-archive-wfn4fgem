@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-06T09:25:57.633Z",
+ "updated": "2026-10-06T10:48:50.506Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -1812,6 +1812,147 @@
    "files": [],
    "drive": null,
    "phone": "972523565708"
+  },
+  {
+   "id": "AC773E0144AC2A5A82CA15152BA98E4E",
+   "sender": "רחלי מנדלסון",
+   "text": "",
+   "ts": 1791282974000,
+   "date": "2026-10-06",
+   "time": "13:36",
+   "files": [
+    {
+     "name": "מחברות כיתה ד בלי לוגו_261001_111408.pdf",
+     "size": "15.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jtKQo2ZYvLK4IjEa3Q-LYWjJ2-8L6t33/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "ACBB288DE4107A1C309DC27525BDFBBB",
+   "sender": "מירה צבי",
+   "text": "בוקר טוב אשמח שתשלחו שוב סימניות לספר ויקרא ולספר שופטים",
+   "ts": 1791283114000,
+   "date": "2026-10-06",
+   "time": "13:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523340534"
+  },
+  {
+   "id": "AC32E7063B6041D8D6AFA82125AB6F76",
+   "sender": "מירה צבי",
+   "text": "שלום אשמח שתשלחו שוב סימניות לספר ויקרא ולספר שופטים",
+   "ts": 1791283122000,
+   "date": "2026-10-06",
+   "time": "13:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523340534"
+  },
+  {
+   "id": "AC616CAFE276CF299CDDEB83D7A95B57",
+   "sender": "רחלי מנדלסון",
+   "text": "",
+   "ts": 1791283155000,
+   "date": "2026-10-06",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c0CP-N2QcxMCEwcH2xO4I6BzGaPoGwYa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c0CP-N2QcxMCEwcH2xO4I6BzGaPoGwYa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "AC921489C5EA3DE28B3C1F0B5DA4CD8A",
+   "sender": "רחלי מנדלסון",
+   "text": "סימניות ויקרא",
+   "ts": 1791283156000,
+   "date": "2026-10-06",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oL3K19iXRjG_XOmObULp-C0gmlI5ENYi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oL3K19iXRjG_XOmObULp-C0gmlI5ENYi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "A51B6F1EECEE038C1E58B7B5FA0FBF14",
+   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
+   "text": "",
+   "ts": 1791283175000,
+   "date": "2026-10-06",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "סימניות הקטרה ורשי ויקרא- דוצ- 4 עותקים.pdf",
+     "size": "178KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14XVWdvXIT3YC8KhZpIVNPl7vF7mdfGtU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503236686"
+  },
+  {
+   "id": "A541B14EA4832722196FBC46CF087D50",
+   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
+   "text": "",
+   "ts": 1791283177000,
+   "date": "2026-10-06",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "סימניה.pdf",
+     "size": "165KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12_UQGZzvgDnCDvx8RX04knZ2KXx0XBe8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503236686"
+  },
+  {
+   "id": "ACB062A535590C4BC32B83E619F57107",
+   "sender": "מירה צבי",
+   "text": "תודה רבה",
+   "ts": 1791283217000,
+   "date": "2026-10-06",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972523340534"
+  },
+  {
+   "id": "3AE679CA3714F4315287",
+   "sender": "ליזה עזרא",
+   "text": "מחפשת סיכום לספר ויקרא למורה",
+   "ts": 1791283720000,
+   "date": "2026-10-06",
+   "time": "13:48",
+   "files": [],
+   "drive": null,
+   "phone": "972502888366"
   }
  ]
 }

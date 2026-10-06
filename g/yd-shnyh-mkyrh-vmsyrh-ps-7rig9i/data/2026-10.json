@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-06T09:35:05.705Z",
+ "updated": "2026-10-06T13:10:05.018Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1130,6 +1130,46 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "AC9DECED59EF7CAF80837DA57C38E879",
+   "sender": "מוכר דברים",
+   "text": "למכירה נעלי גורדן חדשות רק נמדדו \nנקנו ב250 \nמוכר ב170 שקל\nמידה 44 לא מקורי אבל הנעליים יפות מאוד",
+   "ts": 1791291538000,
+   "date": "2026-10-06",
+   "time": "15:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "30KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SfBCm2jqdO_p1fdrB1Q-xUj3AXoaEQA5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SfBCm2jqdO_p1fdrB1Q-xUj3AXoaEQA5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "3AAFAE59EF7EE3067D8A",
+   "sender": "Asaf",
+   "text": "ציור גורדי שחקים 100₪",
+   "ts": 1791292176000,
+   "date": "2026-10-06",
+   "time": "16:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "324KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MuKvUlaOEQIeOkG7pbhXdmuSlzN4FfMG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MuKvUlaOEQIeOkG7pbhXdmuSlzN4FfMG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

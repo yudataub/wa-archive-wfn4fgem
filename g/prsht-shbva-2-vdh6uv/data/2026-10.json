@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-06T06:52:27.456Z",
+ "updated": "2026-10-06T12:55:04.787Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -1007,6 +1007,36 @@
    ],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "AC6E311DE18E78DF7D8BB8801EE8D811",
+   "sender": "שירה אסולין",
+   "text": "אשמח לפרשת שבוע כולל שאלות",
+   "ts": 1791281015000,
+   "date": "2026-10-06",
+   "time": "13:03",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "AC0792B4C8CDACB9D898FB078D2B491A",
+   "sender": "אורטל בר שלום",
+   "text": "",
+   "ts": 1791291286000,
+   "date": "2026-10-06",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "3KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1o1R8RtYBH_CzYrwjKlJ3ZcbyLJLBV-ly/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535991449"
   }
  ]
 }

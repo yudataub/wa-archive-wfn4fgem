@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משוחררי קרית אתא",
- "updated": "2026-10-06T08:27:28.662Z",
+ "updated": "2026-10-06T11:43:57.876Z",
  "messages": [
   {
    "id": "AC8F9B623A83B9BA7F2D652E78DCBB7D",
@@ -68,7 +68,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1BG6hwZndZ9GgEhvz3qLZeLkba773Y83T/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1BG6hwZndZ9GgEhvz3qLZeLkba773Y83T&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1BG6hwZndZ9GgEhvz3qLZeLkba773Y83T&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mshvchrry-kryt-ata-a3kqb4/v/2026-10/AC79CBEA3FD823B418580C1BC3FF9196_0.mp4"
     }
    ],
    "drive": null,
@@ -89,6 +90,26 @@
      "path": "https://drive.google.com/file/d/1AhcQnQ2T0IqhXiwjcU-3apJwJEIgg5nD/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1AhcQnQ2T0IqhXiwjcU-3apJwJEIgg5nD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "ACF3FB211A975A503F43D306395BE80A",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*קורס הכנה למבחן אמירנט*\nhttps://www.hachvana.mod.gov.il/MainEducation/ProfessionalTraining/Pages/AMIRNET-English-Course.aspx\n*קורס כישורי מציאת עבודה והתנהלות כלכלית*\nhttps://www.hachvana.mod.gov.il/MainEducation/ProfessionalTraining/Pages/prep.aspx",
+   "ts": 1791287024000,
+   "date": "2026-10-06",
+   "time": "14:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1g38OZdbuHJ8WIaKjOoO6gafocj4dwVV9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1g38OZdbuHJ8WIaKjOoO6gafocj4dwVV9&sz=w1200"
     }
    ],
    "drive": null,

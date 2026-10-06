@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-06T09:27:35.549Z",
+ "updated": "2026-10-06T12:33:34.438Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -1281,6 +1281,77 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "ACD8EC445E40CDAD01152DA001FAFC02",
+   "sender": "B",
+   "text": "",
+   "ts": 1791280525000,
+   "date": "2026-10-06",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yIB_Mxb6aBIcqAiI7_dUkYu3A8CPRaaa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yIB_Mxb6aBIcqAiI7_dUkYu3A8CPRaaa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "A51637A608807EBF138767752015994A",
+   "sender": "מרנג",
+   "text": "מרנג - מגשי אירוח בוטיק\nלישיבות, אירועים, גיבושים ואירוח ביתי.\nלצפייה בקטלוג והזמנות:\nhttps://wa.me/c/972583637600",
+   "ts": 1791283034000,
+   "date": "2026-10-06",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "524KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bn1j95X4rgWsM_fTf3BfjpwhA4ENLT9n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bn1j95X4rgWsM_fTf3BfjpwhA4ENLT9n&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583637600"
+  },
+  {
+   "id": "A5A7099CA44DF13CF3D93CB1DBC0DE87",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - תקליטן חרדי - עובדיה פרי חוגג בר מצווה (אולמי רימון, רכסים) 058-713-2636*\n\nhttps://youtu.be/useJ8lHnkmo?si=LwbJfXPyhAtMGSwD",
+   "ts": 1791285956000,
+   "date": "2026-10-06",
+   "time": "14:25",
+   "files": [],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A548FC39E8B501928B489AADFC7DE4A5",
+   "sender": "קשר כשר",
+   "text": "שלישי פעמיים כי טוב משלוחים לכל הארץ",
+   "ts": 1791290006000,
+   "date": "2026-10-06",
+   "time": "15:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "414KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dV6txxyrU0W6NKi2eAUlfhAweAr4MAGe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dV6txxyrU0W6NKi2eAUlfhAweAr4MAGe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559579411"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-06T07:15:21.100Z",
+ "updated": "2026-10-06T12:46:53.039Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -459,6 +459,37 @@
    "files": [],
    "drive": null,
    "phone": "972507609439"
+  },
+  {
+   "id": "ACB829D5C20A82214F5CD17FCCA2109B",
+   "sender": "מלי",
+   "text": "צוות יקר,\nכל המורים המלמדים את מקצועות הליבה- שפה, מתמטיקה ואנגלית,\nחייבים השנה להתמקצע בתחום הדעת אותו הם מלמדים!!\nבתחום השפה-יש להקפיד  ולבדוק שההשתלמות אליה נרשמתם מיועדת למורי החמ\"ד!",
+   "ts": 1791290740000,
+   "date": "2026-10-06",
+   "time": "15:45",
+   "files": [],
+   "drive": null,
+   "phone": "972522376845"
+  },
+  {
+   "id": "AC0386514478D79A2B8E76B6CE1F998F",
+   "sender": "מלי",
+   "text": "",
+   "ts": 1791290781000,
+   "date": "2026-10-06",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "41KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1318tzKIoQD5Ryhd3ZcqVixM4cGg6EY9O/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1318tzKIoQD5Ryhd3ZcqVixM4cGg6EY9O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522376845"
   }
  ]
 }
