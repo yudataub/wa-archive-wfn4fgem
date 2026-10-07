@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-07T05:16:19.863Z",
+ "updated": "2026-10-07T07:47:44.201Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -496,6 +496,37 @@
    ],
    "drive": null,
    "phone": "972505719433"
+  },
+  {
+   "id": "AC5384FDFF66001238230716932CCFAD",
+   "sender": "✈️",
+   "text": "מחפש מתחם 12 חדרי שינה לשבת הבאה 17/10\nבאזור המרכז/דרום.\nלא בצפון\nאשמח להצעות🙏🏼",
+   "ts": 1791358742000,
+   "date": "2026-10-07",
+   "time": "10:39",
+   "files": [],
+   "drive": null,
+   "phone": "972509494924"
+  },
+  {
+   "id": "ACF206BF598D69E47392CCE80B1525C0",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1791359247000,
+   "date": "2026-10-07",
+   "time": "10:47",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1jQKh-_Z3zCL9wPHcmrJN2B-9W9HZ3IEr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jQKh-_Z3zCL9wPHcmrJN2B-9W9HZ3IEr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
   }
  ]
 }

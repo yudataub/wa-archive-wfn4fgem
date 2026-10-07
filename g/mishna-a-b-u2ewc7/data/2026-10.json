@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-10-05T10:23:32.964Z",
+ "updated": "2026-10-07T08:51:51.912Z",
  "messages": [
   {
    "id": "AC0E2F39203F3D5A2320D22DC7E99B26",
@@ -64,6 +64,58 @@
    "files": [],
    "drive": null,
    "phone": "972585770215"
+  },
+  {
+   "id": "AC188A614A166905A2E4EA7880C6E7FB",
+   "sender": "רינת גואטה",
+   "text": "אפשר בבקשה לשלוח את המצגת הזאת שוב?",
+   "ts": 1791358695000,
+   "date": "2026-10-07",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "phone": "972527022167"
+  },
+  {
+   "id": "AC5D4E2439D441260B78A6ABE8E9EA95",
+   "sender": "רחל שטיינר",
+   "text": "יש קבוצה להלכה לכיתה ד?",
+   "ts": 1791358895000,
+   "date": "2026-10-07",
+   "time": "10:41",
+   "files": [],
+   "drive": null,
+   "phone": "972505728830"
+  },
+  {
+   "id": "AC105BF19641A17A00096A8151AFD042",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1791360184000,
+   "date": "2026-10-07",
+   "time": "11:03",
+   "files": [
+    {
+     "name": "קישורים מעודכנים לקבוצו וואצפ.pdf",
+     "size": "168KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10jNYVwS3wVfVC-5_TFwbgOATEwXUj2CT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "3A7CBCEC3A21B97B2136",
+   "sender": "Moriya🧿",
+   "text": "יש אולי עטיפה לקלסר ?",
+   "ts": 1791363109000,
+   "date": "2026-10-07",
+   "time": "11:51",
+   "files": [],
+   "drive": null,
+   "phone": "972528914106"
   }
  ]
 }

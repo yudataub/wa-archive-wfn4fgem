@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-05T08:13:21.763Z",
+ "updated": "2026-10-07T07:08:05.740Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -22,6 +22,46 @@
    ],
    "drive": null,
    "phone": "972534929856"
+  },
+  {
+   "id": "A54D2AA50AAE09ED2863A2855F09B2D5",
+   "sender": "צמד חמד",
+   "text": "כבר *שנה חמישית* עם פעילות לאור *דמות החמ\"ד*, *והמלצות חמות* שפשוט מדברות בעד עצמן.\n\nאצלנו התלמידים פעילים, לומדים ומפנימים ערכים משמעותיים, והפעם לאורו הטוב של *הרב חנן פורת*.\n\nרוצה לקבל משובים חיוביים מהצוות שלך? *זו הפעילות שתרצי להביא* 😊\nצמד חמ\"ד \nאסתי יניב ואושרת כהן\n055-3183037",
+   "ts": 1791356870000,
+   "date": "2026-10-07",
+   "time": "10:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1joURZ0-07plBUl1KnOGChDC4q07r9aEK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1joURZ0-07plBUl1KnOGChDC4q07r9aEK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553183037"
+  },
+  {
+   "id": "A5B03B6F92D4CFD61F68A1452713C45A",
+   "sender": "צמד חמד",
+   "text": "",
+   "ts": 1791356872000,
+   "date": "2026-10-07",
+   "time": "10:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "445KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HmG4FFW-nSkQWGcgiofioGUKVBSXTzfY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HmG4FFW-nSkQWGcgiofioGUKVBSXTzfY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553183037"
   }
  ]
 }

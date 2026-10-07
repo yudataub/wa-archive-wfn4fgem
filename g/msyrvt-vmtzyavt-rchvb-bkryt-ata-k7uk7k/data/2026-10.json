@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-06T10:30:13.795Z",
+ "updated": "2026-10-07T09:27:30.566Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -554,6 +554,97 @@
    ],
    "drive": null,
    "phone": "972522488015"
+  },
+  {
+   "id": "AC1CDE127BD6B7420182A33010902DC6",
+   "sender": "ויקטוריה",
+   "text": "למישהי יש עמדת טעינה של Roborock S5 Max",
+   "ts": 1791356556000,
+   "date": "2026-10-07",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Km8S9qCSsEocKPAWeCWuMsfWG-CboZ9R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Km8S9qCSsEocKPAWeCWuMsfWG-CboZ9R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACE9068678EA0DF7A217AD60AF3E9AEC",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791356556000,
+   "date": "2026-10-07",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "24KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uFhkn1GGyFrq9W_c0Q85Qtv1HCB37kF2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uFhkn1GGyFrq9W_c0Q85Qtv1HCB37kF2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC627940FE9D3B0FFC2F266CB5FE928A",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1791364059000,
+   "date": "2026-10-07",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ao2nw6d3M7z6BL5fbrOuWaymqY85G9-e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ao2nw6d3M7z6BL5fbrOuWaymqY85G9-e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "AC17E20C9FC2AF6AF3A619943D71C015",
+   "sender": "דניאלה",
+   "text": "בד טריקו אדום בערך 2*3 מטר",
+   "ts": 1791365142000,
+   "date": "2026-10-07",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1onp_iDmGl-7aFjDeU29FWtyJEViLxQ1u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1onp_iDmGl-7aFjDeU29FWtyJEViLxQ1u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "AC6CE187DEF2A955CEF37644FAED4FE6",
+   "sender": "ויקטוריה",
+   "text": ",??",
+   "ts": 1791365249000,
+   "date": "2026-10-07",
+   "time": "12:27",
+   "files": [],
+   "drive": null,
+   "phone": "972528969584"
   }
  ]
 }

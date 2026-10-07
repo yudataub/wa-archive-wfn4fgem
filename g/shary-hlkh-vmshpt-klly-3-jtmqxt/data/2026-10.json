@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-06T21:02:53.337Z",
+ "updated": "2026-10-07T09:35:00.688Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -3625,6 +3625,90 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "AC3FFE7D7AC8B5E597DAD3EED75FAA91",
+   "sender": ".מירב",
+   "text": "מה הברכה ראשונה ואחרונה",
+   "ts": 1791361499000,
+   "date": "2026-10-07",
+   "time": "11:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AteL2IOYpOoc5I7M95i7O7PmyxT3dMMi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AteL2IOYpOoc5I7M95i7O7PmyxT3dMMi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508664864"
+  },
+  {
+   "id": "3AFB3399E9400D39F3CF",
+   "sender": "Sarai",
+   "text": "שלום וברכה, האם מותר להעביר שוקולד עם הכשרות הנ״ל לאדם שלא מקפיד או שעדיף לזרוק? אנחנו כמובן לא אוכלים",
+   "ts": 1791363351000,
+   "date": "2026-10-07",
+   "time": "11:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RExhi8bBljyGMGiMKJ19SUwhI2pZhy-R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RExhi8bBljyGMGiMKJ19SUwhI2pZhy-R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972536206833"
+  },
+  {
+   "id": "AC98850444D3651B9BB2A0A5C3B97920",
+   "sender": "ישראל",
+   "text": "כל מוצר צריך תמונה גם מקדימה איך נראה.",
+   "ts": 1791365577000,
+   "date": "2026-10-07",
+   "time": "12:32",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC19DE0E87B03F28B89E3E0AB293A47A",
+   "sender": "ישראל",
+   "text": "אפשר לתת למי שמברך",
+   "ts": 1791365625000,
+   "date": "2026-10-07",
+   "time": "12:33",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC6DA9F816C0B850A53C5B08A14989F1",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "אפשר גם לזרוק",
+   "ts": 1791365642000,
+   "date": "2026-10-07",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "3A50CC8D2BD4AA8E41C0",
+   "sender": "Sarai",
+   "text": "תודה רבה 🙏🏼",
+   "ts": 1791365674000,
+   "date": "2026-10-07",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "phone": "972536206833"
   }
  ]
 }

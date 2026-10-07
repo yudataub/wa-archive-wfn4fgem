@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-06T07:52:58.506Z",
+ "updated": "2026-10-07T08:06:03.658Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -138,6 +138,26 @@
      "path": "https://drive.google.com/file/d/1KcZ6S2YKqjiBDKbArggBq4svAqa5lSR_/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1KcZ6S2YKqjiBDKbArggBq4svAqa5lSR_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0DCD35211BEC1F3746A",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קלה\nנושא: מעגל השנה\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1791360337000,
+   "date": "2026-10-07",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NuKfeGAMqixxtGjk4VxAa-MiQwVIbWqn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NuKfeGAMqixxtGjk4VxAa-MiQwVIbWqn&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-07T04:56:12.711Z",
+ "updated": "2026-10-07T07:53:14.318Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -1388,6 +1388,101 @@
    "files": [],
    "drive": null,
    "phone": "972525529200"
+  },
+  {
+   "id": "ACC0D0F18D195930FB97D1E4911026C3",
+   "sender": "י.  כהן",
+   "text": "ראיתי בעייני",
+   "ts": 1791352068000,
+   "date": "2026-10-07",
+   "time": "08:47",
+   "files": [],
+   "drive": null,
+   "phone": "972555649000"
+  },
+  {
+   "id": "AC52857A1A850CF4A9EA46F954E70AAA",
+   "sender": "יעקב",
+   "text": "לכל בני הקהילה היקרים לי מאוד\nראו הזמנה זו כאישית\nושנוכל להחזיר רק בשמחות",
+   "ts": 1791357387000,
+   "date": "2026-10-07",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "phone": "972533384050"
+  },
+  {
+   "id": "AC7C2BF69D657890634150F751B41B54",
+   "sender": "יעקב",
+   "text": "",
+   "ts": 1791357387000,
+   "date": "2026-10-07",
+   "time": "10:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I46blKWgHM9NsG5NdwQBS73QsT8VnHmf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I46blKWgHM9NsG5NdwQBS73QsT8VnHmf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533384050"
+  },
+  {
+   "id": "AC5023F344056C894F46F0D37015BEE0",
+   "sender": "אליהו ראקוב ⁰⁵²⁵⁵²⁹²⁰⁰",
+   "text": "לפונות ולפונים הרבים על הירי שנשמע בלילה - מדובר באירוע פלילי. ירי לעבר בית עסק במרכז העיר. נזק במקום.",
+   "ts": 1791358958000,
+   "date": "2026-10-07",
+   "time": "10:42",
+   "files": [],
+   "drive": null,
+   "phone": "972525529200"
+  },
+  {
+   "id": "ACCA1ECC079B8F109388A3857EC07A87",
+   "sender": "יצחק ומירי הסקין",
+   "text": "מזל טוב 🥳🥳",
+   "ts": 1791359053000,
+   "date": "2026-10-07",
+   "time": "10:44",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "ACEDD54B58514915AD151D587B4D802A",
+   "sender": "יעקב",
+   "text": "תודה בשמחות",
+   "ts": 1791359137000,
+   "date": "2026-10-07",
+   "time": "10:45",
+   "files": [],
+   "drive": null,
+   "phone": "972533384050"
+  },
+  {
+   "id": "ACAEE958929668B10963462946F6B7FE",
+   "sender": "אליהו חזן",
+   "text": "",
+   "ts": 1791359588000,
+   "date": "2026-10-07",
+   "time": "10:53",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "64KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1xApmcpOBiVxEpeJOMgB2WWQiiENN71nQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xApmcpOBiVxEpeJOMgB2WWQiiENN71nQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502770777"
   }
  ]
 }

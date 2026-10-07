@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-06T17:20:01.146Z",
+ "updated": "2026-10-07T07:38:33.267Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -627,7 +627,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1SE73df1SlMo0hBJ03c77AeAOEaaejs3N/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1SE73df1SlMo0hBJ03c77AeAOEaaejs3N&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1SE73df1SlMo0hBJ03c77AeAOEaaejs3N&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/3EB03C5FE9F33A9609094F_0.mp4"
     }
    ],
    "drive": null,
@@ -667,7 +668,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1O4H5qQFW8iaSDv3mRvC35vWqm1oYZ1vB/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1O4H5qQFW8iaSDv3mRvC35vWqm1oYZ1vB&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1O4H5qQFW8iaSDv3mRvC35vWqm1oYZ1vB&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/AC32105B2EAC523B3523532DF5F259B4_0.mp4"
     }
    ],
    "drive": null,
@@ -731,7 +733,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1tDtN24jy1_oIav_5GErEDU0EttzByvqV/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1tDtN24jy1_oIav_5GErEDU0EttzByvqV&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1tDtN24jy1_oIav_5GErEDU0EttzByvqV&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/3EB0650B6B301EF02D1113_0.mp4"
     }
    ],
    "drive": null,
@@ -793,7 +796,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1oJx0Ib8x-UZVQyNhJPcqVrmI5TK0fGQY/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1oJx0Ib8x-UZVQyNhJPcqVrmI5TK0fGQY&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1oJx0Ib8x-UZVQyNhJPcqVrmI5TK0fGQY&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/3EB03E265A58487FFC1FCE_0.mp4"
     }
    ],
    "drive": null,
@@ -1045,6 +1049,17 @@
    ],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "ACE213DCA8F6398949A3CF4CBA2F940F",
+   "sender": "נועם",
+   "text": "אם התמלול באינסטינקט לא עובד לכם, אפשר לעקוף עם Whisper: תבקשו מהאינסטינקט שלכם להתקין faster-whisper (pip install faster-whisper) ולתמלל את הקובץ עם המודל small על CPU בעיבוד int8. שימו לב: המודל הגדול large-v3-turbo לא נטען בסביבה הרגילה בגלל מגבלת זיכרון (2GB) וייקרס, אבל small עובד מצוין גם לעברית.",
+   "ts": 1791358712000,
+   "date": "2026-10-07",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

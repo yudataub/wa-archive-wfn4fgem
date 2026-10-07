@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-06T18:40:46.128Z",
+ "updated": "2026-10-07T08:59:52.046Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -504,6 +504,37 @@
    ],
    "drive": null,
    "phone": "972547264446"
+  },
+  {
+   "id": "A540A48D32C5FA8D5A5855922B6149AC",
+   "sender": "תילי קייקס סדנאות ועוגות",
+   "text": "מחפשת הפעלה לכיתה הפנינג חנוכה?!\n\nhttps://wa.me/p/8858138774296209/972505866991",
+   "ts": 1791359120000,
+   "date": "2026-10-07",
+   "time": "10:45",
+   "files": [],
+   "drive": null,
+   "phone": "972505866991"
+  },
+  {
+   "id": "3AD075E660B8A04D0F80",
+   "sender": "לירז",
+   "text": "",
+   "ts": 1791363570000,
+   "date": "2026-10-07",
+   "time": "11:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IbfD3QeuOy_AQnunUdDAOFsYQewQ5Q7_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IbfD3QeuOy_AQnunUdDAOFsYQewQ5Q7_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533220865"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-06T19:04:35.581Z",
+ "updated": "2026-10-07T09:08:22.159Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -519,6 +519,110 @@
    "files": [],
    "drive": null,
    "phone": "972546227238"
+  },
+  {
+   "id": "AC49B97335A6171E854C3AAFA1DD50E2",
+   "sender": "רחל שטיינר",
+   "text": "הי אשמח לתוכנית שנתית",
+   "ts": 1791362205000,
+   "date": "2026-10-07",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972505728830"
+  },
+  {
+   "id": "AC01DFC8B5C6587034BAFB5B1AA74BE8",
+   "sender": "רחל שטיינר",
+   "text": "ודפי עבןדה..",
+   "ts": 1791362343000,
+   "date": "2026-10-07",
+   "time": "11:39",
+   "files": [],
+   "drive": null,
+   "phone": "972505728830"
+  },
+  {
+   "id": "AC05B79042EA20A0A95F563564F43B5C",
+   "sender": "אדוה לוז😊",
+   "text": "??",
+   "ts": 1791362947000,
+   "date": "2026-10-07",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
+  },
+  {
+   "id": "ACA9410C119A3F95C3C0C4B152ABDF5B",
+   "sender": "אדוה לוז😊",
+   "text": "דרוי עם מלא חומרים??",
+   "ts": 1791362951000,
+   "date": "2026-10-07",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
+  },
+  {
+   "id": "3EB0CBF32278F77781DD42",
+   "sender": "שירה זנגי🌻",
+   "text": "היי מחפשת חומרים על בשר וחלב",
+   "ts": 1791363466000,
+   "date": "2026-10-07",
+   "time": "11:57",
+   "files": [],
+   "drive": null,
+   "phone": "972535302063"
+  },
+  {
+   "id": "ACBBFFC801C5F2310F307E4330952D24",
+   "sender": "רחל שטיינר",
+   "text": "אמשח לתוכנית לימודים בדחיפות",
+   "ts": 1791363573000,
+   "date": "2026-10-07",
+   "time": "11:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505728830"
+  },
+  {
+   "id": "3EB07959EC3C344A8BFC7F",
+   "sender": "זהבה",
+   "text": "",
+   "ts": 1791364088000,
+   "date": "2026-10-07",
+   "time": "12:08",
+   "files": [
+    {
+     "name": "פריסה שנתית הלכה כיתה ד תשפז.pdf",
+     "size": "498KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1xXVf5pMFtnJz_uhR2WnQ6jke3rf5VJMl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "3EB0973979DD71DCC20AE4",
+   "sender": "זהבה",
+   "text": "",
+   "ts": 1791364088000,
+   "date": "2026-10-07",
+   "time": "12:08",
+   "files": [
+    {
+     "name": "תוכנית לימודים הלכה כיתה ד לפי מקור חיים החדש תשפז.docx",
+     "size": "29KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1iA737UF7coDpNLw-ulluUz3b_1kIuLSA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502833330"
   }
  ]
 }

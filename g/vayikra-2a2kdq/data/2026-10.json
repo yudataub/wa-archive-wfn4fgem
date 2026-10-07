@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-07T02:44:40.889Z",
+ "updated": "2026-10-07T09:35:00.704Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2115,6 +2115,59 @@
    ],
    "drive": null,
    "phone": "972507788680"
+  },
+  {
+   "id": "A5350952B02AA44AB2F1923F2EEE6379",
+   "sender": "נורית טרעפ",
+   "text": "למישהו יש את השיר הזה?",
+   "ts": 1791351979000,
+   "date": "2026-10-07",
+   "time": "08:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1F73MKBQtp6XNccrGreZQ928p8VXMPDiU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1F73MKBQtp6XNccrGreZQ928p8VXMPDiU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585022134"
+  },
+  {
+   "id": "ACC640B6D8DF012F3BB83B0236BEA798",
+   "sender": "רחלי מנדלסון",
+   "text": "מקור: YouTube https://share.google/pcFRsfaXGAPjrceBm",
+   "ts": 1791354395000,
+   "date": "2026-10-07",
+   "time": "09:26",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "AC2B93BB02684F160ABBD97D5BB89E75",
+   "sender": ".",
+   "text": "יש למשהו עבודה בתורה  על שנים או שלושה מהפרקים הראשונים?",
+   "ts": 1791358320000,
+   "date": "2026-10-07",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972559743304"
+  },
+  {
+   "id": "ACC94F25C0979F0A1F3575B950CAB00F",
+   "sender": "כיתה ג",
+   "text": "יש מנגינה ?",
+   "ts": 1791365677000,
+   "date": "2026-10-07",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "phone": "972559120800"
   }
  ]
 }

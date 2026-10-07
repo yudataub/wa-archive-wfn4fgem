@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-07T05:35:52.453Z",
+ "updated": "2026-10-07T09:38:00.736Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -3456,6 +3456,140 @@
    "drive": null,
    "thread": "259554101170314",
    "phone": "972534658778"
+  },
+  {
+   "id": "A5D80253F4E91058F40580490451AF4B",
+   "sender": "אני",
+   "text": "מסרתי לו",
+   "ts": 1791352600000,
+   "date": "2026-10-07",
+   "time": "08:56",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC3A23847D151955F9E8BC6AC170BA79",
+   "sender": "pinhasgal16",
+   "text": "אשכוח",
+   "ts": 1791353614000,
+   "date": "2026-10-07",
+   "time": "09:13",
+   "files": [],
+   "drive": null,
+   "thread": "pinhasgal16",
+   "phone": "972584118595"
+  },
+  {
+   "id": "AC1F14446C902F4B82A3840ECEC42F10",
+   "sender": "דבורה ויינר",
+   "text": "דבורה ויינר \nבנק מזרחי 20.\nסניף 427.\nח\"ן 176223.\nתודה.",
+   "ts": 1791356768000,
+   "date": "2026-10-07",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "thread": "דבורה ויינר",
+   "phone": "972509101095"
+  },
+  {
+   "id": "3EB001A9521EE2BC9DED81",
+   "sender": "אני",
+   "text": "אין לך ביט?",
+   "ts": 1791357242000,
+   "date": "2026-10-07",
+   "time": "10:14",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC2AAE2FDD24AE40447F4D07DA4907F5",
+   "sender": "דבורה ויינר",
+   "text": "לא בשימוש.",
+   "ts": 1791357355000,
+   "date": "2026-10-07",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "thread": "דבורה ויינר",
+   "phone": "972509101095"
+  },
+  {
+   "id": "A5501AFF33C832945790A9F8C6A47DDD",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791357695000,
+   "date": "2026-10-07",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BE0AtYtNfLYaaYPeEXrzDec6Zq7kmgHi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BE0AtYtNfLYaaYPeEXrzDec6Zq7kmgHi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A017B85BE455B3F4721",
+   "sender": "בת חן סאסי",
+   "text": "שלום\nאשמח לקבל את הספר\nתודה",
+   "ts": 1791362376000,
+   "date": "2026-10-07",
+   "time": "11:39",
+   "files": [],
+   "drive": null,
+   "thread": "בת חן סאסי",
+   "phone": "972525932610"
+  },
+  {
+   "id": "3AC47DC4F1E3714587DA",
+   "sender": "בת חן סאסי",
+   "text": "",
+   "ts": 1791362386000,
+   "date": "2026-10-07",
+   "time": "11:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "551KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m14ql6blWy87canGuakNTl96mHzlZmQS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m14ql6blWy87canGuakNTl96mHzlZmQS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "בת חן סאסי",
+   "phone": "972525932610"
+  },
+  {
+   "id": "A588790F06AF4A72E67D096C4FD4946B",
+   "sender": "אני",
+   "text": "בוקר טוב ומבורך אני מאוד סקרן לדעת התקבלתי?",
+   "ts": 1791363680000,
+   "date": "2026-10-07",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3AFC24D655FF6E3EFDCB",
+   "sender": "🌺Maya Itzkovich🌺",
+   "text": "אנחנו נקיים עוד ראיון פרונטלי, אעדכן אותך בימים ובשעות ותאמר לי מתי אתה זמין",
+   "ts": 1791365879000,
+   "date": "2026-10-07",
+   "time": "12:37",
+   "files": [],
+   "drive": null,
+   "thread": "🌺Maya Itzkovich🌺",
+   "phone": "972544881602"
   }
  ]
 }
