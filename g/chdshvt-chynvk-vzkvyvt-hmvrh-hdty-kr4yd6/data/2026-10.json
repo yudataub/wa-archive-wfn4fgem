@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי",
- "updated": "2026-10-06T10:26:13.739Z",
+ "updated": "2026-10-07T04:02:11.910Z",
  "messages": [
   {
    "id": "A50F22EA41D67F3A17A00CB1FD164526",
@@ -233,6 +233,26 @@
    "date": "2026-10-06",
    "time": "13:26",
    "files": [],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A579217A54D57ECB8D9DA47745EE3907",
+   "sender": "אוריאל פדידה",
+   "text": "*תפילה לתחילת היום* שחיבר חייל המילואים המורה למדעים שאול מויאל הי\"ד אב לעשרה ילדים , שנפל בקרב בלבנון במלחמת התקומה בכד' בתשרי תשפ\"ה.\n*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1791345713000,
+   "date": "2026-10-07",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wFJAJfBYOzQpHfF4CxYPS8_6JCIzbbI8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wFJAJfBYOzQpHfF4CxYPS8_6JCIzbbI8&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506202812"
   }

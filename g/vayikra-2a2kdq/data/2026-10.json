@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-06T21:23:23.660Z",
+ "updated": "2026-10-07T02:44:40.889Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2096,6 +2096,25 @@
    "files": [],
    "drive": null,
    "phone": "972525393128"
+  },
+  {
+   "id": "3EB05DEEC599E9808ABB87",
+   "sender": "אלחנן שטראוס",
+   "text": "",
+   "ts": 1791341055000,
+   "date": "2026-10-07",
+   "time": "05:44",
+   "files": [
+    {
+     "name": "שיר קרבנות.doc",
+     "size": "36KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1vQW9sgV8mvB6wgBDjEaDw21qFa4_gO6r/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
   }
  ]
 }

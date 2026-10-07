@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-06T22:49:08.592Z",
+ "updated": "2026-10-07T04:33:12.412Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2163,6 +2163,26 @@
    ],
    "drive": null,
    "phone": "972532406993"
+  },
+  {
+   "id": "ACBB7480302DD2243BF50F5CC09C00DC",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1791347579000,
+   "date": "2026-10-07",
+   "time": "07:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m22jGA4NSzKpUyXLICtxB1__T2Lva74w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m22jGA4NSzKpUyXLICtxB1__T2Lva74w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
   }
  ]
 }

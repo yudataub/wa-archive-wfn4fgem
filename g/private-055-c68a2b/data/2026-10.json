@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות 055",
- "updated": "2026-10-06T05:45:43.251Z",
+ "updated": "2026-10-07T05:31:15.375Z",
  "messages": [
   {
    "id": "ACE8A246EB9C4D6A6F9019D3EE46B860",
@@ -82,6 +82,26 @@
    "drive": null,
    "thread": "Yelena",
    "phone": "972542635143"
+  },
+  {
+   "id": "AC77DF28D50979BA7698BC8B64B55FC7",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791351053000,
+   "date": "2026-10-07",
+   "time": "08:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "207KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JWdJuu9oqo_DGiEvll-iz0pbEGN7LXEI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JWdJuu9oqo_DGiEvll-iz0pbEGN7LXEI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
   }
  ]
 }

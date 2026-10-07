@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-06T06:56:20.854Z",
+ "updated": "2026-10-07T03:48:06.629Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -905,6 +905,37 @@
    "files": [],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "A562B452964D377688BAF29F94489D20",
+   "sender": "mary garby",
+   "text": "היום לא יישלח הנושא שבועי.",
+   "ts": 1791343774000,
+   "date": "2026-10-07",
+   "time": "06:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "622KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kwYquBB9lhrF3nmVDKWc_RV_O-S-SGnc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kwYquBB9lhrF3nmVDKWc_RV_O-S-SGnc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "ACF7C388F41B04CD662E390E408D0408",
+   "sender": "אורלי",
+   "text": "בוקר טוב,\nאפשר לשלוח שוב, בבקשה.",
+   "ts": 1791344866000,
+   "date": "2026-10-07",
+   "time": "06:47",
+   "files": [],
+   "drive": null,
+   "phone": "972503232006"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-06T17:48:38.997Z",
+ "updated": "2026-10-07T05:37:45.452Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -534,6 +534,48 @@
    "files": [],
    "drive": null,
    "phone": "972528686062"
+  },
+  {
+   "id": "4A29A61B0DD03902750D",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791346565000,
+   "date": "2026-10-07",
+   "time": "07:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1U5SnYo8fVPLiosg3UDOMui2AmR9ag2Jy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U5SnYo8fVPLiosg3UDOMui2AmR9ag2Jy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "A5B0488282FE353BC948C57C2C125D4B",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "*פרטים להרשמה:* 👇🏻\n🏫 *להסבר על ההשתלמות הא-סנכרונית במשנה-* https://drive.google.com/file/d/19QZsD_P-OKRB78f1O1Nvke9Zm_dVcYOl/view?usp=sharing\n\n🖥️ *הרשמה דרך מערכת מצפ\"ן – דרך מחשב בלבד:*  \n🔗 https://did.li/MYs6q  \n\n📌 *יש להקליד בשורת החיפוש:*  \n*פתרון למידה – מס' 200761*",
+   "ts": 1791351443000,
+   "date": "2026-10-07",
+   "time": "08:37",
+   "files": [],
+   "drive": null,
+   "phone": "972527139520"
+  },
+  {
+   "id": "A57AE725F94E7E4BA5DBD309A2D40C32",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "כן, אפשר להירשם. אבל תזדרזו כי נשארו ימים אחרונים להרשמה",
+   "ts": 1791351444000,
+   "date": "2026-10-07",
+   "time": "08:37",
+   "files": [],
+   "drive": null,
+   "phone": "972527139520"
   }
  ]
 }

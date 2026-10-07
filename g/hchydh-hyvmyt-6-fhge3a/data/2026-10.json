@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-10-06T19:33:52.394Z",
+ "updated": "2026-10-07T05:32:45.382Z",
  "messages": [
   {
    "id": "3EB0B3E2508A48B76E72A4",
@@ -340,6 +340,26 @@
      "path": "https://drive.google.com/file/d/1t-ARjPQ0cB4rPx5EwfEO3bLJMt9u0AOY/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1t-ARjPQ0cB4rPx5EwfEO3bLJMt9u0AOY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0168B8D8C527A9D4C1E",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "🕯️ *מהו  המושג הרמוז בתמונה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://forms.gle/KJM5viL4zYMHsgEB7\n\n👈 *יש לכם חברים שעדיין לא חברים בקהילה?* \nהנה קישור ההצטרפות:\nשנזכה לבשורות טובות",
+   "ts": 1791351157000,
+   "date": "2026-10-07",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VJ5og9S62qF4VNb_K9ZhxH9qFO6vWjs3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VJ5og9S62qF4VNb_K9ZhxH9qFO6vWjs3&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-06T18:44:16.176Z",
+ "updated": "2026-10-07T03:27:11.425Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -1087,6 +1087,37 @@
    "files": [],
    "drive": null,
    "phone": "972527527707"
+  },
+  {
+   "id": "AC92296AFEB4335F0F4E2ED3ACC5061E",
+   "sender": "ronentayar",
+   "text": "*זהו זה...הערבים מאמינים שראש הממשלה בנימין נתניהו הוא שליח אלוהים*",
+   "ts": 1791338150000,
+   "date": "2026-10-07",
+   "time": "04:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1NnqBMfCiy0M0lsZW6Aj5i1vNWQrdVr9-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NnqBMfCiy0M0lsZW6Aj5i1vNWQrdVr9-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523730397"
+  },
+  {
+   "id": "AC1A981A6368F2D4388443DC0A94384D",
+   "sender": ". ראובן זלצר",
+   "text": "הרבי בירך את ביבי בקול נגד 119 חברים שליח השם לא יעזור כלום ביבי יבחר עד שהמשיח יגיע תיכף מיד מממש 120 חברי כנסת וביבי הוא הראש עד המשיח",
+   "ts": 1791343609000,
+   "date": "2026-10-07",
+   "time": "06:26",
+   "files": [],
+   "drive": null,
+   "phone": "972545700335"
   }
  ]
 }

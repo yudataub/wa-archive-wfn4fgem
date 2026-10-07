@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-06T23:56:27.988Z",
+ "updated": "2026-10-07T05:19:49.926Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2082,6 +2082,17 @@
    "files": [],
    "drive": null,
    "phone": "972502123444"
+  },
+  {
+   "id": "ACAF6425FCA44739DF1E3C0577B7D550",
+   "sender": "אביגיל לויסון",
+   "text": "ממליץ גם לשלב את השיר שבקישור הבא : https://www.youtube.com/watch?v=FRWeYmodC2I",
+   "ts": 1791350370000,
+   "date": "2026-10-07",
+   "time": "08:19",
+   "files": [],
+   "drive": null,
+   "phone": "972505945489"
   }
  ]
 }

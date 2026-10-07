@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-06T04:01:41.674Z",
+ "updated": "2026-10-07T03:11:29.456Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -218,6 +218,26 @@
      "path": "https://drive.google.com/file/d/1DEyQWzA8gQp5x2iIiGBzun4GpQFI0gnd/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1DEyQWzA8gQp5x2iIiGBzun4GpQFI0gnd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A26365336813C2E1E09",
+   "sender": ".",
+   "text": "״כגון תשע חנויות״ (בכורות יט, ב).",
+   "ts": 1791342670000,
+   "date": "2026-10-07",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13X5jhhx5--gMRQeGi_zhhHRH8YNDNsS-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13X5jhhx5--gMRQeGi_zhhHRH8YNDNsS-&sz=w1200"
     }
    ],
    "drive": null,
