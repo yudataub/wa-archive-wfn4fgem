@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-06T21:18:23.572Z",
+ "updated": "2026-10-07T00:45:09.190Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -454,6 +454,25 @@
    "files": [],
    "drive": null,
    "phone": "972545369985"
+  },
+  {
+   "id": "AC1D51136B5A72F4ABE49E4AD35B917B",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1791333878000,
+   "date": "2026-10-07",
+   "time": "03:44",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1msyutHcQI-qYhhGQYJDCilB_beNTaYKm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
   }
  ]
 }

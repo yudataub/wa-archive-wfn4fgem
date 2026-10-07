@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-06T20:05:15.520Z",
+ "updated": "2026-10-06T22:57:08.725Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -8017,7 +8017,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/13_xB1xOlhQS1JgkP992oDx3_7e_U6pfG/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=13_xB1xOlhQS1JgkP992oDx3_7e_U6pfG&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=13_xB1xOlhQS1JgkP992oDx3_7e_U6pfG&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/AC25E80C978ED0EFECC050562BB43D3B_0.mp4"
     }
    ],
    "drive": null,
@@ -8108,6 +8109,39 @@
    ],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "AC871E28400C2BAC7AD5FFD1C5A68C03",
+   "sender": "אלי גבאי, עו\"ד זק\"א צפון",
+   "text": "משהו שמע יריות עכשיו ???",
+   "ts": 1791326164000,
+   "date": "2026-10-07",
+   "time": "01:36",
+   "files": [],
+   "drive": null,
+   "phone": "972525554380"
+  },
+  {
+   "id": "2AB3F21B2C1A6799F9D1",
+   "sender": "משה אלפסי תיווך נדלן",
+   "text": "מרכז קרית אתא",
+   "ts": 1791326266000,
+   "date": "2026-10-07",
+   "time": "01:37",
+   "files": [],
+   "drive": null,
+   "phone": "972523614658"
+  },
+  {
+   "id": "ACD9FF1DEFC0471FF15B8BFE3DEB5337",
+   "sender": "יעקב אנקווה",
+   "text": "מתי היה ?",
+   "ts": 1791327409000,
+   "date": "2026-10-07",
+   "time": "01:56",
+   "files": [],
+   "drive": null,
+   "phone": "972522643634"
   }
  ]
 }

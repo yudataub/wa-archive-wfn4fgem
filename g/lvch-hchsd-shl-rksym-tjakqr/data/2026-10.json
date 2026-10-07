@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-06T20:40:22.993Z",
+ "updated": "2026-10-06T21:54:30.713Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -3184,6 +3184,37 @@
    "files": [],
    "drive": null,
    "phone": "972548424993"
+  },
+  {
+   "id": "ACC5ACC96C14B15F76345D69DBE90551",
+   "sender": "אצל מערכות",
+   "text": "📇 פנחס רפד\n+972522610858",
+   "ts": 1791323483000,
+   "date": "2026-10-07",
+   "time": "00:51",
+   "files": [],
+   "drive": null,
+   "phone": "972584177325"
+  },
+  {
+   "id": "3EB09526184661BC3C0884",
+   "sender": "kenig",
+   "text": "",
+   "ts": 1791323664000,
+   "date": "2026-10-07",
+   "time": "00:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RDa7cW3I3QdSCfNxBaHzCsFBbDPAOJVc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RDa7cW3I3QdSCfNxBaHzCsFBbDPAOJVc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587165948"
   }
  ]
 }

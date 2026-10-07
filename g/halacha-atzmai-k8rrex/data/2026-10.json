@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-06T20:21:45.824Z",
+ "updated": "2026-10-06T21:45:30.598Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1011,6 +1011,26 @@
    "files": [],
    "drive": null,
    "phone": "972502833330"
+  },
+  {
+   "id": "AC879984C8C73CEFDC217C5ECFE7C25F",
+   "sender": "~עדי פינטו~",
+   "text": "מחילה על השעה.\n\nמטלה מס' 1- שנה ב'\n\nחילקתי את התלמידות ל6 קבוצות והכנתי 3 תחנות כפולות של משחקים (משחק זכרון, תפזורת ורבעיות). היה שיעור ראשוני, חזרה ורענון על כללי נש\"ר. \n*עבדנו על המיומנויות הבין אישיות.",
+   "ts": 1791323099000,
+   "date": "2026-10-07",
+   "time": "00:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HGyhI5IAmv8Wq0dYYI8jHmuA4BohS2Gp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HGyhI5IAmv8Wq0dYYI8jHmuA4BohS2Gp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972536233532"
   }
  ]
 }

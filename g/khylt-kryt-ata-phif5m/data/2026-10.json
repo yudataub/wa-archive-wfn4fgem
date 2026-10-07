@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-06T15:02:24.756Z",
+ "updated": "2026-10-06T22:49:08.592Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2132,6 +2132,37 @@
    ],
    "drive": null,
    "phone": "972524290382"
+  },
+  {
+   "id": "A5AF087913773F43CF08E88400B70745",
+   "sender": "המתוקים של אבישג",
+   "text": "מישהו שמע ?יודע משהו ?",
+   "ts": 1791326943000,
+   "date": "2026-10-07",
+   "time": "01:49",
+   "files": [],
+   "drive": null,
+   "phone": "972532406993"
+  },
+  {
+   "id": "A5D3CA27BCC2C374A06BACDC826A1AB6",
+   "sender": "המתוקים של אבישג",
+   "text": "",
+   "ts": 1791326943000,
+   "date": "2026-10-07",
+   "time": "01:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Pj4pJwKU1fBLr1Lbq2o3eowAh1y_qMfN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pj4pJwKU1fBLr1Lbq2o3eowAh1y_qMfN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532406993"
   }
  ]
 }
