@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-10-07T12:52:57.727Z",
+ "updated": "2026-10-07T14:20:41.862Z",
  "messages": [
   {
    "id": "AC0E2F39203F3D5A2320D22DC7E99B26",
@@ -127,6 +127,25 @@
    "files": [],
    "drive": null,
    "phone": "972556831973"
+  },
+  {
+   "id": "ACC81331E99C2008184E8CF47D66CD0E",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1791382811000,
+   "date": "2026-10-07",
+   "time": "17:20",
+   "files": [
+    {
+     "name": ". ai מצגת מקסימה השתלשלות משנה.pdf",
+     "size": "5.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1wc0wACthb6eaaGGqAJvwFBndZuMKG0cV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
   }
  ]
 }

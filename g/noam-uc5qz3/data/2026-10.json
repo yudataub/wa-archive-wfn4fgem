@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-07T12:37:10.340Z",
+ "updated": "2026-10-07T17:02:16.453Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -595,6 +595,186 @@
    ],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "ACF5B52DBCBFE27C07A3BAC70F8BF4E4",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1791384238000,
+   "date": "2026-10-07",
+   "time": "17:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12AnSGF_M3ufnzNil4QQAcQs-IU3ec0j2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12AnSGF_M3ufnzNil4QQAcQs-IU3ec0j2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC1226A18117E6F5DDA05AD9FCDBC0E6",
+   "sender": "הילה שמר",
+   "text": "מקסים ומרגש!❤️",
+   "ts": 1791384917000,
+   "date": "2026-10-07",
+   "time": "17:55",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACE2AED3AC1978F6275E7A728BAB55CF",
+   "sender": "הילה שמר",
+   "text": "לשלוח להורים?",
+   "ts": 1791384926000,
+   "date": "2026-10-07",
+   "time": "17:55",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACE8088EE3F1063D9263D33F603CA72C",
+   "sender": "מלכה טרבלסקי",
+   "text": "רגע חכו....\nאורלי מוסיפה ילדים...",
+   "ts": 1791384945000,
+   "date": "2026-10-07",
+   "time": "17:55",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC049ED840989B6C9056294FDE6D2FA6",
+   "sender": "נשואה למלך ואמא לנסיכים👑",
+   "text": "אפשר גם לשלוח?",
+   "ts": 1791385013000,
+   "date": "2026-10-07",
+   "time": "17:56",
+   "files": [],
+   "drive": null,
+   "phone": "972555686935"
+  },
+  {
+   "id": "ACC287E751CC0D012C39334CF2B679DA",
+   "sender": "אורלי אוחנה",
+   "text": "בוודאי. תשלחי אליי לפרטי",
+   "ts": 1791385042000,
+   "date": "2026-10-07",
+   "time": "17:57",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC60FB138B5E253DD25AC8B1B3267EF0",
+   "sender": "אורלי אוחנה",
+   "text": "הילה תסדר את זה ונשלח בהמשך.",
+   "ts": 1791385672000,
+   "date": "2026-10-07",
+   "time": "18:07",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC99A9F22F2405DBFA47AF5F48154FF8",
+   "sender": "אורלי אוחנה",
+   "text": "תזכורת📝📝\nזום מחנכות בשעה 20:00",
+   "ts": 1791386182000,
+   "date": "2026-10-07",
+   "time": "18:16",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0C6F1D143A534006DB0",
+   "sender": "מלכה טרבלסקי",
+   "text": "",
+   "ts": 1791388085000,
+   "date": "2026-10-07",
+   "time": "18:48",
+   "files": [
+    {
+     "name": "הדרכה על כלי תנופה פנימיים _ מתמטיקה א.pdf",
+     "size": "861KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XuxAWUsQ7L4dJHQAYaqJg2450CWtMBgg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC24056F3A0D1695DBFCEC099383639E",
+   "sender": "מלכה טרבלסקי",
+   "text": "כל המורות המלמדות בכיתה א\nמבדק יסודות\n(כמו שנה שעברה....)\n\nיש הדרכה",
+   "ts": 1791388121000,
+   "date": "2026-10-07",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC88FE9E73BDD51F4AD96B333ED6E621",
+   "sender": "אורלי אוחנה",
+   "text": "https://edu-il.zoom.us/j/3963853883\n\nקשור לזום בשעה שמונה",
+   "ts": 1791388779000,
+   "date": "2026-10-07",
+   "time": "18:59",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB011603B9F630CD24C14",
+   "sender": "וואצאפ כשר",
+   "text": "*תשפז❤️*\n\n[image: 90790 (1).jpg]\n\nהועבר אוטומטית · מאת: \"נועה\" <n0556799896@gmail.com> · תאריך מקורי:\n07/10/2026 19:02",
+   "ts": 1791389210000,
+   "date": "2026-10-07",
+   "time": "19:06",
+   "files": [],
+   "drive": null,
+   "phone": "972552671189"
+  },
+  {
+   "id": "3EB012AEC3BC8CC0E90C6F",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "כל מורה שחסר בכיתה שלה חומשים לילדים \nקיבלתי תרומה של המון המון חומשים - \nרק תגידי כמה ומחר בעז''ה תקבלו לכיתה.",
+   "ts": 1791390238000,
+   "date": "2026-10-07",
+   "time": "19:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527139520"
+  },
+  {
+   "id": "ACBE3398E968715C0D9A9B63CD7FAB31",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1791392515000,
+   "date": "2026-10-07",
+   "time": "20:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "16.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1AKGB8EdXhI_S_jM-vd9jrOATUR3TiAk-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AKGB8EdXhI_S_jM-vd9jrOATUR3TiAk-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-07T13:27:41.034Z",
+ "updated": "2026-10-07T14:44:42.124Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -2046,6 +2046,48 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "ACAEF20FB0B26ACA52C2E4DCE4BEC4E5",
+   "sender": "אסתר כהן",
+   "text": "ביט למס הטלפון שלך נכון?",
+   "ts": 1791383647000,
+   "date": "2026-10-07",
+   "time": "17:34",
+   "files": [],
+   "drive": null,
+   "phone": "972524333486"
+  },
+  {
+   "id": "A5CB36EA41E0D6CB151736574D910C23",
+   "sender": "ווקי שרון מרגולין",
+   "text": "הי כן",
+   "ts": 1791383680000,
+   "date": "2026-10-07",
+   "time": "17:34",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A59E566BFF8F2B9F46324C4F10CE57E3",
+   "sender": "תמר חמאדה",
+   "text": "✨ מילים שעושות קסם | 7\n\nהפעם הופכים חומר לימודי למצגת בלשית בסגנון וינטאג׳ ב־NotebookLM  עם חידות, רמזים ותיקי חקירה!\n\nאיך יוצרים?\n\n1. נכנסים ל־NotebookLM ופותחים מחברת חדשה.\n2. מעלים מקורות מידע רלוונטיים לנושא.\n3. ב־Studio, פותחים את ההתאמה האישית של יצירת המצגת.\n4. מדביקים את הפרומפט, משלימים את הפרטים שבסוגריים — הנושא, קהל היעד ומספר תיקי החקירה — ויוצרים.\n\nלפרומפט המלא להעתקה\n https://docs.google.com/document/d/1C06zOt6WIT38U64y7Bes0FwwCKNsHMFpaU0C1J3qwQA/edit?usp=drivesdk)\n\nלמצגת הדוגמה שיצרתי\nhttps://drive.google.com/file/d/10EbQw4cpmufosHNgGx9B_eC8_9E6_rOC/view?usp=drivesdk)\n\nלפני השימוש בכיתה, בדקו את התוכן ואת הפתרונות.\n\nאיזה נושא תהפכו לחקירה? שתפו אותנו במצגות ובדרך שבה התאמתם את הפרומפט!\n\nרעיונות פוגשים בינה | תמר חמאדה\n\nהצטרפות לקהילה",
+   "ts": 1791384257000,
+   "date": "2026-10-07",
+   "time": "17:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "332KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hx1wJ1cSPkv7zylFBWff8r4ituUTl-4x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hx1wJ1cSPkv7zylFBWff8r4ituUTl-4x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

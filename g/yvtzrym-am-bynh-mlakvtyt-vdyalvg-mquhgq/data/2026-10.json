@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-07T10:27:38.531Z",
+ "updated": "2026-10-07T14:29:11.946Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -1076,6 +1076,26 @@
      "path": "https://drive.google.com/file/d/1d_1qdpsecVJvv8RytFRPSkPVENCIHDUd/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1d_1qdpsecVJvv8RytFRPSkPVENCIHDUd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC09C25A96006F85606A87B3C3D823A1",
+   "sender": "נועם",
+   "text": "זה המצב 🤷",
+   "ts": 1791383327000,
+   "date": "2026-10-07",
+   "time": "17:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1b49EzQgrzaC7Dev4F3pYvfK6YHD-o_0n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b49EzQgrzaC7Dev4F3pYvfK6YHD-o_0n&sz=w1200"
     }
    ],
    "drive": null,

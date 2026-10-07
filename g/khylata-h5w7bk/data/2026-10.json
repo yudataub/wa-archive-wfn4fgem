@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-07T13:24:28.159Z",
+ "updated": "2026-10-07T15:54:20.353Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -1878,7 +1878,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1LdIkwhpGX2uH05a5Uv8DmsSfpbglwb8V/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1LdIkwhpGX2uH05a5Uv8DmsSfpbglwb8V&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1LdIkwhpGX2uH05a5Uv8DmsSfpbglwb8V&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylata-h5w7bk/v/2026-10/AC904234FC677D55968119F2909DFDC7_0.mp4"
     }
    ],
    "drive": null,
@@ -1978,6 +1979,70 @@
    "files": [],
    "drive": null,
    "phone": "972547838628"
+  },
+  {
+   "id": "ACB675E039D8AC7092BD89253F30C639",
+   "sender": "שרון😄",
+   "text": "*רעיון מהפרשה*\nבכל שבוע, ביום שישי ב10:00 בבוקר, אנחנו מתכנסות ללימוד קצר, \n*חינמי לגמרי!*",
+   "ts": 1791380837000,
+   "date": "2026-10-07",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC61B28B40B7C427EF4F0F43B06403B6",
+   "sender": "נורית גאון",
+   "text": "בוא לעשות כסף דרושים עובדים שכר מעל 100 שח מוזמנים להצטרף",
+   "ts": 1791381498000,
+   "date": "2026-10-07",
+   "time": "16:58",
+   "files": [],
+   "drive": null,
+   "phone": "972524305483"
+  },
+  {
+   "id": "3EB0BF34A0B74530A191BC",
+   "sender": "אורית מאימן",
+   "text": "",
+   "ts": 1791385522000,
+   "date": "2026-10-07",
+   "time": "18:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "212KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v26vrT8YXO7AVI3E6InmHS-LkqV2nMtN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v26vrT8YXO7AVI3E6InmHS-LkqV2nMtN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505444039"
+  },
+  {
+   "id": "ACF5614CF3DA78B672F8B5604ECBD280",
+   "sender": "🌀סברינה שטיינר🌀",
+   "text": "לא סת''ם סרטון!\nhttps://ravgan.sipoor.co.il/watch/5742c26a-9133-47aa-a654-ada237f202c4?r=tamir",
+   "ts": 1791388428000,
+   "date": "2026-10-07",
+   "time": "18:53",
+   "files": [],
+   "drive": null,
+   "phone": "972526714233"
+  },
+  {
+   "id": "ACABCB621AC3D726DEB31A46E225842D",
+   "sender": "🌀סברינה שטיינר🌀",
+   "text": "סרטון חמוד לילדים מגיסי היקר!",
+   "ts": 1791388459000,
+   "date": "2026-10-07",
+   "time": "18:54",
+   "files": [],
+   "drive": null,
+   "phone": "972526714233"
   }
  ]
 }

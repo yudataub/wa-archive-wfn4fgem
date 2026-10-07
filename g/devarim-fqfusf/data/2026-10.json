@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-07T06:44:32.434Z",
+ "updated": "2026-10-07T17:07:46.555Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -1218,6 +1218,156 @@
    "files": [],
    "drive": null,
    "phone": "972506544492"
+  },
+  {
+   "id": "ACABD037B67647AE06B8F9ED50F39F4E",
+   "sender": "שמואל נחמני",
+   "text": "אשמח אם מישהו יכול לשלוח אלי שוב🙏",
+   "ts": 1791383104000,
+   "date": "2026-10-07",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "phone": "972547439677"
+  },
+  {
+   "id": "AC5D56F28741DAD96E752E1C5073F3ED",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1791383510000,
+   "date": "2026-10-07",
+   "time": "17:31",
+   "files": [],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "ACEFB754ABED8F8E8216A593D19735E9",
+   "sender": "לימור",
+   "text": "למה לא יורדות השקופיות?",
+   "ts": 1791384633000,
+   "date": "2026-10-07",
+   "time": "17:50",
+   "files": [],
+   "drive": null,
+   "phone": "972509904253"
+  },
+  {
+   "id": "AC0122EB20CF8580A9F09BF65098E63A",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791384784000,
+   "date": "2026-10-07",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "שמואל ב פרק ד (1).pptx",
+     "size": "161KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/17fmGI_AUcGG2YMR80q0VFJt8eUkZ53gr/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACFAC6E3C596CF86589CB448B09BCA4B",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791384786000,
+   "date": "2026-10-07",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "שמואל ב פרק ז (1).pptx",
+     "size": "3.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1OqWCXUKcHh9EiHr0AFmJ7yPNVbfLNQ0c/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACC625A90ECC5430722037347B8D071A",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791384800000,
+   "date": "2026-10-07",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "שמואל ב פרק ה (1).pptx",
+     "size": "4.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Py71N-ACm6cH8Q9Hx_cMYNqa1VU8YqZ7/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACC3BC5312D8BDFA680F869D1D0564BA",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791384814000,
+   "date": "2026-10-07",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "שמואל ב פרק ו מעודכן.pptx",
+     "size": "4.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1MPRLUVpHDYvFCp7UJiPw-GMKK2tuaLMN/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "3EB0DA0984BD34F5242612",
+   "sender": "יעל עבדי",
+   "text": "האם קיים מאגר של משימות 5 דקות על ספר דברים? ראיתי רק על פרקים א-ג",
+   "ts": 1791392206000,
+   "date": "2026-10-07",
+   "time": "19:56",
+   "files": [],
+   "drive": null,
+   "phone": "972586456865"
+  },
+  {
+   "id": "A5F16EBDAEDB5DA82893FD8BCCA82E6C",
+   "sender": "ריבי קעניג",
+   "text": "https://canva.link/4r8y5cay235r41a",
+   "ts": 1791392830000,
+   "date": "2026-10-07",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "phone": "972548147702"
+  },
+  {
+   "id": "A5D06EB80677C9C1F169EF841174FF2E",
+   "sender": "ריבי קעניג",
+   "text": "",
+   "ts": 1791392837000,
+   "date": "2026-10-07",
+   "time": "20:07",
+   "files": [
+    {
+     "name": "הקדמה לחומש דברים.pdf",
+     "size": "19KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1cFU2uRUuNeP0qnb7FIuBLfMfH0HpBR1A/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548147702"
   }
  ]
 }

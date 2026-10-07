@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-07T09:08:22.159Z",
+ "updated": "2026-10-07T16:45:28.005Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -623,6 +623,58 @@
    ],
    "drive": null,
    "phone": "972502833330"
+  },
+  {
+   "id": "AC77D4260DE7DBDC36F496C67CEAB564",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791388189000,
+   "date": "2026-10-07",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "halaha4.pdf",
+     "size": "498KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1hhkJX1rOBXQeVXnFPKk55laJYOqMMMuQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC0CD30935415CB40C6FB84134E0C9CD",
+   "sender": "אביבה יחיאל",
+   "text": "אבקש דף עבודה על הנושא משיב הרוח ומוריד הגשם\nלכיתה ה'",
+   "ts": 1791389029000,
+   "date": "2026-10-07",
+   "time": "19:03",
+   "files": [],
+   "drive": null,
+   "phone": "972504188931"
+  },
+  {
+   "id": "AC3D10C6C0E76542CE41191BD385C77B",
+   "sender": "אפרת חסן",
+   "text": "אשמח לחומרים בנושא השכמת בוקר🙏🏼",
+   "ts": 1791391052000,
+   "date": "2026-10-07",
+   "time": "19:37",
+   "files": [],
+   "drive": null,
+   "phone": "972547531027"
+  },
+  {
+   "id": "AC203B6C0D0AB2C538AA5E2BCBC8E1A0",
+   "sender": "אתי",
+   "text": "ערב, אשמח למצגת בנושא הלכות שבת. תודה",
+   "ts": 1791391500000,
+   "date": "2026-10-07",
+   "time": "19:45",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-07T12:33:53.497Z",
+ "updated": "2026-10-07T16:11:57.404Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -684,6 +684,100 @@
    ],
    "drive": null,
    "phone": "972555694970"
+  },
+  {
+   "id": "AC46E9005CC74B5BF3B8AF28572C849B",
+   "sender": "יעלללללל👻",
+   "text": "מקסים! ממש תודה!",
+   "ts": 1791381929000,
+   "date": "2026-10-07",
+   "time": "17:05",
+   "files": [],
+   "drive": null,
+   "phone": "972504441966"
+  },
+  {
+   "id": "ACE12DAEAF5F52D7B2465F7589093C34",
+   "sender": "הילה דניאל",
+   "text": "יש אפשרות לשלוח שוב את הקובץ.🙏 הוא לא נפתח",
+   "ts": 1791383233000,
+   "date": "2026-10-07",
+   "time": "17:27",
+   "files": [],
+   "drive": null,
+   "phone": "972507998613"
+  },
+  {
+   "id": "AC30C3097A89096F86107BBF79B8A986",
+   "sender": "מירה פריד",
+   "text": "",
+   "ts": 1791387295000,
+   "date": "2026-10-07",
+   "time": "18:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gdtA-XZAqatrwOZPDxKb4N87WIEwrHwA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gdtA-XZAqatrwOZPDxKb4N87WIEwrHwA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543453284"
+  },
+  {
+   "id": "ACAE5FE694BB87FB32F4C74656F845BE",
+   "sender": "מירה פריד",
+   "text": "https://wa.me/542384887",
+   "ts": 1791387297000,
+   "date": "2026-10-07",
+   "time": "18:34",
+   "files": [],
+   "drive": null,
+   "phone": "972543453284"
+  },
+  {
+   "id": "AC0EA5633F7FD95D462F935DA48E8F6A",
+   "sender": "מירה פריד",
+   "text": "לכל המעוניינים לתוספת חוויה בתורה.",
+   "ts": 1791387310000,
+   "date": "2026-10-07",
+   "time": "18:35",
+   "files": [],
+   "drive": null,
+   "phone": "972543453284"
+  },
+  {
+   "id": "3A7FA26DF01D35480E4F",
+   "sender": "Avigail",
+   "text": "דפי עבודה לספר יהושוע מנוקד יש ?",
+   "ts": 1791387959000,
+   "date": "2026-10-07",
+   "time": "18:45",
+   "files": [],
+   "drive": null,
+   "phone": "972535834186"
+  },
+  {
+   "id": "AC0CA5A6848D1BBBDE8ADCB30226C02F",
+   "sender": "הודיה זיני",
+   "text": "",
+   "ts": 1791389511000,
+   "date": "2026-10-07",
+   "time": "19:11",
+   "files": [
+    {
+     "name": "סימנייה לחומש שמות.pdf",
+     "size": "77KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1vsKcJGFvIzA5EdMDpLUMBnUz0FAcKGWj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584263284"
   }
  ]
 }

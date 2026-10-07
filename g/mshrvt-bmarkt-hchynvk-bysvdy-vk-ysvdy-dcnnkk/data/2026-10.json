@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-07T12:38:27.495Z",
+ "updated": "2026-10-07T15:16:49.791Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -1082,6 +1082,37 @@
    "files": [],
    "drive": null,
    "phone": "972534170818"
+  },
+  {
+   "id": "A554B4E271BD687F4343FF34EA71884A",
+   "sender": "עתיד ירוק",
+   "text": "",
+   "ts": 1791385564000,
+   "date": "2026-10-07",
+   "time": "18:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17dh1pd5bbJ6QKFhauzp6gdzWAXt1RQLR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17dh1pd5bbJ6QKFhauzp6gdzWAXt1RQLR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526661215"
+  },
+  {
+   "id": "3EB096F4288C454B1D4416",
+   "sender": "עתיד ירוק",
+   "text": "בנתניה",
+   "ts": 1791386195000,
+   "date": "2026-10-07",
+   "time": "18:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526661215"
   }
  ]
 }

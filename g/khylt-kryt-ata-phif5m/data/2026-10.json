@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-07T11:13:46.949Z",
+ "updated": "2026-10-07T17:20:04.284Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2273,7 +2273,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1v6aKkqeaoTX-irlrAGNDHoNYdd_DxPVm/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1v6aKkqeaoTX-irlrAGNDHoNYdd_DxPVm&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1v6aKkqeaoTX-irlrAGNDHoNYdd_DxPVm&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2A2866484D20A4CE2139_0.mp4"
     }
    ],
    "drive": null,
@@ -2289,6 +2290,36 @@
    "files": [],
    "drive": null,
    "phone": "972538307001"
+  },
+  {
+   "id": "AC8EDD4CA8E2B0413E421D50E81634BF",
+   "sender": "עדנה שווט",
+   "text": "למסירה בדים לבנים לסוכה בגודל 2.5*2.5",
+   "ts": 1791393470000,
+   "date": "2026-10-07",
+   "time": "20:17",
+   "files": [],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "AC210BD8E7FAC7ED63D2517749E6A52F",
+   "sender": "לב פיינר",
+   "text": "",
+   "ts": 1791393594000,
+   "date": "2026-10-07",
+   "time": "20:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "57KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1VkNcDsa3tZtGToyKty5wrVgMtBopiQSG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537281557"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-10-07T13:09:57.965Z",
+ "updated": "2026-10-07T17:22:34.347Z",
  "messages": [
   {
    "id": "A5C84B0636B2C6BFD91B867288D03D38",
@@ -1855,6 +1855,114 @@
    "files": [],
    "drive": null,
    "phone": "972503388444"
+  },
+  {
+   "id": "3A1E55901E5B8252737C",
+   "sender": "אסתי שיינר",
+   "text": "יש כאן מעשהי שנרשמה להשלמה לתואר ראשון במכללה ירושלים?",
+   "ts": 1791385747000,
+   "date": "2026-10-07",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972584413305"
+  },
+  {
+   "id": "AC160DCECDA784A85BD964CDED3673D7",
+   "sender": "אבישג עבאדה",
+   "text": "קניתי\nויש לי מספר הזמנה ולא קוד קופון.. מה עושים?",
+   "ts": 1791392882000,
+   "date": "2026-10-07",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972528027773"
+  },
+  {
+   "id": "ACBDDB7FA0444C2837520AE758DD4057",
+   "sender": "meravkaro10",
+   "text": "שימו לב שזה ניתן למימוש רק עד מחר",
+   "ts": 1791393024000,
+   "date": "2026-10-07",
+   "time": "20:10",
+   "files": [],
+   "drive": null,
+   "phone": "972539799475"
+  },
+  {
+   "id": "ACF248243329A4BA67266838CF519698",
+   "sender": "אבישג עבאדה",
+   "text": "איך מוציאים את הקוד קופון?",
+   "ts": 1791393342000,
+   "date": "2026-10-07",
+   "time": "20:15",
+   "files": [],
+   "drive": null,
+   "phone": "972528027773"
+  },
+  {
+   "id": "ACA4408B6FCFA9FF6D5B039EBCA4BBED",
+   "sender": "שולי",
+   "text": "שלחו לך הודעה sms?\nאת אומרת את המספר בקופה וזה יורד",
+   "ts": 1791393502000,
+   "date": "2026-10-07",
+   "time": "20:18",
+   "files": [],
+   "drive": null,
+   "phone": "972535678301"
+  },
+  {
+   "id": "AC8568D02CFFD004E18AE242626C6C20",
+   "sender": "🎶🎵🎶",
+   "text": "אני הייתי היום בקרפור ונץנתע להם מספר ששלוח לי למייל \nאני תכף ישלח לך צילום מסך",
+   "ts": 1791393552000,
+   "date": "2026-10-07",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972559713890"
+  },
+  {
+   "id": "AC15110DEBBC0ED364C2A5ABAEB540D2",
+   "sender": "🎶🎵🎶",
+   "text": "",
+   "ts": 1791393645000,
+   "date": "2026-10-07",
+   "time": "20:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "32KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dmvXzivTbSUKWkT1coz5lNhSk0kNeSDD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dmvXzivTbSUKWkT1coz5lNhSk0kNeSDD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559713890"
+  },
+  {
+   "id": "AC5A236709BB1476593D5E3B97390843",
+   "sender": "🎶🎵🎶",
+   "text": "דרך אגב זה עד מחר",
+   "ts": 1791393657000,
+   "date": "2026-10-07",
+   "time": "20:20",
+   "files": [],
+   "drive": null,
+   "phone": "972559713890"
+  },
+  {
+   "id": "AC5AFC908A210167DDD1AB2625B25C21",
+   "sender": "אבישג עבאדה",
+   "text": "תודה לכולן על העזרה ! \nובכלל על השיתופים💕",
+   "ts": 1791393753000,
+   "date": "2026-10-07",
+   "time": "20:22",
+   "files": [],
+   "drive": null,
+   "phone": "972528027773"
   }
  ]
 }

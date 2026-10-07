@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-10-07T10:43:54.745Z",
+ "updated": "2026-10-07T16:12:27.478Z",
  "messages": [
   {
    "id": "A56435C4B5D54A46720DFCF71EF39E08",
@@ -1051,6 +1051,26 @@
    "date": "2026-10-07",
    "time": "13:43",
    "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A52A9B2B518F96AB26B2C251AA335C5D",
+   "sender": "י",
+   "text": "*רימון עשן אותר בידי ילדים בקריית ביאליק וטופל על ידי חבלן משטרה* \nאין נפגעים באירוע.\n\nלכל העדכונים👇",
+   "ts": 1791389526000,
+   "date": "2026-10-07",
+   "time": "19:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "30KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aNPAEu8_XZs_qPBg8msnH20t8GMqyPOp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aNPAEu8_XZs_qPBg8msnH20t8GMqyPOp&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506064441"
   }

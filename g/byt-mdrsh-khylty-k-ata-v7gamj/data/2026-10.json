@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-07T13:16:58.069Z",
+ "updated": "2026-10-07T13:58:34.777Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -990,11 +990,23 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1PytEKsvXRS--GPWn4Z36FIVazZfXUPpk/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1PytEKsvXRS--GPWn4Z36FIVazZfXUPpk&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1PytEKsvXRS--GPWn4Z36FIVazZfXUPpk&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/AC365367A17FFFE317E9D98B797B8454_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "AC345A3D1C81D2C0C7E26C76EFB37D90",
+   "sender": "אוריאל",
+   "text": "אוווווו\nהיה צריך צבי סוכות אחד כדי להעיר את המערכת...\nחסדי ד'",
+   "ts": 1791381514000,
+   "date": "2026-10-07",
+   "time": "16:58",
+   "files": [],
+   "drive": null,
+   "phone": "972546660233"
   }
  ]
 }

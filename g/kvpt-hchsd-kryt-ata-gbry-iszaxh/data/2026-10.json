@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-07T11:34:47.295Z",
+ "updated": "2026-10-07T13:41:03.831Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -538,6 +538,106 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "AC330AF6E70344C01974864074D3631F",
+   "sender": "משה ורחל טאוב",
+   "text": "למכירה מאזדה 3 Active שנת 2011, מנוע 1.6 אוטומט.\nהרכב עם 200,000 ק״מ, יד 2. מבחינה מכנית הרכב נוסע מצוין, מניע ונוסע כמו שצריך. רכב נוח ואמין שמתאים מאוד לנסיעות יום־יומיות ולמי שמחפש רכב בתקציב נוח.\n\nמחיר: 9,800 ₪ גמיש,\nלפרטים נוספים אפשר לפנות בפרטי",
+   "ts": 1791380451000,
+   "date": "2026-10-07",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MsvrO7hfPyZo4RBeq3VWnCmFIKErkf3h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MsvrO7hfPyZo4RBeq3VWnCmFIKErkf3h&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542403081"
+  },
+  {
+   "id": "ACEF51C9DA7297BDED21B75CAABE6285",
+   "sender": "משה ורחל טאוב",
+   "text": "",
+   "ts": 1791380452000,
+   "date": "2026-10-07",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "294KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c_Wgsg6HGCHaCZZbXl7rW5jyTab1VNiN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c_Wgsg6HGCHaCZZbXl7rW5jyTab1VNiN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542403081"
+  },
+  {
+   "id": "ACEFE76C9FA26C974523714ABD6183EC",
+   "sender": "משה ורחל טאוב",
+   "text": "",
+   "ts": 1791380452000,
+   "date": "2026-10-07",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uE1L0oLYBIAN5YulQXEblqIC1Eba516z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uE1L0oLYBIAN5YulQXEblqIC1Eba516z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542403081"
+  },
+  {
+   "id": "AC0B78A0A0F7A056E777E1062DC68D94",
+   "sender": "משה ורחל טאוב",
+   "text": "",
+   "ts": 1791380453000,
+   "date": "2026-10-07",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t_CTMwdKLw7X5TgSECEqqaqish3GueG4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t_CTMwdKLw7X5TgSECEqqaqish3GueG4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542403081"
+  },
+  {
+   "id": "ACE4EB9C7575B01BB99422DD79FE2E96",
+   "sender": "משה ורחל טאוב",
+   "text": "",
+   "ts": 1791380453000,
+   "date": "2026-10-07",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12Llp20EMqx-zCxVSSGLv7SLvnSq3WL4j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12Llp20EMqx-zCxVSSGLv7SLvnSq3WL4j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542403081"
   }
  ]
 }

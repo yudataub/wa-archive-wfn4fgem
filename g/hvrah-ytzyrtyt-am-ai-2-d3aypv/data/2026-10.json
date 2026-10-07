@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-07T12:47:40.462Z",
+ "updated": "2026-10-07T15:23:42.753Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -591,7 +591,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1CMZzG_spem1lRP561SHWNczlZpGHa6DB/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1CMZzG_spem1lRP561SHWNczlZpGHa6DB&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1CMZzG_spem1lRP561SHWNczlZpGHa6DB&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hvrah-ytzyrtyt-am-ai-2-d3aypv/v/2026-10/3EB00CD06E78BAB402A4B0_0.mp4"
     }
    ],
    "drive": null,
@@ -629,6 +630,92 @@
    "files": [],
    "drive": null,
    "phone": "972528870977"
+  },
+  {
+   "id": "A5F2AC2ECFFD482F7C3C71603F0F1E43",
+   "sender": "תמר חמאדה",
+   "text": "✨ מילים שעושות קסם | 7\n\nהפעם הופכים חומר לימודי למצגת בלשית בסגנון וינטאג׳ ב־NotebookLM  עם חידות, רמזים ותיקי חקירה!\n\nאיך יוצרים?\n\n1. נכנסים ל־NotebookLM ופותחים מחברת חדשה.\n2. מעלים מקורות מידע רלוונטיים לנושא.\n3. ב־Studio, פותחים את ההתאמה האישית של יצירת המצגת.\n4. מדביקים את הפרומפט, משלימים את הפרטים שבסוגריים — הנושא, קהל היעד ומספר תיקי החקירה — ויוצרים.\n\nלפרומפט המלא להעתקה\n https://docs.google.com/document/d/1C06zOt6WIT38U64y7Bes0FwwCKNsHMFpaU0C1J3qwQA/edit?usp=drivesdk)\n\nלמצגת הדוגמה שיצרתי\nhttps://drive.google.com/file/d/10EbQw4cpmufosHNgGx9B_eC8_9E6_rOC/view?usp=drivesdk)\n\nלפני השימוש בכיתה, בדקו את התוכן ואת הפתרונות.\n\nאיזה נושא תהפכו לחקירה? שתפו אותנו במצגות ובדרך שבה התאמתם את הפרומפט!\n\nרעיונות פוגשים בינה | תמר חמאדה\n\nהצטרפות לקהילה",
+   "ts": 1791384263000,
+   "date": "2026-10-07",
+   "time": "17:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "332KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DzMqQ6No8tW89R1NNYvP579ww1dmzBE6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DzMqQ6No8tW89R1NNYvP579ww1dmzBE6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "AC047EA925B0468EF8EB8DBB79C24EE7",
+   "sender": "יערה צדוק",
+   "text": "אשמח לשמוע על כלי שיכול להפוך לי רשימת מילים למשחקים שהילדים יכולים להיכנס ולזכור ולשים התאמה של תמונה למילה וגם שיהיה שמע. תודה",
+   "ts": 1791386289000,
+   "date": "2026-10-07",
+   "time": "18:18",
+   "files": [],
+   "drive": null,
+   "phone": "972504380807"
+  },
+  {
+   "id": "ACEF27E7EC366FCD051D5B79417E08CE",
+   "sender": "dorit tal",
+   "text": "Loveable",
+   "ts": 1791386395000,
+   "date": "2026-10-07",
+   "time": "18:19",
+   "files": [],
+   "drive": null,
+   "phone": "972528870977"
+  },
+  {
+   "id": "AC48B6F1ED4E0B345271AE97289C288F",
+   "sender": "jannaok",
+   "text": "Gemini",
+   "ts": 1791386410000,
+   "date": "2026-10-07",
+   "time": "18:20",
+   "files": [],
+   "drive": null,
+   "phone": "972549260040"
+  },
+  {
+   "id": "AC0E1E6695D634F8E8EB88B81FB80ED4",
+   "sender": "(◠‿◠)  הדסוש 💜",
+   "text": "שאלה איך אני יכולה לפתוח קישור שרשום שצריך לפתוח בvpn?",
+   "ts": 1791386416000,
+   "date": "2026-10-07",
+   "time": "18:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546811694"
+  },
+  {
+   "id": "AC9D522F4182B8909B20DFF87EC7BBB1",
+   "sender": "Orit Arye",
+   "text": "זה חמוד ממש ממש",
+   "ts": 1791386554000,
+   "date": "2026-10-07",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523229752"
+  },
+  {
+   "id": "ACA306094BA983F6CF9A922F3930B9EA",
+   "sender": "עמי חניא",
+   "text": "ClapLab",
+   "ts": 1791386611000,
+   "date": "2026-10-07",
+   "time": "18:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
   }
  ]
 }
