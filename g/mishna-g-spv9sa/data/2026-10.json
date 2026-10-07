@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-06T13:20:12.030Z",
+ "updated": "2026-10-07T12:38:57.503Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -125,6 +125,47 @@
    "files": [],
    "drive": null,
    "phone": "972526005158"
+  },
+  {
+   "id": "3A0F08A37E9A9097E345",
+   "sender": "אפרת יפרח🫶🏻",
+   "text": "יש לכם במקרה עטיפה למחברת משנה ?",
+   "ts": 1791375794000,
+   "date": "2026-10-07",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "phone": "972523571440"
+  },
+  {
+   "id": "3A037CBC973754D18172",
+   "sender": "גלעד",
+   "text": "",
+   "ts": 1791376516000,
+   "date": "2026-10-07",
+   "time": "15:35",
+   "files": [
+    {
+     "name": "מחברת משנה עטיפה.pdf",
+     "size": "350KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1M8jHdkkmCE-ZeAT76AdzAIfBflD_y7RX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528109301"
+  },
+  {
+   "id": "3A05D4E8670F8AFEF397",
+   "sender": "אפרת יפרח🫶🏻",
+   "text": "תודה ענקית",
+   "ts": 1791376718000,
+   "date": "2026-10-07",
+   "time": "15:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523571440"
   }
  ]
 }

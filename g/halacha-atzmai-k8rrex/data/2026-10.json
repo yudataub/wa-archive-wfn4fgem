@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-07T09:12:52.207Z",
+ "updated": "2026-10-07T09:51:00.951Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1062,6 +1062,26 @@
    ],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "AC871A4462F1F48CBD4C8A90495FDA49",
+   "sender": "רננה אזולאי",
+   "text": "את השנה פתחנו בלמידה חוויתית ומשמעותית על עולם התפילה. \nהעמקנו במשמעות של ברכות השחר והתחלנו גם ללמוד ולהבין את משמעות הברכות בתפילת עמידה.\nהילדים נהנו גם מתפזורת מילים בנושא.",
+   "ts": 1791366653000,
+   "date": "2026-10-07",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J0Z8TbJgE9ZnhIgsGJydN3awbVeI4iz0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J0Z8TbJgE9ZnhIgsGJydN3awbVeI4iz0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526637266"
   }
  ]
 }

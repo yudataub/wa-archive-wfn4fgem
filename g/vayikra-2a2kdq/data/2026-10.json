@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-07T09:35:00.704Z",
+ "updated": "2026-10-07T10:20:54.435Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2168,6 +2168,36 @@
    "files": [],
    "drive": null,
    "phone": "972559120800"
+  },
+  {
+   "id": "3EB014DB7041753E4DD654",
+   "sender": "אביטל",
+   "text": "",
+   "ts": 1791368177000,
+   "date": "2026-10-07",
+   "time": "13:16",
+   "files": [
+    {
+     "name": "סימניה ויקרא ושופטים.pdf",
+     "size": "1.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16jpokZqCcCfLx5yByWSmEUgp9zPYRcKh/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527677424"
+  },
+  {
+   "id": "AC4EAF2870F965698B17F78653E2EDCF",
+   "sender": "שושי זלמנוב",
+   "text": "יש את זה מוקלט?",
+   "ts": 1791368444000,
+   "date": "2026-10-07",
+   "time": "13:20",
+   "files": [],
+   "drive": null,
+   "phone": "972587703631"
   }
  ]
 }

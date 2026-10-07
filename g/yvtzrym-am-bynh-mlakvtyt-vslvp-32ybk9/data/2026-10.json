@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-07T08:59:04.519Z",
+ "updated": "2026-10-07T11:38:09.472Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -8564,6 +8564,48 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "ACB0857EF2F3BCE8E0EC2923ECAD5590",
+   "sender": "נועם",
+   "text": "הפורטרייט מוכן - כל 22 הסצינות נבנו מחדש לפריסה אנכית (לא חיתוך), אותה קריינות בדיוק.",
+   "ts": 1791368821000,
+   "date": "2026-10-07",
+   "time": "13:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1C6TF_ywVOoOekaVMQ0lTYvQcW0JP3Bbf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1C6TF_ywVOoOekaVMQ0lTYvQcW0JP3Bbf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB079E421C8FBE0F5AF41",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ממש ככה, הכל הרבה יותר מסורבל ואיטי, מניח שיתקנו את זה לטבתם",
+   "ts": 1791371892000,
+   "date": "2026-10-07",
+   "time": "14:18",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC3BE5A8F89871B4FCEB7CE040D07BAA",
+   "sender": "טַלִּי",
+   "text": "תקשיבו, כל האינסטינקט הזה עם היכולות המטורפות שלו הוא \nToo good to be true.\nדי ברור שיום אחד הטוב החינמי הזה ייגמר",
+   "ts": 1791373079000,
+   "date": "2026-10-07",
+   "time": "14:37",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
   }
  ]
 }

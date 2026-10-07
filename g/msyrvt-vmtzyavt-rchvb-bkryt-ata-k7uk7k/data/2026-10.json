@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-07T09:27:30.566Z",
+ "updated": "2026-10-07T13:29:33.719Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -645,6 +645,66 @@
    "files": [],
    "drive": null,
    "phone": "972528969584"
+  },
+  {
+   "id": "AC17B4D5F31F3D754985A4F51211B269",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1791371036000,
+   "date": "2026-10-07",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "183KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gzZx_ESy809SSw8Q2YpFHh5BnAd-d1RY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gzZx_ESy809SSw8Q2YpFHh5BnAd-d1RY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "ACD1C377BCF24FC40EB2AC02BAF0D154",
+   "sender": "דניאלה",
+   "text": "כרטיסי ברכה לגיוס",
+   "ts": 1791371124000,
+   "date": "2026-10-07",
+   "time": "14:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J5GY0yQicpNFV8eWb3Hi5GcqNXkNeLoz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J5GY0yQicpNFV8eWb3Hi5GcqNXkNeLoz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "ACAC2DF2C7718CBCA782074A8A11AFF3",
+   "sender": "דניאלה",
+   "text": "כתב עת מאוד מעניין.",
+   "ts": 1791379752000,
+   "date": "2026-10-07",
+   "time": "16:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kje5AeYyIG8vcEe-w8CSQ8k7UUr1XHXC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kje5AeYyIG8vcEe-w8CSQ8k7UUr1XHXC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
   }
  ]
 }

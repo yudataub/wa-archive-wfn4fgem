@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-07T08:38:21.729Z",
+ "updated": "2026-10-07T11:35:47.251Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -239,6 +239,26 @@
    ],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "ACAA88D93508748E59E8C7FF203EEAC2",
+   "sender": "אבי'ה אלבה",
+   "text": "שלום וברכה,  \n\nהשתלמות- *רבני ביה\"ס העל יסודיים* נפתחה לרישום.\n\nיש להירשם בקישור הבא:\n\n במערכת מצפ\"ן של משה\"ח בקישור: https://mpm.education.gov.il/rishum\n\nיש לאתר את *מס' פתרון הלמידה:202335*\n** - מחזור: 1*\n\n(הוראות הרשמה למצפן ניתן לראות בקישור: https://drive.google.com/file/d/10utjml-9V1VMWk6bKCNyefH4dlBjR5WR/view )\n\n*מצורף קישור לסיליבוס של ההשתלמות עם פירוט של תאריכי המפגשים והשעות, מתי בזום ומתי פרונטלי.* \nhttps://docs.google.com/document/d/1WuisxdpQ6vpEnIaELc0xhZJc8BU8thhYIkpi7RBPOts/edit?usp=sharing\n(ההשתלמות מתחילה ב-א' כסלו 11.11)  \n*שימו לב! יש להירשם בהקדם האפשרי כדי שנוכל לפתוח את ההשתלמות*\n\nמקווים למפגשים משמעותיים ומוצלחים,\nצוות יסודות",
+   "ts": 1791372915000,
+   "date": "2026-10-07",
+   "time": "14:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "316KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Sb34EcEOXFv_pK4Xp1l_gkXlC47Hqj8m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Sb34EcEOXFv_pK4Xp1l_gkXlC47Hqj8m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542653170"
   }
  ]
 }

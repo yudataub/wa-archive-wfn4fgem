@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-07T09:37:30.736Z",
+ "updated": "2026-10-07T12:37:57.503Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -524,6 +524,24 @@
    "files": [],
    "drive": null,
    "phone": "972528308226"
+  },
+  {
+   "id": "3EB05B652308C1A0B96FA7",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "סיפורים על הרב יורם - מהרב עמירם אלבה\nומצגת \nhttps://yudataub.github.io/gedolim-files/files/%D7%90%D7%94%D7%91%D7%AA%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%A9%D7%9C%20%D7%94%D7%A8%D7%91%20%D7%99%D7%95%D7%A8%D7%9D%20%D7%90%D7%91%D7%A8%D7%92%27%D7%9C%20%D7%96%D7%A6%D7%9C.mp3\nנמצא בעזרת התכונה החדשה  שבדרך...",
+   "ts": 1791376652000,
+   "date": "2026-10-07",
+   "time": "15:37",
+   "files": [
+    {
+     "name": "הרב יורם מיכאל אברגל.pptx",
+     "size": "873KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1fnvd9ErNyjXlkWSBtxXHz4BCasER8juC/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null
   }
  ]
 }

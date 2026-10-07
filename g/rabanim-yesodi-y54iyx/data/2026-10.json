@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-07T08:53:51.940Z",
+ "updated": "2026-10-07T13:01:57.839Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -2894,6 +2894,77 @@
    "files": [],
    "drive": null,
    "phone": "972507800165"
+  },
+  {
+   "id": "ACB0C392FA874694F750F7B5640D3C41",
+   "sender": "עמיחי",
+   "text": "מוזמנים להשתמש בכיתה הוירטואלית שהכנתי בס\"ד על *הרב יורם אברג'ל זצוק\"ל זתע\"א* (כ\"ז תשרי - יום ההילולא) הולכים בעקבות החיצים ועוצרים בכל תחנה ותחנה ונהנים ממגוון הפעילויות.\n*ברכה והצלחה!*",
+   "ts": 1791368851000,
+   "date": "2026-10-07",
+   "time": "13:27",
+   "files": [
+    {
+     "name": "כיתה וירטואלית הרב יורם אברגל זצוקל -עמיחי נחשוני.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17SSp_KJRp-8LfOUiIPQJi8HSx6GABhc6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528200298"
+  },
+  {
+   "id": "AC7E65EF9ADB295C103AEB3987D9B715",
+   "sender": "צביקה ואפרת לוין",
+   "text": "האם יש למישהו דפי לימוד בחברותות לי\"א מרחשון יום פטירת רחל אימנו?",
+   "ts": 1791370922000,
+   "date": "2026-10-07",
+   "time": "14:02",
+   "files": [],
+   "drive": null,
+   "phone": "972528935695"
+  },
+  {
+   "id": "AC996395DFF373421F44688F834DB163",
+   "sender": "Zohar",
+   "text": "👆",
+   "ts": 1791373116000,
+   "date": "2026-10-07",
+   "time": "14:38",
+   "files": [],
+   "drive": null,
+   "phone": "972528308161"
+  },
+  {
+   "id": "AC96948EF3FE588540572FE7BCC89936",
+   "sender": "שמואל אמינוב",
+   "text": "",
+   "ts": 1791377335000,
+   "date": "2026-10-07",
+   "time": "15:48",
+   "files": [
+    {
+     "name": "10 משפטים של הרב חנן פורת לצביעה.pdf",
+     "size": "620KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/18yLtVwrP8uBH4zkUPABcxuGnwyyD3V9n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547607984"
+  },
+  {
+   "id": "AC5617EDAB75BE050D4DF5EEEF0E2425",
+   "sender": "ראובן בן פורת",
+   "text": "יזכור",
+   "ts": 1791378106000,
+   "date": "2026-10-07",
+   "time": "16:01",
+   "files": [],
+   "drive": null,
+   "phone": "972509744373"
   }
  ]
 }

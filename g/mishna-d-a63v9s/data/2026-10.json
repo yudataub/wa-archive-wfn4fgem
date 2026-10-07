@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-06T14:16:49.538Z",
+ "updated": "2026-10-07T11:05:16.791Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -482,6 +482,58 @@
    ],
    "drive": null,
    "phone": "972524348057"
+  },
+  {
+   "id": "ACCB3333DB892F7BA8789647B4537799",
+   "sender": "גלית אליה",
+   "text": "שלום, אשמח לעטיפה למחברת משנה",
+   "ts": 1791366618000,
+   "date": "2026-10-07",
+   "time": "12:50",
+   "files": [],
+   "drive": null,
+   "phone": "972528456881"
+  },
+  {
+   "id": "AC5517DF460A6D5A6AE77F615A72BEE6",
+   "sender": "טלי נכון",
+   "text": "",
+   "ts": 1791366740000,
+   "date": "2026-10-07",
+   "time": "12:52",
+   "files": [
+    {
+     "name": "מחברת משנה עטיפה.pdf",
+     "size": "350KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1WSJKtI0Y6F6w6K8RA16kb_qL5lglNyvG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502944472"
+  },
+  {
+   "id": "AC2EBBAD816313826C987B9DEEC0C8D8",
+   "sender": "גלית אליה",
+   "text": "תודה",
+   "ts": 1791366762000,
+   "date": "2026-10-07",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "phone": "972528456881"
+  },
+  {
+   "id": "AC626FCA4FEDB351ADA280AE42E32330",
+   "sender": "מירב בידאני",
+   "text": "היי,לא מצליחה להיכנס לאתר של רצים למסכת,מה מס' הטלפון של התמיכה ,כי לא הצלחתי להגיע לנציג?",
+   "ts": 1791371089000,
+   "date": "2026-10-07",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "phone": "972502111263"
   }
  ]
 }

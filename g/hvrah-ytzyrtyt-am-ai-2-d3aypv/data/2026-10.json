@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-07T03:52:06.675Z",
+ "updated": "2026-10-07T12:47:40.462Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -488,6 +488,147 @@
    "files": [],
    "drive": null,
    "phone": "972526134003"
+  },
+  {
+   "id": "AC71E038C72272C5A33461837BE3D03F",
+   "sender": "Tal Goldenberg-Keren",
+   "text": "100-200?",
+   "ts": 1791371653000,
+   "date": "2026-10-07",
+   "time": "14:14",
+   "files": [],
+   "drive": null,
+   "phone": "15066518288"
+  },
+  {
+   "id": "AC63AB731ABA3127D1ABC579425984AA",
+   "sender": "Tal Goldenberg-Keren",
+   "text": "גוגל וידס חמוד, לא ראיתי שם אופציה לשיבוץ אוטומטי. אולי פספסתי?",
+   "ts": 1791371670000,
+   "date": "2026-10-07",
+   "time": "14:14",
+   "files": [],
+   "drive": null,
+   "phone": "15066518288"
+  },
+  {
+   "id": "ACCD66DDEB02B4FB0D9BA9E5E205D886",
+   "sender": "הילי זוורו",
+   "text": "מי יושב לראות 100 תמונות 😀",
+   "ts": 1791372241000,
+   "date": "2026-10-07",
+   "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "ACC09F2EDAF9D34EAA02A375CA17FC41",
+   "sender": "Tal Goldenberg-Keren",
+   "text": "חח נכון אני אולי מגזימה אבל חשבתי לעשות מעין סרטון-מצגת שירוץ ברקע כמו שומר מסך עם תמונות של הבן שלי ממקום שנותיו (13) חח",
+   "ts": 1791372432000,
+   "date": "2026-10-07",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "15066518288"
+  },
+  {
+   "id": "AC14CF051358A42D3C8D081F5DE90618",
+   "sender": "Tal Goldenberg-Keren",
+   "text": "לא בא לי לשבת שעות על משהו שירוץ ברקע",
+   "ts": 1791372499000,
+   "date": "2026-10-07",
+   "time": "14:28",
+   "files": [],
+   "drive": null,
+   "phone": "15066518288"
+  },
+  {
+   "id": "AC412FDFC08B0FDADFB892E6A7CBD8CC",
+   "sender": "הילי זוורו",
+   "text": "הרבה פעמים אפשר מהתיקיה במחשב עצמו, תעשי תיקיה עם תמונות, לחצי על אחת התמונות ותחפשי play או התחל הצגת שקופיות \nואז כל התמונות יתחילו להציג אחת אחרי השניה",
+   "ts": 1791372794000,
+   "date": "2026-10-07",
+   "time": "14:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "3EB095D288B09D87038410",
+   "sender": "אליהו אזולאי אינגליש מאסטר",
+   "text": "ניתן להגדיר למציג תמונות טיימר",
+   "ts": 1791372814000,
+   "date": "2026-10-07",
+   "time": "14:33",
+   "files": [],
+   "drive": null,
+   "phone": "972507737588"
+  },
+  {
+   "id": "AC17B037CDB5CEEFC0B38D52D4D95F69",
+   "sender": "שלומצי שטרנברג",
+   "text": "קלוד קוד עושה אתזה מעולה",
+   "ts": 1791374744000,
+   "date": "2026-10-07",
+   "time": "15:05",
+   "files": [],
+   "drive": null,
+   "phone": "972526518853"
+  },
+  {
+   "id": "3EB00CD06E78BAB402A4B0",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "#הפרומפט_היומי\nלזכר האסון הנורא שאירע ב 7/10\nסרטון הנצחה: תמונת הנופל עם נר זכרון\nלפרומפט: https://www.lomdot.org/dailyprompt\nלקהילה שלי - הוראה יצירתית עם AI\n🩶 שירה",
+   "ts": 1791376316000,
+   "date": "2026-10-07",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CMZzG_spem1lRP561SHWNczlZpGHa6DB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CMZzG_spem1lRP561SHWNczlZpGHa6DB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "ACDEF43B38BC1DB551751E14A271F189",
+   "sender": "Tal Goldenberg-Keren",
+   "text": "בחינם? בקלוד לא השתמשתי בקלוד",
+   "ts": 1791376803000,
+   "date": "2026-10-07",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "phone": "15066518288"
+  },
+  {
+   "id": "AC5472F5B0368F747748AAC27E323500",
+   "sender": "Tal Goldenberg-Keren",
+   "text": "המקום שאני עושה בו מסיבה מריץ המסכים דברים מיוטיוב אז אמר שיכול להקרין משם מה שבא לי",
+   "ts": 1791376836000,
+   "date": "2026-10-07",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "phone": "15066518288"
+  },
+  {
+   "id": "AC7269CA444A3BB13AF45640308DAE51",
+   "sender": "dorit tal",
+   "text": "זה מה שאני עושה. בגוגל תמונות",
+   "ts": 1791377238000,
+   "date": "2026-10-07",
+   "time": "15:47",
+   "files": [],
+   "drive": null,
+   "phone": "972528870977"
   }
  ]
 }

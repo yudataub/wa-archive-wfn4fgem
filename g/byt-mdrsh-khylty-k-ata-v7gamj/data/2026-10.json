@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-07T07:09:05.739Z",
+ "updated": "2026-10-07T13:16:58.069Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -924,6 +924,77 @@
    ],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "AC2C1EE8A751DF568B77211C86B4A063",
+   "sender": "נהוראי סלמה",
+   "text": "למכירה תמי 4 פרימו צבע שמנת 0543443484\nמחיר טוב לרצינים",
+   "ts": 1791368476000,
+   "date": "2026-10-07",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KJDrgg21QBnbC8oBBj4SJ5WTkXPGLfJl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KJDrgg21QBnbC8oBBj4SJ5WTkXPGLfJl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543443484"
+  },
+  {
+   "id": "ACFA349505A6E2D5B0778C94373FFD8A",
+   "sender": "משה נחמן חי פרץ",
+   "text": "",
+   "ts": 1791371166000,
+   "date": "2026-10-07",
+   "time": "14:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pQ4vLnLpivIRx9nE1wSLYw3mXVHPrWEU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pQ4vLnLpivIRx9nE1wSLYw3mXVHPrWEU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549912156"
+  },
+  {
+   "id": "AC74904E61EA31FE8F6501AF88267D45",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "*זמן התקופה*\n*תקופת תשרי* \nבהוראת הרה\"ג *בנימין חותה* \n*בזמן התקופה — אסור לשתות מים*\n\nיש להזהר שלא לשתות מים בעת התקופה מחשש סכנה\n*היום יום רביעי*\n *בין השעות 15:30-16:30*\n\n *קיצור דיני התקופה:* \nהאיסור הוא בכל מים בתלוש (היינו בבקבוקים וכו')\nאסור לשתות בזמן התקופה- רק מים!!\n - משקאות אחרים (מיץ וכו')שהיו מוכנים קודם התקופה מותרים בתקופה.\n\nמי שרוצה בכל זאת לשתות מים בתקופה, עליו לשים ברזל (סיכה וכו') במים קודם התקופה, ואז יכול לשתות ישר מהבקבוק. (כי אם ימזוג, שוב יאסרו המים)\nאחרי זמן התקופה המים חוזרים להיות מותרים כרגיל",
+   "ts": 1791375549000,
+   "date": "2026-10-07",
+   "time": "15:19",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC365367A17FFFE317E9D98B797B8454",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "תיעוד מהמבצע של צה״ל שבמהלכו הרסו הכוחות  שלטים ואנדרטאות של מחבלים בכ10 כפרים ביו״ש \n\"מחה תמחה את זכר עמלק מתחת לשמים לא תשכח!!!",
+   "ts": 1791378984000,
+   "date": "2026-10-07",
+   "time": "16:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1PytEKsvXRS--GPWn4Z36FIVazZfXUPpk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PytEKsvXRS--GPWn4Z36FIVazZfXUPpk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
   }
  ]
 }

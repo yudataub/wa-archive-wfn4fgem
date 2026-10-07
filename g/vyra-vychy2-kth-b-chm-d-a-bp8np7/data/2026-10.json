@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-06T07:22:31.375Z",
+ "updated": "2026-10-07T12:00:52.985Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -381,6 +381,74 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "AC30EB431CC92346B71C3662F141DA3D",
+   "sender": "Chaya Jacobi",
+   "text": "יש למישהו סימניות לחומש?",
+   "ts": 1791370750000,
+   "date": "2026-10-07",
+   "time": "13:59",
+   "files": [],
+   "drive": null,
+   "phone": "972538297408"
+  },
+  {
+   "id": "ACC17F1D0F3C66DC07CE4C1073CCC79D",
+   "sender": "עדינה ביין",
+   "text": "",
+   "ts": 1791374428000,
+   "date": "2026-10-07",
+   "time": "15:00",
+   "files": [
+    {
+     "name": "סימניה לחומש (1) עותק_241029_101217.pdf",
+     "size": "1.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RLSO0GXr6COGcIsoFmxgulq9zZmPXrYf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547594148"
+  },
+  {
+   "id": "AC55FB95141F08691EF6615F2D8E267C",
+   "sender": "עדינה ביין",
+   "text": "",
+   "ts": 1791374429000,
+   "date": "2026-10-07",
+   "time": "15:00",
+   "files": [
+    {
+     "name": "סימניה לחומש בראשית.pdf",
+     "size": "40KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1w3y9HkpQ4ukDr5wMgYdpPVH3n17DC4hX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547594148"
+  },
+  {
+   "id": "AC9C37054986958FEB2951E9D9C86875",
+   "sender": "עדינה ביין",
+   "text": "",
+   "ts": 1791374430000,
+   "date": "2026-10-07",
+   "time": "15:00",
+   "files": [
+    {
+     "name": "ח. גליס סימניה לחומש.pdf",
+     "size": "188KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13Wi6HCV0lSFf7Rw_GqC4e2bOkdGOuQPb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547594148"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-07T09:23:00.494Z",
+ "updated": "2026-10-07T13:06:57.953Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -612,6 +612,25 @@
    "files": [],
    "drive": null,
    "phone": "972546555785"
+  },
+  {
+   "id": "3EB0A778FB0EE871581877",
+   "sender": "רננה סימון",
+   "text": "למעוניינים דף פ\"ש מתורתו של חנן פורת",
+   "ts": 1791378393000,
+   "date": "2026-10-07",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "דפי פרשת שבוע תשפז (8).pdf",
+     "size": "743KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bsK2KVyt8zaJSSb67TipCnxJpoGasp_7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505932300"
   }
  ]
 }

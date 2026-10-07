@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-07T07:07:05.716Z",
+ "updated": "2026-10-07T11:52:52.835Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2115,6 +2115,126 @@
    "files": [],
    "drive": null,
    "phone": "972527452710"
+  },
+  {
+   "id": "AC46FC0DE824DB9F42077992724CCE58",
+   "sender": "אושרית",
+   "text": "מחפשת כתר. מתחילים מבראשית או משהו בסגנון🙏",
+   "ts": 1791373314000,
+   "date": "2026-10-07",
+   "time": "14:41",
+   "files": [],
+   "drive": null,
+   "phone": "972542840405"
+  },
+  {
+   "id": "AC4E1D1A55FA9863A8563456965DA7C8",
+   "sender": "נעמה ארנון",
+   "text": "",
+   "ts": 1791373487000,
+   "date": "2026-10-07",
+   "time": "14:44",
+   "files": [
+    {
+     "name": "סמל למסיבת חומש.pdf",
+     "size": "296KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1hD7s-VgvdgSUKr0CD9_iMNyVkSyAFIC0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542061902"
+  },
+  {
+   "id": "ACA84EE8FBA49B990096773A662F6B7C",
+   "sender": "נעמה ארנון",
+   "text": "סמל שהכנתי למסיבת החומש. נהדק על רצועת זהב לכתר.\nאין לי של בנים, הכנתי עם  ai בקנבה",
+   "ts": 1791373513000,
+   "date": "2026-10-07",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972542061902"
+  },
+  {
+   "id": "ACC8989577E2D5D3212A78D5C685D9D9",
+   "sender": "ליה",
+   "text": "כתר",
+   "ts": 1791373524000,
+   "date": "2026-10-07",
+   "time": "14:45",
+   "files": [],
+   "drive": null,
+   "phone": "972587671877"
+  },
+  {
+   "id": "AC75E54BDFC1E6F9341EDD41FE9C5AE0",
+   "sender": "נעמה ארנון",
+   "text": "(שימו לב שבהתחלה כשביקשתי מai ספר תורה, הוא שם בציור של הכתר על המעיל גם צלב.. רק אח\"כ עשה עיצוב בלי..)",
+   "ts": 1791373610000,
+   "date": "2026-10-07",
+   "time": "14:46",
+   "files": [],
+   "drive": null,
+   "phone": "972542061902"
+  },
+  {
+   "id": "AC6DFB8F84AB34A0DC432CEC74497D93",
+   "sender": "רבקה בארי",
+   "text": "",
+   "ts": 1791373822000,
+   "date": "2026-10-07",
+   "time": "14:50",
+   "files": [
+    {
+     "name": "כתר למסיבת תורה-2- רחלי אשכנזי_20251014_214459_000_251014_231014.pdf",
+     "size": "513KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KKCkTLDolGyWwQ7-4Hywk3gt1BxsUo4J/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526070204"
+  },
+  {
+   "id": "ACA8719B4FE9CC608958570D9FFC9822",
+   "sender": "רבקה בארי",
+   "text": "",
+   "ts": 1791373964000,
+   "date": "2026-10-07",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "ברכות השחר.pdf",
+     "size": "11.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FCD2x1lgOSVKJ-25un_uEl9rnCxXNLnO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526070204"
+  },
+  {
+   "id": "AC880975F26451796F6ED78B844F010A",
+   "sender": "רבקה בארי",
+   "text": "",
+   "ts": 1791373965000,
+   "date": "2026-10-07",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "חוברת תפילה.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1fxk3mLeUkoFY8l_PGm0X434-NqbIKB2B/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526070204"
   }
  ]
 }

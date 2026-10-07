@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-07T07:38:33.267Z",
+ "updated": "2026-10-07T10:27:38.531Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -1058,6 +1058,26 @@
    "date": "2026-10-07",
    "time": "10:38",
    "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACA54665A55E908E67DA5C210920CED4",
+   "sender": "נועם",
+   "text": "הפורטרייט מוכן - כל 22 הסצינות נבנו מחדש לפריסה אנכית (לא חיתוך), אותה קריינות בדיוק.",
+   "ts": 1791368820000,
+   "date": "2026-10-07",
+   "time": "13:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1d_1qdpsecVJvv8RytFRPSkPVENCIHDUd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d_1qdpsecVJvv8RytFRPSkPVENCIHDUd&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534663621"
   }

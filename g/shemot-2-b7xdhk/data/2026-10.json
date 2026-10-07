@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-07T07:36:14.064Z",
+ "updated": "2026-10-07T12:33:53.497Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -642,6 +642,48 @@
    "files": [],
    "drive": null,
    "phone": "972535456747"
+  },
+  {
+   "id": "A5411806D14DF0B2B531EFF61CD514B9",
+   "sender": "ברכיה ארז",
+   "text": "יש פה",
+   "ts": 1791372830000,
+   "date": "2026-10-07",
+   "time": "14:33",
+   "files": [],
+   "drive": null,
+   "phone": "972528348446"
+  },
+  {
+   "id": "AC024C545CD4A6FC07B9484D5A69D18E",
+   "sender": "יעלללללל👻",
+   "text": "יש למישהו שער לתיקיית פרשת שבוע?",
+   "ts": 1791375689000,
+   "date": "2026-10-07",
+   "time": "15:21",
+   "files": [],
+   "drive": null,
+   "phone": "972504441966"
+  },
+  {
+   "id": "AC2B05394E14B4D4E47E79B6306E67A0",
+   "sender": "נתן וחיה אקשטיין🌸",
+   "text": "",
+   "ts": 1791376405000,
+   "date": "2026-10-07",
+   "time": "15:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jvLZ4tHWVbPXcn0ZR1oatU--VNSMrHuZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jvLZ4tHWVbPXcn0ZR1oatU--VNSMrHuZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555694970"
   }
  ]
 }

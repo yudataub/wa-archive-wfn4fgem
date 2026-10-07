@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-07T09:10:52.185Z",
+ "updated": "2026-10-07T11:34:47.283Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -1427,7 +1427,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/16_aTjrv72DuliiympBYbxVmlDxeR3tfK/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=16_aTjrv72DuliiympBYbxVmlDxeR3tfK&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=16_aTjrv72DuliiympBYbxVmlDxeR3tfK&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/2A38CDB0EE10F76A91E8_0.mp4"
     }
    ],
    "drive": null,
@@ -1638,7 +1639,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1QtxKj8MUtkvTxABOq4fCin8BMABqTITw/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1QtxKj8MUtkvTxABOq4fCin8BMABqTITw&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1QtxKj8MUtkvTxABOq4fCin8BMABqTITw&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/2AF69F128FAF69B698FC_0.mp4"
     }
    ],
    "drive": null,
@@ -1663,6 +1665,26 @@
    ],
    "drive": null,
    "phone": "972505691929"
+  },
+  {
+   "id": "AC1D45E59A0D83E8A44DB21C66EFD940",
+   "sender": "אריאל",
+   "text": "היום \n\nבגדי חורף ממידה 0-3 עד מידה 6 שנים \nרוב הבגדים חדשים \n\nבין 19:00-21:00\nנוף הכרמל 13 קרית אתא \n\nבסניף רכסים אותה שעה \nהכתובת הנרקיסים 28 \n\nיש גם מיטות תינוק\nכסאות אוכל \nכסאות רכב \nטרמפולינות \nעגלות וכו...\n(סניף קרית אתא ) \n\nארגון רועי לא יחסר",
+   "ts": 1791372879000,
+   "date": "2026-10-07",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "393KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YFzjiEX9AjgeU4Xsro0yFvtVN7r8fsBS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YFzjiEX9AjgeU4Xsro0yFvtVN7r8fsBS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
   }
  ]
 }

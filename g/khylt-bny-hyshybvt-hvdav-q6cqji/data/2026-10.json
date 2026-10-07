@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-07T07:53:14.318Z",
+ "updated": "2026-10-07T12:52:27.708Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -1483,6 +1483,68 @@
    ],
    "drive": null,
    "phone": "972502770777"
+  },
+  {
+   "id": "AC7E2D197B6FDF58FF00A553A170B9B7",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791375440000,
+   "date": "2026-10-07",
+   "time": "15:17",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "30KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/12mSY7OxIWAXy7I9CCTWBcSd5tgwjX4gk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12mSY7OxIWAXy7I9CCTWBcSd5tgwjX4gk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC8750424CE5844FAEF2DD54A78F07B1",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791375441000,
+   "date": "2026-10-07",
+   "time": "15:17",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "293KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/14FeiLBYwmCyHi78-2Nz2SiW4bWn2-z3-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14FeiLBYwmCyHi78-2Nz2SiW4bWn2-z3-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC40BB5B9D4A126D1B4066EBE79A2B66",
+   "sender": "יעקב",
+   "text": "אני מחפש לשבת הקרובה דירה למשפחה עקב שמחה משפחתית, ללינה בלבד, באזור כנצלסון וסביבתו\nיעקב קופשיץ.\nתזכו למצוות.",
+   "ts": 1791376408000,
+   "date": "2026-10-07",
+   "time": "15:33",
+   "files": [],
+   "drive": null,
+   "phone": "972533384050"
+  },
+  {
+   "id": "ACB84D10CA4B7CE8C24EA87573EC6434",
+   "sender": "ישי",
+   "text": "מישהו מכיר חנות של טלפונים ונגנים בגבעה ג ברכסים?",
+   "ts": 1791377521000,
+   "date": "2026-10-07",
+   "time": "15:52",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
   }
  ]
 }
