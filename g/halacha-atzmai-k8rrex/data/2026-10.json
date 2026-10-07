@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-07T17:36:34.578Z",
+ "updated": "2026-10-07T20:17:06.574Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1413,6 +1413,121 @@
    "files": [],
    "drive": null,
    "phone": "972526661583"
+  },
+  {
+   "id": "AC0DA956C33F4F38200E59575E45B0C0",
+   "sender": "אברהם פויכטונגר",
+   "text": "ככל שההשתלמות תתקדם.. נראה.",
+   "ts": 1791395915000,
+   "date": "2026-10-07",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972523003393"
+  },
+  {
+   "id": "AC7EC247B2144282A9FDB825F33C4D57",
+   "sender": "גיא",
+   "text": "ערב טוב\nההשתלמות בהלכה כתוב לי מחזור 1 ומחזור 2\nלאן צריך להירשם ?",
+   "ts": 1791397638000,
+   "date": "2026-10-07",
+   "time": "21:27",
+   "files": [],
+   "drive": null,
+   "phone": "972507331433"
+  },
+  {
+   "id": "3AC0899D96641236E726",
+   "sender": "רות מנדל",
+   "text": "1 כבר בטח מלא\nתרשם ל-2\nבסוף, זה אותו קורס",
+   "ts": 1791399066000,
+   "date": "2026-10-07",
+   "time": "21:51",
+   "files": [],
+   "drive": null,
+   "phone": "972542007345"
+  },
+  {
+   "id": "AC34D05CF6D35C4D1DC852AAC688D032",
+   "sender": "Gili Zehavi",
+   "text": "אם אני רשומה להשתלמות 2\nזו לא הקבוצה הנכונה עבורי?",
+   "ts": 1791400081000,
+   "date": "2026-10-07",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507813420"
+  },
+  {
+   "id": "ACEBDC1A0BFAC19018260CE14A668F62",
+   "sender": "נועה😊",
+   "text": "איפה רואים את המטלות של ההשתלמות ואת כל הנלמד עד כה.",
+   "ts": 1791400187000,
+   "date": "2026-10-07",
+   "time": "22:09",
+   "files": [],
+   "drive": null,
+   "phone": "972504226406"
+  },
+  {
+   "id": "3A6621F9CC58AB163F16",
+   "sender": "רות מנדל",
+   "text": "אשמח גם לדעת",
+   "ts": 1791400303000,
+   "date": "2026-10-07",
+   "time": "22:11",
+   "files": [],
+   "drive": null,
+   "phone": "972542007345"
+  },
+  {
+   "id": "AC0B6EED575E6F7AD969465BEEE05E14",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1791400842000,
+   "date": "2026-10-07",
+   "time": "22:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "120KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1cEqlBbIqqUHRsz5bQ0GpOPyKG-GCocn4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC5A64815ADE3455A85EC4C3677CA7C9",
+   "sender": "אלקנה שטראוס",
+   "text": "https://www.classe.world/go/6u8yex0lh0t7nuza\n\nכנסו עם שם משתמש משרד החינוך",
+   "ts": 1791400901000,
+   "date": "2026-10-07",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "ACE2FFA88624F894B171B21443DD17F3",
+   "sender": "לימור",
+   "text": "",
+   "ts": 1791404207000,
+   "date": "2026-10-07",
+   "time": "23:16",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1OcYhtX4eQNgtJ_VfOZbxlWzzhozWkM0g/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544672279"
   }
  ]
 }

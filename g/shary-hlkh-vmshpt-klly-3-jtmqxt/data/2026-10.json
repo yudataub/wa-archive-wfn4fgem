@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-07T17:25:34.375Z",
+ "updated": "2026-10-07T20:19:06.606Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -4239,6 +4239,247 @@
    "files": [],
    "drive": null,
    "phone": "972522528640"
+  },
+  {
+   "id": "3ACBE4FB7FBA2E2EA7AE",
+   "sender": "מיטל בן עמי",
+   "text": "שלום וברכה, האם אפשר לקבוע מזוזה לבית חדש ולעשות חנוכת בית כמה ימים אחרי? \nתודה.",
+   "ts": 1791395393000,
+   "date": "2026-10-07",
+   "time": "20:49",
+   "files": [],
+   "drive": null,
+   "phone": "972527798660"
+  },
+  {
+   "id": "ACFA1BD2D3489508FF91FC543B84B295",
+   "sender": "Abraham Agay",
+   "text": "עוברים הרבה אנשים, אולי אפילו מאות כל יום. לא מדובר על קבוצה מסוימת שיכולה להגיע להסדר. אפשר לעבור משני צידי הבלוק אבל זה מקצר את הדרך בין תחנות האוטובוס לפנים השכונה. יש אנשים שרואים את המודעה והולכים מסביב ויש אנשים שלא. זה לא רק עניין של שקט אלא גם ניקיון.",
+   "ts": 1791395782000,
+   "date": "2026-10-07",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "phone": "972556883602"
+  },
+  {
+   "id": "AC04BCD518E3AC953F0204D7423CFBE6",
+   "sender": "Moshe Itshak Amar",
+   "text": "כן אבל עדיף להניח מזוזה מיד וכן לעשות חנוכת הבית בלימוד לפני שנכנסים. ואחרי זה לעשות חגיגה למי שרוצה",
+   "ts": 1791396114000,
+   "date": "2026-10-07",
+   "time": "21:01",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "3AC06F6245D3582C776F",
+   "sender": "Idan 🥂",
+   "text": "מברכים הנותן ריח טוב בפירות על כל פרי שיש לו ריח טוב בעיני?",
+   "ts": 1791401018000,
+   "date": "2026-10-07",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972584493332"
+  },
+  {
+   "id": "AC66B85C36D1207386E90D96A10079E7",
+   "sender": "דוד אקא",
+   "text": "",
+   "ts": 1791401108000,
+   "date": "2026-10-07",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "9KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1u9brRM5QAUqylcoBfDCpgkHJWC0wmY_j/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC0E5A3ADA810DB14D18B2E655C1B3B6",
+   "sender": ".",
+   "text": "ערב טוב \nקערה של מיקסר / מקציפים \nצריך לטבול?",
+   "ts": 1791401745000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972525030877"
+  },
+  {
+   "id": "AC5417E3D886523A1B3FDB313AEBAA9A",
+   "sender": "דוד אקא",
+   "text": "כן \nבלי ברכה",
+   "ts": 1791401882000,
+   "date": "2026-10-07",
+   "time": "22:38",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "3A9618A7BE5013EB3C37",
+   "sender": "Idan 🥂",
+   "text": "אולי יש אנשים שלא אוהבים ריח של פרי מסוים.. 🤷‍♂️",
+   "ts": 1791402200000,
+   "date": "2026-10-07",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972584493332"
+  },
+  {
+   "id": "AC31BF4E5A0FD82A0CEAD104178CA7C6",
+   "sender": "דוד אקא",
+   "text": "",
+   "ts": 1791402385000,
+   "date": "2026-10-07",
+   "time": "22:46",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "15KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1-qN4xZR_SLTLtAY_tzWbjCCBlWWRt3n8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC398B05BEE940A31D7CF41F372B50B5",
+   "sender": "ישראל",
+   "text": "שיהיה פרי שקצת מפיץ ריח כמו לימון, אתרוג, מלון, מנגו ואננס",
+   "ts": 1791402859000,
+   "date": "2026-10-07",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC0A48FE2094B68BA354F7099EC64216",
+   "sender": "noa asulin0",
+   "text": "מה זה אומר שצריך מכלי שלישי ומה זה כלי שני בשבת",
+   "ts": 1791403295000,
+   "date": "2026-10-07",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972504410155"
+  },
+  {
+   "id": "AC2CD5102445A8F117C59B967563BFA8",
+   "sender": "דוד אקא",
+   "text": "",
+   "ts": 1791403421000,
+   "date": "2026-10-07",
+   "time": "23:03",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "38KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1MbBYOI5Z4RxFf5MvJr3ddwQil5McW9wt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC592011FE3556B8B859D5FB005DD767",
+   "sender": "noa asulin0",
+   "text": "תיון ?",
+   "ts": 1791403488000,
+   "date": "2026-10-07",
+   "time": "23:04",
+   "files": [],
+   "drive": null,
+   "phone": "972504410155"
+  },
+  {
+   "id": "ACB6E4A8F27E4B365F4EA52E9E854EF9",
+   "sender": "noa asulin0",
+   "text": "כלי שני?",
+   "ts": 1791403494000,
+   "date": "2026-10-07",
+   "time": "23:04",
+   "files": [],
+   "drive": null,
+   "phone": "972504410155"
+  },
+  {
+   "id": "ACAB6B7F7BE45D679BF0F72060612E8C",
+   "sender": "דוד אקא",
+   "text": "",
+   "ts": 1791403500000,
+   "date": "2026-10-07",
+   "time": "23:05",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "11KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1vTSryrhB88r6-41-Qouy8YTeoeZPD4o8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC516DDF62F2EF96E123B149D72B7ED8",
+   "sender": "noa asulin0",
+   "text": "הכוונה בכוס השניה כבר אפשר לשים את התיון נכון,? ולגבי קפה תודה",
+   "ts": 1791403556000,
+   "date": "2026-10-07",
+   "time": "23:05",
+   "files": [],
+   "drive": null,
+   "phone": "972504410155"
+  },
+  {
+   "id": "ACB642E595F76FB8935318D54541BC71",
+   "sender": "דוד אקא",
+   "text": "לא \nקפה כן",
+   "ts": 1791403676000,
+   "date": "2026-10-07",
+   "time": "23:07",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "ACACEFC4C4ED46D68D586D1271155DCC",
+   "sender": "דוד אקא",
+   "text": "נכון \nקפה גם בראשונה",
+   "ts": 1791403693000,
+   "date": "2026-10-07",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC62B5BAF959086D36B1F74E144621DD",
+   "sender": "noa asulin0",
+   "text": "תודה",
+   "ts": 1791404319000,
+   "date": "2026-10-07",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972504410155"
   }
  ]
 }

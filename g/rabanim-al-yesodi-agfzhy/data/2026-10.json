@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-07T11:35:47.251Z",
+ "updated": "2026-10-07T17:42:11.373Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -259,6 +259,26 @@
    ],
    "drive": null,
    "phone": "972542653170"
+  },
+  {
+   "id": "ACC78967900D8E674AE02B1AE17BACF1",
+   "sender": ",",
+   "text": "קישור ההצטרפות לקבוצה השקטה:",
+   "ts": 1791394905000,
+   "date": "2026-10-07",
+   "time": "20:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1P-c3r5UHjogaqYbbsUfbZmN_qnbaHWLk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1P-c3r5UHjogaqYbbsUfbZmN_qnbaHWLk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509018403"
   }
  ]
 }

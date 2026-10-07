@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-07T13:41:03.831Z",
+ "updated": "2026-10-07T19:07:19.417Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -638,6 +638,26 @@
    ],
    "drive": null,
    "phone": "972542403081"
+  },
+  {
+   "id": "A53178114F8FDA4E6117B29A2021CF70",
+   "sender": "מוישי ולדמן",
+   "text": "*חדש!! בבית הכנסת הגדול*\n*המייסדים 15*",
+   "ts": 1791400023000,
+   "date": "2026-10-07",
+   "time": "22:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "234KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14hvDChwmO7LrUQuWYcILFV1ZwL4sx_yq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14hvDChwmO7LrUQuWYcILFV1ZwL4sx_yq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507924828"
   }
  ]
 }

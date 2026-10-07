@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-07T15:59:57.209Z",
+ "updated": "2026-10-07T19:48:29.464Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -1143,6 +1143,59 @@
    "files": [],
    "drive": null,
    "phone": "972527185522"
+  },
+  {
+   "id": "3EB03A40F9EEA537F39ECD",
+   "sender": "אביה באומס (עמר)💃",
+   "text": "למישהו יש את סדר חניית מחנה בני ישראל עם מקום לכתיבת שמות השבטים",
+   "ts": 1791401143000,
+   "date": "2026-10-07",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972586213258"
+  },
+  {
+   "id": "ACEB7096994C1CC189143A59F30C4B51",
+   "sender": "אשר רפאל מיימון",
+   "text": "תחפשי באתר סגל למידה או באתר אביטה",
+   "ts": 1791401731000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "ACE7AF7D2BDC6145F3A0D99DC1BE5261",
+   "sender": "אתי אהרן",
+   "text": "שלום וברכה, \nיש לך באתר התנ״ך משימת הערכה לסיום פרשת במדבר נשא.  שבפנים יש גם על מחנה ישראל ויותר... \n\nhttps://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/teaching-materials/in-the-desert/",
+   "ts": 1791402349000,
+   "date": "2026-10-07",
+   "time": "22:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QaJ3bC-T_cnc9RhGSMcSY96Kiywiz1MM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QaJ3bC-T_cnc9RhGSMcSY96Kiywiz1MM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544719797"
+  },
+  {
+   "id": "ACA97B5C44046E89BFBD7197EC899C39",
+   "sender": "אביה באומס (עמר)💃",
+   "text": "תודה! לא הכרתי",
+   "ts": 1791402482000,
+   "date": "2026-10-07",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972586213258"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-07T17:20:04.284Z",
+ "updated": "2026-10-07T19:14:19.537Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2320,6 +2320,46 @@
    ],
    "drive": null,
    "phone": "972537281557"
+  },
+  {
+   "id": "ACF05DA71CC381FD7A51D6756BC7BB48",
+   "sender": "עדנה שווט",
+   "text": "למסירה",
+   "ts": 1791398323000,
+   "date": "2026-10-07",
+   "time": "21:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KNviHLql3QG_WYG1TgRY203BHj-BsXjC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KNviHLql3QG_WYG1TgRY203BHj-BsXjC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "A55CCB475F28F3DAF76C0BF47B6FDEA2",
+   "sender": "הילה לוי Hila Levi Makeup artist",
+   "text": "Hila Levi \nהילה לוי✨💄\nמזמינה אותך לפנק את עצמך כי מגיע לך להרגיש הכי יפה שיש. 💖🌸\nאצלי בקליניקה תמצאי מגוון טיפולים: ✨🎀\nאיפור כלות וערב, 👰‍♀️🌟\nעיצוב שיער, 💇‍♀️✨\nהרמה ועיצוב גבות וריסים, 👀💆‍♀️\nשזירה והדבקה, ✨👁️\nושיטת המיקרובליידינג. 🖋️✨\nמחכה לך🤍 ✨😊\nיש אפשרות להגיע אלייך הביתה בחלק מהטיפולים. 🏠🚗",
+   "ts": 1791400439000,
+   "date": "2026-10-07",
+   "time": "22:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IxyvpEOrvJVAeBeJTI6PwykPusR9SpIe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IxyvpEOrvJVAeBeJTI6PwykPusR9SpIe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535473225"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-07T17:26:34.399Z",
+ "updated": "2026-10-07T18:38:48.983Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -778,6 +778,66 @@
    "date": "2026-10-07",
    "time": "20:26",
    "files": [],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "ACC72E8386F89C9E53838E105615B517",
+   "sender": "ויקטוריה",
+   "text": "למישהי יש עמדת טעינה של Roborock S5 Max",
+   "ts": 1791394890000,
+   "date": "2026-10-07",
+   "time": "20:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EWHQ2o4KmK3yvtPjMGAtOxIl3o2xm97m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EWHQ2o4KmK3yvtPjMGAtOxIl3o2xm97m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACF832E1D90B1C543349299E396FAB79",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791394890000,
+   "date": "2026-10-07",
+   "time": "20:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "24KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pQBXDf4G0q1yIKVlbGAy1j02badGoFCu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pQBXDf4G0q1yIKVlbGAy1j02badGoFCu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACB4CB2F02A74D0EE8EACAABE3DC49CB",
+   "sender": "עדנה שווט",
+   "text": "למסירה",
+   "ts": 1791398324000,
+   "date": "2026-10-07",
+   "time": "21:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MMoiEfXpQXoD5ruSJz0982wFof42-7I5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MMoiEfXpQXoD5ruSJz0982wFof42-7I5&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972542089996"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ייעוץ עסקי לעסקים",
- "updated": "2026-10-07T11:44:39.583Z",
+ "updated": "2026-10-07T19:38:00.518Z",
  "messages": [
   {
    "id": "3A19B81BCEA0549E60B6",
@@ -13,6 +13,895 @@
    "files": [],
    "drive": null,
    "phone": "972523237177"
+  },
+  {
+   "id": "3A2AED7BB0A5A36F108F",
+   "sender": "הראל",
+   "text": "איתי אליה",
+   "ts": 1791400760000,
+   "date": "2026-10-07",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "A513B733567FDDE3E9E5B2E27F717D96",
+   "sender": "נתנאל ארגמן",
+   "text": "מה זה הקבוצה הזאת",
+   "ts": 1791401260000,
+   "date": "2026-10-07",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "A5B99BAD6FBF4268770877F9A0F7BAB8",
+   "sender": "נתנאל ארגמן",
+   "text": "למה מצרפים אנשים בלי לשאול",
+   "ts": 1791401267000,
+   "date": "2026-10-07",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3A81E13ECEABDB1B781A",
+   "sender": "הראל",
+   "text": "מי צירף אותך נתנאל היקר ?",
+   "ts": 1791401281000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "A56F5CA9255C74383931C96CCC3EC27C",
+   "sender": "נתנאל ארגמן",
+   "text": "לא יודע \nאני שואל אותך",
+   "ts": 1791401294000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3A40E31B7B106E71CF64",
+   "sender": "הראל",
+   "text": "לדעתי זה @116428023824397",
+   "ts": 1791401303000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "3A69204228A3AC928CCA",
+   "sender": "הראל",
+   "text": "הוא צירף גם אותי",
+   "ts": 1791401310000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "3A595AE78D27F02C18B0",
+   "sender": "הראל",
+   "text": "לפה",
+   "ts": 1791401312000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "ACFEE77DCBBCF33D0C0C8BD6F9A40931",
+   "sender": "יונתן סיון",
+   "text": "זה גדי איזנקוט",
+   "ts": 1791401312000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A710C2B370AAEE54C9C",
+   "sender": "הראל",
+   "text": "אבל זה נראה אחלה של הקבוצה…",
+   "ts": 1791401322000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "A57C43E5B6E1DB68C055C41215D856AE",
+   "sender": "נתנאל ארגמן",
+   "text": "לא משמעם לי",
+   "ts": 1791401334000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3A1BBFADC9CCDF32AB8D",
+   "sender": "הראל",
+   "text": "במה אתה עוסק אדוני",
+   "ts": 1791401350000,
+   "date": "2026-10-07",
+   "time": "22:29",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "A524D5C3930D7B5B747A6A100A35BD2C",
+   "sender": "נתנאל ארגמן",
+   "text": "מוזמן לפנות בפרטי אם אתה רוצה לדעת",
+   "ts": 1791401371000,
+   "date": "2026-10-07",
+   "time": "22:29",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3ABA753EBA7C2129D65E",
+   "sender": "הראל",
+   "text": "למה? זה מסווג",
+   "ts": 1791401385000,
+   "date": "2026-10-07",
+   "time": "22:29",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "AC08CBF5FE6C8008BE79C20851FE0348",
+   "sender": "יונתן סיון",
+   "text": "זו הקבוצה של יאיר גולן",
+   "ts": 1791401393000,
+   "date": "2026-10-07",
+   "time": "22:29",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "A5AEF73FC925947CB854DB09CC73F719",
+   "sender": "נתנאל ארגמן",
+   "text": "אהההה אז אני נשאר",
+   "ts": 1791401413000,
+   "date": "2026-10-07",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3A9F12EDEF4D2F8581C0",
+   "sender": "הראל",
+   "text": "אתה מצביע ליאיר גולן ?",
+   "ts": 1791401427000,
+   "date": "2026-10-07",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "AC8B7E72FDC14169EF12D716D8BFEF62",
+   "sender": "יונתן סיון",
+   "text": "רק פייגלינוש",
+   "ts": 1791401437000,
+   "date": "2026-10-07",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "A5508130CF4D7C560AC4DFFD4E7F9928",
+   "sender": "נתנאל ארגמן",
+   "text": "נראה לך",
+   "ts": 1791401477000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3AC00079C90D075CDDFA",
+   "sender": "הראל",
+   "text": "ברוך השם",
+   "ts": 1791401482000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "3AC9C315A6E1D9CF4AD0",
+   "sender": "עמית כהן",
+   "text": "Hi",
+   "ts": 1791401486000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "ACD8C03C0DCC5068A30C3C53503B698E",
+   "sender": "יונתן סיון",
+   "text": "רק ביבי ?",
+   "ts": 1791401490000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A1A47538CCEAA85D3D7",
+   "sender": "עמית כהן",
+   "text": "👋",
+   "ts": 1791401497000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3EB05E60B3D7374588F2D7",
+   "sender": "תומר🍉",
+   "text": "מהההההההההההה אומרים חברים",
+   "ts": 1791401503000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527208925"
+  },
+  {
+   "id": "3EB08BAAB17859041EB1C3",
+   "sender": "תומר🍉",
+   "text": "ביבי גרוע",
+   "ts": 1791401511000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527208925"
+  },
+  {
+   "id": "3A5EE553307D64924851",
+   "sender": "הראל",
+   "text": "[סקר]",
+   "ts": 1791401515000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "AC04843DE5A91546D0978FDE0C8446E0",
+   "sender": "יונתן סיון",
+   "text": "רק בנט",
+   "ts": 1791401517000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3EB0289B749C5443AD8A63",
+   "sender": "תומר🍉",
+   "text": "הכי טוב פייגלין זליכה וכאלה",
+   "ts": 1791401518000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527208925"
+  },
+  {
+   "id": "ACE2324CFEE13DF10EFCDAB7A291F6C1",
+   "sender": "יונתן סיון",
+   "text": "רק יובל המבולבל יכול לעשות שינוי אמיתי",
+   "ts": 1791401532000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A5C4A3560087FBEF556",
+   "sender": "הראל",
+   "text": "אחשלי אתה צריך לבחור מפלגה אחת רק תבחר",
+   "ts": 1791401533000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "A59E5584D895DD4C5CB2AD6D6E3848BB",
+   "sender": "נתנאל ארגמן",
+   "text": "אכן",
+   "ts": 1791401535000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "3AE4EA52A8EE751E99B9",
+   "sender": "עמית כהן",
+   "text": "@@65811800653954 די לזיין תשכל",
+   "ts": 1791401536000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3EB0E25AE140589190FD39",
+   "sender": "תומר🍉",
+   "text": "זה חרא מול חרא כי השינוי שמאלנים מידי וביבי גרוע",
+   "ts": 1791401536000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972527208925"
+  },
+  {
+   "id": "3EB00F8A4DC07303C24079",
+   "sender": "תומר🍉",
+   "text": "קשה לי תעזרו לי",
+   "ts": 1791401545000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972527208925"
+  },
+  {
+   "id": "A5EFB56D1083CD909C6F6AF0CD2FF1FF",
+   "sender": "נתנאל ארגמן",
+   "text": "היה נחמד להכיר",
+   "ts": 1791401547000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972548622755"
+  },
+  {
+   "id": "AC8961441F492494944147CE60557C52",
+   "sender": "יונתן סיון",
+   "text": "יחד עם ks המותג",
+   "ts": 1791401547000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A5E5F9ED14501B2015B",
+   "sender": "הראל",
+   "text": "אמת לאמית אדון תומר",
+   "ts": 1791401551000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "3A906740AD105E692946",
+   "sender": "הראל",
+   "text": "לא בבקשה",
+   "ts": 1791401554000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "3AA5C1B553AA8AFF47F7",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401555000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "205KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1MMWB80K2jkkoFMpTRWDSSsjn72YRXtRT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MMWB80K2jkkoFMpTRWDSSsjn72YRXtRT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3EB04A7F258F363A496187",
+   "sender": "תומר🍉",
+   "text": "למה",
+   "ts": 1791401555000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972527208925"
+  },
+  {
+   "id": "AC406D0B1ADEB475409A6F7A361B0432",
+   "sender": "יונתן סיון",
+   "text": "",
+   "ts": 1791401561000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "164KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1gilDHmuN2f0KeOu3NBlKhhdEIuyzPfkJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gilDHmuN2f0KeOu3NBlKhhdEIuyzPfkJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A3F8FB466FA667B0DDD",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401569000,
+   "date": "2026-10-07",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "32KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/15q-q0YBV45PK8BSYcsiGQYtR6dTa257_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15q-q0YBV45PK8BSYcsiGQYtR6dTa257_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "ACE65C1AD8830E41AF143357E595ED88",
+   "sender": "יונתן סיון",
+   "text": "",
+   "ts": 1791401598000,
+   "date": "2026-10-07",
+   "time": "22:33",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "43KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1d9sEHIcixfxo4r4kknvlD-oRuJagWW7J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d9sEHIcixfxo4r4kknvlD-oRuJagWW7J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A89ABB4DAC91462DDC4",
+   "sender": "עמית כהן",
+   "text": "@21569392906487",
+   "ts": 1791401600000,
+   "date": "2026-10-07",
+   "time": "22:33",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3AAC3D1881AF97520944",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401605000,
+   "date": "2026-10-07",
+   "time": "22:33",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "32KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1kvWxMks5a5t12bWK5jwSWW6A6ztR_G38/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kvWxMks5a5t12bWK5jwSWW6A6ztR_G38&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3A05842B4327FE76C270",
+   "sender": "הראל",
+   "text": "@all",
+   "ts": 1791401636000,
+   "date": "2026-10-07",
+   "time": "22:33",
+   "files": [],
+   "drive": null,
+   "phone": "972523237177"
+  },
+  {
+   "id": "3A953619840FED45D7AF",
+   "sender": "עמית כהן",
+   "text": "@כולם",
+   "ts": 1791401643000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "AC16486E5E8C275E699F4F1BD029E16E",
+   "sender": ".",
+   "text": "",
+   "ts": 1791401643000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "4.9MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/10NsJhOR4iEoiz2G9zmxEMPnoQfupvRII/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508989657"
+  },
+  {
+   "id": "AC8843E90ECA5E25A189120C2F9910F2",
+   "sender": "יונתן סיון",
+   "text": "רק בנט",
+   "ts": 1791401643000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A61DBD2D5BF73F64ACB",
+   "sender": "עמית כהן",
+   "text": "@כולם",
+   "ts": 1791401651000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "AC3F48041ECDDC0EF38FDFBF6BCD9A97",
+   "sender": ".",
+   "text": "@כולם",
+   "ts": 1791401655000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972508989657"
+  },
+  {
+   "id": "ACF5D4A9962DB7FF988453EBF1B43482",
+   "sender": "יונתן סיון",
+   "text": "",
+   "ts": 1791401676000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1WJankSWu1ewx6YCXP4WHiHZ9jbscStIV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WJankSWu1ewx6YCXP4WHiHZ9jbscStIV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "AC8029E39B7336277F92CEF1BD469768",
+   "sender": ".",
+   "text": "@21569392906487",
+   "ts": 1791401697000,
+   "date": "2026-10-07",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972508989657"
+  },
+  {
+   "id": "3A3FB9CD7DEA2FF59EF4",
+   "sender": "עמית כהן",
+   "text": "@80827157315670",
+   "ts": 1791401712000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3A987E8A59B1DDF39894",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401719000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "32KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1mm8RbWMq7xkgSor2_7Cl2tefP_jvWE0G/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mm8RbWMq7xkgSor2_7Cl2tefP_jvWE0G&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "AC6468D862DBE602C5995D6A65BA1D7D",
+   "sender": ".",
+   "text": "",
+   "ts": 1791401732000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "225KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1oj06bp4xXYRIu0r4kOzl29jyMJ1evOhl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508989657"
+  },
+  {
+   "id": "3A756003D3BEC0AE0E6B",
+   "sender": "עמית כהן",
+   "text": "!???????",
+   "ts": 1791401740000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3AEDDD3CC81C8CC2BFD3",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401742000,
+   "date": "2026-10-07",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "205KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1MqUbmRnlHcJOWqcaSx8AnFIPAk7Wiea_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MqUbmRnlHcJOWqcaSx8AnFIPAk7Wiea_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3A48E4C4BABFB5265719",
+   "sender": "עמית כהן",
+   "text": "מה אומר תום !!!",
+   "ts": 1791401766000,
+   "date": "2026-10-07",
+   "time": "22:36",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3AA409A910EF1949893E",
+   "sender": "עמית כהן",
+   "text": "@160958328619051",
+   "ts": 1791401769000,
+   "date": "2026-10-07",
+   "time": "22:36",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3EB0D180DBB9A00D57C174",
+   "sender": "Tom Yoffe",
+   "text": "@all",
+   "ts": 1791401780000,
+   "date": "2026-10-07",
+   "time": "22:36",
+   "files": [],
+   "drive": null,
+   "phone": "972502215822"
+  },
+  {
+   "id": "3A85D0331A07194D62F0",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401786000,
+   "date": "2026-10-07",
+   "time": "22:36",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "31KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/13xa_UiX7tA0Gc0E2k5-O-alTAlEf5JvQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "ACA428D135312360FADA39185C14148B",
+   "sender": "יונתן סיון",
+   "text": "",
+   "ts": 1791401798000,
+   "date": "2026-10-07",
+   "time": "22:36",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Y2wdhN6_BFuSJhV7QDGJLy9YNDtbVRuB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3A5D54103253EFF36685",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401811000,
+   "date": "2026-10-07",
+   "time": "22:36",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "30KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/16eN9zRlqdtGQNpoQSQMd1iZvXjaZIVD8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16eN9zRlqdtGQNpoQSQMd1iZvXjaZIVD8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3A24049857E8EA6CF70E",
+   "sender": "עמית כהן",
+   "text": "שאלה",
+   "ts": 1791401829000,
+   "date": "2026-10-07",
+   "time": "22:37",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3A493DB3DE7A32016FDF",
+   "sender": "עמית כהן",
+   "text": "מה המטרה של הקבוצה?",
+   "ts": 1791401834000,
+   "date": "2026-10-07",
+   "time": "22:37",
+   "files": [],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "AC817A3AAC210FCAA1AE7E5D9A13B79E",
+   "sender": "יונתן סיון",
+   "text": "",
+   "ts": 1791401837000,
+   "date": "2026-10-07",
+   "time": "22:37",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1nuCfKjbIzS7iXwUFiRlhBiKjfosSR_m4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534212688"
+  },
+  {
+   "id": "3AF98CB139BDE9CAEBAE",
+   "sender": "עמית כהן",
+   "text": "",
+   "ts": 1791401843000,
+   "date": "2026-10-07",
+   "time": "22:37",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "32KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Qznl3VvBZyxPglNrQq0qVcaSHu9NyaLQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qznl3VvBZyxPglNrQq0qVcaSHu9NyaLQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526926992"
+  },
+  {
+   "id": "3EB053F7D650835BEA44B4",
+   "sender": "Tom Yoffe",
+   "text": "רשמתי לך בפרטי",
+   "ts": 1791401843000,
+   "date": "2026-10-07",
+   "time": "22:37",
+   "files": [],
+   "drive": null,
+   "phone": "972502215822"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-07T15:54:20.353Z",
+ "updated": "2026-10-07T19:52:59.535Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -2043,6 +2043,121 @@
    "files": [],
    "drive": null,
    "phone": "972526714233"
+  },
+  {
+   "id": "AC55F5D1845F62240AF6478F6ACB14D0",
+   "sender": "עדנה שווט",
+   "text": "למסירה",
+   "ts": 1791398327000,
+   "date": "2026-10-07",
+   "time": "21:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IOw7NIEYZB8HxF5vZJb5ugKIjDBQV8i-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IOw7NIEYZB8HxF5vZJb5ugKIjDBQV8i-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "ACBA8D655CEF201F08386CA0C38769DC",
+   "sender": "ktla5359",
+   "text": "",
+   "ts": 1791398362000,
+   "date": "2026-10-07",
+   "time": "21:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1f-DdO8iZUb5z6cFgvcMZBii8T95xkaUN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1f-DdO8iZUb5z6cFgvcMZBii8T95xkaUN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC62891C50DDECF37DB0625453223D4A",
+   "sender": "ktla5359",
+   "text": "☝🏻השרה התעכבה קצת , אפשר ומוזמנים להצטרף",
+   "ts": 1791398383000,
+   "date": "2026-10-07",
+   "time": "21:39",
+   "files": [],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC6C2C57AA2F16F6AC132BAA91AC3ADB",
+   "sender": "נורית גאון",
+   "text": "למסירה הכל בחינם חפצים טובים מוזמנים להצטרף",
+   "ts": 1791398565000,
+   "date": "2026-10-07",
+   "time": "21:42",
+   "files": [],
+   "drive": null,
+   "phone": "972524305483"
+  },
+  {
+   "id": "AC6691E065B6D7D78C7F5708DC50418B",
+   "sender": "Adaya",
+   "text": "ברצינות? בערב הזה? לא יכלו להתאפק עוד קצת? 😠💔❤️‍🩹\nביזיון, באמת. מביך.",
+   "ts": 1791401073000,
+   "date": "2026-10-07",
+   "time": "22:24",
+   "files": [],
+   "drive": null,
+   "phone": "972528851931"
+  },
+  {
+   "id": "AC639E4DFA03A8790A3E169DF3104396",
+   "sender": "רוית נאומה",
+   "text": "אנחנו חיים לפי תאריך עברי וביום שני ציינו גם בהתייחס ספר וגם באמצעי התקשורת את הדברים שזה סמוך לשמחת תורה",
+   "ts": 1791401288000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC374A5C1FB3911893578E185D2BDA09",
+   "sender": "רוית נאומה",
+   "text": "אנחנו חיים לפי תאריך עברי וביום שני ציינו גם בבתי  ספר וגם באמצעי התקשורת את הדברים שזה סמוך לשמחת תורה",
+   "ts": 1791401306000,
+   "date": "2026-10-07",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC697E46F7A88BE0B46078A3B039048A",
+   "sender": "Adaya",
+   "text": "",
+   "ts": 1791402752000,
+   "date": "2026-10-07",
+   "time": "22:52",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "472KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/16OkG8EeFzygx7BizP0LCwiaLIEyyp11B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16OkG8EeFzygx7BizP0LCwiaLIEyyp11B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528851931"
   }
  ]
 }

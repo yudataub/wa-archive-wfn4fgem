@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קודש יסודי תשפ\"ז💫",
- "updated": "2026-10-07T16:49:33.839Z",
+ "updated": "2026-10-07T18:43:19.039Z",
  "messages": [
   {
    "id": "AC134B7FE66408D119F376017495D4E7",
@@ -143,6 +143,26 @@
    "files": [],
    "drive": null,
    "phone": "972509678800"
+  },
+  {
+   "id": "AC8E14E19207D8DDD66C72211E73D4DA",
+   "sender": "תאיר כהן👒",
+   "text": "זכינו, וצוות מורות גדול מ'תלמי הדר' משתתפות בלימוד של בית המדרש למורות.\n\nאיזה לימוד משמעותי ומפרה.\nזוכות לשים את הקודש במרכז!",
+   "ts": 1791398578000,
+   "date": "2026-10-07",
+   "time": "21:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "177KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16ABw6ifHKsNo2Kclk2xBjghcDbJInlFo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16ABw6ifHKsNo2Kclk2xBjghcDbJInlFo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523121003"
   }
  ]
 }

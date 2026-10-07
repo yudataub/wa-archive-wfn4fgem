@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-07T16:31:27.747Z",
+ "updated": "2026-10-07T20:00:59.652Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2242,6 +2242,257 @@
    "files": [],
    "drive": null,
    "phone": "972507547154"
+  },
+  {
+   "id": "3EB0AC2331A1305C9B6D90",
+   "sender": "חנה אלוש",
+   "text": "מישהו יכול לשלוח את זה שוב בבקשה?",
+   "ts": 1791399853000,
+   "date": "2026-10-07",
+   "time": "22:04",
+   "files": [],
+   "drive": null,
+   "phone": "972503295557"
+  },
+  {
+   "id": "AC16AC1880C23C5D93566305FE4BD30D",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791400136000,
+   "date": "2026-10-07",
+   "time": "22:08",
+   "files": [
+    {
+     "name": "תכנון שנתי ויקרא שופטים תשפז.pdf",
+     "size": "295KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1X1qOu25H0yfkCd5IAARidrIn_28-MulX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC0EFF05239E6ED9A32AA75FF6D3EBB5",
+   "sender": "שרה בן סימון",
+   "text": "שלום מחפשת מצגות לספר שופטים בבקשה פרקים א-ד",
+   "ts": 1791400753000,
+   "date": "2026-10-07",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972524698146"
+  },
+  {
+   "id": "AC2247AC1F4C62073299FDCF4EED73F3",
+   "sender": "דבורה יזדי",
+   "text": "מהמם!!\nיש איך לשמוע את השיר?",
+   "ts": 1791401023000,
+   "date": "2026-10-07",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972512882552"
+  },
+  {
+   "id": "3A0AD61A598CE495CBAA",
+   "sender": "גלית",
+   "text": "ערב טוב\nהאם מלמדים בכיתות ד את סיפור פסל מיכה ופילגש בגבעה?\nאם כן האם יש מערך או סרטון או מצגת ?",
+   "ts": 1791401499000,
+   "date": "2026-10-07",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972545252023"
+  },
+  {
+   "id": "AC22590C9297078467D05B31230B8230",
+   "sender": "רחלי מנדלסון",
+   "text": "",
+   "ts": 1791401921000,
+   "date": "2026-10-07",
+   "time": "22:38",
+   "files": [
+    {
+     "name": "מצגת מלווה פרק ב.pptx",
+     "size": "22.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1g2c2_rCrChaQFR5n-PYVQsoECdIJ-NKy/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "AC96DCAEE14A204BAEF81C12B95C8148",
+   "sender": "אפרת אמיתי🌷",
+   "text": "יש כזה גם לפרק א'?",
+   "ts": 1791402042000,
+   "date": "2026-10-07",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972586643770"
+  },
+  {
+   "id": "AC0919968A7CB5454CC80B92F3236117",
+   "sender": "אפרת אמיתי🌷",
+   "text": "הקדמה?",
+   "ts": 1791402044000,
+   "date": "2026-10-07",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972586643770"
+  },
+  {
+   "id": "AC40B2A12E276A6E90DF4908F8A7D312",
+   "sender": "רחלי מנדלסון",
+   "text": "זו מצגת שלי. עשיתי גם לפרק א ולא מוצאת אותה כרגע...",
+   "ts": 1791402186000,
+   "date": "2026-10-07",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "ACAACC5F8B54339317730DA2DC5EC44C",
+   "sender": "אפרת אמיתי🌷",
+   "text": "וואו ,מקסים...\nאם תמצאי אשמח לשיתוף...",
+   "ts": 1791402535000,
+   "date": "2026-10-07",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972586643770"
+  },
+  {
+   "id": "4A08336B017585295EC5",
+   "sender": "אפרת בן חמו",
+   "text": "מחפשת את מצגות ההמשך",
+   "ts": 1791402687000,
+   "date": "2026-10-07",
+   "time": "22:51",
+   "files": [
+    {
+     "name": "שופטים פרק א.pptx",
+     "size": "1.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1vd4QzdSCFHByugr-VyBejOA2Ns8KZQVL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972555507557"
+  },
+  {
+   "id": "AC6F2DBA72D5C427317516A0450D5CD4",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791402888000,
+   "date": "2026-10-07",
+   "time": "22:54",
+   "files": [
+    {
+     "name": "מצגת מלוה שופטים 4 פרק ג1.pptx",
+     "size": "1.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1_5L08YpKrcT756I8si9TPY5GPjWrHbV2/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC02A3CB6BA5B6DA30405D9734DAF818",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791402896000,
+   "date": "2026-10-07",
+   "time": "22:54",
+   "files": [
+    {
+     "name": "מצגת מלוה שופטים ג אהוד בן גרא.pptx",
+     "size": "3.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1GVcOoAtQlwQznNWsdH3_4k5U95netQra/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACFA3A8B451B0EAC85CC0D4D8063FB76",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791402897000,
+   "date": "2026-10-07",
+   "time": "22:54",
+   "files": [
+    {
+     "name": "מצגת מלוה שופטים 3 פרק ב.pptx",
+     "size": "714KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1zW-XFC_6xDVA3kZnHAvJc36jTEAWX5hf/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC59A99C1A8C11A9C4119C36AB04C9CD",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791402898000,
+   "date": "2026-10-07",
+   "time": "22:54",
+   "files": [
+    {
+     "name": "מצגת לפרק ד.pptx",
+     "size": "2.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1ChRHKleE13h6caKe4syBIx_zaCRdKnNK/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACFF61A254B2259B1DF58D78038C7041",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791402903000,
+   "date": "2026-10-07",
+   "time": "22:55",
+   "files": [
+    {
+     "name": "שופטים פרק ה- שירת דבורה (1).pptx",
+     "size": "6.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1iwESSRvkS3XXjD8DoSm3f01Aur_xcbAg/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "2AC4A92A04E7D0D44D33",
+   "sender": "אפרת בן חמו",
+   "text": "תודה !!",
+   "ts": 1791403237000,
+   "date": "2026-10-07",
+   "time": "23:00",
+   "files": [],
+   "drive": null,
+   "phone": "972555507557"
   }
  ]
 }
