@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-07T18:38:48.983Z",
+ "updated": "2026-10-08T04:41:13.261Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -840,6 +840,26 @@
    ],
    "drive": null,
    "phone": "972542089996"
+  },
+  {
+   "id": "AC0F061C0939EA4164B14A1DB680598E",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "למסירה",
+   "ts": 1791434459000,
+   "date": "2026-10-08",
+   "time": "07:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "367KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hBpNARQnli1GJPghc447JaF0XXontfN3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hBpNARQnli1GJPghc447JaF0XXontfN3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
   }
  ]
 }

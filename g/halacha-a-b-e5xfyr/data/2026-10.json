@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-07T20:35:36.919Z",
+ "updated": "2026-10-08T04:35:43.165Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -953,6 +953,28 @@
    "files": [],
    "drive": null,
    "phone": "972502833330"
+  },
+  {
+   "id": "ACD3C418C11CC39CC5C7A669E2E924A0",
+   "sender": "רונה",
+   "text": "https://pop.education.gov.il/tchumey_daat/toshba/elementary/pedagogy/curriculum/",
+   "ts": 1791434127000,
+   "date": "2026-10-08",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972546081268"
+  },
+  {
+   "id": "ACE7081F6E5CF86F39AA1829C6112B46",
+   "sender": "רונה",
+   "text": "יש הכל בתיאור הקבוצה למעלה",
+   "ts": 1791434129000,
+   "date": "2026-10-08",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972546081268"
   }
  ]
 }

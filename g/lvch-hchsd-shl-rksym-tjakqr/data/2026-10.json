@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-07T20:05:59.738Z",
+ "updated": "2026-10-08T05:20:13.834Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -3625,6 +3625,68 @@
    "files": [],
    "drive": null,
    "phone": "972504119468"
+  },
+  {
+   "id": "AC162935B79B537502607E60EECF1025",
+   "sender": "נ",
+   "text": "הדואר בכפר פתוח היום אחהצ?",
+   "ts": 1791435080000,
+   "date": "2026-10-08",
+   "time": "07:51",
+   "files": [],
+   "drive": null,
+   "phone": "972587060944"
+  },
+  {
+   "id": "AC616349D2F598B772A9F5992E837166",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1791436229000,
+   "date": "2026-10-08",
+   "time": "08:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "79KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_Je0D5oOg8dKrtkaECphDlMUXXHzXNC9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_Je0D5oOg8dKrtkaECphDlMUXXHzXNC9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC9B89CE20889499ED46C3D8801D8CB4",
+   "sender": "אלירן",
+   "text": "",
+   "ts": 1791436798000,
+   "date": "2026-10-08",
+   "time": "08:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HeHd79LzCwhdpuctSH30iFNET-BiyC0H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HeHd79LzCwhdpuctSH30iFNET-BiyC0H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523445911"
+  },
+  {
+   "id": "ACE7BBF671D2C4AAD4754E3E69C10384",
+   "sender": "אלירן",
+   "text": "מישהו יודע אם זה גם לנשים?",
+   "ts": 1791436799000,
+   "date": "2026-10-08",
+   "time": "08:19",
+   "files": [],
+   "drive": null,
+   "phone": "972523445911"
   }
  ]
 }

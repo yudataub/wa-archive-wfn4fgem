@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-07T20:11:36.482Z",
+ "updated": "2026-10-08T05:16:13.779Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2246,6 +2246,47 @@
    "files": [],
    "drive": null,
    "phone": "972587810580"
+  },
+  {
+   "id": "3EB0DC15EE6BD88550F1EB",
+   "sender": "יהונתן מילר",
+   "text": "",
+   "ts": 1791428154000,
+   "date": "2026-10-08",
+   "time": "05:55",
+   "files": [
+    {
+     "name": "כתר שבת בראשית (1).pdf",
+     "size": "266KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UrislXhaRJY-mJY2Gac4u_RbUX7oKwAw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542035900"
+  },
+  {
+   "id": "3AEDDEFC787C8319C812",
+   "sender": "חנה באטשוילי",
+   "text": "בוקר טוב,\nאשמח לדפי עבודה/מצגת\nאודות התמצאות בחומש,\nפרק,פסוק ועוד.",
+   "ts": 1791436504000,
+   "date": "2026-10-08",
+   "time": "08:15",
+   "files": [],
+   "drive": null,
+   "phone": "972526393152"
+  },
+  {
+   "id": "3A7953B56BB820C2E798",
+   "sender": "חנה באטשוילי",
+   "text": "הקדמה לחומש שמות.\nואשמח לדעת אם יש למישהו קישור לקבוצת משנה כיתה ד,\nתודה",
+   "ts": 1791436547000,
+   "date": "2026-10-08",
+   "time": "08:15",
+   "files": [],
+   "drive": null,
+   "phone": "972526393152"
   }
  ]
 }

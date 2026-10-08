@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-07T03:11:29.456Z",
+ "updated": "2026-10-08T04:00:46.928Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -238,6 +238,26 @@
      "path": "https://drive.google.com/file/d/13X5jhhx5--gMRQeGi_zhhHRH8YNDNsS-/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=13X5jhhx5--gMRQeGi_zhhHRH8YNDNsS-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A64E6580D6BE6A008ED",
+   "sender": ".",
+   "text": "״יצאה מליאה״ (בכורות כ, ב).",
+   "ts": 1791432016000,
+   "date": "2026-10-08",
+   "time": "07:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eozi4u705cxalf0z7CpQjQR-osyHXFoS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eozi4u705cxalf0z7CpQjQR-osyHXFoS&sz=w1200"
     }
    ],
    "drive": null,

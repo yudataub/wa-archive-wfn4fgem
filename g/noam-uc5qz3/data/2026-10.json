@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-07T19:06:23.276Z",
+ "updated": "2026-10-08T05:18:48.144Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -610,7 +610,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/12AnSGF_M3ufnzNil4QQAcQs-IU3ec0j2/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=12AnSGF_M3ufnzNil4QQAcQs-IU3ec0j2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=12AnSGF_M3ufnzNil4QQAcQs-IU3ec0j2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-noam-uc5qz3/v/2026-10/ACF5B52DBCBFE27C07A3BAC70F8BF4E4_0.mp4"
     }
    ],
    "drive": null,
@@ -770,7 +771,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1AKGB8EdXhI_S_jM-vd9jrOATUR3TiAk-/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1AKGB8EdXhI_S_jM-vd9jrOATUR3TiAk-&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1AKGB8EdXhI_S_jM-vd9jrOATUR3TiAk-&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-noam-uc5qz3/v/2026-10/ACBE3398E968715C0D9A9B63CD7FAB31_0.mp4"
     }
    ],
    "drive": null,
@@ -786,6 +788,26 @@
    "files": [],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "4A64806F9CF366340A26",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791436703000,
+   "date": "2026-10-08",
+   "time": "08:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "63KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rZe0cbIK5o0Y0kKzveFGT0gqBs0hmioz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rZe0cbIK5o0Y0kKzveFGT0gqBs0hmioz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
   }
  ]
 }

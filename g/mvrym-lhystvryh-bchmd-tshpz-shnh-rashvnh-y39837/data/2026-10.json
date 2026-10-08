@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מורים להיסטוריה בחמד תשפז-שנה ראשונה",
- "updated": "2026-10-07T09:51:30.968Z",
+ "updated": "2026-10-08T04:26:43.003Z",
  "messages": [
   {
    "id": "AC6A20D897068E7506C0478262DA592E",
@@ -101,6 +101,36 @@
    "files": [],
    "drive": null,
    "phone": "972586396675"
+  },
+  {
+   "id": "AC600181A97B4BD612CF9C9018421BC9",
+   "sender": "אלעד-אליהו בלילטי🌿",
+   "text": "..בוקר אור. \nתשלח כאן בעבר מצגות וחומרים לשכבת ט בית שני?",
+   "ts": 1791433564000,
+   "date": "2026-10-08",
+   "time": "07:26",
+   "files": [],
+   "drive": null,
+   "phone": "972522664518"
+  },
+  {
+   "id": "AC54074957AA2B605CDFC44C2808EFC2",
+   "sender": "מזי",
+   "text": "",
+   "ts": 1791433593000,
+   "date": "2026-10-08",
+   "time": "07:26",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1vGyQ3As0XfGc3OQhAN6Mqd2DSd15xjus/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503366016"
   }
  ]
 }

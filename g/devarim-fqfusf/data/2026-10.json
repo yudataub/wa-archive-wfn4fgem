@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-07T20:55:10.941Z",
+ "updated": "2026-10-08T04:22:47.241Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -1522,6 +1522,25 @@
    "files": [],
    "drive": null,
    "phone": "972543024259"
+  },
+  {
+   "id": "AC7B1F72803DF3BFB2D3C01D78FF0976",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1791433335000,
+   "date": "2026-10-08",
+   "time": "07:22",
+   "files": [
+    {
+     "name": "שמואל ב פרק א.pptx",
+     "size": "1.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/14kQCHTWiGsn2503f68rkZgHrL5PZqwN1/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
   }
  ]
 }

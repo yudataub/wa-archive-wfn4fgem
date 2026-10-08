@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות 055",
- "updated": "2026-10-07T05:31:15.375Z",
+ "updated": "2026-10-08T02:40:56.979Z",
  "messages": [
   {
    "id": "ACE8A246EB9C4D6A6F9019D3EE46B860",
@@ -100,6 +100,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1JWdJuu9oqo_DGiEvll-iz0pbEGN7LXEI&sz=w1200"
     }
    ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "AC1153E529D63622BB5F9E2D702893B4",
+   "sender": "אני",
+   "text": "תיכנס לאתר הקול החמישי\nותבחר נביא",
+   "ts": 1791427237000,
+   "date": "2026-10-08",
+   "time": "05:40",
+   "files": [],
    "drive": null,
    "thread": "אריה יונה"
   }
