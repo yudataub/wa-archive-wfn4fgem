@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-08T08:33:42.637Z",
+ "updated": "2026-10-08T11:57:39.899Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2660,6 +2660,97 @@
    "files": [],
    "drive": null,
    "phone": "972547661481"
+  },
+  {
+   "id": "AC4F728A97267DC2FD75D64296C2DA24",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791453573000,
+   "date": "2026-10-08",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "סיפורים חומש ויקרא.pdf",
+     "size": "353KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PY45CfLOM8CS1KMG4_X8LJur4QNtSp_V/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC5DE487C649D293574D927A1128AE32",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791453575000,
+   "date": "2026-10-08",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_xOmkn88HUu-yCD9ohqkq7jAp2DYNoCf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_xOmkn88HUu-yCD9ohqkq7jAp2DYNoCf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC6F94A6973C12287CAE96E9D34FB052",
+   "sender": "זאביק 😉",
+   "text": "למי יש מצגת על ויקרא פרק א קרבן עולה?",
+   "ts": 1791454162000,
+   "date": "2026-10-08",
+   "time": "13:09",
+   "files": [],
+   "drive": null,
+   "phone": "972545702150"
+  },
+  {
+   "id": "3A7E7591A9847578818A",
+   "sender": "ShaharSiriCohen",
+   "text": "",
+   "ts": 1791460611000,
+   "date": "2026-10-08",
+   "time": "14:56",
+   "files": [
+    {
+     "name": "2. קרבן עולה- פרק א'.pptx",
+     "size": "35.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/15jYO8DIL7vx_vQWagMi45zJMA7vfriRn/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526133453"
+  },
+  {
+   "id": "3AADEB49F454809DF330",
+   "sender": "ShaharSiriCohen",
+   "text": "https://docs.google.com/spreadsheets/d/1yIbJmI9XEg-oTgx5aPjzL19ipmehXW9RDbGNAUuXGdk/edit?usp=drivesdk",
+   "ts": 1791460636000,
+   "date": "2026-10-08",
+   "time": "14:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526133453"
+  },
+  {
+   "id": "3A0A0A1C17A17BEF24A6",
+   "sender": "ShaharSiriCohen",
+   "text": "מתוך הקישור הזה",
+   "ts": 1791460643000,
+   "date": "2026-10-08",
+   "time": "14:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526133453"
   }
  ]
 }

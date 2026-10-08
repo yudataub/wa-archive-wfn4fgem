@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-08T04:01:37.879Z",
+ "updated": "2026-10-08T11:57:09.902Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -1507,6 +1507,37 @@
    ],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "ACDAE3FDB2955110CC95A67E0EEBF285",
+   "sender": "אביטה",
+   "text": "שלום וברכה 😊\nשיעורים לפרשת *בראשית*\n\n🖥️ מצגות / 🎥 סרטונים / 🧩 תפזורות / 🎯 חידונים / 🎨 דפי צביעה / 📄 דפי קריאה / 🎮 משחקים / ✏️ ציורים \n\n📘 *הפרשה לצעירים - בראשית*\n https://abita.co.il/lessons/הפרשה-לצעירים-בראשית\n\n📗 *הפרשה לחיים - בראשית*\nhttps://abita.co.il/lessons/הפרשה-לחיים-בראשית\n\n📕 *ליקוטי שיחות - בראשית*\n https://abita.co.il/lessons/ליקוטי-שיחות-בראשית\n\n📣 להצטרפות לקבוצה השקטה של אביטה\n\n📣  נשמח שתפיצו את הקישורים בקרב מורים וקבוצות חינוך",
+   "ts": 1791454501000,
+   "date": "2026-10-08",
+   "time": "13:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z7ZKy-IYS5by8JEG4mWtHspYCCPHmEZP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z7ZKy-IYS5by8JEG4mWtHspYCCPHmEZP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708987"
+  },
+  {
+   "id": "3A99E552D6FF736A96B4",
+   "sender": "ShaharSiriCohen",
+   "text": "https://docs.google.com/spreadsheets/d/1yIbJmI9XEg-oTgx5aPjzL19ipmehXW9RDbGNAUuXGdk/edit?usp=drivesdk",
+   "ts": 1791460621000,
+   "date": "2026-10-08",
+   "time": "14:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526133453"
   }
  ]
 }

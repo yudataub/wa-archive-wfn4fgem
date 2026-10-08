@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-08T09:30:25.194Z",
+ "updated": "2026-10-08T13:04:54.607Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -3760,6 +3760,92 @@
    ],
    "drive": null,
    "phone": "972559398100"
+  },
+  {
+   "id": "ACE3A77F1C16CA8CD423D905DDE18804",
+   "sender": "שאול אלמן",
+   "text": "למסירה",
+   "ts": 1791458985000,
+   "date": "2026-10-08",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PXMLkKbvKQJZ3UuFCcuTQi7MgKyVSRyQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PXMLkKbvKQJZ3UuFCcuTQi7MgKyVSRyQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548441892"
+  },
+  {
+   "id": "ACFBE53CDEAD1B997714E957B229CB46",
+   "sender": "יעלי",
+   "text": "יש עדין קו שמגיע מרכסים לחוף השקט?",
+   "ts": 1791460030000,
+   "date": "2026-10-08",
+   "time": "14:47",
+   "files": [],
+   "drive": null,
+   "phone": "972548487274"
+  },
+  {
+   "id": "A5432B55F294864E3B4EFD237476C6FB",
+   "sender": "מאיר מוגרבי",
+   "text": "לא",
+   "ts": 1791460077000,
+   "date": "2026-10-08",
+   "time": "14:47",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "ACD799D5910B73B06F2F56E4500C1EE5",
+   "sender": "נחום רוזנטל",
+   "text": "מחפש אקדח לגריז (מגרזת) בהשאלה",
+   "ts": 1791462412000,
+   "date": "2026-10-08",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "phone": "972526031682"
+  },
+  {
+   "id": "ACF69B85E8555EFF985ECA5A0C15EA1D",
+   "sender": "ברוך אדרי",
+   "text": "מישהו עולה לירושלים להעביר שקית קטנה?",
+   "ts": 1791464621000,
+   "date": "2026-10-08",
+   "time": "16:03",
+   "files": [],
+   "drive": null,
+   "phone": "972553044700"
+  },
+  {
+   "id": "AC07D681F8B4EB60E09CC181E62564C7",
+   "sender": "פינחס ברויאר",
+   "text": "איפה יש מנחה בזמן הקרוב ?",
+   "ts": 1791464659000,
+   "date": "2026-10-08",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972548455693"
+  },
+  {
+   "id": "ACFC13EAE6CB505D137D97E47FA0E41D",
+   "sender": "Moshe",
+   "text": "",
+   "ts": 1791464689000,
+   "date": "2026-10-08",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972535869492"
   }
  ]
 }

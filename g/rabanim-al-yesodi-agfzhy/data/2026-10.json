@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-08T05:50:48.613Z",
+ "updated": "2026-10-08T12:03:46.982Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -352,6 +352,37 @@
    "files": [],
    "drive": null,
    "phone": "972542653170"
+  },
+  {
+   "id": "3A1F46DDE20BF527B329",
+   "sender": "עותניאל מנצור",
+   "text": "https://edu-il.zoom.us/j/8961231468",
+   "ts": 1791453424000,
+   "date": "2026-10-08",
+   "time": "12:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "79KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PPpQeafVR7TkoT3gjLst_tuKAF2S4TCp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PPpQeafVR7TkoT3gjLst_tuKAF2S4TCp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "ACB5B6D53CAE3C172C4E6967E0CC9372",
+   "sender": "הרב יוסף קורקוס",
+   "text": "מה באמת קרה לנחש???\n👇🏻\nhttps://youtu.be/DI5uQnWwlvQ",
+   "ts": 1791461014000,
+   "date": "2026-10-08",
+   "time": "15:03",
+   "files": [],
+   "drive": null,
+   "phone": "972545321263"
   }
  ]
 }

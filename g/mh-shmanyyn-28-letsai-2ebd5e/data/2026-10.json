@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-10-06T12:19:15.988Z",
+ "updated": "2026-10-08T13:10:39.906Z",
  "messages": [
   {
    "id": "AC3857EC3276D53072B06D9F3FC6FDB0",
@@ -64,6 +64,26 @@
    ],
    "drive": null,
    "phone": "972533057615"
+  },
+  {
+   "id": "3EB03B1DAB9DCDB18B71D2",
+   "sender": "לטס בינה מלאכותית",
+   "text": "😱 *עובדים עם GPT? לא רוצים לאבד את הבוטים שלכם? הנה סרטון שאתם חייבים לראות!*\nקבלו מדריך מצולם קצרצר שיסביר לכם איך להפוך את ה-GPTs שלכם לפלאגינים, רגע לפני ש-OpenAI סוגרים את הבאסטה!\n\n*וכמובן שיש גם מדריך כתוב ומורחב באתר*👇\nhttps://ltsai.co/1w6JMvR\n\n*הישארו מעודכנים - הצטרפו לוואסטאפ ולניוזלטר של LetsAI 👇*\nhttps://ltsai.co/newslatter",
+   "ts": 1791465034000,
+   "date": "2026-10-08",
+   "time": "16:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-ke11y5d8kFv-8bLkMlsEOcuARPyvvvn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-ke11y5d8kFv-8bLkMlsEOcuARPyvvvn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586408042"
   }
  ]
 }

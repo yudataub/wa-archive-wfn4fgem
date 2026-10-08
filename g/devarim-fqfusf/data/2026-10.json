@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-08T08:29:01.469Z",
+ "updated": "2026-10-08T11:54:31.793Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -1579,6 +1579,88 @@
    ],
    "drive": null,
    "phone": "972542057474"
+  },
+  {
+   "id": "3EB071D88074BB59220E24",
+   "sender": "נעמי 🍂",
+   "text": "אשמח לדפי עבודה לשמואל ב פרק ג",
+   "ts": 1791459458000,
+   "date": "2026-10-08",
+   "time": "14:37",
+   "files": [],
+   "drive": null,
+   "phone": "972542276536"
+  },
+  {
+   "id": "A5FB8EA8EC5D8A3A6B600A19B319E7E3",
+   "sender": "תודה לה'",
+   "text": "המצגת כוללת רק תמונות ללא מלל והסבר?!",
+   "ts": 1791459893000,
+   "date": "2026-10-08",
+   "time": "14:44",
+   "files": [],
+   "drive": null,
+   "phone": "972544604042"
+  },
+  {
+   "id": "AC0F094C2626A60A9E0FE41FA8B0F3F6",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791459979000,
+   "date": "2026-10-08",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "שמואל ב' פרק ב (1).pptx",
+     "size": "1.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1qwmGptApfwp43ac-z1jjRE-as0F4BgSv/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC65925A7BAF0D48284EF852E20602A6",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791459981000,
+   "date": "2026-10-08",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "שמואל ב פרק א.pptx",
+     "size": "1.5MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1ic6Yvc9VUDlZ6MAFi5RH1-1SVb8ewrn2/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "2A9107AFDBB35F10C43D",
+   "sender": "עיצובים מ א'-ת' - אושרת אוחיון",
+   "text": "יש קבוצה לכל אחד מהם",
+   "ts": 1791460190000,
+   "date": "2026-10-08",
+   "time": "14:49",
+   "files": [],
+   "drive": null,
+   "phone": "972522277173"
+  },
+  {
+   "id": "AC1BBB11EAE0E8E7820BE87E6E4F5307",
+   "sender": "יצחק ינון סלאב",
+   "text": "נכון",
+   "ts": 1791460451000,
+   "date": "2026-10-08",
+   "time": "14:54",
+   "files": [],
+   "drive": null,
+   "phone": "972585803058"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי #1",
- "updated": "2026-10-08T09:21:50.632Z",
+ "updated": "2026-10-08T10:10:55.827Z",
  "messages": [
   {
    "id": "A5F35C0BAF0148BF50C2E8370BD3176A",
@@ -20,6 +20,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=12InUPTkGw8AV7yJID_PIx0aE2n1GSVkJ&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A501EBE6F69EF4F202E6368758864E11",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי 2#*",
+   "ts": 1791454221000,
+   "date": "2026-10-08",
+   "time": "13:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/139ugTEyjW0Ljp8oapcJTdtWU2qEpccPQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=139ugTEyjW0Ljp8oapcJTdtWU2qEpccPQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A504E318CAC561D7EB646916C42CDB50",
+   "sender": "אוריאל פדידה",
+   "text": "🙏הקבוצה מליאה ולכן אם יש לכם חברים שרוצים להצטרף לקבוצה שירשמו ללינק החדש.",
+   "ts": 1791454249000,
+   "date": "2026-10-08",
+   "time": "13:10",
+   "files": [],
    "drive": null,
    "phone": "972506202812"
   }

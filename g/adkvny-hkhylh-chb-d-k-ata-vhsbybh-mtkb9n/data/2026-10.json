@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עדכוני הקהילה – חב\"ד ק. אתא והסביבה",
- "updated": "2026-10-06T14:13:19.519Z",
+ "updated": "2026-10-08T12:04:46.999Z",
  "messages": [
   {
    "id": "AC8F7D0BF842DE74720C61F52CB5703F",
@@ -120,6 +120,46 @@
      "path": "https://drive.google.com/file/d/1rjthHrv9ZcVSi2uUYmxlFIZAm9OPoqCU/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1rjthHrv9ZcVSi2uUYmxlFIZAm9OPoqCU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "AC12C04D4065E5665C180F02FE24B9B0",
+   "sender": "Yosi Mor",
+   "text": "📣 הודעה מטעם ועד בית הכנסת.\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_\n\n(🏠 _דף בית הכנסת:_ https://cka.pages.amud.cloud/ | 🫵 _לאזור האישי:_ https://cka.me.amud.cloud/me 🔒)",
+   "ts": 1791460950000,
+   "date": "2026-10-08",
+   "time": "15:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CeK-K5IxELigZ4Zneqf7ntb5NVNTwENz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CeK-K5IxELigZ4Zneqf7ntb5NVNTwENz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "ACE82FD5421CCC0AF19AD163E15C1647",
+   "sender": "Yosi Mor",
+   "text": "📣 דרושות: *סייעות*\nלצהרון בנים וצהרון בנות\nשל גני חב\"ד קרית אתא\n\n _לפרטים נוספים:_  הרב יצחק וייסגלס, 052-377-2770 ☎️,\nאו לוואטסאפ של גני חב\"ד, 054-264-1516 ☎️\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1791461077000,
+   "date": "2026-10-08",
+   "time": "15:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZL5k1VTX1AA9cewtYDw9qloUluJnVEj1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZL5k1VTX1AA9cewtYDw9qloUluJnVEj1&sz=w1200"
     }
    ],
    "drive": null,

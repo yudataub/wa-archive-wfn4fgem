@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-08T06:29:56.172Z",
+ "updated": "2026-10-08T10:21:02.717Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -114,6 +114,26 @@
    ],
    "drive": null,
    "phone": "972539220421"
+  },
+  {
+   "id": "ACC6F75ED782720B31F1F45535C94272",
+   "sender": "Aviram B.D",
+   "text": "",
+   "ts": 1791454858000,
+   "date": "2026-10-08",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L1tXtpVMq40cFpPudhdC6Jd3aWFpO89r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L1tXtpVMq40cFpPudhdC6Jd3aWFpO89r&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542613989"
   }
  ]
 }

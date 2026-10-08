@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-08T09:22:20.637Z",
+ "updated": "2026-10-08T12:34:17.505Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1539,6 +1539,26 @@
    "files": [],
    "drive": null,
    "phone": "972507439821"
+  },
+  {
+   "id": "3EB02D116A26F40C3BBBA8",
+   "sender": "אברהם פויכטונגר",
+   "text": "משתלמידים יקרים!\nאיזה כיף שכבר קפצתם למים!!\nתענוג לקרוא את המשובים שלכם ואת ההתנסויות בכיתות.\nמי שטרם עשה זאת, מוזמן בשמחה!!",
+   "ts": 1791462850000,
+   "date": "2026-10-08",
+   "time": "15:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "34KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OqYS7ip_F6QraGjorq0CFSYZBFdsDZj8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OqYS7ip_F6QraGjorq0CFSYZBFdsDZj8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523003393"
   }
  ]
 }

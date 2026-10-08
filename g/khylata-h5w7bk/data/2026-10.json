@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-08T08:58:20.268Z",
+ "updated": "2026-10-08T11:02:33.420Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -2455,6 +2455,48 @@
    "files": [],
    "drive": null,
    "phone": "972523121564"
+  },
+  {
+   "id": "ACFB8C2FCBAEA62E3F4D510B42DDF5BB",
+   "sender": "דניאלה תהל גבאי🌷",
+   "text": "נמצא בתחנת מטרונית בעיר. מי שאיבד - מוזמן לפנות אליי ואחבר למוצאת.",
+   "ts": 1791456901000,
+   "date": "2026-10-08",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "224KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SNsS_b9wHtqAwcffv9Ewgl5Buto3SNU-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SNsS_b9wHtqAwcffv9Ewgl5Buto3SNU-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546290499"
+  },
+  {
+   "id": "AC09CE18E03FCFFBD25E489FF267150A",
+   "sender": "דניאלה תהל גבאי🌷",
+   "text": "(בועז גולן)",
+   "ts": 1791456975000,
+   "date": "2026-10-08",
+   "time": "13:56",
+   "files": [],
+   "drive": null,
+   "phone": "972546290499"
+  },
+  {
+   "id": "AC7026E41C95BB38D9E11040A4A5B9C5",
+   "sender": "דינה שוורץ",
+   "text": "מותג חדש בשם ALAYA נפתח לרכישה!\n\nמותג לבגדי ספורט ולייף סטייל צנועים לנשים, שמשלב בין צניעות, נוחות וסטייל בלי להתפשר על איכות.\nבקולקציה תוכלו למצוא חצאיות ספורט עם טייץ מובנה, חצאיות ארוכות וחולצות ספורט צנועות, בעיצובים מהממים ובדים איכותיים במיוחד. מתאים גם לבתי ספר לבנות. \n\nהמותג שולח גם לישראל 🇮🇱\nhttps://alayaactive.com/he",
+   "ts": 1791457330000,
+   "date": "2026-10-08",
+   "time": "14:02",
+   "files": [],
+   "drive": null,
+   "phone": "972528128800"
   }
  ]
 }

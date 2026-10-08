@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-08T09:15:50.536Z",
+ "updated": "2026-10-08T13:06:54.648Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2459,7 +2459,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1nI4MMVLwe9_2p9CYgBrocsgAShl67xhN/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1nI4MMVLwe9_2p9CYgBrocsgAShl67xhN&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1nI4MMVLwe9_2p9CYgBrocsgAShl67xhN&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2AF71D26792463F3E068_0.mp4"
     }
    ],
    "drive": null,
@@ -2515,6 +2516,90 @@
    ],
    "drive": null,
    "phone": "972508522369"
+  },
+  {
+   "id": "ACB2208300C4F70826C6BC1CA489E7DA",
+   "sender": "שמעון ביטון",
+   "text": "",
+   "ts": 1791456754000,
+   "date": "2026-10-08",
+   "time": "13:52",
+   "files": [],
+   "drive": null,
+   "phone": "972542570701"
+  },
+  {
+   "id": "ACF92C547D3DCE542280A4496290116F",
+   "sender": "Yosi Mor",
+   "text": "*דרושה:* מישהי שיכולה לטפל,  בתשלום פרטי, במשך כמה שעות ביום, במבוגר שמתפקד והולך בהליכון לאחר ניתוח. בעיקר בעזרה בסדר ונקיון קל בבית ובבישול. לפרטים נוספים: אביבית, 052-892-2224 ☎️.",
+   "ts": 1791458330000,
+   "date": "2026-10-08",
+   "time": "14:18",
+   "files": [],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "AC62DD1828CE74649E00C6AE8471282F",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1791460604000,
+   "date": "2026-10-08",
+   "time": "14:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lgkUsMKyQzuI3tM1HOm5WjlAijIRoYbw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lgkUsMKyQzuI3tM1HOm5WjlAijIRoYbw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547029885"
+  },
+  {
+   "id": "ACB6A13E5918DECD648BF6D7548F4F13",
+   "sender": "Yosi Mor",
+   "text": "📣 דרושות: *סייעות*\nלצהרון בנים וצהרון בנות\nשל גני חב\"ד קרית אתא\n\n _לפרטים נוספים:_  הרב יצחק וייסגלס, 052-377-2770 ☎️,\nאו לוואטסאפ של גני חב\"ד, 054-264-1516 ☎️\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1791461172000,
+   "date": "2026-10-08",
+   "time": "15:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Jycks76vCX26fNtl3Gsz8D4SZCE8TUt-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Jycks76vCX26fNtl3Gsz8D4SZCE8TUt-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "2AB8B5F05D90FE363FDB",
+   "sender": "דורית מלאכית",
+   "text": "מי שאוהבת חיות להצטרף לקבוצה",
+   "ts": 1791464814000,
+   "date": "2026-10-08",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545716630"
+  },
+  {
+   "id": "2AE7C94A7D1E35C5AC46",
+   "sender": "דורית מלאכית",
+   "text": "",
+   "ts": 1791464816000,
+   "date": "2026-10-08",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545716630"
   }
  ]
 }

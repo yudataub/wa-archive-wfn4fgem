@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קריית אתא שלנו 1 | עדכוני חירום",
- "updated": "2026-10-07T07:24:35.962Z",
+ "updated": "2026-10-08T10:54:03.266Z",
  "messages": [
   {
    "id": "3A08A2A98258D26BE4B2",
@@ -11,6 +11,26 @@
    "date": "2026-10-07",
    "time": "10:24",
    "files": [],
+   "drive": null,
+   "phone": "972504780000"
+  },
+  {
+   "id": "3A4C1057468D20653396",
+   "sender": "Boaz Golan",
+   "text": "נמצא בתחנת מטרונית בעיר. מי שאיבד - מוזמן לפנות אליי ואחבר למוצאת.",
+   "ts": 1791456832000,
+   "date": "2026-10-08",
+   "time": "13:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "224KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xvPLJCwIO3VAstzkqbovXuvHXJOfksGU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xvPLJCwIO3VAstzkqbovXuvHXJOfksGU&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972504780000"
   }

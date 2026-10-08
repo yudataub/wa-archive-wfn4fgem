@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-08T07:10:03.754Z",
+ "updated": "2026-10-08T11:21:09.334Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -636,6 +636,37 @@
    "files": [],
    "drive": null,
    "phone": "972546341113"
+  },
+  {
+   "id": "3EB02A25DB310DC47EE45B",
+   "sender": "נטלי חייק🎀",
+   "text": "https://www.youtube.com/watch?v=BvWnD1wLdq8",
+   "ts": 1791453137000,
+   "date": "2026-10-08",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "phone": "972548525125"
+  },
+  {
+   "id": "AC365B311A358EBBE9D508A6335F1130",
+   "sender": "ש",
+   "text": "היי🤍 \nהאם יש למישהו את הקובץ עם דפי סיכום פרשת השבוע האלה החל מבראשית?\nתודה!",
+   "ts": 1791458464000,
+   "date": "2026-10-08",
+   "time": "14:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IvJ1FC4CjOeGchY4HbOgGJvmNTt6-YxX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IvJ1FC4CjOeGchY4HbOgGJvmNTt6-YxX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507340725"
   }
  ]
 }

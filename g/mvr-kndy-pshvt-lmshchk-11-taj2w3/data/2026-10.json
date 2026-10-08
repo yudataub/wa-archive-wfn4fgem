@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מור קנדי - פשוט למשחק 11",
- "updated": "2026-10-06T12:15:45.932Z",
+ "updated": "2026-10-08T12:41:39.479Z",
  "messages": [
   {
    "id": "A5AA7E1ED762723CFEDBB8B39D1945B7",
@@ -85,6 +85,37 @@
    "ts": 1791288932000,
    "date": "2026-10-06",
    "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A58A7147CDE8C89E0D3DAFE30DD2C8A1",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1791463271000,
+   "date": "2026-10-08",
+   "time": "15:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11np-RprrEE9spnS4xIf7PklNUFrJYMtB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11np-RprrEE9spnS4xIf7PklNUFrJYMtB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A57D299DA1A28A877616AA905553E59C",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "בסדנה ביום ראשון, אני אראה גם משחקים דיגיטליים וגם משחקים שהמורה יכולה להקרין על הלוח אבל גם.... מלא מלא משחקים שכל מה שצריך זה להדפיס ולשחק. יצרתי עבורכן 3 חוברות משחקים עם כ140 משחקים. \nמי שתירשם לסדנה- תקבל כמובן בסוף גם את ההקלטה, הקישורים ואת החוברות המטורפות האלה. \nרוצות להצטרף? \nhttps://funcourses.base44.app/course/6aba2e87d6830b77705db883",
+   "ts": 1791463272000,
+   "date": "2026-10-08",
+   "time": "15:41",
    "files": [],
    "drive": null,
    "phone": "972547461614"

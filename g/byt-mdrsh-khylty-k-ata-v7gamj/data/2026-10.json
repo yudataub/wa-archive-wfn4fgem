@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-08T05:48:48.558Z",
+ "updated": "2026-10-08T12:33:17.502Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1043,7 +1043,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1yml2VlHT8p8yj_Bxgx24C_sC2-AZXXx9/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1yml2VlHT8p8yj_Bxgx24C_sC2-AZXXx9&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1yml2VlHT8p8yj_Bxgx24C_sC2-AZXXx9&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACB3DE14DB2C70648B30E920AA333F06_0.mp4"
     }
    ],
    "drive": null,
@@ -1068,6 +1069,70 @@
    ],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "A58A5D79336A63C52EB1C424CA133BF5",
+   "sender": "יניב מאדים סתם ברמה",
+   "text": "מכירים חשמלאי מוסמך?",
+   "ts": 1791452326000,
+   "date": "2026-10-08",
+   "time": "12:38",
+   "files": [],
+   "drive": null,
+   "phone": "972537666878"
+  },
+  {
+   "id": "AC646BCBAA09BE6109C97C359185D2AA",
+   "sender": "אבנר",
+   "text": "📇 חש גיא אבנון\n+972528807373",
+   "ts": 1791454415000,
+   "date": "2026-10-08",
+   "time": "13:13",
+   "files": [],
+   "drive": null,
+   "phone": "972502759004"
+  },
+  {
+   "id": "AC83A4B7C58486092B7B7C6556CF3701",
+   "sender": "אבנר",
+   "text": "📇 חש שרון בוגנים חבד ק. אתא\n+972505357700",
+   "ts": 1791454455000,
+   "date": "2026-10-08",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972502759004"
+  },
+  {
+   "id": "ACF889B86452A1885D01349BF45D611A",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "*וינטר קורע את הסכמי אוסלו על הבמה: ״אין עם פלסטיני, זה שקר. אין מדינה פלסטינית. כל תכלית הרעיון הוא השמדת מדינת ישראל. הגיע הזמן להתעורר. אנחנו חייבים להיות ברורים ולהגיד את האמת בקול גדול, קודם לעצמנו ואחר כך לעולם: אין משא ומתן על הבית. לעולם, לעולם, לא תקום כאן מדינה פלסטינית! ברגע שהאויב יבין סופית שהוא לעולם לא יוכל לממש את השאיפה להשמיד אותנו, כאן - מתחילה ההכרעה. לכן, זה הזמן לומר - הסכם אוסלו לא קיים. נגמר החזון להשמדת מדינת ישראל״.*",
+   "ts": 1791462407000,
+   "date": "2026-10-08",
+   "time": "15:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "47KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/151tCsRB7Qq4zOA-Ig42KP3gahPQs3W9x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=151tCsRB7Qq4zOA-Ig42KP3gahPQs3W9x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC9F7A560408F791EBF90205B573AD8F",
+   "sender": "רוברט יצחק",
+   "text": "גבר גבר",
+   "ts": 1791462789000,
+   "date": "2026-10-08",
+   "time": "15:33",
+   "files": [],
+   "drive": null,
+   "phone": "972524755906"
   }
  ]
 }

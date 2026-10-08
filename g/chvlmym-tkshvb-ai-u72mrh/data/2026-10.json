@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-08T07:25:50.178Z",
+ "updated": "2026-10-08T11:05:54.100Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -1230,6 +1230,58 @@
    "files": [],
    "drive": null,
    "phone": "972523862756"
+  },
+  {
+   "id": "AC14084F0852E2E07AB04C6BF1E54766",
+   "sender": "✨",
+   "text": "אשמח לעזרה-\nאני צריכה להדפיס תשעים קבצים של וורד פעמיים כל אחד. יש דרך קצרה לעשות את זה?\nתודה מראש🙏",
+   "ts": 1791456721000,
+   "date": "2026-10-08",
+   "time": "13:52",
+   "files": [],
+   "drive": null,
+   "phone": "972524339897"
+  },
+  {
+   "id": "ACCB0D4ACD4EEC7E2FCFD63445080B33",
+   "sender": "חפציה",
+   "text": "אפשר להוסיף לתור בבת אחת דרך סייר הקבצים... תוודאי עם בינה",
+   "ts": 1791457173000,
+   "date": "2026-10-08",
+   "time": "13:59",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC9BD41DD11563D45B7DD5D4563BFDD8",
+   "sender": "Shani Nizry",
+   "text": "",
+   "ts": 1791457213000,
+   "date": "2026-10-08",
+   "time": "14:00",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1-Av9L7GldsCqqJ7XuMB3jQNAPGCuesQB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507342028"
+  },
+  {
+   "id": "AC0B5DDAF52E4F67DDF9F85DADE666C2",
+   "sender": "✨",
+   "text": "לא הצלחתי",
+   "ts": 1791457536000,
+   "date": "2026-10-08",
+   "time": "14:05",
+   "files": [],
+   "drive": null,
+   "phone": "972524339897"
   }
  ]
 }

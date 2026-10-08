@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-08T09:00:20.302Z",
+ "updated": "2026-10-08T11:52:09.804Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -591,6 +591,58 @@
    "files": [],
    "drive": null,
    "phone": "972546215881"
+  },
+  {
+   "id": "ACBBADEA4ED96EA089EF34A2CCF12742",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "אשמח לצלצול אל חי יפתח של רזאל",
+   "ts": 1791455260000,
+   "date": "2026-10-08",
+   "time": "13:27",
+   "files": [],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "ACC9B45D7D3BB314960A69D0DBDBED6D",
+   "sender": "נופר",
+   "text": "אשמח גם",
+   "ts": 1791456932000,
+   "date": "2026-10-08",
+   "time": "13:55",
+   "files": [],
+   "drive": null,
+   "phone": "972509786520"
+  },
+  {
+   "id": "ACB5319EE183E7520BA6A9FF2837915B",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1791460309000,
+   "date": "2026-10-08",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "554KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/14Uw5FyIXFSl_Z6FhxsmJblRsiFdEsFQf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "ACD7086CB8DC5B5F34E362468AF8C417",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "תודה לקטלוג!!",
+   "ts": 1791460324000,
+   "date": "2026-10-08",
+   "time": "14:52",
+   "files": [],
+   "drive": null,
+   "phone": "972549701213"
   }
  ]
 }

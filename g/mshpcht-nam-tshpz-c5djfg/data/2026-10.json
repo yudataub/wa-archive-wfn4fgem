@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-08T05:18:43.823Z",
+ "updated": "2026-10-08T11:19:39.332Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -815,6 +815,79 @@
    ],
    "drive": null,
    "phone": "972556640892"
+  },
+  {
+   "id": "3EB03226B1C2025009195C",
+   "sender": "וואצאפ כשר",
+   "text": "*תשפז❤️*\n\nהיי, אפשר בבקשה לשלוח את המצגת של האסיפת הורים. תודה❤️\n\nהועבר אוטומטית · מאת: \"נועה\" <n0556799896@gmail.com> · תאריך מקורי:\n08/10/2026 13:08",
+   "ts": 1791454269000,
+   "date": "2026-10-08",
+   "time": "13:11",
+   "files": [],
+   "drive": null,
+   "phone": "972552671189"
+  },
+  {
+   "id": "3EB0D5115B7ECD75D70507",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "המספר טלפון של אחראי על רצים למשנה למי שלא עובד לו \n058-519-7909",
+   "ts": 1791454957000,
+   "date": "2026-10-08",
+   "time": "13:22",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "3EB0CB8F544316231E4B5A",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "דבר נוסף יש חומשים - לילדים שחסר להם בספריה בכניסה \nאפשר לתת לילדים שחסר להם.",
+   "ts": 1791455004000,
+   "date": "2026-10-08",
+   "time": "13:23",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "AC7B7C69B091FCEA42C032A7B1769D56",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1791456322000,
+   "date": "2026-10-08",
+   "time": "13:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jJK7Sha8RfHeuqKjfI3BYaFv0yP6AWHD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jJK7Sha8RfHeuqKjfI3BYaFv0yP6AWHD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACC34511BB8F26EDAE0DD059C1893270",
+   "sender": "הילה שמר",
+   "text": "הרכב שייך למישהו?",
+   "ts": 1791456333000,
+   "date": "2026-10-08",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC0B905D645FF0574E110ADF98C624A0",
+   "sender": "מלי",
+   "text": "https://docs.google.com/document/d/1EVY8BL-K6tIPF7Qx4NhgQzdED9WYYOFU/edit?usp=sharing&ouid=105713872978645344089&rtpof=true&sd=true",
+   "ts": 1791458370000,
+   "date": "2026-10-08",
+   "time": "14:19",
+   "files": [],
+   "drive": null,
+   "phone": "972522376845"
   }
  ]
 }
