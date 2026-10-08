@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-07T20:11:36.465Z",
+ "updated": "2026-10-07T22:59:28.772Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -3119,7 +3119,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Z1qWN8r6Za3tgNTslUiqb2eKMT5uABd2/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Z1qWN8r6Za3tgNTslUiqb2eKMT5uABd2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Z1qWN8r6Za3tgNTslUiqb2eKMT5uABd2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2AE7E02679C1ACF3E7A6_0.mp4"
     }
    ],
    "drive": null,
@@ -3445,7 +3446,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1mLdANB9-RGpCbuVruH-BYtu6tMrNiuDu/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1mLdANB9-RGpCbuVruH-BYtu6tMrNiuDu&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1mLdANB9-RGpCbuVruH-BYtu6tMrNiuDu&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2AE76230D838F86F7BF2_0.mp4"
     }
    ],
    "drive": null,
@@ -4191,6 +4193,92 @@
    ],
    "drive": null,
    "phone": "972526699371"
+  },
+  {
+   "id": "ACBA08A76B76FEA8F4A298D4F8A8FD3B",
+   "sender": "B",
+   "text": "משהו שמע פיצוץ?",
+   "ts": 1791413317000,
+   "date": "2026-10-08",
+   "time": "01:48",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "3A12E8A197BD0F39AFF3",
+   "sender": "אורלי",
+   "text": "כן אני שמתי עכשיו",
+   "ts": 1791413331000,
+   "date": "2026-10-08",
+   "time": "01:48",
+   "files": [],
+   "drive": null,
+   "phone": "972559314358"
+  },
+  {
+   "id": "AC7D9A5E07A5F0BF29901FC8951AE373",
+   "sender": "B",
+   "text": "מה זה היה?",
+   "ts": 1791413379000,
+   "date": "2026-10-08",
+   "time": "01:49",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "ACD3B1CB73CBFB49A183BEFC99AF02C6",
+   "sender": ". ראובן זלצר",
+   "text": "",
+   "ts": 1791413656000,
+   "date": "2026-10-08",
+   "time": "01:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11M6FwsMGK7lD65V9-ouYYEyHIWOrHgBv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11M6FwsMGK7lD65V9-ouYYEyHIWOrHgBv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545700335"
+  },
+  {
+   "id": "AC8023935A839F31D7DEFA7980F855A7",
+   "sender": ". ראובן זלצר",
+   "text": "שאלה טובה זה ממש היה קרוב שמעתי אני גר באזור שביט",
+   "ts": 1791413739000,
+   "date": "2026-10-08",
+   "time": "01:55",
+   "files": [],
+   "drive": null,
+   "phone": "972545700335"
+  },
+  {
+   "id": "AC9DAE55743FF98109EEE905E96BD637",
+   "sender": "B",
+   "text": "אולי מלבנון",
+   "ts": 1791413785000,
+   "date": "2026-10-08",
+   "time": "01:56",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "A5D65C55706EF89656D129EAC8D0677D",
+   "sender": "דבורי פאות",
+   "text": "כן אני",
+   "ts": 1791413956000,
+   "date": "2026-10-08",
+   "time": "01:59",
+   "files": [],
+   "drive": null,
+   "phone": "972532404770"
   }
  ]
 }

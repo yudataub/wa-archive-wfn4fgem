@@ -1,0 +1,109 @@
+{
+ "month": "2026-10",
+ "group": "הודעות פרטיות 0525802694 (שולח)",
+ "updated": "2026-10-07T22:01:06.350Z",
+ "messages": [
+  {
+   "id": "A54BC821D0A07B2C5C9B8C4A41701791",
+   "sender": "אני",
+   "text": "זה הקובץ פשוט מודפס. אם לא אמצא אקליד שוב",
+   "ts": 1791409101000,
+   "date": "2026-10-08",
+   "time": "00:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "262KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QJzTmzJzA1tjfzazjEO_5IpGJgV2ZxCr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QJzTmzJzA1tjfzazjEO_5IpGJgV2ZxCr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "חוברות אהבה ושמחה"
+  },
+  {
+   "id": "A56AC9D83888C95F05A4860C87F5098E",
+   "sender": "אני",
+   "text": "מה עוד תרצי מהעבר",
+   "ts": 1791409454000,
+   "date": "2026-10-08",
+   "time": "00:44",
+   "files": [],
+   "drive": null,
+   "thread": "חוברות אהבה ושמחה"
+  },
+  {
+   "id": "AC0ED1E2A0EBF5EA8E11438BE0D220A6",
+   "sender": "זהבה",
+   "text": "תודה רבה על הכל",
+   "ts": 1791410145000,
+   "date": "2026-10-08",
+   "time": "00:55",
+   "files": [],
+   "drive": null,
+   "thread": "זהבה",
+   "phone": "972502833330"
+  },
+  {
+   "id": "ACA008A0E8B58246AC43B275A577B7AA",
+   "sender": "זהבה",
+   "text": "ככה זה מראה לי את מה ששלחת דרך הפלאפון. אבדוק מחר מול המחשב בע\"ה.",
+   "ts": 1791410151000,
+   "date": "2026-10-08",
+   "time": "00:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1swFvllEJlJ9c8LY6pTyaE0pmnBghmELx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1swFvllEJlJ9c8LY6pTyaE0pmnBghmELx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "זהבה",
+   "phone": "972502833330"
+  },
+  {
+   "id": "3EB0BAE9FC2C5987119BE0",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791410443000,
+   "date": "2026-10-08",
+   "time": "01:00",
+   "files": [
+    {
+     "name": "תוכנית לימודים בהלכה כיתה א תשפז.pdf",
+     "size": "95KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1dARJAV39sqQeFAJBRLrbeEvx4vpg-S28/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "חוברות אהבה ושמחה"
+  },
+  {
+   "id": "3EB0FB5268D78B831CD3ED",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791410443000,
+   "date": "2026-10-08",
+   "time": "01:00",
+   "files": [
+    {
+     "name": "תוכנית לימודים בהלכה כיתה ב תשפז.docx",
+     "size": "28KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1BJIwQem3xCm1Ab4kLPmjqmctJaQPJHme/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "חוברות אהבה ושמחה"
+  }
+ ]
+}
