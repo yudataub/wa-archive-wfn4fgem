@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-08T04:33:43.125Z",
+ "updated": "2026-10-08T09:37:25.295Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -4533,6 +4533,216 @@
    "files": [],
    "drive": null,
    "phone": "972523115064"
+  },
+  {
+   "id": "AC2BE7DBC75047800BD45E7522CE0D51",
+   "sender": "בוכניק ורדה",
+   "text": "בוקר טוב.מה הכלל לגבי שימוש בכלים לחלבי ולפרווה ראיתי למשל בקערת מיקסר ממתכת. האם כן?",
+   "ts": 1791441946000,
+   "date": "2026-10-08",
+   "time": "09:45",
+   "files": [],
+   "drive": null,
+   "phone": "972505044713"
+  },
+  {
+   "id": "ACE02D82BCE5B4A4B352927346B84F00",
+   "sender": "ישראל",
+   "text": "כל כלי נקי אפשר להשתמש בו לפרווה ולאכול עם בשר גם בבישול לספרדים. \nרק בדבר חריף כבצל ושום יש מקום להחמיר",
+   "ts": 1791442425000,
+   "date": "2026-10-08",
+   "time": "09:53",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC8075B13BB56B30708248F21C64B3A2",
+   "sender": "noa asulin0",
+   "text": "ראש חודש ממוצאש?",
+   "ts": 1791443164000,
+   "date": "2026-10-08",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "phone": "972504410155"
+  },
+  {
+   "id": "AC42A3C08C0D1FE2AB029F867CC3D540",
+   "sender": "ישראל",
+   "text": "כן. כדאי שיהיה לכם לוח עברי לפחות באפליקציה",
+   "ts": 1791443312000,
+   "date": "2026-10-08",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "ACE1C974AE7C4D3C87B49BC6F19645E6",
+   "sender": "Σαγκιβ ντελοια 🇬🇷  שגיב",
+   "text": "אליה אמרה שדיברה איתך ?",
+   "ts": 1791443326000,
+   "date": "2026-10-08",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972528283840"
+  },
+  {
+   "id": "AC797DAD1CFED3FF40FA452C13D2A68B",
+   "sender": "ישראל",
+   "text": "עד סוף יום שני",
+   "ts": 1791443328000,
+   "date": "2026-10-08",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "ACC3C94896364B96DE8B3A010974CB89",
+   "sender": "סיגלית",
+   "text": "",
+   "ts": 1791443521000,
+   "date": "2026-10-08",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DB42hlGWCi6RQEKGwEjTxhWn1a2MzxWY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DB42hlGWCi6RQEKGwEjTxhWn1a2MzxWY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526212797"
+  },
+  {
+   "id": "ACDD160365C1FB3E39320321E60AFF7C",
+   "sender": "סיגלית",
+   "text": "בוקר טוב \nשלום וברכה \nרכשתי קומקום חשמלי המתאים גם לשבת .\nמצורף בו גם את האישור ההלכתי ,ומצורף איך להשתמש בו נכון הלכתית לשבת ,האם זה בסדר ?",
+   "ts": 1791443521000,
+   "date": "2026-10-08",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VcCR-UhvTqIlhwtoAw0DGJBLyw4BE_b7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VcCR-UhvTqIlhwtoAw0DGJBLyw4BE_b7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526212797"
+  },
+  {
+   "id": "ACD9514B9DBFD53B9DF2509D6671391D",
+   "sender": "ישראל",
+   "text": "כן. ולהזהר מניתוק ולוודא לפני כל שבת שזה ממחובר טוב כמו שכתוב",
+   "ts": 1791443713000,
+   "date": "2026-10-08",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "AC4863CAC5CC999B913C3963311CD6F2",
+   "sender": "סיגלית",
+   "text": "אבדוק עוד היום שלא יהיה חשש לחילול שבת.\nתודה רבה 🙏",
+   "ts": 1791443778000,
+   "date": "2026-10-08",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526212797"
+  },
+  {
+   "id": "3A4944C5A94E6A38846B",
+   "sender": "Idan 🥂",
+   "text": "רק כלי מטבח מזכוכית צריך להטביל?",
+   "ts": 1791444963000,
+   "date": "2026-10-08",
+   "time": "10:36",
+   "files": [],
+   "drive": null,
+   "phone": "972584493332"
+  },
+  {
+   "id": "AC36D11FB401FAF62677E28AB24C1635",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1791445579000,
+   "date": "2026-10-08",
+   "time": "10:46",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "15KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1PDPKAsQXJy_xNlG7tC_GzC83oWg05RzQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "3A11EF804A2CE2FB0FBB",
+   "sender": "Idan 🥂",
+   "text": "ורק שלושת הסוגים האלה מטבילים?",
+   "ts": 1791446038000,
+   "date": "2026-10-08",
+   "time": "10:53",
+   "files": [],
+   "drive": null,
+   "phone": "972584493332"
+  },
+  {
+   "id": "AC005E1895FDE00C6D211EC334B67F20",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1791446059000,
+   "date": "2026-10-08",
+   "time": "10:54",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "23KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1SJHwLftp87oRvlS6GzTtcsvUnWx_FCzm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "3A7E906ADF948D0F192B",
+   "sender": "נועה קובלבסקי",
+   "text": "האם צריך לברך ברכה אחרונה על דגני בוקר (עשוי מחיטה) עם חלב ואם כן מה?",
+   "ts": 1791452022000,
+   "date": "2026-10-08",
+   "time": "12:33",
+   "files": [],
+   "drive": null,
+   "phone": "972528842370"
+  },
+  {
+   "id": "AC3740041D0E108E5F6A2FECC006F301",
+   "sender": "yfrei100",
+   "text": "תלוי על מה.\n\nבדרך כלל בורא נפשות.\nלמעט אם אחוז החיטה גבוה שאז אוכלים כזית דגן (כ30 גרם) בתוך כדי אכילת פרס (כ4 דקות)",
+   "ts": 1791452243000,
+   "date": "2026-10-08",
+   "time": "12:37",
+   "files": [],
+   "drive": null,
+   "phone": "972523898468"
   }
  ]
 }

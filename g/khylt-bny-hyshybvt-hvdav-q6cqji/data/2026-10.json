@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-08T05:23:18.139Z",
+ "updated": "2026-10-08T08:11:42.253Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -1944,6 +1944,79 @@
    "files": [],
    "drive": null,
    "phone": "972549420410"
+  },
+  {
+   "id": "ACD087F07AD0B9D578FC7BED78155BA0",
+   "sender": "ישראל אהרוני",
+   "text": "השבת אבידה\nנמצא ברחוב הרצל\nבתחנת אוטובוס\n\nאפשר להתקשר\n0548477140",
+   "ts": 1791439462000,
+   "date": "2026-10-08",
+   "time": "09:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HOASuW6txUGPbMdHNEuIZ4zEVIN-BeO9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HOASuW6txUGPbMdHNEuIZ4zEVIN-BeO9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "ACCC9DC0448CD64A0B64151B07D154E5",
+   "sender": "מאיר",
+   "text": "מישהו עם רישיון רוצה לצאת עכשיו לירושלים?",
+   "ts": 1791441299000,
+   "date": "2026-10-08",
+   "time": "09:34",
+   "files": [],
+   "drive": null,
+   "phone": "972585520378"
+  },
+  {
+   "id": "AC32ABCD760EC3E7DD01A6ACDEBE103F",
+   "sender": "שרגא רוזנטל",
+   "text": "קרית אתא ביציאה מהעצמאות לרחוב ביאליק",
+   "ts": 1791442454000,
+   "date": "2026-10-08",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972547477628"
+  },
+  {
+   "id": "AC71EAFA9353DD5E778066C166469FED",
+   "sender": "שרגא רוזנטל",
+   "text": "",
+   "ts": 1791442454000,
+   "date": "2026-10-08",
+   "time": "09:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1jT0gzCAnYe6XXlT1IfPQ1qcqSDARUuSg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jT0gzCAnYe6XXlT1IfPQ1qcqSDARUuSg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547477628"
+  },
+  {
+   "id": "A5CF3963E97EA9D3BBC38EB46166C4CD",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "עדיין רלוונטי 🙏🏻",
+   "ts": 1791447080000,
+   "date": "2026-10-08",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-07T17:42:11.373Z",
+ "updated": "2026-10-08T05:50:48.613Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -279,6 +279,79 @@
    ],
    "drive": null,
    "phone": "972509018403"
+  },
+  {
+   "id": "AC8D17CEB214DC57ECE6216430DC8B99",
+   "sender": "אלי חחיאשוילי",
+   "text": "הסיליבוס של המפגשים במצפן שונה גם בימים ובשעות וגם בתוכן.",
+   "ts": 1791437996000,
+   "date": "2026-10-08",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972502917860"
+  },
+  {
+   "id": "3EB03E8D30BEF17AF5E563",
+   "sender": "אלי חחיאשוילי",
+   "text": "",
+   "ts": 1791438010000,
+   "date": "2026-10-08",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12BHvsIzGu7AdVNeTQmc_CgdNGxiHFb5L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12BHvsIzGu7AdVNeTQmc_CgdNGxiHFb5L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502917860"
+  },
+  {
+   "id": "3EB0005039118E8F683D7A",
+   "sender": "אלי חחיאשוילי",
+   "text": "הסילבוס של הקורס במצפן 👆🏻",
+   "ts": 1791438033000,
+   "date": "2026-10-08",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972502917860"
+  },
+  {
+   "id": "3AF0F818E56B1B593674",
+   "sender": "עותניאל מנצור",
+   "text": "*תפילת רבים של החמ\"ד!*\nעצרת התפילה המרכזית לגשמים לשלום המדינה! \n\nבע\"ה תתקיים ביום ראשון, ז' חשוון, בשעה 10:20 בישיבת הר עציון לצעירים.\n\n*מוזמנים להצטרף לשידור החי ולהתפלל יחד איתנו!*\n \nלהורדת נוסח התפילה וכניסה למשדר לחצו על הקישור המצורף.\nhttps://www.yedidhemed.co.il/tfilat_rabim/\n\n*מחכים לכם!*\n*הנהלת החמ\"ד*",
+   "ts": 1791438133000,
+   "date": "2026-10-08",
+   "time": "08:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L6XYyDZKybAk95zg7nmREl8PUE_hLeKC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L6XYyDZKybAk95zg7nmREl8PUE_hLeKC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "ACBE6C00644C5C8B79E6A34E78221224",
+   "sender": "אבי'ה אלבה",
+   "text": "מה שקובע זה מה שבקישור",
+   "ts": 1791438628000,
+   "date": "2026-10-08",
+   "time": "08:50",
+   "files": [],
+   "drive": null,
+   "phone": "972542653170"
   }
  ]
 }

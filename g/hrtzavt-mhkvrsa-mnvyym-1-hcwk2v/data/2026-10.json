@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-10-07T08:41:21.750Z",
+ "updated": "2026-10-08T07:13:03.791Z",
  "messages": [
   {
    "id": "3EB0C2395372C4C50CC48F",
@@ -99,6 +99,26 @@
      "path": "https://drive.google.com/file/d/149RssOxiigiYDQNVHL-G7SxlhWRRjWNC/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=149RssOxiigiYDQNVHL-G7SxlhWRRjWNC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB0734C15F18F3A6EE61A",
+   "sender": "הרצאות מהכורסא",
+   "text": "בוקר טוב, *בעוד כשעה*, נתחיל במפגש זום למנויים בלבד, *שיחות מהכורסא AI - עם רון יחזקאל*.\nמפגש זום מעשי לתרגול משותף, התנסות והדגמות בנושאי AI. אין צורך בידע מוקדם.\n\nהיום נלמד להכיר קצת יותר לעומק את חלון השיחה עם ג'מיני כדי שתוכלו לנצל את מלוא האפשרויות העומדות בפניכם.\n\n👈🏼 *להצטרפות בשעה 11:00 לחצו כאן*:  https://bit.ly/3OT7WFZ",
+   "ts": 1791443553000,
+   "date": "2026-10-08",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kuSGN0tL4kawcMvohcgZ-QoOAO7R27hv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kuSGN0tL4kawcMvohcgZ-QoOAO7R27hv&sz=w1200"
     }
    ],
    "drive": null,

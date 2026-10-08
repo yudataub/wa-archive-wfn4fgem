@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-07T15:10:19.674Z",
+ "updated": "2026-10-08T06:32:26.213Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -93,6 +93,93 @@
    "files": [],
    "drive": null,
    "phone": "972545580540"
+  },
+  {
+   "id": "3EB0FDA2ADDB2095129313",
+   "sender": "shmu54",
+   "text": "הנה חומר על חנן פורת ז\"ל לקראת י\"א בחשון: 1. יחסו המיוחד לקבר רחל ולרצח ראש הממשלה יצחק רבין ז\"ל 2. שיעורים על דמותה של רחל אמנו 3. קישור לסרט מתאים (ביוטיוב) + דפי מקורות על רחל אמנו. בהצלחה בשורות טובות. https://youtu.be/zS2XFI1zt9c?si=eJcSyyc8WNFHpXKv",
+   "ts": 1791440887000,
+   "date": "2026-10-08",
+   "time": "09:28",
+   "files": [
+    {
+     "name": "חנן פורת - וקבר רחל.pptx",
+     "size": "35.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1eJ1mslFtGSpQ6eNCsqxUQsIy0UItHUGo/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB06E2B2A62FB6BDF595A",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1791440888000,
+   "date": "2026-10-08",
+   "time": "09:28",
+   "files": [
+    {
+     "name": "חנן פורת - וקבר רחל.docx",
+     "size": "148KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1oLh0wlGg_vHJp8JpO6y6otwDr32qAZ_L/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB0E96E4364DAE9BA6E5F",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1791440890000,
+   "date": "2026-10-08",
+   "time": "09:28",
+   "files": [
+    {
+     "name": "חנן פורת - על דמותה של רחל אמנו.docx",
+     "size": "3.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1oJO-bifrCoc3jFuTJKk2rx44ni5E6V8S/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB0AC945BDF9D3BC8ED63",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1791440891000,
+   "date": "2026-10-08",
+   "time": "09:28",
+   "files": [
+    {
+     "name": "רחל אמנו - דפי מקורות.docx",
+     "size": "1.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1wRF41ETdcMVYO873-3gAlt_eWqLAHHAf/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "ACE15834989FC1277181D0EAF9C8711D",
+   "sender": "רחל עלוש",
+   "text": "זה מקסים תודה!\nיש אולי דפים כאלה לרמת ביה\"ס יסודי קצת יותר קל לכיתות א- ד",
+   "ts": 1791441122000,
+   "date": "2026-10-08",
+   "time": "09:32",
+   "files": [],
+   "drive": null,
+   "phone": "972535215620"
   }
  ]
 }

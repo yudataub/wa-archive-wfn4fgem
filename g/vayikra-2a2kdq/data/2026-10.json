@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-07T20:00:59.652Z",
+ "updated": "2026-10-08T08:33:42.637Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2493,6 +2493,173 @@
    "files": [],
    "drive": null,
    "phone": "972555507557"
+  },
+  {
+   "id": "ACC9CEFE9E948C19B60DE8BC165BD7B8",
+   "sender": "שלומית בן שלמה",
+   "text": "יש מצגת הקדמה לספר שופטים?",
+   "ts": 1791438312000,
+   "date": "2026-10-08",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "phone": "972524817933"
+  },
+  {
+   "id": "ACCBE71C54C2CB16C20EF438034E9533",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791441015000,
+   "date": "2026-10-08",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "📜נוסח בזכר חידות התמצאות בספר שופטים.docx",
+     "size": "29KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1oj_1175-eDBO-mnVrBaaizlSuyl2tWUv/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC40C9A1A40974145B2E72B619B0A510",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791441036000,
+   "date": "2026-10-08",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "Joshua_to_Judges.pptx",
+     "size": "10.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1QYc0RN2QTCaDS4fwp0ajkxL30moxZZwb/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC70E9D577E6C205866004DB5B9D6595",
+   "sender": "אורית הודיה",
+   "text": "תיקנתי את הטעות שעשיתי ופה זה בלשון זכר למעוניינים",
+   "ts": 1791441046000,
+   "date": "2026-10-08",
+   "time": "09:30",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACE34A89ED68ACEED56BC1E803B6AEE4",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791441062000,
+   "date": "2026-10-08",
+   "time": "09:31",
+   "files": [
+    {
+     "name": "The_Judges_Era.pdf",
+     "size": "19.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1a6ue57l4xAbOMDkJgXCn5mzTWiwbMT0d/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACEFED67987A081521AAA5623B57551B",
+   "sender": "~ חן איטח",
+   "text": "אשמח לקבל עבודה בויקרא פרקים א-ג 🙏🏻🙏🏻",
+   "ts": 1791442876000,
+   "date": "2026-10-08",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "phone": "972508555461"
+  },
+  {
+   "id": "AC32FF4688E647D977DDCB87598545CA",
+   "sender": "שלומית בן שלמה",
+   "text": "תודה רבה",
+   "ts": 1791443082000,
+   "date": "2026-10-08",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972524817933"
+  },
+  {
+   "id": "3AEB2DE922B6436CC324",
+   "sender": "גלית",
+   "text": "אשמח לתשובה",
+   "ts": 1791443826000,
+   "date": "2026-10-08",
+   "time": "10:17",
+   "files": [],
+   "drive": null,
+   "phone": "972545252023"
+  },
+  {
+   "id": "3AED93A115AD4475B577",
+   "sender": "שובל אקריש כהן 🤍",
+   "text": "אפשר בבקשה שער למחברת תורה\nבראשית",
+   "ts": 1791444401000,
+   "date": "2026-10-08",
+   "time": "10:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525935370"
+  },
+  {
+   "id": "AC5FB21141CBE9EB1DA58E00FB9BD7C8",
+   "sender": "שלומית בן שלמה",
+   "text": "כן. מותאם לרמת הילדים\nיש בדרייב של הקבוצה שיעורים טובים איך ללמד אותם.",
+   "ts": 1791445123000,
+   "date": "2026-10-08",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524817933"
+  },
+  {
+   "id": "3A57E9F5443730CC5F2F",
+   "sender": "גלית",
+   "text": "שכוייח",
+   "ts": 1791445786000,
+   "date": "2026-10-08",
+   "time": "10:49",
+   "files": [],
+   "drive": null,
+   "phone": "972545252023"
+  },
+  {
+   "id": "AC156A28C6549E6F96185713D20F28DD",
+   "sender": "דבורה לאה",
+   "text": "חוברת עבודה לספר שופטים",
+   "ts": 1791447742000,
+   "date": "2026-10-08",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972587701873"
+  },
+  {
+   "id": "ACA2EA904121BBD80228380606281F54",
+   "sender": "אביבה אריאל",
+   "text": "זה חלק מתכנית הלימודים. יש מהלכי הוראה כתובים מפורטים.",
+   "ts": 1791448406000,
+   "date": "2026-10-08",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972547661481"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-07T16:25:57.670Z",
+ "updated": "2026-10-08T06:58:56.649Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -416,6 +416,28 @@
    "files": [],
    "drive": null,
    "phone": "972504300138"
+  },
+  {
+   "id": "3EB0962313088F455756BE",
+   "sender": "ישראל ויסקוט",
+   "text": "משימה באפליקציית QUIZIZZ על סימן טו - הזכרת גשמים\nקישור למורה\nhttps://wayground.com/admin/assessment/6ac6a4e945805fe2ca826dae?source=lesson_share",
+   "ts": 1791438830000,
+   "date": "2026-10-08",
+   "time": "08:53",
+   "files": [],
+   "drive": null,
+   "phone": "972508738650"
+  },
+  {
+   "id": "3EB0D6A31A55CDA7AD950D",
+   "sender": "ישראל ויסקוט",
+   "text": "עדכני ו4 טו הזכרת גשמים בתפילה\nhttps://wayground.com/join?gc=35021405",
+   "ts": 1791442732000,
+   "date": "2026-10-08",
+   "time": "09:58",
+   "files": [],
+   "drive": null,
+   "phone": "972508738650"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-10-08T05:22:18.119Z",
+ "updated": "2026-10-08T09:14:50.530Z",
  "messages": [
   {
    "id": "3AE13462F94DE0376307",
@@ -64,6 +64,26 @@
    "date": "2026-10-08",
    "time": "08:21",
    "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3ABA0E06444D56279803",
+   "sender": "חגית סייג",
+   "text": "*מכללת אתא* פותחת *חוג סריגה* למתחילים ובעלי ניסיון \nבואו לסרוג בובות, תיקים, כובעים ועוד 🧵 🧶🪡\n\n🗓️ ימי חמישי \n⏰ שעות 10:00-12:00\n🏷️עלות: 180 ש\"ח לחודש (לא כולל חומרים)\n\n📌מתנ\"ס קרית אתא - פלמ\"ח 11\n\nלפרטים: 0733236871 / 0528114250\n*פתיחת הקורס מותנית במספר מינימום של נרשמים*",
+   "ts": 1791450871000,
+   "date": "2026-10-08",
+   "time": "12:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hlCSmejnrk865ivi0_Cgx4MZHlvrJiOb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hlCSmejnrk865ivi0_Cgx4MZHlvrJiOb&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522346593"
   }

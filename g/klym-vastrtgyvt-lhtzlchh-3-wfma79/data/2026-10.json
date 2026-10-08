@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-08T05:20:18.173Z",
+ "updated": "2026-10-08T05:46:18.596Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -1016,6 +1016,37 @@
    "ts": 1791436808000,
    "date": "2026-10-08",
    "time": "08:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A597E5EA7449DE9E927BC0FE30865731",
+   "sender": "mary garby",
+   "text": "https://files.instinct.com/ojfa1kftindw\nלומדה- מסע המזון במערכת העיכול, בהמשך יתווסף סרטון ונעלה את הכל לחומר פתוח כדי שישמר לכולנו.",
+   "ts": 1791438282000,
+   "date": "2026-10-08",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "657KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AfsyJk9WV1VGsqoedg02uExAWOLwAxNp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AfsyJk9WV1VGsqoedg02uExAWOLwAxNp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5B386EEC52BDB3860BFDCFDCC830AD6",
+   "sender": "mary garby",
+   "text": "הוכן כמו שאפשר לראות בעזרת ה\"שיקוץ\" הנקרא בפי העם instinct",
+   "ts": 1791438351000,
+   "date": "2026-10-08",
+   "time": "08:45",
    "files": [],
    "drive": null,
    "phone": "972546887626"

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הקהילה שהכל כאן !!!",
- "updated": "2026-10-08T02:21:45.299Z",
+ "updated": "2026-10-08T08:17:42.333Z",
  "messages": [
   {
    "id": "A5D1E80E5976E62B479BF18C87D33D1B",
@@ -387,7 +387,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1gDh8LvRJRLHKuIBVhX8nFHroaVuanqym/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1gDh8LvRJRLHKuIBVhX8nFHroaVuanqym&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1gDh8LvRJRLHKuIBVhX8nFHroaVuanqym&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hkhylh-shhkl-kan-p4i9vb/v/2026-10/A5ACC87509D8DABE7102B6F7AD6684B2_0.mp4"
     }
    ],
    "drive": null,
@@ -512,6 +513,37 @@
    ],
    "drive": null,
    "phone": "972534001558"
+  },
+  {
+   "id": "A5C6DEA2309F98FB7450D4FF92E4A6CF",
+   "sender": "אריאל דדון",
+   "text": "",
+   "ts": 1791442848000,
+   "date": "2026-10-08",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "23.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1LCKL5b6UvdglUkQduyzqglstDhdhR63x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LCKL5b6UvdglUkQduyzqglstDhdhR63x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587875261"
+  },
+  {
+   "id": "A5CA2EFFA6DF6A1637E3610F276414A4",
+   "sender": "אין עוד מלבדו",
+   "text": "https://youtu.be/TbZzqxEI84w?si=rdjAScGOppeiF7ma",
+   "ts": 1791447436000,
+   "date": "2026-10-08",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972552617532"
   }
  ]
 }

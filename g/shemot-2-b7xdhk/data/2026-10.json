@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-07T20:43:37.031Z",
+ "updated": "2026-10-08T06:20:26.014Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -811,6 +811,50 @@
    "files": [],
    "drive": null,
    "phone": "972546159578"
+  },
+  {
+   "id": "ACCE1E0677BF06F22D2667C976E92A07",
+   "sender": "אילנית🌴",
+   "text": "בוקר טוב\nאשמח לקבל תוכנית שנתית ללימוד חומש שמות",
+   "ts": 1791440196000,
+   "date": "2026-10-08",
+   "time": "09:16",
+   "files": [],
+   "drive": null,
+   "phone": "972586806040"
+  },
+  {
+   "id": "AC75DE23461D64B4C9107E1141E1E480",
+   "sender": "הודיה זיני",
+   "text": "https://meyda.education.gov.il/files/Pop/0files/bible-Hamad/Elementary/Annual-planning-shmot.pdf",
+   "ts": 1791440328000,
+   "date": "2026-10-08",
+   "time": "09:18",
+   "files": [],
+   "drive": null,
+   "phone": "972584263284"
+  },
+  {
+   "id": "AC7FD16B0E8C8E6CF99D5C8882972A3D",
+   "sender": "הודיה זיני",
+   "text": "בפורטל את יכולה לראות את כל השיעורים מוכנים...",
+   "ts": 1791440347000,
+   "date": "2026-10-08",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972584263284"
+  },
+  {
+   "id": "AC551FBA8E15A871DC046AA08D2BA7A7",
+   "sender": "אילנית🌴",
+   "text": "תודה רבה",
+   "ts": 1791440423000,
+   "date": "2026-10-08",
+   "time": "09:20",
+   "files": [],
+   "drive": null,
+   "phone": "972586806040"
   }
  ]
 }

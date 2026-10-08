@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-07T07:52:44.295Z",
+ "updated": "2026-10-08T06:29:56.172Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -94,6 +94,26 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "3ABEF386D4FA882E3BE9",
+   "sender": "פיני פרקש",
+   "text": "מארזי מגולגלות מיקס חלבי! 🥛\nקיים במלאי *מצומצם*\nכל הקודם זוכה!\n\nכל המוצרים בכשרות בד״צ העדה החרדית✨\nאיסוף קרית אתא📍\n\nמעוניינים? שלחו הודעה👇🏼\nhttps://wa.me/message/TFIVDJJ33WL3K1",
+   "ts": 1791440975000,
+   "date": "2026-10-08",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YAnH5K2I2CbkWPotLu_HitUICWx8dq9V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YAnH5K2I2CbkWPotLu_HitUICWx8dq9V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539220421"
   }
  ]
 }

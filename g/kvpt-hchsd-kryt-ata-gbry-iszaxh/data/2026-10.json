@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-07T19:07:19.417Z",
+ "updated": "2026-10-08T06:29:56.190Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -658,6 +658,26 @@
    ],
    "drive": null,
    "phone": "972507924828"
+  },
+  {
+   "id": "3A9BA8C665229A98133F",
+   "sender": "פיני פרקש",
+   "text": "מארזי מגולגלות מיקס חלבי! 🥛\nקיים במלאי *מצומצם*\nכל הקודם זוכה!\n\nכל המוצרים בכשרות בד״צ העדה החרדית✨\nאיסוף קרית אתא📍\n\nמעוניינים? שלחו הודעה👇🏼\nhttps://wa.me/message/TFIVDJJ33WL3K1",
+   "ts": 1791440980000,
+   "date": "2026-10-08",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13qeLh97S29bVpkHMkovwSuo3Uuz17TW-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13qeLh97S29bVpkHMkovwSuo3Uuz17TW-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539220421"
   }
  ]
 }

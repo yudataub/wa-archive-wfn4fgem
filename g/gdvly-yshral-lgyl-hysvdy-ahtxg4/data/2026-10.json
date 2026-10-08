@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-07T17:24:34.370Z",
+ "updated": "2026-10-08T06:50:56.482Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -593,6 +593,130 @@
    "files": [],
    "drive": null,
    "phone": "972508270578"
+  },
+  {
+   "id": "AC22BF777B7017DF5F00BEFF31CF07DE",
+   "sender": "אודליה לדני",
+   "text": "אשמח לדף צביעה אם יש למשהו של הרב יורם אברגח",
+   "ts": 1791437985000,
+   "date": "2026-10-08",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972544805080"
+  },
+  {
+   "id": "AC0351CF727636ADF695E970B7634887",
+   "sender": "אתי",
+   "text": "גם אני",
+   "ts": 1791438182000,
+   "date": "2026-10-08",
+   "time": "08:43",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC0E57122F3D4C9AB77313D5557E1A5B",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791441729000,
+   "date": "2026-10-08",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "39KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DJ3qDfYhq0rtUiMRoviJhZC_8GcmZVdM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DJ3qDfYhq0rtUiMRoviJhZC_8GcmZVdM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "AC02F4F0B6BC8BE7A7BFA9A77642019F",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791441730000,
+   "date": "2026-10-08",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "299KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YiZuxLNelrAFRkCqlJaCkiD8fmToeGsp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YiZuxLNelrAFRkCqlJaCkiD8fmToeGsp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "AC21EB210BE5DD34E1CCD0FF4B9657C6",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791441731000,
+   "date": "2026-10-08",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "38KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CmltNoz4KXr1Z7at1tf7vsVjY_5u9zUO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CmltNoz4KXr1Z7at1tf7vsVjY_5u9zUO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "ACEDD3C749CC08E346836B3A6F02BB41",
+   "sender": "עמיהוד שילה",
+   "text": "",
+   "ts": 1791441734000,
+   "date": "2026-10-08",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "43KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gTlKYGKp7dyqD_UjcTHAVAchekD0zWXj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gTlKYGKp7dyqD_UjcTHAVAchekD0zWXj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "ACDD39D9767C38E17692766E2453635E",
+   "sender": "עמיהוד שילה",
+   "text": "👆",
+   "ts": 1791441735000,
+   "date": "2026-10-08",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972584960972"
+  },
+  {
+   "id": "ACBB3901D33C945AF24D9C6187FBFEAA",
+   "sender": "נתן",
+   "text": "מחפש מצגת על רבי יהודה הנשיא",
+   "ts": 1791442243000,
+   "date": "2026-10-08",
+   "time": "09:50",
+   "files": [],
+   "drive": null,
+   "phone": "972528308062"
   }
  ]
 }

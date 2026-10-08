@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירה מיד ליד צפון 4",
- "updated": "2026-10-07T16:40:57.924Z",
+ "updated": "2026-10-08T08:56:20.229Z",
  "messages": [
   {
    "id": "A5593079A0B4B06AAF4593ED7EF43B56",
@@ -1044,6 +1044,66 @@
    "date": "2026-10-07",
    "time": "19:40",
    "files": [],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5E5AC55B06DD53D1AC5B8D317D85508",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "🐰 4 ארנבונים מתוקים מחפשים בית חם\n\nיש לנו 4 ארנבונים צעירים ויפים למסירה לבית טוב ואוהב.\n\nהם מעורבים של ארנב ראש אריה וארנב ננסי, בני כ־3 חודשים.\n\n• 2 זכרים\n• 2 נקבות\n• מסירה ללא תשלום לבית טוב\n• איסוף מכרמיאל\n\nחשוב לנו שיגיעו לבתים אחראיים ואוהבים, שבהם יטפלו בהם היטב.\n\nלפרטים, אפשר לפנות אליי בפרטי.\n+972 52-570-0171\n\n╔═══ ⏰ *שימו לב!* ═══╗\n\n_*פניות עד שעה מהפרסום בלבד*_\n*⛔ אחרי שעה — לא לפנות.*\n\n🚫 _*אין להעביר לקבוצות אחרות!*_\n\n👇🏼 *להצטרפות* 👇🏼\n\n🥏 _*למסירת פריט*_ 👇🏼\nhttps://wa.me/message/K5LAMTKKOEY4P1",
+   "ts": 1791449729000,
+   "date": "2026-10-08",
+   "time": "11:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "421KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V_e3L3nzREB19NH_W_J12b9pfBmdrKbN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V_e3L3nzREB19NH_W_J12b9pfBmdrKbN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A5A4C2871D3C3AA4A434441A0C013B85",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "לרישום\nhttps://vendor.kivuncenter.org/landing?id=recMQMbtVKBEWCYdh",
+   "ts": 1791449756000,
+   "date": "2026-10-08",
+   "time": "11:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xCRXAKwrEpaks4L9IWj2bO97Sqopoj-3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xCRXAKwrEpaks4L9IWj2bO97Sqopoj-3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509122190"
+  },
+  {
+   "id": "A548C68071E36154E6380FC9E3D0C3B2",
+   "sender": "הסטטוס החרדי בצפון",
+   "text": "לרישום\nhttps://vendor.kivuncenter.org/landing?id=recJgVDb5i64ONZYq",
+   "ts": 1791449759000,
+   "date": "2026-10-08",
+   "time": "11:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13l-90gJqh9Rl19yboVWJ-W5MKtVJCj_-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13l-90gJqh9Rl19yboVWJ-W5MKtVJCj_-&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972509122190"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-08T04:22:47.241Z",
+ "updated": "2026-10-08T08:29:01.469Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -1541,6 +1541,44 @@
    ],
    "drive": null,
    "phone": "972585803058"
+  },
+  {
+   "id": "4A09D145B1CC494440F6",
+   "sender": "לירון בן לולו💕",
+   "text": "יש למישהו במקרה מצגת של התחלת סיפור המרגלים? אולי יש אתר עם כל המצגות המצוינות האלה ?",
+   "ts": 1791448070000,
+   "date": "2026-10-08",
+   "time": "11:27",
+   "files": [
+    {
+     "name": "דברים פרק א פסוקים לא-מ.pptx",
+     "size": "788KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1S8u7hnYKa982Rz9r-B7Q9Ta-UasxHoEb/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542057474"
+  },
+  {
+   "id": "4A2836C2E26FA4A07CEA",
+   "sender": "לירון בן לולו💕",
+   "text": "יש למישהו במקרה מצגת של התחלת סיפור המרגלים? אולי יש אתר עם כל המצגות המצוינות האלה ?",
+   "ts": 1791448110000,
+   "date": "2026-10-08",
+   "time": "11:28",
+   "files": [
+    {
+     "name": "דברים פרק א פסוקים לא-מ.pptx",
+     "size": "788KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/11-yFECUTSAidWdBsKNBxd1Oc_7J757Y1/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542057474"
   }
  ]
 }

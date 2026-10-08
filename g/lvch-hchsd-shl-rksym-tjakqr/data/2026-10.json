@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-08T05:20:13.834Z",
+ "updated": "2026-10-08T09:30:25.194Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -3687,6 +3687,79 @@
    "files": [],
    "drive": null,
    "phone": "972523445911"
+  },
+  {
+   "id": "AC0B0F6722DCCFE2963C94C690F0D305",
+   "sender": "מאיר",
+   "text": "מישהו עם רישיון רוצה לצאת עכשיו לירושלים?",
+   "ts": 1791441329000,
+   "date": "2026-10-08",
+   "time": "09:35",
+   "files": [],
+   "drive": null,
+   "phone": "972585520378"
+  },
+  {
+   "id": "AC7B58D5961FFE397315ABBEF6983C27",
+   "sender": "Natti",
+   "text": "מחפש בר מים תמי 4 יד שניה  לישיבה למסירה או בתשלום",
+   "ts": 1791443658000,
+   "date": "2026-10-08",
+   "time": "10:14",
+   "files": [],
+   "drive": null,
+   "phone": "972545286509"
+  },
+  {
+   "id": "AC084498B2135859E60F90F0BAA26D6E",
+   "sender": "אלחנן",
+   "text": "גם",
+   "ts": 1791446079000,
+   "date": "2026-10-08",
+   "time": "10:54",
+   "files": [],
+   "drive": null,
+   "phone": "972527430691"
+  },
+  {
+   "id": "AC424E02CBE3BD3566FB70C1FBB6AC67",
+   "sender": "יוסי",
+   "text": "",
+   "ts": 1791451476000,
+   "date": "2026-10-08",
+   "time": "12:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19qc_rgDvEpZAsmyNqzalMSDCU5HPSgZC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19qc_rgDvEpZAsmyNqzalMSDCU5HPSgZC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523991080"
+  },
+  {
+   "id": "AC225FDF620A62B18ABEF8A7F891D9F7",
+   "sender": "מאיר שקלאר",
+   "text": "מישהו מכיר ?",
+   "ts": 1791451819000,
+   "date": "2026-10-08",
+   "time": "12:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o6bgOZNdCqGAU3ZXqzsSfdfMZzh9HWld/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o6bgOZNdCqGAU3ZXqzsSfdfMZzh9HWld&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559398100"
   }
  ]
 }
