@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-08T20:34:08.032Z",
+ "updated": "2026-10-09T05:03:28.680Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -1490,6 +1490,26 @@
    "files": [],
    "drive": null,
    "phone": "972534663621"
+  },
+  {
+   "id": "A56820E1752F65CEE718995F7767D627",
+   "sender": "חיים ממן",
+   "text": "צריך רק לדעת באיזה מים להשתמש... \nולא לשכוח לברך 😉",
+   "ts": 1791522188000,
+   "date": "2026-10-09",
+   "time": "08:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "992KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S2Zd-u3uWFYhVTW-d6xSA7u30e0MclFI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S2Zd-u3uWFYhVTW-d6xSA7u30e0MclFI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
   }
  ]
 }

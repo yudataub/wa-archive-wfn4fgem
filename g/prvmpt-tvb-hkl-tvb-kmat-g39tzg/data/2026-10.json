@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-08T13:00:39.753Z",
+ "updated": "2026-10-09T05:37:59.154Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -2154,6 +2154,26 @@
    "files": [],
    "drive": null,
    "phone": "972543535465"
+  },
+  {
+   "id": "3A205AEA11BAE032B7FC",
+   "sender": "AZz",
+   "text": "",
+   "ts": 1791524263000,
+   "date": "2026-10-09",
+   "time": "08:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17KVzO5eOs5s6Bjyyc5W70AclQCT7XbJS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17KVzO5eOs5s6Bjyyc5W70AclQCT7XbJS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548180025"
   }
  ]
 }
