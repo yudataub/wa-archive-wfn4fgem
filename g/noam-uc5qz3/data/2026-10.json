@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-09T04:00:57.712Z",
+ "updated": "2026-10-09T08:53:12.309Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -1050,6 +1050,86 @@
    "ts": 1791518456000,
    "date": "2026-10-09",
    "time": "07:00",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "4A57295B78A1E167F09C",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791524478000,
+   "date": "2026-10-09",
+   "time": "08:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Gv7Ca_5firNkg8Ga8HarfyUYK-aRlOVL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gv7Ca_5firNkg8Ga8HarfyUYK-aRlOVL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC1F4EC54B213F8E64CD765E3FCEF0D9",
+   "sender": "מלי",
+   "text": "",
+   "ts": 1791528505000,
+   "date": "2026-10-09",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "_כיתות ב-ג ובינר עם מפמר  111026_261005_123830.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1hX6MHehuvg5jUuzgb3_h4KiArAeA0PqH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522376845"
+  },
+  {
+   "id": "AC6B8B067622CE3D2416EE641CD6EB53",
+   "sender": "מלי",
+   "text": "",
+   "ts": 1791528505000,
+   "date": "2026-10-09",
+   "time": "09:48",
+   "files": [
+    {
+     "name": "כיתות א - ובינר עם מפמר 111026_261005_123739.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13C8hFQy0jo5REa9b4J6pcyLAqRX-4eFv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522376845"
+  },
+  {
+   "id": "AC7680B8286037FAD401939F583FB8EC",
+   "sender": "הילה שמר",
+   "text": "הורים יקרים,\nאנו שמחים לעדכן, שבית הספר התחדש באתר למידה חדש, עשיר ומדהים עבור ילדיכם!\nבימים הקרובים תקבלו מהמחנכים את פרטי ההתחברות (שם משתמש וסיסמה) האישיים לכל תלמיד. בעזרת פרטים אלו, יוכלו התלמידים להיכנס לאתר בקלות ולבצע את המשימות והפעילויות החווייתיות והלימודיות שהמורים ישייכו להם, במקצועות שפה, אנגלית וחשבון.\nהקישור לאתר:\nhttps://boost-daf-avoda.co.il/\nאיך מתחברים?\nנכנסים לקישור, לוחצים על \"כניסת תלמידים\" ומזינים את פרטי ההתחברות שקיבלתם.\n*בבברכת למידה פורייה ומהנה,*\n*אורלי אוחנה מנהלת בית הספר*\n *והילה שמר רכזת תקשוב*",
+   "ts": 1791535934000,
+   "date": "2026-10-09",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC6FE8976E32E28BC09BE450B47A59A2",
+   "sender": "הילה שמר",
+   "text": "נא לשלוח להורים🙏",
+   "ts": 1791535982000,
+   "date": "2026-10-09",
+   "time": "11:53",
    "files": [],
    "drive": null,
    "phone": "972534596413"

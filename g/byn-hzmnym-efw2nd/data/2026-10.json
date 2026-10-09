@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-08T10:29:02.851Z",
+ "updated": "2026-10-09T07:52:24.876Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -806,6 +806,59 @@
    ],
    "drive": null,
    "phone": "972523595740"
+  },
+  {
+   "id": "AC78F564E8F1AFC688861088E9A3D395",
+   "sender": "איריס בר טל",
+   "text": "https://gan-mekadem.lovable.app",
+   "ts": 1791532307000,
+   "date": "2026-10-09",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC37BD0FB3F2EAAFFDD1363F63043E40",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1791532308000,
+   "date": "2026-10-09",
+   "time": "10:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11JA6ChHfyhCSOakm_MCd1dGOBkmDmfZ9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11JA6ChHfyhCSOakm_MCd1dGOBkmDmfZ9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACA307CC21FF0F306D57A4E5AF575796",
+   "sender": "איריס בר טל",
+   "text": "*מתחם יפהפה בלב צפת*\n*32 מיטות,אפשרות למזרונים*\n*שבתות חתן,חלאקה,*\n*בריתות,חינה ואירועים קטנים*",
+   "ts": 1791532309000,
+   "date": "2026-10-09",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACC5768D6F9DC920CBB5D97AFC943A8F",
+   "sender": "איריס בר טל",
+   "text": "*מחיר של הרגע האחרון,התקשרו עכשיו*",
+   "ts": 1791532310000,
+   "date": "2026-10-09",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
   }
  ]
 }

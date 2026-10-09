@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-08T13:04:54.607Z",
+ "updated": "2026-10-09T09:36:10.111Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -3846,6 +3846,92 @@
    "files": [],
    "drive": null,
    "phone": "972535869492"
+  },
+  {
+   "id": "AC69AB2A5793C3FFE02EBB45D5D69755",
+   "sender": "~",
+   "text": "יש למישהו את המס שלהם?",
+   "ts": 1791533921000,
+   "date": "2026-10-09",
+   "time": "11:18",
+   "files": [],
+   "drive": null,
+   "phone": "972547701419"
+  },
+  {
+   "id": "AC4C56C736E2609F1062F16DC5D5B818",
+   "sender": "乇.ฬ ✿",
+   "text": "איפה קונים נפטלין ברכסים?",
+   "ts": 1791534160000,
+   "date": "2026-10-09",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972525426597"
+  },
+  {
+   "id": "AC231CD9320A68B70400EDD26EB41184",
+   "sender": "יוסי מוזס",
+   "text": "📇 נעלי הפסגה\n+972556765998",
+   "ts": 1791534611000,
+   "date": "2026-10-09",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC83D65D1C6E64E5A99C9658B9D08095",
+   "sender": "rachely peretz👑🩷",
+   "text": "",
+   "ts": 1791534810000,
+   "date": "2026-10-09",
+   "time": "11:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Esqz98IxeQTbVLcAeSyCkud5C3l_Gftx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Esqz98IxeQTbVLcAeSyCkud5C3l_Gftx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559738888"
+  },
+  {
+   "id": "ACD710BABE27F20F8D0D89E95EDA01D8",
+   "sender": "אביתר",
+   "text": "יגור",
+   "ts": 1791535493000,
+   "date": "2026-10-09",
+   "time": "11:44",
+   "files": [],
+   "drive": null,
+   "phone": "972543318688"
+  },
+  {
+   "id": "AC6E1B016A8D75907F904B6948BF5E82",
+   "sender": "1",
+   "text": "מישהו מוכר ציציות גופה בגבעה ג' ?",
+   "ts": 1791536384000,
+   "date": "2026-10-09",
+   "time": "11:59",
+   "files": [],
+   "drive": null,
+   "phone": "972528372111"
+  },
+  {
+   "id": "ACB2971703643B0EAA016BCD84EE2B75",
+   "sender": "אביתר",
+   "text": "הבנתי שלא",
+   "ts": 1791538542000,
+   "date": "2026-10-09",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "phone": "972543318688"
   }
  ]
 }

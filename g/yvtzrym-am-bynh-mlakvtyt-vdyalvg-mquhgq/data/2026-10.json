@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-09T05:03:28.680Z",
+ "updated": "2026-10-09T08:33:35.222Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -1510,6 +1510,112 @@
    ],
    "drive": null,
    "phone": "972537602231"
+  },
+  {
+   "id": "A509F18DB04C61DED3007FEAA1D7A76E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791524464000,
+   "date": "2026-10-09",
+   "time": "08:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "30.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1yPy0h37mo44HbJOkXTQAVT_eEONEg1H3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yPy0h37mo44HbJOkXTQAVT_eEONEg1H3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3A96F0556F5957F69DCD",
+   "sender": "Hagit",
+   "text": "יפה. איפה עשית את זה",
+   "ts": 1791525319000,
+   "date": "2026-10-09",
+   "time": "08:55",
+   "files": [],
+   "drive": null,
+   "phone": "972522556245"
+  },
+  {
+   "id": "A51444A4641FDE3B20DA273B28C5D04A",
+   "sender": "חיים ממן",
+   "text": "אינסטינקט",
+   "ts": 1791528010000,
+   "date": "2026-10-09",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "phone": "972537602231"
+  },
+  {
+   "id": "AC376A3E88BA94F0B3D20EA4AE2C2F2F",
+   "sender": "הילי זוורו",
+   "text": "https://youtu.be/W_4mAcPBmss?si=kAlqsbl_L9a4uYe7",
+   "ts": 1791529360000,
+   "date": "2026-10-09",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972527470596"
+  },
+  {
+   "id": "ACB9C636BC532EC2342DB1BB87FBC0CA",
+   "sender": "Sharon",
+   "text": "תודה רבה לכולם🙏🏻🤍",
+   "ts": 1791529681000,
+   "date": "2026-10-09",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972587687676"
+  },
+  {
+   "id": "3EB0B51F006C7D876913C4",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791531564000,
+   "date": "2026-10-09",
+   "time": "10:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "479KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14k5OTrCpVLOz1dZ4RbXJi1EWMyaN8ChE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14k5OTrCpVLOz1dZ4RbXJi1EWMyaN8ChE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0109F833DE78BD15799",
+   "sender": "נועם",
+   "text": "https://shani-ai.com/work/small-lights",
+   "ts": 1791531616000,
+   "date": "2026-10-09",
+   "time": "10:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACF3643904F38FFC4B356ABF648D465A",
+   "sender": "נועם",
+   "text": "לפני עשרים שנה פיתחתי בפלאש משחק חמוד:\nזריקת סוכריות על חתן בר מצווה. לאחרונה החלטתי לחזור אליו וליצור לו גרסה חדשה במסגרת ״משחק השבת״.\nהרעיון הבסיסי נשאר, אבל החוויה קיבלה עיצוב חדש, והתאמה למובייל.\nסוכריות עם התנהגויות שונות ודמויות שמגיבות לפגיעות.\nבמהלך הפיתוח, דווקא הפרטים הקטנים עשו הבדל גדול: קצב המשחק, תגובה מצחיקה של דמות, צליל בזמן הנכון והמשמעות של רצף הצלחות.\nהתגובות של השחקנים הזכירו לי למה אני אוהב לפתח משחקים: \nלראות איך רעיון הופך לחוויה שמעלה חיוך.\nיש משהו מספק בלחזור ליצירה שלך אחרי עשרים שנה,\n עם הכלים והניסיון של היום.\nמצרף הצצה לגרסה החדשה:\nhttps://clap.co.il/aGk",
+   "ts": 1791534803000,
+   "date": "2026-10-09",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

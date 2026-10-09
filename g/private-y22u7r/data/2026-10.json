@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-08T12:54:24.421Z",
+ "updated": "2026-10-09T09:34:10.063Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -5007,6 +5007,144 @@
    "drive": null,
    "thread": "י",
    "phone": "972552457844"
+  },
+  {
+   "id": "A52A2595FCE1B021D52D1B290647AA6A",
+   "sender": "חינוך בנוחות",
+   "text": "‏תודה שיצרת קשר, במה אוכל לעזור?",
+   "ts": 1791536853000,
+   "date": "2026-10-09",
+   "time": "12:07",
+   "files": [],
+   "drive": null,
+   "thread": "חינוך בנוחות",
+   "phone": "972547770757"
+  },
+  {
+   "id": "A571E2520D0FCA12FBB016630EFFE0D2",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791536853000,
+   "date": "2026-10-09",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "74KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/17G5TfLVezs4ya7GYiUq1CK_Q1WTQaV15/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A59B19CD581E7739B5ACCAE2F3B8E564",
+   "sender": "חינוך בנוחות",
+   "text": "שלח לי מידע",
+   "ts": 1791536914000,
+   "date": "2026-10-09",
+   "time": "12:08",
+   "files": [],
+   "drive": null,
+   "thread": "חינוך בנוחות",
+   "phone": "972547770757"
+  },
+  {
+   "id": "A5FB78C33C8C5835999C8A3ACE7CA928",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791537403000,
+   "date": "2026-10-09",
+   "time": "12:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eWzzISFHNbKk3uxupmkbI_nnYYBzYac9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eWzzISFHNbKk3uxupmkbI_nnYYBzYac9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5D5E959E9A3593D09F7ED9AE52E634B",
+   "sender": "חינוך בנוחות",
+   "text": "",
+   "ts": 1791537569000,
+   "date": "2026-10-09",
+   "time": "12:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1NqYhdV-7XP0L7nFLlm8GN-u2pxQZVXGM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "חינוך בנוחות",
+   "phone": "972547770757"
+  },
+  {
+   "id": "A5433367C2D9A786965948DAFC597290",
+   "sender": "חינוך בנוחות",
+   "text": "",
+   "ts": 1791537575000,
+   "date": "2026-10-09",
+   "time": "12:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "5KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1xl7KlI6T8FIC5c4MkF4WQb4dXx2N1qdU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "חינוך בנוחות",
+   "phone": "972547770757"
+  },
+  {
+   "id": "A55ACF7352AD53EAE50479EEF542DAEB",
+   "sender": "אני",
+   "text": "שירות נפלא המיועד למורות שאין להם וואטסאפ\n ניתן לקבל את כל ההודעות ישר למייל בצורה יפה נגישה ללא עומס במייל\n  המיוחד הוא שיש גם אפשרות חיפוש הרבה יותר משוכללת מאשר בוואטסאפ.\nלפרטים ודוגמה 052-713-9520\n עלות 50 שח לחודש",
+   "ts": 1791537873000,
+   "date": "2026-10-09",
+   "time": "12:24",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5866006E4D73520AE09A7D36A12390",
+   "sender": "🎀Yehudit🎀",
+   "text": "שלום\nאני מורה ורכזת שילוב.\nויש לי כמויות של הודעות...\nזה מתאים?\nאין הגבלה או משהו?",
+   "ts": 1791538319000,
+   "date": "2026-10-09",
+   "time": "12:31",
+   "files": [],
+   "drive": null,
+   "thread": "🎀Yehudit🎀",
+   "phone": "972539486966"
+  },
+  {
+   "id": "ACB0F80C8C4B5F30C6B8C5A7A6C6F284",
+   "sender": "🎀Yehudit🎀",
+   "text": "לגבי המייל וואטספ",
+   "ts": 1791538442000,
+   "date": "2026-10-09",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "thread": "🎀Yehudit🎀",
+   "phone": "972539486966"
   }
  ]
 }

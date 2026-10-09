@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קודש יסודי תשפ\"ז💫",
- "updated": "2026-10-08T09:32:55.243Z",
+ "updated": "2026-10-09T09:25:03.155Z",
  "messages": [
   {
    "id": "AC134B7FE66408D119F376017495D4E7",
@@ -196,6 +196,35 @@
    "files": [],
    "drive": null,
    "phone": "972533334930"
+  },
+  {
+   "id": "A5AE0E76842EB1B9A04B409AA061E63B",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1791537481000,
+   "date": "2026-10-09",
+   "time": "12:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10Fn8fgryWxtZERttyQAG0rFPD_ENwLp1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10Fn8fgryWxtZERttyQAG0rFPD_ENwLp1&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5798DFAD822C60B8CC03C4FAC06737A",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "שירות נפלא המיועד למורות שאין להם וואטסאפ\n ניתן לקבל את כל ההודעות ישר למייל בצורה יפה נגישה ללא עומס במייל\n  המיוחד הוא שיש גם אפשרות חיפוש הרבה יותר משוכללת מאשר בוואטסאפ.\nלפרטים ודוגמה 052-713-9520\n עלות 50 שח לחודש",
+   "ts": 1791537890000,
+   "date": "2026-10-09",
+   "time": "12:24",
+   "files": [],
+   "drive": null
   }
  ]
 }

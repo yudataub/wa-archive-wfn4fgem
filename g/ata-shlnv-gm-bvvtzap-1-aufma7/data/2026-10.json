@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתא שלנו גם בווצאפ 1",
- "updated": "2026-10-04T07:42:29.595Z",
+ "updated": "2026-10-09T08:52:02.655Z",
  "messages": [
   {
    "id": "A500C754EB9651F22DB12095074D0930",
@@ -110,6 +110,26 @@
      "path": "https://drive.google.com/file/d/1agA3pzRWukaFhsDfc7VqvAmPdg1aBOGe/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1agA3pzRWukaFhsDfc7VqvAmPdg1aBOGe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5FD9CE739295C6B14297D784584DA75",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1791535902000,
+   "date": "2026-10-09",
+   "time": "11:51",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1y-aY53-ce69vIy19JPiefF3KhuYX_9NE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y-aY53-ce69vIy19JPiefF3KhuYX_9NE&sz=w1200"
     }
    ],
    "drive": null,

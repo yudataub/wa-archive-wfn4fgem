@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-08T04:00:46.928Z",
+ "updated": "2026-10-09T06:15:50.714Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -258,6 +258,26 @@
      "path": "https://drive.google.com/file/d/1eozi4u705cxalf0z7CpQjQR-osyHXFoS/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1eozi4u705cxalf0z7CpQjQR-osyHXFoS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A60B36D91ED49700FF1",
+   "sender": ".",
+   "text": "״אישתבוחי הוה מישתבח ליה״ (בכורות כא, ב).",
+   "ts": 1791526524000,
+   "date": "2026-10-09",
+   "time": "09:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S6SgjOI4vzdGKeEhB4SYaK6F-dEonSAv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S6SgjOI4vzdGKeEhB4SYaK6F-dEonSAv&sz=w1200"
     }
    ],
    "drive": null,

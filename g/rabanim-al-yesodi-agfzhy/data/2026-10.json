@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-08T12:03:46.982Z",
+ "updated": "2026-10-09T09:25:03.161Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -383,6 +383,55 @@
    "files": [],
    "drive": null,
    "phone": "972545321263"
+  },
+  {
+   "id": "3A99F9F0230DEB4ABFCA",
+   "sender": "עותניאל מנצור",
+   "text": "*רב בית ספר*❓\n*הרב יעקב אריאל במסר ישיר אליך!*💥\n\n***********\nלהרשמה לבית המדרש לרבני החמ\"ד היכנס עכשיו >>>\nhttps://www.yedidhemed.co.il/beit_midrash/\n\nשבת שלום!",
+   "ts": 1791532626000,
+   "date": "2026-10-09",
+   "time": "10:57",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/11pyXfLUIMS7J7pNpRw3L3il7H9N9JstX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11pyXfLUIMS7J7pNpRw3L3il7H9N9JstX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "A522D20F127CB3A6E88B4D4F8BB337F2",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1791537483000,
+   "date": "2026-10-09",
+   "time": "12:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z6BMMyd6t6wi_JZOMv687BSFdVPSzUuu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z6BMMyd6t6wi_JZOMv687BSFdVPSzUuu&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5E75E551A5ED814AC2D25C50C8A002B",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "שירות נפלא המיועד למורות שאין להם וואטסאפ\n ניתן לקבל את כל ההודעות ישר למייל בצורה יפה נגישה ללא עומס במייל\n  המיוחד הוא שיש גם אפשרות חיפוש הרבה יותר משוכללת מאשר בוואטסאפ.\nלפרטים ודוגמה 052-713-9520\n עלות 50 שח לחודש",
+   "ts": 1791537890000,
+   "date": "2026-10-09",
+   "time": "12:24",
+   "files": [],
+   "drive": null
   }
  ]
 }
