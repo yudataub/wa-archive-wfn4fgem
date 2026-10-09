@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-08T10:22:02.736Z",
+ "updated": "2026-10-09T11:46:22.135Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -1440,6 +1440,26 @@
    ],
    "drive": null,
    "phone": "972542613989"
+  },
+  {
+   "id": "AC71A60720CFE72A684C2F6970403B9C",
+   "sender": "תמיד בשמחה",
+   "text": "סיפור לשבת 🌸 חדש, חדש ונתחדש",
+   "ts": 1791546371000,
+   "date": "2026-10-09",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KWYuqiOkDpvR9QC6PMB8DF4LewUBWvbZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KWYuqiOkDpvR9QC6PMB8DF4LewUBWvbZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555661480"
   }
  ]
 }

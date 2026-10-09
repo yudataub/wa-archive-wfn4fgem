@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "10 דקות של למידה 3",
- "updated": "2026-10-04T18:38:44.498Z",
+ "updated": "2026-10-09T12:00:05.328Z",
  "messages": [
   {
    "id": "3EB0811D2E55A7B002952B",
@@ -53,6 +53,26 @@
    "date": "2026-10-04",
    "time": "21:38",
    "files": [],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB029D9A464192A98218B",
+   "sender": "Or Pelach",
+   "text": "היי @all ,\nביום ראשון הקרוב, ה-11.10.2026 בשעה 20:00,\n*נכיר את Gemini Skills.*\n\nקישור לזום יישלח כחצי שעה לפני תחילת המפגש.\n\n*רוצים לצרף חברים❓* \nזה הקישור👇\nנתראה 😊",
+   "ts": 1791547174000,
+   "date": "2026-10-09",
+   "time": "14:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nkzQJhrShh_kuTQVZFkEMH2oaVakspyj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nkzQJhrShh_kuTQVZFkEMH2oaVakspyj&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545691051"
   }

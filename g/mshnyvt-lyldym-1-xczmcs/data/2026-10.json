@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משניות לילדים 1⃣",
- "updated": "2026-10-01T15:35:22.496Z",
+ "updated": "2026-10-09T11:17:51.700Z",
  "messages": [
   {
    "id": "A50AF6435A95DBBE4769D831D5F9F1D5",
@@ -60,6 +60,26 @@
      "path": "https://drive.google.com/file/d/1G1CMVxKJfFvLCba-j0qFevr4U1BvDk6n/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1G1CMVxKJfFvLCba-j0qFevr4U1BvDk6n&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A530B11816D6D30F352F80834F1F11A7",
+   "sender": "משנת חיים",
+   "text": "*איזה כיף להתחיל מסכת חדשה🩷*\nבעז\"ה מחכים לכם שבוע הבא ביום שישי עם שירים ופרסים. \n*בנתיים צרפו את כל החברים*\nhttps://katzr.net/f2cc1b",
+   "ts": 1791544646000,
+   "date": "2026-10-09",
+   "time": "14:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "286KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mKHHX8i5aNz2BZYfIjdvqqv66uIGHw9y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mKHHX8i5aNz2BZYfIjdvqqv66uIGHw9y&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-08T11:52:09.804Z",
+ "updated": "2026-10-09T10:19:16.174Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -643,6 +643,28 @@
    "files": [],
    "drive": null,
    "phone": "972549701213"
+  },
+  {
+   "id": "3A6F776041CA2E0556CA",
+   "sender": "אסנת",
+   "text": "https://youtu.be/c_5XL5SRF9g?si=Vz5Rfxbrj9v_Spk-",
+   "ts": 1791541105000,
+   "date": "2026-10-09",
+   "time": "13:18",
+   "files": [],
+   "drive": null,
+   "phone": "972546278725"
+  },
+  {
+   "id": "3AD65DC187A5348B21DA",
+   "sender": "אסנת",
+   "text": "יש למשהו את הצלצול וכולי תפילה",
+   "ts": 1791541133000,
+   "date": "2026-10-09",
+   "time": "13:18",
+   "files": [],
+   "drive": null,
+   "phone": "972546278725"
   }
  ]
 }

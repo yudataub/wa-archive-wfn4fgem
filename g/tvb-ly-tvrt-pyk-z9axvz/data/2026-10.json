@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-08T12:44:47.659Z",
+ "updated": "2026-10-09T10:56:46.741Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -2819,6 +2819,26 @@
      "path": "https://drive.google.com/file/d/1N22PnnLqrUyZgcuOhObMewetncsUhLVp/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1N22PnnLqrUyZgcuOhObMewetncsUhLVp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACDCA1965E4D3B8009B899A671F76FCC",
+   "sender": "שרון😄",
+   "text": "*ערב ראש חודש מר חשוון*\n*מוצאי שבת קודש כולם מוזמנים!🥳*\n*לפתוח מחר את החודש בשמחה ברכה והצלחה אצל רבי אבהו בקיסריה בערב מיוחד*\nמיועד לנשים וגברים בהפרדה",
+   "ts": 1791543392000,
+   "date": "2026-10-09",
+   "time": "13:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "400KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12SDH7OWYJlR7HKo9qx9GZvRlOyrMqIev/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12SDH7OWYJlR7HKo9qx9GZvRlOyrMqIev&sz=w1200"
     }
    ],
    "drive": null,

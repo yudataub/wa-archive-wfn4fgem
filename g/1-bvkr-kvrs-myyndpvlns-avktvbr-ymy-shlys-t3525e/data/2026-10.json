@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "1 בוקר - קורס מיינדפולנס אוקטובר  - ימי שלישי - החל מ 31/10",
- "updated": "2026-10-06T07:33:31.548Z",
+ "updated": "2026-10-09T10:25:46.247Z",
  "messages": [
   {
    "id": "3EB0F032B6F3B513D7D8ED",
@@ -78,6 +78,46 @@
      "path": "https://drive.google.com/file/d/1LAfCCPae2JOS241rRure7Bvj_koPQp6W/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1LAfCCPae2JOS241rRure7Bvj_koPQp6W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546099041"
+  },
+  {
+   "id": "3EB072BE1F05BB821387BD",
+   "sender": "יונתן",
+   "text": "",
+   "ts": 1791541516000,
+   "date": "2026-10-09",
+   "time": "13:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pDdr8oO0DvanLKaMxW9cU-0K02GbZdUs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pDdr8oO0DvanLKaMxW9cU-0K02GbZdUs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546099041"
+  },
+  {
+   "id": "3EB0BD26BC2CC2C775469B",
+   "sender": "יונתן",
+   "text": "עוד יומיים נתחיל! ✨\n\n*לשחרר את עצמי מעצמי - פמה צ'ודרון*\nקורס מכונן של אחת ממורות המדיטציה הבכירות והאהובות בעולם.\n\n11 מפגשים מוקלטים, מתורגמים לעברית, שנוגעים בתובנות היסודיות של הבודהה בצורה עמוקה אבל ישירה ונגישה, והעיקר - מחוברת עמוקות לחיים עצמם.\n\n🗓️ צפייה משותפת בזמן שנוח לך מתוך 13 שידורים לאורך השבוע\n👭 אפשרות לליווי של מורים ישראליים וקהילת מתרגלים מסורה וידידותית\n💚 ההשתתפות ללא תשלום נקוב, בנדיבות הלב\n\nלפרטים והרשמה ⬅️\nhttps://todaabbria.com/pema--friends",
+   "ts": 1791541525000,
+   "date": "2026-10-09",
+   "time": "13:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "183KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xrd0decHyB1oXVTPLF1671JQbR1RIW5M/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xrd0decHyB1oXVTPLF1671JQbR1RIW5M&sz=w1200"
     }
    ],
    "drive": null,

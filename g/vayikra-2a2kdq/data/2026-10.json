@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-09T08:20:25.210Z",
+ "updated": "2026-10-09T13:11:35.928Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -2762,6 +2762,77 @@
    "files": [],
    "drive": null,
    "phone": "972535237105"
+  },
+  {
+   "id": "AC59E22F9B803BE54101AD75A47D3ED5",
+   "sender": "מיכל ישראלי",
+   "text": "",
+   "ts": 1791539159000,
+   "date": "2026-10-09",
+   "time": "12:45",
+   "files": [
+    {
+     "name": "ויהי בימי שפוט השופטים, חוברת סיכום ולמידה ספר שופטים_20250723_212847_0000.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1MjYoVL5KRxtLddD73BlRilI-HVswg5jv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535336683"
+  },
+  {
+   "id": "AC194E955C1677A61CBB2042F052635C",
+   "sender": "מיכל😇",
+   "text": "היכן אוכל להשיג מצגות כאלו לקורבנות חובה ובכלל?\nמצגות מצוינות!",
+   "ts": 1791545095000,
+   "date": "2026-10-09",
+   "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972528987298"
+  },
+  {
+   "id": "ACF293A80D6A18013D045C23D7EB9A0C",
+   "sender": "ליאורה כהן😍",
+   "text": "",
+   "ts": 1791545705000,
+   "date": "2026-10-09",
+   "time": "14:35",
+   "files": [
+    {
+     "name": "ויהי בימי שפוט השופטים, חוברת סיכום ולמידה ספר שופטים_20250723_212847_0000.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-cCcCn0OjmSUuARkNnDaTFRM-lLk__XX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505708421"
+  },
+  {
+   "id": "ACE484DADBCED095AF522C893E3FB631",
+   "sender": "ע",
+   "text": "מושלם, תודה רבה🌷",
+   "ts": 1791545766000,
+   "date": "2026-10-09",
+   "time": "14:36",
+   "files": [],
+   "drive": null,
+   "phone": "972506734687"
+  },
+  {
+   "id": "AC3D5B2BF9226BD75C1514B1D438AE44",
+   "sender": "ישראל יוקל",
+   "text": "יש בכל מצגת, בסופה.",
+   "ts": 1791551480000,
+   "date": "2026-10-09",
+   "time": "16:11",
+   "files": [],
+   "drive": null,
+   "phone": "972542261101"
   }
  ]
 }

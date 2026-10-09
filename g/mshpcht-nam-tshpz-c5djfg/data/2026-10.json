@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-09T08:53:02.690Z",
+ "updated": "2026-10-09T12:05:58.355Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -910,6 +910,37 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "ACBDFB8E794472950AE7876D144E748D",
+   "sender": "חגית",
+   "text": "",
+   "ts": 1791539421000,
+   "date": "2026-10-09",
+   "time": "12:50",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "50KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1rBh1nf1UEqNssjswY97dsalCLrM0dP6J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rBh1nf1UEqNssjswY97dsalCLrM0dP6J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528947885"
+  },
+  {
+   "id": "AC9A175CF59F754A10329ED64E717236",
+   "sender": "אורלי אוחנה",
+   "text": "מחנכות יקרות ❤️\n📝לאור מספר בקשות נדחה את הגשת ניתוח מיפוי הקריאה לסוף שבוע הבא.\nלא לשכוח שבסוף שבוע יש להגיש גם את דף הקשר.\n📝נא לדאוג לכתה מאורגנת ומסודרת לאסיפת ההורים, השי כבר מחכה לכן בבית הספר.\n📝ביום ראשון לא תתקיים ישיבת מורים, תלכו לנוח ולהתארגן  בשקט לקראת האסיפה.\nשבת מבורכת ❤️",
+   "ts": 1791547551000,
+   "date": "2026-10-09",
+   "time": "15:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }
