@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-09T13:09:05.895Z",
+ "updated": "2026-10-09T13:39:42.961Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -11392,7 +11392,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1DGmgILogoodJ55MTaw6CAZcc6g1uLqfi/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DGmgILogoodJ55MTaw6CAZcc6g1uLqfi&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1DGmgILogoodJ55MTaw6CAZcc6g1uLqfi&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/ACB4BA88B395FE86A2798CE797918F1C_0.mp4"
     }
    ],
    "drive": null,
@@ -11452,7 +11453,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1FLh1WMNO3CcpiQQ-bO7abikIFvbtYXZn/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1FLh1WMNO3CcpiQQ-bO7abikIFvbtYXZn&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1FLh1WMNO3CcpiQQ-bO7abikIFvbtYXZn&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/A53CC0261A18286FF4BCEF86C3C565AB_0.mp4"
     }
    ],
    "drive": null,
@@ -11563,6 +11565,26 @@
    "files": [],
    "drive": null,
    "phone": "972507799833"
+  },
+  {
+   "id": "AC860B0C851625A21BADCFA1970F1817",
+   "sender": "שמואל מלול",
+   "text": "",
+   "ts": 1791553166000,
+   "date": "2026-10-09",
+   "time": "16:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "275KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NEgaT2Z-3WLGfQ1OhKfov2RmM_2tB_g5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NEgaT2Z-3WLGfQ1OhKfov2RmM_2tB_g5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
   }
  ]
 }

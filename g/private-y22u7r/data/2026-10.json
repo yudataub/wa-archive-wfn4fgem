@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-09T12:34:28.724Z",
+ "updated": "2026-10-09T14:33:20.882Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -5712,6 +5712,37 @@
    "date": "2026-10-09",
    "time": "15:34",
    "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5E81B9770F1344F668375C8FDCB9414",
+   "sender": "ברוך ידידיה אלול",
+   "text": "אשמח לקבל פרטים על הוואטסאפ למייל?",
+   "ts": 1791553185000,
+   "date": "2026-10-09",
+   "time": "16:39",
+   "files": [],
+   "drive": null,
+   "thread": "ברוך ידידיה אלול",
+   "phone": "972547227140"
+  },
+  {
+   "id": "A577128960BDB1AD098EABB6149101DD",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791556389000,
+   "date": "2026-10-09",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "126KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1XHBDyMEdPhTj5DUnol8ZGvBeHk0e-Lqn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }

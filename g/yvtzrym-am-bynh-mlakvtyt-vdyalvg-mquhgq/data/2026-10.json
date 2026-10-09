@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-09T13:37:43.417Z",
+ "updated": "2026-10-09T13:56:43.696Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -1912,6 +1912,57 @@
    "date": "2026-10-09",
    "time": "16:37",
    "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB099C81A4D8928A21143",
+   "sender": "נועם",
+   "text": "זה נגיד עם infnite talk",
+   "ts": 1791553121000,
+   "date": "2026-10-09",
+   "time": "16:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1kK3P7PxXAZfFYKMXcxDDZNnwplQbfv6X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kK3P7PxXAZfFYKMXcxDDZNnwplQbfv6X&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB098441FA656AF62417E",
+   "sender": "נועם",
+   "text": "אשכרה קיבלתי עכשיו כזה והתקשרתי 😅",
+   "ts": 1791554185000,
+   "date": "2026-10-09",
+   "time": "16:56",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0AD7DC52A1375E7B4D1",
+   "sender": "נועם",
+   "text": "זה אשכרה מגיע מהמספר של גוגל",
+   "ts": 1791554188000,
+   "date": "2026-10-09",
+   "time": "16:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Xs1SOf0xiLmj5BOxi55s4KHGEuFVF07s/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Xs1SOf0xiLmj5BOxi55s4KHGEuFVF07s&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534663621"
   }
