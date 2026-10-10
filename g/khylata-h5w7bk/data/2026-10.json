@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-10T16:38:29.744Z",
+ "updated": "2026-10-10T18:58:44.568Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -2850,6 +2850,57 @@
    "files": [],
    "drive": null,
    "phone": "972505939334"
+  },
+  {
+   "id": "AC8E5C7B0B5FDFD5755FC11EC384C27B",
+   "sender": "רוית נאומה",
+   "text": "בס\"ד\n\nשבוע טוב \n\nילד בן 12 לא אכל כמעט כלום היום ,אם  נשאר לכם משהו טוב וטעים משבת הוא ישמח מאוד מאוד,אם יש לכם לחמניות/ פיתות ואולי אפשר גם להביא לו גבינה צהובה או חומוס  שיהיה לו לאכול... כל דבר מבורך\n\nגרים באיזור שביט \nניתן להתקשר למספר הזה -+972 54-771-0373\nלוצאפ וירדו לקחת \n\nחסד גדול ❤️❤️❤️❤️",
+   "ts": 1791653905000,
+   "date": "2026-10-10",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC75F3CBC37F746C709B8A30CBDE786E",
+   "sender": "מאיה",
+   "text": "*🌸 בעקבות הביקוש – נפתחת סדנה נוספת לילדים! 🎨💗 למגזר החרדי*\n*✨ ״מי אני באמת״ – סדנה שמעניקה לילדים כלים לביטחון עצמי, להתמודדות רגשית וליצירת קשרים חברתיים טובים יותר.*\n*💖 יש לי המלצות מרגשות מאימהות שכבר חוו את התהליך עם ילדיהן. מספר המקומות מוגבל – מוזמנות ליצור קשר ולשמור מקום לילד/ה שלכן 📞*",
+   "ts": 1791654510000,
+   "date": "2026-10-10",
+   "time": "20:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H6J7Jz_FWRj2vjy5d4SHEHirB7iFBTgW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H6J7Jz_FWRj2vjy5d4SHEHirB7iFBTgW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523492545"
+  },
+  {
+   "id": "ACDF7F333AFA1294A9DA5CAF6D279A11",
+   "sender": "אורית מאימן",
+   "text": "",
+   "ts": 1791658724000,
+   "date": "2026-10-10",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "272KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13r3hZRVgrsfkBqX9kjNy31k7EVutj0H4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13r3hZRVgrsfkBqX9kjNy31k7EVutj0H4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505444039"
   }
  ]
 }

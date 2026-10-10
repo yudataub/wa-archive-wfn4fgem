@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-10T16:35:29.690Z",
+ "updated": "2026-10-10T19:54:20.164Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1286,6 +1286,57 @@
    ],
    "drive": null,
    "phone": "972528232974"
+  },
+  {
+   "id": "ACF96D942400B687C3DDB1B474CC8E06",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "",
+   "ts": 1791659398000,
+   "date": "2026-10-10",
+   "time": "22:09",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "29KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/14TDdRUnFCvWI_3uNHe-CHvJFh4eZPdqp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14TDdRUnFCvWI_3uNHe-CHvJFh4eZPdqp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "ACE8BD317D845965723616B9E58CA088",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "שבוע טוב וחודש טוב",
+   "ts": 1791659418000,
+   "date": "2026-10-10",
+   "time": "22:10",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "ACDDD46F99DCAF6B4B6BCF96927E58F7",
+   "sender": "מרדכי",
+   "text": "*ילקוט יוסף-בתוך שנה!*\n<הצטרף עכשיו-סיים בשנה>\nמתחילים בהילולת רבינו עובדיה זצ\"ל\n*קובץ קל >> קצר >> ברור!*\n\n*ממכשיר כשר:* wa.me/972585000759?text=הלכה",
+   "ts": 1791662032000,
+   "date": "2026-10-10",
+   "time": "22:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "460KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FInc2fajfcHSi3Bhv4xk4BDaqK0slrUx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FInc2fajfcHSi3Bhv4xk4BDaqK0slrUx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

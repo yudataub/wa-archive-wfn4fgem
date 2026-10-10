@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-09T06:15:50.714Z",
+ "updated": "2026-10-10T18:18:28.322Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -278,6 +278,26 @@
      "path": "https://drive.google.com/file/d/1S6SgjOI4vzdGKeEhB4SYaK6F-dEonSAv/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1S6SgjOI4vzdGKeEhB4SYaK6F-dEonSAv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACD6DA7D14B0250E461",
+   "sender": ".",
+   "text": "״שקורין פיל מיי״ל בלע״ז״ (תוס׳ בכורות כב, א).",
+   "ts": 1791656295000,
+   "date": "2026-10-10",
+   "time": "21:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "63KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DwFhFxYUvrzhfQL8DFRHnFQ3WFyZdGyr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DwFhFxYUvrzhfQL8DFRHnFQ3WFyZdGyr&sz=w1200"
     }
    ],
    "drive": null,

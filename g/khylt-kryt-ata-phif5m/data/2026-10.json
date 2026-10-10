@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-10T17:35:30.597Z",
+ "updated": "2026-10-10T18:32:54.326Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2809,6 +2809,26 @@
    ],
    "drive": null,
    "phone": "972535473225"
+  },
+  {
+   "id": "ACB273568568E10BA6FF9A3583ADD3C4",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791657166000,
+   "date": "2026-10-10",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Dd3Tz900Rqd7lV9PpXHJzdsyW7eWJFrA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Dd3Tz900Rqd7lV9PpXHJzdsyW7eWJFrA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

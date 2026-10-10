@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-09T13:10:05.900Z",
+ "updated": "2026-10-10T20:14:20.396Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -2007,6 +2007,90 @@
    "ts": 1791551395000,
    "date": "2026-10-09",
    "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "AC950DF7D3132331F8D9F951887346F9",
+   "sender": "מעיין צוברי גרמן",
+   "text": "משיהו יכול לעזור לי למצוא את הזוהר הזה? לא מצאתי אותו בשום מקום וגם הצאט לא מצא",
+   "ts": 1791662038000,
+   "date": "2026-10-10",
+   "time": "22:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bKqcULHZtw7BrK82pSHmTvelCsiFG4JT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bKqcULHZtw7BrK82pSHmTvelCsiFG4JT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587121515"
+  },
+  {
+   "id": "AC9330C14357D5FE444D0C9DA4BC82DD",
+   "sender": "רועי כהן",
+   "text": "תלוי איזה צ'ט",
+   "ts": 1791663052000,
+   "date": "2026-10-10",
+   "time": "23:10",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACF99E7C43C5F834EA9A727381B9B9DC",
+   "sender": "רועי כהן",
+   "text": "12 דקות עבד...",
+   "ts": 1791663057000,
+   "date": "2026-10-10",
+   "time": "23:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wKsEoAgvZIbuiBQVySpqxvS4svDY1pFf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wKsEoAgvZIbuiBQVySpqxvS4svDY1pFf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACD8C61187FFBF6F8D0BD879F845DFC5",
+   "sender": "מעיין צוברי גרמן",
+   "text": "זה לא מה שכתוב\nהצאט הזה שיהיה בריא🥱",
+   "ts": 1791663216000,
+   "date": "2026-10-10",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972587121515"
+  },
+  {
+   "id": "ACC923EAF7B80B6F791C849E2857D2C3",
+   "sender": "רועי כהן",
+   "text": "הוא אמר לך שזה לא מה שכתוב",
+   "ts": 1791663228000,
+   "date": "2026-10-10",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "AC079BE1FE76D650141995E81A6A98C1",
+   "sender": "רועי כהן",
+   "text": "הציטוט שבתמונה מופיע בליקוטי הלכות, חושן משפט, הלכות ערב ג, אות ל״א. \n\n☝️☝️",
+   "ts": 1791663255000,
+   "date": "2026-10-10",
+   "time": "23:14",
    "files": [],
    "drive": null,
    "phone": "972542104147"

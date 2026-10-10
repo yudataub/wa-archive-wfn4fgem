@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-10T17:29:00.506Z",
+ "updated": "2026-10-10T21:17:03.955Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -1353,6 +1353,429 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972586399578"
+  },
+  {
+   "id": "AC5D3BE811C2E65B7139DEEF03BB992D",
+   "sender": "efraty76",
+   "text": "זה לא נפתח",
+   "ts": 1791654253000,
+   "date": "2026-10-10",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526444223"
+  },
+  {
+   "id": "ACAC423E0BD1E7901E6449D14F36F5A6",
+   "sender": "ארז נחשון",
+   "text": "יש לימוד חברותא על כל שמואל?\nאני צריך כל שמואל א מפרק כה והלאה וגם שמואל ב",
+   "ts": 1791655667000,
+   "date": "2026-10-10",
+   "time": "21:07",
+   "files": [],
+   "drive": null,
+   "phone": "972549796409"
+  },
+  {
+   "id": "ACC0E527A5D363109011E9B430283FA5",
+   "sender": "נתנאל מזרחי",
+   "text": "אין לי, כרגע הכנתי רק את זה עם מצגת, אם רוצים אשלח גם את המצגת",
+   "ts": 1791655738000,
+   "date": "2026-10-10",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "phone": "972586399578"
+  },
+  {
+   "id": "AC947CE1EA4C093E2C1DB1CD75D42274",
+   "sender": "כיתה ג",
+   "text": "אשמח להתייעצות.\nאני מןרה מקצועית, ושבצו לי שעתיים ברצף נביא בכיתה ה.\nמחפשת רעיונות ללמידה חוויותית וקלילה, בפרט לשעה השניה.\n(בשעה הראשונה הם עוד מסוגלים להיות בהקשבה ואחכ משימה, בשיעור השני כבר קשה יותר...)\nתודה",
+   "ts": 1791656556000,
+   "date": "2026-10-10",
+   "time": "21:22",
+   "files": [],
+   "drive": null,
+   "phone": "972559120800"
+  },
+  {
+   "id": "ACD90858D9234128CBE132DF92E7280E",
+   "sender": "Dorit",
+   "text": "סגל למידה",
+   "ts": 1791656717000,
+   "date": "2026-10-10",
+   "time": "21:25",
+   "files": [],
+   "drive": null,
+   "phone": "972523041100"
+  },
+  {
+   "id": "AC71B1F0DD5064D0C6AEDF3C8BA597B6",
+   "sender": "Dorit",
+   "text": "אתר שבו ישנם פעיליות חויתיות",
+   "ts": 1791656728000,
+   "date": "2026-10-10",
+   "time": "21:25",
+   "files": [],
+   "drive": null,
+   "phone": "972523041100"
+  },
+  {
+   "id": "AC377137A4D335C0F6B711B6FBAF4592",
+   "sender": "Dorit",
+   "text": "סגל למידה פרשה ויצירה \nהחומש בו תלמדי הפרשה תדפיסי את היצירה תראי סאטון בהצלחה",
+   "ts": 1791656780000,
+   "date": "2026-10-10",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972523041100"
+  },
+  {
+   "id": "ACFBE55F90CA3FBD0DD84646005C4EFD",
+   "sender": "דניאלה פלור",
+   "text": "שבוע טוב\nיש חוברת עבודה לשמואל א?",
+   "ts": 1791659165000,
+   "date": "2026-10-10",
+   "time": "22:06",
+   "files": [],
+   "drive": null,
+   "phone": "972534304074"
+  },
+  {
+   "id": "ACDC78FA3BD71768F6472AA77744773A",
+   "sender": "כיתה ג",
+   "text": "אני מלמדת שם נביא...לא חומש...",
+   "ts": 1791661385000,
+   "date": "2026-10-10",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972559120800"
+  },
+  {
+   "id": "ACB1896097C6E616BA2C03D73F0A0261",
+   "sender": "בר בן זיקרי",
+   "text": "היי אני מתחילה ללמד שמואל ב, בכיתה שלא סיימה שנה שעברה ללמוד שמואל א\nיש איזה סיכום/חזרה כללי וקצר של שמואל א? \nלפני שאתחיל שמואל ב? \n\nאו יש שיעורים קצרים שאפשר להעזר בהם?",
+   "ts": 1791661442000,
+   "date": "2026-10-10",
+   "time": "22:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526166122"
+  },
+  {
+   "id": "AC28E202ED68FC6897CB9D4AD46ABB18",
+   "sender": "פנינה כ\"ץ",
+   "text": "",
+   "ts": 1791661760000,
+   "date": "2026-10-10",
+   "time": "22:49",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "314KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1GJGRx0KBh1_hVWJgoCpSsKHBIJcwC9uQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "ACC4615B9B28B23649DC334D595EE8E7",
+   "sender": "חנה ביטון רביב",
+   "text": "שבוע טוב.\nהאם תוכנית הלימודים אינה מחייבת את כלל בתי הספר בחמד?\nעברה אליי תלמידה מבית ספר אחר באזור בית אל ובשנה שעברה הם למדו חומש במדבר ושמואל א בכיתה ד.\nהשנה היא לומדת אצלנו בכיתה ה ובעצם לא למדה חומש ויקרא וספר שופטים.",
+   "ts": 1791662242000,
+   "date": "2026-10-10",
+   "time": "22:57",
+   "files": [],
+   "drive": null,
+   "phone": "972549981837"
+  },
+  {
+   "id": "ACE30F33F5339C3DD8096BF11798FAF7",
+   "sender": "בת חן",
+   "text": "בעקרון כן אבל גם אני נתקלתי בתלמידים חדשים שהגיעו שלא למדו לפי התוכנית הרגילה",
+   "ts": 1791662343000,
+   "date": "2026-10-10",
+   "time": "22:59",
+   "files": [],
+   "drive": null,
+   "phone": "972525099981"
+  },
+  {
+   "id": "AC48CA07A65C122DEEE44FC4E769B0A4",
+   "sender": "Dorit",
+   "text": "אתר אביטה",
+   "ts": 1791662359000,
+   "date": "2026-10-10",
+   "time": "22:59",
+   "files": [],
+   "drive": null,
+   "phone": "972523041100"
+  },
+  {
+   "id": "AC8B4FB7038EBA3D7C3F7FE0F78A79BB",
+   "sender": "קובי",
+   "text": "את בטוחה שזה לא תלמוד תורה שמסיים חומש בכל שנה החל מכיתה א ומתחילים נביא מכיתה ב?",
+   "ts": 1791662455000,
+   "date": "2026-10-10",
+   "time": "23:00",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "AC47E2247F0ED90C98DE5D3E89B2D82C",
+   "sender": "כיתה ג",
+   "text": "מחפשת דף על תפילת חנה🙏",
+   "ts": 1791663049000,
+   "date": "2026-10-10",
+   "time": "23:10",
+   "files": [],
+   "drive": null,
+   "phone": "972559120800"
+  },
+  {
+   "id": "A5917EFA7990B318A7D52C9B9797EC4E",
+   "sender": "Michal Biton",
+   "text": "יש בחוברת שלי",
+   "ts": 1791663147000,
+   "date": "2026-10-10",
+   "time": "23:12",
+   "files": [],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5FB526122FE8B0D083242E5AA1BAA30",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791663160000,
+   "date": "2026-10-10",
+   "time": "23:12",
+   "files": [
+    {
+     "name": "שמואל א חלק ראשון מיכל ביטון-0.pdf",
+     "size": "6.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ufkC1sqpFYO8bkhzyIEowdpqhUZgILk_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "AC2981C9D16268A1C0A5297A3BA7C2D4",
+   "sender": "חנה ביטון רביב",
+   "text": "לא",
+   "ts": 1791663471000,
+   "date": "2026-10-10",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "972549981837"
+  },
+  {
+   "id": "AC1396988A087D15508BB6F8B583DE9A",
+   "sender": "כיתה ג",
+   "text": "מחפשת יותר דף הנחיה ולימוד עבורי כמורה להכין את התפילה",
+   "ts": 1791663551000,
+   "date": "2026-10-10",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "phone": "972559120800"
+  },
+  {
+   "id": "AC3F486304FF22C314EC2D4A6CF46794",
+   "sender": "כיתה ג",
+   "text": "תודה רבה🏆",
+   "ts": 1791663828000,
+   "date": "2026-10-10",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "phone": "972559120800"
+  },
+  {
+   "id": "ACE1E9C0E9A741995871C1CFEDC7EAA3",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791664046000,
+   "date": "2026-10-10",
+   "time": "23:27",
+   "files": [
+    {
+     "name": "דף חזרה לפרשת במדבר.docx",
+     "size": "5.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/12W-ZjPRUBhiFDQVIUZRN47t_xWQYcnBH/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "3ADE0177B06F52B53371",
+   "sender": "אודיה חן",
+   "text": "אשמח בבקשה לדף עבודה על סדר חניית השבטים.🙏🏽",
+   "ts": 1791664167000,
+   "date": "2026-10-10",
+   "time": "23:29",
+   "files": [],
+   "drive": null,
+   "phone": "972523390871"
+  },
+  {
+   "id": "AC0B9C0DFF3B8B4A1C9F3880530CDE3F",
+   "sender": "הודיה קבסה",
+   "text": "יש בתי ספר שלפעמים משנים את הסדר, אני לימדתי באחד כזה ששינו מסיבות רלוונטיות...",
+   "ts": 1791664419000,
+   "date": "2026-10-10",
+   "time": "23:33",
+   "files": [],
+   "drive": null,
+   "phone": "972523114734"
+  },
+  {
+   "id": "AC681D9E0E3FAA44DB59ADA91D2E6043",
+   "sender": "ארז נחשון",
+   "text": "תודה ממש מושקע\nיש עוד דפי עבודה כאלה על ספרים אחרים כמו יהודה שופטים?",
+   "ts": 1791665423000,
+   "date": "2026-10-10",
+   "time": "23:50",
+   "files": [],
+   "drive": null,
+   "phone": "972549796409"
+  },
+  {
+   "id": "A59ABB8553B7B1054310E088446DD0E6",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791665736000,
+   "date": "2026-10-10",
+   "time": "23:55",
+   "files": [
+    {
+     "name": "יהושע-דפי עבודה מיכל ביטון   מעודכן2026.pdf",
+     "size": "10.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1K1Bxr-JS8B6TBs4PPgO1QomEUlwdtvCn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A576C1FF8C9FFDAC618263F13BF2AB61",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791665742000,
+   "date": "2026-10-10",
+   "time": "23:55",
+   "files": [
+    {
+     "name": "שופטים-דפי עבודה מיכל ביטון-קובץ זמני.pdf",
+     "size": "4.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KxM0RawZ54hjAE17AufeeIN7AIgKD_TS/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A51472DE29EC1EAAC355099295595C01",
+   "sender": "Michal Biton",
+   "text": "מכיוון שהרבה ביקשו את החוברת על שופטים מפיצה אבל החוברת עדיין בהכנה לכן חסר ניקוד-לא עברה הגהה רק עד פרק ח' כרגע.",
+   "ts": 1791665743000,
+   "date": "2026-10-10",
+   "time": "23:55",
+   "files": [],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "AC6E8D306EFCA8AB9EB10C4B2898BAFC",
+   "sender": "הדר🍂",
+   "text": "אולי למישהו יש כזה לחומש במדבר?",
+   "ts": 1791666565000,
+   "date": "2026-10-11",
+   "time": "00:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526588681"
+  },
+  {
+   "id": "ACF1CBA7CDD397A7847B06BFE86A4015",
+   "sender": "נתנאל מזרחי",
+   "text": "אפשר להזמין את החוברות האלו?",
+   "ts": 1791666789000,
+   "date": "2026-10-11",
+   "time": "00:13",
+   "files": [],
+   "drive": null,
+   "phone": "972586399578"
+  },
+  {
+   "id": "3EB045A5775CAC8B6C5DB3",
+   "sender": "חנה",
+   "text": "",
+   "ts": 1791666830000,
+   "date": "2026-10-11",
+   "time": "00:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hzeWqqOugg_FA-7k-WVBY5H3BHOdCF7x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hzeWqqOugg_FA-7k-WVBY5H3BHOdCF7x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538671271"
+  },
+  {
+   "id": "A594C502360F63123F31E5AFCDE89068",
+   "sender": "Michal Biton",
+   "text": "בינתיים רק בpdf",
+   "ts": 1791666836000,
+   "date": "2026-10-11",
+   "time": "00:13",
+   "files": [],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "AC5C8C29B31CBFA1BA4DA65A5FE73096",
+   "sender": "נתנאל מזרחי",
+   "text": "סבבה",
+   "ts": 1791666976000,
+   "date": "2026-10-11",
+   "time": "00:16",
+   "files": [],
+   "drive": null,
+   "phone": "972586399578"
+  },
+  {
+   "id": "AC853B75ABE1DDA9B2D013149B44276B",
+   "sender": "נתנאל מזרחי",
+   "text": "תודה רבה🙌🏽",
+   "ts": 1791666994000,
+   "date": "2026-10-11",
+   "time": "00:16",
+   "files": [],
    "drive": null,
    "phone": "972586399578"
   }

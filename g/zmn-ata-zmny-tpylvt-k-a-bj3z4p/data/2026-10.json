@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-09T14:39:50.956Z",
+ "updated": "2026-10-10T19:54:20.190Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -560,6 +560,26 @@
    "files": [],
    "drive": null,
    "phone": "972522354929"
+  },
+  {
+   "id": "AC980050AE60BF424FC2F442184C8690",
+   "sender": "מרדכי",
+   "text": "*ילקוט יוסף-בתוך שנה!*\n<הצטרף עכשיו-סיים בשנה>\nמתחילים בהילולת רבינו עובדיה זצ\"ל\n*קובץ קל >> קצר >> ברור!*\n\n*ממכשיר כשר:* wa.me/972585000759?text=הלכה",
+   "ts": 1791662040000,
+   "date": "2026-10-10",
+   "time": "22:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "460KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jkR5jRd6dbeaDXd7b-G0yx5LJf1oUssB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jkR5jRd6dbeaDXd7b-G0yx5LJf1oUssB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

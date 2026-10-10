@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-10T17:31:30.539Z",
+ "updated": "2026-10-10T19:55:20.182Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1613,6 +1613,77 @@
    "date": "2026-10-10",
    "time": "20:31",
    "files": [],
+   "drive": null,
+   "phone": "972529255280"
+  },
+  {
+   "id": "3EB0612028FF69BE8BF5B7",
+   "sender": "LBD phones",
+   "text": "מוכר טלפונים חדשים של Redmagic, Nubia, Oneplus, Doogee דגמים נהדרים במחיר יבוא, חדשים בניילון. ניתן ליצור קשר בפרטי 0526206730",
+   "ts": 1791654863000,
+   "date": "2026-10-10",
+   "time": "20:54",
+   "files": [],
+   "drive": null,
+   "phone": "972526206730"
+  },
+  {
+   "id": "AC78639E1B41C6DA6A8653B0C1A30955",
+   "sender": "Noam",
+   "text": "*טלויזיה 32 אינץ' של TOSHIBA (לא חכמה) + שלט מקורי. לתלייה . במצב מצוין , 175 ש\"ח*",
+   "ts": 1791660394000,
+   "date": "2026-10-10",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "337KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QVydPoZzjADak-ofeqMUnfl62GE6j8vJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QVydPoZzjADak-ofeqMUnfl62GE6j8vJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "A5981D9A02A8FFF47D5B8CE6687C4942",
+   "sender": "משלוחים",
+   "text": "850 שח ללא סוללה הכול מקורי של גרין בייק",
+   "ts": 1791662110000,
+   "date": "2026-10-10",
+   "time": "22:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TIgODMahW5v4cx6ZZdVADGkC2f4OhPu-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TIgODMahW5v4cx6ZZdVADGkC2f4OhPu-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529255280"
+  },
+  {
+   "id": "A5E3694CCBCA9F61C2C36DF31BB427C9",
+   "sender": "משלוחים",
+   "text": "",
+   "ts": 1791662110000,
+   "date": "2026-10-10",
+   "time": "22:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hDpNR-MXmqmt7EhNLDnVyEc7b0l9Qz1d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hDpNR-MXmqmt7EhNLDnVyEc7b0l9Qz1d&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972529255280"
   }

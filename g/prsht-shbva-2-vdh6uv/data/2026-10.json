@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-09T13:47:43.090Z",
+ "updated": "2026-10-10T20:25:50.564Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -1546,6 +1546,202 @@
    "ts": 1791553637000,
    "date": "2026-10-09",
    "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972503070424"
+  },
+  {
+   "id": "AC2414C7AFB61F29284385497F6216DD",
+   "sender": "שירה אסולין",
+   "text": "אשמח בבקשה לדפים פרשת נח",
+   "ts": 1791661192000,
+   "date": "2026-10-10",
+   "time": "22:39",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "AC55F3E9DC68B1343B601C4A2C7080FD",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "https://matyabb.my.canva.site/parashatshavua",
+   "ts": 1791663672000,
+   "date": "2026-10-10",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC926A3EB51B7CFB956ADBF9206F7F67",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663882000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "שער תיקיית פרשת השבוע .pdf",
+     "size": "335KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1wp-LsnPyTg3pl6XMmguGqlBPEc1tTagE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACFE59C79395D4454C6C83278A12EAA8",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663884000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "עטיפה לפרשת שבוע.pdf",
+     "size": "230KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1nAbeFR7oqiXvU7OMlKbD3YduZUxm0vOU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC0582B0D0159FE834C1D5F6168B133A",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663885000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "עטיפה לפרשת שבוע (1).pdf",
+     "size": "446KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1JydwAhQzFNoZEZXN95_esdUtwIM7tm-C/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACDFAC8D13D1D507C8BA6DC718707AF0",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663886000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "עטיפה למחברת פרשת שבוע  (1).pdf",
+     "size": "547KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1wVVyoIO0jU7M0ZWPSaImB5Btg_3ls7Iq/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACC16D534A8465A468D97ACF9E7F0AC5",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663887000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "פרשת שבוע A3.pdf",
+     "size": "642KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1xvdV_Lcrct4wRp0L-iGD39XElBjnOGRk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC1F73ABC0D001AFE1C51F085C52E771",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663888000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "תיקיית פרשת שבוע (1).pdf",
+     "size": "3.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1kJeAc60_rayuYwYg5JqvXTZKLmoAY-jB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC5CF7CEF506E924BEA9038269FB5B7E",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663889000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "כריכה תקיית פרשת שבוע - בנים.pdf",
+     "size": "556KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1i1v5kYrefSmDJpLutajg3pS3-ppWbFij/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC5DB2AA5566280BF760D5D35E3116F7",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791663889000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "כריכה תקיית פרשת שבוע - בנות.pdf",
+     "size": "442KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1F5q1jR6JtWCpUP098JpLrD8VXsvqwJDl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC76A43E308C8C4607AF61CC6462F60E",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "☝️",
+   "ts": 1791663890000,
+   "date": "2026-10-10",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACAAE21A9DCE6F31D92E7EFAC43BE671",
+   "sender": "רפאל כהן",
+   "text": "תודה!",
+   "ts": 1791663927000,
+   "date": "2026-10-10",
+   "time": "23:25",
    "files": [],
    "drive": null,
    "phone": "972503070424"
