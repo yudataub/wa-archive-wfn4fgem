@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-09T12:05:58.355Z",
+ "updated": "2026-10-10T17:34:00.574Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -939,6 +939,25 @@
    "date": "2026-10-09",
    "time": "15:05",
    "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0DEC5392CEC1C496CCE",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1791653628000,
+   "date": "2026-10-10",
+   "time": "20:33",
+   "files": [
+    {
+     "name": "סיכום שבועי- פרשת בראשית.docx",
+     "size": "16KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1YDl3ozMEVAmjNmGYjpA_gGzA-Uap5m_2/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972507864721"
   }

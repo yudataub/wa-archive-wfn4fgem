@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-09T10:56:46.741Z",
+ "updated": "2026-10-10T17:02:30.168Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -2839,6 +2839,26 @@
      "path": "https://drive.google.com/file/d/12SDH7OWYJlR7HKo9qx9GZvRlOyrMqIev/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=12SDH7OWYJlR7HKo9qx9GZvRlOyrMqIev&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC201099E6A01FB83FF778813CFD2F71",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1791651731000,
+   "date": "2026-10-10",
+   "time": "20:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o7u2YVjm9d6qlvKqsqM73iCE2LKb9-Ht/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o7u2YVjm9d6qlvKqsqM73iCE2LKb9-Ht&sz=w1200"
     }
    ],
    "drive": null,

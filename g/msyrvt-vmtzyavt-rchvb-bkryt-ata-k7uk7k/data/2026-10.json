@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-09T09:58:10.427Z",
+ "updated": "2026-10-10T16:09:29.294Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -913,6 +913,57 @@
    "files": [],
    "drive": null,
    "phone": "972559971125"
+  },
+  {
+   "id": "AC6188DD553AFD01F0456AA34801C6D5",
+   "sender": "עדי חסיד",
+   "text": "בגדי בנות מידה 8 קצר למסירה",
+   "ts": 1791647940000,
+   "date": "2026-10-10",
+   "time": "18:59",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC74BC27BDDB98CB0FC19922BE575665",
+   "sender": "ויקטוריה",
+   "text": "למישהי יש עמדת טעינה של Roborock S5 Max",
+   "ts": 1791648543000,
+   "date": "2026-10-10",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vcep-SRvHWID6T_SV8rSAGVR9NGV_myH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vcep-SRvHWID6T_SV8rSAGVR9NGV_myH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACD654E2036DDDBBBCEDA3889201C1AF",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791648543000,
+   "date": "2026-10-10",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "24KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hP0qB5hnHklK5guPeX7Fz82FfVVnZZW3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hP0qB5hnHklK5guPeX7Fz82FfVVnZZW3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
   }
  ]
 }

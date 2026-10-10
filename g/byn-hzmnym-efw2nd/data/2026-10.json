@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-09T11:03:46.828Z",
+ "updated": "2026-10-10T16:59:00.124Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -881,6 +881,66 @@
    "files": [],
    "drive": null,
    "phone": "972548491117"
+  },
+  {
+   "id": "AC7740B640FF4696CF3A971F5146E8A1",
+   "sender": "עדית אבני",
+   "text": "🌺 *פנויים החל ממחר* \n🌺 *זה הזמן לשריין* \n       *חמישי-מוצ\"ש הקרוב במחיר 🔥* 🔥 \n🌺נשמח לצרף אתכם למועדון האורחים המרוצים שלנו שחוזרים ומתארחים בוילה חופשה אחר חופשה.\n🌺🌺🌺🌺🌺🌺🌺🌺",
+   "ts": 1791648802000,
+   "date": "2026-10-10",
+   "time": "19:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "264KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VMDAWrj_BimK7Wygiy3kRSDIvuHoXQ8B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VMDAWrj_BimK7Wygiy3kRSDIvuHoXQ8B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
+  },
+  {
+   "id": "A54BBD2595B74F13AB0D6D164E91F113",
+   "sender": "תמר דרעי",
+   "text": "רק *1000 ללילה* , לזוג, כל מיטה נוספת 100 שח בלבד!!! (יש 9 מיטות + מזרונים) 0526616006\nניתן *להשכיר את מתחם הבריכה והמשחקיה* לפי שעה ( עד 30 נפשות)",
+   "ts": 1791649950000,
+   "date": "2026-10-10",
+   "time": "19:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B0yNGbFV1rIWyCJNwAFzDfwIX0_rBA1v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B0yNGbFV1rIWyCJNwAFzDfwIX0_rBA1v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526616006"
+  },
+  {
+   "id": "AC758722187A2AEE5063661EBAC39C94",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1791651536000,
+   "date": "2026-10-10",
+   "time": "19:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/148v2Nyeplcqvgd396ECLkZL6wZTziixR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=148v2Nyeplcqvgd396ECLkZL6wZTziixR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
   }
  ]
 }

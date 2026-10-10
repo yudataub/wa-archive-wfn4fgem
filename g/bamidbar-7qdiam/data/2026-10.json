@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-09T11:31:21.927Z",
+ "updated": "2026-10-10T17:29:00.506Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -1303,6 +1303,58 @@
    "files": [],
    "drive": null,
    "phone": "972522888711"
+  },
+  {
+   "id": "ACF3CE319A5CA9FEF1617A1AFA289CAE",
+   "sender": "חן זוביב חסיד",
+   "text": "שבוע טוב, למישהו יש מבחן/אירוע הערכה לחומר במדבר ושמואל א?",
+   "ts": 1791650944000,
+   "date": "2026-10-10",
+   "time": "19:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543076882"
+  },
+  {
+   "id": "ACA242ADFAB53010383950886381BCD6",
+   "sender": "תמי",
+   "text": "יש על כל החומש?",
+   "ts": 1791651289000,
+   "date": "2026-10-10",
+   "time": "19:54",
+   "files": [],
+   "drive": null,
+   "phone": "972525986370"
+  },
+  {
+   "id": "AC6E0FC4F73036C039979A2BEAE37D9B",
+   "sender": "אסתר ברכה💐",
+   "text": "כן מערכי שיעור חומש במדבר פרקים א ב ג🙏🙏",
+   "ts": 1791652808000,
+   "date": "2026-10-10",
+   "time": "20:20",
+   "files": [],
+   "drive": null,
+   "phone": "972585000682"
+  },
+  {
+   "id": "ACB37B005A0D35A098C8F4A39377EC57",
+   "sender": "נתנאל מזרחי",
+   "text": "",
+   "ts": 1791653334000,
+   "date": "2026-10-10",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "חברותא-שמואל-א חלק ב.docx",
+     "size": "25KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1A3cQ36bk45coRZjGILpoSu2unqb-M2f8/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586399578"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-09T14:43:51.015Z",
+ "updated": "2026-10-10T17:37:00.646Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -4149,6 +4149,59 @@
    "files": [],
    "drive": null,
    "phone": "972587683835"
+  },
+  {
+   "id": "A5B86F4F1CA668CAF5F09DC18E639D53",
+   "sender": "מאיר מוגרבי",
+   "text": "מה?",
+   "ts": 1791653561000,
+   "date": "2026-10-10",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "AC9D244281E781EA187A8453B49AA3BB",
+   "sender": "יהודה רוטנברג",
+   "text": "מחפש דירה / יחידת דיור להשכרה לזוג צעיר 🏠✨\n​📍 אזור בני ביתך – ציפחה, מגן דוד, לב אליהו (רכסים) 🏘️\n\nכניסה מידית\n \n​טלפון: 050-6408994",
+   "ts": 1791653666000,
+   "date": "2026-10-10",
+   "time": "20:34",
+   "files": [],
+   "drive": null,
+   "phone": "972506408994"
+  },
+  {
+   "id": "AC37E33F49FB341A1CF8DAFEDBC27614",
+   "sender": "אלירן",
+   "text": "",
+   "ts": 1791653802000,
+   "date": "2026-10-10",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tSP4azWTbK2H1kiqu0ThRngTJYzi52Tu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tSP4azWTbK2H1kiqu0ThRngTJYzi52Tu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523445911"
+  },
+  {
+   "id": "AC85A4AE0813C342630667AD712A26AE",
+   "sender": "אלירן",
+   "text": "מישהו יודע אים זה גם לנשים???",
+   "ts": 1791653802000,
+   "date": "2026-10-10",
+   "time": "20:36",
+   "files": [],
+   "drive": null,
+   "phone": "972523445911"
   }
  ]
 }

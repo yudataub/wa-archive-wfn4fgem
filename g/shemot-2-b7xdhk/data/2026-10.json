@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-08T12:30:47.463Z",
+ "updated": "2026-10-10T17:35:30.623Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -943,6 +943,25 @@
    "files": [],
    "drive": null,
    "phone": "972506739052"
+  },
+  {
+   "id": "ACA5EC37384B9261DD4F9825BCA8C9DB",
+   "sender": "יזהר פינטוס",
+   "text": "",
+   "ts": 1791653717000,
+   "date": "2026-10-10",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תכנון שנתי תנך תשפז מעודכן.pdf",
+     "size": "4.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BV_mCakoh2vt4MSh_zgxZfFlKEqsxpjz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508808857"
   }
  ]
 }

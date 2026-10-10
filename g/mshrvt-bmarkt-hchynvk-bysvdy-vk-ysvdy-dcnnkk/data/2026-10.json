@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-07T20:28:06.790Z",
+ "updated": "2026-10-10T16:45:29.868Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -1135,6 +1135,46 @@
    "files": [],
    "drive": null,
    "phone": "972534170818"
+  },
+  {
+   "id": "AC03BC57C989FD0AF971273DD9338B76",
+   "sender": "e. forman",
+   "text": "https://wa.me/972535323413=אני\n50% משרה,\nתחילת עבודה במיידי.",
+   "ts": 1791648545000,
+   "date": "2026-10-10",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "275KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ting3IZpxFTezG9NcCaF3gxwruHRvHK7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ting3IZpxFTezG9NcCaF3gxwruHRvHK7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535323413"
+  },
+  {
+   "id": "AC064620479B4E4BBF241CD6CBF5CFDF",
+   "sender": "יסכה דהאן",
+   "text": "",
+   "ts": 1791650707000,
+   "date": "2026-10-10",
+   "time": "19:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lroux1Wsd7ZDh4_m2Q5si7W5it2MTyUk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lroux1Wsd7ZDh4_m2Q5si7W5it2MTyUk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502845065"
   }
  ]
 }

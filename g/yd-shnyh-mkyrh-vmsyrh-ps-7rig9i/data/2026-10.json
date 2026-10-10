@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-10T12:07:25.526Z",
+ "updated": "2026-10-10T17:31:30.539Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1524,6 +1524,97 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "ACEF3B1328EAA4999B26FCBAC492E8AF",
+   "sender": "מוכר דברים",
+   "text": "למכירה רמקול משומש במצב טוב \nנמכר עקב אי שימוש \n50 שקל",
+   "ts": 1791644803000,
+   "date": "2026-10-10",
+   "time": "18:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HcCh9iZ6j6x4PGwlGTAd07NOi-POcaWL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HcCh9iZ6j6x4PGwlGTAd07NOi-POcaWL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "3EB0B341C205F13323C66C",
+   "sender": "Noam",
+   "text": "*כרטיס מסך GEFORCE GTX1050 עם 2 ג'יגה זכרון , עובד מצוין. מריץ משחקים כמו Roblox / Fortnite ועוד. 250 ש\"ח*",
+   "ts": 1791653410000,
+   "date": "2026-10-10",
+   "time": "20:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "419KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KiKHvADLUCfutEC26asAu6QyKu3dYFBa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KiKHvADLUCfutEC26asAu6QyKu3dYFBa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "A5445676A5D39C7648EAEADE2A55ABA9",
+   "sender": "משלוחים",
+   "text": "",
+   "ts": 1791653465000,
+   "date": "2026-10-10",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YDPPH0KHIzyCROgctJ_gOVrREToHzKHZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YDPPH0KHIzyCROgctJ_gOVrREToHzKHZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529255280"
+  },
+  {
+   "id": "A5F8255DDEA85820333A48FEC3D709C9",
+   "sender": "משלוחים",
+   "text": "",
+   "ts": 1791653465000,
+   "date": "2026-10-10",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1O4OtLKUW48MUYazpM5Ln6vOz3c2u5tAI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1O4OtLKUW48MUYazpM5Ln6vOz3c2u5tAI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529255280"
+  },
+  {
+   "id": "A5F1571E77B2660C1FB86ED5E4C9C5B1",
+   "sender": "משלוחים",
+   "text": "1200 ללא סוללה",
+   "ts": 1791653473000,
+   "date": "2026-10-10",
+   "time": "20:31",
+   "files": [],
+   "drive": null,
+   "phone": "972529255280"
   }
  ]
 }

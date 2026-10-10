@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-09T14:41:50.986Z",
+ "updated": "2026-10-10T17:17:30.336Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -2146,6 +2146,79 @@
    "files": [],
    "drive": null,
    "phone": "972549689858"
+  },
+  {
+   "id": "3EB0195403CDABA6279B17",
+   "sender": "ישי",
+   "text": "תזכורת נדרים ונדבות:\n\nמי שעלה לתורה באחד מג' המנינים ושילם\nשיעדכן אותי בהקדם, בכדי שארשום זאת.\nמצ\"ב הקישור לתשלום:\n\nhttps://www.matara.pro/nedarimplus/online/?mosad=7002511\n\n  *_חבל לדחות יותר מדי...._*\n      *_כשאפשר לפתור הכל בקליק אחד ודי...._*",
+   "ts": 1791651123000,
+   "date": "2026-10-10",
+   "time": "19:52",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC46CA37DFE842EB0D4C56CC6B63EAD5",
+   "sender": "רחל ברגר",
+   "text": "דרושה עוזרת לנקיון בית. נאמנה וחרוצה פלאפון 0543918044",
+   "ts": 1791651701000,
+   "date": "2026-10-10",
+   "time": "20:01",
+   "files": [],
+   "drive": null,
+   "phone": "972542253946"
+  },
+  {
+   "id": "3EB08FC8BD5DB1DEEB9C36",
+   "sender": "ישי",
+   "text": "מחר!!",
+   "ts": 1791651885000,
+   "date": "2026-10-10",
+   "time": "20:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "367KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VduuDxfOL9dbNXdZILOY-Eg4CwPnLRSe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VduuDxfOL9dbNXdZILOY-Eg4CwPnLRSe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0E902EAD4991E7ED5D1",
+   "sender": "ישי",
+   "text": "הפעם אף אחד לא מפספס!!",
+   "ts": 1791651901000,
+   "date": "2026-10-10",
+   "time": "20:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "513KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eucFnSDDAdfDxvpU1vEc41bCvnpQtmWP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eucFnSDDAdfDxvpU1vEc41bCvnpQtmWP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0214BC28E772ABBB5FE",
+   "sender": "ישי",
+   "text": "חדש! לידיעת הציבור! בקישור הנ\"ל ישנה גם אפשרות תשלום בביט.",
+   "ts": 1791652632000,
+   "date": "2026-10-10",
+   "time": "20:17",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
   }
  ]
 }
