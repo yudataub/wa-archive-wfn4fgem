@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-09T13:56:43.696Z",
+ "updated": "2026-10-10T08:54:56.007Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -1963,6 +1963,193 @@
      "thumb": "https://drive.google.com/thumbnail?id=1Xs1SOf0xiLmj5BOxi55s4KHGEuFVF07s&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3AE84F2909BA155F1C9E",
+   "sender": "Rasha",
+   "text": "בוקר טוב\nאיך נרשמים לוובינר?",
+   "ts": 1791612535000,
+   "date": "2026-10-10",
+   "time": "09:08",
+   "files": [],
+   "drive": null,
+   "phone": "972545881566"
+  },
+  {
+   "id": "3EB07310BE43AB0F507266",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ראיתי שיש ל-OPENAI סביבה לעריכת וידאו, שלא הכרתי chatcut\n\nhttps://youtu.be/F8dxyyqkw9M",
+   "ts": 1791612990000,
+   "date": "2026-10-10",
+   "time": "09:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0BFDB1AFC0E44F2781B",
+   "sender": "ווקי שרון מרגולין",
+   "text": "הי בוקר טוב\nמעבירים תשלום בביט,\nשולחים אלי למיייל woki2004@gmail.com את צילום ההעברה\nשלחי בבקשה ממייל GMAIL",
+   "ts": 1791613042000,
+   "date": "2026-10-10",
+   "time": "09:17",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0137294D905125168E3",
+   "sender": "ווקי שרון מרגולין",
+   "text": "https://docs.google.com/document/d/1uCZNsezNG0q-C4gUFrwaQQbJQ2bM1TyoDJMTBXYXjTI/edit?usp=sharing",
+   "ts": 1791616152000,
+   "date": "2026-10-10",
+   "time": "10:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC1276741527CADA40CB9374D6958608",
+   "sender": "נועם",
+   "text": "אם  רוצים רק תמלול באניסנקט\nשני מקרים:\n1. הודעה קולית - מתומללת .\n2. הקלטה  ממישהו אחר - מתומללת והתמלול נשלח לך בצ'אט בלבד.",
+   "ts": 1791616712000,
+   "date": "2026-10-10",
+   "time": "10:18",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A50F6005D3E6C58562F5432292683C53",
+   "sender": "ווקי שרון מרגולין",
+   "text": "סרט חומר גלם וסרט אחרי עריכה של CHATCUT",
+   "ts": 1791618534000,
+   "date": "2026-10-10",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1gB5adWGYvVNqZ48CfKFNmt6SnJcj-4Bw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gB5adWGYvVNqZ48CfKFNmt6SnJcj-4Bw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB017DE27E20CBFEE6D97",
+   "sender": "ווקי שרון מרגולין",
+   "text": "סוף סוף נוטבוק הבינו את הדבר הבסיס ביותר, כשלוחצים עכשיו על שמירה בהערה במקום שזה יעבור שמאלה לצד הסטודיו (שממש אין בזה הגייון) זה עובבר לצד המקורות, אז לא צריך יותר להפוך הערה למקור, היא ישר נהיית מקור ואפשר כמובן לצ'טט איתה כמו עם כל מקור אחר. מזל טוב לגוגל",
+   "ts": 1791618694000,
+   "date": "2026-10-10",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A52EC929F7654DC82741A9398302F248",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ומסתבר שהוא מסוגל ליצור כתוביות ואף לסנכרן אותן לבד עם הסרט",
+   "ts": 1791619600000,
+   "date": "2026-10-10",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "22.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1dgW0blZmhU0jUdLYc-eLJrUK5C0ullre/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dgW0blZmhU0jUdLYc-eLJrUK5C0ullre&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A568468B84F1ACE1FACFCA8647F8F70B",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כתבתי ל-CHATCUT כך:\n\n[@ChatCut](plugin://chatcut-desktop@openai-curated-remote) הפעל Kinetic Typography: הוסף כתוביות דינמיות המופיעות מילה-אחר-מילה בדיוק בקצב הדיבור, כאשר מילות מפתח מוגדלות, משנות צבע (כגון צהוב או ירוק ניאון) ומקבלות אפקט הדגשה בולט",
+   "ts": 1791619602000,
+   "date": "2026-10-10",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A51C5864F6F93AC356ADAC78F34C66CC",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791620230000,
+   "date": "2026-10-10",
+   "time": "11:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1YqLCCD9MqAaxYW2MZlDpkZG_FLSpvd8u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YqLCCD9MqAaxYW2MZlDpkZG_FLSpvd8u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A56B6B916687C2A3B87BA533CA28D6BA",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לפני ואחרי כתוביות בעברית",
+   "ts": 1791620231000,
+   "date": "2026-10-10",
+   "time": "11:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SmA9d8Sj_FngqJDnJHq-os5cLSD2aFPB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SmA9d8Sj_FngqJDnJHq-os5cLSD2aFPB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0497F5446B7E7F71993",
+   "sender": "ווקי שרון מרגולין",
+   "text": "זהו להיום תרומתי האחרונה,\nמאגר פרומפטים חלופיים לאלו שהוצגו במדריך הראשוני, למי שרוצה סגנונות עיצוב אאחרים, הנפשות אחרות",
+   "ts": 1791620594000,
+   "date": "2026-10-10",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "chatcut-prompts-bank-30.docx",
+     "size": "24KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1PhkZO-eAG1MsOpbR-ASRioTxcRJ96o6s/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC294FFFD0735B7FABC5B22A80AA174C",
+   "sender": "נועם",
+   "text": "https://lim972-mail-bridge.surge.sh/\n\nדברו עם האינסטינקט שלי בצאט אינטרנט.\nעובד לאט כי כל ההודעות עוברות דרך אימייל.",
+   "ts": 1791622486000,
+   "date": "2026-10-10",
+   "time": "11:54",
+   "files": [],
    "drive": null,
    "phone": "972534663621"
   }

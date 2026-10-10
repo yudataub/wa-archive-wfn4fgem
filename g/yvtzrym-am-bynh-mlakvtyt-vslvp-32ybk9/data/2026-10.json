@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-09T18:04:05.251Z",
+ "updated": "2026-10-10T08:57:26.042Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -12035,6 +12035,1109 @@
    "files": [],
    "drive": null,
    "phone": "972544473410"
+  },
+  {
+   "id": "3EB0C34BBD46F75E779E90",
+   "sender": "טַלִּי",
+   "text": "פיתוח שפה חדשה זה הרעיו הכי מדהים והכי יצירתי ששמעתי עד כה (לביצוע בבינה מלאכותית).\nהאם יהיו שם גם מילים שאין בשפות אחרות? (שמתארות כמובן רעיון או רגש כלשהו)\nורעיון (שאני לא יודעת אם ניתן למימוש) - לפתח אותה במודל של קוד פתוח, שבו אנשים מכל העולם יוכלו להשתתף בהרחבת אוצר המילים, בהצעת כללי דקדוק ועוד.",
+   "ts": 1791611089000,
+   "date": "2026-10-10",
+   "time": "08:44",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "AC6D9687979D898948C441387D698BAF",
+   "sender": "נועם",
+   "text": "כן, בשני מישורים:\n1. שפות מדוברות (conlang) - שני מחקרי ACL 2026: ConlangCrafter בונה שפה שלמה מקצה לקצה (פונולוגיה, דקדוק, אוצר מילים, תרגום) עם מאגר של 64 שפות שנוצרו; ו-IASC של SakanaAI, מערכת אינטראקטיבית שבונה שפה מול המשתמש.\n2. שפת תכנות - ספט 2025: מישהו הריץ את קלוד בלולאה 3 חודשים ויצאה שפת התכנות cursed, עם קומפיילר עובד.",
+   "ts": 1791611556000,
+   "date": "2026-10-10",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACB8DF6112B788C8879EE0129549304A",
+   "sender": "נועם",
+   "text": "https://arxiv.org/html/2508.06094v1",
+   "ts": 1791611557000,
+   "date": "2026-10-10",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC98AA133DA44985B524FADCA3DF3F54",
+   "sender": "נועם",
+   "text": "https://github.com/SakanaAI/IASC",
+   "ts": 1791611558000,
+   "date": "2026-10-10",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACEA251D420E6935B02217CA3440ABBD",
+   "sender": "נועם",
+   "text": "https://ghuntley.com/cursed/",
+   "ts": 1791611559000,
+   "date": "2026-10-10",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0BE744EAA4443C65E50",
+   "sender": "טַלִּי",
+   "text": "שאלה: תוכלי להכין לי מצגת בקנבה?",
+   "ts": 1791612069000,
+   "date": "2026-10-10",
+   "time": "09:01",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "3EB0BDD28289D9C295B3CA",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ראיתי שיש ל-OPENAI סביבה לעריכת וידאו, שלא הכרתי chatcut\n\nhttps://youtu.be/F8dxyyqkw9M",
+   "ts": 1791613055000,
+   "date": "2026-10-10",
+   "time": "09:17",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0D4AD9AF517B65257C8",
+   "sender": "ווקי שרון מרגולין",
+   "text": "רעינוות מעולים,\nכרגע יש בה 500 מילים וכל המבניות , היא אמורה להיות שפה פשוטה שקלה ללמידה לשימוש ולקריאה",
+   "ts": 1791613188000,
+   "date": "2026-10-10",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB03805DC8DCF463015E6",
+   "sender": "טַלִּי",
+   "text": "מחכה לשמוע שיר בשפה הזו 😂",
+   "ts": 1791613302000,
+   "date": "2026-10-10",
+   "time": "09:21",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "3EB084282C208743735EAD",
+   "sender": "ווקי שרון מרגולין",
+   "text": "זה אמור להיות מטורף הדבר הזה,\nמקליטים סרטון, עם כל הבלגן שבו, \"אמ...., ו....\" וטעויות וטייקים, \nשולחים ל-GPT עם הנחיה לעשות תיקוני עריכה\nואז מכניסים סרטון גרפיקות שאוהבים (ייחוס) ומבקשים שיערוך את הסרט לפי הדוגמה,\n\nויוצא סרט ערוך שאחרת היה לוקח שעות לעשות.\n\nבאסה שאין לי טוקנים עד 14/10 לא יכול להשתמש בקודקס",
+   "ts": 1791614137000,
+   "date": "2026-10-10",
+   "time": "09:35",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC004C8CD3A5F56B69680A136126CC67",
+   "sender": "Nir",
+   "text": "ואוו שרון. \nלא הכרתי את האופציה הזאת.\nתודה🙏🙏",
+   "ts": 1791615219000,
+   "date": "2026-10-10",
+   "time": "09:53",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC6EA6BAB1219B0AAFC01BD82C56120C",
+   "sender": "Nir",
+   "text": "איך אין לך טוקנים עד ה14.10??",
+   "ts": 1791615257000,
+   "date": "2026-10-10",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC3895DBC27127426A8E3C82F0FF6AC5",
+   "sender": "Nir",
+   "text": "הם מאפסים כמעט כל יום",
+   "ts": 1791615277000,
+   "date": "2026-10-10",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB0EB5901518A85FB3E1C",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אין לי, בדרך אצלי זה משבית אותי לחמישה ימים עד שהוא מתאפס לא יודע למה",
+   "ts": 1791615490000,
+   "date": "2026-10-10",
+   "time": "09:58",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC9FB87F08CDE189E00C9BC096329DEF",
+   "sender": "Nir",
+   "text": "כנס לכאן",
+   "ts": 1791615701000,
+   "date": "2026-10-10",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC187F9E20A08266F45DB24FE3A93162",
+   "sender": "Nir",
+   "text": "",
+   "ts": 1791615714000,
+   "date": "2026-10-10",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "516KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PhWqHFH3qONKzfPkndsyVOWu5HyTZH5H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PhWqHFH3qONKzfPkndsyVOWu5HyTZH5H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC59243C217D5654136942802D034637",
+   "sender": "Nir",
+   "text": "תראה כמה ריסטים יש לי",
+   "ts": 1791615736000,
+   "date": "2026-10-10",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC33535435B1AAAB941E9DD060EE3427",
+   "sender": "Nir",
+   "text": "אני כבר כמה ימים עובד על פול אסטרה במהירות 1.5",
+   "ts": 1791615761000,
+   "date": "2026-10-10",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB01D0E695C9E80310FA2",
+   "sender": "ווקי שרון מרגולין",
+   "text": "באיזה מנוי?",
+   "ts": 1791615778000,
+   "date": "2026-10-10",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACB3679CA5C85E37D67B2E55CF24AF28",
+   "sender": "Nir",
+   "text": "100 ד",
+   "ts": 1791615785000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB0549FF4E28A44A865AF",
+   "sender": "ווקי שרון מרגולין",
+   "text": "אני ב 20",
+   "ts": 1791615793000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACFCCC16E7070B7ABB1E5F315676DC4C",
+   "sender": "Nir",
+   "text": "אבל יש גם ל20",
+   "ts": 1791615793000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC380449D8A81F083FB4AAE06E37FE9B",
+   "sender": "Nir",
+   "text": "אז",
+   "ts": 1791615799000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "ACC29F0AAC262CFE5520037D6A4277DC",
+   "sender": "Nir",
+   "text": "כנס",
+   "ts": 1791615807000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC3D71DE9C06B09DB0ED631C3891571C",
+   "sender": "Nir",
+   "text": "תבדוק",
+   "ts": 1791615810000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB01892C7ABC97396505F",
+   "sender": "ווקי שרון מרגולין",
+   "text": "זה באתר או בתוכנת הדקס טופ",
+   "ts": 1791615818000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACB6F1805E4777D307F81221FE0E9A28",
+   "sender": "Nir",
+   "text": "אתר",
+   "ts": 1791615824000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "ACE43F892FA56EFC09DA8051C1730E35",
+   "sender": "Nir",
+   "text": "כנס",
+   "ts": 1791615839000,
+   "date": "2026-10-10",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC3BF54E6E8606FFCBB3CAB84E9CEF0B",
+   "sender": "Nir",
+   "text": "בטוח יש לך ריסטים",
+   "ts": 1791615848000,
+   "date": "2026-10-10",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3A21DCB5F6FC8808B60D",
+   "sender": "אנטולי",
+   "text": "יש ריסטים גם במנוי של 20 ד",
+   "ts": 1791615884000,
+   "date": "2026-10-10",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972522258139"
+  },
+  {
+   "id": "ACCBB5F42AA84138A7C274F4E8E6C5BF",
+   "sender": "Nir",
+   "text": "כן",
+   "ts": 1791615892000,
+   "date": "2026-10-10",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC42AA5BE9397FAB0E2816F42115688B",
+   "sender": "Nir",
+   "text": "לכל המנויים",
+   "ts": 1791615901000,
+   "date": "2026-10-10",
+   "time": "10:05",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB03A0D7806E0DCA8C2EE",
+   "sender": "ווקי שרון מרגולין",
+   "text": "נשארו לי שניים",
+   "ts": 1791616008000,
+   "date": "2026-10-10",
+   "time": "10:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LtAZq0mGY577wSEFNDff2DCNWu5DLjxw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LtAZq0mGY577wSEFNDff2DCNWu5DLjxw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3AFFCC232B0C08360DD6",
+   "sender": "אנטולי",
+   "text": "אבל זה כמו משכנתא\nמקבל עכשיו משלם אחר כל",
+   "ts": 1791616116000,
+   "date": "2026-10-10",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972522258139"
+  },
+  {
+   "id": "3EB0D4C83F648FB03F33D2",
+   "sender": "ווקי שרון מרגולין",
+   "text": "https://docs.google.com/document/d/1uCZNsezNG0q-C4gUFrwaQQbJQ2bM1TyoDJMTBXYXjTI/edit?usp=sharing",
+   "ts": 1791616137000,
+   "date": "2026-10-10",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0CE1B8D9CD02857089E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מנסה לשפר את העיצוב של המסמך הזה",
+   "ts": 1791616322000,
+   "date": "2026-10-10",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC01C099FE055E764035207AFBCD85BE",
+   "sender": "Nir",
+   "text": "לא הבנתי",
+   "ts": 1791616332000,
+   "date": "2026-10-10",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "ACEC44064780040B444A8E8F029DA82F",
+   "sender": "Nir",
+   "text": "מעולה",
+   "ts": 1791616334000,
+   "date": "2026-10-10",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC0C7678643D513A5730C57D5EF8F210",
+   "sender": "Nir",
+   "text": "אני כבר יצרתי סקיל עליו",
+   "ts": 1791616385000,
+   "date": "2026-10-10",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB0E6EAEFBAC7F6F68ED7",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מעולה, אין גבול לעצלנות חחח",
+   "ts": 1791616407000,
+   "date": "2026-10-10",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC0F7F4313894687DD1FDDCD15AA6F94",
+   "sender": "נועם",
+   "text": "אם  רוצים רק תמלול באניסנקט\nשני מקרים:\n1. הודעה קולית - מתומללת .\n2. הקלטה  ממישהו אחר - מתומללת והתמלול נשלח לך בצ'אט בלבד.",
+   "ts": 1791616705000,
+   "date": "2026-10-10",
+   "time": "10:18",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC4FAE284D35ACEC785CA5EAE7F30590",
+   "sender": "נועם",
+   "text": "תעבור למודל לונה 6 יותר חסכוני.",
+   "ts": 1791616873000,
+   "date": "2026-10-10",
+   "time": "10:21",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB068832EF657E398658B",
+   "sender": "ווקי שרון מרגולין",
+   "text": "שאלה,\nאיך מכריחים את כל כלי ה-AI שיוצרים מסמכי PDF שיכתוב בעברית מימין לשמאל, שהקובץ יהיה תואם בדיוק לעברית בלי שאני אצטרך לעשות את זה ידנית , ואם זה PDF אז בכלל לא יכול",
+   "ts": 1791616943000,
+   "date": "2026-10-10",
+   "time": "10:22",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACA806A0E1DAFF74325572ABCAD34B4E",
+   "sender": "נועם",
+   "text": "נראה לי שאלה כללית מידי.\nמציע להתיחס לכלים ספציפית",
+   "ts": 1791617505000,
+   "date": "2026-10-10",
+   "time": "10:31",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0596DC943013B432EB8",
+   "sender": "ווקי שרון מרגולין",
+   "text": "נוטבוק",
+   "ts": 1791617528000,
+   "date": "2026-10-10",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0C907EEEA995589D66D",
+   "sender": "ווקי שרון מרגולין",
+   "text": "חח",
+   "ts": 1791617530000,
+   "date": "2026-10-10",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACF2D952535BBBD79F5BB6D5E4A42E7B",
+   "sender": "Nir",
+   "text": "למה עצלנות?\nאני רואה את זה כיעילות",
+   "ts": 1791617703000,
+   "date": "2026-10-10",
+   "time": "10:35",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "AC665271457A0A02FEA908C5767F3F10",
+   "sender": "Nir",
+   "text": "מודל לונה הבנתי שהוא מודל על הפנים",
+   "ts": 1791617769000,
+   "date": "2026-10-10",
+   "time": "10:36",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB04BB85B4E754B7D42B0",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כמובן אחי אני צוחק,\nזה ניצול של הטכנולוגיה בדיוק למה שצריך אותה",
+   "ts": 1791617857000,
+   "date": "2026-10-10",
+   "time": "10:37",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB072B7E15FA77E9281F1",
+   "sender": "ווקי שרון מרגולין",
+   "text": "במקום שאנחנו נעשה את התהליך בעצמנו שוב ושוב למה שלא איזה סוכן יעבוד לפי הסקילים שלימדנו אותו שיעשה את זה הוא",
+   "ts": 1791617875000,
+   "date": "2026-10-10",
+   "time": "10:37",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC3AD52755A17FBBB38A26029D57BEBD",
+   "sender": "נועם",
+   "text": "תנסה, לי הוא טוב, יש גם סול 6.1",
+   "ts": 1791618257000,
+   "date": "2026-10-10",
+   "time": "10:44",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC19C4C2F20671696F480F55D5BE4114",
+   "sender": "Nir",
+   "text": "עדיף את סול 6.1 הוא כמעט כמו אסטרה אבל משתמש בפחות טוקנים",
+   "ts": 1791618391000,
+   "date": "2026-10-10",
+   "time": "10:46",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB0432777BA66D818ED97",
+   "sender": "ווקי שרון מרגולין",
+   "text": "זה מה שאני עושה משתמש בסול",
+   "ts": 1791618428000,
+   "date": "2026-10-10",
+   "time": "10:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACC794439E91023874486B54D7B1C494",
+   "sender": "Nir",
+   "text": "אני משתמש באסטרה",
+   "ts": 1791618454000,
+   "date": "2026-10-10",
+   "time": "10:47",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB01C2A61F0D4DB86C505",
+   "sender": "ווקי שרון מרגולין",
+   "text": "סרט חומר גלם וסרט אחרי עריכה של CHATCUT",
+   "ts": 1791618497000,
+   "date": "2026-10-10",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TXnsnMRisjItkRpb9hAFy_nYSmu_xaJL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TXnsnMRisjItkRpb9hAFy_nYSmu_xaJL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC29FB38639E947E418700945B5D56BE",
+   "sender": "Nir",
+   "text": "כי הם מאפסים את השימוש כמעט כל יום",
+   "ts": 1791618505000,
+   "date": "2026-10-10",
+   "time": "10:48",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB0F8A4A51B41500E204A",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791618509000,
+   "date": "2026-10-10",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "58.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1uJzj6MMnQu1zbmfCsBDSWO91gU5xRvpe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uJzj6MMnQu1zbmfCsBDSWO91gU5xRvpe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC196F6EFD8E3A78C911CF6403FD28A8",
+   "sender": "Nir",
+   "text": "שידרוג חמוד",
+   "ts": 1791618650000,
+   "date": "2026-10-10",
+   "time": "10:50",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB0FE620D4276D2169114",
+   "sender": "ווקי שרון מרגולין",
+   "text": "סוף סוף נוטבוק הבינו את הדבר הבסיס ביותר, כשלוחצים עכשיו על שמירה בהערה במקום שזה יעבור שמאלה לצד הסטודיו (שממש אין בזה הגייון) זה עובבר לצד המקורות, אז לא צריך יותר להפוך הערה למקור, היא ישר נהיית מקור ואפשר כמובן לצ'טט איתה כמו עם כל מקור אחר. מזל טוב לגוגל",
+   "ts": 1791618678000,
+   "date": "2026-10-10",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5271849C063CD89528E659B573069FF",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ומסתבר שהוא מסוגל ליצור כתוביות ואף לסנכרן אותן לבד עם הסרט",
+   "ts": 1791619601000,
+   "date": "2026-10-10",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "22.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1gv-QXD8q40uQ3ZfklebzlJBY4iRg2BkZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gv-QXD8q40uQ3ZfklebzlJBY4iRg2BkZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5BA4DF6DE1C1171A9AB92417D789BD0",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כתבתי ל-CHATCUT כך:\n\n[@ChatCut](plugin://chatcut-desktop@openai-curated-remote) הפעל Kinetic Typography: הוסף כתוביות דינמיות המופיעות מילה-אחר-מילה בדיוק בקצב הדיבור, כאשר מילות מפתח מוגדלות, משנות צבע (כגון צהוב או ירוק ניאון) ומקבלות אפקט הדגשה בולט",
+   "ts": 1791619603000,
+   "date": "2026-10-10",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACE485C14E7FFD599EDF1BFECDF1610D",
+   "sender": "Stdb",
+   "text": "איפה כל הטוב הזה",
+   "ts": 1791619693000,
+   "date": "2026-10-10",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB035A5F2D85CC0D24B3A",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ChatGPT פלאגאין חדש שנקרא ChatCut של OpenAI",
+   "ts": 1791619792000,
+   "date": "2026-10-10",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACD8E43698EFEECE2A5E6D08E08E56FC",
+   "sender": "Nir",
+   "text": "ואווו😯",
+   "ts": 1791619931000,
+   "date": "2026-10-10",
+   "time": "11:12",
+   "files": [],
+   "drive": null,
+   "phone": "972508356542"
+  },
+  {
+   "id": "3EB012E3793DBD890C38AA",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מנסה אותו בעברית עכשיו",
+   "ts": 1791619948000,
+   "date": "2026-10-10",
+   "time": "11:12",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACBFA7188ADAD8020CD5A58389EEB228",
+   "sender": "נועם",
+   "text": "6.1?",
+   "ts": 1791620072000,
+   "date": "2026-10-10",
+   "time": "11:14",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0AECF9B37593CCA03F2",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כן light",
+   "ts": 1791620114000,
+   "date": "2026-10-10",
+   "time": "11:15",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC58498690B16B3C5F6046EFAE383511",
+   "sender": "נועם",
+   "text": "אמור להחזיק הרבה.\nאבל לונה הרבה יותר, שווה לנסות.",
+   "ts": 1791620180000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC188B30BFD518352611D9DC0CACF7F2",
+   "sender": "Stdb",
+   "text": "והוא עובד מתוך הקודקס על המחשב?",
+   "ts": 1791620183000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB07B856143252C3A0F38",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791620194000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1mnR4G6TWv4uHu80en_eG3KE74zlQFLJl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mnR4G6TWv4uHu80en_eG3KE74zlQFLJl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0C893054DAEA1819C20",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לפני ואחרי כתוביות בעברית",
+   "ts": 1791620196000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1W9R1DuPRdujlogrMsTLNr7hMesu-tDT1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W9R1DuPRdujlogrMsTLNr7hMesu-tDT1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB09E4310D48F3C7A61BD",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כן",
+   "ts": 1791620199000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACA8673F951510D321AD4044B838FC3C",
+   "sender": "Stdb",
+   "text": "ננסה",
+   "ts": 1791620206000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB03990F0FE6D1D9C3902",
+   "sender": "ווקי שרון מרגולין",
+   "text": "לא בא לך לקרוא את המדריך שכתבתי? חחחח",
+   "ts": 1791620208000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACCADABDC455B2B7F82440AC4988CAEA",
+   "sender": "Stdb",
+   "text": "שוקראן",
+   "ts": 1791620213000,
+   "date": "2026-10-10",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACC7589FFB06BCA83EC69C4B5942EB16",
+   "sender": "Stdb",
+   "text": "המדריך זה לזה?",
+   "ts": 1791620231000,
+   "date": "2026-10-10",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0A8B6912EC2CB4BF499",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כן",
+   "ts": 1791620238000,
+   "date": "2026-10-10",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "AC0AFE5267CAC18B350A38B132E6B9FA",
+   "sender": "Stdb",
+   "text": "שרון שבת בבוקר אני  סיימתי 54 אחוז  קלוד להשבוע",
+   "ts": 1791620260000,
+   "date": "2026-10-10",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACEF10AA413222415A887BD703EF3881",
+   "sender": "Stdb",
+   "text": "עוד לא סיימתי קפה",
+   "ts": 1791620268000,
+   "date": "2026-10-10",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC793EEA0BFE670669FD41DDE980F1AB",
+   "sender": "Stdb",
+   "text": "נשלח לגוסט בלוח, עם קישור וסיכום ממה שקראתי בפועל: מדריך לעריכת וידאו אוטומטית דרך ChatGPT ו-Chatcut. תמלול, חיתוך שתיקות ומילות מילוי, גרפיקה, צבע, וכלל עלות: מאשרים הכל על 5 השניות הראשונות ורק אז על כל הסרטון. בסוף 6 פרומפטים בעברית.\n\nלא כתבת לאיזה סוכן הוידאו מתכוון, אז ביקשתי מגוסט לזהות מהקבצים ואם לא ברור לשאול, לא לנחש. אם אתה יודע, תגיד.",
+   "ts": 1791620409000,
+   "date": "2026-10-10",
+   "time": "11:20",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC0BA004FE6B6722C0FBA35A0033C4E9",
+   "sender": "Stdb",
+   "text": "הקמתי בלילה מחנה סוכנים שעובדים על כל השיט שלי",
+   "ts": 1791620565000,
+   "date": "2026-10-10",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB06ED254BECF20B4BE1E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "זהו להיום תרומתי האחרונה,\nמאגר פרומפטים חלופיים לאלו שהוצגו במדריך הראשוני, למי שרוצה סגנונות עיצוב אאחרים, הנפשות אחרות",
+   "ts": 1791620570000,
+   "date": "2026-10-10",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "chatcut-prompts-bank-30.docx",
+     "size": "24KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/14JG4PKPsP1EB3FSXqfIgc-E8tNzl3bmY/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3AD570CE39BD3E943429",
+   "sender": "קרין רוזנר",
+   "text": "אצלי לא מופיע ריסט ( מנוי 20$)",
+   "ts": 1791620746000,
+   "date": "2026-10-10",
+   "time": "11:25",
+   "files": [],
+   "drive": null,
+   "phone": "972549106556"
+  },
+  {
+   "id": "3A5E24AD4601E15B5673",
+   "sender": "קרין רוזנר",
+   "text": "",
+   "ts": 1791620777000,
+   "date": "2026-10-10",
+   "time": "11:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "54KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fpcPMCf-xtW0TyWT2aNlck5lHLWHMave/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fpcPMCf-xtW0TyWT2aNlck5lHLWHMave&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549106556"
+  },
+  {
+   "id": "AC56F5F793ADB10CC8799EDC8178F127",
+   "sender": "Stdb",
+   "text": "ממתי המנוי שלך?",
+   "ts": 1791620863000,
+   "date": "2026-10-10",
+   "time": "11:27",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3AEADD3D2123BA4C7468",
+   "sender": "קרין רוזנר",
+   "text": "מזמן… מעל שנה… לא רואה איפה בודקים את התאריך",
+   "ts": 1791621009000,
+   "date": "2026-10-10",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972549106556"
+  },
+  {
+   "id": "AC437F70837D164813903FC6EB7C673A",
+   "sender": "Stdb",
+   "text": "מוזר",
+   "ts": 1791622286000,
+   "date": "2026-10-10",
+   "time": "11:51",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACF0522EDE4450783C7EFCBBC17931AB",
+   "sender": "Stdb",
+   "text": "את בקודקס או בדפדפן",
+   "ts": 1791622308000,
+   "date": "2026-10-10",
+   "time": "11:51",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3A60349252A3846BFB44",
+   "sender": "קרין רוזנר",
+   "text": "בטלפון…",
+   "ts": 1791622317000,
+   "date": "2026-10-10",
+   "time": "11:51",
+   "files": [],
+   "drive": null,
+   "phone": "972549106556"
+  },
+  {
+   "id": "3A93911DB34711DEDD02",
+   "sender": "קרין רוזנר",
+   "text": "כרגע…",
+   "ts": 1791622322000,
+   "date": "2026-10-10",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972549106556"
+  },
+  {
+   "id": "AC8468D2BD50CCD478C2411958C7FFC6",
+   "sender": "Stdb",
+   "text": "לא בדקתי מעולם בטלפוח",
+   "ts": 1791622366000,
+   "date": "2026-10-10",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC0EDC73B1A61A13C36C2DA162A702C8",
+   "sender": "נועם",
+   "text": "https://lim972-mail-bridge.surge.sh/\n\nדברו עם האינסטינקט שלי בצאט אינטרנט.\nעובד לאט כי כל ההודעות עוברות דרך אימייל.",
+   "ts": 1791622638000,
+   "date": "2026-10-10",
+   "time": "11:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC2ED277A891A79306F03671554DF50A",
+   "sender": "נועם",
+   "text": "כן",
+   "ts": 1791622639000,
+   "date": "2026-10-10",
+   "time": "11:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }
