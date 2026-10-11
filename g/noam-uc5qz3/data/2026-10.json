@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-10T21:03:54.409Z",
+ "updated": "2026-10-11T08:05:39.439Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -1381,6 +1381,120 @@
    "files": [],
    "drive": null,
    "phone": "972522376845"
+  },
+  {
+   "id": "3EB0098D990953E84CADEA",
+   "sender": "אורלי אוחנה",
+   "text": "כל המחנכות שקיבלו ויתור סודיות לתלמידים שלהם להגיש לי בדחיפות היום.\nכמו כן את הדוחות על התלמידים.",
+   "ts": 1791698758000,
+   "date": "2026-10-11",
+   "time": "09:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "4A3C78B462D0E325BAB2",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791701360000,
+   "date": "2026-10-11",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "79KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sLJKmZr1fO_3MEcN1JcpQ3MfUtdhrhV9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sLJKmZr1fO_3MEcN1JcpQ3MfUtdhrhV9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC5215433CF33C79C4A3C91960DFE517",
+   "sender": "מלכה טרבלסי",
+   "text": "כל המורות המלמדות בכיתה א\nמבדק יסודות\n(כמו שנה שעברה....)\n\nיש הדרכה",
+   "ts": 1791702657000,
+   "date": "2026-10-11",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC1171E66E9D82F481AF6A3DD24E9624",
+   "sender": "מלכה טרבלסי",
+   "text": "תזכורת",
+   "ts": 1791702658000,
+   "date": "2026-10-11",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC3D21F79365D76F9450540F18F51485",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1791702664000,
+   "date": "2026-10-11",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "הדרכה על כלי תנופה פנימיים _ מתמטיקה א.pdf",
+     "size": "861KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ZGI6guhN2Svp5irVgvQebQPN4SVLwM2l/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC978EFBA171895E3C0E1EE1D9A8CC23",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1791702965000,
+   "date": "2026-10-11",
+   "time": "10:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DrOrOl03kHTBLFvHvwZXLB4pBZmeCy8p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DrOrOl03kHTBLFvHvwZXLB4pBZmeCy8p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC70E22B4DA97C1E4436EEE82D145A76",
+   "sender": "מלכה טרבלסי",
+   "text": "תזכורת",
+   "ts": 1791703130000,
+   "date": "2026-10-11",
+   "time": "10:18",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB02B6BD579453757B3C6",
+   "sender": "אורלי אוחנה",
+   "text": "מחנכות יקרות,\nאבקש ליידע אותי מי לא ביצע את מיפוי שפה היום.",
+   "ts": 1791705932000,
+   "date": "2026-10-11",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }

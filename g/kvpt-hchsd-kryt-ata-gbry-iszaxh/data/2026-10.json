@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-10T17:01:30.172Z",
+ "updated": "2026-10-11T09:37:42.229Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -815,6 +815,57 @@
    ],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "A57AF3B0E20F11EB2A6E3AE30A4800B3",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - סט מחרוזת שירים לכבוד מרן הרב עובדיה יוסף זצוק\"ל - DJ Tal Refael - Rav Ovadia Yosef*\n\nhttps://youtu.be/iKQVy7uSanc",
+   "ts": 1791710993000,
+   "date": "2026-10-11",
+   "time": "12:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1LAZptKjt7lPv2lnpe-NKT_0ErwHW54ta/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LAZptKjt7lPv2lnpe-NKT_0ErwHW54ta&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A586C00CE3DE2356F43E717530D11AF5",
+   "sender": "דיג'יי טל רפאל",
+   "text": "חברים יקרים השבוע הילולה של מרן הרב עובדיה יוסף זצוק\"ל. הוצאתי סט שירים חדש לכבודו. מי שרוצה את הסט בלי טיזרים שיפרגן ביוטיוב לייק ותגובה ואשלח לכם בשמחה קובץ mp3",
+   "ts": 1791711365000,
+   "date": "2026-10-11",
+   "time": "12:36",
+   "files": [],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "AC4B1F3A2363FC5771F2F955031C8042",
+   "sender": "שמחה בשמחה",
+   "text": "יש פחיות בקבוקים אם אתה רוצה 🤣",
+   "ts": 1791711444000,
+   "date": "2026-10-11",
+   "time": "12:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OpxFHV8ZXIroZGFKQ9uR0f-7njNSZVsk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OpxFHV8ZXIroZGFKQ9uR0f-7njNSZVsk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509110094"
   }
  ]
 }

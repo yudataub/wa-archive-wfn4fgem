@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-11T05:15:34.891Z",
+ "updated": "2026-10-11T08:11:56.890Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -243,6 +243,58 @@
    "files": [],
    "drive": null,
    "phone": "972545580540"
+  },
+  {
+   "id": "3A880ED2E19C39411CCD",
+   "sender": "שרית פולק",
+   "text": "קובץ לבוגרים",
+   "ts": 1791700854000,
+   "date": "2026-10-11",
+   "time": "09:40",
+   "files": [
+    {
+     "name": "חנן פורת זצ״ל בוגרים .pdf",
+     "size": "8.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1JkSTFSSMgmF5uUcTmzAyoMFtUrwJRAqh/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "ACC86B73471564C2B7FB8472C6DD13CA",
+   "sender": "שפרה",
+   "text": "אשמח לסיפורים על הרב חנן פורת המתאים לגן חובה \nתודה רבה",
+   "ts": 1791701420000,
+   "date": "2026-10-11",
+   "time": "09:50",
+   "files": [],
+   "drive": null,
+   "phone": "972528451370"
+  },
+  {
+   "id": "AC30708232A5D13E07F77D24B9FFBDE7",
+   "sender": ".",
+   "text": "אני מוכרת ערכה שלמה על דמות החמד השנתית , מיועדת לגני הילדים ( אני גננת ). מוזמנת לפרטי לקבלת פרטים נוספים)",
+   "ts": 1791703512000,
+   "date": "2026-10-11",
+   "time": "10:25",
+   "files": [],
+   "drive": null,
+   "phone": "972547128262"
+  },
+  {
+   "id": "ACFAD963E76A75AB59CCD7DAE1AD94C7",
+   "sender": "נילי",
+   "text": "ממליצה ❤️",
+   "ts": 1791706299000,
+   "date": "2026-10-11",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972547689462"
   }
  ]
 }

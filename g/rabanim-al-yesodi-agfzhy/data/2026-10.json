@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-11T04:53:13.593Z",
+ "updated": "2026-10-11T08:22:57.125Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -504,6 +504,48 @@
    ],
    "drive": null,
    "phone": "972526004052"
+  },
+  {
+   "id": "A5A045CFDB71F97F8CDA68F5C2167BEF",
+   "sender": "הראל מקייס",
+   "text": "*רב בית ספר*❓\n*הרב יעקב אריאל במסר ישיר אליך!*💥\n\nhttps://youtube.com/shorts/5nAQax4FraI?feature=share\n\n***********\nלהרשמה לבית המדרש לרבני החמ\"ד היכנס עכשיו >>>\nhttps://www.yedidhemed.co.il/beit_midrash/\n\nשבוע מבורך!",
+   "ts": 1791700828000,
+   "date": "2026-10-11",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "3A8A471387A7DF5C3BB2",
+   "sender": "עותניאל מנצור",
+   "text": "https://edu-il.zoom.us/j/8961231468",
+   "ts": 1791706912000,
+   "date": "2026-10-11",
+   "time": "11:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G98su10pPqu-KeFu9MLHawb9w4Sz8GTN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G98su10pPqu-KeFu9MLHawb9w4Sz8GTN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "3A173BB2C0C90C34EB62",
+   "sender": "עותניאל מנצור",
+   "text": "תשלחו בבקשה גם למנהלים שלכם! \nזה חשוב מאוד",
+   "ts": 1791706963000,
+   "date": "2026-10-11",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972524700429"
   }
  ]
 }

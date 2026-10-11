@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-10T18:43:24.461Z",
+ "updated": "2026-10-11T09:31:04.796Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -779,6 +779,37 @@
    "time": "21:43",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC32F94287DBF022F2A86AAC119DF794",
+   "sender": "קרן דיעי",
+   "text": "למי יש דפי לימוד על הרב עובדיה שמתאימים לכיתות ה-ו ומעלה",
+   "ts": 1791710458000,
+   "date": "2026-10-11",
+   "time": "12:20",
+   "files": [],
+   "drive": null,
+   "phone": "972587710661"
+  },
+  {
+   "id": "A5E3C8859E2178BE9A54C0829E856CBF",
+   "sender": "יוחאי",
+   "text": "לקראת יט חשון יום הרב הקוק\nפעילות מיוחדת על דמותו ומשנתו של הראיה קוק זצוקל\nאצלכם בבית ספר\nזמינים בגפן בקבוע\nכמו כן קיימים עוד תכנים בנושאים שונים\nלתקופות השנה \nhttps://vr.imagep.net\nקישור לאתר עם חומרים על התכנים",
+   "ts": 1791711039000,
+   "date": "2026-10-11",
+   "time": "12:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t-EO2E7XNGUxp3OpU3oKMRZr0SIZ9Ec8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t-EO2E7XNGUxp3OpU3oKMRZr0SIZ9Ec8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534929856"
   }
  ]
 }

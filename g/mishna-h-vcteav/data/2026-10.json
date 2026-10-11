@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-10T19:37:14.983Z",
+ "updated": "2026-10-11T08:26:27.132Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -801,6 +801,25 @@
    "files": [],
    "drive": null,
    "phone": "972524617307"
+  },
+  {
+   "id": "AC81DBBD53ECE49959AC7A97FB818E3E",
+   "sender": "תמר רון",
+   "text": "",
+   "ts": 1791707169000,
+   "date": "2026-10-11",
+   "time": "11:26",
+   "files": [
+    {
+     "name": "מסכת_ראש_השנה.pdf",
+     "size": "12.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ZlaT0xlcxv7cTy0ZuXWmVXKFW18x_LsW/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524664998"
   }
  ]
 }

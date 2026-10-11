@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-08T05:16:13.779Z",
+ "updated": "2026-10-11T06:58:55.688Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2287,6 +2287,97 @@
    "files": [],
    "drive": null,
    "phone": "972526393152"
+  },
+  {
+   "id": "A5CEE68FF6232CD84F79A66FA40B0373",
+   "sender": "לבחור בטוב",
+   "text": "היי איך עוברים לקבוצה של כיתה ב?",
+   "ts": 1791700649000,
+   "date": "2026-10-11",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "phone": "972536287883"
+  },
+  {
+   "id": "A5AE31DDC5F1360FE9BBD8CEEA4627C9",
+   "sender": "לבחור בטוב",
+   "text": "אני מחפשת דפי עבודה וצביעה לפרשת וירא שמתאימים לחינוך מיוחד.\nיש למישהי?",
+   "ts": 1791700657000,
+   "date": "2026-10-11",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "phone": "972536287883"
+  },
+  {
+   "id": "A5F81E57C97A4949C6CD9C84A79B1D76",
+   "sender": "Michal Biton",
+   "text": "יש לי דפים אבל לא בטוח שמתאים לחינוך מיוחד",
+   "ts": 1791700856000,
+   "date": "2026-10-11",
+   "time": "09:40",
+   "files": [
+    {
+     "name": "וירא דפי עבודה מיכל ביטון.pdf",
+     "size": "4.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19tOvKckDRAVVA83AK2IYhGxfPsJ535sM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A521E6582D0F04513E6FFC2F3F37C1C4",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791700877000,
+   "date": "2026-10-11",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "פרשת וירא יצירה.pdf",
+     "size": "327KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ExSlAmyleg9WZWQlxOgkekcmSZDQ_bWl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "ACAAE8A001F4A2C553D42D4D39F9E937",
+   "sender": "הדסה אלתר",
+   "text": "היא מאושרת. היא הספיקה בדיוק את הקיוסק💓",
+   "ts": 1791701645000,
+   "date": "2026-10-11",
+   "time": "09:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rmLEC0F4IR3hCuu59Jg67sYSyjONlV5c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rmLEC0F4IR3hCuu59Jg67sYSyjONlV5c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508309715"
+  },
+  {
+   "id": "A5FAECA8F2B7FC788FA75E2E0F3E6C15",
+   "sender": "לבחור בטוב",
+   "text": "תודה רבה",
+   "ts": 1791701910000,
+   "date": "2026-10-11",
+   "time": "09:58",
+   "files": [],
+   "drive": null,
+   "phone": "972536287883"
   }
  ]
 }

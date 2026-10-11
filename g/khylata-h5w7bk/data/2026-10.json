@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-11T05:33:05.150Z",
+ "updated": "2026-10-11T09:13:34.492Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -2952,6 +2952,88 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "A5DDAA995B19B8DE39548831F9984556",
+   "sender": "בתאל אבני חברת רואי חשבון",
+   "text": "בוקר טוב\nמישהו יודע זמני תפילת ערבית בבית כנסת מקאווה או פיאסצנה?",
+   "ts": 1791698685000,
+   "date": "2026-10-11",
+   "time": "09:04",
+   "files": [],
+   "drive": null,
+   "phone": "972545370082"
+  },
+  {
+   "id": "AC298103B8180DAB8FDF9EBD7893B64E",
+   "sender": "סמדר",
+   "text": "*הלכה יומית - מתחילים הלכות בישולי גויים*!\n- מה ההבדלים בין ספרדים לאשכנזים?\n- האם גם במפעלים אסור שפועל גוי יבשל?\n- מותר לספרדי לאכול במסעדה בכשרות רגילה?\n- מה הסיפור של הטחינה?\n\nבדיוק בשבילכם: לימוד יומי משותף מספר כושרות! \nבכל יום: \n2⃣ הלכות קצרות\n🎥 סרטון להאזנה וצפייה. \n\n*נושא חדש - הזדמנות להצטרף*!\n*הלכות בישולי גויים - התחלנו היום*!\n\nהצטרפו והפיצו:",
+   "ts": 1791702748000,
+   "date": "2026-10-11",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/126BzBE3R8nkvI2ru9R5LIdHMO3qjkWw7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=126BzBE3R8nkvI2ru9R5LIdHMO3qjkWw7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524323134"
+  },
+  {
+   "id": "AC50B48214AB2885B742E7BDA352BCE4",
+   "sender": "דליה",
+   "text": "",
+   "ts": 1791704930000,
+   "date": "2026-10-11",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K9gMe-O8_1pWckCwRViqzSFgFLe_cHwb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K9gMe-O8_1pWckCwRViqzSFgFLe_cHwb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523121564"
+  },
+  {
+   "id": "AC44A414EA5B978B9AD5D13A24EE4E90",
+   "sender": "שרון😄",
+   "text": "מתחילות מחר!! \nצ'יקונג נשי בק. מוצקין, מידי יום ב', 19:30",
+   "ts": 1791709499000,
+   "date": "2026-10-11",
+   "time": "12:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Q2-yQFBFrzPfregwm4IonITVf-a_bGyY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q2-yQFBFrzPfregwm4IonITVf-a_bGyY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC37FB58C3F454EA50E63C6F2D4DA533",
+   "sender": "Ofira",
+   "text": "למכירה ללא תיווך!\n350 מ׳ בית קרקע בקרית ים ג׳ 130 מ׳ בנוי 4 חדרים+ מרפסת,, מטבח חדש, גינה קדמית ואחורית . דקות הליכה לים. \nאפשרות הרחבה גם למשקיעים. \n1,250,000 בלבד",
+   "ts": 1791710015000,
+   "date": "2026-10-11",
+   "time": "12:13",
+   "files": [],
+   "drive": null,
+   "phone": "972549472909"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-10T18:51:28.864Z",
+ "updated": "2026-10-11T08:29:39.900Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -1209,6 +1209,46 @@
    "files": [],
    "drive": null,
    "phone": "972549726288"
+  },
+  {
+   "id": "A52B6F1A0B92E8878AD7BDEDE41F388F",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791707356000,
+   "date": "2026-10-11",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "11KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1ZoUspcL9mLIOjuaXOw7Uf1Yp8eEnDWrw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZoUspcL9mLIOjuaXOw7Uf1Yp8eEnDWrw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5283CE39C2AD7FAE5D127E873BC51AF",
+   "sender": "mary garby",
+   "text": "שמש אסוציאציות מפעילה ידע קודם ומכינה לתלמידים נקודות אחיזה בטקסט החדש. לפני הקריאה כתבו במרכז הלוח מושג מפתח אחד, תנו דקה לחשיבה אישית, ואז אספו אסוציאציות בלי לתקן ובלי למיין תוך כדי. בסיום סמנו יחד אילו רעיונות עשויים לעזור בקריאה, אילו דורשים בדיקה ואילו שאלות התעוררו. חזרו לשמש אחרי הקריאה: הוסיפו ידע חדש, תקנו הנחות וסמנו קשרים שהתבהרו.\n\nקישור: https://pop.education.gov.il/teaching-tools/teaching-practices/search-teaching-practices/retrieval-and-connection-to-prior-knowledge/\nהקישור מוביל לעמוד משרד החינוך בנושא שליפה וחיבור לידע קודם.",
+   "ts": 1791707360000,
+   "date": "2026-10-11",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1thmBE4qFJGxPvz_DcKvlf5zo09k7FNfo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1thmBE4qFJGxPvz_DcKvlf5zo09k7FNfo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

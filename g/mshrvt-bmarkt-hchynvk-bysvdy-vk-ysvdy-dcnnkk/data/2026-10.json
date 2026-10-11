@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-10T20:18:50.486Z",
+ "updated": "2026-10-11T09:09:34.429Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -1237,6 +1237,66 @@
    "files": [],
    "drive": null,
    "phone": "972587684150"
+  },
+  {
+   "id": "3AFF771AB2D6C3D5DA44",
+   "sender": "🤗",
+   "text": "",
+   "ts": 1791701690000,
+   "date": "2026-10-11",
+   "time": "09:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "676KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KgIQ08F5LXhwuv_EsShwwgc6o7WJNCcf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KgIQ08F5LXhwuv_EsShwwgc6o7WJNCcf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542348592"
+  },
+  {
+   "id": "A5A677EC934A1383CC0816DE64A797C2",
+   "sender": "מנהל מוסדות על יסודי נדבורנה",
+   "text": "",
+   "ts": 1791703725000,
+   "date": "2026-10-11",
+   "time": "10:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kq6DSOXDm7J8pKZRuWMDOvEY0KXLeop3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kq6DSOXDm7J8pKZRuWMDOvEY0KXLeop3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587803314"
+  },
+  {
+   "id": "3EB09C981C0B8AD4B69C90",
+   "sender": "אדווה שי",
+   "text": "",
+   "ts": 1791709746000,
+   "date": "2026-10-11",
+   "time": "12:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BjagPB9k2efzzegSCK66Tae-Qc5Y8Wnh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BjagPB9k2efzzegSCK66Tae-Qc5Y8Wnh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525722061"
   }
  ]
 }

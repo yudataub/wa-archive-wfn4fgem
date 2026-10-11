@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-11T04:52:13.565Z",
+ "updated": "2026-10-11T07:05:13.855Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1348,6 +1348,46 @@
    "files": [],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "AC094747976776DDD3B830733081CFA9",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791697337000,
+   "date": "2026-10-11",
+   "time": "08:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YQE729FPSZmUpHc7C5qKzr2lPAtLIIws/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YQE729FPSZmUpHc7C5qKzr2lPAtLIIws&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC2186C7355DD65A6C1BE4EAB12CC04A",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "",
+   "ts": 1791702262000,
+   "date": "2026-10-11",
+   "time": "10:04",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "404KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1KPGuCDcxEWI-AoV-bimM9MpUJuU62-IO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KPGuCDcxEWI-AoV-bimM9MpUJuU62-IO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
   }
  ]
 }

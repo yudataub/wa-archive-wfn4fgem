@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-10T19:55:20.182Z",
+ "updated": "2026-10-11T07:54:14.654Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1686,6 +1686,26 @@
    ],
    "drive": null,
    "phone": "972529255280"
+  },
+  {
+   "id": "AC93BF039983DD94AC8D94406A628816",
+   "sender": "יעקב אטיאס",
+   "text": "חנוכיה גובה 1.75 מטר מי שמעוניין יצור איתי קשר,",
+   "ts": 1791705247000,
+   "date": "2026-10-11",
+   "time": "10:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1YifF8KnIE7mzCWlB3jTQkjcbaMn2AQcM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YifF8KnIE7mzCWlB3jTQkjcbaMn2AQcM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547091432"
   }
  ]
 }

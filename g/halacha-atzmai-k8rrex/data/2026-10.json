@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-08T12:34:17.505Z",
+ "updated": "2026-10-11T08:35:57.251Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1559,6 +1559,81 @@
    ],
    "drive": null,
    "phone": "972523003393"
+  },
+  {
+   "id": "AC331AB24BF1B532012A65D7FD22665B",
+   "sender": "לירון",
+   "text": "אחרי הלמידה מהמקורות הילדים קיבלו כתב סתרים שקשור לנושא התפילה",
+   "ts": 1791705856000,
+   "date": "2026-10-11",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D4V_5C3gG3zQsNFhv1R4Gi2hKWbFi66f/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D4V_5C3gG3zQsNFhv1R4Gi2hKWbFi66f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547987985"
+  },
+  {
+   "id": "3EB050FAADB3A632F2BF11",
+   "sender": "לימור",
+   "text": "שאלה,  איטפה נמצא הסרטון של ששת ההישגים? לא מוצאת",
+   "ts": 1791706950000,
+   "date": "2026-10-11",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "ACADA9B23A9ADE82A6D7EC0488BB465A",
+   "sender": "אלקנה שטראוס",
+   "text": "הסרטון נמצא ב\"טרום מפגש ראשון\" באתר שלנו בקלאסאי",
+   "ts": 1791707011000,
+   "date": "2026-10-11",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0006BD2AF2F7B339FEC",
+   "sender": "לימור",
+   "text": "אה תודה!!",
+   "ts": 1791707596000,
+   "date": "2026-10-11",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "AC5B75FE3402546B9007A33AD586202E",
+   "sender": "Liat 🤗",
+   "text": "איך מצטרפים לקלאסרום?",
+   "ts": 1791707658000,
+   "date": "2026-10-11",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972542209330"
+  },
+  {
+   "id": "3EB0E2563CA22EDE9A3C7B",
+   "sender": "אלקנה שטראוס",
+   "text": "https://www.classe.world/go/6u8yex0lh0t7nuza\n\nכנסו עם שם משתמש משרד החינוך",
+   "ts": 1791707741000,
+   "date": "2026-10-11",
+   "time": "11:35",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
   }
  ]
 }
