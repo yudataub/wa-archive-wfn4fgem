@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-10T21:37:29.623Z",
+ "updated": "2026-10-10T21:47:59.809Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -1768,6 +1768,28 @@
    "files": [],
    "drive": null,
    "phone": "972547437300"
+  },
+  {
+   "id": "AC7505330DA928C7B3DDC75D6BF3EED9",
+   "sender": "אורטל פסין",
+   "text": "יש הכל באתר בשיעורים של חזק חזק ונתחזק ..\nכל החומשים כל הפרשיות",
+   "ts": 1791668731000,
+   "date": "2026-10-11",
+   "time": "00:45",
+   "files": [],
+   "drive": null,
+   "phone": "972502775327"
+  },
+  {
+   "id": "ACC116898D3366C9D1911C43D4BAE959",
+   "sender": "אורטל פסין",
+   "text": "https://hemed.education.gov.il/elementary-school",
+   "ts": 1791668857000,
+   "date": "2026-10-11",
+   "time": "00:47",
+   "files": [],
+   "drive": null,
+   "phone": "972502775327"
   }
  ]
 }
