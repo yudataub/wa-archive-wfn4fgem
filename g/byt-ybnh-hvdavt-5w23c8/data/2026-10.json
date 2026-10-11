@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-11T09:01:40.337Z",
+ "updated": "2026-10-11T09:53:41.127Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -552,6 +552,39 @@
    "files": [],
    "drive": null,
    "phone": "972505924155"
+  },
+  {
+   "id": "3A5EFA0653ECF955A25A",
+   "sender": "כרמית",
+   "text": "אני אעשה זאת מרחוק בזום\nכבר אשלח קישור",
+   "ts": 1791711925000,
+   "date": "2026-10-11",
+   "time": "12:45",
+   "files": [],
+   "drive": null,
+   "phone": "972522971571"
+  },
+  {
+   "id": "3EB08E0337DA7544DF5903",
+   "sender": "כרמית",
+   "text": "https://meet.google.com/syx-jwzh-kby",
+   "ts": 1791712214000,
+   "date": "2026-10-11",
+   "time": "12:50",
+   "files": [],
+   "drive": null,
+   "phone": "972522971571"
+  },
+  {
+   "id": "3EB0955E4C78A4F6DFC25D",
+   "sender": "כרמית",
+   "text": "https://us04web.zoom.us/j/5828024662?pwd=CwpYfjnxrg2ciMEMmF71ZNimKa1FY4.1",
+   "ts": 1791712415000,
+   "date": "2026-10-11",
+   "time": "12:53",
+   "files": [],
+   "drive": null,
+   "phone": "972522971571"
   }
  ]
 }

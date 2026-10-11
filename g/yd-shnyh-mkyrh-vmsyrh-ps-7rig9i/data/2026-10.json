@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-11T07:54:14.654Z",
+ "updated": "2026-10-11T13:19:06.794Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1706,6 +1706,46 @@
    ],
    "drive": null,
    "phone": "972547091432"
+  },
+  {
+   "id": "AC3839D5BA3F568B4F7289591BBECCBB",
+   "sender": "רחלי בן סימון",
+   "text": "למכירה,\nשידה מאיקאה, 3 מגירות, חדשה\nמקרית מוצקין \n450 ש\"ח",
+   "ts": 1791724714000,
+   "date": "2026-10-11",
+   "time": "16:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CkUn8Ath1wexdUyq5i3rV26jVEBxpk0I/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CkUn8Ath1wexdUyq5i3rV26jVEBxpk0I&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527974222"
+  },
+  {
+   "id": "AC307B77F0BE6BC08A901414B4D4279A",
+   "sender": "רחלי בן סימון",
+   "text": "למכירה, \nאופניים 14\" , מצב חדש מתאים לגיל 3-4\n300 ש\"ח מקרית מוצקין",
+   "ts": 1791724737000,
+   "date": "2026-10-11",
+   "time": "16:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "190KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MSV6ixqCpZRPqdo2BNBEmEJSYK0L8hkr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MSV6ixqCpZRPqdo2BNBEmEJSYK0L8hkr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527974222"
   }
  ]
 }

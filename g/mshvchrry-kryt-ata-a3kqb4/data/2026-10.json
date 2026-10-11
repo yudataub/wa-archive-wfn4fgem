@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משוחררי קרית אתא",
- "updated": "2026-10-08T06:25:56.094Z",
+ "updated": "2026-10-11T10:10:42.636Z",
  "messages": [
   {
    "id": "AC8F9B623A83B9BA7F2D652E78DCBB7D",
@@ -123,6 +123,26 @@
    "date": "2026-10-08",
    "time": "09:25",
    "files": [],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC292C671976085F2D81589D9D83F86D",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*עירוני לאטי קרית אתא מזמינה אתכם למשחק פתיחת העונה של ליגת ווינר סל בכדורסל*\n\nהיום בשעה 20:15 באולם רמז קרית אתא (רחוב רמז 11, קרית אתא) נארח את הפועל העמק.\n\n*הטבה מיוחדת בקישור - כרטיס כניסה ללא עלות*\n\nhttps://go-out.co/event/1789029466066?sl=zee0ge0agaa19",
+   "ts": 1791713411000,
+   "date": "2026-10-11",
+   "time": "13:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "504KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16WcY5bt9y-nTCeUqFlKVGClJK4fKOUqr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16WcY5bt9y-nTCeUqFlKVGClJK4fKOUqr&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972528114222"
   }

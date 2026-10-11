@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-11T08:37:09.989Z",
+ "updated": "2026-10-11T12:55:06.931Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -2215,6 +2215,37 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "A5F469E2458DB783B1D996C7099D8731",
+   "sender": "ווקי שרון מרגולין",
+   "text": "https://www.instagram.com/p/DeWH0qrDqdJ/?img_index=13&mdxt=MXQ4NnBuY2d5c2F3aQ==",
+   "ts": 1791716273000,
+   "date": "2026-10-11",
+   "time": "13:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3AFE89461569F9ECEAF4",
+   "sender": "AZz",
+   "text": "",
+   "ts": 1791723269000,
+   "date": "2026-10-11",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gmMY55bQJ41hDeVDMKHaE8yVGrWr3W4C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gmMY55bQJ41hDeVDMKHaE8yVGrWr3W4C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548180025"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-11T09:31:04.796Z",
+ "updated": "2026-10-11T11:03:50.932Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -810,6 +810,39 @@
    ],
    "drive": null,
    "phone": "972534929856"
+  },
+  {
+   "id": "AC81C2C8A24B636058CBF98B6D5868A4",
+   "sender": "efraTehila😍😍",
+   "text": "אשמח גם!\nבמיוחד גם סיפורים",
+   "ts": 1791715811000,
+   "date": "2026-10-11",
+   "time": "13:50",
+   "files": [],
+   "drive": null,
+   "phone": "972584470762"
+  },
+  {
+   "id": "AC3D0B5E538A4184018376380E97092B",
+   "sender": "רפאל כהן",
+   "text": "https://drive.google.com/drive/folders/1HQbxPm3zkbpTmxU3sRIMeJyiWNBDeeYe",
+   "ts": 1791716430000,
+   "date": "2026-10-11",
+   "time": "14:00",
+   "files": [],
+   "drive": null,
+   "phone": "972503070424"
+  },
+  {
+   "id": "AC2BB91DAEC6A3225B3801FEA496E0CA",
+   "sender": "efraTehila😍😍",
+   "text": "תודה רבה!🙏🏼",
+   "ts": 1791716617000,
+   "date": "2026-10-11",
+   "time": "14:03",
+   "files": [],
+   "drive": null,
+   "phone": "972584470762"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-10T20:25:50.564Z",
+ "updated": "2026-10-11T12:15:53.479Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -1745,6 +1745,100 @@
    "files": [],
    "drive": null,
    "phone": "972503070424"
+  },
+  {
+   "id": "ACA86264AD8391B68C55EC92EAD49ECF",
+   "sender": "אסתי כהן",
+   "text": "מחפשת דף פרשת שבוע על פרשת נח לכתה ו",
+   "ts": 1791714071000,
+   "date": "2026-10-11",
+   "time": "13:21",
+   "files": [],
+   "drive": null,
+   "phone": "972504180543"
+  },
+  {
+   "id": "3A241B589526F701C35A",
+   "sender": "אתי גרינפלד",
+   "text": "מחפשת דף ושננתם לפרשת נח בבקשה.🙏",
+   "ts": 1791718827000,
+   "date": "2026-10-11",
+   "time": "14:40",
+   "files": [],
+   "drive": null,
+   "phone": "972524667750"
+  },
+  {
+   "id": "AC80DA6C5A9C8B8A5BE4ECCD0E58796D",
+   "sender": "Sigal",
+   "text": "מחפשת כתרים או סמלים לפרשיות השבוע. תודה",
+   "ts": 1791718989000,
+   "date": "2026-10-11",
+   "time": "14:43",
+   "files": [],
+   "drive": null,
+   "phone": "13109852685"
+  },
+  {
+   "id": "ACBD7972D94D501305F299A2CC72C097",
+   "sender": "רחל רביץ",
+   "text": "נח-תשעט.pdf https://share.google/aa0rdddyRfrNVNoPP",
+   "ts": 1791719256000,
+   "date": "2026-10-11",
+   "time": "14:47",
+   "files": [],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "ACAA4C63E2BD877FD74F35E36977DB02",
+   "sender": "אתי ישראל",
+   "text": "השנה אלמד הלכה בכיתה ה בפעם הראשונה.\nהיכן אני יכולה להשיג חומר?\nקבוצה כלשהי.\nקישורים או כל דבר שיוכל לסייע לי",
+   "ts": 1791720789000,
+   "date": "2026-10-11",
+   "time": "15:13",
+   "files": [],
+   "drive": null,
+   "phone": "972525707976"
+  },
+  {
+   "id": "AC2A5F0BB1E15A7189EA310DAF3F94BF",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1791720892000,
+   "date": "2026-10-11",
+   "time": "15:14",
+   "files": [
+    {
+     "name": "קישורים מעודכנים לקבוצו וואצפ.pdf",
+     "size": "168KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14BuhgSvVZia6Vx3Yg-BYGPmbP9CA8SeN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC4DEE74E59CC545180BE1DD09D8A41D",
+   "sender": "אתי ישראל",
+   "text": "",
+   "ts": 1791720944000,
+   "date": "2026-10-11",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "28KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1U7AiTHrQckisxhLDyVlegtqNHxzPJkgV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U7AiTHrQckisxhLDyVlegtqNHxzPJkgV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525707976"
   }
  ]
 }

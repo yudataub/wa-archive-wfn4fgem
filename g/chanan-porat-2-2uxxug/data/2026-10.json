@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-11T08:11:56.890Z",
+ "updated": "2026-10-11T10:48:50.719Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -295,6 +295,93 @@
    "files": [],
    "drive": null,
    "phone": "972547689462"
+  },
+  {
+   "id": "AC4B636C84A39DE0A8F338C0293AFA5B",
+   "sender": "שרי וטורי",
+   "text": "האם יש משהו מתאים בשילוב  ליום פטירת רחל אימנו ודמות החמ'\"ד הרב חנן פורת?",
+   "ts": 1791711577000,
+   "date": "2026-10-11",
+   "time": "12:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546562398"
+  },
+  {
+   "id": "3EB0707725CCC6692679A5",
+   "sender": "shmu54",
+   "text": "הנה חומר לי\"א בחשון - על חנן פורת ורחל אמנו וקברה. בהצלחה חודש טוב.https://youtu.be/zS2XFI1zt9c?si=eJcSyyc8WNFHpXKv",
+   "ts": 1791715715000,
+   "date": "2026-10-11",
+   "time": "13:48",
+   "files": [
+    {
+     "name": "חנן פורת - וקבר רחל.pptx",
+     "size": "35.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/19FNdAGgFVvDBF9n9_w9u3f3GvoXVyMaJ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB064820ACE85970F15BB",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1791715716000,
+   "date": "2026-10-11",
+   "time": "13:48",
+   "files": [
+    {
+     "name": "חנן פורת - וקבר רחל.docx",
+     "size": "148KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1ZVmYe5_i0TkenSmIOqW5rFllHfYurB4X/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB06556B7826B817E790F",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1791715717000,
+   "date": "2026-10-11",
+   "time": "13:48",
+   "files": [
+    {
+     "name": "חנן פורת - על דמותה של רחל אמנו.docx",
+     "size": "3.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1E_XVHMW3AkNESyKFYQEaNd5SrFCtaFFq/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB011E86596768CFD4278",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1791715718000,
+   "date": "2026-10-11",
+   "time": "13:48",
+   "files": [
+    {
+     "name": "רחל אמנו - דפי מקורות.docx",
+     "size": "1.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1udb_oc6c_A55Uivd4GRVFxb4hbdRw9vw/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
   }
  ]
 }

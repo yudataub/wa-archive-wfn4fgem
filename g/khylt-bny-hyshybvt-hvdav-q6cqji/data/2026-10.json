@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-11T08:48:34.085Z",
+ "updated": "2026-10-11T13:22:36.836Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -2295,6 +2295,189 @@
    "files": [],
    "drive": null,
    "phone": "972527133456"
+  },
+  {
+   "id": "AC57BDD9BCB704361BD054C47BF6FD54",
+   "sender": "שלמה יהודה",
+   "text": "מישהו יודע איפה אפשר להשיג בדיוק כזה באיזור?",
+   "ts": 1791712520000,
+   "date": "2026-10-11",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RgWH36W3qi-QONxB0SugkF-LlAT6U_Dq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RgWH36W3qi-QONxB0SugkF-LlAT6U_Dq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559358099"
+  },
+  {
+   "id": "AC9F0558F80504F937C2065062439CCD",
+   "sender": "יהודה קרויזר",
+   "text": "בכל טמבוריה",
+   "ts": 1791712793000,
+   "date": "2026-10-11",
+   "time": "12:59",
+   "files": [],
+   "drive": null,
+   "phone": "972543497912"
+  },
+  {
+   "id": "AC3D5FDD842BDD60C44149EF89629374",
+   "sender": "שלמה יהודה",
+   "text": "איזה טמבוריה ראית?",
+   "ts": 1791712813000,
+   "date": "2026-10-11",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "phone": "972559358099"
+  },
+  {
+   "id": "AC74E06701C9305977E1E5446FA4FABD",
+   "sender": "יהודה קרויזר",
+   "text": "גם הסופרים מוכרים כזה של סנו",
+   "ts": 1791712819000,
+   "date": "2026-10-11",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "phone": "972543497912"
+  },
+  {
+   "id": "AC235A8474C5B75E7CB14CC71EEBFCEE",
+   "sender": "יהודה קרויזר",
+   "text": "ברחוב ביאליק",
+   "ts": 1791712833000,
+   "date": "2026-10-11",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "phone": "972543497912"
+  },
+  {
+   "id": "AC80E53096447007D027E41386C086CE",
+   "sender": "שלמה יהודה",
+   "text": "זה לא כזה בדיוק... \nאם ראית שמוכרים כזה בדיוק אשמח...",
+   "ts": 1791712862000,
+   "date": "2026-10-11",
+   "time": "13:01",
+   "files": [],
+   "drive": null,
+   "phone": "972559358099"
+  },
+  {
+   "id": "AC5652AA50F156DC098BF3E2F281CD7F",
+   "sender": "ישראל אהרוני",
+   "text": "מה זה הרעש הזה?\nגם אתם שמעתם?",
+   "ts": 1791723345000,
+   "date": "2026-10-11",
+   "time": "15:55",
+   "files": [],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "3A6647A04D44A0427F7F",
+   "sender": "d",
+   "text": "✈️",
+   "ts": 1791723364000,
+   "date": "2026-10-11",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972559430188"
+  },
+  {
+   "id": "AC8FF648A8FC9BA254A1FD6FC7BF5320",
+   "sender": "יצחק ומירי הסקין",
+   "text": "שמעתי. היה נשמע מטוס.",
+   "ts": 1791723372000,
+   "date": "2026-10-11",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "AC424DB09E3BA93BC1ED7D5F27A21406",
+   "sender": "ישראל אהרוני",
+   "text": "נשמע נמוך",
+   "ts": 1791723385000,
+   "date": "2026-10-11",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "A54E01D4B0809E87BF825A8CCC13F232",
+   "sender": "א.א ירק  בכפר",
+   "text": "עמוס פצצות",
+   "ts": 1791723440000,
+   "date": "2026-10-11",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "phone": "972549420410"
+  },
+  {
+   "id": "ACC8F0729E6A3E3F59F86D68C6D77A74",
+   "sender": "ישראל ישורון",
+   "text": "היה ממש נמוך",
+   "ts": 1791723580000,
+   "date": "2026-10-11",
+   "time": "15:59",
+   "files": [],
+   "drive": null,
+   "phone": "972559908983"
+  },
+  {
+   "id": "AC695B5EABAF02B934DE8319DEF1C774",
+   "sender": "שלומי",
+   "text": "יום ראשון אחרי הצונט זה מובן לגמרי",
+   "ts": 1791723745000,
+   "date": "2026-10-11",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "phone": "972548109800"
+  },
+  {
+   "id": "A5D2DD9C252DFB58F3BDAFF53DAB5E58",
+   "sender": "נתי",
+   "text": "2 מטוסים טסו ממש נמוך",
+   "ts": 1791724687000,
+   "date": "2026-10-11",
+   "time": "16:18",
+   "files": [],
+   "drive": null,
+   "phone": "972533559987"
+  },
+  {
+   "id": "AC8FAA0C8B9F2967692A873B647F27D3",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1791724951000,
+   "date": "2026-10-11",
+   "time": "16:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iymFjAeAp-9gNKM0xkIrhdg59c5It6kg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iymFjAeAp-9gNKM0xkIrhdg59c5It6kg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
   }
  ]
 }

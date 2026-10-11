@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-08T07:21:33.898Z",
+ "updated": "2026-10-11T13:36:37.067Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -177,6 +177,114 @@
    "files": [],
    "drive": null,
    "phone": "972545765743"
+  },
+  {
+   "id": "AC0143BAA491D76FCE678010E174D4AE",
+   "sender": "Léa🌻💚",
+   "text": "אפשר לקבל בבקשה תוכנית לימודים במשנה לכיתות א-ד. תודה",
+   "ts": 1791724900000,
+   "date": "2026-10-11",
+   "time": "16:21",
+   "files": [],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "3EB0EB938A3C3CCC122EAC",
+   "sender": "דוד ספיאשוילי",
+   "text": "בקבוצת המפמ\"ר ניתן להעלות שאלות ולקבל עדכונים, קבצים מצגות ועזרים להוראת משנה לכיתות ג' בחמ\"ד.\n\nמוזמנים להיעזר בקישורים הבאים:\n*תכניות לימודים:* https://pop.education.gov.il/tchumey_daat/toshba/elementary/pedagogy/curriculum/\n*קבוצות וואצפ:*\nhttps://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1791724968000,
+   "date": "2026-10-11",
+   "time": "16:22",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "3EB01D96322F14BD482E61",
+   "sender": "דוד ספיאשוילי",
+   "text": "ההודעה הזאת בראש הקבוצה . הכל שם",
+   "ts": 1791724969000,
+   "date": "2026-10-11",
+   "time": "16:22",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "AC7E03FA3CF5409B1060100065912ACA",
+   "sender": "Léa🌻💚",
+   "text": "יש פריסה שנתית רק לכיתות ג-ד ובה כתוב משנה א ... בלי כלום.\nאודה אם מישהו/מישהי תוכל לעלות כאן תוכניות לכיתות א-ד",
+   "ts": 1791725261000,
+   "date": "2026-10-11",
+   "time": "16:27",
+   "files": [],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "3EB01AAC04D4C062785216",
+   "sender": "דוד ספיאשוילי",
+   "text": "https://pop.education.gov.il/tchumey_daat/toshba/elementary/pedagogy/Curriculum-mishna-grades1-2",
+   "ts": 1791725317000,
+   "date": "2026-10-11",
+   "time": "16:28",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "ACB848B3E072601005AB98DE2D969F4C",
+   "sender": "Léa🌻💚",
+   "text": "זה מה שיש. זאת לא תוכנית",
+   "ts": 1791725411000,
+   "date": "2026-10-11",
+   "time": "16:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dak-bEfTQB3GWrnDhCyEDiriIC11PtbS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dak-bEfTQB3GWrnDhCyEDiriIC11PtbS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "3EB0C534164AA0E1D4B4C7",
+   "sender": "דוד ספיאשוילי",
+   "text": "מודה שלא בדקתי. ניסיתי לעזור. \n\nבדקי אולי עם מורים בקבוצת הווצאפ הרלוונטית",
+   "ts": 1791725623000,
+   "date": "2026-10-11",
+   "time": "16:33",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "3EB05B9389FE0BA577755E",
+   "sender": "דוד ספיאשוילי",
+   "text": "",
+   "ts": 1791725661000,
+   "date": "2026-10-11",
+   "time": "16:34",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "AC352A2DD77642075138AF34AD56F0F7",
+   "sender": "אתי",
+   "text": "מקסים, ישר כח!! זה עוזר מאוד.תודה רבה",
+   "ts": 1791725795000,
+   "date": "2026-10-11",
+   "time": "16:36",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }

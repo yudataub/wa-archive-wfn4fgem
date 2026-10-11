@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מכון הדרכה ברורה☆הרב אלחנן כלאף",
- "updated": "2026-10-05T14:54:11.700Z",
+ "updated": "2026-10-11T09:54:42.447Z",
  "messages": [
   {
    "id": "AC8AC0303EFF2BBAF5FDB3053ED88D95",
@@ -11,6 +11,26 @@
    "date": "2026-10-05",
    "time": "17:53",
    "files": [],
+   "drive": null,
+   "phone": "972527818887"
+  },
+  {
+   "id": "ACE21474B85B7E00722435AADAB52936",
+   "sender": "אלעד קהת",
+   "text": "מחר בעזרת ה' חוזרים לשגרה 😃",
+   "ts": 1791712468000,
+   "date": "2026-10-11",
+   "time": "12:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "65KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ndTfASOXFAxIvAhpsZghiQjYNsByLKqq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ndTfASOXFAxIvAhpsZghiQjYNsByLKqq&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972527818887"
   }

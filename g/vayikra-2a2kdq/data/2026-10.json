@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-11T09:31:34.801Z",
+ "updated": "2026-10-11T13:15:36.744Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -3249,6 +3249,124 @@
    "files": [],
    "drive": null,
    "phone": "972542307375"
+  },
+  {
+   "id": "ACC6BC1E2FDBD5FE3AD0CFC47EE9EA30",
+   "sender": "שרית דאודי- יקב תקוע",
+   "text": "אפשר בבקשה לשלוח שוב?",
+   "ts": 1791712423000,
+   "date": "2026-10-11",
+   "time": "12:53",
+   "files": [],
+   "drive": null,
+   "phone": "972542307375"
+  },
+  {
+   "id": "ACBC61880C386948BC784E8867C332A5",
+   "sender": "רונית פונצ'יק",
+   "text": "אשמח להצעה למבחן/הערכה חלופית/משימה כיתתית... על פרשת ויקרא🙏",
+   "ts": 1791716373000,
+   "date": "2026-10-11",
+   "time": "13:59",
+   "files": [],
+   "drive": null,
+   "phone": "972522228672"
+  },
+  {
+   "id": "ACAC8E755B85AEEDC0E45482231E4880",
+   "sender": "עדי",
+   "text": "כרגע אני עושה בוחן על כל קורבן בנפרד.",
+   "ts": 1791720798000,
+   "date": "2026-10-11",
+   "time": "15:13",
+   "files": [],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "ACF1B7AD3F2BA97E5ED5A2205AD1C7F2",
+   "sender": "הילה אלון",
+   "text": "אשמח לקבל את הקבצים",
+   "ts": 1791723725000,
+   "date": "2026-10-11",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "phone": "972535670690"
+  },
+  {
+   "id": "ACC8EF95204A5AB957E3493B90674CFE",
+   "sender": "זאביק 😉",
+   "text": "למי יש ת.ז לכל קרבן?",
+   "ts": 1791723729000,
+   "date": "2026-10-11",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "phone": "972545702150"
+  },
+  {
+   "id": "AC2FAF6504CE2FF5DC261A85211BFCE6",
+   "sender": "זאביק 😉",
+   "text": "זכור לי שהיה דף כזה....לא מוצא אותו",
+   "ts": 1791723737000,
+   "date": "2026-10-11",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "phone": "972545702150"
+  },
+  {
+   "id": "ACB642A53DF1A69A8554F53B5E7CBED0",
+   "sender": "אפרת בורשטיין",
+   "text": "",
+   "ts": 1791723742000,
+   "date": "2026-10-11",
+   "time": "16:02",
+   "files": [
+    {
+     "name": "סיכום הקורבנות בפרשת ויקרא.docx",
+     "size": "11KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/12twTry2G2lCKOuHaFp9Z-y8sOXeS1WIC/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549499106"
+  },
+  {
+   "id": "ACF3C3505B5231E8C52C82FD86AC7F70",
+   "sender": "אפרת בורשטיין",
+   "text": "בעבר הייתי בהשתלמות של נעמה טורם למורי ויקרא והיא הציעה את עבודת הסיכום הזאת לפרשת ויקרא.. אני עושה את זה כבר כמה שנים.. מומלץ!",
+   "ts": 1791723791000,
+   "date": "2026-10-11",
+   "time": "16:03",
+   "files": [],
+   "drive": null,
+   "phone": "972549499106"
+  },
+  {
+   "id": "3A5223AD303FE4DE7146",
+   "sender": "Michal",
+   "text": "אשמח לקישור לקבוצה \nתודה",
+   "ts": 1791724309000,
+   "date": "2026-10-11",
+   "time": "16:11",
+   "files": [],
+   "drive": null,
+   "phone": "972547289713"
+  },
+  {
+   "id": "ACB14E2EE45452F6E7B28046CDF4E74B",
+   "sender": "חנה דרס",
+   "text": "ממש מקסים!!!תודה רבה על השיתוף🙏🏼",
+   "ts": 1791724508000,
+   "date": "2026-10-11",
+   "time": "16:15",
+   "files": [],
+   "drive": null,
+   "phone": "972522917137"
   }
  ]
 }

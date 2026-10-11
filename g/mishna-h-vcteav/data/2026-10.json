@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-11T08:26:27.132Z",
+ "updated": "2026-10-11T10:08:12.596Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -820,6 +820,25 @@
    ],
    "drive": null,
    "phone": "972524664998"
+  },
+  {
+   "id": "ACB4EE389398EC758A14703D0FFE99C3",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1791713282000,
+   "date": "2026-10-11",
+   "time": "13:08",
+   "files": [
+    {
+     "name": "מצגת ראש השנה פרק ראשון (2).pptx",
+     "size": "11.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1brX_NZRNYoNe7yKRDWHJtnukEwBBfXM6/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
   }
  ]
 }

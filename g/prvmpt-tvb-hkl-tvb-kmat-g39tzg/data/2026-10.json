@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-11T08:58:10.285Z",
+ "updated": "2026-10-11T12:55:06.917Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -2728,6 +2728,37 @@
    ],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "A53E6D539C538CDD496EE9C60CF9930E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "https://www.instagram.com/p/DeWH0qrDqdJ/?img_index=13&mdxt=MXQ4NnBuY2d5c2F3aQ==",
+   "ts": 1791716270000,
+   "date": "2026-10-11",
+   "time": "13:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3A25158454DBF03ADA0B",
+   "sender": "AZz",
+   "text": "",
+   "ts": 1791723264000,
+   "date": "2026-10-11",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UMWtK4SaZF8F6c-jwU_RuB2Q1S-wnkTv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UMWtK4SaZF8F6c-jwU_RuB2Q1S-wnkTv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548180025"
   }
  ]
 }

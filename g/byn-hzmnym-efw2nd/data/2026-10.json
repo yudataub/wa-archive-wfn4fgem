@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-11T07:07:43.889Z",
+ "updated": "2026-10-11T13:21:36.816Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -993,6 +993,57 @@
    ],
    "drive": null,
    "phone": "972509865699"
+  },
+  {
+   "id": "3A87BF0692F6F1BBB939",
+   "sender": "אסתר ברדה",
+   "text": "",
+   "ts": 1791724590000,
+   "date": "2026-10-11",
+   "time": "16:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/164rADNrl16DTr0XvG6R3AVl2eDCKMdgy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=164rADNrl16DTr0XvG6R3AVl2eDCKMdgy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
+  },
+  {
+   "id": "3AD618BF041D8EC1E050",
+   "sender": "אסתר ברדה",
+   "text": "",
+   "ts": 1791724645000,
+   "date": "2026-10-11",
+   "time": "16:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GJaNhNIEL5seZ5vmpK41VktaPA4MoiTe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GJaNhNIEL5seZ5vmpK41VktaPA4MoiTe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552801359"
+  },
+  {
+   "id": "3A7DBF8D84A77B245BD5",
+   "sender": "אסתר ברדה",
+   "text": "*נופש זוגי ברמה גבוהה בלב ירושלים מותאם לציבור החרדי*\n2 דקות מממילא ומרחק הליכה קצר לכותל!\n✅ פרטיות מלאה\n✅ ג'קוזי וסאונה בתוך הדירה\n✅ כלים כשרים ואבזור מלא\n✅ אווירה של יוקרה ושלווה\nהמקום מוכן ומאובזר בכל מה שזוג צריך לחופשה רגועה ואיכותית.",
+   "ts": 1791724878000,
+   "date": "2026-10-11",
+   "time": "16:21",
+   "files": [],
+   "drive": null,
+   "phone": "972552801359"
   }
  ]
 }

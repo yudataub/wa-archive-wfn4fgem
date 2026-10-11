@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-11T09:05:04.377Z",
+ "updated": "2026-10-11T13:37:37.085Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2917,7 +2917,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1h7NB2Rsen1BmIYZHSJ7zevjy3QP1MrqS/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1h7NB2Rsen1BmIYZHSJ7zevjy3QP1MrqS&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1h7NB2Rsen1BmIYZHSJ7zevjy3QP1MrqS&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2AF9BB7EC3BADBA5CD56_0.mp4"
     }
    ],
    "drive": null,
@@ -3056,6 +3057,110 @@
    "ts": 1791709492000,
    "date": "2026-10-11",
    "time": "12:04",
+   "files": [],
+   "drive": null,
+   "phone": "972556624979"
+  },
+  {
+   "id": "AC8F505AA5230B9CF99248925F4AB062",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791716937000,
+   "date": "2026-10-11",
+   "time": "14:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "786KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1_WQRZ4LjPS2B-Ykjdj2WZvffrrzM77Vn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_WQRZ4LjPS2B-Ykjdj2WZvffrrzM77Vn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "2A3763C0A64779B3687C",
+   "sender": "אמור בן אבגי",
+   "text": "",
+   "ts": 1791720317000,
+   "date": "2026-10-11",
+   "time": "15:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "374KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rEyXvMFL2QOuQ98ayY9T7_RArR2rVS6o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rEyXvMFL2QOuQ98ayY9T7_RArR2rVS6o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538307001"
+  },
+  {
+   "id": "AC5365746AC37D6A3C6CE1429FCD3E8B",
+   "sender": "אורלי",
+   "text": "",
+   "ts": 1791720683000,
+   "date": "2026-10-11",
+   "time": "15:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KvY6QZ0AK3FLS9bBOMfOZiOMJCu8CybS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KvY6QZ0AK3FLS9bBOMfOZiOMJCu8CybS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547575312"
+  },
+  {
+   "id": "ACD0180453DFA86A4CDACF600823B6F8",
+   "sender": "שמעון ביטון",
+   "text": "מישהו יודע להגיד באיזה ימים ושעות רבי דוד מקבל",
+   "ts": 1791722272000,
+   "date": "2026-10-11",
+   "time": "15:37",
+   "files": [],
+   "drive": null,
+   "phone": "972542570701"
+  },
+  {
+   "id": "3A82161CFC2A6014614D",
+   "sender": "שירן קורש🩷",
+   "text": "📇 ר' דויד\n+97249823959",
+   "ts": 1791722533000,
+   "date": "2026-10-11",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "phone": "972549462226"
+  },
+  {
+   "id": "3A53F7CE1E1666FFA2EB",
+   "sender": "שירן קורש🩷",
+   "text": "‏תחייגי ותקשיבי למענה הקולי קולי\n‏שם אומרים את השעות",
+   "ts": 1791722544000,
+   "date": "2026-10-11",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "phone": "972549462226"
+  },
+  {
+   "id": "A58248F7012261253B2BDC8524FCE81B",
+   "sender": "עדן : שעות מענה- בין 7:00 עד 16:00 לאחר מכן יענו ההודעות ביום שאחריו",
+   "text": "בחיפה לתליית הנמכת גבס\nמשלמת 100 שח ללוח אחד\nתכתבו לי בפרטי",
+   "ts": 1791725837000,
+   "date": "2026-10-11",
+   "time": "16:37",
    "files": [],
    "drive": null,
    "phone": "972556624979"
