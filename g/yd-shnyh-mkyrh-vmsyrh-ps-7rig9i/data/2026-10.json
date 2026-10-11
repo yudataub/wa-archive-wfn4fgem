@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-11T15:18:21.332Z",
+ "updated": "2026-10-11T18:32:49.897Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1766,6 +1766,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "3EB015C58676113B465077",
+   "sender": "Noam",
+   "text": "*כרטיס מסך GEFORCE GTX1050 עם 2 ג'יגה זכרון , עובד מצוין. מריץ משחקים כמו Roblox / Fortnite ועוד. 200 ש\"ח*",
+   "ts": 1791743562000,
+   "date": "2026-10-11",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "326KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16nla9L7poCcQlAK1nR-DotTX09fNZRkC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16nla9L7poCcQlAK1nR-DotTX09fNZRkC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

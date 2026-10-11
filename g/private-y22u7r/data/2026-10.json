@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-11T17:19:41.751Z",
+ "updated": "2026-10-11T20:41:13.458Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -7879,6 +7879,139 @@
    "drive": null,
    "thread": "יעל באלי",
    "phone": "972523259627"
+  },
+  {
+   "id": "ACA9EDEB4C043DD00BE993FA6699D15F",
+   "sender": "הודיה",
+   "text": "הגענו הביתה ברוך השם תודה לאל",
+   "ts": 1791740560000,
+   "date": "2026-10-11",
+   "time": "20:42",
+   "files": [],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "A5A7E3756E79FCF1855284FF570E1F3C",
+   "sender": "אני",
+   "text": "יהודה טאוב מקרית אתא \nהאמת שזה היה הפעם הרבה השקעה",
+   "ts": 1791741377000,
+   "date": "2026-10-11",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A55F6BC22C3634776020986379CE0F41",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791741523000,
+   "date": "2026-10-11",
+   "time": "20:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cH6nUjWlAL8fZN7CocqryJFgJ9t3aPGH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cH6nUjWlAL8fZN7CocqryJFgJ9t3aPGH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC06201931A5B5F9BF5B8D863820EFCD",
+   "sender": "Shira Garber",
+   "text": "תודה רבה,אני מעריכה מאוד",
+   "ts": 1791742120000,
+   "date": "2026-10-11",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "thread": "Shira Garber",
+   "phone": "972526288768"
+  },
+  {
+   "id": "AC0B983AF7BF126E548B88EEF2357887",
+   "sender": "אורן",
+   "text": "",
+   "ts": 1791744206000,
+   "date": "2026-10-11",
+   "time": "21:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "266KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/105cMaYX0OSDzrUCGMzY-MTArvKj1yFnz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=105cMaYX0OSDzrUCGMzY-MTArvKj1yFnz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "אורן",
+   "phone": "972524241506"
+  },
+  {
+   "id": "AC75E5287176AB71C15185EE116D4030",
+   "sender": "אורן",
+   "text": "",
+   "ts": 1791744209000,
+   "date": "2026-10-11",
+   "time": "21:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/10SssGPs2V2Zqfi8-JosYAzkDOlk9pKT5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10SssGPs2V2Zqfi8-JosYAzkDOlk9pKT5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "אורן",
+   "phone": "972524241506"
+  },
+  {
+   "id": "AC0BCCEAB3F86BF8D1B2007A62511516",
+   "sender": "אורן",
+   "text": "חודש טוב ומבורך נשמח לקבל תרומה לגמח תודה",
+   "ts": 1791744240000,
+   "date": "2026-10-11",
+   "time": "21:44",
+   "files": [],
+   "drive": null,
+   "thread": "אורן",
+   "phone": "972524241506"
+  },
+  {
+   "id": "2A1181655E0F7E7575C7",
+   "sender": "תמר -מעצבת פנים Interior Designer",
+   "text": "היי ערב טוב",
+   "ts": 1791751181000,
+   "date": "2026-10-11",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "thread": "תמר -מעצבת פנים Interior Designer",
+   "phone": "972534717664"
+  },
+  {
+   "id": "2AD9FB6D105996BF1C2A",
+   "sender": "תמר -מעצבת פנים Interior Designer",
+   "text": "יש לנו דירה ברחוב בית לחם שאנחנו רוצים להשכיר בשבתות אבל בלי מצעים וכריות .",
+   "ts": 1791751246000,
+   "date": "2026-10-11",
+   "time": "23:40",
+   "files": [],
+   "drive": null,
+   "thread": "תמר -מעצבת פנים Interior Designer",
+   "phone": "972534717664"
   }
  ]
 }

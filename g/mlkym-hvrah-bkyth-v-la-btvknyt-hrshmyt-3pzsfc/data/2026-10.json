@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מלכים - הוראה בכיתה ו (לא בתוכנית הרשמית)",
- "updated": "2026-10-10T20:53:03.606Z",
+ "updated": "2026-10-11T19:30:27.490Z",
  "messages": [
   {
    "id": "3EB03188AC026A3C5B2761",
@@ -332,6 +332,115 @@
    "files": [],
    "drive": null,
    "phone": "972528118508"
+  },
+  {
+   "id": "3EB02D418E2A98376EDDA2",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1791744413000,
+   "date": "2026-10-11",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "ה א-יד.pptx",
+     "size": "12.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/19iV05hW8P4anCkDIx-7Hgf4lEjHXEt2s/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "3EB07FCE7039C6E0D4D2C5",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1791744413000,
+   "date": "2026-10-11",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "ה א-יד.pdf",
+     "size": "11.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1VX0xFXeKqrvDn0utjDocGl-KqyJvvGL5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "3EB06D33BD430528507588",
+   "sender": "תהילה שנדורפי🍂",
+   "text": "תודה!",
+   "ts": 1791744609000,
+   "date": "2026-10-11",
+   "time": "21:50",
+   "files": [],
+   "drive": null,
+   "phone": "972528118508"
+  },
+  {
+   "id": "3EB02A98A27B96AC9C2C3E",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1791746758000,
+   "date": "2026-10-11",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "הברית עם חירם וההכנות לבניין בית המקדש-ה',  טו–לב.pdf",
+     "size": "16.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1upJLA6vDH04RWxgd-SyU-LNenKz97Wnu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "3EB0C9B021FF7CCE21224D",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1791746759000,
+   "date": "2026-10-11",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "הברית עם חירם וההכנות לבניין בית המקדש-ה',  טו–לב.pptx",
+     "size": "19.8MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1g1VDX4MJEfEGc7WDmVBxPPrTJX38ZRy_/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "3EB0F88FCA4116B8E874D5",
+   "sender": "אורן יהודה",
+   "text": "המצגות של פרק ה עלו גם לדרייב",
+   "ts": 1791746904000,
+   "date": "2026-10-11",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC9C1657652CD2C37331385C6BD9BFF1",
+   "sender": "מושקא קדם",
+   "text": "אשאל שוב \nיש חומרים/ אתר/ קבוצה *למלכים ב*? \nאו מורים מפה שמחפשים גם?",
+   "ts": 1791747005000,
+   "date": "2026-10-11",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972525320813"
   }
  ]
 }

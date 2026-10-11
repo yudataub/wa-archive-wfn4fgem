@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ג'",
- "updated": "2026-10-11T17:07:11.575Z",
+ "updated": "2026-10-11T19:41:04.211Z",
  "messages": [
   {
    "id": "ACEB4C097F897A12E7774B46815E09C7",
@@ -352,6 +352,122 @@
    "files": [],
    "drive": null,
    "phone": "972584483354"
+  },
+  {
+   "id": "AC3611E35AD4FD36E5775C587E5146D7",
+   "sender": "אלקנה שטראוס",
+   "text": "בתיאור הקבוצה",
+   "ts": 1791740508000,
+   "date": "2026-10-11",
+   "time": "20:41",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC3F74991151B20830C1D9154FB80477",
+   "sender": "יפה בוכבזה",
+   "text": "מתי אתם מתחילים ללמד תפילת עמידה??\nאשמח מאוד לקבל חומרים בנושא.",
+   "ts": 1791740576000,
+   "date": "2026-10-11",
+   "time": "20:42",
+   "files": [],
+   "drive": null,
+   "phone": "972556834055"
+  },
+  {
+   "id": "3A64DA5A3B9690F2CF70",
+   "sender": "תמר מעטוף",
+   "text": "אשמח לשיעור פתיחה להלכה",
+   "ts": 1791740680000,
+   "date": "2026-10-11",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972525658571"
+  },
+  {
+   "id": "AC1D231F898B239D0FFFF9149EED4154",
+   "sender": "הדסה ושמעון עודני",
+   "text": "למישהו לחוץ ההקלטה???",
+   "ts": 1791741883000,
+   "date": "2026-10-11",
+   "time": "21:04",
+   "files": [],
+   "drive": null,
+   "phone": "972533858608"
+  },
+  {
+   "id": "ACBFD99185CF8F19C571C6AFA3B34A9A",
+   "sender": "לאה מישור",
+   "text": "אשמח לקבל קישור לקבוצת הלכה לכיתה ד. תודה",
+   "ts": 1791743211000,
+   "date": "2026-10-11",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972545680486"
+  },
+  {
+   "id": "A5B07636F8F0B01DF2435CC0955511A6",
+   "sender": "טובה אטינגר",
+   "text": "",
+   "ts": 1791743578000,
+   "date": "2026-10-11",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "16.0MB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1ipkx9PH6LriKeSCvo-kk73__1xSROHB2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537414782"
+  },
+  {
+   "id": "AC7DC37E295ED5DBC85A2DF879353509",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1791746101000,
+   "date": "2026-10-11",
+   "time": "22:15",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "22KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1mTBR2-5mV0mx7wvcoak6NN1NjBcfuCME/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mTBR2-5mV0mx7wvcoak6NN1NjBcfuCME&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC99BB25BB12C4AB2371D1D87D24A7D6",
+   "sender": "לאה מישור",
+   "text": "לא מצאתי קישור לקבוצות הווצאפ... מה שנמצא בתאור הקבוצה מעביר אותי לתוכניות הלימודים",
+   "ts": 1791746562000,
+   "date": "2026-10-11",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972545680486"
+  },
+  {
+   "id": "AC21ADDD4F953539EC0834A0BA9C406C",
+   "sender": "אלקנה שטראוס",
+   "text": "תוקן",
+   "ts": 1791747638000,
+   "date": "2026-10-11",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
   }
  ]
 }

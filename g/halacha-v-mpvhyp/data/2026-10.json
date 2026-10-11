@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-11T16:20:34.117Z",
+ "updated": "2026-10-11T21:23:20.632Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -481,6 +481,107 @@
    "files": [],
    "drive": null,
    "phone": "972506544492"
+  },
+  {
+   "id": "ACD5A2428B71DCD33461F8B4F20237AA",
+   "sender": "ויקטוריה פייקל",
+   "text": "יש למישהו מבחן על חגי תשרי ועל ברכת הגשמים?",
+   "ts": 1791748521000,
+   "date": "2026-10-11",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972509093337"
+  },
+  {
+   "id": "3EB020EE316D74A685B409",
+   "sender": "עופר כהן",
+   "text": "",
+   "ts": 1791748976000,
+   "date": "2026-10-11",
+   "time": "23:02",
+   "files": [
+    {
+     "name": "מבחן הלכות אלול -תשרי.doc",
+     "size": "823KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/12JzQoAU39-r3W3HvHbWZC-OXjU3RTgJP/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545631898"
+  },
+  {
+   "id": "3EB04F1080F8E09937CD28",
+   "sender": "עופר כהן",
+   "text": "",
+   "ts": 1791749130000,
+   "date": "2026-10-11",
+   "time": "23:05",
+   "files": [
+    {
+     "name": "מבחן בהלכה גשמים -חנוכה - בשבת.docx",
+     "size": "22KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/16dxJgvJs5ovHT9s1TUi-RkMKWBzLqth0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545631898"
+  },
+  {
+   "id": "3EB0049D095FAC0FA883C9",
+   "sender": "עופר כהן",
+   "text": "",
+   "ts": 1791749131000,
+   "date": "2026-10-11",
+   "time": "23:05",
+   "files": [
+    {
+     "name": "מבחן הלכה - חודשי אלול -תשרי וגשמים.doc",
+     "size": "313KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1ikRzn-ce1llMNDypBeMRiTdfpepl0GSU/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545631898"
+  },
+  {
+   "id": "3EB0DBAC9DEBA91AC7A80E",
+   "sender": "חנה🩷",
+   "text": "יש למישהו חומר על שאילת גשמים?",
+   "ts": 1791750451000,
+   "date": "2026-10-11",
+   "time": "23:27",
+   "files": [],
+   "drive": null,
+   "phone": "972587631881"
+  },
+  {
+   "id": "ACBA2CE32A39EF5855EE6D08FD31502D",
+   "sender": "טלי",
+   "text": "https://www.levladaat.org/materials/%D7%91%D7%A7%D7%A9%D7%AA-%D7%92%D7%A9%D7%9E%D7%99%D7%9D",
+   "ts": 1791751335000,
+   "date": "2026-10-11",
+   "time": "23:42",
+   "files": [],
+   "drive": null,
+   "phone": "972523640553"
+  },
+  {
+   "id": "AC31AEE49508D6AF3DFD43CD924F3C59",
+   "sender": "ויקטוריה פייקל",
+   "text": "תודה רבה",
+   "ts": 1791753779000,
+   "date": "2026-10-12",
+   "time": "00:22",
+   "files": [],
+   "drive": null,
+   "phone": "972509093337"
   }
  ]
 }

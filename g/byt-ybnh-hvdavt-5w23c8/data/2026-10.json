@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-11T16:44:03.614Z",
+ "updated": "2026-10-11T20:09:32.466Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -596,6 +596,88 @@
    "files": [],
    "drive": null,
    "phone": "972505924155"
+  },
+  {
+   "id": "ACD33E43A4281DF51CA8F76108FFA9C0",
+   "sender": "🌟 Ravit 🌟",
+   "text": "https://docs.google.com/spreadsheets/d/1w7P65hMDl0Vw59nadjlteGxeTOxAhuQvS-rp6TBgTvA/edit?usp=sharing",
+   "ts": 1791741016000,
+   "date": "2026-10-11",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "phone": "972542412777"
+  },
+  {
+   "id": "ACA4261B416DD0C019EDBCCA76B91966",
+   "sender": "🌟 Ravit 🌟",
+   "text": "ערב טוב חודש טוב 🙏 \nנשמח אם כל אחד/ת תמלאו את שמכם/ן ותאריך הולדתכם/ן.  \nתודה בשם הוועד 🙏",
+   "ts": 1791741017000,
+   "date": "2026-10-11",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "phone": "972542412777"
+  },
+  {
+   "id": "AC6083036852C92D404BB327AC8766D3",
+   "sender": "..",
+   "text": "צוות מורי כיתות ב'🌷,\nמחר תגיע מדריכת תוכנית *עלמא* להדרכה עבור המורים המלמדים בכיתות ב׳.\n\nתוכנית עלמא מקדמת גמישות פדגוגית ומטרתה להתאים את תהליכי ההוראה והלמידה למאה ה־21, בדגש על הכיתות הצעירות ובתי הספר היסודיים.\n\nהמדריכה הציגה את התוכנית במליאת הצוות שהתקיימה בתאריך 1.9.\n\nדורית תעביר את לוח הזמנים של ההדרכה.\n\nתודה על שיתוף הפעולה ובהצלחה 🌸",
+   "ts": 1791741033000,
+   "date": "2026-10-11",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "phone": "972542707965"
+  },
+  {
+   "id": "AC98EA7DEA9445A6DD527775D65CDF98",
+   "sender": "יעקב ביניאשוילי",
+   "text": "",
+   "ts": 1791749310000,
+   "date": "2026-10-11",
+   "time": "23:08",
+   "files": [
+    {
+     "name": "הרב-עובדיה-יוסף-חוברת-עבודה-מנוקד.pdf",
+     "size": "509KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Cl3PNhYLjpg_vs2DCK54u5HhB5SeFhoD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533818775"
+  },
+  {
+   "id": "AC15238E92F5F1571933296E1BE14AE2",
+   "sender": "יעקב ביניאשוילי",
+   "text": "",
+   "ts": 1791749311000,
+   "date": "2026-10-11",
+   "time": "23:08",
+   "files": [
+    {
+     "name": "הרב-עובדיה-יוסף-חוברת-עבודה-מנוקד (1).pdf",
+     "size": "509KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1A7qr8JIGl_hvGXmI39DdD87R23fVqnLv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533818775"
+  },
+  {
+   "id": "ACEEE510DA3CE438B2A2FF918FFAC331",
+   "sender": "יעקב ביניאשוילי",
+   "text": "לילה טוב\nקבצים ללמידה בכיתות בג' חשון, לבחירתכם.",
+   "ts": 1791749355000,
+   "date": "2026-10-11",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972533818775"
   }
  ]
 }

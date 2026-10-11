@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-10T16:09:59.310Z",
+ "updated": "2026-10-11T19:55:04.416Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -174,6 +174,37 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "A52D2E9D9565CB6C7A20E4924934BA6C",
+   "sender": "מאיר מוגרבי",
+   "text": "למכירה – מיטת תינוק איקאה דגם גוליבר + מזרן אורטופדי\n\nמיטת תינוק שהופכת למיטת מעבר, דגם גוליבר של איקאה, כולל מזרן אורטופדי.\n\nמחיר: 400 ₪ בלבד!\nאיסוף עצמי: רכסים\nלפרטים: https://wa.me/972546084870",
+   "ts": 1791741991000,
+   "date": "2026-10-11",
+   "time": "21:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SAPMnmD8Vj-ufaJC023ZPEDEK2WjYXoQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SAPMnmD8Vj-ufaJC023ZPEDEK2WjYXoQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "ACE8BE0CB709A804D40C03F241FB4165",
+   "sender": "אליהו ראקוב ⁰⁵²⁵⁵²⁹²⁰⁰",
+   "text": "משיהו מכיר אחד בשם שלום אהרן חג'ג'?",
+   "ts": 1791748482000,
+   "date": "2026-10-11",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972525529200"
   }
  ]
 }

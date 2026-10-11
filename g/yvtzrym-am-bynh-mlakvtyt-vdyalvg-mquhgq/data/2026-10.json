@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-11T16:11:56.468Z",
+ "updated": "2026-10-11T20:34:09.006Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -2277,6 +2277,47 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "A57FD422DEFEEA277D532EA7D1BE1DE5",
+   "sender": "חיים ממן",
+   "text": "",
+   "ts": 1791745853000,
+   "date": "2026-10-11",
+   "time": "22:10",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "196KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1PiSqDgSMZsrDpDnDB9LlvuxZLLRb7WIU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
+  },
+  {
+   "id": "A5D729D7FB7413CC642E1B9E69E03B28",
+   "sender": "חיים ממן",
+   "text": "נתתי לאינסטינקט משימה רצינית, תשמעו איזה אלוף 😂😂",
+   "ts": 1791745857000,
+   "date": "2026-10-11",
+   "time": "22:10",
+   "files": [],
+   "drive": null,
+   "phone": "972537602231"
+  },
+  {
+   "id": "AC8003767E804E7DA6377FA3A221E8D5",
+   "sender": "⛵",
+   "text": "כמה צחקתי!!",
+   "ts": 1791750824000,
+   "date": "2026-10-11",
+   "time": "23:33",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
   }
  ]
 }

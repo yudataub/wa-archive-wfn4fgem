@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-11T17:31:41.921Z",
+ "updated": "2026-10-11T20:28:41.595Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -2841,6 +2841,170 @@
    ],
    "drive": null,
    "phone": "972552748485"
+  },
+  {
+   "id": "ACC13D7BCBF15BC829AFC8FC63450D70",
+   "sender": "אליהו ראקוב ⁰⁵²⁵⁵²⁹²⁰⁰",
+   "text": "משיהו מכיר אחד בשם שלום אהרן חג'ג'?",
+   "ts": 1791748520000,
+   "date": "2026-10-11",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972525529200"
+  },
+  {
+   "id": "3EB046078757F32D65D047",
+   "sender": "ישי",
+   "text": "אשרינו שזכינו!",
+   "ts": 1791748807000,
+   "date": "2026-10-11",
+   "time": "23:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB00042C499BD346DFD68",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791748817000,
+   "date": "2026-10-11",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OwufS_rQx7-Gk8veMgcHT7fHefZ4mqgk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OwufS_rQx7-Gk8veMgcHT7fHefZ4mqgk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0AE9D5B415FB528F518",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791748817000,
+   "date": "2026-10-11",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S5K596uJnbMOPBks6SB72avvN6DkLBkR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S5K596uJnbMOPBks6SB72avvN6DkLBkR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB090C48DD1DD489F7922",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791748818000,
+   "date": "2026-10-11",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "288KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sUp-X1hllTvqUd-ZWmiEQL3p2QUZ4jb4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sUp-X1hllTvqUd-ZWmiEQL3p2QUZ4jb4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0F0653FDD57DF77CD62",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791748818000,
+   "date": "2026-10-11",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "355KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HNQhbqVw40Huv_yH8Vj_0GHL_ZKMqKYZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HNQhbqVw40Huv_yH8Vj_0GHL_ZKMqKYZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB09C240EE30904D0E126",
+   "sender": "ישי",
+   "text": "ישר כוח עצום לא. ויסנשטרן, א.ראקוב, מ.קולומבוס על הטרחה והסיוע!!",
+   "ts": 1791748872000,
+   "date": "2026-10-11",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC6DFC72F9D389167039A065293FF612",
+   "sender": "אליהו ראקוב ⁰⁵²⁵⁵²⁹²⁰⁰",
+   "text": "",
+   "ts": 1791749154000,
+   "date": "2026-10-11",
+   "time": "23:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yCIqMBKfki5llCSvVtfmG3FROfQOiLNn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yCIqMBKfki5llCSvVtfmG3FROfQOiLNn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525529200"
+  },
+  {
+   "id": "ACEC11888692F0786784407035D505C8",
+   "sender": "יצחק ומירי הסקין",
+   "text": "",
+   "ts": 1791750419000,
+   "date": "2026-10-11",
+   "time": "23:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wp7ARWaEZRpMv3QTkgz1jA9UGdbVA_q2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wp7ARWaEZRpMv3QTkgz1jA9UGdbVA_q2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "AC057F0D5A1F22EC03751E512268F671",
+   "sender": "יצחק ומירי הסקין",
+   "text": "קומה 2",
+   "ts": 1791750500000,
+   "date": "2026-10-11",
+   "time": "23:28",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
   }
  ]
 }

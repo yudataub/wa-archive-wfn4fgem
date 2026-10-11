@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הקהילה שהכל כאן !!!",
- "updated": "2026-10-11T09:46:42.359Z",
+ "updated": "2026-10-11T18:47:26.804Z",
  "messages": [
   {
    "id": "A5D1E80E5976E62B479BF18C87D33D1B",
@@ -653,6 +653,26 @@
      "path": "https://drive.google.com/file/d/1r66t1FKZcgFA5vtBM23udH4B3iBQIepI/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1r66t1FKZcgFA5vtBM23udH4B3iBQIepI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552617532"
+  },
+  {
+   "id": "A5A563D421460AF9C29B799191DEB95B",
+   "sender": "אין עוד מלבדו",
+   "text": "*⭕עדכונים בזמן אמת⭕*",
+   "ts": 1791744415000,
+   "date": "2026-10-11",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1OV73v302s_wQ5LkLih4wtIgSRtFoJRYC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OV73v302s_wQ5LkLih4wtIgSRtFoJRYC&sz=w1200"
     }
    ],
    "drive": null,

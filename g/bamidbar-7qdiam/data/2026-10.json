@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-11T07:48:44.529Z",
+ "updated": "2026-10-11T18:33:49.897Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -1926,6 +1926,37 @@
    "files": [],
    "drive": null,
    "phone": "972539646498"
+  },
+  {
+   "id": "3EB05F76B739971ED4E370",
+   "sender": "חנה",
+   "text": "",
+   "ts": 1791743556000,
+   "date": "2026-10-11",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18EOu0aGZ3nOOh2HXppq5-YFOQGMijZFr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18EOu0aGZ3nOOh2HXppq5-YFOQGMijZFr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538671271"
+  },
+  {
+   "id": "ACB381EF54E3BF72A42EE9B40B96E260",
+   "sender": "פרח ירימי",
+   "text": "יפה ממש",
+   "ts": 1791743627000,
+   "date": "2026-10-11",
+   "time": "21:33",
+   "files": [],
+   "drive": null,
+   "phone": "972548368645"
   }
  ]
 }

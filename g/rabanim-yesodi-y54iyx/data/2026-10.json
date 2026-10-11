@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-11T16:28:04.196Z",
+ "updated": "2026-10-11T19:06:27.131Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -4030,6 +4030,79 @@
    "files": [],
    "drive": null,
    "phone": "972508733084"
+  },
+  {
+   "id": "AC39958C13D9A8EEF8D13C5C7FD834EB",
+   "sender": "אבי'ה אלבה",
+   "text": "הרב הדאיה זצ''ל ליווה את רבני בתי הספר בעיר אילת שנים רבות. זה מצטרף לעשייה הגדולה שלו במשך שנים כל כך רבות. מקים עולה של תורה.",
+   "ts": 1791741238000,
+   "date": "2026-10-11",
+   "time": "20:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "305KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nws8BpAVUAyXqHCgjfNG0vPuDD0nFDNP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nws8BpAVUAyXqHCgjfNG0vPuDD0nFDNP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542653170"
+  },
+  {
+   "id": "A5FF827BDEA68C39FA04A5C101C1BCB6",
+   "sender": "הראל מקייס",
+   "text": "https://youtu.be/-Ti-ojvKkvQ",
+   "ts": 1791743713000,
+   "date": "2026-10-11",
+   "time": "21:35",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "AC0AD51747B470347D3148D36137E7F1",
+   "sender": "יעקב ביתן",
+   "text": "",
+   "ts": 1791745520000,
+   "date": "2026-10-11",
+   "time": "22:05",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fxUZiSAJ7qrgF5Sq-yIGFbq8QeNFUyuI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fxUZiSAJ7qrgF5Sq-yIGFbq8QeNFUyuI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539474314"
+  },
+  {
+   "id": "A54B59F2DFE6120A6C27F2B34996862E",
+   "sender": "אלישיב רבהון",
+   "text": "שלום רב וחדש טוב, אשמח לדפי לימוד בחברותות בנושא רחל אמנו לקראת יום פטירתה בשבוע הבא.. יש\"כ ותודה לכל העוסקים במלאכה!",
+   "ts": 1791745556000,
+   "date": "2026-10-11",
+   "time": "22:05",
+   "files": [],
+   "drive": null,
+   "phone": "972587665750"
+  },
+  {
+   "id": "A5DFA57D9CBC3D53483F9740F5D53EF0",
+   "sender": "הראל מקייס",
+   "text": "וגם פה הרב שמואל שלח הרבה מקורות על העניין",
+   "ts": 1791745582000,
+   "date": "2026-10-11",
+   "time": "22:06",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
   }
  ]
 }

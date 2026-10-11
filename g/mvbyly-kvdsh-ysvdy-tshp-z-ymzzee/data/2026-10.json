@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קודש יסודי תשפ\"ז💫",
- "updated": "2026-10-11T04:22:43.165Z",
+ "updated": "2026-10-11T18:08:19.561Z",
  "messages": [
   {
    "id": "AC134B7FE66408D119F376017495D4E7",
@@ -285,6 +285,48 @@
    ],
    "drive": null,
    "phone": "972509678800"
+  },
+  {
+   "id": "ACD95D9A88509A8AC0730D83A6486C58",
+   "sender": "ישעיה סלנט",
+   "text": "",
+   "ts": 1791740266000,
+   "date": "2026-10-11",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "341KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/182QfkHdSjvUjv7FzNct1yu8x70Rjgdgk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=182QfkHdSjvUjv7FzNct1yu8x70Rjgdgk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526645009"
+  },
+  {
+   "id": "AC2A1A95E317C335D20524A72F01B94B",
+   "sender": "ישעיה סלנט",
+   "text": "קישורים חשובים:\nhttps://canva.link/v2ye39hidbz5ksz",
+   "ts": 1791740647000,
+   "date": "2026-10-11",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526645009"
+  },
+  {
+   "id": "3EB04CB9471520802231F1",
+   "sender": "יאיר אושרית",
+   "text": "אשמח לריכוז תאריכי המבחנים החיצוניים/ הפנימיים השנה בחמ\"ד בתורה ובהלכה.",
+   "ts": 1791742073000,
+   "date": "2026-10-11",
+   "time": "21:07",
+   "files": [],
+   "drive": null,
+   "phone": "972544943995"
   }
  ]
 }

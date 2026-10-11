@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-11T16:28:34.218Z",
+ "updated": "2026-10-11T20:18:04.767Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2422,6 +2422,36 @@
    "files": [],
    "drive": null,
    "phone": "972546081268"
+  },
+  {
+   "id": "ACE9CB1439250E9DE1D947ACE6E576C7",
+   "sender": "שירי שטיין",
+   "text": "אשמח אם משהי תוכל להקפיץ כאן או בפרטי את המצגת בקנבה על רבי אלעזר בן הורקנוס",
+   "ts": 1791747997000,
+   "date": "2026-10-11",
+   "time": "22:46",
+   "files": [],
+   "drive": null,
+   "phone": "972528114603"
+  },
+  {
+   "id": "AC4837964380A50A246059A045B4F9CD",
+   "sender": "רבקה בארי",
+   "text": "",
+   "ts": 1791749878000,
+   "date": "2026-10-11",
+   "time": "23:17",
+   "files": [
+    {
+     "name": "אהבת התורה-מצגת רבי אליעזר בן הורקנוס.pdf",
+     "size": "933KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1VQY3_Zfht4XjXUCz3Cb6Yui-X_hkTEyu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526070204"
   }
  ]
 }

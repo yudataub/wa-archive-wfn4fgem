@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-08T11:53:39.814Z",
+ "updated": "2026-10-11T20:46:13.563Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -997,6 +997,69 @@
    "files": [],
    "drive": null,
    "phone": "972528181082"
+  },
+  {
+   "id": "AC58FC7A16B601F045C30124FA9567EC",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1791751380000,
+   "date": "2026-10-11",
+   "time": "23:43",
+   "files": [
+    {
+     "name": ".זוכר הברית בנות.pdf",
+     "size": "6.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1te-42w0tzB9qcrSCZNX2LOFIcvYi7CPd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACC87FA9AF3C2B035AEE51F500E56178",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1NTP9RERCgpDAWrwnJ0lPV7zgjT_PXbWF",
+   "ts": 1791751382000,
+   "date": "2026-10-11",
+   "time": "23:43",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC31AB34BA540C2BD16F36F4D73F31C5",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1HQbxPm3zkbpTmxU3sRIMeJyiWNBDeeYe",
+   "ts": 1791751435000,
+   "date": "2026-10-11",
+   "time": "23:43",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC057D6F07BD27E9A79F90DB18C491E7",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1Td8P9_doTy5ubW9YZNnyA8sHEUDVlrQX",
+   "ts": 1791751469000,
+   "date": "2026-10-11",
+   "time": "23:44",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC674AB5AFF29EDA2D5686662F2E6EA2",
+   "sender": "ניר רפפורט",
+   "text": "יש קבוצה הלכה לכיתה ג?",
+   "ts": 1791751572000,
+   "date": "2026-10-11",
+   "time": "23:46",
+   "files": [],
+   "drive": null,
+   "phone": "972532255670"
   }
  ]
 }

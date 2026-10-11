@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-11T15:58:58.503Z",
+ "updated": "2026-10-11T21:36:20.816Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -4644,7 +4644,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1brEUFv5WCIv4wLcFJRB4WEqxZxjwZayk/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1brEUFv5WCIv4wLcFJRB4WEqxZxjwZayk&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1brEUFv5WCIv4wLcFJRB4WEqxZxjwZayk&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/ACDD8C34131A365AAD21FF35536F24FA_0.mp4"
     }
    ],
    "drive": null,
@@ -4746,6 +4747,189 @@
    "files": [],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "ACCD651B65159108D29E7B8C58EED398",
+   "sender": "רועי אלבז",
+   "text": "ערב טוב , האם משהו יודע מתי השיעור של הרב טולדאנו בגורביץ?",
+   "ts": 1791740568000,
+   "date": "2026-10-11",
+   "time": "20:42",
+   "files": [],
+   "drive": null,
+   "phone": "972509116691"
+  },
+  {
+   "id": "A55907A256612D28E61DCC14DDC1DA37",
+   "sender": "מאיר מוגרבי",
+   "text": "מהחלון אני רואה שם הרבה רכבים, נראה עכשיו",
+   "ts": 1791740645000,
+   "date": "2026-10-11",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "ACD354D01F35A67CA2C621B78E2DD2B7",
+   "sender": "Esti❤️💕",
+   "text": "אשמח למספר של טכנאי מחשבים🙏🏻",
+   "ts": 1791741102000,
+   "date": "2026-10-11",
+   "time": "20:51",
+   "files": [],
+   "drive": null,
+   "phone": "972543513314"
+  },
+  {
+   "id": "A58BF3FB184B8F3773E551DA2851E958",
+   "sender": "עזריאל",
+   "text": "@239629177475295",
+   "ts": 1791741206000,
+   "date": "2026-10-11",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "phone": "972583214490"
+  },
+  {
+   "id": "AC1F59DAE00B62166B9EDCD8F6724838",
+   "sender": "יהודי פשוט",
+   "text": "עכשיו בקטורת תמיד",
+   "ts": 1791742108000,
+   "date": "2026-10-11",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RN5CGiQSOixUiVtf_Ftc2p5Kn1HOlj8g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RN5CGiQSOixUiVtf_Ftc2p5Kn1HOlj8g&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548424993"
+  },
+  {
+   "id": "AC00B18BD489A7F127BDF571E15ACD33",
+   "sender": "יהודי פשוט",
+   "text": "",
+   "ts": 1791742110000,
+   "date": "2026-10-11",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/118r-eqtSY8mmHl-NPiU87sbAi5k4-9D9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=118r-eqtSY8mmHl-NPiU87sbAi5k4-9D9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548424993"
+  },
+  {
+   "id": "AC0D5A6C045E4B4911C79AB46F6EF38E",
+   "sender": "אליהו ראקוב ⁰⁵²⁵⁵²⁹²⁰⁰",
+   "text": "משיהו מכיר אחד בשם שלום אהרן חג'ג'?",
+   "ts": 1791748470000,
+   "date": "2026-10-11",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972525529200"
+  },
+  {
+   "id": "AC11E0AC5D8A6520BFA7566314B4D447",
+   "sender": "זמין",
+   "text": "המניין בהודים בגבעה א׳ \nמתחיל בשעה 5:30???",
+   "ts": 1791749896000,
+   "date": "2026-10-11",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972504119468"
+  },
+  {
+   "id": "AC7875DC282917B15ABFE5A8B2F36474",
+   "sender": "נעם",
+   "text": "5.45 הודו",
+   "ts": 1791749940000,
+   "date": "2026-10-11",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "phone": "972549474921"
+  },
+  {
+   "id": "ACF780217501C4B3D38BC4D79AC28D8B",
+   "sender": "זמין",
+   "text": "תודה",
+   "ts": 1791749950000,
+   "date": "2026-10-11",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "phone": "972504119468"
+  },
+  {
+   "id": "AC5A55CC4B79A910548D49934B47C3C2",
+   "sender": "זמין",
+   "text": "מוזר היום בשעה 5:55 היו כבר בעמידה",
+   "ts": 1791749982000,
+   "date": "2026-10-11",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "phone": "972504119468"
+  },
+  {
+   "id": "A5C92B75145AA3F037D764181FDD7B51",
+   "sender": "M.m",
+   "text": "מישהו שיוצא כעת מרכסים לכיוון מרכז ירושלים להעביר תפילין (בתשלום)",
+   "ts": 1791753283000,
+   "date": "2026-10-12",
+   "time": "00:14",
+   "files": [],
+   "drive": null,
+   "phone": "972526176221"
+  },
+  {
+   "id": "AC81EABC5125C9AC96A24C4A49598EE6",
+   "sender": ". אביתר כהן",
+   "text": "אם מישהו יוצא מגבעה ב להתפלל ויכול לקחת אותי הלוך חזור אשמח לדבר איתו באישי \nיישר כוח",
+   "ts": 1791753373000,
+   "date": "2026-10-12",
+   "time": "00:16",
+   "files": [],
+   "drive": null,
+   "phone": "972586161285"
+  },
+  {
+   "id": "3A6A1FB4A8C69E6C94DE",
+   "sender": "אסתריקה 📸",
+   "text": "האם יש משהו שעושה מומלץ שעושה פיתוח קול ברכסים או באזור?",
+   "ts": 1791754492000,
+   "date": "2026-10-12",
+   "time": "00:34",
+   "files": [],
+   "drive": null,
+   "phone": "972559768727"
+  },
+  {
+   "id": "AC8C9D86AF0D4C5F3131EC4EA5BF2D7C",
+   "sender": "אבי טויטו",
+   "text": "לילה טוב \n\nמשהו במקרה זמין בגבעה ג עם בוסטר להנעה של רכב או כבלים ??\n\nתודה מראש",
+   "ts": 1791754576000,
+   "date": "2026-10-12",
+   "time": "00:36",
+   "files": [],
+   "drive": null,
+   "phone": "972526455107"
   }
  ]
 }
