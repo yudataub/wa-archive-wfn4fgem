@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-10T19:01:44.394Z",
+ "updated": "2026-10-11T04:35:43.300Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -1289,6 +1289,47 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "3A155041840CCB48B820",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791692938000,
+   "date": "2026-10-11",
+   "time": "07:28",
+   "files": [
+    {
+     "name": "הרב חנן פורת זצ״ל דמות החמ״ד.pdf",
+     "size": "8.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1aKZ_gE_Sy-y-dFXDXm0Gdlx7ETipUgFu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "AC6E4EF5A3F4AFCDC106E043AFA642A0",
+   "sender": "תמר רון",
+   "text": "👏👏👏👏👏👏👏👏",
+   "ts": 1791693104000,
+   "date": "2026-10-11",
+   "time": "07:31",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "AC748063C59856B82C5C72C3F430C4E4",
+   "sender": "אמילי קובני",
+   "text": "מקסים👏👏👏",
+   "ts": 1791693314000,
+   "date": "2026-10-11",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972543970303"
   }
  ]
 }

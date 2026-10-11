@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-10T18:51:44.262Z",
+ "updated": "2026-10-11T05:15:34.891Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -191,6 +191,58 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "3A415DC92CA233A877A7",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791692940000,
+   "date": "2026-10-11",
+   "time": "07:29",
+   "files": [
+    {
+     "name": "הרב חנן פורת זצ״ל דמות החמ״ד.pdf",
+     "size": "8.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jwYOE2RZmz6kUUv_jJcMOiORpR6ZrtZt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "AC59E608B0FFFBA25F10A81AD423BFEE",
+   "sender": "רחל עלוש",
+   "text": "שרית אלופה!!!\nתודה על השיתוף",
+   "ts": 1791693104000,
+   "date": "2026-10-11",
+   "time": "07:31",
+   "files": [],
+   "drive": null,
+   "phone": "972535215620"
+  },
+  {
+   "id": "AC08C4B4CEB3D977AA04FA80B4B640A7",
+   "sender": "אסתי קנד",
+   "text": "מצטרפת לבקשה 🙏🏼",
+   "ts": 1791693493000,
+   "date": "2026-10-11",
+   "time": "07:38",
+   "files": [],
+   "drive": null,
+   "phone": "972526334884"
+  },
+  {
+   "id": "ACB19339D3530815373C90CFAE00850C",
+   "sender": "יעל מאיר",
+   "text": "תעלו אותו לבינה המלאכותית",
+   "ts": 1791695729000,
+   "date": "2026-10-11",
+   "time": "08:15",
+   "files": [],
+   "drive": null,
+   "phone": "972545580540"
   }
  ]
 }

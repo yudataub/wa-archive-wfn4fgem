@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-11T00:19:35.071Z",
+ "updated": "2026-10-11T02:59:51.409Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -2354,6 +2354,26 @@
    "files": [],
    "drive": null,
    "phone": "972534438430"
+  },
+  {
+   "id": "A5512A41A07EF8F93E7EF6624F6D11F9",
+   "sender": "אורית החלקות שיער",
+   "text": "פרטים לגבי העבודה למספר 050-8170098 הודיה",
+   "ts": 1791687587000,
+   "date": "2026-10-11",
+   "time": "05:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jE_qfQm9IMTd8ca7_SSZJC3YGZckhl5J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jE_qfQm9IMTd8ca7_SSZJC3YGZckhl5J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559593991"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "תוכנית עוגן סטודנטים תשפז⚓ -צפון",
- "updated": "2026-10-10T18:53:14.283Z",
+ "updated": "2026-10-11T02:34:51.029Z",
  "messages": [
   {
    "id": "AC8669F3D3269477AFE039E7F04FE881",
@@ -348,6 +348,47 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "AC249B20F78C730D76383D56E0B6C1EF",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "",
+   "ts": 1791686029000,
+   "date": "2026-10-11",
+   "time": "05:33",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "58KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1g53OqaVpaGcDU0FbCltUnBwvKg95MCsm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "AC3899BAF2687B4DBBFE0B9A18A54AE2",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "הודעה מהנהג ☝🏻",
+   "ts": 1791686053000,
+   "date": "2026-10-11",
+   "time": "05:34",
+   "files": [],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "AC8DB6261F9132868E38CE4ED5BD86FC",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "📇 תמר וינטר תשפז- תל חי\n+972547569217",
+   "ts": 1791686063000,
+   "date": "2026-10-11",
+   "time": "05:34",
+   "files": [],
    "drive": null,
    "phone": "972502080480"
   }

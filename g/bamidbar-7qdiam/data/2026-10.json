@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-10T22:47:19.053Z",
+ "updated": "2026-10-11T05:31:35.127Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -1800,6 +1800,88 @@
    "files": [],
    "drive": null,
    "phone": "972586909721"
+  },
+  {
+   "id": "3AA3CDFAE290E8387283",
+   "sender": "מיכל רבי",
+   "text": "לשלוח שוב",
+   "ts": 1791690886000,
+   "date": "2026-10-11",
+   "time": "06:54",
+   "files": [],
+   "drive": null,
+   "phone": "972586228080"
+  },
+  {
+   "id": "ACD8EFF7654B72FBE99C8785D443C239",
+   "sender": "MORAN💕",
+   "text": "בוקר טוב אפשרי לשלוח שוב?תודה מראש",
+   "ts": 1791691223000,
+   "date": "2026-10-11",
+   "time": "07:00",
+   "files": [],
+   "drive": null,
+   "phone": "972526525526"
+  },
+  {
+   "id": "AC64724E66B981BBC059EAAB20D89191",
+   "sender": "פנינה כ\"ץ",
+   "text": "סדר החנייה",
+   "ts": 1791694003000,
+   "date": "2026-10-11",
+   "time": "07:46",
+   "files": [
+    {
+     "name": "פרשת במדבר - חניית בנ''י.pdf",
+     "size": "325KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RkzT3MyFHY1QfzHeDaxRT0k2XKRz1qVQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "AC763D69C53F091EADF621E0D95B756F",
+   "sender": "פנינה כ\"ץ",
+   "text": "",
+   "ts": 1791694004000,
+   "date": "2026-10-11",
+   "time": "07:46",
+   "files": [
+    {
+     "name": "עטיפה שמואל.pdf",
+     "size": "200KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1qB_1EK95ZT1LcZ1-22mcW7t4Tm9F0Y2n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "AC8A19791F1AE009D29F70D646A0B22F",
+   "sender": "דניאלה פלור",
+   "text": "תודה רבה",
+   "ts": 1791695380000,
+   "date": "2026-10-11",
+   "time": "08:09",
+   "files": [],
+   "drive": null,
+   "phone": "972534304074"
+  },
+  {
+   "id": "AC2A5168553EDA16F461F6AD3571FC77",
+   "sender": "רחלי קרן",
+   "text": "בוקר טוב!\nמעונינת לדעת,\nמדוע אין גישה למצגות של חומש במדבר?\nתודה🙏",
+   "ts": 1791696675000,
+   "date": "2026-10-11",
+   "time": "08:31",
+   "files": [],
+   "drive": null,
+   "phone": "972505228960"
   }
  ]
 }

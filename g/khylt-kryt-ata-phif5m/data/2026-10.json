@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-10T18:32:54.326Z",
+ "updated": "2026-10-11T05:17:34.913Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -2829,6 +2829,48 @@
    ],
    "drive": null,
    "phone": "972538282761"
+  },
+  {
+   "id": "AC59C35F28B7CF169AE37BDC50D499F0",
+   "sender": "זהבה גוטמן",
+   "text": "",
+   "ts": 1791692453000,
+   "date": "2026-10-11",
+   "time": "07:20",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "28KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1E4J8ZQXFB6ASJsAxit_bs7MyQWJXlts1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E4J8ZQXFB6ASJsAxit_bs7MyQWJXlts1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "AC8F5C35B9A493D49931F9073BFCC7B3",
+   "sender": "Shlomo Kalman",
+   "text": "*הודעה לתושבי מפרץ חיפה*\n\nהיום, ראשון 11/10/26 בשעות הבוקר, יתקיים בשטח מכון דוד (רפאל) בקריות ניסוי מתוכנן ומבוקר במהלכו עשוי להשמע רעש. גורמי ההצלה והביטחון מעודכנים על הפעילות.\n\nרדיו חיפה בווטסאפ",
+   "ts": 1791694446000,
+   "date": "2026-10-11",
+   "time": "07:54",
+   "files": [],
+   "drive": null,
+   "phone": "972548104904"
+  },
+  {
+   "id": "AC3B566584FC8174CE982A39378B61C5",
+   "sender": "סיון אבישג",
+   "text": "*שבת בראשית סגרנו 80 ספרי דברים ו- 62 ספרי תהלים.*\nתודה לכל המצטרפים, שה' יברך אתכם.\nשנה שתהיה מלאה בטוב ונזכה לגאולה השלמה\nניפגש בבית המקדש בע\"ה✨️.",
+   "ts": 1791695854000,
+   "date": "2026-10-11",
+   "time": "08:17",
+   "files": [],
+   "drive": null,
+   "phone": "972505939334"
   }
  ]
 }

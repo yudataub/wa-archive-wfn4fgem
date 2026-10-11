@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-10T18:18:28.322Z",
+ "updated": "2026-10-11T04:08:59.600Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -298,6 +298,46 @@
      "path": "https://drive.google.com/file/d/1DwFhFxYUvrzhfQL8DFRHnFQ3WFyZdGyr/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1DwFhFxYUvrzhfQL8DFRHnFQ3WFyZdGyr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A918FF6F8114D17650D",
+   "sender": ".",
+   "text": "״אכילת כלבים שמה אכילה״ (תוס׳ בכורות כג, ב).",
+   "ts": 1791691716000,
+   "date": "2026-10-11",
+   "time": "07:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "68KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1weXn7tsuHxSq9NhfEnZ6Zg90i8ibtpSC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1weXn7tsuHxSq9NhfEnZ6Zg90i8ibtpSC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A1B6BBAD0281F516D39",
+   "sender": ".",
+   "text": "״שמא בנה של זו בא לו אצל זו״ (בכורות כג, ב).",
+   "ts": 1791691724000,
+   "date": "2026-10-11",
+   "time": "07:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iGd3C_WDpM1Ulf4iaj7qj51lmmsg3y7x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iGd3C_WDpM1Ulf4iaj7qj51lmmsg3y7x&sz=w1200"
     }
    ],
    "drive": null,
