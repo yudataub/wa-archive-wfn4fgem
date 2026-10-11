@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-11T13:19:06.794Z",
+ "updated": "2026-10-11T15:18:21.332Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -1746,6 +1746,26 @@
    ],
    "drive": null,
    "phone": "972527974222"
+  },
+  {
+   "id": "3A3956FCE163E76AE8EA",
+   "sender": "Asaf",
+   "text": "ציור נוף חורפי על קנבס 80₪",
+   "ts": 1791731896000,
+   "date": "2026-10-11",
+   "time": "18:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "633KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_BG6Z8SdcbR5-bdmyJwz1Lfkvy2HazRF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_BG6Z8SdcbR5-bdmyJwz1Lfkvy2HazRF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }

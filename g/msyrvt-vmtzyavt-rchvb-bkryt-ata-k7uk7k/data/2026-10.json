@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-10T16:09:29.294Z",
+ "updated": "2026-10-11T16:35:34.301Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -962,6 +962,57 @@
      "thumb": "https://drive.google.com/thumbnail?id=1hP0qB5hnHklK5guPeX7Fz82FfVVnZZW3&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC38031160FF57155279498FDAC18340",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791736501000,
+   "date": "2026-10-11",
+   "time": "19:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZLzcIr3-BZJ8m38-abadD4UWC48tmVzy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZLzcIr3-BZJ8m38-abadD4UWC48tmVzy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACECB47E375D88277AD18E55075BA8EC",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791736502000,
+   "date": "2026-10-11",
+   "time": "19:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1usnTJVsinzJ08aUzQQTEAjSH76LBf_K0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1usnTJVsinzJ08aUzQQTEAjSH76LBf_K0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC6DDB125831B6293F4FC81E6C9D1663",
+   "sender": "ויקטוריה",
+   "text": "למסירה ספרי הכנה לפסיכומטרי של קידום כמה חוברות וספרים",
+   "ts": 1791736526000,
+   "date": "2026-10-11",
+   "time": "19:35",
+   "files": [],
    "drive": null,
    "phone": "972528969584"
   }

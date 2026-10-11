@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-11T12:54:24.058Z",
+ "updated": "2026-10-11T16:59:34.669Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -1497,6 +1497,70 @@
    "files": [],
    "drive": null,
    "phone": "972543028447"
+  },
+  {
+   "id": "AC2840BBCCDEC41400ECFA45AE4DE88C",
+   "sender": "חגית הכהן",
+   "text": "אשמח לפרסום שהוא רק על התפילת רבים?",
+   "ts": 1791730277000,
+   "date": "2026-10-11",
+   "time": "17:51",
+   "files": [],
+   "drive": null,
+   "phone": "972506730975"
+  },
+  {
+   "id": "A52ED671B47176AE6E3C0AD58FCCBC03",
+   "sender": "הראל מקייס",
+   "text": "*תפילת רבים של החמ\"ד!*\nעצרת התפילה המרכזית לגשמים לשלום המדינה! \n\nבע\"ה תתקיים ביום ראשון, ז' חשוון, בשעה 10:20 בישיבת הר עציון לצעירים.\n\n*מוזמנים להצטרף לשידור החי ולהתפלל יחד איתנו!*\n \nלהורדת נוסח התפילה וכניסה למשדר לחצו על הקישור המצורף.\nhttps://www.yedidhemed.co.il/tfilat_rabim/\n\n*מחכים לכם!*\n*הנהלת החמ\"ד*",
+   "ts": 1791730367000,
+   "date": "2026-10-11",
+   "time": "17:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BVo0RO0tvPQWqEHJGTkryuzTiwqFCB3m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BVo0RO0tvPQWqEHJGTkryuzTiwqFCB3m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "3AE2D635A8A49CAAE3BD",
+   "sender": "הודיה אלוש 🩷",
+   "text": "אפשר סרטון לתלמידי בית הספר על הרב חנן פורת מי הוא - שהתלמידים יכירו את דמות החמד שיוכלו להתחבר…",
+   "ts": 1791737658000,
+   "date": "2026-10-11",
+   "time": "19:54",
+   "files": [],
+   "drive": null,
+   "phone": "972556668726"
+  },
+  {
+   "id": "AC5947D3F9913C6FB75A11BD654FA39A",
+   "sender": "נעמה",
+   "text": "לאיזה גיל?",
+   "ts": 1791737849000,
+   "date": "2026-10-11",
+   "time": "19:57",
+   "files": [],
+   "drive": null,
+   "phone": "972584317294"
+  },
+  {
+   "id": "3A4B2CAA6513ADD494A0",
+   "sender": "הודיה אלוש 🩷",
+   "text": "יסודי",
+   "ts": 1791737956000,
+   "date": "2026-10-11",
+   "time": "19:59",
+   "files": [],
+   "drive": null,
+   "phone": "972556668726"
   }
  ]
 }

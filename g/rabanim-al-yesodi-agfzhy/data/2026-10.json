@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-11T10:55:50.823Z",
+ "updated": "2026-10-11T17:34:11.943Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -557,6 +557,50 @@
    "files": [],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "ACE4F901F97178801AC3941C0409A986",
+   "sender": "אליהו ממן",
+   "text": "עד מתי?",
+   "ts": 1791737638000,
+   "date": "2026-10-11",
+   "time": "19:53",
+   "files": [],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "ACA03D128302866E0251777652BC8D45",
+   "sender": "אליהו ממן",
+   "text": "עד מתי?",
+   "ts": 1791738134000,
+   "date": "2026-10-11",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "A579B7DA3FF0E7B4EC556CAF77712C54",
+   "sender": "הראל מקייס",
+   "text": "אי''ה עד 20:30",
+   "ts": 1791738159000,
+   "date": "2026-10-11",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "AC392312CD6B9759344135F15CBA4DE2",
+   "sender": "אור חקשורי",
+   "text": "https://hemed.education.gov.il/high-school/torah-people-state/",
+   "ts": 1791740039000,
+   "date": "2026-10-11",
+   "time": "20:33",
+   "files": [],
+   "drive": null,
+   "phone": "972545594779"
   }
  ]
 }

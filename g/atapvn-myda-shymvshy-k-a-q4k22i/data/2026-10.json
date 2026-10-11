@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-11T12:09:23.358Z",
+ "updated": "2026-10-11T16:42:34.410Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -2477,6 +2477,57 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "ACEA33099C8DC4B92C232513C09BDD56",
+   "sender": "אריאל",
+   "text": "היום \nבין 18:00-20:00\nיום שני בין 10:00-12:00\nרביעי בין 19:00-21:00\nנוף הכרמל 13 קרית אתא \n\nארגון רועי לא יחסר \n😍😍😍",
+   "ts": 1791726166000,
+   "date": "2026-10-11",
+   "time": "16:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "816KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1NuKT4b1-rJ2412ksEiN4DKjKuxt0YtMs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NuKT4b1-rJ2412ksEiN4DKjKuxt0YtMs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "A55BA4A2ED1517B378B803CE4261C7C6",
+   "sender": "סטודיו יעל ברזל",
+   "text": "🔥 *מחפשים עבודה?*  \n📲 הצטרפו לקבוצות *דרושון* וקבלו *מדי יום משרות חדשות ישירות לוואטסאפ!*\n\nלהצטרפות לקבוצה לחצו כאן👇",
+   "ts": 1791727292000,
+   "date": "2026-10-11",
+   "time": "17:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526699371"
+  },
+  {
+   "id": "ACD018792658CEF6BBFCE010286C53A8",
+   "sender": "א עמר",
+   "text": "*הבחירה הזאת תקבע איך ייראה העתיד שלך*: הפרנסה, הביטחון התעסוקתי והשקט הנפשי שלך.\n\n⏳ *ההרשמה למחזור 7 של תכנית קודקוד נסגרת בימים הקרובים*\n\n> הצטרפו לקודקוד, התוכנית החרדית ליחידות ההייטק במערכת הביטחון, שתסדר לכם עתיד מקצועי וכלכלי מבטיח!\n\n✅ ניסיון מעשי במסגרת שירות ביחידות טכנולוגיות מובחרות (המוסד, 8200, 81, חט״ל, חיל האוויר ועוד)\n✅ מלגת קיום של עד 8,500 ₪ בחודש\n✅ אחוזי השמה מהגבוהים בשוק\n\nהתוכנית מיועדת לגברים חרדים בגילאי 21-32 (רווקים מעל גיל 23)\n\nהקוד שלכם לפרנסה בראש שקט >>>\nhttps://kodcode.org.il/?utm_source=gantz&utm_medium=whatsapp&utm_campaign=code\n\nבוט לחסומים\nhttps://api.whatsapp.com/send?phone=972777298741&text=היי+מעוניין+לשמוע+עוד+על+קודקוד+הגעתי+דרך+גנץ",
+   "ts": 1791736938000,
+   "date": "2026-10-11",
+   "time": "19:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "748KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hWszxffCS36FYCZ_ccuXEPoCUI7aYGW5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hWszxffCS36FYCZ_ccuXEPoCUI7aYGW5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-11T13:21:36.816Z",
+ "updated": "2026-10-11T17:14:41.706Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1044,6 +1044,46 @@
    "files": [],
    "drive": null,
    "phone": "972552801359"
+  },
+  {
+   "id": "A5DADCD2223A81005DFF5212E11B09B3",
+   "sender": "אחוותא",
+   "text": "🍂 אחרי החגים, זמן למשפחה!\n\nוילת אחוותא במיצד מזמינה אתכם לשבת של ביחד: 10 חדרי שינה, חדר אוכל מרווח, 40 מיטות ומקום לעד 60 נפשות.\n\nפנוי לשבת פרשת נח, ומפרשת חיי שרה והלאה.\n\nנשמח לארח אתכם 🤍\nעמיחי: 058-3290667\nachvata.com",
+   "ts": 1791735034000,
+   "date": "2026-10-11",
+   "time": "19:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12zjB34XO63O9zOdR6WMT7qhaNjsy-d_D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12zjB34XO63O9zOdR6WMT7qhaNjsy-d_D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535523266"
+  },
+  {
+   "id": "ACF936ADC42FDA3935576DDC34691BB3",
+   "sender": "ליז קובליו",
+   "text": "",
+   "ts": 1791738876000,
+   "date": "2026-10-11",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o_hi90oQBGMhMlKAjS2LX_QY9qvhlr6S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o_hi90oQBGMhMlKAjS2LX_QY9qvhlr6S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509040669"
   }
  ]
 }

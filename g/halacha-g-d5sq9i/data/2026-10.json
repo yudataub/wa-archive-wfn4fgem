@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ג'",
- "updated": "2026-10-11T13:28:06.906Z",
+ "updated": "2026-10-11T17:07:11.575Z",
  "messages": [
   {
    "id": "ACEB4C097F897A12E7774B46815E09C7",
@@ -200,6 +200,158 @@
    "files": [],
    "drive": null,
    "phone": "972536227899"
+  },
+  {
+   "id": "AC72F39DFA519F76F5F914B671B354F6",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/1WXfF8Ht-3PHJg3V4qvUsTSpxfh6_E1XS",
+   "ts": 1791726085000,
+   "date": "2026-10-11",
+   "time": "16:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "ACD65CA6128F6D8E03DA1995D590F5ED",
+   "sender": "אתי",
+   "text": "https://youtube.com/watch?v=toK6LIJf8VQ&feature=shared",
+   "ts": 1791726085000,
+   "date": "2026-10-11",
+   "time": "16:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC3C6AE4632673D7E78A5CBEC35CAC49",
+   "sender": "אתי",
+   "text": "https://youtube.com/watch?v=1ljOgFJxhcE&feature=shared",
+   "ts": 1791726098000,
+   "date": "2026-10-11",
+   "time": "16:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC9B3D17B18F4D30DE8EC783BEEB202D",
+   "sender": "Sterni Schtroks",
+   "text": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DvyIgUNQfYNg&ved=2ahUKEwjv55n9i7KXAxUyYUEAHWEcFTEQwqsBegQIFxAB&usg=AOvVaw1v-vj-uVXqdH7L5FTz6VXs",
+   "ts": 1791726203000,
+   "date": "2026-10-11",
+   "time": "16:43",
+   "files": [],
+   "drive": null,
+   "phone": "972559611722"
+  },
+  {
+   "id": "ACEB21A885070532681C63306E44DEF3",
+   "sender": "מירב גלזר",
+   "text": "למשהו יש קישור לקבוצת משנה כיתה ג?",
+   "ts": 1791726289000,
+   "date": "2026-10-11",
+   "time": "16:44",
+   "files": [],
+   "drive": null,
+   "phone": "972547775065"
+  },
+  {
+   "id": "AC7324C0FC4A39F47A40400218F0BC29",
+   "sender": "אתי",
+   "text": "https://docs.google.com/document/d/198B7_5CPebULCuO-nAGsnDI2zL6gk1s519mNQKytRW0/edit?tab=t.0",
+   "ts": 1791726458000,
+   "date": "2026-10-11",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC8EC44F31AADDBAC2FB7BBB7C465D9D",
+   "sender": "~",
+   "text": "וואוו נפלא!!",
+   "ts": 1791726490000,
+   "date": "2026-10-11",
+   "time": "16:48",
+   "files": [],
+   "drive": null,
+   "phone": "972536227899"
+  },
+  {
+   "id": "ACEC7B573FC230B50F65891B909F7CA2",
+   "sender": "~",
+   "text": "תודה רבה",
+   "ts": 1791726493000,
+   "date": "2026-10-11",
+   "time": "16:48",
+   "files": [],
+   "drive": null,
+   "phone": "972536227899"
+  },
+  {
+   "id": "AC622804207D90560D7F17656FDFC122",
+   "sender": "ספיר אהרוני",
+   "text": "אשמח לדעת האם יש קבוצה למשנה לכיתה ג?",
+   "ts": 1791726785000,
+   "date": "2026-10-11",
+   "time": "16:53",
+   "files": [],
+   "drive": null,
+   "phone": "972526082438"
+  },
+  {
+   "id": "AC17FDBD515E1CB84859B6D6D6A9E4DB",
+   "sender": "מירב גלזר",
+   "text": "כתוב שהקישור אופס.",
+   "ts": 1791727034000,
+   "date": "2026-10-11",
+   "time": "16:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "59KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_t4rI7uciuYVgvDr230m5QTdemblQ4Id/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_t4rI7uciuYVgvDr230m5QTdemblQ4Id&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547775065"
+  },
+  {
+   "id": "ACBFBF4DCA948FD9415F4FFDD2CED23F",
+   "sender": "מירב גלזר",
+   "text": "תודה רבה אבל במשנה כיתה ג כתוב שהקישור אופס.",
+   "ts": 1791727048000,
+   "date": "2026-10-11",
+   "time": "16:57",
+   "files": [],
+   "drive": null,
+   "phone": "972547775065"
+  },
+  {
+   "id": "AC0187023E81E6407D840F9730A2CF15",
+   "sender": "לאה מישור",
+   "text": "גם הקישורים האחרים...",
+   "ts": 1791731646000,
+   "date": "2026-10-11",
+   "time": "18:14",
+   "files": [],
+   "drive": null,
+   "phone": "972545680486"
+  },
+  {
+   "id": "ACB27C74A1A07E22458BA6A0F13AF1B7",
+   "sender": "טליה הורן",
+   "text": "יש למשהו תוכנית שנתית להלכה לכיתה ג?\nתודה רבה",
+   "ts": 1791738430000,
+   "date": "2026-10-11",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "phone": "972584483354"
   }
  ]
 }

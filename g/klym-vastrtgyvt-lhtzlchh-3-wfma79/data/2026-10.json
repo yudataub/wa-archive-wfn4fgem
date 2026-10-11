@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-11T08:29:39.900Z",
+ "updated": "2026-10-11T14:13:12.698Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -1247,6 +1247,74 @@
      "thumb": "https://drive.google.com/thumbnail?id=1thmBE4qFJGxPvz_DcKvlf5zo09k7FNfo&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5569A899D1AB44E776F83F868634E7C",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791727985000,
+   "date": "2026-10-11",
+   "time": "17:13",
+   "files": [
+    {
+     "name": "achat_beshavoa_1basis_hazak (1).pdf",
+     "size": "171KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1q-sg6gAeOzrG9CU4CdJnAjxbI7CxzyXc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5ECB99571799B08D348BBDA3159DA9F",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791727987000,
+   "date": "2026-10-11",
+   "time": "17:13",
+   "files": [
+    {
+     "name": "כרטיסייה 1 ערבית.pdf",
+     "size": "166KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/15271aA4zwxY3KFSRB8jGZ4aDxlIYsatw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5DCCA82899267CCA086E1CAFD0C232D",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791727989000,
+   "date": "2026-10-11",
+   "time": "17:13",
+   "files": [
+    {
+     "name": "achat_beshavoa_invitation (2).pdf",
+     "size": "149KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jl90niuYYBKG7AUG7Fk_p6VADueQYDiU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5B102915C833E55E8DFB367D39A876A",
+   "sender": "mary garby",
+   "text": "ממליצה בחום להצטרף💝",
+   "ts": 1791727990000,
+   "date": "2026-10-11",
+   "time": "17:13",
+   "files": [],
    "drive": null,
    "phone": "972546887626"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "10 דקות של למידה 3",
- "updated": "2026-10-09T12:00:05.328Z",
+ "updated": "2026-10-11T17:33:11.121Z",
  "messages": [
   {
    "id": "3EB0811D2E55A7B002952B",
@@ -73,6 +73,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=1nkzQJhrShh_kuTQVZFkEMH2oaVakspyj&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB0CCFB55855BF653F8D6",
+   "sender": "Or Pelach",
+   "text": "ערב טוב לכולם,\n*נפגשים בעוד שעה, ב-20:00*\nלהלן קישור לזום:\nJoin Zoom Meeting\nhttps://us06web.zoom.us/j/88066336669?pwd=Lb9ULA81ox9OSWgGkG4xK5FGHJgWCx.1\n\nMeeting ID: 880 6633 6669\nPasscode: 770489",
+   "ts": 1791734462000,
+   "date": "2026-10-11",
+   "time": "19:01",
+   "files": [],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB03E64507C45E273A7BD",
+   "sender": "Or Pelach",
+   "text": "להלן קישור להקלטה:\nhttps://youtu.be/_W7T3iMJBMc",
+   "ts": 1791739988000,
+   "date": "2026-10-11",
+   "time": "20:33",
+   "files": [],
    "drive": null,
    "phone": "972545691051"
   }

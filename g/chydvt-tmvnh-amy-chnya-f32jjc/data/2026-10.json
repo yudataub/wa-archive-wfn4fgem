@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-11T08:55:40.236Z",
+ "updated": "2026-10-11T15:57:26.256Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -289,6 +289,26 @@
      "path": "https://drive.google.com/file/d/1DOsB-6pU79sWrVfLgk3INM9zD4ETAZhI/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1DOsB-6pU79sWrVfLgk3INM9zD4ETAZhI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0CAB05E4AB9165D215E",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קלה\nנושא: מעגל השנה\n\nהחידה היא חלק מחוברת בר מצווה https://clap.co.il/aGl\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1791734221000,
+   "date": "2026-10-11",
+   "time": "18:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "366KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_OCCcuNW8-RhXubA2C57lxoBtijtsw4t/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_OCCcuNW8-RhXubA2C57lxoBtijtsw4t&sz=w1200"
     }
    ],
    "drive": null,

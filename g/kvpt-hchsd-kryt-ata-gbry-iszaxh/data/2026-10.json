@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-11T13:31:06.968Z",
+ "updated": "2026-10-11T14:23:42.722Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -830,7 +830,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1LAZptKjt7lPv2lnpe-NKT_0ErwHW54ta/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1LAZptKjt7lPv2lnpe-NKT_0ErwHW54ta&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1LAZptKjt7lPv2lnpe-NKT_0ErwHW54ta&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kvpt-hchsd-kryt-ata-gbry-iszaxh/v/2026-10/A57AF3B0E20F11EB2A6E3AE30A4800B3_0.mp4"
     }
    ],
    "drive": null,
@@ -943,11 +944,52 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1XtqUy9LN1z-H5u9plXKq8ATq8fNyRuR5/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1XtqUy9LN1z-H5u9plXKq8ATq8fNyRuR5&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1XtqUy9LN1z-H5u9plXKq8ATq8fNyRuR5&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kvpt-hchsd-kryt-ata-gbry-iszaxh/v/2026-10/AC1A56D5E75474ECB7DE3E5667265D06_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972529595959"
+  },
+  {
+   "id": "AC3DA475C27C335A34D10AF8B1D7992C",
+   "sender": "אריאל",
+   "text": "היום \nבין 18:00-20:00\nיום שני בין 10:00-12:00\nרביעי בין 19:00-21:00\nנוף הכרמל 13 קרית אתא \n\nארגון רועי לא יחסר \n😍😍😍",
+   "ts": 1791726091000,
+   "date": "2026-10-11",
+   "time": "16:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "816KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1IU4BSl0VdarLu582AUywDi4MdCqPDk6c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IU4BSl0VdarLu582AUywDi4MdCqPDk6c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "3AC01631CD06260BB31A",
+   "sender": "שמחה",
+   "text": "",
+   "ts": 1791728596000,
+   "date": "2026-10-11",
+   "time": "17:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "368KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_XQkBSec5671dEGvbe0hqTLmrqtEEIxc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_XQkBSec5671dEGvbe0hqTLmrqtEEIxc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547000977"
   }
  ]
 }

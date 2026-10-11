@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-11T12:09:23.387Z",
+ "updated": "2026-10-11T17:33:11.941Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1399,6 +1399,88 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "AC10CBA9842D25E703CC8C9A8D12009C",
+   "sender": "גדז' שמעון",
+   "text": "הודעת משרד הפנים: אזרחים יקרים, לידיעתכם: אזהרת שירותי הביטחון: שימו לב כי קבוצת אנשים המתחזים לשוטרים עוברת מדלת לדלת. הם נושאים מסמכים וטפסים עם סמלי משרד הפנים וטוענים שהם בודקים שלכל התושבים יש תעודות זהות תקפות ואוספים נתונים ביומטריים עבור \"מפקד אוכלוסין\" קרוב. הם נראים מכובדים וייתכן שהם לובשים מדי משרד הפנים. הם טוענים שהם רוצים לצלם אתכם/לקחת את טביעת האצבע שלכם \"כחלק מתוכנית כלשהי\". הם נושאים מחשב נייד, מכשיר ביומטרי ורשימת תושבים. הם מציגים רשימה זו ומבקשים את כל המידע הזה. אנו מזכירים לכם שאין יוזמות כאלה מצד הממשלה. אנא אל תספקו נתונים ביומטריים! אל תפתחו את הדלת! אל תכניסו אותם לביתכם!! גניבה והונאה עלולות להתרחש! אל תספקו מידע ללא הליכים רשמיים של סוכנויות ממשלתיות. העבירו הודעה זו לכל מי שבקהילה שלכם. אנא שתפו זאת עם בני משפחתכם וחבריכם. הזהירו את הוריכם וחבריכם המבוגרים.",
+   "ts": 1791739140000,
+   "date": "2026-10-11",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972545614454"
+  },
+  {
+   "id": "ACDA5A8F24E2E93841B76E75A0574D15",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791739909000,
+   "date": "2026-10-11",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "298KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hTCUX7fm1vH2HHqqA1FG0hhOuAHLZXyl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hTCUX7fm1vH2HHqqA1FG0hhOuAHLZXyl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC2DC591809340C3AA59FB5ADC468BE6",
+   "sender": "מרדכי",
+   "text": "כנראה שזה לא רלוונטי",
+   "ts": 1791739949000,
+   "date": "2026-10-11",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC789862610045D3C110FD5855183E4E",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791739960000,
+   "date": "2026-10-11",
+   "time": "20:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dSJ7HLI7Z_spUYI-cDCpe7gbJSjGuXYu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dSJ7HLI7Z_spUYI-cDCpe7gbJSjGuXYu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC741F5852298B5AC11B62B2830FB561",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791739967000,
+   "date": "2026-10-11",
+   "time": "20:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "455KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15aM7P8FZF93u_XdinDICMv3VYJP0euQX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15aM7P8FZF93u_XdinDICMv3VYJP0euQX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

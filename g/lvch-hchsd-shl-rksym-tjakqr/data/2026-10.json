@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-11T13:34:37.045Z",
+ "updated": "2026-10-11T15:58:58.503Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -4629,6 +4629,123 @@
    "files": [],
    "drive": null,
    "phone": "972553044700"
+  },
+  {
+   "id": "ACDD8C34131A365AAD21FF35536F24FA",
+   "sender": "אריאל",
+   "text": "היום \nבין 18:00-20:00\nיום שני בין 10:00-12:00\nרביעי בין 19:00-21:00\nנוף הכרמל 13 קרית אתא \n\nארגון רועי לא יחסר \n😍😍😍",
+   "ts": 1791726121000,
+   "date": "2026-10-11",
+   "time": "16:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "816KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1brEUFv5WCIv4wLcFJRB4WEqxZxjwZayk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1brEUFv5WCIv4wLcFJRB4WEqxZxjwZayk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "ACEA5CB5CA7BB8746D735C840413D98C",
+   "sender": "😀😀😀",
+   "text": "מה הטלפון שם משתלה רכסים",
+   "ts": 1791727075000,
+   "date": "2026-10-11",
+   "time": "16:57",
+   "files": [],
+   "drive": null,
+   "phone": "972586477866"
+  },
+  {
+   "id": "AC0EDCA061872F03326AEB9EA69A5FC7",
+   "sender": "😀😀😀",
+   "text": "בכפר חסידים",
+   "ts": 1791727086000,
+   "date": "2026-10-11",
+   "time": "16:58",
+   "files": [],
+   "drive": null,
+   "phone": "972586477866"
+  },
+  {
+   "id": "AC400E75C46E1F9FC5DC5998BD1759FE",
+   "sender": "מאיר שקלאר",
+   "text": "סגור היום כבר",
+   "ts": 1791727127000,
+   "date": "2026-10-11",
+   "time": "16:58",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "AC6E9FC5E4CAEC53CC92F978E2FA1CCF",
+   "sender": "מאיר שקלאר",
+   "text": "📇 חנה משתלה\n+972508442126",
+   "ts": 1791727142000,
+   "date": "2026-10-11",
+   "time": "16:59",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "3A45EFAB1CB2FEE97AB2",
+   "sender": "יוסי מנחם",
+   "text": "מוכר למישהו?",
+   "ts": 1791730560000,
+   "date": "2026-10-11",
+   "time": "17:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "347KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uh5FxRZ_G-s7xf4fpeeIv7ngALr3NIDQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uh5FxRZ_G-s7xf4fpeeIv7ngALr3NIDQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529955992"
+  },
+  {
+   "id": "AC87A2D29E539795D3BDADD500A95677",
+   "sender": "יואל שביב",
+   "text": "מישהו יודע את זמני הפעילות של עמדת הרב קו ליד יש בגבעה ב?",
+   "ts": 1791732573000,
+   "date": "2026-10-11",
+   "time": "18:29",
+   "files": [],
+   "drive": null,
+   "phone": "972527986846"
+  },
+  {
+   "id": "AC2C2B3BC73A376E5E67F1A1068BBE52",
+   "sender": "מאיר שקלאר",
+   "text": "מה עד 4",
+   "ts": 1791733152000,
+   "date": "2026-10-11",
+   "time": "18:39",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "A5750D4F79B243592CE3C359205FC866",
+   "sender": "מאיר מוגרבי",
+   "text": "מישהו במקס סטוק?",
+   "ts": 1791734310000,
+   "date": "2026-10-11",
+   "time": "18:58",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

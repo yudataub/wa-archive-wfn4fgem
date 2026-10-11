@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-11T06:03:01.418Z",
+ "updated": "2026-10-11T15:52:26.178Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -1698,6 +1698,81 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "3EB0BF4AD165EACB8CCAC1",
+   "sender": "שלומית",
+   "text": "אפשר תזכורת? אני זוכרת שהשתמשתי בכלי storybook או משהו דומה לזה. מכניסים מלל והוא יוצר סיפור עם תמונות. איפה מוצאים אותו? יש לי בלקאוט",
+   "ts": 1791730187000,
+   "date": "2026-10-11",
+   "time": "17:49",
+   "files": [],
+   "drive": null,
+   "phone": "972504682078"
+  },
+  {
+   "id": "3EB0069206FBA2E1A4E757",
+   "sender": "יעקב המר",
+   "text": "זה בתוך ג'מיני\nhttps://gemini.google/overview/storybook/",
+   "ts": 1791730343000,
+   "date": "2026-10-11",
+   "time": "17:52",
+   "files": [],
+   "drive": null,
+   "phone": "972526333503"
+  },
+  {
+   "id": "3EB0BA641EDEFFADBA1E37",
+   "sender": "שלומית",
+   "text": "תודה רבה!!!🌷",
+   "ts": 1791730433000,
+   "date": "2026-10-11",
+   "time": "17:53",
+   "files": [],
+   "drive": null,
+   "phone": "972504682078"
+  },
+  {
+   "id": "AC38AADF7235B5F7B5F83ADA8A402D21",
+   "sender": "‏‮ꗪ‮I‮ᘃ‮𐋉‮ᘕ‮ ‮ᑊ‮𐑸‮I‮ਕ‮𐑸",
+   "text": "",
+   "ts": 1791730452000,
+   "date": "2026-10-11",
+   "time": "17:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11zyClwc1gtqYo228-VacpyJqGbL0HcOA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11zyClwc1gtqYo228-VacpyJqGbL0HcOA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523952200"
+  },
+  {
+   "id": "AC144FB3745ED57E7A1346BFF1FD23E5",
+   "sender": "‏‮ꗪ‮I‮ᘃ‮𐋉‮ᘕ‮ ‮ᑊ‮𐑸‮I‮ਕ‮𐑸",
+   "text": "תלחצי על gem, ואז תבחרי ברשימה סטורי בוק",
+   "ts": 1791730454000,
+   "date": "2026-10-11",
+   "time": "17:54",
+   "files": [],
+   "drive": null,
+   "phone": "972523952200"
+  },
+  {
+   "id": "3ADEE106C2BFC1318A14",
+   "sender": "קרן יולוס",
+   "text": "ערב טוב, \nאשמח להתייעצות טלפונית קצרה עם מורה לאנגלית בחט״ב שמנהלת את הלמידה בסביבה דיגיטלית. \nהאם יש מישהי כזאת בקבוצה המדהימה הזאת?",
+   "ts": 1791733936000,
+   "date": "2026-10-11",
+   "time": "18:52",
+   "files": [],
+   "drive": null,
+   "phone": "972545385074"
   }
  ]
 }

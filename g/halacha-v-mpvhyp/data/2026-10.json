@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-08T13:15:24.774Z",
+ "updated": "2026-10-11T16:20:34.117Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -348,6 +348,139 @@
    "files": [],
    "drive": null,
    "phone": "972544449691"
+  },
+  {
+   "id": "AC4941C9403C3CD1D0FBB843EA3E1825",
+   "sender": "זהר",
+   "text": "",
+   "ts": 1791730205000,
+   "date": "2026-10-11",
+   "time": "17:50",
+   "files": [
+    {
+     "name": "shabbat_worksheet_261008_234502.pdf",
+     "size": "1.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Y4ULLJOVNtgWvNVRsSAh6_eVA_DPwgVv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508744451"
+  },
+  {
+   "id": "AC2621D9A9D05F5AA5FAC4BB76E654E8",
+   "sender": "זהר",
+   "text": "",
+   "ts": 1791730471000,
+   "date": "2026-10-11",
+   "time": "17:54",
+   "files": [
+    {
+     "name": "הלכות_שבת_וקניית_מאכלים_(2).pptx",
+     "size": "32.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1UR_qQ8caTBkJv7aKyGFroNvR7vkI_R2m/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508744451"
+  },
+  {
+   "id": "3EB0BEFDAFE7CA4F11F1B6",
+   "sender": "מוריה🌹",
+   "text": "לפי תוכנית הלימודים- עכשיו אמורים ללמד הלכות הזכרת גשמים, לא?",
+   "ts": 1791734140000,
+   "date": "2026-10-11",
+   "time": "18:55",
+   "files": [],
+   "drive": null,
+   "phone": "972548540291"
+  },
+  {
+   "id": "AC71F13603D0FD39F04A2C2AA6446E79",
+   "sender": "❤❤❤❤",
+   "text": "אפשר קישור להלכה כיתה ה בבקשה",
+   "ts": 1791734883000,
+   "date": "2026-10-11",
+   "time": "19:08",
+   "files": [],
+   "drive": null,
+   "phone": "972522406167"
+  },
+  {
+   "id": "3AB182FE74800B1EFAC5",
+   "sender": "בת חן",
+   "text": "שיעור אחד נראה לי",
+   "ts": 1791735315000,
+   "date": "2026-10-11",
+   "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3AF7718EB71570DAF859",
+   "sender": "בת חן",
+   "text": "",
+   "ts": 1791735368000,
+   "date": "2026-10-11",
+   "time": "19:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SBXLOi9cwym9Yo5qwEt01RxFIk3AaQm4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SBXLOi9cwym9Yo5qwEt01RxFIk3AaQm4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3EB023779BAE7B9679CEEB",
+   "sender": "מוריה🌹",
+   "text": "זה  לפי הסדר, נכון?",
+   "ts": 1791735449000,
+   "date": "2026-10-11",
+   "time": "19:17",
+   "files": [],
+   "drive": null,
+   "phone": "972548540291"
+  },
+  {
+   "id": "3EB0E0C8AF3C77CE5589C5",
+   "sender": "מוריה🌹",
+   "text": "",
+   "ts": 1791735536000,
+   "date": "2026-10-11",
+   "time": "19:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ukcJvTeYKt8lSReFHtwETS93WUTAhcDu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ukcJvTeYKt8lSReFHtwETS93WUTAhcDu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548540291"
+  },
+  {
+   "id": "3A3A12F2B68E635CFF18",
+   "sender": "בת חן",
+   "text": "https://meyda.education.gov.il/files/mazkirut_pedagogit/toshbammd/tochnitnew6.docx",
+   "ts": 1791735619000,
+   "date": "2026-10-11",
+   "time": "19:20",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-11T13:22:36.836Z",
+ "updated": "2026-10-11T17:31:41.921Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -2478,6 +2478,369 @@
    ],
    "drive": null,
    "phone": "972556788387"
+  },
+  {
+   "id": "AC3D7712886C21CDB359086DBA4501ED",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1791726568000,
+   "date": "2026-10-11",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GnlV7wSgGgtQl-rWbMdqlFs1QWnszYx3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GnlV7wSgGgtQl-rWbMdqlFs1QWnszYx3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC6176D00A6BD04E625EBBBE870A758C",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1791726569000,
+   "date": "2026-10-11",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "349KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IcT0FIOrcJEoCYGnG5KrZ1eoLjeaP8Ip/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IcT0FIOrcJEoCYGnG5KrZ1eoLjeaP8Ip&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACB306A1D1120EBF7591BA70F6DF0B5B",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1791726569000,
+   "date": "2026-10-11",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1U85yngmlnKADtYb9ktiZ5Ups3J0yBDU1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U85yngmlnKADtYb9ktiZ5Ups3J0yBDU1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACC7E833E8457A67F9D0C4F5B8D055D4",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1791726569000,
+   "date": "2026-10-11",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "476KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tdhCT7azkiPv8qqxkB_LpmgKUWzSW_ph/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tdhCT7azkiPv8qqxkB_LpmgKUWzSW_ph&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACF345D1DFA8AB7F6E236F405EA9DF5F",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1791726569000,
+   "date": "2026-10-11",
+   "time": "16:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "292KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ol25bfBwPkOXUpZj9A7U9mvxWZr-HZOi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ol25bfBwPkOXUpZj9A7U9mvxWZr-HZOi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC86D64A98F1E331F737EFD5819F634C",
+   "sender": "הירש מיכאל",
+   "text": "למסירה",
+   "ts": 1791726576000,
+   "date": "2026-10-11",
+   "time": "16:49",
+   "files": [],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC428DAF1B0648BCACBEFB20A4C5C8A0",
+   "sender": "הירש מיכאל",
+   "text": "טל0523201067",
+   "ts": 1791726602000,
+   "date": "2026-10-11",
+   "time": "16:50",
+   "files": [],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "3EB0DCBFFFC1F847D4177E",
+   "sender": "נועה רוזנטל",
+   "text": "מי מכיר טכנאי מקצועי למכונות כביסה?",
+   "ts": 1791728265000,
+   "date": "2026-10-11",
+   "time": "17:17",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
+  },
+  {
+   "id": "AC4D7852EA22A157A494E4FF53628F8A",
+   "sender": "הירש מיכאל",
+   "text": "מזל טוב למשפחת מליק לרגל הולדת הבת",
+   "ts": 1791728734000,
+   "date": "2026-10-11",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "ACF5FD5EDA777DA8EFF6D2730DD39902",
+   "sender": "הירש מיכאל",
+   "text": "הרבה נחת",
+   "ts": 1791728739000,
+   "date": "2026-10-11",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC96D7D488E28DF54C5FED27A7EBA73D",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1791728743000,
+   "date": "2026-10-11",
+   "time": "17:25",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "82KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1x9Wmm_z76LSs7ITEuFOrdx86-F6oAVOf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x9Wmm_z76LSs7ITEuFOrdx86-F6oAVOf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "AC253D8B97F7821A610BDF4A319E8718",
+   "sender": "יעקב קרלינסקי",
+   "text": "📇 טכנאי אורן אברג'ל\n+972502233224",
+   "ts": 1791730001000,
+   "date": "2026-10-11",
+   "time": "17:46",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACDD984AC0384CE253F8B1E5EA9AD18F",
+   "sender": "נועה רוזנטל",
+   "text": "אם מישהו מכיר עוד טכנאים אשמח לקבל מספרים",
+   "ts": 1791731945000,
+   "date": "2026-10-11",
+   "time": "18:19",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
+  },
+  {
+   "id": "AC10E19219049F8A42CA773E161718C7",
+   "sender": "וינגרטן",
+   "text": "📇 בנימין לבנון\n+972534789283",
+   "ts": 1791732177000,
+   "date": "2026-10-11",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972583967916"
+  },
+  {
+   "id": "AC537735AD079FCEB1E41068C2C8AE31",
+   "sender": "וינגרטן",
+   "text": "תנסה אולי לבנון יכול בעבר היה מתעסק בזה",
+   "ts": 1791732178000,
+   "date": "2026-10-11",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972583967916"
+  },
+  {
+   "id": "ACF688D02A399711334863427534BB19",
+   "sender": "David",
+   "text": "היום שנוצרים החשמל מיוצרים בסין עלות נמוכה שווה לשקול לרכוש חדש לעיתים קרובות יותר מאשר להשקיע על טכנאי .\nתובנה שלי",
+   "ts": 1791732179000,
+   "date": "2026-10-11",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972526853923"
+  },
+  {
+   "id": "3EB027F261AE3A2263DB1D",
+   "sender": "נועה רוזנטל",
+   "text": "🙏",
+   "ts": 1791734594000,
+   "date": "2026-10-11",
+   "time": "19:03",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
+  },
+  {
+   "id": "ACC03CDE0A094FDF3AA5C65D89A61029",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1791734968000,
+   "date": "2026-10-11",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yZStOXUAjI5qiMIpguRtAw5vMC0a4vY9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yZStOXUAjI5qiMIpguRtAw5vMC0a4vY9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC0D76DC32E1EEB18563BC9A6C999C79",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1791734969000,
+   "date": "2026-10-11",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZZ3tsJbwNfubtI1v2sBolKgWHIWBdwpT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZZ3tsJbwNfubtI1v2sBolKgWHIWBdwpT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "ACA5D3D85569517A7270DD3E30CC69EE",
+   "sender": "בני קרמר",
+   "text": "החל ממחר\nשחרית בשעה 08:15\nמעריב בשעה 18:45",
+   "ts": 1791734969000,
+   "date": "2026-10-11",
+   "time": "19:09",
+   "files": [],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "3EB0D74839F6FDFEAB6786",
+   "sender": "ישי",
+   "text": "היוםם!!!!!!",
+   "ts": 1791735092000,
+   "date": "2026-10-11",
+   "time": "19:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "367KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sLZTiZEFyuD4areVNcpJVpHTlYEUEUjk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sLZTiZEFyuD4areVNcpJVpHTlYEUEUjk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0FA85C11EAFC5119402",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1791735111000,
+   "date": "2026-10-11",
+   "time": "19:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "513KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TbWun5o1DyCiY3_jJcxvNCbBY_Dz3AqZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TbWun5o1DyCiY3_jJcxvNCbBY_Dz3AqZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC939DD7036F5BA77FCBC5A0326B269B",
+   "sender": "יעקב וקשטוק",
+   "text": "מישהו נוסע השבוע מירושלים לקרית אתא? צריך להעביר משהו קטן",
+   "ts": 1791737156000,
+   "date": "2026-10-11",
+   "time": "19:45",
+   "files": [],
+   "drive": null,
+   "phone": "972587462333"
+  },
+  {
+   "id": "ACEEF94A41DBD7DABCF1B7E8DEAB7B54",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1791739886000,
+   "date": "2026-10-11",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vIb-GsD6l5aASfdNKfNetrdNCD82jWq_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vIb-GsD6l5aASfdNKfNetrdNCD82jWq_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }

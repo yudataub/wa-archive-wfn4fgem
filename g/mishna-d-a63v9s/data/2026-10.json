@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-11T13:21:06.813Z",
+ "updated": "2026-10-11T15:16:21.306Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -554,6 +554,37 @@
    "date": "2026-10-11",
    "time": "16:21",
    "files": [],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "ACC596A93F22E8C79E81A2D2734DA51E",
+   "sender": "קובי",
+   "text": "יש בתיאור הקבוצה",
+   "ts": 1791728841000,
+   "date": "2026-10-11",
+   "time": "17:27",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "AC0910ECC7EB5DA836533A5420D02DFC",
+   "sender": "Léa🌻💚",
+   "text": "יש קישור לזה👆\nזה לא תוכנית לימודים. אשמח לעזרה",
+   "ts": 1791731762000,
+   "date": "2026-10-11",
+   "time": "18:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-J4Mtlvk_54R_Y_YIumHhM21kizXm0pd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-J4Mtlvk_54R_Y_YIumHhM21kizXm0pd&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545765743"
   }
