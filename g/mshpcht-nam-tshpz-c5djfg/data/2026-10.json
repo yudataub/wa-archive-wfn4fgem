@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-12T04:00:49.616Z",
+ "updated": "2026-10-12T08:47:22.112Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -1462,6 +1462,108 @@
    "files": [],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "AC6BA9AEBAD5FAAB3DB97D9C0A1CD259",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1791788467000,
+   "date": "2026-10-12",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14X_VpQ_FRzTO9OpaRvKFT3i2eojF4e6L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14X_VpQ_FRzTO9OpaRvKFT3i2eojF4e6L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC160EF810391F4823742B362B3EF4C3",
+   "sender": "~sara amor",
+   "text": "",
+   "ts": 1791788724000,
+   "date": "2026-10-12",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "272KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yPl35MPoOiCVY9mXhIz2KOpwYTy44KUJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yPl35MPoOiCVY9mXhIz2KOpwYTy44KUJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972515241998"
+  },
+  {
+   "id": "ACB061F1E4C5BE4F003751BC9E7B473D",
+   "sender": "~sara amor",
+   "text": "",
+   "ts": 1791788724000,
+   "date": "2026-10-12",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15LuSRbM8C9Fn4fYlL-_5sOnAVFE8DTMm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15LuSRbM8C9Fn4fYlL-_5sOnAVFE8DTMm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972515241998"
+  },
+  {
+   "id": "ACB0AD442F1FB94D4C1CB0CCF558928C",
+   "sender": "~sara amor",
+   "text": "",
+   "ts": 1791788724000,
+   "date": "2026-10-12",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1c0WCgXpkQYhDGOOyudBzDMzox8wjmxAY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1c0WCgXpkQYhDGOOyudBzDMzox8wjmxAY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972515241998"
+  },
+  {
+   "id": "AC747E5A41A8145675E879051F58BF3A",
+   "sender": "אורלי אוחנה",
+   "text": "צוות יקר,\nבכתות א'3, ב1 הותקן לוח מיוחד ללקויי ראיה, אין להשתמש בטוש מחיק רגיל, יש טוש מיוחד, אבקש להקפיד על כך!\nטוש מחיק רגיל מקלקל את הלוח.",
+   "ts": 1791792411000,
+   "date": "2026-10-12",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACF3F167D662960F5243AFE1F0918159",
+   "sender": "אורטל שירה זוהר",
+   "text": "מהמםםםם",
+   "ts": 1791794834000,
+   "date": "2026-10-12",
+   "time": "11:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526640067"
   }
  ]
 }

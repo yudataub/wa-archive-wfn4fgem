@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כבד את השם מגרונך",
- "updated": "2026-10-12T05:36:35.420Z",
+ "updated": "2026-10-12T08:30:15.114Z",
  "messages": [
   {
    "id": "AC3D0F348AB4A77C0C3227737BD3E8F1",
@@ -66,6 +66,37 @@
    "files": [],
    "drive": null,
    "phone": "972523302560"
+  },
+  {
+   "id": "ACD355D8F56B1722A7D8119EEB20ED9D",
+   "sender": "ktla5359",
+   "text": "",
+   "ts": 1791793795000,
+   "date": "2026-10-12",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bwg94XMxjNy7AHL-b318dzRgbs4B8pom/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bwg94XMxjNy7AHL-b318dzRgbs4B8pom&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "ACDD04DA970AEE55C60D2F5FC7F717B9",
+   "sender": "ktla5359",
+   "text": "☝🏻 שימו לב לכתובת",
+   "ts": 1791793816000,
+   "date": "2026-10-12",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972524560100"
   }
  ]
 }

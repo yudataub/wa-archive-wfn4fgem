@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-11T20:55:43.701Z",
+ "updated": "2026-10-12T06:01:05.770Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -3614,6 +3614,25 @@
    ],
    "drive": null,
    "phone": "972585511411"
+  },
+  {
+   "id": "3EB0C107CF1ABD55522B1B",
+   "sender": "יהונתן בונה",
+   "text": "",
+   "ts": 1791784835000,
+   "date": "2026-10-12",
+   "time": "09:00",
+   "files": [
+    {
+     "name": "הפעולות בקרבן עולה - למילוי.pdf",
+     "size": "110KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Y4Q78cDvz3ARjAi_5vpt4H21OsW_NnSb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523114066"
   }
  ]
 }

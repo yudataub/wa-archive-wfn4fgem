@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-11T15:44:58.306Z",
+ "updated": "2026-10-12T09:33:59.799Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -863,6 +863,88 @@
    "time": "18:44",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACE02C1844DB9FD8785DD301A9E16A96",
+   "sender": "בני בוסקילה",
+   "text": "יש למישהו חומרים על הבן איש חי?",
+   "ts": 1791794263000,
+   "date": "2026-10-12",
+   "time": "11:37",
+   "files": [],
+   "drive": null,
+   "phone": "972586500722"
+  },
+  {
+   "id": "AC7E461CBB4175AB17AB9A05C05997B3",
+   "sender": "𓉱שרה בן אריה𓉱",
+   "text": "היי לכולם,\n\nשמי שרה בן אריה, ואני עורכת מחקר לתואר על מורות שמלמדות תלמידים עם מונמכות קוגניטיבית בנושא הכנה לקריאה\n\nהקול והניסיון שלכן בשטח ממש קריטיים כדי להבין מה קורה בפועל. אודה המון אם תוכלו להקדיש זמן קצר לענייה על השאלון, וכמובן להעביר למורים ומורות רלוונטיים:\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSfuwLyVEUCPbSOSzbEzosdE_YGJTmMlsXkpyypdJsmmf45gyg/viewform\n\nחשוב ממש לציין את שמי-שרה בן אריה, בשאלון\n\nתודה ענקית על העזרה! ❤️",
+   "ts": 1791794522000,
+   "date": "2026-10-12",
+   "time": "11:42",
+   "files": [],
+   "drive": null,
+   "phone": "972515529396"
+  },
+  {
+   "id": "ACF5978D372E2F599193ECCCF83AC624",
+   "sender": "יפית בן שלומי",
+   "text": "משהו יכול בבקשה לשלוח קישור להצטרפות לקבוצה??",
+   "ts": 1791794981000,
+   "date": "2026-10-12",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972524469946"
+  },
+  {
+   "id": "A5B3728B6D1A4D49D4C7F2C316CE7914",
+   "sender": "מתן - עולם של תוכן",
+   "text": "בתיאור",
+   "ts": 1791795415000,
+   "date": "2026-10-12",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972543979764"
+  },
+  {
+   "id": "ACAF71F2E302164E8D1B9442C0614535",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1791797608000,
+   "date": "2026-10-12",
+   "time": "12:33",
+   "files": [
+    {
+     "name": "הבן איש חי - צביעה.pdf",
+     "size": "150KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1N2Nr5IRxNOnt0X5Yj1lIa0b2ryfdcyaM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "ACE5E04D7F616E84959A97F18A0593A7",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1791797610000,
+   "date": "2026-10-12",
+   "time": "12:33",
+   "files": [
+    {
+     "name": "בְּאֵר מַיִם חַיִּים- הבן איש חי- סיפור מנוקד.pdf",
+     "size": "122KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/177aVP_Ff7OGkpM9Ug5dpixLhtdZb7Vsl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
   }
  ]
 }

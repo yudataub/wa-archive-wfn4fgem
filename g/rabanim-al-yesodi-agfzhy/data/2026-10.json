@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-12T05:04:44.010Z",
+ "updated": "2026-10-12T07:07:53.022Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -685,6 +685,86 @@
    ],
    "drive": null,
    "phone": "972542653170"
+  },
+  {
+   "id": "2A58F4ED5B53F70C2DCB",
+   "sender": "שירה עם שלם",
+   "text": "",
+   "ts": 1791787765000,
+   "date": "2026-10-12",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "405KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Cjd-3AvelE5mIO5--3p9vGwHrZsCoBAV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Cjd-3AvelE5mIO5--3p9vGwHrZsCoBAV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532805918"
+  },
+  {
+   "id": "2A6D28492D0A68CAD816",
+   "sender": "שירה עם שלם",
+   "text": "היום זכינו לפתוח את מדרשת שחרית, לאורו של אחיה דסקל הי״ד פתחנו בתפילת ר״ח חגיגית בבית הכנסת והלל בליווי המורה מורן, דברי חיזוק על חודש מרחשוון, על הגשמים ועל כוחה של תפילה של כל אחת מאיתנו. לא סתם אם שכחנו לבקש על הגשם לפעמים צריך לחזור ולהתפלל, שמענו סיפורים מחזקים על בחירות של משמעות בכל רגע, מה ה׳ רוצה ממני עכשיו, משלומית על בנה, אחיה. ✨ שנזכה להוסיף אור קמעא קמעא בכל יום, כמו השחר.",
+   "ts": 1791787765000,
+   "date": "2026-10-12",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "483KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14pCats-60Hgzizf7VrwEIdjah2Y8bCY1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14pCats-60Hgzizf7VrwEIdjah2Y8bCY1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532805918"
+  },
+  {
+   "id": "2A3AC8593D56F9CEEED6",
+   "sender": "שירה עם שלם",
+   "text": "",
+   "ts": 1791788867000,
+   "date": "2026-10-12",
+   "time": "10:07",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "162KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1524hEbbenAgFLOOU8u1TgKGICTFlJE8v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1524hEbbenAgFLOOU8u1TgKGICTFlJE8v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532805918"
+  },
+  {
+   "id": "2ACC3D66B8107BE1CCBA",
+   "sender": "שירה עם שלם",
+   "text": "",
+   "ts": 1791788869000,
+   "date": "2026-10-12",
+   "time": "10:07",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "161KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1QzxCuMU6JkOcGVs_SnS-yA1HiXqiKMM1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QzxCuMU6JkOcGVs_SnS-yA1HiXqiKMM1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532805918"
   }
  ]
 }

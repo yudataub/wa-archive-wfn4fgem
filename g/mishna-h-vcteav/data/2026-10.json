@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-11T19:39:04.155Z",
+ "updated": "2026-10-12T07:46:23.584Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -916,6 +916,47 @@
    "files": [],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "ACBD0FD581EC643C5F59EB32189B56A9",
+   "sender": "א",
+   "text": "אפשר לשלוח שוב בבקשה",
+   "ts": 1791787633000,
+   "date": "2026-10-12",
+   "time": "09:47",
+   "files": [],
+   "drive": null,
+   "phone": "972509237708"
+  },
+  {
+   "id": "A5F8037DFA4849A2F5F7D871CCFAB9A9",
+   "sender": "מתן - עולם של תוכן",
+   "text": "",
+   "ts": 1791789284000,
+   "date": "2026-10-12",
+   "time": "10:14",
+   "files": [
+    {
+     "name": "קומיקס סופי לגמרי.pdf",
+     "size": "31.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1aFWYuy3Rp4HqDWWZ_4TLR63NU6qpcmZo/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543979764"
+  },
+  {
+   "id": "AC91691316D95E1BB53BA6C0FF0F27B2",
+   "sender": "א",
+   "text": "תודה",
+   "ts": 1791791184000,
+   "date": "2026-10-12",
+   "time": "10:46",
+   "files": [],
+   "drive": null,
+   "phone": "972509237708"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-10-08T09:14:50.530Z",
+ "updated": "2026-10-12T07:14:53.097Z",
  "messages": [
   {
    "id": "3AE13462F94DE0376307",
@@ -82,6 +82,26 @@
      "path": "https://drive.google.com/file/d/1hlCSmejnrk865ivi0_Cgx4MZHlvrJiOb/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1hlCSmejnrk865ivi0_Cgx4MZHlvrJiOb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3A2CA4CA827E81993622",
+   "sender": "חגית סייג",
+   "text": "📊💰 רוצים להבין יותר על כסף, חיסכון והתנהלות כלכלית נכונה?\nמרכז צעירים קרית אתא מזמין אתכם לסדנה מעשית ומעשירה בנושא *חינוך פיננסי*\n📅 יום רביעי | 14.10\n🕢 שעה 19:30\n📍מרכז צעירים קרית אתא, רח' מורדי הגטאות 24\nבסדנה נדבר על:\n✅ סמכות הורית וחינוך פיננסי\n✅ איך מקנים לילדים ערכים והרגלים כלכליים\n✅ ניהול נכון של דמי כיס וחיסכון\n✅ כלים פרקטיים להתנהלות כלכלית משפחתית\n\n💰 עלות השתתפות: 10 ₪ בלבד\n\n🔗 להרשמה: https://katzr.net/04ffd7\n\nמחכים לכם! 😊",
+   "ts": 1791789268000,
+   "date": "2026-10-12",
+   "time": "10:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "462KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HCSm-ycUQ6apu7PXw5DLcLEcAa-C5UPS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HCSm-ycUQ6apu7PXw5DLcLEcAa-C5UPS&sz=w1200"
     }
    ],
    "drive": null,

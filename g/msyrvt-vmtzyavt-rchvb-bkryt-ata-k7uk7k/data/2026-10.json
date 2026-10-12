@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-11T16:35:34.301Z",
+ "updated": "2026-10-12T08:31:45.145Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1015,6 +1015,68 @@
    "files": [],
    "drive": null,
    "phone": "972528969584"
+  },
+  {
+   "id": "AC8E5E6FE0AC91D2963B3846F328F881",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791792002000,
+   "date": "2026-10-12",
+   "time": "11:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "412KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lkIacHPka_9BjEPmh5CwxEhSi21aX9ye/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lkIacHPka_9BjEPmh5CwxEhSi21aX9ye&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC94071A8E1172C3DAFF30651903E2F4",
+   "sender": "ויקטוריה",
+   "text": "אליעזר בן יהודה 4 למטה",
+   "ts": 1791792010000,
+   "date": "2026-10-12",
+   "time": "11:00",
+   "files": [],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC5AAA1D7BF2D824B7D0F7268E7BCD95",
+   "sender": "טלי דוד",
+   "text": "חוברת צביעה, מדבקות ושבלונות.\nחלק קטן כבר שומש.",
+   "ts": 1791793680000,
+   "date": "2026-10-12",
+   "time": "11:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "331KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JJqOH-9ELGwoTylcFYw9UCRIs3A9G5Yh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JJqOH-9ELGwoTylcFYw9UCRIs3A9G5Yh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "AC06276475BEA6404464C8FD02033417",
+   "sender": "אהובה",
+   "text": "חמ\"ל אזרחי מבקשים שמיכות חורף לחיילים.\nאשמח להגיע לקחת!",
+   "ts": 1791793903000,
+   "date": "2026-10-12",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972528640925"
   }
  ]
 }

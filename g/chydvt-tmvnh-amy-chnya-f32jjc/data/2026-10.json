@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-11T15:57:26.256Z",
+ "updated": "2026-10-12T09:10:00.857Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -309,6 +309,26 @@
      "path": "https://drive.google.com/file/d/1_OCCcuNW8-RhXubA2C57lxoBtijtsw4t/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1_OCCcuNW8-RhXubA2C57lxoBtijtsw4t&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "ACB55A9C0831B80E6E51F360DED1D92D",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קשה\nנושא: מקומות בארץ\n\nהחידה בשיתוף עם גילוי דעת\nאחת החידות האהובות עלי\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1791796186000,
+   "date": "2026-10-12",
+   "time": "12:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bQGeegvYAn43TA54E6D0Ig58uY7vlxEp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bQGeegvYAn43TA54E6D0Ig58uY7vlxEp&sz=w1200"
     }
    ],
    "drive": null,

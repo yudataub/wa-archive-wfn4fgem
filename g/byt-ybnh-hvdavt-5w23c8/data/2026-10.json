@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-12T04:07:25.644Z",
+ "updated": "2026-10-12T06:51:11.215Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -744,6 +744,48 @@
    "files": [],
    "drive": null,
    "phone": "972502411466"
+  },
+  {
+   "id": "AC383DEB5C95A8E5A7857371AB9CA174",
+   "sender": "דורית חניה",
+   "text": "בוקר טוב. שימו לב לתורנויות",
+   "ts": 1791787306000,
+   "date": "2026-10-12",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Q9mvNBa0LhYh6C471lmwMQxDSx1eKo3L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q9mvNBa0LhYh6C471lmwMQxDSx1eKo3L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505924155"
+  },
+  {
+   "id": "AC2E31C85FDDB7C86EE52AB20C941402",
+   "sender": "דורית חניה",
+   "text": "הילה ב, צופיה, אביב, אילונה ,שמחה,שירן אסנת",
+   "ts": 1791787389000,
+   "date": "2026-10-12",
+   "time": "09:43",
+   "files": [],
+   "drive": null,
+   "phone": "972505924155"
+  },
+  {
+   "id": "AC79A4C0017EAC81B4A1E65261F975A3",
+   "sender": "דורית חניה",
+   "text": "שימו לב ללוז ההדרכה .",
+   "ts": 1791787866000,
+   "date": "2026-10-12",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972505924155"
   }
  ]
 }

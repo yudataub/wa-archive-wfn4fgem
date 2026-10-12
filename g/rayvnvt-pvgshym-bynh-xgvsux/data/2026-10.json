@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-11T18:17:48.465Z",
+ "updated": "2026-10-12T08:21:53.129Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -1430,6 +1430,136 @@
    "files": [],
    "drive": null,
    "phone": "972507975380"
+  },
+  {
+   "id": "AC8B913DFE7E8A778A6C28BA763771D0",
+   "sender": "כרמית הכהן וינגרטן",
+   "text": "https://canva.link/kvanzt55b5nbxbm",
+   "ts": 1791786120000,
+   "date": "2026-10-12",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972525052937"
+  },
+  {
+   "id": "ACFFE7D27FD6A480DB852D68EAB74A4E",
+   "sender": "כרמית הכהן וינגרטן",
+   "text": "בהמשך לפרומפט ליצירת למידה חוקרת",
+   "ts": 1791786158000,
+   "date": "2026-10-12",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972525052937"
+  },
+  {
+   "id": "A5216B8F5C3C7A0B3FE751BD7B4A900E",
+   "sender": "תמר חמאדה",
+   "text": "מקסים 🔥",
+   "ts": 1791786173000,
+   "date": "2026-10-12",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A53F89A76ACB95DC8BD168DEF0002E97",
+   "sender": "תמר חמאדה",
+   "text": "עוד דרך לשדרג",
+   "ts": 1791786176000,
+   "date": "2026-10-12",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A54C84CC83512A9D478BE2CF7A919606",
+   "sender": "תמר חמאדה",
+   "text": "https://poh.education.gov.il/professional-development/compass-system/",
+   "ts": 1791790901000,
+   "date": "2026-10-12",
+   "time": "10:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12ygnVh4HpSIkjE0abnM2ivTvFA-u0PaI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12ygnVh4HpSIkjE0abnM2ivTvFA-u0PaI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "ACF9804F10E722AF488C87C98FBE66FE",
+   "sender": "כרמית הכהן וינגרטן",
+   "text": "יש פאפ?",
+   "ts": 1791791374000,
+   "date": "2026-10-12",
+   "time": "10:49",
+   "files": [],
+   "drive": null,
+   "phone": "972525052937"
+  },
+  {
+   "id": "3EB0EA7D9C2686B95242D2",
+   "sender": "תמר חמאדה",
+   "text": "כן🤦‍♀️ למרות שזה הכי אפקטיבי",
+   "ts": 1791791691000,
+   "date": "2026-10-12",
+   "time": "10:54",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "AC9868365196FEDF9E6F3B5C06D8C506",
+   "sender": "כרמית הכהן וינגרטן",
+   "text": "מסכימה לחלוטין וחושבת שפאפ חשוב מאוד, אבל אין ספק שמגביל לאזור מגורים",
+   "ts": 1791792492000,
+   "date": "2026-10-12",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972525052937"
+  },
+  {
+   "id": "A5ED25A230EF8B7121289E116B056B1D",
+   "sender": "תמר חמאדה",
+   "text": "זה ממש כן",
+   "ts": 1791792544000,
+   "date": "2026-10-12",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "3EB011491FA463051974E6",
+   "sender": "מרדכי ביטון",
+   "text": "נשמח שתגיעי לירושלים גברת תמר",
+   "ts": 1791793309000,
+   "date": "2026-10-12",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526780700"
+  },
+  {
+   "id": "3EB0C65DE4C31384A797B0",
+   "sender": "מרדכי ביטון",
+   "text": "זה הרבה מה לעשות כאן",
+   "ts": 1791793311000,
+   "date": "2026-10-12",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526780700"
   }
  ]
 }

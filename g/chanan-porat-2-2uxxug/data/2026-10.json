@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-11T19:53:04.377Z",
+ "updated": "2026-10-12T09:06:52.474Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -393,6 +393,55 @@
    "files": [],
    "drive": null,
    "phone": "972546204854"
+  },
+  {
+   "id": "3EB035DDE76C4BBC34D7EA",
+   "sender": "shmu54",
+   "text": "הנה חומר על חנן פורת ז\"ל והרב קוק זצ\"ל",
+   "ts": 1791787030000,
+   "date": "2026-10-12",
+   "time": "09:37",
+   "files": [
+    {
+     "name": "חנן פורת - והרב קוק.pptx",
+     "size": "36.5MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1JXwwTmhlbLx-o5k7g-z9BKkQ6wztO5zg/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "AC7063C1A3FC1B559EB2251090E10505",
+   "sender": "רחל עלוש",
+   "text": "אפשר בבקשה לשלוח שוב ציטוטים של הרב חנן",
+   "ts": 1791792574000,
+   "date": "2026-10-12",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972535215620"
+  },
+  {
+   "id": "3EB03F28FED73B623A6211",
+   "sender": "shmu54",
+   "text": "הנה ציטוטים, בהצלחה.",
+   "ts": 1791795998000,
+   "date": "2026-10-12",
+   "time": "12:06",
+   "files": [
+    {
+     "name": "חנן פורת - ציטוטים מדבריו+ תמונה+ תעודת זהות ועוד.docx",
+     "size": "",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "וואטסאפ לא איפשר להוריד"
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
   }
  ]
 }

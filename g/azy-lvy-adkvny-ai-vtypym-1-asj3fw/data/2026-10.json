@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עזי לוי -עדכוני AI וטיפים -1",
- "updated": "2026-10-05T06:42:36.532Z",
+ "updated": "2026-10-12T06:32:40.921Z",
  "messages": [
   {
    "id": "3EB06B8149D092A82FFE26",
@@ -79,6 +79,26 @@
      "path": "https://drive.google.com/file/d/1yV6lPpODY42cz2urpfPQHfbNRqS32hGt/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1yV6lPpODY42cz2urpfPQHfbNRqS32hGt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "3EB0A8FA34487F50B143FD",
+   "sender": "Ezy Levy",
+   "text": "הי חברים בוקר טוב\nמכל כיוון שומעים היום על סוכני AI. Claude Code, dots, Grok Bot, Spark, Muse… \nאז החלטתי לעשות קצת סדר: מי עושה מה, ואיפה הוא בכלל עובד?\n\nהרעיון המשותף הוא לתת ל־AI משימה שהוא יכול לקדם באמצעות כלים: לפתוח קבצים, לחפש מידע, להפעיל תוכנות ולבצע פעולות. \nאבל יש הבדלים בין הסוכנים.\nאז ביקשתי מאינסטינקט להתחיל ומקלוד לסיים והנה מפה עכשיווית שתתן לכם באופן אינטראקטיבי לשאול ולהשוות.\n- https://claude.ai/artifact/3B5UdnKX8i81wPTkwFT6eQ\n\nנקודה חשובה: קוד פתוח וחברה גדולה אינם הפכים. חברה יכולה לפתח סוכן פתוח, וסוכן פתוח יכול להשתמש במודל מסחרי בענן. גם התקנה במחשב שלכם לא מבטיחה שכל המידע נשאר בו.\n\nמבחינתי, הדרך לבחור היא להתחיל במשימה אחת שאתם רוצים להעביר לסוכן. לפתח תוכנה? לטפל במיילים? ליצור מצגת? לבצע סידורים? אחרי זה בודקים איפה הוא עובד, למה הוא מקבל גישה וכמה שליטה נשארת אצלכם.\n\nלעוד טיפים ורעיונות בנושאי AI מוזמנים להצטרף לקבוצה שקטה\nאפשר להעביר למי שרוצים.",
+   "ts": 1791786747000,
+   "date": "2026-10-12",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "374KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15ozSdqwLMTaACsNAOadV7exXnJGMurng/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15ozSdqwLMTaACsNAOadV7exXnJGMurng&sz=w1200"
     }
    ],
    "drive": null,

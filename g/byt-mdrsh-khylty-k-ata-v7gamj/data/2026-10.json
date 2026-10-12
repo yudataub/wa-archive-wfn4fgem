@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-12T04:51:13.729Z",
+ "updated": "2026-10-12T08:32:15.138Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1492,6 +1492,92 @@
    "files": [],
    "drive": null,
    "phone": "972529487410"
+  },
+  {
+   "id": "AC186F0044B129AF71F8312E1FBAA2DA",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791784281000,
+   "date": "2026-10-12",
+   "time": "08:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JzbhSxN3c3QqfpJvZ-4luLEaONi-OuHn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JzbhSxN3c3QqfpJvZ-4luLEaONi-OuHn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACACC80A84F3E0DAAE040E0C7DDB61AF",
+   "sender": "שי אבני",
+   "text": "אחוב אביר יעקב",
+   "ts": 1791784347000,
+   "date": "2026-10-12",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972526063301"
+  },
+  {
+   "id": "AC0C9BFE83A8C58A26179B509779DA65",
+   "sender": "הראל מור",
+   "text": "איפה יש ערבית מוקדמת בקריה?",
+   "ts": 1791792091000,
+   "date": "2026-10-12",
+   "time": "11:01",
+   "files": [],
+   "drive": null,
+   "phone": "972525257771"
+  },
+  {
+   "id": "3A33B970E0394BB6A590",
+   "sender": "מרדכי בן עזרא",
+   "text": "👆👆",
+   "ts": 1791792506000,
+   "date": "2026-10-12",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "phone": "972526692566"
+  },
+  {
+   "id": "3ADAD74154676F08A350",
+   "sender": "מרדכי בן עזרא",
+   "text": "📢📣📢📣\n\n*חברים יקרים שימו לב ❤️* \n\n*תפילת פלג מנחה בבית הכנסת-\"אוהל מאיר\"*\n*בשעה 17:15*\n\n*ברוכים הבאים!*",
+   "ts": 1791792540000,
+   "date": "2026-10-12",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526692566"
+  },
+  {
+   "id": "3A6A324B5A5ECFFD4CAC",
+   "sender": "מרדכי בן עזרא",
+   "text": "מנחה וערבית צמודים",
+   "ts": 1791792569000,
+   "date": "2026-10-12",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526692566"
+  },
+  {
+   "id": "AC95C26E1FFF237EC1823E2B656F1A2E",
+   "sender": "הראל מור",
+   "text": "👍 תודה",
+   "ts": 1791793932000,
+   "date": "2026-10-12",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972525257771"
   }
  ]
 }

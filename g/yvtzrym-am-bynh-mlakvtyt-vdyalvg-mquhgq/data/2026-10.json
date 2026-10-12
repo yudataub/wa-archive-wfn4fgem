@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-12T05:28:09.814Z",
+ "updated": "2026-10-12T08:39:30.376Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -2329,6 +2329,456 @@
    "files": [],
    "drive": null,
    "phone": "972543414224"
+  },
+  {
+   "id": "A51B6D6CBEBA2039551EE074CB0C6A4B",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791785904000,
+   "date": "2026-10-12",
+   "time": "09:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zW4Ftk-XyqgMf2ODcb_2Ei-2SN3IdHcD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zW4Ftk-XyqgMf2ODcb_2Ei-2SN3IdHcD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB02847CB02C466208B1E",
+   "sender": "נועם",
+   "text": "מי שרוצה, עטפתי את ספריות הוידאו הכי חזקות,פרומפטים וכו ליצירת סרטונים, תהנו",
+   "ts": 1791786173000,
+   "date": "2026-10-12",
+   "time": "09:22",
+   "files": [
+    {
+     "name": "skills.zip",
+     "size": "1.7MB",
+     "type": "application/zip",
+     "path": "https://drive.google.com/file/d/12yjSRB0x1t8ld_los2CZnmW00sCMiocn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB00671048707D5277658",
+   "sender": "נועם",
+   "text": "https://getartcraft.com/apps",
+   "ts": 1791788236000,
+   "date": "2026-10-12",
+   "time": "09:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB04212F13ED8CD38EC5F",
+   "sender": "נועם",
+   "text": "עכשיו הם גם הוציאו גרסאות לתוכנות אופיס",
+   "ts": 1791788237000,
+   "date": "2026-10-12",
+   "time": "09:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0EFEAEC3CF55745FF01",
+   "sender": "נועם",
+   "text": "שמעתם על זה?",
+   "ts": 1791788239000,
+   "date": "2026-10-12",
+   "time": "09:57",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1mfxyHGpEDlk8vcGIGM3uTmRPVscujlT2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mfxyHGpEDlk8vcGIGM3uTmRPVscujlT2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB095C642294B19119FBD",
+   "sender": "נועם",
+   "text": "אתמול הראיתי משהו שבניתי עם אופוס למתכנת שגם ניהל צוותי פיתוח והתקדם הלאה עם 30 שנות ניסיון בתחום, \n\nשאלתי כמה זמן היה לוקח לו לעשות את זה. הוא אמר שהוא לא היה מסוגל לעשות את זה. \n\nאבל אם הוא בתאוריה היה עם הידע - כמה שבועות, אולי כמה חודשים. \n\nקלוד עבד כמה שעות. \n\nמתכנתים היום לא כותבים קוד. הם מנהלים סוכן שבונה קוד יותר טוב מהם, עם שגיאות , אבל שגיאות אחרות ממה שהם היו עושים והם יותר מוודאים שהוא עובד נכון ומבינים את העבודה שלו , מאשר בודקים שורה שורה את הקוד. \n\nאני חושב שזה מה שמדהים פה,\nתלמדי איך מערכות עובדות\nמושגים בסיסיים ומתקדמים \nאיך עובד המודל (שגם זה משתנה )\nאיך להנחות  אותו נכון\nאיך לבדוק אותו\nשיטות עבודה חכמות כמו שאריק הסביר ותני לו לבצע את ה heavy lifting.  \n\nאני כן תוהה מה המקום של מתמתיקה דיסקרטית או טורי מקלורן בידע שנדרש ״מנהג״ בינה מלאכותית בימינו :…",
+   "ts": 1791788240000,
+   "date": "2026-10-12",
+   "time": "09:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0759DD92FAC92941D66",
+   "sender": "נועם",
+   "text": "אחרי שהבנו שקלוד מג׳נרט אחלה סרטוני הסבר - החלטתי לקחת את זה צעד נוסף קדימה וליצור סרטון שמסביר איך מתחברים לוואצאפ דרך חיבור API רשמי, שזה אחד הדברים הכי סיוטיים שיש.\n\nמדהים לראות איך הוא התמודד עם זה - ושמר על ההנחיות העיצוביות שלי לכל אורך הדרך. ועל סגנון העריכה. הסגנון המהיר והכיפי הזה נקרא Gen Z Edit. תנסו ותתמכרו! מוזמנים לשתף מה שיצא לכם בסגנון הזה 💪\n\nוהכי חשוב: תראו איזה הבדל בין סתם עוד סרטון, לבין יוז קייס פרקטי. קחו את זה למחלקות למידה בארגונים, חוויה אחרת לגמרי של למידה.",
+   "ts": 1791788242000,
+   "date": "2026-10-12",
+   "time": "09:57",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "26.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1WhySwZVbQmp0mdVkTZ3y3wc10ipzl97H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WhySwZVbQmp0mdVkTZ3y3wc10ipzl97H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A54BFBEE17FD45A112076BB301D7849D",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791790175000,
+   "date": "2026-10-12",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "305KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19R0ibeTM8SURve9tabtdjvXa7gyZoEN9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19R0ibeTM8SURve9tabtdjvXa7gyZoEN9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A597A3E88C900F482CF25BA056FEABDC",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791790178000,
+   "date": "2026-10-12",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "338KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H2NpmXH34kkCY0WacYxd4uCVa8B0mDYx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H2NpmXH34kkCY0WacYxd4uCVa8B0mDYx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A52AF001167A82A01957E2654D2D20B9",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791790181000,
+   "date": "2026-10-12",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "326KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GZ2stcsWfBJdQEdX-su-XFj3LarRNrTj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GZ2stcsWfBJdQEdX-su-XFj3LarRNrTj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A52ADBD718602B4E81E3AAC6DD6B10C9",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791790183000,
+   "date": "2026-10-12",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12_NSsjyjjELsQHXWHuhiXysUWENGqh_a/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12_NSsjyjjELsQHXWHuhiXysUWENGqh_a&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A555DD0A2AEFCB16396C6570F9D9DCF0",
+   "sender": "ווקי שרון מרגולין",
+   "text": "העוזר האישי שלכם: וובינר עם שרון מרגולין\n\nרוצים להכיר את אינסטינקט, העוזר האישי שלי?\n\nביום ראשון הקרוב אציג את אינסטינקט ואת השימוש שלי בו כעוזר אישי.\n\nיום ראשון, 18.10.2026, בזום\n20:00-21:00\nעלות: 50 ₪\n\nאיך נרשמים?\n\n1. מעבירים 50 ₪ בביט למספר שלי:\n0526673667\n\n2. שולחים אליי צילום מסך של ההעברה, במייל בלבד, מכתובת ג'ימייל. בגוף המייל כותבים את שם המשלם, כדי שאדע ממי התשלום:\nwoki2004@gmail.com\n\n3. לאחר קבלת התשלום והצילום אשלח לאותה כתובת מייל חשבונית ופרטי כניסה לוובינר. בהמשך אשלח גם את הפרטים לקבלת ההקלטה וחומרים נוספים, אם יהיו.\n\nמוזמנים להצטרף ולהעביר למי שזה יכול לעניין אותו.",
+   "ts": 1791790185000,
+   "date": "2026-10-12",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "310KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TlvVEAPcbAcnQs2QHrf2jhv4IesPhpjO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TlvVEAPcbAcnQs2QHrf2jhv4IesPhpjO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3EB0AB6F18F26E7C49F4D0",
+   "sender": "חפציה",
+   "text": "תגיד שזה של גל חבקין!",
+   "ts": 1791790600000,
+   "date": "2026-10-12",
+   "time": "10:36",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC155B80744451ECF7AAD1E5F0B80110",
+   "sender": "נועם",
+   "text": "*תשריינו את יום שני הקרוב (12.10) ב21:00*\n\nכי אנחנו עולים *ללייב סופר מקיף ופרקטי על צ׳ט GPT* בחינם! \n\nמה אנחנו הולכים ללמוד?\n\n✅ נכיר לעומק את *התוסף של צ׳ט GPT לכרום* שיודע לעבוד עבורכם באינטרנט \n\n✅ ״ספייס״ - איך לעבוד נכון עם *הפיצ׳ר החדש של צ׳ט GPT 6* שכל העולם מדבר עליו \n\n✅ *נעשה סדר במודלים של צ׳ט GPT* - מתי משתמשים בכל אחד מהם בצורה חכמה? \n\n✅ נלמד את *צ׳ט GPT בתוך אקסל וורד* ואיך עובדים איתם כמו מקצוענים \n\nועוד מלא טיפים וטריקים שיחסכו להם מלא זמן ויעיפו לכם את המח! \n\nהלייב *סופר פרקטי מהשנייה הראשונה ו100% בחינם* לחברי הקהילה שלי \n\n*מכאן נרשמים ללייב*👇\nhttps://practice-ai.co.il/events/chatgpt-live-2026-10-12\n\n*אחרי הלייב ההקלטה המלאה תישלח לכל מי שנרשם \n\n*רוצים לצרף חברים*?\n\nתשלחו להם את הלינק לקבוצה👇\nhttps://practice-ai.co.il/sl/ha1qo0\n\nשיהיה לכם שבוע נפלא, \n\nבר, \n#בינה_מלאכותית_בגובה_העיניים",
+   "ts": 1791790932000,
+   "date": "2026-10-12",
+   "time": "10:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z1xs-ytv-vl6nrYkEz87_qmvO1H6gFwG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z1xs-ytv-vl6nrYkEz87_qmvO1H6gFwG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACC904DCB9A6D0AE624AC4D14FCC056B",
+   "sender": "נועם",
+   "text": "למה?",
+   "ts": 1791791077000,
+   "date": "2026-10-12",
+   "time": "10:44",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB06989F3D390E6673B15",
+   "sender": "חפציה",
+   "text": "כי הוא מומחה",
+   "ts": 1791791105000,
+   "date": "2026-10-12",
+   "time": "10:45",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACAEFF56FDD139751EDBA046FBBD2F0F",
+   "sender": "נועם",
+   "text": "https://lim972-mail-bridge.surge.sh/\n\nלוקח חצי דקה - דקה לענות.\nאפשר להוסיף מענה לאימייל ואש המשך התכתבות שם.",
+   "ts": 1791791140000,
+   "date": "2026-10-12",
+   "time": "10:45",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB023DB40CECEBD4D0F93",
+   "sender": "חפציה",
+   "text": "אני רציתי שיהיה אפשר להתכתב איתו במסרונים (לאחיינית עם טלפון חסום) והוא אמר שאי אפשר",
+   "ts": 1791791418000,
+   "date": "2026-10-12",
+   "time": "10:50",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0DCE3F349F22CB320B8",
+   "sender": "נועם",
+   "text": "אימייל יש לה גישה?",
+   "ts": 1791791852000,
+   "date": "2026-10-12",
+   "time": "10:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0063FF2A1440C55CAB7",
+   "sender": "חפציה",
+   "text": "לא בנייד",
+   "ts": 1791792197000,
+   "date": "2026-10-12",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB07599090BD39EC9CC2C",
+   "sender": "Amit Misgav",
+   "text": "כמו תמיד צריך להיזהר עם המידע שחושפים. בטח אם מדובר על עוזר אישי. לפי הצ'ט איתם יש מדיניות שמירת סודיות שכדאי לקרוא. לא היה מוכן לומר מי אחראי על כך שאכן המדיניות נאכפת. לא היה מוכן לומר מה המודל שמתפעל את השירות",
+   "ts": 1791792282000,
+   "date": "2026-10-12",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972525992782"
+  },
+  {
+   "id": "3EB0D22E9D6ECD0A386255",
+   "sender": "נועם",
+   "text": "כן, אפשר. textbee מעביר SMS נכנסים לטלפון האנדרואיד שלך דרך webhook, ויש להם מדריך רשמי להעברה למייל. ככה נבנה שער: SMS למספר שלך ← textbee ← ממסר קטן ← מייל אלי (mail.instinct.com), ואני מקבל את המסרון ויכול לענות.\n\nמה צריך:\n1. אנדרואיד עם סים פעיל + אפליקציית textbee ו-Receive SMS מופעל\n2. ממסר webhook קטן ב-HTTPS ציבורי (אפשר Vercel; או פולינג בלי שרת בכלל)\n3. הממסר שולח כל מסרון כמייל אלי\n\nשים לב: מסרונים נכנסים נספרים במכסה (300/חודש בחינם).",
+   "ts": 1791792817000,
+   "date": "2026-10-12",
+   "time": "11:13",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB035A596AB70E3791A06",
+   "sender": "חפציה",
+   "text": "כולל מסרוני אימות של כל מה שאני מקבלת... לשים לב",
+   "ts": 1791793070000,
+   "date": "2026-10-12",
+   "time": "11:17",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0E87E9A0FD08EC88434",
+   "sender": "חפציה",
+   "text": "אפשר לסנן, רק צריך לעשות את זה.\nהרעיון שזה הופך מסרון למייל ולהיפך",
+   "ts": 1791793096000,
+   "date": "2026-10-12",
+   "time": "11:18",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB038FFB2FE80D48BC882",
+   "sender": "נועם",
+   "text": "אשמח לשמוע אם מימשת.",
+   "ts": 1791793147000,
+   "date": "2026-10-12",
+   "time": "11:19",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0D7372686F3FD24B0B5",
+   "sender": "חפציה",
+   "text": "האפליקציה בחנות מוגבלת לבנגלדש. צריך להתקין APK. \nבקיצור סרט ורגיש מבחינת אבטחה, לא שווה לי לצורך הספציפי הזה",
+   "ts": 1791793212000,
+   "date": "2026-10-12",
+   "time": "11:20",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0F6F98C8594658E5ACB",
+   "sender": "נועם",
+   "text": "את יכולה בקלות כמובן בתשלום.",
+   "ts": 1791793267000,
+   "date": "2026-10-12",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A569D64CF057E544BE644CE3E25F04F5",
+   "sender": "Mor Getz",
+   "text": "fredo לחבר שום דבר",
+   "ts": 1791793383000,
+   "date": "2026-10-12",
+   "time": "11:23",
+   "files": [],
+   "drive": null,
+   "phone": "972528368365"
+  },
+  {
+   "id": "3EB097DF927DCCBAF0AE03",
+   "sender": "חפציה",
+   "text": "כמה טיפש הוא לפעמים",
+   "ts": 1791794137000,
+   "date": "2026-10-12",
+   "time": "11:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PiqP4K6GUlv-FWOJD0sH8Wwo6txjlbi3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PiqP4K6GUlv-FWOJD0sH8Wwo6txjlbi3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB05AB3E90EA7906DD2FE",
+   "sender": "נועם",
+   "text": "מיסגנדרינג?",
+   "ts": 1791794192000,
+   "date": "2026-10-12",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0A61EB7DC95437B35A7",
+   "sender": "חפציה",
+   "text": "לא אכפת לי לפגוע ברגשותיו",
+   "ts": 1791794314000,
+   "date": "2026-10-12",
+   "time": "11:38",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0B9C9C4A1DBF495CE80",
+   "sender": "נועם",
+   "text": "בוט אביוז!",
+   "ts": 1791794363000,
+   "date": "2026-10-12",
+   "time": "11:39",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

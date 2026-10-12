@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "על AI ובינה מלאכותית #1 • Digital-ID",
- "updated": "2026-10-06T04:45:28.713Z",
+ "updated": "2026-10-12T07:38:53.476Z",
  "messages": [
   {
    "id": "ACC17CCE5C35CB2E15C9E78685B0274F",
@@ -57,6 +57,37 @@
    "files": [],
    "drive": null,
    "phone": "972545586620"
+  },
+  {
+   "id": "3EB075D75036A5D672D446",
+   "sender": "יוסף שלום גלבך",
+   "text": "שלום לכם\n\nאני מנסה (הפעם)  ליצור אפליקציה קורא PDF עם התאמות שלי\nהכל נהדר \nעד שאני מגיע לעיצוב\nשם תמיד יוצא גנרי.\nאני מחפש סקילים בטיקטוק נותן לו\n\nגנרי\nאיך מתמודדים עם זה",
+   "ts": 1791790702000,
+   "date": "2026-10-12",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "phone": "972527690971"
+  },
+  {
+   "id": "3EB0F4865A7DBA92EE02AB",
+   "sender": "יוסף שלום גלבך",
+   "text": "",
+   "ts": 1791790729000,
+   "date": "2026-10-12",
+   "time": "10:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ndq05i-y-6NKopoO5MbI3JMIts5qbgCL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ndq05i-y-6NKopoO5MbI3JMIts5qbgCL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527690971"
   }
  ]
 }
