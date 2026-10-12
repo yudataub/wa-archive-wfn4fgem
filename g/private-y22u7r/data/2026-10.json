@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-12T09:32:29.772Z",
+ "updated": "2026-10-12T12:52:55.573Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -8421,6 +8421,411 @@
    "drive": null,
    "thread": "פרוייקט עוגן⚓️",
    "phone": "972502080480"
+  },
+  {
+   "id": "AC8406BC6A5E5789617BBA6E066D7908",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1791797997000,
+   "date": "2026-10-12",
+   "time": "12:39",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1IGLajmZIrCRlfBGfWaBnJ7lQoKsyoicj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "A5D10AAE3E378A66C6EA82A74CBA00BB",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791801656000,
+   "date": "2026-10-12",
+   "time": "13:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Oy4YZv_1lWdzp6531CC6icjMiCZf-x9r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Oy4YZv_1lWdzp6531CC6icjMiCZf-x9r&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A50A15EF94284A797B486F95F476FB50",
+   "sender": "אני",
+   "text": "למורה אביטל לא עובד",
+   "ts": 1791801674000,
+   "date": "2026-10-12",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5E31C26763CEDFC8AC63CCD0953AAB3",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791801687000,
+   "date": "2026-10-12",
+   "time": "13:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "577KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iIc-Z78BQn91izYWiaJvFdUwdrpM6Sbp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iIc-Z78BQn91izYWiaJvFdUwdrpM6Sbp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACDBF5855A276F1BC099C4BD7ACAB734",
+   "sender": "Pavel Pinchas Rosenfeld",
+   "text": "",
+   "ts": 1791801689000,
+   "date": "2026-10-12",
+   "time": "13:41",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "10KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1GK1TnHoCtgF8eRZ554cL_L8x43ucbbfr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Pavel Pinchas Rosenfeld",
+   "phone": "972585197909"
+  },
+  {
+   "id": "AC804638F73B4BD9855D4AE8AC4048C3",
+   "sender": "Pavel Pinchas Rosenfeld",
+   "text": "",
+   "ts": 1791801782000,
+   "date": "2026-10-12",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1uOxy3oQmOJBWZnMplwcpXz7M9edVZYhw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Pavel Pinchas Rosenfeld",
+   "phone": "972585197909"
+  },
+  {
+   "id": "A595F0ACE2D4FE5A287F79DA5118E175",
+   "sender": "אני",
+   "text": "מעולה עובד",
+   "ts": 1791801804000,
+   "date": "2026-10-12",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A576431B7366A5493408E0EE5ACB3539",
+   "sender": "אני",
+   "text": "חודש טוב\nלמה הילדים אומרים שהם לא לומדים תורה?",
+   "ts": 1791803063000,
+   "date": "2026-10-12",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACD49134542803E5B4F34D9021C92C63",
+   "sender": "חגית",
+   "text": "לא יודעת ,",
+   "ts": 1791803083000,
+   "date": "2026-10-12",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "thread": "חגית",
+   "phone": "972528947885"
+  },
+  {
+   "id": "AC1525679102EFC657F0AB785705E9AB",
+   "sender": "חגית",
+   "text": "חודש טוב ומבורך.",
+   "ts": 1791803088000,
+   "date": "2026-10-12",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "thread": "חגית",
+   "phone": "972528947885"
+  },
+  {
+   "id": "ACA616EFE6CFE3B323C0AD9F53CEE84B",
+   "sender": "חגית",
+   "text": "יש לנו חוברת הכנה ללמוד תורה",
+   "ts": 1791803099000,
+   "date": "2026-10-12",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "thread": "חגית",
+   "phone": "972528947885"
+  },
+  {
+   "id": "AC346C67D58A036CB41B48770A93D37F",
+   "sender": "חגית",
+   "text": "הכנה לחומש בראשית",
+   "ts": 1791803111000,
+   "date": "2026-10-12",
+   "time": "14:05",
+   "files": [],
+   "drive": null,
+   "thread": "חגית",
+   "phone": "972528947885"
+  },
+  {
+   "id": "AC70D7BA1038FE4B3835FEAECA739B9E",
+   "sender": "חגית",
+   "text": "ב 'ה לומדים.",
+   "ts": 1791803430000,
+   "date": "2026-10-12",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "thread": "חגית",
+   "phone": "972528947885"
+  },
+  {
+   "id": "ACF4C4054DDCBB7340179F5541C31F09",
+   "sender": "חגית",
+   "text": "תוכל לשלוח את הפרסום על שעה שאתה מלמד  את התלמידים כבונוס",
+   "ts": 1791803499000,
+   "date": "2026-10-12",
+   "time": "14:11",
+   "files": [],
+   "drive": null,
+   "thread": "חגית",
+   "phone": "972528947885"
+  },
+  {
+   "id": "A5AAEB230CF8E7050E4757032A5D9970",
+   "sender": "אני",
+   "text": "הבן שלי מאוד אהב את זה",
+   "ts": 1791806957000,
+   "date": "2026-10-12",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5A619A4221C5D60DE9C39F063919C81",
+   "sender": "אני",
+   "text": "המורות שואלות האם רק למשנה הראשונה יש שיר?",
+   "ts": 1791807723000,
+   "date": "2026-10-12",
+   "time": "15:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC961B759CFCB46BBE6A00CED48D274A",
+   "sender": "אלעד לחיאני",
+   "text": "לא. יש 3 משניות בכל מסכת",
+   "ts": 1791807762000,
+   "date": "2026-10-12",
+   "time": "15:22",
+   "files": [],
+   "drive": null,
+   "thread": "אלעד לחיאני",
+   "phone": "972508741973"
+  },
+  {
+   "id": "A5772A245C8D9EE132C9689D0571DED8",
+   "sender": "אני",
+   "text": "אני ראיתי עכשיו במסכת סוכה שיש רק משנה ראשונה",
+   "ts": 1791807816000,
+   "date": "2026-10-12",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A59C5710D8A3341DAA5E58732C39E46E",
+   "sender": "אני",
+   "text": "וגם מסכת תענית יש רק משנה ראשונה",
+   "ts": 1791807836000,
+   "date": "2026-10-12",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC9D53D1D97EE7032ED0181A4BEB9AD2",
+   "sender": "אלעד לחיאני",
+   "text": "ברגע שמגיעים למשנה הבאה שיש עליה שיא השיר נפתח",
+   "ts": 1791807842000,
+   "date": "2026-10-12",
+   "time": "15:24",
+   "files": [],
+   "drive": null,
+   "thread": "אלעד לחיאני",
+   "phone": "972508741973"
+  },
+  {
+   "id": "A55F1CD1131732B5E6F1C2F7FE9F4021",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791807924000,
+   "date": "2026-10-12",
+   "time": "15:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eLTGqivivIS2HpjV0aL-xr0GYpZaKuOn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eLTGqivivIS2HpjV0aL-xr0GYpZaKuOn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56DC7300A32ADCE0D145EADE218D947",
+   "sender": "אני",
+   "text": "איך פותחים את המשנה השניה",
+   "ts": 1791807934000,
+   "date": "2026-10-12",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACA4E46BFA8A37543CC0B81CBCE51464",
+   "sender": "אלעד לחיאני",
+   "text": "זה מה שהסברתי",
+   "ts": 1791807948000,
+   "date": "2026-10-12",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "thread": "אלעד לחיאני",
+   "phone": "972508741973"
+  },
+  {
+   "id": "AC88594A49DFCF443B89C943BC5D4623",
+   "sender": "אלעד לחיאני",
+   "text": "אפשר להמשיך לפתח כל שיעור במשנה א ורק שיודעים בעל פה לבחון אותם ולפתוח להם את המשנה הבאה מה-3",
+   "ts": 1791807966000,
+   "date": "2026-10-12",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "thread": "אלעד לחיאני",
+   "phone": "972508741973"
+  },
+  {
+   "id": "ACC2326C04283876662069FDCDB3C7C5",
+   "sender": "אלעד לחיאני",
+   "text": "לטובת המבחן יש אופציה להפעיל רק את המנגינה ללא המילים",
+   "ts": 1791807967000,
+   "date": "2026-10-12",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "thread": "אלעד לחיאני",
+   "phone": "972508741973"
+  },
+  {
+   "id": "A5A8A18C4E7A38B0574B2CECCFD9020E",
+   "sender": "אני",
+   "text": "האם התלמידים יכולים בבית גם להפעיל את המשנה?",
+   "ts": 1791808846000,
+   "date": "2026-10-12",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A522AC496C4EC459075E9DAF513A81E8",
+   "sender": "אני",
+   "text": "הצלחתי יפה מאוד אני יספר להן.",
+   "ts": 1791808882000,
+   "date": "2026-10-12",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56213A4E7EBB55B6CE06563AB24D8EE",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791808938000,
+   "date": "2026-10-12",
+   "time": "15:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "537KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Maz1qH4h5oAkP944nwhqEBvUZlZU2l_S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Maz1qH4h5oAkP944nwhqEBvUZlZU2l_S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A58BF8D69DEA45BE90A2A9C543E4E625",
+   "sender": "אני",
+   "text": "ומה כן הם יכולים?",
+   "ts": 1791809532000,
+   "date": "2026-10-12",
+   "time": "15:52",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE9BF06784126B73880F10C761ACC6C",
+   "sender": "אלעד לחיאני",
+   "text": "ראה הודעה שנשלחה לפני פחות משעה בקבוצה",
+   "ts": 1791809566000,
+   "date": "2026-10-12",
+   "time": "15:52",
+   "files": [],
+   "drive": null,
+   "thread": "אלעד לחיאני",
+   "phone": "972508741973"
   }
  ]
 }

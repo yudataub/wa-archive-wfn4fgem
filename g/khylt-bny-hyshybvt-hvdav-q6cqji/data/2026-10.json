@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-12T09:16:22.597Z",
+ "updated": "2026-10-12T11:51:15.090Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -3027,6 +3027,108 @@
    "files": [],
    "drive": null,
    "phone": "972525529200"
+  },
+  {
+   "id": "A57D0CC791939C83304F123DE5CBAE3A",
+   "sender": "NATI POWER",
+   "text": "",
+   "ts": 1791801842000,
+   "date": "2026-10-12",
+   "time": "13:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "265KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xdOsgdff_sQb6_dSyyjC99ifg97fYpqY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xdOsgdff_sQb6_dSyyjC99ifg97fYpqY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "AC8771E26D65353C27666E3406DCC6E3",
+   "sender": "אליהו גגולה",
+   "text": "משהו יודע אם קו 998 עוצר תחנה אחרונה באזור ביגור/צומת חסידים",
+   "ts": 1791802234000,
+   "date": "2026-10-12",
+   "time": "13:50",
+   "files": [],
+   "drive": null,
+   "phone": "972548842402"
+  },
+  {
+   "id": "AC8DDE0BBA156C7E1D1AFDE06A4AE01D",
+   "sender": "יצחק ומירי הסקין",
+   "text": "ע''פ המוביט כן",
+   "ts": 1791802352000,
+   "date": "2026-10-12",
+   "time": "13:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "38KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yTK2gtcuP6JUaJcvRN8g0Rukc1skjAQ3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yTK2gtcuP6JUaJcvRN8g0Rukc1skjAQ3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "ACA220E4A550960850726A85354B1D4F",
+   "sender": "יעקב וקשטוק",
+   "text": "נוסע מירושלים לקרית אתא?🙏",
+   "ts": 1791804668000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [],
+   "drive": null,
+   "phone": "972587462333"
+  },
+  {
+   "id": "AC0AD01DDC3374BE9C0A5E9F123897E6",
+   "sender": "6788387",
+   "text": "היום!!?",
+   "ts": 1791805860000,
+   "date": "2026-10-12",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wWNyyGu6p06LwZ4Q5zWlr8Cn9_zOgVBA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wWNyyGu6p06LwZ4Q5zWlr8Cn9_zOgVBA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "AC8096AF5EB2346461918E1BF8DB87A2",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1791805860000,
+   "date": "2026-10-12",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-qjuJDVp4tb6ctKoseE41witafnQcdGL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-qjuJDVp4tb6ctKoseE41witafnQcdGL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
   }
  ]
 }

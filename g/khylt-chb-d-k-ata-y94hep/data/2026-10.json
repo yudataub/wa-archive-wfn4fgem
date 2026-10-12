@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-12T02:59:27.792Z",
+ "updated": "2026-10-12T10:31:06.757Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -1672,6 +1672,47 @@
    "files": [],
    "drive": null,
    "phone": "972523730397"
+  },
+  {
+   "id": "AC478BFF0F96E38F814564144E193B7B",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "*השבוע בעזרת ה' חוזרים לפעילות הישיבה!*\n\n*סדר אנ\"ש ביום רביעי בשעה 22:00.*",
+   "ts": 1791800900000,
+   "date": "2026-10-12",
+   "time": "13:28",
+   "files": [],
+   "drive": null,
+   "phone": "972523390810"
+  },
+  {
+   "id": "ACB081514559B09D6C910D25185D1B29",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "פ",
+   "ts": 1791801058000,
+   "date": "2026-10-12",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972523390810"
+  },
+  {
+   "id": "AC13B9695E008EE4A32D032AD1933F46",
+   "sender": "שמעון אלעזר יפרח",
+   "text": "",
+   "ts": 1791801061000,
+   "date": "2026-10-12",
+   "time": "13:31",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "5KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1zZQydqQVaQ4zZXysZ5KC4KRGXs6XOQAs/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523390810"
   }
  ]
 }

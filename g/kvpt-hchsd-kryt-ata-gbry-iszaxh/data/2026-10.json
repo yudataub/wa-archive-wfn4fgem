@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-12T04:51:43.741Z",
+ "updated": "2026-10-12T13:31:56.231Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1055,6 +1055,66 @@
    "files": [],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "AC87472DAC34428BCB2039451B28B9E7",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1791805863000,
+   "date": "2026-10-12",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HSlP16Kw6_UeY-nmvP4Y5NVnDZ4xT-yA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HSlP16Kw6_UeY-nmvP4Y5NVnDZ4xT-yA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "ACE562FEC04D887D92854881FA8C813A",
+   "sender": "6788387",
+   "text": "היום!!?",
+   "ts": 1791805863000,
+   "date": "2026-10-12",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bMQSEDHX3AvALl_4f-G0MZwoJiohDXwD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bMQSEDHX3AvALl_4f-G0MZwoJiohDXwD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "A52D119F8ABD8DB6C99DFD5829272337",
+   "sender": "י",
+   "text": "🔥 *למכירה במרכז העיר קרית אתא - הזדמנות למשקיעים ולמגורים!* 🔥\n\n🏡 דירת 5 חדרים שהוסבה ל־4, משופצת ומרווחת במיוחד!\n\n📍 מיקום מרכזי ומבוקש – קרוב לכל מוקדי העיר ולתחבורה ציבורית.\n\n✅ כ־120 מ\"ר בנוי | קומה 2\n✅ מרפסת סוכה מרווחת\n✅ חניה ומחסן בטאבו\n✅ יחידת הורים עם שירותים ומקלחת\n✅ מזגנים חדשים וסורגים בכל הדירה.\n\n💰 *למשקיעים - פוטנציאל שכירות של מעל 4,200 ₪ בחודש!*\n\n📞 *לפרטים ותיאום ביקור:*\n*שמואל - 051-5763087*",
+   "ts": 1791811887000,
+   "date": "2026-10-12",
+   "time": "16:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kb-3W_iwLNPbqCiFLv0Ai2WRxZ0hAUlz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kb-3W_iwLNPbqCiFLv0Ai2WRxZ0hAUlz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
   }
  ]
 }

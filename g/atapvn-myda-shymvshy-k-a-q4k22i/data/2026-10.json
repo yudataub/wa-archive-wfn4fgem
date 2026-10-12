@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-12T08:54:22.227Z",
+ "updated": "2026-10-12T13:31:56.244Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -2628,11 +2628,52 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1nqZUkvYODK3coD9GsFf89yR2akaFVySC/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1nqZUkvYODK3coD9GsFf89yR2akaFVySC&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1nqZUkvYODK3coD9GsFf89yR2akaFVySC&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/2ACB28B0C35140F81F49_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972547556711"
+  },
+  {
+   "id": "ACC2F134D6C1A489FFFC36BD257803CA",
+   "sender": "יוחאי דוד הרוש",
+   "text": "בואו להנות ממגוון רחב של טעמים מיוחדים בטורטיה שלנו וכמובן שלחברי הקבוצה יש 10% הנחה מחכים לכם❤️",
+   "ts": 1791799234000,
+   "date": "2026-10-12",
+   "time": "13:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "308KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p-B4U0GzrfwA-uqGAo5ip2ptbIAXIpAp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p-B4U0GzrfwA-uqGAo5ip2ptbIAXIpAp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505691929"
+  },
+  {
+   "id": "A5814FB11AFA3983D0253857C850C808",
+   "sender": "י",
+   "text": "🔥 *למכירה במרכז העיר קרית אתא - הזדמנות למשקיעים ולמגורים!* 🔥\n\n🏡 דירת 5 חדרים שהוסבה ל־4, משופצת ומרווחת במיוחד!\n\n📍 מיקום מרכזי ומבוקש – קרוב לכל מוקדי העיר ולתחבורה ציבורית.\n\n✅ כ־120 מ\"ר בנוי | קומה 2\n✅ מרפסת סוכה מרווחת\n✅ חניה ומחסן בטאבו\n✅ יחידת הורים עם שירותים ומקלחת\n✅ מזגנים חדשים וסורגים בכל הדירה.\n\n💰 *למשקיעים - פוטנציאל שכירות של מעל 4,200 ₪ בחודש!*\n\n📞 *לפרטים ותיאום ביקור:*\n*שמואל - 051-5763087*",
+   "ts": 1791811887000,
+   "date": "2026-10-12",
+   "time": "16:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BEONl_74cadSjiaOSr8-vsqIlg30wn8X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BEONl_74cadSjiaOSr8-vsqIlg30wn8X&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
   }
  ]
 }

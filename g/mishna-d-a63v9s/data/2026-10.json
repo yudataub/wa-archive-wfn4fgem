@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-11T15:16:21.306Z",
+ "updated": "2026-10-12T11:08:37.320Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -587,6 +587,17 @@
    ],
    "drive": null,
    "phone": "972545765743"
+  },
+  {
+   "id": "AC049349D7C3E766D606BFD0095651FA",
+   "sender": "נורית אלטמן",
+   "text": "https://youtu.be/RMfOZK1xILw?si=GNu-wUS1zfOKgFPC",
+   "ts": 1791803317000,
+   "date": "2026-10-12",
+   "time": "14:08",
+   "files": [],
+   "drive": null,
+   "phone": "972525888501"
   }
  ]
 }

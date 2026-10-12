@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-12T06:58:22.889Z",
+ "updated": "2026-10-12T09:56:00.185Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -1379,6 +1379,46 @@
    "files": [],
    "drive": null,
    "phone": "972505708559"
+  },
+  {
+   "id": "3A10A140DBDADEB0E12D",
+   "sender": "מז",
+   "text": "",
+   "ts": 1791797958000,
+   "date": "2026-10-12",
+   "time": "12:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l33kDtyIWkQzEJzWZHFaNke0OU_itwz5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l33kDtyIWkQzEJzWZHFaNke0OU_itwz5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503466608"
+  },
+  {
+   "id": "A53F761AB9FA3E5DB59337A0C2A37A3A",
+   "sender": "ליהי גיוס צהרונים תאגיד לביא",
+   "text": "https://wa.me/972547875096?text=אשמח+לפרטים+",
+   "ts": 1791798958000,
+   "date": "2026-10-12",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FabMMLx9uNMPR0RDV7yxVeNSVi7E-Pz3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FabMMLx9uNMPR0RDV7yxVeNSVi7E-Pz3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547875096"
   }
  ]
 }

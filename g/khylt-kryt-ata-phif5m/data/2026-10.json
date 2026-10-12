@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-12T09:23:52.699Z",
+ "updated": "2026-10-12T13:29:56.180Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -3641,6 +3641,66 @@
    "files": [],
    "drive": null,
    "phone": "972586588772"
+  },
+  {
+   "id": "2A0907ED6F18B1C03FD4",
+   "sender": "מספרתך",
+   "text": "מספרתך זבולון 9 מספרה לנשים בלבד במרכז קריית אתא עם יחס אישי ומותאם פן החל מ50 צבע ופן 150 פסים החל מ350 תספורת ופן 150 תוספות 1500 *החלקה אורגנית עם התחייבות לתוצאה החל מ400* אורטל 0558834326 אינסטגרם https://www.instagram.com/ortal_hair?igsh=MWRid3hwNXFpczN5aA%3D%3D&utm_source=qr",
+   "ts": 1791797941000,
+   "date": "2026-10-12",
+   "time": "12:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1yJ8ez9SZ5xGw9ACMB0u7uL5wQ6TrRdcn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yJ8ez9SZ5xGw9ACMB0u7uL5wQ6TrRdcn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972558834326"
+  },
+  {
+   "id": "ACA4EB7B676BFC6951E8696B15F2FD3D",
+   "sender": "אסתר חתן",
+   "text": "",
+   "ts": 1791810326000,
+   "date": "2026-10-12",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T0mlqjfTazJNdo0WnOUGQukMgNQbmj3e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T0mlqjfTazJNdo0WnOUGQukMgNQbmj3e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522353413"
+  },
+  {
+   "id": "AC302B1AB577D1A141A293283122DFCA",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791811777000,
+   "date": "2026-10-12",
+   "time": "16:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uLhkQMSLS4HnWZ_vIvYHUeeUFgp8AlAv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uLhkQMSLS4HnWZ_vIvYHUeeUFgp8AlAv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

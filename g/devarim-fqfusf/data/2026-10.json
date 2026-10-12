@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-12T08:59:00.665Z",
+ "updated": "2026-10-12T13:35:04.727Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -1999,6 +1999,59 @@
    "files": [],
    "drive": null,
    "phone": "972543086509"
+  },
+  {
+   "id": "3EB0856849DB217B13B031",
+   "sender": "שמואל וינגרטן",
+   "text": "שלחו את זה אצלנו בקבוצה. \nזה חדש שיש מבחן ביניים שגם אותו מכינים עבור המורה, בלי שהמורה יודע על מה לתת את הדגש בלמידה?",
+   "ts": 1791800462000,
+   "date": "2026-10-12",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "340KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IjZ2avEr2xcOmcuxjaAxL6UfExFzUueE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IjZ2avEr2xcOmcuxjaAxL6UfExFzUueE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506684721"
+  },
+  {
+   "id": "AC23B9B7C00A025DB3B3D10F0E9F2516",
+   "sender": "שרית בטשוילי",
+   "text": "מתי תיפתח השתלמות על דברים?",
+   "ts": 1791801058000,
+   "date": "2026-10-12",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "3A25B22D073B72DB2291",
+   "sender": "מירב",
+   "text": "אשמח למבחן פרשת דברים",
+   "ts": 1791811676000,
+   "date": "2026-10-12",
+   "time": "16:27",
+   "files": [],
+   "drive": null,
+   "phone": "972547905264"
+  },
+  {
+   "id": "3ABDCB2D605EB270B20C",
+   "sender": "Shira Krief",
+   "text": "זה מבחנים לבדיקה פנימית או חיצונית?",
+   "ts": 1791812084000,
+   "date": "2026-10-12",
+   "time": "16:34",
+   "files": [],
+   "drive": null,
+   "phone": "972587707745"
   }
  ]
 }

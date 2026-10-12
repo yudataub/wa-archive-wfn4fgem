@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-12T05:57:35.726Z",
+ "updated": "2026-10-12T13:04:55.795Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1115,6 +1115,26 @@
    "files": [],
    "drive": null,
    "phone": "972547289589"
+  },
+  {
+   "id": "A5FBE5225D24E6660EC2D4DCD05D373D",
+   "sender": "אחוזת אלפא",
+   "text": "פנוי לשבת הקרובה",
+   "ts": 1791810269000,
+   "date": "2026-10-12",
+   "time": "16:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "270KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qCp3a8zXwjj7KY_PdRHFDI-WPSODHOY5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qCp3a8zXwjj7KY_PdRHFDI-WPSODHOY5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503332857"
   }
  ]
 }

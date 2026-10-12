@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-12T05:37:35.432Z",
+ "updated": "2026-10-12T11:31:44.732Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -2353,6 +2353,120 @@
    "date": "2026-10-12",
    "time": "08:37",
    "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC80980AD26B09D2432A1659382C4DA4",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791804682000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "פרשת נח- מנוקד - כרמית ג.pdf",
+     "size": "585KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ZJxPbizm4UqAiVPdm86lLICsYzBz19ie/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC96B3477A2BC9DD8943185D76CEEB88",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791804686000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "פרשת נח -חידון א-ב- לא מנוקד- כרמית ג.pdf",
+     "size": "660KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1zBxmLzPEuwmSfd6mx6VEMS_Cx4t08ALJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC4A451C13F6ADE1341F14D6CA98C44C",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791804689000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "פרשת נח- לא מנוקד -כרמית ג.pdf",
+     "size": "579KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FtoP6IUSqGaJHYZVgFlFQoXoAZFsjwks/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACB5E9DC215CF4499B9A33200C2D553C",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791804690000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "פרשת נח -כתב רש'י- כרמית ג.pdf",
+     "size": "654KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ZMUWGA3EM5_bBNmgRA4Vjdgqw6i12PDj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC198B413C6603F3A0B1AE12319E00A2",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791804692000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "פרשת נח -חידון א-ב' מנוקד- כרמית ג.pdf",
+     "size": "638KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EBe5AKH6_4LKZ5avZE4WKG6k7vpP15RN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACCA02C8EE43A7C778FD2AADC0A043E7",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791804698000,
+   "date": "2026-10-12",
+   "time": "14:31",
+   "files": [
+    {
+     "name": "חדשות לפרשת נח - כרמית ג.pdf",
+     "size": "563KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1a3KymojIhOoTBATvilzM4-Zv7h54-tV4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972523908252"
   }

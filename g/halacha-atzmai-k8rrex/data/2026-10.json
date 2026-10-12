@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-11T13:06:36.586Z",
+ "updated": "2026-10-12T10:40:06.914Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1752,6 +1752,26 @@
    "files": [],
    "drive": null,
    "phone": "972509036036"
+  },
+  {
+   "id": "AC06B8654636CF0155925B3C46C377FA",
+   "sender": "גל",
+   "text": "הבנות עבדו יחד בקבוצות כדי לגלות את נושא השיעור באמצעות כתב סתרים, נהנו מהאתגר וגילו עניין ורצון לפתור 😀",
+   "ts": 1791801582000,
+   "date": "2026-10-12",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "276KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G-2KeU-rCfFoZ58aETM7-qQsiLxt4xeN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G-2KeU-rCfFoZ58aETM7-qQsiLxt4xeN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545544851"
   }
  ]
 }
