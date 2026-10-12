@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-12T11:51:15.090Z",
+ "updated": "2026-10-12T17:30:04.159Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -3129,6 +3129,81 @@
    ],
    "drive": null,
    "phone": "972556788387"
+  },
+  {
+   "id": "AC9DD5C2E0E90F8F658D5347A5F34A9D",
+   "sender": "בני קרמר",
+   "text": "החל מהערב\nבשעה 20:15 בבית הכנסת\nמתחילים מסכת קידושין",
+   "ts": 1791821018000,
+   "date": "2026-10-12",
+   "time": "19:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13EJg71cZ-HxH4zeIb39FxcIJu-Qbdqv-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13EJg71cZ-HxH4zeIb39FxcIJu-Qbdqv-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "A508845D2B6D5DFDF88ADF44AE9F8468",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "מה הכשרות של אצה קרית אתא?",
+   "ts": 1791825732000,
+   "date": "2026-10-12",
+   "time": "20:22",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "ACD9141DC3F86D52D666798F88F6BD1B",
+   "sender": "יעקב קרלינסקי",
+   "text": "רבנות רגילה",
+   "ts": 1791826017000,
+   "date": "2026-10-12",
+   "time": "20:26",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "A5344AA4DFE54023ADA4CD3127B55601",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "היה מהדרין, לא?",
+   "ts": 1791826033000,
+   "date": "2026-10-12",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "A5BBC50055F9CE31D99CFE2D45CA345B",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "יש סושי מהדרין?",
+   "ts": 1791826053000,
+   "date": "2026-10-12",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "AC80E0CBAEDF641CF9BA5FDECEAF25B0",
+   "sender": "יעקב קרלינסקי",
+   "text": "לא",
+   "ts": 1791826197000,
+   "date": "2026-10-12",
+   "time": "20:29",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }

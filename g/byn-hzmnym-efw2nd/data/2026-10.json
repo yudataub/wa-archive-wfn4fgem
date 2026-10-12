@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-12T13:04:55.795Z",
+ "updated": "2026-10-12T16:46:56.965Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1135,6 +1135,79 @@
    ],
    "drive": null,
    "phone": "972503332857"
+  },
+  {
+   "id": "ACDB1FC9901703AE04772CDB0657FB46",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1791819678000,
+   "date": "2026-10-12",
+   "time": "18:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Bp1wqYanfP7RswsPOn9l_Ovo38Jyixvk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bp1wqYanfP7RswsPOn9l_Ovo38Jyixvk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
+  },
+  {
+   "id": "AC86BD1F44B866125325A8352B7BAEBA",
+   "sender": "איריס בר טל",
+   "text": "https://gan-mekadem.lovable.app",
+   "ts": 1791819747000,
+   "date": "2026-10-12",
+   "time": "18:42",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACC663E6A5F483F18F6B545B293417D2",
+   "sender": "איריס בר טל",
+   "text": "*מתחם יפהפה בלב צפת*\n*32 מיטות,אפשרות למזרונים*\n*שבתות חתן,חלאקה,*\n*בריתות,חינה ואירועים קטנים*",
+   "ts": 1791819748000,
+   "date": "2026-10-12",
+   "time": "18:42",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACD9C99BA76D539110CE26460EB09B34",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1791819748000,
+   "date": "2026-10-12",
+   "time": "18:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xe3ar6_qx0AIhm6FsPGkqNESB8_0Lw9Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xe3ar6_qx0AIhm6FsPGkqNESB8_0Lw9Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC4EB605F229DA211DEECC56F49E60C6",
+   "sender": "שושנה בכר Chochana Behar",
+   "text": "מחפשים וילה בטבריה 4 חדרים \nזוג\n2 זוגות+3 ותינוק \nזוג +2 ותינוק \nלילה אחד \nחמישי 29 \nעד 30 אוקטובר",
+   "ts": 1791823602000,
+   "date": "2026-10-12",
+   "time": "19:46",
+   "files": [],
+   "drive": null,
+   "phone": "972523828665"
   }
  ]
 }

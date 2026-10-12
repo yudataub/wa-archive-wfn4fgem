@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-12T13:29:56.180Z",
+ "updated": "2026-10-12T15:38:18.653Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -3656,7 +3656,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1yJ8ez9SZ5xGw9ACMB0u7uL5wQ6TrRdcn/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1yJ8ez9SZ5xGw9ACMB0u7uL5wQ6TrRdcn&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1yJ8ez9SZ5xGw9ACMB0u7uL5wQ6TrRdcn&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2A0907ED6F18B1C03FD4_0.mp4"
     }
    ],
    "drive": null,
@@ -3701,6 +3702,66 @@
    ],
    "drive": null,
    "phone": "972538282761"
+  },
+  {
+   "id": "A5F1234F718AB30C07BAC0E053ACCF3A",
+   "sender": "הילה לוי Hila Levi Makeup artist",
+   "text": "",
+   "ts": 1791814439000,
+   "date": "2026-10-12",
+   "time": "17:13",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ho3nCIIyJucrd2d7fWFijBJHOqL-tdoL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ho3nCIIyJucrd2d7fWFijBJHOqL-tdoL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535473225"
+  },
+  {
+   "id": "A5E0CB49A586F72031EFF05C3E894B3F",
+   "sender": "קידום אתרים - מיכאל דיגיטל",
+   "text": "*שנה תשיעית ברציפות!*✨\n\nהגרלת החלומות יוצאת לדרך - והפרס הגדול מחכה לזוכה אחד:\n*דירת יוקרה חדשה בירושלים בשווי 1.3 מיליון דולר*🏠\n\n> המצטרפים עכשיו נהנים גם מ־\n> 1+1 מתנה על הכרטיסים🎁 \n> *הגרלת בונוס על $15,000 למצטרפים עד 11/11*💵\n\nאל תחכו לרגע האחרון. ככל שמקדימים - נהנים מההטבות של הפתיחה.\n נכנסים עכשיו, בוחרים כרטיס ומשתתפים בהגרלה >>👉\nhttps://thedreamraffle.co.il/?utm_source=tl&utm_medium=m5061&utm_campaign=open",
+   "ts": 1791816807000,
+   "date": "2026-10-12",
+   "time": "17:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "494KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10NSwistJaVG443isxXxXKJnJPfEtx2P_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10NSwistJaVG443isxXxXKJnJPfEtx2P_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503392144"
+  },
+  {
+   "id": "ACDA00CFF7B9CFAE732FB512FDC09627",
+   "sender": "הודיה ברזלי🌷",
+   "text": "אשמח שתעבירי",
+   "ts": 1791819476000,
+   "date": "2026-10-12",
+   "time": "18:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H41ozXvgwVajDghD4ctaoLivES47gSWN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H41ozXvgwVajDghD4ctaoLivES47gSWN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525621472"
   }
  ]
 }

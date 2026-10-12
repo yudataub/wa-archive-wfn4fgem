@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-10-12T07:14:53.097Z",
+ "updated": "2026-10-12T14:11:33.756Z",
  "messages": [
   {
    "id": "3AE13462F94DE0376307",
@@ -102,6 +102,37 @@
      "path": "https://drive.google.com/file/d/1HCSm-ycUQ6apu7PXw5DLcLEcAa-C5UPS/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1HCSm-ycUQ6apu7PXw5DLcLEcAa-C5UPS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3A90E4A7BE90E3BFB237",
+   "sender": "חגית סייג",
+   "text": "תושבים ואורחים יקרים!💞 הסדרה האגדית \"להיטים מוסיקליים\" פותחת את שעריה! אנו מזמינים אתכם  למופעים מרהיבים, בהם הצלילים הופכים לחווייה בלתי נשכחת! מהירו להירשם, המקומות מוגבלים.\n🎶 פרטים והרשמה בטלפון: 048450117",
+   "ts": 1791814263000,
+   "date": "2026-10-12",
+   "time": "17:11",
+   "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3A55D8E57753779B542D",
+   "sender": "חגית סייג",
+   "text": "",
+   "ts": 1791814264000,
+   "date": "2026-10-12",
+   "time": "17:11",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/14RApFxSh2zMALssvvQfSckqlKD0KKK6u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14RApFxSh2zMALssvvQfSckqlKD0KKK6u&sz=w1200"
     }
    ],
    "drive": null,

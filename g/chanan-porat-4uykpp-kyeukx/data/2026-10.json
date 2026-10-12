@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-12T11:56:45.164Z",
+ "updated": "2026-10-12T17:35:34.246Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -1820,6 +1820,80 @@
    "files": [],
    "drive": null,
    "phone": "972527185522"
+  },
+  {
+   "id": "3AB923068C29CAAC317C",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791815684000,
+   "date": "2026-10-12",
+   "time": "17:34",
+   "files": [
+    {
+     "name": "מונופול הרב חנן פורת זצ״ל שרית פולק .pdf",
+     "size": "2.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/18qkACmXUhf9tqS31Itoxn2JBhRBkF7WF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "AC5B62AD3B3B6EE33869A27857C77DE7",
+   "sender": ".",
+   "text": "וואו מהמם 👏👏👏",
+   "ts": 1791818477000,
+   "date": "2026-10-12",
+   "time": "18:21",
+   "files": [],
+   "drive": null,
+   "phone": "972546555785"
+  },
+  {
+   "id": "ACFF8C4679FFC26388B7E1541C1A5C51",
+   "sender": "עידית ברכיה 😘",
+   "text": "מישהי הכינה לוח קיר יפה ויכולה לצלם כדי לתת לי כיוון?",
+   "ts": 1791818529000,
+   "date": "2026-10-12",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972546368328"
+  },
+  {
+   "id": "ACF63A2B527F4FB131BB5F36A48C7F30",
+   "sender": "אסתר עידן",
+   "text": "אני גם אשמח לרעיונות לקיר לגן טרום חובה",
+   "ts": 1791819870000,
+   "date": "2026-10-12",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972584913493"
+  },
+  {
+   "id": "3A75C72B9323E57F3E9D",
+   "sender": "הודיה אלוש 🩷",
+   "text": "מקסים\nמישהי עשתה אימהות וילדים (בנים)?",
+   "ts": 1791824680000,
+   "date": "2026-10-12",
+   "time": "20:04",
+   "files": [],
+   "drive": null,
+   "phone": "972556668726"
+  },
+  {
+   "id": "3A1E03DA7C7A392CF142",
+   "sender": "קרן",
+   "text": "https://canva.link/hfs1jh3wxyh6u1k",
+   "ts": 1791826532000,
+   "date": "2026-10-12",
+   "time": "20:35",
+   "files": [],
+   "drive": null,
+   "phone": "972533309982"
   }
  ]
 }

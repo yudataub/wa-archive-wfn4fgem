@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וובינרים ואירועים #30 | LetsAI Events",
- "updated": "2026-10-05T16:54:27.987Z",
+ "updated": "2026-10-12T16:33:33.401Z",
  "messages": [
   {
    "id": "ACB614A96765650D4867586252C33BDB",
@@ -22,6 +22,26 @@
    ],
    "drive": null,
    "phone": "972533057615"
+  },
+  {
+   "id": "ACE1307C4747010D886D5F144F02765F",
+   "sender": "אלי",
+   "text": "🛑 *זה הלינק לזום לוובינר המיוחד שלנו הערב:* ⬇️\nhttps://ltsai.co/webinars-12-10-2026\n\nבניית סוכנים ב-GPT אנטרפרייז (וכן... תהיה גם הטבה שווה במיוחד!)\nולא - לא תהיה הקלטה (אלא אם אתם לומדים אצלנו 😁)",
+   "ts": 1791822799000,
+   "date": "2026-10-12",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "873KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CezQholSr-GuMtuxG04m_pnDRUSAGfbk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CezQholSr-GuMtuxG04m_pnDRUSAGfbk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547896783"
   }
  ]
 }

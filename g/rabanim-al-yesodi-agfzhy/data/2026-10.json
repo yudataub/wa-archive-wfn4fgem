@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-12T07:07:53.022Z",
+ "updated": "2026-10-12T16:14:26.371Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -765,6 +765,99 @@
    ],
    "drive": null,
    "phone": "972532805918"
+  },
+  {
+   "id": "AC6214CF5696156F677C553D3947720D",
+   "sender": "אור חקשורי",
+   "text": "",
+   "ts": 1791815433000,
+   "date": "2026-10-12",
+   "time": "17:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1bJp14s3sTc7Vz8oFu_fE9XIenZQj0pqP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bJp14s3sTc7Vz8oFu_fE9XIenZQj0pqP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545594779"
+  },
+  {
+   "id": "AC8DF6DCAFCC13BB112AE0790CBF017D",
+   "sender": "אור חקשורי",
+   "text": "לאחר מכן - סיום מסכת .",
+   "ts": 1791815445000,
+   "date": "2026-10-12",
+   "time": "17:30",
+   "files": [],
+   "drive": null,
+   "phone": "972545594779"
+  },
+  {
+   "id": "ACE5397FBB69F8ECA23E2EC37DD48437",
+   "sender": "אור חקשורי",
+   "text": "",
+   "ts": 1791815483000,
+   "date": "2026-10-12",
+   "time": "17:31",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KmBEy37djJrHud9iabAUu9CKzHalFE9-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KmBEy37djJrHud9iabAUu9CKzHalFE9-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545594779"
+  },
+  {
+   "id": "ACFE9C47F3135FD468534809FA594E11",
+   "sender": "אור חקשורי",
+   "text": "הריקודים נמשכו למרות הפסקת חשמל לא צפויה.",
+   "ts": 1791815507000,
+   "date": "2026-10-12",
+   "time": "17:31",
+   "files": [],
+   "drive": null,
+   "phone": "972545594779"
+  },
+  {
+   "id": "3AE560E99A3DB3E91BBA",
+   "sender": "עותניאל מנצור",
+   "text": "",
+   "ts": 1791817750000,
+   "date": "2026-10-12",
+   "time": "18:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dEoqljcLnys5BcvdeUFTwE_B_mw8zi5o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dEoqljcLnys5BcvdeUFTwE_B_mw8zi5o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "A5CCED7EC979081E8AF4F4C1DEE98300",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "*כל צוותי ותלמידי החמ״ד מתאחדים בתפילה* 🙏\n\nמצטרפים לקריאת תהילים לרפואתם השלמה של הפצועים באסון בטיול ישיבת אורט מעלות.\n\nנתפלל יחד שהקב״ה ישלח להם רפואה שלמה בתוך שאר חולי ישראל, ויחזק את משפחותיהם ואת קהילת הישיבה בשעה קשה זו.\n\nליבנו עם משפחת התלמיד שנהרג. המקום ינחם אותם בתוך שאר אבלי ציון וירושלים.\n\nhttps://new.tehilimyahad.com/mr.jsp?r=q5FI2UxOvRo",
+   "ts": 1791821643000,
+   "date": "2026-10-12",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972508733084"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ו'",
- "updated": "2026-10-12T08:03:14.684Z",
+ "updated": "2026-10-12T17:26:34.136Z",
  "messages": [
   {
    "id": "A59D14B8085FBBB4F2BB1EA4ABD40DBB",
@@ -242,6 +242,88 @@
    "files": [],
    "drive": null,
    "phone": "972504806939"
+  },
+  {
+   "id": "3A84CFF5122FE78C21BA",
+   "sender": "מירי",
+   "text": "כנ״ל",
+   "ts": 1791813902000,
+   "date": "2026-10-12",
+   "time": "17:05",
+   "files": [],
+   "drive": null,
+   "phone": "972548961014"
+  },
+  {
+   "id": "AC785416838059FBC6BBDFE1B9EA63FB",
+   "sender": "אורטל פסין",
+   "text": "אפשר לשלוח שוב בבקשה?",
+   "ts": 1791825735000,
+   "date": "2026-10-12",
+   "time": "20:22",
+   "files": [],
+   "drive": null,
+   "phone": "972502775327"
+  },
+  {
+   "id": "AC4BBACED2F7E56DA1A5ADC99F2DEB4C",
+   "sender": "🎀 רעות גשמה 🎀",
+   "text": "יש מבחנים למסכת ראש השנה?",
+   "ts": 1791825741000,
+   "date": "2026-10-12",
+   "time": "20:22",
+   "files": [],
+   "drive": null,
+   "phone": "972525244713"
+  },
+  {
+   "id": "AC1EDF2CC57711AA2456B3C8667B0525",
+   "sender": "משה גרוס",
+   "text": "יש אצלנו באתר משנאות\nhttps://mishnaot.co.il/%d7%91%d7%99%d7%aa/learn/",
+   "ts": 1791825953000,
+   "date": "2026-10-12",
+   "time": "20:25",
+   "files": [],
+   "drive": null,
+   "phone": "972544401975"
+  },
+  {
+   "id": "AC6D06E970C55CA31DF6A486397231D3",
+   "sender": "איתי",
+   "text": "",
+   "ts": 1791825974000,
+   "date": "2026-10-12",
+   "time": "20:26",
+   "files": [
+    {
+     "name": "משנה מסכת ברכות משנה א.pptx",
+     "size": "28.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1agfb7_MI2rvXXb_-aZak1r7yk1jmdauA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543598058"
+  },
+  {
+   "id": "ACE078EBF92415FF8683B188EE48B30B",
+   "sender": "איתי",
+   "text": "",
+   "ts": 1791825975000,
+   "date": "2026-10-12",
+   "time": "20:26",
+   "files": [
+    {
+     "name": "ברכות פרק א משנה ב.pptx",
+     "size": "18.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Q64t_dtANaAcj6n6rR_waabXNBr3pdVL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543598058"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-12T12:15:20.304Z",
+ "updated": "2026-10-12T16:14:26.379Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -4234,6 +4234,89 @@
    "files": [],
    "drive": null,
    "phone": "972526024650"
+  },
+  {
+   "id": "3EB01611BE6247FFD911C0",
+   "sender": "שמואל וינגרטן",
+   "text": "מחפש קובץ שמע/סרטון עם מנגינות בסיסיות של ההלל לטובת כיתות א'.",
+   "ts": 1791812969000,
+   "date": "2026-10-12",
+   "time": "16:49",
+   "files": [],
+   "drive": null,
+   "phone": "972506684721"
+  },
+  {
+   "id": "A5423E27268B127ED12874A01FF53DD0",
+   "sender": "הראל מקייס",
+   "text": "👆🏼",
+   "ts": 1791813235000,
+   "date": "2026-10-12",
+   "time": "16:53",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "3ACEAFFEE034EF71856E",
+   "sender": "עותניאל מנצור",
+   "text": "",
+   "ts": 1791817767000,
+   "date": "2026-10-12",
+   "time": "18:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tvo5ryQ7lBkYXrG78C0qcjrOqIKC5SpC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tvo5ryQ7lBkYXrG78C0qcjrOqIKC5SpC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "A58AE99FEE291282EA96B4B37C48D3B2",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "*כל צוותי ותלמידי החמ״ד מתאחדים בתפילה* 🙏\n\nמצטרפים לקריאת תהילים לרפואתם השלמה של הפצועים באסון בטיול ישיבת אורט מעלות.\n\nנתפלל יחד שהקב״ה ישלח להם רפואה שלמה בתוך שאר חולי ישראל, ויחזק את משפחותיהם ואת קהילת הישיבה בשעה קשה זו.\n\nליבנו עם משפחת התלמיד שנהרג. המקום ינחם אותם בתוך שאר אבלי ציון וירושלים.\n\nhttps://new.tehilimyahad.com/mr.jsp?r=q5FI2UxOvRo",
+   "ts": 1791821503000,
+   "date": "2026-10-12",
+   "time": "19:11",
+   "files": [],
+   "drive": null,
+   "phone": "972508733084"
+  },
+  {
+   "id": "AC8F8A49910655C1ACCD5D74EE31187E",
+   "sender": "יעקב ביתן",
+   "text": "",
+   "ts": 1791821536000,
+   "date": "2026-10-12",
+   "time": "19:12",
+   "files": [
+    {
+     "name": "יא במחשוון פעילות רחל אמנו (4).pptx",
+     "size": "22.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1q8SwDkqe8xeOEuxO3GqLrQbLGwo0n2V0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539474314"
+  },
+  {
+   "id": "A54039BF3CFEBAB9E880071955E377E4",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "*כל צוותי ותלמידי החמ״ד מתאחדים בתפילה* 🙏\n\nמצטרפים לקריאת תהילים לרפואתם השלמה של הפצועים באסון בטיול ישיבת אורט מעלות.\n\nנתפלל יחד שהקב״ה ישלח להם רפואה שלמה בתוך שאר חולי ישראל, ויחזק את משפחותיהם ואת קהילת הישיבה בשעה קשה זו.\n\nליבנו עם משפחת התלמיד שנהרג. המקום ינחם אותם בתוך שאר אבלי ציון וירושלים.\n\nhttps://new.tehilimyahad.com/mr.jsp?r=q5FI2UxOvRo",
+   "ts": 1791821645000,
+   "date": "2026-10-12",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972508733084"
   }
  ]
 }

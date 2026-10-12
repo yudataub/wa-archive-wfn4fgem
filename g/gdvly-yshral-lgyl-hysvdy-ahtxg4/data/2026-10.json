@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-12T12:17:50.358Z",
+ "updated": "2026-10-12T17:09:33.902Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -978,6 +978,38 @@
    "files": [],
    "drive": null,
    "phone": "972543413653"
+  },
+  {
+   "id": "3EB08CE3B6702C908B77BC",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "זה לא שייך לנושא הקבוצה - יש קבוצות לזה\nבנוסף תסתכלי באתר הקול החמישי תמצאי בשפע",
+   "ts": 1791818475000,
+   "date": "2026-10-12",
+   "time": "18:21",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "3A5BA02C01720DB04C1B",
+   "sender": "אין עוד מלבדו",
+   "text": "אשמח לחומרים על הרב עובדיה 🙏",
+   "ts": 1791824334000,
+   "date": "2026-10-12",
+   "time": "19:58",
+   "files": [],
+   "drive": null,
+   "phone": "972508270578"
+  },
+  {
+   "id": "3EB0A9B69621B997AB0164",
+   "sender": "odeyawork1",
+   "text": "https://drive.google.com/drive/folders/1HQbxPm3zkbpTmxU3sRIMeJyiWNBDeeYe",
+   "ts": 1791824958000,
+   "date": "2026-10-12",
+   "time": "20:09",
+   "files": [],
+   "drive": null,
+   "phone": "972507972887"
   }
  ]
 }

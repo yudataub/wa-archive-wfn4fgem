@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת פריזמה לומדת",
- "updated": "2026-10-12T12:22:26.617Z",
+ "updated": "2026-10-12T16:53:33.696Z",
  "messages": [
   {
    "id": "AC4D854646BF10B0A53A2AFDACACB97B",
@@ -100,6 +100,48 @@
      "thumb": "https://drive.google.com/thumbnail?id=1lIZQ5_gEJp0Ft4qcpQsuJ53RYKhWvk5i&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972508338384"
+  },
+  {
+   "id": "3EB0500BF27E0A6ACBF4FC",
+   "sender": "שלמה זלביץ",
+   "text": "",
+   "ts": 1791823976000,
+   "date": "2026-10-12",
+   "time": "19:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K1HrGaFRG7-ABXD1vZ4TDOlUGLmeWk3r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K1HrGaFRG7-ABXD1vZ4TDOlUGLmeWk3r&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508338384"
+  },
+  {
+   "id": "3EB048339699E0D440009C",
+   "sender": "שלמה זלביץ",
+   "text": "תחילים :\n\n💚  ב 20:00 פרופ' סיגל תפארת\n איך לפתח מיומנויות: פרוטוקול מבוסס עדויות\nhttps://us02web.zoom.us/j/81526123469\n\n💙 *לתכנית המלאה ולהרשמה* https://www.prizmalomedet.com/\n\n💙 פריזמה לומדת גם בוואטסאפ - להצטרפות לקבוצה ולעדכונים: https://bit.ly/4zdKDb5",
+   "ts": 1791824007000,
+   "date": "2026-10-12",
+   "time": "19:53",
+   "files": [],
+   "drive": null,
+   "phone": "972508338384"
+  },
+  {
+   "id": "3EB063285F6525048E10C7",
+   "sender": "שלמה זלביץ",
+   "text": "מתחילים :\n\n💚  ב 20:00 פרופ' סיגל תפארת\n איך לפתח מיומנויות: פרוטוקול מבוסס עדויות\nhttps://us02web.zoom.us/j/81526123469\n\n💙 *לתכנית המלאה ולהרשמה* https://www.prizmalomedet.com/\n\n💙 פריזמה לומדת גם בוואטסאפ - להצטרפות לקבוצה ולעדכונים: https://bit.ly/4zdKDb5",
+   "ts": 1791824015000,
+   "date": "2026-10-12",
+   "time": "19:53",
+   "files": [],
    "drive": null,
    "phone": "972508338384"
   }

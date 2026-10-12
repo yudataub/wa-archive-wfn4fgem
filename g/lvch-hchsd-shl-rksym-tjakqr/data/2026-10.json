@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-12T12:32:50.568Z",
+ "updated": "2026-10-12T16:03:49.113Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -5051,6 +5051,100 @@
    "files": [],
    "drive": null,
    "phone": "972528409041"
+  },
+  {
+   "id": "ACD0F49F5DFC68BDE89650D74CE3F276",
+   "sender": "Maya",
+   "text": "משטרה בכניסה לרכסים צופה על כל מי שפונה ימינה",
+   "ts": 1791815093000,
+   "date": "2026-10-12",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "phone": "972545974500"
+  },
+  {
+   "id": "A53756B0B1DC88F444910455DDE8378B",
+   "sender": "עזריאל",
+   "text": "😢 *מצמרר: תגובה של עוקבת ב\"הסטטוס החרדי בצפון\" בעקבות האסון הקשה בטיול השנתי.*\n\nבנה לא יצא לטיול כי לא היה לה כסף לשלם...\n\n*מה שנראה באותו רגע כאכזבה גדולה, התברר בדיעבד כהצלה של ממש.*\n\n*להצטרפות לסטטוס החרדי בצפון👇🏻*\nhttps://wa.me/972509122190?text=אשמח%20להצטרף%20לסטטוס%20החרדי%20בצפון",
+   "ts": 1791815447000,
+   "date": "2026-10-12",
+   "time": "17:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dgCZS5axbrnUXD_hZgw9nSTsBTVexKIF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dgCZS5axbrnUXD_hZgw9nSTsBTVexKIF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
+  },
+  {
+   "id": "3A20CD43782D68C1D5C8",
+   "sender": "אהרן גולדשטיין",
+   "text": "איפה יש מנחה בדקות הקרובות ברכסים?",
+   "ts": 1791816576000,
+   "date": "2026-10-12",
+   "time": "17:49",
+   "files": [],
+   "drive": null,
+   "phone": "972547186203"
+  },
+  {
+   "id": "A5DE8177B1D47ADCE7390606E833CE31",
+   "sender": "גמח משאבות חלב",
+   "text": "שחרית ב6:15 ב\"מניין אברכים\" פעיל? (הנץ כמעט ברבע לשבע)\nומתי בערך מסיימים שם?",
+   "ts": 1791818717000,
+   "date": "2026-10-12",
+   "time": "18:25",
+   "files": [],
+   "drive": null,
+   "phone": "972556685046"
+  },
+  {
+   "id": "A5D72D088EC90056CA0A38BAEB7CA1D5",
+   "sender": "מאיר מוגרבי",
+   "text": "",
+   "ts": 1791819375000,
+   "date": "2026-10-12",
+   "time": "18:36",
+   "files": [
+    {
+     "name": "גבעות עולם למייל 725.pdf",
+     "size": "6.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1CECn7eJnAjrsD9ooI7XPSAtfwh-AK6NZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "AC2FE77F7C8C1030F560235805C2685D",
+   "sender": ". אביתר כהן",
+   "text": "למחר \nיש מנחה ברשב\"י בשעה 17:45",
+   "ts": 1791820883000,
+   "date": "2026-10-12",
+   "time": "19:01",
+   "files": [],
+   "drive": null,
+   "phone": "972586161285"
+  },
+  {
+   "id": "A51116210415D7B03728B7E0E9E2A5A9",
+   "sender": "מאיר מוגרבי",
+   "text": "מישהו מגיע מעיר הקודש בני ברק בימים הקרובים?",
+   "ts": 1791821026000,
+   "date": "2026-10-12",
+   "time": "19:03",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

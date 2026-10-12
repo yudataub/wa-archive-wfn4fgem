@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-12T11:31:44.732Z",
+ "updated": "2026-10-12T16:58:27.114Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -2467,6 +2467,99 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC4D2DE5D5285529316DF22FAC1DC480",
+   "sender": "אלירן בביאן",
+   "text": "אפשר חומרים על פרשת נח לכיתות א ב וג?",
+   "ts": 1791817177000,
+   "date": "2026-10-12",
+   "time": "17:59",
+   "files": [],
+   "drive": null,
+   "phone": "972509741261"
+  },
+  {
+   "id": "ACB9A1396E92F2D76F886987C85C3F95",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "אולי כאן☝️",
+   "ts": 1791817961000,
+   "date": "2026-10-12",
+   "time": "18:12",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC5AF4F9C22763C6F9FB8AE9FC046C90",
+   "sender": "שירה טל לוי",
+   "text": "האם יש אפשרות לקבל את כל הפרשיות של כרמית?",
+   "ts": 1791818035000,
+   "date": "2026-10-12",
+   "time": "18:13",
+   "files": [],
+   "drive": null,
+   "phone": "972525280363"
+  },
+  {
+   "id": "3EB05FD3E3A640E7694AB1",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "פרשת נח הרב אוריאל בלמס.pdf",
+   "ts": 1791821137000,
+   "date": "2026-10-12",
+   "time": "19:05",
+   "files": [
+    {
+     "name": "פרשת נח הרב אוריאל בלמס.pdf",
+     "size": "975KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TpKvqLNd6L8a4bQHnQ-N2Hi2RZqG693n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "3EB057D06058249E865B92",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791821139000,
+   "date": "2026-10-12",
+   "time": "19:05",
+   "files": [
+    {
+     "name": "פרשת נח - מפתח הלב מתוך אמונה.pdf",
+     "size": "910KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ukIitGgsD5i886jNFB0OqrBDdUR0VCAL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACB630552D597FD6F519D188A02249A4",
+   "sender": "שרה בן סימון",
+   "text": "שלום האם קיים ללא ניקוד?",
+   "ts": 1791823267000,
+   "date": "2026-10-12",
+   "time": "19:41",
+   "files": [],
+   "drive": null,
+   "phone": "972524698146"
+  },
+  {
+   "id": "3EB020A6A5244B1A4DE87C",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "לא",
+   "ts": 1791824290000,
+   "date": "2026-10-12",
+   "time": "19:58",
+   "files": [],
    "drive": null,
    "phone": "972523908252"
   }

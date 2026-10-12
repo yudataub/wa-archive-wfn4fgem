@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כבד את השם מגרונך",
- "updated": "2026-10-12T08:30:15.114Z",
+ "updated": "2026-10-12T16:57:27.116Z",
  "messages": [
   {
    "id": "AC3D0F348AB4A77C0C3227737BD3E8F1",
@@ -97,6 +97,110 @@
    "files": [],
    "drive": null,
    "phone": "972524560100"
+  },
+  {
+   "id": "AC1279B51E6C5171544C1FD8EEDBD8C9",
+   "sender": "ktla5359",
+   "text": "לקראת המפגש, המחיר למשתתף יעמוד על סך *120₪ לחודש*\nמספר השיעורים החודשי 4-5. תלוי בחודש.",
+   "ts": 1791814868000,
+   "date": "2026-10-12",
+   "time": "17:21",
+   "files": [],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "ACA51331D3CBC35E7407DF6CA2BD5D19",
+   "sender": "ktla5359",
+   "text": "נא להביא עפרונות.\nאני הדפסתי דפי חמשה.",
+   "ts": 1791816863000,
+   "date": "2026-10-12",
+   "time": "17:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HffNfHIR0QYZoIQdI_NhxBHpKif35SRx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HffNfHIR0QYZoIQdI_NhxBHpKif35SRx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC7E8B4635E843FF6EA4A4D1EE85C0EF",
+   "sender": "אני",
+   "text": "קודם שנלמד מה זה דםי חמשה...",
+   "ts": 1791817048000,
+   "date": "2026-10-12",
+   "time": "17:57",
+   "files": [],
+   "drive": null,
+   "phone": "972538285952"
+  },
+  {
+   "id": "AC9C6FC1D5AC175BC18E6F991954E788",
+   "sender": "שרגא שינובר",
+   "text": "אני מביא עפרונות ספייר למי שישכח ...😉",
+   "ts": 1791817311000,
+   "date": "2026-10-12",
+   "time": "18:01",
+   "files": [],
+   "drive": null,
+   "phone": "972544207687"
+  },
+  {
+   "id": "AC1B036CC38BF80D81E688617D92D747",
+   "sender": "ktla5359",
+   "text": "הלימודים בחדר תורת המוסיקה מול הכניסה",
+   "ts": 1791820827000,
+   "date": "2026-10-12",
+   "time": "19:00",
+   "files": [],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "ACB0819E23A54085569EA58842020E1D",
+   "sender": "שרגא שינובר",
+   "text": "",
+   "ts": 1791824235000,
+   "date": "2026-10-12",
+   "time": "19:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1r5tHCjq6WSM24eaGLjm08De8HVlJicaz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1r5tHCjq6WSM24eaGLjm08De8HVlJicaz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
+  },
+  {
+   "id": "ACBDF9BFB5FDEAE83F8FA39244D9747F",
+   "sender": "שרגא שינובר",
+   "text": "שיעור ראשון....",
+   "ts": 1791824235000,
+   "date": "2026-10-12",
+   "time": "19:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rZ9GMYznduAcyeTIq12nYLey28M00-MX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rZ9GMYznduAcyeTIq12nYLey28M00-MX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
   }
  ]
 }

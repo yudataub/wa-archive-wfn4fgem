@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-12T09:06:52.474Z",
+ "updated": "2026-10-12T14:35:10.948Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -442,6 +442,85 @@
    ],
    "drive": null,
    "phone": "972586522072"
+  },
+  {
+   "id": "3A8AD14B3A025233BF08",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791814713000,
+   "date": "2026-10-12",
+   "time": "17:18",
+   "files": [
+    {
+     "name": "רביעיות הרב חנן פורת זצ״ל שרית פולק.pdf",
+     "size": "2.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1a5Frv3ns1GNnplmcgWyE0TA-AILxpl4S/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "3AC89132864271C107EE",
+   "sender": "שרית פולק",
+   "text": "בהמשך למשימות ששלחתי \nמצרפת משחק רביעיות בהלימה למידע שהילדים לומדים …",
+   "ts": 1791814731000,
+   "date": "2026-10-12",
+   "time": "17:18",
+   "files": [],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "3A7A5CCF7226FAC9CD2B",
+   "sender": "Moriya🧿",
+   "text": "אשמח לקובץ סיפורים על הרב חנן פורת",
+   "ts": 1791814840000,
+   "date": "2026-10-12",
+   "time": "17:20",
+   "files": [],
+   "drive": null,
+   "phone": "972528914106"
+  },
+  {
+   "id": "3AAFCFE8B597B5448899",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791815400000,
+   "date": "2026-10-12",
+   "time": "17:30",
+   "files": [
+    {
+     "name": "מונופול הרב חנן פורת זצ״ל שרית פולק .pdf",
+     "size": "2.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17fQKq2ITGwj6H4jimFWaH20STwG_7RPA/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
+  },
+  {
+   "id": "3A79B203B305A66035FF",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791815680000,
+   "date": "2026-10-12",
+   "time": "17:34",
+   "files": [
+    {
+     "name": "מונופול הרב חנן פורת זצ״ל שרית פולק .pdf",
+     "size": "2.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1eS_LVB8cno4vxyKdgdRIx3Rh6knMjUvi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
   }
  ]
 }

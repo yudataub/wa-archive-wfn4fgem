@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-12T08:21:44.995Z",
+ "updated": "2026-10-12T15:13:11.579Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -707,6 +707,36 @@
    "files": [],
    "drive": null,
    "phone": "972533577773"
+  },
+  {
+   "id": "3EB08372A1DDB7612154B7",
+   "sender": "רננה נתנאל",
+   "text": "אם יש למישהו דף נחמד וקליל על שאילת גשמים אשמח",
+   "ts": 1791817868000,
+   "date": "2026-10-12",
+   "time": "18:11",
+   "files": [],
+   "drive": null,
+   "phone": "972537857070"
+  },
+  {
+   "id": "ACC82233921AF8326C770828144011E1",
+   "sender": "מיטל משה",
+   "text": "",
+   "ts": 1791817982000,
+   "date": "2026-10-12",
+   "time": "18:13",
+   "files": [
+    {
+     "name": "חברותות ז' חשוון.pdf",
+     "size": "2.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19ZPOf_mc8-4RTa4YOkw90BFfox6rywT1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585511411"
   }
  ]
 }

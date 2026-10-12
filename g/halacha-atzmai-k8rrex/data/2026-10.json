@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-12T10:40:06.914Z",
+ "updated": "2026-10-12T15:24:18.365Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1772,6 +1772,68 @@
    ],
    "drive": null,
    "phone": "972545544851"
+  },
+  {
+   "id": "AC1BA34FB26E8FB58E1364106198F56F",
+   "sender": "גיא",
+   "text": "מי שבקבוצה וממתין למחזור השלישי כדי להירשם להשתלמות, אשמח שיעדכן כאן בקבוצה. תודה!",
+   "ts": 1791816326000,
+   "date": "2026-10-12",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "phone": "972507331433"
+  },
+  {
+   "id": "AC184271C1654E51EA9F461794B1E63A",
+   "sender": "זהבה",
+   "text": "נשמח שתשתפו בחומרים",
+   "ts": 1791816429000,
+   "date": "2026-10-12",
+   "time": "17:47",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "3EB0A12CA5DECF9E59841E",
+   "sender": "נוי יצחק 😊",
+   "text": "בכיתה ו למדו את \"מצוות הבן על האב וכו' \", *הלכה למעשה* , ובסוף נבחר נציג כיתתי שהציג הלכות הנובעות מזה...",
+   "ts": 1791816559000,
+   "date": "2026-10-12",
+   "time": "17:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1npKsYXzH_XPDeW0EaYlFAxXjnFN9KbrK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1npKsYXzH_XPDeW0EaYlFAxXjnFN9KbrK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502266255"
+  },
+  {
+   "id": "AC469572507EA05159EBB58A9FB284FD",
+   "sender": "יאיר הרץ",
+   "text": "כתב סתרים משמעות ברכות השחר",
+   "ts": 1791818643000,
+   "date": "2026-10-12",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "276KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sgDtFcPQZCmRQzbkHmit0EB7LeHN0Q1K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sgDtFcPQZCmRQzbkHmit0EB7LeHN0Q1K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524307445"
   }
  ]
 }
