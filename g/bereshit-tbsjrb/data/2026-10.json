@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-12T16:05:49.197Z",
+ "updated": "2026-10-12T21:16:13.809Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2540,6 +2540,28 @@
    "files": [],
    "drive": null,
    "phone": "972526393152"
+  },
+  {
+   "id": "AC12A93710D94E339DD7BEF2F1C9CE5D",
+   "sender": "שירי שטיין",
+   "text": "אשמח למערך בנוי לשיעור ראשון על הפסוקים הראשונים של בראשית",
+   "ts": 1791833030000,
+   "date": "2026-10-12",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972528114603"
+  },
+  {
+   "id": "AC23D9154B94EEBF36C96E38CB7D09FF",
+   "sender": "רבקה וולף",
+   "text": "יש באתר של החמד:\nhttps://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/teaching-materials-hemed/",
+   "ts": 1791839759000,
+   "date": "2026-10-13",
+   "time": "00:15",
+   "files": [],
+   "drive": null,
+   "phone": "972549436940"
   }
  ]
 }

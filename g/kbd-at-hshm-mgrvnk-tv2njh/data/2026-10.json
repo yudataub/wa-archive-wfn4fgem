@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כבד את השם מגרונך",
- "updated": "2026-10-12T16:57:27.116Z",
+ "updated": "2026-10-12T19:03:19.235Z",
  "messages": [
   {
    "id": "AC3D0F348AB4A77C0C3227737BD3E8F1",
@@ -201,6 +201,17 @@
    ],
    "drive": null,
    "phone": "972544207687"
+  },
+  {
+   "id": "3EB0C38F6101A3F8932A70",
+   "sender": "ktla5359",
+   "text": "מעביר אליכם כמה קישורים לתירגול בבית  1. https://lamenagen.com/music-notation-pitch/",
+   "ts": 1791831787000,
+   "date": "2026-10-12",
+   "time": "22:03",
+   "files": [],
+   "drive": null,
+   "phone": "972524560100"
   }
  ]
 }

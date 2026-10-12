@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-11T22:14:56.618Z",
+ "updated": "2026-10-12T20:14:31.531Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -2138,6 +2138,165 @@
    "files": [],
    "drive": null,
    "phone": "972527200640"
+  },
+  {
+   "id": "ACE4A73500D76FA8FF2EDAC3E588B457",
+   "sender": "מעיין צוברי גרמן",
+   "text": "למישהו יש וצאפ של יוזרים של רבנים שמגיעים לאלפי צפיות כמו זה?",
+   "ts": 1791830356000,
+   "date": "2026-10-12",
+   "time": "21:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15CwZkhrN0O9mTBZA4qS4KjFZHS6ECoJv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15CwZkhrN0O9mTBZA4qS4KjFZHS6ECoJv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587121515"
+  },
+  {
+   "id": "3AC06C89454095340F44",
+   "sender": "Ofek Shimoni",
+   "text": "תמונה חזקה של מרן?",
+   "ts": 1791831622000,
+   "date": "2026-10-12",
+   "time": "22:00",
+   "files": [],
+   "drive": null,
+   "phone": "972545557248"
+  },
+  {
+   "id": "2A9764B621F131FCB1DB",
+   "sender": "מאור",
+   "text": "אם נראה לך תיקח",
+   "ts": 1791831778000,
+   "date": "2026-10-12",
+   "time": "22:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JG4-lOGjFUEuNDGyI1z7FNknCyg98f0y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JG4-lOGjFUEuNDGyI1z7FNknCyg98f0y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509499965"
+  },
+  {
+   "id": "ACA700C9DB22B5B2C32476526BE8C151",
+   "sender": ".",
+   "text": "",
+   "ts": 1791835157000,
+   "date": "2026-10-12",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aTI2bwCYpDc1_GsrKZq_9_I9PLeqnw7C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aTI2bwCYpDc1_GsrKZq_9_I9PLeqnw7C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503611268"
+  },
+  {
+   "id": "AC1F521FE0C89DB4B3E0BEAB9CBDD802",
+   "sender": ".",
+   "text": "(בינה מלאכותית)",
+   "ts": 1791835170000,
+   "date": "2026-10-12",
+   "time": "22:59",
+   "files": [],
+   "drive": null,
+   "phone": "972503611268"
+  },
+  {
+   "id": "2AED8A2FDEC1E037CC0E",
+   "sender": "EMI Production אורי אמריו",
+   "text": "חחחח זה לא נראה הוא",
+   "ts": 1791835657000,
+   "date": "2026-10-12",
+   "time": "23:07",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "2A22D617AFFA2D72B746",
+   "sender": "EMI Production אורי אמריו",
+   "text": "נראה שילוב של הרב יצחק יוסף איתו",
+   "ts": 1791835669000,
+   "date": "2026-10-12",
+   "time": "23:07",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "ACAFDE1DDA83196419B53323D97D4C01",
+   "sender": "רועי כהן",
+   "text": "הרב ציונוב",
+   "ts": 1791835686000,
+   "date": "2026-10-12",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A584E773376613C4A7F265BD8939DAEE",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "בסוף גם במנוע ai שתבחרו זה יתעוות, לכן בדמויות תמיד כדאי לקחת מבט מאחור, בטח אצל הרב עובדיה שכולם מכירים את הדמות",
+   "ts": 1791835796000,
+   "date": "2026-10-12",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "2AAD81730EC3A1BCDE09",
+   "sender": "EMI Production אורי אמריו",
+   "text": "מה הכוונה מבט מאחור,",
+   "ts": 1791835908000,
+   "date": "2026-10-12",
+   "time": "23:11",
+   "files": [],
+   "drive": null,
+   "phone": "972528554997"
+  },
+  {
+   "id": "A56BE9FF71D4A242326F5D5E9558C3D8",
+   "sender": "שמואל קורייב",
+   "text": "מגל הצדדים רבי אָמאריו",
+   "ts": 1791836039000,
+   "date": "2026-10-12",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "A506EB4555853BE7CD5E64EFD5B80858",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "מהגב, שיראו את הרב מהגב, הולך, לומד וכו'",
+   "ts": 1791836049000,
+   "date": "2026-10-12",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
   }
  ]
 }

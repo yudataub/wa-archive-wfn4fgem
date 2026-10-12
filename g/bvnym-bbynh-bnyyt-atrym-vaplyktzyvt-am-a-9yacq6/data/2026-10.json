@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בונים בבינה- בניית אתרים ואפליקציות עם AI",
- "updated": "2026-10-05T15:56:50.315Z",
+ "updated": "2026-10-12T19:37:22.768Z",
  "messages": [
   {
    "id": "A5F40B76B41385B16C2A07C3EFBB23C1",
@@ -179,6 +179,70 @@
      "thumb": "https://drive.google.com/thumbnail?id=14LZtXmPuudYRgC9fSHLhX3xVD3ds-YQn&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972584800189"
+  },
+  {
+   "id": "ACFE6ADE3EC422DC6B5B055DF90E7E90",
+   "sender": "JDTOYS משחקים יהודיים 🩵💛",
+   "text": "קיבלתי את זה\nמישהו יןדע מה זה אומר?",
+   "ts": 1791833242000,
+   "date": "2026-10-12",
+   "time": "22:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MCV8srzI9FBCFMIWuL9qxI_CnRRP1bjz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MCV8srzI9FBCFMIWuL9qxI_CnRRP1bjz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509092201"
+  },
+  {
+   "id": "ACF12C4B9E8E112EEAE18D236FAE8348",
+   "sender": "נפתלי פישמן 😇",
+   "text": "יש כנס שנתי של Cloudflare, והמייל הוא קופון הנחה של 100$ לכרטיס.\n\nהסבר מקוצר:\nCloudflare מפעילה רשת עולמית שמאחורי יותר מ-20% מהאינטרנט, והכנס הוא מפגש של אנשי אבטחה, רשתות ופיתוח, עם סשנים והדרכות מעשיות. הכנס מתקיים ב-19–22 באוקטובר במוסקון ווסט בסן פרנסיסקו. המייל הוא שיווקי: \"כמעט אזלו הכרטיסים\" והקוד LASTCHANCE יוצרים לחץ זמן, כמו בכל מייל מכירה.  (cmswire)",
+   "ts": 1791833759000,
+   "date": "2026-10-12",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972584800189"
+  },
+  {
+   "id": "AC3C7D3E05DD1E2032E2E6B0CC5BDADE",
+   "sender": "נפתלי פישמן 😇",
+   "text": "סליחה על ה Ltr",
+   "ts": 1791833766000,
+   "date": "2026-10-12",
+   "time": "22:36",
+   "files": [],
+   "drive": null,
+   "phone": "972584800189"
+  },
+  {
+   "id": "AC54E0CDA1ABC48FE73C3145AD65A584",
+   "sender": "נפתלי פישמן 😇",
+   "text": "קיצר תתעלם מהמייל :)",
+   "ts": 1791833779000,
+   "date": "2026-10-12",
+   "time": "22:36",
+   "files": [],
+   "drive": null,
+   "phone": "972584800189"
+  },
+  {
+   "id": "ACCDD3007053975FF08E308FA66911AB",
+   "sender": "נפתלי פישמן 😇",
+   "text": "אלא אם אתה בעניין לטוס לסן פרנסיסקו לכנס שהכניסה אליו עולה 1495$",
+   "ts": 1791833833000,
+   "date": "2026-10-12",
+   "time": "22:37",
+   "files": [],
    "drive": null,
    "phone": "972584800189"
   }

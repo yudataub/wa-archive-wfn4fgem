@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-12T17:35:34.246Z",
+ "updated": "2026-10-12T19:25:24.039Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -1894,6 +1894,25 @@
    "files": [],
    "drive": null,
    "phone": "972533309982"
+  },
+  {
+   "id": "3A473AE7E5FF2705F928",
+   "sender": "שרית פולק",
+   "text": "",
+   "ts": 1791833112000,
+   "date": "2026-10-12",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "הרב חנן פורת זצ״ל כיתה א.pdf",
+     "size": "3.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1HfK8s0LbZ6lDx1dYjJgbhRLgA-OObKPN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504929488"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-12T15:24:18.365Z",
+ "updated": "2026-10-12T20:04:31.375Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1834,6 +1834,97 @@
    ],
    "drive": null,
    "phone": "972524307445"
+  },
+  {
+   "id": "ACDE38FA9B2840C707C44B5BC91F9FB8",
+   "sender": "הילה כהן 😍",
+   "text": "",
+   "ts": 1791835429000,
+   "date": "2026-10-12",
+   "time": "23:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "355KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DIW0fZkwUV1alt3C_UgcxsWvQ7b-tqt5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DIW0fZkwUV1alt3C_UgcxsWvQ7b-tqt5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544788864"
+  },
+  {
+   "id": "AC9722C2F7F3C4818CCA9802AAB341B1",
+   "sender": "הילה כהן 😍",
+   "text": "",
+   "ts": 1791835430000,
+   "date": "2026-10-12",
+   "time": "23:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "336KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yUKC394ELacjdiFHMDYiXmg_tMrtf7he/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yUKC394ELacjdiFHMDYiXmg_tMrtf7he&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544788864"
+  },
+  {
+   "id": "ACDCFEFCD13CAC1B8A8E5D1D6425E434",
+   "sender": "הילה כהן 😍",
+   "text": "",
+   "ts": 1791835430000,
+   "date": "2026-10-12",
+   "time": "23:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19Gv07KqbeUNmMjqLSb4PLP2DXkKFsyNg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19Gv07KqbeUNmMjqLSb4PLP2DXkKFsyNg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544788864"
+  },
+  {
+   "id": "AC8A222A530309FB48D1D6A131F0E44E",
+   "sender": "הילה כהן 😍",
+   "text": "",
+   "ts": 1791835431000,
+   "date": "2026-10-12",
+   "time": "23:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "297KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1usakKt56d4HN44KZrXmvgXfpCCrJznIP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1usakKt56d4HN44KZrXmvgXfpCCrJznIP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544788864"
+  },
+  {
+   "id": "ACE10F0BE998D631E1BC0580748984F4",
+   "sender": "הילה כהן 😍",
+   "text": "כתב סתרים שאילת גשמים",
+   "ts": 1791835466000,
+   "date": "2026-10-12",
+   "time": "23:04",
+   "files": [],
+   "drive": null,
+   "phone": "972544788864"
   }
  ]
 }

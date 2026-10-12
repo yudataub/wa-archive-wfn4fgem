@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-12T13:37:56.274Z",
+ "updated": "2026-10-12T20:34:08.701Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -695,6 +695,26 @@
    "files": [],
    "drive": null,
    "phone": "972506246392"
+  },
+  {
+   "id": "AC9AB3315C3B07CC52AF96FB662CDFCB",
+   "sender": "שי הלל",
+   "text": "",
+   "ts": 1791837235000,
+   "date": "2026-10-12",
+   "time": "23:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T1VFd-x9MLQzoQo7hY6KqUih_Y-KvZF0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T1VFd-x9MLQzoQo7hY6KqUih_Y-KvZF0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549148109"
   }
  ]
 }

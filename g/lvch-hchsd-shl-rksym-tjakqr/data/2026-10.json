@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-12T16:03:49.113Z",
+ "updated": "2026-10-12T20:16:31.557Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -5145,6 +5145,57 @@
    "files": [],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "AC8EC2018F6850F59DD33DDBD5EAFF2A",
+   "sender": "פינחס ברויאר",
+   "text": "",
+   "ts": 1791829244000,
+   "date": "2026-10-12",
+   "time": "21:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cjwtkSQz_EEY-GXfTeGaIYxaPWKaRD9j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cjwtkSQz_EEY-GXfTeGaIYxaPWKaRD9j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548455693"
+  },
+  {
+   "id": "A505D38DE9B3230171B87E4AF234CCA1",
+   "sender": "Nachman",
+   "text": "רכסים\nלקבל העברה 5,000 ש\nממזרחי טפחות\nולהביא מזומן",
+   "ts": 1791834680000,
+   "date": "2026-10-12",
+   "time": "22:51",
+   "files": [],
+   "drive": null,
+   "phone": "972534842528"
+  },
+  {
+   "id": "4AAAA52362AE3EDBA1A4",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1791836163000,
+   "date": "2026-10-12",
+   "time": "23:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ER6U3mgKPZ183SKRitKHOcaljaaEdUfE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ER6U3mgKPZ183SKRitKHOcaljaaEdUfE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
   }
  ]
 }

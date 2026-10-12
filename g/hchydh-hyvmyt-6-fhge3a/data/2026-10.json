@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-10-12T11:18:50.470Z",
+ "updated": "2026-10-12T19:36:22.764Z",
  "messages": [
   {
    "id": "3EB0B3E2508A48B76E72A4",
@@ -580,6 +580,26 @@
      "path": "https://drive.google.com/file/d/1f4VKRvITUIZmZnPeuSdwo925moUKt8V6/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1f4VKRvITUIZmZnPeuSdwo925moUKt8V6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0A408BCC2BBBC63A154",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "🤯היום היה קשוח...\nבדמיונם = *בְּעֵינֵי רוּחָם*\nהפרקליטה אומרת: *בְּעֵינָי* (=לדעתי) רוּחַם (=חסו עליו)\nלילה טוב ובשורות טובות, אמן!",
+   "ts": 1791833759000,
+   "date": "2026-10-12",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hJtcpFSujiAMPwpv_93JMavEIffvdKrx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hJtcpFSujiAMPwpv_93JMavEIffvdKrx&sz=w1200"
     }
    ],
    "drive": null,

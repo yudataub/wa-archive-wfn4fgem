@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-12T16:52:57.048Z",
+ "updated": "2026-10-12T19:02:49.188Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1631,6 +1631,59 @@
    "files": [],
    "drive": null,
    "phone": "972545614454"
+  },
+  {
+   "id": "AC2747705F383DA37F372054AC448B31",
+   "sender": "🇮🇱Hagai🇮🇱",
+   "text": "הזמנה לחוג בית בקרית אתא | ללי דרעי | 19.10 | 20:00 \nקישור להרשמה- https://amchaisrael.co.il/events/kiryat-ata-19-10",
+   "ts": 1791831399000,
+   "date": "2026-10-12",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qgCpMV_wDRCFcQRoJIsWqGdVXWnZNcoP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qgCpMV_wDRCFcQRoJIsWqGdVXWnZNcoP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502125018"
+  },
+  {
+   "id": "ACACAA1EC194CE4129AB6B1C75ED79BF",
+   "sender": "אוריאל",
+   "text": "מצוין\nנבוא לשכנע אותה לפרוש.",
+   "ts": 1791831635000,
+   "date": "2026-10-12",
+   "time": "22:00",
+   "files": [],
+   "drive": null,
+   "phone": "972546660233"
+  },
+  {
+   "id": "AC092D33062D140BE09637434ACFB72E",
+   "sender": "אוריאל",
+   "text": "המפדלניקים\nהוינטרים\nהחרדלניקים של נעם\n\nהולכים להפיל את גוש הימין.",
+   "ts": 1791831691000,
+   "date": "2026-10-12",
+   "time": "22:01",
+   "files": [],
+   "drive": null,
+   "phone": "972546660233"
+  },
+  {
+   "id": "AC7EFAB20C4735C0EABC54ABD68CD25C",
+   "sender": "🇮🇱Hagai🇮🇱",
+   "text": "תרשם.. או שתשכנע או שתשוכנע😉",
+   "ts": 1791831768000,
+   "date": "2026-10-12",
+   "time": "22:02",
+   "files": [],
+   "drive": null,
+   "phone": "972502125018"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-12T06:01:05.770Z",
+ "updated": "2026-10-12T19:41:00.986Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -3633,6 +3633,118 @@
    ],
    "drive": null,
    "phone": "972523114066"
+  },
+  {
+   "id": "AC9A6FF7BF4C1B77291C4E5790357B22",
+   "sender": "גלית מונשטר🪬🌸",
+   "text": "אשמח לדפי  עבודה  פרק ב' קורבן מנחה ברמת כיתה ד' יסודי  ממ\"ד .\nתודה",
+   "ts": 1791828169000,
+   "date": "2026-10-12",
+   "time": "21:02",
+   "files": [],
+   "drive": null,
+   "phone": "972503679888"
+  },
+  {
+   "id": "3A27AA9FC8E12BD2B2BA",
+   "sender": "תהל 🌼",
+   "text": "אשמח לפרק ה",
+   "ts": 1791828630000,
+   "date": "2026-10-12",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "phone": "972525012240"
+  },
+  {
+   "id": "AC717931DBACB56E20996F3697885EED",
+   "sender": "Sivan",
+   "text": "יש השתלמות בחומש ויקרא?",
+   "ts": 1791831126000,
+   "date": "2026-10-12",
+   "time": "21:52",
+   "files": [],
+   "drive": null,
+   "phone": "972522196620"
+  },
+  {
+   "id": "4A35ED242478FFCCA2D9",
+   "sender": "אפרת בן חמו",
+   "text": "",
+   "ts": 1791831713000,
+   "date": "2026-10-12",
+   "time": "22:01",
+   "files": [
+    {
+     "name": "פרק ג' קורבן שלמים.pdf",
+     "size": "1.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rgNXqzBrG-D8I1zhc_KkKODsCyoJmXWJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972555507557"
+  },
+  {
+   "id": "2A108A9773DB7B47CD71",
+   "sender": "אפרת בן חמו",
+   "text": "אשמח לדף סיכום לקורבנות הנדבה",
+   "ts": 1791831735000,
+   "date": "2026-10-12",
+   "time": "22:02",
+   "files": [],
+   "drive": null,
+   "phone": "972555507557"
+  },
+  {
+   "id": "ACD6A73D224B243C9795347CDC61F298",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1791832523000,
+   "date": "2026-10-12",
+   "time": "22:15",
+   "files": [
+    {
+     "name": "סיכום הקורבנות בפרשת ויקרא.docx",
+     "size": "11KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1PQ1vDN9nhUEpwkKss9I_Aq2Fx9TZM3pc/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACBF10276048AF281AE2E42D40DFE6D5",
+   "sender": "אורית הודיה",
+   "text": "שלחו זאת והנחתי כאן שוב",
+   "ts": 1791832525000,
+   "date": "2026-10-12",
+   "time": "22:15",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "3EB0DE31A04A3E744A1F9F",
+   "sender": "ראובן אבו - מכון \"מעשה שלי\"",
+   "text": "",
+   "ts": 1791834043000,
+   "date": "2026-10-12",
+   "time": "22:40",
+   "files": [
+    {
+     "name": "אָבִינוּ שֶׁבַּשָּׁמַיִם, צוּר יִשְׂרָאֵל וְגוֹאֲלוֹ, בָּרֵךְ אֶת-מְדִינַת-יִשְׂרָאֵל, רֵאשִׁית צְמִיחַת גְּאֻלָּתֵנוּ. הָגֵן עָלֶיהָ בְּאֶבְרַת חַסְדֶּךָ וּפְרֹשׂ עָלֶיהָ סֻכ.pdf",
+     "size": "15.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17lUDg8cH53tjtiJeQM01VJlUK7MJu_Ze/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503236686"
   }
  ]
 }

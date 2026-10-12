@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-12T16:14:26.379Z",
+ "updated": "2026-10-12T19:23:53.994Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -4317,6 +4317,85 @@
    "files": [],
    "drive": null,
    "phone": "972508733084"
+  },
+  {
+   "id": "AC2C649EE8813304A4A55FF6BCB68199",
+   "sender": "אחימאיר קלה",
+   "text": "מצרף פעילות חוויה ולמידה לז' חשוון.\nהתוכנית:\n❇️ למידה אופציה א': במליאה בכיתה (מצורפת מצגת בסיוע נוטבוק לאחר תיקון טעויות לפי הבנתי...)\n❇️ למידה אופציה ב' חברותות (מצרף דף יפה שהכין אחד הרבנים. לא זוכר כרגע מי. מחילה...) לא חייבים את שני הצדדים.\n❇️ פעילות הפנינג תחנות: כוסות (''של ברכה'') בלונים (\"משיב הרוח'') ומים (טל ומטר)",
+   "ts": 1791832861000,
+   "date": "2026-10-12",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972584158580"
+  },
+  {
+   "id": "AC40DEDD6476B22D39921B505BDBDC2A",
+   "sender": "אחימאיר קלה",
+   "text": "",
+   "ts": 1791832890000,
+   "date": "2026-10-12",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "נקדימון בן גוריון ותפילתו על הגשמים.doc",
+     "size": "139KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1jymm1pnnAurmF5JC1NDD2NSdLMJOWneB/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584158580"
+  },
+  {
+   "id": "AC447CE95A37110E642715934175244B",
+   "sender": "אחימאיר קלה",
+   "text": "",
+   "ts": 1791832890000,
+   "date": "2026-10-12",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "משחקי כוסות בלונים ומים.docx",
+     "size": "29KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Q-8aaMs90L_dSm9oimKk8AO9TPqMdjf9/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584158580"
+  },
+  {
+   "id": "ACA33AE2D553496167C6362223D9BBCB",
+   "sender": "אחימאיר קלה",
+   "text": "",
+   "ts": 1791832891000,
+   "date": "2026-10-12",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "שאילת גשמים מידע הלכה ומסר.pptx",
+     "size": "18.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/12zlYakM1UI-9OViWZ9pn20cnkLHLSzOR/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584158580"
+  },
+  {
+   "id": "AC5EC3154C165138B18E5DB77A319031",
+   "sender": "איתי",
+   "text": "יישר כח",
+   "ts": 1791833007000,
+   "date": "2026-10-12",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972543598058"
   }
  ]
 }
