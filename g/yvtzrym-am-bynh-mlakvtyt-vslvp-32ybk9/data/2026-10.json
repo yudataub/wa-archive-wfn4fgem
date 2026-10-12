@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-11T18:59:25.699Z",
+ "updated": "2026-10-12T01:29:17.082Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -15522,6 +15522,26 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "3A6B261082D2C564D5CE",
+   "sender": "AZz",
+   "text": "",
+   "ts": 1791768535000,
+   "date": "2026-10-12",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p9netprzsL-vf4pnGbe-aSsIR4cixoWP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p9netprzsL-vf4pnGbe-aSsIR4cixoWP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548180025"
   }
  ]
 }
