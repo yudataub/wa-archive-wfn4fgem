@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-11T16:12:58.726Z",
+ "updated": "2026-10-12T05:37:05.430Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -3360,6 +3360,66 @@
    "date": "2026-10-11",
    "time": "19:12",
    "files": [],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACEBA4AE91F8BD817EBD56F58D31625E",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1791783344000,
+   "date": "2026-10-12",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XGD-90jJwfQuYiSFgzuWBQ2cTDE8TfeT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XGD-90jJwfQuYiSFgzuWBQ2cTDE8TfeT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACA9E9DCCFA0CE024EBED90A30631716",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1791783400000,
+   "date": "2026-10-12",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "30KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Hf6Xv8LGiEjQ7jAqfVXSJLze_IJ3_IuL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Hf6Xv8LGiEjQ7jAqfVXSJLze_IJ3_IuL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC76F5B48683E4EE6F36E9620857C806",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1791783417000,
+   "date": "2026-10-12",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "39KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1gCfNqjIErJwQdVLbTFvSlgyIAhZkz_ot/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gCfNqjIErJwQdVLbTFvSlgyIAhZkz_ot&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522828512"
   }

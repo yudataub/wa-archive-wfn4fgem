@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-11T21:02:13.816Z",
+ "updated": "2026-10-12T04:59:13.916Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -6277,6 +6277,37 @@
    ],
    "drive": null,
    "phone": "972543530543"
+  },
+  {
+   "id": "AC0186FD18B4721C444D253931C03826",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1791781143000,
+   "date": "2026-10-12",
+   "time": "07:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FPDMuBKLyRJYCOEVsdBMFgDGgTyDZl7d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FPDMuBKLyRJYCOEVsdBMFgDGgTyDZl7d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "ACF39C6B9CFF8C2E2711FD1A0D467FD8",
+   "sender": "בני קרמר",
+   "text": "מנין שחרית בשעה 08:15",
+   "ts": 1791781144000,
+   "date": "2026-10-12",
+   "time": "07:59",
+   "files": [],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

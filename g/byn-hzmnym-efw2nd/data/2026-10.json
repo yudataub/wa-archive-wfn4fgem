@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-11T17:14:41.706Z",
+ "updated": "2026-10-12T03:43:49.378Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1084,6 +1084,26 @@
    ],
    "drive": null,
    "phone": "972509040669"
+  },
+  {
+   "id": "ACD3B70E80218DEFC3B0ED979C0DAA93",
+   "sender": "עדית אבני",
+   "text": "🌺 *פנויים מהיום במחירים מעולים.             💞החל מזוג ועד 14 אורחים.💞* \n🌺 *זה הזמן לשריין* \n       *חמישי-מוצ\"ש הקרוב במחיר 🔥* 🔥 \n🌺נשמח לצרף אתכם למועדון האורחים המרוצים שלנו שחוזרים ומתארחים בוילה חופשה אחר חופשה.\n🌺🌺🌺🌺🌺🌺🌺🌺",
+   "ts": 1791776616000,
+   "date": "2026-10-12",
+   "time": "06:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13qwBHMS9iUeyl9zQH5qNV7mR-gJ9QF0v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13qwBHMS9iUeyl9zQH5qNV7mR-gJ9QF0v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
   }
  ]
 }

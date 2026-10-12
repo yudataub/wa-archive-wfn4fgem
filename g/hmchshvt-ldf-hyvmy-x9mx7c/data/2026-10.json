@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-11T04:08:59.600Z",
+ "updated": "2026-10-12T04:46:56.238Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -338,6 +338,26 @@
      "path": "https://drive.google.com/file/d/1iGd3C_WDpM1Ulf4iaj7qj51lmmsg3y7x/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1iGd3C_WDpM1Ulf4iaj7qj51lmmsg3y7x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD6752C37C9FF11252D",
+   "sender": ".",
+   "text": "״חזיר שכרוך אחר רחל״ (בכורות כד, ב).",
+   "ts": 1791780390000,
+   "date": "2026-10-12",
+   "time": "07:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L3pBJN7tmrxTBIqV0e2PhHeV0hp_yYuP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L3pBJN7tmrxTBIqV0e2PhHeV0hp_yYuP&sz=w1200"
     }
    ],
    "drive": null,

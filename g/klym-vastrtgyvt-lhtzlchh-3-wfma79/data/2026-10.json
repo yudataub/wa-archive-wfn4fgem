@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-11T14:13:12.698Z",
+ "updated": "2026-10-12T04:13:55.745Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -1315,6 +1315,46 @@
    "date": "2026-10-11",
    "time": "17:13",
    "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A589CA0E166043C8EB6A9E00C5F3E604",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791778424000,
+   "date": "2026-10-12",
+   "time": "07:13",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "11KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1oglEuv0QV1Q_OGid8_uWNW2KbxV2iilw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oglEuv0QV1Q_OGid8_uWNW2KbxV2iilw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5243E89B64EA546FA0F197E24E81FA2",
+   "sender": "mary garby",
+   "text": "\"סיור בתמונות\" הוא פרטיקה הלקוחה מהגיל הרך וראשית הקריאה בה הילדים מתבוננים בתמונות עוד לפני ההקראה/ קריאה של הקטסט. \nנשתמש בפרקטיקה הזאת  בטקסט שבו האיורים, הצילומים או התרשימים נושאים מידע: לפני הקריאה דפדפו בטקסט בלי לקרוא אותו בקול. עצרו בכל תמונה ובקשו מן התלמידים לתאר רק את מה שהם רואים, אחר כך לפרש, ולבסוף לנבא מה יופיע בטקסט. רשמו שתיים או שלוש השערות וחזרו אליהן בזמן הקריאה: מה אושר, מה השתנה ואיזה פרט בתמונה קיבל משמעות חדשה.",
+   "ts": 1791778428000,
+   "date": "2026-10-12",
+   "time": "07:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_1YsnWUssC0PDPLGBJ6rVX-vmYNwM4XW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_1YsnWUssC0PDPLGBJ6rVX-vmYNwM4XW&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546887626"
   }

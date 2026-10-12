@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-11T20:12:34.698Z",
+ "updated": "2026-10-12T05:36:05.424Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -3280,6 +3280,37 @@
    "files": [],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "AC82D657E2BB1BEBD8B9308B9C0648C6",
+   "sender": "Inbal Koresh-shavat",
+   "text": "למכירה \n2 כרטיסים למופע next \nלהיום - 12.11\nבשעה 21.00 \n200 ש\"ח לשניהם \nלפרטים: 0546225644",
+   "ts": 1791780542000,
+   "date": "2026-10-12",
+   "time": "07:49",
+   "files": [],
+   "drive": null,
+   "phone": "972546225644"
+  },
+  {
+   "id": "ACE7C0AD48BB509C17B1A4C88AC13C3F",
+   "sender": "מאיה",
+   "text": "*🌸 בעקבות הביקוש – נפתחת סדנה נוספת לילדים! 🎨💗 למגזר החרדי*\n*✨ ״מי אני באמת״ – סדנה שמעניקה לילדים כלים לביטחון עצמי, להתמודדות רגשית וליצירת קשרים חברתיים טובים יותר.*\n*💖 יש לי המלצות מרגשות מאימהות שכבר חוו את התהליך עם ילדיהן. מספר המקומות מוגבל – מוזמנות ליצור קשר ולשמור מקום לילד/ה שלכן 📞*",
+   "ts": 1791783358000,
+   "date": "2026-10-12",
+   "time": "08:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ETqo-JDMjtMZ0_1upv3OlLjHPiy7LQ1C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ETqo-JDMjtMZ0_1upv3OlLjHPiy7LQ1C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523492545"
   }
  ]
 }

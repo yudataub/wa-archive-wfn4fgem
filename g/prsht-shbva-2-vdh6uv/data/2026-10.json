@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-11T12:15:53.479Z",
+ "updated": "2026-10-12T05:37:35.432Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -1839,6 +1839,522 @@
    ],
    "drive": null,
    "phone": "972525707976"
+  },
+  {
+   "id": "AC3A7196311C2F84ADF1F172E8F21264",
+   "sender": "איטה רז",
+   "text": "בקר טוב\nאפשר דף של כרמית לפרשת נח?",
+   "ts": 1791781456000,
+   "date": "2026-10-12",
+   "time": "08:04",
+   "files": [],
+   "drive": null,
+   "phone": "972528536477"
+  },
+  {
+   "id": "ACC44A3B64177DA28F4BFB22730B7AED",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783130000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "דף שבעים האומות.pdf",
+     "size": "184KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1nYYSp_0LfeeIfrnxpQuzllTxDACZbIE9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACDB1A5262A6D4BED0409C34D273AA98",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783136000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "תורת חיים נח.pdf",
+     "size": "238KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1YEjOd02EBa_HDfo9ZvXhYoJkNcX-AkC8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC4EA7876F7C303F5A04898F9162CD49",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783139000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "פרשת השבוע.pdf",
+     "size": "218KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1JfoCfG6Ucmej5dFnGvVSKvRkKvlNI5E9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC30F7B9FC0C36E35E4FD12B002290FB",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783142000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "פָּרָשַׁת נח.pdf",
+     "size": "281KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/18ne_17jH8aQRzpjCUxe-4zKvmqMQrtvK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACCE90FC894CB6F49EFBBE9641C76A97",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783144000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "תורת חיים נח.pdf",
+     "size": "238KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-nRdpDXkA7mn4uQr9wjIWARf9Xa0eESt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACAC47BF98CA59E59092C3469E2C40E9",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783146000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "הרב קדוש המבול - כיתה ב תשעט.pdf",
+     "size": "242KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1509sNbbAOYjYdfqvDKlOozTw1BNanjXB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACE318D50CDFF23C4870734F47E8BFFE",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783147000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "העורב והיונה גברת מרטון מאשרת בשימוש - Page 129.pdf",
+     "size": "305KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OdyfaT2WOnpJykCwsLIr2XZnTuTmniSl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC8421643C13A4F84C171DDDFEB93CB4",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783151000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": ".סיפור הפרשה בקצרה נח .pdf",
+     "size": "191KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OPHyH9HoSI6T_ygV8vjOh5FsLS8kMdwP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACFDAA4F7552D61261C6257B464F173E",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783152000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "הרב קדוש דף קריאה האריות שומרים",
+     "size": "163KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PaYg6ZQ6Xwr5KxKrY_mON3ATlz1gxtoB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC5B1F0E1183FCF5205482B05C95E05D",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783154000,
+   "date": "2026-10-12",
+   "time": "08:32",
+   "files": [
+    {
+     "name": "הרב קדוש דף לשבת דאגה לחיות שבתיבה",
+     "size": "136KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QHcF-Bp0u9UbBgkB04EFWZcjkwV7tban/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACC4BEE6DCDE4BF72432807FE0BE1F47",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783216000,
+   "date": "2026-10-12",
+   "time": "08:33",
+   "files": [
+    {
+     "name": "קריאה לפרשת נח רמה 1 -  מתיא בני ברק.pdf",
+     "size": "178KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XcfkBJhNd8OAW9yS6YUkVAZThkTrfTV0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC92AEC95D64CC4419044047BAF64E50",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783218000,
+   "date": "2026-10-12",
+   "time": "08:33",
+   "files": [
+    {
+     "name": "בתיבה גברת מרטון מאשרת בשימוש - Page 126.pdf",
+     "size": "281KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1E5G8m9pq4x6jVxFIhX7ejqODflEUy0Xm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACAB3E16210CA701139C6BE696EC21E6",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783220000,
+   "date": "2026-10-12",
+   "time": "08:33",
+   "files": [
+    {
+     "name": "דור הפלגה גברת מרטון מאשרת בשימוש - Page 136.pdf",
+     "size": "307KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RiaUZwhuCShIgI9v_OJrj5CV0T7LNRhE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC8CB4069943ACD7DBC4ABD9D128739B",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783222000,
+   "date": "2026-10-12",
+   "time": "08:33",
+   "files": [
+    {
+     "name": ".pdfתקציר נח אמונה קינן",
+     "size": "416KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1pWj2GnNnQURRGBHuJCMtDCEkaHlZp-Gn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC43F7B75B4C07C9C59F6AE4787A1CAB",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783223000,
+   "date": "2026-10-12",
+   "time": "08:33",
+   "files": [
+    {
+     "name": "למה לקח לבנות תיבה 120 שנה.pdf",
+     "size": "522KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1JGByKmuOHFx6eYIsEg4q-OATWfY056Ic/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC91CABCF264184B9697228738E9997B",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783226000,
+   "date": "2026-10-12",
+   "time": "08:33",
+   "files": [
+    {
+     "name": "אחד מול כולם.pdf",
+     "size": "555KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Mfsso6lx6sqhqRWPJEv2UY_zoUI5-krK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACB4ED7862BF7B4218F98D4969786C4B",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783249000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תפזורת בינוני נח  ocx.pdf",
+     "size": "83KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RPP-PfngOLLH-dDqS-rsHDXtkluxLkxP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC2CD78AD43F39DDBB0169CAB850D97E",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783252000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תפזורת  נח בוגרים ocx.pdf",
+     "size": "81KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1J5sPyjJ8fi5L__mSqExi0HhIewIp4uP4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC6A9613BB04E39E27F556E9FA4BB39D",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783254000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תפזורת רמה קלה נח .pdf",
+     "size": "93KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bfxhBftj7buNDvglr2Kl0eGh5xzcTknD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC974643BA4D912F6236CBC6A2DD52C3",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783259000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תפזורת נח 1 ocx.pdf",
+     "size": "84KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1H6i7Nr5AIaEDpZvMsRDymRz5aaR4wbrp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC5707EDD6DB50533DBCE9EFFC2BAFD3",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783261000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "חידון ציורים נח.pdf",
+     "size": "1.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XRTWecScWnO2pB-QCh4xiRxToDqGNXE5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC411F7CA28DE2D12DB72135C99E80DA",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783263000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "ושננתם נח ילדים.pdf",
+     "size": "585KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BTGyb0hH-UX91PVsfYX8KqJYJKDlj2Yx/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACED525DA2D9C3DDC2814538EC070906",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783266000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תפזורת נח  צעירים.pdf",
+     "size": "690KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/15voP7kGiQjqsPpiTXJ9C1U33k8W2xGFU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC2FBADDE203EC616F10F8D50AFB7002",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783270000,
+   "date": "2026-10-12",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "ושננתם נח ילדים פו.pdf",
+     "size": "815KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1B6Qr12OWnQhRGUiihiWNCA_SMMvlgCYn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC81CEBE9BEB865BE62BA8D001ECFA89",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783425000,
+   "date": "2026-10-12",
+   "time": "08:37",
+   "files": [
+    {
+     "name": "נח - חברותות תשפה.docx",
+     "size": "29KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1oqLUoA9-wWJZg6paPi-2w5-9xuoxQcuN/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC0D8172F140FAA58CD25A35A1BB9A5C",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1791783428000,
+   "date": "2026-10-12",
+   "time": "08:37",
+   "files": [
+    {
+     "name": "נח - חברותות.docx",
+     "size": "33KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1hFQo-PxQIAD-fzRE0lLBGldQULG9FIJO/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACB0CD37AF8E356E6B6D038CCA81EB1A",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "https://drive.google.com/drive/folders/1pEtU_r5agPOWDpTa8x8OTjrLzetb5A0O",
+   "ts": 1791783431000,
+   "date": "2026-10-12",
+   "time": "08:37",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
   }
  ]
 }

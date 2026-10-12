@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-11T12:09:23.372Z",
+ "updated": "2026-10-12T04:51:13.741Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -611,6 +611,26 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "AC284735C4CE5279CFB3F6672D1DA4EA",
+   "sender": "בני קרמר",
+   "text": "מנין שחרית בשעה 08:15",
+   "ts": 1791780666000,
+   "date": "2026-10-12",
+   "time": "07:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WSQBLgk443Y_8LwjQgDBrQG9W0AnKakJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WSQBLgk443Y_8LwjQgDBrQG9W0AnKakJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

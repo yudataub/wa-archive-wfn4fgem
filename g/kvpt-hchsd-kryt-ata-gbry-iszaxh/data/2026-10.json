@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-11T20:10:34.685Z",
+ "updated": "2026-10-12T04:51:43.741Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1024,6 +1024,37 @@
    "files": [],
    "drive": null,
    "phone": "972543497912"
+  },
+  {
+   "id": "ACD9DED10B25654367B5F22B83C9AEB8",
+   "sender": "בני קרמר",
+   "text": "",
+   "ts": 1791780683000,
+   "date": "2026-10-12",
+   "time": "07:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H6w4Krk9_lB1MLwCDOMdUShqJDnnieuS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H6w4Krk9_lB1MLwCDOMdUShqJDnnieuS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC94E41966D93A29029CFA90369630C8",
+   "sender": "בני קרמר",
+   "text": "מנין שחרית בשעה 08:15",
+   "ts": 1791780685000,
+   "date": "2026-10-12",
+   "time": "07:51",
+   "files": [],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-11T18:31:49.868Z",
+ "updated": "2026-10-12T04:32:13.440Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -6224,6 +6224,69 @@
    "files": [],
    "drive": null,
    "phone": "972509360072"
+  },
+  {
+   "id": "3A413376D95870139CFE",
+   "sender": "אֵלִיָּה",
+   "text": "היי שלום כבוד הרבנים,\nהאם מותר לצחצח שיניים לפני ברכת השחר?\nתודה רבה חודש טוב ויום נפלא🙌🏼🙌🏼",
+   "ts": 1791772889000,
+   "date": "2026-10-12",
+   "time": "05:41",
+   "files": [],
+   "drive": null,
+   "phone": "972586900006"
+  },
+  {
+   "id": "ACA687D7211106CF4E39E3F985523072",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "כן",
+   "ts": 1791775186000,
+   "date": "2026-10-12",
+   "time": "06:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "3AF44BA87D149463096B",
+   "sender": "Hagit Abergel Sela",
+   "text": "והאם מותר לשתות\nלפני ברכות השחר?",
+   "ts": 1791776732000,
+   "date": "2026-10-12",
+   "time": "06:45",
+   "files": [],
+   "drive": null,
+   "phone": "972542311114"
+  },
+  {
+   "id": "AC9A3EC255FFE2F71D1C54729638D331",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "☝🏻",
+   "ts": 1791779002000,
+   "date": "2026-10-12",
+   "time": "07:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "ACC18A98885E4389DB0AE6972792D20F",
+   "sender": "רחל",
+   "text": "",
+   "ts": 1791779516000,
+   "date": "2026-10-12",
+   "time": "07:31",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1uOwCpWS0JgdqVi5AvU6Ay2PayUewNi0G/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508822733"
   }
  ]
 }

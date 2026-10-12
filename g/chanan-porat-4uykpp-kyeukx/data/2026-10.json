@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-11T20:53:43.668Z",
+ "updated": "2026-10-12T04:55:13.821Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -1712,6 +1712,92 @@
    "files": [],
    "drive": null,
    "phone": "972546278725"
+  },
+  {
+   "id": "AC994870A86AF4EFFDCB45A5245B7FCA",
+   "sender": "יואל ברחן",
+   "text": "בוקר טוב. האם משהו הכין חברותות או דף לימוד מתאים ליסודי על בסיס הסיפור של הקשר של הרב חנן פורת ורחל אימנו?",
+   "ts": 1791780092000,
+   "date": "2026-10-12",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526096407"
+  },
+  {
+   "id": "3A9E372D9380FE51A208",
+   "sender": "קרן",
+   "text": "",
+   "ts": 1791780264000,
+   "date": "2026-10-12",
+   "time": "07:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "388KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TBa0J5_4r4Igr6FHL0-neDIzYc7oo5vU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TBa0J5_4r4Igr6FHL0-neDIzYc7oo5vU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533309982"
+  },
+  {
+   "id": "3A9D54F1410677114CA4",
+   "sender": "קרן",
+   "text": "קיר מתחלף",
+   "ts": 1791780281000,
+   "date": "2026-10-12",
+   "time": "07:44",
+   "files": [],
+   "drive": null,
+   "phone": "972533309982"
+  },
+  {
+   "id": "AC2A114736DC630452C8FCF460E4D89E",
+   "sender": "ירדן♡אליאב",
+   "text": "אפשר את האותיות להדפסה?",
+   "ts": 1791780327000,
+   "date": "2026-10-12",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "phone": "972533040992"
+  },
+  {
+   "id": "ACED589B5F526C28EA37181F85651A7B",
+   "sender": "ירדן♡אליאב",
+   "text": "ואת הקישור לפתק על הקבלה",
+   "ts": 1791780345000,
+   "date": "2026-10-12",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "phone": "972533040992"
+  },
+  {
+   "id": "4A21CFA46839A4154FB3",
+   "sender": "קרן",
+   "text": "https://canva.link/4sdv5jpw7w9k3ea",
+   "ts": 1791780842000,
+   "date": "2026-10-12",
+   "time": "07:54",
+   "files": [],
+   "drive": null,
+   "phone": "972533309982"
+  },
+  {
+   "id": "3EB0C554C7BC291C29CCC5",
+   "sender": "בת אל גור",
+   "text": "בוקר טוב וחודש טוב,\nיש לך גם כאן כל מיני רעיונות מחברים וטובים.\nhttps://www.canva.com/design/DAHNglZTcA4/w5DmfvfD3rxMVD_tjelueQ/view?utm_content=DAHNglZTcA4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6eb2d3e2d0",
+   "ts": 1791780913000,
+   "date": "2026-10-12",
+   "time": "07:55",
+   "files": [],
+   "drive": null,
+   "phone": "972525425285"
   }
  ]
 }

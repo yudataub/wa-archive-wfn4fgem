@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-11T19:06:27.131Z",
+ "updated": "2026-10-12T05:04:13.984Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -4076,7 +4076,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1fxUZiSAJ7qrgF5Sq-yIGFbq8QeNFUyuI/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1fxUZiSAJ7qrgF5Sq-yIGFbq8QeNFUyuI&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1fxUZiSAJ7qrgF5Sq-yIGFbq8QeNFUyuI&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/AC0AD51747B470347D3148D36137E7F1_0.mp4"
     }
    ],
    "drive": null,
@@ -4103,6 +4104,37 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "ACB20F6F991E1B774E68E6BD6316E314",
+   "sender": "יואל ברחן",
+   "text": "יישר כל . משהו הכין חברותות על זה ?",
+   "ts": 1791780287000,
+   "date": "2026-10-12",
+   "time": "07:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526096407"
+  },
+  {
+   "id": "ACE9213E42D2B9120223A174F48BEFF2",
+   "sender": "אבי'ה אלבה",
+   "text": "הרב היקר , קיבלת משכורת ראשונה לשנה זו ורוצה להעלות אותה? \n📚 האם יש לך תואר שני? אם לא - זו ההזדמנות שלך!\n\nתואר שני M.Ed. במקרא ובספרות חז\"ל במכללת אורות ישראל – קמפוס אלקנה.\n\n✅ הלימודים מתחילים עוד יומיים. הזדרזו. נותרו מקומות אחרונים\n✅שנה אחת בקמפוס (3 סמסטרים)\n✅ לימוד היברידי (4 מפגשים פא''פ מתוך 13 בסמסטר, ויש אפשרות ל80%...)\n✅ ימי רביעי אחה\"צ\n✅ השתתפות ב85% משכר הלימוד - לזכאים\nמלגות משמעותיות ומלגת נשיא למתאימים\n✅ מוכר לגמול\n\nבין נושאי הלימוד:\n• סוגיות אקטואליות בהלכה\n• מנהיגות יהודית\n• תורה ומדע\n• המקדש וכליו\n• ועוד...\n\n📞 לפרטים:\nאבי'ה אלבה\n 054-2653170",
+   "ts": 1791781423000,
+   "date": "2026-10-12",
+   "time": "08:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "397KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Yqo3JF9dw5Um3HyYHv6hxu9-GVIU_6uv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Yqo3JF9dw5Um3HyYHv6hxu9-GVIU_6uv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542653170"
   }
  ]
 }
