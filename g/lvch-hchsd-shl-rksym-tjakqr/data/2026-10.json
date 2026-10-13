@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-13T13:07:29.848Z",
+ "updated": "2026-10-13T17:36:36.150Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -5436,7 +5436,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/12B1SxYeO6c52wmWvg0pc6Jb7mAlFQ8zG/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=12B1SxYeO6c52wmWvg0pc6Jb7mAlFQ8zG&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=12B1SxYeO6c52wmWvg0pc6Jb7mAlFQ8zG&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/A52FA7BBB9A643CC76047A7D427E6D32_0.mp4"
     }
    ],
    "drive": null,
@@ -5607,6 +5608,59 @@
    "files": [],
    "drive": null,
    "phone": "972526176214"
+  },
+  {
+   "id": "3A65AA35E102122887D3",
+   "sender": "יוסי מנחם",
+   "text": "מישהו עם משאית למשלוח מירושלים לפה מחר",
+   "ts": 1791904653000,
+   "date": "2026-10-13",
+   "time": "18:17",
+   "files": [],
+   "drive": null,
+   "phone": "972529955992"
+  },
+  {
+   "id": "3A73E57A0E7D792F3251",
+   "sender": "Isral",
+   "text": "אפו אפשר לשכפל מפתח עכשיו ?",
+   "ts": 1791904993000,
+   "date": "2026-10-13",
+   "time": "18:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546265581"
+  },
+  {
+   "id": "AC838B0F6650DD2F7B5F04D33A9F8870",
+   "sender": "מאיר קרליץ",
+   "text": "כלבו רוטשילד",
+   "ts": 1791905115000,
+   "date": "2026-10-13",
+   "time": "18:25",
+   "files": [],
+   "drive": null,
+   "phone": "972527103410"
+  },
+  {
+   "id": "A50C77AFB3026CB2316749775A12881F",
+   "sender": "עזריאל",
+   "text": "*תיעוד נדיר ומרגש נחשף במידע רכסים!*\n\nלרגל יום ההילולה ה־13 של מרן פוסק הדור, רבנו עובדיה יוסף זצוק\"ל, *מידע רכסים מגיש תיעוד היסטורי ומיוחד מהיישוב.*\n\n*הרגעים הבלתי נשכחים ממעמד הנחת אבן הפינה לתלמוד תורה \"דרכי תורה\" בגבעה ב' ברכסים.*\n\nמרן זצוק\"ל הגיע למעמד במסוק מיוחד, יחד עם יו\"ר תנועת ש\"ס הרב אריה דרעי.\n\nבמעמד השתתפו הרב זוננפלד שליט\"א, הרב מאיר פדידה שליט\"א והרב אלחדד זצ\"ל, לצד רבנים ואישי ציבור.\n\n*התיעוד ההיסטורי צולם בעדשתו של הצלם המיתולוגי ר' יעקב ממן.*\n\n*📢 יש לכם עדכון או תיעוד שמעניין את רכסים? שלחו לנו!*\nhttps://wa.me/972583214490\n\n*להצטרפות למידע רכסים 👇*",
+   "ts": 1791912966000,
+   "date": "2026-10-13",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1BaLhP9zEtpK1kj39ZPRimTx5pvLkeoGa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BaLhP9zEtpK1kj39ZPRimTx5pvLkeoGa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }

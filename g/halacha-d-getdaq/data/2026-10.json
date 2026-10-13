@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-13T10:11:06.452Z",
+ "updated": "2026-10-13T15:17:49.124Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -807,6 +807,124 @@
    "files": [],
    "drive": null,
    "phone": "972505728830"
+  },
+  {
+   "id": "AC098F8F5515290FA6ADBE2DAE23FE5F",
+   "sender": "אדוה לוז😊",
+   "text": "למישהו יש סיפורים על הרב עובדיה?",
+   "ts": 1791902222000,
+   "date": "2026-10-13",
+   "time": "17:37",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
+  },
+  {
+   "id": "ACC8DCD0676E70DABC8EFCFA9E13D31E",
+   "sender": "אדוה לוז😊",
+   "text": "היום יום פטירתו",
+   "ts": 1791902225000,
+   "date": "2026-10-13",
+   "time": "17:37",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
+  },
+  {
+   "id": "AC3439789EE08804B8501B6C5EA99F8E",
+   "sender": "רחל רביץ",
+   "text": "https://drive.google.com/drive/folders/1HQbxPm3zkbpTmxU3sRIMeJyiWNBDeeYe",
+   "ts": 1791902317000,
+   "date": "2026-10-13",
+   "time": "17:38",
+   "files": [],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "ACE2F456CB6F372EDA4119F9B24A549E",
+   "sender": "אדוה לוז😊",
+   "text": "היום זה פטירתו נכון?",
+   "ts": 1791902377000,
+   "date": "2026-10-13",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
+  },
+  {
+   "id": "AC476730FDAFB97284C31B52F2A725CC",
+   "sender": "רחל רביץ",
+   "text": "ג' בחשוון",
+   "ts": 1791902559000,
+   "date": "2026-10-13",
+   "time": "17:42",
+   "files": [],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC934A6F2E33745C62C50323876CDD80",
+   "sender": "רויטל",
+   "text": "נכון",
+   "ts": 1791902578000,
+   "date": "2026-10-13",
+   "time": "17:42",
+   "files": [],
+   "drive": null,
+   "phone": "972586890080"
+  },
+  {
+   "id": "ACB99A0D65F031C2DD00A3EF8EF50E7A",
+   "sender": "אדוה לוז😊",
+   "text": "למישהי יש 2-3 סיפורים טובים על הרב?",
+   "ts": 1791902590000,
+   "date": "2026-10-13",
+   "time": "17:43",
+   "files": [],
+   "drive": null,
+   "phone": "972546227238"
+  },
+  {
+   "id": "AC92ACC863A814917079328CA653D376",
+   "sender": "ליאורה כהן😍",
+   "text": "https://youtu.be/mDYp6k_9zMg?si=jo_oOg2P5V7_fA_s",
+   "ts": 1791904635000,
+   "date": "2026-10-13",
+   "time": "18:17",
+   "files": [],
+   "drive": null,
+   "phone": "972505708421"
+  },
+  {
+   "id": "ACE2FCA13752C7ED38701B0DFF2860D5",
+   "sender": "ליאורה כהן😍",
+   "text": "",
+   "ts": 1791904636000,
+   "date": "2026-10-13",
+   "time": "18:17",
+   "files": [
+    {
+     "name": "הרב עובדיה יוסף זצל.pdf",
+     "size": "408KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KHKQ0XSKQT4xhceuWFbjluFxzxtLR-VR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505708421"
+  },
+  {
+   "id": "ACF1370F6C2F65D27A46A1A7FB960164",
+   "sender": "ליאורה כהן😍",
+   "text": "https://www.abita.co.il/lessons/%d7%94%d7%a8%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%94-%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%a0%d7%95%d7%a7%d7%93/",
+   "ts": 1791904636000,
+   "date": "2026-10-13",
+   "time": "18:17",
+   "files": [],
+   "drive": null,
+   "phone": "972505708421"
   }
  ]
 }

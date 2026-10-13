@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-13T12:34:22.730Z",
+ "updated": "2026-10-13T15:32:49.315Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1233,7 +1233,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/15Nw4M3hm4TkSmqbw0hbtL98xUuLI8onc/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=15Nw4M3hm4TkSmqbw0hbtL98xUuLI8onc&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=15Nw4M3hm4TkSmqbw0hbtL98xUuLI8onc&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kvpt-hchsd-kryt-ata-gbry-iszaxh/v/2026-10/A561DC53A43D1B93023129E5A246B1AD_0.mp4"
     }
    ],
    "drive": null,
@@ -1249,6 +1250,68 @@
    "files": [],
    "drive": null,
    "phone": "972527222741"
+  },
+  {
+   "id": "AC08D37B6233D809270738D12218C0AC",
+   "sender": "יניב",
+   "text": "ננצא,תודה",
+   "ts": 1791901965000,
+   "date": "2026-10-13",
+   "time": "17:32",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
+  },
+  {
+   "id": "AC38FEB6D4F4B3C004ACEAD338BC77A0",
+   "sender": "נהוראי סלמה",
+   "text": "",
+   "ts": 1791905078000,
+   "date": "2026-10-13",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SyU9RqArsyX8bTlgnftVWyKyWeGrFrDB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SyU9RqArsyX8bTlgnftVWyKyWeGrFrDB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543443484"
+  },
+  {
+   "id": "AC6F1123190043BED6D6D4A600D4F0E7",
+   "sender": "נהוראי סלמה",
+   "text": "למכירה במחיר מציאה כמו חדש \n0543443484",
+   "ts": 1791905078000,
+   "date": "2026-10-13",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "183KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-rQFidF3Xq_xXVKSjQKEWDIL7Yx_6cRd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-rQFidF3Xq_xXVKSjQKEWDIL7Yx_6cRd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543443484"
+  },
+  {
+   "id": "AC265E81C81F48B66D98681AB79EEFC1",
+   "sender": "נפתלי רוטנברג",
+   "text": "דרוש/ה עובד/ת נקיון למוסד בק.אתא\n\nהעבודה היא בשעות הערב (ניתן לשלב)\nוכל ימות השבוע\n\nרצינים בלבד\n\n0505600077",
+   "ts": 1791905550000,
+   "date": "2026-10-13",
+   "time": "18:32",
+   "files": [],
+   "drive": null,
+   "phone": "972505600077"
   }
  ]
 }

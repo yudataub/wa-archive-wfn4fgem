@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-13T13:21:30.067Z",
+ "updated": "2026-10-13T17:09:05.798Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -9866,6 +9866,227 @@
    "drive": null,
    "thread": "בלייך צבי",
    "phone": "972524723034"
+  },
+  {
+   "id": "A561427F76BFF16FE674BB5AD3C0D4E2",
+   "sender": "אני",
+   "text": "ערב טוב\nהאם יש לך אפשרות לשלוח חי את המבדקים בפנני הפרשה\nלהכין לבית הספר?",
+   "ts": 1791902709000,
+   "date": "2026-10-13",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A581608887A643F5F1097B44737E8EC1",
+   "sender": "אני",
+   "text": "האם תרמי שנכין גם לכם?",
+   "ts": 1791902721000,
+   "date": "2026-10-13",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACAA731751FA19D4AD1E340DC74CDDAD",
+   "sender": "מענדי",
+   "text": "*מודול 3* \n\nסרטון 1-לראות תלמיד – לא רק התנהגות\n\nhttps://drive.google.com/file/d/1BhKXpsI-RVRxHxEQbM1sIS1UNfDKWy6_/view?usp=drivesdk\n\nעיקרון-קשר אישי מונע מאבקי כוח\n\nמשימה 1-מעקב מסודר של התעניינות קצרצרה לכולם במהלך השבוע.\n\nמשימה 2-לקדם פתיחת ספר בחביבות.\n\nמשימה 3-פינוק קטן וקבוע לכולם פעם בשבוע.\n\nבחרו לפחות אחת מהמשימות ונסו אותה בשיעור אחד.\nשתפו כאן: מה ניסיתם ומה קרה? גם אם לא הצליח – מזה נלמד יחד.",
+   "ts": 1791905152000,
+   "date": "2026-10-13",
+   "time": "18:25",
+   "files": [],
+   "drive": null,
+   "thread": "מענדי",
+   "phone": "972585770542"
+  },
+  {
+   "id": "A5C7589B429D0E091656101016CBAC9D",
+   "sender": "אני",
+   "text": "",
+   "ts": 1791909727000,
+   "date": "2026-10-13",
+   "time": "19:42",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "42KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Vz6HxCVNkizzZj7GficSD1Ob1fNyrEVU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACDC0B2C724819AF7749BBD58E9D5540",
+   "sender": "בטי",
+   "text": "ערב טוב !\nבסדר גמור",
+   "ts": 1791910186000,
+   "date": "2026-10-13",
+   "time": "19:49",
+   "files": [],
+   "drive": null,
+   "thread": "בטי",
+   "phone": "972585565648"
+  },
+  {
+   "id": "ACA0B21B3647528F64112833120FE03B",
+   "sender": "Sheila",
+   "text": "להעביר ביט למספר הזה?",
+   "ts": 1791910572000,
+   "date": "2026-10-13",
+   "time": "19:56",
+   "files": [],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
+  },
+  {
+   "id": "3EB0CF5B8DCC6693C8EC36",
+   "sender": "אני",
+   "text": "כן",
+   "ts": 1791910660000,
+   "date": "2026-10-13",
+   "time": "19:57",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB07A4139421757C816B8",
+   "sender": "אני",
+   "text": "הזמנתם דירה ביום שני 19/10 בשעה 17 \nעד יום ג' 20/10 בשעה 17\nמחיר 300 ש''ח",
+   "ts": 1791910704000,
+   "date": "2026-10-13",
+   "time": "19:58",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACB697E3099AB35D802C61DFD0D1530D",
+   "sender": "Sheila",
+   "text": "אוקיי",
+   "ts": 1791910873000,
+   "date": "2026-10-13",
+   "time": "20:01",
+   "files": [],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
+  },
+  {
+   "id": "ACA5340C5311AB1E0E5D7342E52B3266",
+   "sender": "Sheila",
+   "text": "שולחים 150₪ עכשיו בביט ממספר 051-2845020",
+   "ts": 1791910921000,
+   "date": "2026-10-13",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
+  },
+  {
+   "id": "AC211C114B2FED77632DC09D645834E3",
+   "sender": "Moshe Hoory 🇮🇱 משה חורי",
+   "text": "",
+   "ts": 1791911165000,
+   "date": "2026-10-13",
+   "time": "20:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "67KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1umhSChdjro81ZszQsqXwY5A7uNisk_3I/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1umhSChdjro81ZszQsqXwY5A7uNisk_3I&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "Moshe Hoory 🇮🇱 משה חורי",
+   "phone": "972512845020"
+  },
+  {
+   "id": "3EB040418B848F8F839CB1",
+   "sender": "אני",
+   "text": "יש לך המון חומרים באתר הקול החמישי\nhttps://yudataub.github.io/navi-yehoshua/\nנשמח לשמוע רעיונות לשפר ולהוסיף",
+   "ts": 1791911207000,
+   "date": "2026-10-13",
+   "time": "20:06",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB021383B5955C3EDF647",
+   "sender": "אני",
+   "text": "התקבל 150 ש''ח",
+   "ts": 1791911255000,
+   "date": "2026-10-13",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE015D56C39050E306C41885A4F825F",
+   "sender": "Sheila",
+   "text": "",
+   "ts": 1791911255000,
+   "date": "2026-10-13",
+   "time": "20:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "67KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xIPhCBQU-Ly8JVabyRM_xOK_HxiKK3vK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xIPhCBQU-Ly8JVabyRM_xOK_HxiKK3vK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
+  },
+  {
+   "id": "A57CFE7231EF0DE1B476F4C430E11513",
+   "sender": "אני",
+   "text": "[מיקום]",
+   "ts": 1791911276000,
+   "date": "2026-10-13",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A574DD15B9DE48211085399E02CA318C",
+   "sender": "אני",
+   "text": "סוקולוב 30 קרית אתא",
+   "ts": 1791911287000,
+   "date": "2026-10-13",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE1B2D2C88CBEB035B46DFAD1EBF3E2",
+   "sender": "Sheila",
+   "text": "תודה רבה! \nשרק נדע בשורות טובות \nחודש מבורך",
+   "ts": 1791911332000,
+   "date": "2026-10-13",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
   }
  ]
 }

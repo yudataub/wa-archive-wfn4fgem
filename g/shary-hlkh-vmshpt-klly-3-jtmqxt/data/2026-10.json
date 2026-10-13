@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-13T13:38:04.993Z",
+ "updated": "2026-10-13T15:10:13.052Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -6935,12 +6935,76 @@
    "phone": "972523115064"
   },
   {
+   "id": "ACBEA080D30B16F44E43DC53D375709C",
+   "sender": "חוה מאיר",
+   "text": "",
+   "ts": 1791898682000,
+   "date": "2026-10-13",
+   "time": "16:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1lqy3euyCo76Y5FuHprLhjQzLJPDPEj8E/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lqy3euyCo76Y5FuHprLhjQzLJPDPEj8E&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
    "id": "AC3A00CF8EE7C274E1199C5C18C071D4",
    "sender": "חוה מאיר",
    "text": "ספר תורה שנת 2028 - טכנולוגיהההה",
    "ts": 1791898683000,
    "date": "2026-10-13",
    "time": "16:38",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC63838820D526894982881F379175CE",
+   "sender": "חוה מאיר",
+   "text": "שלום כבוד הרבנים,האם ספר תורה הנ\"ל יהיה כשר אם נכתב בדרך טכנולוגית?",
+   "ts": 1791898756000,
+   "date": "2026-10-13",
+   "time": "16:39",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC7D39A385EF49A35687B20BE3873A9E",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "צריך לבדוק את הטכנולוגיה הנל יש בזה כמה שיטות וחלק לא אושר וחלק ןכ",
+   "ts": 1791902820000,
+   "date": "2026-10-13",
+   "time": "17:47",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC643A1A5E50EEE68B45F4EA8C2F9D6B",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "כן",
+   "ts": 1791902821000,
+   "date": "2026-10-13",
+   "time": "17:47",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC2F7539C76E7EA5D8A7E570BE578754",
+   "sender": "חוה מאיר",
+   "text": "תודה כבוד הרב.",
+   "ts": 1791904196000,
+   "date": "2026-10-13",
+   "time": "18:09",
    "files": [],
    "drive": null,
    "phone": "972506243544"

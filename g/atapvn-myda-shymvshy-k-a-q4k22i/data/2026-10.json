@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-13T12:34:22.741Z",
+ "updated": "2026-10-13T14:33:12.505Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -2882,7 +2882,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1FT93RArsAF2xSQWgLIajCWnuXVW0hTxb/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1FT93RArsAF2xSQWgLIajCWnuXVW0hTxb&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1FT93RArsAF2xSQWgLIajCWnuXVW0hTxb&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/A576F9D3B61AE308FFEB4153D04D7C9E_0.mp4"
     }
    ],
    "drive": null,
@@ -2895,6 +2896,17 @@
    "ts": 1791894835000,
    "date": "2026-10-13",
    "time": "15:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
+  },
+  {
+   "id": "AC60A7DA56A05D22066491E126A4C7E1",
+   "sender": "יניב",
+   "text": "נמצא תודה",
+   "ts": 1791901973000,
+   "date": "2026-10-13",
+   "time": "17:32",
    "files": [],
    "drive": null,
    "phone": "972527222741"

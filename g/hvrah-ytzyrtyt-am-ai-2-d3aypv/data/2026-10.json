@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-12T17:32:40.965Z",
+ "updated": "2026-10-13T15:56:13.673Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -1440,6 +1440,17 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "3B09576C078FEC2A3544",
+   "sender": "Evyatar Shpilman",
+   "text": "הטבה לפלטפורמת - *MagicSchool*\n90 יום חינם (!) בחשבון PRO\n \nקוד - AISUMMIT26\n\nקישור - \nhttps://app.magicschool.ai/auth/signin?next=%2Fredeem",
+   "ts": 1791906951000,
+   "date": "2026-10-13",
+   "time": "18:55",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
   }
  ]
 }

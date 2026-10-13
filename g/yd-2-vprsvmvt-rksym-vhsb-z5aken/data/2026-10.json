@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-13T11:38:44.995Z",
+ "updated": "2026-10-13T17:36:36.162Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -8745,6 +8745,161 @@
    ],
    "drive": null,
    "phone": "972525219787"
+  },
+  {
+   "id": "AC7BC350F02D9FACCAB3168205D2CA0B",
+   "sender": "ליז קובליו",
+   "text": "",
+   "ts": 1791899417000,
+   "date": "2026-10-13",
+   "time": "16:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "183KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aNHcGCjrqWwFk9J-QiQfuOXYMi7Rthuw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aNHcGCjrqWwFk9J-QiQfuOXYMi7Rthuw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509040669"
+  },
+  {
+   "id": "A557AAD5B89221E36BF0768FCE5C9109",
+   "sender": "תמר ביוטי",
+   "text": "https://wa.me/972548590290?text=היי+תמר+אני+רוצה+לקבוע+תור+%F0%9F%98%83",
+   "ts": 1791904117000,
+   "date": "2026-10-13",
+   "time": "18:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13jdPgvILJirZKt0wee2gNf53S8EG5gJY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13jdPgvILJirZKt0wee2gNf53S8EG5gJY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548590290"
+  },
+  {
+   "id": "3AC4C178AA655F951DC0",
+   "sender": "יוסי מנחם",
+   "text": "מישהו עם משאית למשלוח מירושלים לפה מחר",
+   "ts": 1791904654000,
+   "date": "2026-10-13",
+   "time": "18:17",
+   "files": [],
+   "drive": null,
+   "phone": "972529955992"
+  },
+  {
+   "id": "AC9D0FFB5218C1AC12548D333FADDE93",
+   "sender": "טולי",
+   "text": "מי משכיר כלי גינון ברכסים?",
+   "ts": 1791904990000,
+   "date": "2026-10-13",
+   "time": "18:23",
+   "files": [],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "A5BF413BA43EECEA9D4CAF80477DAC64",
+   "sender": "לגעת בצמרת",
+   "text": "אני",
+   "ts": 1791905475000,
+   "date": "2026-10-13",
+   "time": "18:31",
+   "files": [],
+   "drive": null,
+   "phone": "972502201040"
+  },
+  {
+   "id": "ACFFFB3FC2458072218785A2AE799185",
+   "sender": "גנית",
+   "text": "למכירה אנציקלופדיה לבית היהודי 400 שח",
+   "ts": 1791909766000,
+   "date": "2026-10-13",
+   "time": "19:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CAoglncjFfVlJuC5jbvXpO-vWdQ_JdCB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CAoglncjFfVlJuC5jbvXpO-vWdQ_JdCB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535386425"
+  },
+  {
+   "id": "ACFABE69531F51C9C0A842436D331F95",
+   "sender": "גנית",
+   "text": "למסירה",
+   "ts": 1791909774000,
+   "date": "2026-10-13",
+   "time": "19:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RwnmN7YTwEOeZuj6Cop-i7XVWHjpfJYQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RwnmN7YTwEOeZuj6Cop-i7XVWHjpfJYQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535386425"
+  },
+  {
+   "id": "A59B4F30CFC9C879EFBA66DDA76EBB4D",
+   "sender": "מאיר מוגרבי",
+   "text": "זה טראמפ משמאל? מאז?",
+   "ts": 1791910027000,
+   "date": "2026-10-13",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "3EB0835B1B2B39E28BA7DB",
+   "sender": "תמר",
+   "text": "*גולד ביבי* \nיתרת כרטיס היימיש או רכסים כארד\n\nחורף בריא! \n\"אחרי החגים\" כבר כאן, ונשארה לכם יתרה בכרטיס הנ\"ל,\nניתן לעשות זיכוי בחנות ולממש אותו בחצי שנה הקרובה!!\nתמיד יש מה להתחדש- במוצץ, בקבוק, בגד לתינוק, שמיכה או באיזה צעצוע מוצלח!!!\n\nסחורת חורף במדפים...\nגופיות ארוכות מכותנה או מפלנל עד מידה 30 חודשים\nכיסויי גשם לכל סוגי העגלות וגם לדונה,\nשמיכות חורף ומעבר מפנקות!!\nגרביונים קטנטנות\nשמיכת פוך למיטת תינוק\nובקרוב כובעי חורף....\n\nמבחר ענק של טיולונים, עגלות משולבות\nומוכרים את כל סוגי העגלות תאומים\n\nוהכל עם השירות האישי מכל הלב!!!\nבואו להנות!\n\nנ.ב. \nחוגגים בקרוב יומולדת 5 שנים! עקבו אחרי הפרסומים!!\nתהיה מכירת חיסול של בגדי חורף במחירים מצחיקים!\nוכן... גם מתנות...",
+   "ts": 1791912139000,
+   "date": "2026-10-13",
+   "time": "20:22",
+   "files": [],
+   "drive": null,
+   "phone": "972548493196"
+  },
+  {
+   "id": "A52EC2052D179C43BB6466B965E50620",
+   "sender": "עזריאל",
+   "text": "*תיעוד נדיר ומרגש נחשף במידע רכסים!*\n\nלרגל יום ההילולה ה־13 של מרן פוסק הדור, רבנו עובדיה יוסף זצוק\"ל, *מידע רכסים מגיש תיעוד היסטורי ומיוחד מהיישוב.*\n\n*הרגעים הבלתי נשכחים ממעמד הנחת אבן הפינה לתלמוד תורה \"דרכי תורה\" בגבעה ב' ברכסים.*\n\nמרן זצוק\"ל הגיע למעמד במסוק מיוחד, יחד עם יו\"ר תנועת ש\"ס הרב אריה דרעי.\n\nבמעמד השתתפו הרב זוננפלד שליט\"א, הרב מאיר פדידה שליט\"א והרב אלחדד זצ\"ל, לצד רבנים ואישי ציבור.\n\n*התיעוד ההיסטורי צולם בעדשתו של הצלם המיתולוגי ר' יעקב ממן.*\n\n*📢 יש לכם עדכון או תיעוד שמעניין את רכסים? שלחו לנו!*\nhttps://wa.me/972583214490\n\n*להצטרפות למידע רכסים 👇*",
+   "ts": 1791912967000,
+   "date": "2026-10-13",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/14YLHJA5ynuOmbNHQKRvX4YUBMyuM01DJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14YLHJA5ynuOmbNHQKRvX4YUBMyuM01DJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
   }
  ]
 }

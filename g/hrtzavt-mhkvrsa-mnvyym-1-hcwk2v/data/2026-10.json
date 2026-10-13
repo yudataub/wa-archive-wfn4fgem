@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-10-11T08:48:04.085Z",
+ "updated": "2026-10-13T14:56:42.844Z",
  "messages": [
   {
    "id": "3EB0C2395372C4C50CC48F",
@@ -159,6 +159,26 @@
      "path": "https://drive.google.com/file/d/1khCbU5olqWj96dQexwpOj3sKMSrngXpb/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1khCbU5olqWj96dQexwpOj3sKMSrngXpb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB069F965A9641220CEFD",
+   "sender": "הרצאות מהכורסא",
+   "text": "ערב טוב,\n*הצטרפו אלינו בשעה 19:00*, _למפגש זום_, עם היוצר *חן מלול*.\n\nהערב ניפגש לשיחה פתוחה על *השאהנמה - ספר המלכים של פרס*.\n\nנבקר בפרס העתיקה, וביצירה שנכתבה במאה ה-11 ונחשבת עד היום לאחת מיצירות המופת של הספרות הפרסית, ואולי לזו המוכרת ביותר. נתחקה אחר המלכים המיתולוגיים של האימפריה הפרסית, המלחמות שקיימו, הדרכים שבהם הושחתה נשמתם ואיך לאורך הדורות המאבק בין הטוב והרע משתקף דרך חצר המלוכה והמאבק לשליטה בו.\n\n👈🏼 *להצטרפות בשעה 19:00 לחצו כאן*: https://bit.ly/3OT7WFZ",
+   "ts": 1791903395000,
+   "date": "2026-10-13",
+   "time": "17:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "278KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eQ6_JbICUmhbgV7p_4Yx4dG4K_Y0lk1L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eQ6_JbICUmhbgV7p_4Yx4dG4K_Y0lk1L&sz=w1200"
     }
    ],
    "drive": null,

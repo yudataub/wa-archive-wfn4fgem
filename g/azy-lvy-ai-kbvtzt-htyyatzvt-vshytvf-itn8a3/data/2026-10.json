@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עזי לוי - AI - קבוצת התייעצות ושיתוף",
- "updated": "2026-10-12T07:57:52.794Z",
+ "updated": "2026-10-13T16:59:22.030Z",
  "messages": [
   {
    "id": "ACF99E6FEDA7D3D50F39865496966722",
@@ -326,6 +326,48 @@
    "ts": 1791791861000,
    "date": "2026-10-12",
    "time": "10:57",
+   "files": [],
+   "drive": null,
+   "phone": "972544266802"
+  },
+  {
+   "id": "AC00F70B0B22FF1DCF63C34D87EAFD37",
+   "sender": "ערן",
+   "text": "",
+   "ts": 1791910571000,
+   "date": "2026-10-13",
+   "time": "19:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XWxGEVlqKHgoxxZqHXeFwGTTltmbSK62/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XWxGEVlqKHgoxxZqHXeFwGTTltmbSK62&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "ACC17DA280F90C1F96F7B31770CCDB40",
+   "sender": "ערן",
+   "text": "@112712960975101 הכפתור העתק פרומפט ללוח לא עובד (אין אפשרות להעתיק ולהדביק)",
+   "ts": 1791910600000,
+   "date": "2026-10-13",
+   "time": "19:56",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "A5BC4DACC6A6831FCA57839F7682916F",
+   "sender": "Ezy Levy",
+   "text": "עשיתי את זה ממש ממש מזמן, אבל אפשר פשוט להעתיק , עי סימון והעתקה.",
+   "ts": 1791910751000,
+   "date": "2026-10-13",
+   "time": "19:59",
    "files": [],
    "drive": null,
    "phone": "972544266802"

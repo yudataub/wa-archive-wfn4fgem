@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-12T09:10:00.857Z",
+ "updated": "2026-10-13T16:55:22.010Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -329,6 +329,46 @@
      "path": "https://drive.google.com/file/d/1bQGeegvYAn43TA54E6D0Ig58uY7vlxEp/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1bQGeegvYAn43TA54E6D0Ig58uY7vlxEp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0443C7E1C2AE3A8F14C",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קשה\nנושא: מקומות בארץ\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1791908699000,
+   "date": "2026-10-13",
+   "time": "19:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1weyhp9kSwsNJZJgTWaJuCxaD4qfDchpc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1weyhp9kSwsNJZJgTWaJuCxaD4qfDchpc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0BE295E00E37A655AC5",
+   "sender": "עמי חניא",
+   "text": "עוד גרסה לחידה הקודמת - איזו מהן אהבתם יותר? \n\nרמת קושי: קשה\nנושא: מקומות בארץ\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1791910515000,
+   "date": "2026-10-13",
+   "time": "19:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_SDIOPeVWh4-C20XPTzd3Au8OVMRKTO2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_SDIOPeVWh4-C20XPTzd3Au8OVMRKTO2&sz=w1200"
     }
    ],
    "drive": null,

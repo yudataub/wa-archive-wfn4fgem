@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מחוז חרדי משרד החינוך (3)",
- "updated": "2026-10-13T07:31:25.667Z",
+ "updated": "2026-10-13T16:39:57.852Z",
  "messages": [
   {
    "id": "A5F9B1905CB165F80DF051217352E6FC",
@@ -70,6 +70,46 @@
    ],
    "drive": null,
    "phone": "972527635089"
+  },
+  {
+   "id": "A514BE5313F26311171D3C820AD2E55D",
+   "sender": "חינוך בנוחות",
+   "text": "https://new.tehilimyahad.com/mr.jsp?r=rfOBEky1EVw  \n\nקישור לקריאת תהילים לעילוי נשמה ולרפואת התלמידים הפצועים. \n\nבשורות טובות.",
+   "ts": 1791906813000,
+   "date": "2026-10-13",
+   "time": "18:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Vpzpit4jHH0K5mM99uwJcvqtde54-2LE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Vpzpit4jHH0K5mM99uwJcvqtde54-2LE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
+  },
+  {
+   "id": "A582236F0ADDF9B38711D062B6A11BD7",
+   "sender": "חינוך בנוחות",
+   "text": "https://new.tehilimyahad.com/mr.jsp?r=rfOBEky1EVw  \n\nלקישור לקריאת תהילים לעילוי נשמה ולרפואת התלמידים הפצועים",
+   "ts": 1791909567000,
+   "date": "2026-10-13",
+   "time": "19:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1112Sajhn_SCYh4RbWZtamvP64fZP3xy2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1112Sajhn_SCYh4RbWZtamvP64fZP3xy2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
   }
  ]
 }

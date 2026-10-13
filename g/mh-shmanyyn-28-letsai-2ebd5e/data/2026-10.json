@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-10-12T10:04:08.600Z",
+ "updated": "2026-10-13T17:23:52.360Z",
  "messages": [
   {
    "id": "AC3857EC3276D53072B06D9F3FC6FDB0",
@@ -117,6 +117,26 @@
    "files": [],
    "drive": null,
    "phone": "972586408042"
+  },
+  {
+   "id": "AC51349810DABB41A29CEA34CF8FFC58",
+   "sender": "Lets Ai",
+   "text": "*רוצים ללמוד על פיצ'ר ה-MODS החדש של קלוד קוד?!*\nאין לכם מושג מה זה, אבל בא לכם להבין?! הכנו לכם לומדה :) 👇\nhttps://claude-mods-olive.vercel.app/\n\nוכהרגלנו... כמו תמיד מחכה לכם גם מדריך באתר👇\n https://letsai.co.il/claude-code-mods",
+   "ts": 1791912211000,
+   "date": "2026-10-13",
+   "time": "20:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gEr4S2NSNsGSJvtMEVAWnOhRK-37lTsV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gEr4S2NSNsGSJvtMEVAWnOhRK-37lTsV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533057615"
   }
  ]
 }

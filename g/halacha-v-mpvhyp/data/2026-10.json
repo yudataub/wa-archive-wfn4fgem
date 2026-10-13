@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-12T15:13:41.594Z",
+ "updated": "2026-10-13T17:09:05.816Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -612,6 +612,36 @@
    "ts": 1791818007000,
    "date": "2026-10-12",
    "time": "18:13",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3AD840C99A2657A85AD5",
+   "sender": "בת חן",
+   "text": "",
+   "ts": 1791911332000,
+   "date": "2026-10-13",
+   "time": "20:08",
+   "files": [
+    {
+     "name": "Praying for Rain.pdf",
+     "size": "8.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1wK3J-Tn7QgJvE00Bnv6DvJJcVmez2twc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3AF533322E9FE0533AB9",
+   "sender": "בת חן",
+   "text": "תפילת עוברי דרכים ותפילתו של הכהן הגדול",
+   "ts": 1791911333000,
+   "date": "2026-10-13",
+   "time": "20:08",
    "files": [],
    "drive": null,
    "phone": "972506544492"

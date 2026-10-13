@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-13T13:24:30.110Z",
+ "updated": "2026-10-13T17:20:05.988Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -4002,6 +4002,46 @@
    ],
    "drive": null,
    "phone": "972503392144"
+  },
+  {
+   "id": "AC540C573F8E424855F54BD114E38834",
+   "sender": "Gila",
+   "text": "",
+   "ts": 1791900670000,
+   "date": "2026-10-13",
+   "time": "17:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QPFCzVfWZOOIYFN0yS_Opu106P2Dl4cc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QPFCzVfWZOOIYFN0yS_Opu106P2Dl4cc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502198987"
+  },
+  {
+   "id": "AC69FCB0D87B65E7DD763DE84A2A4A89",
+   "sender": "רתם  🙏🏼",
+   "text": "בשישי אנחנו חוזרות למרפסת.. את מי רואים? \n\nיום שישי | 16.10 | 22:00 הפתיחה הגדולה 🎉\nמסיבת מיינסטרים 35+ \nכל סגנונות המוזיקה בערב אחד,\nב-2 רחבות !\nבואו להיות הראשונים שרוקדים איתנו > https://www.eventer.co.il/event/mirpeset35/3l09L",
+   "ts": 1791911981000,
+   "date": "2026-10-13",
+   "time": "20:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1FFrTKhrrkfxS-xqPiIzxryGoGfqZmPLE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FFrTKhrrkfxS-xqPiIzxryGoGfqZmPLE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549778816"
   }
  ]
 }

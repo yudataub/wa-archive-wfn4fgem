@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-13T12:58:59.753Z",
+ "updated": "2026-10-13T17:22:05.972Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -7464,7 +7464,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1b9AkMqCt6Iw7qB8MNn0FbSn9qHb02cVv/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1b9AkMqCt6Iw7qB8MNn0FbSn9qHb02cVv&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1b9AkMqCt6Iw7qB8MNn0FbSn9qHb02cVv&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/A5A8C444C1672C4C3524F58F27311DCA_0.mp4"
     }
    ],
    "drive": null,
@@ -7575,6 +7576,88 @@
    "files": [],
    "drive": null,
    "phone": "972527222741"
+  },
+  {
+   "id": "AC013E4A9EA651852119C7D8A5AEB55E",
+   "sender": "רוית נאומה",
+   "text": "",
+   "ts": 1791899672000,
+   "date": "2026-10-13",
+   "time": "16:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1A5Qsx25e8J01LDoNmQYPCNVe1oMtmD75/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A5Qsx25e8J01LDoNmQYPCNVe1oMtmD75&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC061A1E918BF7F4AC3C8AB2ED7E5F02",
+   "sender": "נפתלי רוטנברג",
+   "text": "דרוש/ה עובד/ת נקיון למוסד בק.אתא\n\nהעבודה היא בשעות הערב (ניתן לשלב)\nוכל ימות השבוע\n\nרצינים בלבד\n\n0505600077",
+   "ts": 1791905579000,
+   "date": "2026-10-13",
+   "time": "18:32",
+   "files": [],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "ACF86B37C650CD4C131E0E89DA881752",
+   "sender": "ilana🤍💜💙💚💛🧡❤️",
+   "text": "נשמח לתת שירות מקצועי ואמין",
+   "ts": 1791911010000,
+   "date": "2026-10-13",
+   "time": "20:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wb-y2TkwW3nytdHsG_pf8tjED7k4dsmx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wb-y2TkwW3nytdHsG_pf8tjED7k4dsmx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523061029"
+  },
+  {
+   "id": "ACC4D5D6009B25E229EEDAF4D4FBE2A0",
+   "sender": "נפתלי רוטנברג",
+   "text": "מוזמנים לפנות באישי",
+   "ts": 1791911033000,
+   "date": "2026-10-13",
+   "time": "20:03",
+   "files": [],
+   "drive": null,
+   "phone": "972505600077"
+  },
+  {
+   "id": "AC26013CFC8048C6672CD1033EEDA938",
+   "sender": "\"הבוטח בה' חסד יסובבנו\" 🌹",
+   "text": "*תושבי עפולה והסביבה להפיץ*🙏🙏",
+   "ts": 1791912122000,
+   "date": "2026-10-13",
+   "time": "20:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Wh5SrOxSSkq0GbfS34qu_wFyjObM0xOJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wh5SrOxSSkq0GbfS34qu_wFyjObM0xOJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503300314"
   }
  ]
 }

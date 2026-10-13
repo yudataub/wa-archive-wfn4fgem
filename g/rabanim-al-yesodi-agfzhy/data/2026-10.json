@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-13T06:51:15.461Z",
+ "updated": "2026-10-13T15:23:49.220Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -891,6 +891,37 @@
    ],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "A5D46DC99C912979B9D9DC5AFD6777A1",
+   "sender": "הראל מקייס",
+   "text": "*תפילת רבים של החמ\"ד*\nעצרת התפילה המרכזית לגשמי ברכה ולשלום המדינה\nבע\"ה תתקיים ביום ראשון, ז' חשוון, בשעה 10:20 בישיבת הר עציון לצעירים.\n\nמוזמנים להצטרף לשידור החי ולהתפלל יחד איתנו!\n\n*לצפייה במשדר והורדת נוסח התפילה היכנסו >>>* https://www.yedidhemed.co.il/tfilat_rabim\n\nמחכים לכם!\nהנהלת החמ\"ד",
+   "ts": 1791904997000,
+   "date": "2026-10-13",
+   "time": "18:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ROSndD1N2HNT-FbDHyvj5ffY6eCNOCcP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ROSndD1N2HNT-FbDHyvj5ffY6eCNOCcP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "A5DEBEF1861C34C63F8EE7625094730A",
+   "sender": "הראל מקייס",
+   "text": "נוסח התפילה מעודכן בקישור👆🏼",
+   "ts": 1791905012000,
+   "date": "2026-10-13",
+   "time": "18:23",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
   }
  ]
 }

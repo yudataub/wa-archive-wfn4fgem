@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "סרטונים - העידן החדש",
- "updated": "2026-10-13T05:53:14.477Z",
+ "updated": "2026-10-13T17:33:06.132Z",
  "messages": [
   {
    "id": "3EB0CF56D7979667C97C07",
@@ -49,6 +49,26 @@
      "path": "https://drive.google.com/file/d/1AAqkKU2YCFBgY1I7-8sZ1yMbBHFhPsDm/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1AAqkKU2YCFBgY1I7-8sZ1yMbBHFhPsDm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702313"
+  },
+  {
+   "id": "3EB0B65981D855071A39B3",
+   "sender": "יוני לביא",
+   "text": "חברים יקרים\nמצפה לפגוש אתכם הערב ב-21:00:\nhttp://lp.milatova.org.il/zoom",
+   "ts": 1791912773000,
+   "date": "2026-10-13",
+   "time": "20:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "159KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16ZNOHUKZ1u79eZDMG8C3L-anUDAHMQA9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16ZNOHUKZ1u79eZDMG8C3L-anUDAHMQA9&sz=w1200"
     }
    ],
    "drive": null,
