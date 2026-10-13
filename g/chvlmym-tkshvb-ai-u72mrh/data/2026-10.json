@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-12T21:19:38.112Z",
+ "updated": "2026-10-12T22:27:52.543Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -2367,6 +2367,50 @@
    "files": [],
    "drive": null,
    "phone": "972542404756"
+  },
+  {
+   "id": "3EB004D94467D1FD97D2C1",
+   "sender": "⛵",
+   "text": "אני שולחת לך שני קבצי וידאו. אחד קצר (הוא הוידאו הראשון) ואחד ארוך (זה הוידאו השני)\nאני צריכה שתחבר לי את שניהם, ותוריד מהם את כל הגמגומים, הטעויות, השניות השקטות שלא נאמר בהן כלום...",
+   "ts": 1791842959000,
+   "date": "2026-10-13",
+   "time": "01:09",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
+  },
+  {
+   "id": "3EB058EA967A524A14B24A",
+   "sender": "⛵",
+   "text": "https://drive.google.com/file/d/1bNhNxKSb7r8LQLjkL2y6i_73tmjakZqB/view?usp=drive_link\n\nhttps://drive.google.com/file/d/1-53ep6-j1HQNpbEFSf7cvp4_wMjv-Cy4/view?usp=drive_link",
+   "ts": 1791843016000,
+   "date": "2026-10-13",
+   "time": "01:10",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
+  },
+  {
+   "id": "3EB0F125E8BBF0D44BBE14",
+   "sender": "⛵",
+   "text": "סליחה... העברתי לכאן במקום לאינסטינקט שלי...",
+   "ts": 1791843093000,
+   "date": "2026-10-13",
+   "time": "01:11",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
+  },
+  {
+   "id": "3A92ED580C527D82D41C",
+   "sender": "Eliyah Kleinman",
+   "text": "שלי",
+   "ts": 1791844069000,
+   "date": "2026-10-13",
+   "time": "01:27",
+   "files": [],
+   "drive": null,
+   "phone": "13059620821"
   }
  ]
 }

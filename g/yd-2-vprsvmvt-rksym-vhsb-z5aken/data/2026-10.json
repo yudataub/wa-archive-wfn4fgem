@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-12T21:08:09.232Z",
+ "updated": "2026-10-12T22:31:51.765Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -8079,6 +8079,26 @@
    ],
    "drive": null,
    "phone": "972523445911"
+  },
+  {
+   "id": "A5CF6F217EA517815377F339FB3E0CEE",
+   "sender": "קייטרינג ברכת משה חזן יוסף 2412",
+   "text": "מסור עץ על בטריות+ 2 בטריות+ מטען 400 שח",
+   "ts": 1791844286000,
+   "date": "2026-10-13",
+   "time": "01:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yz2CZkpuO_NSA9psnpXoTTTnOlIR2McE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yz2CZkpuO_NSA9psnpXoTTTnOlIR2McE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504159851"
   }
  ]
 }
