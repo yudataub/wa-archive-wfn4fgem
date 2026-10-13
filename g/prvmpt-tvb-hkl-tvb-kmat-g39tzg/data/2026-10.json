@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-12T07:30:11.851Z",
+ "updated": "2026-10-13T09:31:13.022Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -2875,6 +2875,26 @@
      "path": "https://drive.google.com/file/d/1QdMpvlykemFL5uMUL-Nx22igJesmX5tK/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1QdMpvlykemFL5uMUL-Nx22igJesmX5tK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5B4F49BFF74879A59674BDC80D89A93",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791883861000,
+   "date": "2026-10-13",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1z_a5_az4SJPyEeoZF06thzBvOkOUKhql/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z_a5_az4SJPyEeoZF06thzBvOkOUKhql&sz=w1200"
     }
    ],
    "drive": null,

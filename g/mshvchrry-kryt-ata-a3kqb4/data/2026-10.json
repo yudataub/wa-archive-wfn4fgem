@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משוחררי קרית אתא",
- "updated": "2026-10-11T10:10:42.636Z",
+ "updated": "2026-10-13T08:53:10.155Z",
  "messages": [
   {
    "id": "AC8F9B623A83B9BA7F2D652E78DCBB7D",
@@ -141,6 +141,26 @@
      "path": "https://drive.google.com/file/d/16WcY5bt9y-nTCeUqFlKVGClJK4fKOUqr/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=16WcY5bt9y-nTCeUqFlKVGClJK4fKOUqr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "3EB0E59F59BEF880050601",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*למה חשוב שיהיה לך פרופיל לינקדאין?* \n*איך זה יסייע לך במציאת עבודה והתפתחות מקצועית?*\n\nמה נלמד?\n✨ בניית פרופיל שמושך את העין (ואת המגייסים)\n✨ הצגת הניסיון בצורה הטובה ביותר\n✨נטוורקינג חכם ואפקטיבי\n✨ טכניקות מתקדמות לחיפוש משרות\n\n📅 מתי? יום שני, 19/10/2026\n🕖 שעה: 19:00\n📍 איפה? מרכז צעירים, רח' מורדי הגטאות 24\n📞לפרטים נוספים: 052-8114222\n🔗 קישור להרשמה:\nhttps://katzr.net/5b5ece",
+   "ts": 1791881571000,
+   "date": "2026-10-13",
+   "time": "11:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "494KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/158gw_CUEMkWSfSZ6NJDgoLWryjtPmraA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=158gw_CUEMkWSfSZ6NJDgoLWryjtPmraA&sz=w1200"
     }
    ],
    "drive": null,

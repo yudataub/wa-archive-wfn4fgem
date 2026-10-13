@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-12T23:04:29.076Z",
+ "updated": "2026-10-13T09:34:58.991Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -6803,6 +6803,81 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "3A411C59FC4D5186B3C2",
+   "sender": "Nehorait",
+   "text": "",
+   "ts": 1791873050000,
+   "date": "2026-10-13",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bC5Dpm8gark3yYJZX3WNv0WbbvOXwsrw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bC5Dpm8gark3yYJZX3WNv0WbbvOXwsrw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556890066"
+  },
+  {
+   "id": "3A3522E5F47417EDA10F",
+   "sender": "Nehorait",
+   "text": "צריך לברך על זה ברכה ראשונה ואחרונה ? ואם כן איזה?",
+   "ts": 1791873051000,
+   "date": "2026-10-13",
+   "time": "09:30",
+   "files": [],
+   "drive": null,
+   "phone": "972556890066"
+  },
+  {
+   "id": "AC90DDB4A994F2CBA49174C3BCCB2B61",
+   "sender": "הרב אוריאל בצר",
+   "text": "שהכל ואם שותה רביעית בפעם אחת נפשות.",
+   "ts": 1791873153000,
+   "date": "2026-10-13",
+   "time": "09:32",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "A550983D9FDCCA6FB8C5C7B6260BE0A8",
+   "sender": "vip טיולים לקברי צדיקים",
+   "text": "אומרים שלהיכנס לבית קברות במחזור זה נתפס באישה רוחות רעות ואני לא חייבת אבל אני רוצה ללכת ואני רוצה אולי רק ללכת לאיפה שעושים את הנאום ואני רוצה לדעת שבטוח מותר ולא יקרה לי כלום?",
+   "ts": 1791873187000,
+   "date": "2026-10-13",
+   "time": "09:33",
+   "files": [],
+   "drive": null,
+   "phone": "972546776882"
+  },
+  {
+   "id": "ACA5DC6FB0ADF3B6AFC6A54CAF1AABAC",
+   "sender": "הרב אוריאל בצר",
+   "text": "אכן לא כדאי להכנס לבית הקברות, אך מהדין אין איסור.",
+   "ts": 1791873536000,
+   "date": "2026-10-13",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "3A8E4C663490D8C06AA8",
+   "sender": "ᒪIOᖇ ᘔMIᖇᗩ ᗰAGALASHVILI ",
+   "text": "היי שאלה עשיתי את כל תפילת שחרית ולא הספקתי עמידה האם אפשר לעשות עכשיו",
+   "ts": 1791884085000,
+   "date": "2026-10-13",
+   "time": "12:34",
+   "files": [],
+   "drive": null,
+   "phone": "972527863354"
   }
  ]
 }

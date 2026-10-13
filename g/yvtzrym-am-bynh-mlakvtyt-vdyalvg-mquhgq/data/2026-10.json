@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-12T17:34:10.975Z",
+ "updated": "2026-10-13T08:03:14.031Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3046,6 +3046,26 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "ACB486892988E8F2A2670624B6CB534E",
+   "sender": "נועם",
+   "text": "ערב טוב חברים 👋\n\nביום רביעי הבא, 21.10 בשעה 18:00, אנחנו עושים *וובינר קהילתי ראשון: היכרות עם אינסטינקט, הסוכן האישי החינמי בוואטסאפ.*\n\nאני ועופר נראה בלייב מה אינסטינקט יכול לעשות בשבילכם הכי רחוק שאפשר, ובסוף גם מתקינים יחד, צעד צעד (למי שעדיין לא התקין)\n\nחצי שעה, מלא דוגמאות, ללא עלות. גם למי שעדיין לא התחיל.\n\nלהרשמה:\nhttps://luma.com/mh2trrqp\nמחכים לכם 💚",
+   "ts": 1791878576000,
+   "date": "2026-10-13",
+   "time": "11:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o5W6z3E7_FWFAmteiPqKHqiPEFXUmjWK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o5W6z3E7_FWFAmteiPqKHqiPEFXUmjWK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

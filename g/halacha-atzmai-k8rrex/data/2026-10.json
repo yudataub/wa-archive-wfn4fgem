@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-12T20:04:31.375Z",
+ "updated": "2026-10-13T08:30:23.768Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1925,6 +1925,26 @@
    "files": [],
    "drive": null,
    "phone": "972544788864"
+  },
+  {
+   "id": "AC1A56F9C6768E76AED38EF4F0FD5A7D",
+   "sender": "שלומית ברכה",
+   "text": "",
+   "ts": 1791880199000,
+   "date": "2026-10-13",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "192KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1weIiviArEHiHoB_VSonbcukxJT8_V1xR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1weIiviArEHiHoB_VSonbcukxJT8_V1xR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522510662"
   }
  ]
 }

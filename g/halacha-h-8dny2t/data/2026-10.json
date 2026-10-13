@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-12T18:54:19.060Z",
+ "updated": "2026-10-13T08:28:53.736Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -814,6 +814,28 @@
    "files": [],
    "drive": null,
    "phone": "972542558996"
+  },
+  {
+   "id": "ACE2FF9622E43018EF750CEC44A26463",
+   "sender": "שרית בטשוילי",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1791870626000,
+   "date": "2026-10-13",
+   "time": "08:50",
+   "files": [],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "AC90623D8EF30A72C221218BE129FC36",
+   "sender": "גילה בתיה אריאל",
+   "text": "מחפשת דף עבודה פשוט על מצוות ציצית שמותאם לחינוך המיוחד",
+   "ts": 1791880114000,
+   "date": "2026-10-13",
+   "time": "11:28",
+   "files": [],
+   "drive": null,
+   "phone": "972546454441"
   }
  ]
 }

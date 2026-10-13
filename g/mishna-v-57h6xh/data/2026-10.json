@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ו'",
- "updated": "2026-10-12T17:26:34.136Z",
+ "updated": "2026-10-13T07:12:55.291Z",
  "messages": [
   {
    "id": "A59D14B8085FBBB4F2BB1EA4ABD40DBB",
@@ -324,6 +324,92 @@
    ],
    "drive": null,
    "phone": "972543598058"
+  },
+  {
+   "id": "3ABDB594329C6464F7F5",
+   "sender": "חני",
+   "text": "האם שרים למשנה זה על משניות בודדות בחבד? אין שיר לכל משנה?",
+   "ts": 1791873036000,
+   "date": "2026-10-13",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YvBD_8wLgHN9XHhfrl-ckcc16Uw6K5Q5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YvBD_8wLgHN9XHhfrl-ckcc16Uw6K5Q5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545810260"
+  },
+  {
+   "id": "3A0B350DE2D778F99DFB",
+   "sender": "Shira Krief",
+   "text": "שלום, אני מלמדת משנה בכיתה ו׳ חמ״ד.\nהספרים שיש לבית הספר לכיתה ו׳ לא תואמים את תכנית הלימודים.\nאשמח לעצה ממורה שאין לו/ה חוברת, מה עושים?",
+   "ts": 1791873956000,
+   "date": "2026-10-13",
+   "time": "09:45",
+   "files": [],
+   "drive": null,
+   "phone": "972587707745"
+  },
+  {
+   "id": "ACE8F838EFF2F2061BF9AE229459E71C",
+   "sender": "שירה",
+   "text": "גם אצלנו ככה, מקרינה את המשנה על הלוח, לא מאוד נח אבל זה האופציה שמצאתי...",
+   "ts": 1791874281000,
+   "date": "2026-10-13",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972504806939"
+  },
+  {
+   "id": "3A643DC906C2695B2F60",
+   "sender": "Shira Krief",
+   "text": "יש מאגר משימות?",
+   "ts": 1791874310000,
+   "date": "2026-10-13",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972587707745"
+  },
+  {
+   "id": "3A3DC12A1735D243E7CA",
+   "sender": "חני",
+   "text": "בלבד*?",
+   "ts": 1791874324000,
+   "date": "2026-10-13",
+   "time": "09:52",
+   "files": [],
+   "drive": null,
+   "phone": "972545810260"
+  },
+  {
+   "id": "3A7A83396AC5CD8893FB",
+   "sender": "אלעזר",
+   "text": "יש מאגר משחקים וסרטונים\nhttps://docs.google.com/document/d/1ToXtzpgpzvGR5QFd8nZ3W3KYzwV0FlBzAzcneNAi1Jo/edit?usp=sharing",
+   "ts": 1791875175000,
+   "date": "2026-10-13",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "phone": "972533334930"
+  },
+  {
+   "id": "AC70B0CE8B0FEFE90E54BD840DFB91B0",
+   "sender": "איילת",
+   "text": "אפשר בבקשה גם את הקישורים לסרטונים של ד' ו-ה'?",
+   "ts": 1791875570000,
+   "date": "2026-10-13",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972508228422"
   }
  ]
 }

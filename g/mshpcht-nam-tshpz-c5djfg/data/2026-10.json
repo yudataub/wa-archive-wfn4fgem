@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-12T16:19:56.492Z",
+ "updated": "2026-10-13T07:41:55.843Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -1746,6 +1746,48 @@
    ],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "4A7063F116E204B46AFE",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791872110000,
+   "date": "2026-10-13",
+   "time": "09:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VW-1BsC_yrVSvBa0CwKREOVrQnGdSrm8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VW-1BsC_yrVSvBa0CwKREOVrQnGdSrm8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC929C2823C14DF53149944CEFD1738B",
+   "sender": "מלכה טרבלסי",
+   "text": "הבהרה\n\nמחול עם רחל תהילה\n*בכיתה ד בנות*",
+   "ts": 1791877204000,
+   "date": "2026-10-13",
+   "time": "10:40",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC41B82A36068782AB56E172FCC36E72",
+   "sender": "מלכה טרבלסי",
+   "text": "👆🏼👆🏼👆🏼👆🏼👆🏼",
+   "ts": 1791877292000,
+   "date": "2026-10-13",
+   "time": "10:41",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
   }
  ]
 }

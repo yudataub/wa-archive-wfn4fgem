@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-13T04:18:44.387Z",
+ "updated": "2026-10-13T08:20:23.587Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -734,6 +734,46 @@
    ],
    "drive": null,
    "phone": "972545756081"
+  },
+  {
+   "id": "ACB2485C42242C7FEF867EBCB878D690",
+   "sender": "שי הלל",
+   "text": "",
+   "ts": 1791874260000,
+   "date": "2026-10-13",
+   "time": "09:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IIwjyMfNU6ijMUaCFQhQ4J2hEP6bmKFq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IIwjyMfNU6ijMUaCFQhQ4J2hEP6bmKFq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549148109"
+  },
+  {
+   "id": "AC9D6326ECF2FE397132F1CFD366CAAA",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791879597000,
+   "date": "2026-10-13",
+   "time": "11:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mHkT30CHajRsRtx4xV_5HtOcyfiZMyBE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mHkT30CHajRsRtx4xV_5HtOcyfiZMyBE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

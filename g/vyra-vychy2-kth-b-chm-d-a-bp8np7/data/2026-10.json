@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-12T09:54:00.139Z",
+ "updated": "2026-10-13T07:52:26.020Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -848,6 +848,26 @@
    "files": [],
    "drive": null,
    "phone": "972544719797"
+  },
+  {
+   "id": "ACB93679DB8BBB6EFF8D31BAB224DBCA",
+   "sender": "שירה",
+   "text": "למישהו יש את הקובץ המקורי של החוברת הזאת?",
+   "ts": 1791877929000,
+   "date": "2026-10-13",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M8YWegomIL-vR5iQMSkgWEdU4YEF7XjU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M8YWegomIL-vR5iQMSkgWEdU4YEF7XjU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526480975"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-09T11:46:52.147Z",
+ "updated": "2026-10-13T08:06:23.334Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -306,6 +306,37 @@
    "files": [],
    "drive": null,
    "phone": "972556834055"
+  },
+  {
+   "id": "AC1F692108AA037A28029DBFF6AE098C",
+   "sender": "ריקי טל 😊",
+   "text": "שמות של פצועים לתפילה, \nמהאסון אתמול בטיול השנתי בצפון",
+   "ts": 1791875447000,
+   "date": "2026-10-13",
+   "time": "10:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CkoMqb0qs0l9s6smXLSzUn7733JoZd_H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CkoMqb0qs0l9s6smXLSzUn7733JoZd_H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548111153"
+  },
+  {
+   "id": "ACC06D947D81C5AD7025B743DC136FCE",
+   "sender": "ריקי טל 😊",
+   "text": "https://www.instagram.com/reel/DeaCTdvI02a/?mdxt=MXN4NDNhYXUzMHhucA==",
+   "ts": 1791878757000,
+   "date": "2026-10-13",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "phone": "972548111153"
   }
  ]
 }
