@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-12T21:16:13.809Z",
+ "updated": "2026-10-13T12:46:59.604Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2562,6 +2562,121 @@
    "files": [],
    "drive": null,
    "phone": "972549436940"
+  },
+  {
+   "id": "A56CCCE805C6F4D2034B63133EC870C5",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791892263000,
+   "date": "2026-10-13",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "חיי שרה דפי עבודה מיכל ביטון 2026.pdf",
+     "size": "4.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13bkDjaxHH0q62fVEVVzNsiERDX_mqmKs/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5B3752201736A3E9D1DF7F6872D0A13",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791892264000,
+   "date": "2026-10-13",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "דפי עבודה פרשת לך לך מיכל ביטון 2024.pdf",
+     "size": "5.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ImouFjvDfW8ioZuEpC9zvfQyU36-wvTy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A596C79F0F8639FCAC59E98519F03D34",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791892265000,
+   "date": "2026-10-13",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "בראשית דפי עבודה מיכל ביטון.pdf",
+     "size": "7.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1w10-oeGS5x2kCyiCXEYyZvLCs-qSX2qm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5BFA33067AC331F906A7DF4B71AF79C",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791892265000,
+   "date": "2026-10-13",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "וירא דפי עבודה מיכל ביטון.pdf",
+     "size": "4.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1S8fd5aedjllT1gUQmjD8Aaq0A39_V8Zv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A501009736F2EF41E64EC7239398F5D8",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1791892268000,
+   "date": "2026-10-13",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "פרשת נח דפי עבודה מיכל ביטון 2023.pdf",
+     "size": "2.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EfkCNeHqzzQcIrnaEbnHPwSvhVLBieki/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "AC2178F12DF33E52FF50CD91EC83449D",
+   "sender": ".",
+   "text": "",
+   "ts": 1791895608000,
+   "date": "2026-10-13",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "31KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1-8OQ3EcMST9XWkhnQCn0G3CtVKlsehDO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-8OQ3EcMST9XWkhnQCn0G3CtVKlsehDO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542353944"
   }
  ]
 }

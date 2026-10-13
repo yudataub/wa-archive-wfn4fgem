@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-13T08:06:23.334Z",
+ "updated": "2026-10-13T11:22:14.708Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -337,6 +337,26 @@
    "files": [],
    "drive": null,
    "phone": "972548111153"
+  },
+  {
+   "id": "A5940935DC14753DCF9D35FB21C32259",
+   "sender": "רחל אחיטוב",
+   "text": "",
+   "ts": 1791890515000,
+   "date": "2026-10-13",
+   "time": "14:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JP5m4igGpiRohtO_iVBbpB88wWOpwbVB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JP5m4igGpiRohtO_iVBbpB88wWOpwbVB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527703159"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-13T07:17:25.367Z",
+ "updated": "2026-10-13T12:34:52.754Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -148,6 +148,86 @@
    "files": [],
    "drive": null,
    "phone": "972525951981"
+  },
+  {
+   "id": "AC47604BABE321A7099FE5D33E1A3AAF",
+   "sender": "דניאל בפרי",
+   "text": "",
+   "ts": 1791888575000,
+   "date": "2026-10-13",
+   "time": "13:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "384KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dPRM5sqgO30jeLpmSNNtGYCIUIqApuC3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dPRM5sqgO30jeLpmSNNtGYCIUIqApuC3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502220921"
+  },
+  {
+   "id": "AC39250AA267DB0B74C7BD7F0AE116F9",
+   "sender": "דניאל בפרי",
+   "text": "",
+   "ts": 1791888576000,
+   "date": "2026-10-13",
+   "time": "13:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jLd1fFNkzJLTVLpblpfhajQJBRK-D28r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jLd1fFNkzJLTVLpblpfhajQJBRK-D28r&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502220921"
+  },
+  {
+   "id": "ACBE379B32EE184D8E48BA49FF13184A",
+   "sender": "מוריה טל",
+   "text": "",
+   "ts": 1791894295000,
+   "date": "2026-10-13",
+   "time": "15:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rpJ5iDCYRcdUzmAYmSV02o0OIe-8JdDT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rpJ5iDCYRcdUzmAYmSV02o0OIe-8JdDT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
+  },
+  {
+   "id": "AC6243348887F01ACC881E3FAD50BC64",
+   "sender": "אביב ברנבלום",
+   "text": "📣 עבודה משתלמת בשעות הצהריים \n💰 שכר גבוה למתאימים\n\nפרטים בתמונה👆\n ויצירת קשר, יהודית:\nhttps://api.whatsapp.com/send?phone=972503609993",
+   "ts": 1791894875000,
+   "date": "2026-10-13",
+   "time": "15:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hsubQQqhOMGOoNufHqPp_sLV1v99t9Pc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hsubQQqhOMGOoNufHqPp_sLV1v99t9Pc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546542912"
   }
  ]
 }

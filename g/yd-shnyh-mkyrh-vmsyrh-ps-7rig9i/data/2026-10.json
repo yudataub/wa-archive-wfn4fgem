@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-13T09:25:28.793Z",
+ "updated": "2026-10-13T13:17:30.006Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2226,6 +2226,46 @@
    ],
    "drive": null,
    "phone": "972547216428"
+  },
+  {
+   "id": "3A5B2BD6B4C37BFDE19D",
+   "sender": "א.ל",
+   "text": "ספר אריאל שרון - תחנות חייו. 70₪",
+   "ts": 1791890140000,
+   "date": "2026-10-13",
+   "time": "14:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "60KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1keTXS_X2XGvJrupURJzLSskgPv0l7FNA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1keTXS_X2XGvJrupURJzLSskgPv0l7FNA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "AC3E0C7F4AB45407E42837A681CCCD4D",
+   "sender": "don't worry, be happy",
+   "text": "שואב אבק\n50 שח\nאיסוף: נהריה",
+   "ts": 1791897427000,
+   "date": "2026-10-13",
+   "time": "16:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "310KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_cyRnAYaOKxcYFTVUJdy-WXBx44Hn8QM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_cyRnAYaOKxcYFTVUJdy-WXBx44Hn8QM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-13T08:59:40.290Z",
+ "updated": "2026-10-13T12:34:22.741Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -2836,6 +2836,68 @@
    ],
    "drive": null,
    "phone": "972533834131"
+  },
+  {
+   "id": "AC84FEA0289C6C67089A6ED1DD2D5448",
+   "sender": "הודיה ארמה",
+   "text": "למכירה מטבח ילדים עובד מצויין ברז מוציא מים מצב ממש חדש שומש מספר חודשים נקנה ב 700 מוכרת ב450₪",
+   "ts": 1791885319000,
+   "date": "2026-10-13",
+   "time": "12:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Swcz7g2gcN0miB6NVmDyn_aIfgxiJfay/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Swcz7g2gcN0miB6NVmDyn_aIfgxiJfay&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526629124"
+  },
+  {
+   "id": "A50EB285C15B69D2CA4D79FCE2744235",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - סט מחרוזת שירים לכבוד מרן הרב עובדיה יוסף זצוק\"ל - DJ Tal Refael - Rav Ovadia Yosef*\n\nhttps://youtu.be/iKQVy7uSanc",
+   "ts": 1791890167000,
+   "date": "2026-10-13",
+   "time": "14:16",
+   "files": [],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A576F9D3B61AE308FFEB4153D04D7C9E",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - סט מחרוזת שירים לכבוד מרן הרב עובדיה יוסף זצוק\"ל - DJ Tal Refael - Rav Ovadia Yosef*\n\nhttps://youtu.be/iKQVy7uSanc",
+   "ts": 1791890168000,
+   "date": "2026-10-13",
+   "time": "14:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1FT93RArsAF2xSQWgLIajCWnuXVW0hTxb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FT93RArsAF2xSQWgLIajCWnuXVW0hTxb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "AC11328FDE980E4D3E183EB67A420F84",
+   "sender": "יניב",
+   "text": "הבן שלי השאיר שקית ספרי לימוד באוטובוס קו 26 אם מישהו יודע ראה ויכול לעדכן ולקחת את הספרים אליו אשמח ואגיע לאסוף. 052-3434855",
+   "ts": 1791894835000,
+   "date": "2026-10-13",
+   "time": "15:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
   }
  ]
 }

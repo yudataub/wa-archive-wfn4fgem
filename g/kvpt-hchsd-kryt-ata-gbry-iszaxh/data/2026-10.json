@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-13T08:31:23.798Z",
+ "updated": "2026-10-13T12:34:22.730Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1196,6 +1196,59 @@
    ],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "AC9BCB8E81A59A2631E28306BD886AD1",
+   "sender": "נתי שיינבליט",
+   "text": "מחפש 4/5 חדרים להשכרה תקציב עד 5000 באיזורים הטובים של העיר \nכניסה 1.12 \nדיירים א א 🪬",
+   "ts": 1791884606000,
+   "date": "2026-10-13",
+   "time": "12:43",
+   "files": [],
+   "drive": null,
+   "phone": "972529595959"
+  },
+  {
+   "id": "A588F0AB7322ED7B5B10D887EA70E381",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - סט מחרוזת שירים לכבוד מרן הרב עובדיה יוסף זצוק\"ל - DJ Tal Refael - Rav Ovadia Yosef*\n\nhttps://youtu.be/iKQVy7uSanc",
+   "ts": 1791890167000,
+   "date": "2026-10-13",
+   "time": "14:16",
+   "files": [],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A561DC53A43D1B93023129E5A246B1AD",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל - סט מחרוזת שירים לכבוד מרן הרב עובדיה יוסף זצוק\"ל - DJ Tal Refael - Rav Ovadia Yosef*\n\nhttps://youtu.be/iKQVy7uSanc",
+   "ts": 1791890168000,
+   "date": "2026-10-13",
+   "time": "14:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/15Nw4M3hm4TkSmqbw0hbtL98xUuLI8onc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15Nw4M3hm4TkSmqbw0hbtL98xUuLI8onc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "AC7A692A03525ECB45A3F2AB563D6222",
+   "sender": "יניב",
+   "text": "הבן שלי השאיר שקית ספרי לימוד באוטובוס קו 26 אם מישהו יודע ראה ויכול לעדכן ולקחת את הספרים אליו אשמח ואגיע לאסוף. 052-3434855",
+   "ts": 1791894835000,
+   "date": "2026-10-13",
+   "time": "15:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
   }
  ]
 }

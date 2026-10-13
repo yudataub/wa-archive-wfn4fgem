@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משולחן מפמ\"ר היסטוריה חמ\"ד תשפ\"ז",
- "updated": "2026-10-12T13:44:03.336Z",
+ "updated": "2026-10-13T12:12:22.360Z",
  "messages": [
   {
    "id": "ACE22073EE35619C5577922FA3274676",
@@ -156,6 +156,37 @@
    "ts": 1791812625000,
    "date": "2026-10-12",
    "time": "16:43",
+   "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "ACB1CBDE1B7B8275DDC3460A70D5AEB5",
+   "sender": "יוסי לונדין",
+   "text": "",
+   "ts": 1791893510000,
+   "date": "2026-10-13",
+   "time": "15:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "354KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zQdSGta0sGpmcEjHNV2YFH4SxrMLriHP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zQdSGta0sGpmcEjHNV2YFH4SxrMLriHP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "ACC49633C8EE00DFC746B0F6AF3D32F2",
+   "sender": "יוסי לונדין",
+   "text": "https://forms.gle/GvRcvmD4xb4vSGC8A",
+   "ts": 1791893515000,
+   "date": "2026-10-13",
+   "time": "15:11",
    "files": [],
    "drive": null,
    "phone": "972526071630"

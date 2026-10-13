@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-13T08:07:23.351Z",
+ "updated": "2026-10-13T10:55:37.149Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -4277,6 +4277,26 @@
      "path": "https://drive.google.com/file/d/1OOVGu1jlIMiMgMoGliR708yVxieFT7s4/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1OOVGu1jlIMiMgMoGliR708yVxieFT7s4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACCB9C978F831E5135BBF5505796FED1",
+   "sender": "שרון😄",
+   "text": "הערב בע'ה בחיפה",
+   "ts": 1791888919000,
+   "date": "2026-10-13",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bl_SCq5TNWHN2cDxYyjCe3dRdtgtwc2g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bl_SCq5TNWHN2cDxYyjCe3dRdtgtwc2g&sz=w1200"
     }
    ],
    "drive": null,

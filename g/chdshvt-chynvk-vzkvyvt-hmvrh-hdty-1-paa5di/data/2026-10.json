@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי #1",
- "updated": "2026-10-12T13:43:33.330Z",
+ "updated": "2026-10-13T10:21:06.604Z",
  "messages": [
   {
    "id": "A5F35C0BAF0148BF50C2E8370BD3176A",
@@ -189,6 +189,46 @@
      "path": "https://drive.google.com/file/d/1Giva4HsU2u5pR-0lNFbwwSI-RUYlQaBX/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Giva4HsU2u5pR-0lNFbwwSI-RUYlQaBX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A58BA0290590A5F55B55847E3C16D43D",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי 2#*",
+   "ts": 1791886855000,
+   "date": "2026-10-13",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dh8adZbRt8-eeADMtYQh9T_TLD9dJAJl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dh8adZbRt8-eeADMtYQh9T_TLD9dJAJl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A55A90A999960BB5DBDDBB8B781AA376",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי 2#*",
+   "ts": 1791886859000,
+   "date": "2026-10-13",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x3z4UBXeZzWc4BRw9Vw6KdIQ2NAdnzRI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x3z4UBXeZzWc4BRw9Vw6KdIQ2NAdnzRI&sz=w1200"
     }
    ],
    "drive": null,

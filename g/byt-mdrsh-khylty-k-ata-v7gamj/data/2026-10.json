@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-13T09:06:40.388Z",
+ "updated": "2026-10-13T13:10:59.899Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1788,6 +1788,90 @@
    "files": [],
    "drive": null,
    "phone": "972524709727"
+  },
+  {
+   "id": "ACE124E1F69AF8D15FC16EDB4FB17738",
+   "sender": "אלעד פרץ",
+   "text": "היי חברים שלום לכולם☺️\n\nמצרף לכם סרטון קצר, מרגש ועוצמתמ אשר ממחיש את היופי והעוצמות של הארץ המדהימה שלנו👀\n\nנ.ב הסרטון צולם ע\"י יחזקאל בלומשטיין\n\nלהצטרפות לקבוצת \"נדל\"ן מתחת לרדאר\"👇\n\nשלכם אבי ממן",
+   "ts": 1791888945000,
+   "date": "2026-10-13",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-Pjxtv2sVi7w4ecJXlO-55lwsT65CuXa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-Pjxtv2sVi7w4ecJXlO-55lwsT65CuXa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526025011"
+  },
+  {
+   "id": "AC9EA14EE877E0BB72358C3E963BB47B",
+   "sender": "פאר יוסף",
+   "text": "",
+   "ts": 1791893302000,
+   "date": "2026-10-13",
+   "time": "15:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s0UshJV9LxSgWjYjjMI1iOcaiUkYbzrF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s0UshJV9LxSgWjYjjMI1iOcaiUkYbzrF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532818831"
+  },
+  {
+   "id": "ACF0DE5FCF6E13474A15406F5C22521A",
+   "sender": "פאר יוסף",
+   "text": "ישיבת ישרים יעלוזו פועלת משעה 7.30 בבוקר עד שעה 23.00 ברצף כאשר לומדים שם כולל אברכים ,בעלי בתים ,נוער,ונערים מי שיוכל לעזור בחשמל יבורך",
+   "ts": 1791893302000,
+   "date": "2026-10-13",
+   "time": "15:08",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
+  },
+  {
+   "id": "AC04DEDFF7569D1EA1C386C3609AC730",
+   "sender": "פאר יוסף",
+   "text": "https://nedar.im/7010702",
+   "ts": 1791893303000,
+   "date": "2026-10-13",
+   "time": "15:08",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
+  },
+  {
+   "id": "ACA1F32DADDD5E204E0642AE0C08F4A7",
+   "sender": "פאר יוסף",
+   "text": "”ישרים יעלוזו”\nבנק מזרחי- 20. סניף- 448. חשבון- 319864",
+   "ts": 1791893303000,
+   "date": "2026-10-13",
+   "time": "15:08",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
+  },
+  {
+   "id": "ACC84B5AF21643CBF391355FB5E537F8",
+   "sender": "פאר יוסף",
+   "text": "תפילת.מנחה בישרים יעלוזו שעה 17.30 מיד לאחר מנחה ערבית רחוב חנקין 22 מול בית חב\"ד",
+   "ts": 1791897040000,
+   "date": "2026-10-13",
+   "time": "16:10",
+   "files": [],
+   "drive": null,
+   "phone": "972532818831"
   }
  ]
 }
