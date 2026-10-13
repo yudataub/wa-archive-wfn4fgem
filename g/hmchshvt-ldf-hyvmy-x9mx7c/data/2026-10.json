@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-12T04:46:56.238Z",
+ "updated": "2026-10-13T02:09:59.108Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -358,6 +358,46 @@
      "path": "https://drive.google.com/file/d/1L3pBJN7tmrxTBIqV0e2PhHeV0hp_yYuP/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1L3pBJN7tmrxTBIqV0e2PhHeV0hp_yYuP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AFFC77439C0133C1367",
+   "sender": ".",
+   "text": "״ארעא חשוכא״ (בכורות כה, ב). \n[פרשת נח: ״וְאַשְׁכַּחוּ בִּקְעֲתָא *בְּאַרְעָא דְּבָבֶל* וִיתִיבוּ תַּמָּן״]",
+   "ts": 1791857385000,
+   "date": "2026-10-13",
+   "time": "05:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "61KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M_1Jka8XwAVmD0oTMc9iTg_TVSaYF7ba/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M_1Jka8XwAVmD0oTMc9iTg_TVSaYF7ba&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD8D52497FC43AF2213",
+   "sender": ".",
+   "text": "״דמנגחי אהדדי״ (בכורות כה, ב).",
+   "ts": 1791857392000,
+   "date": "2026-10-13",
+   "time": "05:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AoTdwX05KL7dgWUFiV-kaqh5GNhY1Y7G/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AoTdwX05KL7dgWUFiV-kaqh5GNhY1Y7G&sz=w1200"
     }
    ],
    "drive": null,

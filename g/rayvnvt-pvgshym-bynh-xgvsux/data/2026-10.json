@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-12T17:46:41.176Z",
+ "updated": "2026-10-13T05:00:51.030Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -1575,7 +1575,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1jee8Dpj49Q3tz-olWE2iewLMMw8F8YFu/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1jee8Dpj49Q3tz-olWE2iewLMMw8F8YFu&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1jee8Dpj49Q3tz-olWE2iewLMMw8F8YFu&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rayvnvt-pvgshym-bynh-xgvsux/v/2026-10/ACDB4B95205E90EDBE22C7F5BC6E56FE_0.mp4"
     }
    ],
    "drive": null,
@@ -1738,7 +1739,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1reXnkYRFHcOeTLl4x7_CVhr3euQvYQpV/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1reXnkYRFHcOeTLl4x7_CVhr3euQvYQpV&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1reXnkYRFHcOeTLl4x7_CVhr3euQvYQpV&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rayvnvt-pvgshym-bynh-xgvsux/v/2026-10/3A450894C82B20743AB0_0.mp4"
     }
    ],
    "drive": null,
@@ -1842,6 +1844,17 @@
    "files": [],
    "drive": null,
    "phone": "13107392984"
+  },
+  {
+   "id": "3AC87F1FE8A7E8E72B1A",
+   "sender": ".",
+   "text": "אחרי שאת מכינה את הscript  והתמונות ב Gemini מתחילה לעבוד בGoogle vids \nמוסיפה תמונה מוסיפה את התיאור והמשפטים שהדמות אומרת ויש לך פעולה להפוך את זה לסרטון כל תמונה ותמונה \nאז בתיארוך הדירה אני אומרת שהם שרים ביחד ומתארת את הקול ומה הם ישירו \nוהכול תודות לתמר אין עליה",
+   "ts": 1791867630000,
+   "date": "2026-10-13",
+   "time": "08:00",
+   "files": [],
+   "drive": null,
+   "phone": "972547657898"
   }
  ]
 }

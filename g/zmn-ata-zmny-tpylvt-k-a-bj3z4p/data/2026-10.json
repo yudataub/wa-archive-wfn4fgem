@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-12T20:34:08.701Z",
+ "updated": "2026-10-13T04:18:44.387Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -715,6 +715,25 @@
    ],
    "drive": null,
    "phone": "972549148109"
+  },
+  {
+   "id": "AC7C95FC72F9EB2542B9B4AED878F0A2",
+   "sender": "אהרון",
+   "text": "",
+   "ts": 1791865103000,
+   "date": "2026-10-13",
+   "time": "07:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "8KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1MtMvjZV8a0zwyXuIq7iYGQkJTXafnVK9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545756081"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-12T20:14:31.531Z",
+ "updated": "2026-10-13T05:24:14.005Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -2297,6 +2297,77 @@
    "files": [],
    "drive": null,
    "phone": "972529551584"
+  },
+  {
+   "id": "3EB0CB2821B2C53CD2F5F2",
+   "sender": "SEQUENCE",
+   "text": "",
+   "ts": 1791869016000,
+   "date": "2026-10-13",
+   "time": "08:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "358KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pmo-CUwe5F_dZxGIDABe6Z08S2G7eGM3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pmo-CUwe5F_dZxGIDABe6Z08S2G7eGM3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548535171"
+  },
+  {
+   "id": "3EB0B1464BEDAFEFE76C5D",
+   "sender": "SEQUENCE",
+   "text": "",
+   "ts": 1791869024000,
+   "date": "2026-10-13",
+   "time": "08:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m-xra3vyd-Cu3vLAzEmsF0_J4vFj_TaE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m-xra3vyd-Cu3vLAzEmsF0_J4vFj_TaE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548535171"
+  },
+  {
+   "id": "3EB0FBA2027027265A348A",
+   "sender": "SEQUENCE",
+   "text": "",
+   "ts": 1791869036000,
+   "date": "2026-10-13",
+   "time": "08:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gUOIGF-8tEhKVLJu7tbqulhHRDvvQz37/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gUOIGF-8tEhKVLJu7tbqulhHRDvvQz37&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548535171"
+  },
+  {
+   "id": "3EB05C47E822B0E0C87AB6",
+   "sender": "SEQUENCE",
+   "text": "למי שצריך",
+   "ts": 1791869044000,
+   "date": "2026-10-13",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972548535171"
   }
  ]
 }

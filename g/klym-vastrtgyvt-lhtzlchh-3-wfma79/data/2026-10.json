@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-12T17:15:40.680Z",
+ "updated": "2026-10-13T04:40:20.718Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -1676,6 +1676,106 @@
    "date": "2026-10-12",
    "time": "20:15",
    "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5394BCE9C7176275E8826E371DD12A4",
+   "sender": "mary garby",
+   "text": "https://canva.link/y89e81zsril4d49",
+   "ts": 1791864652000,
+   "date": "2026-10-13",
+   "time": "07:10",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5502BED96621CFB415AC8C0DE8D153B",
+   "sender": "mary garby",
+   "text": "תודה לרוית ראש בן ישי על השיתוף",
+   "ts": 1791864658000,
+   "date": "2026-10-13",
+   "time": "07:10",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5D5D24F13B4B2867CBE7FB678240315",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791864684000,
+   "date": "2026-10-13",
+   "time": "07:11",
+   "files": [
+    {
+     "name": "שיח עם תלמידים מקהילת בית הספר במעלות בעקבות אירוע קשה.pdf",
+     "size": "80KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1qW-1bXBKSodLmfhtbo24TA_Xj1q3VHZm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A54905912EA4602904ACD4AB53C9C4B5",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791864685000,
+   "date": "2026-10-13",
+   "time": "07:11",
+   "files": [
+    {
+     "name": "עקרונות לשיח חינוכי תומך בעקבות האירוע ברכס רמים.pdf",
+     "size": "78KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UV515eaQ-7gMmkO_8OFNQepSKhDjMjwY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5D8BE062B8F8B30651C3DE2944566A4",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1791866392000,
+   "date": "2026-10-13",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "11KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1OGyv-HVT0ZQWgqt70unuiCspW8HSLWT7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OGyv-HVT0ZQWgqt70unuiCspW8HSLWT7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5904B5DCEFE681F022163FAB51FA166",
+   "sender": "mary garby",
+   "text": "סיור במרכיבי טקסט מכין את התלמידים לקריאה של טקסט עיוני בלי להסביר מראש את כולו. לפני הקריאה הקדישו שתי דקות לכותרת, לכותרות המשנה, למילים מודגשות, לכיתובי תמונות, לטבלאות ולתרשימים. בקשו מהתלמידים לזהות את נושא הטקסט, לנבא אילו שאלות יקבלו מענה ולשער מה יהיה סדר הרעיונות. בזמן הקריאה עצרו בנקודות המעבר ובדקו אם המבנה שנחזה אכן עוזר לאתר מידע ולהבין את הקשר בין החלקים.\n\nקישור: https://www.readingrockets.org/topics/comprehension/articles/guiding-students-through-expository-text-text-feature-walks\nהקישור מוביל למאמר של Reading Rockets על text feature walks בטקסטים עיוניים.",
+   "ts": 1791866406000,
+   "date": "2026-10-13",
+   "time": "07:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "159KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tyxAUW_3tO8nMVCvZskXvWkPfbiQlt2q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tyxAUW_3tO8nMVCvZskXvWkPfbiQlt2q&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546887626"
   }

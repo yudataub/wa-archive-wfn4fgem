@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-12T22:31:51.765Z",
+ "updated": "2026-10-13T05:05:13.722Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -8099,6 +8099,46 @@
    ],
    "drive": null,
    "phone": "972504159851"
+  },
+  {
+   "id": "3AE32530673CB0B46F9B",
+   "sender": "שיפוצים והתקנות מזגנים ",
+   "text": "",
+   "ts": 1791867296000,
+   "date": "2026-10-13",
+   "time": "07:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GtVXHDPOaBDvomGzwTsv6NWEtRVZyCTy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GtVXHDPOaBDvomGzwTsv6NWEtRVZyCTy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534787860"
+  },
+  {
+   "id": "A5A9AFBE4E8A9C768C620E9FB91980F2",
+   "sender": "טלאור אילוז ציפורניים",
+   "text": "",
+   "ts": 1791867882000,
+   "date": "2026-10-13",
+   "time": "08:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fZk3-RiiDx4lgWT4UAERuLkh5LnavGL5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fZk3-RiiDx4lgWT4UAERuLkh5LnavGL5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555574177"
   }
  ]
 }
