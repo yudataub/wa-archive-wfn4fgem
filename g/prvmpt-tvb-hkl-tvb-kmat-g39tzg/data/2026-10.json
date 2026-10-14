@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-13T09:31:13.022Z",
+ "updated": "2026-10-13T18:42:34.064Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -2897,6 +2897,111 @@
      "thumb": "https://drive.google.com/thumbnail?id=1z_a5_az4SJPyEeoZF06thzBvOkOUKhql&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A559DC142FD582BF15045940B0421C87",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791914185000,
+   "date": "2026-10-13",
+   "time": "20:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "286KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A_X1p0TFqLvl_fTMO2Zqjd1DAqbin7X0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A_X1p0TFqLvl_fTMO2Zqjd1DAqbin7X0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5850489CE1041802991B54D8EF11DF5",
+   "sender": "ווקי שרון מרגולין",
+   "text": "ראיתי משהו מעניין באינסטגרם אז ניסיתי, יצא נחמד",
+   "ts": 1791914188000,
+   "date": "2026-10-13",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A54115B6689B525F6B0B42949B7994BB",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1791915223000,
+   "date": "2026-10-13",
+   "time": "21:13",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2.5MB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/10ow5cc3FR9L-FCnbtIjxURk-GcBq7xMN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5BB0C28F6A6463A1C62B110A1E7A697",
+   "sender": "ווקי שרון מרגולין",
+   "text": "בכל ערב עלמה מכינה לי קטע דמיון מודרך לשינה טובה",
+   "ts": 1791915266000,
+   "date": "2026-10-13",
+   "time": "21:14",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "ACEBE38A012182D6A938F69B7F6C3147",
+   "sender": "⛵",
+   "text": "בכל ערב, אם אני מצליחה להישאר ערה אחרי קריאת שמע על המיטה, אני עוברת ילד ילד ומודה עליו, על כל החוזקות שבו, מתחילה פעם מהגדולה לקטנה ופעם מהקטנה לגדולה לרוב אני לא מספיקה את כולם.. פשוט נרדמת בדרך (ככה זה כשיש 9 ילדים 😃)",
+   "ts": 1791916634000,
+   "date": "2026-10-13",
+   "time": "21:37",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
+  },
+  {
+   "id": "A585F661CDD142F064A7BBAB14CB0795",
+   "sender": "natalie yehiam",
+   "text": "יותר טוב מלספור כבשים 🩷",
+   "ts": 1791916801000,
+   "date": "2026-10-13",
+   "time": "21:40",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A5397EBB4CD2BA62E9A8197ADFBB2A09",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מעולה",
+   "ts": 1791916924000,
+   "date": "2026-10-13",
+   "time": "21:42",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A521D8FBA862ACDE0150A72BFF5BE2AC",
+   "sender": "ווקי שרון מרגולין",
+   "text": "שיהיו בריאים",
+   "ts": 1791916933000,
+   "date": "2026-10-13",
+   "time": "21:42",
+   "files": [],
    "drive": null,
    "phone": "972526673667"
   }

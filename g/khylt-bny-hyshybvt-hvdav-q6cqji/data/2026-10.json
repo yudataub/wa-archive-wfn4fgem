@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-13T17:28:06.061Z",
+ "updated": "2026-10-13T19:28:53.469Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -3521,6 +3521,57 @@
    "files": [],
    "drive": null,
    "phone": "972507924828"
+  },
+  {
+   "id": "AC5DA9181677472295BA1948548B69EB",
+   "sender": "יעקב קרלינסקי",
+   "text": "היום",
+   "ts": 1791913331000,
+   "date": "2026-10-13",
+   "time": "20:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jBVPskRf2UVv09IrgZh_UibjAn-qg4A-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jBVPskRf2UVv09IrgZh_UibjAn-qg4A-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC25B377ADC6B1BA9DB475C08F0D7B2A",
+   "sender": "בצלאל",
+   "text": "מישהו נוסע לבני ברק היום בערב או מחר בבוקר?\nלהעביר משהו קטן",
+   "ts": 1791916085000,
+   "date": "2026-10-13",
+   "time": "21:28",
+   "files": [],
+   "drive": null,
+   "phone": "972585003503"
+  },
+  {
+   "id": "ACF880AD64B9A8A83D5D70423A2C984F",
+   "sender": "אלקנה",
+   "text": "",
+   "ts": 1791919706000,
+   "date": "2026-10-13",
+   "time": "22:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mj4HT71BjYFZSTvZCuQRENbaghe7EAX-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mj4HT71BjYFZSTvZCuQRENbaghe7EAX-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
   }
  ]
 }

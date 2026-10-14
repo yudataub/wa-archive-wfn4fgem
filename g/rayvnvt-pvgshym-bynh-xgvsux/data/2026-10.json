@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-13T09:29:43.001Z",
+ "updated": "2026-10-13T19:03:49.972Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -1908,6 +1908,47 @@
    "files": [],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "3A3F0AE15CBE6F4CEB77",
+   "sender": "קרן ארמה",
+   "text": "עדיין אפגא להירדם? לא מצליחה להגיע לטופס הרשמה",
+   "ts": 1791916788000,
+   "date": "2026-10-13",
+   "time": "21:39",
+   "files": [],
+   "drive": null,
+   "phone": "972522277103"
+  },
+  {
+   "id": "3AC5A6DC9299BF4B2C87",
+   "sender": "Alkalay Irit",
+   "text": "נרשמתי",
+   "ts": 1791917990000,
+   "date": "2026-10-13",
+   "time": "21:59",
+   "files": [],
+   "drive": null,
+   "phone": "16176331490"
+  },
+  {
+   "id": "AC805A2117978E20F2B9D50DA8F73D7F",
+   "sender": "Simon Halevi",
+   "text": "שלום! 👋\n\n📚 מצורף קובץ לתרגול כתיבה באנגלית בנושא ספרות. חיוני להכנה למבחן. \n\n📎 העלו את הקובץ לשיחה חדשה ב־ChatGPT, בג׳ימינאי או בכל כלי בינה מלאכותית אחר שמאפשר העלאת קבצים.\n\n💬 המתינו להנחיות בשיחה והתחילו לתרגל!\n\nבהצלחה! 🌟\nסיימון",
+   "ts": 1791918209000,
+   "date": "2026-10-13",
+   "time": "22:03",
+   "files": [
+    {
+     "name": "DOC-20261013-WA0109.pdf",
+     "size": "55KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1gtpNOjPeyYW4sAR3fy7S4W-XsYiFtFdG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523011287"
   }
  ]
 }

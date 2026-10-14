@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-13T17:36:36.150Z",
+ "updated": "2026-10-13T19:43:13.557Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -5656,11 +5656,45 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1BaLhP9zEtpK1kj39ZPRimTx5pvLkeoGa/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1BaLhP9zEtpK1kj39ZPRimTx5pvLkeoGa&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1BaLhP9zEtpK1kj39ZPRimTx5pvLkeoGa&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/A50C77AFB3026CB2316749775A12881F_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "ACB6FC5A8B9D0A726738781E0271051E",
+   "sender": "N.G.",
+   "text": "יש ערבית במאורות בשעה 21:00 ?",
+   "ts": 1791914031000,
+   "date": "2026-10-13",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "phone": "972555535136"
+  },
+  {
+   "id": "3EB06D53C93F397E7A72F8",
+   "sender": "ד.",
+   "text": "אכן",
+   "ts": 1791918636000,
+   "date": "2026-10-13",
+   "time": "22:10",
+   "files": [],
+   "drive": null,
+   "phone": "972502553781"
+  },
+  {
+   "id": "ACCF07BC1B225A66C350F48E0ADB8555",
+   "sender": "Maya",
+   "text": "אם יש אנשים שאוספים חבילה מטבעון או נמצאים שם ויכולים לאסוף ממכולת גורמן בטבעון חבילה , יעזור לי מאוד! אגיע לאסוף ברכסים מכל מקום.",
+   "ts": 1791920563000,
+   "date": "2026-10-13",
+   "time": "22:42",
+   "files": [],
+   "drive": null,
+   "phone": "972545974500"
   }
  ]
 }

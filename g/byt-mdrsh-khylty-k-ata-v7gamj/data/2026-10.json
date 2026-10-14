@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-13T17:21:05.969Z",
+ "updated": "2026-10-13T18:17:13.949Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -1997,6 +1997,70 @@
    "files": [],
    "drive": null,
    "phone": "972546660233"
+  },
+  {
+   "id": "AC4A6318A38A59671F07140354A6FED3",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "תפרסמו מי שיכול להגיע",
+   "ts": 1791913119000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "ACF9007FB2631A59A8B6C0B48C6F9E32",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "חברים יש הילולה גדולה למרן בבית כנסת אוהל רבקה \nערכו שולחנות ל200 אנשים ואין כרגע אנשים",
+   "ts": 1791913119000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC16242006DC51CB5FAF57BC7778A9AA",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "בקרית בנימין",
+   "ts": 1791913120000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "ACD6B6158786EA4D32EE21834D9AC0EF",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "לכבוד מרן הרב עבודיה",
+   "ts": 1791913120000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC04B36304D9551A59940754C34AFB37",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1791915424000,
+   "date": "2026-10-13",
+   "time": "21:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "748KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qcDi4pLgsa5u7DPfitn-nZpEuhbqG8Wo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qcDi4pLgsa5u7DPfitn-nZpEuhbqG8Wo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

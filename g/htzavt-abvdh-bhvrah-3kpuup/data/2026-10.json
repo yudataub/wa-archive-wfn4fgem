@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-13T12:34:52.754Z",
+ "updated": "2026-10-13T18:21:44.006Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -228,6 +228,25 @@
    ],
    "drive": null,
    "phone": "972546542912"
+  },
+  {
+   "id": "ACA889493090884FA665FE0CB6450ECD",
+   "sender": "מוריה טל",
+   "text": "",
+   "ts": 1791915674000,
+   "date": "2026-10-13",
+   "time": "21:21",
+   "files": [
+    {
+     "name": "אנחנו מחפשות אותך!.pdf",
+     "size": "2.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jpNsQk7FVS9AKqiMuzwBXGrGolvfnlQ4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
   }
  ]
 }

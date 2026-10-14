@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-13T15:23:49.220Z",
+ "updated": "2026-10-13T18:25:44.057Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -922,6 +922,26 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "ACA2573B28C91AB6C12DCACABA2DE93A",
+   "sender": "אלעד",
+   "text": "",
+   "ts": 1791915914000,
+   "date": "2026-10-13",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rvafU0-I64QZEyuhbr8hkH2b-PnifOp-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rvafU0-I64QZEyuhbr8hkH2b-PnifOp-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509018403"
   }
  ]
 }

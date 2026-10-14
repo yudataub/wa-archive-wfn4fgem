@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-13T17:22:05.972Z",
+ "updated": "2026-10-13T19:45:13.601Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -7591,7 +7591,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1A5Qsx25e8J01LDoNmQYPCNVe1oMtmD75/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1A5Qsx25e8J01LDoNmQYPCNVe1oMtmD75&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1A5Qsx25e8J01LDoNmQYPCNVe1oMtmD75&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/AC013E4A9EA651852119C7D8A5AEB55E_0.mp4"
     }
    ],
    "drive": null,
@@ -7658,6 +7659,59 @@
    ],
    "drive": null,
    "phone": "972503300314"
+  },
+  {
+   "id": "AC6B62C44C7E0613A6C8FEC6382A05B6",
+   "sender": "ענבל חמו 😀",
+   "text": "ערב טוב יש למישהו טלפון של מי שאחראי על חדרי האירוח בישרים יעלוזו?",
+   "ts": 1791914205000,
+   "date": "2026-10-13",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "phone": "972509731574"
+  },
+  {
+   "id": "AC49F24BA990F0BB6667557FFCBE12EC",
+   "sender": "א",
+   "text": "📇 אלמוג ישרים יעלוזו\n+972526084186",
+   "ts": 1791914317000,
+   "date": "2026-10-13",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972528715167"
+  },
+  {
+   "id": "AC80F7665B2A75740D3E4DCABD717614",
+   "sender": "א",
+   "text": "בקשה",
+   "ts": 1791914317000,
+   "date": "2026-10-13",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972528715167"
+  },
+  {
+   "id": "ACC40EA87852CC03F256B8659880B4E7",
+   "sender": "י.  כהן",
+   "text": "לא מזיק לחדד את העניין שוב\nבטח לילדים",
+   "ts": 1791920704000,
+   "date": "2026-10-13",
+   "time": "22:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/100fmPTMjmwbr_oGtpryUKqO2wih-98CP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=100fmPTMjmwbr_oGtpryUKqO2wih-98CP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
   }
  ]
 }

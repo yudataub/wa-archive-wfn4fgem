@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-13T15:43:13.862Z",
+ "updated": "2026-10-13T19:43:30.379Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -2510,6 +2510,99 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "AC7228782060EA89489D206E0AEA57C5",
+   "sender": "חפציה",
+   "text": "ג'מיני 4 ארגון הגיע למנוי פרטי אצלי. לא הבנתי מה קרה שמגיע אלי ולא אחרי שבועיים פריסה אחרונה",
+   "ts": 1791917498000,
+   "date": "2026-10-13",
+   "time": "21:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "45KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OVsxwJ-F17peKP6gHBQ91BbiBihY2leD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OVsxwJ-F17peKP6gHBQ91BbiBihY2leD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0BA143F538D14264D3C",
+   "sender": "קללמוד",
+   "text": "גם לי \nאיזה יופי!\nמה מיוחד בו?",
+   "ts": 1791917544000,
+   "date": "2026-10-13",
+   "time": "21:52",
+   "files": [],
+   "drive": null,
+   "phone": "972534757263"
+  },
+  {
+   "id": "AC2F8F451B0EAFCDCDF27779F3D30EAA",
+   "sender": "חפציה",
+   "text": "אמור להיות קונטקסט גדול\nולהיות שיפור...\nלא שמעתי ממישהו על דבר ספציפי מלבד כל מיני מבחנים ומדדים טכניים, נחכה קצת",
+   "ts": 1791917592000,
+   "date": "2026-10-13",
+   "time": "21:53",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "A5E389A0B2AC0B0CF7E6AF577F91C62D",
+   "sender": "דוד ספיאשוילי",
+   "text": "",
+   "ts": 1791917646000,
+   "date": "2026-10-13",
+   "time": "21:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "44KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YJzjW4m0r5QfYP2yPxATTVwiwyjTJJ1B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YJzjW4m0r5QfYP2yPxATTVwiwyjTJJ1B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "A5FB13C9FEDF048A7400C000A8C67FFE",
+   "sender": "דוד ספיאשוילי",
+   "text": "גם אצלי😁",
+   "ts": 1791917648000,
+   "date": "2026-10-13",
+   "time": "21:54",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "3EB09B8A609B5FEF3F2808",
+   "sender": "עמי חניא",
+   "text": "https://www.autohub.co.il/go/next-live",
+   "ts": 1791920574000,
+   "date": "2026-10-13",
+   "time": "22:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Je0I6Fc7dTZfpFAvlGrFxySQQYSO1gKb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Je0I6Fc7dTZfpFAvlGrFxySQQYSO1gKb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
   }
  ]
 }

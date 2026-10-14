@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-13T17:21:22.315Z",
+ "updated": "2026-10-13T18:33:33.951Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -1232,6 +1232,46 @@
    ],
    "drive": null,
    "phone": "972547709164"
+  },
+  {
+   "id": "A50E02F2948CBEB8F7E403D31BBB970F",
+   "sender": "אדיר צוריאל יהודה",
+   "text": "ערב טוב צוות יקר, מצו\"ב לוח תורנות מעודכן.\nאם יש למישהו עוד השגות בעניין נא לעדכן אותי בהקדם, אנחנו מעוניינים לתלות את זה בהקדם אחרי כל השינויים שהתבצעו היום.",
+   "ts": 1791916143000,
+   "date": "2026-10-13",
+   "time": "21:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G-q-w4yJPFDrsKHgsIJ35wZGUoXGoFFh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G-q-w4yJPFDrsKHgsIJ35wZGUoXGoFFh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526544096"
+  },
+  {
+   "id": "A5080A9A9FE1080C6A1D44BA902E390E",
+   "sender": "אדיר צוריאל יהודה",
+   "text": "ערב טוב צוות יקר, מצו\"ב לוח תורנות מעודכן.\nאם יש למישהו עוד השגות בעניין נא לעדכן אותי בהקדם, אנחנו מעוניינים לתלות את זה בהקדם אחרי כל השינויים שהתבצעו היום.",
+   "ts": 1791916396000,
+   "date": "2026-10-13",
+   "time": "21:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "72KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SkDTglYBoSq9y2cxtT9d1tgng_9hTo6a/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SkDTglYBoSq9y2cxtT9d1tgng_9hTo6a&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526544096"
   }
  ]
 }

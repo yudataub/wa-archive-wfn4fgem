@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-10-13T16:03:27.306Z",
+ "updated": "2026-10-13T19:13:50.579Z",
  "messages": [
   {
    "id": "A56435C4B5D54A46720DFCF71EF39E08",
@@ -2209,7 +2209,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1DtZD_3KJbRhuQPuIDy3eoMl4qOgqJmAh/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DtZD_3KJbRhuQPuIDy3eoMl4qOgqJmAh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1DtZD_3KJbRhuQPuIDy3eoMl4qOgqJmAh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chdshvt-chrdym-tzpvn-6-sj8f9n/v/2026-10/A531818A6755A67EE162702959B082DB_0.mp4"
     }
    ],
    "drive": null,
@@ -2222,6 +2223,68 @@
    "ts": 1791907387000,
    "date": "2026-10-13",
    "time": "19:03",
+   "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A578D06D9BCCD166581EEC0CE35FE9B7",
+   "sender": "י",
+   "text": "*עוד אירוע ירי נרחב בחברה הערבית: חמישה פצועים בדרגות פציעה שונות באירוע ירי בדיר אל-אסד*\nאור רביד עם תיעוד מזירת אירוע הירי בדיר אל-אסד.\n\nלכל העדכונים 👇",
+   "ts": 1791917651000,
+   "date": "2026-10-13",
+   "time": "21:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Nt8UwkIyMwcsoT-b592Q8oW-3wgXPu2z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Nt8UwkIyMwcsoT-b592Q8oW-3wgXPu2z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5404F8ED249B858A7FC28B4CC64708F",
+   "sender": "י",
+   "text": "*קרית אתא: רוכב טרקטורון בן 46 נפצע בינוני בהתהפכות*\nצוות מד\"א העניק לו טיפול רפואי בזירה ופינה אותו לבית החולים רמב\"ם שבחיפה, כשהוא עם חבלת ראש. \n\nלכל העדכונים 👇",
+   "ts": 1791917774000,
+   "date": "2026-10-13",
+   "time": "21:56",
+   "files": [],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5A2E3A7B557FEFD2CF74F4EB110D917",
+   "sender": "י",
+   "text": "הגיע הזמן!!!⌛\n\nתושבי חיפה, רכסים והסביבה\nבקרוב, תגלו מקרוב!🤌🏻🤌🏻",
+   "ts": 1791917907000,
+   "date": "2026-10-13",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "48KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15QXlIbaMHW8B8icGmnuQ1D4rYXWlwqUV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15QXlIbaMHW8B8icGmnuQ1D4rYXWlwqUV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5CD1FD302D8855BA43C6DD3FA619196",
+   "sender": "י",
+   "text": "*בת 18 נפצעה בינוני לאחר נפלה מגובה של כ-4 מטרים ברחוב גדוד ברק בטבריה* \nחובשים ופרמדיקים של מד\"א העניקו לה טיפול רפואי בזירה ופינו אותה למרכז הרפואי צפון (פוריה) כשהוא עם חבלות בגב ובבטן.\n\nלכל העדכונים👇",
+   "ts": 1791918828000,
+   "date": "2026-10-13",
+   "time": "22:13",
    "files": [],
    "drive": null,
    "phone": "972506064441"

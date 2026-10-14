@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-13T15:10:13.052Z",
+ "updated": "2026-10-13T18:59:50.364Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -7005,6 +7005,47 @@
    "ts": 1791904196000,
    "date": "2026-10-13",
    "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "ACE64531E99846F6DBD8A0D08D716206",
+   "sender": "חוה מאיר",
+   "text": "שלום כבוד הרב.\nאחה\"צ ברכתי בורא עשבי בשמים על ריחן.\nהאם מותר לי לברך שוב על אותו צרור ריחן ?\nתודה לתשובתכם.",
+   "ts": 1791914985000,
+   "date": "2026-10-13",
+   "time": "21:09",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC05312DF27D67A5FB96461F96AE52A0",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1791915313000,
+   "date": "2026-10-13",
+   "time": "21:15",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "21KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1o9AuXrUeRfwGNrg5YQkx4Y9BixyvVlSH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC6AF1222FFE65D32E26B5F9E32DA230",
+   "sender": "חוה מאיר",
+   "text": "תודה כבוד הרב.\nתזכו למצוות.",
+   "ts": 1791917983000,
+   "date": "2026-10-13",
+   "time": "21:59",
    "files": [],
    "drive": null,
    "phone": "972506243544"

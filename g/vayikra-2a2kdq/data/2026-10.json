@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-13T13:48:05.162Z",
+ "updated": "2026-10-13T19:43:43.560Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -3855,6 +3855,36 @@
    "files": [],
    "drive": null,
    "phone": "972542261101"
+  },
+  {
+   "id": "3EB0849D6E6C2B00CEA935",
+   "sender": "אסתר ל",
+   "text": "",
+   "ts": 1791915495000,
+   "date": "2026-10-13",
+   "time": "21:18",
+   "files": [
+    {
+     "name": "ויקרא - משימות להדפסה.docx",
+     "size": "5.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1W7gP-V4jvUFO8foyNgAVBbfp67yWBD8V/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509080343"
+  },
+  {
+   "id": "3EB06D889B8722198F0407",
+   "sender": "שירן שניאור 🌸",
+   "text": "ערב טוב,\nיש חומרים מיוחדים בספר נביא לכיתות תקשורת? רמה קצת יותר נמוכה?",
+   "ts": 1791920615000,
+   "date": "2026-10-13",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972546656883"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "סרטונים - העידן החדש",
- "updated": "2026-10-13T17:33:06.132Z",
+ "updated": "2026-10-13T19:09:20.544Z",
  "messages": [
   {
    "id": "3EB0CF56D7979667C97C07",
@@ -71,6 +71,28 @@
      "thumb": "https://drive.google.com/thumbnail?id=16ZNOHUKZ1u79eZDMG8C3L-anUDAHMQA9&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546702313"
+  },
+  {
+   "id": "3EB0D067F9BC115768770B",
+   "sender": "יוני לביא",
+   "text": "מתחילים...",
+   "ts": 1791914553000,
+   "date": "2026-10-13",
+   "time": "21:02",
+   "files": [],
+   "drive": null,
+   "phone": "972546702313"
+  },
+  {
+   "id": "A5BBC7FDC61FD80B2B361F0A2DC16CF1",
+   "sender": "יוני לביא",
+   "text": "סיימנו ☺️\nאיך היה לכם?",
+   "ts": 1791918537000,
+   "date": "2026-10-13",
+   "time": "22:08",
+   "files": [],
    "drive": null,
    "phone": "972546702313"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-13T04:10:44.245Z",
+ "updated": "2026-10-13T17:39:36.180Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1128,6 +1128,79 @@
    ],
    "drive": null,
    "phone": "972528969584"
+  },
+  {
+   "id": "AC1CA02AA2E09EFCED29B9510ACA4C4F",
+   "sender": "ויקטוריה",
+   "text": "למסירה ספרי הכנה לפסיכומטרי של קידום כמה חוברות וספרים",
+   "ts": 1791913125000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACFD121604C2B60E3F169690827F89EA",
+   "sender": "ויקטוריה",
+   "text": "ניסיון אחרון לפני שנזרק לפח",
+   "ts": 1791913125000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC25636CBCA8647E7421B40ED55E0D77",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791913126000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tA1dfHiGCKEbTu-so-OJlq-KntvPSloS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tA1dfHiGCKEbTu-so-OJlq-KntvPSloS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC7FC2EC2CA16ED93308C65924D94A95",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1791913126000,
+   "date": "2026-10-13",
+   "time": "20:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ql1hJfmXBU7ju4K6j3Ii2ky_-BJVMult/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ql1hJfmXBU7ju4K6j3Ii2ky_-BJVMult&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "AC13899043B09BC5E83F70E60C07C718",
+   "sender": "גליה",
+   "text": "אני אשמח",
+   "ts": 1791913163000,
+   "date": "2026-10-13",
+   "time": "20:39",
+   "files": [],
+   "drive": null,
+   "phone": "972523974498"
   }
  ]
 }

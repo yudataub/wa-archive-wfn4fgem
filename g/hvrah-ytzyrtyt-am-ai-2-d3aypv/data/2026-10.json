@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-13T15:56:13.673Z",
+ "updated": "2026-10-13T19:44:00.433Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -1451,6 +1451,26 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "3EB053AAE3B6F51D66AD9E",
+   "sender": "עמי חניא",
+   "text": "https://www.autohub.co.il/go/next-live",
+   "ts": 1791920612000,
+   "date": "2026-10-13",
+   "time": "22:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m0tDE1tH5SVBkBorV6qRwaoUwzSItX2D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m0tDE1tH5SVBkBorV6qRwaoUwzSItX2D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
   }
  ]
 }
