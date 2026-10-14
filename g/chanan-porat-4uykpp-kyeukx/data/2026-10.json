@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-13T15:58:19.709Z",
+ "updated": "2026-10-14T04:36:34.836Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2050,6 +2050,81 @@
    "files": [],
    "drive": null,
    "phone": "972542653170"
+  },
+  {
+   "id": "AC29F2983C5545AB90E3832624D20E4B",
+   "sender": "מרדכי וינגרטן",
+   "text": "בוקר טוב ...שאלה :מתי ישלח הדף הנפלא הזה לפרשת נח?",
+   "ts": 1791951880000,
+   "date": "2026-10-14",
+   "time": "07:24",
+   "files": [],
+   "drive": null,
+   "phone": "972522675154"
+  },
+  {
+   "id": "A57BFA96DE32D7C2F1734DD3922430D8",
+   "sender": "הראל מקייס",
+   "text": "https://hemed.education.gov.il/libat-hemed/leoram-nelech/rabbi-hanan-porat/#p_7a25b1b8-d4d2-4d9e-8d85-62fd18a55c48\nמופיעים פה בעמוד של הרב באתר כל הדפים כבר עד סוף חומש בראשית",
+   "ts": 1791952399000,
+   "date": "2026-10-14",
+   "time": "07:33",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "A570AFC23F3BA5A2CCD94F6064977CA8",
+   "sender": "הראל מקייס",
+   "text": "",
+   "ts": 1791952403000,
+   "date": "2026-10-14",
+   "time": "07:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14xmDJSYHNpB_i0WkKjK-XW3XM--uTW3q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14xmDJSYHNpB_i0WkKjK-XW3XM--uTW3q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "AC7C78EB4477F57C577B23826F585C43",
+   "sender": "Michal Meyer",
+   "text": "מאיפה זה?",
+   "ts": 1791952462000,
+   "date": "2026-10-14",
+   "time": "07:34",
+   "files": [],
+   "drive": null,
+   "phone": "972528074977"
+  },
+  {
+   "id": "AC0A2658712D0F65EFA7F51BA58EF731",
+   "sender": "הדס מיכאליס",
+   "text": "עמוד הרב חנן פורת באתר החמ\"ד",
+   "ts": 1791952558000,
+   "date": "2026-10-14",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972522783939"
+  },
+  {
+   "id": "A519496E16C7710C7701D0BD49849779",
+   "sender": "הראל מקייס",
+   "text": "נמצא בתיאור הקבוצה",
+   "ts": 1791952587000,
+   "date": "2026-10-14",
+   "time": "07:36",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
   }
  ]
 }

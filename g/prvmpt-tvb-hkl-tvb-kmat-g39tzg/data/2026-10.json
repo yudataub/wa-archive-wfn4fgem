@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-13T18:42:34.064Z",
+ "updated": "2026-10-14T04:47:46.101Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -3001,6 +3001,17 @@
    "ts": 1791916933000,
    "date": "2026-10-13",
    "time": "21:42",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5A570C1CA4CC7A2441658D55ADCDF7A",
+   "sender": "ווקי שרון מרגולין",
+   "text": "https://www.instagram.com/p/Dd-v-KQs3lP/?obrf=cjJ2aGJnaWd3YXA5",
+   "ts": 1791953260000,
+   "date": "2026-10-14",
+   "time": "07:47",
    "files": [],
    "drive": null,
    "phone": "972526673667"

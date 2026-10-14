@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-13T19:28:53.469Z",
+ "updated": "2026-10-14T05:10:10.304Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -3572,6 +3572,37 @@
    ],
    "drive": null,
    "phone": "972529407610"
+  },
+  {
+   "id": "AC4F222217EC9513D97B4A5E7DE263F1",
+   "sender": "פיני בורוש",
+   "text": "העצמאות/ביאליק",
+   "ts": 1791954588000,
+   "date": "2026-10-14",
+   "time": "08:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "134KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1puRz2HD4sY0-s-HaPW_7C9qFFhgGMIZc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1puRz2HD4sY0-s-HaPW_7C9qFFhgGMIZc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587114512"
+  },
+  {
+   "id": "AC40DA22C436978A3313382ED5C5898E",
+   "sender": "פיני בורוש",
+   "text": "מצלמה ניידת",
+   "ts": 1791954596000,
+   "date": "2026-10-14",
+   "time": "08:09",
+   "files": [],
+   "drive": null,
+   "phone": "972587114512"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-13T18:45:04.320Z",
+ "updated": "2026-10-14T05:37:21.785Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -2281,6 +2281,36 @@
    ],
    "drive": null,
    "phone": "972549821778"
+  },
+  {
+   "id": "3AFD2C67BCF5FF1DCF20",
+   "sender": "רניחן אילוז",
+   "text": "",
+   "ts": 1791943304000,
+   "date": "2026-10-14",
+   "time": "05:01",
+   "files": [
+    {
+     "name": "שמואל ב פרק ו מעודכן.pptx",
+     "size": "4.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1L9k19B0XgQ-xszvFackLp0qjqDBHYfnS/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587165525"
+  },
+  {
+   "id": "AC973F3D758331ACA43B100DA70EAEDA",
+   "sender": "טלי",
+   "text": "בוקר טוב . היה כאן מסמך דוקס עם קישורים של מצגות לכל נושא. מישהו יכול לעזור לי למצוא את זה?",
+   "ts": 1791956239000,
+   "date": "2026-10-14",
+   "time": "08:37",
+   "files": [],
+   "drive": null,
+   "phone": "972523640553"
   }
  ]
 }

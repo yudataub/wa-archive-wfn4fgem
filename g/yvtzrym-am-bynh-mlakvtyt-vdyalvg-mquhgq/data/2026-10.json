@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-13T18:14:28.238Z",
+ "updated": "2026-10-14T04:50:16.113Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3257,6 +3257,48 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "A5BE6B9AE25D356D2D091C5C637D9785",
+   "sender": "חיים ממן",
+   "text": "אמרו לי להפחית נתרן. אז הורדתי לו את הרף. 🤓",
+   "ts": 1791952804000,
+   "date": "2026-10-14",
+   "time": "07:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "610KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G8zMhnI0lL4OPxl7tOhzSt9HfbWEms63/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G8zMhnI0lL4OPxl7tOhzSt9HfbWEms63&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
+  },
+  {
+   "id": "2AEF41E795BB5C89DF8D",
+   "sender": "Micha @Innovya University",
+   "text": "יש מלח המלאיה בלי נתרן כדי לא לאבד את הטעם",
+   "ts": 1791952860000,
+   "date": "2026-10-14",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972544837900"
+  },
+  {
+   "id": "3EB073A19B42CAEE1DD0AA",
+   "sender": "קרן",
+   "text": "אז עכשיו המלחיה אמורה להיות ורודה ולקפוץ מעל הרי ההימלאיה. אפשר להעלות רף...",
+   "ts": 1791953398000,
+   "date": "2026-10-14",
+   "time": "07:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543414224"
   }
  ]
 }

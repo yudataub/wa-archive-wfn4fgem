@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-13T19:06:50.041Z",
+ "updated": "2026-10-14T05:27:16.660Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2100,6 +2100,26 @@
    "files": [],
    "drive": null,
    "phone": "972527139520"
+  },
+  {
+   "id": "4A05E2C18E4A3D53353A",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1791955614000,
+   "date": "2026-10-14",
+   "time": "08:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12t0q3qoMicxiGXt3LpU_W1YyjtFgqFsD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12t0q3qoMicxiGXt3LpU_W1YyjtFgqFsD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
   }
  ]
 }
