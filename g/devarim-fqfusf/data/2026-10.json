@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-14T13:24:53.252Z",
+ "updated": "2026-10-14T18:28:04.172Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -2542,6 +2542,55 @@
    "files": [],
    "drive": null,
    "phone": "972506689078"
+  },
+  {
+   "id": "AC5DF61EDDD9850EEF8953445F1810E2",
+   "sender": "עמית",
+   "text": "מחפשת מבחן בשמואל לפרקים א-ד",
+   "ts": 1792002086000,
+   "date": "2026-10-14",
+   "time": "21:21",
+   "files": [],
+   "drive": null,
+   "phone": "972507948307"
+  },
+  {
+   "id": "AC421E5A796C8FA9B7115DE7112F29B9",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "",
+   "ts": 1792002471000,
+   "date": "2026-10-14",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "מבחן בנביא פרקים א-ה.pdf",
+     "size": "478KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UL3Q6ACa1oChZa4t0sMqtxmetkghZKrZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "AC680BE216BD41DB33FDE26CEC486A58",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "",
+   "ts": 1792002472000,
+   "date": "2026-10-14",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "דף מיקוד למבחן פרקים א-ה.pdf",
+     "size": "197KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1X34FUyFDPYZdZEM6UlyTign1MRiFuHKm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545630812"
   }
  ]
 }

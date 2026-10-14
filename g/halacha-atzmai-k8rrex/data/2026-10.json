@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-14T17:20:44.362Z",
+ "updated": "2026-10-14T17:55:44.923Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1996,6 +1996,59 @@
    ],
    "drive": null,
    "phone": "972535945937"
+  },
+  {
+   "id": "AC527CBC9CA81F1C55A93218E690CBB0",
+   "sender": "זהבה",
+   "text": "מהמם",
+   "ts": 1791999658000,
+   "date": "2026-10-14",
+   "time": "20:40",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "AC8DCC6357EBE219E10B53F9DEAE53D4",
+   "sender": "ציון",
+   "text": "תפזורת ברכות השחר כחלק מסיכום למידת הנושא",
+   "ts": 1791999910000,
+   "date": "2026-10-14",
+   "time": "20:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "263KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gGGPYzitMaRU0Mtucg_-35hmr-5EPU34/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gGGPYzitMaRU0Mtucg_-35hmr-5EPU34&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505719709"
+  },
+  {
+   "id": "ACF3ECE85EC752E4FCB2775CC5237A61",
+   "sender": "אסתר אלנדב",
+   "text": "יש אתר ליצירת תפזורת?",
+   "ts": 1792000505000,
+   "date": "2026-10-14",
+   "time": "20:55",
+   "files": [],
+   "drive": null,
+   "phone": "972544318837"
+  },
+  {
+   "id": "AC1C9A59AEDABAEEF80DCD2AEF49E0CD",
+   "sender": "sapiras💕",
+   "text": "יש תפזורות באביטה כמעט לכל נושא בתנ\"ך",
+   "ts": 1792000542000,
+   "date": "2026-10-14",
+   "time": "20:55",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-14T12:51:59.609Z",
+ "updated": "2026-10-14T19:08:59.472Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -725,6 +725,47 @@
    ],
    "drive": null,
    "phone": "972526888703"
+  },
+  {
+   "id": "AC473A5746A208A349D3D4169B3EA2CF",
+   "sender": "שירה בר לוי☺️",
+   "text": "",
+   "ts": 1792004823000,
+   "date": "2026-10-14",
+   "time": "22:07",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "532KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1XvQqFyahrvS2-uJl7rTB_elYLVIqqPrG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545801025"
+  },
+  {
+   "id": "AC44042E01E68466E7D2409835946548",
+   "sender": "שירה בר לוי☺️",
+   "text": "מי שרוצה ליום ראשון, בהקשר של גשם",
+   "ts": 1792004839000,
+   "date": "2026-10-14",
+   "time": "22:07",
+   "files": [],
+   "drive": null,
+   "phone": "972545801025"
+  },
+  {
+   "id": "ACE935CC3AAFC4FF8C549B84CD77041A",
+   "sender": "חן שרעבי",
+   "text": "תודה גדולה!!!",
+   "ts": 1792004935000,
+   "date": "2026-10-14",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "phone": "972525455208"
   }
  ]
 }

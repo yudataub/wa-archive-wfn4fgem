@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-14T17:36:44.607Z",
+ "updated": "2026-10-14T21:20:41.471Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2576,6 +2576,66 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "AC27EFB89236FB5848CDA8BBB5CF9E8E",
+   "sender": "כלנית פרץ",
+   "text": "כיסא גיימינג + הדום רגליים 500 שקל",
+   "ts": 1791999585000,
+   "date": "2026-10-14",
+   "time": "20:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1geDnu1mKJIyMgRjuo_OTYCNMTuEimSCk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1geDnu1mKJIyMgRjuo_OTYCNMTuEimSCk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "AC151D0D964EC1B30CF6AA132DF9C51B",
+   "sender": "מוכר דברים",
+   "text": "",
+   "ts": 1792012828000,
+   "date": "2026-10-15",
+   "time": "00:20",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "23KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1jn08WWhmvjFwN0UbXfzwn8hy2vonjQpg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jn08WWhmvjFwN0UbXfzwn8hy2vonjQpg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "AC5B36EF4F616DEC267E59CE1B65346D",
+   "sender": "מוכר דברים",
+   "text": "",
+   "ts": 1792012829000,
+   "date": "2026-10-15",
+   "time": "00:20",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "23KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/189DgIMKzI9bU_vvCjZQTJ2-9pHy2MzJR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=189DgIMKzI9bU_vvCjZQTJ2-9pHy2MzJR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
   }
  ]
 }

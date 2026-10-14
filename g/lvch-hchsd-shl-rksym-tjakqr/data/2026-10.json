@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-14T17:15:14.287Z",
+ "updated": "2026-10-14T21:37:41.800Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -6054,6 +6054,154 @@
    "files": [],
    "drive": null,
    "phone": "972543236066"
+  },
+  {
+   "id": "AC6D057B1EF4AAFA42DEA3BC09B4D6B4",
+   "sender": ".......",
+   "text": "תפיצו",
+   "ts": 1791999585000,
+   "date": "2026-10-14",
+   "time": "20:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13xqr9G3_xjk-NL6qtJX1Dw5rgQRAQ117/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13xqr9G3_xjk-NL6qtJX1Dw5rgQRAQ117&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533769045"
+  },
+  {
+   "id": "AC11FC1323F72406B75785603647AD1F",
+   "sender": ".",
+   "text": "תיעוד של הנעדר שחיפשו באשדוד ואותר בירושלים. כל הדיווחים של העיר אשדוד 👇",
+   "ts": 1792000121000,
+   "date": "2026-10-14",
+   "time": "20:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "200KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gY_3B6ghJajQiTk71SBgJkFQ3E8Y00WR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gY_3B6ghJajQiTk71SBgJkFQ3E8Y00WR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559593130"
+  },
+  {
+   "id": "A502F4DBD06E4D28024DA4AF54955426",
+   "sender": "מאיר מוגרבי",
+   "text": "יש מאיפה להשיג ברכסים?",
+   "ts": 1792000340000,
+   "date": "2026-10-14",
+   "time": "20:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MwLV9_dW37iEKCn2WqurZZYMSmnToVQ0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MwLV9_dW37iEKCn2WqurZZYMSmnToVQ0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "A52ED34B4E7FA27F1B922E5EC5269B04",
+   "sender": "צי מחשבים",
+   "text": "אני מחפש מישהו שנוסע לנווה שאנן  ויכול לקחת חבילה קטנה לנווה שאנן",
+   "ts": 1792004234000,
+   "date": "2026-10-14",
+   "time": "21:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526200817"
+  },
+  {
+   "id": "3EB04509A42F17A9DD015F",
+   "sender": "הראל לביא",
+   "text": "פאגי",
+   "ts": 1792005830000,
+   "date": "2026-10-14",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972524042317"
+  },
+  {
+   "id": "ACED79D884AFF8209839D73D65B351C3",
+   "sender": "מאיר שקלאר",
+   "text": "יש הדלת פתוחה ויש 2",
+   "ts": 1792006138000,
+   "date": "2026-10-14",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "A51F24DD8FD05919A41165AEE7E9DC2C",
+   "sender": "מאיר מוגרבי",
+   "text": "בקיצור מי שמושך בכספומטים הפרטיים פשוט פראייר לשלם 8.90",
+   "ts": 1792006396000,
+   "date": "2026-10-14",
+   "time": "22:33",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "AC57281544E2C02DD7752815639B7B32",
+   "sender": "יוסי מוזס",
+   "text": "📇 מורלי - קוגל\n+972 52-761-7490",
+   "ts": 1792007643000,
+   "date": "2026-10-14",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC2FAE833325CABB083ADC3A28018653",
+   "sender": "יצחק חדד",
+   "text": "מישהו נוסע אולי לבני ברק",
+   "ts": 1792013690000,
+   "date": "2026-10-15",
+   "time": "00:34",
+   "files": [],
+   "drive": null,
+   "phone": "972546377391"
+  },
+  {
+   "id": "ACEE43A6DCBBDBA2FF736FFB57229029",
+   "sender": "יצחק חדד",
+   "text": "למסור משהו...ליד כתר הרימון",
+   "ts": 1792013704000,
+   "date": "2026-10-15",
+   "time": "00:35",
+   "files": [],
+   "drive": null,
+   "phone": "972546377391"
+  },
+  {
+   "id": "A5CA0FCDAE702D96E8E4CB74F571B4D7",
+   "sender": "צי מחשבים",
+   "text": "יש מישהו שנוסע מחר ?",
+   "ts": 1792013857000,
+   "date": "2026-10-15",
+   "time": "00:37",
+   "files": [],
+   "drive": null,
+   "phone": "972526200817"
   }
  ]
 }

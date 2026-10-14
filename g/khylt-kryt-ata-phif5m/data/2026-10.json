@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-14T17:01:07.461Z",
+ "updated": "2026-10-14T20:51:36.658Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -4236,6 +4236,77 @@
    ],
    "drive": null,
    "phone": "972538282761"
+  },
+  {
+   "id": "3A6ACB666D4C5411719D",
+   "sender": "רונית גבאי",
+   "text": "למכירה מגפיים חדשות של זארה\nאיסוף קריות\nמידה 36",
+   "ts": 1792001237000,
+   "date": "2026-10-14",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "516KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iqr3YgHxswzy83HOKAu0T4cDvJYIa7op/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iqr3YgHxswzy83HOKAu0T4cDvJYIa7op&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546602619"
+  },
+  {
+   "id": "3AB7AE33E0AA2B25A271",
+   "sender": "רונית גבאי",
+   "text": "",
+   "ts": 1792001238000,
+   "date": "2026-10-14",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "616KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZbHfjCGdpt18p1I0x8Oze8_R_rfuvWPY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZbHfjCGdpt18p1I0x8Oze8_R_rfuvWPY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546602619"
+  },
+  {
+   "id": "3AE08B318320B4330522",
+   "sender": "רונית גבאי",
+   "text": "",
+   "ts": 1792001238000,
+   "date": "2026-10-14",
+   "time": "21:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "349KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Y3rE39VnIYW52MHHRG3ldt1RfdFcshwx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Y3rE39VnIYW52MHHRG3ldt1RfdFcshwx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546602619"
+  },
+  {
+   "id": "AC919B3D034C4DA300F614C34489C783",
+   "sender": "זהבה גוטמן",
+   "text": "https://www.facebook.com/share/v/14aYqKJr1Ta/",
+   "ts": 1792011074000,
+   "date": "2026-10-14",
+   "time": "23:51",
+   "files": [],
+   "drive": null,
+   "phone": "972527361718"
   }
  ]
 }

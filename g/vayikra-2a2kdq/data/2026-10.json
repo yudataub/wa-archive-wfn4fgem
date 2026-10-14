@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-14T16:44:37.231Z",
+ "updated": "2026-10-14T20:20:12.361Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -4412,6 +4412,37 @@
    "files": [],
    "drive": null,
    "phone": "972544811537"
+  },
+  {
+   "id": "ACC2649F9C96662E59B34DBDEF29680C",
+   "sender": "אפרת בורשטיין",
+   "text": "",
+   "ts": 1792008135000,
+   "date": "2026-10-14",
+   "time": "23:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "168KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I5SeSVIXn3QUfb6beqh0mFLu6q6aBd_1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I5SeSVIXn3QUfb6beqh0mFLu6q6aBd_1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549499106"
+  },
+  {
+   "id": "AC35FFF19993B58B86996F8E27D5A672",
+   "sender": "פייגי קאהן",
+   "text": "אפשר לשלוח שוב ?",
+   "ts": 1792009190000,
+   "date": "2026-10-14",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "phone": "972553376945"
   }
  ]
 }

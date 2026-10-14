@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-14T12:02:51.923Z",
+ "updated": "2026-10-14T18:15:51.917Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -1830,6 +1830,26 @@
    "files": [],
    "drive": null,
    "phone": "972523390810"
+  },
+  {
+   "id": "AC0BDDDA34115D2777255BAF15EEF442",
+   "sender": "יעקב אליאס",
+   "text": "",
+   "ts": 1792001747000,
+   "date": "2026-10-14",
+   "time": "21:15",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1o5DRKrPzVNj2JQwR7FkVAbloYVE1zXLx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o5DRKrPzVNj2JQwR7FkVAbloYVE1zXLx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507257004"
   }
  ]
 }

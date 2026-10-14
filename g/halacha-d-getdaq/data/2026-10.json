@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-14T09:17:28.879Z",
+ "updated": "2026-10-14T20:39:17.648Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -958,6 +958,25 @@
    "files": [],
    "drive": null,
    "phone": "972546454441"
+  },
+  {
+   "id": "AC453E4CF3E54E5577428DE1C0C61111",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1792010340000,
+   "date": "2026-10-14",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "ושננתם - פרשת נח.pdf",
+     "size": "585KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1qgVQsAveWJnjpQp47uye0C-sD_Esb9aQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }

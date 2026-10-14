@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-13T18:21:44.006Z",
+ "updated": "2026-10-14T20:04:12.135Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -243,6 +243,26 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1jpNsQk7FVS9AKqiMuzwBXGrGolvfnlQ4/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
+  },
+  {
+   "id": "ACC9767E6398386EC4F31D04700C2122",
+   "sender": "מוריה טל",
+   "text": "",
+   "ts": 1792008237000,
+   "date": "2026-10-14",
+   "time": "23:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19myHRQ2CnR2svjg8dsSmBFNz4QOHYKvK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19myHRQ2CnR2svjg8dsSmBFNz4QOHYKvK&sz=w1200"
     }
    ],
    "drive": null,

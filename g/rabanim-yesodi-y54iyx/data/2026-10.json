@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-14T17:37:14.604Z",
+ "updated": "2026-10-14T19:14:59.552Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -5107,6 +5107,28 @@
    "files": [],
    "drive": null,
    "phone": "972543979764"
+  },
+  {
+   "id": "ACD69E4506241268D70B765BB4B38A0D",
+   "sender": "אריאל סילברשטיין",
+   "text": "בתורה - פסוק בפסוק",
+   "ts": 1792004180000,
+   "date": "2026-10-14",
+   "time": "21:56",
+   "files": [],
+   "drive": null,
+   "phone": "972525665582"
+  },
+  {
+   "id": "AC2781BD6E59C8D2245204259CE6D2B1",
+   "sender": "Alon Cohen",
+   "text": "https://www.facebook.com/share/p/1CxqCJ7beW/",
+   "ts": 1792005299000,
+   "date": "2026-10-14",
+   "time": "22:14",
+   "files": [],
+   "drive": null,
+   "phone": "972502322329"
   }
  ]
 }

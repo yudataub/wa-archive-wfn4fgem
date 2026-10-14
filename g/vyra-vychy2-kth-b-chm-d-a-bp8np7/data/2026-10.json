@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-13T14:36:42.548Z",
+ "updated": "2026-10-14T19:28:59.795Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -890,6 +890,85 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "AC2C579F5179A3BDB870BF5C37554599",
+   "sender": "Kripper",
+   "text": "למישהו יש סמנייה לחוצש?",
+   "ts": 1792002916000,
+   "date": "2026-10-14",
+   "time": "21:35",
+   "files": [],
+   "drive": null,
+   "phone": "972549377036"
+  },
+  {
+   "id": "3A85D81B4ECFF6CCDFDD",
+   "sender": "אילנית",
+   "text": "",
+   "ts": 1792003559000,
+   "date": "2026-10-14",
+   "time": "21:45",
+   "files": [
+    {
+     "name": "סימניה לחומש (1) עותק_241029_101217.pdf",
+     "size": "1.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1eJCzchh3mOwbrnFMtPUA9DFnuTa8QjUT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527453446"
+  },
+  {
+   "id": "3A8469E29CF08FA452F7",
+   "sender": "אילנית",
+   "text": "",
+   "ts": 1792003560000,
+   "date": "2026-10-14",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "ח. גליס סימניה לחומש.pdf",
+     "size": "188KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13Isc_QwSuczdCKoqon-kT4e_Hwa5w3q5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527453446"
+  },
+  {
+   "id": "AC10286FC2905BA555CC086E2C42FE4C",
+   "sender": "עמיחי משה מלק",
+   "text": "",
+   "ts": 1792003567000,
+   "date": "2026-10-14",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "סימניה לחומש בראשית.pdf",
+     "size": "40KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1AoJxnYQl2Qm6IibEko8n3pV56GGAudg5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545369985"
+  },
+  {
+   "id": "AC7260EE4B2B93B01F485E7C8744AFB9",
+   "sender": "Kripper",
+   "text": "תודה רבה!!",
+   "ts": 1792006123000,
+   "date": "2026-10-14",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972549377036"
   }
  ]
 }

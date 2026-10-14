@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-14T10:30:43.646Z",
+ "updated": "2026-10-14T20:32:17.566Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2230,6 +2230,36 @@
    "files": [],
    "drive": null,
    "phone": "972546761624"
+  },
+  {
+   "id": "AC298E0F91EEA23E185E50D3FBDA5A45",
+   "sender": "שירה מזוז",
+   "text": "אשמח לתמונה ברורה של הרב חנן פורת.",
+   "ts": 1792000609000,
+   "date": "2026-10-14",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "phone": "972546322102"
+  },
+  {
+   "id": "3EB0EE46A5B50192E94239",
+   "sender": "רננה סימון",
+   "text": "הנה. בהצלחה",
+   "ts": 1792009923000,
+   "date": "2026-10-14",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "דפי פרשת שבוע תשפז (9).pdf",
+     "size": "1.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1aR_-snacGgkvk7kwmTdOdLKauz2Omixz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505932300"
   }
  ]
 }

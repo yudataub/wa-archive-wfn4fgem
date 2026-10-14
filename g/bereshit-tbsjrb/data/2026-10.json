@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-13T13:43:35.089Z",
+ "updated": "2026-10-14T19:59:42.058Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2688,6 +2688,130 @@
    "files": [],
    "drive": null,
    "phone": "972532314831"
+  },
+  {
+   "id": "ACCA682C2136E4DC31C372A7E39B3535",
+   "sender": "יהונתן מילר",
+   "text": "ערב טוב, אשמח לקבל רעיונות איך לימדתם ובמה התמקדתם ביום הרביעי לבריאה?\n תודה",
+   "ts": 1792005929000,
+   "date": "2026-10-14",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972542035900"
+  },
+  {
+   "id": "AC8243101F3D85222321112C277D2A6F",
+   "sender": "אחינעם",
+   "text": "אני מתמקדת בעיניין של קידוש החודש",
+   "ts": 1792005993000,
+   "date": "2026-10-14",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC5B527139AEC6DCB45DCA9D1BBBBD23",
+   "sender": "יהונתן מילר",
+   "text": "איך את מסבירה להם? יש לך מצגת או סרטון?",
+   "ts": 1792006193000,
+   "date": "2026-10-14",
+   "time": "22:29",
+   "files": [],
+   "drive": null,
+   "phone": "972542035900"
+  },
+  {
+   "id": "AC0E825704CAEA227F119FB420BFFDAE",
+   "sender": "אחינעם",
+   "text": "גם יש סרטון וגם יש דף שמראה על השלבים של הירח באחיה ידע ואני אומרת להם להסתכל בירח באותו ערב בבית ולהגיד איך הוא נראה",
+   "ts": 1792006310000,
+   "date": "2026-10-14",
+   "time": "22:31",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "ACEBADDDD1E760A5AE9F9CD52FD25E7D",
+   "sender": "avigailvizel",
+   "text": "אני הדגמתי את מערכת השמש עם הילדים עצמם- ילדה אחת שמש ילדה כדור הארץ שצסתובבת סביב השמש וסביב עצמה וילדה ירח. זה מאוד מצחיק את כולם וגם ממחיש את עונות השנה. קידוש החודש זה לחומש שמות.",
+   "ts": 1792006358000,
+   "date": "2026-10-14",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972502332369"
+  },
+  {
+   "id": "ACDCF1E1A62DA13FB81B8801A163E947",
+   "sender": "אחינעם",
+   "text": "https://youtu.be/KeyJsDsLANI?si=Zabj1iwoG_8GQ6Um",
+   "ts": 1792006368000,
+   "date": "2026-10-14",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC55BC0FAEB889FEE8F18712986B3900",
+   "sender": "אחינעם",
+   "text": "",
+   "ts": 1792006443000,
+   "date": "2026-10-14",
+   "time": "22:34",
+   "files": [
+    {
+     "name": "achiyamagalhashana27.pdf",
+     "size": "228KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1E968oorVVcm1sYQ2UlJ6Ph6-lBKdm8m-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC450D0702B9FF2C55F19FB74E6B4744",
+   "sender": "מעיין גרינשפן",
+   "text": "",
+   "ts": 1792007947000,
+   "date": "2026-10-14",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "מופעי ירח - קסם של מדע.pdf",
+     "size": "2.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13JXT1jG3uRan_dQShCj4tUqWRBvQIhoh/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587810580"
+  },
+  {
+   "id": "AC4E1C0139B14C9D1E06DCF49C15B762",
+   "sender": "מעיין גרינשפן",
+   "text": "",
+   "ts": 1792007948000,
+   "date": "2026-10-14",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1sk7KeVJv6UWRPGFRKVa7j1NYAXKa5wbv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sk7KeVJv6UWRPGFRKVa7j1NYAXKa5wbv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587810580"
   }
  ]
 }
