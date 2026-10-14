@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-14T06:28:54.409Z",
+ "updated": "2026-10-14T10:08:36.634Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -4957,6 +4957,57 @@
    ],
    "drive": null,
    "phone": "972524974874"
+  },
+  {
+   "id": "3B34C1D3C5064F806596",
+   "sender": "Meydan Elbaz",
+   "text": "https://canva.link/9bbvbwd6nqolg80",
+   "ts": 1791972124000,
+   "date": "2026-10-14",
+   "time": "13:02",
+   "files": [],
+   "drive": null,
+   "phone": "972506901008"
+  },
+  {
+   "id": "A5A270E75F9162D8A0A7DE320800F751",
+   "sender": "שִׁירוּ - קולות עולים גבוה",
+   "text": "",
+   "ts": 1791972315000,
+   "date": "2026-10-14",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1VhhPcZyB8AiuLzlMKyAV_xtNgNDNTY2H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VhhPcZyB8AiuLzlMKyAV_xtNgNDNTY2H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503423554"
+  },
+  {
+   "id": "A5DE258D1D727D5B53A8F954F3FF583F",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "",
+   "ts": 1791972498000,
+   "date": "2026-10-14",
+   "time": "13:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/161GYSeOz_nEFTuu3e7PnuFdxQmL5F7xV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=161GYSeOz_nEFTuu3e7PnuFdxQmL5F7xV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508733084"
   }
  ]
 }

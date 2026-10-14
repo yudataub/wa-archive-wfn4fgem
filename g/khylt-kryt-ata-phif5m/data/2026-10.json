@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-14T08:37:51.950Z",
+ "updated": "2026-10-14T12:25:59.190Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -4138,7 +4138,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Ha7R7X-9k87sexfPG7IOXdtBCQANQFv0/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Ha7R7X-9k87sexfPG7IOXdtBCQANQFv0&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Ha7R7X-9k87sexfPG7IOXdtBCQANQFv0&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2AC79A7EF9A97D6BCC5B_0.mp4"
     }
    ],
    "drive": null,
@@ -4158,7 +4159,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/18z6vdhYMcFZB65qDKqh0JXnL5aiKgG42/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=18z6vdhYMcFZB65qDKqh0JXnL5aiKgG42&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=18z6vdhYMcFZB65qDKqh0JXnL5aiKgG42&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2AE216FC81D8196B453A_0.mp4"
     }
    ],
    "drive": null,
@@ -4183,6 +4185,26 @@
    ],
    "drive": null,
    "phone": "972535473225"
+  },
+  {
+   "id": "AC71D7327BF5B45F3D1EBF3A01401FFB",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1791980750000,
+   "date": "2026-10-14",
+   "time": "15:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "81KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18xEo1b0LM-VgkXn5TRACraLv2yF_c-rm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18xEo1b0LM-VgkXn5TRACraLv2yF_c-rm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

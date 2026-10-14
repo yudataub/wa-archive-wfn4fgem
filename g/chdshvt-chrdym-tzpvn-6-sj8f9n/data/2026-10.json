@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-10-14T09:21:28.912Z",
+ "updated": "2026-10-14T11:38:51.525Z",
  "messages": [
   {
    "id": "A56435C4B5D54A46720DFCF71EF39E08",
@@ -2407,6 +2407,26 @@
      "path": "https://drive.google.com/file/d/1eSr9yUT9xvkig3l8Aog1ql9HcWrhVKhr/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1eSr9yUT9xvkig3l8Aog1ql9HcWrhVKhr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5C1FCD8FEADB71819981A31CBA76CCF",
+   "sender": "י",
+   "text": "*רכב עלה באש בדרך פיקא בשכונת רוממה בחיפה: לוחמי האש השתלטו על הדליקה*\n\nלכל העדכונים👇",
+   "ts": 1791977909000,
+   "date": "2026-10-14",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1BnNCoi8QTcMqzY5roHTgKHM3bdUUYybs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BnNCoi8QTcMqzY5roHTgKHM3bdUUYybs&sz=w1200"
     }
    ],
    "drive": null,

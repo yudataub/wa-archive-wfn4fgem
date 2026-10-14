@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בינטק 4 - בינה מלאכותית עם הנרי",
- "updated": "2026-10-13T15:43:49.515Z",
+ "updated": "2026-10-14T12:40:29.404Z",
  "messages": [
   {
    "id": "A5376B6D1C623677A8FB7B68EA86B10B",
@@ -138,6 +138,26 @@
      "path": "https://drive.google.com/file/d/1_qPVa0QbZ3UacWj0jXAaAHB6VbVI2yqS/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1_qPVa0QbZ3UacWj0jXAaAHB6VbVI2yqS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585005171"
+  },
+  {
+   "id": "A54096CDD02FCEA633D3364AEEE28680",
+   "sender": "Henry Ai",
+   "text": "גוגל חוזרת למשחק? 🌟\n\nבחודשים האחרונים, ואולי אפילו יותר מחצי שנה, גוגל נשארה מאחור. בזמן ש-OpenAI ואנטרופיק (Claude) שחררו עדכון אחרי עדכון למודלים החזקים שלהן, מודל ה-Pro של ג'מיני כמעט לא זז, והגרסה שהובטחה לכנס המפתחים במאי נדחתה לטובת ג'מיני 4.\n\nב-30.9 גוגל הכריזה על Gemini 4 Argon, אבל בפועל הוא היה זמין רק לחברות אבטחה מצומצמות מאוד. מאז 13.10 הוא מתחיל להגיע לקהל הרחב, לאט: מנויי Google AI Pro ו-Ultra באפליקציית Gemini ובחיפוש, ומנויי Ultra גם בכלי התכנות Antigravity. מפתחים מקבלים אותו דרך ה-API בתשלום.\n\nמנויי Plus והמשתמשים החינמיים נשארו כרגע עם מודלי Flash. גוגל הבטיחה עוד דגמים ממשפחת Gemini 4, וסביר להניח שבהמשך נראה גרסה קטנה יותר גם לשאר המנויים.\n\nמינוי Pro עולה 19.99$ בחודש. בדירוגים עצמאיים הוא עדיין מאחורי Claude Opus 5.5.\n\nההכרזה הרשמית 👇🏼\nhttps://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/\nהאפליקציה של ג'מיני 👇🏼\nhttps://gemini.google.com\n\nלהזמנת הרצאה, סדנה או ייעוץ להטמעת כלי בינה מלאכותית ואוטומציות אצלכם בארגון צרו איתי קשר בווצאפ - 0585005171 🦾\nיש לכם.ן חברים שעדיין לא בקבוצות בהן אני שולח תכנים נגישים על בינה מלאכותית? שלחו להם שיצטרפו 👇🏼\nתהנו\nהנרי - henryai.space 🩷",
+   "ts": 1791981597000,
+   "date": "2026-10-14",
+   "time": "15:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "351KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wjFuQ38Dt90TP4pRevrXUcBT__dfmje0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wjFuQ38Dt90TP4pRevrXUcBT__dfmje0&sz=w1200"
     }
    ],
    "drive": null,

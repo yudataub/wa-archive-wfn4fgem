@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-14T09:05:58.721Z",
+ "updated": "2026-10-14T12:41:59.443Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -3866,6 +3866,103 @@
    "files": [],
    "drive": null,
    "phone": "972533384050"
+  },
+  {
+   "id": "A5D5A3273406AF7892F4BE682D7D798E",
+   "sender": "NATI POWER",
+   "text": "מזל טוב 🎉🎉🎉 המון נחת",
+   "ts": 1791972516000,
+   "date": "2026-10-14",
+   "time": "13:08",
+   "files": [],
+   "drive": null,
+   "phone": "972556630746"
+  },
+  {
+   "id": "ACFAB306F526BBE55BD660901D6E7925",
+   "sender": "איתמר",
+   "text": "מצווה גדולה! חסרים למנין ליארצייט 2-3 אנשים. מישהו יכול אולי להגיע לבית העלמין הישן ביציאה מהעיר?",
+   "ts": 1791975873000,
+   "date": "2026-10-14",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "ACBF814C79B123EEF9BCD7EB05849A89",
+   "sender": "איתמר",
+   "text": "חשוב מאוד לילדים שיהיה מניין וקדיש",
+   "ts": 1791975889000,
+   "date": "2026-10-14",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "ACAEF5EF475840A56EDDB7BABC7D6B7F",
+   "sender": "איתמר",
+   "text": "עכשיו",
+   "ts": 1791975894000,
+   "date": "2026-10-14",
+   "time": "14:04",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "ACE1221F0A06ECD7050D8630BAB52F8A",
+   "sender": "חזקי סולומונס",
+   "text": "מתחילים זמן חורף!!\nליל שישי מפנק מעשי ידי משפחת ראקוב!",
+   "ts": 1791979740000,
+   "date": "2026-10-14",
+   "time": "15:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "321KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1efH0HtuCkbE4uWfyxer1-nTgq0yA8Qgh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1efH0HtuCkbE4uWfyxer1-nTgq0yA8Qgh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587161155"
+  },
+  {
+   "id": "ACB0175BB5F73CF3232269E454A45885",
+   "sender": "יצחק ומירי הסקין",
+   "text": "מישהו יודע איפה יש רופא ילדים עכשיו של כללית?\nלב הקריה סגור",
+   "ts": 1791981163000,
+   "date": "2026-10-14",
+   "time": "15:32",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "ACB3AF0375A572FE042C93DFE426EC8A",
+   "sender": "בני קרמר",
+   "text": "גבעת אלונים דוכיפת 4 קרית אתא\nקומה 2",
+   "ts": 1791981686000,
+   "date": "2026-10-14",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "ACC5979540CCC211EC821E9D0CD4624E",
+   "sender": "יצחק ומירי הסקין",
+   "text": "תודה",
+   "ts": 1791981705000,
+   "date": "2026-10-14",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
   }
  ]
 }

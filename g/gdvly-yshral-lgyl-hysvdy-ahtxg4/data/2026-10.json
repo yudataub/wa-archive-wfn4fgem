@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-14T04:14:34.456Z",
+ "updated": "2026-10-14T11:50:21.687Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -1115,6 +1115,26 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "AC909D97677DDB5A0E3075A4E7AD90E6",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1791978604000,
+   "date": "2026-10-14",
+   "time": "14:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1awOlVC1m8VNj4NrX0cK75sVx-28-eeAo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1awOlVC1m8VNj4NrX0cK75sVx-28-eeAo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
   }
  ]
 }

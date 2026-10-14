@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-13T11:48:15.149Z",
+ "updated": "2026-10-14T12:14:28.975Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1956,6 +1956,26 @@
    "files": [],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "3ACCFE819BBE344FCD91",
+   "sender": "חיה לוי",
+   "text": "כתב סתרים לגילוי התשובות לשאלות על הלוח",
+   "ts": 1791980051000,
+   "date": "2026-10-14",
+   "time": "15:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "299KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11sFlLPBZpBUBecbRgwR1VokrtOYIiXKN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11sFlLPBZpBUBecbRgwR1VokrtOYIiXKN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587055508"
   }
  ]
 }

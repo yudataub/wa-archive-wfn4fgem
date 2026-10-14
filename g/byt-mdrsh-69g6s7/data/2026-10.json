@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-10-11T04:03:42.870Z",
+ "updated": "2026-10-14T11:14:14.319Z",
  "messages": [
   {
    "id": "AC3F785D380B24CD8BE4370C8BC38B38",
@@ -130,6 +130,37 @@
    "ts": 1791691404000,
    "date": "2026-10-11",
    "time": "07:03",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC0D201C078CB8C6E5D258A968B26326",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1791976325000,
+   "date": "2026-10-14",
+   "time": "14:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "323KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i_HftC2U5pOzRxhQwhlXkncgwY6qPaz2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i_HftC2U5pOzRxhQwhlXkncgwY6qPaz2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACC5AFF9BFD4B105358BE30D317A2E93",
+   "sender": "יעקב בקר",
+   "text": "שלום ללומדים\nבשבוע הבא ביום חמישי 22.10.26\nמארח להרצאה נוספת את הרב שי סימינובסקי\nממכון צומת להרצאה נוספת\nנא לשריין את התאריך\nתודה",
+   "ts": 1791976451000,
+   "date": "2026-10-14",
+   "time": "14:14",
    "files": [],
    "drive": null,
    "phone": "972549991157"

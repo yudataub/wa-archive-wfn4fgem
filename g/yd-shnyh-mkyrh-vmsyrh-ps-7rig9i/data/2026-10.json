@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-14T07:25:01.971Z",
+ "updated": "2026-10-14T12:48:59.560Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2377,6 +2377,46 @@
    ],
    "drive": null,
    "phone": "972547216428"
+  },
+  {
+   "id": "3AF2E0B07E7DD28E1C10",
+   "sender": "א.ל",
+   "text": "תמונת עיר עתיקה 90₪",
+   "ts": 1791980159000,
+   "date": "2026-10-14",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "342KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MrFv4vAP09_dHkk1Ha18R_YadCJv-l6t/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MrFv4vAP09_dHkk1Ha18R_YadCJv-l6t&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
+  },
+  {
+   "id": "AC3B8D853A083A4178B46C6443EFD4CA",
+   "sender": "כלנית פרץ",
+   "text": "למכירה 4 כסאות לפינת אוכל במצב מצויין נקנו בבית המעצבים 600 שח מקרית אתא כל הקודם זוכה",
+   "ts": 1791982108000,
+   "date": "2026-10-14",
+   "time": "15:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "344KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Pwh1zawqVYGQ6qLY46QUq1HCdEFf8J1y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pwh1zawqVYGQ6qLY46QUq1HCdEFf8J1y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
   }
  ]
 }

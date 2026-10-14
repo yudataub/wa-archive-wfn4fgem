@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-14T09:07:58.759Z",
+ "updated": "2026-10-14T10:30:43.646Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2208,6 +2208,28 @@
    ],
    "drive": null,
    "phone": "972525858660"
+  },
+  {
+   "id": "AC37C0617D3AA2AB70B4B3C39F542E16",
+   "sender": "טלי שניר",
+   "text": "יש דף לפרשת נח?",
+   "ts": 1791973794000,
+   "date": "2026-10-14",
+   "time": "13:29",
+   "files": [],
+   "drive": null,
+   "phone": "972525802469"
+  },
+  {
+   "id": "AC1B24EDB1F0D2CD00C8F8C71F2B2561",
+   "sender": "לאה איצקוביץ",
+   "text": "https://hemed.education.gov.il/libat-hemed/leoram-nelech/rabbi-hanan-porat/#p_7a25b1b8-d4d2-4d9e-8d85-62fd18a55c48\nמופיעים פה בעמוד של הרב באתר כל הדפים כבר עד סוף חומש בראשית",
+   "ts": 1791973836000,
+   "date": "2026-10-14",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546761624"
   }
  ]
 }

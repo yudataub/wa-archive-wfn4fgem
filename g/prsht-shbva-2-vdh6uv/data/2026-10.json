@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-14T08:38:51.957Z",
+ "updated": "2026-10-14T09:50:06.291Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -2631,6 +2631,101 @@
    ],
    "drive": null,
    "phone": "972524295159"
+  },
+  {
+   "id": "ACC994BABD8960DB654A932025E8102B",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1791971316000,
+   "date": "2026-10-14",
+   "time": "12:48",
+   "files": [
+    {
+     "name": "קריאה לפרשת נח רמה 2 -  מתיא בני ברק.pdf",
+     "size": "137KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1gZoAsTaam-_0nUFcwti-wxBEP6uvpzYh/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC32A795EB2E5393B0C6E5D850BB91BC",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1791971367000,
+   "date": "2026-10-14",
+   "time": "12:49",
+   "files": [
+    {
+     "name": "קריאה לפרשת נח רמה 1 -  מתיא בני ברק.pdf",
+     "size": "178KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1O30fTilXbaFMgGEZDpb_gILy9RVj4Kx3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "ACC299A9AC3BA0A4223C3F2BAAC2C15D",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1791971382000,
+   "date": "2026-10-14",
+   "time": "12:49",
+   "files": [
+    {
+     "name": "קריאה לפרשת נח ללא ניקוד -  מתיא בני ברק.pdf",
+     "size": "152KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1orrt2GVd-8HsWYo7RzoSlf3__de6f578/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC72FA745388E49942DB75E942B9C605",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1791971383000,
+   "date": "2026-10-14",
+   "time": "12:49",
+   "files": [
+    {
+     "name": "פרשת נח - משפטי פירמידה.pdf",
+     "size": "525KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1o2Ho2U6vnqOC8MYKnK6PwxGmaSzEK0jb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC267C1EEB36304ED3EA6AEADB8FD4B7",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1791971384000,
+   "date": "2026-10-14",
+   "time": "12:49",
+   "files": [
+    {
+     "name": "מילה בפרשה -נח  מתיא בני ברק.pdf",
+     "size": "719KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1sPFYH-SJIyJWFI2wH2IRSP3erfJo5UPZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
   }
  ]
 }
