@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-14T04:36:34.836Z",
+ "updated": "2026-10-14T09:07:58.759Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2125,6 +2125,89 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "AC83365E21E59AEAABB782BE15D94BF0",
+   "sender": ".",
+   "text": "יפה מאוד אך קצת מאוד קצר. התלמידים מסיימים ב10 דקות. האם יש קובץ עם לימוד ארוך יותר?",
+   "ts": 1791966841000,
+   "date": "2026-10-14",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972546555785"
+  },
+  {
+   "id": "3EB006E63D7F4C2C0DE017",
+   "sender": "יעל",
+   "text": "יש את זה באתר מנהל המחד",
+   "ts": 1791967812000,
+   "date": "2026-10-14",
+   "time": "11:50",
+   "files": [],
+   "drive": null,
+   "phone": "972546758828"
+  },
+  {
+   "id": "3EB0DCC185A52F9B8226D6",
+   "sender": "יעל",
+   "text": "החמד",
+   "ts": 1791967813000,
+   "date": "2026-10-14",
+   "time": "11:50",
+   "files": [],
+   "drive": null,
+   "phone": "972546758828"
+  },
+  {
+   "id": "3A25F4EEEF88BD5CEC31",
+   "sender": "מירב מלמד",
+   "text": "מדהים! יש סרטון שמותאם לילדים הצעירים יותר?",
+   "ts": 1791968246000,
+   "date": "2026-10-14",
+   "time": "11:57",
+   "files": [],
+   "drive": null,
+   "phone": "972502840676"
+  },
+  {
+   "id": "ACF13A37D1634DA71A3CD31AAF3997AC",
+   "sender": "אדיר",
+   "text": "",
+   "ts": 1791968858000,
+   "date": "2026-10-14",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NkU2EydVJWpknSHT_6IUQ2EauAWp2gqE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NkU2EydVJWpknSHT_6IUQ2EauAWp2gqE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525858660"
+  },
+  {
+   "id": "AC481C82E11B1094529807F7B3114E6E",
+   "sender": "אדיר",
+   "text": "",
+   "ts": 1791968862000,
+   "date": "2026-10-14",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "אלבום אורו של עולם 3 (דוגמית).pdf",
+     "size": "17.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ry31fXMUnzKVIzF0Ff88glWS3bltPaRZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525858660"
   }
  ]
 }

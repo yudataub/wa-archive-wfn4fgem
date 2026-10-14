@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-13T15:33:19.327Z",
+ "updated": "2026-10-14T07:25:01.971Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2277,6 +2277,106 @@
    "files": [],
    "drive": null,
    "phone": "972558873621"
+  },
+  {
+   "id": "AC5EE2625E085C0E65FBB3622E6AFB4D",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791961681000,
+   "date": "2026-10-14",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "350KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tIxnG3kMYkllfYegRVjhX-T8VnfxmLVR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tIxnG3kMYkllfYegRVjhX-T8VnfxmLVR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC82AFEBB74F7F3DDDB3ACF2FB340A9D",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791961681000,
+   "date": "2026-10-14",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16ZkuXaAHxOokP1zovsEjrCCAFSoNcnrW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16ZkuXaAHxOokP1zovsEjrCCAFSoNcnrW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC1BBFE6805830CF96AA6903E0F43E95",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1791961682000,
+   "date": "2026-10-14",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "203KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fPbbKrExVnqncFXT20TXQFzBvBnCCE3d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fPbbKrExVnqncFXT20TXQFzBvBnCCE3d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACBB2218BE950550B636F2BE1C134FC6",
+   "sender": "המשפחה שלי !",
+   "text": "הכל במצב מצווין , \nהליכון לתינוק / ספרים לילדים 50 יח' / פאזלים והרכבה / הליכון למבוגר \nלפרטים נוספים בפרטי מראשון לציון",
+   "ts": 1791961683000,
+   "date": "2026-10-14",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OUoKH6mnd8XuTEd99OdPJK_uWMMquvuo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OUoKH6mnd8XuTEd99OdPJK_uWMMquvuo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC7D0CED849AAC76266E0304054AD836",
+   "sender": "St",
+   "text": "למכירה מיטת תינוק עם מזרון.\nהמיטה של חברת טל.\nבמצב מעולה!!\nרכסים",
+   "ts": 1791962694000,
+   "date": "2026-10-14",
+   "time": "10:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "7KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14qm44Dneg2mcOLNPJqtdw6AdAwSA_Jge/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14qm44Dneg2mcOLNPJqtdw6AdAwSA_Jge&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547216428"
   }
  ]
 }

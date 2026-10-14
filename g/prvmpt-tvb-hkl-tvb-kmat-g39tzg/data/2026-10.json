@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-14T04:47:46.101Z",
+ "updated": "2026-10-14T05:41:21.824Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -2894,7 +2894,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1z_a5_az4SJPyEeoZF06thzBvOkOUKhql/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1z_a5_az4SJPyEeoZF06thzBvOkOUKhql&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1z_a5_az4SJPyEeoZF06thzBvOkOUKhql&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-prvmpt-tvb-hkl-tvb-kmat-g39tzg/v/2026-10/A5B4F49BFF74879A59674BDC80D89A93_0.mp4"
     }
    ],
    "drive": null,
@@ -3012,6 +3013,28 @@
    "ts": 1791953260000,
    "date": "2026-10-14",
    "time": "07:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3AE1AA8A25861EAFE41D",
+   "sender": "Amikam Peled",
+   "text": "בוקר טוב \nאפשר עדיין להירשם?",
+   "ts": 1791956361000,
+   "date": "2026-10-14",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
+  },
+  {
+   "id": "A5BBBBE780980AB813C999B5D981CF54",
+   "sender": "ווקי שרון מרגולין",
+   "text": "כן בהחלט",
+   "ts": 1791956476000,
+   "date": "2026-10-14",
+   "time": "08:41",
    "files": [],
    "drive": null,
    "phone": "972526673667"

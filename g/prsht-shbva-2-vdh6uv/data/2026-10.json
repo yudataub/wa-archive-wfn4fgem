@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-13T18:59:50.352Z",
+ "updated": "2026-10-14T08:38:51.957Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -2611,6 +2611,26 @@
    "files": [],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "3AABB05D583F925A6C68",
+   "sender": "חנה",
+   "text": "",
+   "ts": 1791967118000,
+   "date": "2026-10-14",
+   "time": "11:38",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "185KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1RDZUl2v67a1CI4KWMiukVx1Re-klNpBU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RDZUl2v67a1CI4KWMiukVx1Re-klNpBU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524295159"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-14T05:07:40.260Z",
+ "updated": "2026-10-14T09:36:29.111Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -6948,7 +6948,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1lqy3euyCo76Y5FuHprLhjQzLJPDPEj8E/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1lqy3euyCo76Y5FuHprLhjQzLJPDPEj8E&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1lqy3euyCo76Y5FuHprLhjQzLJPDPEj8E&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/v/2026-10/ACBEA080D30B16F44E43DC53D375709C_0.mp4"
     }
    ],
    "drive": null,
@@ -7115,6 +7116,257 @@
    "files": [],
    "drive": null,
    "phone": "972533004711"
+  },
+  {
+   "id": "AC9C0376BEF2C74A0B8C97D02805DDFD",
+   "sender": "Moshe Itshak Amar",
+   "text": "לא חוזר כיוון שמעיקר הדין צריך כבר גשם",
+   "ts": 1791959844000,
+   "date": "2026-10-14",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC10BCB43BE2F3E11162B474BB0714B3",
+   "sender": "Moshe Itshak Amar",
+   "text": "דעת הגרע\"י ש13 חודש עיקר.\nלכן כו תשרי מי שיכול יוסיף כו' אלול. (בני מרוקו 11 חודש חשוב מאוד אפילו שלהלכה לא) \nלזכור דיני אבלות ממשיכים עד כז' אלול.",
+   "ts": 1791959990000,
+   "date": "2026-10-14",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC4DC0386DB3E276550DF480E8CF46A4",
+   "sender": "n.e.",
+   "text": "כז אלול בבוקר נגמר האבלות שנה וכו תשרי אזכרה?",
+   "ts": 1791960112000,
+   "date": "2026-10-14",
+   "time": "09:41",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC124B8B852C46760D48AD7B37D36B38",
+   "sender": "Moshe Itshak Amar",
+   "text": "כן",
+   "ts": 1791960130000,
+   "date": "2026-10-14",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "ACDE6A72A1C135FB3110788FCF036B64",
+   "sender": "n.e.",
+   "text": "המינימום לעשות כי הם לא ככ דתיים זה החודש כו' חשון \n\nואחכ כז תשרי נגמר אבלות ולא חייבים אזכרה.\n\nואזכרה עצמה כו תשרי.\n\nוכל השנים רק כו' תשרי אזכרה.\n\nזה סיכום נכון?",
+   "ts": 1791960239000,
+   "date": "2026-10-14",
+   "time": "09:43",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC3A038B98C4EC3D6E4F61C42D666568",
+   "sender": "Moshe Itshak Amar",
+   "text": "כו' תשרי.\nאין כזה דבר כו' חשון.\nכז' אלול נגמר האבלות.",
+   "ts": 1791960597000,
+   "date": "2026-10-14",
+   "time": "09:49",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC37C51DBC81F315BFEF70A766635F41",
+   "sender": "n.e.",
+   "text": "כן התבלבלתי. החודש לא כו' חשון??????",
+   "ts": 1791960697000,
+   "date": "2026-10-14",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC2A14F5A560D4496020C642C9A69D7C",
+   "sender": "n.e.",
+   "text": "חודש כו' חשון.\nשנה כו' תשרי\nאבילות שנה נגמרת כז אלול.\nהבנתי נכון?",
+   "ts": 1791960776000,
+   "date": "2026-10-14",
+   "time": "09:52",
+   "files": [],
+   "drive": null,
+   "phone": "972533004711"
+  },
+  {
+   "id": "AC3DE841CDCAECB0C492BED54BC29DB0",
+   "sender": "Moshe Itshak Amar",
+   "text": "אמרת נקברה כז' אלול אז אזכרת החודש הייתה כז' תשרי.\nנישאר רק אזכרת השנה שהיא בכו' תשרי בכלל שנה מעוברת",
+   "ts": 1791961222000,
+   "date": "2026-10-14",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC947276271942DD4B49A62AAA0D5677",
+   "sender": "Moshe Itshak Amar",
+   "text": "אזכרת החודש ליל ששי כו' חשון תשפז' עלייה ביום ששי בבוקר כו' חשון.\n\nאזכרת השנה כו' תשרי תשפח'",
+   "ts": 1791961358000,
+   "date": "2026-10-14",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC3FE3EAA8C3B76C74CEDE0338F8867E",
+   "sender": "חוה מאיר",
+   "text": "",
+   "ts": 1791966430000,
+   "date": "2026-10-14",
+   "time": "11:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Gt0UlaeIYF-XSjFBbjO0tR1eD-AFy9jU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gt0UlaeIYF-XSjFBbjO0tR1eD-AFy9jU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC6676E042B21C6CEDFB26684D369BB3",
+   "sender": "חוה מאיר",
+   "text": "צילמתי רק גבעול של ריחן עם כמה עלים.",
+   "ts": 1791966464000,
+   "date": "2026-10-14",
+   "time": "11:27",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "ACCB18BA6704AFBA06CA58433AD0FC66",
+   "sender": "חוה מאיר",
+   "text": "צלמו",
+   "ts": 1791966540000,
+   "date": "2026-10-14",
+   "time": "11:29",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "ACA8FB17AF4CA1683ECE223C721A2223",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "צלמו תעציץ או העץ",
+   "ts": 1791967755000,
+   "date": "2026-10-14",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "ACADF46C7900A64ADA8F1ED301CC8D36",
+   "sender": "חוה מאיר",
+   "text": "צילמת גבעול עם עלים. שאר הגבעולים נבלו והשחירו. הם היו בתוך שקית ניילון מספר ימים.",
+   "ts": 1791969163000,
+   "date": "2026-10-14",
+   "time": "12:12",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "ACFFBBE8F03DE33930493847D12CB99C",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "אם תסתכלו השורש מתחיל מעץ קשה מאוד לכן אמרנו תצלמו את העץ עם הגזע",
+   "ts": 1791969816000,
+   "date": "2026-10-14",
+   "time": "12:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "ACDB96AFD4D8219F9C480263A13166A6",
+   "sender": "Moshe Itshak Amar",
+   "text": "בזיליקום רגיל או תימני? נראה רגיל לא?",
+   "ts": 1791969973000,
+   "date": "2026-10-14",
+   "time": "12:26",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC6DCAA8509BBD83881EA02A5DF1924F",
+   "sender": "חוה מאיר",
+   "text": "אין לנו עץ. זה ריחן מרשת שיווק.",
+   "ts": 1791969977000,
+   "date": "2026-10-14",
+   "time": "12:26",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC3E5067C536D4A26A59DFE8B950C284",
+   "sender": "חוה מאיר",
+   "text": "לא מכירה סוגים של ריחן. לקחנו שקית מרשת שיווק.",
+   "ts": 1791970023000,
+   "date": "2026-10-14",
+   "time": "12:27",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC72A07AE632631AB4185E96E401F5EE",
+   "sender": "Moshe Itshak Amar",
+   "text": "זה עשבי אם זה בזיליקום רגיל שנאכל וכל מריחים אותו",
+   "ts": 1791970027000,
+   "date": "2026-10-14",
+   "time": "12:27",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC563DD82F5FDBAD16DF57DB4120458C",
+   "sender": "חוה מאיר",
+   "text": "אנחנו משתמשים בו לשם ריח. \nאולי אפשר לאכול אותו.\nאנסה לברר.\nתודה רבה הרב .",
+   "ts": 1791970126000,
+   "date": "2026-10-14",
+   "time": "12:28",
+   "files": [],
+   "drive": null,
+   "phone": "972506243544"
+  },
+  {
+   "id": "AC4D1A03A7ACF4726449A06B88990A2C",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "כמעט כל הריחן היום הוא עצי תבדקו תראו שהגזע קשה",
+   "ts": 1791970578000,
+   "date": "2026-10-14",
+   "time": "12:36",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }

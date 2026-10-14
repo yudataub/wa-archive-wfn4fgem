@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-13T17:39:36.180Z",
+ "updated": "2026-10-14T09:01:58.684Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1201,6 +1201,26 @@
    "files": [],
    "drive": null,
    "phone": "972523974498"
+  },
+  {
+   "id": "AC028C6D30EED321150FF215A3508A8E",
+   "sender": "Sgula💜",
+   "text": "למסירה בגודל כף יד",
+   "ts": 1791968511000,
+   "date": "2026-10-14",
+   "time": "12:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "555KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WHo3e8OmNTo89U6iXRVqRZ5eyTPEuLDD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WHo3e8OmNTo89U6iXRVqRZ5eyTPEuLDD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526288201"
   }
  ]
 }

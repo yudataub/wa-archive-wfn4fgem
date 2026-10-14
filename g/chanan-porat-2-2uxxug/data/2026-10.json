@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרב חנן פורת",
- "updated": "2026-10-13T19:32:13.420Z",
+ "updated": "2026-10-14T09:07:58.746Z",
  "messages": [
   {
    "id": "A5DB30747D847D07E37EB86F425BE569",
@@ -702,6 +702,45 @@
    "files": [],
    "drive": null,
    "phone": "972545468763"
+  },
+  {
+   "id": "AC1B6BB81FC1B51FA7A2D5C496672B72",
+   "sender": "אדיר",
+   "text": "",
+   "ts": 1791968858000,
+   "date": "2026-10-14",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PZLa8pYX_0uHyhC8BiuxHIkSgr0Xf5bE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PZLa8pYX_0uHyhC8BiuxHIkSgr0Xf5bE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525858660"
+  },
+  {
+   "id": "ACE48BBBD102BA7ECB60BCA2315B6F99",
+   "sender": "אדיר",
+   "text": "",
+   "ts": 1791968861000,
+   "date": "2026-10-14",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "אלבום אורו של עולם 3 (דוגמית).pdf",
+     "size": "17.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KzjgwZPeoHPUXh7XAB3ugCyUcbNWGHVZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525858660"
   }
  ]
 }

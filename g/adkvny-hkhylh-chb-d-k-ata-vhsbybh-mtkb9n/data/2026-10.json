@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עדכוני הקהילה – חב\"ד ק. אתא והסביבה",
- "updated": "2026-10-12T19:09:49.309Z",
+ "updated": "2026-10-14T08:47:22.053Z",
  "messages": [
   {
    "id": "AC8F7D0BF842DE74720C61F52CB5703F",
@@ -244,6 +244,57 @@
    "date": "2026-10-12",
    "time": "22:09",
    "files": [],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "AC490A0830F622D76C3BA7993A55EA81",
+   "sender": "Yosi Mor",
+   "text": "📣  _תזכורת:_  *היום*❕,\n _ובכל_ יום *רביעי*,\nמשעה *18:45* עד *19:15* :\n\n🌟 סדר *'טועמיה'* 🌟\n\n*סדר לימוד השבועי*\nעם *התלמידים השלוחים*\nשל ישיבת *תומכי תמימים* \nקרית אתא: 🤩\n\n _לימוד חוויתי עם_\n _תלמידי כיתות ד'-ח' (בנים)_\n\nבבית כנסת חב\"ד\n_(חנקין 20, קרית אתא)_\n\n*הורים יקרים* של ילדי אנ\"ש: מוזמנים/מתבקשים לשלוח את בניכם להשתתף בסדר הלימוד הערב! 🙏\n\n*מחכים לכל אחד ואחד!* 😊\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1791967558000,
+   "date": "2026-10-14",
+   "time": "11:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "74KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MKvByzwJ06rPiT2nwzjSnJi-LvYj1TeC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MKvByzwJ06rPiT2nwzjSnJi-LvYj1TeC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "ACE9F588ACF3C5759B179F2608B525AF",
+   "sender": "Yosi Mor",
+   "text": "_וגם …_",
+   "ts": 1791967606000,
+   "date": "2026-10-14",
+   "time": "11:46",
+   "files": [],
+   "drive": null,
+   "phone": "972545707911"
+  },
+  {
+   "id": "ACAB6EE78F37BE520EC429D4AF5DCDC8",
+   "sender": "Yosi Mor",
+   "text": "📣  _תזכורת:_  באופן *חד-פעמי*,\nנקיים *_היום_* (יום *רביעי*‼️) בשעה *21:00* 🕘 את:\n\n                   סדר\n🌟 *'חברותות עם אנ\"ש'* 🌟\n _לימוד מעמיק ומהנה של שיחת קודש של הרבי!_\n\n _(שנדחה השבוע בגלל ההתוועדות של *ח\"י אלול*)_\n\nבמקום הזמן הרגיל: בימי *שני*\n\n*מחכים לכם*‼️\n\nבקומה הראשית של\nבית כנסת חב\"ד \n_(חנקין 20, קרית אתא)_\n\n _כיבוד קל בשפע!_ 🤩\n\n*בואו כולכם!* 🙏\n\n‏---\n*עדכוני הקהילה* - קהילת חב\"ד קרית אתא\n\n_*להצטרפות:*_",
+   "ts": 1791967619000,
+   "date": "2026-10-14",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "154KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yaKft3sXl3k8CuDUYt8VG3mDfJmPhQP7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yaKft3sXl3k8CuDUYt8VG3mDfJmPhQP7&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545707911"
   }

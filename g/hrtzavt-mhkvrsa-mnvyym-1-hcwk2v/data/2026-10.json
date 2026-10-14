@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-10-13T14:56:42.844Z",
+ "updated": "2026-10-14T08:44:22.031Z",
  "messages": [
   {
    "id": "3EB0C2395372C4C50CC48F",
@@ -179,6 +179,26 @@
      "path": "https://drive.google.com/file/d/1eQ6_JbICUmhbgV7p_4Yx4dG4K_Y0lk1L/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1eQ6_JbICUmhbgV7p_4Yx4dG4K_Y0lk1L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB07E21C8D1DC90739FDE",
+   "sender": "הרצאות מהכורסא",
+   "text": "שלום לכולן ולכולם 🌿\nבעקבות הביקוש לסדנת *סיפור חיים עם חיה מילא*, פתחנו *קבוצה נוספת ונותרו מספר מקומות אחרונים*.\n\nהסדנה כוללת 8 מפגשי זום, ומאפשרת לכל אחד ואחת להתחיל לכתוב את סיפור החיים האישי שלו, גם ללא ניסיון קודם.\n\n*מתחילים ביום רביעי הבא, 21.10, בשעה 17:00.*\n\n⚡למנויים שלנו יש מחיר מיוחד.⚡\n\n*רוצים להכיר את חיה ואת הדרך שבה היא מנחה את הסדנה?*\nמוזמנים לצפות במפגש ההיכרות שקיימנו איתה, ולהחליט אם הסדנה מתאימה לכם.\n\n👈🏼 *לצפייה במפגש ההיכרות ולהרשמה*: https://bit.ly/4s1NRMu",
+   "ts": 1791967446000,
+   "date": "2026-10-14",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1J12uhdAQl8wH5SPLkT4JIM2bVpkY_V1x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1J12uhdAQl8wH5SPLkT4JIM2bVpkY_V1x&sz=w1200"
     }
    ],
    "drive": null,

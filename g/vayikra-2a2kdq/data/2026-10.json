@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-13T19:43:43.560Z",
+ "updated": "2026-10-14T09:36:59.111Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -3885,6 +3885,69 @@
    "files": [],
    "drive": null,
    "phone": "972546656883"
+  },
+  {
+   "id": "ACC738F5E9D38657F50FADB3A5D880A1",
+   "sender": "ליאת שלמה",
+   "text": "צריכה דף ת.ז כללי לקרבנות 🙏",
+   "ts": 1791965248000,
+   "date": "2026-10-14",
+   "time": "11:07",
+   "files": [],
+   "drive": null,
+   "phone": "972506400384"
+  },
+  {
+   "id": "3AC16FC99B18DD625355",
+   "sender": "תהל 🌼",
+   "text": "אשמח גם",
+   "ts": 1791967787000,
+   "date": "2026-10-14",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972525012240"
+  },
+  {
+   "id": "AC51CAA1907FE9163A4D95A638BDF62D",
+   "sender": "חיוש🐻",
+   "text": "",
+   "ts": 1791967847000,
+   "date": "2026-10-14",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "Simple Border Classic Frame Stationery Botanical Paper A4 Document_20240911_194535_0000.pdf",
+     "size": "322KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11WUjxsGxS3_oMYyCbDFaehT6iYYgW886/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522220820"
+  },
+  {
+   "id": "AC0E2790C1B4508A879D3E0900D14937",
+   "sender": "חיוש🐻",
+   "text": "☝️",
+   "ts": 1791967850000,
+   "date": "2026-10-14",
+   "time": "11:50",
+   "files": [],
+   "drive": null,
+   "phone": "972522220820"
+  },
+  {
+   "id": "ACF5B44D70061D146EC83B8659FDB4B6",
+   "sender": "מיכל😇",
+   "text": "אשמח לעזרה\nבחוברת עבודה בתורה דילגו על פרקים ו- ז ומיד אחרי הקורבנות עוברים לחנוכת המשכן. השאם אם לעבוד לפי הספר או כן ללמד את פרשת צו ולפרט על דרגות הקדושה של הקורבנות?",
+   "ts": 1791970610000,
+   "date": "2026-10-14",
+   "time": "12:36",
+   "files": [],
+   "drive": null,
+   "phone": "972528987298"
   }
  ]
 }
