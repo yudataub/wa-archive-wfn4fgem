@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-14T12:14:28.975Z",
+ "updated": "2026-10-14T17:20:44.362Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -1976,6 +1976,26 @@
    ],
    "drive": null,
    "phone": "972587055508"
+  },
+  {
+   "id": "3A7CB3898819D839650D",
+   "sender": "אזמרה ברוך",
+   "text": "לימוד בחברותות תפילה בציבור",
+   "ts": 1791998418000,
+   "date": "2026-10-14",
+   "time": "20:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "334KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DiTHeA700n_C1S3QiD66E8y7vdzvpQ1K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DiTHeA700n_C1S3QiD66E8y7vdzvpQ1K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535945937"
   }
  ]
 }

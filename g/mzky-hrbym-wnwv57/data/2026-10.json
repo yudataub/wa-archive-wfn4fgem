@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-14T12:59:59.724Z",
+ "updated": "2026-10-14T16:55:37.366Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -3100,6 +3100,57 @@
    "files": [],
    "drive": null,
    "phone": "972542402031"
+  },
+  {
+   "id": "3EB06BCB3FFB0FF6008EBC",
+   "sender": "רועי כהן",
+   "text": "אם כבר עושים הכל היום בבינה מלאכותית אז למה שלא ניצור לעצמנו פונט אישי שלנו רשום פרטי. \nכמובן גם את זה אפשר לעשות בקלות דרך קלוד",
+   "ts": 1791996879000,
+   "date": "2026-10-14",
+   "time": "19:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19CLcdbpblk0yeEF7NTP_suioedjJ99OO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19CLcdbpblk0yeEF7NTP_suioedjJ99OO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3EB0681CE9E10218010BAE",
+   "sender": "רועי כהן",
+   "text": "מוכן להתקנה",
+   "ts": 1791996889000,
+   "date": "2026-10-14",
+   "time": "19:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "31KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-5CI6vaLmImgpLviiFsluWvk2AQS8m5e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-5CI6vaLmImgpLviiFsluWvk2AQS8m5e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3EB0B39CC0DF910B7C954F",
+   "sender": "רועי כהן",
+   "text": "כמובן שאפשר לשחק עם העיצוב והדוגמאות עד שיוצא משהו שבאמת אוהבים ואז מבקשים ממנו ליצור את כל האותיות וכל מה שצריך כדי שהפונט יעבוד גם בשיעורים שלנו וגם רשום באופן כללי",
+   "ts": 1791996940000,
+   "date": "2026-10-14",
+   "time": "19:55",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
   }
  ]
 }

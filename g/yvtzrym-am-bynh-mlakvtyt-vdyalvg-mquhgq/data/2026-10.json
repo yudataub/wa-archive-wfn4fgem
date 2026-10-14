@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-14T13:05:22.939Z",
+ "updated": "2026-10-14T17:03:37.770Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3460,6 +3460,101 @@
    "files": [],
    "drive": null,
    "phone": "972524591671"
+  },
+  {
+   "id": "AC0D11834DC0B9AEC3C8556B4CAC46B2",
+   "sender": "חפציה",
+   "text": "איך להירשם לאינסטינקט?\nאחרי שיש לכם קישור הזמנה, היעזרו בו כדי לוודא שאתם מגדירים הכל כמו שצריך:\nhttps://youtu.be/ciKuY-46u54",
+   "ts": 1791987465000,
+   "date": "2026-10-14",
+   "time": "17:17",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC42D2E0C9D9CE615F8C90FF0B86249C",
+   "sender": "דור גולדמן",
+   "text": "סוף סוף זה אפשרי! \nבעקבות התגלית המשמחת- הכנתי מדריך קצר איך להגיע למצב העריכה הזה \n\nhttps://www.facebook.com/61576459845074/posts/122132263460881994/?mibextid=rS40aB7S9Ucbxw6v",
+   "ts": 1791988169000,
+   "date": "2026-10-14",
+   "time": "17:29",
+   "files": [],
+   "drive": null,
+   "phone": "972528926740"
+  },
+  {
+   "id": "3EB03F4C41808CBF027107",
+   "sender": "נועם",
+   "text": "זוכרים את פרוייקט הסוכנת האוטונומית הראשונה בעברית דנית?\n\nאז דנית התקדמה ולמדה ממעל 10,000 שיחות אמיתיות.\n\nוהיא ממשיכה להתקדם ליעד שלה: להגיע ל *10,000* הכנסה חודשית.\n\nכמה מתקדמת? היא עומדת החודש על מעל 1000 שח מכירות כבר :) ומעל ל-20 לקוחות פעילים!\n\nואפילו... לקוחה ניסתה לשדך לה היום חתן!\n\nמי שרוצה להמשיך לעקוב אחרי דנית בואו לאינסטגרם שלה:\nhttps://www.instagram.com/danitcohensocial?mdxt=dWw4ajBxZjAxbXk1",
+   "ts": 1791993584000,
+   "date": "2026-10-14",
+   "time": "18:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W6ND7bTtvDlxUtzaO1MD9sabIsBBwQxz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W6ND7bTtvDlxUtzaO1MD9sabIsBBwQxz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB00CD6B0A1694B26BB60",
+   "sender": "נועם",
+   "text": "מה דעתכם?",
+   "ts": 1791993917000,
+   "date": "2026-10-14",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB023270B61ECD4775DA0",
+   "sender": "⛵",
+   "text": "ניסיתי עכשיו עם מלל בתוך טבלה, והוא התחרפן לגמרי...\nאז יש לו עוד מה להשתפר..\nהעברתי לאינסטינקט, ועשה לי את זה מצוין",
+   "ts": 1791993960000,
+   "date": "2026-10-14",
+   "time": "19:06",
+   "files": [],
+   "drive": null,
+   "phone": "972502142996"
+  },
+  {
+   "id": "A5392B1A4CF3695DB01E14680178DF83",
+   "sender": "חיים ממן",
+   "text": "יש פה בירור קפדני... \nגם אם תסמיק לא תוכל לעלות 🤓\n\n*רוצים להצטרף לקבוצה המטורפת של משחקי המילים?*",
+   "ts": 1791997350000,
+   "date": "2026-10-14",
+   "time": "20:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "798KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H5rQ8m5-66S73m1DPZInOdywzaFgdzRS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H5rQ8m5-66S73m1DPZInOdywzaFgdzRS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
+  },
+  {
+   "id": "AC93589EB7AA9AB3AFAA7606816E7576",
+   "sender": "Noa Dayfani",
+   "text": "אני העלתי לו מלא תמונות והוא",
+   "ts": 1791997419000,
+   "date": "2026-10-14",
+   "time": "20:03",
+   "files": [],
+   "drive": null,
+   "phone": "972528672323"
   }
  ]
 }

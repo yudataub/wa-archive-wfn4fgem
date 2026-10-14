@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-14T13:26:23.266Z",
+ "updated": "2026-10-14T15:04:01.751Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -3443,6 +3443,246 @@
    "files": [],
    "drive": null,
    "phone": "972526673667"
+  },
+  {
+   "id": "3A73F75B9FD35BB77C1B",
+   "sender": "Amikam Peled",
+   "text": "גם באייפון? או רק באנדרואיד",
+   "ts": 1791986311000,
+   "date": "2026-10-14",
+   "time": "16:58",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
+  },
+  {
+   "id": "3A676C8AC0E2A913FA60",
+   "sender": "Amikam Peled",
+   "text": "שאלתי בעברית באייפון \nהנה התשובה \nלא, אני לא יכול לבצע פעולות ישירות בתוך הטלפון או המכשיר שלך.\nאני כן יכול לעזור לך במגוון דרכים אחרות:\n * לכתוב ולהסביר קוד, נוסחאות ותסריטים (כמו סקריפטים לפייתון).\n * לעזור בארגון נתונים, כתיבת מסמכים וטבלאות.\n * לספק הנחיות שלב-אחר-שלב לביצוע פעולות והגדרות במכשירים או בתוכנות שונות.\n * לענות על שאלות במגוון תחומים.\nבמה תרצה שאעזור לך?",
+   "ts": 1791986383000,
+   "date": "2026-10-14",
+   "time": "16:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
+  },
+  {
+   "id": "3AE8F9AE38386A4F683C",
+   "sender": "Amikam Peled",
+   "text": "חינמי",
+   "ts": 1791986394000,
+   "date": "2026-10-14",
+   "time": "16:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
+  },
+  {
+   "id": "A53657DA54C97080F95536704E7F6DE6",
+   "sender": "Liat Klein",
+   "text": "אולי כי באייפון יש את סירי?",
+   "ts": 1791986812000,
+   "date": "2026-10-14",
+   "time": "17:06",
+   "files": [],
+   "drive": null,
+   "phone": "972549736111"
+  },
+  {
+   "id": "3A604DF9AEB31310A7C6",
+   "sender": "Amikam Peled",
+   "text": "אני חושב שזה כי מערכת ההפעלה של אייפון לא פתוחה.",
+   "ts": 1791987325000,
+   "date": "2026-10-14",
+   "time": "17:15",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
+  },
+  {
+   "id": "3A3C6E8387B3AB728244",
+   "sender": "Amikam Peled",
+   "text": "ואנדרואיד זה של גוגל",
+   "ts": 1791987409000,
+   "date": "2026-10-14",
+   "time": "17:16",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
+  },
+  {
+   "id": "AC111FF92FB57BBC8CDCDA8206B4D989",
+   "sender": "‏‮ᕄ‮N‮ᘃ‮ ‮Ꭾ‮I‮ᘃ‮|",
+   "text": "סירי זה לאייפון, ומה המקבילה לאנדרואיד?",
+   "ts": 1791987676000,
+   "date": "2026-10-14",
+   "time": "17:21",
+   "files": [],
+   "drive": null,
+   "phone": "972528566217"
+  },
+  {
+   "id": "A5CD7388F3BE8D05F94CF01D8D445C52",
+   "sender": "Liat Klein",
+   "text": "אין לה שם. \nGoogle assistant  \nאו שאפשר להגדיר את ג'מיני או כל עוזר אחר.",
+   "ts": 1791987862000,
+   "date": "2026-10-14",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "phone": "972549736111"
+  },
+  {
+   "id": "A5290EE3225A2F6258E38C29B345AC22",
+   "sender": "Liat Klein",
+   "text": "פשוט אומרים היי גוגל והוא עונה לך.צ",
+   "ts": 1791987886000,
+   "date": "2026-10-14",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "phone": "972549736111"
+  },
+  {
+   "id": "2ABADFC41FD7AA570DD7",
+   "sender": "972 Education Inc. Orly",
+   "text": "קיבלתם כבר גישה ל Argon של ג׳מיני???",
+   "ts": 1791988162000,
+   "date": "2026-10-14",
+   "time": "17:29",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Rp58x256k4kR1oiXgQPBsZgnEbXd1Yt6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Rp58x256k4kR1oiXgQPBsZgnEbXd1Yt6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A0CC45BFBE821B3F882",
+   "sender": "972 Education Inc. Orly",
+   "text": "מטורף (אם כי השתבשה לו קצת העברית)",
+   "ts": 1791988182000,
+   "date": "2026-10-14",
+   "time": "17:29",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3A28FFF94DD4B081F4DB",
+   "sender": "Evyatar Shpilman",
+   "text": "כן",
+   "ts": 1791988194000,
+   "date": "2026-10-14",
+   "time": "17:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "2A2502C5938594EB29D9",
+   "sender": "972 Education Inc. Orly",
+   "text": "מה כבר יצרת איתו?",
+   "ts": 1791988283000,
+   "date": "2026-10-14",
+   "time": "17:31",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3AA5A32F61AA09143367",
+   "sender": "Evyatar Shpilman",
+   "text": "טרם יצרתי.. אני לא רץ לכל כלי חדש לנסות וליצור, כשאני צריך אני יוצר, הכלי פחות משנה",
+   "ts": 1791988426000,
+   "date": "2026-10-14",
+   "time": "17:33",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "2A9377EC2ED5B97A6A9A",
+   "sender": "972 Education Inc. Orly",
+   "text": "אני רצה",
+   "ts": 1791988519000,
+   "date": "2026-10-14",
+   "time": "17:35",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A2C03708A36446FBD1F",
+   "sender": "972 Education Inc. Orly",
+   "text": "גם ל Odessy רצתי .. 😂",
+   "ts": 1791988544000,
+   "date": "2026-10-14",
+   "time": "17:35",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3AF0E36204341C6FA481",
+   "sender": "Evyatar Shpilman",
+   "text": "כרגע מיוז מספק מה שאני רוצה",
+   "ts": 1791988598000,
+   "date": "2026-10-14",
+   "time": "17:36",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "2AE4F7E5C0E79611D35F",
+   "sender": "972 Education Inc. Orly",
+   "text": "גם שם אני רצה 😜",
+   "ts": 1791988658000,
+   "date": "2026-10-14",
+   "time": "17:37",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3A420F68569476B2D99F",
+   "sender": "אביטל בוקובזה",
+   "text": "כך כתב לי גם",
+   "ts": 1791989203000,
+   "date": "2026-10-14",
+   "time": "17:46",
+   "files": [],
+   "drive": null,
+   "phone": "972523423429"
+  },
+  {
+   "id": "3A35461A28D0E571C54C",
+   "sender": "אביטל בוקובזה",
+   "text": "באייפון",
+   "ts": 1791989204000,
+   "date": "2026-10-14",
+   "time": "17:46",
+   "files": [],
+   "drive": null,
+   "phone": "972523423429"
+  },
+  {
+   "id": "2A509B1E44ED90A85FA9",
+   "sender": "972 Education Inc. Orly",
+   "text": "https://lnkd.in/p/gmJ_5U-Z\n\nPriceless 😂😂😂",
+   "ts": 1791990222000,
+   "date": "2026-10-14",
+   "time": "18:03",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-14T13:15:36.823Z",
+ "updated": "2026-10-14T17:23:44.429Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -4147,7 +4147,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1JgaJQeGSm9qHfpHW3us7Ja8go5KTUZep/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1JgaJQeGSm9qHfpHW3us7Ja8go5KTUZep&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1JgaJQeGSm9qHfpHW3us7Ja8go5KTUZep&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylata-h5w7bk/v/2026-10/AC81EDCE1D4AE91FF4F29333C6C90186_0.mp4"
     }
    ],
    "drive": null,
@@ -4247,6 +4248,68 @@
    "files": [],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "ACAD745107B03A3CA3E1399C9AAE155E",
+   "sender": "שרח ביבאס",
+   "text": "נשים יקרות 🌸\nקורס *טיפול עצמי/self care* עבור משרתות ונשות המשרתים יוצא לדרך!\nזה הזמן להעניק לעצמכן זמן אישי, כלים לויסות מערכת העצבים, תמיכה קבוצתית ומרחב שכולו שקט וגוף-נפש. 🩷\n​📅 מתי? ימי שלישי החל מה-20.10 | 19:00-21:00 (8 מפגשים)\n📍 איפה? סטודיו מתנ\"ס הפלמח 11 (קומה למטה, יש חניון צמוד)\n💰 עלות: 50 ₪ בלבד לכל הסדנה!\n​שימו לב: הקבוצה קטנה ואינטימית💞\n⚠️*נותרו מקומות אחרונים*\n📎להרשמה:\nhttps://www.hugim.org.il/HugimWeb.dll/4z0PD7oS2gvVK7jhRbOXjgXmQNi/?FromMatnasSite=1&KodMatnas=470&HugIndexNo=2450&HugSerialNo=0&KvutsaNo=1",
+   "ts": 1791985557000,
+   "date": "2026-10-14",
+   "time": "16:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OiDWUW3OgJxoNFSPvvdbmr24m7ZjkIhC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OiDWUW3OgJxoNFSPvvdbmr24m7ZjkIhC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549009366"
+  },
+  {
+   "id": "AC9E4BF3F306037EA7C12ADC54CDFFF7",
+   "sender": "שרון😄",
+   "text": "השבת מתקרבת...\nמשפחה גדולה מבקשת מכל ה-❤️ *סיוע בסל מזון* עבור השבת והילדים בכלל והתינוקות שלה בפרט. \n\n*עושים טוב והוא חוזר אליכם!!*\n*עושים חסדים ומתמלאים שמחה😁!*\n*מקיימים מצווה - משמחים אחרים ומחזקים את עמ'י.*\n\nמי שיכול.. מה שאפשר..ושיהיה לישועה בכל המצטרך!\n\nלתיאום, שרון 052-2828512 \n\n🌹ברוכים תהיו🌹",
+   "ts": 1791993313000,
+   "date": "2026-10-14",
+   "time": "18:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KZmPAKLIuVjb_iOCfNS9YU2hjbwIKvRg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KZmPAKLIuVjb_iOCfNS9YU2hjbwIKvRg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC8817C0FE8B614B63D005BCBFC993CF",
+   "sender": "נורית",
+   "text": "למסירה הכל בחינם לבית חפצים ריהוט ועוד להצטרפות כאן",
+   "ts": 1791995942000,
+   "date": "2026-10-14",
+   "time": "19:39",
+   "files": [],
+   "drive": null,
+   "phone": "972527525529"
+  },
+  {
+   "id": "ACF3978C51222B05F4BCC2212FF6B75F",
+   "sender": "דיקלה (עורכת דין)",
+   "text": "למסירה הכל בחינם לבית חפצים ריהוט ועוד להצטרפות כאן",
+   "ts": 1791998626000,
+   "date": "2026-10-14",
+   "time": "20:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527524890"
   }
  ]
 }

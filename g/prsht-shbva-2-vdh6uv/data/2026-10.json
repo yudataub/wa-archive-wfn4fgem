@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-14T09:50:06.291Z",
+ "updated": "2026-10-14T14:26:14.922Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -2726,6 +2726,104 @@
    ],
    "drive": null,
    "phone": "972528308252"
+  },
+  {
+   "id": "AC9C6EE54D572588ED63C6E4A4125C43",
+   "sender": "אפי",
+   "text": "https://drive.google.com/file/d/1SLyTsDH2T6FTjsmtsR_G10z6wJvUh-aw/view?usp=drivesdk",
+   "ts": 1791987856000,
+   "date": "2026-10-14",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC234D9B687E6C6677DA8869370BAE20",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1791987858000,
+   "date": "2026-10-14",
+   "time": "17:24",
+   "files": [
+    {
+     "name": "מחיר השקר שמביא מבול.pptx",
+     "size": "12.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/16oh6JEEpfOVKOKTWGHOMVyPYEH5mVIdw/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACFE4D221615D7DBA532813A8F60FCB5",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1791987874000,
+   "date": "2026-10-14",
+   "time": "17:24",
+   "files": [
+    {
+     "name": "שקר ופחתא פרשה ובדיחה.docx",
+     "size": "16KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/13wRTbObVb2EeSjoU39spadZwvyte2oXg/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACE2F1C0AE88475858D2D335A070EAD7",
+   "sender": "אפי",
+   "text": "https://drive.google.com/file/d/1JMaLMDEMANLxTLuqmbDyFJ3Lpu5nPCDD/view?usp=drivesdk\nיונה עם עלה זית סמל לבגרות",
+   "ts": 1791987924000,
+   "date": "2026-10-14",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC886331D465CDC7684D9B995074457C",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1791987955000,
+   "date": "2026-10-14",
+   "time": "17:25",
+   "files": [
+    {
+     "name": "יונה סמל הבגרות.pptx",
+     "size": "11.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Xza9GDqHJGgrXxEWTXtApJWOsXZzHY2P/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC1A7C39BD321B48579B1DE8FAA5CCFF",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1791987969000,
+   "date": "2026-10-14",
+   "time": "17:26",
+   "files": [
+    {
+     "name": "פרשה ובדיחה התבגרות.docx",
+     "size": "15KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1b-vNDKMinidYWgK45c6GIDPHAT0Q2q_i/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
   }
  ]
 }

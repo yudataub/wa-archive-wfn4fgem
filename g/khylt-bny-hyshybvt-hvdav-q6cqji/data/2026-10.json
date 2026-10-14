@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-14T12:41:59.443Z",
+ "updated": "2026-10-14T16:29:36.991Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -3960,6 +3960,59 @@
    "ts": 1791981705000,
    "date": "2026-10-14",
    "time": "15:41",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "AC975326FAA0454C9B95D883EDE729A0",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1791988901000,
+   "date": "2026-10-14",
+   "time": "17:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "606KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DxFACDzgLOeXYym2-xrn5kXv9xrib8VC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DxFACDzgLOeXYym2-xrn5kXv9xrib8VC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "A5898FE86C03BEEE14F58FBF2BA10CE0",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "איפה יש שווארמה טעימה בקריה/אזור",
+   "ts": 1791994686000,
+   "date": "2026-10-14",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "A5138F05465C0B66F7F49861278874F7",
+   "sender": "מוישי ולדמן",
+   "text": "סמי",
+   "ts": 1791994905000,
+   "date": "2026-10-14",
+   "time": "19:21",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "AC854C3713137872989FC69B4601FA63",
+   "sender": "יצחק ומירי הסקין",
+   "text": "פותח את ידך/ סוף העצמאות",
+   "ts": 1791995353000,
+   "date": "2026-10-14",
+   "time": "19:29",
    "files": [],
    "drive": null,
    "phone": "972549689858"

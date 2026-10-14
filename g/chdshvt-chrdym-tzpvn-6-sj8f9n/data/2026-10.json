@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חרדים צפון - 6 📢",
- "updated": "2026-10-14T11:38:51.525Z",
+ "updated": "2026-10-14T15:07:22.428Z",
  "messages": [
   {
    "id": "A56435C4B5D54A46720DFCF71EF39E08",
@@ -2426,7 +2426,28 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1BnNCoi8QTcMqzY5roHTgKHM3bdUUYybs/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1BnNCoi8QTcMqzY5roHTgKHM3bdUUYybs&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1BnNCoi8QTcMqzY5roHTgKHM3bdUUYybs&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chdshvt-chrdym-tzpvn-6-sj8f9n/v/2026-10/A5C1FCD8FEADB71819981A31CBA76CCF_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972506064441"
+  },
+  {
+   "id": "A5567FE4CF660BDB4C35D1F3B15FC6A7",
+   "sender": "י",
+   "text": "*אושרה להפקדה תוכנית אזור התעשייה המשותף כברי, שנועדה לחזק את הכלכלה האזורית ולייצר מקומות תעסוקה בגליל המערבי*\nראש המועצה האזורית מטה אשר, משה דוידוביץ, בירך על ההחלטה ואמר כי מדובר במהלך אסטרטגי שהמועצה פועלת לקידומו כבר יותר מעשור. לדבריו, אזור התעשייה צפוי לספק עוגנים כלכליים משמעותיים לרשויות המקומיות וליישובי האזור. (הדמיות: אילן אייזן)\n\nלכל העדכונים👇",
+   "ts": 1791990421000,
+   "date": "2026-10-14",
+   "time": "18:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SSy1n9YYuILKF36ol6WkmCpvacZ5LaDY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SSy1n9YYuILKF36ol6WkmCpvacZ5LaDY&sz=w1200"
     }
    ],
    "drive": null,
