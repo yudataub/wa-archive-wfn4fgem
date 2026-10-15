@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-15T16:39:23.704Z",
+ "updated": "2026-10-15T19:49:24.573Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -955,6 +955,57 @@
    "files": [],
    "drive": null,
    "phone": "972546454441"
+  },
+  {
+   "id": "ACF4E75CBA55A2DB9DF2DD05016D7231",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1NTP9RERCgpDAWrwnJ0lPV7zgjT_PXbWF",
+   "ts": 1792086736000,
+   "date": "2026-10-15",
+   "time": "20:52",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "3EB0373674CF5CDF7128F0",
+   "sender": "אסף אלדר",
+   "text": "https://www.classe.world/go/19p74fb9np3opc7j\n\nקישור לקיצור שולחן ערוך החדש באופן מקוון - c376868",
+   "ts": 1792092914000,
+   "date": "2026-10-15",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "11KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ppJ92c0joxWuF0d6zcaKR0DSuUkDhTcf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ppJ92c0joxWuF0d6zcaKR0DSuUkDhTcf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "A5BBBCD79A594B37BD7C25BA35EF80F6",
+   "sender": "מתן - עולם של תוכן",
+   "text": "https://www.classe.world/go/19p74fb9np3opc7j\n\nקישור לקיצור שולחן ערוך החדש באופן מקוון - c376868",
+   "ts": 1792093749000,
+   "date": "2026-10-15",
+   "time": "22:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "11KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12Kbrm-9BSwKWpqoGsglIHx2grFCWncGO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12Kbrm-9BSwKWpqoGsglIHx2grFCWncGO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543979764"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-15T16:10:53.290Z",
+ "updated": "2026-10-15T20:54:37.514Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2798,6 +2798,46 @@
    ],
    "drive": null,
    "phone": "972559985850"
+  },
+  {
+   "id": "ACF462B3AEEC9133D71D7EF6AEB9F0E5",
+   "sender": "יאיר",
+   "text": "",
+   "ts": 1792097663000,
+   "date": "2026-10-15",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TaUmf0q7PeWOFufXzmsN0kQP3M_p4kmg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TaUmf0q7PeWOFufXzmsN0kQP3M_p4kmg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559521815"
+  },
+  {
+   "id": "AC43BBCA0D8488E2487D44B26DB09BE3",
+   "sender": "מוכר דברים",
+   "text": "",
+   "ts": 1792097675000,
+   "date": "2026-10-15",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "23KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1ofVgRpr75989mNYupK8AM67hDOOJc63p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ofVgRpr75989mNYupK8AM67hDOOJc63p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
   }
  ]
 }

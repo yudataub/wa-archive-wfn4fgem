@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-15T16:53:13.288Z",
+ "updated": "2026-10-15T17:51:50.903Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -1513,6 +1513,17 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "ACE251F13086951CE22C873C46B71AC6",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*#הפרומפט היומי*\nהדמות שלכם שופטת ב The Voice \nhttps://www.lomdot.org/dailyprompt",
+   "ts": 1792086711000,
+   "date": "2026-10-15",
+   "time": "20:51",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

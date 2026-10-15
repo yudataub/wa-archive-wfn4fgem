@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-15T17:33:31.725Z",
+ "updated": "2026-10-15T20:40:07.264Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -9597,6 +9597,128 @@
    ],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "AC79D67A7834022A4D36D689681C2A4D",
+   "sender": "פרסום נכון",
+   "text": "https://wa.me/972527635630",
+   "ts": 1792085932000,
+   "date": "2026-10-15",
+   "time": "20:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16ensz0BpQnjjz3X13V8NlSThIQV2Z0Ap/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16ensz0BpQnjjz3X13V8NlSThIQV2Z0Ap&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527090901"
+  },
+  {
+   "id": "2A08D9CB0CFF2B38B6D1",
+   "sender": "בר סליפק - המקום שלך שמדובר בכושר ותזונה",
+   "text": "אחרי החגים – חוזרים לשגרה! 🔥\n\nהחגים מאחורינו, החגים היו מלאים בארוחות, אירוחים ופינוקים 😅\nעכשיו זה הזמן לחזור לעצמנו ולשים את הבריאות והכושר במקום הראשון 💪\n\n🏋️ אימוני כוח בקבוצות אישיות קטנות\n🎯 תוכנית אימונים לפי המטרה והקצב שלך\n🥗 הכוונה תזונתית\n📏 מעקבים ומדידות\n🔥 ליווי אישי לאורך כל הדרך\n\nאל תחכה ל״מתי יהיה לי זמן״ — השגרה מתחילה עכשיו!\n\n📲 לפרטים מלאים ולאימון נסיון \n שלחו לי הודעה בפרטי\n*סטודיו כושר לגברים בלבד*\nבר סליפק | מאמן כושר ותזונה",
+   "ts": 1792086235000,
+   "date": "2026-10-15",
+   "time": "20:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CkKXdwdGetIER76Fp1DgYRHofanFxxRF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CkKXdwdGetIER76Fp1DgYRHofanFxxRF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547556711"
+  },
+  {
+   "id": "ACD962148177BC0333F54B1493FFA00D",
+   "sender": "צורית דמתי",
+   "text": "ערב טוב \nמחר זו שנה לפטירת אבי - יוסף לוי ז''ל.\nאנחנו מנסים לגייס מניין לשעה 10:00 בבוקר בבית העלמין ''ארץ החיים'' באעבלין לומר כמה פרקי תהילים קי''ט ואותיות נשמה (עניין של רבע שעה בבית העלמין).\nאם מישהו יכול להגיע ולעשות מצווה אמיתית לעילוי נשמתו אשמח לדעת בפרטי🙏🏻🙏🏻\nתודה מקרב לב!🙏🏻🙏🏻",
+   "ts": 1792087369000,
+   "date": "2026-10-15",
+   "time": "21:02",
+   "files": [],
+   "drive": null,
+   "phone": "972545583552"
+  },
+  {
+   "id": "ACE87AC392E3B54C550FBA6BA293B16C",
+   "sender": "ישראל",
+   "text": "",
+   "ts": 1792096660000,
+   "date": "2026-10-15",
+   "time": "23:37",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17Kzo8BVROKpuj0TStX5WXi4YOmA2RQ2_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17Kzo8BVROKpuj0TStX5WXi4YOmA2RQ2_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549917530"
+  },
+  {
+   "id": "AC9FACF67704026A978D174B2AED451F",
+   "sender": "ישראל",
+   "text": "",
+   "ts": 1792096712000,
+   "date": "2026-10-15",
+   "time": "23:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YRfgZVoor5OP5nfFNxXVWDOApcKyr-HB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YRfgZVoor5OP5nfFNxXVWDOApcKyr-HB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549917530"
+  },
+  {
+   "id": "ACE45029F313C0078C35E839A087577D",
+   "sender": "ישראל",
+   "text": "",
+   "ts": 1792096712000,
+   "date": "2026-10-15",
+   "time": "23:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "317KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1079ya2CFS2CCw8N6-k2Cf9UuNjQRgTVX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1079ya2CFS2CCw8N6-k2Cf9UuNjQRgTVX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549917530"
+  },
+  {
+   "id": "A5385515657C498D5F077A7987483210",
+   "sender": "אוהד אקספרס",
+   "text": "תצליח מלך🤎",
+   "ts": 1792096791000,
+   "date": "2026-10-15",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972543109788"
   }
  ]
 }

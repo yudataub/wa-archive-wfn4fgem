@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-15T15:20:14.923Z",
+ "updated": "2026-10-15T19:25:54.199Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -1112,6 +1112,70 @@
    "ts": 1792077610000,
    "date": "2026-10-15",
    "time": "18:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "3A6D07CA2A8474F66E02",
+   "sender": "הודיה ",
+   "text": "",
+   "ts": 1792092055000,
+   "date": "2026-10-15",
+   "time": "22:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EJCmukd9oqK7sUOc1vXEdZBei6C2_7ql/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EJCmukd9oqK7sUOc1vXEdZBei6C2_7ql&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528181082"
+  },
+  {
+   "id": "3AC365AAA95DD8D11BC5",
+   "sender": "הודיה ",
+   "text": "השבת אבידה",
+   "ts": 1792092057000,
+   "date": "2026-10-15",
+   "time": "22:20",
+   "files": [],
+   "drive": null,
+   "phone": "972528181082"
+  },
+  {
+   "id": "ACEC9CB0FEECD0299346915F1BBD0EB5",
+   "sender": "ויינר",
+   "text": "אפשר את זה לא קישור ליוטיוב...?🙏",
+   "ts": 1792092280000,
+   "date": "2026-10-15",
+   "time": "22:24",
+   "files": [],
+   "drive": null,
+   "phone": "972559137300"
+  },
+  {
+   "id": "AC50032106065ADA2E304529757D46F2",
+   "sender": "רויטל",
+   "text": "גם אני ישמח",
+   "ts": 1792092310000,
+   "date": "2026-10-15",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972586890080"
+  },
+  {
+   "id": "ACAF3458DBAEACD1593FE985AC2E8982",
+   "sender": "אלעד טאוב",
+   "text": "זה כבד מידי לווצאפ",
+   "ts": 1792092349000,
+   "date": "2026-10-15",
+   "time": "22:25",
    "files": [],
    "drive": null,
    "phone": "972546228770"

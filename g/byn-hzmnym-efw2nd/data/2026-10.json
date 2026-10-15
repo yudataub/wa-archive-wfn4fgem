@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-15T16:53:01.105Z",
+ "updated": "2026-10-15T19:34:24.346Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1528,7 +1528,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1z_8upfF1RLkyaDjXnPIzs_-_CwLeqyBv/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1z_8upfF1RLkyaDjXnPIzs_-_CwLeqyBv&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1z_8upfF1RLkyaDjXnPIzs_-_CwLeqyBv&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-10/ACC02511E013A2996C79BE0854483F3F_0.mp4"
     }
    ],
    "drive": null,
@@ -1588,11 +1589,43 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ywAbSwiN7QyYR6ICrgNMp3Hn9Z2Bi7gL/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ywAbSwiN7QyYR6ICrgNMp3Hn9Z2Bi7gL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ywAbSwiN7QyYR6ICrgNMp3Hn9Z2Bi7gL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-10/AC1ABDAD3F4460556D62D30EEDAF0D28_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972522830317"
+  },
+  {
+   "id": "AC0D815ED5AE678C1BFC1330DE44BB89",
+   "sender": "שמעון תורג'מן",
+   "text": "פנוי לסופ\"ש הקרוב מחיר מיוחד. \nאחוזת שי וילה חדשה ומפנקת 5 חדרי שינה.\n3 סלונים\nעד 25 איש\nבריכה ענקית מחוממת  ומוצנעת 8/4 עומק 150 🌊\nחצר ענקית עם פינות ישיבה נדנדה ערסל נדנדות ומגלשה לילדים.\nטרמפולינה ענקית, סנוקר, פינג פונג, סל זוגי הוקי אויר ועוד..  \nהוילה באור הגנוז מרחק הליכה מציון הרשב\"י .\n\nלהזמנות ופרטים \n058-4255156",
+   "ts": 1792092858000,
+   "date": "2026-10-15",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972584255156"
+  },
+  {
+   "id": "ACCF9D516CAE2429E4530310B28585E6",
+   "sender": "שמעון תורג'מן",
+   "text": "",
+   "ts": 1792092862000,
+   "date": "2026-10-15",
+   "time": "22:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "279KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fx7sYEaC_FPJ8QLD_P8DvRiKS1gJDCH-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fx7sYEaC_FPJ8QLD_P8DvRiKS1gJDCH-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584255156"
   }
  ]
 }

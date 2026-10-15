@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-15T17:37:08.913Z",
+ "updated": "2026-10-15T20:20:01.020Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -2920,6 +2920,98 @@
    "files": [],
    "drive": null,
    "phone": "972546865229"
+  },
+  {
+   "id": "ACBE51EFA2C18EE26DD567AB233D7716",
+   "sender": "דבורה גורין",
+   "text": "",
+   "ts": 1792086223000,
+   "date": "2026-10-15",
+   "time": "20:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/193LxB0k3yVy0NeAYljtiWvZavuD9Yk0R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=193LxB0k3yVy0NeAYljtiWvZavuD9Yk0R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586900209"
+  },
+  {
+   "id": "AC4ED7515A5D2922499EFB873B1D4D48",
+   "sender": "דבורה גורין",
+   "text": "הילדים יצרו.. קצת השראה",
+   "ts": 1792086225000,
+   "date": "2026-10-15",
+   "time": "20:43",
+   "files": [],
+   "drive": null,
+   "phone": "972586900209"
+  },
+  {
+   "id": "AC1ED837D06106ACB550F1F8347C9F44",
+   "sender": "דבורה גורין",
+   "text": "",
+   "ts": 1792086269000,
+   "date": "2026-10-15",
+   "time": "20:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1pyq8lKoo25B2u2SzY4omzURdIpDFZpqW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pyq8lKoo25B2u2SzY4omzURdIpDFZpqW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586900209"
+  },
+  {
+   "id": "3A18454AE498B061F52A",
+   "sender": "שרית",
+   "text": "מקסים!",
+   "ts": 1792086406000,
+   "date": "2026-10-15",
+   "time": "20:46",
+   "files": [],
+   "drive": null,
+   "phone": "972505695046"
+  },
+  {
+   "id": "3A88B0AB8F4F74B771B3",
+   "sender": "נועה בובליל💕",
+   "text": "היי למישהי יש דף פרשת שבוע?",
+   "ts": 1792089048000,
+   "date": "2026-10-15",
+   "time": "21:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528793979"
+  },
+  {
+   "id": "AC787D8446B67C7967FA5FB20A036219",
+   "sender": "סימונה חן",
+   "text": "",
+   "ts": 1792095573000,
+   "date": "2026-10-15",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "פרשת נח דפי עבודה מיכל ביטון 2023.pdf",
+     "size": "2.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1YL5lHcSa1X00ajp-SgnmXezRkiT8KuA9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546204854"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-15T17:34:01.681Z",
+ "updated": "2026-10-15T21:01:07.614Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -12516,6 +12516,80 @@
    "drive": null,
    "thread": "נריה",
    "phone": "972556641500"
+  },
+  {
+   "id": "A5A1691578F09210A45A3B198165B056",
+   "sender": "אני",
+   "text": "",
+   "ts": 1792086361000,
+   "date": "2026-10-15",
+   "time": "20:46",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "51KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1JK0rfekmjait1TcqziDrv7sPUVJmnGP_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3AD838B249A36CC8A5D6",
+   "sender": "נריה",
+   "text": "עדין לא",
+   "ts": 1792086655000,
+   "date": "2026-10-15",
+   "time": "20:50",
+   "files": [],
+   "drive": null,
+   "thread": "נריה",
+   "phone": "972556641500"
+  },
+  {
+   "id": "A5C350F1353DFCAF7BE9E837B648CB83",
+   "sender": "אני",
+   "text": "",
+   "ts": 1792088094000,
+   "date": "2026-10-15",
+   "time": "21:14",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "48KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Hqd-Vb0VIsi3GPAUJUJsiJIQVugbdLLC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFBBA19B047177714B62A131F6172B7",
+   "sender": "הילה שמר",
+   "text": "אפשר לרשום בסוף רב בית הספר? כי אני רוצה לרשום שזה דבר הרב",
+   "ts": 1792096643000,
+   "date": "2026-10-15",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC2DE849FE54D7852A34499250861666",
+   "sender": "הילה שמר",
+   "text": "אני צריכה בבקשה תמונה שלך לאתר",
+   "ts": 1792098055000,
+   "date": "2026-10-16",
+   "time": "00:00",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
   }
  ]
 }

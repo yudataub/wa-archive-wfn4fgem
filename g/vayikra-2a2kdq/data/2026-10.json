@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-15T13:25:21.909Z",
+ "updated": "2026-10-15T20:01:30.749Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -4922,6 +4922,39 @@
    "files": [],
    "drive": null,
    "phone": "972509605150"
+  },
+  {
+   "id": "3EB07181DDCD56B880276B",
+   "sender": "אביגיל כוכב",
+   "text": "אני מחפשת את השיר של שמות השופטים (שמע).",
+   "ts": 1792092359000,
+   "date": "2026-10-15",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972559408150"
+  },
+  {
+   "id": "AC6B4B7D98C1D4A17F7AD9A022E5081C",
+   "sender": "רחלי מנדלסון",
+   "text": "כדאי לצפות בסרטון הזה: \"שיר שמות השופטים\" https://share.google/ktARuKbcKzUCmIXy1",
+   "ts": 1792092510000,
+   "date": "2026-10-15",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "AC49664A6D777B43EEAA8AE65C3F04A9",
+   "sender": "חיוש🐻",
+   "text": "https://youtu.be/Vd0zH0KGivQ?si=UHfIAxt0L59FkZtR",
+   "ts": 1792094481000,
+   "date": "2026-10-15",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972522220820"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-15T17:33:31.677Z",
+ "updated": "2026-10-15T17:44:39.043Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -3250,7 +3250,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1DW9V72eN-U-u1iPg_S25qrG_7ShpN29f/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1DW9V72eN-U-u1iPg_S25qrG_7ShpN29f&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1DW9V72eN-U-u1iPg_S25qrG_7ShpN29f&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/ACF471463B03CC8D42557AAF899876D2_0.mp4"
     }
    ],
    "drive": null,
@@ -3335,6 +3336,26 @@
    ],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "2AEC802C4839EB50E9F2",
+   "sender": "בר סליפק - המקום שלך שמדובר בכושר ותזונה",
+   "text": "אחרי החגים – חוזרים לשגרה! 🔥\n\nהחגים מאחורינו, החגים היו מלאים בארוחות, אירוחים ופינוקים 😅\nעכשיו זה הזמן לחזור לעצמנו ולשים את הבריאות והכושר במקום הראשון 💪\n\n🏋️ אימוני כוח בקבוצות אישיות קטנות\n🎯 תוכנית אימונים לפי המטרה והקצב שלך\n🥗 הכוונה תזונתית\n📏 מעקבים ומדידות\n🔥 ליווי אישי לאורך כל הדרך\n\nאל תחכה ל״מתי יהיה לי זמן״ — השגרה מתחילה עכשיו!\n\n📲 לפרטים מלאים ולאימון נסיון \n שלחו לי הודעה בפרטי\n*סטודיו כושר לגברים בלבד*\nבר סליפק | מאמן כושר ותזונה",
+   "ts": 1792086251000,
+   "date": "2026-10-15",
+   "time": "20:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1crtsOOX03zGVDiOVGwXSLfv5FQcBlSIT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1crtsOOX03zGVDiOVGwXSLfv5FQcBlSIT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547556711"
   }
  ]
 }

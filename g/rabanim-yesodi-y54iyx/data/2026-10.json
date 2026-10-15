@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-15T16:12:53.346Z",
+ "updated": "2026-10-15T19:35:24.361Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -5649,6 +5649,97 @@
    "files": [],
    "drive": null,
    "phone": "972584158580"
+  },
+  {
+   "id": "AC27891C548A2EA63FEF14F6DA7AF9A3",
+   "sender": ".יוסי",
+   "text": "לימוד הורים וילדים לשבת לקראת ז בחשוון יום תחילת בקשת גשמים",
+   "ts": 1792088630000,
+   "date": "2026-10-15",
+   "time": "21:23",
+   "files": [
+    {
+     "name": "לימוד הורים וילדים לקראת ז חשוון.pdf",
+     "size": "576KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1LTDtBIQMaME0r6tzh_A-_wsd4MZuLHb5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524447391"
+  },
+  {
+   "id": "3EB065613413E06347BAC6",
+   "sender": "kipnis adi",
+   "text": "למישהו יש חברותות לפטירת רחל?",
+   "ts": 1792088717000,
+   "date": "2026-10-15",
+   "time": "21:25",
+   "files": [],
+   "drive": null,
+   "phone": "972526024650"
+  },
+  {
+   "id": "3EB0A81D51DE614535A826",
+   "sender": "kipnis adi",
+   "text": "",
+   "ts": 1792089716000,
+   "date": "2026-10-15",
+   "time": "21:41",
+   "files": [
+    {
+     "name": "חברותות רחל אימנו תשפז.docx",
+     "size": "77KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1UVGkotOOWf3A0K7WanlNspsfBig8ZeEa/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526024650"
+  },
+  {
+   "id": "3EB08E4892741CFB1998C2",
+   "sender": "kipnis adi",
+   "text": "חברותות לי\"א חשוון יום פטירת רחל עם קשר לחנן פורת",
+   "ts": 1792089735000,
+   "date": "2026-10-15",
+   "time": "21:42",
+   "files": [],
+   "drive": null,
+   "phone": "972526024650"
+  },
+  {
+   "id": "A5D92A2B2A1C0ABF825C8246ED15C55A",
+   "sender": "כשהלב מתרחב השינוי מתקרב",
+   "text": "מהמם \nאפשר את הקישור למצגת??\n\nאו הסבר איזה אתר זה וכו'",
+   "ts": 1792090560000,
+   "date": "2026-10-15",
+   "time": "21:56",
+   "files": [],
+   "drive": null,
+   "phone": "972505800809"
+  },
+  {
+   "id": "3EB04084D711D2195441CB",
+   "sender": "אסף אלדר",
+   "text": "https://www.classe.world/go/19p74fb9np3opc7j\n\nקישור לקיצור שולחן ערוך החדש באופן מקוון - c376868",
+   "ts": 1792092901000,
+   "date": "2026-10-15",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "11KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YfvR8qXAFxv-K8mjJea69Ktt6gFBOS7C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YfvR8qXAFxv-K8mjJea69Ktt6gFBOS7C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
   }
  ]
 }

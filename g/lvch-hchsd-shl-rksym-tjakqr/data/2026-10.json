@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-15T15:59:23.056Z",
+ "updated": "2026-10-15T20:41:37.269Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -6429,6 +6429,37 @@
    "files": [],
    "drive": null,
    "phone": "972538340340"
+  },
+  {
+   "id": "A535B513F48162AD3D1BC09C6F656830",
+   "sender": "אלחנן",
+   "text": "למסירה מנרקיסים 12.  במצב מעולה, הברגים נמצאים שם בשקית. הקודם זוכה, לא לפנות אלי, לקחת.",
+   "ts": 1792096603000,
+   "date": "2026-10-15",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wVUz_Zp9dzYTtruzFqc_jQ0dGwwDbB1L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wVUz_Zp9dzYTtruzFqc_jQ0dGwwDbB1L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548419909"
+  },
+  {
+   "id": "AC2F16BB4801AC1371EB9C86B3D7DF33",
+   "sender": "יוסי מוזס",
+   "text": "052-7177654 תבדקו איתם",
+   "ts": 1792096878000,
+   "date": "2026-10-15",
+   "time": "23:41",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
   }
  ]
 }
