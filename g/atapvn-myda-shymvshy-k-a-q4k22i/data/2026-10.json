@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-14T20:08:42.216Z",
+ "updated": "2026-10-14T23:00:10.314Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -3095,6 +3095,26 @@
    "files": [],
    "drive": null,
    "phone": "972543661029"
+  },
+  {
+   "id": "AC59867012A991E513AF7D2A4BD2D1ED",
+   "sender": "נתנאל סבירו - גוף ונפש",
+   "text": "",
+   "ts": 1792018794000,
+   "date": "2026-10-15",
+   "time": "01:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "242KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XolHPRYMLcRS0f9pMt2tWs4N6lVZjLYh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XolHPRYMLcRS0f9pMt2tWs4N6lVZjLYh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529244742"
   }
  ]
 }

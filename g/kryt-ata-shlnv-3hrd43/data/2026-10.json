@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-14T20:26:12.452Z",
+ "updated": "2026-10-14T22:12:42.337Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -20410,7 +20410,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/18xzY0OJOZusL91wMOxX-_-heIwiCMmRX/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=18xzY0OJOZusL91wMOxX-_-heIwiCMmRX&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=18xzY0OJOZusL91wMOxX-_-heIwiCMmRX&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/AC4D477BED9D7F7CAFA01B2BBF5D7F85_0.mp4"
     }
    ],
    "drive": null,
@@ -20532,6 +20533,26 @@
    "files": [],
    "drive": null,
    "phone": "972502878400"
+  },
+  {
+   "id": "3AA8060FF31A5FCBAC9B",
+   "sender": "שיפוצים והתקנות מזגנים ",
+   "text": "",
+   "ts": 1792015939000,
+   "date": "2026-10-15",
+   "time": "01:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pRRH63p_yxgxOqn0huL27T3ED9FUDmiU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pRRH63p_yxgxOqn0huL27T3ED9FUDmiU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534787860"
   }
  ]
 }

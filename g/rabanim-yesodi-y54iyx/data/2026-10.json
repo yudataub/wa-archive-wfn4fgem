@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-14T19:14:59.552Z",
+ "updated": "2026-10-14T22:53:40.128Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -4983,7 +4983,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1VhhPcZyB8AiuLzlMKyAV_xtNgNDNTY2H/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1VhhPcZyB8AiuLzlMKyAV_xtNgNDNTY2H&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1VhhPcZyB8AiuLzlMKyAV_xtNgNDNTY2H&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/A5A270E75F9162D8A0A7DE320800F751_0.mp4"
     }
    ],
    "drive": null,
@@ -5003,7 +5004,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/161GYSeOz_nEFTuu3e7PnuFdxQmL5F7xV/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=161GYSeOz_nEFTuu3e7PnuFdxQmL5F7xV&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=161GYSeOz_nEFTuu3e7PnuFdxQmL5F7xV&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/A5DE258D1D727D5B53A8F954F3FF583F_0.mp4"
     }
    ],
    "drive": null,
@@ -5129,6 +5131,17 @@
    "files": [],
    "drive": null,
    "phone": "972502322329"
+  },
+  {
+   "id": "AC14E283A9B1466F315AC2ED4F00C2B1",
+   "sender": "אלעד טאוב",
+   "text": "https://youtube.com/playlist?list=PLQdSpFWnQe0k&si=NwDw_oGzA6Nd5bpx",
+   "ts": 1792018402000,
+   "date": "2026-10-15",
+   "time": "01:53",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
   }
  ]
 }

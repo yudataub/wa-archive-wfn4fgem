@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-14T16:22:36.864Z",
+ "updated": "2026-10-14T23:04:10.674Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -7455,6 +7455,78 @@
    "files": [],
    "drive": null,
    "phone": "33659789541"
+  },
+  {
+   "id": "3A63EFEA3294049BAFB6",
+   "sender": "קרן זהורי",
+   "text": "כאשר בבית כנסת אומרים קדיש, עד איזה מילה במשפט שסימנתי בחץ אני צריכה לומר?",
+   "ts": 1792017802000,
+   "date": "2026-10-15",
+   "time": "01:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xoc9noac5lZ9JrK1EvImQDfoBEJaWIbV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xoc9noac5lZ9JrK1EvImQDfoBEJaWIbV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538620699"
+  },
+  {
+   "id": "AC93537F5F9D41404209111A4781D0FD",
+   "sender": "הרב אוריאל בצר",
+   "text": "לכתחילה עד בעלמא כולל.",
+   "ts": 1792017975000,
+   "date": "2026-10-15",
+   "time": "01:46",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "3AF3EFC598EDE3CF4BF1",
+   "sender": "קרן זהורי",
+   "text": "בלי ״יתברך..״?",
+   "ts": 1792018250000,
+   "date": "2026-10-15",
+   "time": "01:50",
+   "files": [],
+   "drive": null,
+   "phone": "972538620699"
+  },
+  {
+   "id": "AC37713ACB63ECF9A2D12260BE6CE413",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1792018305000,
+   "date": "2026-10-15",
+   "time": "01:51",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "9KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1q9Xvfh3ry0Wvfb3-5ylWhKPRFmkeM8tc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "3A5BE141C04A199B56F0",
+   "sender": "קרן זהורי",
+   "text": "תודה 🙏",
+   "ts": 1792019043000,
+   "date": "2026-10-15",
+   "time": "02:04",
+   "files": [],
+   "drive": null,
+   "phone": "972538620699"
   }
  ]
 }
