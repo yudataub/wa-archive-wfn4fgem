@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-14T14:41:51.993Z",
+ "updated": "2026-10-15T07:25:19.414Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1376,6 +1376,26 @@
    ],
    "drive": null,
    "phone": "972556788387"
+  },
+  {
+   "id": "A5420B0D42E8ADE59302373D69B085E1",
+   "sender": "אחזקת גינות מקצועי מיכאל אלבז",
+   "text": "בלוני גז ריקים למכירה כל אחד ב100 ₪\n0522816386 יעקב \nק.ביאליק",
+   "ts": 1792049095000,
+   "date": "2026-10-15",
+   "time": "10:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Jv8xDbdIdTA11-tuZZMNBDRffr5M1xkJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Jv8xDbdIdTA11-tuZZMNBDRffr5M1xkJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539357102"
   }
  ]
 }

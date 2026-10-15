@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-15T04:01:40.546Z",
+ "updated": "2026-10-15T07:28:19.458Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -5162,6 +5162,145 @@
    ],
    "drive": null,
    "phone": "972542653170"
+  },
+  {
+   "id": "AC784EDA2C7848FF30450AC86A81BAAC",
+   "sender": "יוסף נחמן מאומן🤪",
+   "text": "יודעים איך אפשר לקבל איש קשר לרמבם היומי ???",
+   "ts": 1792043159000,
+   "date": "2026-10-15",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "phone": "972528448351"
+  },
+  {
+   "id": "AC371BB3EBBCAEACFB585B70284FF056",
+   "sender": "אליהו טרבלסי",
+   "text": "📇 הלל רמב״ם יומי\n+972525703720",
+   "ts": 1792043254000,
+   "date": "2026-10-15",
+   "time": "08:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "AC2D5D3EFD834954972A1EC601AEC98D",
+   "sender": "איתי",
+   "text": "יש גם קבוצה",
+   "ts": 1792043291000,
+   "date": "2026-10-15",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972543598058"
+  },
+  {
+   "id": "AC2B382375BCD4B72DD24E12B31AD375",
+   "sender": "איתי",
+   "text": "📇 רעות רמב\"ם\n+972525391286",
+   "ts": 1792043299000,
+   "date": "2026-10-15",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972543598058"
+  },
+  {
+   "id": "AC290AFF0A886036B907E7FDADC38BBB",
+   "sender": "איתי",
+   "text": "היא מנהלת הקבוצה",
+   "ts": 1792043304000,
+   "date": "2026-10-15",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972543598058"
+  },
+  {
+   "id": "3A297A8AB11CAA109C5C",
+   "sender": "ניסים אוחנה",
+   "text": "ביצוע מרגש ר יוני תודה רבה",
+   "ts": 1792046336000,
+   "date": "2026-10-15",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "phone": "972526265507"
+  },
+  {
+   "id": "3A92799DF9A9B6F0691B",
+   "sender": "ניסים אוחנה",
+   "text": "",
+   "ts": 1792046337000,
+   "date": "2026-10-15",
+   "time": "09:38",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "149KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/18xsYXWaVcARh9Fg1vmYyr_BC-TCCNlCD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18xsYXWaVcARh9Fg1vmYyr_BC-TCCNlCD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526265507"
+  },
+  {
+   "id": "3AD32C1AF89D0D595BC5",
+   "sender": "ניסים אוחנה",
+   "text": "מרגש",
+   "ts": 1792046368000,
+   "date": "2026-10-15",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "phone": "972526265507"
+  },
+  {
+   "id": "AC962C0ADDD71F6CE3314E7A60DA83A5",
+   "sender": "ronenarry",
+   "text": "🙏🙏🙏",
+   "ts": 1792046896000,
+   "date": "2026-10-15",
+   "time": "09:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523003914"
+  },
+  {
+   "id": "AC05C5FC327324039EC3F1B3D19937F4",
+   "sender": "יוני גנוט",
+   "text": "תודה אחי😍",
+   "ts": 1792047897000,
+   "date": "2026-10-15",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972503972976"
+  },
+  {
+   "id": "ACF1B4BF3E9BCC5C1549BFFB4229BD41",
+   "sender": "שמואל אמינוב",
+   "text": "יום הזיכרון *לאדמו\"ר מפיאסצנה*  ה' יקום דמו",
+   "ts": 1792049296000,
+   "date": "2026-10-15",
+   "time": "10:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "68KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TMjnxzylLbCeS-gtRuW8CKHpxEQ78cQ3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TMjnxzylLbCeS-gtRuW8CKHpxEQ78cQ3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547607984"
   }
  ]
 }

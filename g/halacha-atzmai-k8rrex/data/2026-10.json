@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-14T17:55:44.923Z",
+ "updated": "2026-10-15T08:31:11.278Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2049,6 +2049,57 @@
    "files": [],
    "drive": null,
    "phone": "972544531304"
+  },
+  {
+   "id": "3EB0D1B93493034C168B65",
+   "sender": "אברהם פויכטונגר",
+   "text": "שלום לכולם!\nשמח לשף את מצב הנוכחות, מי שטרם השלים את מפגש 1,\nמוזמן לעשות זאת.\nיום נעים\nאבי והרב שטראוס",
+   "ts": 1792048533000,
+   "date": "2026-10-15",
+   "time": "10:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "61KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1abwAkwg9vOQqT2GGXGEvzyYYGDGelKvJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1abwAkwg9vOQqT2GGXGEvzyYYGDGelKvJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523003393"
+  },
+  {
+   "id": "AC3554E4634B81A2827D83D1C23C45DF",
+   "sender": "🌹🌹",
+   "text": "",
+   "ts": 1792053038000,
+   "date": "2026-10-15",
+   "time": "11:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ssTAzOIL_gaqruSRuRSOOp7PN3f0dbBk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ssTAzOIL_gaqruSRuRSOOp7PN3f0dbBk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506390946"
+  },
+  {
+   "id": "ACCA085C8D6B2F6E64A0C4B399B63EE5",
+   "sender": "🌹🌹",
+   "text": "כתב סתרים בנושא הזכרת ושאילת גשמים",
+   "ts": 1792053039000,
+   "date": "2026-10-15",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "phone": "972506390946"
   }
  ]
 }

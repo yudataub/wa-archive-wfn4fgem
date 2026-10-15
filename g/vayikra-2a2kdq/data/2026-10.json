@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-15T04:58:17.176Z",
+ "updated": "2026-10-15T07:53:03.639Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -4655,6 +4655,115 @@
    "files": [],
    "drive": null,
    "phone": "972525572089"
+  },
+  {
+   "id": "AC6009EB17ECB226F4F95FD4BA006E97",
+   "sender": "ישראל יעקב שריד",
+   "text": "חם מהמחבת! הכנתי עכשיו עם תלמידים, מנחת מחבת מסולת, הוספנו קצת סוכר וניל - יצא פצצה!",
+   "ts": 1792047472000,
+   "date": "2026-10-15",
+   "time": "09:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JmfGqOt5EouFEjtHRq6NkZM4nnfSWDON/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JmfGqOt5EouFEjtHRq6NkZM4nnfSWDON&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526109520"
+  },
+  {
+   "id": "3A32432B306BFD7ADE7D",
+   "sender": "שושנה",
+   "text": "",
+   "ts": 1792050490000,
+   "date": "2026-10-15",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "229KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19otW680pTAAW-YxYQObCauSw4RsYwpp7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19otW680pTAAW-YxYQObCauSw4RsYwpp7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502022280"
+  },
+  {
+   "id": "3AD45450B958BE5A67F0",
+   "sender": "שושנה",
+   "text": "היה סירטון הדרכה לזה אפשר בבקשה להקפיץ שוב?",
+   "ts": 1792050509000,
+   "date": "2026-10-15",
+   "time": "10:48",
+   "files": [],
+   "drive": null,
+   "phone": "972502022280"
+  },
+  {
+   "id": "ACFC52DB14A09E8F3CEDF3E231CB040C",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1792050751000,
+   "date": "2026-10-15",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "להכנס למקדש1.pdf",
+     "size": "2.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1afK0r8omGATvQL0rkrQ7CTvNYD263pko/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC6393FF44C882BDAEBFC83E4EEA76B5",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1792050754000,
+   "date": "2026-10-15",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "להכנס למקדש 2 מתוקן.pdf",
+     "size": "60KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1iKE7TufT91pBc1FPuDv5UOhEuHjyT19I/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC666DFA4E5C5338149486E439DBF5AA",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1792050755000,
+   "date": "2026-10-15",
+   "time": "10:52",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1HCJ4EfptTOokFqeGFJeahtK1dlM3i-N5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HCJ4EfptTOokFqeGFJeahtK1dlM3i-N5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
   }
  ]
 }

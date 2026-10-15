@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "על AI ובינה מלאכותית #1 • Digital-ID",
- "updated": "2026-10-13T12:49:29.607Z",
+ "updated": "2026-10-15T06:37:18.688Z",
  "messages": [
   {
    "id": "ACC17CCE5C35CB2E15C9E78685B0274F",
@@ -110,6 +110,37 @@
    "files": [],
    "drive": null,
    "phone": "972527690971"
+  },
+  {
+   "id": "3EB01D7835CCCFBA7894F2",
+   "sender": "Itay",
+   "text": "אמרתם תודה הבוקר?",
+   "ts": 1792046215000,
+   "date": "2026-10-15",
+   "time": "09:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "24KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NXB2kyedw4XXgy4fhZ9z4lBVg75euhD1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NXB2kyedw4XXgy4fhZ9z4lBVg75euhD1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546963902"
+  },
+  {
+   "id": "3EB066D9E3C356889413A8",
+   "sender": "Itay",
+   "text": "נכתב בהומור כמובן 🙂",
+   "ts": 1792046217000,
+   "date": "2026-10-15",
+   "time": "09:36",
+   "files": [],
+   "drive": null,
+   "phone": "972546963902"
   }
  ]
 }

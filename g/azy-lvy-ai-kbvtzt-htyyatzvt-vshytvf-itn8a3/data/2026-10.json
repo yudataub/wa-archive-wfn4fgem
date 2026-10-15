@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עזי לוי - AI - קבוצת התייעצות ושיתוף",
- "updated": "2026-10-13T16:59:22.030Z",
+ "updated": "2026-10-15T08:04:40.231Z",
  "messages": [
   {
    "id": "ACF99E6FEDA7D3D50F39865496966722",
@@ -371,6 +371,26 @@
    "files": [],
    "drive": null,
    "phone": "972544266802"
+  },
+  {
+   "id": "ACE26D232AB08298078FF5279938746E",
+   "sender": "Nadav",
+   "text": "לפעמים אני נפעם עד כמה אפשר לדבר אל קלוד בסלנג (מסוגים שונים) והוא אפילו לא ממצמץ.",
+   "ts": 1792051476000,
+   "date": "2026-10-15",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pzmqYu0ZGM4ffpbjHcXEXXRsF099kaLE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pzmqYu0ZGM4ffpbjHcXEXXRsF099kaLE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525802441"
   }
  ]
 }

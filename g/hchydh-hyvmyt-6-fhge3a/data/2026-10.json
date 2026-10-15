@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-10-14T19:34:39.174Z",
+ "updated": "2026-10-15T06:08:44.720Z",
  "messages": [
   {
    "id": "3EB0B3E2508A48B76E72A4",
@@ -760,6 +760,26 @@
      "path": "https://drive.google.com/file/d/1O7iaaGQZQF1mwGfqWByryTjJ2cSK7EyI/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1O7iaaGQZQF1mwGfqWByryTjJ2cSK7EyI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB0A07B133A4DBD8441B0",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "📜חידה לפרשת \"נח\": \n*אילו מילים רמוזות בתמונה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://forms.gle/KJM5viL4zYMHsgEB7\n\nהזדמנות מצוינת להצטרף לקבוצה (השקטה) של *צפנת* 🕵🏻‍♀️\nולקבל כל שבוע 6️⃣ חידות מצוירות על פרשת השבוע!\nאחלה יום!",
+   "ts": 1792044512000,
+   "date": "2026-10-15",
+   "time": "09:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "357KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rmnc259bCOEJamfaRne_CaeeOtXx5SZP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rmnc259bCOEJamfaRne_CaeeOtXx5SZP&sz=w1200"
     }
    ],
    "drive": null,

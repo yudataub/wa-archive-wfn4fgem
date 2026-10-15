@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-15T05:30:47.635Z",
+ "updated": "2026-10-15T05:50:47.959Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -1098,6 +1098,17 @@
    "files": [],
    "drive": null,
    "phone": "972508228422"
+  },
+  {
+   "id": "3A349464703FEDAD68C5",
+   "sender": "אלעזר",
+   "text": "המאגר כאן\nhttps://docs.google.com/document/d/1hECcICNNMY1XKd8f7uhu_0I7QFrwZVRXO0bweQ1JEQ8/edit?usp=sharing",
+   "ts": 1792043439000,
+   "date": "2026-10-15",
+   "time": "08:50",
+   "files": [],
+   "drive": null,
+   "phone": "972533334930"
   }
  ]
 }

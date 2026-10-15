@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "תוכנית עוגן סטודנטים תשפז⚓ -צפון",
- "updated": "2026-10-15T04:40:16.869Z",
+ "updated": "2026-10-15T09:18:48.943Z",
  "messages": [
   {
    "id": "AC8669F3D3269477AFE039E7F04FE881",
@@ -553,6 +553,46 @@
    "files": [],
    "drive": null,
    "phone": "972546774051"
+  },
+  {
+   "id": "ACF50EE387FC7D5D53731D633D8377B1",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "מי ששכח אתמול",
+   "ts": 1792047855000,
+   "date": "2026-10-15",
+   "time": "10:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/115vZUoZidL9es8NR1mSoi1vzO3TDE772/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=115vZUoZidL9es8NR1mSoi1vzO3TDE772&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "ACF511E89F02C70EFF6B435E0238FD26",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "נמצא בשירותים",
+   "ts": 1792055911000,
+   "date": "2026-10-15",
+   "time": "12:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1P1rZre8QuxXkqXyc75f7AZxWi-YfufYu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1P1rZre8QuxXkqXyc75f7AZxWi-YfufYu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502080480"
   }
  ]
 }

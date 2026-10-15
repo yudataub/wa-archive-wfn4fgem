@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת השבוע בבינה מלאכותית",
- "updated": "2026-10-09T04:51:58.517Z",
+ "updated": "2026-10-15T05:47:44.380Z",
  "messages": [
   {
    "id": "AC990043FA9584A001703C80618AD291",
@@ -20,6 +20,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1C8g5MMgrx0SLxI1SnAVSqIi1BSegur0O&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "AC3E6A096854FE4296EC611BFE2B3DFA",
+   "sender": "ליאת ונגרובסקי",
+   "text": "פרשת נח. פתרונות בקישור בתיאור הקבוצה",
+   "ts": 1792043226000,
+   "date": "2026-10-15",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18mFnFg1lVcL_w-HX-zIO4AYl9ce_FTKQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18mFnFg1lVcL_w-HX-zIO4AYl9ce_FTKQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "AC791B3C2A578CEC8DDA180BEB0EAFD3",
+   "sender": "ליאת ונגרובסקי",
+   "text": "מדהים, הקבוצה מלאה ☺️",
+   "ts": 1792043257000,
+   "date": "2026-10-15",
+   "time": "08:47",
+   "files": [],
    "drive": null,
    "phone": "972546535745"
   }

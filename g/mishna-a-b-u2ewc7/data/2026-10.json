@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-10-11T13:22:06.841Z",
+ "updated": "2026-10-15T08:09:03.882Z",
  "messages": [
   {
    "id": "AC0E2F39203F3D5A2320D22DC7E99B26",
@@ -168,6 +168,55 @@
    "files": [],
    "drive": null,
    "phone": "972545765743"
+  },
+  {
+   "id": "ACFFDC38AD2145DEE981DF16499422AD",
+   "sender": "adi",
+   "text": "אשמח לעצה מהיכן מומלץ להוציא חומרים (דפי עבודה מותאמים)  לכיתות א-ב במשנה",
+   "ts": 1792050347000,
+   "date": "2026-10-15",
+   "time": "10:45",
+   "files": [],
+   "drive": null,
+   "phone": "972544350796"
+  },
+  {
+   "id": "AC0637B2FF7039EB1CEEE22BEB7CFC84",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1792051691000,
+   "date": "2026-10-15",
+   "time": "11:08",
+   "files": [
+    {
+     "name": "חוברת פרק ב.pdf",
+     "size": "10.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1HA0f2mRvTFI-hr40edg6JIpk3lB4hMMk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC4958009AAC56C34BBDD324286A974F",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1792051730000,
+   "date": "2026-10-15",
+   "time": "11:08",
+   "files": [
+    {
+     "name": "מסכת אבות מצוירת (פרק א).pdf",
+     "size": "572KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rx2N5YOnzFmLMIlA70vTp01wA4LCJlOB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
   }
  ]
 }

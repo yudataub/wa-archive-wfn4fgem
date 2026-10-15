@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-15T04:08:40.658Z",
+ "updated": "2026-10-15T09:25:49.048Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -11695,6 +11695,119 @@
    "drive": null,
    "thread": "מיכל",
    "phone": "972545949809"
+  },
+  {
+   "id": "A56AA09B51330F753DC38B6FBC9B375B",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/ogen/",
+   "ts": 1792046670000,
+   "date": "2026-10-15",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A59696B213FC55E91A7DFF5A9B11F0BB",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/ogen/",
+   "ts": 1792046718000,
+   "date": "2026-10-15",
+   "time": "09:45",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A50E28C871A8EB30C3D27A609713C383",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/ogen/",
+   "ts": 1792048127000,
+   "date": "2026-10-15",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB05FE9398DDA9405FEBD",
+   "sender": "Shira Garber",
+   "text": "תודה",
+   "ts": 1792048569000,
+   "date": "2026-10-15",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "thread": "Shira Garber",
+   "phone": "972526288768"
+  },
+  {
+   "id": "3EB091A96DB6B3B7048D27",
+   "sender": "Shira Garber",
+   "text": "יש קוד?",
+   "ts": 1792048572000,
+   "date": "2026-10-15",
+   "time": "10:16",
+   "files": [],
+   "drive": null,
+   "thread": "Shira Garber",
+   "phone": "972526288768"
+  },
+  {
+   "id": "ACFF45C14EC3F7A1FF70651B28B43F92",
+   "sender": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "text": "היי שלום",
+   "ts": 1792048718000,
+   "date": "2026-10-15",
+   "time": "10:18",
+   "files": [],
+   "drive": null,
+   "thread": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "phone": "972523427896"
+  },
+  {
+   "id": "ACB727E501A990F9B2C67A28F09A6724",
+   "sender": "Sheila",
+   "text": "בוקר טוב",
+   "ts": 1792050043000,
+   "date": "2026-10-15",
+   "time": "10:40",
+   "files": [],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
+  },
+  {
+   "id": "AC90FD94FC9CFC820CC6A36EECC84312",
+   "sender": "Sheila",
+   "text": "",
+   "ts": 1792050069000,
+   "date": "2026-10-15",
+   "time": "10:41",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "39KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1SFVNv-h8YVLW0HlWu14ZZdONolfa3ZDX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Sheila",
+   "phone": "972534716129"
+  },
+  {
+   "id": "AC76FBD63A2873660D78933A409F5D72",
+   "sender": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "text": "דבר איתי",
+   "ts": 1792056342000,
+   "date": "2026-10-15",
+   "time": "12:25",
+   "files": [],
+   "drive": null,
+   "thread": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "phone": "972523427896"
   }
  ]
 }

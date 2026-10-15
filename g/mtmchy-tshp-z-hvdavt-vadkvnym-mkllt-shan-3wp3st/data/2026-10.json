@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מתמחי תשפ״ז-הודעות ועדכונים מכללת שאנן",
- "updated": "2026-10-12T18:36:41.991Z",
+ "updated": "2026-10-15T07:49:03.612Z",
  "messages": [
   {
    "id": "3ADFCFE9C6461A10E0FD",
@@ -58,6 +58,26 @@
      "path": "https://drive.google.com/file/d/1kqfnYDrrn3oo1v-OfQ0zQrMF8UTTbMpG/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1kqfnYDrrn3oo1v-OfQ0zQrMF8UTTbMpG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "4AC375C85351F3C032B9",
+   "sender": "Adi Zvieli",
+   "text": "*רק למתמחים העובדים במחוז ההתיישבותי* שריינו☝🏻🌸",
+   "ts": 1792050538000,
+   "date": "2026-10-15",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mXDmrhSmaZgfbaSiD3tG9EzVE_53fq9c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mXDmrhSmaZgfbaSiD3tG9EzVE_53fq9c&sz=w1200"
     }
    ],
    "drive": null,

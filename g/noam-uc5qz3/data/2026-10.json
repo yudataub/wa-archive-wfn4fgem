@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-15T03:40:34.834Z",
+ "updated": "2026-10-15T06:49:45.383Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2394,6 +2394,37 @@
    "files": [],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "ACCF1000F979532A1450E43FED167A5A",
+   "sender": "מלכה טרבלסי",
+   "text": "מחנכות של הבנות\nיש לי בקשה\n\nתדריכו את הבנות לא לשחק ברחבה של הבנים\nהן בהפסקה\nבמסלול ריצה \n\nתודה🥰🥰🥰🥰זה גורם למריבות",
+   "ts": 1792045894000,
+   "date": "2026-10-15",
+   "time": "09:31",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3A3E0FF0AC8557AE0E44",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1792046955000,
+   "date": "2026-10-15",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "63KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OcZuZ7BV6zsdeNfBAMHBUvOA-Gs5YQp3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OcZuZ7BV6zsdeNfBAMHBUvOA-Gs5YQp3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
   }
  ]
 }

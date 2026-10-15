@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קבוצות \"חומר פתוח\"",
- "updated": "2026-10-15T04:35:16.790Z",
+ "updated": "2026-10-15T06:14:48.244Z",
  "messages": [
   {
    "id": "3EB016B3306FC93D24BA6D",
@@ -150,6 +150,26 @@
    ],
    "drive": null,
    "phone": "972546887626"
+  },
+  {
+   "id": "AC7F8EEE79B0D6648BC2AF0CCE9A7058",
+   "sender": "חפציה",
+   "text": "אצלי תקין",
+   "ts": 1792044867000,
+   "date": "2026-10-15",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "59KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MsKR1iON8VHWIZtwEpLBcK6CVY_2ao2c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MsKR1iON8VHWIZtwEpLBcK6CVY_2ao2c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
   }
  ]
 }

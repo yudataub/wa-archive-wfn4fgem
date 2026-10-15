@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-14T23:00:10.314Z",
+ "updated": "2026-10-15T09:27:49.077Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -3115,6 +3115,26 @@
    ],
    "drive": null,
    "phone": "972529244742"
+  },
+  {
+   "id": "A502BCCF5132402847F2EED88BF2748C",
+   "sender": "קשר כשר",
+   "text": "חמישי שמח לכולם משלוחים לכל הארץ",
+   "ts": 1792056443000,
+   "date": "2026-10-15",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "440KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z0MVeUtWIzv7U_ifft75t37ahMy094Mu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z0MVeUtWIzv7U_ifft75t37ahMy094Mu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559579411"
   }
  ]
 }

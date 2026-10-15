@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-14T19:08:59.472Z",
+ "updated": "2026-10-15T09:31:49.130Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -766,6 +766,36 @@
    "files": [],
    "drive": null,
    "phone": "972525455208"
+  },
+  {
+   "id": "AC4D4718AEFE8447A02604B6332E1DDC",
+   "sender": "חן שרעבי",
+   "text": "צלצול ליום פטירת רחל אמנו יש למשהו?",
+   "ts": 1792056382000,
+   "date": "2026-10-15",
+   "time": "12:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525455208"
+  },
+  {
+   "id": "AC60DB0F237E841E91BFC3057EDCCDFC",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1792056698000,
+   "date": "2026-10-15",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "3.4MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1KlWSTRhnfDcmnzib4JWAaWKVP8HIhRzo/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
   }
  ]
 }

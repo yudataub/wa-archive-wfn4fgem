@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים שלובים | AI ודיגיטל בהוראה 2# 🛟",
- "updated": "2026-10-13T04:52:20.934Z",
+ "updated": "2026-10-15T06:14:14.823Z",
  "messages": [
   {
    "id": "A5F190FE9BD3A9DD5BD0E24B0ECC429E",
@@ -42,6 +42,45 @@
    ],
    "drive": null,
    "phone": "972737154218"
+  },
+  {
+   "id": "3EB0AAEEF32BEBAAD34F61",
+   "sender": "שני",
+   "text": "החלה עונת משימות ההערכה, המבחנים והעבודות.. וזה בדיוק הזמן להיפגש!\nברביעי הקרוב\nבשעה20:30\nמחכים לכם🦋\nקהילת 'כלים שלובים' מבית אלנט\nhttps://us02web.zoom.us/meeting/register/XCD2fo0yQ3K7bScXH_FjJg",
+   "ts": 1792044835000,
+   "date": "2026-10-15",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "62KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A0HWRI8ecywtFI0rLljZ2eU6AEM91mV5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A0HWRI8ecywtFI0rLljZ2eU6AEM91mV5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507115008"
+  },
+  {
+   "id": "3EB06B579C140802BD07E2",
+   "sender": "שני",
+   "text": "",
+   "ts": 1792044837000,
+   "date": "2026-10-15",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "הזמנה לוובינר כלים שלובים 21.10.pdf",
+     "size": "434KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1lIwad2OGIOqwex-P11z36pSDI11OF-Z7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507115008"
   }
  ]
 }
