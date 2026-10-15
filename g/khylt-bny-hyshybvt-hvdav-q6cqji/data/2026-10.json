@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-14T16:29:36.991Z",
+ "updated": "2026-10-15T05:27:47.634Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -4016,6 +4016,26 @@
    "files": [],
    "drive": null,
    "phone": "972549689858"
+  },
+  {
+   "id": "AC48E6AFAC35BA9148AA9A14F20E92FE",
+   "sender": "שלמה יהודה",
+   "text": "העצמאות/ביאליק - מצלמה ניידת",
+   "ts": 1792042055000,
+   "date": "2026-10-15",
+   "time": "08:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "360KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JPRIYKotV3gONvgbQWkrsThgJthCN3xu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JPRIYKotV3gONvgbQWkrsThgJthCN3xu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559358099"
   }
  ]
 }

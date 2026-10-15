@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-14T20:57:06.727Z",
+ "updated": "2026-10-15T04:58:17.184Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1391,6 +1391,66 @@
    ],
    "drive": null,
    "phone": "972587604580"
+  },
+  {
+   "id": "AC63C4E12EDE912BD257AC0C115EE844",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1792037042000,
+   "date": "2026-10-15",
+   "time": "07:04",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vCAFp3X9iuc7f1LjyFWxtSxRMR2Wonbq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vCAFp3X9iuc7f1LjyFWxtSxRMR2Wonbq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
+  },
+  {
+   "id": "AC74F48A59DABA77A0E82E8E13F92377",
+   "sender": ".",
+   "text": "**וילת נופש חדשה בנתיבות 2 קומות, ברמה גבוה* \n *2 ממ\"דים בוילה* \n - מותאם לציבור הדתי -\n *מה בוילה?* \n\n* 7 חדרי שינה( עד 30 איש)\n* 5 שירותים ומקלחת\n* אפשרות להוספת מזרונים\n* מגבות, שמפו בכל חדר\n* מטבח מאובזר ומהדרין \n* מיזוג בכל חדר  \n* ‏wifi\n* בריכת שחיה 8×4- *מחוממת* \n* חצר ענקית עם משחקים ,( כדור סל, סנוקר,טניס,הוקי אויר ועוד...)\n* מרפסות וחללים פתוחים \n* חנייה בשפע \n* שכונה שקטה ונעימה\n* נקיון ברמה גבוהה\n* צמוד לביתי כנסיות\nכמה  דקות נסיעה ואתם נמצאים בפינת חי, פארק אשכול, חוות סוסים\n* קיימות מסעדות מהדרין \n* *המתחם שומר שבת וכשרות.* \n\n☎️  לתמונות ופרטים נוספים\n0545447575",
+   "ts": 1792039196000,
+   "date": "2026-10-15",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Wo48Y9ZCHad2Zj0qdQk7ZtXOLmkWzezB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wo48Y9ZCHad2Zj0qdQk7ZtXOLmkWzezB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545447575"
+  },
+  {
+   "id": "AC06AFA7D8E174B9D011C190CE27A5E9",
+   "sender": "עדית אבני",
+   "text": "",
+   "ts": 1792040288000,
+   "date": "2026-10-15",
+   "time": "07:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GSaMd0bxzxbs3-jo3P6ULO9xAl5VQvTM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GSaMd0bxzxbs3-jo3P6ULO9xAl5VQvTM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-14T22:34:39.813Z",
+ "updated": "2026-10-15T05:25:17.550Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -2601,6 +2601,58 @@
    "files": [],
    "drive": null,
    "phone": "972548535920"
+  },
+  {
+   "id": "ACB89D4C4E1C84872E73CFC8808A7359",
+   "sender": "אביבה יחיאל",
+   "text": "האתר אביטה\nופורטל משרד החינוך",
+   "ts": 1792034821000,
+   "date": "2026-10-15",
+   "time": "06:27",
+   "files": [],
+   "drive": null,
+   "phone": "972504188931"
+  },
+  {
+   "id": "AC6E092BB18449FBD3358C35AFE0D128",
+   "sender": "נעמי",
+   "text": "",
+   "ts": 1792035886000,
+   "date": "2026-10-15",
+   "time": "06:44",
+   "files": [
+    {
+     "name": "שמואל א פרק ב (1).pptx",
+     "size": "4.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1CeOoB1cRctLo0mdXLXuZbDRoVnCqSjtL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507341561"
+  },
+  {
+   "id": "AC921E20744E3A78394EE2D790BA91E3",
+   "sender": "ברכי",
+   "text": "יש למישהו תמונה של המשכן מבחינת החלקים שהיה מורכב?\nעם המסך, היריעות וכו",
+   "ts": 1792038917000,
+   "date": "2026-10-15",
+   "time": "07:35",
+   "files": [],
+   "drive": null,
+   "phone": "972587703966"
+  },
+  {
+   "id": "AC4D7BE0A459D72D8183F59F9F0F6ABA",
+   "sender": "נחמי אמיתי",
+   "text": "בוקר טוב, ראיתי בעבר דגם של אוהל בודד,ממש אשמח לשליחה בשנית,תודה!",
+   "ts": 1792041899000,
+   "date": "2026-10-15",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972544960792"
   }
  ]
 }

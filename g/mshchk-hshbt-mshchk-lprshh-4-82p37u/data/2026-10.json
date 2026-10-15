@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משחק השבת - משחק לפרשה 4",
- "updated": "2026-10-13T11:28:14.820Z",
+ "updated": "2026-10-15T05:13:17.398Z",
  "messages": [
   {
    "id": "3EB0456D0C31086C579D10",
@@ -66,6 +66,26 @@
    "date": "2026-10-13",
    "time": "14:27",
    "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "ACC995AC86891ED4B1CBF1558B6BDA9D",
+   "sender": "עמי חניא",
+   "text": "קורס ג'אגלינג - מתחילים מאפס ולומדים לעשות להטוטים\nחלק מהשיעור הראשון - יוצרים כדורים שאיתם נלהטט\nhttps://juggling.clap.co.il/",
+   "ts": 1792041171000,
+   "date": "2026-10-15",
+   "time": "08:12",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rQHlUuaJVd3wT21TJXsbDKC_ES14nuxO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rQHlUuaJVd3wT21TJXsbDKC_ES14nuxO&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546702328"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-14T03:59:52.107Z",
+ "updated": "2026-10-15T03:11:29.493Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -449,6 +449,46 @@
      "path": "https://drive.google.com/file/d/1h-TbUxE4LxUKyLieEPl_OrlXhQyTzNTV/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1h-TbUxE4LxUKyLieEPl_OrlXhQyTzNTV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AFB8418ED1768AA1377",
+   "sender": ".",
+   "text": "״בצלי ובחרדל״ (רש״י בכורות כז, א).",
+   "ts": 1792033859000,
+   "date": "2026-10-15",
+   "time": "06:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SB_2gSoY193T-RfgYzWwfrZWDxCP-9xb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SB_2gSoY193T-RfgYzWwfrZWDxCP-9xb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A5AEA7E5A4540CB0944",
+   "sender": ".",
+   "text": "״פורגו״ן״ (רש״י בכורות כז, א).",
+   "ts": 1792033861000,
+   "date": "2026-10-15",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tVyzzdqHGTugLDUcCBO13vR7dvKSFMwZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tVyzzdqHGTugLDUcCBO13vR7dvKSFMwZ&sz=w1200"
     }
    ],
    "drive": null,

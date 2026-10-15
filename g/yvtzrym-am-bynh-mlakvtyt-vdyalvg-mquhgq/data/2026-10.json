@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-14T21:16:52.793Z",
+ "updated": "2026-10-15T04:40:13.073Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3588,6 +3588,26 @@
    "files": [],
    "drive": null,
    "phone": "972502142996"
+  },
+  {
+   "id": "A5AE93C5712A648738C28178488BDA2B",
+   "sender": "ווקי שרון מרגולין",
+   "text": "הוובינר ליום ראשון, מוכן לפרסום. 50 ₪, עם פרטי ההרשמה וההקלטה למשתתפים ששילמו.",
+   "ts": 1792039194000,
+   "date": "2026-10-15",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ek0NQqWk1qQfXDVk0aA19aVhng-IEAvh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ek0NQqWk1qQfXDVk0aA19aVhng-IEAvh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
   }
  ]
 }

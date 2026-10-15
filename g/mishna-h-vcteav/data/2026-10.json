@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-14T10:45:43.900Z",
+ "updated": "2026-10-15T05:30:47.635Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -1012,6 +1012,92 @@
    "files": [],
    "drive": null,
    "phone": "972558861017"
+  },
+  {
+   "id": "ACC30DB266F3A79A0B424CAA9CEF7526",
+   "sender": "מוריה קור",
+   "text": "האם יש סדרת רצים למשנה שמבוססת על מסכת ראש השנה?",
+   "ts": 1792041292000,
+   "date": "2026-10-15",
+   "time": "08:14",
+   "files": [],
+   "drive": null,
+   "phone": "972545968565"
+  },
+  {
+   "id": "AC27BE486C919C03B715451C28DEFA95",
+   "sender": "אשר לב יונה",
+   "text": "כן השופר הנעלם",
+   "ts": 1792041575000,
+   "date": "2026-10-15",
+   "time": "08:19",
+   "files": [],
+   "drive": null,
+   "phone": "972556608835"
+  },
+  {
+   "id": "AC9C57FBEC1670AC4634540F315F70B1",
+   "sender": "מוריה קור",
+   "text": "תודה!",
+   "ts": 1792041608000,
+   "date": "2026-10-15",
+   "time": "08:20",
+   "files": [],
+   "drive": null,
+   "phone": "972545968565"
+  },
+  {
+   "id": "AC500DAA9A3C44760C4336E14FAED056",
+   "sender": "יוסי",
+   "text": "מי מלמד בחוברת הזאת?\nאשמח לשאלה...",
+   "ts": 1792041948000,
+   "date": "2026-10-15",
+   "time": "08:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "278KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FllBubBbCba8qzwtZaTA0U-EQImNmgVv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FllBubBbCba8qzwtZaTA0U-EQImNmgVv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546628769"
+  },
+  {
+   "id": "AC2E08521A5B61E7F7DFD41B3DF0DC0F",
+   "sender": "Moria Yeres",
+   "text": "ניראלי כולם פה",
+   "ts": 1792042062000,
+   "date": "2026-10-15",
+   "time": "08:27",
+   "files": [],
+   "drive": null,
+   "phone": "972526767151"
+  },
+  {
+   "id": "ACFB0D61037EEB006C0B0B02E5312178",
+   "sender": "איילת",
+   "text": "לא רצים למשנה, אבל מצאתי את קיץ 38 שממש מצויין",
+   "ts": 1792042230000,
+   "date": "2026-10-15",
+   "time": "08:30",
+   "files": [],
+   "drive": null,
+   "phone": "972508228422"
+  },
+  {
+   "id": "AC0FFD2936BFBAD5660466586E44FD53",
+   "sender": "איילת",
+   "text": "https://youtu.be/x60aJaJOK04?si=YtR8UkdUG8mJIGIE",
+   "ts": 1792042232000,
+   "date": "2026-10-15",
+   "time": "08:30",
+   "files": [],
+   "drive": null,
+   "phone": "972508228422"
   }
  ]
 }

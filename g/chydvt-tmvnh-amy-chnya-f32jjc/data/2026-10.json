@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-14T16:10:01.796Z",
+ "updated": "2026-10-15T05:13:17.835Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -611,6 +611,26 @@
    "date": "2026-10-14",
    "time": "19:09",
    "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC6482444F208013E849D6D17CD1BAF4",
+   "sender": "עמי חניא",
+   "text": "קורס ג'אגלינג - מתחילים מאפס ולומדים לעשות להטוטים\nחלק מהשיעור הראשון - יוצרים כדורים שאיתם נלהטט\nhttps://juggling.clap.co.il/",
+   "ts": 1792041174000,
+   "date": "2026-10-15",
+   "time": "08:12",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1A3uehSiYskfLQZSQqZAXvrD41pWWoarn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A3uehSiYskfLQZSQqZAXvrD41pWWoarn&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546702328"
   }

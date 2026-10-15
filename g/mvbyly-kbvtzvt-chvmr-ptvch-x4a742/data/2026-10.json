@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קבוצות \"חומר פתוח\"",
- "updated": "2026-10-12T12:16:20.314Z",
+ "updated": "2026-10-15T04:35:16.790Z",
  "messages": [
   {
    "id": "3EB016B3306FC93D24BA6D",
@@ -130,6 +130,26 @@
    "files": [],
    "drive": null,
    "phone": "972556677629"
+  },
+  {
+   "id": "A5F6004B0D83A4CE5DDF0AC5C0D0BE2B",
+   "sender": "mary garby",
+   "text": "בוקר של אור, רק אצלי זה כך בנייד?",
+   "ts": 1792038898000,
+   "date": "2026-10-15",
+   "time": "07:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Zx9av7Gk6WCkf-YfgbylKTrdwfuEd_6C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Zx9av7Gk6WCkf-YfgbylKTrdwfuEd_6C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

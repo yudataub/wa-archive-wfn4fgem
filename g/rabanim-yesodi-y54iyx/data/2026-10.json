@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-14T22:53:40.128Z",
+ "updated": "2026-10-15T04:01:40.546Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -5142,6 +5142,26 @@
    "files": [],
    "drive": null,
    "phone": "972546228770"
+  },
+  {
+   "id": "AC629C4D0DDA459A03B78D96E6402FEA",
+   "sender": "אבי'ה אלבה",
+   "text": "*אתר עין איה*\nכל המקורות במקום אחד!\nחלוקה לפי נושאים, 1000 ערכים, 30,000 ציטוטים!\n*קישור לאתר http://ein-aya.co.il/*\nמוזמנים להפיץ לזיכוי הרבים!",
+   "ts": 1792036869000,
+   "date": "2026-10-15",
+   "time": "07:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V1WGhl_we9OP_MkRpMkPiOOl9MZvf-on/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V1WGhl_we9OP_MkRpMkPiOOl9MZvf-on&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542653170"
   }
  ]
 }

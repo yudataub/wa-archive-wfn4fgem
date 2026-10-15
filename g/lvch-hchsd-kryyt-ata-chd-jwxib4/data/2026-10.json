@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-14T19:30:59.808Z",
+ "updated": "2026-10-15T05:04:47.278Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -8583,6 +8583,37 @@
    ],
    "drive": null,
    "phone": "972508422190"
+  },
+  {
+   "id": "4ABA1E5D50989578C810",
+   "sender": " Natali Bh🦋",
+   "text": "למסירה 🎀",
+   "ts": 1792037732000,
+   "date": "2026-10-15",
+   "time": "07:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "320KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11m8njQ4vV98pep2pxBK9YoF7bQlRB2Rq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11m8njQ4vV98pep2pxBK9YoF7bQlRB2Rq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523434855"
+  },
+  {
+   "id": "AC783B2B749A2B380901C13A13AF05BE",
+   "sender": "אלירן",
+   "text": "אני רוצה🙏🏻",
+   "ts": 1792040673000,
+   "date": "2026-10-15",
+   "time": "08:04",
+   "files": [],
+   "drive": null,
+   "phone": "972523445911"
   }
  ]
 }
