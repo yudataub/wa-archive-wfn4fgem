@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-15T12:45:51.291Z",
+ "updated": "2026-10-15T16:10:53.290Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2758,6 +2758,46 @@
    ],
    "drive": null,
    "phone": "972532406000"
+  },
+  {
+   "id": "AC2D9D1E0BE5FBA5E0EC49F3B038F292",
+   "sender": "מיטל בית מאורגן דרך הטבע🌿",
+   "text": "",
+   "ts": 1792073070000,
+   "date": "2026-10-15",
+   "time": "17:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k_Idg45AkLQecKMoDoBI3pHOEX8Hi6cW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k_Idg45AkLQecKMoDoBI3pHOEX8Hi6cW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527035410"
+  },
+  {
+   "id": "AC706C78439FCF011115859AB45EA008",
+   "sender": "don't worry, be happy",
+   "text": "למכירה אופני הרים איכותיים לילדים מהדגם  Rainbow R-3.0. מידה 20 אינץ'.\nהאופניים במצב חנות – נרכבו פעם אחת בלבד ונשמרו בתוך הבית!\nמצב מכני: 100% תקין כמו חדש. הכל עובד (הילוכים וברקסים), גלגלים מנופחים ומוכנים לרכיבה מיידית.\nמפרט: שלדת אלומיניום קלה וחזקה, בולם זעזועים קדמי לרכיבה רכה, ומערכת הילוכים אמינה.\nסיבת מכירה: חוסר שימוש.\nמחיר: 1000. גמיש.\nאיסוף: נהריה",
+   "ts": 1792080632000,
+   "date": "2026-10-15",
+   "time": "19:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "293KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MTbg4EAnlhGqUe2wS5joaGkuqXb7O0Q8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MTbg4EAnlhGqUe2wS5joaGkuqXb7O0Q8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
   }
  ]
 }

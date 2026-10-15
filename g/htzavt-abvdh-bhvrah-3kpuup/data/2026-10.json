@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-15T13:28:29.327Z",
+ "updated": "2026-10-15T14:24:07.031Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -311,6 +311,59 @@
    "files": [],
    "drive": null,
    "phone": "972526802811"
+  },
+  {
+   "id": "3AC2DEA8C4A00A50A80A",
+   "sender": "Avishay Uzan",
+   "text": "למי אפשר לפנות חוץ מהטלפון שכתוב….כי הם עכשיו לא עונים",
+   "ts": 1792071819000,
+   "date": "2026-10-15",
+   "time": "16:43",
+   "files": [],
+   "drive": null,
+   "phone": "972508626363"
+  },
+  {
+   "id": "A518DB62B1D7A9FF69FA37297F211ACE",
+   "sender": "איתמר ישראל חמו מוהל",
+   "text": "סליחה חשבתי ששאלת על בית הספר בחיפה, במוצקין אני לא יודע",
+   "ts": 1792072057000,
+   "date": "2026-10-15",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526802811"
+  },
+  {
+   "id": "AC696B8D5DAB496B7CF3554E241CE2BE",
+   "sender": "אביב ברנבלום",
+   "text": "תנסי אצל מי שפרסם את המודעה",
+   "ts": 1792072358000,
+   "date": "2026-10-15",
+   "time": "16:52",
+   "files": [],
+   "drive": null,
+   "phone": "972546542912"
+  },
+  {
+   "id": "AC6B2DF921CA8DCC2FFAA215ABE25DFD",
+   "sender": "אריאלה",
+   "text": "",
+   "ts": 1792074242000,
+   "date": "2026-10-15",
+   "time": "17:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jMsM-qPc02UTEEYXgpGMs2-53Bi1BJ-0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jMsM-qPc02UTEEYXgpGMs2-53Bi1BJ-0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502023077"
   }
  ]
 }

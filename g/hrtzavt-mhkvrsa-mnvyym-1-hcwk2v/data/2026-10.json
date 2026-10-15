@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-10-14T08:44:22.031Z",
+ "updated": "2026-10-15T15:23:14.992Z",
  "messages": [
   {
    "id": "3EB0C2395372C4C50CC48F",
@@ -199,6 +199,26 @@
      "path": "https://drive.google.com/file/d/1J12uhdAQl8wH5SPLkT4JIM2bVpkY_V1x/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1J12uhdAQl8wH5SPLkT4JIM2bVpkY_V1x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB052905A1B33362167A4",
+   "sender": "הרצאות מהכורסא",
+   "text": "ערב טוב, *בעוד כ 40 דקות*, נתחיל במפגש זום למנויים בלבד, *שיחות מהכורסא בקליק - עם רון יחזקאל*.\n\nעושים סדר במחשב ובסמארטפון. טיפים, מיומנויות ושאלות שלכם מהכורסא בבית - במפגשי זום לייב.\n\nהצטרפו אלינו לסדרת מפגשים חדשה, פעמיים בחודש בימי חמישי בערב - תרגול משותף, התנסות והדגמות.\n\nלא נדרש ידע מוקדם. למנויים בלבד.\n\n👈🏼 *להצטרפות בשעה 19:00 לחצו כאן*:  https://bit.ly/3OT7WFZ",
+   "ts": 1792077772000,
+   "date": "2026-10-15",
+   "time": "18:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10m-UarmdS0PB1hnbxor8QgRi7KK8X3tb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10m-UarmdS0PB1hnbxor8QgRi7KK8X3tb&sz=w1200"
     }
    ],
    "drive": null,

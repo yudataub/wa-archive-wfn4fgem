@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-15T10:54:27.275Z",
+ "updated": "2026-10-15T17:09:01.354Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -4135,6 +4135,86 @@
    "files": [],
    "drive": null,
    "phone": "972549176801"
+  },
+  {
+   "id": "AC5615A02D29750A3D197D8173F56049",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792073023000,
+   "date": "2026-10-15",
+   "time": "17:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "606KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15fHQiXlwRr6hjAiPOTCTbRx04QHSuiAv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15fHQiXlwRr6hjAiPOTCTbRx04QHSuiAv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "ACF876B0040B6701DD39861EFBDB1AF7",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792073024000,
+   "date": "2026-10-15",
+   "time": "17:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EMH1NyqRs6-5QUv6-0qpGW14aWrYlOTw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EMH1NyqRs6-5QUv6-0qpGW14aWrYlOTw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "ACDCA279167670EC9553D6E26ACEAB8C",
+   "sender": "אלקנה",
+   "text": "🔥 *השטיבל - טשולנט יוקרתי הכי משובח בניחוח של פעם* 🔥\n*בקרית אתא*\n*חוויה יהודית אותנטית ברמה גבוהה, טעימה ומחממת לב*\nאם אתם רוצים לצאת מהשגרה, לטעום אוכל יהודי משובח במסעדת בוטיק *עם חלות הבית שלא טעמתם בחיים*\nומה בתפריט:\n✅ *טשולנט הבית עם בשר משובח*\n✅ *טשולנט פרווה*\n✅ *קישקע מיוחד במינו*\n✅ *יאפצ'וק בשר נדיר נדיר*\n✅ *קוגל אטריות ירושלמי מבית אבא*\n✅ *קוגל תפוחי אדמה אוברנייט*\n✅ *פרוסות קוגל תפו\"א*\n✅ *הערינג פיקנטי עם ירקות*\n✅ *טורטיה קריספי בשרי*\n✅ *בלינצ'ס כבד/תפו\"א*\n✅ *כבד קצוץ*\n✅ *ארבעס*\n*מומלץ! טעמת - התמכרת!*\n*פתוח עד 1.00 בלילה*\n*כל הפרטים במודעה 👆*\n*להזמנות:*\n*0529407610*\n\n*פרטים נוספים באתר*\nhttps://cholenet.co.il/cholenet/hashtibel-cholent-kiryat-ata/",
+   "ts": 1792074003000,
+   "date": "2026-10-15",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vww_ygSy4utsPRtd9PK2wzlIaqNxEgnE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vww_ygSy4utsPRtd9PK2wzlIaqNxEgnE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "AC0FAC8A5F9FEA591344D5A4B4E48DD1",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792084133000,
+   "date": "2026-10-15",
+   "time": "20:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1kijQXnR-36LECmJr7XF-Kyjp1KmRcSle/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kijQXnR-36LECmJr7XF-Kyjp1KmRcSle&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
   }
  ]
 }

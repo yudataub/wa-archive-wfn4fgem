@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-15T10:24:56.812Z",
+ "updated": "2026-10-15T17:19:31.474Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -7894,6 +7894,89 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "3A4E89BB766B1BFF3681",
+   "sender": "Nehorait",
+   "text": "אסור לדבר אחרי ברכת המפיל?",
+   "ts": 1792081273000,
+   "date": "2026-10-15",
+   "time": "19:21",
+   "files": [],
+   "drive": null,
+   "phone": "972556890066"
+  },
+  {
+   "id": "3A599050C15D6F66454E",
+   "sender": "ᒪIOᖇ ᘔMIᖇᗩ ᗰAGALASHVILI ",
+   "text": "הי קיבלתי דמי אבטלה מביטוח לאומי האם צריך לעשות מזה מעשר?",
+   "ts": 1792081552000,
+   "date": "2026-10-15",
+   "time": "19:25",
+   "files": [],
+   "drive": null,
+   "phone": "972527863354"
+  },
+  {
+   "id": "ACA5C7DC4216B8D936E1700DAAE2465C",
+   "sender": "הרב אוריאל בצר",
+   "text": "להשתדל מאוד לא לדבר.",
+   "ts": 1792081865000,
+   "date": "2026-10-15",
+   "time": "19:31",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "AC0E841680B78477C9AD2CB8AA3D7AFD",
+   "sender": "הרב אוריאל בצר",
+   "text": "@217291069362246",
+   "ts": 1792081867000,
+   "date": "2026-10-15",
+   "time": "19:31",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "AC2C6090D0003BD8E4C1D29E63479BB1",
+   "sender": "Moshe Itshak Amar",
+   "text": "",
+   "ts": 1792083742000,
+   "date": "2026-10-15",
+   "time": "20:02",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "26KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1-Ld8qo06OYoIhYOJ6VexdO4vWO33WSk4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "33659789541"
+  },
+  {
+   "id": "AC3612BB62B7F7D909D97986EF62DFD1",
+   "sender": "Pnina Buzaglo Elkouby",
+   "text": "מותר לברך על הבדלה?",
+   "ts": 1792084758000,
+   "date": "2026-10-15",
+   "time": "20:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "482KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZPjcLlgvGXfNeLa7B-730k8RsIHCe7zR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZPjcLlgvGXfNeLa7B-730k8RsIHCe7zR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505732588"
   }
  ]
 }

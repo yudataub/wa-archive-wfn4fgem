@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-15T13:04:21.590Z",
+ "updated": "2026-10-15T17:32:31.682Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -2363,6 +2363,26 @@
    "files": [],
    "drive": null,
    "phone": "972532818831"
+  },
+  {
+   "id": "ACEC55D7441BEEF78B123FA813822FE3",
+   "sender": "שלום בוצחק",
+   "text": "*קהילת אוהל מאיר,*\n*זמני תפילות ושיעורים, פרשת \"נח\", התשפ\"ז*.\n\n*קהל קדוש ויקר,*\n*שימו לב 🫶🏻*\n\n* *תפילת מנחה וקבלת שבת בזמנה תתקיים בשעה 17:40.*\n\n*ברוכים הבאים !*",
+   "ts": 1792085547000,
+   "date": "2026-10-15",
+   "time": "20:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1D0bxvZP8twGgxc-KjQZMemBC2eRw7Y88/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1D0bxvZP8twGgxc-KjQZMemBC2eRw7Y88&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

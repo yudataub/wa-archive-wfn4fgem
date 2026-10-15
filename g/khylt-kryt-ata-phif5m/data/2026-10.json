@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-15T13:15:51.738Z",
+ "updated": "2026-10-15T17:05:01.256Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -4374,7 +4374,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1d0fBYIyU2XRh8hYhmPOKjOn26u7WceY8/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1d0fBYIyU2XRh8hYhmPOKjOn26u7WceY8&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1d0fBYIyU2XRh8hYhmPOKjOn26u7WceY8&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/2A1AB035324709111CD1_0.mp4"
     }
    ],
    "drive": null,
@@ -4814,6 +4815,48 @@
    "files": [],
    "drive": null,
    "phone": "972545221809"
+  },
+  {
+   "id": "AC467A59806B482431178EE06354CBCB",
+   "sender": "♾️ E.T.V.G. ♾️",
+   "text": "ביקור ראש הממשלה בנימין נתניהו בקפה גרג בקריית אתא הסתיים וצירי התנועה נפתחו. מעל 1,500 תושבים הגיעו למקום.",
+   "ts": 1792082338000,
+   "date": "2026-10-15",
+   "time": "19:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "24.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1LGtl84_7fJekEZYid9EmFKy3NTWmvGsI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LGtl84_7fJekEZYid9EmFKy3NTWmvGsI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543149232"
+  },
+  {
+   "id": "AC146F0824813079476AA00ECC14CD8C",
+   "sender": "נריה ממן",
+   "text": "הלב שלי חלששש \nמנהיגגג ❤️👑",
+   "ts": 1792082411000,
+   "date": "2026-10-15",
+   "time": "19:40",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "A52F1AC7B750DF42DCD409D339BC407C",
+   "sender": "אשר חברוני עיסוי שיקומי אורטופדי רפואה משלימה משולבת",
+   "text": "😊",
+   "ts": 1792083880000,
+   "date": "2026-10-15",
+   "time": "20:04",
+   "files": [],
+   "drive": null,
+   "phone": "972527004699"
   }
  ]
 }

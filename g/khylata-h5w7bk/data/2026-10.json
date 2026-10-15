@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-15T12:01:43.603Z",
+ "updated": "2026-10-15T17:32:01.666Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -4708,6 +4708,107 @@
    "files": [],
    "drive": null,
    "phone": "972526681329"
+  },
+  {
+   "id": "ACB21F36B0020F56462A8101E65E4DEE",
+   "sender": "talyaa312",
+   "text": "מישהו אולי נוסע מחר לבני ברק להעביר חבילה?",
+   "ts": 1792072845000,
+   "date": "2026-10-15",
+   "time": "17:00",
+   "files": [],
+   "drive": null,
+   "phone": "972547838628"
+  },
+  {
+   "id": "ACA4685E3A27018C9D3BD5C02ABB6A61",
+   "sender": "talyaa312",
+   "text": "",
+   "ts": 1792072942000,
+   "date": "2026-10-15",
+   "time": "17:02",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "81KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/19MjKwFB3ZakjDlRrsBUW7UuJp2ZP8Vwg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547838628"
+  },
+  {
+   "id": "3A754C7966D466E5083E",
+   "sender": "יפה",
+   "text": "המתנ״ס מעונין במורה לאנגלית מדוברת לקבוצת אנשים בוגרים בימי ד משעה שש עד שמונה בערב  מי שמעונין יפנה למתנ״ס",
+   "ts": 1792078331000,
+   "date": "2026-10-15",
+   "time": "18:32",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "ACFB5745B31E54996166CCB9C59C4867",
+   "sender": "שרון😄",
+   "text": "אמא חד הורית, זקוקה לקטלן יתושים ( כמו הדוגמאות בתמונה👆🏻 או אחר שעושה את העבודה).\n\nיש למישהו למסור? \nלתיאום, שרון 052-2828512",
+   "ts": 1792079780000,
+   "date": "2026-10-15",
+   "time": "18:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "37KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OdnHo1QNkvKNmCWhPyNxE8FznTPPCRAR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OdnHo1QNkvKNmCWhPyNxE8FznTPPCRAR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "ACEF7E119A395FE9F6E102230E4A3F90",
+   "sender": "מירב",
+   "text": "🍪✨ קולקציית המגולגלות של המתוקים של מירב ✨🍪\n🤎 מגולגלות קינדר בואנו עם אצבעות שוקולד חלב\n🩷 מגולגלות שוקולד לבן עם במבה אדומה ושוקולד רובי תות\n🍫💚 מגולגלות אמסטרדם – בצק שוקולד עם שוקולד לבן ושוקולד פיסטוק־קדאיף\n🤍💚 מגולגלות אמסטרדם - מגולגלות בצק וניל עם שוקולד לבן ושוקולד פיסטוק־קדאיף\n🌰🍫 מגולגלות פררו רושה עם אגוזי לוז מקורמלים – פרווה\n\n🌾 ויש גם אפשרות למגולגלות ללא גלוטן! קינדר / פררו רושה \n🥰🥰🥰🥰🥰\nפריכות, נמסות בפה ומפוצצות במילוי 🤤\nעבודת יד • חומרי גלם איכותיים • כשרויות מהודרות ✨\n🥛 כשרויות מהדרין – חלב ישראל\n📍 איסוף מנווה שאנן, חיפה\n💌 להזמנות בפרטי\nמירב 0542518181",
+   "ts": 1792083182000,
+   "date": "2026-10-15",
+   "time": "19:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "359KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-ApV4U-kPqsV_sj5tPqw9xP98FIsX5E0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-ApV4U-kPqsV_sj5tPqw9xP98FIsX5E0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542518181"
+  },
+  {
+   "id": "ACE50371C0AFBD2FD46B9C8D9D3043A8",
+   "sender": "מאיה",
+   "text": "*אמהות יקרות🌸*\n*ביום ראשון הקרוב נפתחת קבוצה קטנה ואיכותית לילדים בנות/ בנים (כיתות ב'-ד') – סדנת 'מי אני באמת' לחיזוק הביטחון העצמי והכישורים החברתיים דרך אמנות וקלפים.*\n*​נשארו מקומות אחרונים ממש!*\n*💰 מחיר מיוחד  250 ש\"ח בלבד ל-4 מפגשים*\n*​לפרטים והרשמה מהירה בוואטסאפ: 052-3492545 מאיה אביטל מטפלת רגשית לילדים ונערות | Master nlp | הדרכת הורים*",
+   "ts": 1792085519000,
+   "date": "2026-10-15",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kz2LIGzpG1JaEgIWs4uAmr_427nB07BG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kz2LIGzpG1JaEgIWs4uAmr_427nB07BG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523492545"
   }
  ]
 }

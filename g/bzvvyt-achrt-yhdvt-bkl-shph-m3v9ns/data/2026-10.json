@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בזווית אחרת - יהדות בכל שפה 🎙️",
- "updated": "2026-10-15T10:44:57.157Z",
+ "updated": "2026-10-15T17:37:08.928Z",
  "messages": [
   {
    "id": "AC0DBD1AD0C821516CECD9B0398FE01A",
@@ -94,6 +94,260 @@
    ],
    "drive": null,
    "phone": "972542104147"
+  },
+  {
+   "id": "AC0A2AD955A709F1FF1C98D52001D1BC",
+   "sender": "רועי כהן",
+   "text": "האפליקציה להורדה והתקנה בחינם",
+   "ts": 1792075197000,
+   "date": "2026-10-15",
+   "time": "17:39",
+   "files": [
+    {
+     "name": "BezavitCaptions-v10.apk",
+     "size": "17.4MB",
+     "type": "application/vnd.android.package-archive",
+     "path": "https://drive.google.com/file/d/1eXDt1vqEnfjJnCOmkW09FWQQSBlBGwvf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A55BAF5D373D51F2582451D5E5E88EA9",
+   "sender": "Michael Dahan",
+   "text": "הוא לא נותן את הכפתור של 'בחר סרטון'",
+   "ts": 1792078798000,
+   "date": "2026-10-15",
+   "time": "18:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TxI5adil6nE_TqRQ096Y6dR04C876bKj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TxI5adil6nE_TqRQ096Y6dR04C876bKj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "ACA72F9CA29EAFF6DD3A6E5DDB6F0622",
+   "sender": "רועי כהן",
+   "text": "שמת את הAPI הקוד לפי ההוראות?",
+   "ts": 1792080711000,
+   "date": "2026-10-15",
+   "time": "19:11",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A543A523C5941CCEF6D69E5790B03407",
+   "sender": "Michael Dahan",
+   "text": "כן",
+   "ts": 1792080728000,
+   "date": "2026-10-15",
+   "time": "19:12",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "AC814FB8B259C4C08222C13CDE6484E8",
+   "sender": "רועי כהן",
+   "text": "זה באפליקציה או בקישור?",
+   "ts": 1792080751000,
+   "date": "2026-10-15",
+   "time": "19:12",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A59B783A06CD8AAB3BB5D76F05D8BB43",
+   "sender": "Michael Dahan",
+   "text": "באפליקציה",
+   "ts": 1792080775000,
+   "date": "2026-10-15",
+   "time": "19:12",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "AC33A941F829F7B222A5526F3E215A1A",
+   "sender": "רועי כהן",
+   "text": "אתה יכול לנסות רגע עם הקישור?",
+   "ts": 1792080785000,
+   "date": "2026-10-15",
+   "time": "19:13",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACAF35CCB7950896B943186DB748CC53",
+   "sender": "רועי כהן",
+   "text": "צריך לשים שוב את הקוד ההוא",
+   "ts": 1792080794000,
+   "date": "2026-10-15",
+   "time": "19:13",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACE5B169E68362644CF32A61D70BEC00",
+   "sender": "רועי כהן",
+   "text": "וגם האם ניסית עם זה גירסה 10?",
+   "ts": 1792080812000,
+   "date": "2026-10-15",
+   "time": "19:13",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5439283DE86B25DB74BBFB9323DD6E5",
+   "sender": "Michael Dahan",
+   "text": "",
+   "ts": 1792080818000,
+   "date": "2026-10-15",
+   "time": "19:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YFQAZ2yEV0t3frD9sIcGhMtiYEkFP-3Q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YFQAZ2yEV0t3frD9sIcGhMtiYEkFP-3Q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "A50485183B80F410B11B983267C25FFE",
+   "sender": "Michael Dahan",
+   "text": "בקישור הוא נותן",
+   "ts": 1792080822000,
+   "date": "2026-10-15",
+   "time": "19:13",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "AC0DAAD9B28FB0261A2F7B96785B9ADC",
+   "sender": "רועי כהן",
+   "text": "?",
+   "ts": 1792080847000,
+   "date": "2026-10-15",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5E0CE8EA921ED8B8F28EF083AAF382F",
+   "sender": "Michael Dahan",
+   "text": "זה עדכן אותו כשלחצתי על גרסה 10\nאבל אולי כדאי שאמחק ואתקין מחדש?",
+   "ts": 1792080881000,
+   "date": "2026-10-15",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "A56644A9257DAF16E6513C7385A51A5D",
+   "sender": "Michael Dahan",
+   "text": "התקנתי מחדש ועדיין אין את הכפתור",
+   "ts": 1792081137000,
+   "date": "2026-10-15",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "AC222548F606AF6DE9F3FD4B6059E0FA",
+   "sender": "רועי כהן",
+   "text": "איזה טלפון אתה?",
+   "ts": 1792081650000,
+   "date": "2026-10-15",
+   "time": "19:27",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5399F24F7948BE490D589D4E5CB135F",
+   "sender": "Michael Dahan",
+   "text": "S25 סמסונג",
+   "ts": 1792081672000,
+   "date": "2026-10-15",
+   "time": "19:27",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
+  },
+  {
+   "id": "AC69BD1133637EA5E01CE48CD841FB57",
+   "sender": "רועי כהן",
+   "text": "אנסה לתקן",
+   "ts": 1792082297000,
+   "date": "2026-10-15",
+   "time": "19:38",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACC8CAE230B45F41B67B146B33235A44",
+   "sender": "רועי כהן",
+   "text": "",
+   "ts": 1792085690000,
+   "date": "2026-10-15",
+   "time": "20:34",
+   "files": [
+    {
+     "name": "BezavitCaptions-v12.apk",
+     "size": "17.4MB",
+     "type": "application/vnd.android.package-archive",
+     "path": "https://drive.google.com/file/d/1S-WoN3wuurtzFhuS_81wQxrMiF5NbxOF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "AC6F23D7949F6DDFB0B3B91F7CBFFB4E",
+   "sender": "רועי כהן",
+   "text": "תתקין בבקשה ותבדוק.\n\nבגדול ממליץ גם לכולם להתקין את הגרסא האחרונה אלו השינויים:\n.\n✨ *מה נוסף* :\n• תיקון מילה בלחיצה: עוצרים את הסרטון, לוחצים על המילה עצמה ומתקנים. אפשר לתקן אותה בכל הסרטון בבת אחת.\n• הזזת מילה לכתובית הבאה או לקודמת.\n• ירידת שורה בתוך אותה כתובית, למשל \"ויאמר משה\" ומתחת \"לבני ישראל\".\n• מילה מודגשת: מילה חשובה הופכת לגדולה, בשורה משלה ובצבע ההדגשה.\n• כיוונים חדשים: רווח בין שורות, מרווח בין אותיות ועובי המסגרת של האותיות.\n• הגדרות פשוטות יותר: מפתח Groq אחד בחינם, וזהו.\n• תיקון לטלפונים עם תצוגה מוגדלת, כמו בחלק מהסמסונגים, שבהם לא הופיע הכפתור לבחירת סרטון.",
+   "ts": 1792085734000,
+   "date": "2026-10-15",
+   "time": "20:35",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5A6460354F86744DDAF20F031F14469",
+   "sender": "Michael Dahan",
+   "text": "עובד!\nתודה רבה🙏🙏",
+   "ts": 1792085803000,
+   "date": "2026-10-15",
+   "time": "20:36",
+   "files": [],
+   "drive": null,
+   "phone": "17472874243"
   }
  ]
 }

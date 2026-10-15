@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-15T12:12:43.756Z",
+ "updated": "2026-10-15T15:13:44.834Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -4197,6 +4197,214 @@
    "files": [],
    "drive": null,
    "phone": "972524646360"
+  },
+  {
+   "id": "ACA5DC45E3E06BDF6B3ACB13401AFCF3",
+   "sender": "רועי כהן",
+   "text": "🎬 **בזווית אחרת כתוביות**\nכתוביות מונפשות בעברית לסרטונים, כמו באפליקציות הגדולות. בחינם ובלי מנוי.\n\n💻 **באתר:** עובד ישר מהדפדפן, גם במחשב וגם בטלפון, בלי להתקין כלום.\n👈 https://captions.adifferentangle.ai\n\n📱 **באפליקציה לאנדרואיד:** הקובץ מצורף. פותחים אותו ולוחצים \"התקן\". אם קופצת אזהרה של Play Protect, בוחרים \"התקן בכל זאת\". זה תקין, פשוט כי האפליקציה לא מהחנות.\n\n✨ **מה יש בפנים:**\n• תמלול אוטומטי, וכל מילה מתוזמנת לדיבור\n• סגנונות, צבעים, פונטים וגודל\n• תיקון מילה בלחיצה, ירידת שורה ומילה מודגשת\n• ייצוא סרטון עם כתוביות, וגם קובץ SRT\n\n📺 מצורף סרטון הסבר קצר שמראה הכל מההתחלה.",
+   "ts": 1792074215000,
+   "date": "2026-10-15",
+   "time": "17:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "19.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1m_oYVVaJxHpchKoYO7fGvcVn5HLte-bi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m_oYVVaJxHpchKoYO7fGvcVn5HLte-bi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACDAAFC008019522BE2A2EBA754ECE00",
+   "sender": "רועי כהן",
+   "text": "להורדת האפליקציה לטלפון",
+   "ts": 1792074216000,
+   "date": "2026-10-15",
+   "time": "17:23",
+   "files": [
+    {
+     "name": "BezavitCaptions-v10.apk",
+     "size": "17.4MB",
+     "type": "application/vnd.android.package-archive",
+     "path": "https://drive.google.com/file/d/1AvGHnxE7uFPtK10iICLg3eq3iN2QQIwH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "ACE89BDB0800BAB85154087FB8B5DFFA",
+   "sender": "רועי כהן",
+   "text": "לאחר כמה גרסאות וכל מיני בקשות חכמות של החברים כאן בקבוצה יוצאת גרסה 10 משופרת גם הוידאו הפעלה עודכן במידה ותרצו לשתף לחברים.\nתודה רבה לכולם \nזאת רק ההתחלה בע\"ה שבוע הבא בלי נדר עוד אפליקציה חינמית חשובה.",
+   "ts": 1792074292000,
+   "date": "2026-10-15",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5418647238E48E92B5137CB17B465CC",
+   "sender": "רב/ מגשר",
+   "text": "צריך למחוק את הקודם",
+   "ts": 1792074392000,
+   "date": "2026-10-15",
+   "time": "17:26",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "AC8631F385624E34AC319B73582A75EE",
+   "sender": "רועי כהן",
+   "text": "לא פשוט להוריד את החדש ולהתקין זה יעדכן את הישן והמפתח API שכבר שמת לא ימחק. \nבכל יעבוד מיד",
+   "ts": 1792074432000,
+   "date": "2026-10-15",
+   "time": "17:27",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3EB02D4F3258D75857F3FA",
+   "sender": "שמואל קורייב",
+   "text": "לא פותח עם כושר פליי, מה להגיד להם לפתוח?",
+   "ts": 1792074462000,
+   "date": "2026-10-15",
+   "time": "17:27",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "ACC1D011732F0D0167FA33B9638E3AD3",
+   "sender": "רועי כהן",
+   "text": "למי שיש לו אינטרנט מסונן: צריך לבקש לפתוח את captions.adifferentangle.ai ואת api.groq.com",
+   "ts": 1792074523000,
+   "date": "2026-10-15",
+   "time": "17:28",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5537BD590DD8F289C479BCDFA92CFBE",
+   "sender": "רב/ מגשר",
+   "text": "מה החוויה החדשה לאפליקציה שאתה מכין שיפור קול הוספת סמלים , שינוי רקע.   \nחחחחח",
+   "ts": 1792074717000,
+   "date": "2026-10-15",
+   "time": "17:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "AC20C55A292DD5BB1E03ABFCA6D0872D",
+   "sender": "רועי כהן",
+   "text": "חכה תראה",
+   "ts": 1792074773000,
+   "date": "2026-10-15",
+   "time": "17:32",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A57D42D41875EE576FD3F947893C7982",
+   "sender": "רב/ מגשר",
+   "text": "בסוף נעשה הכל דרך האפליקציה.  לקרא  את הפרומטר.",
+   "ts": 1792074929000,
+   "date": "2026-10-15",
+   "time": "17:35",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "A550796ADD66D7C94AD603FA26C7AB5E",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "לקראת הילולה גדולה שאני זוכה להפיק בקרוב מחפש איש שיווק שיוכל להביא חסויות *מבעלי עסקים גדולים*\nפרטי באישי",
+   "ts": 1792076599000,
+   "date": "2026-10-15",
+   "time": "18:03",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "AC9180909FC4A68A4AAC584BB343E76D",
+   "sender": "עוז ברזילי",
+   "text": "",
+   "ts": 1792077146000,
+   "date": "2026-10-15",
+   "time": "18:12",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "15KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1C03rt1vppDhAl-GhFEHH524I-uVzzq4N/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "A551DCC62EF4F11F300B425467EF45E4",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "בני ברק",
+   "ts": 1792077164000,
+   "date": "2026-10-15",
+   "time": "18:12",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "A517AE8C90CA2D4FD2816BBC2C920B7C",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "",
+   "ts": 1792077198000,
+   "date": "2026-10-15",
+   "time": "18:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "359KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G329rEE9PxEQFTrNwhvZ6Od86cKw_KTn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G329rEE9PxEQFTrNwhvZ6Od86cKw_KTn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "A53078AC3D727838FD1C21EA2C4380C8",
+   "sender": "Davideo צילום ועריכת וידאו  AI",
+   "text": "",
+   "ts": 1792077199000,
+   "date": "2026-10-15",
+   "time": "18:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "378KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1YC4fNc5C4cDDbMG_TcPTmrY5CPzuyvaI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1YC4fNc5C4cDDbMG_TcPTmrY5CPzuyvaI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529551584"
   }
  ]
 }

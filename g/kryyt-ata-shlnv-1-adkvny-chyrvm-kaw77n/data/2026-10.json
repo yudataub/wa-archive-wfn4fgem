@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קריית אתא שלנו 1 | עדכוני חירום",
- "updated": "2026-10-15T11:45:36.331Z",
+ "updated": "2026-10-15T15:30:45.139Z",
  "messages": [
   {
    "id": "3A08A2A98258D26BE4B2",
@@ -99,6 +99,26 @@
    "files": [],
    "drive": null,
    "phone": "972502110820"
+  },
+  {
+   "id": "3A080933287B3A627226",
+   "sender": "Boaz Golan",
+   "text": "ביקור ראש הממשלה בנימין נתניהו בקפה גרג בקריית אתא הסתיים וצירי התנועה נפתחו. מעל 1,500 תושבים הגיעו למקום.",
+   "ts": 1792078231000,
+   "date": "2026-10-15",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "16.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ew1yXQkZf7Ccb74HzKXh1WZK5XSnhLE0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ew1yXQkZf7Ccb74HzKXh1WZK5XSnhLE0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504780000"
   }
  ]
 }
