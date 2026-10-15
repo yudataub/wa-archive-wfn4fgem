@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-15T05:45:17.891Z",
+ "updated": "2026-10-15T12:01:13.598Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -2835,6 +2835,48 @@
    "files": [],
    "drive": null,
    "phone": "972586788467"
+  },
+  {
+   "id": "AC01F166F3464676364C4B052488412F",
+   "sender": "מעיין גרינשפן",
+   "text": "עשינו היום היה מוצלח ממש במקום הירח שהם מציעים הדבקנו פשוט דף לבן חלק.\nואז הדגמנו איך נראה הירח בראש חודש ואיך נראה הירח באימצע החודש.\nןאיזה חגים יש לנו באמצע חודש- סוכות, פסח, טו בשבט",
+   "ts": 1792063373000,
+   "date": "2026-10-15",
+   "time": "14:22",
+   "files": [],
+   "drive": null,
+   "phone": "972587810580"
+  },
+  {
+   "id": "AC9E701C2BB8FB122D6726EFE4694C81",
+   "sender": "כנרת אזולאי",
+   "text": "",
+   "ts": 1792065652000,
+   "date": "2026-10-15",
+   "time": "15:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1i2BWtvRRIm0M-xv-v9MVg22lyGSJ8cDG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i2BWtvRRIm0M-xv-v9MVg22lyGSJ8cDG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504438818"
+  },
+  {
+   "id": "AC164B2DA62357FEF72C1CEABA9E7DAC",
+   "sender": "כנרת אזולאי",
+   "text": "גם אנחנו🙏",
+   "ts": 1792065653000,
+   "date": "2026-10-15",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972504438818"
   }
  ]
 }

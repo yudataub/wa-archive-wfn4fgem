@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-14T19:28:59.795Z",
+ "updated": "2026-10-15T11:58:43.558Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -969,6 +969,47 @@
    "files": [],
    "drive": null,
    "phone": "972549377036"
+  },
+  {
+   "id": "ACC335CC30CC15248CA74FB2F72805CF",
+   "sender": "עמיחי משה מלק",
+   "text": "יש למישהו את המילים של השיר \"צחוק בא לעולם\" להדפסה לתלמידים? או שעדיף אולי ללמד בעל פה?",
+   "ts": 1792064621000,
+   "date": "2026-10-15",
+   "time": "14:43",
+   "files": [],
+   "drive": null,
+   "phone": "972545369985"
+  },
+  {
+   "id": "ACCAB10EC1671480A43365F3DBF251C3",
+   "sender": "עדי בן ארי",
+   "text": "",
+   "ts": 1792064803000,
+   "date": "2026-10-15",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "DOC-20250512-WA0050_261015_144613.pdf",
+     "size": "1.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bgI5wbhC-LrBxYsSn_mU6dnW5UIl4cd_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545684372"
+  },
+  {
+   "id": "AC343B728353E1A1BB84FBFD6E60A577",
+   "sender": "עמיחי משה מלק",
+   "text": "תודה!!🙏",
+   "ts": 1792065513000,
+   "date": "2026-10-15",
+   "time": "14:58",
+   "files": [],
+   "drive": null,
+   "phone": "972545369985"
   }
  ]
 }

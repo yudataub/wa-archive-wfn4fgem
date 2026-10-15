@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-15T07:53:03.639Z",
+ "updated": "2026-10-15T13:25:21.909Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -4762,6 +4762,164 @@
      "thumb": "https://drive.google.com/thumbnail?id=1HCJ4EfptTOokFqeGFJeahtK1dlM3i-N5&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC5E4A2F9AEEBC65C89C0CA498478FD0",
+   "sender": "שרה אפללו",
+   "text": "",
+   "ts": 1792062224000,
+   "date": "2026-10-15",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NnS8iL67QTB8AMjSzp18YYCKCMxoBzdz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NnS8iL67QTB8AMjSzp18YYCKCMxoBzdz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528119745"
+  },
+  {
+   "id": "AC03AEEA2680DD763674AA3FA04FB31D",
+   "sender": "שרה אפללו",
+   "text": "תודה על הרעיון! הוספתי גם כבש ועז.",
+   "ts": 1792062226000,
+   "date": "2026-10-15",
+   "time": "14:03",
+   "files": [],
+   "drive": null,
+   "phone": "972528119745"
+  },
+  {
+   "id": "AC99C261AFE18CCB31FB175852DA069C",
+   "sender": "מירי הניג",
+   "text": "איך אפשרי לצרף מורה לקבוצה?",
+   "ts": 1792063419000,
+   "date": "2026-10-15",
+   "time": "14:23",
+   "files": [],
+   "drive": null,
+   "phone": "972584012198"
+  },
+  {
+   "id": "3AFD9F5095A4DE30FBAF",
+   "sender": "שושנה",
+   "text": "סולת בלולה בשמן\nאפשר קוסקוס?",
+   "ts": 1792063645000,
+   "date": "2026-10-15",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "972502022280"
+  },
+  {
+   "id": "ACBBA01FC2F46ED5EFF90F4D89591CAF",
+   "sender": "Yael",
+   "text": "",
+   "ts": 1792063749000,
+   "date": "2026-10-15",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1GuYKTfo30iPUAK5ni7JbCkKJRmeGHbio/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972532574881"
+  },
+  {
+   "id": "AC21C4CCB03D7D76A7E11A65F0AA36E9",
+   "sender": "yiskaperetz",
+   "text": "",
+   "ts": 1792064226000,
+   "date": "2026-10-15",
+   "time": "14:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hocHs1JAZy6kUeGnfzA13UgDK2PqDpno/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hocHs1JAZy6kUeGnfzA13UgDK2PqDpno&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556686433"
+  },
+  {
+   "id": "ACB02BFB5E98860485ADD2BEEC082AA9",
+   "sender": "yiskaperetz",
+   "text": "תודה על רעיון מדהים✨",
+   "ts": 1792064227000,
+   "date": "2026-10-15",
+   "time": "14:37",
+   "files": [],
+   "drive": null,
+   "phone": "972556686433"
+  },
+  {
+   "id": "ACE329431D5E81D09618C7D33EBD29E9",
+   "sender": "אורית הודיה",
+   "text": "וואאווו אשמח למתכון ומינונים",
+   "ts": 1792067282000,
+   "date": "2026-10-15",
+   "time": "15:28",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACB5F12CF4F1A23C5C49CA1991794452",
+   "sender": "אורית הודיה",
+   "text": "כל הכבוד👏👏👏\nעל כל הרעיונות המקסימים",
+   "ts": 1792067284000,
+   "date": "2026-10-15",
+   "time": "15:28",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "3AF29F8661B84E89BF42",
+   "sender": "😉",
+   "text": "אלוף העולם הרב ישראל!",
+   "ts": 1792069008000,
+   "date": "2026-10-15",
+   "time": "15:56",
+   "files": [],
+   "drive": null,
+   "phone": "972545740845"
+  },
+  {
+   "id": "ACCB70200F17C4589A8B36D0CCDD10C1",
+   "sender": "ישראל יעקב שריד",
+   "text": "עשיתי מהראש (מהידיים)\n\nבררנו את הסולת\nשמן וסולת (מראים את כל השלבים)-\nבוללים סולת ושמן\n לא הרבה שמן, (שיצא אחרי בלילה כמו קוסקוס)\n\nואז מוסיפים מים שיהיה קצת רך, טיפה דביקי, קצת סוכר ווניל, לשים (לישה יותר נוחה מבצק מקמח)\nמועכים לפיתה דקה\nומטגנים במחבת בלי שמן\n\nעשיתי לילדים על המקום כדי להראות להם את השלבים של ההכנה והפתיתה וכולי \n( ואז הבצק קצת דביקי והייתי צריך לשמן את הידיים) - יצא טעים, חילקתי לכל אחד כמה פירורים...\n אחר כך הכנתי בצק יותר גדול ונתתי לו לעמוד איזה שעתיים ואז הבצק פחות דביקי ויותר נוח לעבוד ונתתי לכל ילד להכין בעצמו והבאתי שוקולד למריחה- היה פצצה! כולם אהבו...",
+   "ts": 1792069222000,
+   "date": "2026-10-15",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972526109520"
+  },
+  {
+   "id": "ACF1FF146589DABECB3C0569BB67419B",
+   "sender": "אורית הודיה",
+   "text": "תודה על ההסבר",
+   "ts": 1792070696000,
+   "date": "2026-10-15",
+   "time": "16:24",
+   "files": [],
    "drive": null,
    "phone": "972509605150"
   }

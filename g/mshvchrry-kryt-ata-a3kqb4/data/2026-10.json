@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משוחררי קרית אתא",
- "updated": "2026-10-14T12:57:59.689Z",
+ "updated": "2026-10-15T12:53:51.401Z",
  "messages": [
   {
    "id": "AC8F9B623A83B9BA7F2D652E78DCBB7D",
@@ -181,6 +181,26 @@
      "path": "https://drive.google.com/file/d/13Rss5Z5ap8SnU9LAn2NFjNmcWtZ6ieZl/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=13Rss5Z5ap8SnU9LAn2NFjNmcWtZ6ieZl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC70B65936A141DFAF5C21E0346CBE2F",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "https://www.be-chef.co.il/pastry_course_discharged_soldiers",
+   "ts": 1792068822000,
+   "date": "2026-10-15",
+   "time": "15:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "463KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v9o2YFCYptBBRb8ImoW73K0jgNWNbUbV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v9o2YFCYptBBRb8ImoW73K0jgNWNbUbV&sz=w1200"
     }
    ],
    "drive": null,

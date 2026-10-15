@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "עזי לוי - AI - קבוצת התייעצות ושיתוף",
- "updated": "2026-10-15T08:04:40.231Z",
+ "updated": "2026-10-15T11:42:15.179Z",
  "messages": [
   {
    "id": "ACF99E6FEDA7D3D50F39865496966722",
@@ -391,6 +391,39 @@
    ],
    "drive": null,
    "phone": "972525802441"
+  },
+  {
+   "id": "ACA0FCEEA1BCCF0987D1FA0AB9723A54",
+   "sender": "ערן",
+   "text": "האם אפשר ליצור gems on Claude or chatgpt as on Gemini",
+   "ts": 1792061751000,
+   "date": "2026-10-15",
+   "time": "13:55",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
+  },
+  {
+   "id": "AC090C81CF0B14C09F0C86277085699C",
+   "sender": "Nadav",
+   "text": "זה נקרא project אבל הפך אצלי למיותר מאז שאני עובד עם קלוד קוד",
+   "ts": 1792062630000,
+   "date": "2026-10-15",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "phone": "972525802441"
+  },
+  {
+   "id": "AC71F2E024FBFC45C345AC246F0E61F9",
+   "sender": "ערן",
+   "text": "האם צריך מנוי לזה",
+   "ts": 1792064524000,
+   "date": "2026-10-15",
+   "time": "14:42",
+   "files": [],
+   "drive": null,
+   "phone": "972502356464"
   }
  ]
 }

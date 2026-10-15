@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-15T08:44:11.447Z",
+ "updated": "2026-10-15T11:56:13.506Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -6257,6 +6257,112 @@
    "files": [],
    "drive": null,
    "phone": "972587683835"
+  },
+  {
+   "id": "AC92C1D18FB80BBF2F90062118DA602E",
+   "sender": "מ.ד.",
+   "text": "עד 2",
+   "ts": 1792061091000,
+   "date": "2026-10-15",
+   "time": "13:44",
+   "files": [],
+   "drive": null,
+   "phone": "972527691942"
+  },
+  {
+   "id": "A5E5C19C7807973EDBA759DB309112E1",
+   "sender": "Harelectronics",
+   "text": "",
+   "ts": 1792061444000,
+   "date": "2026-10-15",
+   "time": "13:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/129oIV4ZTfnv0MD7DslatDZV0CN1uHduA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=129oIV4ZTfnv0MD7DslatDZV0CN1uHduA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509252690"
+  },
+  {
+   "id": "AC7853C04B87D555AD381079A5069D19",
+   "sender": "מ.ד.",
+   "text": "מזל טוב שיהיה זה קשר של קימא לבנין עדי עד. שמחה גדולה ב\"ה",
+   "ts": 1792061781000,
+   "date": "2026-10-15",
+   "time": "13:56",
+   "files": [],
+   "drive": null,
+   "phone": "972527691942"
+  },
+  {
+   "id": "AC2460A2B60D35B4833FFBA1F5281B83",
+   "sender": "יהודי פשוט",
+   "text": "מזל טוב",
+   "ts": 1792061854000,
+   "date": "2026-10-15",
+   "time": "13:57",
+   "files": [],
+   "drive": null,
+   "phone": "972548424993"
+  },
+  {
+   "id": "ACE3F925DD78D0BE0590192B128831D6",
+   "sender": "יצחק חדד",
+   "text": "מזל טוב",
+   "ts": 1792061989000,
+   "date": "2026-10-15",
+   "time": "13:59",
+   "files": [],
+   "drive": null,
+   "phone": "972546377391"
+  },
+  {
+   "id": "AC1E9E9D8993E4C52524A516A553ABA8",
+   "sender": "Rav Itzhak Pollack",
+   "text": "",
+   "ts": 1792062026000,
+   "date": "2026-10-15",
+   "time": "14:00",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "28KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1f0JXWIOFN7-fkTAg1TtKNmrxwYmSondl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1f0JXWIOFN7-fkTAg1TtKNmrxwYmSondl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549813838"
+  },
+  {
+   "id": "AC15975EB814478246DF6B432AE4C77A",
+   "sender": "kenig",
+   "text": "144\nמספר פלאפון של גברת בירינבוים מגבעה ג🙏",
+   "ts": 1792062558000,
+   "date": "2026-10-15",
+   "time": "14:09",
+   "files": [],
+   "drive": null,
+   "phone": "972587165948"
+  },
+  {
+   "id": "AC9C301E68EA8AD221E0350C6116D330",
+   "sender": "אריאל מנצור מורה נהיגה",
+   "text": "מי שמגיע מבני ברק ..\n\nצריכים להביא מפנחס ראובן ברחוב השומר חבילה לא כבדה.. אבל תופסת בגאז או ספסל אחורי\n0504131403 גבלי",
+   "ts": 1792065356000,
+   "date": "2026-10-15",
+   "time": "14:55",
+   "files": [],
+   "drive": null,
+   "phone": "972542415060"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-15T09:27:49.077Z",
+ "updated": "2026-10-15T12:01:13.617Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -3135,6 +3135,48 @@
    ],
    "drive": null,
    "phone": "972559579411"
+  },
+  {
+   "id": "2A632A36ECFFFB53177D",
+   "sender": "ינון",
+   "text": "🚗 חדש בצפון! \nקבוצה שקטה, ללא חפירות, עם שירות אמין ודיסקרטי.\nשירות משלוחים והזמנת נהגים אישי, עם מאגר נהגים יראי שמיים (אנ״ש) ברכבים חדישים ושמורים.",
+   "ts": 1792061662000,
+   "date": "2026-10-15",
+   "time": "13:54",
+   "files": [],
+   "drive": null,
+   "phone": "972503563494"
+  },
+  {
+   "id": "ACC86576160E74C84472CB1D7C463E96",
+   "sender": "יוחאי דוד הרוש",
+   "text": "בואו להנות ממגוון רחב של טעמים בטורטיה שלנו וכמובן שלחברי הקבוצה יש 10% הנחה \nמחקים לכם❤️",
+   "ts": 1792065656000,
+   "date": "2026-10-15",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972505691929"
+  },
+  {
+   "id": "ACEA0145A91E47A2C53EC1792FA5F561",
+   "sender": "יוחאי דוד הרוש",
+   "text": "",
+   "ts": 1792065656000,
+   "date": "2026-10-15",
+   "time": "15:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Zq1o8tlJZPC3WhrVMtJO6l6rqpfNO6vr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Zq1o8tlJZPC3WhrVMtJO6l6rqpfNO6vr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505691929"
   }
  ]
 }

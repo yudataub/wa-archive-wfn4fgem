@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-15T09:33:25.104Z",
+ "updated": "2026-10-15T09:47:55.352Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3630,6 +3630,26 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "3EB0D640DA1F896CED6EF8",
+   "sender": "נועם",
+   "text": "*מורות ומורים יקרים*\n*מוזמנים להצטרף לסדרת הוובינרים שמתקיימת לאורך השנה: שילוב בינה מלאכותית בהוראת המתמטיקה חט\"ע*\n\n💡מפגש שני:\n*מהם skills ומה ההבדל מהgems?*\n*ואיך יוצרים בעזרתם סוכני AI איכותיים ומותאמים אישית להוראת מתמטיקה* \n\nיום רביעי 21/10/26 ,  16:30 - 17:30\nליאורה יוספזון\n\nלכל הפרטים, מועדי מפגשים, קישורים למצגות/ הקלטות, מוזמנים להכנס לקובץ הבא: https://docs.google.com/document/d/1fqrtGYoP8QV9uXEAeGujt_EoEAwPo763PdZt0K9RaFw/edit?tab=t.0\n\nקישור למפגש: https://edu-il.zoom.us/j/7380214076\n\n✨*מצפים לראותכם* ✨\nצוות הדרכה ארצי במתמטיקה חט\"ע",
+   "ts": 1792057669000,
+   "date": "2026-10-15",
+   "time": "12:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uUoRXkXmqYSEdD1xeNyMwhU460c70R6s/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uUoRXkXmqYSEdD1xeNyMwhU460c70R6s&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

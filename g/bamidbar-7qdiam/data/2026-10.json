@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-15T08:23:04.161Z",
+ "updated": "2026-10-15T11:49:43.410Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -2719,6 +2719,143 @@
    "files": [],
    "drive": null,
    "phone": "972503242405"
+  },
+  {
+   "id": "ACE9934BAAF4F21601B32395B9005A6B",
+   "sender": "מוטי אלבז",
+   "text": "כן הם שלי",
+   "ts": 1792059034000,
+   "date": "2026-10-15",
+   "time": "13:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC68E3DF315AE25C04B97491B7E4DAE0",
+   "sender": "מזל טוב דיקשטיין",
+   "text": "מדהים, יישר כח גדול על השיתוף!",
+   "ts": 1792059091000,
+   "date": "2026-10-15",
+   "time": "13:11",
+   "files": [],
+   "drive": null,
+   "phone": "972586770771"
+  },
+  {
+   "id": "AC800595CFD2A2A146C5CBA83FD30525",
+   "sender": "נטע אליה",
+   "text": "אפשר בבקשה לקבל את המצגות לספר שמואל?\nתודה רבה",
+   "ts": 1792059133000,
+   "date": "2026-10-15",
+   "time": "13:12",
+   "files": [],
+   "drive": null,
+   "phone": "972556803507"
+  },
+  {
+   "id": "ACDB93B822209F918522BAE0763A59AA",
+   "sender": "דניאלה פלור",
+   "text": "האם יש גם סירטונים לשמואל א?",
+   "ts": 1792059363000,
+   "date": "2026-10-15",
+   "time": "13:16",
+   "files": [],
+   "drive": null,
+   "phone": "972534304074"
+  },
+  {
+   "id": "AC7D4F11D071493B9C51A4925618DE62",
+   "sender": "מוטי אלבז",
+   "text": "https://drive.google.com/drive/folders/1Qoy6GMg-yacyVE_iYx-DunmrxxAJqD4S\nשמואל א",
+   "ts": 1792059402000,
+   "date": "2026-10-15",
+   "time": "13:16",
+   "files": [],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACFF92B47B71A45EF94FACDAB0A22D78",
+   "sender": "נטע אליה",
+   "text": "תודה רבה\nיישר כח!",
+   "ts": 1792059871000,
+   "date": "2026-10-15",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "phone": "972556803507"
+  },
+  {
+   "id": "AC753783F8735881D2FB0B3E2B797C5D",
+   "sender": "ארז נחשון",
+   "text": "ממש יפה \nיש גם על הפרקים האחרונים של שמואל א?",
+   "ts": 1792061121000,
+   "date": "2026-10-15",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "phone": "972549796409"
+  },
+  {
+   "id": "ACA78FBBC6F1B055EA30604D8A8E10E6",
+   "sender": "מוטי אלבז",
+   "text": "כרגע עוד לא. עד פרק כב",
+   "ts": 1792062346000,
+   "date": "2026-10-15",
+   "time": "14:05",
+   "files": [],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC36C1723141B92EC9397CC9BCE27ABE",
+   "sender": "בת שבע חדאד",
+   "text": "יש אולי?🙏",
+   "ts": 1792062653000,
+   "date": "2026-10-15",
+   "time": "14:10",
+   "files": [],
+   "drive": null,
+   "phone": "972503242405"
+  },
+  {
+   "id": "AC42E029BA60005A327A50D25D20C104",
+   "sender": "סיון סעדו",
+   "text": "",
+   "ts": 1792064919000,
+   "date": "2026-10-15",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "דף חזרה לפרשת במדבר.docx",
+     "size": "5.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1EqTwnrYH_iSceQ03R78MsVxuo9oHkXUL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509345620"
+  },
+  {
+   "id": "AC00708E4BD9FD0FA0793D85D3BE9ED4",
+   "sender": "סיון סעדו",
+   "text": "",
+   "ts": 1792064957000,
+   "date": "2026-10-15",
+   "time": "14:49",
+   "files": [
+    {
+     "name": "דף חזרה לפרשת במדבר.docx",
+     "size": "13KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1aBlxdj9tis9fGDswR6n90F68odcy6f61/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509345620"
   }
  ]
 }

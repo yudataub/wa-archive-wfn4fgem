@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בזווית אחרת - יהדות בכל שפה 🎙️",
- "updated": "2026-10-15T06:25:48.438Z",
+ "updated": "2026-10-15T10:44:57.157Z",
  "messages": [
   {
    "id": "AC0DBD1AD0C821516CECD9B0398FE01A",
@@ -17,7 +17,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1oX6sMGj0LlQG4_5hMTK_q6hZryyoFli_/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1oX6sMGj0LlQG4_5hMTK_q6hZryyoFli_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1oX6sMGj0LlQG4_5hMTK_q6hZryyoFli_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-yhdvt-bkl-shph-m3v9ns/v/2026-10/AC0DBD1AD0C821516CECD9B0398FE01A_0.mp4"
     }
    ],
    "drive": null,
@@ -36,6 +37,58 @@
      "size": "17.4MB",
      "type": "application/vnd.android.package-archive",
      "path": "https://drive.google.com/file/d/1_WJ3qWFoiFd-oKrAYM_hHqmYc6dev3dk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3A35B8BC9A83044CDC4D",
+   "sender": "Rabbi Yossi Raful",
+   "text": "חזק וברוך. \nלמה רק לאנדרואיד ?",
+   "ts": 1792060797000,
+   "date": "2026-10-15",
+   "time": "13:39",
+   "files": [],
+   "drive": null,
+   "phone": "19544040278"
+  },
+  {
+   "id": "3EB0753CBB69D049E4B744",
+   "sender": "רועי כהן",
+   "text": "שניה יש עדכונים",
+   "ts": 1792060843000,
+   "date": "2026-10-15",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3EB00EE90176F0594E68AC",
+   "sender": "רועי כהן",
+   "text": "למי שרוצה דרך המחשב או דרך דפדפן בטלפונים:\nhttps://captions.adifferentangle.ai/",
+   "ts": 1792061000000,
+   "date": "2026-10-15",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "3EB0080CC54B54EBD67303",
+   "sender": "רועי כהן",
+   "text": "האפליקציה להורדה והתקנה בחינם",
+   "ts": 1792061084000,
+   "date": "2026-10-15",
+   "time": "13:44",
+   "files": [
+    {
+     "name": "BezavitCaptions-v6.apk",
+     "size": "17.4MB",
+     "type": "application/vnd.android.package-archive",
+     "path": "https://drive.google.com/file/d/16bN7UalPlpds1MIpHtDL8mSNXPPJ2CX7/view?usp=drivesdk",
      "skipped": ""
     }
    ],

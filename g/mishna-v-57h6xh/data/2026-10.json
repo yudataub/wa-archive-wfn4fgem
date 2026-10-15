@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ו'",
- "updated": "2026-10-15T09:21:49.000Z",
+ "updated": "2026-10-15T12:50:51.342Z",
  "messages": [
   {
    "id": "A59D14B8085FBBB4F2BB1EA4ABD40DBB",
@@ -487,6 +487,47 @@
    "files": [],
    "drive": null,
    "phone": "972506544492"
+  },
+  {
+   "id": "AC327B8AA6849DB7CA8F7537156A26D0",
+   "sender": "יהודה פנסטרהיים",
+   "text": "",
+   "ts": 1792068583000,
+   "date": "2026-10-15",
+   "time": "15:49",
+   "files": [
+    {
+     "name": "מסכת ברכות.pdf",
+     "size": "6.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tSFgtZrQw-IEfU7iOcSxZeZ4r31W25CZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586100265"
+  },
+  {
+   "id": "ACE13ECB64ED26C49B9BB91B655C7489",
+   "sender": "יהודה פנסטרהיים",
+   "text": "אפשר משנה בהבנה",
+   "ts": 1792068584000,
+   "date": "2026-10-15",
+   "time": "15:49",
+   "files": [],
+   "drive": null,
+   "phone": "972586100265"
+  },
+  {
+   "id": "AC3EF0F1C756790F12793AB3672A56EC",
+   "sender": "יהודה פנסטרהיים",
+   "text": "https://drive.google.com/drive/folders/0BwpslM9oBm3pZS1OWmF1M2pkcFk?resourcekey=0-Ba8BtXyLszv5B3vOyRnIQg\nאינסוף חומרי ליווי בתיקיית מלמד",
+   "ts": 1792068624000,
+   "date": "2026-10-15",
+   "time": "15:50",
+   "files": [],
+   "drive": null,
+   "phone": "972586100265"
   }
  ]
 }

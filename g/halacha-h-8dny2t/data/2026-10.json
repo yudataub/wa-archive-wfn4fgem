@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-15T05:32:17.678Z",
+ "updated": "2026-10-15T12:20:43.920Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -847,6 +847,59 @@
    "files": [],
    "drive": null,
    "phone": "972507701815"
+  },
+  {
+   "id": "A5EAB7E3D8DB72BB1D6CB5B4D904E1E4",
+   "sender": "מתן - עולם של תוכן",
+   "text": "יש את תכנית הלימודים וחומרי עזר בפורטל. חמד>תושבע>משנה>ה",
+   "ts": 1792066677000,
+   "date": "2026-10-15",
+   "time": "15:17",
+   "files": [],
+   "drive": null,
+   "phone": "972543979764"
+  },
+  {
+   "id": "A5F54DF8CEA49A40DDBFD2FEE319F532",
+   "sender": "מתן - עולם של תוכן",
+   "text": "אתם לא לומדים קיצושע מקור חיים?",
+   "ts": 1792066704000,
+   "date": "2026-10-15",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972543979764"
+  },
+  {
+   "id": "ACDADED26A5688F03B996DC9D3CCB94C",
+   "sender": "Yaffa",
+   "text": "",
+   "ts": 1792066753000,
+   "date": "2026-10-15",
+   "time": "15:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mwNBBZkrm5Tb6OpfTdvnvmIMUaZrzPob/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mwNBBZkrm5Tb6OpfTdvnvmIMUaZrzPob&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456750"
+  },
+  {
+   "id": "AC16579B4C5CAA5209A21E15CE96BC56",
+   "sender": "Yaffa",
+   "text": "אני מקווה שהדף הזה  מתאים לכיתת חינוך מיוחד .",
+   "ts": 1792066828000,
+   "date": "2026-10-15",
+   "time": "15:20",
+   "files": [],
+   "drive": null,
+   "phone": "972506456750"
   }
  ]
 }

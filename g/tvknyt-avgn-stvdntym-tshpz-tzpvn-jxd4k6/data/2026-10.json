@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "תוכנית עוגן סטודנטים תשפז⚓ -צפון",
- "updated": "2026-10-15T09:18:48.943Z",
+ "updated": "2026-10-15T11:46:43.376Z",
  "messages": [
   {
    "id": "AC8669F3D3269477AFE039E7F04FE881",
@@ -589,6 +589,55 @@
      "path": "https://drive.google.com/file/d/1P1rZre8QuxXkqXyc75f7AZxWi-YfufYu/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1P1rZre8QuxXkqXyc75f7AZxWi-YfufYu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "3EB09483CB6A5AD837CD96",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "אם יש מישהי.ו שהגיע.ה ולא נרשם.ה, בבקשה לגשת להירשם",
+   "ts": 1792060527000,
+   "date": "2026-10-15",
+   "time": "13:35",
+   "files": [],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "3EB0411975FBC080DE966F",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "מההרצאה של קרן שאול",
+   "ts": 1792064778000,
+   "date": "2026-10-15",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "מודל המשולש להערכת מצוקה .pdf",
+     "size": "213KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UyOhmGPI3QigqX79ow43MI5_gWV_Pcpu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502080480"
+  },
+  {
+   "id": "3EB008A917119DA43B0193",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "",
+   "ts": 1792064779000,
+   "date": "2026-10-15",
+   "time": "14:46",
+   "files": [
+    {
+     "name": "דף מידע דור האלפא  קרן שאול �.pdf",
+     "size": "1.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1wnKUg0SXnDt-rlXHFI9jXJs8kYJplJm_/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,

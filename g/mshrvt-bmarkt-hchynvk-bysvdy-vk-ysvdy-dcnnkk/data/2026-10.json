@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-14T18:06:21.761Z",
+ "updated": "2026-10-15T12:59:51.498Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -1510,6 +1510,26 @@
    ],
    "drive": null,
    "phone": "972533961905"
+  },
+  {
+   "id": "AC93547299EE72D75740BBB973C663A2",
+   "sender": "S.B",
+   "text": "",
+   "ts": 1792069167000,
+   "date": "2026-10-15",
+   "time": "15:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iYWxme2Y0J1lBL1vwmbbZwFe4oz_ZBbD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iYWxme2Y0J1lBL1vwmbbZwFe4oz_ZBbD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532203709"
   }
  ]
 }

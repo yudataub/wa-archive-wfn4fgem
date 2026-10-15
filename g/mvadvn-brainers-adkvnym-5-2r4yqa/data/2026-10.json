@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון Brainers עדכונים 5",
- "updated": "2026-10-13T10:47:06.980Z",
+ "updated": "2026-10-15T11:49:43.427Z",
  "messages": [
   {
    "id": "3EB00D7FDECFA6F358E73B",
@@ -149,6 +149,26 @@
      "path": "https://drive.google.com/file/d/1XjqZiGegpHq6Qi8kH-hAjwdQVOwA8VS4/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1XjqZiGegpHq6Qi8kH-hAjwdQVOwA8VS4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522879192"
+  },
+  {
+   "id": "2A8A58BBC817BF1805C5",
+   "sender": "לי ברקוביץ׳",
+   "text": "*עלתה לאתר המועדון הדרכה קצרה חדשה*\n\nמאיה צדקה אלברג מראה בהדרכה קלילה ויצירתית איך משתמשים במגוון קיצורי דרך (סלאש קומנד) במקום להקליד בכל פעם הוראות ארוכות בGPT.\n\n*מה קורה תכלס בהדרכה?*\n✅ משדרגים תמונות קיימות: חדות ואיכות, רקע לבן או רקע חדש, וקירוב לנושא המרכזי\n✅ הופכים צילום ביתי של אוכל או מוצר לתמונה במראה מקצועי, לתפריט, לקטלוג או לרשתות\n✅ מודדים בגד מתמונת רפרנס, משנים צבע שיער ותספורת, ורואים איך חדר ייראה מעוצב לפני שקונים\n✅ הופכים טקסט מבולגן לאינפוגרפיקה או לתרשים זרימה, ומדייקים כל תוצאה בבקשת המשך קצרה\n\n*עם מה יוצאים?*\nאוסף קיצורים שאפשר להעתיק ולהתאים לצרכים שלכם, ואת ההבנה איך להפעיל אותם על כל תמונה שלכם.\n\n*לצפייה בהדרכה:*\nhttps://go.brainai.co.il/Tslashcomands\n\nמאחלים לכולם סופ\"ש רגוע ושקט\n\n*צוות המועדון & עדן ביבס* 💙\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1792064965000,
+   "date": "2026-10-15",
+   "time": "14:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UZnE9bgIm47aNaUs4iRkU3s8mwmbF3Bx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UZnE9bgIm47aNaUs4iRkU3s8mwmbF3Bx&sz=w1200"
     }
    ],
    "drive": null,

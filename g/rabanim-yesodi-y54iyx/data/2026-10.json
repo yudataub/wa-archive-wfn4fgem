@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-15T07:28:19.458Z",
+ "updated": "2026-10-15T11:13:05.852Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -5301,6 +5301,167 @@
    ],
    "drive": null,
    "phone": "972547607984"
+  },
+  {
+   "id": "AC483C96065FD6F3DC5C1C54567BF860",
+   "sender": "נתן",
+   "text": "",
+   "ts": 1792060655000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ilsf8BfMJSIf1szg5Dv4gkjBE41ToAX_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ilsf8BfMJSIf1szg5Dv4gkjBE41ToAX_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "ACFE6D6889B1AD4352047FAF468B6115",
+   "sender": "נתן",
+   "text": "",
+   "ts": 1792060655000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GOr8ebijKxXWncyeN5zFsN16mTCVA-aY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GOr8ebijKxXWncyeN5zFsN16mTCVA-aY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "AC95242983FD7A6EE9C9710117D618C6",
+   "sender": "נתן",
+   "text": "",
+   "ts": 1792060656000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NqrRb5-SfM1sySLhg7Dh7ufTC_M13n8b/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NqrRb5-SfM1sySLhg7Dh7ufTC_M13n8b&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "ACA856FCE73ADE2A5D0863D36B270423",
+   "sender": "נתן",
+   "text": "",
+   "ts": 1792060661000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cvUCCE-GYrBNdQ-LvNWtJN_kQZZSAapN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cvUCCE-GYrBNdQ-LvNWtJN_kQZZSAapN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "AC64F920CDD23EAB009440E96F7A99FD",
+   "sender": "נתן",
+   "text": "",
+   "ts": 1792060662000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "412KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WZErF-3kI014nuiBJteTozt5-PErUQ8T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WZErF-3kI014nuiBJteTozt5-PErUQ8T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "ACBF6DDC4E99D634C0884CF3501270ED",
+   "sender": "נתן",
+   "text": "בביה\"ס עוזיאל נתניה מלמדים את התלמידים היקרים גם בצורה עיונית וגם הלכה למעשה",
+   "ts": 1792060663000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "ACD37886BF5843C700D889638B509B3B",
+   "sender": "נתן",
+   "text": "",
+   "ts": 1792060663000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "382KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XMPT_j-INDKPcPjBBYKLaNqWa4qCT1Cp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XMPT_j-INDKPcPjBBYKLaNqWa4qCT1Cp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "ACE550FBC7DB8C57239CA1620FA298CF",
+   "sender": "נתן",
+   "text": "מבצע נטילת ידיים",
+   "ts": 1792060664000,
+   "date": "2026-10-15",
+   "time": "13:37",
+   "files": [],
+   "drive": null,
+   "phone": "972502640660"
+  },
+  {
+   "id": "ACDBFFB94F370F660E97617C188A7BB1",
+   "sender": "אין עוד מלבדו!",
+   "text": "",
+   "ts": 1792062753000,
+   "date": "2026-10-15",
+   "time": "14:12",
+   "files": [
+    {
+     "name": "נח (1).pdf",
+     "size": "27.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1GvGeBMZ7mduU8pNqHlBPhghcsG_mF0AY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522161966"
   }
  ]
 }

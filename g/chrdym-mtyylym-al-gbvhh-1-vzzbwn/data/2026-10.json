@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חרדים מטיילים על🔥 גבוהה 1",
- "updated": "2026-10-05T21:21:23.375Z",
+ "updated": "2026-10-15T11:36:36.224Z",
  "messages": [
   {
    "id": "AC338E59BBCAFD81D9C1EBFCCEBE368C",
@@ -134,6 +134,26 @@
    "files": [],
    "drive": null,
    "phone": "972587169946"
+  },
+  {
+   "id": "A54E8F40B0B2B46EA823461CBD2B349C",
+   "sender": "שחר שאער",
+   "text": "",
+   "ts": 1792064171000,
+   "date": "2026-10-15",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/182Pysll41g6XhtOWi1ll7qANNxfZ3wna/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=182Pysll41g6XhtOWi1ll7qANNxfZ3wna&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
   }
  ]
 }

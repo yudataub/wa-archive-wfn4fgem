@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-15T09:27:19.068Z",
+ "updated": "2026-10-15T12:01:43.603Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -4655,6 +4655,59 @@
    "files": [],
    "drive": null,
    "phone": "972527524890"
+  },
+  {
+   "id": "AC64413ED676831FD1D811BABE6C6714",
+   "sender": "סמדר",
+   "text": "*עידכון לביקור ראה\"מ נתניהו בקרית אתא: נתניהו צפוי להגיע בשעה 16.15 לקפה גרג במרכז העיר*\nבשעה זו נשלמות ההכנות וההערכות הלוגיסטית להגעתו.\n\nלכל העדכונים👇",
+   "ts": 1792059170000,
+   "date": "2026-10-15",
+   "time": "13:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "364KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nDUrR2fZTvnpR9aZWMmDImgLeYCrhDe_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nDUrR2fZTvnpR9aZWMmDImgLeYCrhDe_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524323134"
+  },
+  {
+   "id": "3A3A1848F4A64E5C6516",
+   "sender": "יפה",
+   "text": "מחפשת טכנאי מחשבים במחיר שפוי  מעונינת בהמלצה",
+   "ts": 1792064106000,
+   "date": "2026-10-15",
+   "time": "14:35",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "AC88DBF70CD520D0877EBD1D8850A770",
+   "sender": "Inbal Koresh-shavat",
+   "text": "📇 שמחון איש מחשבים\n+972546524272",
+   "ts": 1792064478000,
+   "date": "2026-10-15",
+   "time": "14:41",
+   "files": [],
+   "drive": null,
+   "phone": "972546225644"
+  },
+  {
+   "id": "ACD1B88EE6D54A7EC71F609863443617",
+   "sender": "אני ולא אחרת",
+   "text": "📇 ערן טבק טכנאי מחשבים\n+972525677282",
+   "ts": 1792065688000,
+   "date": "2026-10-15",
+   "time": "15:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526681329"
   }
  ]
 }

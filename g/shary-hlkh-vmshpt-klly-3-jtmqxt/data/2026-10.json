@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-15T08:37:11.358Z",
+ "updated": "2026-10-15T10:24:56.812Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -7810,6 +7810,90 @@
    "files": [],
    "drive": null,
    "phone": "972586900006"
+  },
+  {
+   "id": "AC4768E9FAD18BE2FC19626689AB6B60",
+   "sender": "Yosef Avitan 💍",
+   "text": "לחמניה מזונות 100 גרם .\nועם הביצה והסלטים בתוכה 300 גרם . \nמברכים המוציא ברכהמ\"ז ?",
+   "ts": 1792058661000,
+   "date": "2026-10-15",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972543464544"
+  },
+  {
+   "id": "AC75E5EFB654A4105FE75105EBAF85BB",
+   "sender": "חננאל",
+   "text": "בודקים רק לפי המזונות ולא לפי הביצים",
+   "ts": 1792059007000,
+   "date": "2026-10-15",
+   "time": "13:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523895343"
+  },
+  {
+   "id": "AC7E363416C0166A473E184D298F0DC4",
+   "sender": "Joseph tal  ⚜️",
+   "text": "הציצית כשרה?",
+   "ts": 1792059070000,
+   "date": "2026-10-15",
+   "time": "13:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kqnH-RF9gV23mytgBOkmxQf9ui_6bxdX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kqnH-RF9gV23mytgBOkmxQf9ui_6bxdX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585533599"
+  },
+  {
+   "id": "AC49A1029B1BEEDDDE22AA700052CED7",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "קשה לראות נראה שכן",
+   "ts": 1792059267000,
+   "date": "2026-10-15",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC861FAA9D28B4CB85BBDCAD590993AF",
+   "sender": "Joseph tal  ⚜️",
+   "text": "",
+   "ts": 1792059678000,
+   "date": "2026-10-15",
+   "time": "13:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15zzqxXTG3ttl2tSVhMWrJoyPlz_bnTBg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15zzqxXTG3ttl2tSVhMWrJoyPlz_bnTBg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585533599"
+  },
+  {
+   "id": "AC1246D2B18595CB83D4087866C3D114",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "☝🏻תראה לרב בעניים",
+   "ts": 1792059876000,
+   "date": "2026-10-15",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }

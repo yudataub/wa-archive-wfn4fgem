@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-15T06:49:18.865Z",
+ "updated": "2026-10-15T12:37:21.110Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2206,6 +2206,59 @@
    ],
    "drive": null,
    "phone": "972556640892"
+  },
+  {
+   "id": "AC18AEB8C4DD8D85A590CF9F27D42CDC",
+   "sender": "אורלי אוחנה",
+   "text": "הורים יקרים, \nלצערי היתה לנו תקלה במכונת הצילום אתמול והיום.\nלכן המפוי לא התקיים היום.\nהמשך יום טוב🙏🏻",
+   "ts": 1792063106000,
+   "date": "2026-10-15",
+   "time": "14:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACBCE57C6D2D3366EA2877BC201F113C",
+   "sender": "אורלי אוחנה",
+   "text": "☝️תשלחו בבקשה להורים",
+   "ts": 1792063151000,
+   "date": "2026-10-15",
+   "time": "14:19",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACAE6990EFD52D74A1CDC28053616E62",
+   "sender": "לבנה",
+   "text": "",
+   "ts": 1792064337000,
+   "date": "2026-10-15",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PNPy_wyCmA_YeaA0JiBOj9P0vJ3KJNAY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PNPy_wyCmA_YeaA0JiBOj9P0vJ3KJNAY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526794592"
+  },
+  {
+   "id": "AC8C1BC7A95B3CF25B337AA2815CF577",
+   "sender": "מלכה טרבלסי",
+   "text": "לכיתות ג ה ו\n\nבכיתות ד המיפוי התקיים",
+   "ts": 1792067830000,
+   "date": "2026-10-15",
+   "time": "15:37",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
   }
  ]
 }
