@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בזווית אחרת - יהדות בכל שפה 🎙️",
- "updated": "2026-10-15T20:19:31.001Z",
+ "updated": "2026-10-15T21:52:15.179Z",
  "messages": [
   {
    "id": "AC0DBD1AD0C821516CECD9B0398FE01A",
@@ -363,7 +363,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1uiLl0jnsD8bbxFlvY0ucb7fyV6afTpgx/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1uiLl0jnsD8bbxFlvY0ucb7fyV6afTpgx&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1uiLl0jnsD8bbxFlvY0ucb7fyV6afTpgx&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-yhdvt-bkl-shph-m3v9ns/v/2026-10/ACC7DC3607FBE229FC2B3075E96C685A_0.mp4"
     }
    ],
    "drive": null,
@@ -409,6 +410,17 @@
    "files": [],
    "drive": null,
    "phone": "972542104147"
+  },
+  {
+   "id": "3A6B0FDD81662825C846",
+   "sender": "Rabbi Yossi Raful",
+   "text": "יישר כח. עצום.",
+   "ts": 1792101128000,
+   "date": "2026-10-16",
+   "time": "00:52",
+   "files": [],
+   "drive": null,
+   "phone": "19544040278"
   }
  ]
 }
