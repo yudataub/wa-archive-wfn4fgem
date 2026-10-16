@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-16T13:13:00.311Z",
+ "updated": "2026-10-16T14:01:44.309Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -9956,7 +9956,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1EmeWYk7rRimvCRdNX97WL1x9_MqQ5sre/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1EmeWYk7rRimvCRdNX97WL1x9_MqQ5sre&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1EmeWYk7rRimvCRdNX97WL1x9_MqQ5sre&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/ACB05B2620ECF8C36FA13416241A2544_0.mp4"
     }
    ],
    "drive": null,
@@ -9992,6 +9993,37 @@
    "files": [],
    "drive": null,
    "phone": "972552813938"
+  },
+  {
+   "id": "ACD6DFBD02577C8B68CF51367E7835AC",
+   "sender": "Menhana",
+   "text": "",
+   "ts": 1792159297000,
+   "date": "2026-10-16",
+   "time": "17:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xqeO0o_esk9Qpg-3XWwoYJqi7Odw3KBV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xqeO0o_esk9Qpg-3XWwoYJqi7Odw3KBV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526627884"
+  },
+  {
+   "id": "AC3DF98A3ED6205B4CD81705A7134FDB",
+   "sender": "Menhana",
+   "text": "*האדמו\"ר רבי דוד אבוחצירא בקריאת קודש בכתב ידו לפעול ולהצביע לתנועת ש\"ס:* \"הנני מצטרף לקריאת קודש של מועצת חכמי התורה, אל אחינו בני ישראל לבוא לעזרת ה' בגבורים, ולהיחלץ חושים בכל כוחם ואונם לעזור, לפעול, לתמוך, לסייע, ולהצביע לתנועת ש\"ס המעטירה אשר הוקמה על ידי גאון עוזנו מרן רבנו עובדיה יוסף זצוק\"ל. ​וגדולים צדיקים במיתתם יותר מבחייהם, והוא ממליץ יושר על אלה ששומעים בקולו, הולכים בדרכו בוחרים בתנועה הקדושה שהחזירה עטרה ליושנה, והרימה קרנה של יהדות ספרד\".",
+   "ts": 1792159298000,
+   "date": "2026-10-16",
+   "time": "17:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526627884"
   }
  ]
 }

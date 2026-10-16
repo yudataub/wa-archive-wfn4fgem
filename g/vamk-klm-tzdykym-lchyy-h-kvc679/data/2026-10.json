@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-10-16T09:04:07.579Z",
+ "updated": "2026-10-16T14:02:44.338Z",
  "messages": [
   {
    "id": "A525BE8CCF68D93CFB96415CD61988A4",
@@ -429,6 +429,26 @@
    "files": [],
    "drive": null,
    "phone": "972556834055"
+  },
+  {
+   "id": "AC9F89BA92D7C6F73C30FBEA66E329B5",
+   "sender": "עמיחי בן שחר",
+   "text": "איזה עם מתוק יש לנו!!!! \nפשוט זכינו!!!! 💙🤍🇮🇱",
+   "ts": 1792159360000,
+   "date": "2026-10-16",
+   "time": "17:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13StR1kx_EFAbRC-TsYhcVg4onfgPvq3I/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13StR1kx_EFAbRC-TsYhcVg4onfgPvq3I&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504949159"
   }
  ]
 }

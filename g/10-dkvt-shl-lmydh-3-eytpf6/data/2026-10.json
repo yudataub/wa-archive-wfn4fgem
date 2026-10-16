@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "10 דקות של למידה 3",
- "updated": "2026-10-12T08:35:53.377Z",
+ "updated": "2026-10-16T14:43:32.712Z",
  "messages": [
   {
    "id": "3EB0811D2E55A7B002952B",
@@ -113,6 +113,26 @@
      "path": "https://drive.google.com/file/d/1YBBDIFMPdgGN4SuMnlMV3ad8kDuP00OV/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1YBBDIFMPdgGN4SuMnlMV3ad8kDuP00OV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB0E17DE8DBDEFF1D3020",
+   "sender": "Or Pelach",
+   "text": "היי @all ,\nבמפגש הקרוב, ב-18.10.2026 בשעה 20:00,\n*נכיר כלי AI לכתיבת הספר.*\n\nקישור לזום יישלח כחצי שעה לפני תחילת המפגש.\n\n*רוצים לצרף חברים❓* \nזה הקישור👇\nנתראה 😊",
+   "ts": 1792161798000,
+   "date": "2026-10-16",
+   "time": "17:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "351KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wN891RDTcSRBaJkJH8SgCINuUIfiVmXm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wN891RDTcSRBaJkJH8SgCINuUIfiVmXm&sz=w1200"
     }
    ],
    "drive": null,

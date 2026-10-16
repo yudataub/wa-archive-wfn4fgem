@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-16T13:37:13.925Z",
+ "updated": "2026-10-16T14:11:21.732Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -23497,7 +23497,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1ecGAoZAAozhZZQONMXLq-FJk-zdqEHxi/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1ecGAoZAAozhZZQONMXLq-FJk-zdqEHxi&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ecGAoZAAozhZZQONMXLq-FJk-zdqEHxi&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/A5CB96311C3FDD4CAC4F2BC77E33F507_0.mp4"
     }
    ],
    "drive": null,
@@ -23533,6 +23534,26 @@
    "files": [],
    "drive": null,
    "phone": "972523495237"
+  },
+  {
+   "id": "A5B337BA13B86007FB611953A3023A4E",
+   "sender": "זמן מרפא",
+   "text": "שבת שלום ומבורך לכולם בשורות טובות אמן ואמן 👏",
+   "ts": 1792159859000,
+   "date": "2026-10-16",
+   "time": "17:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m2aTj6PkxqaptxLbIqdI-FpKBtpE_xoO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m2aTj6PkxqaptxLbIqdI-FpKBtpE_xoO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527727437"
   }
  ]
 }

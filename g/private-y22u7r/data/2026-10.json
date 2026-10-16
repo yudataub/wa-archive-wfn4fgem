@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-16T13:16:43.677Z",
+ "updated": "2026-10-16T14:27:21.971Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -13242,6 +13242,60 @@
    "drive": null,
    "thread": "אורית אלפי",
    "phone": "972507555735"
+  },
+  {
+   "id": "3EB0F9BE678260EC3FFD77",
+   "sender": "אני",
+   "text": "אתה רוצה ללמוד השבת?",
+   "ts": 1792159440000,
+   "date": "2026-10-16",
+   "time": "17:04",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB075E68EE59927E41F7B",
+   "sender": "אני",
+   "text": "בשעה 14:14",
+   "ts": 1792159453000,
+   "date": "2026-10-16",
+   "time": "17:04",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1BD1D9F7AD201BCAE708AAEC810AA8",
+   "sender": "Zeev",
+   "text": "כן כרגיל",
+   "ts": 1792160587000,
+   "date": "2026-10-16",
+   "time": "17:23",
+   "files": [],
+   "drive": null,
+   "thread": "Zeev",
+   "phone": "972544201183"
+  },
+  {
+   "id": "A540C95B3A109AAE2A67CC061140CD8D",
+   "sender": "אני",
+   "text": "שיראל חוטף",
+   "ts": 1792160839000,
+   "date": "2026-10-16",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HhSfD-AkLAxQHHIzu9k_VRmGjOorlDGm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HhSfD-AkLAxQHHIzu9k_VRmGjOorlDGm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

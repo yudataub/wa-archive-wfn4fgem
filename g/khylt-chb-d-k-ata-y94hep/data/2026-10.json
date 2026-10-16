@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-15T20:19:31.003Z",
+ "updated": "2026-10-16T13:42:13.971Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -1944,6 +1944,46 @@
    "date": "2026-10-15",
    "time": "23:19",
    "files": [],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "AC08B292D35149F4F4D83260A2CE9C2B",
+   "sender": "Moshe",
+   "text": "ממי באמת צריך ללמוד? שבת שלום",
+   "ts": 1792158043000,
+   "date": "2026-10-16",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rVRpQFwQr1cTmc6eInoLRhVOF0Hqfu3l/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rVRpQFwQr1cTmc6eInoLRhVOF0Hqfu3l&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "ACE227533ADECE7807D62E8C94F35DA4",
+   "sender": "Moshe",
+   "text": "",
+   "ts": 1792158106000,
+   "date": "2026-10-16",
+   "time": "16:41",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "51KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Q3q8_KxpIID2kObX8UXdzaj7RE89IPyO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q3q8_KxpIID2kObX8UXdzaj7RE89IPyO&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972506456770"
   }
