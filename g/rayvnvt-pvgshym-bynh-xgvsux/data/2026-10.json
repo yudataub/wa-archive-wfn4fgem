@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-15T19:55:18.465Z",
+ "updated": "2026-10-16T06:48:38.914Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -2244,6 +2244,59 @@
    "files": [],
    "drive": null,
    "phone": "972502343065"
+  },
+  {
+   "id": "3AA3B5FE4125503F9B8B",
+   "sender": "Hani",
+   "text": "@197856258445341 \nאשמח 🙏🙏🙏לקבל את הפרומפט לסקיל שהצגת במפגש. הוא לא מופיע בתיאור הסרטון שפרסמת",
+   "ts": 1792129878000,
+   "date": "2026-10-16",
+   "time": "08:51",
+   "files": [],
+   "drive": null,
+   "phone": "972584020994"
+  },
+  {
+   "id": "A50EAA0C23696C05C05AC3C1A7E3901D",
+   "sender": "תמר חמאדה",
+   "text": "הוא מופיע באייקון על  המשבצת של הפריט ואז תפתח לך חלונית עם כל חומרי המפגש",
+   "ts": 1792131895000,
+   "date": "2026-10-16",
+   "time": "09:24",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A5558FDC930175AB5E9FF05C33A7541C",
+   "sender": "תמר חמאדה",
+   "text": "",
+   "ts": 1792131928000,
+   "date": "2026-10-16",
+   "time": "09:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TUj2EloLx_NIrBUVFjguBEN6auM8WMLo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TUj2EloLx_NIrBUVFjguBEN6auM8WMLo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A5B6D119724A004024482924F7AB944F",
+   "sender": "תמר חמאדה",
+   "text": "פה",
+   "ts": 1792133313000,
+   "date": "2026-10-16",
+   "time": "09:48",
+   "files": [],
+   "drive": null,
+   "phone": "972505848342"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-16T04:05:32.119Z",
+ "updated": "2026-10-16T07:39:06.291Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1666,6 +1666,37 @@
    ],
    "drive": null,
    "phone": "972545415296"
+  },
+  {
+   "id": "AC743672DADF108994630283057CB998",
+   "sender": "משה בן ישי",
+   "text": "",
+   "ts": 1792132095000,
+   "date": "2026-10-16",
+   "time": "09:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "507KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12SBunZyymi3HiWvTGjy3hsToV7Wr8s07/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12SBunZyymi3HiWvTGjy3hsToV7Wr8s07&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525516470"
+  },
+  {
+   "id": "ACFBCA2580BF8F625297B77E03BF8E24",
+   "sender": "ציפי כהן",
+   "text": "מחפשים לצאת השבת \nלמקום יפה עם טבע \nלא רחוק מידי מירושלים.\nבמחיר טוב.\nנשמח מאוד להצעות",
+   "ts": 1792136335000,
+   "date": "2026-10-16",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "phone": "972546061894"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-15T15:36:36.854Z",
+ "updated": "2026-10-16T05:58:15.792Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -672,6 +672,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=12Z5DbbSMMINVj5RID54Enx_YBRLvoUtK&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0901FB478D79639DEE7",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קלה\nנושא: מקומות בארץ\n\nמוזמנות ומוזמנים להסביר את התשובה \n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1792130250000,
+   "date": "2026-10-16",
+   "time": "08:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "317KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pYTXzPhLrgPn-7htpylaiCch9141bsEo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pYTXzPhLrgPn-7htpylaiCch9141bsEo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0362C30788D75D96DA7",
+   "sender": "עמי חניא",
+   "text": "תודה ל- @4857725493500 ושי סבגי על הרעיון הנהדר :)",
+   "ts": 1792130295000,
+   "date": "2026-10-16",
+   "time": "08:58",
+   "files": [],
    "drive": null,
    "phone": "972546702328"
   }

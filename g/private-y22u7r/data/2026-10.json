@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-16T05:34:03.652Z",
+ "updated": "2026-10-16T09:37:59.104Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -12763,6 +12763,147 @@
    "date": "2026-10-16",
    "time": "08:34",
    "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACEE5744771E0A53330FF1FD433A07EB",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1792133027000,
+   "date": "2026-10-16",
+   "time": "09:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "165KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DG7tpo8QqP6JNWKoTzGG1by5BfGJckvA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DG7tpo8QqP6JNWKoTzGG1by5BfGJckvA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "A58ADE21123A6A7DE85415B958BE85D1",
+   "sender": "אני",
+   "text": "מורים מחפשים חומר האדמור מפיסצני יש לך מה לשלוח",
+   "ts": 1792141583000,
+   "date": "2026-10-16",
+   "time": "12:06",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACDF54F54A37C0BC6EBF2095ECE76913",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792141706000,
+   "date": "2026-10-16",
+   "time": "12:08",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "19KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Y09-xPvBx7mHuxSWLyK5llKRYiuD0HUS/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC582D552F4C1AD91479675502DB494E",
+   "sender": "יצחק מיכה קליין",
+   "text": "הרבה",
+   "ts": 1792141730000,
+   "date": "2026-10-16",
+   "time": "12:08",
+   "files": [],
+   "drive": null,
+   "thread": "יצחק מיכה קליין",
+   "phone": "972584129855"
+  },
+  {
+   "id": "ACEB9AE7AA35D4CFBC2849BE9A9E2D4E",
+   "sender": "יצחק מיכה קליין",
+   "text": "אתמול ישבתי איזה שעה עם ר' ישראל מאיר ברנר",
+   "ts": 1792141760000,
+   "date": "2026-10-16",
+   "time": "12:09",
+   "files": [],
+   "drive": null,
+   "thread": "יצחק מיכה קליין",
+   "phone": "972584129855"
+  },
+  {
+   "id": "3EB06A11818587AB293D43",
+   "sender": "אני",
+   "text": "הסיפור על הכף החיים ערוך \nhttps://yudataub.github.io/gedolim-files/html/shoshanim-ledavid.html\n\nsent via JONI",
+   "ts": 1792143144000,
+   "date": "2026-10-16",
+   "time": "12:32",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB02C572CE675870176C9",
+   "sender": "אני",
+   "text": "תשלח לי אני יסדר את הכול בצורה מסודרת ויפה - ונכתוב נשלח על ידי קליין מיכה",
+   "ts": 1792143315000,
+   "date": "2026-10-16",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB023D81E02DFDCA73727",
+   "sender": "אני",
+   "text": "זה זכות נפלאה",
+   "ts": 1792143325000,
+   "date": "2026-10-16",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3ABB284889038CF5EA95",
+   "sender": "Aline Alfasi",
+   "text": "כבוד הרב יהודה שלום , קיבלתי את המספר שלך דרך השכנה שלי שפניתי אליה בעזרה לגבי משפחה מלווה \nאני אלין אני התחלתי תהליך גיור לפני בערך חודשיים יש לי ילדה קטנה וחמודה בת שנה ושבע גם לבן זוגי קוראים אושר אשמח  שתחזור אליי לגבי משפחה מלווה",
+   "ts": 1792143359000,
+   "date": "2026-10-16",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "thread": "Aline Alfasi",
+   "phone": "972533482171"
+  },
+  {
+   "id": "3EB04F22B3581F11B51D0C",
+   "sender": "אני",
+   "text": "",
+   "ts": 1792143470000,
+   "date": "2026-10-16",
+   "time": "12:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T27p2njDCvkgD-fHT_bnwOqRXRCMh1mP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T27p2njDCvkgD-fHT_bnwOqRXRCMh1mP&sz=w1200"
+    }
+   ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }

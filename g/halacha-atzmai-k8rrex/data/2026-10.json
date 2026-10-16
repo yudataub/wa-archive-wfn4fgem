@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-15T08:31:11.278Z",
+ "updated": "2026-10-16T07:49:36.474Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2100,6 +2100,37 @@
    "files": [],
    "drive": null,
    "phone": "972506390946"
+  },
+  {
+   "id": "ACD2091F8D366531A1BE85BEDB2643AC",
+   "sender": "ryhen97",
+   "text": "בנות כיתה ו' מפענחות כתב סתרים שמכין אותם ללימוד הלכות \"ברכת כהנים\"",
+   "ts": 1792136846000,
+   "date": "2026-10-16",
+   "time": "10:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Q0d-Vf1AtY2CLtAqSYnl3QAEq1wu1OHq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q0d-Vf1AtY2CLtAqSYnl3QAEq1wu1OHq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524599871"
+  },
+  {
+   "id": "AC24A4929A9C7161955346E8EDB539BD",
+   "sender": "ryhen97",
+   "text": "בכתב הסתרים הכנתי אותם לנושא שנלמד וכתבתי שבסיום השיעור הן תצטרכנה לכתוב מדריך לכהן המתחיל: מה מקור המצווה,מתי ואיך מקיימים אותה,מי מקיים ועוד",
+   "ts": 1792136952000,
+   "date": "2026-10-16",
+   "time": "10:49",
+   "files": [],
+   "drive": null,
+   "phone": "972524599871"
   }
  ]
 }

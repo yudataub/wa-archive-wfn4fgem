@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-16T05:37:03.700Z",
+ "updated": "2026-10-16T08:24:37.029Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -1146,6 +1146,50 @@
    "files": [],
    "drive": null,
    "phone": "972527710996"
+  },
+  {
+   "id": "3A1C6571AD34D936A023",
+   "sender": "אין עוד מלבדו",
+   "text": "למי יש חומרים על רחל אמנו?",
+   "ts": 1792136660000,
+   "date": "2026-10-16",
+   "time": "10:44",
+   "files": [],
+   "drive": null,
+   "phone": "972508270578"
+  },
+  {
+   "id": "3EB03481482EA083239466",
+   "sender": "עמירם אלבה",
+   "text": "https://www.youtube.com/playlist?list=PLOr5C9Yi2Y61KozdKZINhL0DcTXvQY606\nפלילסט רחל אמנו תפילה באהבה עם המון סרטונים",
+   "ts": 1792138865000,
+   "date": "2026-10-16",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "3EB0D1076705EC40C25CBA",
+   "sender": "עמירם אלבה",
+   "text": "https://drive.google.com/drive/folders/1vBX3lgPlNpiHzBJbry-un_xc2U0tnjNx?usp=drive_link\nדף עבודה",
+   "ts": 1792138953000,
+   "date": "2026-10-16",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "3EB07EEE884A2349E8BC12",
+   "sender": "עמירם אלבה",
+   "text": "https://www.youtube.com/playlist?list=PLOr5C9Yi2Y62JKm6SehDZ-slODKaSCBVf\nפלילסט האדמור מפיאסצנה תפילה באהבה",
+   "ts": 1792139048000,
+   "date": "2026-10-16",
+   "time": "11:24",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
   }
  ]
 }

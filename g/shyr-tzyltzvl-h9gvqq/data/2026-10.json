@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-15T18:49:46.659Z",
+ "updated": "2026-10-16T08:15:06.876Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -848,6 +848,118 @@
    "ts": 1792090188000,
    "date": "2026-10-15",
    "time": "21:49",
+   "files": [],
+   "drive": null,
+   "phone": "972532358409"
+  },
+  {
+   "id": "3EB074BFD06262D17D9A19",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1792130800000,
+   "date": "2026-10-16",
+   "time": "09:06",
+   "files": [
+    {
+     "name": "שמואל - נקודות - צילצול.mp3",
+     "size": "432KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1JfWQh0l5Pa14eaoo70sbdKhP1JkFcU0n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "3EB040A17899DB0AAA61EB",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1792131402000,
+   "date": "2026-10-16",
+   "time": "09:16",
+   "files": [
+    {
+     "name": "מנעי קולך - אודי דוידי - צילצול.mp3",
+     "size": "685KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1DsEGZWMl_n-E3teIG5Wf2cKiZM25Q7hl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "ACAEED01ECA0701089A2E8CDA4F81BDC",
+   "sender": "אוהד חזי",
+   "text": "מישהו יכול לשלוח פה את השיר המלא 'עונג שבת' של שולי רנד ושרק?",
+   "ts": 1792133206000,
+   "date": "2026-10-16",
+   "time": "09:46",
+   "files": [],
+   "drive": null,
+   "phone": "972587075770"
+  },
+  {
+   "id": "AC6D0EA12B3817CB0F597C1470173F0F",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1792134717000,
+   "date": "2026-10-16",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת.mp3",
+     "size": "3.3MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1QzTTLb9us9pjkhs3EqL4C6q3SRj0jhfm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "AC0986D036E79583D538F6951D88E894",
+   "sender": "אוהד חזי",
+   "text": "תודה רבה🙏😇",
+   "ts": 1792134735000,
+   "date": "2026-10-16",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972587075770"
+  },
+  {
+   "id": "ACDAA0DD945AC7B35930FF5313E5A527",
+   "sender": "שני",
+   "text": "יש למישהו את השיר ותן טל ומטר לברכה חתוך?🙏",
+   "ts": 1792138296000,
+   "date": "2026-10-16",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972544691340"
+  },
+  {
+   "id": "ACB1D9DFC2E0FDE283C415B9A5E7EB88",
+   "sender": "נחמי 🩵🩷🩷🩷🩷🩵💙",
+   "text": "יש למישהו את *שיר השיירה* מוכן לצלצול?",
+   "ts": 1792138402000,
+   "date": "2026-10-16",
+   "time": "11:13",
+   "files": [],
+   "drive": null,
+   "phone": "972533130973"
+  },
+  {
+   "id": "3EB09413118E05223C84B6",
+   "sender": "הדסה אזולאי",
+   "text": "תודה רבה",
+   "ts": 1792138486000,
+   "date": "2026-10-16",
+   "time": "11:14",
    "files": [],
    "drive": null,
    "phone": "972532358409"

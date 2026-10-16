@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-14T18:28:04.172Z",
+ "updated": "2026-10-16T08:35:21.993Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -2591,6 +2591,48 @@
    ],
    "drive": null,
    "phone": "972545630812"
+  },
+  {
+   "id": "AC411D43795D223BEF261D85E142EF6B",
+   "sender": "זהורית",
+   "text": "אשמח לקובץ של סיכומים על חומש דברים 🙏🏻",
+   "ts": 1792139660000,
+   "date": "2026-10-16",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972525530089"
+  },
+  {
+   "id": "AC0FE27CC9645D666FC18751551BC19C",
+   "sender": "אביבית רפלקסודולה🤰🦶",
+   "text": "",
+   "ts": 1792139691000,
+   "date": "2026-10-16",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Xzz0vNojRILh5WJwfVRgV4fK8ibwDn5r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Xzz0vNojRILh5WJwfVRgV4fK8ibwDn5r&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522888711"
+  },
+  {
+   "id": "3AD4E7679354AF44A7BE",
+   "sender": "לירון בן לולו💕",
+   "text": "ממליצה ממש על אתר אביטה יש שם מצגת לכל נושא",
+   "ts": 1792139693000,
+   "date": "2026-10-16",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972542057474"
   }
  ]
 }

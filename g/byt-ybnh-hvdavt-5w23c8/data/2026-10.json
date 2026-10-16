@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-16T05:20:45.217Z",
+ "updated": "2026-10-16T08:53:22.268Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -1624,6 +1624,28 @@
    "ts": 1792128042000,
    "date": "2026-10-16",
    "time": "08:20",
+   "files": [],
+   "drive": null,
+   "phone": "972524592247"
+  },
+  {
+   "id": "AC3AAB8BDA8D95037BEFF6C53571D0F8",
+   "sender": "צביה",
+   "text": "https://docs.google.com/document/d/1h7zFUoPpHWqMZ1wgzN1chlC2lkAiMKux/edit?usp=sharing&ouid=117516158344380519480&rtpof=true&sd=true",
+   "ts": 1792140760000,
+   "date": "2026-10-16",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972524592247"
+  },
+  {
+   "id": "ACAC3ECD8A00A22FEFA464F2129E96B8",
+   "sender": "צביה",
+   "text": "מצ\"ב לוח שבועי, נא להתעדכן👆🏻\nשבת שלום💐",
+   "ts": 1792140779000,
+   "date": "2026-10-16",
+   "time": "11:52",
    "files": [],
    "drive": null,
    "phone": "972524592247"

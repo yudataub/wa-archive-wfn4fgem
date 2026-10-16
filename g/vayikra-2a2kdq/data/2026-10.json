@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-15T20:01:30.749Z",
+ "updated": "2026-10-16T08:40:37.224Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -4955,6 +4955,55 @@
    "files": [],
    "drive": null,
    "phone": "972522220820"
+  },
+  {
+   "id": "AC864B779697B121E04FADF6B4653607",
+   "sender": "אורלי אוחיון",
+   "text": "אשמח לציורים של הכבש והעז",
+   "ts": 1792135978000,
+   "date": "2026-10-16",
+   "time": "10:32",
+   "files": [],
+   "drive": null,
+   "phone": "972522517705"
+  },
+  {
+   "id": "AC332509B3D22F64283EC1BC571982B3",
+   "sender": "אפרת בורשטיין",
+   "text": "",
+   "ts": 1792139871000,
+   "date": "2026-10-16",
+   "time": "11:37",
+   "files": [
+    {
+     "name": "קרבן שלמים.pdf",
+     "size": "234KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1VeW3N9o1dMFLSm2gK5qikQmxRJ8FdAEC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549499106"
+  },
+  {
+   "id": "ACE344F56BEBF5A98A9FA6BCFEF164C7",
+   "sender": "אפרת בורשטיין",
+   "text": "",
+   "ts": 1792140034000,
+   "date": "2026-10-16",
+   "time": "11:40",
+   "files": [
+    {
+     "name": "קרבן שלמים.pdf",
+     "size": "340KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17Az809JT8EDQpoCxZVASluIlXlKP1OKi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549499106"
   }
  ]
 }

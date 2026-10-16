@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-16T05:25:03.490Z",
+ "updated": "2026-10-16T06:34:35.344Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -3072,6 +3072,58 @@
    ],
    "drive": null,
    "phone": "972543599288"
+  },
+  {
+   "id": "3EB06C75221AAB69DB81C2",
+   "sender": "יהודית מנחם",
+   "text": "איך אני יכולה לעשות סרטון עם שמע בAI ?",
+   "ts": 1792131022000,
+   "date": "2026-10-16",
+   "time": "09:10",
+   "files": [],
+   "drive": null,
+   "phone": "972533179133"
+  },
+  {
+   "id": "AC777CEBBEA5FF8D2199A5656C6F22BA",
+   "sender": "שילת שמח",
+   "text": "אפשר את הדף פרשת שבוע של פרשת נח עם השאלות א-ב? בכתב רשי🙌\nתודה רבה!",
+   "ts": 1792132274000,
+   "date": "2026-10-16",
+   "time": "09:31",
+   "files": [],
+   "drive": null,
+   "phone": "972503977786"
+  },
+  {
+   "id": "AC88AB279C0B02DAA0E87424FE8BB6C1",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1792132448000,
+   "date": "2026-10-16",
+   "time": "09:34",
+   "files": [
+    {
+     "name": "פרשת נח -כתב רש'י- כרמית ג.pdf",
+     "size": "654KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1eS27Ff1kHYfjFwNa99eef--YrpR14W8d/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC8C6CCB5FEC96F70CEDE2F8C138904B",
+   "sender": "שילת שמח",
+   "text": "תודה רבה!!",
+   "ts": 1792132468000,
+   "date": "2026-10-16",
+   "time": "09:34",
+   "files": [],
+   "drive": null,
+   "phone": "972503977786"
   }
  ]
 }

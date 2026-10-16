@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-16T04:28:32.505Z",
+ "updated": "2026-10-16T08:43:37.250Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -2523,6 +2523,59 @@
    "ts": 1792124883000,
    "date": "2026-10-16",
    "time": "07:28",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "ACE8BDAE6354048CE0B0F3FA000BC749",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792135300000,
+   "date": "2026-10-16",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gyF53hXfxm6F83h49RQqDj7OXdvbe0Zs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gyF53hXfxm6F83h49RQqDj7OXdvbe0Zs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC0FD8341AF05CFC032044DE00536B58",
+   "sender": "נתנאל דוד סאלם",
+   "text": "מישהו יודע מה הכשרות של מאמא פיצה?",
+   "ts": 1792139929000,
+   "date": "2026-10-16",
+   "time": "11:38",
+   "files": [],
+   "drive": null,
+   "phone": "972507671243"
+  },
+  {
+   "id": "AC2260862C85B4CE747D2C3CC217574B",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "📇 מאמא פיצה\n+972 4-843-8884",
+   "ts": 1792140191000,
+   "date": "2026-10-16",
+   "time": "11:43",
+   "files": [],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC111FBC634815907E8C5C1564B7B60F",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "תשאל אותם",
+   "ts": 1792140198000,
+   "date": "2026-10-16",
+   "time": "11:43",
    "files": [],
    "drive": null,
    "phone": "972524709727"

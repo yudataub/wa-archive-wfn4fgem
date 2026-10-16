@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-16T05:22:45.242Z",
+ "updated": "2026-10-16T09:16:59.674Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2542,6 +2542,37 @@
    "files": [],
    "drive": null,
    "phone": "972528686062"
+  },
+  {
+   "id": "3AA7EA0B2FF9E95AB736",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1792130860000,
+   "date": "2026-10-16",
+   "time": "09:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Dfr7OIpcqWyQ74Yb1xAhIm9l8gOfjzjZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Dfr7OIpcqWyQ74Yb1xAhIm9l8gOfjzjZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC8598A7558130F025E627C995984EF1",
+   "sender": "הילה שמר",
+   "text": "​צוות יקר,\n​לקראת סוף השבוע, אני מבקשת מכולם להקדיש דקה אחת למילוי טופס מעקב שבועי אחר פעילות בסביבת הלמידה (Google Classroom).\n​מילוי הטופס הוא חובה עבור כלל המחנכים והמורים המקצועיים, והוא עוזר לנו לעקוב בצורה מסודרת אחר העשייה וההתקדמות הבית-ספרית שלנו.\n​קישור לטופס המעקב: \nhttps://docs.google.com/forms/d/e/1FAIpQLSd8afy1qH6z38ToM6OnwyCQyTDdqnOnJTKm1FtZPBDWSnlU8w/viewform?usp=publish-editor\n​נא למלא את הטופס בכל סוף שבוע *עד מוצא\"ש.*\n*תודה רבה על שיתוף הפעולה, ההשקעה וההתמדה שלכם!*\n​הילה שמר🙏❤️",
+   "ts": 1792142193000,
+   "date": "2026-10-16",
+   "time": "12:16",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
   }
  ]
 }

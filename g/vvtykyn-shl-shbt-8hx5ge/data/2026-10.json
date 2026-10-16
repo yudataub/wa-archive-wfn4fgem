@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וותיקין של שבת ",
- "updated": "2026-10-16T05:14:33.301Z",
+ "updated": "2026-10-16T07:23:36.070Z",
  "messages": [
   {
    "id": "ACCF643EFC1BFF4C20B7CB7FD5E27F23",
@@ -205,6 +205,46 @@
    "files": [],
    "drive": null,
    "phone": "972534712840"
+  },
+  {
+   "id": "AC16FF415FF0AB8E51524DD606567C1C",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1792129115000,
+   "date": "2026-10-16",
+   "time": "08:38",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "80KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1iqkEhRXIuK3hgYI55PWMTpuoB00j2HlT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iqkEhRXIuK3hgYI55PWMTpuoB00j2HlT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
+  },
+  {
+   "id": "ACA968B4061C677054FEFB950C0F0747",
+   "sender": "שרגא שינובר",
+   "text": "הטשולנט מתבשל לכבוד הסיום ולכבוד שבת קויידש....🙏🙏",
+   "ts": 1792135390000,
+   "date": "2026-10-16",
+   "time": "10:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1mYdF04nl4N-gX6wKeZnKh3LcPqK7xntx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mYdF04nl4N-gX6wKeZnKh3LcPqK7xntx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
   }
  ]
 }

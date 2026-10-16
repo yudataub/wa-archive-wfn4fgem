@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-15T20:54:37.514Z",
+ "updated": "2026-10-16T09:22:37.898Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2838,6 +2838,26 @@
    ],
    "drive": null,
    "phone": "972537540299"
+  },
+  {
+   "id": "3A2A893B75247E92C208",
+   "sender": "א.ל",
+   "text": "למכירה הרבה ספרי בישול (יש עוד) משנות ה80, 90, 2000 (חנה שאולוב, ישראל אהרוני, נירה רוסו, גיל חובב וכו׳)\n*כל ספר ב60₪* אבל אפשר בפחות אם לוקחים יותר מ1",
+   "ts": 1792142528000,
+   "date": "2026-10-16",
+   "time": "12:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "332KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1E1-SowODeiqWX7xSjqhGg4pfxDuhsmIF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1E1-SowODeiqWX7xSjqhGg4pfxDuhsmIF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552731799"
   }
  ]
 }
