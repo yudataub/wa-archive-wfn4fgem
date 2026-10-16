@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-16T09:38:29.109Z",
+ "updated": "2026-10-16T12:59:30.048Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -4988,6 +4988,207 @@
    "files": [],
    "drive": null,
    "phone": "972528686062"
+  },
+  {
+   "id": "ACD82C87DFEE1F9C3CC4E177972C23FD",
+   "sender": "אורי זכריה",
+   "text": "",
+   "ts": 1792144957000,
+   "date": "2026-10-16",
+   "time": "13:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WBSA4K3c3gMUUL6yZMGiQoipuDn5NUUh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WBSA4K3c3gMUUL6yZMGiQoipuDn5NUUh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "AC15B07065C6CC74732C6D14969D23D8",
+   "sender": "אורי זכריה",
+   "text": "",
+   "ts": 1792144958000,
+   "date": "2026-10-16",
+   "time": "13:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rY_v5ccOx1YRBCGKpgw4FkcRK6SkGLc6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rY_v5ccOx1YRBCGKpgw4FkcRK6SkGLc6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "ACD2607AED16378DD04FA5741AA182AB",
+   "sender": "אורי זכריה",
+   "text": "למסירה",
+   "ts": 1792144964000,
+   "date": "2026-10-16",
+   "time": "13:02",
+   "files": [],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "AC52FBA344B39912B29E23F6C06EA186",
+   "sender": "אורי זכריה",
+   "text": "0534735632",
+   "ts": 1792144977000,
+   "date": "2026-10-16",
+   "time": "13:02",
+   "files": [],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "AC9D4BBA201D2F266AE1EC47F36207B5",
+   "sender": "אורי זכריה",
+   "text": "מיידי",
+   "ts": 1792144981000,
+   "date": "2026-10-16",
+   "time": "13:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "AC1418AC6A306B71F5BEFA2DFC4B105B",
+   "sender": "אורי זכריה",
+   "text": "ארון מעל מכונת כביסה",
+   "ts": 1792145056000,
+   "date": "2026-10-16",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "ACC47A7754679BFC37B89E126FBC8E01",
+   "sender": "שלומי גבאי",
+   "text": "",
+   "ts": 1792153231000,
+   "date": "2026-10-16",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q9g2Aa-N8pHejqtR9T_coOT2xHa7S6o_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q9g2Aa-N8pHejqtR9T_coOT2xHa7S6o_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972515050143"
+  },
+  {
+   "id": "AC01E62028AB8A6775A16E52C0B93981",
+   "sender": "שלומי גבאי",
+   "text": "",
+   "ts": 1792153241000,
+   "date": "2026-10-16",
+   "time": "15:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1t2vRSP7kx2nleEgHYJoFVfafjVeWFiom/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1t2vRSP7kx2nleEgHYJoFVfafjVeWFiom&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972515050143"
+  },
+  {
+   "id": "AC8D649B4D0E33776E1C813B2F3A191B",
+   "sender": "איילת תהילה",
+   "text": "",
+   "ts": 1792155363000,
+   "date": "2026-10-16",
+   "time": "15:56",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "9KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1FgImHzCfbPdg2tdKV3L448ruTg2xjUa6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544796988"
+  },
+  {
+   "id": "ACC133D5CE941381D42900E2496216E0",
+   "sender": "אלינוי פינטו נדלן תיווך",
+   "text": "*איתמר בן גביר, השר לבטחון לאומי, מגיע לפגוש אתכם!*\nתושבי חיפה, הקריות והסביבה זוהי הזמנה אישית למפגש עם השר לבטחון לאומי איתמר בן גביר, שרים, ח\"כים ומועמדים נוספים של עוצמה יהודית. \n\nחובה רישום בקישור.\nhttps://tic.li/OAqlPQO\n\n*מספר המקומות מוגבל❗️*\n\nהמפגש יתקיים באולם גל, פינסקר 2 ק. אתא",
+   "ts": 1792155418000,
+   "date": "2026-10-16",
+   "time": "15:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MBBY7f90WI1WnzqvY2nHERZc8XZJhtFo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MBBY7f90WI1WnzqvY2nHERZc8XZJhtFo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528232974"
+  },
+  {
+   "id": "AC7CE3E8D5207AA91E4CA2CD7940ADC6",
+   "sender": "איילת תהילה",
+   "text": "",
+   "ts": 1792155568000,
+   "date": "2026-10-16",
+   "time": "15:59",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "7KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1LvbDdG90giqfCBKG2FGiTKdKB_KK5mRu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544796988"
+  },
+  {
+   "id": "ACF01AB38F6232A3417A0175922D6011",
+   "sender": "איילת תהילה",
+   "text": "",
+   "ts": 1792155569000,
+   "date": "2026-10-16",
+   "time": "15:59",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1mR71EcEyE6EgZP6nIZad29DavFUfJ3Ad/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544796988"
   }
  ]
 }

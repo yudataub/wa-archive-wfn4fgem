@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-16T07:01:35.716Z",
+ "updated": "2026-10-16T13:00:30.063Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -3047,6 +3047,37 @@
    "files": [],
    "drive": null,
    "phone": "972527185522"
+  },
+  {
+   "id": "ACB6AD5299DD39447D4EFFCE5A5D6CFF",
+   "sender": "פנינה כ\"ץ",
+   "text": "תודה לשולחת הרעיון , מעט שדרוג",
+   "ts": 1792155431000,
+   "date": "2026-10-16",
+   "time": "15:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HU9UTm2OBSuFzGWIhfIpE3MU8c7hScgn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HU9UTm2OBSuFzGWIhfIpE3MU8c7hScgn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "3A7C6464EBBCCE2E72F3",
+   "sender": "Ruthi",
+   "text": "תודה רבה🙏🙏",
+   "ts": 1792155612000,
+   "date": "2026-10-16",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972504848199"
   }
  ]
 }

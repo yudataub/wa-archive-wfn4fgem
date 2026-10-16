@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-16T09:22:37.898Z",
+ "updated": "2026-10-16T10:05:29.554Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2858,6 +2858,26 @@
    ],
    "drive": null,
    "phone": "972552731799"
+  },
+  {
+   "id": "ACC7B866901DC9612FDED32B6F51E944",
+   "sender": "Noam",
+   "text": "*למכירה טלויזיה 32 אינץ' (לא חכמה) + שלט מקורי. לתלייה. במצב מצוין. 175 ש\"ח*",
+   "ts": 1792145101000,
+   "date": "2026-10-16",
+   "time": "13:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "262KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TusTyf7pyezvM1rjkl0xWCLCiQKKFEZF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TusTyf7pyezvM1rjkl0xWCLCiQKKFEZF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

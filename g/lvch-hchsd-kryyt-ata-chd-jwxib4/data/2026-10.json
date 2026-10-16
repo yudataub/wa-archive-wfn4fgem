@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-16T09:31:59.000Z",
+ "updated": "2026-10-16T13:13:00.311Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -9835,7 +9835,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/10hkmB4fIk2lPFKVmCpdKmLwZsV3eGHJc/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=10hkmB4fIk2lPFKVmCpdKmLwZsV3eGHJc&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=10hkmB4fIk2lPFKVmCpdKmLwZsV3eGHJc&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/ACDB4CBA67DFF2AAD3392D7D3FCEF4C7_0.mp4"
     }
    ],
    "drive": null,
@@ -9920,6 +9921,77 @@
    ],
    "drive": null,
    "phone": "972526627884"
+  },
+  {
+   "id": "AC719C647E482909193241730EDFD671",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792144761000,
+   "date": "2026-10-16",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KdRobe2GfnVH6Y7nYmkbwMyQ0iq0lwlp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KdRobe2GfnVH6Y7nYmkbwMyQ0iq0lwlp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "ACB05B2620ECF8C36FA13416241A2544",
+   "sender": "צוקי",
+   "text": "*צריך עוגן לספינה!*\n*\"פרשת נח\"*\n*הרב לירון מור שליט\"א*\nhttps://youtu.be/k9DQbZmMsIM\n *בברכת שבת שלום ומבורכת 🙏🏼🌹*\n📱 *להצטרפות לקבוצה (השקטה) של הרב לירון מור 👇*",
+   "ts": 1792148616000,
+   "date": "2026-10-16",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "19.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1EmeWYk7rRimvCRdNX97WL1x9_MqQ5sre/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EmeWYk7rRimvCRdNX97WL1x9_MqQ5sre&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477179"
+  },
+  {
+   "id": "A5203F65B3B816F4EA2FBE69229A1E3F",
+   "sender": "מיקי",
+   "text": "להביא ילדים לעולם זו רשות או חובה? האם אפשר להימנע מללדת? (כמובן ללא סיבה).\nקבוצות ✨דקת לימוד יומי בתורת האור החיים הקדוש🔥 \n*ניתן לקבל את החידוש היומי גם במייל!* בלחיצה על הקישור\nhttps://groups.google.com/g/daka-or-hahyim\n או בשליחת המילה \"צירוף\" למייל\ndaka-or-hahyim+subscribe@googlegroups.com",
+   "ts": 1792148768000,
+   "date": "2026-10-16",
+   "time": "14:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/120z0yqKO-OL7Vib0hebJyp0WX-2K2QTM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=120z0yqKO-OL7Vib0hebJyp0WX-2K2QTM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548479024"
+  },
+  {
+   "id": "2ADD6EE392D340423D87",
+   "sender": "אלישבע לוז – יעוץ ושיווק נדלן",
+   "text": "שכחנו לקנות חלות\nיש איפה לקנות עכשיו?",
+   "ts": 1792156373000,
+   "date": "2026-10-16",
+   "time": "16:12",
+   "files": [],
+   "drive": null,
+   "phone": "972552813938"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-16T09:37:59.104Z",
+ "updated": "2026-10-16T13:16:43.677Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -12906,6 +12906,342 @@
    ],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACEAAD787B1DA262F1A612C03FC3093F",
+   "sender": "הילה שמר",
+   "text": "תודה",
+   "ts": 1792143521000,
+   "date": "2026-10-16",
+   "time": "12:38",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "A51C07266E926D037356DE22D0D0D9F8",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/pninei/",
+   "ts": 1792145833000,
+   "date": "2026-10-16",
+   "time": "13:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5B3E3AC50FDADD02047CED4C73D68BD",
+   "sender": "אני",
+   "text": "תוכלי להכניס כבר לאתר עוד מעט זה יהיה מוכן עם תשובות והילדים יוכלו לענות",
+   "ts": 1792145874000,
+   "date": "2026-10-16",
+   "time": "13:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFC997AAD2FEF84627A3057287387E0",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1792145898000,
+   "date": "2026-10-16",
+   "time": "13:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "21KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1VS6H0XDJHFicOGzlR5yTRImLa4KD0d47/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC06577BE65F0EE0D80D51689E2CCBEB",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1792145927000,
+   "date": "2026-10-16",
+   "time": "13:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "40KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1vadUKCxNGF1d_f-V8bI_rd7p3PCkCzsV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB0E7C67ACF7A0CBC0C03",
+   "sender": "אני",
+   "text": "מצאת את הקבצים של פניני הפרשה?",
+   "ts": 1792146006000,
+   "date": "2026-10-16",
+   "time": "13:20",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE02C4A4CF14D3E9F24647454C8D54C",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1792146030000,
+   "date": "2026-10-16",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "31KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1gBYuqQ0wtOUpY09hHb55_ajYcxdsSPVM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB0888F67E30A8DCA059A",
+   "sender": "אני",
+   "text": "איזה נפלא\nעכשיו לא הבנתי מה הביאו לי מבדק פרשת בראשית \nביום שלישי - יעשו מבדק על בראשית???",
+   "ts": 1792146109000,
+   "date": "2026-10-16",
+   "time": "13:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0042B407467136EDB8A",
+   "sender": "אני",
+   "text": "אנחנו השבת נח -",
+   "ts": 1792146127000,
+   "date": "2026-10-16",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB058B1A01D9C7ACF0D9D",
+   "sender": "אני",
+   "text": "אני רואה שיש כיתות שהביאו לי נח \nטוב נקווה שיהיה קבצים והמחשב יכתוב הכול",
+   "ts": 1792146177000,
+   "date": "2026-10-16",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACCD378D32E11729DE00B726C93F90E0",
+   "sender": "הילה שמר",
+   "text": "",
+   "ts": 1792146285000,
+   "date": "2026-10-16",
+   "time": "13:24",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "18KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1JSC7-CKIVnizpFaHarFq-i9IzE7aVfxF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "AC187149967C9A7538168677838C05C0",
+   "sender": "יצחק מיכה קליין",
+   "text": "אני צריך להתיישב מול המחשב בשביל זה",
+   "ts": 1792146436000,
+   "date": "2026-10-16",
+   "time": "13:27",
+   "files": [],
+   "drive": null,
+   "thread": "יצחק מיכה קליין",
+   "phone": "972584129855"
+  },
+  {
+   "id": "3EB0B1BEFDBE7A4EBBB47F",
+   "sender": "אני",
+   "text": "בעזרת השם - יזכו הרבה מורים בזכות זה.",
+   "ts": 1792147223000,
+   "date": "2026-10-16",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3AF380C7E686CED12DD6",
+   "sender": "Aline Alfasi",
+   "text": "כבוד הרב יהודה שלום , \nהסתדרתי תודה 🤍\nשתהיה שבת מבורכת",
+   "ts": 1792147361000,
+   "date": "2026-10-16",
+   "time": "13:42",
+   "files": [],
+   "drive": null,
+   "thread": "Aline Alfasi",
+   "phone": "972533482171"
+  },
+  {
+   "id": "3EB07D807F39826A2F634E",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/lessons/noahs-rainbow-and-the-spies-fear.html",
+   "ts": 1792147370000,
+   "date": "2026-10-16",
+   "time": "13:42",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB09BC71726AB323328C5",
+   "sender": "אני",
+   "text": "שיהיה בהצלחה - תכננתי גם לדבר איתך\nרק עדיין לא דיברתי עם אשתי\nבעבר ליוונו תהליך גיור \nתוכלי גם לדבר איתה",
+   "ts": 1792147414000,
+   "date": "2026-10-16",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08F35F3A3609C432E",
+   "sender": "אני",
+   "text": "📇 אסתר לוין\n+972546358394",
+   "ts": 1792147436000,
+   "date": "2026-10-16",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A94DAB77DA926E669AE",
+   "sender": "Aline Alfasi",
+   "text": "תודה רבה כבוד הרב \nדיברתי ממש לפני עשר דק עם הרב משה ממש תודה על הזמן שהקדשת לי",
+   "ts": 1792147500000,
+   "date": "2026-10-16",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "thread": "Aline Alfasi",
+   "phone": "972533482171"
+  },
+  {
+   "id": "ACBFD43A193DB89F5CCB7B76C17AC038",
+   "sender": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "text": "",
+   "ts": 1792147561000,
+   "date": "2026-10-16",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "9KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1d43rbO06BxhGYbAzvEUcTCSxoa8d7S66/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "phone": "972523427896"
+  },
+  {
+   "id": "ACDAFADD3E3D4DC4998EE54EC61A52FA",
+   "sender": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "text": "",
+   "ts": 1792150582000,
+   "date": "2026-10-16",
+   "time": "14:36",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1QDLXu-_Z3Pn84PujBoSGVItVltpMc5id/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "🇧🇷🇦🇷🇵🇾🇺🇾🇫🇷🇮🇩🇦🇫",
+   "phone": "972523427896"
+  },
+  {
+   "id": "ACD5A37462E0CC8B19270788E9F0D566",
+   "sender": "מלכה",
+   "text": "אין לי מילים איזה מקסים.\nתגיד לאבא שיעביר במשפחה לבני דודים.\nמקווה שאמצא זמן וניפגש בשבוע הבא.\nשבת שלום אין כמוך, תהיו בריאים ובשורות טובות אמן",
+   "ts": 1792154910000,
+   "date": "2026-10-16",
+   "time": "15:48",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה",
+   "phone": "972532826822"
+  },
+  {
+   "id": "AC82CC46D2ABBA56459B411762EA18BE",
+   "sender": "י.  כהן",
+   "text": "תרח לקח את אברהם ואת לוט לחרן, נחור נשאר באור כשדים, מן הסתם גם בתואל ולבן המשיכו לחיות שם, אם כן למה יעקב הלך לחרן?",
+   "ts": 1792155772000,
+   "date": "2026-10-16",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "thread": "י.  כהן",
+   "phone": "972555649000"
+  },
+  {
+   "id": "A52EDE9642D0D79F1165F1D753D14366",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/lessons/noahs-rainbow-and-the-spies-fear.html",
+   "ts": 1792156026000,
+   "date": "2026-10-16",
+   "time": "16:07",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A564C138998053B689D9767A56B52688",
+   "sender": "אני",
+   "text": "היום מסרתי בכיתה את המודל קשת שלך.",
+   "ts": 1792156043000,
+   "date": "2026-10-16",
+   "time": "16:07",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC7CC61256471686D98A01E1A99F26E0",
+   "sender": "אורית אלפי",
+   "text": "וואו אתה ממש זריז ביישום ! זה מדהים",
+   "ts": 1792156584000,
+   "date": "2026-10-16",
+   "time": "16:16",
+   "files": [],
+   "drive": null,
+   "thread": "אורית אלפי",
+   "phone": "972507555735"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-16T08:37:37.205Z",
+ "updated": "2026-10-16T12:41:52.842Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -4254,7 +4254,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1VPHO1ujKO0Mnys_87LWRIppdg8OTgv68/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1VPHO1ujKO0Mnys_87LWRIppdg8OTgv68&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1VPHO1ujKO0Mnys_87LWRIppdg8OTgv68&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/ACEF0F2637600F479275C0D882C82C10_0.mp4"
     }
    ],
    "drive": null,
@@ -4299,6 +4300,119 @@
    ],
    "drive": null,
    "phone": "972556788387"
+  },
+  {
+   "id": "ACB185D026CF39FA0BFC49FE24EBF052",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792144761000,
+   "date": "2026-10-16",
+   "time": "12:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1q9IYKbwBF_jXAR90uJqqoNUJ7Rt-2hmr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1q9IYKbwBF_jXAR90uJqqoNUJ7Rt-2hmr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "AC79690C3AADA360A25EF92F3946F863",
+   "sender": "מאיר",
+   "text": "אם יש פה אברך/גבר שלא עובד מעל גיל 29\nשמעוניין להפסיק לשלם ביטוח לאומי בחינם\nאפשרי בפרטי\nאו 0548520378\nתודה רבה!",
+   "ts": 1792145927000,
+   "date": "2026-10-16",
+   "time": "13:18",
+   "files": [],
+   "drive": null,
+   "phone": "972585520378"
+  },
+  {
+   "id": "3EB0F8C20D86A65E73A5E3",
+   "sender": "ישי",
+   "text": "יש מישהו שיוצא לרכסים לפני שבת ויש לו מקום אחד מיותר ?",
+   "ts": 1792149837000,
+   "date": "2026-10-16",
+   "time": "14:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACDF7AD92C87297EB3E4B7EF072C801D",
+   "sender": "בני קרמר",
+   "text": "זמני התפילות בית הכנסת דרך אמונה\nפרשת נח",
+   "ts": 1792150152000,
+   "date": "2026-10-16",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JK3ehuxkl43qbyePcPNMGVOiIqJC2fol/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JK3ehuxkl43qbyePcPNMGVOiIqJC2fol&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC20E807E012DE5BF27E4D9CA15D6D28",
+   "sender": "Simcha izikov",
+   "text": "אנחנו יוצאים אפשר בשמחה רבה",
+   "ts": 1792150258000,
+   "date": "2026-10-16",
+   "time": "14:30",
+   "files": [],
+   "drive": null,
+   "phone": "972548598914"
+  },
+  {
+   "id": "AC65EEF85DE166B862D71AAB9AFA138E",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1792151767000,
+   "date": "2026-10-16",
+   "time": "14:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZWMDf3Kf4YOF6VyNPp3REqUQq2lutu6x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZWMDf3Kf4YOF6VyNPp3REqUQq2lutu6x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC4AC15DD636BBCDB3BF1202A2A82C43",
+   "sender": "יעקב קרלינסקי",
+   "text": "חלות טריות. בכניסה לבית הכנסת",
+   "ts": 1792154484000,
+   "date": "2026-10-16",
+   "time": "15:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mco1gYjHMGSmfA9vLeZ6ygn93iXXUVm2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mco1gYjHMGSmfA9vLeZ6ygn93iXXUVm2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
   }
  ]
 }
