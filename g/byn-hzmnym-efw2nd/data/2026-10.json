@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-15T19:34:24.346Z",
+ "updated": "2026-10-16T04:05:32.119Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1626,6 +1626,46 @@
    ],
    "drive": null,
    "phone": "972584255156"
+  },
+  {
+   "id": "AC066E9066FD3FD181838546B896C48A",
+   "sender": "עדית אבני",
+   "text": "*פנויים מהיום-מוצש במחיר דקה 90!!!!* \nגקוזי ענק ומפנק, בריכה מחוממת\n😱 *לסוגרים עכשיו כניסה מוקדמת היום* \n☎️052-8229604 ☎️\nחייגו ותתפנקו בחופשה מהממת ביישוב הכי נדיר בארץ\n🌺🌺🌺🌺🌺🌺🌺",
+   "ts": 1792122108000,
+   "date": "2026-10-16",
+   "time": "06:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "376KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1galSFxN8AncOL9PcNu-_KnfP_b91ZS98/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1galSFxN8AncOL9PcNu-_KnfP_b91ZS98&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
+  },
+  {
+   "id": "A53C83B5DDAA61D5AD23523AAB153F5A",
+   "sender": "שושנה שטיינר",
+   "text": "",
+   "ts": 1792123516000,
+   "date": "2026-10-16",
+   "time": "07:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "305KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yHcGrzy3vgcoJ3DvmHlkbWHFAsk7IKNK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yHcGrzy3vgcoJ3DvmHlkbWHFAsk7IKNK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545415296"
   }
  ]
 }

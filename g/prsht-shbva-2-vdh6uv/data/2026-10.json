@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-15T15:19:14.898Z",
+ "updated": "2026-10-16T05:25:03.490Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -3004,6 +3004,74 @@
    "files": [],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "3A5F7B66AEF16E1C55FA",
+   "sender": "טל צדוק 🌻",
+   "text": "יש ושננתם של הפרשה?",
+   "ts": 1792128139000,
+   "date": "2026-10-16",
+   "time": "08:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523330256"
+  },
+  {
+   "id": "AC30074FD91FDE0D9D54CFEF8C007939",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1792128249000,
+   "date": "2026-10-16",
+   "time": "08:24",
+   "files": [
+    {
+     "name": "ושננתם נח ילדים.pdf",
+     "size": "585KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_5KPmIN1giYJBm6nd_y4CArY9iu70O3D/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC9E225C88C30772596D888CA07AA8BB",
+   "sender": "רחל רביץ",
+   "text": "",
+   "ts": 1792128250000,
+   "date": "2026-10-16",
+   "time": "08:24",
+   "files": [
+    {
+     "name": "ושננתם נח ילדים פו.pdf",
+     "size": "815KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/13XwJUF5XD5X0XgAXBuZMFnZOYFFf7-d3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC8E0B99EC0596D8176142AE3270940C",
+   "sender": "אודיה זידר",
+   "text": "",
+   "ts": 1792128291000,
+   "date": "2026-10-16",
+   "time": "08:24",
+   "files": [
+    {
+     "name": "ושננתם נח ילדים פו.pdf",
+     "size": "815KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1gnHkqch8yE8JIKRVxatbk0nm0ehQvJUH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543599288"
   }
  ]
 }

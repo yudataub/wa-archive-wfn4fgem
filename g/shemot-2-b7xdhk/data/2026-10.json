@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-15T22:34:22.538Z",
+ "updated": "2026-10-16T03:48:41.271Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -1231,6 +1231,44 @@
    "files": [],
    "drive": null,
    "phone": "972546159578"
+  },
+  {
+   "id": "AC482463C3E8133DE6C74988E5450FF3",
+   "sender": "רחלי בלמס",
+   "text": "",
+   "ts": 1792122506000,
+   "date": "2026-10-16",
+   "time": "06:48",
+   "files": [
+    {
+     "name": "נח-החיות-בתיבה-דף-קריאה.pdf",
+     "size": "136KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19Q0Mez59E3y8UWzKtn1bLHOKeeMLFDop/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584324242"
+  },
+  {
+   "id": "ACBEC5940C1DDEC79E9ED48A39F61FF2",
+   "sender": "רחלי בלמס",
+   "text": "",
+   "ts": 1792122509000,
+   "date": "2026-10-16",
+   "time": "06:48",
+   "files": [
+    {
+     "name": "נח-המבול-דף-קריאה.pdf",
+     "size": "242KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1CexbXiNZNQLyKVT8KNwNvo3ItLF_paE7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584324242"
   }
  ]
 }

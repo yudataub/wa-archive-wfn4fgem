@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-15T19:43:24.475Z",
+ "updated": "2026-10-16T05:19:03.402Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -4862,6 +4862,48 @@
    ],
    "drive": null,
    "phone": "972508353555"
+  },
+  {
+   "id": "3EB0C2324162D2013991E4",
+   "sender": "אורית מאימן",
+   "text": "",
+   "ts": 1792117639000,
+   "date": "2026-10-16",
+   "time": "05:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "281KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zblgJqQHS64reJ9opuCNSnFktUDXXMqN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zblgJqQHS64reJ9opuCNSnFktUDXXMqN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505444039"
+  },
+  {
+   "id": "AC4E3074FB3D3970E2110089A02D5F90",
+   "sender": "נורית",
+   "text": "דרושים עובדים מהבית שכר גבוה מאוד מעל 80 שח לשעה בקהילה שלנו",
+   "ts": 1792125208000,
+   "date": "2026-10-16",
+   "time": "07:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527525529"
+  },
+  {
+   "id": "AC9E071B28F7F89C2FEA8E2916A9922B",
+   "sender": "יאיר בוכבינדר",
+   "text": "פרשת נח\n\n*שאלת השאלות*\n\nhttps://youtube.com/shorts/rrmLZ11Lc5Y?si=MpDebn6oqproZJQm\n\n*ערוץ וואצאפ:*\nhttps://whatsapp.com/channel/0029Vb3jc1MEKyZGOtJP1c3i\n\nשבת שלום ומבורך וברכה גדולה לחיילים היקרים ואהובים שלנו ❣️",
+   "ts": 1792127929000,
+   "date": "2026-10-16",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972545885131"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-16T00:10:04.644Z",
+ "updated": "2026-10-16T05:15:33.332Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -9752,6 +9752,48 @@
    "files": [],
    "drive": null,
    "phone": "972547264000"
+  },
+  {
+   "id": "AC043591FB4747CBFF7D7B247B09ABF8",
+   "sender": "רעות",
+   "text": "מחפשת מתקין לדלת רשת לכניסה לבית",
+   "ts": 1792125910000,
+   "date": "2026-10-16",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "phone": "972527073970"
+  },
+  {
+   "id": "3A125D4805722C793939",
+   "sender": "צביה",
+   "text": "מישהי במקרה מוסרת לוח שנה בינונית בבקשה וניפגש במרכז קרית אתא",
+   "ts": 1792126268000,
+   "date": "2026-10-16",
+   "time": "07:51",
+   "files": [],
+   "drive": null,
+   "phone": "972586588772"
+  },
+  {
+   "id": "ACB6926A2CE0E2550E6564D8502BF12C",
+   "sender": "גמח עדן",
+   "text": "ספה איכותית מאוד ב300 שח בלבד עם ריצרצים לפירוק כל הבד לכבס כל כתם רק שבא בד רחיץ נוחה במיוחד חדש עולה 1800 ,",
+   "ts": 1792127725000,
+   "date": "2026-10-16",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1w9uHpQ5BCA7hyvL12_sSnCL-DLvNd6dF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1w9uHpQ5BCA7hyvL12_sSnCL-DLvNd6dF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
   }
  ]
 }

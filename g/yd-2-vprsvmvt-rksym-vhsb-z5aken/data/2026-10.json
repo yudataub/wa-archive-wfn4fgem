@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-15T18:48:46.624Z",
+ "updated": "2026-10-16T05:15:33.311Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -11068,6 +11068,37 @@
      "path": "https://drive.google.com/file/d/1RHFobjB0vRMLgUUXdXArkcIsfavTstUU/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1RHFobjB0vRMLgUUXdXArkcIsfavTstUU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "AC61F0DBFDCBB54BF548EC97F5BE5F8C",
+   "sender": "טולי",
+   "text": "רכסים אתא עוד 10 דק גבעה א'\n50₪",
+   "ts": 1792125103000,
+   "date": "2026-10-16",
+   "time": "07:31",
+   "files": [],
+   "drive": null,
+   "phone": "972556717628"
+  },
+  {
+   "id": "AC32AAF892AEC37FE651F196A6001DBB",
+   "sender": "גמח עדן",
+   "text": "ספה איכותית מאוד ב300 שח בלבד עם ריצרצים לפירוק כל הבד לכבס כל כתם רק שבא בד רחיץ נוחה במיוחד חדש עולה 1800 ,",
+   "ts": 1792127725000,
+   "date": "2026-10-16",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ch1m-ivL1SYP6pevXonpkTV9-47s6ge3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ch1m-ivL1SYP6pevXonpkTV9-47s6ge3&sz=w1200"
     }
    ],
    "drive": null,

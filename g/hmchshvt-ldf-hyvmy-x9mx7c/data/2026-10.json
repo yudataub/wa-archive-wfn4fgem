@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-15T03:11:29.493Z",
+ "updated": "2026-10-16T03:14:43.285Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -489,6 +489,66 @@
      "path": "https://drive.google.com/file/d/1tVyzzdqHGTugLDUcCBO13vR7dvKSFMwZ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1tVyzzdqHGTugLDUcCBO13vR7dvKSFMwZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A81DC8F6A4794F43B0F",
+   "sender": ".",
+   "text": "״שאין זקוק להוליכו למקום רחוק למקום שהחכם שם״ (תוס׳ בכורות כח, א).",
+   "ts": 1792120454000,
+   "date": "2026-10-16",
+   "time": "06:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZBa4HN8qchpvua1JjuDdmlRSTTUZyNFW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZBa4HN8qchpvua1JjuDdmlRSTTUZyNFW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A5327239E5DE04D00AE",
+   "sender": ".",
+   "text": "״דאגע בהו שרץ״ (בכורות כח, ב).",
+   "ts": 1792120456000,
+   "date": "2026-10-16",
+   "time": "06:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oklKGgqGsiRGw78Qr4fz4S8HJlPBt1MJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oklKGgqGsiRGw78Qr4fz4S8HJlPBt1MJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A8CF8BB1DEB1C260C5A",
+   "sender": ".",
+   "text": "״שפרות שלהן מעולין מאד״ (רש״י בכורות כח, ב).",
+   "ts": 1792120460000,
+   "date": "2026-10-16",
+   "time": "06:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "87KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o40b2JSYZvO6NPovWxmiKRgQOooQqfuU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o40b2JSYZvO6NPovWxmiKRgQOooQqfuU&sz=w1200"
     }
    ],
    "drive": null,
