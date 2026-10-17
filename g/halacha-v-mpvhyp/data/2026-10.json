@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-14T04:49:09.962Z",
+ "updated": "2026-10-17T17:33:43.218Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -656,6 +656,38 @@
    "files": [],
    "drive": null,
    "phone": "972547437300"
+  },
+  {
+   "id": "ACCCAE69B806A32CD1525859756A3633",
+   "sender": "מיטל בן משה",
+   "text": "שבוע טוב, אשמח לדף עבודה על שאילת גשמים🙏",
+   "ts": 1792258060000,
+   "date": "2026-10-17",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972508764002"
+  },
+  {
+   "id": "3EB0A747DD523AE6E3AB5F",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://yudataub.github.io/yamim/s/geshamim.html",
+   "ts": 1792258219000,
+   "date": "2026-10-17",
+   "time": "20:30",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "2A073AC7052AB35FBA96",
+   "sender": "מרים שיאחי",
+   "text": "גם אני אשמח",
+   "ts": 1792258427000,
+   "date": "2026-10-17",
+   "time": "20:33",
+   "files": [],
+   "drive": null,
+   "phone": "972559113004"
   }
  ]
 }

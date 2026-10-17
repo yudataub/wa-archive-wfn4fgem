@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-16T10:49:37.233Z",
+ "updated": "2026-10-17T17:22:42.998Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -1015,6 +1015,47 @@
    ],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "3A92F04568DF0CF4CB4E",
+   "sender": "עותניאל מנצור",
+   "text": "*מחר זה קורה!*\n\n*תפילת רבים של החמ\"ד*\nעצרת התפילה המרכזית לגשמי ברכה ולשלום המדינה\nבע\"ה תתקיים ביום ראשון, ז' חשוון, בשעה 10:20 בישיבת הר עציון לצעירים.\n\nמוזמנים להצטרף לשידור החי ולהתפלל יחד איתנו!\n\n*לצפייה במשדר והורדת נוסח התפילה היכנסו >>>* https://www.yedidhemed.co.il/tfilat_rabim\n\nמחכים לכם!\nהנהלת החמ\"ד",
+   "ts": 1792255769000,
+   "date": "2026-10-17",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o4SM0v76976RFcLf13vKsogqVfPAqc0q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o4SM0v76976RFcLf13vKsogqVfPAqc0q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "3A6822C9FF86425B4817",
+   "sender": "עותניאל מנצור",
+   "text": "רבנים יקרים שבוע טוב \nאבקש להעביר למנהלים/לצוותים. \nבהצלחה רבה בע״ה ושנזכה לגשמי ברכה בע״ה",
+   "ts": 1792255777000,
+   "date": "2026-10-17",
+   "time": "19:49",
+   "files": [],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "3EB0EAEAA5C6D05C738ADC",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "חומרים למי שצריך\nhttps://yudataub.github.io/yamim/s/geshamim.html",
+   "ts": 1792257758000,
+   "date": "2026-10-17",
+   "time": "20:22",
+   "files": [],
+   "drive": null
   }
  ]
 }

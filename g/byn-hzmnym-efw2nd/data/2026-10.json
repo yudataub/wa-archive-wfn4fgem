@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-16T09:48:29.295Z",
+ "updated": "2026-10-17T15:50:41.412Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1708,6 +1708,26 @@
    "files": [],
    "drive": null,
    "phone": "972524282461"
+  },
+  {
+   "id": "ACB5023C7E3F0748415E5C82E741E4AB",
+   "sender": "עדית אבני",
+   "text": "🌺 *פנויים החל ממחר* \n🌺 *זה הזמן לשריין* \n       *חמישי-מוצ\"ש הקרוב במחיר 🔥* 🔥 \n🌺נשמח לצרף אתכם למועדון האורחים המרוצים שלנו שחוזרים ומתארחים בוילה חופשה אחר חופשה.\n🌺🌺🌺🌺🌺🌺🌺🌺",
+   "ts": 1792252220000,
+   "date": "2026-10-17",
+   "time": "18:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "264KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GpKfrSIu-adidXA4u-HAN1SV8i5Qwxz2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GpKfrSIu-adidXA4u-HAN1SV8i5Qwxz2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
   }
  ]
 }

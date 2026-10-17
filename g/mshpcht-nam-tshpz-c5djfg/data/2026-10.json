@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-16T13:33:13.885Z",
+ "updated": "2026-10-17T16:55:12.503Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2481,6 +2481,76 @@
    "ts": 1792157574000,
    "date": "2026-10-16",
    "time": "16:32",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACEA83BF1308BB015EB516F95376CD01",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1792255993000,
+   "date": "2026-10-17",
+   "time": "19:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "539KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BV2fIS7exzdqnzC_AwfzElAEzC_bRyzH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BV2fIS7exzdqnzC_AwfzElAEzC_bRyzH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC0B3730DFD289B2C132D84E8B6BB6BD",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1792255998000,
+   "date": "2026-10-17",
+   "time": "19:53",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "390KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1dMrhB7FEcufhFkN4MU6rX_kKSu432jcD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dMrhB7FEcufhFkN4MU6rX_kKSu432jcD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACD07717E9412EEAA3788585E32681A3",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1792256049000,
+   "date": "2026-10-17",
+   "time": "19:54",
+   "files": [
+    {
+     "name": "דף קשר חמד נעם קרית אתא.pdf",
+     "size": "3.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PMJQvByud6PUQB67txczqcaobK6-EuJQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC0207E7B920A3BA366EE82E1586B612",
+   "sender": "אורלי אוחנה",
+   "text": "☝️ניתן לשלוח להורים.",
+   "ts": 1792256109000,
+   "date": "2026-10-17",
+   "time": "19:55",
    "files": [],
    "drive": null,
    "phone": "972507864721"

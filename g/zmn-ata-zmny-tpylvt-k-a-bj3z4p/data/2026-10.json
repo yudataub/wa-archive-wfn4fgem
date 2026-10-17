@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-16T09:51:59.335Z",
+ "updated": "2026-10-17T17:18:42.947Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -1018,6 +1018,86 @@
    "date": "2026-10-16",
    "time": "12:51",
    "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC40ACC4217A7DE395A37C4F8372151E",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792257294000,
+   "date": "2026-10-17",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "37KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1MLkWdaXiDN_rP3bgG9rUE0vgfayD1PTB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MLkWdaXiDN_rP3bgG9rUE0vgfayD1PTB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACBB6E8694D84F1ACC2F1F72CB5AA25F",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792257294000,
+   "date": "2026-10-17",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "26KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1TH7dFTXJ-W8cS2AV3SrICIAUDAaEy3k_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TH7dFTXJ-W8cS2AV3SrICIAUDAaEy3k_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC5C28DF62D40F583401027E5C72B3E2",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792257374000,
+   "date": "2026-10-17",
+   "time": "20:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "285KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tuzwRJ2WeIfmK76iPQelv9nvq2WpsNXz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tuzwRJ2WeIfmK76iPQelv9nvq2WpsNXz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACB1D79BF5E742C37E2745D960C91445",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792257495000,
+   "date": "2026-10-17",
+   "time": "20:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "366KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MKdVsLm0WiCqxuzne74uvJhXqNRUWBxL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MKdVsLm0WiCqxuzne74uvJhXqNRUWBxL&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522822589"
   }

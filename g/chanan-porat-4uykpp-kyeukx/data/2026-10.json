@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-15T14:04:29.862Z",
+ "updated": "2026-10-17T17:14:12.877Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2293,6 +2293,26 @@
    "files": [],
    "drive": null,
    "phone": "972533309982"
+  },
+  {
+   "id": "A5F6FC42640711DA92ACFB8D099C5E7C",
+   "sender": "הראל מקייס",
+   "text": "*מחר זה קורה!*\n\n*תפילת רבים של החמ\"ד*\nעצרת התפילה המרכזית לגשמי ברכה ולשלום המדינה\nבע\"ה תתקיים ביום ראשון, ז' חשוון, בשעה 10:20 בישיבת הר עציון לצעירים.\n\nמוזמנים להצטרף לשידור החי ולהתפלל יחד איתנו!\n\n*לצפייה במשדר והורדת נוסח התפילה היכנסו >>>* https://www.yedidhemed.co.il/tfilat_rabim\n\nמחכים לכם!\nהנהלת החמ\"ד",
+   "ts": 1792257242000,
+   "date": "2026-10-17",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tPei3qwNdCKMaswQ-cV2LwZ-1a_LB3js/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tPei3qwNdCKMaswQ-cV2LwZ-1a_LB3js&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524591311"
   }
  ]
 }

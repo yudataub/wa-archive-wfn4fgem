@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "סדירים תרבות פ\"ו",
- "updated": "2026-10-15T19:29:24.251Z",
+ "updated": "2026-10-17T17:10:12.812Z",
  "messages": [
   {
    "id": "3A269AD92F87E946C62B",
@@ -152,6 +152,59 @@
    "files": [],
    "drive": null,
    "phone": "972585649171"
+  },
+  {
+   "id": "AC1A76F49C58D41F284BBCBFBBC410BC",
+   "sender": "shay",
+   "text": "שבוע טוב ומבורך מסתבר ש סטטיסטיקה רודפת אחרי😂😂 אני יושב עם הבן שלו על שיעורי בית",
+   "ts": 1792256917000,
+   "date": "2026-10-17",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972509124247"
+  },
+  {
+   "id": "AC70CE119FD686A4FFBD9CA9F35E4201",
+   "sender": "shay",
+   "text": "אשמח לעזרה בסעיף ה",
+   "ts": 1792256921000,
+   "date": "2026-10-17",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972509124247"
+  },
+  {
+   "id": "ACE657FD4B95F7290A9F5658CEF19D31",
+   "sender": "shay",
+   "text": "",
+   "ts": 1792256926000,
+   "date": "2026-10-17",
+   "time": "20:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MwSoKNdZr_IsZFNaXfDlvLqH7sx27D1_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MwSoKNdZr_IsZFNaXfDlvLqH7sx27D1_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509124247"
+  },
+  {
+   "id": "AC2BE4522141416A205459A0DBB17133",
+   "sender": "אביחי✨️",
+   "text": "צריך לצייר ציר x- ילדים\nציר y- מבוגרים\nולסמן את הנקודות של הטבלה..",
+   "ts": 1792257009000,
+   "date": "2026-10-17",
+   "time": "20:10",
+   "files": [],
+   "drive": null,
+   "phone": "972586386699"
   }
  ]
 }

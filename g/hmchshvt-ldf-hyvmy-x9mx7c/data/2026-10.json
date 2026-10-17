@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-16T03:14:43.285Z",
+ "updated": "2026-10-17T16:07:08.830Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -549,6 +549,66 @@
      "path": "https://drive.google.com/file/d/1o40b2JSYZvO6NPovWxmiKRgQOooQqfuU/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1o40b2JSYZvO6NPovWxmiKRgQOooQqfuU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF509350A86FB10CC6A",
+   "sender": ".",
+   "text": "״מרכיבו על החמור״ (בכורות כט, א).",
+   "ts": 1792253222000,
+   "date": "2026-10-17",
+   "time": "19:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15umtP5qtjsB1JcUr2O1_-ErKkdqhqrXS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15umtP5qtjsB1JcUr2O1_-ErKkdqhqrXS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A426E58244A48FE8EA8",
+   "sender": ".",
+   "text": "״בקטנים שרי מטעם שכר שימור״ (תוס׳ בכורות כט, א).",
+   "ts": 1792253224000,
+   "date": "2026-10-17",
+   "time": "19:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hV2FpcAGo2eUu-I5xNuaJHm-ccJixvGV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hV2FpcAGo2eUu-I5xNuaJHm-ccJixvGV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF94E2C31106E32AD5B",
+   "sender": ".",
+   "text": "״מתיר ליטמא בבית הפרס לכל המצות כמו לצאת לקראת מלכים״ (תוס׳ בכורות כט, א).",
+   "ts": 1792253227000,
+   "date": "2026-10-17",
+   "time": "19:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11AL-ygIz2K8k-WrA0GtYbtDTDJAo4B0R/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11AL-ygIz2K8k-WrA0GtYbtDTDJAo4B0R&sz=w1200"
     }
    ],
    "drive": null,

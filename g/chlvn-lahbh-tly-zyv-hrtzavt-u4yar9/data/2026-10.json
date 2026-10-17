@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חלון לאהבה-טלי זיו הרצאות",
- "updated": "2026-10-13T09:02:10.332Z",
+ "updated": "2026-10-17T17:37:43.277Z",
  "messages": [
   {
    "id": "AC6F8A50F466ABB2EF6DA4740EDD1BAE",
@@ -38,6 +38,26 @@
      "path": "https://drive.google.com/file/d/1rbk7SZ6IiOjEqtEJI3wSJUzbA8_osX6P/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1rbk7SZ6IiOjEqtEJI3wSJUzbA8_osX6P&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544918799"
+  },
+  {
+   "id": "AC369BE1AC65A20BDAB7B6DB46142726",
+   "sender": "טלי זיו",
+   "text": "*יום פתוח בזום: \"לגעת בנשמה\", יסודות הטיפול*\n\nמכון אבולעפיה מזמין אתכם לערב היכרות עם הקורס שפותח דלת אל עומק הנפש. לא הכשרה מקצועית, אלא מסע אישי שמשנה את הדרך שבה אתם מבינים את עצמכם ואת האנשים סביבכם.\n\n*יום רביעי, י' בחשוון, 21.10, בשעה 21:00*\nבזום, ללא תשלום, בהרשמה מראש.\n\nמה יהיה בערב:\n• שיעור מאת ד\"ר מיכאל אבולעפיה\n• מפגש חווייתי עם עליזה בן־דוד\n• סקירת מבנה הקורס עם אריאל לביא, רכז אקדמי\n• שאלות ותשובות\n\nלמשתתפים: ₪500 הנחה למי שנרשם לקורס בערב עצמו.\nהקורס נפתח ב-14.12, 20 מפגשים בימי שני.\n\nלהרשמה:\nhttps://aboulafia-institute.org/open-day-lagaat",
+   "ts": 1792258660000,
+   "date": "2026-10-17",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1xC6S4ca35NNvkDq0cAIz143kgTis0Gpa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xC6S4ca35NNvkDq0cAIz143kgTis0Gpa&sz=w1200"
     }
    ],
    "drive": null,
