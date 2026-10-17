@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-17T17:22:13.001Z",
+ "updated": "2026-10-17T20:51:45.427Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -10124,6 +10124,90 @@
    ],
    "drive": null,
    "phone": "972559326761"
+  },
+  {
+   "id": "AC380325EC854769ECC466253498E2F1",
+   "sender": "ישראל",
+   "text": "",
+   "ts": 1792261266000,
+   "date": "2026-10-17",
+   "time": "21:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/14sifaROiLFKDMFZwS-5O-_NHCyul3clt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14sifaROiLFKDMFZwS-5O-_NHCyul3clt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549917530"
+  },
+  {
+   "id": "AC25583655A22E25A280BCEA54DFB848",
+   "sender": "ישראל",
+   "text": "פורור העצמאות 57 ק אתא",
+   "ts": 1792261267000,
+   "date": "2026-10-17",
+   "time": "21:21",
+   "files": [],
+   "drive": null,
+   "phone": "972549917530"
+  },
+  {
+   "id": "3A5F464BB1C223D88EB0",
+   "sender": "צביה",
+   "text": "אולי מישהי תוכל לעשות לי איזה מצווה קטנה פמוטים קטנים שיהיה כתוב את הברכה להדלקת נרות עבור אימי",
+   "ts": 1792262328000,
+   "date": "2026-10-17",
+   "time": "21:38",
+   "files": [],
+   "drive": null,
+   "phone": "972586588772"
+  },
+  {
+   "id": "A56330DCCCCD75B7FF7DB3755E608E6E",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל מגיע לעשות לכם שמח!*\nהגברה | תאורה | זיקוקים | בובות ענק \n058-713-2636",
+   "ts": 1792263202000,
+   "date": "2026-10-17",
+   "time": "21:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1U-k-ihC1-3418FdU_QO-rtUG8YflZ3qm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1U-k-ihC1-3418FdU_QO-rtUG8YflZ3qm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "A5E1950D97CE57BD5903332059A3C16E",
+   "sender": "גיל יעקובוביץ",
+   "text": "סליחה על השעה \nבמקרה משהו פה עכשיו בנהריה וחוזר לקריות היום?",
+   "ts": 1792268739000,
+   "date": "2026-10-17",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "phone": "972525168212"
+  },
+  {
+   "id": "A5C4185A38F32D1EED0AE70E75E026FA",
+   "sender": "גיל יעקובוביץ",
+   "text": "סגור תודה",
+   "ts": 1792270287000,
+   "date": "2026-10-17",
+   "time": "23:51",
+   "files": [],
+   "drive": null,
+   "phone": "972525168212"
   }
  ]
 }

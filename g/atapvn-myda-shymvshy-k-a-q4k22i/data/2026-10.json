@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-17T17:22:13.015Z",
+ "updated": "2026-10-17T18:54:45.221Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -3488,6 +3488,26 @@
    ],
    "drive": null,
    "phone": "972559326761"
+  },
+  {
+   "id": "A523480988931BFC8BDF4EB4716EAAD8",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל מגיע לעשות לכם שמח!*\nהגברה | תאורה | זיקוקים | בובות ענק \n058-713-2636",
+   "ts": 1792263281000,
+   "date": "2026-10-17",
+   "time": "21:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1orriAulXVySwJTC975L7X1fqFl2WN290/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1orriAulXVySwJTC975L7X1fqFl2WN290&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
   }
  ]
 }

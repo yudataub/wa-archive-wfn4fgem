@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לימודים לחרדים - 45",
- "updated": "2026-10-15T18:17:09.559Z",
+ "updated": "2026-10-17T18:34:14.800Z",
  "messages": [
   {
    "id": "AC71F4D14BCE523F00CFBFAE46327AF4",
@@ -118,6 +118,26 @@
      "path": "https://drive.google.com/file/d/11GfGRaPO7dH9QRm49IwCSjFiu9LALuUm/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=11GfGRaPO7dH9QRm49IwCSjFiu9LALuUm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972557272977"
+  },
+  {
+   "id": "AC202A23958219B615EA4AFD7E4199B7",
+   "sender": "מערכת",
+   "text": "*קורסי אנגלית חורף - כל הקורסים במימון מלא!!*\n\n*מגוון קורסים ברמות שונות:🇺🇸*\n\n🔹אנגלית בסיסית\n🔹אנגלית מתחילים\n🔹אנגלית מדוברת\n🔹אנגלית מתקדמים\n\n💰 *דמי רישום 200₪*\n\n*ההרשמה מראש חובה>>*\nhttps://hechven-bb.co.il/product/english-4/?utm_source=limudim-mail&utm_medium=email&utm_campaign=kvrsy-anglyt-kytz&utm_term=13-10\n\n*מלגות ולימודים לחרדים >>*",
+   "ts": 1792262053000,
+   "date": "2026-10-17",
+   "time": "21:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "144KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WkaA4O_1NT5k8ZVfTQKXYzNjVC-X2f6h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WkaA4O_1NT5k8ZVfTQKXYzNjVC-X2f6h&sz=w1200"
     }
    ],
    "drive": null,

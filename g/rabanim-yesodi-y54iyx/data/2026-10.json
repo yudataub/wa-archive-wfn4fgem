@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-17T16:51:42.443Z",
+ "updated": "2026-10-17T19:55:14.631Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -6107,6 +6107,17 @@
    ],
    "drive": null,
    "phone": "972508733084"
+  },
+  {
+   "id": "3EB0670121E8A010F024FC",
+   "sender": "אסף אלדר",
+   "text": "https://www.classe.world/teacher/#!/he/session/lessonsTable/219166\nחוברת הלכה לכיתה ה מקוונת",
+   "ts": 1792266901000,
+   "date": "2026-10-17",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
   }
  ]
 }

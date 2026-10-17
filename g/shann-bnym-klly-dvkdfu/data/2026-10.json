@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-10-17T17:15:42.915Z",
+ "updated": "2026-10-17T21:30:46.008Z",
  "messages": [
   {
    "id": "ACAA37DC60E64C63863EDF33581F1386",
@@ -2351,6 +2351,37 @@
    "files": [],
    "drive": null,
    "phone": "972524879911"
+  },
+  {
+   "id": "3EB0185FC140898F90E40B",
+   "sender": "יאיר אסולין",
+   "text": "מספר של דן  מירז",
+   "ts": 1792259247000,
+   "date": "2026-10-17",
+   "time": "20:47",
+   "files": [],
+   "drive": null,
+   "phone": "972528770617"
+  },
+  {
+   "id": "ACDA661951CE82A327AD884B3600111B",
+   "sender": "הראל הלוי",
+   "text": "מישהו יודע מה אני עושה פה? זה כדי לאמת הנחה בספוטיפיי..",
+   "ts": 1792272635000,
+   "date": "2026-10-18",
+   "time": "00:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "53KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hJXM8PVOoBk0M9X1scCEGDv9kw0NR5gC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hJXM8PVOoBk0M9X1scCEGDv9kw0NR5gC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542181495"
   }
  ]
 }

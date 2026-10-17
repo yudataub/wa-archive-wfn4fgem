@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-17T17:37:13.258Z",
+ "updated": "2026-10-17T20:20:44.946Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -4723,6 +4723,185 @@
    ],
    "drive": null,
    "phone": "972526853923"
+  },
+  {
+   "id": "AC2DCCCF5B0A2D270C46F1EEA262EBCE",
+   "sender": "דוד גפני",
+   "text": "מזל טוב 🥳\nכל הברכות🙏",
+   "ts": 1792258734000,
+   "date": "2026-10-17",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972504123686"
+  },
+  {
+   "id": "AC5F4921C8B3C2F0CC661FD72DA70E80",
+   "sender": "משה בורנשטיין",
+   "text": "",
+   "ts": 1792259085000,
+   "date": "2026-10-17",
+   "time": "20:44",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "291KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1WPMSd1_sy9X-ebPrtr1JTaLTRCJV6OqE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WPMSd1_sy9X-ebPrtr1JTaLTRCJV6OqE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527605097"
+  },
+  {
+   "id": "AC786B0B97ACD0BBA9C6D35CBCEE4146",
+   "sender": "אליהו חזן",
+   "text": "",
+   "ts": 1792259999000,
+   "date": "2026-10-17",
+   "time": "20:59",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "36KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1IelB9DAJU4JUVx7nr8PHkfQgeMnWA2-W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IelB9DAJU4JUVx7nr8PHkfQgeMnWA2-W&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502770777"
+  },
+  {
+   "id": "AC3D18BE837550FC5ADFFCECFCD066F1",
+   "sender": "אליהו גגולה",
+   "text": "מזל טוב!!!🥳🥳🥳",
+   "ts": 1792260309000,
+   "date": "2026-10-17",
+   "time": "21:05",
+   "files": [],
+   "drive": null,
+   "phone": "972548842402"
+  },
+  {
+   "id": "AC00AF3DAFD37D34E70BFCE81AFFE00E",
+   "sender": "אלקנה",
+   "text": "תודה רבה לכולם בשמחות אצלכם בלב שמח💗",
+   "ts": 1792261152000,
+   "date": "2026-10-17",
+   "time": "21:19",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "A5CDE4194C4C2809A897BACBFEA65C45",
+   "sender": "גולד",
+   "text": "",
+   "ts": 1792261531000,
+   "date": "2026-10-17",
+   "time": "21:25",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "90KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1cAkvcK5yIkeRkdm-yHgvMmGuOEqGuEJr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cAkvcK5yIkeRkdm-yHgvMmGuOEqGuEJr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523697751"
+  },
+  {
+   "id": "ACB446AAFFD64E0212F269B35557C3DE",
+   "sender": "יצחק ומירי הסקין",
+   "text": "מזל טוב 🥳🥳",
+   "ts": 1792261580000,
+   "date": "2026-10-17",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "AC88CE31A8373AD75560BE858FA47A43",
+   "sender": "יעקב",
+   "text": "לאלקנה היקר מזל טוב לרגל הולדת הנכד הרבה נחת ושמחה ממנו",
+   "ts": 1792262259000,
+   "date": "2026-10-17",
+   "time": "21:37",
+   "files": [],
+   "drive": null,
+   "phone": "972533384050"
+  },
+  {
+   "id": "AC2DF8C07DF9EF0AD21BC41AC8263988",
+   "sender": "חזקי סולומונס",
+   "text": "",
+   "ts": 1792266999000,
+   "date": "2026-10-17",
+   "time": "22:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "224KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OZz8l224ws-U1BM1khtUvf5D-ShvQwxR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OZz8l224ws-U1BM1khtUvf5D-ShvQwxR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587161155"
+  },
+  {
+   "id": "AC55F176286BF14F80C43A51108303A8",
+   "sender": "יצחק ומירי הסקין",
+   "text": "יש למישהו מספר של המדביר אסייג עשאהל?",
+   "ts": 1792268167000,
+   "date": "2026-10-17",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "A57661973A89158F5234E9C9C56CF0D6",
+   "sender": "א.א ירק  בכפר",
+   "text": "📇 סייג עושהאל\n+972559631928",
+   "ts": 1792268196000,
+   "date": "2026-10-17",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972549420410"
+  },
+  {
+   "id": "ACADB870D62EFB65B4B64FB74706064C",
+   "sender": "יצחק ומירי הסקין",
+   "text": "תודה רבה",
+   "ts": 1792268222000,
+   "date": "2026-10-17",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
+  },
+  {
+   "id": "AC94743EA2E53A48A33BA82F3F986A73",
+   "sender": "יצחק ומירי הסקין",
+   "text": "יש למישהו מדבקות או לוכד עכברים?",
+   "ts": 1792268428000,
+   "date": "2026-10-17",
+   "time": "23:20",
+   "files": [],
+   "drive": null,
+   "phone": "972549689858"
   }
  ]
 }

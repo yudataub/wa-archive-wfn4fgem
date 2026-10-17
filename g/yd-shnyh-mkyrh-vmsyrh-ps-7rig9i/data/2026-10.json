@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-17T13:55:09.501Z",
+ "updated": "2026-10-17T18:03:43.722Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -2978,6 +2978,37 @@
    ],
    "drive": null,
    "phone": "972522851800"
+  },
+  {
+   "id": "ACF20CB0F39FBB22EF3D2F3FCE2F3B8D",
+   "sender": "מיטל בית מאורגן דרך הטבע🌿",
+   "text": "שבוע טוב💛💛\nמשתפת אתכם בחנות האינטרנטית שלי להזמנת מוצרי Forever. 💛\nכל המוצרים טבעיים על בסיס אלוורה ופרופוליס.\nהמוצרים לטיפול \n בסטרס וחרדות\nבעיות קיבה\n כאבי מפרקים\nכאבי ברכיים\nנשירת שיער\nיובש בעור\nטחורים\nסימני מתיחה \nפיגמנטציה\nועוד...  קיים אצלי גם מי שצריכה זמינות מיידית \n\n*זמינה לכם לכל שאלה*.   קישור לאתר שלי\nhttps://flpil.co.il/?agent=96646",
+   "ts": 1792260190000,
+   "date": "2026-10-17",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972527035410"
+  },
+  {
+   "id": "AC4A8293E530BA831CB3C5A46DCB604B",
+   "sender": "מוכר דברים",
+   "text": "",
+   "ts": 1792260215000,
+   "date": "2026-10-17",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "34KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1nFjVmxhN4MHu3R64bsFSOwW9i7pEtLei/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nFjVmxhN4MHu3R64bsFSOwW9i7pEtLei&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
   }
  ]
 }

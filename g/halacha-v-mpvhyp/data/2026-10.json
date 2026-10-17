@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ו'",
- "updated": "2026-10-17T17:33:43.218Z",
+ "updated": "2026-10-17T17:51:13.465Z",
  "messages": [
   {
    "id": "ACA427C3D28A1BC4ACE45CAD1ADA87F5",
@@ -688,6 +688,28 @@
    "files": [],
    "drive": null,
    "phone": "972559113004"
+  },
+  {
+   "id": "AC7491DA75A6ED52FF156BD740784191",
+   "sender": "ישראל ויסקוט",
+   "text": "הדף האחרון בקישור המצורף הוא על פרק טז בקיצושע שאילת גשמים \n\nhttps://drive.google.com/file/d/15EURaG1-w170jpjIzaKqYwOnYVItqBsQ/view?usp=drivesdk",
+   "ts": 1792258818000,
+   "date": "2026-10-17",
+   "time": "20:40",
+   "files": [],
+   "drive": null,
+   "phone": "972508738650"
+  },
+  {
+   "id": "AC4CD1022E7B71117526A9F154E7CB4E",
+   "sender": "ryhen97",
+   "text": "תודה רבה 👆🏾",
+   "ts": 1792259460000,
+   "date": "2026-10-17",
+   "time": "20:51",
+   "files": [],
+   "drive": null,
+   "phone": "972524599871"
   }
  ]
 }

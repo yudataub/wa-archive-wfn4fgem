@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-17T16:23:42.037Z",
+ "updated": "2026-10-17T18:00:13.690Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -5252,6 +5252,37 @@
    "files": [],
    "drive": null,
    "phone": "972505939334"
+  },
+  {
+   "id": "AC27CF57505CF502DA2FF7F43CB63138",
+   "sender": "Gila",
+   "text": "שבוע טוב... מישהו שמבין במדיחי כלים???",
+   "ts": 1792260010000,
+   "date": "2026-10-17",
+   "time": "21:00",
+   "files": [],
+   "drive": null,
+   "phone": "972502198987"
+  },
+  {
+   "id": "AC83B59E52F5AF949296775B8AB61A5B",
+   "sender": "Gila",
+   "text": "",
+   "ts": 1792260012000,
+   "date": "2026-10-17",
+   "time": "21:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dfiXVV3sdm3_NiQoZm4gU1Yt-d54vf87/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dfiXVV3sdm3_NiQoZm4gU1Yt-d54vf87&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502198987"
   }
  ]
 }

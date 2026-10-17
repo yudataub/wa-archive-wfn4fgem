@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-15T11:02:35.695Z",
+ "updated": "2026-10-17T19:12:15.492Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -414,6 +414,80 @@
    "files": [],
    "drive": null,
    "phone": "972586890080"
+  },
+  {
+   "id": "AC2DE4A267B5A92A144BF2DC29DB8B51",
+   "sender": "תפארת יודקביץ",
+   "text": "היי למישהו יש מערכי שיעור  במסכת תענית?",
+   "ts": 1792259563000,
+   "date": "2026-10-17",
+   "time": "20:52",
+   "files": [],
+   "drive": null,
+   "phone": "972585043636"
+  },
+  {
+   "id": "3EB0FED9EC2BC6703D3220",
+   "sender": "בני בוסקילה",
+   "text": "",
+   "ts": 1792260302000,
+   "date": "2026-10-17",
+   "time": "21:05",
+   "files": [
+    {
+     "name": "תענית פרק א משניות ג-ה.pptx",
+     "size": "22.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1RALX9H5a9llL0uEXAlownvLJ5cT-JqDL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586500722"
+  },
+  {
+   "id": "3EB00B951ECEA37A6186E5",
+   "sender": "חן לביא",
+   "text": "יישכח",
+   "ts": 1792260376000,
+   "date": "2026-10-17",
+   "time": "21:06",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "AC7497B47588F47DE04B10DA185D78AC",
+   "sender": "רויטל",
+   "text": "ישר כוח גדול\nלא מובן מאליו בכלל שאתם ככה משתפים",
+   "ts": 1792263979000,
+   "date": "2026-10-17",
+   "time": "22:06",
+   "files": [],
+   "drive": null,
+   "phone": "972586890080"
+  },
+  {
+   "id": "ACA9E45B142AD0A058D77E8C179D2C11",
+   "sender": "רויטל",
+   "text": "מדהיםםם",
+   "ts": 1792263983000,
+   "date": "2026-10-17",
+   "time": "22:06",
+   "files": [],
+   "drive": null,
+   "phone": "972586890080"
+  },
+  {
+   "id": "AC3CB3367FA6ECC48D9D413600FEAADC",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/1sa2LaqPSKSFeOroWsZIGMw6oPS7EcV4L",
+   "ts": 1792264318000,
+   "date": "2026-10-17",
+   "time": "22:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }

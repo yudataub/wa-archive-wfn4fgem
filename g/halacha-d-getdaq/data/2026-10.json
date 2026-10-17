@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-14T20:39:17.648Z",
+ "updated": "2026-10-17T19:26:12.443Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -977,6 +977,50 @@
    ],
    "drive": null,
    "phone": "972526478257"
+  },
+  {
+   "id": "AC7081328D0E1AF74BBF4728D994D3A5",
+   "sender": "לילך אורה יוסף",
+   "text": "שבוע טוב\nאשמח לדף עבודה על הלכות שאילת גשמים",
+   "ts": 1792258912000,
+   "date": "2026-10-17",
+   "time": "20:41",
+   "files": [],
+   "drive": null,
+   "phone": "972502291070"
+  },
+  {
+   "id": "ACFD863C2D348AE4EBC19DDCFBB6B10A",
+   "sender": "דבורה כהנא",
+   "text": "https://drive.google.com/drive/folders/1yYKQCPFdpSsT_yoqzsAAlwW0Akbk11bx?usp=drive_link",
+   "ts": 1792265027000,
+   "date": "2026-10-17",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972522240903"
+  },
+  {
+   "id": "3AB23B5698A02C59AE28",
+   "sender": "שושנה",
+   "text": "איזה ספר מלמדים בכיתה ד בהלכה?",
+   "ts": 1792265119000,
+   "date": "2026-10-17",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972502022280"
+  },
+  {
+   "id": "ACDA41B56519BAFA00EFC0E8D8766377",
+   "sender": "רחל שטיינר",
+   "text": "אשמח לאיזה סיפור או משהו להקדמה לפני הלכות",
+   "ts": 1792265173000,
+   "date": "2026-10-17",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972505728830"
   }
  ]
 }

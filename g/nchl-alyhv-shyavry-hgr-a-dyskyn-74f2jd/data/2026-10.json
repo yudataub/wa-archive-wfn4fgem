@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "נחל אליהו - שיעורי הגר\"א דיסקין",
- "updated": "2026-10-15T14:40:02.314Z",
+ "updated": "2026-10-17T18:57:54.240Z",
  "messages": [
   {
    "id": "AC5B82DCDE0EC2BBBDC51C279FA68ED9",
@@ -76,6 +76,36 @@
      "size": "5.3MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1VbIJKZo2Lt4sGwZ2on6uizq23KRuz2e4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972512266924"
+  },
+  {
+   "id": "ACA20B6680FE467CE627630BDF78F125",
+   "sender": "להגדיל תורה",
+   "text": "📎 *נחל אליהו - פרשת לך לך*\n\n💿 הרב *אליהו דיסקין* שליט\"א \n🗓️ שיעורי פרשת *לך לך* משנים קודמות \n\n📌 שיעור *א'* - \nאומרים *אלוקי אברהם* יצחק ויעקב | וילך אברם *כאשר* דבר אליו ה’\n‏\n📌 שיעור *ב'* - ללכת אחרי האמת *בכל מחיר* | אי *מזה* באת *ואנה* תלכי\n‏\n📌 שיעור *ג'* -\n*בטחון* והשתדלות | *סכנת* אדם בעל בחירה | *הקושי* בשינוי הרגלים | מה שאירע לאבות *סימן* לבנים | את הגוי אשר יעבודו *דן אנוכי* | *להבדל* מתרבות הרחוב | והוא יהיה *פרא אדם*, ועוד\n‏\n📌 שיעור *ד'* -\n*מהות* מלחמת המלכים | שכר העולם הבא *אין צורך* להבטחה | *ישתנה* המזל ויש לאברהם בן | השבת אבדה *לפנים* משורת הדין, ועוד\n‏\n📌 שיעור *ה'* -\nהערות והארות חידושים וביאורים \n\n📌 מסר קצר - *מאברהם אבינו עד הרב אורי זוהר*\n\n🎥🎙️לשיעורים 👈 https://www.kolhalashon.com/he/regularSite/ravs/270?urlFilters=25:6288%7C14:3%7C&orderBy=9\n🎙️🎥 למסרים 👈https://www.kolhalashon.com/he/regularSite/ravs/270?urlFilters=25:276869%7C14:3%7C&orderBy=9\n\n📲 להצטרפות:https://boti.bot/ShQDIoB9H11",
+   "ts": 1792263448000,
+   "date": "2026-10-17",
+   "time": "21:57",
+   "files": [],
+   "drive": null,
+   "phone": "972512266924"
+  },
+  {
+   "id": "AC4504F7E5DD2E19B28FAA51D527C44E",
+   "sender": "להגדיל תורה",
+   "text": "",
+   "ts": 1792263460000,
+   "date": "2026-10-17",
+   "time": "21:57",
+   "files": [
+    {
+     "name": "פרשת לך לך - הרב אליהו דיסקין -.pdf",
+     "size": "1.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1AxGSdFVD5gCd3nCXuViADQ5qNpljAxc_/view?usp=drivesdk",
      "skipped": ""
     }
    ],

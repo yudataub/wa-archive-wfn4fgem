@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השלמה תרבות ישראל קיץ-פו'",
- "updated": "2026-10-14T17:17:14.302Z",
+ "updated": "2026-10-17T19:53:14.595Z",
  "messages": [
   {
    "id": "AC42179CB01F8314BE0A84F56932DC87",
@@ -222,6 +222,114 @@
    "files": [],
    "drive": null,
    "phone": "972507641139"
+  },
+  {
+   "id": "AC8BBA84DA550D1986456D0A4ED4C27C",
+   "sender": "אברהם שרביט",
+   "text": "שבוע טוב. אפשר מחפש מורים לחטיבת ביניים בחיפה. אודה לך אם תוכל לפרסם.",
+   "ts": 1792264778000,
+   "date": "2026-10-17",
+   "time": "22:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "276KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QNOePg_2ZmeAKvMvpxAtmcSbgNdw4bHM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QNOePg_2ZmeAKvMvpxAtmcSbgNdw4bHM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549277117"
+  },
+  {
+   "id": "AC0A54D8376323FECE00E08F32EDA366",
+   "sender": "י.ש.ר",
+   "text": "איפה ההגיון??\nבסמסטר הקודם הוא הדביק אותנו לקבוצה השניה??",
+   "ts": 1792264873000,
+   "date": "2026-10-17",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972543255501"
+  },
+  {
+   "id": "AC5F2CEBC249175E621CDB5D487C101A",
+   "sender": "אברהם שרביט",
+   "text": "להפך",
+   "ts": 1792264918000,
+   "date": "2026-10-17",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972549277117"
+  },
+  {
+   "id": "ACF4963DA24DA758A156ABE96623DFA8",
+   "sender": "י.ש.ר",
+   "text": "להיפך מה?... שהם יהיו בקבוצה של טרום בסיסי?",
+   "ts": 1792265030000,
+   "date": "2026-10-17",
+   "time": "22:23",
+   "files": [],
+   "drive": null,
+   "phone": "972543255501"
+  },
+  {
+   "id": "AC1C60C69F5DB7A85385E5C74CD78673",
+   "sender": "אברהם שרביט",
+   "text": "הרמה שלכם תהיה כמו שאתם ולא כמו המתקדמים",
+   "ts": 1792265557000,
+   "date": "2026-10-17",
+   "time": "22:32",
+   "files": [],
+   "drive": null,
+   "phone": "972549277117"
+  },
+  {
+   "id": "ACB4DCC534408BE1F75CC19B22205397",
+   "sender": "אברהם שרביט",
+   "text": "שלישי",
+   "ts": 1792266610000,
+   "date": "2026-10-17",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972549277117"
+  },
+  {
+   "id": "2A67E4BE7475BFD82E4E",
+   "sender": "שמעון",
+   "text": "באיזה שעה?",
+   "ts": 1792266624000,
+   "date": "2026-10-17",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972733639852"
+  },
+  {
+   "id": "ACEFAC4E558A1A32CB0D75D6F00C0620",
+   "sender": "חיים",
+   "text": "מושלם",
+   "ts": 1792266645000,
+   "date": "2026-10-17",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972529091080"
+  },
+  {
+   "id": "AC1958668069503060394210C0386BE5",
+   "sender": "אברהם שרביט",
+   "text": "15.30",
+   "ts": 1792266789000,
+   "date": "2026-10-17",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972549277117"
   }
  ]
 }

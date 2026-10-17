@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-15T21:29:38.092Z",
+ "updated": "2026-10-17T19:47:14.493Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -1153,6 +1153,55 @@
    "files": [],
    "drive": null,
    "phone": "972547953317"
+  },
+  {
+   "id": "A5AB3377A53DA2428702A0D80DF474C1",
+   "sender": "רב יועץ חינוכי ומטפל קשב וריכוז בניורופידבק",
+   "text": "אפשר לשלוח שוב?\nתודה!",
+   "ts": 1792264519000,
+   "date": "2026-10-17",
+   "time": "22:15",
+   "files": [],
+   "drive": null,
+   "phone": "972524297101"
+  },
+  {
+   "id": "A52D4EC9C508360FF75BD84192298D80",
+   "sender": "מתן - עולם של תוכן",
+   "text": "",
+   "ts": 1792265707000,
+   "date": "2026-10-17",
+   "time": "22:35",
+   "files": [
+    {
+     "name": "קומיקס סופי לגמרי.pdf",
+     "size": "31.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1IAI-g68p4OnA1yJVHh90iNWImy4zexSa/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543979764"
+  },
+  {
+   "id": "ACD2DB905D5923381D0BD782EFC27427",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1792266411000,
+   "date": "2026-10-17",
+   "time": "22:46",
+   "files": [
+    {
+     "name": "קומיקס סופי לגמרי.pdf",
+     "size": "36.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1J9q6SkLUCvvV25_Xmyb8dOoZG8enwvIK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
   }
  ]
 }

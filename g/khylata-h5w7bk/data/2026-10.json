@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-17T17:26:13.050Z",
+ "updated": "2026-10-17T20:45:45.343Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -5273,6 +5273,156 @@
    ],
    "drive": null,
    "phone": "972585881840"
+  },
+  {
+   "id": "AC060205651030463F084B665922D263",
+   "sender": "dana",
+   "text": "שבוע טוב , מחפשת מורה פרטי/ת לאנגלית ומתמטיקה לגיל חטיבה🙏🏼",
+   "ts": 1792262948000,
+   "date": "2026-10-17",
+   "time": "21:49",
+   "files": [],
+   "drive": null,
+   "phone": "972504415948"
+  },
+  {
+   "id": "AC349CAA653A0DCF36FC39132A7E2157",
+   "sender": "נירה",
+   "text": "",
+   "ts": 1792263446000,
+   "date": "2026-10-17",
+   "time": "21:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "265KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rZRPSD38zf50CPbWXoARGCidNQoD1PQh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rZRPSD38zf50CPbWXoARGCidNQoD1PQh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502117325"
+  },
+  {
+   "id": "A55976ACA8842F7FC1FD973FA3417B69",
+   "sender": "נויה חדד",
+   "text": "דלתא יריד מטורף בגדי חורף הכל ב10 גם ילדים נשים גברים הכל מוזמנים להצטרף להקבוצה",
+   "ts": 1792266430000,
+   "date": "2026-10-17",
+   "time": "22:47",
+   "files": [],
+   "drive": null,
+   "phone": "972523970331"
+  },
+  {
+   "id": "ACC27826173D4CCDAF0A533E269B467D",
+   "sender": "דליה",
+   "text": "איפה החנות",
+   "ts": 1792266894000,
+   "date": "2026-10-17",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972523121564"
+  },
+  {
+   "id": "A5504BB63114B3357DE111A4595DF9DC",
+   "sender": "המתוקים של גילי",
+   "text": "📇 אורטל אזולאי\n+972508507055",
+   "ts": 1792267752000,
+   "date": "2026-10-17",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972584637213"
+  },
+  {
+   "id": "A5D6AB434A56EC7E02E50C041A4430A6",
+   "sender": "המתוקים של גילי",
+   "text": "היא במתמטיקה אלופה מקווה שיש לה מקום",
+   "ts": 1792267772000,
+   "date": "2026-10-17",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972584637213"
+  },
+  {
+   "id": "A550FBA75A9F0E9867F80105CD90165E",
+   "sender": "המתוקים של גילי",
+   "text": "מגישה לבגרויות",
+   "ts": 1792267780000,
+   "date": "2026-10-17",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972584637213"
+  },
+  {
+   "id": "ACD10A6C2E57F39325EC8300A82FE41A",
+   "sender": "dana",
+   "text": "תודה רבה!",
+   "ts": 1792267957000,
+   "date": "2026-10-17",
+   "time": "23:12",
+   "files": [],
+   "drive": null,
+   "phone": "972504415948"
+  },
+  {
+   "id": "AC638656E1674E70C3989D4C6D858817",
+   "sender": "רוית נאומה",
+   "text": "אוריה גם מהממת מהממת",
+   "ts": 1792269811000,
+   "date": "2026-10-17",
+   "time": "23:43",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "AC9920DF26AE20437F19934071F8E4BA",
+   "sender": "רוית נאומה",
+   "text": "https://new.tehilimyahad.com/mr.jsp?r=wt5b369pueu",
+   "ts": 1792269833000,
+   "date": "2026-10-17",
+   "time": "23:43",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "ACC984E0931DD8603B870B20859C72AE",
+   "sender": "רוית נאומה",
+   "text": "",
+   "ts": 1792269833000,
+   "date": "2026-10-17",
+   "time": "23:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ITHZFFTHzNjY3bqhoiGI3cHStlmgFwpf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ITHZFFTHzNjY3bqhoiGI3cHStlmgFwpf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "ACF63A4C8CB5ACDFA357733439E614E7",
+   "sender": "רוית נאומה",
+   "text": "בס\"ד\n\nחברים יקרים ,סליחה על השעה\n\n חבר טוב שלנו , בחור בן  40 מ\"ק.בניימין לא על אף אחד קיבל את המחלה הארורה \n\nהשם לתפילה -לירן בן אילנה-\n\nאבא ל4 ילדים מקסימים מקסימים \n\nהוא חייב הרבה תפילות ומעשים טובים\n\nבבקשה כל מי שיכול /ה להתפלל ולהפיץ לעוד חברים",
+   "ts": 1792269937000,
+   "date": "2026-10-17",
+   "time": "23:45",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
   }
  ]
 }

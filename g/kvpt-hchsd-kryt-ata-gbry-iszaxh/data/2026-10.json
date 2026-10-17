@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-16T09:59:29.493Z",
+ "updated": "2026-10-17T18:55:15.241Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1631,6 +1631,26 @@
    ],
    "drive": null,
    "phone": "972556788387"
+  },
+  {
+   "id": "A51AED087E1C79737F270CE57FEC5E0E",
+   "sender": "דיג'יי טל רפאל",
+   "text": "*דיג'יי טל רפאל מגיע לעשות לכם שמח!*\nהגברה | תאורה | זיקוקים | בובות ענק \n058-713-2636",
+   "ts": 1792263314000,
+   "date": "2026-10-17",
+   "time": "21:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GX3dSTrgopDPgoLUuvqGCfqWFak_Z7lP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GX3dSTrgopDPgoLUuvqGCfqWFak_Z7lP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
   }
  ]
 }

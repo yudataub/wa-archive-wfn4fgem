@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-16T13:00:30.063Z",
+ "updated": "2026-10-17T19:03:45.386Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -3078,6 +3078,77 @@
    "files": [],
    "drive": null,
    "phone": "972504848199"
+  },
+  {
+   "id": "ACAD4EA12DD2FE1456A4A07DFAE8AB69",
+   "sender": "חרות שלזינגר",
+   "text": "היי שבוע טוב \nאשמח לדעת האם פרשת סוטה היא חלק מתוכנית הלימודים כי לא ראיתי שום דבר על כך לא באתר ולא בתוכנית הלימודים",
+   "ts": 1792262939000,
+   "date": "2026-10-17",
+   "time": "21:48",
+   "files": [],
+   "drive": null,
+   "phone": "972587530939"
+  },
+  {
+   "id": "ACEA0BA214C2A09A9CEFF7AE9F94DEC1",
+   "sender": "אוראל דרורי",
+   "text": "כן זה מופיע בחלוקת השעות וכן במתווה המפורט",
+   "ts": 1792263263000,
+   "date": "2026-10-17",
+   "time": "21:54",
+   "files": [],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "AC39F9A03EE9C5F0A5286B8C649A69BE",
+   "sender": "אוראל דרורי",
+   "text": "",
+   "ts": 1792263265000,
+   "date": "2026-10-17",
+   "time": "21:54",
+   "files": [
+    {
+     "name": "learning-plan.pdf",
+     "size": "134KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1149URUxICAz-hXXRAq405x2g2kUOUQhf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "AC76F35AC97C7EDA757F9B874ED5DDA0",
+   "sender": "אוראל דרורי",
+   "text": "",
+   "ts": 1792263266000,
+   "date": "2026-10-17",
+   "time": "21:54",
+   "files": [
+    {
+     "name": "learning-plan-year1.pdf",
+     "size": "643KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12MfPLnEmb2izymR-4LpAxuEPJ-DeIXnw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "AC8D57B5953E880D4AAD3DACDD193F91",
+   "sender": "חרות שלזינגר",
+   "text": "לא ראיתי את זה \nתודה!",
+   "ts": 1792263818000,
+   "date": "2026-10-17",
+   "time": "22:03",
+   "files": [],
+   "drive": null,
+   "phone": "972587530939"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-16T08:35:21.993Z",
+ "updated": "2026-10-17T20:55:13.208Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -2633,6 +2633,59 @@
    "files": [],
    "drive": null,
    "phone": "972542057474"
+  },
+  {
+   "id": "ACAA52F40D308EC87B519EAA3F191D0C",
+   "sender": "שרית בטשוילי",
+   "text": "היכן נמצאים מבחני הביניים?",
+   "ts": 1792268171000,
+   "date": "2026-10-17",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "AC9C4095460EB5205C7A33230820DC3E",
+   "sender": "קובי",
+   "text": "יעלו לפורטל",
+   "ts": 1792269945000,
+   "date": "2026-10-17",
+   "time": "23:45",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "ACD99D56643EB1D4DB8F8542F8420261",
+   "sender": "שרית בטשוילי",
+   "text": "שונה משל שנה שעברה?",
+   "ts": 1792269985000,
+   "date": "2026-10-17",
+   "time": "23:46",
+   "files": [],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "ACAD8B273B42B23080EA6629596C24C4",
+   "sender": "ST",
+   "text": "",
+   "ts": 1792270505000,
+   "date": "2026-10-17",
+   "time": "23:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/108Sf3UrU_SWvZVTHPWKEMgJo6E3riG27/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=108Sf3UrU_SWvZVTHPWKEMgJo6E3riG27&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972512857550"
   }
  ]
 }
