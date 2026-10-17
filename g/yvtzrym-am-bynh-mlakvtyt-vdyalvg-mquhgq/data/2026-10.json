@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-17T05:32:44.255Z",
+ "updated": "2026-10-17T09:06:47.545Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3730,6 +3730,187 @@
      "thumb": "https://drive.google.com/thumbnail?id=1P4jcCazs1RS-C0-VaU8lWz5TW5BM-bms&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC4BCFA49B72B77136E1FCF9681A97F0",
+   "sender": "חזי כהן גלמן",
+   "text": "אפשר להיעזר בחוכמת ההמונים?",
+   "ts": 1792224479000,
+   "date": "2026-10-17",
+   "time": "11:07",
+   "files": [],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "AC2ECF94D5CFCFD65120D40F6401BA58",
+   "sender": "נועם",
+   "text": "לא",
+   "ts": 1792224570000,
+   "date": "2026-10-17",
+   "time": "11:09",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACB30AF822F18F02166A10C37EBC9AFA",
+   "sender": "חזי כהן גלמן",
+   "text": "Ok",
+   "ts": 1792224603000,
+   "date": "2026-10-17",
+   "time": "11:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "AC4C3AB5C9F0520BE9CD09389B0750AB",
+   "sender": "נועם",
+   "text": "הכוונה אתה יכול לשאול ישר, אין צורך בהקדמה..",
+   "ts": 1792224969000,
+   "date": "2026-10-17",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACFC4E6658CD7C577013E9484777A169",
+   "sender": "חזי כהן גלמן",
+   "text": "בניתי אתר ללימוד אוצר מילים באנגלית Word Academy עם base44 למנויים יש אפשרות לשייך משימות לתלמידים הנכנסים עם קוד אישי שהמערכת מספקת להם. אני רוצה לחבר את שיוך המשימות לגוגל קלאסרום וכשתלמיד מסיים משימה באתר שלי שהתוצאה תסנוכרן עם הקלאסרום. לצורך זה צריך לחבר בין גוגל consule לאתר. עשיתי זאת עם id client וה secret המתאים וגם עם ה scopes המתאימים וכשאני מנסה לחבר יש לי את הודעת השגיאה הבאה.",
+   "ts": 1792227210000,
+   "date": "2026-10-17",
+   "time": "11:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ukJPKr68Ry_jHHVXfWJ8k4HnDJB4IDFD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ukJPKr68Ry_jHHVXfWJ8k4HnDJB4IDFD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "AC3404D21A9548FF2D5BBA33E7F5BC1C",
+   "sender": "חזי כהן גלמן",
+   "text": "",
+   "ts": 1792227211000,
+   "date": "2026-10-17",
+   "time": "11:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EJkizmcw1A1YIsW_IQrpyknviJtYyxAH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EJkizmcw1A1YIsW_IQrpyknviJtYyxAH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "AC04944B4D97C49B12386821DB5D9ED4",
+   "sender": "חזי כהן גלמן",
+   "text": "",
+   "ts": 1792227212000,
+   "date": "2026-10-17",
+   "time": "11:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "72KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jlXehdVL6_D0-gQk8ofvrdFNx-1Kh2EE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jlXehdVL6_D0-gQk8ofvrdFNx-1Kh2EE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "AC90BE5600DDCD5ECF9E4D88F44FC0DF",
+   "sender": "נועם",
+   "text": "אולי במוצש יוכלו לענות לך כאן.\nאבל זו לא קבוצה של מתכנתים.\nאשלח קישורים לכאלו שכן, אבל זו בעיה מאוד ספציפית.",
+   "ts": 1792227662000,
+   "date": "2026-10-17",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACC135115B3FD11ABC8D7562B119373E",
+   "sender": "חזי כהן גלמן",
+   "text": "היתה לי הרגשה שזו בעיה די ספציפית אבל היה שווה לנסות",
+   "ts": 1792227702000,
+   "date": "2026-10-17",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "ACB2571854DEA1D0185907AB914E9889",
+   "sender": "נועם",
+   "text": "",
+   "ts": 1792227824000,
+   "date": "2026-10-17",
+   "time": "12:03",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACEC756BBCCBEFBB559450E3B7209229",
+   "sender": "נועם",
+   "text": "הקבוצה השניה שומרת שבת, אז אם צריך תבקש במוצש.",
+   "ts": 1792227870000,
+   "date": "2026-10-17",
+   "time": "12:04",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC68E04DF26EBB557FDFEA4032D3A946",
+   "sender": "נועם",
+   "text": "בכל מקרה אשמח לשמוע אם הסתדר לך.",
+   "ts": 1792227895000,
+   "date": "2026-10-17",
+   "time": "12:04",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC1A25D31F9D6D2F771DD2793440D376",
+   "sender": "חזי כהן גלמן",
+   "text": "אעדכן ותודה על הנכונות לעזרה. סליחה על התגובה מקודם 👆",
+   "ts": 1792227927000,
+   "date": "2026-10-17",
+   "time": "12:05",
+   "files": [],
+   "drive": null,
+   "phone": "972528810500"
+  },
+  {
+   "id": "AC3D4AC5F389DE2721DE80EB4960A119",
+   "sender": "נועם",
+   "text": "סליחה ממני על הציניות.. .",
+   "ts": 1792228011000,
+   "date": "2026-10-17",
+   "time": "12:06",
+   "files": [],
    "drive": null,
    "phone": "972534663621"
   }
