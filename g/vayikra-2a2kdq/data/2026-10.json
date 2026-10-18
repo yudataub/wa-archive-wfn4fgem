@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-18T17:28:21.780Z",
+ "updated": "2026-10-18T20:26:54.297Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -5722,6 +5722,89 @@
    "files": [],
    "drive": null,
    "phone": "972525393128"
+  },
+  {
+   "id": "ACFF951765C65CC5E2C521E9BD7470E7",
+   "sender": "Meira Cohen",
+   "text": "מהממם שלחי לי קובץ",
+   "ts": 1792348817000,
+   "date": "2026-10-18",
+   "time": "21:40",
+   "files": [],
+   "drive": null,
+   "phone": "972527470445"
+  },
+  {
+   "id": "AC277BAA45BECD6F5ED2742F97EA25B9",
+   "sender": "עדי",
+   "text": "",
+   "ts": 1792352497000,
+   "date": "2026-10-18",
+   "time": "22:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I1Wb2ZJofc4f_phYWFR_CTcva36zbQf5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I1Wb2ZJofc4f_phYWFR_CTcva36zbQf5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "AC2EB281C98797497174E821B83E0158",
+   "sender": "עדי",
+   "text": "https://canva.link/9nqm7n43mg5l046",
+   "ts": 1792352546000,
+   "date": "2026-10-18",
+   "time": "22:42",
+   "files": [],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "ACDC791A73C08B498D745286B911C82B",
+   "sender": "אורית הודיה",
+   "text": "לפרשת צו, נכון?",
+   "ts": 1792353295000,
+   "date": "2026-10-18",
+   "time": "22:54",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC3276338AD51E44B7E138F7E2330470",
+   "sender": "שירה",
+   "text": "",
+   "ts": 1792355188000,
+   "date": "2026-10-18",
+   "time": "23:26",
+   "files": [
+    {
+     "name": "עיצוב ללא שם.pdf",
+     "size": "296KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QD5ly4zWuXkTnaB1y9JrxZCTMaEbDF1_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528902623"
+  },
+  {
+   "id": "AC03173C828B336A1899D5236C228E5F",
+   "sender": "שירה",
+   "text": "שימי לב שיש יונה במקום עז! בשלמים מביאים מהבקר, צאן ועז",
+   "ts": 1792355192000,
+   "date": "2026-10-18",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "phone": "972528902623"
   }
  ]
 }

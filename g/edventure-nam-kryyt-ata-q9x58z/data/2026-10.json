@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "Edventure & נעם קריית אתא",
- "updated": "2026-10-18T17:04:21.527Z",
+ "updated": "2026-10-18T18:30:22.632Z",
  "messages": [
   {
    "id": "AC134D86A2936AD7ADB09C1F2793658B",
@@ -124,7 +124,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1_QAX4PWbAnJ6NwOBmpGA300YtiyyWfQh/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1_QAX4PWbAnJ6NwOBmpGA300YtiyyWfQh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1_QAX4PWbAnJ6NwOBmpGA300YtiyyWfQh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-edventure-nam-kryyt-ata-q9x58z/v/2026-10/3EB05E1595ADEB1B639EDD_0.mp4"
     }
    ],
    "drive": null,
@@ -144,7 +145,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1SvDKmyvocFfuvYFIQitfRiNMSWMYZGWV/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1SvDKmyvocFfuvYFIQitfRiNMSWMYZGWV&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1SvDKmyvocFfuvYFIQitfRiNMSWMYZGWV&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-edventure-nam-kryyt-ata-q9x58z/v/2026-10/3EB0D4AE585291AB348C32_0.mp4"
     }
    ],
    "drive": null,
@@ -182,6 +184,17 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "AC6DCC7B9C7B21E29A9C86BD42DC1614",
+   "sender": "אורטל שירה זוהר",
+   "text": "תודה 🙏",
+   "ts": 1792348201000,
+   "date": "2026-10-18",
+   "time": "21:30",
+   "files": [],
+   "drive": null,
+   "phone": "972526640067"
   }
  ]
 }

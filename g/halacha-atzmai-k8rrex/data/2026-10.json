@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-18T14:56:54.041Z",
+ "updated": "2026-10-18T20:00:53.888Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2387,11 +2387,54 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1sXY116C7VQaXyqeGubTMwg2g9gwXk1-4/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1sXY116C7VQaXyqeGubTMwg2g9gwXk1-4&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1sXY116C7VQaXyqeGubTMwg2g9gwXk1-4&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-halacha-atzmai-k8rrex/v/2026-10/3A649E1CD0B614634286_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972509036036"
+  },
+  {
+   "id": "ACDEF65D5678DA5DA1215CDB77EE0AB7",
+   "sender": "יהודה יוסיפוב",
+   "text": "שלום וברכה יש מצב לקבל בבקשה את הסילבוס ?",
+   "ts": 1792352753000,
+   "date": "2026-10-18",
+   "time": "22:45",
+   "files": [],
+   "drive": null,
+   "phone": "972502245650"
+  },
+  {
+   "id": "3AEDFDD97BE3032E55BE",
+   "sender": "רות מנדל",
+   "text": "",
+   "ts": 1792353604000,
+   "date": "2026-10-18",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pbal_2GSmeXx1e6ToD8vfTJg4dww4gYM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pbal_2GSmeXx1e6ToD8vfTJg4dww4gYM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542007345"
+  },
+  {
+   "id": "3A87F42BFCC3073B51F8",
+   "sender": "רות מנדל",
+   "text": "חלק (מעשי) משיעור על הלכות נטילת ידיים",
+   "ts": 1792353629000,
+   "date": "2026-10-18",
+   "time": "23:00",
+   "files": [],
+   "drive": null,
+   "phone": "972542007345"
   }
  ]
 }

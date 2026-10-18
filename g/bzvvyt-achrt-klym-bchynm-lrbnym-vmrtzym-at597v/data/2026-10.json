@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בזווית אחרת | כלים בחינם לרבנים ומרצים",
- "updated": "2026-10-18T14:45:23.848Z",
+ "updated": "2026-10-18T20:14:54.121Z",
  "messages": [
   {
    "id": "AC8BCA393CFF59504F9ED3DE4A6D1856",
@@ -210,6 +210,81 @@
    "files": [],
    "drive": null,
    "phone": "972533811873"
+  },
+  {
+   "id": "3EB0525A0AA670B6180CFF",
+   "sender": "הרב רפאל אוחיון",
+   "text": "פשוט אששש",
+   "ts": 1792346367000,
+   "date": "2026-10-18",
+   "time": "20:59",
+   "files": [],
+   "drive": null,
+   "phone": "972548496066"
+  },
+  {
+   "id": "3EB068A5F8CBE5775DDA96",
+   "sender": "הרב רפאל אוחיון",
+   "text": "",
+   "ts": 1792346383000,
+   "date": "2026-10-18",
+   "time": "20:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1FQWnJttNrK2Ib_Obf1dw3gPVGW8c2m38/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FQWnJttNrK2Ib_Obf1dw3gPVGW8c2m38&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548496066"
+  },
+  {
+   "id": "ACCB157E8804B855E0177942AE86D95C",
+   "sender": "הרב זמיר כהן -הערוץ הרשמי",
+   "text": "בהחלט התוכנה הכי נוחה!\n\nהתמונת פתיח, זום וסאונד ברקע כל זה גם באותה תוכנה?",
+   "ts": 1792346589000,
+   "date": "2026-10-18",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972522368232"
+  },
+  {
+   "id": "A5136C56B8314FB038B3DD1775562958",
+   "sender": "רב/ מגשר",
+   "text": "לומדים  אותה.",
+   "ts": 1792346629000,
+   "date": "2026-10-18",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "A5B50E0E575AA6CAF00659B0A88358A2",
+   "sender": "שמואל קורייב",
+   "text": "זה מזווית אחרת בלבד?",
+   "ts": 1792349283000,
+   "date": "2026-10-18",
+   "time": "21:48",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "A561A93DAD6D5EA0630FE81E09E95059",
+   "sender": "רב/ מגשר",
+   "text": "ישר כח גדול לרב רועי  הי\"ו.  \nאשרייך על הזכוי הרבים תמשיך להיות מעיין משפיע.",
+   "ts": 1792354481000,
+   "date": "2026-10-18",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
   }
  ]
 }

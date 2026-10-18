@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-18T17:03:21.516Z",
+ "updated": "2026-10-18T20:57:24.699Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -1257,6 +1257,135 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "ACA12A585B328C6F4CE7B45B2AA012D2",
+   "sender": "עמיחי משה מלק",
+   "text": "תודה רבה!",
+   "ts": 1792346831000,
+   "date": "2026-10-18",
+   "time": "21:07",
+   "files": [],
+   "drive": null,
+   "phone": "972545369985"
+  },
+  {
+   "id": "ACA6D1B700C68D1E5AAA27C22184F0D2",
+   "sender": "עדינה ביין",
+   "text": "",
+   "ts": 1792348041000,
+   "date": "2026-10-18",
+   "time": "21:27",
+   "files": [
+    {
+     "name": "הזמנה למשתה יצחק.doc",
+     "size": "31KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1ptFdkObM_YMm0udz3ztTjLtrji1JUXD9/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547594148"
+  },
+  {
+   "id": "ACAA03BA0BE385BD8C7871751B3AEEDE",
+   "sender": "עדינה ביין",
+   "text": "בדיוק אנחנו חוגגות מחר, אולי יעזור למישהו.\nכל אחת צבעה הזמנה והלכנו לחלק בכיתה אותה הזמנו אלינו (כיתה ג)",
+   "ts": 1792348042000,
+   "date": "2026-10-18",
+   "time": "21:27",
+   "files": [],
+   "drive": null,
+   "phone": "972547594148"
+  },
+  {
+   "id": "AC19D3F480CE35BD5207500C86F4CFF4",
+   "sender": "חפצי",
+   "text": "כן, יש שיר מאד יפה -עשרה נסיונות\nאבדוק אם שמרתי אותו אצלי בדרייב",
+   "ts": 1792348881000,
+   "date": "2026-10-18",
+   "time": "21:41",
+   "files": [],
+   "drive": null,
+   "phone": "972585565770"
+  },
+  {
+   "id": "AC44C8EFD229653BB5F4B19B281718FF",
+   "sender": "חפצי",
+   "text": "אלו המלים:\nhttps://drive.google.com/file/d/1c2l8pTMXXx7SrxSMuhtpiXuVWT53Q_Wk/view?usp=drivesdk",
+   "ts": 1792348992000,
+   "date": "2026-10-18",
+   "time": "21:43",
+   "files": [],
+   "drive": null,
+   "phone": "972585565770"
+  },
+  {
+   "id": "AC1DBE2C76945EF955E65CFDBAFE2B2D",
+   "sender": "חפצי",
+   "text": "אבדוק אם יש לי זמין את השיר עצמו.\nאם למישהו יש כאן, שישלח",
+   "ts": 1792349026000,
+   "date": "2026-10-18",
+   "time": "21:43",
+   "files": [],
+   "drive": null,
+   "phone": "972585565770"
+  },
+  {
+   "id": "A54F9F29AF1EA57FCA07C5460FFBD99D",
+   "sender": "לבחור בטוב",
+   "text": "חינוך מיוחד?",
+   "ts": 1792354933000,
+   "date": "2026-10-18",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "phone": "972536287883"
+  },
+  {
+   "id": "A574A1A6A3DBA348A43AEF9C86F6D4BC",
+   "sender": "לבחור בטוב",
+   "text": "יש למישהו תוכנית לימודים לכיתה ב?",
+   "ts": 1792354936000,
+   "date": "2026-10-18",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "phone": "972536287883"
+  },
+  {
+   "id": "A5DF69B747FD8813E9FE18C6E153334D",
+   "sender": "לבחור בטוב",
+   "text": "בתורה",
+   "ts": 1792354936000,
+   "date": "2026-10-18",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "phone": "972536287883"
+  },
+  {
+   "id": "AC97FBD2CAC90D6981F6D798B5FB7113",
+   "sender": "שירה זנגי🌻",
+   "text": "יש בפורטל תנ''ך של חמ''ד",
+   "ts": 1792355846000,
+   "date": "2026-10-18",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "phone": "972535302063"
+  },
+  {
+   "id": "3A9AD93FC408C3AFB8E7",
+   "sender": "Etty",
+   "text": "במקום לחסום פתחי you tube kids\nערוץ בטוח ואין סיכוי לתכנים לא מתאימים \nאני חושבת שגם אין שם פרסומות אבל לא בטוחה",
+   "ts": 1792357017000,
+   "date": "2026-10-18",
+   "time": "23:56",
+   "files": [],
+   "drive": null,
+   "phone": "17864195888"
   }
  ]
 }

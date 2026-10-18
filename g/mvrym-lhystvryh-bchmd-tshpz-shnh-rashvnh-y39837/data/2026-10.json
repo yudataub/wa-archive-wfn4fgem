@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מורים להיסטוריה בחמד תשפז-שנה ראשונה",
- "updated": "2026-10-17T18:34:44.801Z",
+ "updated": "2026-10-18T19:13:53.144Z",
  "messages": [
   {
    "id": "AC6A20D897068E7506C0478262DA592E",
@@ -426,6 +426,26 @@
    "date": "2026-10-17",
    "time": "21:34",
    "files": [],
+   "drive": null,
+   "phone": "972507101059"
+  },
+  {
+   "id": "AC61062A4B5BDAA023FD4ADC3D79CCC3",
+   "sender": "בת חן",
+   "text": "היי שלחו את המסמך הזה באחת הקבוצות. אשמח להגיע לכותבת מי שיודע איך אפשר",
+   "ts": 1792350818000,
+   "date": "2026-10-18",
+   "time": "22:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15-bTuuABc8cxZ39x-wUFzD9GjM90sG5v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15-bTuuABc8cxZ39x-wUFzD9GjM90sG5v&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972507101059"
   }
