@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-18T01:34:23.361Z",
+ "updated": "2026-10-18T03:38:55.258Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -1291,6 +1291,36 @@
    "files": [],
    "drive": null,
    "phone": "972502123444"
+  },
+  {
+   "id": "ACF1BF3A67FE699572B7F63528BCAD46",
+   "sender": "דסי",
+   "text": "",
+   "ts": 1792294219000,
+   "date": "2026-10-18",
+   "time": "06:30",
+   "files": [
+    {
+     "name": "הקדמה ספר יהושע 1-0.pptx",
+     "size": "16.0MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1pXN1i9DMUo1sCUmUNbjfRi6OmJHSaBE9/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548442927"
+  },
+  {
+   "id": "AC192A33756BEDB09C0C0AE68AF12B50",
+   "sender": "שימרית",
+   "text": "בוקר טוב\nהאם למישהי יש קישור לקב' של שיעור נביא כיתה ה'? \nתודה",
+   "ts": 1792294710000,
+   "date": "2026-10-18",
+   "time": "06:38",
+   "files": [],
+   "drive": null,
+   "phone": "972542610001"
   }
  ]
 }

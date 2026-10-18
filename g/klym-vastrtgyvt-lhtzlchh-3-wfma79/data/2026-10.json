@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים ואסטרטגיות 🔑🗝️ להצלחה 3",
- "updated": "2026-10-16T12:12:22.980Z",
+ "updated": "2026-10-18T04:05:48.159Z",
  "messages": [
   {
    "id": "A5A8B1313DD8FD427DB9EAE18CAE6B9F",
@@ -2287,6 +2287,57 @@
    "files": [],
    "drive": null,
    "phone": "972525942224"
+  },
+  {
+   "id": "A56B07E867F5FA5F0E6DFA2291898FC6",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1792296155000,
+   "date": "2026-10-18",
+   "time": "07:02",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "11KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1V8C9ebgl3KUewkcnsCDUvdfV7hr_cahD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V8C9ebgl3KUewkcnsCDUvdfV7hr_cahD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5A104DEA13C961C3E8E2B88FCF74F3A",
+   "sender": "mary garby",
+   "text": "מה אומר המחקר בנושא בחירה?\nמטא-אנליזה של 41 מחקרים (Patall, Cooper & Robinson, 2008) בדקה את השפעת הבחירה על מוטיבציה והישגים. מתן אפשרות בחירה מגביר מוטיבציה, מאמץ והישגים.\nואני מוסיפה שהבחירה חשובה (גם) כדי לפתח אוטונומיה...\n\nיישום בכיתה:\n* לבחור  ב 4 מתוך 5 שאלות\n* שאלת רשות או בונוס\n* בחירה בין עבודה לבד, בזוג או בצוות\n* לבחור איזה טקסט לקרוא או אולי לראות סרטון במקום.\n* תוצר כתוב, ויזואלי (מצויר, מצולם, מיוצר בבינה...) או בע\"פ.\n\nקישור: https://selfdeterminationtheory.org/wp-content/uploads/2019/10/2008_PatallCooperRobinson_PsychBulletin.pdf",
+   "ts": 1792296282000,
+   "date": "2026-10-18",
+   "time": "07:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pJkuDSQLVJ0gf-EZMVOBXANZrsNK8ojK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pJkuDSQLVJ0gf-EZMVOBXANZrsNK8ojK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A58C94ED8429451F56479FF1E669EB75",
+   "sender": "mary garby",
+   "text": "כאמור הנושא השבועי *בחירות במרחב הכיתתי*",
+   "ts": 1792296333000,
+   "date": "2026-10-18",
+   "time": "07:05",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

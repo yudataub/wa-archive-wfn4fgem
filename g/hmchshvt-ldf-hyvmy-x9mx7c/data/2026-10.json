@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-17T16:07:08.830Z",
+ "updated": "2026-10-18T04:07:18.202Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -609,6 +609,46 @@
      "path": "https://drive.google.com/file/d/11AL-ygIz2K8k-WrA0GtYbtDTDJAo4B0R/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=11AL-ygIz2K8k-WrA0GtYbtDTDJAo4B0R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A1E3FEAE21C90D5C749",
+   "sender": ".",
+   "text": "״וגרי להו באמגוזי״ (בכורות ל, א).",
+   "ts": 1792296421000,
+   "date": "2026-10-18",
+   "time": "07:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NlWHrBpr6QYJwT4w1QzG_9Vj6W4zE_e6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NlWHrBpr6QYJwT4w1QzG_9Vj6W4zE_e6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A06BC6DB40043F999D6",
+   "sender": ".",
+   "text": "״וכן עבדו״ (בכורות ל, ב).",
+   "ts": 1792296423000,
+   "date": "2026-10-18",
+   "time": "07:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LqkIzdh2cOCBGslNMBUx5veiNoiVCW1b/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LqkIzdh2cOCBGslNMBUx5veiNoiVCW1b&sz=w1200"
     }
    ],
    "drive": null,

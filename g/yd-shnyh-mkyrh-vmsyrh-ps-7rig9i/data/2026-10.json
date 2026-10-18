@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-17T18:03:43.722Z",
+ "updated": "2026-10-18T04:52:26.359Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -3007,6 +3007,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1nFjVmxhN4MHu3R64bsFSOwW9i7pEtLei&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "ACA6B45D84D7901A30831E350328E453",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1792298340000,
+   "date": "2026-10-18",
+   "time": "07:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1tFYPAH37zY1YIiNsm74YcPNENzdorIgR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tFYPAH37zY1YIiNsm74YcPNENzdorIgR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
+  },
+  {
+   "id": "AC7E00F083294B252A6E07221A3A547C",
+   "sender": "מוכר דברים",
+   "text": "אילן תמונה ללא פרטים מחוץ לתמונה תמחק",
+   "ts": 1792299135000,
+   "date": "2026-10-18",
+   "time": "07:52",
+   "files": [],
    "drive": null,
    "phone": "972537540299"
   }

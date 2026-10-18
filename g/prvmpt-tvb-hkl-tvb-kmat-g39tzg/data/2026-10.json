@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-10-17T17:06:39.852Z",
+ "updated": "2026-10-18T04:57:19.022Z",
  "messages": [
   {
    "id": "AC4FA84662E75800934416235A91D052",
@@ -3988,6 +3988,46 @@
    "date": "2026-10-17",
    "time": "20:06",
    "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5172757C1D6BD68C52469C63BD1510E",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1792299415000,
+   "date": "2026-10-18",
+   "time": "07:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "261KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1PnUG3qk5wJSQ-WMJeFMaS1z4tsZ9ghdN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1PnUG3qk5wJSQ-WMJeFMaS1z4tsZ9ghdN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "A5EC5FA6EB8BE81EA225BF5DC5C5D79D",
+   "sender": "ווקי שרון מרגולין",
+   "text": "",
+   "ts": 1792299415000,
+   "date": "2026-10-18",
+   "time": "07:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1C4r7Ma7Nzw_ra1ZG2JAJrp73VmIp6hBD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1C4r7Ma7Nzw_ra1ZG2JAJrp73VmIp6hBD&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972526673667"
   }

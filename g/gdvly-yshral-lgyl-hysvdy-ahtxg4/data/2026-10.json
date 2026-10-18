@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-17T20:39:15.228Z",
+ "updated": "2026-10-18T03:15:24.902Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -1222,6 +1222,121 @@
    "files": [],
    "drive": null,
    "phone": "972587504258"
+  },
+  {
+   "id": "AC1FB1CB8C878CE9A11D418C1B4C57C0",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1792293094000,
+   "date": "2026-10-18",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "מחוון - הדף היומי - רבי מאיר שפירא.pdf",
+     "size": "52KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1YaKH2Qobn_tZ21vj1ETUL37VNeywMXKI/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "ACBC07D33FEFF05572A699E6A66A8B7C",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1792293097000,
+   "date": "2026-10-18",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "הדף_היומי-טקסט +עבודה רבי מאיר שפירא.pdf",
+     "size": "723KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1SJfTz0WSoAJFF2JsXtTkxIOiGUxloddU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "AC552D9FFCAD5FC328BBF0BAE7F7A47E",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1792293098000,
+   "date": "2026-10-18",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "דף אחד, לב אחד - רבי מאיר שפירא - טקסט לא מנוקד+משימות+תשובון.pdf",
+     "size": "110KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ysaO-ASJ2fqh17uMION5KzU7aurJvURz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "AC646237FC766DC9BCF2756A02015203",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1792293099000,
+   "date": "2026-10-18",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "הָרַב מֵאִיר שַׁפִּירָא - צביעה+מדבקות.pdf",
+     "size": "156KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jiO2QWDd9r4P--4FyGCiWyXwl8RKBe_C/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "ACEC49627AB9D8EA3A41FFFF00BAC6A4",
+   "sender": "בתאל חמו",
+   "text": "",
+   "ts": 1792293099000,
+   "date": "2026-10-18",
+   "time": "06:11",
+   "files": [
+    {
+     "name": "הַדַּף הַיּוֹמִי - צביעה+מדבקות.pdf",
+     "size": "443KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1s5GJP1gSY6yFva898NL0EwK78tKWRJb-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "AC07649BE7ED196303084F3FABFD15B5",
+   "sender": "אמילי קובני",
+   "text": "",
+   "ts": 1792293318000,
+   "date": "2026-10-18",
+   "time": "06:15",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "465KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Iy2Pkepzm2LKPTJ4_yY4ZcLkYlS5zOx-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Iy2Pkepzm2LKPTJ4_yY4ZcLkYlS5zOx-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543970303"
   }
  ]
 }

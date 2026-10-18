@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-18T00:44:49.114Z",
+ "updated": "2026-10-18T05:34:47.677Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -10596,7 +10596,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1Cshvsft0cptEOrCidXboZXoDMqhnuNXd/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1Cshvsft0cptEOrCidXboZXoDMqhnuNXd&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Cshvsft0cptEOrCidXboZXoDMqhnuNXd&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/3EB0F8B4EF6522B29E8473_0.mp4"
     }
    ],
    "drive": null,
@@ -10636,7 +10637,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/18y_AyihTnWBS1lBqdZ0S8AM24I55rTL4/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=18y_AyihTnWBS1lBqdZ0S8AM24I55rTL4&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=18y_AyihTnWBS1lBqdZ0S8AM24I55rTL4&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/ACB6E527B594E052CEAE8D456E265AFE_0.mp4"
     }
    ],
    "drive": null,
@@ -10756,7 +10758,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1LCB6DfX8Ialifo7AbZnkLfM6BHcCukh4/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1LCB6DfX8Ialifo7AbZnkLfM6BHcCukh4&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1LCB6DfX8Ialifo7AbZnkLfM6BHcCukh4&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/ACCBF03B95F1BCD5A3918088A0BFDCC0_0.mp4"
     }
    ],
    "drive": null,
@@ -11863,6 +11866,26 @@
    ],
    "drive": null,
    "phone": "972538240485"
+  },
+  {
+   "id": "ACD3A798D353A4B9EC1B97F66317C932",
+   "sender": "מיכאל דרעי",
+   "text": "",
+   "ts": 1792301675000,
+   "date": "2026-10-18",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "188KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oD7m_USLIWMU8o4q94DcbZMmOk5iniqI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oD7m_USLIWMU8o4q94DcbZMmOk5iniqI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522663949"
   }
  ]
 }

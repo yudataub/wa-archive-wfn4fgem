@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ה",
- "updated": "2026-10-15T19:49:24.573Z",
+ "updated": "2026-10-18T05:17:17.357Z",
  "messages": [
   {
    "id": "AC9AAACE78979476ECDEEF3399476288",
@@ -1006,6 +1006,36 @@
    ],
    "drive": null,
    "phone": "972543979764"
+  },
+  {
+   "id": "ACC2991D41D27EB5939CE422178C5788",
+   "sender": "נתן",
+   "text": "מחפש מצגת להלכות גשמים - הזכרה ובקשה",
+   "ts": 1792300255000,
+   "date": "2026-10-18",
+   "time": "08:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528308062"
+  },
+  {
+   "id": "3EB062565F29F165E1800C",
+   "sender": "יוסי",
+   "text": "",
+   "ts": 1792300618000,
+   "date": "2026-10-18",
+   "time": "08:16",
+   "files": [
+    {
+     "name": "שאילת גשמים-ד-ו.pptx",
+     "size": "41.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1ClcYSStAWsBJWJrmYuGAv1jQLJTsUB8U/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546628769"
   }
  ]
 }

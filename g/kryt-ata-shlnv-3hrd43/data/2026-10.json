@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-17T23:51:48.279Z",
+ "updated": "2026-10-18T05:19:17.367Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -24242,6 +24242,77 @@
    ],
    "drive": null,
    "phone": "972505768014"
+  },
+  {
+   "id": "4AC9347B09A5CCB1819D",
+   "sender": "תהילה נידם",
+   "text": "בוקר טוב \nמישהו יכול להסביר לי לאן נעלם הקיץ שלי 🥹🥹",
+   "ts": 1792299940000,
+   "date": "2026-10-18",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "381KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T-fPKJALQWl13MjRM-nmmtPQrUhakkMR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T-fPKJALQWl13MjRM-nmmtPQrUhakkMR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504397271"
+  },
+  {
+   "id": "ACA44FC900B41B34343D0926FBB9DD2F",
+   "sender": "טל דבורה",
+   "text": "https://Tenufaenglish.co",
+   "ts": 1792300259000,
+   "date": "2026-10-18",
+   "time": "08:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523495237"
+  },
+  {
+   "id": "A570F99A17EB2152519259FAE34CCED4",
+   "sender": "רעך כמוך תוכן איכותי לנשמה",
+   "text": "מה אם התרומה שלכם תעזור לאדם להפסיק להזדקק לתרומות?\n\nמיזם \"סולם הזדמנויות\" מעניק לאנשים המתמודדים עם קשיים כלכליים כלים לניהול כספים, חיזוק נפשי, ליווי אישי ותמיכה מעשית.\n\n💙 לא רק עזרה זמנית — הזדמנות לבנות עצמאות כלכלית.\n\n🌱 תרמו היום ועזרו לאדם לעשות את הצעד הראשון לשינוי.\n\nהצטרפו למיזם החברתי:https://www.amathesed.co.il/",
+   "ts": 1792300488000,
+   "date": "2026-10-18",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "4KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zSSWHO7kPgG_pI-L4WOR4qYYp864_AqL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zSSWHO7kPgG_pI-L4WOR4qYYp864_AqL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555637239"
+  },
+  {
+   "id": "ACE690F7CF826CF77450A47B8E05986D",
+   "sender": "אוסנת רביבו",
+   "text": "",
+   "ts": 1792300734000,
+   "date": "2026-10-18",
+   "time": "08:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pdtb8-ilxhmLOMGt3gWt3go60ZKvWBIF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pdtb8-ilxhmLOMGt3gWt3go60ZKvWBIF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535315838"
   }
  ]
 }

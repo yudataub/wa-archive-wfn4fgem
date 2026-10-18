@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-17T19:55:14.631Z",
+ "updated": "2026-10-18T05:33:47.654Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -6118,6 +6118,50 @@
    "files": [],
    "drive": null,
    "phone": "972522405556"
+  },
+  {
+   "id": "AC52A180D7165899440B719E692D6791",
+   "sender": "שמואל בן מיכאל",
+   "text": "https://www.youtube.com/watch?v=hHb6i0tiUe8&list=RDhHb6i0tiUe8&start_radio=1",
+   "ts": 1792293503000,
+   "date": "2026-10-18",
+   "time": "06:18",
+   "files": [],
+   "drive": null,
+   "phone": "972502498983"
+  },
+  {
+   "id": "ACF84D34AB46B70A86575CD8C3C7C0D5",
+   "sender": "שמואל בן מיכאל",
+   "text": "https://www.youtube.com/watch?v=hHb6i0tiUe8&list=RDhHb6i0tiUe8&start_radio=1",
+   "ts": 1792293540000,
+   "date": "2026-10-18",
+   "time": "06:19",
+   "files": [],
+   "drive": null,
+   "phone": "972502498983"
+  },
+  {
+   "id": "AC87203654C51E9CA0E4AA6C278E252E",
+   "sender": "דורון מיכאלי",
+   "text": "בוקר טוב!\nלמי יש מס' של הלשכה של הרב שמואל אליהו שאפשר לקבוע איתם שיחה שלו בביה\"ס?",
+   "ts": 1792301562000,
+   "date": "2026-10-18",
+   "time": "08:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526307439"
+  },
+  {
+   "id": "3A53D34D18D6736294E9",
+   "sender": "עותניאל מנצור",
+   "text": "📇 לשכת הרב שמואל אליהו\n+972584525200",
+   "ts": 1792301618000,
+   "date": "2026-10-18",
+   "time": "08:33",
+   "files": [],
+   "drive": null,
+   "phone": "972524700429"
   }
  ]
 }

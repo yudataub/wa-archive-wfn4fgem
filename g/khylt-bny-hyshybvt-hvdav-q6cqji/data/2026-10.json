@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-17T20:20:44.946Z",
+ "updated": "2026-10-18T05:30:17.597Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -4902,6 +4902,26 @@
    "files": [],
    "drive": null,
    "phone": "972549689858"
+  },
+  {
+   "id": "ACD8138A1904336E2D94448061114733",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792301413000,
+   "date": "2026-10-18",
+   "time": "08:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a7hCGlxzeJuUKnC-3pSIQmQGtGqpiWod/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a7hCGlxzeJuUKnC-3pSIQmQGtGqpiWod&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
   }
  ]
 }

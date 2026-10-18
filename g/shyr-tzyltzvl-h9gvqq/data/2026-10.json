@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-16T08:15:06.876Z",
+ "updated": "2026-10-18T05:17:17.350Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -963,6 +963,25 @@
    "files": [],
    "drive": null,
    "phone": "972532358409"
+  },
+  {
+   "id": "3EB0C599E18615B0E1982C",
+   "sender": "אולפנת צביה",
+   "text": "",
+   "ts": 1792300606000,
+   "date": "2026-10-18",
+   "time": "08:16",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "329KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1KUY52Ev88l_Fs6epwBWU4Dcyz55qHToy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527235118"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-17T21:07:15.658Z",
+ "updated": "2026-10-18T04:58:17.042Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -1062,6 +1062,36 @@
    "files": [],
    "drive": null,
    "phone": "972542061902"
+  },
+  {
+   "id": "ACEC27CC9F83989034C576D30FED2CC6",
+   "sender": "נגה מימון",
+   "text": "",
+   "ts": 1792299482000,
+   "date": "2026-10-18",
+   "time": "07:58",
+   "files": [
+    {
+     "name": "״ותן טל ומטר לברכה״.pdf",
+     "size": "19KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1O_PWxRqYeVdlXPwWITJntA1fZl1Ge7BV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546672006"
+  },
+  {
+   "id": "ACC7847483FD9069C141FCA8E6299C44",
+   "sender": "נגה מימון",
+   "text": "משתדלת היום /מחר לשלוח להורים פתק נחת",
+   "ts": 1792299495000,
+   "date": "2026-10-18",
+   "time": "07:58",
+   "files": [],
+   "drive": null,
+   "phone": "972546672006"
   }
  ]
 }
