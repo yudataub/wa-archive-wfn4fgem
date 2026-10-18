@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-18T13:16:44.582Z",
+ "updated": "2026-10-18T16:28:47.595Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -3264,6 +3264,66 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "3EB0E79F3A3815ADE52DFF",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792339369000,
+   "date": "2026-10-18",
+   "time": "19:02",
+   "files": [
+    {
+     "name": "מגמות בנות.docx",
+     "size": "1.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1KAtWqFXM7usEQP46e3ojHzFSmfy35tb_/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB060B8C33DC074DCCD43",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792339501000,
+   "date": "2026-10-18",
+   "time": "19:05",
+   "files": [
+    {
+     "name": "מגמות בנים.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1aE9FVq1TDoww3G0erHtqjNvJuh_IRKiG/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB0FF8A0DCD79A5FE178E",
+   "sender": "מלכה טרבלסי",
+   "text": "כרגע זה שיבוץ סופי....שימו 😍",
+   "ts": 1792339524000,
+   "date": "2026-10-18",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC63EAC281A84783D57AEC15C70F6C44",
+   "sender": "אורלי אוחנה",
+   "text": "ערב טוב לכולם ❤️\nראשית תודה רבה לכל המורים שהגיעו להדרכה הערב זה היה חשוב ובעיקר מעניין.\nמקווה שבימים הקרובים נוכל כולנו להנות מהתוכנה המקסימה בכיתות.\n *ביום רביעי הקרוב יצאו תלמידי כתות ה-ו לסיור לימודי במדעטק, המורים המלווים למלכה ולרב אשר הם רבקה פרץ והרב שמואל מקמל.* \n\nתודה וערב טוב❤️",
+   "ts": 1792340905000,
+   "date": "2026-10-18",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }

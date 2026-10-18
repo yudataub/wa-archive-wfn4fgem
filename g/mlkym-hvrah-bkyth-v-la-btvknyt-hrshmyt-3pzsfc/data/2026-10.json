@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מלכים - הוראה בכיתה ו (לא בתוכנית הרשמית)",
- "updated": "2026-10-11T19:30:27.490Z",
+ "updated": "2026-10-18T17:32:51.818Z",
  "messages": [
   {
    "id": "3EB03188AC026A3C5B2761",
@@ -441,6 +441,96 @@
    "files": [],
    "drive": null,
    "phone": "972525320813"
+  },
+  {
+   "id": "AC3882B6F138603B2C87F2A7F6E086E5",
+   "sender": "שלומית",
+   "text": "יש למישהו דף עבודה על םרקים ב-ג?",
+   "ts": 1792343742000,
+   "date": "2026-10-18",
+   "time": "20:15",
+   "files": [],
+   "drive": null,
+   "phone": "972526051661"
+  },
+  {
+   "id": "AC554861C139B84D9AFC3E22B0E381AF",
+   "sender": "דנה אלימלך",
+   "text": "",
+   "ts": 1792343871000,
+   "date": "2026-10-18",
+   "time": "20:17",
+   "files": [
+    {
+     "name": "פרק ב לפי דמויות.pdf",
+     "size": "127KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19aHd7M5FX05bxbojOik0nvojandFDkMH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545220434"
+  },
+  {
+   "id": "AC50C77385E1DE872C09BFC0B2260FC9",
+   "sender": "דנה אלימלך",
+   "text": "",
+   "ts": 1792343890000,
+   "date": "2026-10-18",
+   "time": "20:18",
+   "files": [
+    {
+     "name": "פרק ג חלום שלמה בגבעון.pdf",
+     "size": "127KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KcJmE7Ifz4WmwO1d0a_R7frflpmIvIUo/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545220434"
+  },
+  {
+   "id": "AC843C3301C733BF650A56A38E598902",
+   "sender": "שלומית",
+   "text": "תודה גדולה!",
+   "ts": 1792343942000,
+   "date": "2026-10-18",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972526051661"
+  },
+  {
+   "id": "AC4464A874DD0D5C22AEB59FFE4724FD",
+   "sender": "עדינה",
+   "text": "דפי עבודה על כל הפרקים👆🏻",
+   "ts": 1792344726000,
+   "date": "2026-10-18",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972556876834"
+  },
+  {
+   "id": "AC88EF3BD0E7CC572556185F96BE7EAB",
+   "sender": "עדינה",
+   "text": "",
+   "ts": 1792344749000,
+   "date": "2026-10-18",
+   "time": "20:32",
+   "files": [
+    {
+     "name": "nisim_melachima.doc",
+     "size": "1.7MB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/18eNzcju_M4YQxhbzG7oGG1gTHuWmv_L9/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556876834"
   }
  ]
 }

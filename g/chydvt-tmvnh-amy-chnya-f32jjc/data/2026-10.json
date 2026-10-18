@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-18T08:50:00.989Z",
+ "updated": "2026-10-18T14:34:22.710Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -752,6 +752,26 @@
      "path": "https://drive.google.com/file/d/1hQVwUQMpZ8_JvHFbfEgwHpmD739XmJeU/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1hQVwUQMpZ8_JvHFbfEgwHpmD739XmJeU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB04CCD058264522C0B22",
+   "sender": "עמי חניא",
+   "text": "היום העברתי את משחק החידות שלי לארגון ידוע וגדול.\nוזו היתה החידה הראשונה... שם הארגון\nיש כאלו שכותבים אותו עם ה' בהתחלה (ברשמי נראה שהוא עם ה' בחידה שלי זה בלי ה')\n\nרמת קושי: בינונית\nנושא: ארגונים בישראל\n\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח כתבו: \"חידות\"",
+   "ts": 1792334035000,
+   "date": "2026-10-18",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "236KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K7DsIkP9M3PuMeEqjRt8mfIrPQAkCyPI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K7DsIkP9M3PuMeEqjRt8mfIrPQAkCyPI&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-18T13:25:15.847Z",
+ "updated": "2026-10-18T16:28:39.077Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -10710,6 +10710,101 @@
    ],
    "drive": null,
    "phone": "972506822987"
+  },
+  {
+   "id": "AC38C2852B7F9270F06B7636EAE6FA94",
+   "sender": "רוני שוכר ✨️",
+   "text": "מחפשת סייעת לצהרון 5 ימים בשבוע 12:30-17:00\nבקרית אתא בית ספר יסודי, לילדה מקסימה מהכיתה שלי עם מוגבלות בהליכה וניידות (עם הליכון),ילדה מקסימה משתפת פעולה.\n\n0503661665 רוני",
+   "ts": 1792331052000,
+   "date": "2026-10-18",
+   "time": "16:44",
+   "files": [],
+   "drive": null,
+   "phone": "972503661665"
+  },
+  {
+   "id": "AC60B5EC96EF89957F03194279EFE0AC",
+   "sender": "רוית נאומה",
+   "text": "זה דרך העירייה?",
+   "ts": 1792332271000,
+   "date": "2026-10-18",
+   "time": "17:04",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "ACAAF5E8D2F47A756FF217CE533A236D",
+   "sender": "רעות",
+   "text": "מה המוקד של העירייה?",
+   "ts": 1792336261000,
+   "date": "2026-10-18",
+   "time": "18:11",
+   "files": [],
+   "drive": null,
+   "phone": "972527073970"
+  },
+  {
+   "id": "ACBAEA831BD45E32AB41148284C3430F",
+   "sender": "צורית דמתי",
+   "text": "106 אני חושבת",
+   "ts": 1792337165000,
+   "date": "2026-10-18",
+   "time": "18:26",
+   "files": [],
+   "drive": null,
+   "phone": "972545583552"
+  },
+  {
+   "id": "A5CCF135C550D0A55EB9AA5BBAD11747",
+   "sender": "גרפיקה ואומנות",
+   "text": "109",
+   "ts": 1792337210000,
+   "date": "2026-10-18",
+   "time": "18:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525569412"
+  },
+  {
+   "id": "A59D57643E11DE922A3F3B7E728A8935",
+   "sender": "גרפיקה ואומנות",
+   "text": "",
+   "ts": 1792337212000,
+   "date": "2026-10-18",
+   "time": "18:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eV7Y0aHZOYPCBh-fVAEHxrfXqtUC6zn4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eV7Y0aHZOYPCBh-fVAEHxrfXqtUC6zn4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525569412"
+  },
+  {
+   "id": "AC142F8235FB67A098DC5EB757B20FCA",
+   "sender": "שרון😄",
+   "text": "מי לוקח את הזכות?עושה כאן ועכשיו חסד שהוא כל כולו אהבת חינם!!\nאישה תשושה וממש לא בריאה, מבקשת מעדני חלב ומנות חמות (עקב מצבה חייבת אוכל רך). בבקשה, הצלת נפשות ממש.\nגרה בקרבת מרכז ק. אתא.\n\nמי לוקח את הזכות? לקפוץ לסופר/מכולת ולהביא לה.\n*יש אפשרות לקבלת החזר על הקניה*\n\nלתיאום -שרון, 0522828512\nרק בפרטי בבקשה",
+   "ts": 1792340899000,
+   "date": "2026-10-18",
+   "time": "19:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19-Sbo1ofTRyo8rBjfTO8DE4JhsOZPILI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19-Sbo1ofTRyo8rBjfTO8DE4JhsOZPILI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
   }
  ]
 }

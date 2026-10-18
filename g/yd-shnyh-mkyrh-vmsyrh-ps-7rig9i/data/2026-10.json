@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-18T13:14:08.238Z",
+ "updated": "2026-10-18T17:10:51.602Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -3219,6 +3219,106 @@
    ],
    "drive": null,
    "phone": "972505989747"
+  },
+  {
+   "id": "3EB03D86F4F8977B7E97E3",
+   "sender": "Noam",
+   "text": "*למכירה טלויזיה 32 אינץ' (לא חכמה) + שלט מקורי. לתלייה. במצב מצוין. 175 ש\"ח*",
+   "ts": 1792337024000,
+   "date": "2026-10-18",
+   "time": "18:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "262KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GgRvJhh7I7hox2RSjal4yf-epcRT9o6O/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GgRvJhh7I7hox2RSjal4yf-epcRT9o6O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
+  },
+  {
+   "id": "AC2B3256DDC2CD15A7414197E6B6DE3F",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792343428000,
+   "date": "2026-10-18",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "270KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ju0G_GgKLz4xhqBR3T6dWMWeneJtNHm0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ju0G_GgKLz4xhqBR3T6dWMWeneJtNHm0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC19F4E63AD56A6FC50D15C5431A2842",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792343429000,
+   "date": "2026-10-18",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ha1csES58SfIr6stKwMf0DJj7YqH55hl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ha1csES58SfIr6stKwMf0DJj7YqH55hl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC2E5B0DBB0A7025FF079B2CB7708D5D",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792343429000,
+   "date": "2026-10-18",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sDuBr_lGfEsl-ISW_pXtkt7zpUJnFzjR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sDuBr_lGfEsl-ISW_pXtkt7zpUJnFzjR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACB79D561E6F5AEBCA9CC628BA8C2432",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792343429000,
+   "date": "2026-10-18",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "336KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RsSuvv1nxaCK4pc_L_mMGKWva47cUeYq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RsSuvv1nxaCK4pc_L_mMGKWva47cUeYq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
   }
  ]
 }

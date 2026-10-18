@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-18T11:58:29.951Z",
+ "updated": "2026-10-18T15:59:34.480Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1383,6 +1383,68 @@
    ],
    "drive": null,
    "phone": "972509709704"
+  },
+  {
+   "id": "AC3632B04E30A82F150B80D950F23FD8",
+   "sender": "עדי חסיד",
+   "text": "מוסך מכוניות למסירה",
+   "ts": 1792336602000,
+   "date": "2026-10-18",
+   "time": "18:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "900KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tigayfzV_VGMbKxcgJ2Hm5Fbvtpa9UJz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tigayfzV_VGMbKxcgJ2Hm5Fbvtpa9UJz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACA15CAC6FC1F9979AD5EA34DA99B7BB",
+   "sender": "עדי חסיד",
+   "text": "משהי מעוניינת בגדים חורף מידה 6 בנים",
+   "ts": 1792338761000,
+   "date": "2026-10-18",
+   "time": "18:52",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC433049BBBEA13C5D39D605237D06C3",
+   "sender": "עדי חסיד",
+   "text": "בגדי חורף בנות מידה 8",
+   "ts": 1792338802000,
+   "date": "2026-10-18",
+   "time": "18:53",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC1A5D0792C770F51DB9EE083F0AE8F4",
+   "sender": "עדי חסיד",
+   "text": "",
+   "ts": 1792339158000,
+   "date": "2026-10-18",
+   "time": "18:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "789KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uxo7l7gy4Ll0uc6_52lAQVh7UKQ5ZSDQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uxo7l7gy4Ll0uc6_52lAQVh7UKQ5ZSDQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
   }
  ]
 }

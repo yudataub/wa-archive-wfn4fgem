@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-18T10:41:17.432Z",
+ "updated": "2026-10-18T16:15:34.755Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -5383,6 +5383,57 @@
    ],
    "drive": null,
    "phone": "972538307001"
+  },
+  {
+   "id": "AC3D3AEFC50C0F253244CCD11EDD466F",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1792331625000,
+   "date": "2026-10-18",
+   "time": "16:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "228KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rXlAxbI4fsxsDd1KcUZPH5FhWM6iQ2B1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rXlAxbI4fsxsDd1KcUZPH5FhWM6iQ2B1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "A522E0C6A8AB8859DABCA676B861F4C3",
+   "sender": "אשר חברוני עיסוי שיקומי אורטופדי רפואה משלימה משולבת",
+   "text": "מדהים ממש",
+   "ts": 1792334286000,
+   "date": "2026-10-18",
+   "time": "17:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "17.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1QDLWuX7i1FJLgP9kYJ4QFWnrFSs42AfW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QDLWuX7i1FJLgP9kYJ4QFWnrFSs42AfW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527004699"
+  },
+  {
+   "id": "ACFD40A903B1615A463D84BC979D7FE8",
+   "sender": "דהן ישי",
+   "text": "*עדכון* ‼️\n\nתושבים יקרים ,\n\nבשעות הקרובות, תחלנה תקיפות עצימות של צה״ל בדרום לבנון ועל כן, הדי פיצוץ עלולים להישמע גם במרחב שלנו. \n\nלידיעתכם! \n\nאמשיך ואעדכן בכל התפתחות בטחונית 🙏🏻\n\nבתקווה לשקט , ביטחון וניצחון כוחותינו \n\n🇮🇱🇮🇱🇮🇱\n \n*להצטרפות*:",
+   "ts": 1792340122000,
+   "date": "2026-10-18",
+   "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972544605285"
   }
  ]
 }

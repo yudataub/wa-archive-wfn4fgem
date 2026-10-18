@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "Edventure & נעם קריית אתא",
- "updated": "2026-10-14T19:39:34.716Z",
+ "updated": "2026-10-18T17:04:21.527Z",
  "messages": [
   {
    "id": "AC134D86A2936AD7ADB09C1F2793658B",
@@ -46,6 +46,142 @@
    "files": [],
    "drive": null,
    "phone": "972585277323"
+  },
+  {
+   "id": "AC28EE9C5A4F750C03904EC44A25BF26",
+   "sender": "מלכה טרבלסי",
+   "text": "ברוכים הבאים",
+   "ts": 1792336230000,
+   "date": "2026-10-18",
+   "time": "18:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3A64FAF4B6B8180591AF",
+   "sender": "Omri Elkabetz",
+   "text": "📇 Edventure.il-Support\n+972552708412",
+   "ts": 1792336262000,
+   "date": "2026-10-18",
+   "time": "18:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526347082"
+  },
+  {
+   "id": "3A013391172D64B2C965",
+   "sender": "Omri Elkabetz",
+   "text": "מלכה אשמח שתוסיפי את התמיכה שלנו לכאן",
+   "ts": 1792336277000,
+   "date": "2026-10-18",
+   "time": "18:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526347082"
+  },
+  {
+   "id": "3EB0BBFB4A58ADDCFFB86A",
+   "sender": "Edventure",
+   "text": "בי\"ס נועם היקרים! 😊\nשמחנו מאוד להגיע ולפגוש אתכם!\n\nמצורפים, לנוחיותכם, מדריכים לשימושכם - הן בpdf (מדריך ׳קופץ׳ שתוכלו לנתב את עצמכם בין הנושאים המעניינים אתכם) והן סרטון.\n\nמתרגשים להתחיל איתכם דרך משמעותית יחד וכאן לכל שאלה (ניתן לשלוח הודעה בקבוצה או בפרטי) 🙏🏻\nצוות Edventure",
+   "ts": 1792342236000,
+   "date": "2026-10-18",
+   "time": "19:50",
+   "files": [],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "3EB08D2F4C5003FA787A02",
+   "sender": "Edventure",
+   "text": "",
+   "ts": 1792342251000,
+   "date": "2026-10-18",
+   "time": "19:50",
+   "files": [
+    {
+     "name": "מדריך למורה - Edventure Hub.pdf",
+     "size": "5.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17n1jHpipTmMqVBDyYB7fyvgAJ35_boDH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "3EB05E1595ADEB1B639EDD",
+   "sender": "Edventure",
+   "text": "",
+   "ts": 1792342252000,
+   "date": "2026-10-18",
+   "time": "19:50",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "20.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1_QAX4PWbAnJ6NwOBmpGA300YtiyyWfQh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_QAX4PWbAnJ6NwOBmpGA300YtiyyWfQh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "3EB0D4AE585291AB348C32",
+   "sender": "Edventure",
+   "text": "",
+   "ts": 1792342252000,
+   "date": "2026-10-18",
+   "time": "19:50",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SvDKmyvocFfuvYFIQitfRiNMSWMYZGWV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SvDKmyvocFfuvYFIQitfRiNMSWMYZGWV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "ACDF0FFBAB1A250A038A04236CC03C62",
+   "sender": "מלכה טרבלסי",
+   "text": "תודה רבה\nאור היה מושלם\nישר כח🥰",
+   "ts": 1792342812000,
+   "date": "2026-10-18",
+   "time": "20:00",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3A9B28331CC5E69FFA7A",
+   "sender": "Or Gibly",
+   "text": "בכיף שמחתי להגיע 🙏🙏",
+   "ts": 1792342965000,
+   "date": "2026-10-18",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "phone": "972543372753"
+  },
+  {
+   "id": "ACACC3949F0A8D9E1157046D428E8B19",
+   "sender": "הילה שמר",
+   "text": "תודה רבה לך! היה נפלא! 🙏",
+   "ts": 1792343050000,
+   "date": "2026-10-18",
+   "time": "20:04",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
   }
  ]
 }

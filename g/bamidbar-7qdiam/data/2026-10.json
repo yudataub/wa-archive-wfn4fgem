@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-18T13:37:16.058Z",
+ "updated": "2026-10-18T13:48:16.199Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -3215,6 +3215,50 @@
    "files": [],
    "drive": null,
    "phone": "972545458726"
+  },
+  {
+   "id": "AC1714E544E040AC6B7F28DAEBC0404D",
+   "sender": "אסף משה מימון",
+   "text": "תודה, אפשר גם לנביא בבקשה",
+   "ts": 1792331110000,
+   "date": "2026-10-18",
+   "time": "16:45",
+   "files": [],
+   "drive": null,
+   "phone": "972586002004"
+  },
+  {
+   "id": "3EB0F1333E83CCB9D008B3",
+   "sender": "אוראל דרורי",
+   "text": "https://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/teaching-materials/shmuel-a/",
+   "ts": 1792331223000,
+   "date": "2026-10-18",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "AC7EF4C60667BC93021F87BDE4F2A8FC",
+   "sender": "אסף משה מימון",
+   "text": "תודה",
+   "ts": 1792331263000,
+   "date": "2026-10-18",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972586002004"
+  },
+  {
+   "id": "3EB0144261C5E80D4B0120",
+   "sender": "אוראל דרורי",
+   "text": "בשמחה!",
+   "ts": 1792331271000,
+   "date": "2026-10-18",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972526452568"
   }
  ]
 }

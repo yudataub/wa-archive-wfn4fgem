@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-18T11:09:51.780Z",
+ "updated": "2026-10-18T14:57:54.057Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1711,6 +1711,17 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "A5719EEE52758A52F43E171C1E71C567",
+   "sender": "יהודה מנחם מוכר דירות בקריות",
+   "text": "https://whatsapp.com/channel/0029VbDrHnE0QeakYF2PeZ3H",
+   "ts": 1792335474000,
+   "date": "2026-10-18",
+   "time": "17:57",
+   "files": [],
+   "drive": null,
+   "phone": "972535413981"
   }
  ]
 }

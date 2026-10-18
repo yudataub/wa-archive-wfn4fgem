@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי #1",
- "updated": "2026-10-18T12:36:37.698Z",
+ "updated": "2026-10-18T14:59:54.102Z",
  "messages": [
   {
    "id": "A5F35C0BAF0148BF50C2E8370BD3176A",
@@ -349,6 +349,26 @@
      "path": "https://drive.google.com/file/d/1uko_fHvVgyWC2aMESHHcDR2kYAOuiyVT/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1uko_fHvVgyWC2aMESHHcDR2kYAOuiyVT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5626859EECA1BF1CFCCBACB2C13A35E",
+   "sender": "אוריאל פדידה",
+   "text": "קטע קומי של השחקן מורה שחר מור על פנסיה תקציבית vs פנסיה צוברת....\n\n*הצטרפו לחדשות חינוך וזכויות המורה הדתי 2#*",
+   "ts": 1792335582000,
+   "date": "2026-10-18",
+   "time": "17:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1G-F-za14yQFOfxiXMzZOA5deJSjGEKdn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G-F-za14yQFOfxiXMzZOA5deJSjGEKdn&sz=w1200"
     }
    ],
    "drive": null,

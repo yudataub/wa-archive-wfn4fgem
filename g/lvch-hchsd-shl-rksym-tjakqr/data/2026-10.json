@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-18T13:35:46.075Z",
+ "updated": "2026-10-18T16:50:41.437Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -7053,7 +7053,8 @@
      "type": "video/mp4",
      "path": "https://drive.google.com/file/d/1K0yJFMYVaSsSJcCvmlcBUz8lOCGVG_6N/view?usp=drivesdk",
      "skipped": "",
-     "thumb": "https://drive.google.com/thumbnail?id=1K0yJFMYVaSsSJcCvmlcBUz8lOCGVG_6N&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1K0yJFMYVaSsSJcCvmlcBUz8lOCGVG_6N&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/ACEC76BFDFEE6C0DD6329A6E903E9AF7_0.mp4"
     }
    ],
    "drive": null,
@@ -7296,6 +7297,134 @@
    "files": [],
    "drive": null,
    "phone": "972549474921"
+  },
+  {
+   "id": "ACFD4A4BA71EC032F4677E51B0BF1F18",
+   "sender": "מאיר שקלאר",
+   "text": "אלוף \nתודה \nשלחו באישי לכן כתבתי תודה לכולם \nישר כח אתה השקעת ושלחת את כולם🫶",
+   "ts": 1792330948000,
+   "date": "2026-10-18",
+   "time": "16:42",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "3EB03AC86E03B19117DD9A",
+   "sender": "בית ספר ביחד",
+   "text": "מחפש לקנות 2000 דולר",
+   "ts": 1792331433000,
+   "date": "2026-10-18",
+   "time": "16:50",
+   "files": [],
+   "drive": null,
+   "phone": "972524441878"
+  },
+  {
+   "id": "AC868A9B8502009BDC2B38DDADACF85E",
+   "sender": "יהודה שטרית",
+   "text": "אדם שמגיע ברכבת מנתב\"ג למרכזית המפרץ\nהיכן ואיך הוא מגיע לחניה הסמוכה לקניון ??",
+   "ts": 1792333245000,
+   "date": "2026-10-18",
+   "time": "17:20",
+   "files": [],
+   "drive": null,
+   "phone": "972502727391"
+  },
+  {
+   "id": "ACA08806217AC2D3987BDA3CE6812FD5",
+   "sender": "...",
+   "text": "אני מעוניין להעביר חבילה מרכסים לבני ברק בימים הקרובים,\nיבואו לתת ברכסים ויבואו לקבל בבני ברק.",
+   "ts": 1792337226000,
+   "date": "2026-10-18",
+   "time": "18:27",
+   "files": [],
+   "drive": null,
+   "phone": "972584171334"
+  },
+  {
+   "id": "AC3C22FCCD1483C2FD492B5AD6F7EC22",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1792340670000,
+   "date": "2026-10-18",
+   "time": "19:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "319KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CoifO_a6qK56uDyWrtPjR0JTBE5udSCQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CoifO_a6qK56uDyWrtPjR0JTBE5udSCQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC5C2F85DB1C3287E82E2F552A2186B5",
+   "sender": "יובל",
+   "text": "יורד במדרגות והוא מול החניון 2 דק הליכה",
+   "ts": 1792340774000,
+   "date": "2026-10-18",
+   "time": "19:26",
+   "files": [],
+   "drive": null,
+   "phone": "972509849678"
+  },
+  {
+   "id": "3AF0A138B766DFBDD5D0",
+   "sender": "Avishay",
+   "text": "מי יודע שעות שחרית מחר בית ניסים ?",
+   "ts": 1792340933000,
+   "date": "2026-10-18",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "phone": "972545422379"
+  },
+  {
+   "id": "AC3103BA0F6EADCCFC21C8F5BB6220E0",
+   "sender": "ישראל מנחם סופר סת\"ם📜📜",
+   "text": "מקומות מומלצים לשבת חתן כולל אוכל ברמה טובה🙏",
+   "ts": 1792340945000,
+   "date": "2026-10-18",
+   "time": "19:29",
+   "files": [],
+   "drive": null,
+   "phone": "972527600799"
+  },
+  {
+   "id": "ACDF341160691D210462F5112B223442",
+   "sender": "יהודי פשוט",
+   "text": "באמברלה ניתן למלא  זיכוי במקום",
+   "ts": 1792341123000,
+   "date": "2026-10-18",
+   "time": "19:32",
+   "files": [],
+   "drive": null,
+   "phone": "972548424993"
+  },
+  {
+   "id": "AC6CD7C53D0B138B8A0944ECAFF2C2A6",
+   "sender": "שרגא ר.",
+   "text": "יש למישהו להשאיל לכמה ימים עגלה או למכור?",
+   "ts": 1792342212000,
+   "date": "2026-10-18",
+   "time": "19:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "12KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mL-4d5Jt7RCufl4khf2OLw5Ysh3tYJoB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mL-4d5Jt7RCufl4khf2OLw5Ysh3tYJoB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549637332"
   }
  ]
 }

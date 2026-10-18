@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון Brainers עדכונים 5",
- "updated": "2026-10-18T08:08:24.183Z",
+ "updated": "2026-10-18T16:25:35.007Z",
  "messages": [
   {
    "id": "3EB00D7FDECFA6F358E73B",
@@ -213,6 +213,48 @@
    "date": "2026-10-18",
    "time": "11:07",
    "files": [],
+   "drive": null,
+   "phone": "972549260597"
+  },
+  {
+   "id": "3EB017829EF140602406C7",
+   "sender": "עדן ביבס",
+   "text": "[סקר]",
+   "ts": 1792331531000,
+   "date": "2026-10-18",
+   "time": "16:52",
+   "files": [],
+   "drive": null,
+   "phone": "972549260597"
+  },
+  {
+   "id": "3EB06E465DA417205F24F2",
+   "sender": "עדן ביבס",
+   "text": "*עוד פחות מחצי שעה עולים ללייב! 🥹*\r\n\r\nזה הולך להיות שונה לגמרי מהמפגשים הרגילים. והאמת, רק בשביל המצגת שווה לעלות, אני לא מאמין שאפשר להגיע לרמה כזו עם AI היום 😅\r\n\r\n✅ *לינק למפגש:* https://go.brainai.co.il/join-ai-solutions-method-clubs-1\r\n\r\nעדן\r\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1792339519000,
+   "date": "2026-10-18",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972549260597"
+  },
+  {
+   "id": "3EB04065420562826126AC",
+   "sender": "עדן ביבס",
+   "text": "*יאללה חבר׳ה עוד 5 דק׳ אנחנו באוויר!*\r\n\r\nאני פותח בהפתעה מגניבה, ממליץ לכם לא לפספססס.\r\n\r\n✅ *לינק למפגש:* https://go.brainai.co.il/join-ai-solutions-method-clubs-1\r\n\r\nעדן\r\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1792340663000,
+   "date": "2026-10-18",
+   "time": "19:24",
+   "files": [
+    {
+     "name": "תמונה.png",
+     "size": "1.5MB",
+     "type": "image/png",
+     "path": "https://drive.google.com/file/d/1yDP9ELa0I2B5m_44v9k-jaNCsgVHPniH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yDP9ELa0I2B5m_44v9k-jaNCsgVHPniH&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972549260597"
   }
