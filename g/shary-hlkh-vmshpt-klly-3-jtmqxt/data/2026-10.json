@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-17T17:47:13.417Z",
+ "updated": "2026-10-17T23:06:47.542Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -8893,6 +8893,17 @@
    "files": [],
    "drive": null,
    "phone": "972546607527"
+  },
+  {
+   "id": "AC2A50634C25ABE0B5139A1A04AA1770",
+   "sender": "Moshe Itshak Amar",
+   "text": "כן",
+   "ts": 1792278395000,
+   "date": "2026-10-18",
+   "time": "02:06",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
   }
  ]
 }

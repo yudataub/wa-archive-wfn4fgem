@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-10-17T18:55:15.205Z",
+ "updated": "2026-10-18T00:38:19.018Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2685,6 +2685,44 @@
    ],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "3EB05CD2C1ADB9D87DFCCC",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792283866000,
+   "date": "2026-10-18",
+   "time": "03:37",
+   "files": [
+    {
+     "name": "מגמות בנות.docx",
+     "size": "1.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1SbNUvXiEpC7d1c6Q79ymlnu5QXad-aWz/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB04B65C4B2245BFED59A",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792283873000,
+   "date": "2026-10-18",
+   "time": "03:37",
+   "files": [
+    {
+     "name": "מגמות בנים.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/16-KFODvMdn0l869SkueYx4CUvlPsahLs/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
   }
  ]
 }

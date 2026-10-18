@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-17T20:08:44.778Z",
+ "updated": "2026-10-17T23:51:48.279Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -24222,6 +24222,26 @@
    "files": [],
    "drive": null,
    "phone": "972504567827"
+  },
+  {
+   "id": "3A2780A4BC798625613A",
+   "sender": ". ",
+   "text": "היי אני יודעת שהשעה מאוחרת ומתנצלת על כך! אבל אמרתי שאני חייבת לנסות את מזלי \nזו גורה שזרקו לרחוב \nמחר אני מעבירה אותה לעמותה מקסימה במרכז \nבעמותה קיימים כ 70 כלבים, החורף מתקרב והם זקוקים להתחמם \nאם יש לכם שמיכות , מגבות מצעים שלא בשימוש אשמח לאסוף עבורם!!!!",
+   "ts": 1792281093000,
+   "date": "2026-10-18",
+   "time": "02:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZWSmtg6fhfOKxVj27ajIPLLbSC4KH13E/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZWSmtg6fhfOKxVj27ajIPLLbSC4KH13E&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505768014"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-17T18:55:24.198Z",
+ "updated": "2026-10-18T00:38:04.669Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -2904,6 +2904,55 @@
    ],
    "drive": null,
    "phone": "972507864721"
+  },
+  {
+   "id": "3EB0BCAA987CEE440D11E1",
+   "sender": "מלכה טרבלסי",
+   "text": "לילה/בוקר טוב.. מחנכות כיתה ב ג ד בנים ובנות....בבקשה תבדקו אם כל הילדים במגמה הנכונה... במקרה שיש בעיה... נא לכתוב לי באישי.. בבקשה עד מחר בצהריים לבדוק",
+   "ts": 1792283855000,
+   "date": "2026-10-18",
+   "time": "03:37",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB05CD2C1ADB9D87DFCCC",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792283866000,
+   "date": "2026-10-18",
+   "time": "03:37",
+   "files": [
+    {
+     "name": "מגמות בנות.docx",
+     "size": "1.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1quDN42OWZWXCuIJbWMYugGzEhIJj7Kmb/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB04B65C4B2245BFED59A",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792283873000,
+   "date": "2026-10-18",
+   "time": "03:37",
+   "files": [
+    {
+     "name": "מגמות בנים.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1DtTBqW_9PTg_Sglvo-9lcRJBzc1T5AVV/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
   }
  ]
 }

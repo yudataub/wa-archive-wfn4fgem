@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-17T20:49:15.391Z",
+ "updated": "2026-10-18T00:44:49.114Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -11843,6 +11843,26 @@
    "files": [],
    "drive": null,
    "phone": "972547155101"
+  },
+  {
+   "id": "ACDC38AA8F69E9840D09F26FEF5A4AB0",
+   "sender": "nadav levy05",
+   "text": "",
+   "ts": 1792284265000,
+   "date": "2026-10-18",
+   "time": "03:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1K1XTyS8a0ipx0JWqkJPM3fC4Wzyy6ljE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K1XTyS8a0ipx0JWqkJPM3fC4Wzyy6ljE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538240485"
   }
  ]
 }
