@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-18T05:13:17.285Z",
+ "updated": "2026-10-18T08:44:01.794Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -6944,6 +6944,88 @@
    "files": [],
    "drive": null,
    "phone": "972584171334"
+  },
+  {
+   "id": "ACB9A0112CC1BECBA07E069C921BAE95",
+   "sender": ". אביתר כהן",
+   "text": "📇 דורית - אורתופדיה- ק. אתא\n+972544822049",
+   "ts": 1792304225000,
+   "date": "2026-10-18",
+   "time": "09:17",
+   "files": [],
+   "drive": null,
+   "phone": "972586161285"
+  },
+  {
+   "id": "3ACBFC64CDD1483001A7",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1792304591000,
+   "date": "2026-10-18",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z_xDniN6drDaMuKATH810v8BjWp6wu6z/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z_xDniN6drDaMuKATH810v8BjWp6wu6z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "3A47A5A374AB1E3CFB63",
+   "sender": "אורטל",
+   "text": "",
+   "ts": 1792304592000,
+   "date": "2026-10-18",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "134KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yKiItL6bPoCBY24FxwV_8_ymXKH_yrKK/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yKiItL6bPoCBY24FxwV_8_ymXKH_yrKK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "AC99B30546DAFBB72F038122C9F6E6F2",
+   "sender": "Maya",
+   "text": "חגית ברק פון",
+   "ts": 1792305626000,
+   "date": "2026-10-18",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "phone": "972545974500"
+  },
+  {
+   "id": "ACF0FFD816C16086D8C68C34C9EDFA82",
+   "sender": "יוסי",
+   "text": "",
+   "ts": 1792313012000,
+   "date": "2026-10-18",
+   "time": "11:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "21.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17jLyKX-AtdV_GZ9d3ZlCr6qxFIDEfh7L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17jLyKX-AtdV_GZ9d3ZlCr6qxFIDEfh7L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523991080"
   }
  ]
 }

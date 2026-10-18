@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-17T15:50:41.412Z",
+ "updated": "2026-10-18T06:42:38.501Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -1724,6 +1724,26 @@
      "path": "https://drive.google.com/file/d/1GpKfrSIu-adidXA4u-HAN1SV8i5Qwxz2/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1GpKfrSIu-adidXA4u-HAN1SV8i5Qwxz2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
+  },
+  {
+   "id": "AC750846D11621C3CB57B440C18E4613",
+   "sender": "עדית אבני",
+   "text": "",
+   "ts": 1792305741000,
+   "date": "2026-10-18",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Bm9kuxrQcfh3npFeVodBTKI8Pc5PXGkY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Bm9kuxrQcfh3npFeVodBTKI8Pc5PXGkY&sz=w1200"
     }
    ],
    "drive": null,

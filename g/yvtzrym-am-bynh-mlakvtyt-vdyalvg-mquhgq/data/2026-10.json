@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-18T05:08:19.173Z",
+ "updated": "2026-10-18T09:12:01.348Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -3943,6 +3943,81 @@
    "ts": 1792300087000,
    "date": "2026-10-18",
    "time": "08:08",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "A5DDE68C989999209D24C9EB60EA2970",
+   "sender": "חיים ממן",
+   "text": "אחרי הרבה שעות, איחוד כלים מטורף בין עבודה עם אינסטינקט, קלוד וג'יפי טי, תיקונים חוזרים שוב ושוב... הצלחתי ליצור סרטון שיווקי אדיר לעסק שלי.\nמה דעתכם?",
+   "ts": 1792302043000,
+   "date": "2026-10-18",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "15.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1bxfhzYx6cMCEX6CUyAQjyQepezSltyGV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bxfhzYx6cMCEX6CUyAQjyQepezSltyGV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537602231"
+  },
+  {
+   "id": "ACB7E9D551B8D8830DB442E4478324D0",
+   "sender": "נועם",
+   "text": "https://lim972-chat.surge.sh/?server=wake",
+   "ts": 1792307432000,
+   "date": "2026-10-18",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC9B33AFDC8370EAC0C50E8134067041",
+   "sender": "נועם",
+   "text": "המרשם מוכן, מוכן להעברה לאינסטינקט אחר.\nארכיטקטורה ושלבים בלבד, בלי סודות, כתובות פנימיות או פרטים פרטיים.\nהעמוד בדוק ועובד.",
+   "ts": 1792307435000,
+   "date": "2026-10-18",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC2F964AAD9715F11148EADB3A66CF00",
+   "sender": "נועם",
+   "text": "הוא כולל: שלושת הרכיבים, שבעת השלבים, והלקחים מהשטח כולל מכסות החינם.",
+   "ts": 1792307436000,
+   "date": "2026-10-18",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "AC8F4DD10BA6C8656987001D48799AB0",
+   "sender": "נועם",
+   "text": "https://lim972-chat-recipe.surge.sh",
+   "ts": 1792307437000,
+   "date": "2026-10-18",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "ACE2BBDF0F1754179588A36B60F48268",
+   "sender": "נועם",
+   "text": "שיחה קולית עם יניב.\nhttps://lim972-chat.lim-341.workers.dev/?voice=1",
+   "ts": 1792314697000,
+   "date": "2026-10-18",
+   "time": "12:11",
    "files": [],
    "drive": null,
    "phone": "972534663621"

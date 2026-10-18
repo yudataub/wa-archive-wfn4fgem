@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-17T19:31:12.518Z",
+ "updated": "2026-10-18T06:52:08.670Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2153,6 +2153,46 @@
    "files": [],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "ACB891648FCA6F3A51F61373A4112017",
+   "sender": "דבי שגב",
+   "text": "",
+   "ts": 1792306224000,
+   "date": "2026-10-18",
+   "time": "09:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "67KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FmbYB03BW-uQOtbA-RxvEUTym-bAYtfm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FmbYB03BW-uQOtbA-RxvEUTym-bAYtfm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548014479"
+  },
+  {
+   "id": "AC698F13E26CB762C80D780835054C7C",
+   "sender": "דבי שגב",
+   "text": "",
+   "ts": 1792306308000,
+   "date": "2026-10-18",
+   "time": "09:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZK9r1_B8deSea0cFKe7y3fDA2RBHVgk9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZK9r1_B8deSea0cFKe7y3fDA2RBHVgk9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548014479"
   }
  ]
 }

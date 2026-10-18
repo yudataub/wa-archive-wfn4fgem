@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-18T03:15:24.902Z",
+ "updated": "2026-10-18T07:59:54.055Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -1337,6 +1337,157 @@
    ],
    "drive": null,
    "phone": "972543970303"
+  },
+  {
+   "id": "3AD82732B4332EA9E653",
+   "sender": "אין עוד מלבדו",
+   "text": "אשמח לחומר על ז חשוון",
+   "ts": 1792306299000,
+   "date": "2026-10-18",
+   "time": "09:51",
+   "files": [],
+   "drive": null,
+   "phone": "972508270578"
+  },
+  {
+   "id": "AC4FCCE7E9AF39A3B513907662A87CF1",
+   "sender": "רחל רביץ",
+   "text": "https://drive.google.com/drive/folders/1yYKQCPFdpSsT_yoqzsAAlwW0Akbk11bx?usp=drive_link",
+   "ts": 1792306838000,
+   "date": "2026-10-18",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "phone": "972587110272"
+  },
+  {
+   "id": "AC46E5362E65264A2D4C2002F0AEBA8C",
+   "sender": "יהודה יורק",
+   "text": "",
+   "ts": 1792306905000,
+   "date": "2026-10-18",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "הַזְכָּרַת גְּשָׁמִים וּשְׁאֵלַת גְּשָׁמִים - טבלה.pdf",
+     "size": "82KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12z09Sp4ERc8h2amdm6ooj0Z9YgtlNSs5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528109510"
+  },
+  {
+   "id": "ACD099AB35EECF32FF793D99BCFF2904",
+   "sender": "יהודה יורק",
+   "text": "",
+   "ts": 1792306906000,
+   "date": "2026-10-18",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "הַזְכָּרַת גְּשָׁמִים וּשְׁאֵלַת גְּשָׁמִים - טבלה ריקה.pdf",
+     "size": "73KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BrVNK77pxvcVrPabEHLpYYDphUDvOFf6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528109510"
+  },
+  {
+   "id": "AC170DA22E61084A6C02D3C98816545F",
+   "sender": "יהודה יורק",
+   "text": "",
+   "ts": 1792306961000,
+   "date": "2026-10-18",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "דפי לימוד לקראת ז חשוון.pdf",
+     "size": "503KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-TKgs-yq77OFUCbCuNCLYoxh31d3_8tX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528109510"
+  },
+  {
+   "id": "AC3EC8015D2D6CD8662A11979752D79C",
+   "sender": "יהודה יורק",
+   "text": "",
+   "ts": 1792306962000,
+   "date": "2026-10-18",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "משיב הרוח ומוריד הגשם - טקסט (מנוקד)+משימות.pdf",
+     "size": "810KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17BWHZYXzIvZJ9O62KQxuTUeca4bcUkw-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528109510"
+  },
+  {
+   "id": "A56BCC7536A742A39635FDE35B7B87A3",
+   "sender": "תובל - גילי צרפתי",
+   "text": "https://www.calameo.com/read/004127615fdf89528558c. ספר לקריאה  על חוני המעגל ושאלת הגשמים",
+   "ts": 1792307053000,
+   "date": "2026-10-18",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972526070439"
+  },
+  {
+   "id": "A5E728DDDC645B6B2B367D2F64BAC71C",
+   "sender": "י.",
+   "text": "לקראת יום הרב קוק\nפעילות מיוחדת חויית מציאות מדומה של מיצג על מרן הראיה קוק זצוקל\nזמינים בגפן בקבוע",
+   "ts": 1792309009000,
+   "date": "2026-10-18",
+   "time": "10:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "413KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IDfSTeHssVWOpd8cp3v3KIAN-CrEjm2E/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IDfSTeHssVWOpd8cp3v3KIAN-CrEjm2E&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534929856"
+  },
+  {
+   "id": "AC69D11A6B68B86CE75C30C8CD818C52",
+   "sender": "אורית ברגר",
+   "text": "תודה רבה",
+   "ts": 1792309047000,
+   "date": "2026-10-18",
+   "time": "10:37",
+   "files": [],
+   "drive": null,
+   "phone": "972587504258"
+  },
+  {
+   "id": "A52FDB79D8B13DB38226E2A56ABA6962",
+   "sender": "פרומי ריבר הפעלות פעולה לגאולה",
+   "text": "בוקר ז חשוון שמח!\n\nהמתנה הראשונה 🎁\nקישור\n*למצגת אינטראקטיבית*\n על דיני ומשמעות ז חשון ⛈️ \nבצירוף \n*משחק אטרקטיבי מקורי!*\n\nhttps://www.canva.com/design/DAG3BcOyICU/fQhWjmZQNCA9xlkFeYOWhA/view?utm_content=DAG3BcOyICU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2028e29dc1\n\n*קישור למשחק אינטראקטיבי משודרג ל-ז חשון*\n\nhttps://www.canva.com/design/DAG3CJBu9io/FYacQPoQjsVx-LwSI4-wdA/view?utm_content=DAG3CJBu9io&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h10ca15fada\n\nבאהבה\n*הפעלות פעולה לגאולה 👑*\n\nמתנה זו נשלחה בקבוצה השווה\n *פועלים לגאולה בחוויה*🎉\n\nכאן מצטרפים 👇🏻",
+   "ts": 1792310369000,
+   "date": "2026-10-18",
+   "time": "10:59",
+   "files": [],
+   "drive": null,
+   "phone": "972524515740"
   }
  ]
 }

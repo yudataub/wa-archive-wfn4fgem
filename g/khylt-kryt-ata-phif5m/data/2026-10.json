@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-17T18:00:13.690Z",
+ "updated": "2026-10-18T09:31:39.524Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -5283,6 +5283,86 @@
    ],
    "drive": null,
    "phone": "972502198987"
+  },
+  {
+   "id": "A517BFE26EC62FE018F6EFC3E3159428",
+   "sender": "פאר והדר",
+   "text": "מכינים לכם עוגות מעוצבות מושלמות לכל חגיגה..🩷🧡💚💛\nעוגות גן עוגות שכבות מעוצבות עוגות בנטו עוגות מוס מושחתות  מארזי הפתעה ומגשי אירוח טעימים ומושלמים במיוחד בהתאמה אישית .🧡❤️🧡❤️🧡❤️\n\nלהזמנות\n0527317774\n\nאיסוף מקרית ביאליק \nהמוצרים הינם עדה חרדית ובית יוסף..",
+   "ts": 1792304694000,
+   "date": "2026-10-18",
+   "time": "09:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "288KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1g_vllaVB0YEtGLL9F-raXfo-sWa7mHK6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1g_vllaVB0YEtGLL9F-raXfo-sWa7mHK6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527317774"
+  },
+  {
+   "id": "AC2AACC699531623E72FDA743B7CD889",
+   "sender": "זהבה גוטמן",
+   "text": "",
+   "ts": 1792308225000,
+   "date": "2026-10-18",
+   "time": "10:23",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "28KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1Wp1_8X9pgmZUKVQ-16RFGFEqrxfQyp6g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wp1_8X9pgmZUKVQ-16RFGFEqrxfQyp6g&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "AC90EEF3C70D6EAA44DBC97EA5767A5A",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1792312066000,
+   "date": "2026-10-18",
+   "time": "11:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rzILwVs4hy_f4N01OPpLc8tOxb9ZfN47/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rzILwVs4hy_f4N01OPpLc8tOxb9ZfN47&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "AC4EC580D37C2F22A8DF787FD5BC6728",
+   "sender": "אורלי",
+   "text": "",
+   "ts": 1792315884000,
+   "date": "2026-10-18",
+   "time": "12:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AdRV0kkdTtgbVnwz1kLHzm2m47J4Hyhm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AdRV0kkdTtgbVnwz1kLHzm2m47J4Hyhm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547575312"
   }
  ]
 }

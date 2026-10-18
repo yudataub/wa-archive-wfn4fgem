@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-18T05:35:49.620Z",
+ "updated": "2026-10-18T08:24:23.808Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -1987,6 +1987,59 @@
    "files": [],
    "drive": null,
    "phone": "972542707965"
+  },
+  {
+   "id": "ACB710D71C0818D1FB5F59DE3216079B",
+   "sender": "אוראל דרורי",
+   "text": "תזכורת",
+   "ts": 1792303788000,
+   "date": "2026-10-18",
+   "time": "09:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "AC099FFC4498006712E439D0A3EBC78C",
+   "sender": "רותי גוטליב",
+   "text": "צוות יקר 🌷\n\nנבקש להקפיד שרק כיתות ה׳–ו׳ ייקחו את דפי החברותות.\n\nמורות כיתות ב׳–ג׳, אם לקחתן דפים, נא להחזירם בבקשה.\n\nתודה רבה על שיתוף הפעולה וההבנה! 🙏",
+   "ts": 1792303874000,
+   "date": "2026-10-18",
+   "time": "09:11",
+   "files": [],
+   "drive": null,
+   "phone": "972547709164"
+  },
+  {
+   "id": "3AA4C0A8CBB3431299FF",
+   "sender": "כרמית",
+   "text": "https://docs.google.com/document/d/1EVY8BL-K6tIPF7Qx4NhgQzdED9WYYOFU/edit?usp=sharing&ouid=105713872978645344089&rtpof=true&sd=true",
+   "ts": 1792308510000,
+   "date": "2026-10-18",
+   "time": "10:28",
+   "files": [],
+   "drive": null,
+   "phone": "972522971571"
+  },
+  {
+   "id": "AC133B41A71C8E1D4E3D87087157BDD2",
+   "sender": "צביה",
+   "text": "",
+   "ts": 1792311838000,
+   "date": "2026-10-18",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "242KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s-N_i18XhxLAokeH7ZP6wp4xrpgfOgFd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s-N_i18XhxLAokeH7ZP6wp4xrpgfOgFd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524592247"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-16T05:18:33.400Z",
+ "updated": "2026-10-18T08:54:31.976Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -1550,6 +1550,77 @@
    ],
    "drive": null,
    "phone": "972548409445"
+  },
+  {
+   "id": "ACF6677453292078AE17B226C2AAB2D7",
+   "sender": "e. forman",
+   "text": "בוקר טוב,\nעדיין רלוונטי \n50 % משרה.",
+   "ts": 1792308240000,
+   "date": "2026-10-18",
+   "time": "10:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XJUmsq0rtW1uxI6dn7AaX39MZFKEJ8s3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XJUmsq0rtW1uxI6dn7AaX39MZFKEJ8s3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535323413"
+  },
+  {
+   "id": "3A1E74689542C18889F7",
+   "sender": "רחל שמוקלר",
+   "text": "",
+   "ts": 1792308399000,
+   "date": "2026-10-18",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lB-AWaLTvCAFj62VA_4r71JK-Tz5rBZu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lB-AWaLTvCAFj62VA_4r71JK-Tz5rBZu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507689251"
+  },
+  {
+   "id": "3AB7E0C2559D3EC03285",
+   "sender": "רחל שמוקלר",
+   "text": "לגבעת שמואל \nפרטי התקשרות למעוניינים \nמיכל דה פורטו \n052-8100430",
+   "ts": 1792308400000,
+   "date": "2026-10-18",
+   "time": "10:26",
+   "files": [],
+   "drive": null,
+   "phone": "972507689251"
+  },
+  {
+   "id": "A53BA4610753C16DC36CAAE20A9F923A",
+   "sender": "ליהי גיוס צהרונים תאגיד לביא",
+   "text": "https://wa.me/972547875096?text=אשמח+לפרטים+",
+   "ts": 1792313649000,
+   "date": "2026-10-18",
+   "time": "11:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15-1GnxEId2b1NpK_udyztrj8sdtuFr4U/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15-1GnxEId2b1NpK_udyztrj8sdtuFr4U&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547875096"
   }
  ]
 }

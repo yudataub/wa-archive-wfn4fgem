@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-10-17T17:18:42.947Z",
+ "updated": "2026-10-18T07:35:53.665Z",
  "messages": [
   {
    "id": "AC34DE71F366C80F527736DB79A9EAA5",
@@ -1096,6 +1096,46 @@
      "path": "https://drive.google.com/file/d/1MKdVsLm0WiCqxuzne74uvJhXqNRUWBxL/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1MKdVsLm0WiCqxuzne74uvJhXqNRUWBxL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACB438D0A1A4728F1517DF55B39E386C",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792304316000,
+   "date": "2026-10-18",
+   "time": "09:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZH1sZZqlgT5rCuSlVm4V-7oXWULjyqMi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZH1sZZqlgT5rCuSlVm4V-7oXWULjyqMi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC6C3070CA205C4B36ABD0C435DA7AAC",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1792308932000,
+   "date": "2026-10-18",
+   "time": "10:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DqPyyigRwcbH1tA9UIrnGKR6qjHmbuEM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DqPyyigRwcbH1tA9UIrnGKR6qjHmbuEM&sz=w1200"
     }
    ],
    "drive": null,

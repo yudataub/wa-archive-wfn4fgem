@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משוחררי קרית אתא",
- "updated": "2026-10-15T12:53:51.401Z",
+ "updated": "2026-10-18T08:20:01.436Z",
  "messages": [
   {
    "id": "AC8F9B623A83B9BA7F2D652E78DCBB7D",
@@ -201,6 +201,26 @@
      "path": "https://drive.google.com/file/d/1v9o2YFCYptBBRb8ImoW73K0jgNWNbUbV/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1v9o2YFCYptBBRb8ImoW73K0jgNWNbUbV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "3EB0F5681D1F1BFA8474DA",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*השאירו פרטים בקישור ונציג יצור אתכם קשר:*\nhttps://forms.gle/XvmJL48v8ws39p6P7",
+   "ts": 1792311568000,
+   "date": "2026-10-18",
+   "time": "11:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lDOLWcB74ElStMQS9j0POEP8sjay2ZHz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lDOLWcB74ElStMQS9j0POEP8sjay2ZHz&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-18T03:32:25.131Z",
+ "updated": "2026-10-18T08:04:54.151Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -5414,6 +5414,90 @@
    ],
    "drive": null,
    "phone": "972546806138"
+  },
+  {
+   "id": "AC3249E18EBAC0904663D7C1DD65CC26",
+   "sender": "שירה",
+   "text": "תודה על הרעיון!!!",
+   "ts": 1792306538000,
+   "date": "2026-10-18",
+   "time": "09:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1apjQxNcCQUDnM6hfogMxzkxKPpn5aGmX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1apjQxNcCQUDnM6hfogMxzkxKPpn5aGmX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528902623"
+  },
+  {
+   "id": "AC80543AF92B1DC51197398827E31E45",
+   "sender": "רחל קפלן",
+   "text": "מישהו הצליח להיכנס לקישור של תפילת רבים של החמד?\nכתוב סירטון לא זמין...",
+   "ts": 1792309007000,
+   "date": "2026-10-18",
+   "time": "10:36",
+   "files": [],
+   "drive": null,
+   "phone": "972549058280"
+  },
+  {
+   "id": "AC678AF8A05D4DFF37B92967E3FEDD88",
+   "sender": "Zemira Asraf",
+   "text": "קישור מעודכן ישירות לסרט בשידור חי של תפילת הרבים \nhttps://youtube.com/live/3k7V86RzI9I?feature=share\nנא להפיץ לכל המנהלים ישירות עכשיו",
+   "ts": 1792309063000,
+   "date": "2026-10-18",
+   "time": "10:37",
+   "files": [],
+   "drive": null,
+   "phone": "972505226711"
+  },
+  {
+   "id": "ACE3DAB0E4CD06AF0199EFB44C1E4C52",
+   "sender": "Zohara",
+   "text": "עובד",
+   "ts": 1792309068000,
+   "date": "2026-10-18",
+   "time": "10:37",
+   "files": [],
+   "drive": null,
+   "phone": "972527186804"
+  },
+  {
+   "id": "AC7958CEE8486DB21EC4DC64FB0E9D8C",
+   "sender": "Zohara",
+   "text": "https://www.yedidhemed.co.il/tfilat_rabim/",
+   "ts": 1792309072000,
+   "date": "2026-10-18",
+   "time": "10:37",
+   "files": [],
+   "drive": null,
+   "phone": "972527186804"
+  },
+  {
+   "id": "AC1C80D7F175E627F1A25E3B93377979",
+   "sender": "חוי",
+   "text": "",
+   "ts": 1792310688000,
+   "date": "2026-10-18",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "13KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1BabuUkzgLwjlug22yiRarvMkxvlo4Srg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BabuUkzgLwjlug22yiRarvMkxvlo4Srg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505447835"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-10-18T04:25:55.935Z",
+ "updated": "2026-10-18T08:53:31.982Z",
  "messages": [
   {
    "id": "ACAA37DC60E64C63863EDF33581F1386",
@@ -2481,6 +2481,67 @@
    "files": [],
    "drive": null,
    "phone": "972525951981"
+  },
+  {
+   "id": "AC0407A4DAF6F6A694697EECF67F3D5A",
+   "sender": "yuvalvadee",
+   "text": "",
+   "ts": 1792306207000,
+   "date": "2026-10-18",
+   "time": "09:50",
+   "files": [
+    {
+     "name": "emv0qzcf_261018_094927.pdf",
+     "size": "462KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1kZQDW2m1bj2pOcJMJggNq7XQ0bOl_oBW/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546702322"
+  },
+  {
+   "id": "ACC482A39AAF86E53E869FAC131054D3",
+   "sender": "נאור בן זכאי🙂",
+   "text": "יש למישהו את המערכת שעות של השיעורים?\nזה לא עובד לי במכלול",
+   "ts": 1792306777000,
+   "date": "2026-10-18",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "phone": "972533061891"
+  },
+  {
+   "id": "ACF0C79FC8922270A0C92BFDE7FD8751",
+   "sender": "יהב רחמים",
+   "text": "היי אשמח אם אפשר בבקשה לבקש מאלחנן אבטה. לעלות הקלטה או את החומר של הקורס. אקלים כיתה ולמידה חברתית רגשית, בחינוך המיוחד.🙏😇",
+   "ts": 1792307563000,
+   "date": "2026-10-18",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972544773764"
+  },
+  {
+   "id": "AC870EBDDC07D8835018EC1FB27F974D",
+   "sender": "נאור בן זכאי🙂",
+   "text": "נמצא באחת הכיתות, המאבד מוזמן ליצור קשר",
+   "ts": 1792313604000,
+   "date": "2026-10-18",
+   "time": "11:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "68KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LhAiDZ-4oD66YIQQeElQQmqKOpWKPSdI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LhAiDZ-4oD66YIQQeElQQmqKOpWKPSdI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533061891"
   }
  ]
 }

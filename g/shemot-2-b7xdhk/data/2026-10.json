@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-18T03:38:55.258Z",
+ "updated": "2026-10-18T07:42:23.749Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -1321,6 +1321,48 @@
    "files": [],
    "drive": null,
    "phone": "972542610001"
+  },
+  {
+   "id": "AC1A1888A59D998794B61A0E6546CE5B",
+   "sender": "אילנית🌴",
+   "text": "בוקר טוב\nחורף מבורך\nלמי יש קישור או קובץ של המשימה הזאת?",
+   "ts": 1792307874000,
+   "date": "2026-10-18",
+   "time": "10:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yHqJoRSlcEfTxwDhAE3aBu7U2YjwixTX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yHqJoRSlcEfTxwDhAE3aBu7U2YjwixTX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586806040"
+  },
+  {
+   "id": "AC823B75B4F6BD9D0128F8387FC0389A",
+   "sender": "רחלי עבאד",
+   "text": "https://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/teaching-materials/shmot/\nכאן בסוף פרשת שמות משימת הערכה חילופית",
+   "ts": 1792308124000,
+   "date": "2026-10-18",
+   "time": "10:22",
+   "files": [],
+   "drive": null,
+   "phone": "972584428770"
+  },
+  {
+   "id": "AC2244B29B748CDD3AB4F311ADF5EF83",
+   "sender": "אילנית🌴",
+   "text": "תודה רבה 👑",
+   "ts": 1792309317000,
+   "date": "2026-10-18",
+   "time": "10:41",
+   "files": [],
+   "drive": null,
+   "phone": "972586806040"
   }
  ]
 }

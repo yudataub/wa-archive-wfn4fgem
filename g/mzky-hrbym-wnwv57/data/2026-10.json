@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-18T05:26:17.501Z",
+ "updated": "2026-10-18T08:56:32.020Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -5662,6 +5662,92 @@
    "files": [],
    "drive": null,
    "phone": "972526446736"
+  },
+  {
+   "id": "AC68F9F6CE19771D02956A0A82039CC7",
+   "sender": "שלומי",
+   "text": "*אין שום צורך בפתק הזה בכדי לבחור.*\n\nמי שלא בטוח איפה הקלפי שלו היכנסו לקישור: https://www.gov.il/apps/moin/bocharim/",
+   "ts": 1792302755000,
+   "date": "2026-10-18",
+   "time": "08:52",
+   "files": [],
+   "drive": null,
+   "phone": "972524666606"
+  },
+  {
+   "id": "AC230D89CFD2CC7EEDCB508EB2E275B3",
+   "sender": "עוז ברזילי",
+   "text": "https://www.youtube.com/watch?v=78_TH0emBcc\nמישהו יכול לשלוח לי כקובץ אני נטול מחשב כרגע.\nתודה",
+   "ts": 1792307986000,
+   "date": "2026-10-18",
+   "time": "10:19",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "2A8C40959BB9AE5CB6EA",
+   "sender": "מאור",
+   "text": "",
+   "ts": 1792308347000,
+   "date": "2026-10-18",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "98.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1XOsHiInWhsZJVDlo3vYK0iuBxg2nZd9x/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XOsHiInWhsZJVDlo3vYK0iuBxg2nZd9x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509499965"
+  },
+  {
+   "id": "AC5ABF8BAB1AC4DBBEC4E1CF5E873F3A",
+   "sender": "עוז ברזילי",
+   "text": "תודה מאור היקר",
+   "ts": 1792308425000,
+   "date": "2026-10-18",
+   "time": "10:27",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "3EB03E04CD9C58B15404D7",
+   "sender": "שמואל זר",
+   "text": "איש קשר לרב דלויה?",
+   "ts": 1792308957000,
+   "date": "2026-10-18",
+   "time": "10:35",
+   "files": [],
+   "drive": null,
+   "phone": "972509091515"
+  },
+  {
+   "id": "A50B130B1FBB703B1CA27E63A23A955D",
+   "sender": "שמואל קורייב",
+   "text": "@74861430997111 הגדול!\nהאיש מאחורי המפעל של הרב דאלויה כבר 5 שנים😁",
+   "ts": 1792313191000,
+   "date": "2026-10-18",
+   "time": "11:46",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "2AF299080B72471A8956",
+   "sender": "להתענג באהבתך",
+   "text": "מי שיכול להקדיש את הלימוד העשייה לרפואת הבן של חבר טוב שעשה תאונה קשה עם אופניים ובמצב לא פשוט *נהוראי בן מירה* לרפואה שלמה במהרה בתוך שאר כל חולי עמו ישראל בעזרת ה׳ ממש תודה רבה לכולם. אני יודע שזה לא לפה אבל זה קריטי ממש",
+   "ts": 1792313769000,
+   "date": "2026-10-18",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972524799147"
   }
  ]
 }
