@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-18T09:31:39.524Z",
+ "updated": "2026-10-18T10:41:17.432Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -5363,6 +5363,26 @@
    ],
    "drive": null,
    "phone": "972547575312"
+  },
+  {
+   "id": "2AF15A64AE36A1D9B7E5",
+   "sender": "אמור בן אבגי",
+   "text": "",
+   "ts": 1792320061000,
+   "date": "2026-10-18",
+   "time": "13:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wgWITXjGAaO6VUevhEDvfDwXvm_eOKYm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wgWITXjGAaO6VUevhEDvfDwXvm_eOKYm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538307001"
   }
  ]
 }

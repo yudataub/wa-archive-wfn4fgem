@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-15T15:58:23.055Z",
+ "updated": "2026-10-18T11:58:29.951Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1323,6 +1323,66 @@
    ],
    "drive": null,
    "phone": "972522828512"
+  },
+  {
+   "id": "AC49BD0CA96820074F81715C31B73937",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1792324686000,
+   "date": "2026-10-18",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1T2KDK-sL2fhoSXNe_YxPNLtz-EY1kkWY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1T2KDK-sL2fhoSXNe_YxPNLtz-EY1kkWY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
+  },
+  {
+   "id": "AC830547A757F07543CFA9BBF4535A81",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1792324686000,
+   "date": "2026-10-18",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AJRJTf_kTL44Waxsgtk93-L5alUSPoU4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AJRJTf_kTL44Waxsgtk93-L5alUSPoU4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
+  },
+  {
+   "id": "ACBE58ED2C2D742826EFEC9A5FEA18A0",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1792324686000,
+   "date": "2026-10-18",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1thgt4J9Rd0XnPbmRSus9avaYkcfOGm7p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1thgt4J9Rd0XnPbmRSus9avaYkcfOGm7p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
   }
  ]
 }

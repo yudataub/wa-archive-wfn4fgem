@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ו בנים מורים😍",
- "updated": "2026-10-16T10:51:37.286Z",
+ "updated": "2026-10-18T13:09:08.157Z",
  "messages": [
   {
    "id": "AC6D5503A9568FFE88A43C034EDC232F",
@@ -225,6 +225,47 @@
    "date": "2026-10-16",
    "time": "13:51",
    "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC20677D0C30E84FEB7034A1BB246BAF",
+   "sender": "מלכה טרבלסי",
+   "text": "היי",
+   "ts": 1792328887000,
+   "date": "2026-10-18",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACD6E5C92F6C89488FAA649009558DD3",
+   "sender": "מלכה טרבלסי",
+   "text": "מחר יש ישיבות תחי על\n\nאביעד דיין\nמנחם אליאב",
+   "ts": 1792328905000,
+   "date": "2026-10-18",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACEF37F5E6420DDDE9D21704D955043F",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792328917000,
+   "date": "2026-10-18",
+   "time": "16:08",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "22KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1DnCBJV6z9Rsot9rFR0LsFPXKnihEmolt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972528686062"
   }

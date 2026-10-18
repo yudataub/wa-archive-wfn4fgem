@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-10-18T09:35:09.581Z",
+ "updated": "2026-10-18T12:05:30.050Z",
  "messages": [
   {
    "id": "3EB08495118DDDDE05DEB2",
@@ -4009,6 +4009,26 @@
      "path": "https://drive.google.com/file/d/1k8urnI-QXP5Z39olP3U-CpuCuFwOr-9v/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1k8urnI-QXP5Z39olP3U-CpuCuFwOr-9v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB04B314CAD6FC30980AA",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "שלום.  לא היה צפוי.   בידיעות אחרונות",
+   "ts": 1792325099000,
+   "date": "2026-10-18",
+   "time": "15:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MOCcSQ5BbI3RfiwhF1rsMaTszOTJ4-tu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MOCcSQ5BbI3RfiwhF1rsMaTszOTJ4-tu&sz=w1200"
     }
    ],
    "drive": null,

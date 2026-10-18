@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-10-18T06:53:08.703Z",
+ "updated": "2026-10-18T11:09:51.780Z",
  "messages": [
   {
    "id": "ACBEEDA6FCF446C89A1E5520D83FF4F2",
@@ -1691,6 +1691,26 @@
    ],
    "drive": null,
    "phone": "972525962026"
+  },
+  {
+   "id": "AC16BFE3FCDAC8AB3C8CB7E7BCF1C75D",
+   "sender": "אריאל",
+   "text": "ממשיכים לעזור ולשמח עוד ועוד משפחות \n\n*בגדי מעבר וחורף חדשים על המדפים*\n\n*משחקים וצעצועים*\n*עגלות וטילונים,עריסות לולים ועוד ועוד*\n\nימי ראשון בין 16:00-18:00\nשני בוקר בין 10:00-12:00\nרביעי בין 19:00-21:00\nקרית אתא נוף הכרמל 13 \n\nלמידע בשאר הסניפים אפשר לשלוח הודעה 0525302839\n\nארגון רועי לא יחסר",
+   "ts": 1792321779000,
+   "date": "2026-10-18",
+   "time": "14:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KzpUqrwhKOr1jKHT8wuEzBLEmoPWlCpf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KzpUqrwhKOr1jKHT8wuEzBLEmoPWlCpf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אמהות בצפון🥰",
- "updated": "2026-10-17T16:17:11.844Z",
+ "updated": "2026-10-18T11:11:21.798Z",
  "messages": [
   {
    "id": "A527B5F23BDE100A5DB42274C4BE4E60",
@@ -90,6 +90,26 @@
      "path": "https://drive.google.com/file/d/1KwiIRnL5PKB_cGCGx4-7W0mk29PAim4b/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1KwiIRnL5PKB_cGCGx4-7W0mk29PAim4b&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5F8D5D8CE0C6EBCE56F1A83BBB07B21",
+   "sender": "תמי",
+   "text": "היום קריית אתא",
+   "ts": 1792321873000,
+   "date": "2026-10-18",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "398KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eznAeR9qNZOu4d8g7_-ptH3zr7wcewQL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eznAeR9qNZOu4d8g7_-ptH3zr7wcewQL&sz=w1200"
     }
    ],
    "drive": null,

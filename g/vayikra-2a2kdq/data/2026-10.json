@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-18T08:04:54.151Z",
+ "updated": "2026-10-18T09:52:09.873Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -5498,6 +5498,47 @@
    ],
    "drive": null,
    "phone": "972505447835"
+  },
+  {
+   "id": "AC6E2324E877F4CC89984C6854252B92",
+   "sender": "הדר",
+   "text": "יש למישהו מצגת על קורבן חטאת עולה ויורד פרק ה'",
+   "ts": 1792316994000,
+   "date": "2026-10-18",
+   "time": "12:49",
+   "files": [],
+   "drive": null,
+   "phone": "972522218028"
+  },
+  {
+   "id": "ACE1C408ACEAC2F902D9FBB3D173977E",
+   "sender": "הדר",
+   "text": "אשמח למצגות נוספות לפרקים הבאים",
+   "ts": 1792317102000,
+   "date": "2026-10-18",
+   "time": "12:51",
+   "files": [],
+   "drive": null,
+   "phone": "972522218028"
+  },
+  {
+   "id": "ACC434D79AA554ADCF0AC264E8456ADD",
+   "sender": "הדר",
+   "text": "",
+   "ts": 1792317103000,
+   "date": "2026-10-18",
+   "time": "12:51",
+   "files": [
+    {
+     "name": "שופטים פרק ה- שירת דבורה (1).pptx",
+     "size": "6.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1jV4o-3UGcSJDyH-4OyRxjG7oZMl3IjJJ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522218028"
   }
  ]
 }

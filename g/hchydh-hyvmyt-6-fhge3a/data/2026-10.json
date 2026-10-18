@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "החידה היומית 6️⃣",
- "updated": "2026-10-18T08:32:53.966Z",
+ "updated": "2026-10-18T12:41:53.219Z",
  "messages": [
   {
    "id": "3EB0B3E2508A48B76E72A4",
@@ -873,6 +873,26 @@
    "date": "2026-10-18",
    "time": "11:32",
    "files": [],
+   "drive": null,
+   "phone": "972503355735"
+  },
+  {
+   "id": "3EB043B640B57D55AF095E",
+   "sender": "חובב יחיאלי💡 אפשר לחשוב",
+   "text": "🔍רמז: המדינה שמוזכרת מככבת בחדשות...  \n*מהו המושג הרמוז בחידה? 🤔*\n\nלבדיקת התשובה שלכם\nhttps://forms.gle/KJM5viL4zYMHsgEB7\n\n🫱🏼‍🫲🏻 עדיין לא הצטרפתם להדסטארט שלנו?\n🔻🔻🔻🔻\nhttps://roo.ws/vcjrgzVC\n\n*בואו לקחת חלק 🧩 יחד נחבר את ישראל!*",
+   "ts": 1792327281000,
+   "date": "2026-10-18",
+   "time": "15:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "610KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10MRmW2uuV786UAVPrJXOmW1oVGWK-Sp9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10MRmW2uuV786UAVPrJXOmW1oVGWK-Sp9&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972503355735"
   }

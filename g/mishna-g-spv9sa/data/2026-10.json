@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-18T08:35:31.657Z",
+ "updated": "2026-10-18T11:55:29.894Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -499,6 +499,39 @@
    "files": [],
    "drive": null,
    "phone": "972504180543"
+  },
+  {
+   "id": "ACDE21AA69A85EDCDB171B0915872F73",
+   "sender": "Meira Cohen",
+   "text": "אפשר לשלוח לי בבקשה קישור לקבוצה של כיתה ד ? \nתודה 🙏🏻",
+   "ts": 1792323453000,
+   "date": "2026-10-18",
+   "time": "14:37",
+   "files": [],
+   "drive": null,
+   "phone": "972527470445"
+  },
+  {
+   "id": "ACCF6E073294BB536F5014FD82FA09D9",
+   "sender": "אתי",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1792324269000,
+   "date": "2026-10-18",
+   "time": "14:51",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC8C89525CF675CB0BE032FA12ABC727",
+   "sender": "אתי",
+   "text": "יש קבוצה לשיעור נביא כיתה ו'?",
+   "ts": 1792324528000,
+   "date": "2026-10-18",
+   "time": "14:55",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }

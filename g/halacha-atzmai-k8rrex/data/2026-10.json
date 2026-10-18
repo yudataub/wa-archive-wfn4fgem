@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-18T06:52:08.670Z",
+ "updated": "2026-10-18T13:06:38.126Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2193,6 +2193,26 @@
    ],
    "drive": null,
    "phone": "972548014479"
+  },
+  {
+   "id": "AC554F7D9401598641E6BB4A66A7CE1F",
+   "sender": "הכל לטובה",
+   "text": "לימוד בחברותות על שאילת גשמים. מרים(גודאי) ברהנו",
+   "ts": 1792328792000,
+   "date": "2026-10-18",
+   "time": "16:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1we8VwxNP5jclWYEKGRzmCcjsQkcy5oDD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1we8VwxNP5jclWYEKGRzmCcjsQkcy5oDD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526789719"
   }
  ]
 }
