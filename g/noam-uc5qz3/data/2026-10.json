@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משפחת נעם",
- "updated": "2026-10-19T17:38:08.090Z",
+ "updated": "2026-10-19T18:42:22.760Z",
  "messages": [
   {
    "id": "AC0F18D95616CCB841F3BAAAA7BA0008",
@@ -3532,6 +3532,96 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "ACF641C695BF8E797E405FAE8FA6087D",
+   "sender": "הילה שמר",
+   "text": "ניתן לשלוח הודעה זו להורים",
+   "ts": 1792431534000,
+   "date": "2026-10-19",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "phone": "972534596413"
+  },
+  {
+   "id": "ACCA127163764C39FBD024400D2DDE82",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1792431593000,
+   "date": "2026-10-19",
+   "time": "20:39",
+   "files": [
+    {
+     "name": "יום ג.docx",
+     "size": "12KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC3A15C1B3D1D1A1CD7AC1ACEF29385F",
+   "sender": "אורלי אוחנה",
+   "text": "☝️שימו❤️ לשינוי מערכת בשעות 3-4 .",
+   "ts": 1792431614000,
+   "date": "2026-10-19",
+   "time": "20:40",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0CB26FA07045D6661E2",
+   "sender": "מלכה טרבלסי",
+   "text": "מחנכות יקרות..אני שולחת לאחר שינוי קטן... תודה רבה",
+   "ts": 1792435299000,
+   "date": "2026-10-19",
+   "time": "21:41",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB07E575775B31DF5F2D2",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792435313000,
+   "date": "2026-10-19",
+   "time": "21:41",
+   "files": [
+    {
+     "name": "מגמות בנות.docx",
+     "size": "1.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "3EB0EB4A887ABAE1151CCA",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1792435320000,
+   "date": "2026-10-19",
+   "time": "21:42",
+   "files": [
+    {
+     "name": "מגמות בנים.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
   }
  ]
 }

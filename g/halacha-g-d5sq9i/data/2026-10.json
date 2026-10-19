@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ג'",
- "updated": "2026-10-19T16:40:39.077Z",
+ "updated": "2026-10-19T20:07:11.587Z",
  "messages": [
   {
    "id": "ACEB4C097F897A12E7774B46815E09C7",
@@ -911,6 +911,17 @@
    "files": [],
    "drive": null,
    "phone": "972542232206"
+  },
+  {
+   "id": "ACF5F38D20060C9F8594306C5A917870",
+   "sender": "זהבה",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1792440414000,
+   "date": "2026-10-19",
+   "time": "23:06",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
   }
  ]
 }

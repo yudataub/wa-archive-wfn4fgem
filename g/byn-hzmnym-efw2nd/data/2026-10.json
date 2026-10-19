@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-19T13:57:08.173Z",
+ "updated": "2026-10-19T19:26:34.033Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -2186,6 +2186,205 @@
    "files": [],
    "drive": null,
    "phone": "972506243589"
+  },
+  {
+   "id": "ACDD165659A53FDCC4D3278DFC42DE7D",
+   "sender": "צורית דמתי",
+   "text": "מחפשת דירה ברובע לשבת הקרובה ל5 נפשות",
+   "ts": 1792435845000,
+   "date": "2026-10-19",
+   "time": "21:50",
+   "files": [],
+   "drive": null,
+   "phone": "972545583552"
+  },
+  {
+   "id": "A5FE4B5A0CB585DED88BE403565306A7",
+   "sender": "צימר הראל",
+   "text": "",
+   "ts": 1792435898000,
+   "date": "2026-10-19",
+   "time": "21:51",
+   "files": [],
+   "drive": null,
+   "phone": "972507225762"
+  },
+  {
+   "id": "A5A407269ABF0CBF8C6D5C43719141F3",
+   "sender": "צימר הראל",
+   "text": "",
+   "ts": 1792435910000,
+   "date": "2026-10-19",
+   "time": "21:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972507225762"
+  },
+  {
+   "id": "ACB9A5180B8DEE142201C323C8B38076",
+   "sender": "נטע בנימין",
+   "text": "",
+   "ts": 1792435963000,
+   "date": "2026-10-19",
+   "time": "21:52",
+   "files": [],
+   "drive": null,
+   "phone": "972549151493"
+  },
+  {
+   "id": "AC617A87340B05CC14339B67051FE51D",
+   "sender": "נטע בנימין",
+   "text": "יותר בכיוון של אילת",
+   "ts": 1792435965000,
+   "date": "2026-10-19",
+   "time": "21:52",
+   "files": [],
+   "drive": null,
+   "phone": "972549151493"
+  },
+  {
+   "id": "AC73990B9F30D26E6CA95732AB5C7708",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1792437981000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "367KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC4B8AA1C261801883BEDF514B5863EE",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1792437986000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "ACCFBFA22C61F354B3046643324FD937",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1792437986000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "318KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "ACC6688EB0B08FC12D8616E5E03EEB7E",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1792437987000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "33KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC0F2CC97BF12EFEB48F4567D8A7A296",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1792437988000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "293KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC6F8C401F3B340B6164D645723A302A",
+   "sender": "nuritkfir23",
+   "text": "חצר כללית",
+   "ts": 1792437988000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "356KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "ACFF59C88330D69A75AB7F8E9AD3733C",
+   "sender": "nuritkfir23",
+   "text": "מומלץ בחום רב ❤️",
+   "ts": 1792437989000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "ACE83FE0CC2593E6C00B1347E6CBD2FD",
+   "sender": "nuritkfir23",
+   "text": "📇 צימר בשלומי צופיה לביא\n+972547611166",
+   "ts": 1792437990000,
+   "date": "2026-10-19",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972502520968"
   }
  ]
 }

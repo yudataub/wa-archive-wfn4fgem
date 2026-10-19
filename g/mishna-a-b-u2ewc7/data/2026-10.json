@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-10-15T19:03:16.873Z",
+ "updated": "2026-10-19T17:44:46.921Z",
  "messages": [
   {
    "id": "AC0E2F39203F3D5A2320D22DC7E99B26",
@@ -228,6 +228,47 @@
    "files": [],
    "drive": null,
    "phone": "972586100265"
+  },
+  {
+   "id": "ACA9509CA11925AC8C29A12B884BF6AC",
+   "sender": "sapiras💕",
+   "text": "יש למישהו דף כריכה למחברת משנה לכיתה ב?",
+   "ts": 1792431675000,
+   "date": "2026-10-19",
+   "time": "20:41",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "AC8587E7EE51B335C7DC49C4182CFDD8",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1792431717000,
+   "date": "2026-10-19",
+   "time": "20:41",
+   "files": [
+    {
+     "name": "עטיפות למחברות.pdf",
+     "size": "60KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC2210CD6D1DE7961AE496104541CB5A",
+   "sender": "sapiras💕",
+   "text": "תודה🙏🏽",
+   "ts": 1792431872000,
+   "date": "2026-10-19",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
   }
  ]
 }
