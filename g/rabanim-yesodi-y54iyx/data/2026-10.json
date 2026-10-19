@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-18T20:04:53.945Z",
+ "updated": "2026-10-18T22:00:42.994Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -6732,6 +6732,36 @@
    "files": [],
    "drive": null,
    "phone": "972508614158"
+  },
+  {
+   "id": "A5F94F7ADEDEBE6771EBC70796F12E85",
+   "sender": "אביצור מרדכי",
+   "text": "",
+   "ts": 1792359927000,
+   "date": "2026-10-19",
+   "time": "00:45",
+   "files": [
+    {
+     "name": "הודעה קולית.bin",
+     "size": "1.5MB",
+     "type": "audio/mp4",
+     "path": "https://drive.google.com/file/d/1BM1lcwZHdD1JJ2bBcWgiXRnnJQJUrkvJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535272728"
+  },
+  {
+   "id": "AC3C1493B95F5640E22C1BE5BE05993B",
+   "sender": "עמירם אלבה",
+   "text": "בהחלט, מתוך תרגום. גם רוב ספר דניאל",
+   "ts": 1792360820000,
+   "date": "2026-10-19",
+   "time": "01:00",
+   "files": [],
+   "drive": null,
+   "phone": "972545236548"
   }
  ]
 }
