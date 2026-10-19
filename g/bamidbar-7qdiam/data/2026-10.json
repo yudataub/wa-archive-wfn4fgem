@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-18T13:48:16.199Z",
+ "updated": "2026-10-19T07:55:39.108Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -3259,6 +3259,232 @@
    "files": [],
    "drive": null,
    "phone": "972526452568"
+  },
+  {
+   "id": "ACB0AD884C01C230318D82679720E2D9",
+   "sender": "רינת אליאסי",
+   "text": "איך אפשר להכניס חברה לקבוצה?",
+   "ts": 1792392770000,
+   "date": "2026-10-19",
+   "time": "09:52",
+   "files": [],
+   "drive": null,
+   "phone": "972526857895"
+  },
+  {
+   "id": "AC47A34C52B7B4C05D701F7CD2E24BA6",
+   "sender": "פלורי",
+   "text": "בוקר טוב. אפשר לקבל בבקשה סיכום לפרקים  א-ב בשמואל א",
+   "ts": 1792392854000,
+   "date": "2026-10-19",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972523063547"
+  },
+  {
+   "id": "A5BC9AE13FD3B15839D80557CEFEC6EA",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1792394748000,
+   "date": "2026-10-19",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "פרשת שלח דפי עבודה מיכל ביטון.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5E7290517C8059258A4D302D2A12B75",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1792394750000,
+   "date": "2026-10-19",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "קרח דפי עבודה מיכל ביטון.pdf",
+     "size": "2.5MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5006706A9132D5FB4D712630D031749",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1792394751000,
+   "date": "2026-10-19",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "מבחן פרשת במדבר 2024.docx",
+     "size": "27KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A58C9F4F0122DADFFE037C998DFD74F0",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1792394752000,
+   "date": "2026-10-19",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "מבנה ספר במדבר הקדמה.pdf",
+     "size": "823KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A530B1487C9E1E45FCB645499FB69F5E",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1792394753000,
+   "date": "2026-10-19",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "בהעלותך מיכל ביטון 2024.pdf",
+     "size": "3.1MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A58B9BB3465B582900C26ED3C3BBDED8",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1792394753000,
+   "date": "2026-10-19",
+   "time": "10:25",
+   "files": [
+    {
+     "name": "מפת מסעי בני ישראל.pdf",
+     "size": "76.7MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A51F7A16C9DF83626EC478273675B34E",
+   "sender": "הוראה",
+   "text": "אשמח לעוד סגנונות של מבחנים לפרשת במדבר 🙏🏻",
+   "ts": 1792394985000,
+   "date": "2026-10-19",
+   "time": "10:29",
+   "files": [],
+   "drive": null,
+   "phone": "972557060015"
+  },
+  {
+   "id": "ACD9788BC027FF7B7A84B6952879FCA1",
+   "sender": "מושקי",
+   "text": "אני עשיתי מטלה מסכמת, אם זה יעזור לך:",
+   "ts": 1792395706000,
+   "date": "2026-10-19",
+   "time": "10:41",
+   "files": [],
+   "drive": null,
+   "phone": "972559954946"
+  },
+  {
+   "id": "AC392CE52F426DBE6AA527F0AFBCFDA5",
+   "sender": "מושקי",
+   "text": "",
+   "ts": 1792395862000,
+   "date": "2026-10-19",
+   "time": "10:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972559954946"
+  },
+  {
+   "id": "AC2FF464B894A9EE4C75DF2FF90C97A2",
+   "sender": "מושקי",
+   "text": "",
+   "ts": 1792395978000,
+   "date": "2026-10-19",
+   "time": "10:46",
+   "files": [
+    {
+     "name": "עיצוב ללא שם_20261018_173152_0000.pdf",
+     "size": "3.5MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972559954946"
+  },
+  {
+   "id": "ACC4E1D5ACE4B6C82628FED3340F9C9F",
+   "sender": "גילה",
+   "text": "אפשר לשלוח פה שוב  את הסימניות של חומש במדבר שנשלחו פה בעבר?",
+   "ts": 1792396471000,
+   "date": "2026-10-19",
+   "time": "10:54",
+   "files": [],
+   "drive": null,
+   "phone": "972524336471"
+  },
+  {
+   "id": "ACC8CCC03C283F0DDBDE057E8250CEAF",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1792396535000,
+   "date": "2026-10-19",
+   "time": "10:55",
+   "files": [
+    {
+     "name": "מבדק פרק א מספר 1 (3).docx",
+     "size": "17KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
   }
  ]
 }

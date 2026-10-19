@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-19T05:29:00.640Z",
+ "updated": "2026-10-19T07:06:02.103Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -2892,6 +2892,123 @@
    "files": [],
    "drive": null,
    "phone": "972508567448"
+  },
+  {
+   "id": "A5A5A058186AF9AC945B102B1B4814B6",
+   "sender": "Shelley Rivka",
+   "text": "יש לך באביטה מידע מדוייק ותמציתי",
+   "ts": 1792391143000,
+   "date": "2026-10-19",
+   "time": "09:25",
+   "files": [],
+   "drive": null,
+   "phone": "972555599707"
+  },
+  {
+   "id": "2A588232289FCD9F93F0",
+   "sender": "רבקה חנה צור עיצוב תלתלים לכלות",
+   "text": "יש למישהו תוכנית שנתית של שמואל ב׳ באתר זה לא נותן לי..",
+   "ts": 1792393102000,
+   "date": "2026-10-19",
+   "time": "09:58",
+   "files": [],
+   "drive": null,
+   "phone": "972544433956"
+  },
+  {
+   "id": "AC181A0DD6F2C4964FB02938DDF4DF80",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1792393515000,
+   "date": "2026-10-19",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "שמואל ב פרק ג פסוק כ- סוף.docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC9B6C01A40A9868676E01AC5D218AC5",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1792393516000,
+   "date": "2026-10-19",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "פרק גשמואל ב פסוקים א-כ.docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC601171E9EBCDF17144B0033C69A301",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1792393517000,
+   "date": "2026-10-19",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "פרק ד-ה (3).docx",
+     "size": "24KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACA8C59F6A05C11630ABF6FDB56AE52B",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1792393517000,
+   "date": "2026-10-19",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "פרק א (1).docx",
+     "size": "23KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC0C138A915B9303859D3547D2F2BDEA",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1792393555000,
+   "date": "2026-10-19",
+   "time": "10:05",
+   "files": [
+    {
+     "name": "פרק ב (3).docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-18T14:34:22.710Z",
+ "updated": "2026-10-19T05:42:30.868Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -772,6 +772,25 @@
      "path": "https://drive.google.com/file/d/1K7DsIkP9M3PuMeEqjRt8mfIrPQAkCyPI/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1K7DsIkP9M3PuMeEqjRt8mfIrPQAkCyPI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB08BF6E51F750FA234B3",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: מקומות בארץ\n\nבשיתוף עם גילוי דעת\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח כתבו: \"חידות\"",
+   "ts": 1792388520000,
+   "date": "2026-10-19",
+   "time": "08:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "312KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
     }
    ],
    "drive": null,

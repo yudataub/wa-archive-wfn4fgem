@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-18T14:47:53.875Z",
+ "updated": "2026-10-19T08:42:50.176Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2764,6 +2764,93 @@
    "files": [],
    "drive": null,
    "phone": "972506551785"
+  },
+  {
+   "id": "3EB002FBE4944080A0A365",
+   "sender": "shmu54",
+   "text": "הנה חומר לי\"א בחשון - על ייחסו המיוחד של חנן פורת ז\"ל לרחל אמנו וקברה. 2. לי\"ב בחשון - יום הזיכרון ליצחק רבין ז\"ל - על הקשר המיוחד ביניהם.  https://docs.google.com/presentation/d/1VKcY1bJoIk6HOzf3W_S0UEIbwphnnj6u/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true    https://docs.google.com/presentation/d/1V-EQrQ21fe5GFCQKh6SUIpjoGyh9decM/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true",
+   "ts": 1792397185000,
+   "date": "2026-10-19",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "חנן פורת - וקבר רחל.docx",
+     "size": "148KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB0A9A9395F77D7F1B73A",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1792397186000,
+   "date": "2026-10-19",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "חנן פורת - על דמותה של רחל אמנו.docx",
+     "size": "5.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB08208A5679DF270ED8F",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1792397187000,
+   "date": "2026-10-19",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "חנן פורת - 2 וקבר רחל.pptx",
+     "size": "44.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB0C212B010659B91CAA8",
+   "sender": "shmu54",
+   "text": "",
+   "ts": 1792397188000,
+   "date": "2026-10-19",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "חנן פורת - יצחק רבין.pptx",
+     "size": "19.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "AC62231051AADC11A50FBE88C32546E4",
+   "sender": "יזהר פינטוס",
+   "text": "יישר כח לר' שמואל כץ המזכה את הרבים!",
+   "ts": 1792399352000,
+   "date": "2026-10-19",
+   "time": "11:42",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
   }
  ]
 }
