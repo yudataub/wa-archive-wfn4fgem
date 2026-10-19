@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-19T11:19:11.788Z",
+ "updated": "2026-10-19T16:20:33.821Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -297,6 +297,25 @@
    ],
    "drive": null,
    "phone": "972537173783"
+  },
+  {
+   "id": "AC1502F93AF2B519FC4398A13EEA0368",
+   "sender": "אריאל מנצור מורה נהיגה",
+   "text": "",
+   "ts": 1792426821000,
+   "date": "2026-10-19",
+   "time": "19:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972542415060"
   }
  ]
 }

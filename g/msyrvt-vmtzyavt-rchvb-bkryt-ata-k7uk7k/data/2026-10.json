@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-18T15:59:34.480Z",
+ "updated": "2026-10-19T17:37:46.820Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1441,6 +1441,153 @@
      "path": "https://drive.google.com/file/d/1uxo7l7gy4Ll0uc6_52lAQVh7UKQ5ZSDQ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1uxo7l7gy4Ll0uc6_52lAQVh7UKQ5ZSDQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC692E499313752A56CEE3EE47B11418",
+   "sender": "עדי חסיד",
+   "text": "נמסרו הבגדים",
+   "ts": 1792429625000,
+   "date": "2026-10-19",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC0D988FDE85B1C66896B1DDA0BE1063",
+   "sender": "עדי חסיד",
+   "text": "קפוצונים מידה 6",
+   "ts": 1792429653000,
+   "date": "2026-10-19",
+   "time": "20:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC37E49F39EA212CDA916F9D57B33B1C",
+   "sender": "עדי חסיד",
+   "text": "קפוצ'ון מידה 4",
+   "ts": 1792429684000,
+   "date": "2026-10-19",
+   "time": "20:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "725KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC50E118FDCFBEF10A933B03534170B9",
+   "sender": "עדי חסיד",
+   "text": "שמור",
+   "ts": 1792430372000,
+   "date": "2026-10-19",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACB1E87ED40E691AFD4E704858D432F8",
+   "sender": "עדי חסיד",
+   "text": "פיג'מה נשים מידה L",
+   "ts": 1792430401000,
+   "date": "2026-10-19",
+   "time": "20:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "683KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACD5D1D33E82D655D15E71076D2BBE57",
+   "sender": "עדי חסיד",
+   "text": "חורף",
+   "ts": 1792430405000,
+   "date": "2026-10-19",
+   "time": "20:20",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACA9821FBF1F46114E7194FF814A2E10",
+   "sender": "עדי חסיד",
+   "text": "שמלות סריג חדשותתתת מידה 3 לנשים למסירה",
+   "ts": 1792430725000,
+   "date": "2026-10-19",
+   "time": "20:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "773KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC6F23FEB07ADFFD867989599D157B58",
+   "sender": "עדי חסיד",
+   "text": "חולצות קצרות מדיה 8",
+   "ts": 1792431439000,
+   "date": "2026-10-19",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "805KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACAACD993061CF48921B88CB7A3F3A2A",
+   "sender": "עדי חסיד",
+   "text": "מידה 6 קצר",
+   "ts": 1792431463000,
+   "date": "2026-10-19",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "727KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
     }
    ],
    "drive": null,
