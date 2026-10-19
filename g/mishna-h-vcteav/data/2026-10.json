@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-18T19:36:53.556Z",
+ "updated": "2026-10-19T10:48:41.319Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -1213,6 +1213,47 @@
    "files": [],
    "drive": null,
    "phone": "972526071122"
+  },
+  {
+   "id": "3A17ECF12660919B656E",
+   "sender": "מיקה",
+   "text": "אפשר לשלוח שוב?",
+   "ts": 1792406753000,
+   "date": "2026-10-19",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "phone": "972504433556"
+  },
+  {
+   "id": "AC93326500E77416E0233D6ADB8840CA",
+   "sender": "שרית בטשוילי",
+   "text": "",
+   "ts": 1792406788000,
+   "date": "2026-10-19",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "עטיפה משנה בנות כאמדט.docx",
+     "size": "194KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "3A055BAFC5923D1E00F8",
+   "sender": "מיקה",
+   "text": "תודה",
+   "ts": 1792406903000,
+   "date": "2026-10-19",
+   "time": "13:48",
+   "files": [],
+   "drive": null,
+   "phone": "972504433556"
   }
  ]
 }

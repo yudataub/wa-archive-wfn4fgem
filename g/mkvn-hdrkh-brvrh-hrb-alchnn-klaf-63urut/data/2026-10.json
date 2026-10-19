@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מכון הדרכה ברורה☆הרב אלחנן כלאף",
- "updated": "2026-10-12T17:59:11.389Z",
+ "updated": "2026-10-19T10:04:03.955Z",
  "messages": [
   {
    "id": "AC8AC0303EFF2BBAF5FDB3053ED88D95",
@@ -42,6 +42,25 @@
    "date": "2026-10-12",
    "time": "20:59",
    "files": [],
+   "drive": null,
+   "phone": "972527818887"
+  },
+  {
+   "id": "AC8D5E887BF7139AD83949BE251CD8EB",
+   "sender": "אלעד קהת",
+   "text": "",
+   "ts": 1792404227000,
+   "date": "2026-10-19",
+   "time": "13:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "66KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
    "drive": null,
    "phone": "972527818887"
   }

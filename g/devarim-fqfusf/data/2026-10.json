@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-19T07:06:02.103Z",
+ "updated": "2026-10-19T13:30:30.638Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -3009,6 +3009,94 @@
    ],
    "drive": null,
    "phone": "972523486547"
+  },
+  {
+   "id": "AC93A97128D8A01D1816E3FB62584D8E",
+   "sender": "חיה מושקא ברגר",
+   "text": "מבחן בתורה דברים?\nומבחן בנביא?",
+   "ts": 1792404454000,
+   "date": "2026-10-19",
+   "time": "13:07",
+   "files": [],
+   "drive": null,
+   "phone": "972549821778"
+  },
+  {
+   "id": "ACA84F839BE1FCF4CE8C6D1CE46141EC",
+   "sender": "טלי",
+   "text": "האם יש למישהו את המבחן של ראמה מהשנה שעברה?",
+   "ts": 1792411327000,
+   "date": "2026-10-19",
+   "time": "15:02",
+   "files": [],
+   "drive": null,
+   "phone": "972527476040"
+  },
+  {
+   "id": "AC07C92B36CB406355951F752E70C343",
+   "sender": "oritepsh",
+   "text": "צהריים טובים,\nמחפשת דף עבודה לשמואל א פרקים ו-ז.\nתודה רבה!",
+   "ts": 1792413602000,
+   "date": "2026-10-19",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "phone": "972523875515"
+  },
+  {
+   "id": "ACF8A6C00DCC654BB266A5654EBD75A5",
+   "sender": "MN",
+   "text": "אשמח לדעת האם נכון לעשות מבחן אמריקאי על פרשת דברים או שזה לא משקף באמת הידע",
+   "ts": 1792413749000,
+   "date": "2026-10-19",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "phone": "972532392078"
+  },
+  {
+   "id": "ACEB6F86C4517AB15AF69EDD7A38C6F8",
+   "sender": "נתן",
+   "text": "https://drive.google.com/drive/folders/1B7_NTNeckBLIxXFXxTxOZvPxFqML_hmy",
+   "ts": 1792413882000,
+   "date": "2026-10-19",
+   "time": "15:44",
+   "files": [],
+   "drive": null,
+   "phone": "972528308062"
+  },
+  {
+   "id": "ACE23B3F80DD7127D8E95938EAFE6D31",
+   "sender": "נתן",
+   "text": "https://drive.google.com/drive/folders/11vyCKneIjpbgPe5oBMt5l5tBhrXZGdUw",
+   "ts": 1792413888000,
+   "date": "2026-10-19",
+   "time": "15:44",
+   "files": [],
+   "drive": null,
+   "phone": "972528308062"
+  },
+  {
+   "id": "AC3B6365B8A7BDD7FE67A1D29EDE5E7C",
+   "sender": "oritepsh",
+   "text": "תודה\nמחפשת ךשמואל א",
+   "ts": 1792414123000,
+   "date": "2026-10-19",
+   "time": "15:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523875515"
+  },
+  {
+   "id": "AC8F041BAF84935A22D59ED80685A7CD",
+   "sender": "נתן",
+   "text": "https://drive.google.com/drive/folders/1IuHvagB5GXbhFtYHU_9L1m7DNnwM8Nbe",
+   "ts": 1792416613000,
+   "date": "2026-10-19",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528308062"
   }
  ]
 }
