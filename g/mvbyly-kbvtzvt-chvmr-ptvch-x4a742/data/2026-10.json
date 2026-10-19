@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קבוצות \"חומר פתוח\"",
- "updated": "2026-10-18T19:35:53.517Z",
+ "updated": "2026-10-19T04:00:23.671Z",
  "messages": [
   {
    "id": "3EB016B3306FC93D24BA6D",
@@ -408,6 +408,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1REtqnkS_yHzR5lOSdKSmN1wFHj7Z_Nsx&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5A411EBB3A65F7C1109CE0CD8149448",
+   "sender": "mary garby",
+   "text": "הבנת הנקרא... מפגש של חצי שעה🤣 אצטרף",
+   "ts": 1792382397000,
+   "date": "2026-10-19",
+   "time": "06:59",
+   "files": [],
    "drive": null,
    "phone": "972546887626"
   }

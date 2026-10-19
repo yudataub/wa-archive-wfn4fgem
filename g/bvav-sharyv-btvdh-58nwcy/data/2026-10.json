@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בואו שעריו בתודה🙏",
- "updated": "2026-10-17T16:33:42.186Z",
+ "updated": "2026-10-19T04:22:29.759Z",
  "messages": [
   {
    "id": "AC70F8C81D3F0366A975AF3B8737F0CF",
@@ -238,6 +238,25 @@
      "path": "https://drive.google.com/file/d/1aqEMFQJ2-a88wXd1A6b2snOJvUZxnS6R/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1aqEMFQJ2-a88wXd1A6b2snOJvUZxnS6R&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502241426"
+  },
+  {
+   "id": "AC5013F11893E04BCA62F90CE95C65DC",
+   "sender": ".",
+   "text": "",
+   "ts": 1792383737000,
+   "date": "2026-10-19",
+   "time": "07:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
     }
    ],
    "drive": null,

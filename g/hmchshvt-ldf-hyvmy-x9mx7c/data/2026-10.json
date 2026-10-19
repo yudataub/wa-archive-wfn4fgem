@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-18T04:07:18.202Z",
+ "updated": "2026-10-19T03:09:46.779Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -649,6 +649,25 @@
      "path": "https://drive.google.com/file/d/1LqkIzdh2cOCBGslNMBUx5veiNoiVCW1b/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1LqkIzdh2cOCBGslNMBUx5veiNoiVCW1b&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2F88E518511B2A1F3D",
+   "sender": ".",
+   "text": "״שובו בנים שובבים״ (בכורות לא, א).",
+   "ts": 1792379370000,
+   "date": "2026-10-19",
+   "time": "06:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
     }
    ],
    "drive": null,
