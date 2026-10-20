@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-20T18:29:55.638Z",
+ "updated": "2026-10-20T20:02:11.406Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -7712,9 +7712,10 @@
      "name": "וידאו.mp4",
      "size": "7.4MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACF22347B7517D6EEC95A8DE4008719D_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/ACF22347B7517D6EEC95A8DE4008719D_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACF22347B7517D6EEC95A8DE4008719D_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-10/ACF22347B7517D6EEC95A8DE4008719D_0.mp4"
     }
    ],
    "drive": null,
@@ -7857,9 +7858,10 @@
      "name": "דף מקורות אהבת ישראל ערוך.docx",
      "size": "98KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB09ED954DC2A68BF533E_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/f/2026-10/3EB09ED954DC2A68BF533E_0.docx",
+     "skipped": "",
+     "spool": "2026-10/3EB09ED954DC2A68BF533E_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/f/2026-10/3EB09ED954DC2A68BF533E_0.docx"
     }
    ],
    "drive": null,
@@ -7877,13 +7879,44 @@
      "name": "סגור PDF.pdf",
      "size": "2.3MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0CF4CF938D34046CDBB_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/f/2026-10/3EB0CF4CF938D34046CDBB_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB0CF4CF938D34046CDBB_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/f/2026-10/3EB0CF4CF938D34046CDBB_0.pdf"
     }
    ],
    "drive": null,
    "phone": "972526024650"
+  },
+  {
+   "id": "3EB0DC95011E37E29C0B55",
+   "sender": "kipnis adi",
+   "text": "",
+   "ts": 1792524317000,
+   "date": "2026-10-20",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "417KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0DC95011E37E29C0B55_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526024650"
+  },
+  {
+   "id": "AC76790C8D9ACC98DF6972A1DDB15DB7",
+   "sender": "shalompks8",
+   "text": "דף מתוק, עם כמה שגיאות של הבינה מלאכותית.\nדבר נוסף, אם זה לגיל הרך עדיף שיהיה מנוקד. וכמובן תמיד לבדוק שוב שזה בסדר.",
+   "ts": 1792526521000,
+   "date": "2026-10-20",
+   "time": "23:02",
+   "files": [],
+   "drive": null,
+   "phone": "972523115761"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-20T18:54:14.811Z",
+ "updated": "2026-10-20T19:27:45.330Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -2528,6 +2528,39 @@
    "files": [],
    "drive": null,
    "phone": "972508111853"
+  },
+  {
+   "id": "ACC7F2FF227CAF0F22132F6A08995C92",
+   "sender": "Simon Halevi",
+   "text": "https://englishfornoar.co.il/word-forge?level=1&lesson=1",
+   "ts": 1792524247000,
+   "date": "2026-10-20",
+   "time": "22:24",
+   "files": [],
+   "drive": null,
+   "phone": "972523011287"
+  },
+  {
+   "id": "ACA6497AFB1F93453FA816AF52257EFE",
+   "sender": "Jonathan Post יונתן פוסט",
+   "text": "זה יפה. ואת זה, שיקריא את שמות האותיות, גם אני הצלחתי. אבל אני רוצה שיקריא אץ הצלילים של האותיות וצירופי אותיות.",
+   "ts": 1792524394000,
+   "date": "2026-10-20",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972508111853"
+  },
+  {
+   "id": "ACDC0EECE0DFC0C58A480F068CB29DA3",
+   "sender": "Simon Halevi",
+   "text": "זה עובד על הצלילים באופן לא ישיר. מכסה את החשובים והשימושים  ביותר.",
+   "ts": 1792524464000,
+   "date": "2026-10-20",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972523011287"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-20T18:21:25.504Z",
+ "updated": "2026-10-20T19:45:41.133Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2689,6 +2689,25 @@
    "files": [],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "ACBF8B8F290655EDCD13A4126231BB19",
+   "sender": "רויטל 🎀",
+   "text": "חברותות בנושא שאילת גשמים.",
+   "ts": 1792525527000,
+   "date": "2026-10-20",
+   "time": "22:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACBF8B8F290655EDCD13A4126231BB19_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504836093"
   }
  ]
 }

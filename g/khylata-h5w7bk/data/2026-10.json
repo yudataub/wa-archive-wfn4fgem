@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-20T18:32:25.686Z",
+ "updated": "2026-10-20T19:11:29.343Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -6508,6 +6508,36 @@
    "files": [],
    "drive": null,
    "phone": "972523700654"
+  },
+  {
+   "id": "AC025393EB965886F6E3C319FE79EF8A",
+   "sender": "אורי זכריה",
+   "text": "",
+   "ts": 1792523459000,
+   "date": "2026-10-20",
+   "time": "22:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC025393EB965886F6E3C319FE79EF8A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508343219"
+  },
+  {
+   "id": "AC5AE7117DB47EEFC359BC0EC34B0B21",
+   "sender": "אורי זכריה",
+   "text": "למסירה",
+   "ts": 1792523464000,
+   "date": "2026-10-20",
+   "time": "22:11",
+   "files": [],
+   "drive": null,
+   "phone": "972508343219"
   }
  ]
 }

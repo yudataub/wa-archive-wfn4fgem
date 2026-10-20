@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-20T19:00:29.160Z",
+ "updated": "2026-10-20T19:47:11.148Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -2979,9 +2979,10 @@
      "name": "לימוד אימהות ובנות רחל אמנו_20261020_101727_0000.pdf",
      "size": "3.7MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC8ADE62FE4BA7574C2404354BAC1E55_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-chanan-porat-4uykpp-kyeukx/f/2026-10/AC8ADE62FE4BA7574C2404354BAC1E55_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/AC8ADE62FE4BA7574C2404354BAC1E55_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-chanan-porat-4uykpp-kyeukx/f/2026-10/AC8ADE62FE4BA7574C2404354BAC1E55_0.pdf"
     }
    ],
    "drive": null,
@@ -3030,6 +3031,60 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "ACA9CE95C3CF519DCA884923AA31612F",
+   "sender": "הדר תומר",
+   "text": "",
+   "ts": 1792523277000,
+   "date": "2026-10-20",
+   "time": "22:07",
+   "files": [
+    {
+     "name": "עותק של לימוד על רחל אמנו והרב חנן פורת_20261020_220735_0000.pdf",
+     "size": "933KB",
+     "type": "application/pdf",
+     "path": "https://yudataub.github.io/wa-vid-chanan-porat-4uykpp-kyeukx/f/2026-10/ACA9CE95C3CF519DCA884923AA31612F_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/ACA9CE95C3CF519DCA884923AA31612F_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-chanan-porat-4uykpp-kyeukx/f/2026-10/ACA9CE95C3CF519DCA884923AA31612F_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972525661806"
+  },
+  {
+   "id": "AC9C3F3FAC3DC969148EBE1BD6A85246",
+   "sender": "הדר תומר",
+   "text": "ערכנו את הסיפור על הרב חנן פורת וקבר רחל ללימוד הורים וילדים, למעוניינים.",
+   "ts": 1792523291000,
+   "date": "2026-10-20",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "phone": "972525661806"
+  },
+  {
+   "id": "AC5D0831144430F1EB5C454C8289E9AE",
+   "sender": "הדר תומר",
+   "text": "https://canva.link/ctkiqaprtvbhzy5",
+   "ts": 1792523346000,
+   "date": "2026-10-20",
+   "time": "22:09",
+   "files": [],
+   "drive": null,
+   "phone": "972525661806"
+  },
+  {
+   "id": "3EB0B7BE01F0653F3E3DFA",
+   "sender": "אביגיל",
+   "text": "היי ערב טוב\nהצטרפתי עכשיו לקבוצה ומחפשת חברותות לכיתות א-ו לי\"א בחשוון\nאשמח לעזרה",
+   "ts": 1792525620000,
+   "date": "2026-10-20",
+   "time": "22:47",
+   "files": [],
+   "drive": null,
+   "phone": "972548450908"
   }
  ]
 }
