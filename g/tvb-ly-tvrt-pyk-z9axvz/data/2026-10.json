@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "טוב לי תורת פיך",
- "updated": "2026-10-19T12:43:52.831Z",
+ "updated": "2026-10-20T05:01:45.945Z",
  "messages": [
   {
    "id": "ACFB90A8A6F54C5684BA84F4C2A796BB",
@@ -5746,6 +5746,25 @@
     {
      "name": "תמונה.jpg",
      "size": "188KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC123653CFFCD3383F7423CFEBDACA7E",
+   "sender": "שרון😄",
+   "text": "",
+   "ts": 1792472485000,
+   "date": "2026-10-20",
+   "time": "08:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "459KB",
      "type": "image/jpeg",
      "path": "",
      "skipped": "הקובץ לא נשמר"

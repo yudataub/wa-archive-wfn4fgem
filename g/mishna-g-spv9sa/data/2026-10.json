@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-19T16:40:39.051Z",
+ "updated": "2026-10-20T04:55:15.868Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -543,6 +543,36 @@
    "files": [],
    "drive": null,
    "phone": "972526478257"
+  },
+  {
+   "id": "3EB0988D7FE1F305A94875",
+   "sender": "בני בוסקילה",
+   "text": "",
+   "ts": 1792472101000,
+   "date": "2026-10-20",
+   "time": "07:55",
+   "files": [
+    {
+     "name": "תענית פרק א משנה ב.pptx",
+     "size": "24.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972586500722"
+  },
+  {
+   "id": "3EB019EB61750A65424306",
+   "sender": "בני בוסקילה",
+   "text": "מצגת מתוקנת לקודמת שנשלחה.",
+   "ts": 1792472116000,
+   "date": "2026-10-20",
+   "time": "07:55",
+   "files": [],
+   "drive": null,
+   "phone": "972586500722"
   }
  ]
 }
