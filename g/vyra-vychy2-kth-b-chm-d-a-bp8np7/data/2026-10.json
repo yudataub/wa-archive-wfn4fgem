@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-20T17:33:06.772Z",
+ "updated": "2026-10-20T18:46:25.876Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -1465,6 +1465,25 @@
    ],
    "drive": null,
    "phone": "972547594148"
+  },
+  {
+   "id": "ACDA1830D1D1D02B2EC29A4826BA4A9B",
+   "sender": "Kripper",
+   "text": "",
+   "ts": 1792521982000,
+   "date": "2026-10-20",
+   "time": "21:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACDA1830D1D1D02B2EC29A4826BA4A9B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549377036"
   }
  ]
 }
