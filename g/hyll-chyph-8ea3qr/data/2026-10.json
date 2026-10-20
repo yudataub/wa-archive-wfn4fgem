@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הילל חיפה",
- "updated": "2026-10-18T11:15:51.882Z",
+ "updated": "2026-10-20T08:06:04.395Z",
  "messages": [
   {
    "id": "3B8ED81B8C1F6D920F1B",
@@ -38,6 +38,25 @@
      "path": "https://drive.google.com/file/d/1RZjx2UUlcmRz8Rx6FUn8bTUi3-HZCToD/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1RZjx2UUlcmRz8Rx6FUn8bTUi3-HZCToD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526953311"
+  },
+  {
+   "id": "3B91FBAD125B5CE63A94",
+   "sender": "Aria",
+   "text": "פעיל.ה חברתי.ת ושואף.ת להשפיע על עיצוב החברה בישראל? מקומך איתנו בתוכנית חזון!\n\n✅  מפגשים שבועיים לאורך השנה האקדמית\n✅  כנסים\n✅  לימוד עם מיטב המרצים.ות של מכון הרטמן ועם א.נשי שטח ואקטיביזם. \n✅  מענק שנתי נאה.\n✅  הצטרפות לרשת בוגריםות תוססת ומשפיעה\n\nהתוכנית פתוחה לסטודנטים.ות אקטיביסטים.ות מכלל האוניברסיטאות והמכללות בישראל. \n\nפרטים נוספים והרשמה כאן ⬇️\nhttps://heb.hartman.org.il/hazon",
+   "ts": 1792483548000,
+   "date": "2026-10-20",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
     }
    ],
    "drive": null,

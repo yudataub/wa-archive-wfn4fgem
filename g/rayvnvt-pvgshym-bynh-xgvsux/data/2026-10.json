@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-10-19T05:40:30.837Z",
+ "updated": "2026-10-20T09:09:13.640Z",
  "messages": [
   {
    "id": "AC09CC87F326D801641B16393EA22870",
@@ -2341,6 +2341,25 @@
      "name": "תמונה.jpg",
      "size": "141KB",
      "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A587FCAAE32565B9F281807B4CD0E64A",
+   "sender": "תמר חמאדה",
+   "text": "",
+   "ts": 1792487340000,
+   "date": "2026-10-20",
+   "time": "12:09",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "3KB",
+     "type": "audio/ogg; codecs=opus",
      "path": "",
      "skipped": "הקובץ לא נשמר"
     }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-19T18:12:45.428Z",
+ "updated": "2026-10-20T06:34:11.360Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -4217,6 +4217,25 @@
    ],
    "drive": null,
    "phone": "972537602231"
+  },
+  {
+   "id": "3EB057B11DB6A529170FDC",
+   "sender": "Ezy Levy",
+   "text": "",
+   "ts": 1792478034000,
+   "date": "2026-10-20",
+   "time": "09:33",
+   "files": [
+    {
+     "name": "Mathematical Problems in Engineering - 2021 - Baselga - Approximations  Errors  and Misconceptions in the Use of Map.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972544266802"
   }
  ]
 }

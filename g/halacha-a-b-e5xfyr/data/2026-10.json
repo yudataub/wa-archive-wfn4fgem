@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-20T03:53:14.947Z",
+ "updated": "2026-10-20T07:08:26.668Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -1289,6 +1289,39 @@
    "files": [],
    "drive": null,
    "phone": "972505950080"
+  },
+  {
+   "id": "3A1506E34CC7290E1065",
+   "sender": "יעל ביטון",
+   "text": "אשמח לקבל חומר על שבת",
+   "ts": 1792478851000,
+   "date": "2026-10-20",
+   "time": "09:47",
+   "files": [],
+   "drive": null,
+   "phone": "972506449655"
+  },
+  {
+   "id": "AC3A40FFA63EA91E5DA44820B2159E92",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/1QZ7KGBFgVME0E67qPkJdu3qFHweQcZll",
+   "ts": 1792479366000,
+   "date": "2026-10-20",
+   "time": "09:56",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC9543B19092C7CB3B15F831B4850DF5",
+   "sender": "דוד מלפוף",
+   "text": "פורטל עובדי הוראה",
+   "ts": 1792480085000,
+   "date": "2026-10-20",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972539866155"
   }
  ]
 }
