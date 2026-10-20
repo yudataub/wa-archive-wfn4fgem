@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-20T11:52:06.592Z",
+ "updated": "2026-10-20T15:24:41.590Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -1344,6 +1344,137 @@
    "files": [],
    "drive": null,
    "phone": "972506449655"
+  },
+  {
+   "id": "AC5842931772F1108EB7CC121E25A07B",
+   "sender": "דוד מלפוף",
+   "text": "מישהו יודע אם יש או שעתיד להיות?",
+   "ts": 1792509157000,
+   "date": "2026-10-20",
+   "time": "18:12",
+   "files": [],
+   "drive": null,
+   "phone": "972539866155"
+  },
+  {
+   "id": "AC9C047EBE0576D08D956A51AFB43C04",
+   "sender": "חני פרידמן😍",
+   "text": "https://drive.google.com/drive/folders/1NTP9RERCgpDAWrwnJ0lPV7zgjT_PXbWF",
+   "ts": 1792509870000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "ACCAE79FC8F2D343FE06F853F215A604",
+   "sender": "חני פרידמן😍",
+   "text": "https://drive.google.com/drive/folders/1Td8P9_doTy5ubW9YZNnyA8sHEUDVlrQX",
+   "ts": 1792509872000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "AC5D216358FC95668119C4EF19B824E1",
+   "sender": "חני פרידמן😍",
+   "text": "https://youtu.be/ufpyuGmqeEQ",
+   "ts": 1792509873000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "AC053BF016509306F415CE67455D6D35",
+   "sender": "חני פרידמן😍",
+   "text": "השבת אבידה",
+   "ts": 1792509874000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "AC3E3E319F6D98849967F6C6A720FDDF",
+   "sender": "חני פרידמן😍",
+   "text": "",
+   "ts": 1792509876000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "AC4559AD5F5C49A63849D24B0600E892",
+   "sender": "חני פרידמן😍",
+   "text": "",
+   "ts": 1792509877000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "AC9893619A3189D2CB2D861856ADB099",
+   "sender": "חני פרידמן😍",
+   "text": "",
+   "ts": 1792509877000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [
+    {
+     "name": ".זוכר הברית בנות.pdf",
+     "size": "6.6MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972532791643"
+  },
+  {
+   "id": "AC3649DE71892B42DDA1FF31BF38281E",
+   "sender": "חני פרידמן😍",
+   "text": "",
+   "ts": 1792509878000,
+   "date": "2026-10-20",
+   "time": "18:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972532791643"
   }
  ]
 }

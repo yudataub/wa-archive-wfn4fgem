@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מורים להיסטוריה בחמד תשפז-שנה ראשונה",
- "updated": "2026-10-18T19:13:53.144Z",
+ "updated": "2026-10-20T17:22:06.635Z",
  "messages": [
   {
    "id": "AC6A20D897068E7506C0478262DA592E",
@@ -448,6 +448,25 @@
    ],
    "drive": null,
    "phone": "972507101059"
+  },
+  {
+   "id": "3EB0C2C5D02489D881BFCD",
+   "sender": "מוריה 🪄☺️",
+   "text": "מתחילים ב20:30 💐🤩 https://edu-il.zoom.us/j/5460677297",
+   "ts": 1792516919000,
+   "date": "2026-10-20",
+   "time": "20:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "354KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0C2C5D02489D881BFCD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527503256"
   }
  ]
 }

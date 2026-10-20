@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-20T09:40:20.403Z",
+ "updated": "2026-10-20T17:37:06.808Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2506,6 +2506,123 @@
    "files": [],
    "drive": null,
    "phone": "972507331433"
+  },
+  {
+   "id": "ACB0912916E183622A59F54F6A930902",
+   "sender": "קוקי סופר",
+   "text": "",
+   "ts": 1792516337000,
+   "date": "2026-10-20",
+   "time": "20:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528242795"
+  },
+  {
+   "id": "ACF98797FA26EC72F251B734F4E8112B",
+   "sender": "קוקי סופר",
+   "text": "חדר בריחה בנושא ציצית",
+   "ts": 1792516349000,
+   "date": "2026-10-20",
+   "time": "20:12",
+   "files": [],
+   "drive": null,
+   "phone": "972528242795"
+  },
+  {
+   "id": "ACDC5B0281DD229FC94025EFD1A6B0F1",
+   "sender": "משה ברכה",
+   "text": "דיני שאילת גשמים",
+   "ts": 1792517302000,
+   "date": "2026-10-20",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACDC5B0281DD229FC94025EFD1A6B0F1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523791306"
+  },
+  {
+   "id": "ACCBED42DE22B696DA2584CE4D274675",
+   "sender": "יוגב גלבוע",
+   "text": "",
+   "ts": 1792517797000,
+   "date": "2026-10-20",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "345KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACCBED42DE22B696DA2584CE4D274675_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528119464"
+  },
+  {
+   "id": "AC230B62F1BB58BC0C1EE0FEAA92288F",
+   "sender": "יוגב גלבוע",
+   "text": "",
+   "ts": 1792517798000,
+   "date": "2026-10-20",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "301KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC230B62F1BB58BC0C1EE0FEAA92288F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528119464"
+  },
+  {
+   "id": "AC8ADEFC307D9898E9C719F6C4A2D2B4",
+   "sender": "יוגב גלבוע",
+   "text": "",
+   "ts": 1792517798000,
+   "date": "2026-10-20",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "437KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC8ADEFC307D9898E9C719F6C4A2D2B4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528119464"
+  },
+  {
+   "id": "AC671CC01FB21B0724393C7EC2D85500",
+   "sender": "יוגב גלבוע",
+   "text": "פותרים כתב סתרים בהלכות שאילת גשמים, במצפה לכינרת, לאחר מכן קיימנו תפילת גשם מרגששת",
+   "ts": 1792517823000,
+   "date": "2026-10-20",
+   "time": "20:37",
+   "files": [],
+   "drive": null,
+   "phone": "972528119464"
   }
  ]
 }

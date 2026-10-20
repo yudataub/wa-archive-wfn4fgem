@@ -4715,7 +4715,7 @@
   },
   {
    "id": "AC3EF82957E0E2D58D0C4B04F96D520B",
-   "sender": "0508111853",
+   "sender": "Jonathan Post יונתן פוסט",
    "text": "שלום,\nהאם בחשבון גוגל חינוך יש API KEY  מיוחד ליצירת תמונות. אני מנסה לבנות אפליקציה ב-HTML ו-JAVASCRIPT ליצירת תמונות מספר תמונות לאחר הדבק פרומפט. הבעיה שעם ה-API KEY שיצרתי בחשבון החינוך זה לא הולך לי. אני מאוד רוצה שיכין 6 תמונות ושישמור על המראה של הדמויות ב-6 התמונות כך שתלמידים כותבים סיפור של 6 עמודים ומייצרים תמונות לסיפור.  \n\nהאפחיקציה כותבת לי כסיבה:\nאולי יש מקים אחר שמאפשר? \n\nError: RATE_LIMIT\nStack: Error: RATE_LIMIT\n    at generateSingleImage (blob:https://1rr3xwlefibu5tqvcpl73l0j415u4xliyyfiouh7t6vo447euj-h845251650.scf.usercontent.goog/b5c494e9-cb8a-43d6-9489-4e09b8fca4f6:1082:31)\n    at async generateAllImages (blob:https://1rr3xwlefibu5tqvcpl73l0j415u4xliyyfiouh7t6vo447euj-h845251650.scf.usercontent.goog/b5c494e9-cb8a-43d6-9489-4e09b8fca4f6:994:25)",
    "ts": 1767356271000,
    "date": "2026-01-02",
@@ -5103,7 +5103,7 @@
   },
   {
    "id": "AC01437ED7EFD5907C379BEBC90E6FBB",
-   "sender": "0508111853",
+   "sender": "Jonathan Post יונתן פוסט",
    "text": "מסכים איתך. דוגמה 1 או 2 בסדר אבל עוד מעט מגיעים ל-200 לדעתי",
    "ts": 1767365054000,
    "date": "2026-01-02",
@@ -5125,7 +5125,7 @@
   },
   {
    "id": "AC24616AACEB38794026B4C37A6D56C9",
-   "sender": "0508111853",
+   "sender": "Jonathan Post יונתן פוסט",
    "text": "אולי כדאי להכין קבוצה נפרדת \"ניחושי פתגמים ביצירת  בינה\"?",
    "ts": 1767365446000,
    "date": "2026-01-02",
