@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-20T09:13:42.094Z",
+ "updated": "2026-10-20T12:04:13.550Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -1481,6 +1481,47 @@
    "files": [],
    "drive": null,
    "phone": "972508808857"
+  },
+  {
+   "id": "AC1AA2D31E04199B559E14109F02D80D",
+   "sender": "איריס זמיר",
+   "text": "יש למישהו?",
+   "ts": 1792497030000,
+   "date": "2026-10-20",
+   "time": "14:50",
+   "files": [],
+   "drive": null,
+   "phone": "972546159578"
+  },
+  {
+   "id": "3EB045632D410274758BAE",
+   "sender": "שירה",
+   "text": "",
+   "ts": 1792497173000,
+   "date": "2026-10-20",
+   "time": "14:52",
+   "files": [
+    {
+     "name": "דפי עבודה פרשת שמות-1.docx",
+     "size": "67KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972545847495"
+  },
+  {
+   "id": "AC8192EB09C1EE0AFBF887AF4EE3F967",
+   "sender": "יעלללללל👻",
+   "text": "שלום\nיש למישהו מבחן מנוקד+דף חזרה לפרשת שמות?",
+   "ts": 1792497825000,
+   "date": "2026-10-20",
+   "time": "15:03",
+   "files": [],
+   "drive": null,
+   "phone": "972504441966"
   }
  ]
 }

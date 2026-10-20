@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-20T09:14:42.115Z",
+ "updated": "2026-10-20T11:39:06.384Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -476,6 +476,25 @@
    "files": [],
    "drive": null,
    "phone": "972506924904"
+  },
+  {
+   "id": "AC873C84953BCB778DC7864A9613B523",
+   "sender": "Levana Cohen",
+   "text": "",
+   "ts": 1792496323000,
+   "date": "2026-10-20",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972587451793"
   }
  ]
 }

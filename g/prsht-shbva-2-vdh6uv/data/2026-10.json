@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-20T07:25:26.957Z",
+ "updated": "2026-10-20T10:43:58.373Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -3867,6 +3867,101 @@
    "files": [],
    "drive": null,
    "phone": "972586342815"
+  },
+  {
+   "id": "3EB049DCD0B43DB3A7FEBF",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1792493006000,
+   "date": "2026-10-20",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "קריאה לפרשת לך לך רמה 2 -  מתיא בני ברק.pdf",
+     "size": "143KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "3EB0B0C131686C2FB626B7",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1792493008000,
+   "date": "2026-10-20",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "קריאה לפרשת לך לך רמה 1 -  מתיא בני ברק.pdf",
+     "size": "178KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "3EB07C50FB7DB1710E5050",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1792493010000,
+   "date": "2026-10-20",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "קריאה לפרשת לך לך ללא ניקוד -  מתיא בני ברק.pdf",
+     "size": "162KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "3EB02C9FD925E272B01D96",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1792493011000,
+   "date": "2026-10-20",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "פרשת לך לך - משפטי פירמידה.pdf",
+     "size": "503KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "3EB0DCA1ADBD3ECB088404",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1792493013000,
+   "date": "2026-10-20",
+   "time": "13:43",
+   "files": [
+    {
+     "name": "מילה בפרשה -לך לך  מתיא בני ברק.pdf",
+     "size": "729KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
   }
  ]
 }
