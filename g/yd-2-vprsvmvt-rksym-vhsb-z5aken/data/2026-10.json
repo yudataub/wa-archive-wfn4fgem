@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-21T20:34:49.476Z",
+ "updated": "2026-10-21T21:36:32.045Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -15684,6 +15684,63 @@
    ],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "AC9A4670F2DB2232ACCC50744981196B",
+   "sender": "שרית",
+   "text": "",
+   "ts": 1792618098000,
+   "date": "2026-10-22",
+   "time": "00:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC9A4670F2DB2232ACCC50744981196B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506225008"
+  },
+  {
+   "id": "AC25B5F440CD55454A9F8022F6AD5D29",
+   "sender": "אילנית",
+   "text": "",
+   "ts": 1792618562000,
+   "date": "2026-10-22",
+   "time": "00:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "1.4MB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC25B5F440CD55454A9F8022F6AD5D29_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505719433"
+  },
+  {
+   "id": "ACF02DA461F6423F00E240DA02DD22AD",
+   "sender": "אילנית",
+   "text": "",
+   "ts": 1792618562000,
+   "date": "2026-10-22",
+   "time": "00:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "917KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACF02DA461F6423F00E240DA02DD22AD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505719433"
   }
  ]
 }

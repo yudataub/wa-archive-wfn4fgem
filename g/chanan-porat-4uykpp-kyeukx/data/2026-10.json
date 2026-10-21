@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-21T19:13:22.265Z",
+ "updated": "2026-10-21T21:51:02.336Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -3697,13 +3697,25 @@
      "name": "דפי פרשת שבוע תשפז (11).pdf",
      "size": "520KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0639248D2910DC120F9_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-chanan-porat-4uykpp-kyeukx/f/2026-10/3EB0639248D2910DC120F9_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB0639248D2910DC120F9_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-chanan-porat-4uykpp-kyeukx/f/2026-10/3EB0639248D2910DC120F9_0.pdf"
     }
    ],
    "drive": null,
    "phone": "972505932300"
+  },
+  {
+   "id": "AC31A0F0FDBA539D81A859E139A7750E",
+   "sender": "ערן גדות",
+   "text": "הדבר הלא מדוייק היחיד שאני מצאתי שם זה : \n\"כל העם אותו אהב...\" .\nיישר כח גדול!!!",
+   "ts": 1792619449000,
+   "date": "2026-10-22",
+   "time": "00:50",
+   "files": [],
+   "drive": null,
+   "phone": "972503071376"
   }
  ]
 }
