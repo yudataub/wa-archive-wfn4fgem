@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-10-20T16:22:19.835Z",
+ "updated": "2026-10-21T17:49:43.550Z",
  "messages": [
   {
    "id": "3EB02352C54029ADF46A0C",
@@ -259,6 +259,25 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC7823D0757A7B0BD55637874D5C94CD",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הפרומפט היומי*\nצילום פורטרט קולנועי בחשיפה כפולה עם נוף טבעי\nhttps://www.lomdot.org/dailyprompt",
+   "ts": 1792604957000,
+   "date": "2026-10-21",
+   "time": "20:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC7823D0757A7B0BD55637874D5C94CD_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

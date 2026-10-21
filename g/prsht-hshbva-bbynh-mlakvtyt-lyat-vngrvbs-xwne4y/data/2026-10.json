@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת השבוע בבינה מלאכותית ליאת ונגרובסקי",
- "updated": "2026-10-16T06:09:45.981Z",
+ "updated": "2026-10-21T06:33:18.853Z",
  "messages": [
   {
    "id": "AC47A7D2959DF9B7C6D01D780C47EB80",
@@ -49,6 +49,25 @@
      "path": "https://drive.google.com/file/d/1dy4dJpN0fXLUUz3364P3VNaBuun8Wo79/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1dy4dJpN0fXLUUz3364P3VNaBuun8Wo79&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "ACBFBE829F95DA3049F47A92D62628F8",
+   "sender": "ליאת ונגרובסקי",
+   "text": "פרשת לך לך\n\nפתרונות בתיאור הקבוצה",
+   "ts": 1792564374000,
+   "date": "2026-10-21",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "87KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACBFBE829F95DA3049F47A92D62628F8_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-10-20T16:22:31.405Z",
+ "updated": "2026-10-21T17:49:01.851Z",
  "messages": [
   {
    "id": "AC1C19B909906794E68FCF96B3BA9C6E",
@@ -1684,6 +1684,25 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC92EE08E82B3E57C54E0DBC316B16D5",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הפרומפט היומי*\nצילום פורטרט קולנועי בחשיפה כפולה עם נוף טבעי\nhttps://www.lomdot.org/dailyprompt",
+   "ts": 1792604928000,
+   "date": "2026-10-21",
+   "time": "20:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC92EE08E82B3E57C54E0DBC316B16D5_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

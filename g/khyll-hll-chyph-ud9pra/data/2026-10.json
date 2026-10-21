@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילל - הלל חיפה 🤩",
- "updated": "2026-10-20T19:47:41.155Z",
+ "updated": "2026-10-21T12:20:00.037Z",
  "messages": [
   {
    "id": "3B11DF5F282187A3C56F",
@@ -40,6 +40,46 @@
    ],
    "drive": null,
    "phone": "972586885261"
+  },
+  {
+   "id": "3A77D1B2DD90CA1F85C9",
+   "sender": "Aria",
+   "text": "התחלנו!!!\nדברים טעימים מחכים לכם בבית סטודנטים מרפסת קומה 3",
+   "ts": 1792572974000,
+   "date": "2026-10-21",
+   "time": "11:56",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "811KB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3A77D1B2DD90CA1F85C9_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972526953311"
+  },
+  {
+   "id": "3BD4A1C2AAFAB8C377CE",
+   "sender": "Aria",
+   "text": "היי כולם! 👋\nצירפנו חוברת קטנה על הלל חיפה 📎\nבפנים: כל התוכניות של השנה, האירועים הקרובים והקהילות שלנו. הכול לחיץ, ואפשר להיכנס לכל תוכנית ולראות את הפרטים.\n\nמשהו מעניין אתכם? מלאו טופס התעניינות:\nhttps://forms.cloud.microsoft/r/a3hhjfMAhe?origin=lprLink",
+   "ts": 1792585196000,
+   "date": "2026-10-21",
+   "time": "15:19",
+   "files": [
+    {
+     "name": "hillel-haifa.pdf",
+     "size": "464KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3BD4A1C2AAFAB8C377CE_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972526953311"
   }
  ]
 }

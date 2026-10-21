@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-20T19:45:41.133Z",
+ "updated": "2026-10-21T08:04:23.150Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -2708,6 +2708,104 @@
    ],
    "drive": null,
    "phone": "972504836093"
+  },
+  {
+   "id": "AC6481D7B3D10C5D3B2CC3A0BB8F8720",
+   "sender": "אלקנה שטראוס",
+   "text": "אמנם שיעור עצמה הוא לא קפה אבל בהחלט כולם מאושרים🎉",
+   "ts": 1792568891000,
+   "date": "2026-10-21",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC6481D7B3D10C5D3B2CC3A0BB8F8720_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC430CDC9DC8C8763A3B585DBCF6248D",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1792569033000,
+   "date": "2026-10-21",
+   "time": "10:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC430CDC9DC8C8763A3B585DBCF6248D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC87A28EAA753971D4BD0B5876AE9451",
+   "sender": "אלקנה שטראוס",
+   "text": "אמנם שיעור עצמה הוא לא קפה אבל בהחלט כולם מאושרים🎉",
+   "ts": 1792569038000,
+   "date": "2026-10-21",
+   "time": "10:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC3C3063C8516D5D179B029CFE7DB678",
+   "sender": "לימור",
+   "text": "",
+   "ts": 1792569743000,
+   "date": "2026-10-21",
+   "time": "11:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC3C3063C8516D5D179B029CFE7DB678_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "ACDA03B4C04768ED07FE1B89A6EF72BE",
+   "sender": "לימור",
+   "text": "",
+   "ts": 1792569743000,
+   "date": "2026-10-21",
+   "time": "11:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACDA03B4C04768ED07FE1B89A6EF72BE_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "ACE30B2E4341056D3E8B0EE514AE1BE6",
+   "sender": "לימור",
+   "text": "למדנו על שאילת והזכרת גשמים בקבוצות ופתחנו בפיענוח כתב סתרים של מדרש בנושא.\n תחנה שניה היתה תפזורת של מושגים בנושא.\nתחנה שלישית היתה בחוברת.",
+   "ts": 1792569848000,
+   "date": "2026-10-21",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972544672279"
   }
  ]
 }

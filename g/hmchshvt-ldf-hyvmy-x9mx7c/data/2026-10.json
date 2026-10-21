@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-20T03:06:38.092Z",
+ "updated": "2026-10-21T03:17:04.741Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -706,6 +706,44 @@
      "type": "image/jpeg",
      "path": "",
      "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A81AB32E5ABA80F9E98",
+   "sender": ".",
+   "text": "״דגרמא בעלמא״ (בכורות לג, ב).",
+   "ts": 1792552603000,
+   "date": "2026-10-21",
+   "time": "06:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A81AB32E5ABA80F9E98_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A4312FC3FA4EA1F6FC2",
+   "sender": ".",
+   "text": "״ותהא ראויה לזלף״ (רש״י בכורות לג, ב).",
+   "ts": 1792552605000,
+   "date": "2026-10-21",
+   "time": "06:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A4312FC3FA4EA1F6FC2_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

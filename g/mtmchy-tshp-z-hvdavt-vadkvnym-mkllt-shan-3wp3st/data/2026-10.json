@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מתמחי תשפ״ז-הודעות ועדכונים מכללת שאנן",
- "updated": "2026-10-15T07:49:03.612Z",
+ "updated": "2026-10-21T08:10:23.246Z",
  "messages": [
   {
    "id": "3ADFCFE9C6461A10E0FD",
@@ -78,6 +78,25 @@
      "path": "https://drive.google.com/file/d/1mXDmrhSmaZgfbaSiD3tG9EzVE_53fq9c/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1mXDmrhSmaZgfbaSiD3tG9EzVE_53fq9c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3EB050C966AD258D3A3630",
+   "sender": "Adi Zvieli",
+   "text": "שריינו ובואו בשמחה🌸 מפגש עם הרבה מידע חשוב שעוסק בזכויותיכם/ן ובתנאי ההעסקה שלכם/ן כמורים בכלל וכמתמחים בפרט🌸 ניפגש! (קישור יישלח לפני המפגש)",
+   "ts": 1792570211000,
+   "date": "2026-10-21",
+   "time": "11:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB050C966AD258D3A3630_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

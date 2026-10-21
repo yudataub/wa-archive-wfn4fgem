@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-10-20T11:39:06.384Z",
+ "updated": "2026-10-21T13:46:13.069Z",
  "messages": [
   {
    "id": "3A57DE5CBEA4B57CAAAD",
@@ -495,6 +495,25 @@
    ],
    "drive": null,
    "phone": "972587451793"
+  },
+  {
+   "id": "AC69D4259ADA9DF00187A52331ABFD5D",
+   "sender": "יעל הראלי",
+   "text": "",
+   "ts": 1792590355000,
+   "date": "2026-10-21",
+   "time": "16:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "47KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC69D4259ADA9DF00187A52331ABFD5D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523951440"
   }
  ]
 }

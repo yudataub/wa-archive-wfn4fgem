@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-10-20T16:20:19.808Z",
+ "updated": "2026-10-21T17:48:43.543Z",
  "messages": [
   {
    "id": "3EB04585F5B377D96A662B",
@@ -227,6 +227,35 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB0A9379170CBD1D5D404",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "תפרסמו את זה בבתי הספר - חובה שיהיה בכל כיתה\nלראות כיצד המסורת עברה ומי היה בכל דור\nhttps://www.kol-toda.co.il/dorot/",
+   "ts": 1792586516000,
+   "date": "2026-10-21",
+   "time": "15:41",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACD1CE41795BDDF3454AC773C045E7EB",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הפרומפט היומי*\nצילום פורטרט קולנועי בחשיפה כפולה עם נוף טבעי\nhttps://www.lomdot.org/dailyprompt",
+   "ts": 1792604926000,
+   "date": "2026-10-21",
+   "time": "20:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACD1CE41795BDDF3454AC773C045E7EB_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

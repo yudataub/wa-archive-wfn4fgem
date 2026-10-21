@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-20T17:25:36.655Z",
+ "updated": "2026-10-21T08:37:30.331Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -1533,6 +1533,128 @@
    "files": [],
    "drive": null,
    "phone": "972533413754"
+  },
+  {
+   "id": "AC126916BD930BCD19B2389FE0E4D097",
+   "sender": "תמי מקסימוב",
+   "text": "",
+   "ts": 1792563215000,
+   "date": "2026-10-21",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "דף עבודה המיילדות.docx",
+     "size": "340KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC126916BD930BCD19B2389FE0E4D097_0.docx"
+    }
+   ],
+   "drive": null,
+   "phone": "972526538693"
+  },
+  {
+   "id": "AC8E5CC2F32DCC92BB670BED8EFD5688",
+   "sender": "תמי מקסימוב",
+   "text": "",
+   "ts": 1792563218000,
+   "date": "2026-10-21",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "הֻלֶּדֶת מֹשֶׁה.docx",
+     "size": "150KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC8E5CC2F32DCC92BB670BED8EFD5688_0.docx"
+    }
+   ],
+   "drive": null,
+   "phone": "972526538693"
+  },
+  {
+   "id": "AC518D59C98B1B6308219AAF303C8EF2",
+   "sender": "תמי מקסימוב",
+   "text": "",
+   "ts": 1792563219000,
+   "date": "2026-10-21",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "וְהִנֵּה הַסְּנֶה בֹּעֵר בָּאֵשׁ.docx",
+     "size": "415KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC518D59C98B1B6308219AAF303C8EF2_0.docx"
+    }
+   ],
+   "drive": null,
+   "phone": "972526538693"
+  },
+  {
+   "id": "AC55CC9B04BBADC664483E8DD5716728",
+   "sender": "תמי מקסימוב",
+   "text": "",
+   "ts": 1792563219000,
+   "date": "2026-10-21",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "משה ובנות מדין.docx",
+     "size": "25KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC55CC9B04BBADC664483E8DD5716728_0.docx"
+    }
+   ],
+   "drive": null,
+   "phone": "972526538693"
+  },
+  {
+   "id": "ACDC303F80AAFE152A720359C0C55353",
+   "sender": "תמי מקסימוב",
+   "text": "",
+   "ts": 1792563220000,
+   "date": "2026-10-21",
+   "time": "09:13",
+   "files": [
+    {
+     "name": "משה יוצא אל אחיו.docx",
+     "size": "21KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACDC303F80AAFE152A720359C0C55353_0.docx"
+    }
+   ],
+   "drive": null,
+   "phone": "972526538693"
+  },
+  {
+   "id": "AC4829D301CD5F2A72D79C245C685315",
+   "sender": "מאיה ווקנין",
+   "text": "אשמח לדפי עבודה לספר במדבר",
+   "ts": 1792563296000,
+   "date": "2026-10-21",
+   "time": "09:14",
+   "files": [],
+   "drive": null,
+   "phone": "972504035015"
+  },
+  {
+   "id": "AC9A254269E5C3F32AD89243E5D98226",
+   "sender": "מוראל קופרמן",
+   "text": "למישהו יש את המצגת של שלושת האותות? אין אותה בקובץ🙏🏼",
+   "ts": 1792571846000,
+   "date": "2026-10-21",
+   "time": "11:37",
+   "files": [],
+   "drive": null,
+   "phone": "972543317299"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-20T23:43:03.434Z",
+ "updated": "2026-10-21T18:33:14.502Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -6305,6 +6305,227 @@
    "files": [],
    "drive": null,
    "phone": "972527143406"
+  },
+  {
+   "id": "AC2D203F93AD00B546B3BFD48E04B39E",
+   "sender": "חיה כחלון",
+   "text": "אשמח גם לקבל🙏",
+   "ts": 1792557179000,
+   "date": "2026-10-21",
+   "time": "07:32",
+   "files": [],
+   "drive": null,
+   "phone": "972523565708"
+  },
+  {
+   "id": "A5FCE10CAE6881298EF2A99A12CD6BA4",
+   "sender": "יודפת שילת יד 2 קדומים",
+   "text": "https://www.youtube.com/@%D7%90%D7%95%D7%A8%D7%99%D7%94%D7%9C%D7%A8/playlists",
+   "ts": 1792559917000,
+   "date": "2026-10-21",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972526225964"
+  },
+  {
+   "id": "A59201CDAFAE75952C12867E637834BD",
+   "sender": "יודפת שילת יד 2 קדומים",
+   "text": "ממליצה על ערוץ הסרטונים של המחנך של הבן שלי.\nקצר ומעניין מאוד.",
+   "ts": 1792559921000,
+   "date": "2026-10-21",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972526225964"
+  },
+  {
+   "id": "3EB001DBFAA0F11EA6EF24",
+   "sender": "ישראל יוקל",
+   "text": "",
+   "ts": 1792572260000,
+   "date": "2026-10-21",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "612KB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB001DBFAA0F11EA6EF24_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972542261101"
+  },
+  {
+   "id": "3EB049E62DF9F3691B501F",
+   "sender": "ישראל יוקל",
+   "text": "",
+   "ts": 1792572262000,
+   "date": "2026-10-21",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.4MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB049E62DF9F3691B501F_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972542261101"
+  },
+  {
+   "id": "3AF1E1EB5DB3EED80769",
+   "sender": "נעה אביה",
+   "text": "אפשר לשלוח שוב🙏🏼",
+   "ts": 1792585105000,
+   "date": "2026-10-21",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507644318"
+  },
+  {
+   "id": "AC0BB067BF1A4D21B16025382ACBDBE2",
+   "sender": "Zohara",
+   "text": "",
+   "ts": 1792585151000,
+   "date": "2026-10-21",
+   "time": "15:19",
+   "files": [
+    {
+     "name": "פרק ג' קורבן שלמים.pdf",
+     "size": "1.8MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC0BB067BF1A4D21B16025382ACBDBE2_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972527186804"
+  },
+  {
+   "id": "3A1C780E7F665A097993",
+   "sender": "נעה אביה",
+   "text": "תודה רבה🙏🏼",
+   "ts": 1792585441000,
+   "date": "2026-10-21",
+   "time": "15:24",
+   "files": [],
+   "drive": null,
+   "phone": "972507644318"
+  },
+  {
+   "id": "ACF3F6862FBE817A3B045B77CE3B39FF",
+   "sender": "אורית הודיה",
+   "text": "https://drive.google.com/drive/folders/1_PXSjzt2GY6NC8bPSDev7esm_DiWffYG",
+   "ts": 1792597096000,
+   "date": "2026-10-21",
+   "time": "18:38",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "3EB0C13BB3CFCD48750C62",
+   "sender": "Shoshi",
+   "text": "אשמח גם כן\nתודה רבה",
+   "ts": 1792597800000,
+   "date": "2026-10-21",
+   "time": "18:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527151868"
+  },
+  {
+   "id": "AC9BE61E27AA1C1A981DBA2B2C77C208",
+   "sender": "נריה עדני",
+   "text": "אשמח בבקשה אם יש למישהו דף עבודה על פרק א' בויקרא",
+   "ts": 1792598509000,
+   "date": "2026-10-21",
+   "time": "19:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526445531"
+  },
+  {
+   "id": "3EB0E5C9092F97C47164D5",
+   "sender": "esterzomrati",
+   "text": "דף חזרה למבדק בתורה לפי המבחן שנשלח כאן",
+   "ts": 1792603683000,
+   "date": "2026-10-21",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "פרשת ויקרא – דף חזרה למבדק.pdf",
+     "size": "66KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0E5C9092F97C47164D5_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972502182888"
+  },
+  {
+   "id": "3EB0D2C84E3049B0529840",
+   "sender": "esterzomrati",
+   "text": "למבחן הזה",
+   "ts": 1792603716000,
+   "date": "2026-10-21",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972502182888"
+  },
+  {
+   "id": "3EB0B9DAF058A21464D5ED",
+   "sender": "רינת שמע",
+   "text": "אפשר לשלוח שוב?",
+   "ts": 1792607327000,
+   "date": "2026-10-21",
+   "time": "21:28",
+   "files": [],
+   "drive": null,
+   "phone": "972543099241"
+  },
+  {
+   "id": "3EB0DB08946962F1ABC79D",
+   "sender": "יהודית אלמשעלי",
+   "text": "אני עושה סיכום לנושא הקורבנות במשחק רביעיות שהבנות מכינות. עם חמשת סוגי הקורבנות ועם הפעולות של הקרבת הקורבן. שולחת את הקובץ שאשתמש בו.",
+   "ts": 1792607583000,
+   "date": "2026-10-21",
+   "time": "21:33",
+   "files": [],
+   "drive": null,
+   "phone": "972586513778"
+  },
+  {
+   "id": "3EB05415255D58F1E40F52",
+   "sender": "יהודית אלמשעלי",
+   "text": "",
+   "ts": 1792607585000,
+   "date": "2026-10-21",
+   "time": "21:33",
+   "files": [
+    {
+     "name": "reviiyot.pptx",
+     "size": "101KB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB05415255D58F1E40F52_0.pptx"
+    }
+   ],
+   "drive": null,
+   "phone": "972586513778"
   }
  ]
 }

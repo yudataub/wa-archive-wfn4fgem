@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כלים שלובים | AI ודיגיטל בהוראה 2# 🛟",
- "updated": "2026-10-15T06:14:14.823Z",
+ "updated": "2026-10-21T17:30:31.507Z",
  "messages": [
   {
    "id": "A5F190FE9BD3A9DD5BD0E24B0ECC429E",
@@ -79,6 +79,37 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972507115008"
+  },
+  {
+   "id": "3EB0FFB1668ABA1B874826",
+   "sender": "שני",
+   "text": "תזכורת🫶🏼🫶🏼\nנפגשים הערב!\nוובינר בנושא למידה והערכה\nמחכים לכם🦋\nקהילת 'כלים שלובים' מבית אלנט\nקישור למפגש:\nhttps://us02web.zoom.us/meeting/register/XCD2fo0yQ3K7bScXH_FjJg",
+   "ts": 1792565341000,
+   "date": "2026-10-21",
+   "time": "09:49",
+   "files": [
+    {
+     "name": "הזמנה לוובינר כלים שלובים 21.10.pdf",
+     "size": "434KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0FFB1668ABA1B874826_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972507115008"
+  },
+  {
+   "id": "3EB0BAED57E242FBB80E3D",
+   "sender": "שני",
+   "text": "מ ת ח י ל י ם\n\nhttps://us02web.zoom.us/meeting/register/XCD2fo0yQ3K7bScXH_FjJg",
+   "ts": 1792603809000,
+   "date": "2026-10-21",
+   "time": "20:30",
+   "files": [],
    "drive": null,
    "phone": "972507115008"
   }

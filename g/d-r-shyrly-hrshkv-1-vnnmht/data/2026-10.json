@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ד\"ר שירלי הרשקו 1",
- "updated": "2026-10-18T04:37:26.117Z",
+ "updated": "2026-10-21T07:27:18.017Z",
  "messages": [
   {
    "id": "A5A9E1FDD1B807992E28F8C33F5BC85A",
@@ -261,6 +261,36 @@
    "ts": 1792298219000,
    "date": "2026-10-18",
    "time": "07:36",
+   "files": [],
+   "drive": null,
+   "phone": "972587151020"
+  },
+  {
+   "id": "A5D556521B628D44736F53C8C3FD5E2B",
+   "sender": "אנשי הקשב",
+   "text": "סוף סוף חזרנו באמת לשגרה אחרי חגים וחופשים ומה לא... *אז איך הופכים אותה ליותר טובה?* 2 דרכים ממני 😀\n\n1. *הבוקר* ב 10:30 הרצאה חינמית בזום איתי על כל מה שלא סיפרו לכם על הפרעת קשב! 🎥\n\nלקבלת הקישור לזום כנסו לקבוצת הווצאפ:\n\n2. *מחר* בבוקר נפתח הקורס שלי לארגון זמן ותפקודים ניהוליים לאנשי הקשב! ⏱️\n\nלקבלת פרטים כתבו הודעת ווצאפ למספר: https://wa.me/972587151020",
+   "ts": 1792555816000,
+   "date": "2026-10-21",
+   "time": "07:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5D556521B628D44736F53C8C3FD5E2B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587151020"
+  },
+  {
+   "id": "3EB02CB9274F77A10297DD",
+   "sender": "אנשי הקשב",
+   "text": "לבקשתכם שולחת את ההזמנה המלאה לזום להרצאה איך לחיות טוב יותר עם הפרעת קשב *שמתחילה עוד 5 דקות! ב 10:30* ⬇️\n\nShirley Hershko is inviting you to a scheduled Zoom meeting.\n\nTopic: וובינר הפרעת קשב\nTime: This is a recurring meeting Meet anytime\nJoin Zoom Meeting\nhttps://huji.zoom.us/j/89865078105?pwd=zLPrIcPVVon4THSNAnOz274Kl1v03I.1\n\nMeeting ID: 898 6507 8105\nPasscode: 183210\n\n---\n\nOne tap mobile\n+97223764509,,89865078105#,,,,*183210# Israel\n+97223764510,,89865078105#,,,,*183210# Israel\n\n---\n\nJoin by SIP\n• 89865078105@zoomcrc.com\n\nJoin instructions\nhttps://huji.zoom.us/meetings/89865078105/invitations?signature=teP68hlww32X10dx-4YorqpvKr-fEzK-z-NwVfUGK28",
+   "ts": 1792567625000,
+   "date": "2026-10-21",
+   "time": "10:27",
    "files": [],
    "drive": null,
    "phone": "972587151020"
