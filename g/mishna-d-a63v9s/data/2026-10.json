@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-21T18:55:22.004Z",
+ "updated": "2026-10-21T19:31:29.592Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -859,6 +859,98 @@
    "ts": 1792608912000,
    "date": "2026-10-21",
    "time": "21:55",
+   "files": [],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "AC9FD7688752F750B05CBF6E6280B7B6",
+   "sender": "אור מימון 𓉱",
+   "text": "מחילה על הבורות מה זה משימת הערכה?",
+   "ts": 1792609840000,
+   "date": "2026-10-21",
+   "time": "22:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC9FD7688752F750B05CBF6E6280B7B6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "AC3EFB71B11EB61F65888EA08FAA00D6",
+   "sender": "שרון שריר",
+   "text": "תפתח את הקובץ, מבחן על המשניות",
+   "ts": 1792610058000,
+   "date": "2026-10-21",
+   "time": "22:14",
+   "files": [],
+   "drive": null,
+   "phone": "972528613004"
+  },
+  {
+   "id": "AC4D2873A9DA0C6EB9DA0C13DE6F9785",
+   "sender": "אור מימון 𓉱",
+   "text": "",
+   "ts": 1792610088000,
+   "date": "2026-10-21",
+   "time": "22:14",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC4D2873A9DA0C6EB9DA0C13DE6F9785_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "AC1A92140F8D1562AF917AE1E6FAADC9",
+   "sender": "אור מימון 𓉱",
+   "text": "",
+   "ts": 1792610123000,
+   "date": "2026-10-21",
+   "time": "22:15",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "21KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC1A92140F8D1562AF917AE1E6FAADC9_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "ACDD520ED892835827021A27F8E75D57",
+   "sender": "דוד קויתי",
+   "text": "https://meyda.education.gov.il/files/Pop/0files/toshba-hemed/mish4-tashpaz.pdf",
+   "ts": 1792610785000,
+   "date": "2026-10-21",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972547953317"
+  },
+  {
+   "id": "AC59925FE0DD315EF35359F81F2BDF03",
+   "sender": "אור מימון 𓉱",
+   "text": "תודה רבה!!",
+   "ts": 1792611080000,
+   "date": "2026-10-21",
+   "time": "22:31",
    "files": [],
    "drive": null,
    "phone": "972504886618"

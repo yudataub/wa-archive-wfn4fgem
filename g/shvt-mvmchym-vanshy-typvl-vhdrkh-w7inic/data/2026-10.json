@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-10-21T19:03:22.131Z",
+ "updated": "2026-10-21T20:25:13.941Z",
  "messages": [
   {
    "id": "3EB0A702EEAB0BA951E587",
@@ -8214,9 +8214,10 @@
      "name": "הודעה קולית.ogg",
      "size": "7KB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACC0DF28ECE42110C209BD006F1AFD2C_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/f/2026-10/ACC0DF28ECE42110C209BD006F1AFD2C_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/ACC0DF28ECE42110C209BD006F1AFD2C_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/f/2026-10/ACC0DF28ECE42110C209BD006F1AFD2C_0.ogg"
     }
    ],
    "drive": null,
@@ -8265,6 +8266,39 @@
    "files": [],
    "drive": null,
    "phone": "972525692939"
+  },
+  {
+   "id": "AC06FC5C1A798F5FA122130B8B614D94",
+   "sender": "ורדית עובדיה",
+   "text": "רחובות לא רחוק ממודעין\n0549453030 ורדית\nאשמח לעזור",
+   "ts": 1792611333000,
+   "date": "2026-10-21",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972549453030"
+  },
+  {
+   "id": "ACD916FD8DE8CC5C6A9D2D0EDB10D488",
+   "sender": "מרינה",
+   "text": "אני מדריכת הורים וזה בול  המקרים מטפלת בהם... לדעתי יותר פרקטי❤️",
+   "ts": 1792611636000,
+   "date": "2026-10-21",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972528693628"
+  },
+  {
+   "id": "A5A26436D874CE9FCAB6F85CF4CDBD35",
+   "sender": "יועצת זוגית משפחתית ומדריכה כלות",
+   "text": "כן בשמחה",
+   "ts": 1792614299000,
+   "date": "2026-10-21",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972525621717"
   }
  ]
 }

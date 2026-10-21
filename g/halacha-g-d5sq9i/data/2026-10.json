@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ג'",
- "updated": "2026-10-21T18:23:14.071Z",
+ "updated": "2026-10-21T20:14:43.764Z",
  "messages": [
   {
    "id": "ACEB4C097F897A12E7774B46815E09C7",
@@ -1157,9 +1157,10 @@
      "name": "הלכה שלושת האיסורים.pdf",
      "size": "568KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC46C43C75576346449F88FD240A4458_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-halacha-g-d5sq9i/f/2026-10/AC46C43C75576346449F88FD240A4458_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/AC46C43C75576346449F88FD240A4458_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-halacha-g-d5sq9i/f/2026-10/AC46C43C75576346449F88FD240A4458_0.pdf"
     }
    ],
    "drive": null,
@@ -1188,13 +1189,36 @@
      "name": "דף עבודה בשר וחלב.docx",
      "size": "17KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB02CF5D266CB338624F2_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-halacha-g-d5sq9i/f/2026-10/3EB02CF5D266CB338624F2_0.docx",
+     "skipped": "",
+     "spool": "2026-10/3EB02CF5D266CB338624F2_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-halacha-g-d5sq9i/f/2026-10/3EB02CF5D266CB338624F2_0.docx"
     }
    ],
    "drive": null,
    "phone": "972537414782"
+  },
+  {
+   "id": "AC3A2A48E03DEE1AE7BD932AA5607DF4",
+   "sender": "Sterni Schtroks",
+   "text": "ואו ממש מוצלח!!",
+   "ts": 1792612142000,
+   "date": "2026-10-21",
+   "time": "22:49",
+   "files": [],
+   "drive": null,
+   "phone": "972559611722"
+  },
+  {
+   "id": "ACC35DE4ECDD224EBC313C9BE6318F56",
+   "sender": "ריקי מזוז",
+   "text": "תודה רבה על השיתוף!👌",
+   "ts": 1792613663000,
+   "date": "2026-10-21",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972543466504"
   }
  ]
 }

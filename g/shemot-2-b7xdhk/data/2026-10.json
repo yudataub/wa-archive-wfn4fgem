@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-21T08:37:30.331Z",
+ "updated": "2026-10-21T20:54:49.836Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -1546,9 +1546,10 @@
      "name": "דף עבודה המיילדות.docx",
      "size": "340KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC126916BD930BCD19B2389FE0E4D097_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC126916BD930BCD19B2389FE0E4D097_0.docx",
+     "skipped": "",
+     "spool": "2026-10/AC126916BD930BCD19B2389FE0E4D097_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC126916BD930BCD19B2389FE0E4D097_0.docx"
     }
    ],
    "drive": null,
@@ -1566,9 +1567,10 @@
      "name": "הֻלֶּדֶת מֹשֶׁה.docx",
      "size": "150KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC8E5CC2F32DCC92BB670BED8EFD5688_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC8E5CC2F32DCC92BB670BED8EFD5688_0.docx",
+     "skipped": "",
+     "spool": "2026-10/AC8E5CC2F32DCC92BB670BED8EFD5688_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC8E5CC2F32DCC92BB670BED8EFD5688_0.docx"
     }
    ],
    "drive": null,
@@ -1586,9 +1588,10 @@
      "name": "וְהִנֵּה הַסְּנֶה בֹּעֵר בָּאֵשׁ.docx",
      "size": "415KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC518D59C98B1B6308219AAF303C8EF2_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC518D59C98B1B6308219AAF303C8EF2_0.docx",
+     "skipped": "",
+     "spool": "2026-10/AC518D59C98B1B6308219AAF303C8EF2_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC518D59C98B1B6308219AAF303C8EF2_0.docx"
     }
    ],
    "drive": null,
@@ -1606,9 +1609,10 @@
      "name": "משה ובנות מדין.docx",
      "size": "25KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC55CC9B04BBADC664483E8DD5716728_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC55CC9B04BBADC664483E8DD5716728_0.docx",
+     "skipped": "",
+     "spool": "2026-10/AC55CC9B04BBADC664483E8DD5716728_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/AC55CC9B04BBADC664483E8DD5716728_0.docx"
     }
    ],
    "drive": null,
@@ -1626,9 +1630,10 @@
      "name": "משה יוצא אל אחיו.docx",
      "size": "21KB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACDC303F80AAFE152A720359C0C55353_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/ACDC303F80AAFE152A720359C0C55353_0.docx",
+     "skipped": "",
+     "spool": "2026-10/ACDC303F80AAFE152A720359C0C55353_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-shemot-2-b7xdhk/f/2026-10/ACDC303F80AAFE152A720359C0C55353_0.docx"
     }
    ],
    "drive": null,
@@ -1655,6 +1660,57 @@
    "files": [],
    "drive": null,
    "phone": "972543317299"
+  },
+  {
+   "id": "ACFD650FA1B1902B2DB423E9470F1843",
+   "sender": "דינה ברלין",
+   "text": "",
+   "ts": 1792616050000,
+   "date": "2026-10-21",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "מעמד הסנה.pdf",
+     "size": "82KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACFD650FA1B1902B2DB423E9470F1843_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972547716552"
+  },
+  {
+   "id": "AC480FCD5DEE0E191BF0A0E4AECF9256",
+   "sender": "דינה ברלין",
+   "text": "",
+   "ts": 1792616067000,
+   "date": "2026-10-21",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "245KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC480FCD5DEE0E191BF0A0E4AECF9256_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972547716552"
+  },
+  {
+   "id": "ACFC1CCFAF0A260D94BB95379F49F0F3",
+   "sender": "דינה ברלין",
+   "text": "לנשים בלבד",
+   "ts": 1792616068000,
+   "date": "2026-10-21",
+   "time": "23:54",
+   "files": [],
+   "drive": null,
+   "phone": "972547716552"
   }
  ]
 }

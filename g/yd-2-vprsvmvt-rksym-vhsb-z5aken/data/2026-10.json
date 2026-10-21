@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-21T18:54:21.976Z",
+ "updated": "2026-10-21T20:34:49.476Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -14917,9 +14917,10 @@
      "name": "וידאו.mp4",
      "size": "3.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/2ACD72E0FD5C5169DE65_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/2ACD72E0FD5C5169DE65_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/2ACD72E0FD5C5169DE65_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/2ACD72E0FD5C5169DE65_0.mp4"
     }
    ],
    "drive": null,
@@ -15390,9 +15391,10 @@
      "name": "וידאו.mp4",
      "size": "4.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/2AA1173DEBC688E250BD_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/2AA1173DEBC688E250BD_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/2AA1173DEBC688E250BD_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/2AA1173DEBC688E250BD_0.mp4"
     }
    ],
    "drive": null,
@@ -15432,9 +15434,10 @@
      "name": "וידאו.mp4",
      "size": "3.5MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC970E5FB7906B1669E8152CC56F62B6_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/AC970E5FB7906B1669E8152CC56F62B6_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/AC970E5FB7906B1669E8152CC56F62B6_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/AC970E5FB7906B1669E8152CC56F62B6_0.mp4"
     }
    ],
    "drive": null,
@@ -15662,6 +15665,25 @@
    "files": [],
    "drive": null,
    "phone": "972503563494"
+  },
+  {
+   "id": "A5EBE7E97455FA2407A27A39EA9AA991",
+   "sender": "מאיר מוגרבי",
+   "text": "למכירה מחשב נייד acar מעבד i5 דור 11 ראם 8 הרדיסק 480 SSD תאורה במקלדת ווינדוס אופיס ותוכנות בסיסיות גוף מתכת יוקרתי שמור כמו חדש מחשב קל ודק במיוחד 054-6084870",
+   "ts": 1792614865000,
+   "date": "2026-10-21",
+   "time": "23:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5EBE7E97455FA2407A27A39EA9AA991_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

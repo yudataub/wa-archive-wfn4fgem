@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-21T18:53:21.954Z",
+ "updated": "2026-10-21T20:33:44.059Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -3214,9 +3214,10 @@
      "name": "וידאו.mp4",
      "size": "4.5MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACB427C0286D8C5755E60514967935EF_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACB427C0286D8C5755E60514967935EF_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACB427C0286D8C5755E60514967935EF_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACB427C0286D8C5755E60514967935EF_0.mp4"
     }
    ],
    "drive": null,
@@ -3234,9 +3235,10 @@
      "name": "וידאו.mp4",
      "size": "10.2MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACED15A6A3CC02ABB35CDE523ADE186E_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACED15A6A3CC02ABB35CDE523ADE186E_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACED15A6A3CC02ABB35CDE523ADE186E_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACED15A6A3CC02ABB35CDE523ADE186E_0.mp4"
     }
    ],
    "drive": null,
@@ -3416,6 +3418,17 @@
    "files": [],
    "drive": null,
    "phone": "972523121564"
+  },
+  {
+   "id": "A53F4D8E89826B10B33D7E4072DAC764",
+   "sender": "טל הגנן",
+   "text": "9.00-00.00",
+   "ts": 1792614820000,
+   "date": "2026-10-21",
+   "time": "23:33",
+   "files": [],
+   "drive": null,
+   "phone": "972545685147"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-21T17:34:08.466Z",
+ "updated": "2026-10-21T19:15:22.292Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -9922,9 +9922,10 @@
      "name": "הודעה קולית.ogg",
      "size": "14KB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC94806EAE552FCE5D5F118D3072F68C_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC94806EAE552FCE5D5F118D3072F68C_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/AC94806EAE552FCE5D5F118D3072F68C_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC94806EAE552FCE5D5F118D3072F68C_0.ogg"
     }
    ],
    "drive": null,
@@ -10123,9 +10124,10 @@
      "name": "הודעה קולית.ogg",
      "size": "17KB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC492DB7BE72F1FF6219E38A2CBDA11E_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC492DB7BE72F1FF6219E38A2CBDA11E_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/AC492DB7BE72F1FF6219E38A2CBDA11E_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC492DB7BE72F1FF6219E38A2CBDA11E_0.ogg"
     }
    ],
    "drive": null,
@@ -10141,6 +10143,28 @@
    "files": [],
    "drive": null,
    "phone": "972546250652"
+  },
+  {
+   "id": "AC85BC499B977B311A81BFB51F433224",
+   "sender": "E Stern",
+   "text": "מה ההלכה מותר או אסור",
+   "ts": 1792609778000,
+   "date": "2026-10-21",
+   "time": "22:09",
+   "files": [],
+   "drive": null,
+   "phone": "447721085362"
+  },
+  {
+   "id": "AC11DBFE2930706DF130D8E23EE26B64",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "לא קראו בו?",
+   "ts": 1792610117000,
+   "date": "2026-10-21",
+   "time": "22:15",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
   }
  ]
 }

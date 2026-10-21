@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-21T18:33:14.502Z",
+ "updated": "2026-10-21T19:15:52.298Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -6351,9 +6351,10 @@
      "name": "וידאו.mp4",
      "size": "612KB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB001DBFAA0F11EA6EF24_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/v/2026-10/3EB001DBFAA0F11EA6EF24_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB001DBFAA0F11EA6EF24_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/v/2026-10/3EB001DBFAA0F11EA6EF24_0.mp4"
     }
    ],
    "drive": null,
@@ -6371,9 +6372,10 @@
      "name": "וידאו.mp4",
      "size": "3.4MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB049E62DF9F3691B501F_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/v/2026-10/3EB049E62DF9F3691B501F_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB049E62DF9F3691B501F_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/v/2026-10/3EB049E62DF9F3691B501F_0.mp4"
     }
    ],
    "drive": null,
@@ -6402,9 +6404,10 @@
      "name": "פרק ג' קורבן שלמים.pdf",
      "size": "1.8MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC0BB067BF1A4D21B16025382ACBDBE2_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/AC0BB067BF1A4D21B16025382ACBDBE2_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/AC0BB067BF1A4D21B16025382ACBDBE2_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/AC0BB067BF1A4D21B16025382ACBDBE2_0.pdf"
     }
    ],
    "drive": null,
@@ -6466,9 +6469,10 @@
      "name": "פרשת ויקרא – דף חזרה למבדק.pdf",
      "size": "66KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0E5C9092F97C47164D5_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB0E5C9092F97C47164D5_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB0E5C9092F97C47164D5_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB0E5C9092F97C47164D5_0.pdf"
     }
    ],
    "drive": null,
@@ -6519,13 +6523,25 @@
      "name": "reviiyot.pptx",
      "size": "101KB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB05415255D58F1E40F52_0.pptx"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB05415255D58F1E40F52_0.pptx",
+     "skipped": "",
+     "spool": "2026-10/3EB05415255D58F1E40F52_0.pptx",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB05415255D58F1E40F52_0.pptx"
     }
    ],
    "drive": null,
    "phone": "972586513778"
+  },
+  {
+   "id": "ACCFE540C6F4D7686113F24955AD94D7",
+   "sender": "שירה נחום",
+   "text": "יש למישהוו קישור לקבוצה של במדבר?",
+   "ts": 1792610152000,
+   "date": "2026-10-21",
+   "time": "22:15",
+   "files": [],
+   "drive": null,
+   "phone": "972586781964"
   }
  ]
 }
