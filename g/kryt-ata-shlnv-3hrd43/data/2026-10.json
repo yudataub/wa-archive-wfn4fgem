@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-20T22:18:25.268Z",
+ "updated": "2026-10-21T00:25:03.940Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -28854,6 +28854,25 @@
    "files": [],
    "drive": null,
    "phone": "972523288448"
+  },
+  {
+   "id": "A598DF908FBFE2072826C85B03A34749",
+   "sender": "גיא אפיק Dj",
+   "text": "",
+   "ts": 1792542301000,
+   "date": "2026-10-21",
+   "time": "03:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A598DF908FBFE2072826C85B03A34749_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548047828"
   }
  ]
 }
