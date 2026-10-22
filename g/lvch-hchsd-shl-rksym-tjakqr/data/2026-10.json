@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-22T18:46:57.895Z",
+ "updated": "2026-10-22T19:15:52.544Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -9657,9 +9657,10 @@
      "name": "וידאו.mp4",
      "size": "4.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC0B75902C29C5516415F43F0BF0E789_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/AC0B75902C29C5516415F43F0BF0E789_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/AC0B75902C29C5516415F43F0BF0E789_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/AC0B75902C29C5516415F43F0BF0E789_0.mp4"
     }
    ],
    "drive": null,
@@ -9686,6 +9687,28 @@
    "files": [],
    "drive": null,
    "phone": "972528372111"
+  },
+  {
+   "id": "AC5C82239A026E1B1EAA42E8C148EB99",
+   "sender": "מאיר שקלאר",
+   "text": "עיצוב פירות ברכסים מי מכיר חוץ מברדא ובר מוחה יש?",
+   "ts": 1792696465000,
+   "date": "2026-10-22",
+   "time": "22:14",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "AC9DBEA7D686951391C3C31F81075113",
+   "sender": "הדס מוזס",
+   "text": "📇 סטלה גדליהו\n+972 52-717-9840",
+   "ts": 1792696547000,
+   "date": "2026-10-22",
+   "time": "22:15",
+   "files": [],
+   "drive": null,
+   "phone": "972548475122"
   }
  ]
 }

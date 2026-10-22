@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-22T18:45:58.564Z",
+ "updated": "2026-10-22T20:20:48.139Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -9804,9 +9804,10 @@
      "name": "הזמנה ללמידה השתלמות כלים שלובים.pdf",
      "size": "141KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3AA165834427CA5F1377_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-chvlmym-tkshvb-ai-u72mrh/f/2026-10/3AA165834427CA5F1377_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3AA165834427CA5F1377_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-chvlmym-tkshvb-ai-u72mrh/f/2026-10/3AA165834427CA5F1377_0.pdf"
     }
    ],
    "drive": null,
@@ -10237,6 +10238,17 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "3ABD0A62AD7B79E90BD8",
+   "sender": "Amikam Peled",
+   "text": "לא\nהכל שיחה אחת ארוכה \nאפשר להגיד לו לזכור מעין פרויקטים ונושאים שונים ולבהציב אותם שוב אבל אין הפרדה ״פיזית״",
+   "ts": 1792700427000,
+   "date": "2026-10-22",
+   "time": "23:20",
+   "files": [],
+   "drive": null,
+   "phone": "972505650062"
   }
  ]
 }

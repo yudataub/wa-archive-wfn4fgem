@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-22T16:51:06.422Z",
+ "updated": "2026-10-22T20:12:02.099Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -5840,9 +5840,10 @@
      "name": "וידאו.mp4",
      "size": "5.2MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC11FDA31F28941F42F3B29A255C0927_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/AC11FDA31F28941F42F3B29A255C0927_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/AC11FDA31F28941F42F3B29A255C0927_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/AC11FDA31F28941F42F3B29A255C0927_0.mp4"
     }
    ],
    "drive": null,
@@ -5860,9 +5861,10 @@
      "name": "וידאו.mp4",
      "size": "4.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACB15CF3849F95BF2121BDED579F1032_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/ACB15CF3849F95BF2121BDED579F1032_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACB15CF3849F95BF2121BDED579F1032_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/ACB15CF3849F95BF2121BDED579F1032_0.mp4"
     }
    ],
    "drive": null,
@@ -5880,9 +5882,10 @@
      "name": "וידאו.mp4",
      "size": "6.0MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACC3B3F5DD76E2372D0E8DBBB04DE273_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/ACC3B3F5DD76E2372D0E8DBBB04DE273_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACC3B3F5DD76E2372D0E8DBBB04DE273_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/ACC3B3F5DD76E2372D0E8DBBB04DE273_0.mp4"
     }
    ],
    "drive": null,
@@ -6054,9 +6057,10 @@
      "name": "וידאו.mp4",
      "size": "1.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC6B35235F3FA987A9BF17242BFE3AF3_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/AC6B35235F3FA987A9BF17242BFE3AF3_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/AC6B35235F3FA987A9BF17242BFE3AF3_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/AC6B35235F3FA987A9BF17242BFE3AF3_0.mp4"
     }
    ],
    "drive": null,
@@ -6072,6 +6076,44 @@
    "files": [],
    "drive": null,
    "phone": "972559430188"
+  },
+  {
+   "id": "ACB78414094FD6C6859231AB0D5CAFCA",
+   "sender": "איתמר",
+   "text": "",
+   "ts": 1792699902000,
+   "date": "2026-10-22",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "386KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACB78414094FD6C6859231AB0D5CAFCA_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "AC361673678AFE720A8692E486197591",
+   "sender": "איתמר",
+   "text": "",
+   "ts": 1792699903000,
+   "date": "2026-10-22",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "591KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC361673678AFE720A8692E486197591_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528907838"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ניסי ה' ועוזו 6 במדינת ישראל לע\"נ חללי צה\"ל ונפגעי הטרור",
- "updated": "2026-10-22T18:53:58.009Z",
+ "updated": "2026-10-22T20:12:02.080Z",
  "messages": [
   {
    "id": "3EB08495118DDDDE05DEB2",
@@ -4855,9 +4855,10 @@
      "name": "וידאו.mp4",
      "size": "3.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0F631F9CF9B7409D18A_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-10/3EB0F631F9CF9B7409D18A_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB0F631F9CF9B7409D18A_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-10/3EB0F631F9CF9B7409D18A_0.mp4"
     }
    ],
    "drive": null,
@@ -4875,9 +4876,10 @@
      "name": "וידאו.mp4",
      "size": "17.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB02D478E29734BCA9CDD_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-10/3EB02D478E29734BCA9CDD_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB02D478E29734BCA9CDD_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-nysy-h-vavzv-6-bmdynt-ys-q7qjsu/v/2026-10/3EB02D478E29734BCA9CDD_0.mp4"
     }
    ],
    "drive": null,
@@ -5114,6 +5116,17 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972534372917"
+  },
+  {
+   "id": "3EB03BCE8CC57D162FE764",
+   "sender": "עולם אופטיקה.עם כלביא קם",
+   "text": "*שלום.   הבחירות הן מצווה, לכן אנו מתעסקים בהם ומעודדים הצבעה יהודית לימין.*\n\n שחר  גליק: ‏בניסיון להעלות את אחוזי ההצבעה, בחברה הבדואית הורו לנשים לצאת ולהצביע - בפעם הראשונה\n\n. לפי פילבר, הערבים עשויים להגיע בבחירות הקרובות לשיא של 16 מנדטים • מפחיד!\n\n*הערבים נוהרים.  צריך כבר הערב על לסוף יום שלישי להעיר המון יהודים שלא מתכוונים להצביע או שמבולבלים.  ויש המון המון כאלה*",
+   "ts": 1792699897000,
+   "date": "2026-10-22",
+   "time": "23:11",
+   "files": [],
    "drive": null,
    "phone": "972534372917"
   }

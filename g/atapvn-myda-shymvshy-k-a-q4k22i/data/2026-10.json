@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-22T18:56:28.059Z",
+ "updated": "2026-10-22T20:51:03.769Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -4256,9 +4256,10 @@
      "name": "חדשות דתי 1326.pdf",
      "size": "4.1MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB04D12863CF1D5E6B13C_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/f/2026-10/3EB04D12863CF1D5E6B13C_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB04D12863CF1D5E6B13C_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/f/2026-10/3EB04D12863CF1D5E6B13C_0.pdf"
     }
    ],
    "drive": null,
@@ -4333,9 +4334,10 @@
      "name": "וידאו.mp4",
      "size": "11.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB04D4E521C12F2DD9F4C_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/3EB04D4E521C12F2DD9F4C_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB04D4E521C12F2DD9F4C_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/3EB04D4E521C12F2DD9F4C_0.mp4"
     }
    ],
    "drive": null,
@@ -4372,9 +4374,10 @@
      "name": "הנקודה הצפונית 351.pdf",
      "size": "6.9MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB06BBB177AC7630F1C33_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/f/2026-10/3EB06BBB177AC7630F1C33_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB06BBB177AC7630F1C33_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/f/2026-10/3EB06BBB177AC7630F1C33_0.pdf"
     }
    ],
    "drive": null,
@@ -4430,9 +4433,10 @@
      "name": "וידאו.mp4",
      "size": "4.1MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACBD9FEF55FBBE3AC88DCF350E13C3B4_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/ACBD9FEF55FBBE3AC88DCF350E13C3B4_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACBD9FEF55FBBE3AC88DCF350E13C3B4_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/ACBD9FEF55FBBE3AC88DCF350E13C3B4_0.mp4"
     }
    ],
    "drive": null,
@@ -4494,6 +4498,44 @@
    ],
    "drive": null,
    "phone": "972537941565"
+  },
+  {
+   "id": "A5DA0E41C86D7FBE660861963AACA922",
+   "sender": "דיג'יי טל רפאל",
+   "text": "למכירה\nבר מים תמי 4 דגם פאמילי טאץ!\nבנוסף הקונה יקבל גם סנן חדש בקופסא!\nמחיר שאסור לפרסם\nלפרטים 058-713-2636",
+   "ts": 1792696349000,
+   "date": "2026-10-22",
+   "time": "22:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5DA0E41C86D7FBE660861963AACA922_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587132636"
+  },
+  {
+   "id": "4A45E87C8FDEF3B777D8",
+   "sender": "רן רהב סופר סת״ם",
+   "text": "",
+   "ts": 1792702232000,
+   "date": "2026-10-22",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "248KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/4A45E87C8FDEF3B777D8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533834131"
   }
  ]
 }
