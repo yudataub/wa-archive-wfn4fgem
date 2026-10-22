@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-22T20:12:02.099Z",
+ "updated": "2026-10-22T22:35:24.663Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -6114,6 +6114,45 @@
    ],
    "drive": null,
    "phone": "972528907838"
+  },
+  {
+   "id": "ACD66EAD940F854C8987A12D2E280B67",
+   "sender": "6788387",
+   "text": "",
+   "ts": 1792708033000,
+   "date": "2026-10-23",
+   "time": "01:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.7MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACD66EAD940F854C8987A12D2E280B67_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972556788387"
+  },
+  {
+   "id": "A57A0DCDCD35A183E158F4BBB274F957",
+   "sender": "נתי",
+   "text": "",
+   "ts": 1792708499000,
+   "date": "2026-10-23",
+   "time": "01:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A57A0DCDCD35A183E158F4BBB274F957_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533559987"
   }
  ]
 }
