@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חלון לאהבה-טלי זיו הרצאות",
- "updated": "2026-10-18T08:35:01.644Z",
+ "updated": "2026-10-22T18:00:50.342Z",
  "messages": [
   {
    "id": "AC6F8A50F466ABB2EF6DA4740EDD1BAE",
@@ -79,6 +79,45 @@
      "path": "https://drive.google.com/file/d/131gLaGFQzCGqfquMfHbI5A7qyF0R2tE5/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=131gLaGFQzCGqfquMfHbI5A7qyF0R2tE5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544918799"
+  },
+  {
+   "id": "AC9C0A6C89E189381C44A31D1AC73AFB",
+   "sender": "טלי זיו",
+   "text": "מתרגשת לשתף אתכן בהדרכה מיוחדת\nמוזמנות באהבה וגם לשתף כל מי שרלוונטי😘\nזה ביום שני הקרוב!!🫶🏼\nhttps://antmanyy.ravpage.co.il/WebinarEzraRishona",
+   "ts": 1792692026000,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC9C0A6C89E189381C44A31D1AC73AFB_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544918799"
+  },
+  {
+   "id": "ACD484781C166D76B72BF4AE47F8EBA6",
+   "sender": "טלי זיו",
+   "text": "*כי צו השעה - לחיות באהבה* !🫡\n איך ב5 צעדים 👣,\n *את הופכת כל ריחוק* , וכל כאב,\nלאהבה, שאת כל כך כמהה לה🌹\nשרייני👇🏽👇🏽👇🏽\nhttps://antmanyy.ravpage.co.il/WebinarEzraRishona",
+   "ts": 1792692029000,
+   "date": "2026-10-22",
+   "time": "21:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.9MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACD484781C166D76B72BF4AE47F8EBA6_0.mp4"
     }
    ],
    "drive": null,

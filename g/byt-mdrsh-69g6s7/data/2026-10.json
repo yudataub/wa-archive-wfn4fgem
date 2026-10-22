@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-10-21T17:11:38.089Z",
+ "updated": "2026-10-22T05:06:43.652Z",
  "messages": [
   {
    "id": "AC3F785D380B24CD8BE4370C8BC38B38",
@@ -265,6 +265,36 @@
    "ts": 1792602695000,
    "date": "2026-10-21",
    "time": "20:11",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC35FB0CCE9BF1F83AEC2E49CB04EDD6",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1792645536000,
+   "date": "2026-10-22",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "323KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC35FB0CCE9BF1F83AEC2E49CB04EDD6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACA3D93F29D65AAFF3CAC5DBF6961D26",
+   "sender": "יעקב בקר",
+   "text": "בוקר טוב\nהחברים מתבקשים להגיע 5 דק לפני 10\nמספר מקומות מוגבל\nתודה",
+   "ts": 1792645591000,
+   "date": "2026-10-22",
+   "time": "08:06",
    "files": [],
    "drive": null,
    "phone": "972549991157"

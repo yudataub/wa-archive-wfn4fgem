@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ג'",
- "updated": "2026-10-21T20:14:43.764Z",
+ "updated": "2026-10-22T12:50:22.355Z",
  "messages": [
   {
    "id": "ACEB4C097F897A12E7774B46815E09C7",
@@ -1219,6 +1219,98 @@
    "files": [],
    "drive": null,
    "phone": "972543466504"
+  },
+  {
+   "id": "3EB0A56981AC13AB9A82C1",
+   "sender": "אלחנן שטראוס",
+   "text": "מצורף מצגת אינרקטיבית ללימוד כשרות המאכלים. תהנו\nhttps://share.gemini.google/CgCTAoAZZzQJ",
+   "ts": 1792638575000,
+   "date": "2026-10-22",
+   "time": "06:09",
+   "files": [],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "3EB06B8CE12F9DCCF1F8E9",
+   "sender": "אלחנן שטראוס",
+   "text": "אשמח גם",
+   "ts": 1792638709000,
+   "date": "2026-10-22",
+   "time": "06:11",
+   "files": [],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "ACE0782A88F93BA4E6CB8065924E5189",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1792644110000,
+   "date": "2026-10-22",
+   "time": "07:41",
+   "files": [
+    {
+     "name": "פלייסמנט הלכה.pdf",
+     "size": "2.5MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACE0782A88F93BA4E6CB8065924E5189_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "3AAE32902DDEE18A00B6",
+   "sender": "נטלי",
+   "text": "תודה רבה 🤩",
+   "ts": 1792669580000,
+   "date": "2026-10-22",
+   "time": "14:46",
+   "files": [],
+   "drive": null,
+   "phone": "972527554333"
+  },
+  {
+   "id": "AC44D54C79FCE28756A507FE569E71E4",
+   "sender": "אסתר",
+   "text": "",
+   "ts": 1792669719000,
+   "date": "2026-10-22",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "166KB",
+     "type": "image/webp",
+     "path": "media/2026-10/AC44D54C79FCE28756A507FE569E71E4_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522944814"
+  },
+  {
+   "id": "AC0EC139089F1BD41311D87BF67A4BAA",
+   "sender": "זהבה",
+   "text": "",
+   "ts": 1792673410000,
+   "date": "2026-10-22",
+   "time": "15:50",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC0EC139089F1BD41311D87BF67A4BAA_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972526990097"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני העל-יסודי",
- "updated": "2026-10-21T13:55:13.156Z",
+ "updated": "2026-10-22T12:19:14.039Z",
  "messages": [
   {
    "id": "ACCDE1A438E1EFBC858D0CD2AF0B6ED9",
@@ -1337,6 +1337,75 @@
    "files": [],
    "drive": null,
    "phone": "972525802399"
+  },
+  {
+   "id": "3A11FD080EF88EF7D98E",
+   "sender": "עותניאל מנצור",
+   "text": "השתלמות ארצית מקצועית שמקדמת למידה פדגוגית אמונית, רגשית וחברתית בזום! \nנשמח שתעבירו למדריכים, למנהלים ומחנכים בבתי הספר.\nhttps://tinyurl.com/278ayux5",
+   "ts": 1792668851000,
+   "date": "2026-10-22",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A11FD080EF88EF7D98E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "ACF8C6D108607D7A6A0655CF619067D1",
+   "sender": "הרב יוסף קורקוס",
+   "text": "ממה הוא מפחד?\n👇🏻\nhttps://youtu.be/vxWJCjGLhBk",
+   "ts": 1792670973000,
+   "date": "2026-10-22",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "phone": "972545321263"
+  },
+  {
+   "id": "AC6C74334111D9D0F2335B0ECF37F941",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1792671535000,
+   "date": "2026-10-22",
+   "time": "15:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "379KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC6C74334111D9D0F2335B0ECF37F941_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "ACAC576692E64454333BC71D7E2F52EB",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1792671537000,
+   "date": "2026-10-22",
+   "time": "15:18",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.9MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACAC576692E64454333BC71D7E2F52EB_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
   }
  ]
 }

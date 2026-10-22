@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "סדירים תרבות פ\"ו",
- "updated": "2026-10-21T15:11:49.845Z",
+ "updated": "2026-10-22T17:58:50.309Z",
  "messages": [
   {
    "id": "3A269AD92F87E946C62B",
@@ -2734,6 +2734,57 @@
    "files": [],
    "drive": null,
    "phone": "972529561184"
+  },
+  {
+   "id": "3EB0E699B6BA7C76EB1F38",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "דיברתם איתם לגבי הבלבול הזה",
+   "ts": 1792690565000,
+   "date": "2026-10-22",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0E699B6BA7C76EB1F38_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACD3A995BBEAA080014EFED241EEBAAC",
+   "sender": "shay",
+   "text": "יש עדיין בלבול..",
+   "ts": 1792691895000,
+   "date": "2026-10-22",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972509124247"
+  },
+  {
+   "id": "AC50B8F076D63D10A9275E75BD4305C3",
+   "sender": "shay",
+   "text": "יש שני קורסים במקביל",
+   "ts": 1792691902000,
+   "date": "2026-10-22",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972509124247"
+  },
+  {
+   "id": "ACB85727ED7AA754BFDF4C57BA5C7CD2",
+   "sender": "shay",
+   "text": "של הרב קליר ושל הרב אביגדור",
+   "ts": 1792691920000,
+   "date": "2026-10-22",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972509124247"
   }
  ]
 }

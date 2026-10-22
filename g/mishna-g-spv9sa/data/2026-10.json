@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-10-20T19:57:11.307Z",
+ "updated": "2026-10-22T12:27:14.180Z",
  "messages": [
   {
    "id": "3EB0D6D8A7D613172DF49D",
@@ -584,6 +584,125 @@
    "files": [],
    "drive": null,
    "phone": "972527013065"
+  },
+  {
+   "id": "AC1E1A1DE76B7A56ED78CC71B73D3540",
+   "sender": "חן לביא",
+   "text": "סרטון הכרות עם כאמד''ט",
+   "ts": 1792671738000,
+   "date": "2026-10-22",
+   "time": "15:22",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "AC6047072336ED8B4A4DF0E75ADE2014",
+   "sender": "מוריה מימון",
+   "text": "יש קבוצה לכיתה ה'?",
+   "ts": 1792671794000,
+   "date": "2026-10-22",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "phone": "972502472375"
+  },
+  {
+   "id": "A56EDB3835BEB79DFDBD5CE2F1F04DCF",
+   "sender": "דוד ספיאשוילי",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1792671852000,
+   "date": "2026-10-22",
+   "time": "15:24",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "AC92666BF7B947098F2F4E7D7EFCD794",
+   "sender": "חן לביא",
+   "text": "",
+   "ts": 1792671870000,
+   "date": "2026-10-22",
+   "time": "15:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.3MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC92666BF7B947098F2F4E7D7EFCD794_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "A57026A964B682E067DCFF4BDB52BF9D",
+   "sender": "דוד ספיאשוילי",
+   "text": "באיזה כלי הכנת?",
+   "ts": 1792671904000,
+   "date": "2026-10-22",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "AC41172D5B97AA22E2119FE78AB62953",
+   "sender": "חן לביא",
+   "text": "טאב",
+   "ts": 1792671930000,
+   "date": "2026-10-22",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "ACBA6A596C0980378CC1B8D66CD88536",
+   "sender": "חן לביא",
+   "text": "בקשה פשוטה בוואטספ",
+   "ts": 1792671939000,
+   "date": "2026-10-22",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "AC06C67FA64C5E3552805F05F37AF2E5",
+   "sender": "חן לביא",
+   "text": "https://tab.bot/r/F1CBDFE81F925A25",
+   "ts": 1792671974000,
+   "date": "2026-10-22",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "AC9121E5FD3578DA68807F6150A57FBF",
+   "sender": "חן לביא",
+   "text": "כאן ההרשמה",
+   "ts": 1792671979000,
+   "date": "2026-10-22",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "A522AD392BBA20A82A0C58C841D01C24",
+   "sender": "דוד ספיאשוילי",
+   "text": "פחות חסיד של כלים כאלה... מכיר",
+   "ts": 1792672035000,
+   "date": "2026-10-22",
+   "time": "15:27",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
   }
  ]
 }

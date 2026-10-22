@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-10-19T16:45:39.108Z",
+ "updated": "2026-10-22T17:00:36.591Z",
  "messages": [
   {
    "id": "A54E3F65BE13576F66FDF451E7F82090",
@@ -253,6 +253,28 @@
      "skipped": "הקובץ לא נשמר"
     }
    ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A597AEDBFC032E044B90832B6ACE6DE9",
+   "sender": "אלחנן שניאור",
+   "text": "סרטון חדש על הפרשה",
+   "ts": 1792688425000,
+   "date": "2026-10-22",
+   "time": "20:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A51477FDD2569C0360E3E7EAA3209678",
+   "sender": "אלחנן שניאור",
+   "text": "https://youtube.com/shorts/BHU5rFoMF-Y?feature=share",
+   "ts": 1792688431000,
+   "date": "2026-10-22",
+   "time": "20:00",
+   "files": [],
    "drive": null,
    "phone": "972527693680"
   }

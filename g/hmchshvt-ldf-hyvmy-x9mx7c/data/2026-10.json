@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-21T03:17:04.741Z",
+ "updated": "2026-10-22T03:19:49.115Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -743,6 +743,63 @@
      "size": "85KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A4312FC3FA4EA1F6FC2_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD608CB326A89AA83A7",
+   "sender": ".",
+   "text": "״שלא יביא דבילה״ (בכורות לד, א).",
+   "ts": 1792639163000,
+   "date": "2026-10-22",
+   "time": "06:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "64KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AD608CB326A89AA83A7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A620577B2C94A861E78",
+   "sender": ".",
+   "text": "״ולאצטליתו״ (בכורות לד, ב).",
+   "ts": 1792639167000,
+   "date": "2026-10-22",
+   "time": "06:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A620577B2C94A861E78_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD378E370C29CDBED9E",
+   "sender": ".",
+   "text": "״שנתקווצה״ (בכורות לד, ב).",
+   "ts": 1792639170000,
+   "date": "2026-10-22",
+   "time": "06:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AD378E370C29CDBED9E_1.jpg",
      "skipped": ""
     }
    ],

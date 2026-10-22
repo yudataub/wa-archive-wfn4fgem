@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "נחל אליהו - שיעורי הגר\"א דיסקין",
- "updated": "2026-10-17T18:57:54.240Z",
+ "updated": "2026-10-22T15:58:07.998Z",
  "messages": [
   {
    "id": "AC5B82DCDE0EC2BBBDC51C279FA68ED9",
@@ -107,6 +107,26 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1AxGSdFVD5gCd3nCXuViADQ5qNpljAxc_/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972512266924"
+  },
+  {
+   "id": "ACD38D8F3D58729D8E34E16D00CB3035",
+   "sender": "להגדיל תורה",
+   "text": "",
+   "ts": 1792684687000,
+   "date": "2026-10-22",
+   "time": "18:58",
+   "files": [
+    {
+     "name": "פרשת לך לך 794.pdf",
+     "size": "5.2MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACD38D8F3D58729D8E34E16D00CB3035_0.pdf"
     }
    ],
    "drive": null,

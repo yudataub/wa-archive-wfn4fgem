@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת המורים של גוגל GEG",
- "updated": "2026-10-21T11:26:35.032Z",
+ "updated": "2026-10-22T11:31:29.931Z",
  "messages": [
   {
    "id": "AC6BDF99217222C5768915299F7068F8",
@@ -137,6 +137,17 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB03EE2185BAAD83C4344",
+   "sender": "חפציה",
+   "text": "הקלטת החלקים של ההנחיה בגאגתון אתמול -\nhttps://sites.google.com/view/geg-il/meetings/gegathon/GEGathon-1\nתמצאו בפנים גם את התוצרים השווים שכבר הגיעו!\nתודה לכל המורים שבאו אתמול ונתנו עבודה...\n\nרוצים לדעת על האירוע הבא שלנו? https://listmonk.gegisrael.com/join\nהמובילים של GEG ישראל",
+   "ts": 1792668683000,
+   "date": "2026-10-22",
+   "time": "14:31",
+   "files": [],
    "drive": null,
    "phone": "972544477081"
   }

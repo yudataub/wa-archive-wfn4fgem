@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-21T15:01:19.705Z",
+ "updated": "2026-10-22T11:13:06.409Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -4090,6 +4090,110 @@
    "files": [],
    "drive": null,
    "phone": "972587708082"
+  },
+  {
+   "id": "AC4B52F3ED8446CC644DA4307F5F95D8",
+   "sender": "אלחנן הלמן😊",
+   "text": "אשמח בבקשה לטקסט+שאלות על רחל אימנו לכיתה ה'.\nתודה!🙏🏼",
+   "ts": 1792644939000,
+   "date": "2026-10-22",
+   "time": "07:55",
+   "files": [],
+   "drive": null,
+   "phone": "972525971695"
+  },
+  {
+   "id": "3A0F7ADFE0E23CD4DB64",
+   "sender": "Naomie Gur-Arye",
+   "text": "",
+   "ts": 1792645111000,
+   "date": "2026-10-22",
+   "time": "07:58",
+   "files": [
+    {
+     "name": "רחל אמנו דפי עבודה מעניינים.pdf",
+     "size": "331KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3A0F7ADFE0E23CD4DB64_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972587135990"
+  },
+  {
+   "id": "3A7D27CC2660E3F3B1AA",
+   "sender": "Naomie Gur-Arye",
+   "text": "",
+   "ts": 1792645114000,
+   "date": "2026-10-22",
+   "time": "07:58",
+   "files": [],
+   "drive": null,
+   "phone": "972587135990"
+  },
+  {
+   "id": "AC3D835762AEF2F3B4BDD8C0A8EA5D7F",
+   "sender": "אלחנן הלמן😊",
+   "text": "אשמח לעוד אם יש.\nלכיתה בוגרת..\nתודה!",
+   "ts": 1792646283000,
+   "date": "2026-10-22",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972525971695"
+  },
+  {
+   "id": "ACC86509624BF9FBFC288B80CBBDE712",
+   "sender": "יעל שור",
+   "text": "",
+   "ts": 1792647410000,
+   "date": "2026-10-22",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "רָחֵל_אִמֵנוּ_-_מידע_-_מקורות+משימות_(לא_מנוקד-1)[1].pdf",
+     "size": "183KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACC86509624BF9FBFC288B80CBBDE712_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972523115676"
+  },
+  {
+   "id": "AC2D7CCBCA07ECCF04B5109C3F87F802",
+   "sender": "יעל שור",
+   "text": "",
+   "ts": 1792647412000,
+   "date": "2026-10-22",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "דף לימוד על רחל אמנו - כיתות גבוהות.pdf",
+     "size": "641KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC2D7CCBCA07ECCF04B5109C3F87F802_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972523115676"
+  },
+  {
+   "id": "AC849A7622DC800E9BD0E9281971786F",
+   "sender": "מוריה סדן🌾",
+   "text": "אשמח לחומרים לפרקים ב-ג בחומש",
+   "ts": 1792667567000,
+   "date": "2026-10-22",
+   "time": "14:12",
+   "files": [],
+   "drive": null,
+   "phone": "972586886385"
   }
  ]
 }

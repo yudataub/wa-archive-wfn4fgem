@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-20T15:24:41.590Z",
+ "updated": "2026-10-22T05:58:55.994Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -1475,6 +1475,117 @@
    ],
    "drive": null,
    "phone": "972532791643"
+  },
+  {
+   "id": "ACEFFC9E03498DBC1C0EB00A2B73E6FC",
+   "sender": "רונה",
+   "text": "רחל אימנו - הכי מדהים שראיתם | \n\n*סירטונים וסרטים לילדים בקבוצה הזאת - הקישור של הקבוצה למטה 👇*\n\n*שתפו הלאה את הסירטון  וגם אתם תחשבו למזכי הרבים 🥳*\n\n*להצטרפות לקבוצת סרטים חינוכיים לילדים מלאים בתוכן היכסנו עכשיו 👇*\n\n*יש לכם סרטים חינוכיים לשלוח לנו ונעלה לקבוצה??הקבוצה תשמח לקבל  מיכם סרטים / סירטונים  שילחו למספר 0502130777*",
+   "ts": 1792640989000,
+   "date": "2026-10-22",
+   "time": "06:49",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.9MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACEFFC9E03498DBC1C0EB00A2B73E6FC_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972546081268"
+  },
+  {
+   "id": "A5247730605487B9903F91DD70B6E499",
+   "sender": "מורן בלונים  בלונים לשמחה",
+   "text": "",
+   "ts": 1792642072000,
+   "date": "2026-10-22",
+   "time": "07:07",
+   "files": [
+    {
+     "name": "Rachel Imeinu's Path of Love.pdf",
+     "size": "12.1MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/A5247730605487B9903F91DD70B6E499_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972507944478"
+  },
+  {
+   "id": "AC75B86A87D7AC76C249247534B6E06F",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1792648232000,
+   "date": "2026-10-22",
+   "time": "08:50",
+   "files": [
+    {
+     "name": " .מצגת רחל אמנו צעירים.pdf",
+     "size": "2.1MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC75B86A87D7AC76C249247534B6E06F_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACE4FBD05D5FEA37CC0EC036832CA097",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1792648233000,
+   "date": "2026-10-22",
+   "time": "08:50",
+   "files": [
+    {
+     "name": ".רחל אמנו צעירים.pdf",
+     "size": "4.2MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACE4FBD05D5FEA37CC0EC036832CA097_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACFD59FF2A881E76988D46D5EAB39680",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1Td8P9_doTy5ubW9YZNnyA8sHEUDVlrQX",
+   "ts": 1792648234000,
+   "date": "2026-10-22",
+   "time": "08:50",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC3C75444D01F6562C54BB41A650A783",
+   "sender": "רותי גוטליב",
+   "text": "",
+   "ts": 1792648733000,
+   "date": "2026-10-22",
+   "time": "08:58",
+   "files": [
+    {
+     "name": "מצגת אמא רחל י''א חשוון - טייב רפאל",
+     "size": "12.5MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC3C75444D01F6562C54BB41A650A783_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972547709164"
   }
  ]
 }

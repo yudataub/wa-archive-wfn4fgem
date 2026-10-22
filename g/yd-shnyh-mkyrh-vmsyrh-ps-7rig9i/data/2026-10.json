@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-21T15:11:19.845Z",
+ "updated": "2026-10-22T18:55:58.053Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -3923,6 +3923,139 @@
    "files": [],
    "drive": null,
    "phone": "972505989747"
+  },
+  {
+   "id": "ACAF2B6934F9C4C30529A194E6501A75",
+   "sender": "don't worry, be happy",
+   "text": "למכירה כאלה המוקפים בעיגול.\nצעצוע אינטראקטיבי ומנורת לילה בשם Fizzy Pets מבית Silverlit\nבקבוק קסום עם אפקטים של קול, תאורה ומצבי ריקוד.\nשניהם ב100 שח\nאיסוף: נהריה או מעלות או קיבוץ סער",
+   "ts": 1792655953000,
+   "date": "2026-10-22",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACAF2B6934F9C4C30529A194E6501A75_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
+  },
+  {
+   "id": "ACFB882F31083D20538BD1434F821233",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792672057000,
+   "date": "2026-10-22",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACFB882F31083D20538BD1434F821233_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC338633D151DF709836225F9E028881",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792672058000,
+   "date": "2026-10-22",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC338633D151DF709836225F9E028881_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC3DD25C9969442AF366F6B5A5503988",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792672058000,
+   "date": "2026-10-22",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "270KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC3DD25C9969442AF366F6B5A5503988_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC6A86EA6181C2AFD058451E0DD28A15",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792672058000,
+   "date": "2026-10-22",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "336KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC6A86EA6181C2AFD058451E0DD28A15_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACF3863FC0876329D1561BB5D4BFEF5B",
+   "sender": "כלנית פרץ",
+   "text": "למכירה מיטה זוגית כולל מזרן 1.60 / 2.00 במצב מצויין כל הקודם זוכה ק.אתא",
+   "ts": 1792672267000,
+   "date": "2026-10-22",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACF3863FC0876329D1561BB5D4BFEF5B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546608452"
+  },
+  {
+   "id": "3EB0458BCB63725E885335",
+   "sender": "Noam",
+   "text": "*למכירה טלויזיה 32 אינץ' (לא חכמה) + שלט מקורי. לתלייה. במצב מצוין. 175 ש\"ח*",
+   "ts": 1792695339000,
+   "date": "2026-10-22",
+   "time": "21:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0458BCB63725E885335_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

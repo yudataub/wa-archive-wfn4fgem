@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-21T13:01:48.029Z",
+ "updated": "2026-10-22T11:43:00.052Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -878,6 +878,26 @@
      "type": "image/jpeg",
      "path": "media/2026-10/AC2915298BD8246230FE4EDE099144E9_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0D68B026DDED02A98D0",
+   "sender": "עמי חניא",
+   "text": "קצת נתונים על משחק השבת :)\nמוזמנים להפיץ ולשתף!!\nhttps://pash.closeapp.co.il/",
+   "ts": 1792669368000,
+   "date": "2026-10-22",
+   "time": "14:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "39.3MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0D68B026DDED02A98D0_0.mp4"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ד'",
- "updated": "2026-10-21T12:22:30.051Z",
+ "updated": "2026-10-22T16:22:59.115Z",
  "messages": [
   {
    "id": "AC3809E0F2193BF798232B03D3131EEC",
@@ -1455,6 +1455,28 @@
    "files": [],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "AC3D4C15BBAD2FC137AD5C9DC301B4DF",
+   "sender": "רחל שטיינר",
+   "text": "בוקר טוב, יש קבוצה להלכה לכיתה א ב ?",
+   "ts": 1792641491000,
+   "date": "2026-10-22",
+   "time": "06:58",
+   "files": [],
+   "drive": null,
+   "phone": "972505728830"
+  },
+  {
+   "id": "AC458A2185A94C0FD645448093A5D2B8",
+   "sender": "אתי",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1792686152000,
+   "date": "2026-10-22",
+   "time": "19:22",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }
