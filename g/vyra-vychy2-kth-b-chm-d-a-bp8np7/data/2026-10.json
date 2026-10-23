@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-20T18:46:25.876Z",
+ "updated": "2026-10-23T08:26:05.980Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -1484,6 +1484,28 @@
    ],
    "drive": null,
    "phone": "972549377036"
+  },
+  {
+   "id": "ACBF88008D4CEFE7ACE338A842284F33",
+   "sender": "ARAZI SHARONA",
+   "text": "https://youtu.be/TsRB9UwEwL4?si=dZXAKXm9MKcg4C7P",
+   "ts": 1792743962000,
+   "date": "2026-10-23",
+   "time": "11:26",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "AC5E443D3BFA68A042586AA2F99D20C3",
+   "sender": "ARAZI SHARONA",
+   "text": "👆🏽שיר שמתאים לפרשות לך לך וירא.\nלרפואת יהודה רחמים בן חנה",
+   "ts": 1792743964000,
+   "date": "2026-10-23",
+   "time": "11:26",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
   }
  ]
 }

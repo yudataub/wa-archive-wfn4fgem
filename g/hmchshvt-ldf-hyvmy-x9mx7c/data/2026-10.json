@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-22T03:19:49.115Z",
+ "updated": "2026-10-23T03:19:06.761Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -800,6 +800,63 @@
      "size": "140KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3AD378E370C29CDBED9E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AEDE2512D32D9BC4895",
+   "sender": ".",
+   "text": "״וראהו קסדור אחד״ (בכורות לה, א).",
+   "ts": 1792725519000,
+   "date": "2026-10-23",
+   "time": "06:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AEDE2512D32D9BC4895_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A005109F348D5C842FB",
+   "sender": ".",
+   "text": "״היה בכור רודפו״ (בכורות לה, א).",
+   "ts": 1792725523000,
+   "date": "2026-10-23",
+   "time": "06:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A005109F348D5C842FB_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A951F8ED72614EB75FC",
+   "sender": ".",
+   "text": "״ללגימא לא חיישינן״ (בכורות לה, א).",
+   "ts": 1792725524000,
+   "date": "2026-10-23",
+   "time": "06:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "87KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A951F8ED72614EB75FC_1.jpg",
      "skipped": ""
     }
    ],

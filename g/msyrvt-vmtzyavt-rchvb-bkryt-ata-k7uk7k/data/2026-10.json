@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-21T05:52:50.492Z",
+ "updated": "2026-10-23T11:22:36.152Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1652,6 +1652,131 @@
    ],
    "drive": null,
    "phone": "972528931791"
+  },
+  {
+   "id": "ACC9EBD18CA83DCBAEE5D8813F0E7192",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "למסירה כמו שאתם רואים במצב לא משהו",
+   "ts": 1792742805000,
+   "date": "2026-10-23",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "218KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACC9EBD18CA83DCBAEE5D8813F0E7192_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC1DCBDE9E4127AA72FEC15158EF775E",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1792744703000,
+   "date": "2026-10-23",
+   "time": "11:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "230KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC1DCBDE9E4127AA72FEC15158EF775E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACAD434B72709F481F5811077CA6899D",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1792744703000,
+   "date": "2026-10-23",
+   "time": "11:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACAD434B72709F481F5811077CA6899D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC0F303B2B2CD183AE15514CA512A8B4",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1792744957000,
+   "date": "2026-10-23",
+   "time": "11:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC0F303B2B2CD183AE15514CA512A8B4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "ACE3A4C493521CA3C6846CB9B7E69CE3",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1792745173000,
+   "date": "2026-10-23",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACE3A4C493521CA3C6846CB9B7E69CE3_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC41174511D96CDE916BD73B0CB24184",
+   "sender": "טלי דוד",
+   "text": "חזר להיות רלוונטי.\nלצערי קבעו ולא באו לאסוף",
+   "ts": 1792754041000,
+   "date": "2026-10-23",
+   "time": "14:14",
+   "files": [],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "ACBB1F34DF684A2349496D4B76A1F45C",
+   "sender": "Racheli Amittai רחלי אמתי",
+   "text": "בגדים לילדות מידות 3/4/5/6",
+   "ts": 1792754550000,
+   "date": "2026-10-23",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACBB1F34DF684A2349496D4B76A1F45C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528397104"
   }
  ]
 }

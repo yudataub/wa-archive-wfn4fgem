@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משתתפים משתפים #21 | LetsAI",
- "updated": "2026-10-22T05:24:46.578Z",
+ "updated": "2026-10-23T09:53:59.429Z",
  "messages": [
   {
    "id": "2AF1A46DE1488F178AE4",
@@ -107,6 +107,26 @@
    "date": "2026-10-22",
    "time": "08:24",
    "files": [],
+   "drive": null,
+   "phone": "972534122548"
+  },
+  {
+   "id": "2A8CE1E6DDD2EA70D9ED",
+   "sender": "SYSTM | הטמעת סוכני Ai לעסקים",
+   "text": "דעות חברים יקרים?",
+   "ts": 1792749219000,
+   "date": "2026-10-23",
+   "time": "12:53",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.0MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/2A8CE1E6DDD2EA70D9ED_0.mp4"
+    }
+   ],
    "drive": null,
    "phone": "972534122548"
   }
