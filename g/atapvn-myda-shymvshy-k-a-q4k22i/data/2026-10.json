@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-24T19:04:57.655Z",
+ "updated": "2026-10-24T19:33:02.942Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -4631,9 +4631,10 @@
      "name": "וידאו.mp4",
      "size": "12.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACD7926B60766B8144F804C4FCA55A75_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/ACD7926B60766B8144F804C4FCA55A75_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACD7926B60766B8144F804C4FCA55A75_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/ACD7926B60766B8144F804C4FCA55A75_0.mp4"
     }
    ],
    "drive": null,
@@ -4670,9 +4671,10 @@
      "name": "וידאו.mp4",
      "size": "26.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/A507150AC4F6C051231FF555A8BB926A_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/A507150AC4F6C051231FF555A8BB926A_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/A507150AC4F6C051231FF555A8BB926A_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/A507150AC4F6C051231FF555A8BB926A_0.mp4"
     }
    ],
    "drive": null,
@@ -4749,6 +4751,67 @@
      "type": "image/jpeg",
      "path": "media/2026-10/3EB088E56A1AE98C17A0CE_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527146142"
+  },
+  {
+   "id": "A50D08F91241B04543F6B9987531F996",
+   "sender": "תמי",
+   "text": "צפוניים?\nנמאס לכם לשלם על כל שירות יקר?\nהקבוצה הזאת בשבילכם!\n*קבוצה רק של הטבות* לעסקים שאתה צריך אותם....\nאז למה אתם מחכים?\nתיכנסו ושתפו הלאה\nככל שנהיה יותר חברים בקבוצה ההטבות יהיו הרבה יותר משתלמות לכולנו....",
+   "ts": 1792869574000,
+   "date": "2026-10-24",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "AC03B8DA4E4C4C4BE01E55C51F8BB306",
+   "sender": "אריאל",
+   "text": "יש תמןנה יותר ברןרה ?",
+   "ts": 1792870033000,
+   "date": "2026-10-24",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "ACF1D8345F412A690FBA15FA08BF003C",
+   "sender": "Hani",
+   "text": "טיולים ביום הבחירות -\n\n*ב-27.10 חייבים הפעם לבחור!* 🗳️\nיום ג', ט\"ז חשוון, 27.10\n\nאנחנו מזמינים אתכם להצטרף אלינו\nלטיולים מגוונים לכל המשפחה לרגל יום הבחירות.\n\n*מה בתכנית?*\n🗺️ בוחרים במעיינות: אל נחל המעיינות\n🌳 בוחרים במערות: אל מערת חריטון ונחל תקוע\n🏛️ בוחרים בהרודיון ורכס הכנוב: סיור למיטיבי קשב בעקבות חידושי המחקר במזרח גוש עציון.\n\nלפרטים והרשמה  👇\nhttps://kfar-etzion.com/4scULPe\n\nשתפו בכיף❣️    \n\n*רוצים לקבל מידע על אטרקציות ואירועים❓*\n*👏הצטרפו לאחת מעשרת קבוצות האטרקציות*👇",
+   "ts": 1792870176000,
+   "date": "2026-10-24",
+   "time": "22:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "779KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACF1D8345F412A690FBA15FA08BF003C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543661029"
+  },
+  {
+   "id": "3EB074EA709142BEC64646",
+   "sender": "סטודיו שרז עיצוב ופרסום",
+   "text": "כן מצורף",
+   "ts": 1792870357000,
+   "date": "2026-10-24",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "כרמיאל 25.10.pdf",
+     "size": "2.3MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB074EA709142BEC64646_0.pdf"
     }
    ],
    "drive": null,

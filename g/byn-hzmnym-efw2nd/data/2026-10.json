@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-23T06:56:20.519Z",
+ "updated": "2026-10-24T20:23:40.691Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -3240,6 +3240,66 @@
    "files": [],
    "drive": null,
    "phone": "972523595740"
+  },
+  {
+   "id": "AC7E53B37B2F2FBD9D2E03ADE30A2B28",
+   "sender": "ניצנית🪻",
+   "text": "",
+   "ts": 1792873248000,
+   "date": "2026-10-24",
+   "time": "23:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC7E53B37B2F2FBD9D2E03ADE30A2B28_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546558388"
+  },
+  {
+   "id": "AC2E222FAE206EE1D1FB8D44B24A5F87",
+   "sender": "איריס בר טל",
+   "text": "https://gan-mekadem.lovable.app",
+   "ts": 1792873398000,
+   "date": "2026-10-24",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC16B3F25342804A41563C52E68F149B",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1792873400000,
+   "date": "2026-10-24",
+   "time": "23:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC16B3F25342804A41563C52E68F149B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC296E02C077861E905E83CA8D33636F",
+   "sender": "איריס בר טל",
+   "text": "*מתחם יפהפה בלב צפת*\n*32 מיטות,אפשרות למזרונים*\n*שבתות חתן,חלאקה,*\n*בריתות,חינה ואירועים קטנים*",
+   "ts": 1792873400000,
+   "date": "2026-10-24",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
   }
  ]
 }

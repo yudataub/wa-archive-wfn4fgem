@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-24T18:45:20.607Z",
+ "updated": "2026-10-24T20:25:10.718Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -10142,9 +10142,10 @@
      "name": "וידאו.mp4",
      "size": "26.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/A56CFA0F701C4ED4FDF955A53770829E_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/A56CFA0F701C4ED4FDF955A53770829E_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/A56CFA0F701C4ED4FDF955A53770829E_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/A56CFA0F701C4ED4FDF955A53770829E_0.mp4"
     }
    ],
    "drive": null,
@@ -10270,6 +10271,17 @@
    "files": [],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "3A7E06B89410BEEB4282",
+   "sender": "יעל פולק רזניק",
+   "text": "שלום\nמישהו שנוסע מחר לחריש ויכול לקחת שקית קטנה חשובה\nבבקשה בפרטי 🙏🏻\nתודה מראש",
+   "ts": 1792873499000,
+   "date": "2026-10-24",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972549843477"
   }
  ]
 }

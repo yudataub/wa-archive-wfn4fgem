@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-10-24T17:48:59.166Z",
+ "updated": "2026-10-24T19:53:26.525Z",
  "messages": [
   {
    "id": "3EB0F61AAC3D9FD6563C6F",
@@ -5459,9 +5459,10 @@
      "name": "וידאו.mp4",
      "size": "14.4MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB08CEBB30E12DFCD6B95_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/3EB08CEBB30E12DFCD6B95_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB08CEBB30E12DFCD6B95_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vdyalvg-mquhgq/v/2026-10/3EB08CEBB30E12DFCD6B95_0.mp4"
     }
    ],
    "drive": null,
@@ -5510,6 +5511,26 @@
    "files": [],
    "drive": null,
    "phone": "972522556245"
+  },
+  {
+   "id": "3EB0DA2B0B3190123C5540",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "תוך כדי עבודה על התוכן הפרסומי של *סדנאות נובמבר* יצרתי עם קלוד עורך שמאפשר לי לערוך את העיצוב של הפוסטר בקלות. אז ארזתי את הכל ב Skill שכולם יוכלו להשתמש בו. \nההסבר והסקיל כאן: https://www.lomdot.org/post/editable-design-skill\nלהצטרפות לקבוצה שלי הוראה יצירתית עם AI\nשבוע טוב - שירה",
+   "ts": 1792871576000,
+   "date": "2026-10-24",
+   "time": "22:52",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.3MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0DA2B0B3190123C5540_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }
