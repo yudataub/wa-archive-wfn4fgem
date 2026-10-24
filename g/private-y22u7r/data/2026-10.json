@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-24T20:45:48.169Z",
+ "updated": "2026-10-24T21:13:48.588Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -18372,6 +18372,18 @@
    "drive": null,
    "thread": "הילה שמר",
    "phone": "972534596413"
+  },
+  {
+   "id": "3EB0465174383DB162D9DB",
+   "sender": "עמירם אלבה",
+   "text": "בפלילסט של תפילת העמידה מופיעים 78 סרטונים https://www.youtube.com/playlist?list=PLOr5C9Yi2Y638uf3hASucvzJeauwbKP3a\nביפוש עולה הרבה פחות. לא יודע למה",
+   "ts": 1792876419000,
+   "date": "2026-10-25",
+   "time": "00:13",
+   "files": [],
+   "drive": null,
+   "thread": "עמירם אלבה",
+   "phone": "972545236548"
   }
  ]
 }

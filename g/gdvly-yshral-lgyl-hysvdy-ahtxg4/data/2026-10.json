@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-10-24T17:26:43.804Z",
+ "updated": "2026-10-24T21:38:55.700Z",
  "messages": [
   {
    "id": "AC76547AB5B04F282D39DE7B0EBA987E",
@@ -1689,6 +1689,59 @@
    "time": "20:26",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACE73628A90DAE0B204920CFE435FF62",
+   "sender": "בתאל חמו",
+   "text": "מחפשת דף צביעה או עבודה לפרקי אבות לכיתה א', יש אולי תיקיית דרייב?",
+   "ts": 1792876652000,
+   "date": "2026-10-25",
+   "time": "00:17",
+   "files": [],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "ACCB68EFBD582911DFCE919B7B3F5CF5",
+   "sender": "בתאל חמו",
+   "text": "היה לי פעם דף צביעה ל-\n\"על שלושה דברים העולם עומד על התורה ועל העבודה ועל גמילות חסדים\", יש למשהו לשלוח לי אולי?",
+   "ts": 1792876906000,
+   "date": "2026-10-25",
+   "time": "00:21",
+   "files": [],
+   "drive": null,
+   "phone": "972527905796"
+  },
+  {
+   "id": "ACF5AFC1BC1914DF5BFFC14DD9C9B97D",
+   "sender": "רפאל כהן",
+   "text": "",
+   "ts": 1792877931000,
+   "date": "2026-10-25",
+   "time": "00:38",
+   "files": [
+    {
+     "name": "אבות א ב - לצביעה - גדול.docx",
+     "size": "35KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACF5AFC1BC1914DF5BFFC14DD9C9B97D_0.docx"
+    }
+   ],
+   "drive": null,
+   "phone": "972503070424"
+  },
+  {
+   "id": "AC44B0A145FC957DF10FA66E29AD798B",
+   "sender": "רפאל כהן",
+   "text": "https://drive.google.com/drive/folders/0BwpslM9oBm3pN2dibXF3S1ItLTQ?resourcekey=0-3Fh8gVtN_HoNT3V6brE_zA",
+   "ts": 1792877933000,
+   "date": "2026-10-25",
+   "time": "00:38",
+   "files": [],
+   "drive": null,
+   "phone": "972503070424"
   }
  ]
 }

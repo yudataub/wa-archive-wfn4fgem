@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-24T20:23:40.691Z",
+ "updated": "2026-10-24T22:08:56.220Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -3300,6 +3300,25 @@
    "files": [],
    "drive": null,
    "phone": "972524031418"
+  },
+  {
+   "id": "AC9D8DF8890C5609024D688ADC62AE6E",
+   "sender": "ניצנית🪻",
+   "text": "",
+   "ts": 1792879717000,
+   "date": "2026-10-25",
+   "time": "01:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "306KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC9D8DF8890C5609024D688ADC62AE6E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546558388"
   }
  ]
 }

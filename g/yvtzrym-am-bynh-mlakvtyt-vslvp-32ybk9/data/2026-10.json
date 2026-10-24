@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-10-24T21:07:34.794Z",
+ "updated": "2026-10-24T21:52:10.563Z",
  "messages": [
   {
    "id": "3EB0605B7CA0028F935D7E",
@@ -46816,9 +46816,10 @@
      "name": "וידאו.mp4",
      "size": "8.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB02E666AF296D65AB7A8_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-10/3EB02E666AF296D65AB7A8_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB02E666AF296D65AB7A8_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-10/3EB02E666AF296D65AB7A8_0.mp4"
     }
    ],
    "drive": null,
@@ -47130,6 +47131,28 @@
    ],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "A53DD89A669C216D1DF3BA4CC2CC3396",
+   "sender": "natalie yehiam",
+   "text": "קריפי לגמרי",
+   "ts": 1792876393000,
+   "date": "2026-10-25",
+   "time": "00:13",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "AC60EB1D68907D611E677FE82A0E820F",
+   "sender": "אסתי יניב",
+   "text": "רגע, מעל 400 הודעות.\nהמועצת יצאה לפועל? הלכתי לאיבוד. איפה הפרטים?",
+   "ts": 1792878719000,
+   "date": "2026-10-25",
+   "time": "00:51",
+   "files": [],
+   "drive": null,
+   "phone": "972587121308"
   }
  ]
 }
