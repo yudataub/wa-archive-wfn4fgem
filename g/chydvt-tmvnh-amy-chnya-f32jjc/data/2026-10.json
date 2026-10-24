@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-10-23T06:17:30.541Z",
+ "updated": "2026-10-24T16:17:24.275Z",
  "messages": [
   {
    "id": "3EB0E56F69B4F4F91ACBF5",
@@ -917,6 +917,25 @@
      "size": "284KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3EB0CB1A148CAB7B143CC7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0EC379DBB71F3340FBB",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: בחירות\n\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1792858634000,
+   "date": "2026-10-24",
+   "time": "19:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "381KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0EC379DBB71F3340FBB_1.jpg",
      "skipped": ""
     }
    ],

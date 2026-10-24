@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מובילי קבוצות \"חומר פתוח\"",
- "updated": "2026-10-22T13:16:22.813Z",
+ "updated": "2026-10-24T17:01:47.252Z",
  "messages": [
   {
    "id": "3EB016B3306FC93D24BA6D",
@@ -484,6 +484,37 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "A55E9C244711DCBA09DA0A9BDE4F1C02",
+   "sender": "mary garby",
+   "text": "",
+   "ts": 1792861305000,
+   "date": "2026-10-24",
+   "time": "20:01",
+   "files": [
+    {
+     "name": "nine-squares-he.pdf",
+     "size": "393KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/A55E9C244711DCBA09DA0A9BDE4F1C02_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972546887626"
+  },
+  {
+   "id": "A5A6CCED09401D384F6EA7FEC21CFE82",
+   "sender": "mary garby",
+   "text": "https://www.facebook.com/reel/2193290284733790/?referral_source=external_link&surface_type=tab&in_reels_tab_context=TRUE",
+   "ts": 1792861305000,
+   "date": "2026-10-24",
+   "time": "20:01",
+   "files": [],
+   "drive": null,
+   "phone": "972546887626"
   }
  ]
 }

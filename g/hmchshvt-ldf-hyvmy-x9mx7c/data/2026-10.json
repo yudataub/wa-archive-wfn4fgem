@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-23T03:19:06.761Z",
+ "updated": "2026-10-24T15:48:23.838Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -857,6 +857,44 @@
      "size": "87KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A951F8ED72614EB75FC_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A17BFDF62C36516966B",
+   "sender": ".",
+   "text": "״רמא ליה שערי בסלי נצרים״ (בכורות לו, א).",
+   "ts": 1792856897000,
+   "date": "2026-10-24",
+   "time": "18:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A17BFDF62C36516966B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A0FE70A587DCBAC0BE3",
+   "sender": ".",
+   "text": "״הנלחמים במלחמתה של תורה״ (רש״י בכורות לו, א).",
+   "ts": 1792856899000,
+   "date": "2026-10-24",
+   "time": "18:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A0FE70A587DCBAC0BE3_1.jpg",
      "skipped": ""
     }
    ],
