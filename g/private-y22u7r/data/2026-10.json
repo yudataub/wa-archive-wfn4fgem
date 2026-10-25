@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות",
- "updated": "2026-10-24T21:13:48.588Z",
+ "updated": "2026-10-25T02:35:20.765Z",
  "messages": [
   {
    "id": "A5CB9DCF23A227CC21DF9A146AE6D392",
@@ -18384,6 +18384,1137 @@
    "drive": null,
    "thread": "עמירם אלבה",
    "phone": "972545236548"
+  },
+  {
+   "id": "A59B3C0C68C5E7CB27019D7BAA230360",
+   "sender": "אני",
+   "text": "",
+   "ts": 1792893226000,
+   "date": "2026-10-25",
+   "time": "03:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A59B3C0C68C5E7CB27019D7BAA230360_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5639FDC562CCC3DAD20AA082ECB5B11",
+   "sender": "אני",
+   "text": "בוקר טוב\nאת רוצה שאני יבקש מאורלי שתבקש ממך\nכי את רוצה להיות בטוחה שזה לא הולך למקומות זרים?\nאני עושה את זה נטו לבית ספר.",
+   "ts": 1792895116000,
+   "date": "2026-10-25",
+   "time": "04:25",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACD6ECC1BBF433F0AABDD9F87E603C00",
+   "sender": "רחל איטח",
+   "text": "בוקר טוב הרב יהודה,\nהכול בסדר. \nאני פשוט עמוסה...\nבודקת",
+   "ts": 1792895161000,
+   "date": "2026-10-25",
+   "time": "04:26",
+   "files": [],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB012DB1FBA44660D8E41",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ב.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB012DB1FBA44660D8E41_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB02C3FD852771A89DFCC",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ג.docx",
+     "size": "928KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB02C3FD852771A89DFCC_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB050E5C938EF2A6ECC14",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ג.pdf",
+     "size": "261KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB050E5C938EF2A6ECC14_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB07E5CD7E3327EEDDBFF",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה א.docx",
+     "size": "831KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB07E5CD7E3327EEDDBFF_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB088208487E2D5F6CC53",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ד.docx",
+     "size": "932KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB088208487E2D5F6CC53_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB08B49FA3A7DA975594E",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ו.docx",
+     "size": "927KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB08B49FA3A7DA975594E_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0B83372BBC5721F330D",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ד.pdf",
+     "size": "308KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0B83372BBC5721F330D_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0C804E95FF03F45FB27",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ב.pdf",
+     "size": "291KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0C804E95FF03F45FB27_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0D1EEC06EF3B1F4366D",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ה.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0D1EEC06EF3B1F4366D_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0D3AA8AA3C3B73FB640",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ו.pdf",
+     "size": "308KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0D3AA8AA3C3B73FB640_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0D8AC036A017517F5E7",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה ה.pdf",
+     "size": "207KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0D8AC036A017517F5E7_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0FAD60B0B4060A19041",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895248000,
+   "date": "2026-10-25",
+   "time": "04:27",
+   "files": [
+    {
+     "name": "מבדק חיי שרה כיתה א.pdf",
+     "size": "398KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0FAD60B0B4060A19041_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0426B94A710DF6FD97C",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895283000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ד.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0426B94A710DF6FD97C_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB00AFED1D720EB0F532B",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ה.docx",
+     "size": "927KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB00AFED1D720EB0F532B_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB02187884163F53A5F65",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ה.pdf",
+     "size": "191KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB02187884163F53A5F65_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB050E83493E00485297B",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ג.pdf",
+     "size": "161KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB050E83493E00485297B_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0635EA8E8CFE3E68F11",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות- כיתה א.pdf",
+     "size": "448KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0635EA8E8CFE3E68F11_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB07468ECC7858149AD32",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ג.docx",
+     "size": "928KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB07468ECC7858149AD32_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0A051CEAB5EA69BA9BA",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ד.pdf",
+     "size": "213KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0A051CEAB5EA69BA9BA_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0A294C5974EB6B45C0A",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ב.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0A294C5974EB6B45C0A_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0BE1E2AF2A05056FCE9",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ו.docx",
+     "size": "928KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0BE1E2AF2A05056FCE9_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0D0AC3D51729A7AA3F0",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ב.pdf",
+     "size": "273KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0D0AC3D51729A7AA3F0_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0E48109AFAD2C8EDE68",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות כיתה ו.pdf",
+     "size": "191KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0E48109AFAD2C8EDE68_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0E723EB249B64AE16E7",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895284000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק תולדות- כיתה א.docx",
+     "size": "481KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0E723EB249B64AE16E7_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB02449C85AA0E8C63E21",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895318000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ו.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB02449C85AA0E8C63E21_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0B45FA45F8308A13782",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895318000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ה.docx",
+     "size": "927KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0B45FA45F8308A13782_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0CF9F9DA86A29AF3434",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895318000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ו.pdf",
+     "size": "292KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0CF9F9DA86A29AF3434_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0E0A917A40AFEDAF61B",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895318000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "פרשת ויגש כיתות ב.docx",
+     "size": "928KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0E0A917A40AFEDAF61B_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0E8D7D1A885E510A231",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895318000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ד.pdf",
+     "size": "291KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0E8D7D1A885E510A231_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0ED32845EF5702D8C53",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895318000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ה.pdf",
+     "size": "190KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0ED32845EF5702D8C53_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "ACA8C03712F717398A7700570F6FCB8B",
+   "sender": "רחל איטח",
+   "text": "זה כל מה שיש לי",
+   "ts": 1792895321000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB056339332CCB3AE139C",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895324000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "כיתה א.docx",
+     "size": "577KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB056339332CCB3AE139C_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0A8441B3E70557E7838",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895324000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "כיתה א.pdf",
+     "size": "396KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0A8441B3E70557E7838_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0BB01C48AB4074BC7E5",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895324000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "פרשת ויגש כיתות ב.pdf",
+     "size": "292KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0BB01C48AB4074BC7E5_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB009FB762835E77652DE",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתות ב.docx",
+     "size": "928KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB009FB762835E77652DE_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB016FE6E7F26C369163C",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ה.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB016FE6E7F26C369163C_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB03D4B4D1A58665D42BD",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ה.pdf",
+     "size": "291KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB03D4B4D1A58665D42BD_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB04FE10FF19A0138EC03",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ו.docx",
+     "size": "931KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB04FE10FF19A0138EC03_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB054FEFFCC8E33D49BFB",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ג.pdf",
+     "size": "189KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB054FEFFCC8E33D49BFB_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB05747997572532B3988",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ג.docx",
+     "size": "928KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB05747997572532B3988_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0630F54C1F90EDEA29E",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ג.pdf",
+     "size": "167KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0630F54C1F90EDEA29E_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB068311EF477068CD05B",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה א.pdf",
+     "size": "518KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB068311EF477068CD05B_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0816535BA4567AC658F",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתות ב.pdf",
+     "size": "280KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0816535BA4567AC658F_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB098C636B821D2449DBE",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה א.docx",
+     "size": "1.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB098C636B821D2449DBE_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB09CABD2CCA56B01751A",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ג.docx",
+     "size": "930KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB09CABD2CCA56B01751A_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB09FC73D2AC1C1E74B67",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויגש כיתה ד.docx",
+     "size": "929KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB09FC73D2AC1C1E74B67_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0AA12116A06474B6FE6",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ד.docx",
+     "size": "927KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0AA12116A06474B6FE6_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0C77816B1CEB035474E",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ד.pdf",
+     "size": "299KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0C77816B1CEB035474E_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "3EB0D638DCBFD28024BC00",
+   "sender": "רחל איטח",
+   "text": "",
+   "ts": 1792895325000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [
+    {
+     "name": "מבדק ויחי כיתה ו.pdf",
+     "size": "159KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0D638DCBFD28024BC00_0.pdf"
+    }
+   ],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "AC308264037492F7F112A6F5086AC099",
+   "sender": "רחל איטח",
+   "text": "בהצלחה רבה",
+   "ts": 1792895330000,
+   "date": "2026-10-25",
+   "time": "04:28",
+   "files": [],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "A5C440912689C739DC0E478E9E5B8DC9",
+   "sender": "אני",
+   "text": "סליחה על עוד בקשה \nיש לך גם את מפתח התשובות\nחני אמרה לי שהיא כתבה גם את מפתח התשובות",
+   "ts": 1792895498000,
+   "date": "2026-10-25",
+   "time": "04:31",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1342CD668D39DB431608DEC52AF7C9",
+   "sender": "רחל איטח",
+   "text": "היא כתבה אך לא שמרתי אותו...",
+   "ts": 1792895530000,
+   "date": "2026-10-25",
+   "time": "04:32",
+   "files": [],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
+  },
+  {
+   "id": "A5BB062BCA4BC4D6EE21067EDD256CC0",
+   "sender": "אני",
+   "text": "בסדר המחשב עושה את זה במקומה\nלמרות שהיא נבהלה מאוד מהרעיון.",
+   "ts": 1792895578000,
+   "date": "2026-10-25",
+   "time": "04:32",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A53BD283CCDDDDCE5CF2C26FF7B2CF98",
+   "sender": "אני",
+   "text": "אם את צריכה עזרה \nאפשר בשמחה\nמה שהכרת שנה שעברה קטן על מה שיש השנה\nהביצועים גדלו פי כמה וכמה",
+   "ts": 1792895633000,
+   "date": "2026-10-25",
+   "time": "04:33",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1A4CEEB3770B49F428D6388ABED731",
+   "sender": "רחל איטח",
+   "text": "מעולה. אני שמחה לשמוע.",
+   "ts": 1792895716000,
+   "date": "2026-10-25",
+   "time": "04:35",
+   "files": [],
+   "drive": null,
+   "thread": "רחל איטח",
+   "phone": "972522414903"
   }
  ]
 }
