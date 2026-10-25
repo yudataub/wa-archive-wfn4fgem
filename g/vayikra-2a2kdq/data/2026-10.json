@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-24T23:04:34.030Z",
+ "updated": "2026-10-24T23:29:40.941Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -7239,9 +7239,10 @@
      "name": "קרבן שלמים דף עבודה.pdf",
      "size": "64KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0BF5E1F76AB8E3A77A7_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB0BF5E1F76AB8E3A77A7_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB0BF5E1F76AB8E3A77A7_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB0BF5E1F76AB8E3A77A7_0.pdf"
     }
    ],
    "drive": null,
@@ -7259,9 +7260,10 @@
      "name": "חומש ויקרא פרק ד קורבן חטאת.pdf",
      "size": "18.3MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/4A4442C63DBF3F78A6EE_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/4A4442C63DBF3F78A6EE_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/4A4442C63DBF3F78A6EE_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/4A4442C63DBF3F78A6EE_0.pdf"
     }
    ],
    "drive": null,
@@ -7323,9 +7325,10 @@
      "name": "קרבן שלמים – ויקרא פרק ג׳ (מורחב עם שאלות עמוד 20).pdf",
      "size": "21.2MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/4AD3600FAA03FA1C2C51_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/4AD3600FAA03FA1C2C51_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/4AD3600FAA03FA1C2C51_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/4AD3600FAA03FA1C2C51_0.pdf"
     }
    ],
    "drive": null,
@@ -7343,9 +7346,10 @@
      "name": "מנחה - ויקרא פרק ב'.pdf",
      "size": "14.7MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/4A3F0C67FCBB64735869_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/4A3F0C67FCBB64735869_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/4A3F0C67FCBB64735869_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/4A3F0C67FCBB64735869_0.pdf"
     }
    ],
    "drive": null,
@@ -7361,6 +7365,17 @@
    "files": [],
    "drive": null,
    "phone": "972527143406"
+  },
+  {
+   "id": "AC5B2166117B5575BA0FA574592F8B44",
+   "sender": "אביבה אריאל",
+   "text": "יש בקובץ בפרטי הקבוצה",
+   "ts": 1792884559000,
+   "date": "2026-10-25",
+   "time": "01:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547661481"
   }
  ]
 }
