@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אוריאל הרצוג - תכנים, עדכונים ומחשבות",
- "updated": "2026-10-23T07:06:57.627Z",
+ "updated": "2026-10-25T21:03:30.625Z",
  "messages": [
   {
    "id": "A5DD8E52802A9D0DB1F543EAFFD42775",
@@ -41,6 +41,17 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972525289715"
+  },
+  {
+   "id": "3EB0B4BC12024CF86CC33D",
+   "sender": "אוריאל הרצוג",
+   "text": "https://docs.google.com/document/d/1LvBWIGQ2pxqhlTpwbiBODLChuQh39m8LyhKitR2-2k8/edit?usp=sharing\n\nמחשבות שכתבתי לעצמי ערב הבחירות של תש\"פ (סבב 3 למי שזוכר...) ונזכרתי בהן כעת.",
+   "ts": 1792962183000,
+   "date": "2026-10-25",
+   "time": "23:03",
+   "files": [],
    "drive": null,
    "phone": "972525289715"
   }

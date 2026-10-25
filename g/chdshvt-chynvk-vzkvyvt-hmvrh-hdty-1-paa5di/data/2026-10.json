@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חדשות חינוך וזכויות המורה הדתי #1",
- "updated": "2026-10-23T07:19:57.858Z",
+ "updated": "2026-10-25T14:11:57.409Z",
  "messages": [
   {
    "id": "A5F35C0BAF0148BF50C2E8370BD3176A",
@@ -619,6 +619,63 @@
      "size": "224KB",
      "type": "image/jpeg",
      "path": "media/2026-10/A586484ECE4A95CC9D5834BE4FD44680_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A599580C7CDD2DB1DCB4788DEAE98C76",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי #1*",
+   "ts": 1792934853000,
+   "date": "2026-10-25",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A599580C7CDD2DB1DCB4788DEAE98C76_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A583DD6F8042CAC9D9F1B88103E5DD82",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי #1*",
+   "ts": 1792937422000,
+   "date": "2026-10-25",
+   "time": "16:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A583DD6F8042CAC9D9F1B88103E5DD82_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A557CD1CA3C6437AECC39A68B4AAEBD4",
+   "sender": "אוריאל פדידה",
+   "text": "*גורמי הלחץ המרכזיים בקרב מורים בישראל*\n1. אחריות להישגי התלמידים52%.\n 2. שמירה על משמעת וניהול כיתה 49% \n3. אחריות לרווחה החברתית והרגשית של התלמידים 42% \n\nלכתבה המלאה:( יש להפעיל תרגום)\nhttps://www.tandfonline.com/doi/full/10.1080/13537121.2025.2511663#d1e565\n*עקבו אחרי ערוץ החדשות שלנו בווצאפ : חדשות חינוך וזכויות המורה הדתי:*\nhttps://whatsapp.com/channel/0029Vb8bfFeKGGGAcXhmYu14",
+   "ts": 1792937517000,
+   "date": "2026-10-25",
+   "time": "16:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "187KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A557CD1CA3C6437AECC39A68B4AAEBD4_1.jpg",
      "skipped": ""
     }
    ],

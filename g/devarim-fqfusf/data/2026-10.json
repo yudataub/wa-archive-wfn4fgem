@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-24T18:05:06.263Z",
+ "updated": "2026-10-25T15:04:43.036Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -3525,6 +3525,103 @@
    "files": [],
    "drive": null,
    "phone": "972546407404"
+  },
+  {
+   "id": "ACAA4186B5C1D95AB506D658879D7A97",
+   "sender": "פייגי",
+   "text": "אפשר לשלוח שןב?",
+   "ts": 1792914821000,
+   "date": "2026-10-25",
+   "time": "09:53",
+   "files": [],
+   "drive": null,
+   "phone": "972533647538"
+  },
+  {
+   "id": "ACC1FF16DF1D883622D1B7E7FD3A9188",
+   "sender": "אילנה👑",
+   "text": "יש קבוצה כזו למקצוע משנה ?",
+   "ts": 1792919921000,
+   "date": "2026-10-25",
+   "time": "11:18",
+   "files": [],
+   "drive": null,
+   "phone": "972529533371"
+  },
+  {
+   "id": "ACECF94A6B031D15A9689D13D87C9401",
+   "sender": "חיה קיסוס",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing",
+   "ts": 1792921074000,
+   "date": "2026-10-25",
+   "time": "11:37",
+   "files": [],
+   "drive": null,
+   "phone": "972543119363"
+  },
+  {
+   "id": "ACA49FB0A7FAC3888D6CD173120EC469",
+   "sender": "לדן",
+   "text": "אשמח לרשימה של פסוקים בחומש דברים שצריכים לדעת את פרושי רשי שלהם.",
+   "ts": 1792938628000,
+   "date": "2026-10-25",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546407404"
+  },
+  {
+   "id": "ACC6B05D82D54C4984A71D75A9BD747B",
+   "sender": "ליאור",
+   "text": "",
+   "ts": 1792939576000,
+   "date": "2026-10-25",
+   "time": "16:46",
+   "files": [
+    {
+     "name": "פסוקי רשי חומש דברים.pdf",
+     "size": "444KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACC6B05D82D54C4984A71D75A9BD747B_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972508800353"
+  },
+  {
+   "id": "AC6CF165C6E8AEC7E9EACDC176484B66",
+   "sender": "מירי ליאון",
+   "text": "תודה",
+   "ts": 1792939619000,
+   "date": "2026-10-25",
+   "time": "16:46",
+   "files": [],
+   "drive": null,
+   "phone": "972544319063"
+  },
+  {
+   "id": "AC8DCF8B6F0ED1A2589B86D65AE195D4",
+   "sender": "לדן",
+   "text": "תודה רבה",
+   "ts": 1792939747000,
+   "date": "2026-10-25",
+   "time": "16:49",
+   "files": [],
+   "drive": null,
+   "phone": "972546407404"
+  },
+  {
+   "id": "ACA3CB5C1ECE24007EDEC0D1D8728B81",
+   "sender": "שרה כנפי רוח",
+   "text": "אשמח למבחן פרשת דברים כולל דף חזרה.תודה",
+   "ts": 1792940664000,
+   "date": "2026-10-25",
+   "time": "17:04",
+   "files": [],
+   "drive": null,
+   "phone": "972515485941"
   }
  ]
 }

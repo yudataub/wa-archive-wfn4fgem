@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-10-22T07:41:25.397Z",
+ "updated": "2026-10-25T08:36:50.659Z",
  "messages": [
   {
    "id": "3EB02352C54029ADF46A0C",
@@ -315,6 +315,25 @@
      "size": "279KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3EB053883CE210822AD42F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB072E157CFE56BD7995A",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הפרומפט היומי*\nשש תמונות ניו בורן מקצועיות מתמונה אחת\nלפרומפט: https://www.lomdot.org/dailyprompt\nלקבוצה שלי הוראה יצירתית עם AI:\n🩷 שירה",
+   "ts": 1792917385000,
+   "date": "2026-10-25",
+   "time": "10:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB072E157CFE56BD7995A_1.jpg",
      "skipped": ""
     }
    ],

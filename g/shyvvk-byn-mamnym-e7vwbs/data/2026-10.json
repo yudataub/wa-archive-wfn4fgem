@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיווק בין מאמנים",
- "updated": "2026-10-21T13:51:43.124Z",
+ "updated": "2026-10-25T14:09:57.369Z",
  "messages": [
   {
    "id": "ACCDAFDAD874AD95584839AA143D6A2C",
@@ -136,6 +136,26 @@
      "type": "image/jpeg",
      "path": "media/2026-10/3EB06C78120D5FFCE3B19F_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB0B1FF9F9D8B830375D4",
+   "sender": "קובי גטניו",
+   "text": "https://www.yozmotgroup.co.il/",
+   "ts": 1792937394000,
+   "date": "2026-10-25",
+   "time": "16:09",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.9MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3EB0B1FF9F9D8B830375D4_0.mp4"
     }
    ],
    "drive": null,

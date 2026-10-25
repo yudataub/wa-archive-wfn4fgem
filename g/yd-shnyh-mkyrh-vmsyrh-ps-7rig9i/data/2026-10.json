@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-24T18:36:50.430Z",
+ "updated": "2026-10-25T16:11:12.898Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -4344,6 +4344,160 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "2AD951F053C3B5F5B2D8",
+   "sender": "הכל זה לטובה",
+   "text": "תמונת תבליט פרחים 70₪",
+   "ts": 1792907438000,
+   "date": "2026-10-25",
+   "time": "07:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "311KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/2AD951F053C3B5F5B2D8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534465553"
+  },
+  {
+   "id": "ACBF0728D006B870F2964DF2D5B66C94",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1792911591000,
+   "date": "2026-10-25",
+   "time": "08:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.9MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACBF0728D006B870F2964DF2D5B66C94_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
+  },
+  {
+   "id": "AC69DBB110F4F63FF184733CAD43D40F",
+   "sender": "אילן בכר",
+   "text": "",
+   "ts": 1792911592000,
+   "date": "2026-10-25",
+   "time": "08:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.2MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC69DBB110F4F63FF184733CAD43D40F_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972505989747"
+  },
+  {
+   "id": "ACD45FBA630F7A81132F7AD2EF403479",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792918492000,
+   "date": "2026-10-25",
+   "time": "10:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "361KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACD45FBA630F7A81132F7AD2EF403479_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC29AD9AFA8541DF1C40772230A6C076",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792918493000,
+   "date": "2026-10-25",
+   "time": "10:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "270KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC29AD9AFA8541DF1C40772230A6C076_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC2D410FE4B83EDFDD3580575CCCFBD1",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792918493000,
+   "date": "2026-10-25",
+   "time": "10:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC2D410FE4B83EDFDD3580575CCCFBD1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC6E08C00EC152CAFC851995C286BE14",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1792918494000,
+   "date": "2026-10-25",
+   "time": "10:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC6E08C00EC152CAFC851995C286BE14_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "3EB08F9E84E3DAEB1CD074",
+   "sender": "Noam",
+   "text": "",
+   "ts": 1792944671000,
+   "date": "2026-10-25",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "347KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB08F9E84E3DAEB1CD074_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545746789"
   }
  ]
 }

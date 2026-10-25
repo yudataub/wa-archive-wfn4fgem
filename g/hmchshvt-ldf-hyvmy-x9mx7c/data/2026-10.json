@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-24T15:48:23.838Z",
+ "updated": "2026-10-25T03:59:39.891Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -895,6 +895,25 @@
      "size": "169KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A0FE70A587DCBAC0BE3_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD9554A9D74E6756FB9",
+   "sender": ".",
+   "text": "״דברים שהנפש קצה בהן״ (בכורות לז, א).",
+   "ts": 1792900769000,
+   "date": "2026-10-25",
+   "time": "05:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AD9554A9D74E6756FB9_1.jpg",
      "skipped": ""
     }
    ],

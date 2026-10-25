@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-24T18:28:50.325Z",
+ "updated": "2026-10-25T05:49:05.285Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -375,6 +375,25 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "AC79B22CFA49A2264E057170FA4F21E4",
+   "sender": "בני קרמר",
+   "text": "מנין שחרית בשעה 08:15",
+   "ts": 1792907324000,
+   "date": "2026-10-25",
+   "time": "07:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC79B22CFA49A2264E057170FA4F21E4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
   }
  ]
 }

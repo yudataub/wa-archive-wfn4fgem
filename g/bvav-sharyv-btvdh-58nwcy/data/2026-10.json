@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בואו שעריו בתודה🙏",
- "updated": "2026-10-19T04:22:29.759Z",
+ "updated": "2026-10-25T05:33:04.999Z",
  "messages": [
   {
    "id": "AC70F8C81D3F0366A975AF3B8737F0CF",
@@ -257,6 +257,25 @@
      "type": "image/jpeg",
      "path": "",
      "skipped": "הקובץ לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972502241426"
+  },
+  {
+   "id": "ACEFAFECAD8649464CEDA3C9658FF5C0",
+   "sender": ".",
+   "text": "",
+   "ts": 1792906364000,
+   "date": "2026-10-25",
+   "time": "07:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACEFAFECAD8649464CEDA3C9658FF5C0_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

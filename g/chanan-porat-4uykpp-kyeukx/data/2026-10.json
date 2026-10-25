@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-24T20:43:48.152Z",
+ "updated": "2026-10-25T13:30:51.333Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -4019,6 +4019,129 @@
    ],
    "drive": null,
    "phone": "972507144419"
+  },
+  {
+   "id": "3AD3D3298406A78AC3B1",
+   "sender": "סתיו שירה גבריאלי ",
+   "text": "",
+   "ts": 1792931243000,
+   "date": "2026-10-25",
+   "time": "14:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "497KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AD3D3298406A78AC3B1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506667311"
+  },
+  {
+   "id": "ACD6735F3EBF9D43B042D71D9A8B869D",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "",
+   "ts": 1792935043000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [
+    {
+     "name": "כרטיסי קלפי - בוחרים לעשות טוב.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACD6735F3EBF9D43B042D71D9A8B869D_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972542111980"
+  },
+  {
+   "id": "ACF90B1A6F9B585248EEC86365FEDA23",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "https://canva.link/tpxtgppcp9afy0p\n\nמצרפת לכן תבנית לשות את הלוגו או כל דבר לשיקולכן",
+   "ts": 1792935045000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [],
+   "drive": null,
+   "phone": "972542111980"
+  },
+  {
+   "id": "ACE4410515EF40DF5FF91FF4682A245A",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "https://canva.link/g6ificysqz1bwwt",
+   "ts": 1792935046000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [],
+   "drive": null,
+   "phone": "972542111980"
+  },
+  {
+   "id": "AC2847D070A847129D5A9FDC160A38F0",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "",
+   "ts": 1792935047000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [
+    {
+     "name": "שילוט- כאן בוחרים.pdf",
+     "size": "32KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC2847D070A847129D5A9FDC160A38F0_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972542111980"
+  },
+  {
+   "id": "AC259DC1B54EF80BD1AE38151D583AAE",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "",
+   "ts": 1792935048000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [
+    {
+     "name": "שילוט לשים על קופסאת הקלפי .pdf",
+     "size": "38KB",
+     "type": "application/pdf",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC259DC1B54EF80BD1AE38151D583AAE_0.pdf"
+    }
+   ],
+   "drive": null,
+   "phone": "972542111980"
+  },
+  {
+   "id": "AC209E7D76456E73EA9F387F5ABD9EDE",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "https://canva.link/d7v9kx0rvorj3g8",
+   "ts": 1792935049000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [],
+   "drive": null,
+   "phone": "972542111980"
+  },
+  {
+   "id": "AC0A612C8D99922BD27A2CA6390021AA",
+   "sender": "אִירֵן טַחָלוֹב",
+   "text": "https://canva.link/an497euk1y08c0d",
+   "ts": 1792935050000,
+   "date": "2026-10-25",
+   "time": "15:30",
+   "files": [],
+   "drive": null,
+   "phone": "972542111980"
   }
  ]
 }

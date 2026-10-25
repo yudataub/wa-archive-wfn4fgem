@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-24T05:59:51.189Z",
+ "updated": "2026-10-25T19:32:46.048Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -1796,6 +1796,165 @@
    ],
    "drive": null,
    "phone": "972509709704"
+  },
+  {
+   "id": "ACDD75047613700740CFC2149A26EBB7",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1792901877000,
+   "date": "2026-10-25",
+   "time": "06:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACDD75047613700740CFC2149A26EBB7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
+  },
+  {
+   "id": "3A50558245279D795FF7",
+   "sender": "יפה",
+   "text": "משפחה מעונינת בארון בגדים גדול בצבע בהיר שמנת או לבן",
+   "ts": 1792907472000,
+   "date": "2026-10-25",
+   "time": "07:51",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A05AED8C29B805401EC",
+   "sender": "יפה",
+   "text": "שמלה לארוע כולל ז׳קט מידה גדולה",
+   "ts": 1792919471000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AAD9DE4905A65DC02D4",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1792919471000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AAD9DE4905A65DC02D4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AF29E517E6766CA3BE4",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1792919471000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AF29E517E6766CA3BE4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A92527B024FB9A11D74",
+   "sender": "יפה",
+   "text": "שמלה לארוע מידה 4 מסמטת גן עדן",
+   "ts": 1792919472000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3AC1020D5B83A84FA8F9",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1792919472000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AC1020D5B83A84FA8F9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3ADBB40C3C38CE9D050A",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1792919472000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3ADBB40C3C38CE9D050A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "3A9A6D8169C045A647BC",
+   "sender": "יפה",
+   "text": "",
+   "ts": 1792919474000,
+   "date": "2026-10-25",
+   "time": "11:11",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/3A9A6D8169C045A647BC_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972548005466"
+  },
+  {
+   "id": "AC3A9E8AF5E0B902DF29A47F0F014931",
+   "sender": "דורה",
+   "text": "מוסרת בגדים לגבר, מידה m",
+   "ts": 1792956748000,
+   "date": "2026-10-25",
+   "time": "21:32",
+   "files": [],
+   "drive": null,
+   "phone": "972543815966"
   }
  ]
 }

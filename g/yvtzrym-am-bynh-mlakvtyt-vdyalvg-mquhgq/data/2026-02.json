@@ -1705,7 +1705,7 @@
   },
   {
    "id": "AC352C75F55D6FED6FA89B12C5BD305C",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "מהמם!",
    "ts": 1770287125000,
    "date": "2026-02-05",
@@ -1716,7 +1716,7 @@
   },
   {
    "id": "ACEF21B252DDF063EE8F6D4778FD8EA7",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "אפשר פירוט של הכלים בבקשה? 🙏🏻🙏🏻🙏🏻",
    "ts": 1770287133000,
    "date": "2026-02-05",
@@ -2007,7 +2007,7 @@
   },
   {
    "id": "AC2ABAFB2355F55BA969543E04050012",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "גם google slides עובד טוב",
    "ts": 1770392578000,
    "date": "2026-02-06",
@@ -2018,7 +2018,7 @@
   },
   {
    "id": "AC4CF3CE5251ABF83C45D63AAB4D1BB6",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "קודם כל, אשמח אם תמלאו את הסקר הקצר שלא אמור לקחת יותר מ-2 דקות, בכדי לראות מה לשפר מבחינת התכנים שאני מפרסמת בקבוצה: https://forms.gle/S7TDrSym6uTrk4hq7\n\n*ועכשיו להסבר התהליך:*\n\nלאחר יצירת הממל לסקר, מבקשים מ-LLM (ChatGPT, Gemini, Claud) לכתוב את הסקר *ב-Google Apps Script*.\n\nנכנסים ל: script.google.com, לוחצים בצד שמאל למעלה על הכפתור *New Project* (פרויקט חדש). במרכז המסך ייפתח עורך קוד. מחקו את השורות שמתחילות ב- function myFunction(), כך שהדף יהיה ריק לגמרי.\n\nהדביקו את הקוד שקיבלתם במלואו ולחצו על *Save* למעלה.\n\nלאחר מכן לחצו על כפתור *ה-Run* בסרגל הכלים למעלה.\n\nגוגל יבקש מכם אישור גישה (Permissions). זה קורה כי הקוד מבקש רשות ליצור קובץ חדש, כלומר סקר, בתוך ה-Drive שלכם. אחרי זה הסקר ייווצר עבורכם אוטומטית, ב-Google Forms.\n\nמוזמנים/ות לשלוח את לינק ההצטרפות לקבוצה לחברים וחברות שלכם/ן שאוהבים/ות בינה מלאכותית כמוכם/ן:\n\nלתיאום סדנאות על שילוב בינה מלאכותית בארגונים מוזמנים/ות ליצור קשר:\nhttps://tr.ee/1ubafB\n\nלרשימת כלי AI שימושיים, מסודרים לפי קטגוריות:\nhttps://tr.ee/Myp4g8\n\nולאפליקציה ליצירת תמונות תדמית:\nhttps://tr.ee/7hNzES",
    "ts": 1770393476000,
    "date": "2026-02-06",
@@ -2038,7 +2038,7 @@
   },
   {
    "id": "ACFAAD5B41EC9AC4615E8E557BC712D2",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "בהמשך לדיון שהיה בקבוצה",
    "ts": 1770393488000,
    "date": "2026-02-06",
@@ -3107,7 +3107,7 @@
   },
   {
    "id": "ACA5338898A592A6BB4412D580C2C705",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "Flow",
    "ts": 1770584899000,
    "date": "2026-02-08",
@@ -3129,7 +3129,7 @@
   },
   {
    "id": "AC17026D8B6D1650BE8970DC7EA478AF",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "יש מספר קרדיטים חינמיים",
    "ts": 1770584939000,
    "date": "2026-02-08",
@@ -3140,7 +3140,7 @@
   },
   {
    "id": "AC0A21C3C41096FB0F253372D69C35F9",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "אפשר ליצור עם VEO3",
    "ts": 1770584972000,
    "date": "2026-02-08",
@@ -3162,7 +3162,7 @@
   },
   {
    "id": "AC181FC816131D9B5BB357FB285B628D",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "כמות ואיכות זה לא תמיד אותו דבר",
    "ts": 1770585256000,
    "date": "2026-02-08",
@@ -3279,7 +3279,7 @@
   },
   {
    "id": "ACE182D3500ED63DCD04A71A495C904A",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "פשוט נכנסת ל-flow ליצירת סרטונים",
    "ts": 1770652117000,
    "date": "2026-02-09",
@@ -3290,7 +3290,7 @@
   },
   {
    "id": "ACB9D21DD921F30887B0065E4E31F74A",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "https://labs.google/fx/tools/flow",
    "ts": 1770652171000,
    "date": "2026-02-09",
@@ -3310,7 +3310,7 @@
   },
   {
    "id": "AC36D6758863E34B67656D39ACB4730E",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "Create with Flow - New project",
    "ts": 1770652199000,
    "date": "2026-02-09",
@@ -7521,7 +7521,7 @@
   },
   {
    "id": "AC4B97125BF505F17727D777F757A340",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "POE",
    "ts": 1771272114000,
    "date": "2026-02-16",
@@ -8983,7 +8983,7 @@
   },
   {
    "id": "AC4A14B71C070B8D28B66BE553E451D5",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "זה מופיע במינוי פרו שלי. התוצר הסופי הוא חצי דקת אודיו עם תמונת אבסטרקט ברקע (אפשר גם בלי) שאפשר להוריד. זה יכול להיות שימושי אולי אם רוצים ליצור מוזיקה (?) מלווה לסרטון קצר. אפשר גם לכתוב מראש מילים. גימיק נחמד למצגות למשל. בטח יהיה יעיל יותר במדיה חברתית. \nניסיתי אגב ליצור שיר שמאגד בין סגנונות של שתי זמרות. התוצאה חביבה אך ממש לא רלוונטית למה שביקשתי.",
    "ts": 1771433019000,
    "date": "2026-02-18",
@@ -9003,7 +9003,7 @@
   },
   {
    "id": "AC2DC97DC0D8A40B4A8800F6E528DCCD",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "מעבירה מקבוצה אחרת",
    "ts": 1771433027000,
    "date": "2026-02-18",
@@ -11599,7 +11599,7 @@
   },
   {
    "id": "ACEDE03446216B0CDDB5A70AB77A5260",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "גם אצלי לא עבדו האפליקציות כנראה בגלל שדרוג שעשו בג'מיני. נאלצתי לעשות remix ונראה שעכשיו עובד",
    "ts": 1771913981000,
    "date": "2026-02-24",
@@ -11643,7 +11643,7 @@
   },
   {
    "id": "AC454EF12510CD68D76A50154DEE1624",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "מ ה מ מ ת!!!!💗💗💗",
    "ts": 1771915031000,
    "date": "2026-02-24",
@@ -11753,7 +11753,7 @@
   },
   {
    "id": "ACF3918EE4EDFCE4C4FD6BE0CC610658",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "זה LLM",
    "ts": 1771928974000,
    "date": "2026-02-24",
@@ -12235,7 +12235,7 @@
   },
   {
    "id": "ACD33351CC00498FCDAA0BDC48FC35CF",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "ניסית לבנות בוט או אפליקציה?",
    "ts": 1772035728000,
    "date": "2026-02-25",
@@ -12532,7 +12532,7 @@
   },
   {
    "id": "AC1C2CA4CA1A32DA802A697AFBE0CD7D",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "נדמה לי 3",
    "ts": 1772048572000,
    "date": "2026-02-25",
@@ -13961,7 +13961,7 @@
   },
   {
    "id": "AC387A6E3A5E32527EF629915289EFCF",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "אפשר לעשות remix בגאמה",
    "ts": 1772113933000,
    "date": "2026-02-26",
@@ -15444,7 +15444,7 @@
   },
   {
    "id": "AC64336E2C25A5DCA52122435778C813",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "🎭 *להחליף מסכה. לשמור על זהות.*\n\nלקראת פורים בדקתי את אחד העדכונים המעניינים ב-Gemini, שמאפשר לשמור על עקביות זהות גם כשמשנים סגנון, מסכה או עולם ויזואלי.\n\nיצרתי 12 וריאציות שונות.\nעולמות אחרים. חומרים אחרים. השראות אחרות.\nוהפנים נשארות עקביות.\n\nבקבוצת הוואטסאפ שלי אני משתפת ניסויים, פרומפטים ותובנות על עבודה יצירתית עם כלי AI.\nמי שרוצה להצטרף מוזמן.ת כאן:\nhttps://tr.ee/t5xjyJ\n\nלמי שאוהבים להתנסות, הנה הפרומפט המלא להעתקה ישירה ל-Gemini - אל תשכחו להעלות את תמונת הפרופיל שלכם.ן:\n\nUse the uploaded portrait image as the base reference.\nCreate a clean, well balanced collage consisting of 12 variations of the same person.\nAll images must preserve the same facial identity, proportions, and realistic likeness of the original person.\n\nFor each variation, randomly generate a unique fantasy or imaginative mask, headpiece, or face covering.\nThe masks should vary freely in style, material, mood, and inspiration, without repeating a fixed theme.\n\nPossible inspirations may include, but are not limited to:\nmythological masks, elemental spirits, abstract fantasy designs, animal inspired forms, ceremonial masks, steampunk elements, celestial patterns, natural textures, symbolic shapes.\n\nImportant requirements:\n\nRandomized masks and headpieces for each image\nNo repeated or predictable themes\nThe person’s face remains clearly recognizable beneath or around the mask\nPhotorealistic portrait style\nSoft, even lighting and shallow depth of field\nNeutral, uniform background across all images\nClean 3x4 grid composition\nHigh resolution, sharp details\nFestive, creative, slightly magical atmosphere\nNo text, no logos, no captions\n\nאם תתנסו, אשמח לשמוע איך יצא לכם.\n\nחג פורים שמח ומלא יצירתיות ✨\nקרן",
    "ts": 1772188595000,
    "date": "2026-02-27",
@@ -15464,7 +15464,7 @@
   },
   {
    "id": "ACEDD61091EBD887033F9A80C40293AF",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "🎭 *להחליף מסכה. לשמור על זהות.*\n\nלקראת פורים בדקתי את אחד העדכונים המעניינים ב-Gemini, שמאפשר לשמור על עקביות זהות גם כשמשנים סגנון, מסכה או עולם ויזואלי.\n\nיצרתי 12 וריאציות שונות.\nעולמות אחרים. חומרים אחרים. השראות אחרות.\nוהפנים נשארות עקביות.\n\nבקבוצת הוואטסאפ שלי אני משתפת ניסויים, פרומפטים ותובנות על עבודה יצירתית עם כלי AI.\nמי שרוצה להצטרף מוזמן.ת כאן:\nhttps://tr.ee/t5xjyJ\n\nלמי שאוהבים להתנסות, הנה הפרומפט המלא להעתקה ישירה ל-Gemini - אל תשכחו להעלות את תמונת הפרופיל שלכם.ן:\n\nUse the uploaded portrait image as the base reference.\nCreate a clean, well balanced collage consisting of 12 variations of the same person.\nAll images must preserve the same facial identity, proportions, and realistic likeness of the original person.\n\nFor each variation, randomly generate a unique fantasy or imaginative mask, headpiece, or face covering.\nThe masks should vary freely in style, material, mood, and inspiration, without repeating a fixed theme.\n\nPossible inspirations may include, but are not limited to:\nmythological masks, elemental spirits, abstract fantasy designs, animal inspired forms, ceremonial masks, steampunk elements, celestial patterns, natural textures, symbolic shapes.\n\nImportant requirements:\n\nRandomized masks and headpieces for each image\nNo repeated or predictable themes\nThe person’s face remains clearly recognizable beneath or around the mask\nPhotorealistic portrait style\nSoft, even lighting and shallow depth of field\nNeutral, uniform background across all images\nClean 3x4 grid composition\nHigh resolution, sharp details\nFestive, creative, slightly magical atmosphere\nNo text, no logos, no captions\n\nאם תתנסו, אשמח לשמוע איך יצא לכם.\n\nחג פורים שמח ומלא יצירתיות ✨\nקרן",
    "ts": 1772188606000,
    "date": "2026-02-27",
@@ -15588,7 +15588,7 @@
   },
   {
    "id": "AC8ACD7CB7657874FA3D95D12C5572DB",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "Hedra",
    "ts": 1772285021000,
    "date": "2026-02-28",
@@ -15654,7 +15654,7 @@
   },
   {
    "id": "ACF5411BE60541BAA4BC5F2D4D248ACC",
-   "sender": "0545351506",
+   "sender": "Keren Grinautsky",
    "text": "כלי",
    "ts": 1772286723000,
    "date": "2026-02-28",
