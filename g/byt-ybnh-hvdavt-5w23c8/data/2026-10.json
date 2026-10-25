@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בית יבנה הודעות",
- "updated": "2026-10-25T20:24:28.969Z",
+ "updated": "2026-10-25T21:25:04.956Z",
  "messages": [
   {
    "id": "AC89D9C820625D897F7FC7C938E8E95F",
@@ -3119,9 +3119,10 @@
      "name": "וידאו.mp4",
      "size": "23.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACE47C1402B589A5FFB08F1F9321C160_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/v/2026-10/ACE47C1402B589A5FFB08F1F9321C160_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACE47C1402B589A5FFB08F1F9321C160_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/v/2026-10/ACE47C1402B589A5FFB08F1F9321C160_0.mp4"
     }
    ],
    "drive": null,
@@ -3364,9 +3365,10 @@
      "name": "השעיה בנים הכי מעודכן.docx",
      "size": "2.3MB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC5F2937661D92A953AB40277F03412B_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/f/2026-10/AC5F2937661D92A953AB40277F03412B_0.docx",
+     "skipped": "",
+     "spool": "2026-10/AC5F2937661D92A953AB40277F03412B_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/f/2026-10/AC5F2937661D92A953AB40277F03412B_0.docx"
     }
    ],
    "drive": null,
@@ -3384,9 +3386,10 @@
      "name": "השעיה בנים הכי מעודכן.docx",
      "size": "2.3MB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC2D38B4FA51FB34AFD8EC32FECC20AA_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/f/2026-10/AC2D38B4FA51FB34AFD8EC32FECC20AA_0.docx",
+     "skipped": "",
+     "spool": "2026-10/AC2D38B4FA51FB34AFD8EC32FECC20AA_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/f/2026-10/AC2D38B4FA51FB34AFD8EC32FECC20AA_0.docx"
     }
    ],
    "drive": null,
@@ -3404,13 +3407,36 @@
      "name": "השעיה - בנות.docx",
      "size": "2.3MB",
      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACF8B840E043AD2931E2390DC443D17D_0.docx"
+     "path": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/f/2026-10/ACF8B840E043AD2931E2390DC443D17D_0.docx",
+     "skipped": "",
+     "spool": "2026-10/ACF8B840E043AD2931E2390DC443D17D_0.docx",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-ybnh-hvdavt-5w23c8/f/2026-10/ACF8B840E043AD2931E2390DC443D17D_0.docx"
     }
    ],
    "drive": null,
    "phone": "972542707965"
+  },
+  {
+   "id": "AC14DF26604DF941F6C615AB63709245",
+   "sender": "דורית חניה",
+   "text": "לילה טוב . מ''מ מחר גן אביאל במקום איילה חכים. \n1. אושרה \n2. אושרת תורג'מן \n3. כרמית \n4. ????\n5. כרמית \n6. ????",
+   "ts": 1792963379000,
+   "date": "2026-10-25",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "phone": "972505924155"
+  },
+  {
+   "id": "ACB40C2DB5F0D5AA1BD2AABD90027505",
+   "sender": "דורית חניה",
+   "text": "עדכון \nערב טוב מורים יקרים , להלן לוז הדרכה עלמא ,למורים המלמדים בכיתות ב'. \n2. \n3. כרמית\n4. כרמית\n5. רוית \n6. אדיר+ סמדר",
+   "ts": 1792963499000,
+   "date": "2026-10-25",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972505924155"
   }
  ]
 }

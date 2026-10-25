@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-10-25T18:26:02.863Z",
+ "updated": "2026-10-25T22:29:16.067Z",
  "messages": [
   {
    "id": "ACAF5950678DC129A75359FBFA385212",
@@ -2861,9 +2861,10 @@
      "name": "וידאו.mp4",
      "size": "2.3MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC0C173D1932E3957151B85BCBD4F1B2_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-10/AC0C173D1932E3957151B85BCBD4F1B2_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/AC0C173D1932E3957151B85BCBD4F1B2_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-10/AC0C173D1932E3957151B85BCBD4F1B2_0.mp4"
     }
    ],
    "drive": null,
@@ -2958,6 +2959,48 @@
    ],
    "drive": null,
    "phone": "972507146770"
+  },
+  {
+   "id": "AC2F9E28E7DA7F3FD8528E6E0EE59687",
+   "sender": "Ronen I Tayar 2",
+   "text": "מזל טוב, בת נולדה ליוני ושירן בת איילה סבג. נכדה ראשונה  לאיילה ונינה לאבי אבוטבול",
+   "ts": 1792963041000,
+   "date": "2026-10-25",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "ACAC9F2D0329148974EA8F5233653297",
+   "sender": "תומר וירט",
+   "text": "מזל טוב מזל טוב!!!\nהמון נחת חסידי בע\"ה",
+   "ts": 1792963543000,
+   "date": "2026-10-25",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "phone": "972507146770"
+  },
+  {
+   "id": "AC09658999512A9771BF336C79F5C977",
+   "sender": "Ronen I Tayar 2",
+   "text": "הרב אברג'ל שפרש עם מפלגתו אח''י - קורא להצביע לאיתמר בן גביר",
+   "ts": 1792967326000,
+   "date": "2026-10-26",
+   "time": "00:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.8MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC09658999512A9771BF336C79F5C977_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972546328697"
   }
  ]
 }

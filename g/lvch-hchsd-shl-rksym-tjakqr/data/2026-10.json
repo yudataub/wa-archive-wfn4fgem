@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-25T19:18:11.077Z",
+ "updated": "2026-10-25T22:05:38.473Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -10748,13 +10748,44 @@
      "name": "וידאו.mp4",
      "size": "6.4MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/A530CAB4E1EEC5B9F7A79C62A69F9F72_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/A530CAB4E1EEC5B9F7A79C62A69F9F72_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/A530CAB4E1EEC5B9F7A79C62A69F9F72_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/A530CAB4E1EEC5B9F7A79C62A69F9F72_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972509252690"
+  },
+  {
+   "id": "AC8F366C38F5BF9534AF732760FE7907",
+   "sender": "יוסי מוזס",
+   "text": "ב.ד.ה\nהגב זהבה אוקסמן ע\"ה\nאמא של הגב' מאיה גיגי והגב' דינה סינברגר\nמועד הלוויה מחר יום ב' בשעה 12.00 בבית החיים תל רגב מהיכל חרוב",
+   "ts": 1792963634000,
+   "date": "2026-10-25",
+   "time": "23:27",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC7D3C0D695D6D8017C9EE22EFC841F1",
+   "sender": "יוסי מוזס",
+   "text": "",
+   "ts": 1792965927000,
+   "date": "2026-10-26",
+   "time": "00:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "37KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC7D3C0D695D6D8017C9EE22EFC841F1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527632787"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קרית אתא שלנו",
- "updated": "2026-10-25T20:38:53.593Z",
+ "updated": "2026-10-25T22:08:38.536Z",
  "messages": [
   {
    "id": "2AD94E786953E92C78CE",
@@ -34873,9 +34873,10 @@
      "name": "וידאו.mp4",
      "size": "4.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/2AACDBF05AAFDABE8410_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/2AACDBF05AAFDABE8410_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/2AACDBF05AAFDABE8410_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-10/2AACDBF05AAFDABE8410_0.mp4"
     }
    ],
    "drive": null,
@@ -35444,6 +35445,28 @@
    ],
    "drive": null,
    "phone": "972533614260"
+  },
+  {
+   "id": "3A7E1D4195CFD4ED9AF1",
+   "sender": "יאיר",
+   "text": "מישהו שמע פיצוץ מטורף בפינסקר",
+   "ts": 1792966003000,
+   "date": "2026-10-26",
+   "time": "00:06",
+   "files": [],
+   "drive": null,
+   "phone": "972547632729"
+  },
+  {
+   "id": "ACCC8E526197A90EBA81614E0BB69BCA",
+   "sender": "רועי ביטון",
+   "text": "וואלה לא",
+   "ts": 1792966098000,
+   "date": "2026-10-26",
+   "time": "00:08",
+   "files": [],
+   "drive": null,
+   "phone": "972546774798"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-25T20:51:00.409Z",
+ "updated": "2026-10-25T21:49:38.245Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -15517,9 +15517,10 @@
      "name": "וידאו.mp4",
      "size": "25.2MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACF7903B1E1E6428FFD24D88D09E0377_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/ACF7903B1E1E6428FFD24D88D09E0377_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACF7903B1E1E6428FFD24D88D09E0377_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/ACF7903B1E1E6428FFD24D88D09E0377_0.mp4"
     }
    ],
    "drive": null,
@@ -15657,9 +15658,10 @@
      "name": "וידאו.mp4",
      "size": "911KB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/2AC33188B449C145EED2_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2AC33188B449C145EED2_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/2AC33188B449C145EED2_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2AC33188B449C145EED2_0.mp4"
     }
    ],
    "drive": null,
@@ -15677,9 +15679,10 @@
      "name": "וידאו.mp4",
      "size": "2.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/2A19D020895B10B3BEDE_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2A19D020895B10B3BEDE_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/2A19D020895B10B3BEDE_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/2A19D020895B10B3BEDE_0.mp4"
     }
    ],
    "drive": null,
@@ -16071,6 +16074,26 @@
    "files": [],
    "drive": null,
    "phone": "972532170099"
+  },
+  {
+   "id": "AC5ED0D9BB905211AF7B213F49303FD7",
+   "sender": "א עמר",
+   "text": "*יש אנשים שישלמו 2,500 שקל על קניות...*\n\n*ויש אחד שיקבל אותן במתנה!*\n\n*רוצים להיות האחד הזה?!*\n\nהצפון החרדי חוזר לפעום! ❤️\n\nמצטרפים *בחינם* לסטטוס החרדי בצפון, נהנים מחדשות, סקופים ותיעודים לפני כולם, ונכנסים להגרלה על *2,500 ₪ לקניות בקניון תימורה!*\n\n*ההצטרפות בחינם. הפרס ממש לא קטן!*\n\n👇 *לחצו, שמרו את המספר והיכנסו להגרלה:*\nhttps://wa.me/972533168500?text=/גם+אני+רוצה+להצטרף+לסטטוס+החרדי+בצפון+הגעתי+דרך--972583214490",
+   "ts": 1792964974000,
+   "date": "2026-10-25",
+   "time": "23:49",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.4MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC5ED0D9BB905211AF7B213F49303FD7_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
   }
  ]
 }

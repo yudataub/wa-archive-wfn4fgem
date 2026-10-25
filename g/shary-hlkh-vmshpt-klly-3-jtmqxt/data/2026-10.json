@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-25T20:49:30.411Z",
+ "updated": "2026-10-25T23:07:16.664Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -11052,9 +11052,10 @@
      "name": "הודעה קולית.ogg",
      "size": "13KB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACD97AFEF8626E4A40699B3C1B42E759_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/ACD97AFEF8626E4A40699B3C1B42E759_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/ACD97AFEF8626E4A40699B3C1B42E759_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/ACD97AFEF8626E4A40699B3C1B42E759_0.ogg"
     }
    ],
    "drive": null,
@@ -11083,9 +11084,10 @@
      "name": "מידע לנרשמים להשתלמות.pdf",
      "size": "480KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC513315628B52546425E407D2052634_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC513315628B52546425E407D2052634_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/AC513315628B52546425E407D2052634_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC513315628B52546425E407D2052634_0.pdf"
     }
    ],
    "drive": null,
@@ -11204,9 +11206,10 @@
      "name": "הודעה קולית.ogg",
      "size": "82KB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC404719E2E3A8A9AD4DC012418E3091_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC404719E2E3A8A9AD4DC012418E3091_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/AC404719E2E3A8A9AD4DC012418E3091_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC404719E2E3A8A9AD4DC012418E3091_0.ogg"
     }
    ],
    "drive": null,
@@ -11602,9 +11605,10 @@
      "name": "הודעה קולית.ogg",
      "size": "21KB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC8051DED6E459CAE4B4F5486D39B4CA_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC8051DED6E459CAE4B4F5486D39B4CA_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/AC8051DED6E459CAE4B4F5486D39B4CA_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shary-hlkh-vmshpt-klly-3-jtmqxt/f/2026-10/AC8051DED6E459CAE4B4F5486D39B4CA_0.ogg"
     }
    ],
    "drive": null,
@@ -11653,6 +11657,17 @@
    "files": [],
    "drive": null,
    "phone": "972534232002"
+  },
+  {
+   "id": "ACC0DF3C42BAE83FE5F5B9FDB25C35FA",
+   "sender": "דוד",
+   "text": "לילה טןב\nהאם עכשיו אפשר להגיד תיקון חצות לפי שעות חצות  23.25\nתודה ולילה טוב",
+   "ts": 1792969619000,
+   "date": "2026-10-26",
+   "time": "01:06",
+   "files": [],
+   "drive": null,
+   "phone": "972549052820"
   }
  ]
 }

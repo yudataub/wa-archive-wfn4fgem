@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-25T20:26:53.383Z",
+ "updated": "2026-10-25T21:42:38.141Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -4355,9 +4355,10 @@
      "name": "סימניות חומש במדבר.pdf",
      "size": "265KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC89865D8EF38D41D9DB2B909720F6F0_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-bamidbar-7qdiam/f/2026-10/AC89865D8EF38D41D9DB2B909720F6F0_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/AC89865D8EF38D41D9DB2B909720F6F0_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-bamidbar-7qdiam/f/2026-10/AC89865D8EF38D41D9DB2B909720F6F0_0.pdf"
     }
    ],
    "drive": null,
@@ -4419,9 +4420,10 @@
      "name": "שמואל א חלק ראשון מיכל ביטון.pdf",
      "size": "6.3MB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/A5100C01C8180D758664F58CB1A3A306_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-bamidbar-7qdiam/f/2026-10/A5100C01C8180D758664F58CB1A3A306_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/A5100C01C8180D758664F58CB1A3A306_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-bamidbar-7qdiam/f/2026-10/A5100C01C8180D758664F58CB1A3A306_0.pdf"
     }
    ],
    "drive": null,
@@ -4522,6 +4524,17 @@
    "files": [],
    "drive": null,
    "phone": "972556803507"
+  },
+  {
+   "id": "3AF218F545F0577EF3D5",
+   "sender": "Tova Belinizki",
+   "text": "מחפשת הערכה חלופית שמסכם את כל שמואל א׳.. יש למישהו?",
+   "ts": 1792964539000,
+   "date": "2026-10-25",
+   "time": "23:42",
+   "files": [],
+   "drive": null,
+   "phone": "972558850154"
   }
  ]
 }

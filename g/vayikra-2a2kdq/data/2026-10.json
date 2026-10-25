@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-25T20:17:23.230Z",
+ "updated": "2026-10-25T21:48:08.208Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -7518,9 +7518,10 @@
      "name": "עותק של כשאדם מגיע לבית המקדש (1).pdf",
      "size": "447KB",
      "type": "application/pdf",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0591D886A5FE2A8949A_0.pdf"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB0591D886A5FE2A8949A_0.pdf",
+     "skipped": "",
+     "spool": "2026-10/3EB0591D886A5FE2A8949A_0.pdf",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/3EB0591D886A5FE2A8949A_0.pdf"
     }
    ],
    "drive": null,
@@ -7725,9 +7726,10 @@
      "name": "7. אש תמיד פרק ו' פתיחה לצו.pptx",
      "size": "20.5MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/AC0CB9897A72E1D51964EF49E0F5CA1A_0.pptx"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/AC0CB9897A72E1D51964EF49E0F5CA1A_0.pptx",
+     "skipped": "",
+     "spool": "2026-10/AC0CB9897A72E1D51964EF49E0F5CA1A_0.pptx",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/AC0CB9897A72E1D51964EF49E0F5CA1A_0.pptx"
     }
    ],
    "drive": null,
@@ -7745,9 +7747,10 @@
      "name": "חזק ונתחזק ויקרא פרק ו תפקיד הכהנים ותרומת הדשן.pptx",
      "size": "2.7MB",
      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACA21C187242EC77E7E7F2A5DBEC4CC0_0.pptx"
+     "path": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/ACA21C187242EC77E7E7F2A5DBEC4CC0_0.pptx",
+     "skipped": "",
+     "spool": "2026-10/ACA21C187242EC77E7E7F2A5DBEC4CC0_0.pptx",
+     "mirror": "https://yudataub.github.io/wa-vid-vayikra-2a2kdq/f/2026-10/ACA21C187242EC77E7E7F2A5DBEC4CC0_0.pptx"
     }
    ],
    "drive": null,
@@ -7785,6 +7788,26 @@
    "files": [],
    "drive": null,
    "phone": "972504226406"
+  },
+  {
+   "id": "AC1164B8E8637DACEA8F871F683BD29E",
+   "sender": "יפעת שלמה",
+   "text": "",
+   "ts": 1792964882000,
+   "date": "2026-10-25",
+   "time": "23:48",
+   "files": [
+    {
+     "name": "3. קרבן מנחה- פרק ב'.pptx",
+     "size": "33.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC1164B8E8637DACEA8F871F683BD29E_0.pptx"
+    }
+   ],
+   "drive": null,
+   "phone": "972545599744"
   }
  ]
 }

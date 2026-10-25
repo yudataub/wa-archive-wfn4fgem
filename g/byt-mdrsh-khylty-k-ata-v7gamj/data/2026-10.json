@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-10-25T20:42:00.293Z",
+ "updated": "2026-10-25T21:47:08.185Z",
  "messages": [
   {
    "id": "AC6DC53D5602E82B779F319279D9F3E1",
@@ -4400,13 +4400,36 @@
      "name": "וידאו.mp4",
      "size": "8.8MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACC558077B4045C76400A6FE077CDE92_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACC558077B4045C76400A6FE077CDE92_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACC558077B4045C76400A6FE077CDE92_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-10/ACC558077B4045C76400A6FE077CDE92_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972546660233"
+  },
+  {
+   "id": "AC6E9914EA839DA34BEBAE9DFD0ED3A8",
+   "sender": "אוריאל",
+   "text": "https://www.inn.co.il/news/709310",
+   "ts": 1792963970000,
+   "date": "2026-10-25",
+   "time": "23:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546660233"
+  },
+  {
+   "id": "AC70F2C0B0EB749F86A4F3569B9B5FCB",
+   "sender": "משה נחמן חי פרץ",
+   "text": "https://www.youtube.com/live/-4TTRd1md3E?si=Mj5yZZP0cGGU7gfP",
+   "ts": 1792964801000,
+   "date": "2026-10-25",
+   "time": "23:46",
+   "files": [],
+   "drive": null,
+   "phone": "972549912156"
   }
  ]
 }
