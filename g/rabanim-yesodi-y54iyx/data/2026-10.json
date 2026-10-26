@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "רבני בי\"ס",
- "updated": "2026-10-25T20:36:53.550Z",
+ "updated": "2026-10-25T23:17:53.392Z",
  "messages": [
   {
    "id": "ACC709FE9F46E730946952296E4C3070",
@@ -9787,6 +9787,85 @@
    "files": [],
    "drive": null,
    "phone": "972524591311"
+  },
+  {
+   "id": "3EB0E8E0BDF7720E111E5B",
+   "sender": "עובד נתן",
+   "text": "",
+   "ts": 1792969732000,
+   "date": "2026-10-26",
+   "time": "01:08",
+   "files": [
+    {
+     "name": "הקבה אנחנו בוחרים בך.jpeg",
+     "size": "536KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0E8E0BDF7720E111E5B_1.jpeg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524380505"
+  },
+  {
+   "id": "3EB0E33EB7804BC2797469",
+   "sender": "עובד נתן",
+   "text": "",
+   "ts": 1792969833000,
+   "date": "2026-10-26",
+   "time": "01:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "536KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0E33EB7804BC2797469_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524380505"
+  },
+  {
+   "id": "AC7DCA31554406E3BC6555912866F18A",
+   "sender": "אליהו טרבלסי",
+   "text": "",
+   "ts": 1792970109000,
+   "date": "2026-10-26",
+   "time": "01:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC7DCA31554406E3BC6555912866F18A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "ACEC2A665FC0B227D60B68766EF58A47",
+   "sender": "אליהו טרבלסי",
+   "text": "",
+   "ts": 1792970110000,
+   "date": "2026-10-26",
+   "time": "01:15",
+   "files": [],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "ACE98DF0D3004A64659685B35BA19BE2",
+   "sender": "אליהו טרבלסי",
+   "text": "",
+   "ts": 1792970247000,
+   "date": "2026-10-26",
+   "time": "01:17",
+   "files": [],
+   "drive": null,
+   "phone": "972544518399"
   }
  ]
 }
