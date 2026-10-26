@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מעלים בקודש - נעם תשפז",
- "updated": "2026-10-25T11:47:09.104Z",
+ "updated": "2026-10-26T19:32:07.704Z",
  "messages": [
   {
    "id": "3EB0A9B4B91C748D6ACA27",
@@ -112,6 +112,49 @@
    "files": [],
    "drive": null,
    "phone": "972545949809"
+  },
+  {
+   "id": "A5889A7A3798D3A782C924964474A082",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "ערב טוב מורים יקרים!\n\nמצורף *סרטון הסבר* לשימוש בצד המורה באתר הלמידה. \n\nבברכת המשך למידה משמעותית ומהנה.\n\n*נ.ב.* סביבת התלמיד נמצאת כעת בפיילוט מצומצם. בע\"ה נעדכן כאן כשיפתח לכולם. \n\nתודה על הסבלנות!\n\nצוות רצים למסכת - סולמות",
+   "ts": 1793043055000,
+   "date": "2026-10-26",
+   "time": "21:30",
+   "files": [],
+   "drive": null,
+   "phone": "972527139520"
+  },
+  {
+   "id": "A5C15AC558A92770956C81F23E741F9E",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1793043055000,
+   "date": "2026-10-26",
+   "time": "21:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "37.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1yyve8jLpXBYtwzz2tHVFif1SjQ0EmYdx/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A5C15AC558A92770956C81F23E741F9E_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1yyve8jLpXBYtwzz2tHVFif1SjQ0EmYdx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527139520"
+  },
+  {
+   "id": "ACEEDC5DB9F349675E1BC93F47465530",
+   "sender": "מלכה טרבלסי",
+   "text": "תודה רבה",
+   "ts": 1793043103000,
+   "date": "2026-10-26",
+   "time": "21:31",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "💚 לב על לב 💚 הקהילה למטפלים/ות✨",
- "updated": "2026-10-25T14:24:12.168Z",
+ "updated": "2026-10-26T15:40:01.838Z",
  "messages": [
   {
    "id": "3A013C7439C33C16AD1A",
@@ -226,6 +226,25 @@
      "size": "118KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3AA2178F1285A0B89C63_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525151212"
+  },
+  {
+   "id": "3ABFAA0008F96FD33B7A",
+   "sender": "ליה קדושים",
+   "text": "ערב טוב ומבורך✨💫\nרשמו ביומנים *יום רביעי 28/10 בשעה 20:00*",
+   "ts": 1793029169000,
+   "date": "2026-10-26",
+   "time": "17:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3ABFAA0008F96FD33B7A_1.jpg",
      "skipped": ""
     }
    ],

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-10-25T14:29:42.242Z",
+ "updated": "2026-10-26T13:14:40.232Z",
  "messages": [
   {
    "id": "ACAA37DC60E64C63863EDF33581F1386",
@@ -3452,6 +3452,47 @@
    "files": [],
    "drive": null,
    "phone": "972524331298"
+  },
+  {
+   "id": "ACBB4347771BBE5BEF9EFA3A5655DB7C",
+   "sender": "yuvalvadee",
+   "text": "",
+   "ts": 1792993497000,
+   "date": "2026-10-26",
+   "time": "07:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "353KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACBB4347771BBE5BEF9EFA3A5655DB7C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546702322"
+  },
+  {
+   "id": "ACF2AC4206F6485FC0D24F5C1B85C6B4",
+   "sender": "yuvalvadee",
+   "text": "https://docs.google.com/forms/d/e/1FAIpQLSeQXEWCg45nfSSUgBTUyVqPYUEk7RiYguU82AsamTNkXuEU2A/viewform?usp=header",
+   "ts": 1792993498000,
+   "date": "2026-10-26",
+   "time": "07:44",
+   "files": [],
+   "drive": null,
+   "phone": "972546702322"
+  },
+  {
+   "id": "ACF650134470546A9F2F7A1DA47B041E",
+   "sender": "שמריהו",
+   "text": "מישהו יודע איך קוראים לאיגוד שנותן את המלגה לבני ישיבות ההסדר וכמה בדיוק הם נותנים?",
+   "ts": 1793020465000,
+   "date": "2026-10-26",
+   "time": "15:14",
+   "files": [],
+   "drive": null,
+   "phone": "972542402071"
   }
  ]
 }

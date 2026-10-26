@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון Brainers עדכונים 5",
- "updated": "2026-10-25T17:05:35.549Z",
+ "updated": "2026-10-26T17:33:55.348Z",
  "messages": [
   {
    "id": "3EB00D7FDECFA6F358E73B",
@@ -343,6 +343,27 @@
      "type": "image/png",
      "path": "media/2026-10/3EB06B164E7BDEDD912EBA_1.png",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549260597"
+  },
+  {
+   "id": "3EB0DF6B9933E25136A388",
+   "sender": "עדן ביבס",
+   "text": "*לפני שתראו את זה בכל מקום... 🔥*\n\nהיום אני פותח את רשימת ההמתנה לכנס *Brainstorm 2026*, ומפרסם את זה בכל הקהילות. אחרי ההודעה של אתמול, חשוב לי לעשות לכם סדר קטן:\n\n*אתם לא חייבים להירשם לרשימת ההמתנה.*\n\nאני הולך לעדכן אתכם כאן בקבוצה שלנו לפני כולם, *וגם הטבה מיוחדת רק לחברי המועדון.*\n\nאם תרצו להיות גם ברשימה, אתם כמובן מוזמנים: https://go.brainai.co.il/brainstorm-club\n\nעד אז, שריינו את ה-23.11, יום שני, בשעות הערב. תאמינו לי שזה כנס שלא תרצו לפספס 🫶🏼\n\nעדן וצוות המועדון\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1793036021000,
+   "date": "2026-10-26",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17_EG-3MDgEZg3BFI-8tpBdfdxP7UlZyG/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/3EB0DF6B9933E25136A388_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=17_EG-3MDgEZg3BFI-8tpBdfdxP7UlZyG&sz=w1200"
     }
    ],
    "drive": null,

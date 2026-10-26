@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-25T21:42:38.141Z",
+ "updated": "2026-10-26T17:19:48.396Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -4535,6 +4535,91 @@
    "files": [],
    "drive": null,
    "phone": "972558850154"
+  },
+  {
+   "id": "AC0E77209787E6B1F4748689E7292C02",
+   "sender": "הדס",
+   "text": "האם יש מצגת של במדבר פרק ג? אשמח ממש...",
+   "ts": 1792995943000,
+   "date": "2026-10-26",
+   "time": "08:25",
+   "files": [],
+   "drive": null,
+   "phone": "972507387430"
+  },
+  {
+   "id": "3EB00926D3A804516F7D17",
+   "sender": "פייגי זיתוני",
+   "text": "למישהו יש מבחן על ברכות השחר?",
+   "ts": 1793006176000,
+   "date": "2026-10-26",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972553034348"
+  },
+  {
+   "id": "ACA63CF8645D5134385BB6C4FCDDB1D9",
+   "sender": "~morandavid~",
+   "text": "תודה יש גם דף תשובות?",
+   "ts": 1793006417000,
+   "date": "2026-10-26",
+   "time": "11:20",
+   "files": [],
+   "drive": null,
+   "phone": "972549723880"
+  },
+  {
+   "id": "ACD953D4C6DCD507E4E5DAF0F78F8113",
+   "sender": "אביבה יחיאל",
+   "text": "תהדקי באתר אביטה",
+   "ts": 1793011703000,
+   "date": "2026-10-26",
+   "time": "12:48",
+   "files": [],
+   "drive": null,
+   "phone": "972504188931"
+  },
+  {
+   "id": "3EB031EE95493EA0CEFE67",
+   "sender": "ברכי",
+   "text": "יש למישהו דף חזרה על במדבר?",
+   "ts": 1793033848000,
+   "date": "2026-10-26",
+   "time": "18:57",
+   "files": [],
+   "drive": null,
+   "phone": "972587703966"
+  },
+  {
+   "id": "AC16E4D9041F027CA54169FC6DF4B8DF",
+   "sender": "אילנית",
+   "text": "",
+   "ts": 1793033911000,
+   "date": "2026-10-26",
+   "time": "18:58",
+   "files": [
+    {
+     "name": "דף חזרה לפרשת במדבר.docx",
+     "size": "13KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/19gBrXKR7inMbDs_ZGmAV7p6MCHgY4ZOF/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504146927"
+  },
+  {
+   "id": "AC846E48C60B8EF7C6157A4E3D20EFB1",
+   "sender": "עדי אסולין",
+   "text": "אשמח לדף חזרה למבחן ומבחן לפרקים הראשונים בשמואל א🙏🙏🙏",
+   "ts": 1793035191000,
+   "date": "2026-10-26",
+   "time": "19:19",
+   "files": [],
+   "drive": null,
+   "phone": "972542113750"
   }
  ]
 }

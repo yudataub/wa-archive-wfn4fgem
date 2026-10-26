@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-10-25T13:38:21.487Z",
+ "updated": "2026-10-26T18:48:17.630Z",
  "messages": [
   {
    "id": "AC5F8C74D4E7B7B5510E2478849BCC23",
@@ -1613,6 +1613,28 @@
    "files": [],
    "drive": null,
    "phone": "972536227899"
+  },
+  {
+   "id": "AC5929644B5A70300B9536BF8D001C6B",
+   "sender": "אתי",
+   "text": "https://drive.google.com/drive/folders/1WXfF8Ht-3PHJg3V4qvUsTSpxfh6_E1XS",
+   "ts": 1793040482000,
+   "date": "2026-10-26",
+   "time": "20:48",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC859B8B8F8FBBDBEA6132B52AC511DC",
+   "sender": "אתי",
+   "text": "https://youtube.com/watch?v=1ljOgFJxhcE&feature=shared",
+   "ts": 1793040483000,
+   "date": "2026-10-26",
+   "time": "20:48",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
   }
  ]
 }

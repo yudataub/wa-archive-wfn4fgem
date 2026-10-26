@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "גמרא כתה ה מפמ\"ר בחמ\"ד",
- "updated": "2026-10-25T19:23:15.893Z",
+ "updated": "2026-10-26T11:22:35.032Z",
  "messages": [
   {
    "id": "ACD27B3D777C937FE21B87DA217D421B",
@@ -88,6 +88,28 @@
    "files": [],
    "drive": null,
    "phone": "972525393128"
+  },
+  {
+   "id": "AC3D72DF7B68D0A5B3CE0F7CA728D233",
+   "sender": "גיא",
+   "text": "מצורף לשימושכם. פשוט מדהים",
+   "ts": 1793013729000,
+   "date": "2026-10-26",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "phone": "972507331433"
+  },
+  {
+   "id": "AC53B933E1C0ECEC4548AF986F33A1D1",
+   "sender": "גיא",
+   "text": "https://m.youtube.com/watch?v=bvTZXZ2z9jo&list=RDMMqUKQbQbrIyc&index=30&pp=8AUB",
+   "ts": 1793013729000,
+   "date": "2026-10-26",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "phone": "972507331433"
   }
  ]
 }

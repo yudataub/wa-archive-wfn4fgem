@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אמהות בצפון🥰",
- "updated": "2026-10-22T18:25:27.528Z",
+ "updated": "2026-10-26T16:53:48.035Z",
  "messages": [
   {
    "id": "A527B5F23BDE100A5DB42274C4BE4E60",
@@ -142,6 +142,120 @@
    "date": "2026-10-22",
    "time": "21:25",
    "files": [],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A51E0D7069B88705D03B35D684F976AA",
+   "sender": "תמי",
+   "text": "סינמול חיפה\n*לעוד פעילויות חינם כנסו לקבוצה*",
+   "ts": 1793033297000,
+   "date": "2026-10-26",
+   "time": "18:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "195KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A51E0D7069B88705D03B35D684F976AA_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A53934E6A628A0C375D2C2A24FD8DB8E",
+   "sender": "תמי",
+   "text": "קניון שער הצפון קריית אתא\n*לעוד פעילויות חינם כנסו לקבוצה*",
+   "ts": 1793033354000,
+   "date": "2026-10-26",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A53934E6A628A0C375D2C2A24FD8DB8E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5D37EBCA1FA77B8D48953EC9BD3FDFA",
+   "sender": "תמי",
+   "text": "*גרנד קניון חיפה*",
+   "ts": 1793033397000,
+   "date": "2026-10-26",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5D37EBCA1FA77B8D48953EC9BD3FDFA_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A59C3D91B05003415F4BBD830A4E074F",
+   "sender": "תמי",
+   "text": "*חוצות המפרץ חיפה*",
+   "ts": 1793033398000,
+   "date": "2026-10-26",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A59C3D91B05003415F4BBD830A4E074F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A52A53CCD623F28646D6F1B5F8AAF311",
+   "sender": "תמי",
+   "text": "*רמת ישי*",
+   "ts": 1793033472000,
+   "date": "2026-10-26",
+   "time": "18:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A52A53CCD623F28646D6F1B5F8AAF311_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5FC570AC5C1DF57E818D573F097A292",
+   "sender": "תמי",
+   "text": "קניון תימורה קריית אתא\n\n*לעוד פעילויות חינם כנסו לקבוצה*",
+   "ts": 1793033600000,
+   "date": "2026-10-26",
+   "time": "18:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5FC570AC5C1DF57E818D573F097A292_1.jpg",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972559326761"
   }

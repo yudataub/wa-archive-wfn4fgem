@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מזכי הרבים",
- "updated": "2026-10-25T17:46:55.305Z",
+ "updated": "2026-10-26T09:21:09.898Z",
  "messages": [
   {
    "id": "A536C9338D779778040AF45B5261A2E6",
@@ -6976,6 +6976,66 @@
    "files": [],
    "drive": null,
    "phone": "972504696525"
+  },
+  {
+   "id": "ACF1C4393D49BC29F319EDB56AA1D107",
+   "sender": "שלומי",
+   "text": "העלייה מצרפת גוברת יאללה בואו להצביע גם משאר מדינות העולם לפני ש...",
+   "ts": 1793006409000,
+   "date": "2026-10-26",
+   "time": "11:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.6MB",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACF1C4393D49BC29F319EDB56AA1D107_0.mp4"
+    }
+   ],
+   "drive": null,
+   "phone": "972524666606"
+  },
+  {
+   "id": "AC8BCF456B594D438D3864E44C02CB51",
+   "sender": "שלומי",
+   "text": "",
+   "ts": 1793006450000,
+   "date": "2026-10-26",
+   "time": "11:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "35KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC8BCF456B594D438D3864E44C02CB51_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972524666606"
+  },
+  {
+   "id": "ACBE29EE9C28CDB7FF654FD671DDC410",
+   "sender": "שלומי",
+   "text": "",
+   "ts": 1793006450000,
+   "date": "2026-10-26",
+   "time": "11:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "10KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACBE29EE9C28CDB7FF654FD671DDC410_0.ogg"
+    }
+   ],
+   "drive": null,
+   "phone": "972524666606"
   }
  ]
 }

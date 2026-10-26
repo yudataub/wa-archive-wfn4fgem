@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-25T03:59:39.891Z",
+ "updated": "2026-10-26T04:14:06.538Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -914,6 +914,101 @@
      "size": "153KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3AD9554A9D74E6756FB9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A46BF53AB50E53404E4",
+   "sender": ".",
+   "text": "״מיטלטל מלא וריקן״ (בכורות לח, א).",
+   "ts": 1792988032000,
+   "date": "2026-10-26",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A46BF53AB50E53404E4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A5F302A5042DD7E1A48",
+   "sender": ".",
+   "text": "״שעושין לו זנב״ (רש״י בכורות לח, א).",
+   "ts": 1792988033000,
+   "date": "2026-10-26",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "51KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A5F302A5042DD7E1A48_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A6535A205ECBFEB23B6",
+   "sender": ".",
+   "text": "״כגון רוקו״ (רש״י בכורות לח, א).",
+   "ts": 1792988034000,
+   "date": "2026-10-26",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A6535A205ECBFEB23B6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AC0CE76DA27201E9E21",
+   "sender": ".",
+   "text": "״שישבר אם אדם יושב עליו״ (רש״י בכורות לח, א).",
+   "ts": 1792988035000,
+   "date": "2026-10-26",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "64KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AC0CE76DA27201E9E21_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A453E0ED48186C8DA0D",
+   "sender": ".",
+   "text": "״יצא מחלב עינימו״ (בכורות לח, ב).",
+   "ts": 1792988036000,
+   "date": "2026-10-26",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A453E0ED48186C8DA0D_1.jpg",
      "skipped": ""
     }
    ],

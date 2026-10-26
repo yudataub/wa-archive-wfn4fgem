@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הלכה כתה ג'",
- "updated": "2026-10-25T18:14:02.693Z",
+ "updated": "2026-10-26T09:55:40.355Z",
  "messages": [
   {
    "id": "ACEB4C097F897A12E7774B46815E09C7",
@@ -1335,6 +1335,58 @@
    "files": [],
    "drive": null,
    "phone": "972556834055"
+  },
+  {
+   "id": "ACBAE1C72404F154902583146FF5D86F",
+   "sender": "יפה בוכבזה",
+   "text": "מבקשת שוב🙏🏻",
+   "ts": 1793001452000,
+   "date": "2026-10-26",
+   "time": "09:57",
+   "files": [],
+   "drive": null,
+   "phone": "972556834055"
+  },
+  {
+   "id": "A5A4DD2C726C7905D65194402D15C923",
+   "sender": "Dvora Lea Photography",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing\n\nתסתכלי פה בדרייב",
+   "ts": 1793004791000,
+   "date": "2026-10-26",
+   "time": "10:53",
+   "files": [],
+   "drive": null,
+   "phone": "972585670944"
+  },
+  {
+   "id": "AC5E84DDCEC39B81B4C9DB8CF62D6085",
+   "sender": "מיכל קלנר",
+   "text": "",
+   "ts": 1793006212000,
+   "date": "2026-10-26",
+   "time": "11:16",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "32KB",
+     "type": "image/webp",
+     "path": "media/2026-10/AC5E84DDCEC39B81B4C9DB8CF62D6085_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509363061"
+  },
+  {
+   "id": "AC805558F2C060154DCD72D78ADC4696",
+   "sender": "נורית אלטמן",
+   "text": "https://youtu.be/X2V2JN4jXUY?si=TRRTt5qt4nrIsY70",
+   "ts": 1793008528000,
+   "date": "2026-10-26",
+   "time": "11:55",
+   "files": [],
+   "drive": null,
+   "phone": "972525888501"
   }
  ]
 }

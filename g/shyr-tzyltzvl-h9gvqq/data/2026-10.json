@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שיר צילצול🎼",
- "updated": "2026-10-25T16:55:50.222Z",
+ "updated": "2026-10-26T11:46:01.896Z",
  "messages": [
   {
    "id": "3EB0FC2C20F70260E519A1",
@@ -1508,6 +1508,57 @@
    "files": [],
    "drive": null,
    "phone": "972535243987"
+  },
+  {
+   "id": "ACE3EC6B8C721F70EA56B2A934E4365E",
+   "sender": "שני",
+   "text": "אפשר בבקשה להקפיץ את שיר השיירה מוכן לצלצול?",
+   "ts": 1793014865000,
+   "date": "2026-10-26",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972544691340"
+  },
+  {
+   "id": "ACB7C14C8752D6D2FA80FAE65BD6F269",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1793015122000,
+   "date": "2026-10-26",
+   "time": "13:45",
+   "files": [
+    {
+     "name": "השיירה א - 30.mp3",
+     "size": "484KB",
+     "type": "audio/mpeg",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACB7C14C8752D6D2FA80FAE65BD6F269_0.mp3"
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "ACFBDF13B0C8D5E618A33B5E572F38E1",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1793015147000,
+   "date": "2026-10-26",
+   "time": "13:45",
+   "files": [
+    {
+     "name": "השיירה - צילצול.mp3",
+     "size": "484KB",
+     "type": "audio/mpeg",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/ACFBDF13B0C8D5E618A33B5E572F38E1_0.mp3"
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
   }
  ]
 }

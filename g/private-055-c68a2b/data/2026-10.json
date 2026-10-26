@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות 055",
- "updated": "2026-10-25T21:26:04.984Z",
+ "updated": "2026-10-26T12:51:36.543Z",
  "messages": [
   {
    "id": "ACE8A246EB9C4D6A6F9019D3EE46B860",
@@ -169,6 +169,122 @@
    "files": [],
    "drive": null,
    "thread": "אריה יונה"
+  },
+  {
+   "id": "3EB0535A899A282B058533",
+   "sender": "בר שאלתיאל",
+   "text": "כן זה אפשרי אם מחברים את קלוד לדפדפן והוא ייצור בעצמו שם",
+   "ts": 1792988486000,
+   "date": "2026-10-26",
+   "time": "06:21",
+   "files": [],
+   "drive": null,
+   "thread": "בר שאלתיאל",
+   "phone": "972504649722"
+  },
+  {
+   "id": "AC5E9B3D5CC5BAC941CDAF5984040B2A",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793001625000,
+   "date": "2026-10-26",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "דף חזרה למבחן פרשת דברים התשפ-ז.docx",
+     "size": "9KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC5E9B3D5CC5BAC941CDAF5984040B2A_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "AC86BE4A959EB4649AB881FF70017B4D",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793001625000,
+   "date": "2026-10-26",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "מבחן פרשת דברים התשפ\"ז.docx",
+     "size": "52KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC86BE4A959EB4649AB881FF70017B4D_0.docx"
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "A5E001A4F3905CA08EFF3EE7A8F62E11",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1793005497000,
+   "date": "2026-10-26",
+   "time": "11:04",
+   "files": [
+    {
+     "name": "העונג אינו בונוס.html",
+     "size": "4.7MB",
+     "type": "text/html",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/A5E001A4F3905CA08EFF3EE7A8F62E11_0.html"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא",
+   "phone": "972527139520"
+  },
+  {
+   "id": "AC2F47D196E1B0AD695ADBC2234F6272",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793005550000,
+   "date": "2026-10-26",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "העונג אינו בונוס.html",
+     "size": "4.7MB",
+     "type": "text/html",
+     "path": "",
+     "skipped": "⏳ ממתין להעלאה",
+     "spool": "2026-10/AC2F47D196E1B0AD695ADBC2234F6272_0.html"
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "AC29526E6DDD65D30FC9EFBF1134A2C1",
+   "sender": "אני",
+   "text": "תשמע אתמול הסקיל שלך פגז🤩",
+   "ts": 1793005576000,
+   "date": "2026-10-26",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "3EB039FA7AA6C7F243692D",
+   "sender": "בר שאלתיאל",
+   "text": "וואו מטורף איזה כיףףף תודה על הפרגון",
+   "ts": 1793019086000,
+   "date": "2026-10-26",
+   "time": "14:51",
+   "files": [],
+   "drive": null,
+   "thread": "בר שאלתיאל",
+   "phone": "972504649722"
   }
  ]
 }
