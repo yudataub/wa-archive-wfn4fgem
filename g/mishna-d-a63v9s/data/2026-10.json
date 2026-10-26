@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-10-26T18:50:47.655Z",
+ "updated": "2026-10-26T22:01:04.199Z",
  "messages": [
   {
    "id": "3A4703FE142D48392661",
@@ -1052,6 +1052,39 @@
    "files": [],
    "drive": null,
    "phone": "972585803058"
+  },
+  {
+   "id": "AC8C9BF5D220680FED4321C9610B5D1F",
+   "sender": "אתי",
+   "text": "אין קבוצה של נביא",
+   "ts": 1793050310000,
+   "date": "2026-10-26",
+   "time": "23:31",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "ACEBDB2CFBADF87F8652AFBE9B34819F",
+   "sender": "יואל לחיאני",
+   "text": "https://did.li/kvotzot",
+   "ts": 1793051255000,
+   "date": "2026-10-26",
+   "time": "23:47",
+   "files": [],
+   "drive": null,
+   "phone": "972548025517"
+  },
+  {
+   "id": "AC81BAF273E73BEB61EAA04346CE37B0",
+   "sender": "ARAZI SHARONA",
+   "text": "הקבוצות בחומש ע\"פ המתווה חומש+נביא.\nכתה ו' דברים+ שמואל ב'\nhttps://did.li/kvotzot",
+   "ts": 1793052038000,
+   "date": "2026-10-27",
+   "time": "00:00",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-26T17:20:18.447Z",
+ "updated": "2026-10-26T21:37:26.912Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -5163,9 +5163,10 @@
      "name": "וידאו.mp4",
      "size": "6.7MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/2A90A7DCB7B796E1F81C_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/2A90A7DCB7B796E1F81C_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/2A90A7DCB7B796E1F81C_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/2A90A7DCB7B796E1F81C_0.mp4"
     }
    ],
    "drive": null,
@@ -5230,6 +5231,17 @@
    "files": [],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "A560DBDF85632487C61FB4F66D681C9B",
+   "sender": "tamar",
+   "text": "💼 *העבודה הבאה שלכם? העובד הבא שלכם?*\n*הכול מתחיל בדרושון!*\n\n🔎 *מחפשים עבודה?*\nהצעות עבודה ישירות לוואטסאפ — אולי המשרה הבאה שלכם כבר כאן!\n\n📢 *מעסיקים ומגייסים?*\nפרסמו משרה והגיעו לאנשים שמחפשים עבודה!\n\n*להצטרפות לדרושון 👇*\n\n🤝 *מכירים מחפשי עבודה או מעסיקים? שלחו להם!*",
+   "ts": 1793050644000,
+   "date": "2026-10-26",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "phone": "972545408906"
   }
  ]
 }

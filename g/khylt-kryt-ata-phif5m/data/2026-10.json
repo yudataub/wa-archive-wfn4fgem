@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת קרית אתא",
- "updated": "2026-10-26T20:20:22.511Z",
+ "updated": "2026-10-26T21:16:26.569Z",
  "messages": [
   {
    "id": "AC808A8F6D95AC6E791AC3F8C5C1EC0E",
@@ -8234,9 +8234,10 @@
      "name": "וידאו.mp4",
      "size": "980KB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/ACC5002228C0CF76FDC7AC16D79275F3_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/ACC5002228C0CF76FDC7AC16D79275F3_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/ACC5002228C0CF76FDC7AC16D79275F3_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/ACC5002228C0CF76FDC7AC16D79275F3_0.mp4"
     }
    ],
    "drive": null,
@@ -8276,7 +8277,8 @@
      "path": "https://drive.google.com/file/d/1Z1VostYdHJdSIZ1saN32oH4sXUZnIWzu/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC887E9EB3C7E5C308BCE899BDD4B286_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Z1VostYdHJdSIZ1saN32oH4sXUZnIWzu&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Z1VostYdHJdSIZ1saN32oH4sXUZnIWzu&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/AC887E9EB3C7E5C308BCE899BDD4B286_0.mp4"
     }
    ],
    "drive": null,
@@ -8409,11 +8411,45 @@
      "path": "https://drive.google.com/file/d/1aYFOFSALj-60KREvRhM7ApyhA2_97PDB/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC921F38FAC1EB4D62FF76F9DD13F006_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1aYFOFSALj-60KREvRhM7ApyhA2_97PDB&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1aYFOFSALj-60KREvRhM7ApyhA2_97PDB&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m/v/2026-10/AC921F38FAC1EB4D62FF76F9DD13F006_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972538282761"
+  },
+  {
+   "id": "AC7D529DE717E92E149BB3A8A8B3B7FB",
+   "sender": "זהבה גוטמן",
+   "text": "📇 מרינה רגלים\n+972507197724",
+   "ts": 1793049317000,
+   "date": "2026-10-26",
+   "time": "23:15",
+   "files": [],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "ACD224A61C8ED3BD0F14AD28024266DC",
+   "sender": "זהבה גוטמן",
+   "text": "מרינה פדקיוריסטיק רפואית",
+   "ts": 1793049318000,
+   "date": "2026-10-26",
+   "time": "23:15",
+   "files": [],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "ACC66E3BD29A340476B0D4A526EEFDB8",
+   "sender": "זהבה גוטמן",
+   "text": "שלחתי למי ששאלה על פדיקיוריסטית רפואית",
+   "ts": 1793049367000,
+   "date": "2026-10-26",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972527361718"
   }
  ]
 }

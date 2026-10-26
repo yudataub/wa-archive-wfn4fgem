@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שות מומחים ואנשי טיפול והדרכה",
- "updated": "2026-10-26T20:06:52.277Z",
+ "updated": "2026-10-26T22:35:52.865Z",
  "messages": [
   {
    "id": "3EB0A702EEAB0BA951E587",
@@ -9422,9 +9422,10 @@
      "name": "וידאו.mp4",
      "size": "13.6MB",
      "type": "video/mp4",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB07D336022F3CF540440_0.mp4"
+     "path": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/v/2026-10/3EB07D336022F3CF540440_0.mp4",
+     "skipped": "",
+     "spool": "2026-10/3EB07D336022F3CF540440_0.mp4",
+     "mirror": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/v/2026-10/3EB07D336022F3CF540440_0.mp4"
     }
    ],
    "drive": null,
@@ -9442,9 +9443,10 @@
      "name": "הודעה קולית.ogg",
      "size": "3.2MB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0C7BC6150DD6CBB7670_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/f/2026-10/3EB0C7BC6150DD6CBB7670_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/3EB0C7BC6150DD6CBB7670_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/f/2026-10/3EB0C7BC6150DD6CBB7670_0.ogg"
     }
    ],
    "drive": null,
@@ -9473,9 +9475,10 @@
      "name": "הודעה קולית.ogg",
      "size": "3.2MB",
      "type": "audio/ogg; codecs=opus",
-     "path": "",
-     "skipped": "⏳ ממתין להעלאה",
-     "spool": "2026-10/3EB0BD6A778A2F55F563BC_0.ogg"
+     "path": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/f/2026-10/3EB0BD6A778A2F55F563BC_0.ogg",
+     "skipped": "",
+     "spool": "2026-10/3EB0BD6A778A2F55F563BC_0.ogg",
+     "mirror": "https://yudataub.github.io/wa-vid-shvt-mvmchym-vanshy-typvl-vhdrkh-w7inic/f/2026-10/3EB0BD6A778A2F55F563BC_0.ogg"
     }
    ],
    "drive": null,
@@ -9601,6 +9604,17 @@
    "files": [],
    "drive": null,
    "phone": "972522314040"
+  },
+  {
+   "id": "2A5273EBD8B926AC6F5C",
+   "sender": "ציפי ריין",
+   "text": "אצלי במכון יש מנחות הורים לילדי צמיד",
+   "ts": 1793054152000,
+   "date": "2026-10-27",
+   "time": "00:35",
+   "files": [],
+   "drive": null,
+   "phone": "972525619884"
   }
  ]
 }
