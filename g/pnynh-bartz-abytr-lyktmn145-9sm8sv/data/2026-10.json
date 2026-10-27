@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פנינה בארץ / אביתר ליכטמן145",
- "updated": "2026-10-25T19:02:40.869Z",
+ "updated": "2026-10-27T10:56:14.862Z",
  "messages": [
   {
    "id": "A58B74B8A334FEBD812E3B0FEB3FD715",
@@ -219,6 +219,27 @@
      "type": "image/jpeg",
      "path": "media/2026-10/A58EC5F516B615FD9E4EF05B0DA7DCAB_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547728242"
+  },
+  {
+   "id": "A549D15CB8F6193661B99304BBBC2764",
+   "sender": "אביתר ליכטמן הרצאות",
+   "text": "",
+   "ts": 1793098561000,
+   "date": "2026-10-27",
+   "time": "12:56",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TsrNCJ4xBVU9ADNlIBwkfXQm-J61VLBz/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A549D15CB8F6193661B99304BBBC2764_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1TsrNCJ4xBVU9ADNlIBwkfXQm-J61VLBz&sz=w1200"
     }
    ],
    "drive": null,

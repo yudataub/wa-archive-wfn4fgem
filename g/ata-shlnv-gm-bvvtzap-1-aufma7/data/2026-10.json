@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתא שלנו גם בווצאפ 1",
- "updated": "2026-10-25T09:03:51.087Z",
+ "updated": "2026-10-27T19:41:18.821Z",
  "messages": [
   {
    "id": "A500C754EB9651F22DB12095074D0930",
@@ -323,6 +323,143 @@
      "type": "image/jpeg",
      "path": "media/2026-10/A57BE1DD821617ABE09509C34EEFD357_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A52B77A257F41224CC7DB1D0CA43AB51",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1793108534000,
+   "date": "2026-10-27",
+   "time": "15:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A52B77A257F41224CC7DB1D0CA43AB51_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5887D2173E314A1EA3DB06C0FF8C982",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1793108575000,
+   "date": "2026-10-27",
+   "time": "15:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5887D2173E314A1EA3DB06C0FF8C982_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5613567C231F4A65FC499652E6AF9D9",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1793109073000,
+   "date": "2026-10-27",
+   "time": "15:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5613567C231F4A65FC499652E6AF9D9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5A2D55517BFD96785074AF43C461DE8",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1793109141000,
+   "date": "2026-10-27",
+   "time": "15:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "173KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5A2D55517BFD96785074AF43C461DE8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5CBFCEB1F916C26E70FC9498634A354",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1793117843000,
+   "date": "2026-10-27",
+   "time": "18:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1DRuuMPiZ8CfF_uDCCcIhugil_RniOYnY/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A5CBFCEB1F916C26E70FC9498634A354_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1DRuuMPiZ8CfF_uDCCcIhugil_RniOYnY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5A538555D108FF8FD3D47C69FFFBD09",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1793119142000,
+   "date": "2026-10-27",
+   "time": "18:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "47KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5A538555D108FF8FD3D47C69FFFBD09_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A57313E0124B2232CF9EA4D24BD2C50B",
+   "sender": "אתא שלנו",
+   "text": "כל מילה ❤️",
+   "ts": 1793130072000,
+   "date": "2026-10-27",
+   "time": "21:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1m9ekl2sgskqPXmXV8e9NWVHZIz8Q4UHh/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A57313E0124B2232CF9EA4D24BD2C50B_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1m9ekl2sgskqPXmXV8e9NWVHZIz8Q4UHh&sz=w1200"
     }
    ],
    "drive": null,

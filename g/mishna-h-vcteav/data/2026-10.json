@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-26T19:43:21.986Z",
+ "updated": "2026-10-27T21:02:03.880Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -1381,6 +1381,85 @@
    "files": [],
    "drive": null,
    "phone": "972522406167"
+  },
+  {
+   "id": "AC3AD3C1A06395BC746E956AEA1D47B6",
+   "sender": "רינת שם טוב",
+   "text": "",
+   "ts": 1793129097000,
+   "date": "2026-10-27",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "מסכת_ראש_השנה.pdf",
+     "size": "12.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1c72o1GjcaeeD4q6qEX8qXajj6gFfdIqt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505852647"
+  },
+  {
+   "id": "AC9634D298439CE0F47FB4E10A4AE8CC",
+   "sender": "רינת שם טוב",
+   "text": "",
+   "ts": 1793130078000,
+   "date": "2026-10-27",
+   "time": "21:41",
+   "files": [
+    {
+     "name": "מסע_קסום_במסכת_ראש_השנה.pdf",
+     "size": "17.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1WbuW6T-era-spz5pW7TEixMnrF5gT8-T/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505852647"
+  },
+  {
+   "id": "ACD33C2D83E2930C2F4112DE4124667E",
+   "sender": "אסף אלדר",
+   "text": "מסכת ראש השנה פרק א",
+   "ts": 1793132851000,
+   "date": "2026-10-27",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC55920A591B7E2FEFA91CFAE81B078A",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1793132852000,
+   "date": "2026-10-27",
+   "time": "22:27",
+   "files": [
+    {
+     "name": "rosh-hashana-perek-alef-6363b887.pdf",
+     "size": "2.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Ka_ENgfoDazjqPNYor5J0qmPkOitOqOX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC95FBB5B28177BBF3F49F263543049F",
+   "sender": "חן לביא",
+   "text": "סדרת סרטונים על משניות ד-ז",
+   "ts": 1793134912000,
+   "date": "2026-10-27",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
   }
  ]
 }

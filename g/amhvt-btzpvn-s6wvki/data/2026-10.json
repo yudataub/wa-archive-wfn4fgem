@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אמהות בצפון🥰",
- "updated": "2026-10-26T16:53:48.035Z",
+ "updated": "2026-10-27T15:06:18.180Z",
  "messages": [
   {
    "id": "A527B5F23BDE100A5DB42274C4BE4E60",
@@ -256,6 +256,66 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5880A54D7F2887D6781A4B1B55ED56A",
+   "sender": "תמי",
+   "text": "מי עוד פה איתנו ?!",
+   "ts": 1793094955000,
+   "date": "2026-10-27",
+   "time": "11:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5880A54D7F2887D6781A4B1B55ED56A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A569DB134FDC20B9CBA9A8AA049092C4",
+   "sender": "תמי",
+   "text": "[סקר]",
+   "ts": 1793094983000,
+   "date": "2026-10-27",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A51E66EB2E16331D57D9D444DF417B13",
+   "sender": "תמי",
+   "text": "מי היתה או עכשיו בסינמול?",
+   "ts": 1793113557000,
+   "date": "2026-10-27",
+   "time": "17:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A51E66EB2E16331D57D9D444DF417B13_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A53D56B6B8A14392DB02F8362C976FF3",
+   "sender": "תמי",
+   "text": "[סקר]",
+   "ts": 1793113577000,
+   "date": "2026-10-27",
+   "time": "17:06",
+   "files": [],
    "drive": null,
    "phone": "972559326761"
   }

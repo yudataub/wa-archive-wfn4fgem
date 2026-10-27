@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בין הזמנים 🏖",
- "updated": "2026-10-26T19:11:51.104Z",
+ "updated": "2026-10-27T07:19:54.139Z",
  "messages": [
   {
    "id": "AC76542EC2BE7F162EA8A87D3A1E0FB9",
@@ -3439,6 +3439,131 @@
    "files": [],
    "drive": null,
    "phone": "972548053047"
+  },
+  {
+   "id": "ACCB58C9D7154D1F21E20048E9E86E46",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1793085553000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "367KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACCB58C9D7154D1F21E20048E9E86E46_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC24862E2C81ED200446E7D8357C4E3F",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1793085556000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC24862E2C81ED200446E7D8357C4E3F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC63C7546757AB4F703DFAF9C024BEA4",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1793085556000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "318KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC63C7546757AB4F703DFAF9C024BEA4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC47D0F0C084A3D9F2C1557B610415FD",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1793085557000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "33KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC47D0F0C084A3D9F2C1557B610415FD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC2A416195D6F8975B9482E6244BD52D",
+   "sender": "nuritkfir23",
+   "text": "",
+   "ts": 1793085558000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "293KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC2A416195D6F8975B9482E6244BD52D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC2A6E2CE66A28A4AD8A95B562B952C1",
+   "sender": "nuritkfir23",
+   "text": "חצר כללית",
+   "ts": 1793085558000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "356KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC2A6E2CE66A28A4AD8A95B562B952C1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502520968"
+  },
+  {
+   "id": "AC171911C2CE591D2CABC2E53829C867",
+   "sender": "nuritkfir23",
+   "text": "מומלץ בחום רב ❤️חיזוק לתושבי הצפון",
+   "ts": 1793085559000,
+   "date": "2026-10-27",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972502520968"
   }
  ]
 }

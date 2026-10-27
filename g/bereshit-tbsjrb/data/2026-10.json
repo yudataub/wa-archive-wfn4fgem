@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-26T17:08:48.278Z",
+ "updated": "2026-10-27T16:50:31.486Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -4347,6 +4347,80 @@
    "files": [],
    "drive": null,
    "phone": "972586325250"
+  },
+  {
+   "id": "ACA42D06691E7D81999BA335633C61D7",
+   "sender": "טוביה מרקוביץ",
+   "text": "סליחה על החזרה אחורה אבל אם למישהו יש שיר קצר על בריאת העולם אשמח לקבלו",
+   "ts": 1793119249000,
+   "date": "2026-10-27",
+   "time": "18:40",
+   "files": [],
+   "drive": null,
+   "phone": "972526882070"
+  },
+  {
+   "id": "ACA796CDF5FCF7C8306BE7FCAD017778",
+   "sender": "Natan",
+   "text": "יש למישהו כתר תורה להדפסה בבקשה?",
+   "ts": 1793119472000,
+   "date": "2026-10-27",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972584446284"
+  },
+  {
+   "id": "ACC82B4E5476C2F6D252D93DFE6C8F19",
+   "sender": "נעמה ארנון",
+   "text": "",
+   "ts": 1793119718000,
+   "date": "2026-10-27",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "phone": "972542061902"
+  },
+  {
+   "id": "AC9EC92A3D6F8E442C3B3BCC0FA3A799",
+   "sender": "Natan",
+   "text": "תודה רבה",
+   "ts": 1793119778000,
+   "date": "2026-10-27",
+   "time": "18:49",
+   "files": [],
+   "drive": null,
+   "phone": "972584446284"
+  },
+  {
+   "id": "AC832567A767C8A2B933895484C6828F",
+   "sender": "Natan",
+   "text": "אפשר לשלןח אותו שוב הוא לא יורד לי",
+   "ts": 1793119786000,
+   "date": "2026-10-27",
+   "time": "18:49",
+   "files": [],
+   "drive": null,
+   "phone": "972584446284"
+  },
+  {
+   "id": "AC9D1B0BA1915E42E53645BF620A0E8A",
+   "sender": "נעמה ארנון",
+   "text": "",
+   "ts": 1793119809000,
+   "date": "2026-10-27",
+   "time": "18:50",
+   "files": [
+    {
+     "name": "כתר למסיבת תורה-2- רחלי אשכנזי_20251014_214459_000_251014_231014.pdf",
+     "size": "513KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/104dh7PLdjG0Q4J9jOG-WZWxyRKuDoNEo/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542061902"
   }
  ]
 }

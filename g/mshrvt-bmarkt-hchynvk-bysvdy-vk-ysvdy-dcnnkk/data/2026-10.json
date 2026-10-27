@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-10-26T17:36:25.380Z",
+ "updated": "2026-10-27T14:29:42.652Z",
  "messages": [
   {
    "id": "AC6CD79F846BAD222D77F4405284654A",
@@ -2370,6 +2370,101 @@
    ],
    "drive": null,
    "phone": "972507689251"
+  },
+  {
+   "id": "3EB0C471FC840B483F1E17",
+   "sender": "מנהל מוסדות על יסודי נדבורנה",
+   "text": "",
+   "ts": 1793093378000,
+   "date": "2026-10-27",
+   "time": "11:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB0C471FC840B483F1E17_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587803314"
+  },
+  {
+   "id": "AC1E50BC1A931DD756278626BE75234A",
+   "sender": "טלי צבאן",
+   "text": "",
+   "ts": 1793093651000,
+   "date": "2026-10-27",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "416KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC1E50BC1A931DD756278626BE75234A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526563303"
+  },
+  {
+   "id": "AC3B25DB52F8535F935E8D1825A6492B",
+   "sender": "טלי צבאן",
+   "text": "",
+   "ts": 1793093653000,
+   "date": "2026-10-27",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "419KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC3B25DB52F8535F935E8D1825A6492B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526563303"
+  },
+  {
+   "id": "ACDBD880261D5C2BB3AFDC59E152424F",
+   "sender": "טלי צבאן",
+   "text": "",
+   "ts": 1793093656000,
+   "date": "2026-10-27",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "429KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACDBD880261D5C2BB3AFDC59E152424F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526563303"
+  },
+  {
+   "id": "3A0E39189A30898A3AF1",
+   "sender": "תחיה",
+   "text": "",
+   "ts": 1793111373000,
+   "date": "2026-10-27",
+   "time": "16:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A0E39189A30898A3AF1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528868777"
   }
  ]
 }

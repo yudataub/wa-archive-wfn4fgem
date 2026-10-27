@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-26T04:14:06.538Z",
+ "updated": "2026-10-27T04:53:29.583Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -1009,6 +1009,44 @@
      "size": "129KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A453E0ED48186C8DA0D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AC6A99ABD018875F234",
+   "sender": ".",
+   "text": "״נייח ליה בצוותא״ (רש״י בכורות לט, א).",
+   "ts": 1793076782000,
+   "date": "2026-10-27",
+   "time": "06:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AC6A99ABD018875F234_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A1DB85BECF112983F04",
+   "sender": ".",
+   "text": "״שיהו חגרים בוזזים ביזות״ (רש״י בכורות לט, א).",
+   "ts": 1793076784000,
+   "date": "2026-10-27",
+   "time": "06:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "79KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A1DB85BECF112983F04_1.jpg",
      "skipped": ""
     }
    ],
