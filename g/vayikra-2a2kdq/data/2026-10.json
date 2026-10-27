@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-27T16:16:30.993Z",
+ "updated": "2026-10-27T22:06:41.532Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -8251,6 +8251,83 @@
    "ts": 1793117794000,
    "date": "2026-10-27",
    "time": "18:16",
+   "files": [],
+   "drive": null,
+   "phone": "972548025517"
+  },
+  {
+   "id": "ACF14BD3B055E717CAA188FCA487434F",
+   "sender": "אורית הודיה",
+   "text": "מישהו יכול לשלוח לי את טבלת המצגות והסרטונים לספר יהושע בבקשה???",
+   "ts": 1793137060000,
+   "date": "2026-10-27",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACABF4BF0B548B2317463C67233E9BB7",
+   "sender": "זהבה",
+   "text": "https://docs.google.com/spreadsheets/d/1yIbJmI9XEg-oTgx5aPjzL19ipmehXW9RDbGNAUuXGdk/edit?usp=sharing",
+   "ts": 1793138081000,
+   "date": "2026-10-27",
+   "time": "23:54",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "AC8C96E3CF3F9D00E0E243B9820DA922",
+   "sender": "זהבה",
+   "text": "זה נמצא בתאור של הקבוצה",
+   "ts": 1793138083000,
+   "date": "2026-10-27",
+   "time": "23:54",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "AC64EC40F35FF968D90C7204C27EE181",
+   "sender": "יואל לחיאני",
+   "text": "https://docs.google.com/spreadsheets/d/1SxzSr9jCdIERVLQzYNeYVHGd__zb9o7zesi2-xYCMXs/edit?usp=sharing",
+   "ts": 1793138522000,
+   "date": "2026-10-28",
+   "time": "00:02",
+   "files": [],
+   "drive": null,
+   "phone": "972548025517"
+  },
+  {
+   "id": "ACF4CD7435E8D2A0A8C5B37F3A11100F",
+   "sender": "יואל לחיאני",
+   "text": "זה שופטים👆🏻",
+   "ts": 1793138546000,
+   "date": "2026-10-28",
+   "time": "00:02",
+   "files": [],
+   "drive": null,
+   "phone": "972548025517"
+  },
+  {
+   "id": "AC1C4E217FAB0A0F4E3F98D5F2773090",
+   "sender": "זהבה",
+   "text": "זה של שניהם. יש לשונית למטה ויקרא ושופטים",
+   "ts": 1793138605000,
+   "date": "2026-10-28",
+   "time": "00:03",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "ACA40879B716C840BAEC4B6C72A1D0B1",
+   "sender": "יואל לחיאני",
+   "text": "נכון אבל היא בקשה יהושע",
+   "ts": 1793138786000,
+   "date": "2026-10-28",
+   "time": "00:06",
    "files": [],
    "drive": null,
    "phone": "972548025517"

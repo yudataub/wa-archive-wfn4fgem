@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-27T20:53:03.761Z",
+ "updated": "2026-10-27T21:36:11.101Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -17167,7 +17167,8 @@
      "path": "https://drive.google.com/file/d/1dq00lDUPqsffpJ46eQmrzX5K-ViFT5bc/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/3AF0CB0668142BC00D73_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1dq00lDUPqsffpJ46eQmrzX5K-ViFT5bc&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1dq00lDUPqsffpJ46eQmrzX5K-ViFT5bc&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/3AF0CB0668142BC00D73_0.mp4"
     }
    ],
    "drive": null,
@@ -17286,7 +17287,8 @@
      "path": "https://drive.google.com/file/d/138EWaTxVvqVhLVz2_-iCrrwVcNDK9EuZ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/ACC9E4352D8B6DAD39316B7E04197255_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=138EWaTxVvqVhLVz2_-iCrrwVcNDK9EuZ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=138EWaTxVvqVhLVz2_-iCrrwVcNDK9EuZ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/ACC9E4352D8B6DAD39316B7E04197255_0.mp4"
     }
    ],
    "drive": null,
@@ -17515,7 +17517,8 @@
      "path": "https://drive.google.com/file/d/1QSaJSMiH8ePOMSKgXi2zcz2g11LRx55y/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC4955D49AE5F2591141AE431DF4BBC0_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1QSaJSMiH8ePOMSKgXi2zcz2g11LRx55y&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1QSaJSMiH8ePOMSKgXi2zcz2g11LRx55y&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/AC4955D49AE5F2591141AE431DF4BBC0_0.mp4"
     }
    ],
    "drive": null,
@@ -17932,6 +17935,65 @@
    "files": [],
    "drive": null,
    "phone": "972547264000"
+  },
+  {
+   "id": "AC0D1B9446E4237F512A01841E0C4EB6",
+   "sender": "א עמר",
+   "text": "*דרמה במערכת הבחירות!*\n\nמיליונים נשפכו, אלפי פעילים התרוצצו, ובסוף? חצי מדינה לא יודעת אם ניצחה.\n\nאז במקום להמר על פוליטיקאים, תהמרו על עצמכם!\n\n2,500 ₪ לקניות בקניון תימורה ועוד פרסים שווים!\n\nשמרו את הסטטוס החרדי בצפון והיכנסו להגרלה.\n\nלפחות שמישהו ייצא מורווח מהבחירות האלה...\n\nhttps://wa.me/972533168500?text=/גם+אני+רוצה+להצטרף+לסטטוס+החרדי+בצפון+הגעתי+דרך--972508422190",
+   "ts": 1793136819000,
+   "date": "2026-10-27",
+   "time": "23:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vbOGyMHWY_15GJi6f-2F7XUmVJaxRQx3/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/AC0D1B9446E4237F512A01841E0C4EB6_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1vbOGyMHWY_15GJi6f-2F7XUmVJaxRQx3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508422190"
+  },
+  {
+   "id": "AC41B1FBAB898BD5E80DCF890DB84F54",
+   "sender": "Michal sh.",
+   "text": "",
+   "ts": 1793136943000,
+   "date": "2026-10-27",
+   "time": "23:35",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "52KB",
+     "type": "image/webp",
+     "path": "media/2026-10/AC41B1FBAB898BD5E80DCF890DB84F54_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972532747053"
+  },
+  {
+   "id": "ACC97D331B338BAE1D302D515F4E90C0",
+   "sender": "Michal sh.",
+   "text": "",
+   "ts": 1793136943000,
+   "date": "2026-10-27",
+   "time": "23:35",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "59KB",
+     "type": "image/webp",
+     "path": "media/2026-10/ACC97D331B338BAE1D302D515F4E90C0_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972532747053"
   }
  ]
 }

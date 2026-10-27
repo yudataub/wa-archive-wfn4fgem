@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-27T21:05:11.797Z",
+ "updated": "2026-10-27T22:04:24.932Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -15135,7 +15135,8 @@
      "path": "https://drive.google.com/file/d/14B6zqlCNXNtlCvBGXbP0eL7t2d-56lvJ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC7BC73F1689329D8E60194FC6601B44_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=14B6zqlCNXNtlCvBGXbP0eL7t2d-56lvJ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=14B6zqlCNXNtlCvBGXbP0eL7t2d-56lvJ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chvlmym-tkshvb-ai-u72mrh/v/2026-10/AC7BC73F1689329D8E60194FC6601B44_0.mp4"
     }
    ],
    "drive": null,
@@ -16181,7 +16182,8 @@
      "path": "https://drive.google.com/file/d/1OEthWBtQr3cluoM74FmbHV7XS8AOu9gh/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/ACDDF4DB5A26910A70D30C486C3FDF59_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1OEthWBtQr3cluoM74FmbHV7XS8AOu9gh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1OEthWBtQr3cluoM74FmbHV7XS8AOu9gh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chvlmym-tkshvb-ai-u72mrh/v/2026-10/ACDDF4DB5A26910A70D30C486C3FDF59_0.mp4"
     }
    ],
    "drive": null,
@@ -16227,6 +16229,25 @@
    "files": [],
    "drive": null,
    "phone": "972523464664"
+  },
+  {
+   "id": "AC540022853AA6E1AC4E466C3917E3C8",
+   "sender": "פני",
+   "text": "",
+   "ts": 1793138648000,
+   "date": "2026-10-28",
+   "time": "00:04",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1nkeVqc_f5vwsfCOxvgIIldiM8g2Lgr-5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524334353"
   }
  ]
 }

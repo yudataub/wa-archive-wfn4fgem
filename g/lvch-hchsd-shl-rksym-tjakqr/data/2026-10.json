@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-27T21:06:03.958Z",
+ "updated": "2026-10-27T22:46:48.980Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -12264,7 +12264,8 @@
      "path": "https://drive.google.com/file/d/1rM0TzW2b1QGBjpt2VNZksiVU2NzDL-Y_/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/ACF3BB93F67C105EED912FC3658A7778_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1rM0TzW2b1QGBjpt2VNZksiVU2NzDL-Y_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1rM0TzW2b1QGBjpt2VNZksiVU2NzDL-Y_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/ACF3BB93F67C105EED912FC3658A7778_0.mp4"
     }
    ],
    "drive": null,
@@ -12403,7 +12404,8 @@
      "path": "https://drive.google.com/file/d/11b3lksKFla3Eqz3e6DNYSZimv19qp0O6/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/2AF4B1BB42CA44A8E42E_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=11b3lksKFla3Eqz3e6DNYSZimv19qp0O6&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=11b3lksKFla3Eqz3e6DNYSZimv19qp0O6&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/2AF4B1BB42CA44A8E42E_0.mp4"
     }
    ],
    "drive": null,
@@ -12517,7 +12519,8 @@
      "path": "https://drive.google.com/file/d/1tx0luUyf5RWzCNuEZYOYDWSKiH4sjcfh/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC7F8222CA158ECC883B19354BC2D528_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1tx0luUyf5RWzCNuEZYOYDWSKiH4sjcfh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1tx0luUyf5RWzCNuEZYOYDWSKiH4sjcfh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/AC7F8222CA158ECC883B19354BC2D528_0.mp4"
     }
    ],
    "drive": null,
@@ -12621,6 +12624,71 @@
    "files": [],
    "drive": null,
    "phone": "972542415060"
+  },
+  {
+   "id": "A5E7FDFBDFF6DD59512F8FCA86AD75DE",
+   "sender": "הדרכת חתנים",
+   "text": "רק אם זה רשיון ג'",
+   "ts": 1793137117000,
+   "date": "2026-10-27",
+   "time": "23:38",
+   "files": [],
+   "drive": null,
+   "phone": "972556685046"
+  },
+  {
+   "id": "A5C03F9A46959D761277B4680A372A65",
+   "sender": "אברהם בורודיאנסקי",
+   "text": "או שס",
+   "ts": 1793137152000,
+   "date": "2026-10-27",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972507333664"
+  },
+  {
+   "id": "A524263DC5CCB78F245F23AD20CF9880",
+   "sender": "עזריאל",
+   "text": "*דרמה במערכת הבחירות!*\n\nמיליונים נשפכו, אלפי פעילים התרוצצו, ובסוף? חצי מדינה לא יודעת אם ניצחה.\n\nאז במקום להמר על פוליטיקאים, תהמרו על עצמכם!\n\n*2,500 ₪ לקניות בקניון תימורה ועוד פרסים שווים!*\n\nשמרו עכשיו את הסטטוס החרדי בצפון והיכנסו להגרלה.\n\nhttps://wa.me/972533168500?text=/גם+אני+רוצה+להצטרף+לסטטוס+החרדי+בצפון+הגעתי+דרך--972508422190",
+   "ts": 1793137194000,
+   "date": "2026-10-27",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1wUG7Fi0TqSiQi_3R7iLhMNZQONgmVfvm/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A524263DC5CCB78F245F23AD20CF9880_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1wUG7Fi0TqSiQi_3R7iLhMNZQONgmVfvm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972583214490"
+  },
+  {
+   "id": "ACFA0885832D802900B236B7EE4DD375",
+   "sender": "יואל שביב",
+   "text": "מישהו מגיע ממוצקין לרכסים בקרוב?\nגם בתשלום.",
+   "ts": 1793139717000,
+   "date": "2026-10-28",
+   "time": "00:21",
+   "files": [],
+   "drive": null,
+   "phone": "972527986846"
+  },
+  {
+   "id": "AC7EB1273A432EC9CB21EF7B26537B71",
+   "sender": "שלמה",
+   "text": "צריך הסעה מטבעון לרכסים",
+   "ts": 1793141200000,
+   "date": "2026-10-28",
+   "time": "00:46",
+   "files": [],
+   "drive": null,
+   "phone": "972545625630"
   }
  ]
 }
