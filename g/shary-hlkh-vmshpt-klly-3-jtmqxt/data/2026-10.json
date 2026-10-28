@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-10-28T20:56:12.292Z",
+ "updated": "2026-10-28T23:04:47.191Z",
  "messages": [
   {
    "id": "ACED58F42F394CF7FDC4A7633E759666",
@@ -12423,6 +12423,99 @@
    "files": [],
    "drive": null,
    "phone": "972533890390"
+  },
+  {
+   "id": "AC65C12033391BB13C234A0871EBB007",
+   "sender": "יאיר",
+   "text": "יש לי קמע שיש בתוכו תהילים אני לובש אותו מתחת לחולצה הוא לא חשוף \nהאם מותר להיכנס עם זה לשירותים?",
+   "ts": 1793221865000,
+   "date": "2026-10-28",
+   "time": "23:11",
+   "files": [],
+   "drive": null,
+   "phone": "972559967210"
+  },
+  {
+   "id": "ACF71B412BCAB38B50E6F6B424F75943",
+   "sender": "דוד אקא",
+   "text": "כן",
+   "ts": 1793222029000,
+   "date": "2026-10-28",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972549454846"
+  },
+  {
+   "id": "AC6ABA8D4F537C90821CAB11600BD81A",
+   "sender": "יאיר",
+   "text": "מותר להשתמש במכונת תספורת אם יש משהו בין הסכין של המכונה לבין העור?",
+   "ts": 1793227579000,
+   "date": "2026-10-29",
+   "time": "00:46",
+   "files": [],
+   "drive": null,
+   "phone": "972559967210"
+  },
+  {
+   "id": "AC66D4DBC606BA402DEEFB9468E8D19B",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1793227632000,
+   "date": "2026-10-29",
+   "time": "00:47",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "27KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1ZcdgYr-WAqq_D9fwj0e-4u0eAx5WJ_kO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC9E9FFE1C5BDF74BB8BA4443210DE80",
+   "sender": "יאיר",
+   "text": "בשביל הזקן",
+   "ts": 1793227705000,
+   "date": "2026-10-29",
+   "time": "00:48",
+   "files": [],
+   "drive": null,
+   "phone": "972559967210"
+  },
+  {
+   "id": "ACED0AC60277D957831F3ADE2D2D0793",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1793228115000,
+   "date": "2026-10-29",
+   "time": "00:55",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "44KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1yBNGi1dhMGDHXXyoPFxr2klINi_hdzaL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC4405D0031F2AE5E9939785F663C143",
+   "sender": "יאיר",
+   "text": "סבבה תודה רבה",
+   "ts": 1793228667000,
+   "date": "2026-10-29",
+   "time": "01:04",
+   "files": [],
+   "drive": null,
+   "phone": "972559967210"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-28T20:27:41.851Z",
+ "updated": "2026-10-28T21:26:48.711Z",
  "messages": [
   {
    "id": "AC42CCDF8F571F6A7C8700BFC6CF6979",
@@ -4566,6 +4566,36 @@
    "files": [],
    "drive": null,
    "phone": "972545483698"
+  },
+  {
+   "id": "ACE0AD72E3139DAF5A8108D53FF15F9A",
+   "sender": "נעמה ארנון",
+   "text": "",
+   "ts": 1793222752000,
+   "date": "2026-10-28",
+   "time": "23:25",
+   "files": [
+    {
+     "name": "חבקי מפיות שבת.pdf",
+     "size": "3.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1lZS_bhoZWKte67E9-U9ggACoJtLYclLO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542061902"
+  },
+  {
+   "id": "AC79B5E6D91F1DD614F283B7319FAF1E",
+   "sender": "נעמה ארנון",
+   "text": "הכנתי היום עם התלמידות, עם רצועות בריסטול צבעוניות שחתכתי מראש בגיליוטינה. \nבנוסף יש לבתאל צברי ביצוע נחמד עם תנועות לשיר 'מה ברא ה' ביום ה...'",
+   "ts": 1793222798000,
+   "date": "2026-10-28",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "phone": "972542061902"
   }
  ]
 }
