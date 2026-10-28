@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-27T21:32:41.044Z",
+ "updated": "2026-10-28T00:41:18.794Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -21269,11 +21269,31 @@
      "path": "https://drive.google.com/file/d/1eeFHwKao3k8nuDeUK7an6XzSvbMyZUls/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/A58041B8573A5C7C54CA2531553E7870_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1eeFHwKao3k8nuDeUK7an6XzSvbMyZUls&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1eeFHwKao3k8nuDeUK7an6XzSvbMyZUls&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/A58041B8573A5C7C54CA2531553E7870_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972583214490"
+  },
+  {
+   "id": "AC925905246EEE6D1BE27D4D88A8C2A6",
+   "sender": "נטרלי",
+   "text": "",
+   "ts": 1793148054000,
+   "date": "2026-10-28",
+   "time": "02:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC925905246EEE6D1BE27D4D88A8C2A6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548492812"
   }
  ]
 }
