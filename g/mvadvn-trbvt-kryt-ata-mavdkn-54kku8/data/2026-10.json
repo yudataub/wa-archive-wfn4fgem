@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-10-21T16:35:02.128Z",
+ "updated": "2026-10-28T10:42:04.984Z",
  "messages": [
   {
    "id": "3AE13462F94DE0376307",
@@ -228,6 +228,49 @@
      "type": "image/jpeg",
      "path": "media/2026-10/3AB6DFA121A2ECFD2BE1_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3ABD53D07F5C6D0C6F9A",
+   "sender": "חגית סייג",
+   "text": "https://www.facebook.com/share/19nEerGR7k/?mibextid=wwXIfr\nהולכים 👣 משתפים ✅ זוכים 🏆",
+   "ts": 1793175692000,
+   "date": "2026-10-28",
+   "time": "10:21",
+   "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3AFA4E1A61A9DE6A798C",
+   "sender": "חגית סייג",
+   "text": "https://katzr.net/b852e5",
+   "ts": 1793184051000,
+   "date": "2026-10-28",
+   "time": "12:40",
+   "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3A9D3D0E17491AA2F58C",
+   "sender": "חגית סייג",
+   "text": "",
+   "ts": 1793184093000,
+   "date": "2026-10-28",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1aXk9Ke78aQGY7GZAKKAsA0cNpCagZpn5/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/3A9D3D0E17491AA2F58C_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1aXk9Ke78aQGY7GZAKKAsA0cNpCagZpn5&sz=w1200"
     }
    ],
    "drive": null,

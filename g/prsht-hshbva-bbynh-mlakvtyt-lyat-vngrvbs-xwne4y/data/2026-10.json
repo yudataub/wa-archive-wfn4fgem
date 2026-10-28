@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת השבוע בבינה מלאכותית ליאת ונגרובסקי",
- "updated": "2026-10-21T06:33:18.853Z",
+ "updated": "2026-10-28T15:15:53.705Z",
  "messages": [
   {
    "id": "AC47A7D2959DF9B7C6D01D780C47EB80",
@@ -67,6 +67,63 @@
      "size": "87KB",
      "type": "image/jpeg",
      "path": "media/2026-10/ACBFBE829F95DA3049F47A92D62628F8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "AC94B0A3F1C7FA0D64A004D0B3A91E6F",
+   "sender": "ליאת ונגרובסקי",
+   "text": "פרשת וירא\nפתרונות בתיאור הקבוצה",
+   "ts": 1793200512000,
+   "date": "2026-10-28",
+   "time": "17:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "66KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC94B0A3F1C7FA0D64A004D0B3A91E6F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "AC950D71EA5573F4C006E4607D227FE1",
+   "sender": "ליאת ונגרובסקי",
+   "text": "",
+   "ts": 1793200515000,
+   "date": "2026-10-28",
+   "time": "17:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "60KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC950D71EA5573F4C006E4607D227FE1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "ACBA50EB85E051148E9650D30C2BD3BC",
+   "sender": "ליאת ונגרובסקי",
+   "text": "",
+   "ts": 1793200519000,
+   "date": "2026-10-28",
+   "time": "17:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "66KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACBA50EB85E051148E9650D30C2BD3BC_1.jpg",
      "skipped": ""
     }
    ],

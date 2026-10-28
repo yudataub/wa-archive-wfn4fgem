@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-27T19:28:48.592Z",
+ "updated": "2026-10-28T19:37:29.099Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -4790,6 +4790,184 @@
    "files": [],
    "drive": null,
    "phone": "972523601271"
+  },
+  {
+   "id": "2A88B4FE858ACA076097",
+   "sender": "אלישבע",
+   "text": "מחפשת דף עבודה על פרק ג חומש במדבר 🙏",
+   "ts": 1793166448000,
+   "date": "2026-10-28",
+   "time": "07:47",
+   "files": [],
+   "drive": null,
+   "phone": "972553071317"
+  },
+  {
+   "id": "ACBBF440F3DCCE6EE6239FF38FF1A35A",
+   "sender": "חיה ברכה",
+   "text": "תסתכלי באתר אביטה",
+   "ts": 1793166494000,
+   "date": "2026-10-28",
+   "time": "07:48",
+   "files": [],
+   "drive": null,
+   "phone": "972548871102"
+  },
+  {
+   "id": "AC4ECBEAEB17B2F742A9F9906EA2B3F0",
+   "sender": "חיה ברכה",
+   "text": "",
+   "ts": 1793166770000,
+   "date": "2026-10-28",
+   "time": "07:52",
+   "files": [
+    {
+     "name": "במדבר-במדבר-ג_-י_ד-ל_ט-חומש-בהבנה.pdf",
+     "size": "468KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TehswxamdpSZWUY7oWhrUgPowSoVPUrf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548871102"
+  },
+  {
+   "id": "AC4383ADC167A3E671CAFEC1A8488A0F",
+   "sender": "חיה ברכה",
+   "text": "שלחתי לך זה חלק מפרק ג' יש גם חוברות עבודה שלמות שם",
+   "ts": 1793166788000,
+   "date": "2026-10-28",
+   "time": "07:53",
+   "files": [],
+   "drive": null,
+   "phone": "972548871102"
+  },
+  {
+   "id": "AC65CE5F303E6887DE91FC239C967B3D",
+   "sender": "רותי",
+   "text": "איפה זה שם? 👆🏼",
+   "ts": 1793168927000,
+   "date": "2026-10-28",
+   "time": "08:28",
+   "files": [],
+   "drive": null,
+   "phone": "972504371177"
+  },
+  {
+   "id": "ACE4D1E14E36FC3F708E34694BDADAB2",
+   "sender": "פנינה כ\"ץ",
+   "text": "באתר אביטה",
+   "ts": 1793169083000,
+   "date": "2026-10-28",
+   "time": "08:31",
+   "files": [],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "ACDF7F7ED06D664A0D9DF9093EAABB70",
+   "sender": "רותי",
+   "text": "תודה",
+   "ts": 1793170025000,
+   "date": "2026-10-28",
+   "time": "08:47",
+   "files": [],
+   "drive": null,
+   "phone": "972504371177"
+  },
+  {
+   "id": "AC4F131854247DC8624C07040AD3691B",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1793174409000,
+   "date": "2026-10-28",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "מבדק ראשון במדבר א-ה (1).doc",
+     "size": "52KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1KVtPDOmST68EhBJv3i10iKeyO96fx_7p/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC213168032B4A04DA3AEE638E587E09",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1793174411000,
+   "date": "2026-10-28",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "דף חזרה במדבר א-ה.doc",
+     "size": "36KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1BBmwfMcvoU9AeCROojLocsaowIPJXNEv/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC75CCB21FA736AD1F1328C9A93552C5",
+   "sender": "חנה פרסיה",
+   "text": "יש למישהו את התיכנון השנתי לשמואל א'?",
+   "ts": 1793177269000,
+   "date": "2026-10-28",
+   "time": "10:47",
+   "files": [],
+   "drive": null,
+   "phone": "972542273425"
+  },
+  {
+   "id": "ACF0BAADDE0C2F76674D68ED85E7C411",
+   "sender": "אסתר לוי אינאייב",
+   "text": "אשמח לדף עבודה מסכם או מבחן  לפרקים א - ה בשמואל א'  בבקשה מותאם לתלמידים רגילים ולמתקשים גם🙏🙏🙏",
+   "ts": 1793214865000,
+   "date": "2026-10-28",
+   "time": "21:14",
+   "files": [],
+   "drive": null,
+   "phone": "972503552242"
+  },
+  {
+   "id": "3A092166B08BF34FFCED",
+   "sender": "~ שירה אוחיון",
+   "text": "אשמח לדפי עבודה לשמואל א פרק ב",
+   "ts": 1793215575000,
+   "date": "2026-10-28",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972548535920"
+  },
+  {
+   "id": "AC5CDE9A096686CEC8995A65519CE0C3",
+   "sender": "מורן מכלוף",
+   "text": "אשמח גם",
+   "ts": 1793216187000,
+   "date": "2026-10-28",
+   "time": "21:36",
+   "files": [],
+   "drive": null,
+   "phone": "972542325343"
+  },
+  {
+   "id": "AC980A4251C88E09D07340458E633546",
+   "sender": ".",
+   "text": "האם יש למישהי קטע של תפילת חנה שצריך להשלים מילים ?",
+   "ts": 1793216231000,
+   "date": "2026-10-28",
+   "time": "21:37",
+   "files": [],
+   "drive": null,
+   "phone": "972543971883"
   }
  ]
 }

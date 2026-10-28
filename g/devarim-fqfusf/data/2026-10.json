@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חומרים על חומש דברים",
- "updated": "2026-10-27T16:03:21.590Z",
+ "updated": "2026-10-28T20:26:05.204Z",
  "messages": [
   {
    "id": "A57C4E0877B5EAEDB8E3344017D58D6A",
@@ -3973,6 +3973,187 @@
    "files": [],
    "drive": null,
    "phone": "972528308062"
+  },
+  {
+   "id": "A5A9C8C8BED67D966828A1EB3D7ADB48",
+   "sender": "נעמי עזרא",
+   "text": "תודה",
+   "ts": 1793184748000,
+   "date": "2026-10-28",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "phone": "972522160567"
+  },
+  {
+   "id": "ACA448490876689E4CFF2ED774491145",
+   "sender": "נאוה אסמרה",
+   "text": "📇 שיר✿♡⁠ אור זבולון\n+972507939555",
+   "ts": 1793185462000,
+   "date": "2026-10-28",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972558824090"
+  },
+  {
+   "id": "AC1D062AA38633372DA8B59D2E4DFAEE",
+   "sender": "נאוה אסמרה",
+   "text": "📇 שיר✿♡⁠ אור זבולון\n+972507939555",
+   "ts": 1793185594000,
+   "date": "2026-10-28",
+   "time": "13:06",
+   "files": [],
+   "drive": null,
+   "phone": "972558824090"
+  },
+  {
+   "id": "ACD5652A8BE8610EFA8D27FA2A2228C5",
+   "sender": "משה",
+   "text": "אפשר קישור לקבוצה?",
+   "ts": 1793186028000,
+   "date": "2026-10-28",
+   "time": "13:13",
+   "files": [],
+   "drive": null,
+   "phone": "972506422305"
+  },
+  {
+   "id": "ACC4BE305DF7E5C38006449ED99FD974",
+   "sender": "ARAZI SHARONA",
+   "text": "https://did.li/kvotzot",
+   "ts": 1793186074000,
+   "date": "2026-10-28",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "ACB973849D7E6F7778D21C82FB24248A",
+   "sender": "משה",
+   "text": "תודה רבה🙏",
+   "ts": 1793186111000,
+   "date": "2026-10-28",
+   "time": "13:15",
+   "files": [],
+   "drive": null,
+   "phone": "972506422305"
+  },
+  {
+   "id": "3EB0B7A308626B9D0C80ED",
+   "sender": "קובי",
+   "text": "הקבוצה של במדבר",
+   "ts": 1793186571000,
+   "date": "2026-10-28",
+   "time": "13:22",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "3EB029406A272E00037447",
+   "sender": "רחל שוורץ",
+   "text": "אשמח לדפי עבודה על עשרת הדיברות",
+   "ts": 1793188219000,
+   "date": "2026-10-28",
+   "time": "13:50",
+   "files": [],
+   "drive": null,
+   "phone": "972527710122"
+  },
+  {
+   "id": "AC777187C998342A69D70872DD315CEB",
+   "sender": "הילה",
+   "text": "יש אפשרות להכניס אותי?",
+   "ts": 1793188300000,
+   "date": "2026-10-28",
+   "time": "13:51",
+   "files": [],
+   "drive": null,
+   "phone": "972527028030"
+  },
+  {
+   "id": "ACFBEBFA12EEA106FC8C361A21025276",
+   "sender": "קובי",
+   "text": "@257453258199079",
+   "ts": 1793188466000,
+   "date": "2026-10-28",
+   "time": "13:54",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "ACA4F5040BD79F74B19FA02FB6982A5E",
+   "sender": "מרים שירה גורפינקל",
+   "text": "אשמח  לשליחה מחודשת של התכנון השנתי לשמואל ב שפורסם פה.",
+   "ts": 1793209746000,
+   "date": "2026-10-28",
+   "time": "19:49",
+   "files": [],
+   "drive": null,
+   "phone": "972585907923"
+  },
+  {
+   "id": "AC5EF8E9C2EA8E427B0BD25070091BA9",
+   "sender": "אתי",
+   "text": "גם אני. תודה",
+   "ts": 1793210812000,
+   "date": "2026-10-28",
+   "time": "20:06",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC493636D67B00468DCD8E4C3F60F588",
+   "sender": "שרית בטשוילי",
+   "text": "",
+   "ts": 1793211050000,
+   "date": "2026-10-28",
+   "time": "20:10",
+   "files": [
+    {
+     "name": "תכנון שנתי תנך כיתותו ו תשפז.pdf",
+     "size": "4.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17Gg86F2Ug6Tz7ADY57TpQktkZ96ovtiC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506588647"
+  },
+  {
+   "id": "3AD71297DE6B17AEF2D3",
+   "sender": "אביגיל רוזנפלד",
+   "text": "משהי יכולה להקפיץ לי את זה? והאם הכינו עוד כאלה? פשוט מהמם!!",
+   "ts": 1793218677000,
+   "date": "2026-10-28",
+   "time": "22:17",
+   "files": [],
+   "drive": null,
+   "phone": "972587895890"
+  },
+  {
+   "id": "AC8CBF04712750D02B763FB595D99489",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1793219132000,
+   "date": "2026-10-28",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "שמואל ב פרק ה.pptx",
+     "size": "3.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1YFzC9vlpCX-6Uu6G2w1NFM57A_Zk4S47/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
   }
  ]
 }

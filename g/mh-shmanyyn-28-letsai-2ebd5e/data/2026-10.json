@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-10-26T06:59:04.929Z",
+ "updated": "2026-10-28T17:37:39.029Z",
  "messages": [
   {
    "id": "AC3857EC3276D53072B06D9F3FC6FDB0",
@@ -275,6 +275,38 @@
      "type": "image/jpeg",
      "path": "media/2026-10/A50E02F2068DD5F79A9BF253989A1060_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506686869"
+  },
+  {
+   "id": "AC4A56B25819E30F4C320FCBECA04264",
+   "sender": "Lets Ai",
+   "text": "*גם אתם מבולבלים?! 🤪🤯😣*\nבשבועות האחרונים לשונית קוד (Code) באפליקציה של קלוד (Claude) בדסקטופ קיבלה כל כך הרבה עדכונים, שקשה לעקוב. כרטיסים חדשים, קבוצות לשיחות, פרויקטים, צ'אטים צדדיים, מסך מפוצל ופקודות חדשות - מרגיש שצריך דוקטורט רק כדי להבין מה לעזאזל קורה שם 🧐\n\n*אז בואו נעשה שנייה סדר בכל החידושים!*\nלכל חידוש נראה איפה הוא נמצא, מה הוא עושה, ומה כדאי לנסות איתו קודם - הכל במדריך ה-מ-ע-ו-ל-ה שהכנו לכם! (אהבתם? שימו ❤️. חושבים שמישהו צריך להכיר את המדריך הזה - שלחו לו - הוא יודה לכם 🫶)\n\nלינק למדריך 👇\nhttps://ltsai.co/claude-code-updates\n\nלמדריכים חינמיים נוספים על כלי ה-AI המתקדמים בשוק 👇\nhttps://ltsai.co/newslatter",
+   "ts": 1793188982000,
+   "date": "2026-10-28",
+   "time": "14:03",
+   "files": [],
+   "drive": null,
+   "phone": "972533057615"
+  },
+  {
+   "id": "A530A67B0DE09B4935F48FD91C63C2FA",
+   "sender": "אביתר אדרי letsai",
+   "text": "*הכירו את אורן - ה-AI Solution Architect של IBM.*\nגם אותו תפגשו במסלול ההכשרה החדש והיוקרתי שלנו - הרשמה למחזור הבא כבר נפתחה! \n\n*תאמו שיחת איפיון לבדיקת התאמה 👇*\nhttps://ltsai.co/booking/",
+   "ts": 1793209039000,
+   "date": "2026-10-28",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fLihke80FJYhaQGHxF4LRWx8MBievZrj/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A530A67B0DE09B4935F48FD91C63C2FA_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1fLihke80FJYhaQGHxF4LRWx8MBievZrj&sz=w1200"
     }
    ],
    "drive": null,

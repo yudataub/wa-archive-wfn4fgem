@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אמהות בצפון🥰",
- "updated": "2026-10-27T15:06:18.180Z",
+ "updated": "2026-10-28T08:45:03.149Z",
  "messages": [
   {
    "id": "A527B5F23BDE100A5DB42274C4BE4E60",
@@ -316,6 +316,27 @@
    "date": "2026-10-27",
    "time": "17:06",
    "files": [],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5498AB6800F6ADA4907846BDBFDA677",
+   "sender": "תמי",
+   "text": "זה חוזר!\nבבילון קידס וג'אמפ בשער הצפון חינם!\n\nבכל יום רביעי במהלך חודש אוקטובר, קניון שער הצפון הופך לכיף עם בבילון פארק ✨\nהילדים נהנים מפעילויות חווייתיות, משחקים והרפתקאות מעולם אחר, ואתם נהנים מרגע של נחת במזגן 💫\n\n🗓️ בכל יום רביעי | 16:00-19:00\n🎈 הכניסה חינם בהרשמה למועדון הלקוחות של קניון שער הצפון!\nלהרשמה >> https://shaar-hatsafon.co.il/%d7%9e%d7%95%d7%a2%d7%93%d7%95%d7%9f-%d7%97%d7%91%d7%a8%d7%99%d7%9d/\n\n📍 בבילון | קניון שער הצפון\nבכפוף לתקנון | במהלך חודש אוקטובר 2026\n\nלעוד אטרקציות חינם כנסו לקבוצה:",
+   "ts": 1793177081000,
+   "date": "2026-10-28",
+   "time": "10:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1pztsJlZIVmMIStHfWZ9OFsb9dSMTwomA/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A5498AB6800F6ADA4907846BDBFDA677_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1pztsJlZIVmMIStHfWZ9OFsb9dSMTwomA&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972559326761"
   }

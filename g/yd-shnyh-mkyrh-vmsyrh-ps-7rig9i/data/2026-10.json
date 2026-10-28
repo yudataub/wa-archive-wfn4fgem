@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד שניה מכירה ומסירה פשפשוק  קריות והסביבה",
- "updated": "2026-10-27T18:54:59.937Z",
+ "updated": "2026-10-28T09:33:33.928Z",
  "messages": [
   {
    "id": "3AC8543D3F3920204988",
@@ -4722,6 +4722,82 @@
    "files": [],
    "drive": null,
    "phone": "972543004047"
+  },
+  {
+   "id": "2AD3D0523BB72404DAFD",
+   "sender": "הכל זה לטובה",
+   "text": "מגש זכוכית בעיצוב תפוחים 70₪",
+   "ts": 1793167447000,
+   "date": "2026-10-28",
+   "time": "08:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "438KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/2AD3D0523BB72404DAFD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534465553"
+  },
+  {
+   "id": "A521C83A6C8582CFA33DAB31471DDE41",
+   "sender": "Sphere Tattoo",
+   "text": "למסירה מקרית אתא.",
+   "ts": 1793175214000,
+   "date": "2026-10-28",
+   "time": "10:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "584KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A521C83A6C8582CFA33DAB31471DDE41_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502630607"
+  },
+  {
+   "id": "A56F856388C863053F5B62C3628A87C4",
+   "sender": "Sphere Tattoo",
+   "text": "",
+   "ts": 1793175215000,
+   "date": "2026-10-28",
+   "time": "10:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "601KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A56F856388C863053F5B62C3628A87C4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502630607"
+  },
+  {
+   "id": "ACED87F14C0B2EB14E14BA5F7D85F7C8",
+   "sender": "don't worry, be happy",
+   "text": "ציוד לטיפול בחתולים\nכולל משחקים וחטיפים.\nומשטח יציאה מארגז החול\n80 ש\"ח\nאיסוף: נהריה ולפעמים מעלות",
+   "ts": 1793179981000,
+   "date": "2026-10-28",
+   "time": "11:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "383KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACED87F14C0B2EB14E14BA5F7D85F7C8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559985850"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חממה לפדגוגיה דיגיטלית2",
- "updated": "2026-10-21T11:24:35.008Z",
+ "updated": "2026-10-28T13:15:50.941Z",
  "messages": [
   {
    "id": "3A9BFD36202BC3B3A7E7",
@@ -60,6 +60,69 @@
    "ts": 1792581856000,
    "date": "2026-10-21",
    "time": "14:24",
+   "files": [],
+   "drive": null,
+   "phone": "972508656311"
+  },
+  {
+   "id": "3AE1A430608484B975A6",
+   "sender": "ורד פרידמן",
+   "text": "*״טעימות דיגיטליות\"* - מפגשים בחירתיים להעשרת ההוראה - חוזרים!!!",
+   "ts": 1793192334000,
+   "date": "2026-10-28",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "243KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AE1A430608484B975A6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508656311"
+  },
+  {
+   "id": "3A7E1751583BF0736986",
+   "sender": "ורד פרידמן",
+   "text": "״טעימות דיגיטליות״ בראשון הקרוב עם חפציה בן ארצי - *מפגש סדנאי ומעשי* \n\nהיכרות עם מאגר התכנים והפעילויות ״חומר פתוח״ והתנסות ביצירת מרחב 360\n\n*מתי?* \nיום ראשון, 1.11, בין השעות \n12:30 - 14:00\n\nhttps://gordonacademy.zoom.us/j/81923098582?from=addon",
+   "ts": 1793192431000,
+   "date": "2026-10-28",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972508656311"
+  },
+  {
+   "id": "3A5767577987E0A035F8",
+   "sender": "ורד פרידמן",
+   "text": "https://script.google.com/a/macros/jerschools.org.il/s/AKfycbwg3LisOKMy1MPYclGzsvbXwudELNus7xhXtloBb3hUgjZccR4MCgXadUFbBhJJLtZebg/exec?id=48ed27e2fb\nמעבדת מילים של שירה ויינברג",
+   "ts": 1793193339000,
+   "date": "2026-10-28",
+   "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972508656311"
+  },
+  {
+   "id": "3A46493FB9B974F1865E",
+   "sender": "ורד פרידמן",
+   "text": "https://script.google.com/a/macros/jerschools.org.il/s/AKfycbwg3LisOKMy1MPYclGzsvbXwudELNus7xhXtloBb3hUgjZccR4MCgXadUFbBhJJLtZebg/exec?id=1730d6e548 ועוד דוגמא - פיזיקה",
+   "ts": 1793193340000,
+   "date": "2026-10-28",
+   "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972508656311"
+  },
+  {
+   "id": "3A0D3DE84FE88B29CA0B",
+   "sender": "ורד פרידמן",
+   "text": "שתי דוגמאות למרחבי 360, בהם יתמקד המפגש",
+   "ts": 1793193341000,
+   "date": "2026-10-28",
+   "time": "15:15",
    "files": [],
    "drive": null,
    "phone": "972508656311"

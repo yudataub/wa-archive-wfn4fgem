@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-27T04:53:29.583Z",
+ "updated": "2026-10-28T04:07:03.564Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -1047,6 +1047,44 @@
      "size": "79KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A1DB85BECF112983F04_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A1D9B0E349C9FE53092",
+   "sender": ".",
+   "text": "״עינו אחת גדולה ואחת קטנה״ (בכורות מ, ב).",
+   "ts": 1793160412000,
+   "date": "2026-10-28",
+   "time": "06:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A1D9B0E349C9FE53092_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AA00E36A7E4DFB354E9",
+   "sender": ".",
+   "text": "״דכריכא וקטינא״ (בכורות מ, ב).",
+   "ts": 1793160413000,
+   "date": "2026-10-28",
+   "time": "06:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AA00E36A7E4DFB354E9_1.jpg",
      "skipped": ""
     }
    ],
