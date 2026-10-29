@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-10-28T15:25:23.465Z",
+ "updated": "2026-10-29T18:36:24.266Z",
  "messages": [
   {
    "id": "3AD02FDF16EACE448664",
@@ -2281,6 +2281,25 @@
    ],
    "drive": null,
    "phone": "972524265384"
+  },
+  {
+   "id": "AC8C15DB14D9FEB704BEBC07B1F2017C",
+   "sender": "דניאלה",
+   "text": "6 וחצי חבילות",
+   "ts": 1793298956000,
+   "date": "2026-10-29",
+   "time": "20:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC8C15DB14D9FEB704BEBC07B1F2017C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
   }
  ]
 }

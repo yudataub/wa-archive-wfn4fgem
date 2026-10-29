@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-28T04:07:03.564Z",
+ "updated": "2026-10-29T04:13:44.882Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -1085,6 +1085,44 @@
      "size": "83KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3AA00E36A7E4DFB354E9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AE2089FC18E31232A19",
+   "sender": ".",
+   "text": "״זקן״ (בכורות מא, א).",
+   "ts": 1793247208000,
+   "date": "2026-10-29",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3AE2089FC18E31232A19_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A22627BE8EF94CABBF2",
+   "sender": ".",
+   "text": "״בשחין מצרים״ (בכורות מא, א).",
+   "ts": 1793247209000,
+   "date": "2026-10-29",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A22627BE8EF94CABBF2_1.jpg",
      "skipped": ""
     }
    ],

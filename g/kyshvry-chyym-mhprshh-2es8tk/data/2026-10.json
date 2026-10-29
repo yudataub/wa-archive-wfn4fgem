@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-10-23T06:59:57.557Z",
+ "updated": "2026-10-29T20:17:29.676Z",
  "messages": [
   {
    "id": "A54E3F65BE13576F66FDF451E7F82090",
@@ -296,6 +296,47 @@
    ],
    "drive": null,
    "phone": "972527693680"
+  },
+  {
+   "id": "A57274F9B2F9649383F262FACE32FC17",
+   "sender": "אלחנן שניאור",
+   "text": "*פרשת וירא*",
+   "ts": 1793259536000,
+   "date": "2026-10-29",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A5ACBFAE9ACB358BB247821060D8A646",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1793259981000,
+   "date": "2026-10-29",
+   "time": "09:46",
+   "files": [
+    {
+     "name": "וירא 56 .pdf",
+     "size": "577KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1w5uCUEvMaKIoYPaLETagf7Nq2hAbdHRd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "2A29208E938465CD0891",
+   "sender": "יהודית שניאור",
+   "text": "https://youtube.com/shorts/MJWg-wSHMlQ?feature=share",
+   "ts": 1793305041000,
+   "date": "2026-10-29",
+   "time": "22:17",
+   "files": [],
+   "drive": null,
+   "phone": "972548496309"
   }
  ]
 }

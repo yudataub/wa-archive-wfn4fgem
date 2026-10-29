@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-10-28T14:03:09.674Z",
+ "updated": "2026-10-29T08:15:18.203Z",
  "messages": [
   {
    "id": "3A6A7B51DD7731313316",
@@ -1559,6 +1559,25 @@
    "files": [],
    "drive": null,
    "phone": "972527185522"
+  },
+  {
+   "id": "3EB0E8D0BF488919667DC0",
+   "sender": "בני בוסקילה",
+   "text": "",
+   "ts": 1793261690000,
+   "date": "2026-10-29",
+   "time": "10:14",
+   "files": [
+    {
+     "name": "ראש השנה פרק א משנה ד.pptx",
+     "size": "20.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1E4qUCab6U45CRjFQYCqzDu_Zq7hstW8W/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586500722"
   }
  ]
 }

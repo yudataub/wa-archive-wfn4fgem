@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מור קנדי - פשוט למשחק 11",
- "updated": "2026-10-28T12:16:42.947Z",
+ "updated": "2026-10-29T13:51:06.084Z",
  "messages": [
   {
    "id": "A5AA7E1ED762723CFEDBB8B39D1945B7",
@@ -243,6 +243,25 @@
    "date": "2026-10-28",
    "time": "14:16",
    "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A5654628DD1C5A5BD23AF57A8655C27B",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "מורים לאנגלית? \nרוצים גם לקבל את החוברת הזו? \nהיום יום אחרון להרשמה במחיר מוזל.\nלפרטים והרשמה- \nhttps://funcourses.base44.app/course/6ad06e4ca2ea57132c1f365a",
+   "ts": 1793281848000,
+   "date": "2026-10-29",
+   "time": "15:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5654628DD1C5A5BD23AF57A8655C27B_1.jpg",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972547461614"
   }

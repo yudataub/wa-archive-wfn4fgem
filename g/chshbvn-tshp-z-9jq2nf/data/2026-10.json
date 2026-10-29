@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חשבון תשפ\"ז🍭🥰",
- "updated": "2026-10-27T09:22:19.273Z",
+ "updated": "2026-10-29T06:27:46.488Z",
  "messages": [
   {
    "id": "AC8C706450838DD81E56B9BF02BFC5A7",
@@ -434,6 +434,25 @@
    "date": "2026-10-27",
    "time": "11:22",
    "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC7EFF99C663BDA98F046A9E56D12DDE",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1793255244000,
+   "date": "2026-10-29",
+   "time": "08:27",
+   "files": [
+    {
+     "name": "מיקוד הוראה.pdf",
+     "size": "377KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ox_uXOeKmfGJYj3HeLypzdm2qYNGXyJj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972528686062"
   }

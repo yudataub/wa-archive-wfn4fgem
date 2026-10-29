@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כבד את השם מגרונך",
- "updated": "2026-10-23T10:30:58.742Z",
+ "updated": "2026-10-29T12:15:24.516Z",
  "messages": [
   {
    "id": "AC3D0F348AB4A77C0C3227737BD3E8F1",
@@ -384,6 +384,17 @@
    "ts": 1792751449000,
    "date": "2026-10-23",
    "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC819ADBE4D262C94594E937A8024C4D",
+   "sender": "ktla5359",
+   "text": "https://www.facebook.com/share/r/1Be1v1fe3b/",
+   "ts": 1793276125000,
+   "date": "2026-10-29",
+   "time": "14:15",
    "files": [],
    "drive": null,
    "phone": "972524560100"

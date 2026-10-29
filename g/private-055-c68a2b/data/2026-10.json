@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "הודעות פרטיות 055",
- "updated": "2026-10-28T15:55:57.682Z",
+ "updated": "2026-10-29T14:44:02.261Z",
  "messages": [
   {
    "id": "ACE8A246EB9C4D6A6F9019D3EE46B860",
@@ -309,6 +309,192 @@
    "drive": null,
    "thread": "..",
    "phone": "972542707965"
+  },
+  {
+   "id": "ACB85E94FA1473D0705CE0C0DA1C8C0D",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793258269000,
+   "date": "2026-10-29",
+   "time": "09:17",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "278KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1mBF9XC75FKY_PK-wsekB46kEeAsAXWoE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "AC69639D5C60E465CF1FBF6E5590D888",
+   "sender": "..",
+   "text": "",
+   "ts": 1793280774000,
+   "date": "2026-10-29",
+   "time": "15:32",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "54KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1QGg9GEpSjXiZKCkq9E9MZ_ru4E95jXOY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "..",
+   "phone": "972542707965"
+  },
+  {
+   "id": "ACA76080A3199C1D33E78FAF16F237B5",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793283572000,
+   "date": "2026-10-29",
+   "time": "16:19",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "91KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1wj-Js-0CKBSfxBH1B-tiJbrqBlEisS-P/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "AC3FD02EC22463FBA6C3429A911DB9EA",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793283686000,
+   "date": "2026-10-29",
+   "time": "16:21",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "35KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1WaF1qOtELEiC9xepJGvp3uGApWPufZQ_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "ACECBBC55A24B2E476D94E8FEFE62CB2",
+   "sender": "..",
+   "text": "",
+   "ts": 1793283733000,
+   "date": "2026-10-29",
+   "time": "16:22",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "10KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Cs0aFUAfCtLF6AArLhI5iVCwxpq_m2v1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "..",
+   "phone": "972542707965"
+  },
+  {
+   "id": "ACDBEF1BD6DC46D48191F428FDF79E7E",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793283955000,
+   "date": "2026-10-29",
+   "time": "16:25",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "30KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/14aN7gSVuB225pRDpYlhHHU63GD1rQdCs/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "AC9CB14FEAFB1F8F817AA5C3F061BF2F",
+   "sender": "..",
+   "text": "בסדר גמור.\nמצויין\nתודה רבה",
+   "ts": 1793284028000,
+   "date": "2026-10-29",
+   "time": "16:27",
+   "files": [],
+   "drive": null,
+   "thread": "..",
+   "phone": "972542707965"
+  },
+  {
+   "id": "AC3ED2DB9AF5CA39C601856767AFAAD9",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793284065000,
+   "date": "2026-10-29",
+   "time": "16:27",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "39KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1u3IjWJDKeyW15Uf5eIMxdY4ApR22iTr7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
+  },
+  {
+   "id": "ACEEEBD386346B356BC899899FA7B81B",
+   "sender": "..",
+   "text": "",
+   "ts": 1793284289000,
+   "date": "2026-10-29",
+   "time": "16:31",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "36KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/138-WPdvjU3aZfFpNmNrrRehcucwxeAo9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "..",
+   "phone": "972542707965"
+  },
+  {
+   "id": "AC709AD488968C5C57987AFA31284601",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793285015000,
+   "date": "2026-10-29",
+   "time": "16:43",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "50KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/10HVBY_c0Fhk4Efj2IRMqhhMhbnRIzyLO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אריה יונה"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-10-28T07:52:02.389Z",
+ "updated": "2026-10-29T14:44:18.166Z",
  "messages": [
   {
    "id": "ACDAC0EECBE1CF1B81019DCA1E085DCE",
@@ -427,6 +427,59 @@
    "files": [],
    "drive": null,
    "phone": "972542415060"
+  },
+  {
+   "id": "AC5249C99C89878962AAB7AAAC5C1D97",
+   "sender": "יוסי וילהלם",
+   "text": "www.amud.cloud",
+   "ts": 1793280880000,
+   "date": "2026-10-29",
+   "time": "15:34",
+   "files": [],
+   "drive": null,
+   "phone": "972549839770"
+  },
+  {
+   "id": "AC9123B3CEBFD453BEF13688CCF901BB",
+   "sender": "יוסי וילהלם",
+   "text": "",
+   "ts": 1793280880000,
+   "date": "2026-10-29",
+   "time": "15:34",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KNfiPqdrAwYH839ZD6Po3B4yvTSJTqDS/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/AC9123B3CEBFD453BEF13688CCF901BB_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1KNfiPqdrAwYH839ZD6Po3B4yvTSJTqDS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549839770"
+  },
+  {
+   "id": "AC086198C5EA2B50DE70689910BF2BFC",
+   "sender": "אלקנה",
+   "text": "🔥 *השטיבל - טשולנט יוקרתי הכי משובח בניחוח של פעם* 🔥\n*בקרית אתא*\n*חוויה יהודית אותנטית ברמה גבוהה, טעימה ומחממת לב*\nאם אתם רוצים לצאת מהשגרה, לטעום אוכל יהודי משובח במסעדת בוטיק *עם חלות הבית שלא טעמתם בחיים*\nומה בתפריט:\n✅ *טשולנט הבית עם בשר משובח*\n✅ *טשולנט פרווה*\n✅ *קישקע מיוחד במינו*\n✅ *יאפצ'וק בשר נדיר נדיר*\n✅ *קוגל אטריות ירושלמי מבית אבא*\n✅ *קוגל תפוחי אדמה אוברנייט*\n✅ *פרוסות קוגל תפו\"א*\n✅ *הערינג פיקנטי עם ירקות*\n✅ *טורטיה קריספי בשרי*\n✅ *בלינצ'ס כבד/תפו\"א*\n✅ *כבד קצוץ*\n✅ *ארבעס*\n*מומלץ! טעמת - התמכרת!*\n*פתוח עד 1.00 בלילה*\n*כל הפרטים במודעה 👆*\n*להזמנות:*\n*0529407610*\n\n*פרטים נוספים באתר*\nhttps://cholenet.co.il/cholenet/hashtibel-cholent-kiryat-ata/",
+   "ts": 1793285039000,
+   "date": "2026-10-29",
+   "time": "16:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1kbQHfLwI5b-yQo7ysLaTizvQZOojRrUw/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/AC086198C5EA2B50DE70689910BF2BFC_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1kbQHfLwI5b-yQo7ysLaTizvQZOojRrUw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
   }
  ]
 }
