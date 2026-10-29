@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-10-29T20:59:07.003Z",
+ "updated": "2026-10-29T22:45:20.761Z",
  "messages": [
   {
    "id": "2AC178553213BE39AA05",
@@ -19241,7 +19241,8 @@
      "path": "https://drive.google.com/file/d/1NHQDxW0uDRXO3gCoMjnnEiCdnJk23UD9/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC41DC45742E0EF684641F3DAB3591C2_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1NHQDxW0uDRXO3gCoMjnnEiCdnJk23UD9&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1NHQDxW0uDRXO3gCoMjnnEiCdnJk23UD9&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/AC41DC45742E0EF684641F3DAB3591C2_0.mp4"
     }
    ],
    "drive": null,
@@ -19262,7 +19263,8 @@
      "path": "https://drive.google.com/file/d/1h0dw0Xs73uQqGZx3oWpAVZcV9ia9Sfy8/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/3A76CAACFD132B46A8E9_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1h0dw0Xs73uQqGZx3oWpAVZcV9ia9Sfy8&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1h0dw0Xs73uQqGZx3oWpAVZcV9ia9Sfy8&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/3A76CAACFD132B46A8E9_0.mp4"
     }
    ],
    "drive": null,
@@ -19419,7 +19421,8 @@
      "path": "https://drive.google.com/file/d/1qYqRRi1GLIjgKIBScxuQEeC-0Ij1OpLk/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC741A2A70EA06C57C4B48C3C4A90111_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1qYqRRi1GLIjgKIBScxuQEeC-0Ij1OpLk&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1qYqRRi1GLIjgKIBScxuQEeC-0Ij1OpLk&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-10/AC741A2A70EA06C57C4B48C3C4A90111_0.mp4"
     }
    ],
    "drive": null,
@@ -19549,6 +19552,17 @@
    "files": [],
    "drive": null,
    "phone": "972559541314"
+  },
+  {
+   "id": "AC21B6672E038C3D085C48B70BA69A5E",
+   "sender": "מיכל בן דוד",
+   "text": "דרושה בחורה ללינת לילה והשגחה על אימי   המאושפזת בבית חולים 0502466962",
+   "ts": 1793313901000,
+   "date": "2026-10-30",
+   "time": "00:45",
+   "files": [],
+   "drive": null,
+   "phone": "972502466962"
   }
  ]
 }

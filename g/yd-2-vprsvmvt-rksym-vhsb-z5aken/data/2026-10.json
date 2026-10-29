@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-29T20:59:37.013Z",
+ "updated": "2026-10-29T21:40:14.148Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -22554,7 +22554,8 @@
      "path": "https://drive.google.com/file/d/1-Mc490YiY_qkK0e9rXBlgjaln5AwlImC/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/A522FE9758275CE624705F6FD3475015_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1-Mc490YiY_qkK0e9rXBlgjaln5AwlImC&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1-Mc490YiY_qkK0e9rXBlgjaln5AwlImC&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/A522FE9758275CE624705F6FD3475015_0.mp4"
     }
    ],
    "drive": null,
@@ -22690,7 +22691,8 @@
      "path": "https://drive.google.com/file/d/175VmoNp0NSkh0mx0afKO72iG_Fi3tdEr/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/A5B09921A20A9D0070155481E95BB4E1_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=175VmoNp0NSkh0mx0afKO72iG_Fi3tdEr&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=175VmoNp0NSkh0mx0afKO72iG_Fi3tdEr&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/A5B09921A20A9D0070155481E95BB4E1_0.mp4"
     }
    ],
    "drive": null,
@@ -22844,7 +22846,8 @@
      "path": "https://drive.google.com/file/d/1Z2VS1HdwZeiT0c3psP59MFf-3mVjUPz3/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC2A9B6EFE19318C31EACA86050A4D17_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Z2VS1HdwZeiT0c3psP59MFf-3mVjUPz3&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Z2VS1HdwZeiT0c3psP59MFf-3mVjUPz3&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/AC2A9B6EFE19318C31EACA86050A4D17_0.mp4"
     }
    ],
    "drive": null,
@@ -22884,7 +22887,8 @@
      "path": "https://drive.google.com/file/d/1IHaA7REw84osWj6DNrpnBGbERDkDMo72/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC3240DE4895C03F80F350E60EE000E9_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1IHaA7REw84osWj6DNrpnBGbERDkDMo72&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1IHaA7REw84osWj6DNrpnBGbERDkDMo72&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/AC3240DE4895C03F80F350E60EE000E9_0.mp4"
     }
    ],
    "drive": null,
@@ -23095,7 +23099,8 @@
      "path": "https://drive.google.com/file/d/1nOkJz2CzLWWF57duJIVjiZX_Btlx3ufo/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC4E4A0189803E2BC67EF115EE90D811_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1nOkJz2CzLWWF57duJIVjiZX_Btlx3ufo&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1nOkJz2CzLWWF57duJIVjiZX_Btlx3ufo&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/AC4E4A0189803E2BC67EF115EE90D811_0.mp4"
     }
    ],
    "drive": null,
@@ -23198,6 +23203,25 @@
    "files": [],
    "drive": null,
    "phone": "972559541314"
+  },
+  {
+   "id": "AC68AC2F720FE4576632DF7D32B1ADCE",
+   "sender": "גנית",
+   "text": "למכירה חדשה 500 ש''ח בלבד",
+   "ts": 1793309991000,
+   "date": "2026-10-29",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC68AC2F720FE4576632DF7D32B1ADCE_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535386425"
   }
  ]
 }

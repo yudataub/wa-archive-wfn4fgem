@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לוח החסד של רכסים",
- "updated": "2026-10-29T20:59:36.999Z",
+ "updated": "2026-10-29T21:53:14.388Z",
  "messages": [
   {
    "id": "A5531BA90CA26E300123F7D5C75CFCE2",
@@ -13285,7 +13285,8 @@
      "path": "https://drive.google.com/file/d/1zjOwNdJskdXe3emvIzLj3t71_Va8jTNz/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC01C4C2D331EA2C1E3205251928E23E_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1zjOwNdJskdXe3emvIzLj3t71_Va8jTNz&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1zjOwNdJskdXe3emvIzLj3t71_Va8jTNz&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/AC01C4C2D331EA2C1E3205251928E23E_0.mp4"
     }
    ],
    "drive": null,
@@ -13548,7 +13549,8 @@
      "path": "https://drive.google.com/file/d/1nsagbZT474bIwwPC7h9FBw2MyYUJjxBT/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC96770ECA26ADC11636C8B3EDE03D76_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1nsagbZT474bIwwPC7h9FBw2MyYUJjxBT&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1nsagbZT474bIwwPC7h9FBw2MyYUJjxBT&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-10/AC96770ECA26ADC11636C8B3EDE03D76_0.mp4"
     }
    ],
    "drive": null,
@@ -13725,6 +13727,17 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "ACD7FCB1293659D66918BF3EFC7EA13C",
+   "sender": "😀😀😀",
+   "text": "מתי תפילת שחרית מחר יום שיש באשי ישראל מצפה השחר",
+   "ts": 1793310784000,
+   "date": "2026-10-29",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "phone": "972586477866"
   }
  ]
 }

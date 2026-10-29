@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-10-29T21:00:07.025Z",
+ "updated": "2026-10-29T22:45:50.769Z",
  "messages": [
   {
    "id": "2A3627603531F635D1A5",
@@ -5969,7 +5969,8 @@
      "path": "https://drive.google.com/file/d/1YcRIhWM3SldW3lznxFEpaZz6fcDvI9gW/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/ACE2BDAF196D445FB33D8756B779AA45_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1YcRIhWM3SldW3lznxFEpaZz6fcDvI9gW&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1YcRIhWM3SldW3lznxFEpaZz6fcDvI9gW&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i/v/2026-10/ACE2BDAF196D445FB33D8756B779AA45_0.mp4"
     }
    ],
    "drive": null,
@@ -6080,6 +6081,25 @@
    "files": [],
    "drive": null,
    "phone": "972559541314"
+  },
+  {
+   "id": "A5E49134325394C822F36B263EFE2EDA",
+   "sender": "tamar",
+   "text": "🚖 *מוניות בני תורה -  הנסיעה שלכם בידיים טובות!*\n\nצריכים מונית? אצלנו נוסעים *בראש שקט* 🙏\n\n👔 נהגים יראי שמיים\n👩 נהגות לפי בקשה\n📍 נסיעות בכל חלקי הארץ\n🚗 כל סוגי הרכבים\n🕒 זמינות 24/6\n⭐ שירות אמין ואדיב\n\n💰 *מחירים אטרקטיביים במיוחד למתקשרים דרך מודעה זו!*\n\n📞 *להזמנת מונית: 054-927-3010*",
+   "ts": 1793313942000,
+   "date": "2026-10-30",
+   "time": "00:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A5E49134325394C822F36B263EFE2EDA_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545408906"
   }
  ]
 }

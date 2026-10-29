@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חנן פורת - דמות",
- "updated": "2026-10-29T20:38:06.686Z",
+ "updated": "2026-10-29T22:33:21.625Z",
  "messages": [
   {
    "id": "3EB044A23F4A320EF66671",
@@ -4734,6 +4734,25 @@
    "files": [],
    "drive": null,
    "phone": "972524877582"
+  },
+  {
+   "id": "3EB02BBC77869D07B36B11",
+   "sender": "רננה סימון",
+   "text": "קצת ברגע האחרון אבל דף פרשת וירא. הפעם לא היה מדרשיר של חנן פורת אז הוספתי משלי",
+   "ts": 1793313195000,
+   "date": "2026-10-30",
+   "time": "00:33",
+   "files": [
+    {
+     "name": "דפי פרשת שבוע תשפז (12).pdf",
+     "size": "233KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XxQG-6uWbsnhLY_zcKGn8yo_mNCJMOQq/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505932300"
   }
  ]
 }

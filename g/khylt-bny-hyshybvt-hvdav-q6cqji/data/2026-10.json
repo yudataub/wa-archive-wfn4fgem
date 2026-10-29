@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-10-29T19:01:31.275Z",
+ "updated": "2026-10-29T21:55:14.402Z",
  "messages": [
   {
    "id": "AC2FB0FF91C180435BC56D67AFA2B414",
@@ -8127,7 +8127,8 @@
      "path": "https://drive.google.com/file/d/1-hg9OZa22YXPPSooddj4GKHPPU5TCSX2/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC8DC66022F5173D06E4D3B2B83A1091_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1-hg9OZa22YXPPSooddj4GKHPPU5TCSX2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1-hg9OZa22YXPPSooddj4GKHPPU5TCSX2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-10/AC8DC66022F5173D06E4D3B2B83A1091_0.mp4"
     }
    ],
    "drive": null,
@@ -8493,6 +8494,44 @@
    "files": [],
    "drive": null,
    "phone": "972529605163"
+  },
+  {
+   "id": "ACB80D6E1D12A0249E40FFD720E717CF",
+   "sender": "איתמר",
+   "text": "",
+   "ts": 1793310728000,
+   "date": "2026-10-29",
+   "time": "23:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "374KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACB80D6E1D12A0249E40FFD720E717CF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "AC5EC40A97257487A8A47AD0B1C72793",
+   "sender": "איתמר",
+   "text": "האלבומים הגיעו!!",
+   "ts": 1793310894000,
+   "date": "2026-10-29",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC5EC40A97257487A8A47AD0B1C72793_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528907838"
   }
  ]
 }
