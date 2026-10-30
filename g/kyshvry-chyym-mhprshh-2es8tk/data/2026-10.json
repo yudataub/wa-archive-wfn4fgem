@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-10-29T20:17:29.676Z",
+ "updated": "2026-10-30T12:42:28.660Z",
  "messages": [
   {
    "id": "A54E3F65BE13576F66FDF451E7F82090",
@@ -337,6 +337,27 @@
    "files": [],
    "drive": null,
    "phone": "972548496309"
+  },
+  {
+   "id": "A534C81E37203587C544CC70CEDF448A",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1793364120000,
+   "date": "2026-10-30",
+   "time": "14:42",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TpLqre4f2Jwaxw7dug28JboWJw7xqMUy/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A534C81E37203587C544CC70CEDF448A_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1TpLqre4f2Jwaxw7dug28JboWJw7xqMUy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
   }
  ]
 }

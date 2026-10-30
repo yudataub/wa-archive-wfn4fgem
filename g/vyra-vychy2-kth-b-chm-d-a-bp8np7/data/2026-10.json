@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-29T09:33:02.530Z",
+ "updated": "2026-10-30T05:08:43.821Z",
  "messages": [
   {
    "id": "3AE2DD38FEDC5506DD73",
@@ -1657,6 +1657,66 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "AC556AC54B7F92E438B1A26626D82EA1",
+   "sender": "הדסה אלתר",
+   "text": "בקר טוב\nמחפשת תפזורת לפרשת וירא",
+   "ts": 1793336516000,
+   "date": "2026-10-30",
+   "time": "07:01",
+   "files": [],
+   "drive": null,
+   "phone": "972508309715"
+  },
+  {
+   "id": "AC9D4217CC2A25895B4C2F0F85DDDB5E",
+   "sender": "שירה",
+   "text": "תראי באתר אביטה ממד",
+   "ts": 1793336730000,
+   "date": "2026-10-30",
+   "time": "07:05",
+   "files": [],
+   "drive": null,
+   "phone": "972526480975"
+  },
+  {
+   "id": "AC54FCA9EAED33AB2685F9DBD7384882",
+   "sender": "שירה",
+   "text": "",
+   "ts": 1793336752000,
+   "date": "2026-10-30",
+   "time": "07:05",
+   "files": [
+    {
+     "name": "achiya-tifzoret-vayera.pdf",
+     "size": "434KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1C8XaL9x5aV_B0SfXoHBYkWFsTVw0awL-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526480975"
+  },
+  {
+   "id": "AC1178DAFD7DB43A70AB4EBDBCF8CA89",
+   "sender": "אורית ברגר",
+   "text": "",
+   "ts": 1793336898000,
+   "date": "2026-10-30",
+   "time": "07:08",
+   "files": [
+    {
+     "name": "תפזורת וירא צעירים .pdf",
+     "size": "133KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1lLL3pnaJh2GBPR_rcyqkKeoOKA4aMZGp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587504258"
   }
  ]
 }

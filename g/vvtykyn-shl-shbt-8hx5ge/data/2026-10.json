@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "וותיקין של שבת ",
- "updated": "2026-10-23T05:15:45.130Z",
+ "updated": "2026-10-30T07:27:11.130Z",
  "messages": [
   {
    "id": "ACCF643EFC1BFF4C20B7CB7FD5E27F23",
@@ -279,6 +279,77 @@
    "files": [],
    "drive": null,
    "phone": "972534712840"
+  },
+  {
+   "id": "AC3BE870BC033CBBDCA69D32A85E1B16",
+   "sender": "oriyaagolnik",
+   "text": "שבת קודש פרשת וירא:\nתחילת התפילה- 5:11.\nשוכן עד- 5:40.\nהנץ החמה- 5:56.\n\nשבת שלום ומבורך!!!",
+   "ts": 1793343465000,
+   "date": "2026-10-30",
+   "time": "08:57",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC7EB41E7DACFCBF69FBB816AED21949",
+   "sender": "oriyaagolnik",
+   "text": "",
+   "ts": 1793343514000,
+   "date": "2026-10-30",
+   "time": "08:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC7EB41E7DACFCBF69FBB816AED21949_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "ACDBC2D1961BD25FE9F780689E7B59B3",
+   "sender": "oriyaagolnik",
+   "text": "",
+   "ts": 1793343554000,
+   "date": "2026-10-30",
+   "time": "08:59",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "83KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1zoYmP1gmG7x9WOMXMtt0sAg_q0FJcab_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC906028015F6D774745EFED431737C4",
+   "sender": "שרגא שינובר",
+   "text": "\"מצדיקי הרבים\"... שכרו רב לו. ברכת ה' יתברך עליו ועל בני ביתו🙏🙏",
+   "ts": 1793345174000,
+   "date": "2026-10-30",
+   "time": "09:26",
+   "files": [],
+   "drive": null,
+   "phone": "972544207687"
+  },
+  {
+   "id": "ACEDDCE6231E7367C7F1042479A7C3EE",
+   "sender": "י.  כהן",
+   "text": "חיים של ברכה חיים של פרנסה טובה חיים של חילוץ עצמות חיים וכו'",
+   "ts": 1793345222000,
+   "date": "2026-10-30",
+   "time": "09:27",
+   "files": [],
+   "drive": null,
+   "phone": "972555649000"
   }
  ]
 }

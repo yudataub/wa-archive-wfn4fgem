@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "'חלקנו' - עדכונים ותוכן 23",
- "updated": "2026-10-29T13:05:02.245Z",
+ "updated": "2026-10-30T06:11:14.793Z",
  "messages": [
   {
    "id": "A505F01536162673BE8BAA30FF673D87",
@@ -302,6 +302,46 @@
      "size": "878KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/14QQK3g66RVnFm3qyH_wqRYCdUNij0XGo/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972553390473"
+  },
+  {
+   "id": "A57C6F4E03811C12D401E65460108134",
+   "sender": "מחלקת התוכן חלקי בקהילתי",
+   "text": "🕯️ *זמני הדלקת נרות שבת פרשת וירא* 🕯️",
+   "ts": 1793340646000,
+   "date": "2026-10-30",
+   "time": "08:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/10DMJsgUvdUXFL8e6Xka-oXB3wRv6dxVJ/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/A57C6F4E03811C12D401E65460108134_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=10DMJsgUvdUXFL8e6Xka-oXB3wRv6dxVJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553390473"
+  },
+  {
+   "id": "A574D0BDE39FE1B5866E52B22093CF56",
+   "sender": "מחלקת התוכן חלקי בקהילתי",
+   "text": "",
+   "ts": 1793340654000,
+   "date": "2026-10-30",
+   "time": "08:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/A574D0BDE39FE1B5866E52B22093CF56_1.jpg",
      "skipped": ""
     }
    ],

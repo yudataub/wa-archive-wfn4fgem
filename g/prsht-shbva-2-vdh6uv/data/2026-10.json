@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-10-30T00:17:55.455Z",
+ "updated": "2026-10-30T04:39:13.333Z",
  "messages": [
   {
    "id": "AC1C58E1282744902AB387D5E6021589",
@@ -5762,6 +5762,55 @@
    "files": [],
    "drive": null,
    "phone": "972527693680"
+  },
+  {
+   "id": "AC6A89F544BF81D02B5DB366F7BB1B86",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1793335129000,
+   "date": "2026-10-30",
+   "time": "06:38",
+   "files": [
+    {
+     "name": "וירא דוגמא אישית פרשה ובדיחה.docx",
+     "size": "17KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1KdHcgj7HsYjMZC2H3S2GwfkCaMPxRmnG/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC42CA154A5CCD827BE5EFB2D4774A9F",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1793335132000,
+   "date": "2026-10-30",
+   "time": "06:38",
+   "files": [
+    {
+     "name": "מה משפיע יותר ממאה שיחות.pptx",
+     "size": "8.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1s-uI8U3EOI0dd-9Yl-Mqgx_8xIGmdTf_/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACAA126200E96164599DDEB50194CF4A",
+   "sender": "אפי",
+   "text": "מי שרוצה גם הסרטון בנוטבוק- בבקשה לפנות בפרטי.",
+   "ts": 1793335133000,
+   "date": "2026-10-30",
+   "time": "06:38",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
   }
  ]
 }

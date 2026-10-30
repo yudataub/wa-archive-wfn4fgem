@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "אלו מציאות - פורום אור לגמרא",
- "updated": "2026-10-21T19:07:52.198Z",
+ "updated": "2026-10-30T10:19:05.407Z",
  "messages": [
   {
    "id": "AC3CD2F78D2309FDCE852B29C91F81AE",
@@ -145,6 +145,36 @@
    "files": [],
    "drive": null,
    "phone": "972586336040"
+  },
+  {
+   "id": "AC8362A9289A66CF373A2D24470B0EF9",
+   "sender": "יאיר לקס",
+   "text": "היי יש תקלה בבוחן 2 של אלו מציאות\nאוצר מילים תקול וקפיצה משאלה 5 לשאלה 10.",
+   "ts": 1793348974000,
+   "date": "2026-10-30",
+   "time": "10:29",
+   "files": [],
+   "drive": null,
+   "phone": "972528080814"
+  },
+  {
+   "id": "ACDFA5E560FBD8BA2003B63944A3ACAD",
+   "sender": "Tomer Rathaus",
+   "text": "",
+   "ts": 1793355537000,
+   "date": "2026-10-30",
+   "time": "12:18",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "112KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/15VKYQoXv76PhkGdIIX_nLaSF6D68fCjU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523420037"
   }
  ]
 }

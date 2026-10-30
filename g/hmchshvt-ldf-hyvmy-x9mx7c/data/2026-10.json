@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-29T04:13:44.882Z",
+ "updated": "2026-10-30T04:04:42.092Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -1123,6 +1123,25 @@
      "size": "101KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A22627BE8EF94CABBF2_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A4948C69F3B28405E9E",
+   "sender": ".",
+   "text": "״דהא בעופות לא חלק הכתוב״ (רש״י בכורות מב, א).",
+   "ts": 1793333071000,
+   "date": "2026-10-30",
+   "time": "06:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "82KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A4948C69F3B28405E9E_1.jpg",
      "skipped": ""
     }
    ],

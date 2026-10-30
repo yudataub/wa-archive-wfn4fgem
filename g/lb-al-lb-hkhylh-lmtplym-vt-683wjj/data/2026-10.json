@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "💚 לב על לב 💚 הקהילה למטפלים/ות✨",
- "updated": "2026-10-28T19:36:29.111Z",
+ "updated": "2026-10-30T07:52:41.566Z",
  "messages": [
   {
    "id": "3A013C7439C33C16AD1A",
@@ -287,6 +287,27 @@
      "type": "image/jpeg",
      "path": "media/2026-10/3A7DE8FDB6B8E97A3310_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525151212"
+  },
+  {
+   "id": "3A3EDC7BABEE7495B6DC",
+   "sender": "ליה קדושים",
+   "text": "*💫 הטבה בלעדית לחברי קהילת לב על לב! 💫*\n\nרוצים להתנסות באבחון ולחוות בעצמכם את הערך והיתרונות של ערכת האבחון?\n\nאני מזמינה אתכם לקבל אבחון במתנה, ולצאת עם ערך, תובנות וחוויה אישית שתמחיש לכם את העוצמה של הערכה ✨\n\n*💌 מעוניינים? שלחו לי הודעה בפרטי ונתאם מועד 💫*",
+   "ts": 1793346741000,
+   "date": "2026-10-30",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/16Tv58SFoAerdDv60lo_I4PH5myN9bobq/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/3A3EDC7BABEE7495B6DC_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=16Tv58SFoAerdDv60lo_I4PH5myN9bobq&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-10-29T14:30:17.926Z",
+ "updated": "2026-10-30T12:25:21.255Z",
  "messages": [
   {
    "id": "AC07DDA642E1CB946C7B3580E163C09A",
@@ -3553,6 +3553,74 @@
    ],
    "drive": null,
    "phone": "972548014479"
+  },
+  {
+   "id": "AC9F07F8BA1C9DE9CA79160EEC7FCBB4",
+   "sender": "avivau10",
+   "text": "",
+   "ts": 1793346029000,
+   "date": "2026-10-30",
+   "time": "09:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "250KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC9F07F8BA1C9DE9CA79160EEC7FCBB4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507439821"
+  },
+  {
+   "id": "AC2B418E1BC3EC6E74AE9CC570711F09",
+   "sender": "avivau10",
+   "text": "",
+   "ts": 1793346030000,
+   "date": "2026-10-30",
+   "time": "09:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC2B418E1BC3EC6E74AE9CC570711F09_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507439821"
+  },
+  {
+   "id": "AC7DF93114D97D602576AB88EBC166C0",
+   "sender": "avivau10",
+   "text": "שלחתי תמונות נוספות תפזורת באתגרי חודש בוגרות ו'  בכיתות השונות👆",
+   "ts": 1793346121000,
+   "date": "2026-10-30",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972507439821"
+  },
+  {
+   "id": "ACE22E844E94CB763ECFDBCAFF572644",
+   "sender": "אברהם פויכטונגר",
+   "text": "תענוג לראות את השיתופים שלכם!!!",
+   "ts": 1793363095000,
+   "date": "2026-10-30",
+   "time": "14:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACE22E844E94CB763ECFDBCAFF572644_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523003393"
   }
  ]
 }
