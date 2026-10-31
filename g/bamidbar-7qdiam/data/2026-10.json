@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "במדבר ושמואל א",
- "updated": "2026-10-30T07:52:11.546Z",
+ "updated": "2026-10-31T20:30:46.539Z",
  "messages": [
   {
    "id": "AC9902703E0871A2D5BB49E059293815",
@@ -5187,6 +5187,143 @@
    "files": [],
    "drive": null,
    "phone": "972525099981"
+  },
+  {
+   "id": "3AB4E817510A403D2C0F",
+   "sender": ".",
+   "text": "שבוע טוב\nהאם מלמדים פרשת סוטה או מדלגים?",
+   "ts": 1793463548000,
+   "date": "2026-10-31",
+   "time": "18:19",
+   "files": [],
+   "drive": null,
+   "phone": "972509099670"
+  },
+  {
+   "id": "ACAED4220742944731C6DBCC635B459F",
+   "sender": "אוריה",
+   "text": "מלמדים. לפי המתווה החלק הראשון אינטנסיבי, החלק השני אקסטנסיבי",
+   "ts": 1793463676000,
+   "date": "2026-10-31",
+   "time": "18:21",
+   "files": [],
+   "drive": null,
+   "phone": "972546645422"
+  },
+  {
+   "id": "AC330BC55851499830D4F8DC2989F87C",
+   "sender": "אסתר לוי אינאייב",
+   "text": "אשמח למבחן  לפרקים א - ה בשמואל א'  בבקשה מותאם לתלמידים רגילים ולמתקשים גם🙏🙏🙏",
+   "ts": 1793464024000,
+   "date": "2026-10-31",
+   "time": "18:27",
+   "files": [],
+   "drive": null,
+   "phone": "972503552242"
+  },
+  {
+   "id": "AC2B8D8FF3CF48F34FAA5767478FB399",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1793465437000,
+   "date": "2026-10-31",
+   "time": "18:50",
+   "files": [
+    {
+     "name": "דף חזרה שמואל א פרקים א-ה.docx",
+     "size": "17KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1eSZ85fqqujTFP31STuLw0xosBfu7lyao/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC741904E5A9978A3ABEF5BD92D57685",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1793465439000,
+   "date": "2026-10-31",
+   "time": "18:50",
+   "files": [
+    {
+     "name": "מבחן בקיאות שמואל א א-ה.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1hVQBsnMNQcUtnpdNUmVEDJS5kETmw6AA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC9AD2D8B5469A7BCE95F305F8A1E647",
+   "sender": "בת חן",
+   "text": "יש משהו?",
+   "ts": 1793466116000,
+   "date": "2026-10-31",
+   "time": "19:01",
+   "files": [],
+   "drive": null,
+   "phone": "972525099981"
+  },
+  {
+   "id": "3EB04AA7795AC91F4F3CE6",
+   "sender": "Dafna",
+   "text": "שבוע טוב, אפשר בבקשה פרק ד לפרשת במדבר🙏",
+   "ts": 1793468621000,
+   "date": "2026-10-31",
+   "time": "19:43",
+   "files": [],
+   "drive": null,
+   "phone": "972507617544"
+  },
+  {
+   "id": "AC007A8D604F577988AAC2523071CA3E",
+   "sender": "יואל לחיאני",
+   "text": "שבוע טוב.\nיש תאריך מתי המבחן יעלה לאתר?\nחשוב שנכין דף חזרה על בסיס המבחן",
+   "ts": 1793469664000,
+   "date": "2026-10-31",
+   "time": "20:01",
+   "files": [],
+   "drive": null,
+   "phone": "972548025517"
+  },
+  {
+   "id": "AC62E07E773FA44AF068414940456416",
+   "sender": "אוסנת בן שלוש",
+   "text": "שבוע טוב יש לי שאלה אך יודעים אם צריך ללמד את כל הפסוקים בפרק ועל מה ניתן לדלג בתכנון שנתי אין את הפרט הזה ?",
+   "ts": 1793478067000,
+   "date": "2026-10-31",
+   "time": "22:21",
+   "files": [],
+   "drive": null,
+   "phone": "972525990110"
+  },
+  {
+   "id": "ACBFA5AE41D27954A3A6A84C4A80246D",
+   "sender": "אפרת",
+   "text": "כתוב בללמוד וללמד❤️",
+   "ts": 1793478505000,
+   "date": "2026-10-31",
+   "time": "22:28",
+   "files": [],
+   "drive": null,
+   "phone": "972544449678"
+  },
+  {
+   "id": "AC147F93493F6F26DC75BE5A616CD070",
+   "sender": "אוסנת בן שלוש",
+   "text": "תודה רבה🫶🏻",
+   "ts": 1793478629000,
+   "date": "2026-10-31",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972525990110"
   }
  ]
 }

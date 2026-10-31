@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-10-29T14:33:47.974Z",
+ "updated": "2026-10-31T17:18:42.740Z",
  "messages": [
   {
    "id": "3EB02352C54029ADF46A0C",
@@ -533,6 +533,57 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "3EB04E3C9015DA64A2973F",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הפרומפט היומי*\nצרו מדבקות חמודות עם רקע שקוף לווצאפ\nהפרומפט פורסם בתאריך 30/10/26\nבפרויקט הפרומפט היומי: https://www.lomdot.org/dailyprompt\nלקבוצה שלי - הוראה יצירתית עם AI\nשבוע טוב ⭐⭐⭐שירה",
+   "ts": 1793466494000,
+   "date": "2026-10-31",
+   "time": "19:08",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "1.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1uz5GxLSXPBOoloBao3bM-BuW3W637PmT/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/3EB04E3C9015DA64A2973F_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1uz5GxLSXPBOoloBao3bM-BuW3W637PmT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB00A6754D4B27D98CAC0",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "",
+   "ts": 1793466499000,
+   "date": "2026-10-31",
+   "time": "19:08",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "83KB",
+     "type": "image/webp",
+     "path": "media/2026-10/3EB00A6754D4B27D98CAC0_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC00F792F9BDD3D0AAE5DF7EC0797113",
+   "sender": "סוזי גרוס",
+   "text": "יצא לי מקסים. \nתודה רבה",
+   "ts": 1793467104000,
+   "date": "2026-10-31",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "972522706997"
   }
  ]
 }

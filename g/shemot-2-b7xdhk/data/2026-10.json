@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "שמות 2 ויהושע",
- "updated": "2026-10-30T11:01:42.930Z",
+ "updated": "2026-10-31T20:04:15.846Z",
  "messages": [
   {
    "id": "AC609776D3429492579640022E0E0110",
@@ -2543,6 +2543,88 @@
    "files": [],
    "drive": null,
    "phone": "972587760411"
+  },
+  {
+   "id": "ACAFAFF39EAD35F46AA48D97E161EA7B",
+   "sender": "אושרת הרכבי",
+   "text": "למישהו יש דפי הסבר/לימוד ל \"תפילת  18\"?",
+   "ts": 1793469754000,
+   "date": "2026-10-31",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "phone": "972524631318"
+  },
+  {
+   "id": "AC7D593A2623503A0DBA0E47FF961E92",
+   "sender": "רותי",
+   "text": "אשמח גם למענה",
+   "ts": 1793473033000,
+   "date": "2026-10-31",
+   "time": "20:57",
+   "files": [],
+   "drive": null,
+   "phone": "972525351167"
+  },
+  {
+   "id": "ACE02CE0992CE865F5624D251AB6EF65",
+   "sender": "נועה פלס",
+   "text": "אשמח גם 🙏🏻",
+   "ts": 1793474992000,
+   "date": "2026-10-31",
+   "time": "21:29",
+   "files": [],
+   "drive": null,
+   "phone": "972509501623"
+  },
+  {
+   "id": "AC35AB2A01FF2E62FB35F3A46CB8E1E9",
+   "sender": "רותי חדידה",
+   "text": "מצטרפת לבקשה🙏",
+   "ts": 1793475082000,
+   "date": "2026-10-31",
+   "time": "21:31",
+   "files": [],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACE93ABE0D6A3522108EA1A9661A87E5",
+   "sender": "פסי סילבר",
+   "text": "",
+   "ts": 1793477051000,
+   "date": "2026-10-31",
+   "time": "22:04",
+   "files": [
+    {
+     "name": "חוברת עבודה תפילת עמידה כיתות ג-ד מווצאפ_241026_22_241217_215113.pdf",
+     "size": "2.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10HHXfmERxRaA-UuI-xn8cvJiDIsvZpBt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972538238573"
+  },
+  {
+   "id": "ACE2827F083FCA6634503A8253FA9B47",
+   "sender": "פסי סילבר",
+   "text": "",
+   "ts": 1793477052000,
+   "date": "2026-10-31",
+   "time": "22:04",
+   "files": [
+    {
+     "name": "תפילת שמונה עשרה.docx",
+     "size": "930KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1z4Vd5Z3b9LS7luOybJ3cPmK3OHtAFGLo/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972538238573"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לימודים לחרדים - 45",
- "updated": "2026-10-28T12:59:04.820Z",
+ "updated": "2026-10-31T19:30:45.081Z",
  "messages": [
   {
    "id": "AC71F4D14BCE523F00CFBFAE46327AF4",
@@ -353,6 +353,46 @@
    ],
    "drive": null,
    "phone": "97225018198"
+  },
+  {
+   "id": "AC2C22DC07B96E3FCE57E948F09E4678",
+   "sender": "מערכת",
+   "text": "מחזור 2# יוצא לדרך...\n*קורס ניהול מערך שינויי דיירים ופיקוח בניה*\n\nבואי ללמוד במקום הטוב ביותר\nבסיעור מוחות - המרכז לעיצוב ותקשורת.\n\n*🟡למי מיועד הקורס?*\nבוגרות מתחום האדריכלות והעיצוב פנים\n\n*🟡מבנה המפגשים:*\nשילוב של הרצאות מקצועיות, מרצים אורחים מובילים בתחומם, ובדגש על תרגול מעשי ופרקטיקה בכיתה ובשטח.\n\nלחצי לצפיה בסילבוס המלא\n👇👇👇\nhttps://drive.google.com/file/d/1lroWVQSAo-oO-vJcCV5GSJcSOaNxJ2Qn/view?usp=sharing\n\n*לפרטים ולהרשמה צלצלי: >>>*\n📞📞📞\nהילה: ⁦0527199084⁩\nמוריה: ⁦0534160393⁩",
+   "ts": 1793475020000,
+   "date": "2026-10-31",
+   "time": "21:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/AC2C22DC07B96E3FCE57E948F09E4678_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972557272977"
+  },
+  {
+   "id": "AC7C15E8E67C4BA95FCB4549F44635E7",
+   "sender": "מערכת",
+   "text": "",
+   "ts": 1793475034000,
+   "date": "2026-10-31",
+   "time": "21:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/15DlAaT_gEF6X8_Z7z_DtFIjrHcb6CGOe/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/AC7C15E8E67C4BA95FCB4549F44635E7_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=15DlAaT_gEF6X8_Z7z_DtFIjrHcb6CGOe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972557272977"
   }
  ]
 }

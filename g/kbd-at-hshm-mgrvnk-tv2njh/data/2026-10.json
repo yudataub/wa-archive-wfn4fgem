@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "כבד את השם מגרונך",
- "updated": "2026-10-29T12:15:24.516Z",
+ "updated": "2026-10-31T09:03:29.107Z",
  "messages": [
   {
    "id": "AC3D0F348AB4A77C0C3227737BD3E8F1",
@@ -398,6 +398,25 @@
    "files": [],
    "drive": null,
    "phone": "972524560100"
+  },
+  {
+   "id": "3EB064402C0D1C022F0259",
+   "sender": "Leonid Gelbet",
+   "text": "",
+   "ts": 1793437392000,
+   "date": "2026-10-31",
+   "time": "11:03",
+   "files": [
+    {
+     "name": "Do-Re-Mi.jpg",
+     "size": "739KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB064402C0D1C022F0259_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549491394"
   }
  ]
 }

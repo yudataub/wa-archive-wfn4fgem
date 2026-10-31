@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-10-30T08:06:41.785Z",
+ "updated": "2026-10-31T17:02:06.922Z",
  "messages": [
   {
    "id": "3AE13462F94DE0376307",
@@ -296,6 +296,38 @@
    "date": "2026-10-30",
    "time": "10:06",
    "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3A7B7A6C6A2220A81741",
+   "sender": "חגית סייג",
+   "text": "🇮🇱 חוגגים 100 לקרית אתא עם ״קפה מרגוע״!\n\nהתיאטרון הקהילתי קרית אתא, בבימויו של אייל בוחבוט, מזמין אתכם למחזמר מרגש ולמסע בזמן דרך בית הקפה המיתולוגי של העיר.\n\n❤️ בואו לערב של נוסטלגיה וגאווה מקומית, ולפרגן לתושבות ולתושבים שלנו על הבמה!\n\n📅 רביעי | 11.11.26 | 20:00\n🎟️ כרטיסים: https://katzr.net/4eecf8\n\n📅 חמישי | 12.11.26 | 20:00\n🎟️ כרטיסים: https://katzr.net/0f79ca",
+   "ts": 1793466115000,
+   "date": "2026-10-31",
+   "time": "19:01",
+   "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3AD6AD8637D2D54131F6",
+   "sender": "חגית סייג",
+   "text": "קפה מרגוע ,מחכים לכם ❤️🇮🇱",
+   "ts": 1793466130000,
+   "date": "2026-10-31",
+   "time": "19:02",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Cu6VMdZEVbceWCvlLfviHBSJUsadhjNr/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/3AD6AD8637D2D54131F6_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1Cu6VMdZEVbceWCvlLfviHBSJUsadhjNr&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522346593"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "לימודים ומלגות לחרדים - 39",
- "updated": "2026-10-28T12:59:04.809Z",
+ "updated": "2026-10-31T19:33:15.127Z",
  "messages": [
   {
    "id": "ACD394FF8E6F09BA9481601087DBB11A",
@@ -334,6 +334,46 @@
    ],
    "drive": null,
    "phone": "97225018198"
+  },
+  {
+   "id": "AC3991698FE3C3B213B8621052594816",
+   "sender": "מערכת",
+   "text": "",
+   "ts": 1793475167000,
+   "date": "2026-10-31",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "25.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/16QcyVvUhUD4JWpXMONbD7nIAlYGwZmwS/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-10/AC3991698FE3C3B213B8621052594816_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=16QcyVvUhUD4JWpXMONbD7nIAlYGwZmwS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972557272977"
+  },
+  {
+   "id": "ACCF6ADD93581648C1AEF448ABC11F89",
+   "sender": "מערכת",
+   "text": "מחזור 2# יוצא לדרך...\n*קורס ניהול מערך שינויי דיירים ופיקוח בניה*\n\nבואי ללמוד במקום הטוב ביותר\nבסיעור מוחות - המרכז לעיצוב ותקשורת.\n\n*🟡למי מיועד הקורס?*\nבוגרות מתחום האדריכלות והעיצוב פנים\n\n*🟡מבנה המפגשים:*\nשילוב של הרצאות מקצועיות, מרצים אורחים מובילים בתחומם, ובדגש על תרגול מעשי ופרקטיקה בכיתה ובשטח.\n\nלחצי לצפיה בסילבוס המלא\n👇👇👇\nhttps://drive.google.com/file/d/1lroWVQSAo-oO-vJcCV5GSJcSOaNxJ2Qn/view?usp=sharing\n\n*לפרטים ולהרשמה צלצלי: >>>*\n📞📞📞\nהילה: ⁦0527199084⁩\nמוריה: ⁦0534160393⁩",
+   "ts": 1793475176000,
+   "date": "2026-10-31",
+   "time": "21:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/ACCF6ADD93581648C1AEF448ABC11F89_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972557272977"
   }
  ]
 }

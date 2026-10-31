@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "המחשות לדף היומי",
- "updated": "2026-10-30T04:04:42.092Z",
+ "updated": "2026-10-31T15:46:40.732Z",
  "messages": [
   {
    "id": "3A300DD33B39332E1742",
@@ -1142,6 +1142,63 @@
      "size": "82KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3A4948C69F3B28405E9E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A34C2B514034C33A831",
+   "sender": ".",
+   "text": "״ומרוב ארכו כופף ראשו״ (רש״י בכורות מג, ב).",
+   "ts": 1793461591000,
+   "date": "2026-10-31",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A34C2B514034C33A831_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A09CDE3514553276334",
+   "sender": ".",
+   "text": "״נוטף״ (בכורות מג, ב).",
+   "ts": 1793461593000,
+   "date": "2026-10-31",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A09CDE3514553276334_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A9DF4A9821001EFE7A5",
+   "sender": ".",
+   "text": "״שראשו בולט לאחוריו כלפניו״ (רש״י בכורות מג, ב).",
+   "ts": 1793461594000,
+   "date": "2026-10-31",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3A9DF4A9821001EFE7A5_1.jpg",
      "skipped": ""
     }
    ],

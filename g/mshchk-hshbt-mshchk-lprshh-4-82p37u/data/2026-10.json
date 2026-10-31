@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "משחק השבת - משחק לפרשה 4",
- "updated": "2026-10-29T16:22:33.118Z",
+ "updated": "2026-10-31T16:23:06.287Z",
  "messages": [
   {
    "id": "3EB0456D0C31086C579D10",
@@ -157,6 +157,25 @@
      "size": "608KB",
      "type": "image/jpeg",
      "path": "media/2026-10/3EB049EFB7A15374A08E80_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB08E489ACA2DAF20EA70",
+   "sender": "עמי חניא",
+   "text": "היום היום היום היום היום \n\n🎯 *החידון השבועי של OrQuiz חוזר!* 💙\n\nבנושא עונות השנה ⛈️🌻🏖️🌤️\n\n📆 מוצאי שבת פרשת וירא, 31.10.26, כ' חשוון\n🕗 מתחילים ב-18:45 בדיוק!\n\nלקבוצת העדכונים:\n\nהתחברות לחידון:\n🔗 https://orquiz-game.clap.co.il/player.html?code=0000",
+   "ts": 1793463776000,
+   "date": "2026-10-31",
+   "time": "18:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "645KB",
+     "type": "image/jpeg",
+     "path": "media/2026-10/3EB08E489ACA2DAF20EA70_1.jpg",
      "skipped": ""
     }
    ],
