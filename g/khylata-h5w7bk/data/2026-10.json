@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "קהילאתא",
- "updated": "2026-10-31T17:49:13.758Z",
+ "updated": "2026-10-31T21:21:55.587Z",
  "messages": [
   {
    "id": "A53828E628982E187A2526334656735F",
@@ -9735,6 +9735,17 @@
    ],
    "drive": null,
    "phone": "972523492545"
+  },
+  {
+   "id": "ACF6A744145BB75A9DE0DB9F0553A97A",
+   "sender": "יאיר בוכבינדר",
+   "text": "https://youtu.be/gK_RPUD7L-k?si=KftHkEHDP1-XxFGk",
+   "ts": 1793481719000,
+   "date": "2026-10-31",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "phone": "972545885131"
   }
  ]
 }

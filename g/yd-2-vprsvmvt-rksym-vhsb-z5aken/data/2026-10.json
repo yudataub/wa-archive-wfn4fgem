@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-10-31T21:04:25.238Z",
+ "updated": "2026-10-31T21:58:47.845Z",
  "messages": [
   {
    "id": "AC209A6742F4C9320203641E47E1929B",
@@ -23622,7 +23622,8 @@
      "path": "https://drive.google.com/file/d/1g638ZStin-cHcnvtHmp0PdMz3bn7zTqt/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/AC71BA1BA3D78E9BC6BD7789D57286F7_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1g638ZStin-cHcnvtHmp0PdMz3bn7zTqt&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1g638ZStin-cHcnvtHmp0PdMz3bn7zTqt&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/AC71BA1BA3D78E9BC6BD7789D57286F7_0.mp4"
     }
    ],
    "drive": null,
@@ -23692,7 +23693,8 @@
      "path": "https://drive.google.com/file/d/1aoQsqo2XBLbJq57byIcHegaXJnS-HdGp/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/2AB15C66402295CFF0DB_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1aoQsqo2XBLbJq57byIcHegaXJnS-HdGp&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1aoQsqo2XBLbJq57byIcHegaXJnS-HdGp&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/2AB15C66402295CFF0DB_0.mp4"
     }
    ],
    "drive": null,
@@ -23762,7 +23764,8 @@
      "path": "https://drive.google.com/file/d/1oDvCh8gpThZ_rlOZ1ZsEc1t_jnJDeDQO/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/A5543F0634662F4800769472B2F96C67_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1oDvCh8gpThZ_rlOZ1ZsEc1t_jnJDeDQO&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1oDvCh8gpThZ_rlOZ1ZsEc1t_jnJDeDQO&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/A5543F0634662F4800769472B2F96C67_0.mp4"
     }
    ],
    "drive": null,
@@ -23840,7 +23843,8 @@
      "path": "https://drive.google.com/file/d/1uqZuQ7NiCW76jCCcO3o73EcA44krlA5f/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/ACFA69D7C79CE4725210E91B5AD5128B_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1uqZuQ7NiCW76jCCcO3o73EcA44krlA5f&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1uqZuQ7NiCW76jCCcO3o73EcA44krlA5f&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/ACFA69D7C79CE4725210E91B5AD5128B_0.mp4"
     }
    ],
    "drive": null,
@@ -23921,7 +23925,8 @@
      "path": "https://drive.google.com/file/d/1hWR1F1nNTBaKJ7x-jubo115G2V18vrYV/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-10/A5BC8ED2399B73447631E4745965710A_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1hWR1F1nNTBaKJ7x-jubo115G2V18vrYV&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1hWR1F1nNTBaKJ7x-jubo115G2V18vrYV&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-10/A5BC8ED2399B73447631E4745965710A_0.mp4"
     }
    ],
    "drive": null,
@@ -24100,6 +24105,17 @@
    ],
    "drive": null,
    "phone": "972505719433"
+  },
+  {
+   "id": "A5C67D6334DE6574B5DAADBCBE8F189F",
+   "sender": "מאיר מוגרבי",
+   "text": "מישהו מגיע מחר לקניון שער הצפון?",
+   "ts": 1793483932000,
+   "date": "2026-10-31",
+   "time": "23:58",
+   "files": [],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

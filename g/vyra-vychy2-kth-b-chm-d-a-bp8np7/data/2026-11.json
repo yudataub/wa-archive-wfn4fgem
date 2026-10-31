@@ -1,0 +1,45 @@
+{
+ "month": "2026-11",
+ "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
+ "updated": "2026-10-31T22:26:48.303Z",
+ "messages": [
+  {
+   "id": "3EB07E6F24C8A9165D9D2C",
+   "sender": "עמירם אלבה",
+   "text": "",
+   "ts": 1793484210000,
+   "date": "2026-11-01",
+   "time": "00:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "342KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB07E6F24C8A9165D9D2C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545236548"
+  },
+  {
+   "id": "3EB04C37E9B2486F29BF0F",
+   "sender": "עמירם אלבה",
+   "text": "",
+   "ts": 1793485601000,
+   "date": "2026-11-01",
+   "time": "00:26",
+   "files": [
+    {
+     "name": "משתה יצחק הסבר והזמנה תשפז.docx",
+     "size": "665KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/12MLoS9Pa1J_NEgQNMCM3QjKahq3utMHL/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545236548"
+  }
+ ]
+}

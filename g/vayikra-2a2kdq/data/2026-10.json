@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-10-31T21:03:55.207Z",
+ "updated": "2026-10-31T21:56:47.773Z",
  "messages": [
   {
    "id": "ACE3CA7E7FDFC7BCF360EA9DC7E1E081",
@@ -9023,6 +9023,135 @@
    "files": [],
    "drive": null,
    "phone": "972526947706"
+  },
+  {
+   "id": "AC3A2FBD7BB89005F9F8C167B0437203",
+   "sender": "אורית הודיה",
+   "text": "בחוברת העבודה על השופטים,בעמוד האחרון יש טבלה מסכמת בדיוק כפי שאת רוצה",
+   "ts": 1793482645000,
+   "date": "2026-10-31",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACC043292A8C9A3F4CCB1B435458900D",
+   "sender": "אלי7",
+   "text": "אנחנו לא לומדים עם החןברת..",
+   "ts": 1793482755000,
+   "date": "2026-10-31",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972526947706"
+  },
+  {
+   "id": "AC461C4C92030B1E90CA16C74FA5C060",
+   "sender": "אורית הודיה",
+   "text": "",
+   "ts": 1793482849000,
+   "date": "2026-10-31",
+   "time": "23:40",
+   "files": [
+    {
+     "name": "חוברת עבודה שופטים.pdf",
+     "size": "1.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tOz_cn6Cz_1IML4ORxwcM3oqRhoPAcSM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC13AA313A03444CF6EEAA3DBD4A3C14",
+   "sender": "אורית הודיה",
+   "text": "בקובץ הזה יש בעמוד האחרון את הטבלה המסכמת",
+   "ts": 1793482865000,
+   "date": "2026-10-31",
+   "time": "23:41",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACF3D3F95F255B08B8866A7F440D7FF6",
+   "sender": "אלי7",
+   "text": "תודה רבה לך🫶🏻",
+   "ts": 1793483079000,
+   "date": "2026-10-31",
+   "time": "23:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526947706"
+  },
+  {
+   "id": "3A634560BA8B9E02A5B9",
+   "sender": "שושנה",
+   "text": "היכן זה נמצא?",
+   "ts": 1793483432000,
+   "date": "2026-10-31",
+   "time": "23:50",
+   "files": [],
+   "drive": null,
+   "phone": "972502022280"
+  },
+  {
+   "id": "AC1062D067F7CF77E0139E29F376181C",
+   "sender": "nacalnovea",
+   "text": "תודה על השיתוף. מותר בשימוש?",
+   "ts": 1793483612000,
+   "date": "2026-10-31",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "phone": "972544703025"
+  },
+  {
+   "id": "ACFD5980D4835DC0A1E1FF0A7324950E",
+   "sender": "אורית הודיה",
+   "text": "https://drive.google.com/file/d/1UpxT0WUmRyaRqQEshk_Y3Da9qUj4sFke/view",
+   "ts": 1793483632000,
+   "date": "2026-10-31",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "AC8C99209B4DAE66213CF2FB19F7E948",
+   "sender": "אורית הודיה",
+   "text": "https://drive.google.com/file/d/1RWbJcf7dhGVn7jqXq55BPW-4SmtYsfXT/view",
+   "ts": 1793483633000,
+   "date": "2026-10-31",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACD66EAF45A94A2EA83891F761DF850F",
+   "sender": "שרון שריר",
+   "text": "מישהו ראה את הדפים פה? יש מקור לידיעה שהוסיפו מים לסולת והשמן?",
+   "ts": 1793483747000,
+   "date": "2026-10-31",
+   "time": "23:55",
+   "files": [],
+   "drive": null,
+   "phone": "972528613004"
+  },
+  {
+   "id": "AC4E48C50068145708A90D06A4E57DDD",
+   "sender": "אורית הודיה",
+   "text": "זה המבחן על פרשות ויקרא וצו\nומי דהיה זריז והספיק גם את שמיני,שיחחק גם את הדף השלישי \nעל המבחן צריך לערוך מיפוי וטבלה עם הציונים\nזה ארצי. ולהעביר עד קרוב לחנוכה גג.",
+   "ts": 1793483791000,
+   "date": "2026-10-31",
+   "time": "23:56",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
   }
  ]
 }

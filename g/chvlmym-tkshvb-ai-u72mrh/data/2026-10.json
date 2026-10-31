@@ -1,7 +1,7 @@
 {
  "month": "2026-10",
  "group": "חולמים תקשוב AI",
- "updated": "2026-10-31T19:58:47.930Z",
+ "updated": "2026-10-31T21:17:06.424Z",
  "messages": [
   {
    "id": "AC836A61D985FB982420FE7F3D35B551",
@@ -20981,6 +20981,17 @@
    ],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "ACBC69EF746D47B6E3BE2701E503BF06",
+   "sender": ".",
+   "text": "https://tab.bot/r/C06EBDDF4DC34E78",
+   "ts": 1793481425000,
+   "date": "2026-10-31",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "972534744316"
   }
  ]
 }
