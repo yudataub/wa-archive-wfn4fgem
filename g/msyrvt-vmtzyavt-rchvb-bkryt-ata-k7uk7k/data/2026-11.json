@@ -1,0 +1,56 @@
+{
+ "month": "2026-11",
+ "group": "מסירות ומציאות רחוב בקרית אתא",
+ "updated": "2026-11-01T16:20:58.453Z",
+ "messages": [
+  {
+   "id": "AC3FEAB35E20BF1B54A035C71EE56663",
+   "sender": "דורה",
+   "text": "מחפשת בגדים לילדה מידה 8-10",
+   "ts": 1793512420000,
+   "date": "2026-11-01",
+   "time": "07:53",
+   "files": [],
+   "drive": null,
+   "phone": "972543815966"
+  },
+  {
+   "id": "ACBD3D1B3FBABCB3AE04C55B41516572",
+   "sender": "דורה",
+   "text": "",
+   "ts": 1793549983000,
+   "date": "2026-11-01",
+   "time": "18:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "207KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACBD3D1B3FBABCB3AE04C55B41516572_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543815966"
+  },
+  {
+   "id": "ACD5D8C6171ECA73D0CCF6196293BF03",
+   "sender": "דורה",
+   "text": "",
+   "ts": 1793550037000,
+   "date": "2026-11-01",
+   "time": "18:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "201KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACD5D8C6171ECA73D0CCF6196293BF03_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543815966"
+  }
+ ]
+}

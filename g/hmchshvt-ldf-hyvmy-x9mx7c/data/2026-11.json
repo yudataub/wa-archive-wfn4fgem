@@ -1,0 +1,45 @@
+{
+ "month": "2026-11",
+ "group": "המחשות לדף היומי",
+ "updated": "2026-11-01T04:19:12.601Z",
+ "messages": [
+  {
+   "id": "3A11138124EF6AE54E3D",
+   "sender": ".",
+   "text": "״עגולות יותר מתרוטות״ (רש״י בכורות מד, א).",
+   "ts": 1793506739000,
+   "date": "2026-11-01",
+   "time": "06:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "161KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A11138124EF6AE54E3D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A4700EDB5F849C9DDD8",
+   "sender": ".",
+   "text": "״נוייטו״ן״ (רש״י בכורות מד, ב).",
+   "ts": 1793506740000,
+   "date": "2026-11-01",
+   "time": "06:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A4700EDB5F849C9DDD8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "month": "2026-11",
+ "group": "משנה כתה ה מפמ\"ר",
+ "updated": "2026-11-01T20:53:09.435Z",
+ "messages": [
+  {
+   "id": "A592F509500EFC3F24FFED703532E1A3",
+   "sender": "אוֹריה",
+   "text": "ערב טוב,\nאפשר לשלוח שוב בבקשה?",
+   "ts": 1793566233000,
+   "date": "2026-11-01",
+   "time": "22:50",
+   "files": [],
+   "drive": null,
+   "phone": "972585357978"
+  },
+  {
+   "id": "ACE92C2F06B81B1809B6780F1B7A7DB1",
+   "sender": "שרית בטשוילי",
+   "text": "",
+   "ts": 1793566362000,
+   "date": "2026-11-01",
+   "time": "22:52",
+   "files": [
+    {
+     "name": "מסכת ראש השנה ג-ד.pdf",
+     "size": "5.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1eUlPLIZ5uFeHvBdMxPq1hudiHbrJdTof/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506588647"
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-10-31T22:26:48.303Z",
+ "updated": "2026-11-01T10:43:17.435Z",
  "messages": [
   {
    "id": "3EB07E6F24C8A9165D9D2C",
@@ -40,6 +40,82 @@
    ],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "AC61B2BBC1F23D0A634F43C5F47668B6",
+   "sender": "עדינה ביין",
+   "text": "",
+   "ts": 1793515170000,
+   "date": "2026-11-01",
+   "time": "08:39",
+   "files": [
+    {
+     "name": "איורים למשתה יצחק.pdf",
+     "size": "47KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-qU-JpM4jTz1V2FefMkVnUtXZBSfiYfL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547594148"
+  },
+  {
+   "id": "AC1CBAFCDE80D660EA7B5D61F746F11C",
+   "sender": "עדינה ביין",
+   "text": "קישטנו את הלוח עם הקובץ המצורף...",
+   "ts": 1793515199000,
+   "date": "2026-11-01",
+   "time": "08:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC1CBAFCDE80D660EA7B5D61F746F11C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547594148"
+  },
+  {
+   "id": "ACC104403DDF3104D11C75803630D8BF",
+   "sender": "מוריה",
+   "text": "כנל",
+   "ts": 1793519702000,
+   "date": "2026-11-01",
+   "time": "09:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACC104403DDF3104D11C75803630D8BF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528084310"
+  },
+  {
+   "id": "AC770BFFD8525C325FA010819A638FC0",
+   "sender": "שירה",
+   "text": "משימה חמודה ממש שיש באתר- בעקבות הולדת יצחק והזכויות שמורות לטל רושי כמו שכתוב.",
+   "ts": 1793529788000,
+   "date": "2026-11-01",
+   "time": "12:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC770BFFD8525C325FA010819A638FC0_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526480975"
   }
  ]
 }

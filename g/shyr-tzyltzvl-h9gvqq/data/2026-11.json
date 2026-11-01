@@ -1,0 +1,48 @@
+{
+ "month": "2026-11",
+ "group": "שיר צילצול🎼",
+ "updated": "2026-11-01T20:01:31.183Z",
+ "messages": [
+  {
+   "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
+   "sender": "ארז משה 🇮🇱",
+   "text": "",
+   "ts": 1793562993000,
+   "date": "2026-11-01",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "Birkat Haderech - ברכת הדרך - סגיב כהן ואגם בוחבוט (4).mp3",
+     "size": "504KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1vQrCc4btNVl9AyBvN6xOSOJ5GPfUJEH6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526524012"
+  },
+  {
+   "id": "ACA88AEC1915F730D7CFAAEDDA041C42",
+   "sender": "ארז משה 🇮🇱",
+   "text": "ברכת הדרך. צלצול לכבוד שבוע זה\"ב. למי שמעוניין,  יש גם קליפ מילים ומערך שיעור לצעירים.",
+   "ts": 1793563012000,
+   "date": "2026-11-01",
+   "time": "21:56",
+   "files": [],
+   "drive": null,
+   "phone": "972526524012"
+  },
+  {
+   "id": "3ADFB9A5D3481D3EC2DC",
+   "sender": "אסנת",
+   "text": "אשמח מאד",
+   "ts": 1793563285000,
+   "date": "2026-11-01",
+   "time": "22:01",
+   "files": [],
+   "drive": null,
+   "phone": "972546278725"
+  }
+ ]
+}

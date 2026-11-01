@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-10-31T22:36:18.492Z",
+ "updated": "2026-11-01T15:13:13.781Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -35,6 +35,102 @@
    "files": [],
    "drive": null,
    "phone": "972546360049"
+  },
+  {
+   "id": "3A4D74BA1DA579DB3490",
+   "sender": "Rachely (Malov) Rivkin",
+   "text": "בוקר טוב ושבוע טוב!\nהאם ידוע כבר מה זמני ההשתלמות?",
+   "ts": 1793507729000,
+   "date": "2026-11-01",
+   "time": "06:35",
+   "files": [],
+   "drive": null,
+   "phone": "972533383981"
+  },
+  {
+   "id": "AC83121C363E1DBF206D4B88D4FBACEC",
+   "sender": "אוראל צברי💕",
+   "text": "מחפשת דפי צביעה/עבודה על פרשת נח",
+   "ts": 1793525317000,
+   "date": "2026-11-01",
+   "time": "11:28",
+   "files": [],
+   "drive": null,
+   "phone": "972544290069"
+  },
+  {
+   "id": "ACAF6254D2E4D5E7BDB033B081F41CC7",
+   "sender": "נועה",
+   "text": "יש באתר אביטה חומרים מצויינים ודפי צביעה",
+   "ts": 1793525506000,
+   "date": "2026-11-01",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972539519844"
+  },
+  {
+   "id": "AC851508158BCF692A7643AC940A49B6",
+   "sender": "נועה",
+   "text": "גם בסגל למידה",
+   "ts": 1793525510000,
+   "date": "2026-11-01",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972539519844"
+  },
+  {
+   "id": "ACB8DB7DF42C4A6346E14F8CD9DBD53C",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1zAdr4Q_KBRa7B-xD6FKwObcmfK4XeaGV",
+   "ts": 1793525520000,
+   "date": "2026-11-01",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC34DC31D02B1E38774BEBEE6153B7E1",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1pEtU_r5agPOWDpTa8x8OTjrLzetb5A0O",
+   "ts": 1793525523000,
+   "date": "2026-11-01",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC0C547027589B0C3B793D2B23C67CBF",
+   "sender": "רחלי מנדלסון",
+   "text": "פה יש דפי צביעה משולבים משימה, מחולק בתקיות לפי נושאים.\nזה בבעלותי אז פשוט לבקש גישה ואשלח.\n\nhttps://drive.google.com/drive/folders/1KVTu1O1nVoX21d4SSeCsnMdsmhFsg7Sl",
+   "ts": 1793525537000,
+   "date": "2026-11-01",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "ACC7F6B530527B33335C21E6F5B7527B",
+   "sender": "לוני מדיוני 🇮🇱",
+   "text": "האם זאת ההשתלמות?",
+   "ts": 1793545962000,
+   "date": "2026-11-01",
+   "time": "17:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "197KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACC7F6B530527B33335C21E6F5B7527B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523292090"
   }
  ]
 }
