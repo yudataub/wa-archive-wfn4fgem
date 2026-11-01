@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-01T20:31:39.076Z",
+ "updated": "2026-11-01T22:58:02.463Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -29,7 +29,8 @@
      "path": "https://drive.google.com/file/d/1pKTyeiT6r0BgK2egpRkIGbYha7C0UEBZ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACF8D98484CD8767B1705D0F72A1BCDE_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1pKTyeiT6r0BgK2egpRkIGbYha7C0UEBZ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1pKTyeiT6r0BgK2egpRkIGbYha7C0UEBZ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bamidbar-7qdiam/v/2026-11/ACF8D98484CD8767B1705D0F72A1BCDE_0.mp4"
     }
    ],
    "drive": null,
@@ -256,6 +257,28 @@
    ],
    "drive": null,
    "phone": "972538671271"
+  },
+  {
+   "id": "A56D9461CAE334AC1FB870E4DF1B49B3",
+   "sender": "דבורה דריי",
+   "text": "ל מרחשון כנראה🤭\nנראה מקסים!",
+   "ts": 1793567297000,
+   "date": "2026-11-01",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972547340927"
+  },
+  {
+   "id": "AC116976D41AD773F7C099A43711C1D1",
+   "sender": "Nechami🌸",
+   "text": "מהמם\nיש לך קובץ פתוח לעריכה במקרה?",
+   "ts": 1793573864000,
+   "date": "2026-11-02",
+   "time": "00:57",
+   "files": [],
+   "drive": null,
+   "phone": "972586274951"
   }
  ]
 }

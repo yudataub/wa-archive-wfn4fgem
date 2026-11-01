@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מלכים - הוראה בכיתה ו (לא בתוכנית הרשמית)",
- "updated": "2026-11-01T17:57:14.847Z",
+ "updated": "2026-11-01T21:26:47.531Z",
  "messages": [
   {
    "id": "3EB025D954A5318C0972B1",
@@ -108,7 +108,8 @@
      "path": "https://drive.google.com/file/d/1HzgpsS-p_y0VEY3UVoJOQ0B3kTAM-r3V/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC98BB6B7AEDD90E8D798754DD1A645E_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1HzgpsS-p_y0VEY3UVoJOQ0B3kTAM-r3V&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1HzgpsS-p_y0VEY3UVoJOQ0B3kTAM-r3V&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mlkym-hvrah-bkyth-v-la-btvknyt-hrshmyt-3pzsfc/v/2026-11/AC98BB6B7AEDD90E8D798754DD1A645E_0.mp4"
     }
    ],
    "drive": null,
@@ -148,7 +149,8 @@
      "path": "https://drive.google.com/file/d/1NknoFzqvHOzKCPxIyKpeIzO6GiC9KNX4/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACC3788996447E54E97737C268E47E9A_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1NknoFzqvHOzKCPxIyKpeIzO6GiC9KNX4&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1NknoFzqvHOzKCPxIyKpeIzO6GiC9KNX4&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mlkym-hvrah-bkyth-v-la-btvknyt-hrshmyt-3pzsfc/v/2026-11/ACC3788996447E54E97737C268E47E9A_0.mp4"
     }
    ],
    "drive": null,
@@ -207,7 +209,8 @@
      "path": "https://drive.google.com/file/d/1DKl9iHX7iwlA22d3H2EiruHdTb8GKuy4/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC15C82F00A85B0D48846D87D3AF3B77_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1DKl9iHX7iwlA22d3H2EiruHdTb8GKuy4&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1DKl9iHX7iwlA22d3H2EiruHdTb8GKuy4&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mlkym-hvrah-bkyth-v-la-btvknyt-hrshmyt-3pzsfc/v/2026-11/AC15C82F00A85B0D48846D87D3AF3B77_0.mp4"
     }
    ],
    "drive": null,
@@ -266,7 +269,8 @@
      "path": "https://drive.google.com/file/d/1KATDgAV2KdbJN6cwRJX0HwLRP8lloCoW/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC83566F04403A1EEAB18C51A6FFA950_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1KATDgAV2KdbJN6cwRJX0HwLRP8lloCoW&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1KATDgAV2KdbJN6cwRJX0HwLRP8lloCoW&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mlkym-hvrah-bkyth-v-la-btvknyt-hrshmyt-3pzsfc/v/2026-11/AC83566F04403A1EEAB18C51A6FFA950_0.mp4"
     }
    ],
    "drive": null,
@@ -494,6 +498,17 @@
    "files": [],
    "drive": null,
    "phone": "972526051661"
+  },
+  {
+   "id": "3EB0A6E9F5EA28AF0D025A",
+   "sender": "אורן יהודה",
+   "text": "https://drive.google.com/drive/folders/1rIw0RlkLRtAXAURcncTIHLF_jUbrb0Qw?usp=drive_link\n\nפרק ו עלה לדרייב\nבהצלחה",
+   "ts": 1793568407000,
+   "date": "2026-11-01",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בזווית אחרת | כלים בחינם לרבנים ומרצים",
- "updated": "2026-11-01T21:02:09.570Z",
+ "updated": "2026-11-01T21:24:47.485Z",
  "messages": [
   {
    "id": "ACB628112DA3E9D3FDA8C83F957C61CF",
@@ -18,7 +18,8 @@
      "path": "https://drive.google.com/file/d/1EC2_57XAAt2HikHBtwjOkD1a0-h02WWu/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACB628112DA3E9D3FDA8C83F957C61CF_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1EC2_57XAAt2HikHBtwjOkD1a0-h02WWu&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1EC2_57XAAt2HikHBtwjOkD1a0-h02WWu&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v/v/2026-11/ACB628112DA3E9D3FDA8C83F957C61CF_0.mp4"
     }
    ],
    "drive": null,
@@ -242,7 +243,8 @@
      "path": "https://drive.google.com/file/d/1udCMQmSToIgobeilgr82xMupbDqlGKsy/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB0DF98C45C419CA89037_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1udCMQmSToIgobeilgr82xMupbDqlGKsy&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1udCMQmSToIgobeilgr82xMupbDqlGKsy&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v/v/2026-11/3EB0DF98C45C419CA89037_0.mp4"
     }
    ],
    "drive": null,
@@ -1384,7 +1386,8 @@
      "path": "https://drive.google.com/file/d/13-BoP2DQeXjw4uXCPus7p8JtkEg9k9Wh/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A532759C509880B585C51D0AFF162B43_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=13-BoP2DQeXjw4uXCPus7p8JtkEg9k9Wh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=13-BoP2DQeXjw4uXCPus7p8JtkEg9k9Wh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v/v/2026-11/A532759C509880B585C51D0AFF162B43_0.mp4"
     }
    ],
    "drive": null,
@@ -1449,7 +1452,8 @@
      "path": "https://drive.google.com/file/d/1LLCwZvKhFctdKKYoWDnEz6N50TjUy1uu/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A5AE975C4CA6A8F884544A01F487A5C9_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1LLCwZvKhFctdKKYoWDnEz6N50TjUy1uu&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1LLCwZvKhFctdKKYoWDnEz6N50TjUy1uu&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v/v/2026-11/A5AE975C4CA6A8F884544A01F487A5C9_0.mp4"
     }
    ],
    "drive": null,
@@ -1602,6 +1606,96 @@
    "ts": 1793566916000,
    "date": "2026-11-01",
    "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "AC8ABD42FD23A28466459C185DF90F68",
+   "sender": "זאבי חבר",
+   "text": "שלום עליכם!! אשריכם על הכל!!!\nאיך מתקדמים מפה?",
+   "ts": 1793568194000,
+   "date": "2026-11-01",
+   "time": "23:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC8ABD42FD23A28466459C185DF90F68_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528808529"
+  },
+  {
+   "id": "3EB01E795DD5BF2418F3BB",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "נמצאים במסך ניהול המפתחות של גוגל, ומכאן צריך ליצור את המפתח האישי עבור הכלים החכמים. \n1. לוחצים על *Create API key* שמופיע בפינה הימנית העליונה.\n2. מעתיקים את המפתח שנוצר.\n3. חוזרים לעורך הווידאו או לשיעור לשורטים, מדביקים את המפתח בחלון המפתחות ולוחצים *בדיקה*.\n\n📖 במדריך: https://studio.adifferentangle.ai/guide/#faq-captions",
+   "ts": 1793568205000,
+   "date": "2026-11-01",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "A59AF91761A0138CF9F05B929F2FE56F",
+   "sender": "רב/ מגשר",
+   "text": "",
+   "ts": 1793568252000,
+   "date": "2026-11-01",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "130KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A59AF91761A0138CF9F05B929F2FE56F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "A5F026FB6A4480DFD992D94EBB9366DF",
+   "sender": "רב/ מגשר",
+   "text": "👆🏻",
+   "ts": 1793568263000,
+   "date": "2026-11-01",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "AC323A64EC793F3F8D7532C20FA345AF",
+   "sender": "זאבי חבר",
+   "text": "אשריך על הזריזות!!!\nאיפה זה?",
+   "ts": 1793568275000,
+   "date": "2026-11-01",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "192KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC323A64EC793F3F8D7532C20FA345AF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528808529"
+  },
+  {
+   "id": "3EB06CCD5E20036D12888F",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "הנה המשך השלבים ליצירת המפתח:\n1. לוחצים על הכפתור *Create key* שמופיע בפינה השמאלית התחתונה בחלון שבתצלום המסך.\n2. אחרי שהמפתח נוצר ומופיע על המסך, מעתיקים אותו.\n3. חוזרים לעורך הווידאו או לשיעור לשורטים, מדביקים את המפתח בחלון המפתחות ולוחצים *בדיקה*.\n\n📖 במדריך: https://studio.adifferentangle.ai/guide/#faq-captions",
+   "ts": 1793568279000,
+   "date": "2026-11-01",
+   "time": "23:24",
    "files": [],
    "drive": null,
    "phone": "972527190180"

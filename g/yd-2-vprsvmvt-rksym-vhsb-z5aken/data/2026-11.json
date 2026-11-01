@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-01T20:28:39.025Z",
+ "updated": "2026-11-01T23:07:32.594Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -184,7 +184,8 @@
      "path": "https://drive.google.com/file/d/1hFbHWtelGXM3WP829XOSODe1yImdjEdM/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/4A96B31059C0803DAD98_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1hFbHWtelGXM3WP829XOSODe1yImdjEdM&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1hFbHWtelGXM3WP829XOSODe1yImdjEdM&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-11/4A96B31059C0803DAD98_0.mp4"
     }
    ],
    "drive": null,
@@ -273,7 +274,8 @@
      "path": "https://drive.google.com/file/d/1JS5T-AD1Twuv0ncRJD7VFrFmQVFe0MG0/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A5D1CE1A958665D106F9EC1B33B37196_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1JS5T-AD1Twuv0ncRJD7VFrFmQVFe0MG0&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1JS5T-AD1Twuv0ncRJD7VFrFmQVFe0MG0&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-11/A5D1CE1A958665D106F9EC1B33B37196_0.mp4"
     }
    ],
    "drive": null,
@@ -674,7 +676,8 @@
      "path": "https://drive.google.com/file/d/1HNyRHw0NNq5gv90jN6CokV8BG1tkB3nC/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACEB546B1922EFA2D1001C023A0E2203_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1HNyRHw0NNq5gv90jN6CokV8BG1tkB3nC&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1HNyRHw0NNq5gv90jN6CokV8BG1tkB3nC&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken/v/2026-11/ACEB546B1922EFA2D1001C023A0E2203_0.mp4"
     }
    ],
    "drive": null,
@@ -875,6 +878,36 @@
    ],
    "drive": null,
    "phone": "972548294475"
+  },
+  {
+   "id": "A56CE96E7C83DE61EB7BF32F2B592841",
+   "sender": "גרפיקה ועריכת קליפים סרטונים ומצגות לכל מטרה",
+   "text": "😍",
+   "ts": 1793568930000,
+   "date": "2026-11-01",
+   "time": "23:35",
+   "files": [],
+   "drive": null,
+   "phone": "972539672679"
+  },
+  {
+   "id": "AC631462466A82DA94AD5C238DDBEFD9",
+   "sender": "גנית",
+   "text": "",
+   "ts": 1793574431000,
+   "date": "2026-11-02",
+   "time": "01:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC631462466A82DA94AD5C238DDBEFD9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535386425"
   }
  ]
 }
