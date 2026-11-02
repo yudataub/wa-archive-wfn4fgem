@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-02T19:32:51.983Z",
+ "updated": "2026-11-02T22:21:55.968Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -145,6 +145,77 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "ACA1EA89B3282F2CFBF2669FDD465497",
+   "sender": "דיקלה תמר גינזברג",
+   "text": "",
+   "ts": 1793657282000,
+   "date": "2026-11-03",
+   "time": "00:08",
+   "files": [
+    {
+     "name": "ab1.docx",
+     "size": "22KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1azmlOKsScDzjJYP9zB4x0zgyKGJWyQ4q/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505950080"
+  },
+  {
+   "id": "ACFB988008B985E05165EB1EB8586CF3",
+   "sender": "דיקלה תמר גינזברג",
+   "text": "",
+   "ts": 1793657284000,
+   "date": "2026-11-03",
+   "time": "00:08",
+   "files": [
+    {
+     "name": "ab2.doc",
+     "size": "29KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1clYTc3dJwwM6Cc2P8jqmtxyNUMGij3ur/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505950080"
+  },
+  {
+   "id": "ACB79E754F98E9CAB6C7F03308F7C074",
+   "sender": "דיקלה תמר גינזברג",
+   "text": "שני מערכים שהורדתי מהפורטל 👆🏼",
+   "ts": 1793657289000,
+   "date": "2026-11-03",
+   "time": "00:08",
+   "files": [],
+   "drive": null,
+   "phone": "972505950080"
+  },
+  {
+   "id": "ACC55B3162ACCF9A401A7DFAD315F111",
+   "sender": "דיקלה תמר גינזברג",
+   "text": "בעצם, זה אותו אחד, בקובץ אחד הוא מפורט יותר",
+   "ts": 1793657326000,
+   "date": "2026-11-03",
+   "time": "00:08",
+   "files": [],
+   "drive": null,
+   "phone": "972505950080"
+  },
+  {
+   "id": "ACDBD5255FA476BD593EEAD8E2E25796",
+   "sender": "דיקלה תמר גינזברג",
+   "text": "ויש גם את הדרייב הזה מלא דברים",
+   "ts": 1793658095000,
+   "date": "2026-11-03",
+   "time": "00:21",
+   "files": [],
+   "drive": null,
+   "phone": "972505950080"
   }
  ]
 }

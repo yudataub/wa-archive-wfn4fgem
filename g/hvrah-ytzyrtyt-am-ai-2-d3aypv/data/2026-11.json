@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-11-02T20:18:29.703Z",
+ "updated": "2026-11-02T22:40:55.990Z",
  "messages": [
   {
    "id": "A554B615A3012223D2850C5ED6385152",
@@ -119,7 +119,8 @@
      "path": "https://drive.google.com/file/d/1Y9AnOX6IkLK4ECPjugpg2HWI5Pc8j2rZ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB04F5E575CE677A9B4C2_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Y9AnOX6IkLK4ECPjugpg2HWI5Pc8j2rZ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Y9AnOX6IkLK4ECPjugpg2HWI5Pc8j2rZ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hvrah-ytzyrtyt-am-ai-2-d3aypv/v/2026-11/3EB04F5E575CE677A9B4C2_0.mp4"
     }
    ],
    "drive": null,
@@ -162,6 +163,17 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "AC0CDBC840B527E614D99BABE54BD305",
+   "sender": "zoe shain",
+   "text": "🐘?",
+   "ts": 1793659239000,
+   "date": "2026-11-03",
+   "time": "00:40",
+   "files": [],
+   "drive": null,
+   "phone": "40753352734"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים עם בינה מלאכותית וסלופ",
- "updated": "2026-11-02T20:59:05.539Z",
+ "updated": "2026-11-02T22:10:48.649Z",
  "messages": [
   {
    "id": "A59F2358036073E8AF9E402B04CAE707",
@@ -1989,7 +1989,8 @@
      "path": "https://drive.google.com/file/d/1RTlWgOw2jLJKYcoAajgbImPziV3qkraP/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB09C84495814ABE36102_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1RTlWgOw2jLJKYcoAajgbImPziV3qkraP&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1RTlWgOw2jLJKYcoAajgbImPziV3qkraP&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-11/3EB09C84495814ABE36102_0.mp4"
     }
    ],
    "drive": null,
@@ -2642,7 +2643,8 @@
      "path": "https://drive.google.com/file/d/1a2CHzByGZiOTIuTLrEQeG72FvmSirSOz/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC90960DD1830E23E6EE1F645E1319E3_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1a2CHzByGZiOTIuTLrEQeG72FvmSirSOz&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1a2CHzByGZiOTIuTLrEQeG72FvmSirSOz&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-11/AC90960DD1830E23E6EE1F645E1319E3_0.mp4"
     }
    ],
    "drive": null,
@@ -3207,7 +3209,8 @@
      "path": "https://drive.google.com/file/d/1hriaJ6w-TqaRomU6FWcYS4nDlyEku4pL/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A543BD3D0AFACF3B0833E319DF4D1B81_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1hriaJ6w-TqaRomU6FWcYS4nDlyEku4pL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1hriaJ6w-TqaRomU6FWcYS4nDlyEku4pL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-am-bynh-mlakvtyt-vslvp-32ybk9/v/2026-11/A543BD3D0AFACF3B0833E319DF4D1B81_0.mp4"
     }
    ],
    "drive": null,
@@ -3388,6 +3391,39 @@
    "files": [],
    "drive": null,
    "phone": "972526016115"
+  },
+  {
+   "id": "A52AC5C4C5CEF8D33A8AA7305815F027",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "https://win-world.sites.tab.bot/en",
+   "ts": 1793654069000,
+   "date": "2026-11-02",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "A55D236B71D344A30BDA00A5011E430C",
+   "sender": "Amitay cohen - Win Tech",
+   "text": "המשחק עכשיו גם באנגלית.",
+   "ts": 1793654070000,
+   "date": "2026-11-02",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972526016115"
+  },
+  {
+   "id": "3A567800EBF90E59B162",
+   "sender": "Tova Cohen Braun",
+   "text": "יפה ומעניין",
+   "ts": 1793657446000,
+   "date": "2026-11-03",
+   "time": "00:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528997880"
   }
  ]
 }

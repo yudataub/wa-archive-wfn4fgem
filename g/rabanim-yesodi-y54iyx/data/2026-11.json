@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני בי\"ס",
- "updated": "2026-11-02T20:51:34.895Z",
+ "updated": "2026-11-02T21:52:48.421Z",
  "messages": [
   {
    "id": "A5AF650F80AEA0198E59FF2B86ACA998",
@@ -688,7 +688,8 @@
      "path": "https://drive.google.com/file/d/1dDF0G42ZtaaMJtvDPHykaKe1Ae5P9XBb/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC9C864328B53D4A81215C2A21656780_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1dDF0G42ZtaaMJtvDPHykaKe1Ae5P9XBb&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1dDF0G42ZtaaMJtvDPHykaKe1Ae5P9XBb&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx/v/2026-11/AC9C864328B53D4A81215C2A21656780_0.mp4"
     }
    ],
    "drive": null,
@@ -814,6 +815,46 @@
    "files": [],
    "drive": null,
    "phone": "972544413349"
+  },
+  {
+   "id": "A537037A77BD274E48DB20B80D15B8BC",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "בחינם למען ילמדו וידעו את השם",
+   "ts": 1793655099000,
+   "date": "2026-11-02",
+   "time": "23:31",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACA0A19A16A9636F424AA0C38F73B47A",
+   "sender": "דניאל יהודה",
+   "text": "*על שי לחנוכה כבר חשבתם??* 🕎\n\n*משחק משפחתי לימודי לחנוכה 🎲🤍*\n\n✨*לוגו שלכם ומשפט ברכה*  על המשחק!\n✨ מותאם מכיתות א עד סבא  וסבתא ! \n✨ מוכר *בגפ״ן*\n✨ *תוצרת כחול לבן🇮🇱🇮🇱*\n✨ עשוי מחומר איכותי , *רב פעמי*\n✨ גרסא *מנוקדת*\n\n-המשחק משלב *קלפי שיתוף רגשיים*\n\n*לצפייה בהמלצות/ תגובות וקטלוג שלנו לחצו כאן👇* \nhttps://heyzine.com/flip-book/35dd5d5bff.html\n\n*להזמנות / מידע מפורט על תוכן המשחק  - 053-2818516 דניאל*\n\n***מינימום הזמנה 50 יחידות***",
+   "ts": 1793656258000,
+   "date": "2026-11-02",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "256KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA0A19A16A9636F424AA0C38F73B47A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542606400"
+  },
+  {
+   "id": "ACC9D96DF3328C32E7BAC94D1D94DC2D",
+   "sender": "דניאל יהודה",
+   "text": "מי שיכול לעזור בהפצה בקבוצות רלוונטיות של בתי ספר אודה לו מאוד 🙏",
+   "ts": 1793656339000,
+   "date": "2026-11-02",
+   "time": "23:52",
+   "files": [],
+   "drive": null,
+   "phone": "972542606400"
   }
  ]
 }
