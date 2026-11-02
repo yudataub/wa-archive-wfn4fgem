@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-01T04:19:12.601Z",
+ "updated": "2026-11-02T04:08:56.193Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -35,6 +35,82 @@
      "size": "119KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3A4700EDB5F849C9DDD8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF1422B162D96600C0B",
+   "sender": ".",
+   "text": "״שעוקמות כלפי חוץ״ (רש״י בכורות מה, א).",
+   "ts": 1793592502000,
+   "date": "2026-11-02",
+   "time": "06:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AF1422B162D96600C0B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A87A7F4CFA5BC600AB5",
+   "sender": ".",
+   "text": "״ששלקו זונה אחת״ (בכורות מה, א).",
+   "ts": 1793592505000,
+   "date": "2026-11-02",
+   "time": "06:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A87A7F4CFA5BC600AB5_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AC39EB6072A89651892",
+   "sender": ".",
+   "text": "״סומקא״ (בכורות מה, ב).",
+   "ts": 1793592509000,
+   "date": "2026-11-02",
+   "time": "06:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AC39EB6072A89651892_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A0A740BC6C2A51D9811",
+   "sender": ".",
+   "text": "״אוכמא״ (בכורות מה, ב).",
+   "ts": 1793592510000,
+   "date": "2026-11-02",
+   "time": "06:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A0A740BC6C2A51D9811_1.jpg",
      "skipped": ""
     }
    ],

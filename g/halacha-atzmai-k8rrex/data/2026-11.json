@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-01T15:39:50.884Z",
+ "updated": "2026-11-02T12:40:07.411Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -140,6 +140,142 @@
    "files": [],
    "drive": null,
    "phone": "972587891416"
+  },
+  {
+   "id": "A595934DBF86C6283D85FD37455B3450",
+   "sender": "efrat  hariati",
+   "text": "",
+   "ts": 1793606495000,
+   "date": "2026-11-02",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A595934DBF86C6283D85FD37455B3450_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508183040"
+  },
+  {
+   "id": "A53D363D173A6A7B6F7130D29DF059B0",
+   "sender": "efrat  hariati",
+   "text": "פעילות בית ספרית בנושא נטילת ידיים",
+   "ts": 1793606496000,
+   "date": "2026-11-02",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "phone": "972508183040"
+  },
+  {
+   "id": "A53361FBDE4403026A11FD4AB88085C3",
+   "sender": "efrat  hariati",
+   "text": "כל תלמיד קיבל תוצר- נטלה מקושטת ❤️",
+   "ts": 1793606523000,
+   "date": "2026-11-02",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "503KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A53361FBDE4403026A11FD4AB88085C3_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508183040"
+  },
+  {
+   "id": "3EB03035399DB614BD150A",
+   "sender": "אריאל זילבר",
+   "text": "",
+   "ts": 1793618582000,
+   "date": "2026-11-02",
+   "time": "13:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB03035399DB614BD150A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527906127"
+  },
+  {
+   "id": "3EB002ED93BE14BDA505C6",
+   "sender": "אריאל זילבר",
+   "text": "תפזורת חודשי השנה",
+   "ts": 1793618583000,
+   "date": "2026-11-02",
+   "time": "13:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527906127"
+  },
+  {
+   "id": "3EB02CCA1F45CFBB1271DF",
+   "sender": "אריאל זילבר",
+   "text": "",
+   "ts": 1793618583000,
+   "date": "2026-11-02",
+   "time": "13:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "126KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB02CCA1F45CFBB1271DF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527906127"
+  },
+  {
+   "id": "AC19A4A89278FC0F9FBAFBE4843B7808",
+   "sender": "גל",
+   "text": "תפזורת בנושא פסוקי דזמרה",
+   "ts": 1793620558000,
+   "date": "2026-11-02",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC19A4A89278FC0F9FBAFBE4843B7808_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545544851"
+  },
+  {
+   "id": "AC26F26E68A8E9CF246F124C47EA983E",
+   "sender": "יעל אילן",
+   "text": "שבת- תחנות למידה עצמאיות: למידה מהקיצוש\"ע ועבודה בחוברת, פתירת תפזורת עם מושגים מהפרקים הנלמדים, דף משימת הערכה.",
+   "ts": 1793623179000,
+   "date": "2026-11-02",
+   "time": "14:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "301KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC26F26E68A8E9CF246F124C47EA983E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526661583"
   }
  ]
 }

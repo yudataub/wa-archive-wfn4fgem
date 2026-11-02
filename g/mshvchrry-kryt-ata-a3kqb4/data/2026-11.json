@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משוחררי קרית אתא",
- "updated": "2026-11-01T10:52:47.582Z",
+ "updated": "2026-11-02T11:07:52.193Z",
  "messages": [
   {
    "id": "3EB090C7CAEA25E50414A5",
@@ -17,6 +17,27 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3EB090C7CAEA25E50414A5_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC7ECBD70016C7AC420F07EB677B02B1",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "אם אתם אחרי צבא או שירות לאומי מוזמנים להצטרף למסע בחברה הישראלית! בין התאריכים 25.11-4.12 \"המיניבוס\"! עשרה ימים עם הרצאות, סדנאות, התנדבות חקלאית וחברה טובים \nלהרשמה לחצו כאן\nhttps://rishum.app/tabor-hadracha",
+   "ts": 1793617655000,
+   "date": "2026-11-02",
+   "time": "13:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1DaaHOmmFSBuBsAFnvvjIRf4fnIXKOire/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC7ECBD70016C7AC420F07EB677B02B1_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1DaaHOmmFSBuBsAFnvvjIRf4fnIXKOire&sz=w1200"
     }
    ],
    "drive": null,

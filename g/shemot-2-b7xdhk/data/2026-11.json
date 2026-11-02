@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-01T10:42:17.418Z",
+ "updated": "2026-11-02T17:09:27.157Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -87,6 +87,208 @@
    "files": [],
    "drive": null,
    "phone": "972535834186"
+  },
+  {
+   "id": "ACC8D6CB01DCE8D41005113529FB4ADE",
+   "sender": "רויטל",
+   "text": "יש מצגות על חומש שמות?",
+   "ts": 1793608044000,
+   "date": "2026-11-02",
+   "time": "10:27",
+   "files": [],
+   "drive": null,
+   "phone": "972586890080"
+  },
+  {
+   "id": "ACD1B06F678CB8B9F00E6EC843E46132",
+   "sender": "אורה",
+   "text": "https://docs.google.com/spreadsheets/d/1SxzSr9jCdIERVLQzYNeYVHGd__zb9o7zesi2-xYCMXs/edit?usp=sharing",
+   "ts": 1793614606000,
+   "date": "2026-11-02",
+   "time": "12:16",
+   "files": [],
+   "drive": null,
+   "phone": "972502001489"
+  },
+  {
+   "id": "ACFA271FDC0505B126020151D6B573FF",
+   "sender": "שירה אסולין",
+   "text": "אשמח אם יש למישהי חומרים על יהושע",
+   "ts": 1793618142000,
+   "date": "2026-11-02",
+   "time": "13:15",
+   "files": [],
+   "drive": null,
+   "phone": "972586342815"
+  },
+  {
+   "id": "AC8568719E0595AF929147A7EB044786",
+   "sender": "ברוריה בר-טוב",
+   "text": "אשמח לקבל אם יש למשהו דף חזרה על פרשת שמות🙏🏻",
+   "ts": 1793626900000,
+   "date": "2026-11-02",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "phone": "972547770756"
+  },
+  {
+   "id": "AC11FE8D9B74E49FAE74BEBF24313DD6",
+   "sender": "יעלללללל👻",
+   "text": "",
+   "ts": 1793637033000,
+   "date": "2026-11-02",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "הכנה חזרה למבחן שמות תשעט תשובון.docx",
+     "size": "30KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/10A9CwXHLBKCjlrDz8CacWTmOkpwtlepH/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504441966"
+  },
+  {
+   "id": "AC4A6758ADF2267AA39B184A563E55C5",
+   "sender": "יעלללללל👻",
+   "text": "",
+   "ts": 1793637035000,
+   "date": "2026-11-02",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "הכנה חזרה למבחן שמות תשעט.docx",
+     "size": "25KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1DLYZ5uO-LiVddLPzZF6TWz0kEn8aab-p/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504441966"
+  },
+  {
+   "id": "AC0F7475626BDE2295C648D56F651E84",
+   "sender": "יעלללללל👻",
+   "text": "",
+   "ts": 1793637036000,
+   "date": "2026-11-02",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "מבחן פרשת שמות תשסו.docx",
+     "size": "53KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1jAZdzAS4Xqf6wh33Btj_UsX-quorf67J/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504441966"
+  },
+  {
+   "id": "AC218FFBE5FBCCFDBC27D752BFD0AAE0",
+   "sender": "יעלללללל👻",
+   "text": "",
+   "ts": 1793637037000,
+   "date": "2026-11-02",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "מבחן פרשת שמות תשעט.docx",
+     "size": "47KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1ahESgMaEV_RabzSTxGZBa4_SQaiNm4Et/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504441966"
+  },
+  {
+   "id": "3A0DF5730C21FBE51D80",
+   "sender": "Avigail",
+   "text": "אשמח",
+   "ts": 1793637120000,
+   "date": "2026-11-02",
+   "time": "18:32",
+   "files": [],
+   "drive": null,
+   "phone": "972535834186"
+  },
+  {
+   "id": "ACFCBDB4D76C98D78B37CC74D5E535B5",
+   "sender": "לאה",
+   "text": "גם את זה",
+   "ts": 1793638786000,
+   "date": "2026-11-02",
+   "time": "18:59",
+   "files": [],
+   "drive": null,
+   "phone": "972559419785"
+  },
+  {
+   "id": "4A87CF93897A7BEFFA8E",
+   "sender": "Avigail",
+   "text": "",
+   "ts": 1793639004000,
+   "date": "2026-11-02",
+   "time": "19:03",
+   "files": [
+    {
+     "name": "מבחן שמות א-ב .docx",
+     "size": "2.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Ra2ey14NAUSkiPnzbGOVXY2Gi6-QlPGb/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535834186"
+  },
+  {
+   "id": "ACA69572E94FA7A8DC9EBE88BBFD2F11",
+   "sender": ".",
+   "text": "",
+   "ts": 1793639339000,
+   "date": "2026-11-02",
+   "time": "19:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "341KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA69572E94FA7A8DC9EBE88BBFD2F11_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534773320"
+  },
+  {
+   "id": "AC4CAE21CCDE5C555CDD632F852FDA13",
+   "sender": ".",
+   "text": "מיומנויות למידה, הערכה ומדידה | תנ\"ך חמ\"ד ביסודי | מרחב פדגוגי | משרד החינוך https://share.google/Yyjf45PmMz2Ur3rds",
+   "ts": 1793639342000,
+   "date": "2026-11-02",
+   "time": "19:09",
+   "files": [],
+   "drive": null,
+   "phone": "972534773320"
+  },
+  {
+   "id": "AC7AA698FE87F42711473EF282E5442F",
+   "sender": ".",
+   "text": "shmot-aharaha-a-artzi-TSPZ.pdf https://share.google/j0WMKW1GJX5AlMr79",
+   "ts": 1793639353000,
+   "date": "2026-11-02",
+   "time": "19:09",
+   "files": [],
+   "drive": null,
+   "phone": "972534773320"
   }
  ]
 }

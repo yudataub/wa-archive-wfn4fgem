@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רכזי קודש יסודי חיפה תשפ\"ז✨",
- "updated": "2026-11-01T19:47:00.964Z",
+ "updated": "2026-11-02T10:44:21.805Z",
  "messages": [
   {
    "id": "3EB03D0827F6C7D0307650",
@@ -114,6 +114,47 @@
    "files": [],
    "drive": null,
    "phone": "972549688729"
+  },
+  {
+   "id": "AC0162BEDBE6F640ABBF85B4C7DCEDAF",
+   "sender": "רעות",
+   "text": "צהרים טובים,\nאפשר לשלוח את החומר בהלכה לכיתות ה?",
+   "ts": 1793613976000,
+   "date": "2026-11-02",
+   "time": "12:06",
+   "files": [],
+   "drive": null,
+   "phone": "972558817278"
+  },
+  {
+   "id": "4A225B64A0F0E4DA7333",
+   "sender": "אלעזר",
+   "text": "צהריים טובים! לזה כוונתך?",
+   "ts": 1793614044000,
+   "date": "2026-11-02",
+   "time": "12:07",
+   "files": [
+    {
+     "name": "halaha5 (1).pdf",
+     "size": "535KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1p4xL6QuzIlHEaa5RyVuet0-4_kowOj0U/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533334930"
+  },
+  {
+   "id": "AC9905B1393E111BAF63BC2BAEDCD770",
+   "sender": "רעות",
+   "text": "כן.תודה רבה",
+   "ts": 1793616254000,
+   "date": "2026-11-02",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "phone": "972558817278"
   }
  ]
 }

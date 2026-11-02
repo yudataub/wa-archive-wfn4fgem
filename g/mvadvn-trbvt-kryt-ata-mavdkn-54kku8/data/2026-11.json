@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-11-01T13:06:25.403Z",
+ "updated": "2026-11-02T13:06:42.561Z",
  "messages": [
   {
    "id": "3A17F0D9CC7FA299B3EA",
@@ -33,6 +33,27 @@
    "date": "2026-11-01",
    "time": "15:06",
    "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3A78F400DCCADFA59177",
+   "sender": "חגית סייג",
+   "text": "מחכים לכם! הפנינג גיבורי העל של קק״ל לכל המשפחה \n16:00-19:00 במתנ״ס פלמ״ח 11.\nההצגה תתחיל בשעה 17:30.\nהאירוע ללא עלות ! מוזמנים 🌳💨☀️💧",
+   "ts": 1793624778000,
+   "date": "2026-11-02",
+   "time": "15:06",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fPXWZnVRKbz7KGcGEy3StX_ohE5k27c-/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3A78F400DCCADFA59177_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1fPXWZnVRKbz7KGcGEy3StX_ohE5k27c-&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522346593"
   }

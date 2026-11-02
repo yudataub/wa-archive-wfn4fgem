@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-01T15:13:13.781Z",
+ "updated": "2026-11-02T20:24:27.067Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -131,6 +131,55 @@
    ],
    "drive": null,
    "phone": "972523292090"
+  },
+  {
+   "id": "AC936FA13E338DDEE2CA77A9ABF564F1",
+   "sender": "אביה מדינה (זינר)",
+   "text": "מחפשת חומר על בריאת האישה ונתינת השמות לבעלי חיים🙏🏻\nדף עבודה פשוט יחסית",
+   "ts": 1793648730000,
+   "date": "2026-11-02",
+   "time": "21:45",
+   "files": [],
+   "drive": null,
+   "phone": "972546360049"
+  },
+  {
+   "id": "A504F6AAD2CEB9330F77F762E3E5B2DB",
+   "sender": "אריאלה",
+   "text": "הכנתי לתליה מעל הלוח, אם עוזר למישהו.",
+   "ts": 1793650479000,
+   "date": "2026-11-02",
+   "time": "22:14",
+   "files": [
+    {
+     "name": "סדר הפסוקים.pdf",
+     "size": "272KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16uCTi11kPdegLbUz6yb_RER90g3oIOxu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972532792309"
+  },
+  {
+   "id": "3EB08D9F7E66B8AFB9221B",
+   "sender": "יהונתן מילר",
+   "text": "מצרף מצגת שהכנתי, היא כוללת את רוב הפסוקים אך לא את כולם.",
+   "ts": 1793651051000,
+   "date": "2026-11-02",
+   "time": "22:24",
+   "files": [
+    {
+     "name": "גן עדן ויצירת האישה.pptx",
+     "size": "2.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/17PVofSdvAGbmZ7oQW-Ik4phNn2cY-m1z/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542035900"
   }
  ]
 }
