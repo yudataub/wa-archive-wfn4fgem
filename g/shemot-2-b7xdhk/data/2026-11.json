@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-03T18:28:07.713Z",
+ "updated": "2026-11-03T22:40:14.996Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -657,6 +657,91 @@
    "files": [],
    "drive": null,
    "phone": "972559646864"
+  },
+  {
+   "id": "AC7C33E76BC8A406A4151BBF9F055CD0",
+   "sender": "ויולה בן משה",
+   "text": "כנ\"ל",
+   "ts": 1793740668000,
+   "date": "2026-11-03",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "972556699387"
+  },
+  {
+   "id": "ACD50A50474E9BB6259FDD3AD40DC01D",
+   "sender": "הילה דניאל",
+   "text": "למישהו יש סימניה שמתאימה לחומש שמות?",
+   "ts": 1793743991000,
+   "date": "2026-11-04",
+   "time": "00:13",
+   "files": [],
+   "drive": null,
+   "phone": "972507998613"
+  },
+  {
+   "id": "AC8A839599DEB09597A6B9A784CBC834",
+   "sender": "אסתר מרשה",
+   "text": "https://ap.wps.com/cms/docs/d/cbCaif9lw0SgnMG0?lg=he-IL&sa=601.1074&ps=1&fn=%D7%A1%D7%99%D7%9E%D7%A0%D7%99%D7%95%D7%AA%20%D7%A9%D7%9E%D7%95%D7%AA-%20%D7%93%D7%95%D7%A6-%208%20%D7%A2%D7%95%D7%AA%D7%A7%D7%99%D7%9D.pdf&refer=whatsapp\n\nפתח באפליקציה:\nhttps://go.wps.com/s5YV53xVSytE",
+   "ts": 1793744493000,
+   "date": "2026-11-04",
+   "time": "00:21",
+   "files": [],
+   "drive": null,
+   "phone": "972549738106"
+  },
+  {
+   "id": "AC36D6680B3228C0ED26FE919C6FD367",
+   "sender": "איריס זמיר",
+   "text": "לא נפתח",
+   "ts": 1793745044000,
+   "date": "2026-11-04",
+   "time": "00:30",
+   "files": [],
+   "drive": null,
+   "phone": "972546159578"
+  },
+  {
+   "id": "AC2A4770D1334E12AB33589FE01D2818",
+   "sender": "אסתר מרשה",
+   "text": "https://ap.wps.com/cms/docs/d/cbCaif9lw0SgnMG0?sa=601.1074&refer=copylink",
+   "ts": 1793745095000,
+   "date": "2026-11-04",
+   "time": "00:31",
+   "files": [],
+   "drive": null,
+   "phone": "972549738106"
+  },
+  {
+   "id": "ACC9AF0ECBD37F9B410DA20F48179355",
+   "sender": "אסתר מרשה",
+   "text": "אצלי הוא נפתח, תנסי שוב.",
+   "ts": 1793745292000,
+   "date": "2026-11-04",
+   "time": "00:34",
+   "files": [],
+   "drive": null,
+   "phone": "972549738106"
+  },
+  {
+   "id": "ACA55A972E113E1C7BB62E46AB1DA5C7",
+   "sender": "אסתר מרשה",
+   "text": "",
+   "ts": 1793745582000,
+   "date": "2026-11-04",
+   "time": "00:39",
+   "files": [
+    {
+     "name": "סימניות שמות- דוצ- 8 עותקים.pdf",
+     "size": "446KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1H010gyKo-JdzVZun-kUgrG4CitH5hnAU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549738106"
   }
  ]
 }

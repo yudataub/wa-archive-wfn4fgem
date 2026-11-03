@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-03T20:36:29.425Z",
+ "updated": "2026-11-03T21:53:37.622Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -3541,7 +3541,8 @@
      "path": "https://drive.google.com/file/d/1ao5tH_-1uQn3XiIwALg1CXtXl2nJFsIs/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB035038B3A520B331158_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1ao5tH_-1uQn3XiIwALg1CXtXl2nJFsIs&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ao5tH_-1uQn3XiIwALg1CXtXl2nJFsIs&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-private-y22u7r/v/2026-11/3EB035038B3A520B331158_0.mp4"
     }
    ],
    "drive": null,
@@ -4555,6 +4556,70 @@
    "drive": null,
    "thread": "בנימין רוקח",
    "phone": "972533361076"
+  },
+  {
+   "id": "3EB0ACA9098A0686091B5B",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/osef/c0594d2f29.html[[",
+   "ts": 1793741899000,
+   "date": "2026-11-03",
+   "time": "23:38",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A2D889C689ABB35EB55",
+   "sender": "יוסף צבי רימון",
+   "text": "יישר כוח. כל הכבוד.\n\nמישהו ביקש ממני לכתוב ספר על הלכות דרכים. \nחשבתי דרך ai\nלכתוב על פי מה שיש לי.\nאפשרי?",
+   "ts": 1793742235000,
+   "date": "2026-11-03",
+   "time": "23:43",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "A519EED65AF23FA34DA65B2462460F65",
+   "sender": "אני",
+   "text": "הרב ישלח לי\nונכין",
+   "ts": 1793742706000,
+   "date": "2026-11-03",
+   "time": "23:51",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5D88D962F35E525D2D847C61D7879D8",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793742742000,
+   "date": "2026-11-03",
+   "time": "23:52",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "58KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1_ahvxiW_EItb09b8krQel84_-zA5jBpm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56AF370ED8D492ECAF9541C3CD3BF16",
+   "sender": "אני",
+   "text": "לגבי לך דרכים צריך רשימת נושאים כאילו מה הוא ימציא את הנושאים",
+   "ts": 1793742816000,
+   "date": "2026-11-03",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

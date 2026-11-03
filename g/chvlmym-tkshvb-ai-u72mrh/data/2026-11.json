@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חולמים תקשוב AI",
- "updated": "2026-11-03T20:58:40.900Z",
+ "updated": "2026-11-03T21:16:16.957Z",
  "messages": [
   {
    "id": "A54A647123626C1FFD698A3EF07A8CDA",
@@ -5973,7 +5973,8 @@
      "path": "https://drive.google.com/file/d/1Jpi4w03EF_DnJXY6f8gY0y1l6amsicDg/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB042C09B7C4102FAE56F_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Jpi4w03EF_DnJXY6f8gY0y1l6amsicDg&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Jpi4w03EF_DnJXY6f8gY0y1l6amsicDg&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chvlmym-tkshvb-ai-u72mrh/v/2026-11/3EB042C09B7C4102FAE56F_0.mp4"
     }
    ],
    "drive": null,
@@ -8151,6 +8152,17 @@
    "files": [],
    "drive": null,
    "phone": "972524317081"
+  },
+  {
+   "id": "3EB07213133EBEAA1107CE",
+   "sender": "זהבית מרגולין",
+   "text": "תודה על ההסבר",
+   "ts": 1793740573000,
+   "date": "2026-11-03",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526934106"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כבד את השם מגרונך",
- "updated": "2026-11-02T17:54:34.766Z",
+ "updated": "2026-11-03T21:17:00.027Z",
  "messages": [
   {
    "id": "AC05D426975E5BD188D23D212D849A23",
@@ -13,6 +13,25 @@
    "files": [],
    "drive": null,
    "phone": "972524560100"
+  },
+  {
+   "id": "ACD4AE9B4F68D237BC6AB21F0AD5F072",
+   "sender": "אני",
+   "text": "מה ש @250160403714176 עשה ידנית, מוגש כאן כשירות לציבור",
+   "ts": 1793740601000,
+   "date": "2026-11-03",
+   "time": "23:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "664KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACD4AE9B4F68D237BC6AB21F0AD5F072_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972538285952"
   }
  ]
 }
