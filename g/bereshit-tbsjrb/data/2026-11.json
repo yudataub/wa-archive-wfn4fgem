@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-02T20:24:27.067Z",
+ "updated": "2026-11-03T19:17:43.231Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -180,6 +180,25 @@
    ],
    "drive": null,
    "phone": "972542035900"
+  },
+  {
+   "id": "3EB0F49B09492BD20862BF",
+   "sender": "בית מדרש בלכתך",
+   "text": "",
+   "ts": 1793733433000,
+   "date": "2026-11-03",
+   "time": "21:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "407KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB0F49B09492BD20862BF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586325250"
   }
  ]
 }

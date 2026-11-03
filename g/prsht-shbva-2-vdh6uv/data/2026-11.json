@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-01T20:14:31.364Z",
+ "updated": "2026-11-03T15:49:48.141Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -537,6 +537,120 @@
    ],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "AC981EFE4182DF6A29E05EDF4EFDEE46",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1793712187000,
+   "date": "2026-11-03",
+   "time": "15:23",
+   "files": [
+    {
+     "name": "קריאה לפרשת חיי שרה רמה 1 -  מתיא בני ברק.pdf",
+     "size": "181KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DzD8jFMNI_NFJfcpP5huCtkYzk2q1e8B/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC06B978FC18BDDE8F62B884FF79A5C0",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1793712198000,
+   "date": "2026-11-03",
+   "time": "15:23",
+   "files": [
+    {
+     "name": "קריאה לפרשת חיי שרה ללא ניקוד -  מתיא בני ברק.pdf",
+     "size": "138KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mmiyZqnsVodntwlVJEQQ-MQ-IZ_XNQl6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "ACB6B83B8EF082984D58CE0B9040FF8F",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1793712210000,
+   "date": "2026-11-03",
+   "time": "15:23",
+   "files": [
+    {
+     "name": "פרשת חיי שרה- משפטי פירמידה.pdf",
+     "size": "439KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1f8q5oez3zgqaOz7UdGHEd8CfE6CVWtgO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "ACA19400557CB5999B1F5FDBFECFE493",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1793712225000,
+   "date": "2026-11-03",
+   "time": "15:23",
+   "files": [
+    {
+     "name": "מילה בפרשה - חיי שרה  מתיא בני ברק (1).pdf",
+     "size": "678KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1z3hjVt-olwYS3a4a649-oNUFkKud10NV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "3EB0778883183FC68FC5DE",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1793715556000,
+   "date": "2026-11-03",
+   "time": "16:19",
+   "files": [
+    {
+     "name": "מילה בפרשה - חיי שרה - מתיא בני ברק.pdf",
+     "size": "678KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1A6DtIgkUa00cEHgJhKKDxPtcvJXIxgMC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC3E90E35873D05EB6B0EE0B38A113ED",
+   "sender": "ronithasanarviv",
+   "text": "",
+   "ts": 1793720973000,
+   "date": "2026-11-03",
+   "time": "17:49",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "5KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1RVU5qtdgXIUfty9lgS0GSjdn_f1L4l9G/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548013345"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-02T12:40:07.411Z",
+ "updated": "2026-11-03T19:05:43.072Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -276,6 +276,210 @@
    ],
    "drive": null,
    "phone": "972526661583"
+  },
+  {
+   "id": "AC19B707FC3351FEEDBA39AFC5C0CC11",
+   "sender": "~עדי פינטו~",
+   "text": "מטלה 2 שנה שניה-\nהכנתי 6 תחנות שונות של קטע מידע על מבשרי הסתיו. כל תחנה עד 4 תלמידות. כל תלמידה  *בחרה* בתחנה.",
+   "ts": 1793706461000,
+   "date": "2026-11-03",
+   "time": "13:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC19B707FC3351FEEDBA39AFC5C0CC11_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972536233532"
+  },
+  {
+   "id": "AC5B42385794CBC04B830326701CC507",
+   "sender": "~עדי פינטו~",
+   "text": "לכל קטע מידע היו שאלות הבנה והן היו צריכות לשתף פעולה ולבצע יחד כמובן. ניילנתי והבנות ביצעו עם טושים מחיקים✨",
+   "ts": 1793706606000,
+   "date": "2026-11-03",
+   "time": "13:50",
+   "files": [],
+   "drive": null,
+   "phone": "972536233532"
+  },
+  {
+   "id": "ACB1A07A337FE8430E081B24F52003DF",
+   "sender": "אברהם פויכטונגר",
+   "text": "איזה כיף לראות את השיתופים שלכם. והשימוש בכלים שלמדנו 🙏🙏",
+   "ts": 1793728356000,
+   "date": "2026-11-03",
+   "time": "19:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB1A07A337FE8430E081B24F52003DF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523003393"
+  },
+  {
+   "id": "AC4543AEBBDBC690D3163CA193E39F4E",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732227000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC4543AEBBDBC690D3163CA193E39F4E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "ACC00134C2835D0267DAAEFA3A2D4896",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732230000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "166KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACC00134C2835D0267DAAEFA3A2D4896_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC68284D066693B397E6B0DC35F6C564",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732231000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC68284D066693B397E6B0DC35F6C564_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC13CA8FD60B1BEC64A566225C08B069",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732236000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC13CA8FD60B1BEC64A566225C08B069_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC12647A0BAF963D2031D72739BCFA50",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732237000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC12647A0BAF963D2031D72739BCFA50_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC9B6F3D087E31B8CD651A9808EEF749",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732238000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC9B6F3D087E31B8CD651A9808EEF749_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC7B292D618725568EF2365AEFEF6ADA",
+   "sender": "יוסף חי",
+   "text": "",
+   "ts": 1793732239000,
+   "date": "2026-11-03",
+   "time": "20:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC7B292D618725568EF2365AEFEF6ADA_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC446D74963A8A15E5A38619ED1CC05A",
+   "sender": "Ri",
+   "text": "אשמח לדעת למה אני לא מופיע ברשימת של המשימות שבצעתי וקבלתי על כך מייל.",
+   "ts": 1793732669000,
+   "date": "2026-11-03",
+   "time": "21:04",
+   "files": [],
+   "drive": null,
+   "phone": "972546709112"
+  },
+  {
+   "id": "3EB072D4EA635EC891C483",
+   "sender": "אברהם פויכטונגר",
+   "text": "תעבירי לפרטי, בשמחה נבדוק.",
+   "ts": 1793732735000,
+   "date": "2026-11-03",
+   "time": "21:05",
+   "files": [],
+   "drive": null,
+   "phone": "972523003393"
   }
  ]
 }

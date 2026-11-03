@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-02T04:08:56.193Z",
+ "updated": "2026-11-03T04:17:24.651Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -111,6 +111,44 @@
      "size": "167KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3A0A740BC6C2A51D9811_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A011D7841FBAB6309AD",
+   "sender": ".",
+   "text": "״דחשיב פרצוף פנים״ (בכורות מו, ב).",
+   "ts": 1793679414000,
+   "date": "2026-11-03",
+   "time": "06:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "58KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A011D7841FBAB6309AD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A8F96BB53765D074E5C",
+   "sender": ".",
+   "text": "״חלף קמייהו ולא בשקרוה״ (תוס׳ בכורות מו, ב).",
+   "ts": 1793679415000,
+   "date": "2026-11-03",
+   "time": "06:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A8F96BB53765D074E5C_1.jpg",
      "skipped": ""
     }
    ],

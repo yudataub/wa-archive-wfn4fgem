@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-02T18:09:05.004Z",
+ "updated": "2026-11-03T19:52:49.923Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -369,6 +369,199 @@
    "files": [],
    "drive": null,
    "phone": "972545686004"
+  },
+  {
+   "id": "AC821F407286D682454261A01651CD2A",
+   "sender": "משה לזרוב",
+   "text": "",
+   "ts": 1793674423000,
+   "date": "2026-11-03",
+   "time": "04:53",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "20KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1XFYMYpBM7N43t7A69gy550hZU2Mnw5uO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524680249"
+  },
+  {
+   "id": "AC0DEFF65ABC8B876440D1290C21E32E",
+   "sender": "נעמה",
+   "text": "אפשר דרך.פלפונים?",
+   "ts": 1793680457000,
+   "date": "2026-11-03",
+   "time": "06:34",
+   "files": [],
+   "drive": null,
+   "phone": "972528012480"
+  },
+  {
+   "id": "AC42AC7A4BB03B435256FD17CB030064",
+   "sender": ".",
+   "text": "כן אני הצלחתי בפלאפון קצת פחות נוח וצפוף אבל אפשר. ממש מגניב. \n\nיש אולי מדריך למורה או משהו כזה?",
+   "ts": 1793681557000,
+   "date": "2026-11-03",
+   "time": "06:52",
+   "files": [],
+   "drive": null,
+   "phone": "972542281467"
+  },
+  {
+   "id": "AC8A3A0B28A6172147383DA5C3D8E9C4",
+   "sender": "נעמה",
+   "text": "אני מנסה לחשוב על זה לפעילות אבות ובנים.שייך?",
+   "ts": 1793681775000,
+   "date": "2026-11-03",
+   "time": "06:56",
+   "files": [],
+   "drive": null,
+   "phone": "972528012480"
+  },
+  {
+   "id": "3EB0271DF8A7324610D900",
+   "sender": "Orenlass",
+   "text": "זה לא תוכנן לפעילות אבות ובנים אבל אני מוסיף דף מלווה למורה לכל אחד ככה שההורה יוכל לעזור לילד",
+   "ts": 1793730697000,
+   "date": "2026-11-03",
+   "time": "20:31",
+   "files": [],
+   "drive": null,
+   "phone": "972545686004"
+  },
+  {
+   "id": "3EB095F4E9E638E024E2D6",
+   "sender": "Orenlass",
+   "text": "",
+   "ts": 1793730713000,
+   "date": "2026-11-03",
+   "time": "20:31",
+   "files": [
+    {
+     "name": "מסמך מלווה למורה - חדר העבודה המאיר של הרב חנן.pdf",
+     "size": "367KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FGQluufrdQOWa0y4QSlk7nqIYRcj9otb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545686004"
+  },
+  {
+   "id": "3EB0DF852A835429E52127",
+   "sender": "Orenlass",
+   "text": "",
+   "ts": 1793730727000,
+   "date": "2026-11-03",
+   "time": "20:32",
+   "files": [
+    {
+     "name": "מסמך מלווה למורה - את אחי אנכי מבקש.pdf",
+     "size": "404KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1o1w-qRRCf2-y1hsVIAoeqn8ngzVsk4qK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545686004"
+  },
+  {
+   "id": "AC44FBC998F83767971F98C92A6B723A",
+   "sender": "נעמה",
+   "text": "תודה רבה רבה.בודקת",
+   "ts": 1793732470000,
+   "date": "2026-11-03",
+   "time": "21:01",
+   "files": [],
+   "drive": null,
+   "phone": "972528012480"
+  },
+  {
+   "id": "AC0CE1AAB2550A8F96EB24D548C09240",
+   "sender": "תיאטרון נדודים נפתלי פוקס",
+   "text": "",
+   "ts": 1793734555000,
+   "date": "2026-11-03",
+   "time": "21:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TGITqVw4AGuD7Qg4uqLlynHccnD1v5sB/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC0CE1AAB2550A8F96EB24D548C09240_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1TGITqVw4AGuD7Qg4uqLlynHccnD1v5sB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507144419"
+  },
+  {
+   "id": "ACE40EFAAAB5514B2973BDE22FD8C09D",
+   "sender": "תיאטרון נדודים נפתלי פוקס",
+   "text": "איזה עוצמות היה היום בסוסיא 700 ילדים ב2 סבבים שרים את השיר החדש ונהנים מהצגה מדהימה על הרב .תודה רבה לרב אלנתן על ההמלצה החמה דברו איתי 0507144419",
+   "ts": 1793734556000,
+   "date": "2026-11-03",
+   "time": "21:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACE40EFAAAB5514B2973BDE22FD8C09D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507144419"
+  },
+  {
+   "id": "AC893F146BF9C79BE8D7A64D9E6B1D30",
+   "sender": "אודליה דדון",
+   "text": "בעבר פרסמו שמשונית על  הרב דמות החמד לתליה בביהס.\nאשמח לקבל🙏",
+   "ts": 1793734843000,
+   "date": "2026-11-03",
+   "time": "21:40",
+   "files": [],
+   "drive": null,
+   "phone": "972547703146"
+  },
+  {
+   "id": "A56E66878B459502E5CCCF414009DFCB",
+   "sender": "צמד חמד",
+   "text": "@222904507707509 מוכרת",
+   "ts": 1793734863000,
+   "date": "2026-11-03",
+   "time": "21:41",
+   "files": [],
+   "drive": null,
+   "phone": "972553183037"
+  },
+  {
+   "id": "AC25F81FA1789259D8DC9400A9C1F6A0",
+   "sender": "ספיר",
+   "text": "מרכז הלמידה על דמות החמ\"ד יצא לדרך...\nמודפס על שמשונית- לפי מידות בהתאמה אישית. \nלהזמנות ופרטים נוספים: 058-7960699 🌈\nספיר, מעצבת סביבות למידה. \nhttps://drive.google.com/file/d/1whVTTioGj3T6WYARme7-J2hsQ-6T6Dlw/view?usp=sharing",
+   "ts": 1793735542000,
+   "date": "2026-11-03",
+   "time": "21:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "494KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC25F81FA1789259D8DC9400A9C1F6A0_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587960699"
   }
  ]
 }

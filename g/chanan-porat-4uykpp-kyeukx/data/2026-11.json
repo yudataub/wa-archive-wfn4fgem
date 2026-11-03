@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חנן פורת - דמות",
- "updated": "2026-11-02T20:32:34.613Z",
+ "updated": "2026-11-03T20:36:29.418Z",
  "messages": [
   {
    "id": "3EB0644E45D0E4A35B1343",
@@ -265,6 +265,90 @@
    "files": [],
    "drive": null,
    "phone": "972544994358"
+  },
+  {
+   "id": "3EB0B47783C2C334B02AC3",
+   "sender": "אדיר",
+   "text": "האם יש קבוצה שעוסקת בדמותו של הרב עם תכנים לגיל הרך?",
+   "ts": 1793699533000,
+   "date": "2026-11-03",
+   "time": "11:52",
+   "files": [],
+   "drive": null,
+   "phone": "972525858660"
+  },
+  {
+   "id": "AC44A456CAD4700C8D282C0DBEB76DD2",
+   "sender": "תיאטרון נדודים נפתלי פוקס",
+   "text": "לי יש הצגה שרצה בגני ילדים",
+   "ts": 1793699596000,
+   "date": "2026-11-03",
+   "time": "11:53",
+   "files": [],
+   "drive": null,
+   "phone": "972507144419"
+  },
+  {
+   "id": "ACC98D70595BE4759061F4AEC7A6B090",
+   "sender": "תיאטרון נדודים נפתלי פוקס",
+   "text": "",
+   "ts": 1793734636000,
+   "date": "2026-11-03",
+   "time": "21:37",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1VXK6nIZLnHrB7bna0ESpE7nii1gkGq3-/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACC98D70595BE4759061F4AEC7A6B090_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1VXK6nIZLnHrB7bna0ESpE7nii1gkGq3-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507144419"
+  },
+  {
+   "id": "AC55C4CD4318DA993D6F8BADA5EDCFD3",
+   "sender": "תיאטרון נדודים נפתלי פוקס",
+   "text": "איזה עוצמות היה היום בסוסיא 700 ילדים ב2 סבבים שרים את השיר החדש ונהנים מהצגה מדהימה על הרב .תודה רבה לרב אלנתן על ההמלצה החמה דברו איתי 0507144419",
+   "ts": 1793734637000,
+   "date": "2026-11-03",
+   "time": "21:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "313KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC55C4CD4318DA993D6F8BADA5EDCFD3_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507144419"
+  },
+  {
+   "id": "AC79E560929065BC6EEDD237E0B03CC4",
+   "sender": "אודליה דדון",
+   "text": "בעבר פרסמו שמשונית על  הרב דמות החמד לתליה בביהס.\nאשמח לקבל🙏",
+   "ts": 1793734809000,
+   "date": "2026-11-03",
+   "time": "21:40",
+   "files": [],
+   "drive": null,
+   "phone": "972547703146"
+  },
+  {
+   "id": "AC5A591757687B2849215CAD7DCAFD37",
+   "sender": "רקפת כהן",
+   "text": "כן , יש קבוצה לגננות \nאבקש מהמנהלות שישלחו קישור.",
+   "ts": 1793738159000,
+   "date": "2026-11-03",
+   "time": "22:35",
+   "files": [],
+   "drive": null,
+   "phone": "972546842313"
   }
  ]
 }

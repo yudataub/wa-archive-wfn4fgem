@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מזכי הרבים",
- "updated": "2026-11-02T22:53:39.016Z",
+ "updated": "2026-11-03T09:55:25.151Z",
  "messages": [
   {
    "id": "A596A5EC8D4EA07D8B3151B49701CD59",
@@ -359,6 +359,144 @@
    "ts": 1793660013000,
    "date": "2026-11-03",
    "time": "00:53",
+   "files": [],
+   "drive": null,
+   "phone": "972587669198"
+  },
+  {
+   "id": "A5FDADF9AFDD41476433E0FB65923707",
+   "sender": "דוד חניה הפקות",
+   "text": "כרגע רק יוטיוב, גם פלייליסטים\nidm ב90 שח חד פעמי מוריד מכל אתר",
+   "ts": 1793660877000,
+   "date": "2026-11-03",
+   "time": "01:07",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "ACF27C03A05EFB05F2319885588BB577",
+   "sender": "אלירן אליהו נגארי - הדרכה",
+   "text": "לא נפתח לי",
+   "ts": 1793664882000,
+   "date": "2026-11-03",
+   "time": "02:14",
+   "files": [],
+   "drive": null,
+   "phone": "972504696525"
+  },
+  {
+   "id": "2AC10F5CF1D43622EC81",
+   "sender": "מאור",
+   "text": "בוקר טוב שימו לב שנפתח האופציה בקבוצות וואטסאפ לסטטוס ל24 שעות כל מי שיש לו קבוצה בוואטסאפ יכול לעלות.",
+   "ts": 1793683048000,
+   "date": "2026-11-03",
+   "time": "07:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/2AC10F5CF1D43622EC81_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509499965"
+  },
+  {
+   "id": "AC2831D6A2BBCE1BA520CEF41B133BDF",
+   "sender": "עוז ברזילי",
+   "text": "",
+   "ts": 1793692069000,
+   "date": "2026-11-03",
+   "time": "09:47",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hYW_OLVLYH9Po5DGiVYu-mwcgJqhBpww/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC2831D6A2BBCE1BA520CEF41B133BDF_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1hYW_OLVLYH9Po5DGiVYu-mwcgJqhBpww&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "A5EDAF06CD32FC054F2E162D5C1DCA36",
+   "sender": "שמואל קורייב",
+   "text": "ערוץ אתה מתכוון?",
+   "ts": 1793693731000,
+   "date": "2026-11-03",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "A596CCDD69BC2F5E935076D8F289BBF9",
+   "sender": "אלעד גרין",
+   "text": "",
+   "ts": 1793694467000,
+   "date": "2026-11-03",
+   "time": "10:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "23.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-N78Wd81dfskbuN_CRTXD9L1jEI0Uycz/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A596CCDD69BC2F5E935076D8F289BBF9_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1-N78Wd81dfskbuN_CRTXD9L1jEI0Uycz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587669198"
+  },
+  {
+   "id": "A592AC7C474A45E9A7DDC65B907D2CCB",
+   "sender": "אלעד גרין",
+   "text": "יש לי איזה 12 סרטונים עם סאונד כזה (הוסרט משיעור, בלי מיקרופון)\nאיזה כלי מומלץ או אם בכלל אפשרי לתקן את זה?",
+   "ts": 1793694502000,
+   "date": "2026-11-03",
+   "time": "10:28",
+   "files": [],
+   "drive": null,
+   "phone": "972587669198"
+  },
+  {
+   "id": "AC9239CC44DE7BE7D67A430606C3B097",
+   "sender": "אהרון נעים ’ערכים’",
+   "text": "מומלץ מאוד\nכלי חזק מאוד לפרסום דרך הסטטוס בקבוצות\nגם מי שלא נכנס כל יום לקבוצות צקבל מידע\nמקבל אותו בעדינות דרך הסטטוס",
+   "ts": 1793698706000,
+   "date": "2026-11-03",
+   "time": "11:38",
+   "files": [],
+   "drive": null,
+   "phone": "972546731620"
+  },
+  {
+   "id": "AC0903F1070CA3CA7A50EA3319040322",
+   "sender": "רועי כהן",
+   "text": "https://sound.adifferentangle.ai/",
+   "ts": 1793698967000,
+   "date": "2026-11-03",
+   "time": "11:42",
+   "files": [],
+   "drive": null,
+   "phone": "972542104147"
+  },
+  {
+   "id": "A5D9298B2F67E70962FDC53FFD23419E",
+   "sender": "אלעד גרין",
+   "text": "נפלא! לא ידעתי שגם זה יש חח",
+   "ts": 1793699705000,
+   "date": "2026-11-03",
+   "time": "11:55",
    "files": [],
    "drive": null,
    "phone": "972587669198"

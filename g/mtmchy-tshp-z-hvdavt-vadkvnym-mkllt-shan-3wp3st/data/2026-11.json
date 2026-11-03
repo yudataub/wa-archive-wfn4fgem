@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מתמחי תשפ״ז-הודעות ועדכונים מכללת שאנן",
- "updated": "2026-11-02T20:19:27.003Z",
+ "updated": "2026-11-03T06:59:40.100Z",
  "messages": [
   {
    "id": "3EB039383B4C3D1A3CF332",
@@ -120,6 +120,74 @@
    "files": [],
    "drive": null,
    "phone": "972506924904"
+  },
+  {
+   "id": "3A2B6E6E40C735999FC7",
+   "sender": "Adi Zvieli",
+   "text": "היום!! *גננות מתמחות* 17:00-19:00. מומלץ לפתוח את הקישור דרך מחשב\nhttps://meyda.education.gov.il/files/edu-hub/sherut/H_gil_rach.pdf",
+   "ts": 1793685332000,
+   "date": "2026-11-03",
+   "time": "07:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A2B6E6E40C735999FC7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3A9F121583B2E12D3B30",
+   "sender": "Adi Zvieli",
+   "text": "היום!! *גננות מתמחות* 17:00-19:00. מומלץ לפתוח את הקישור דרך מחשב\nhttps://meyda.education.gov.il/files/edu-hub/sherut/H_gil_rach.pdf",
+   "ts": 1793685352000,
+   "date": "2026-11-03",
+   "time": "07:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A9F121583B2E12D3B30_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3A52E0D751FF950A2B6E",
+   "sender": "Adi Zvieli",
+   "text": "בהמשך למפגש של אתמול:\n*להצטרפות לארגון המורים*\nhttps://app.easydo.co.il/publicForm/aa1f6210-d114-4815-a2bc-d1230cc781cb",
+   "ts": 1793687589000,
+   "date": "2026-11-03",
+   "time": "08:33",
+   "files": [],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3EB05862F8151FACE5A48B",
+   "sender": "היחידה להתמחות מכללת שאנן",
+   "text": "*רישום לממשק מתמחים של משרד החינוך*\nמתמחות ומתמחים יקרים שלום,\n*כדי להיקלט במערכת של משרד החינוך כמתמחה יש למלא טופס מקוון בהקדם*. הטופס נמצא בפורטל סטודנט שבאתר המכללה בקישור הבא:\nhttps://meydanet.shaanan.ac.il/student/login\n\nשימו לב!! יש למלא את כל הפרטים בצורה מדוייקת עלפי ההנחיות המצורפות כדי להימנע משגיאות שיעכבו את קליטת הטופס.\n*אבקש למלא את הטופס בהקדם.*",
+   "ts": 1793689147000,
+   "date": "2026-11-03",
+   "time": "08:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB05862F8151FACE5A48B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "97248780014"
   }
  ]
 }

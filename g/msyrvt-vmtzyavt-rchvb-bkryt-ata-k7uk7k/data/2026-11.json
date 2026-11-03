@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-02T10:38:51.717Z",
+ "updated": "2026-11-03T17:29:00.285Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -103,6 +103,101 @@
    "files": [],
    "drive": null,
    "phone": "972522488015"
+  },
+  {
+   "id": "AC916D614743D0AD0C5DBB3EECBDA416",
+   "sender": "שרון😄",
+   "text": "תינוקי  ממשפחה שאנו מסייעים לה זקוק  לכזו מטרנה👆🏻(קומפורט).\nאמא *ממש לא יכולה* לקנות לו. למישהו יש למסור כזה?      \n\n (ואם אפשר להביא ישירות ..חסד עם התינוק).\n  \n  לתיאום, שרון    0522828512  \n                                                                                                                                  🌹%💯 חסד. החיוך של אמא חוזר אליכם עם ריבית🌹",
+   "ts": 1793706692000,
+   "date": "2026-11-03",
+   "time": "13:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC916D614743D0AD0C5DBB3EECBDA416_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522828512"
+  },
+  {
+   "id": "AC36AAC35AA9942D5A5C9868FCFD9D8E",
+   "sender": "עדי חסיד",
+   "text": "כלי מטבח למסירה",
+   "ts": 1793716086000,
+   "date": "2026-11-03",
+   "time": "16:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "513KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC36AAC35AA9942D5A5C9868FCFD9D8E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC9DC7F2EFB02A2C82D18C8C072959B2",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1793721823000,
+   "date": "2026-11-03",
+   "time": "18:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC9DC7F2EFB02A2C82D18C8C072959B2_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
+  },
+  {
+   "id": "AC3DFA8419B7F05F7304E73DEAFA9DBE",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "למסירה \nתחתונים לאחרי לידה\nכדורים לבחילות בהריון",
+   "ts": 1793726914000,
+   "date": "2026-11-03",
+   "time": "19:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC3DFA8419B7F05F7304E73DEAFA9DBE_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
+  },
+  {
+   "id": "AC1C70731C24EDCCF3310BE58C495C11",
+   "sender": "תושיה נועה-רו\"ח",
+   "text": "",
+   "ts": 1793726915000,
+   "date": "2026-11-03",
+   "time": "19:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC1C70731C24EDCCF3310BE58C495C11_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502843549"
   }
  ]
 }

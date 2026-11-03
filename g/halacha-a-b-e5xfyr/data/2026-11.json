@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-02T22:21:55.968Z",
+ "updated": "2026-11-03T09:59:55.223Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -216,6 +216,60 @@
    "files": [],
    "drive": null,
    "phone": "972505950080"
+  },
+  {
+   "id": "ACD08DF9AC5BCA8B5D6D0A8B42720A7E",
+   "sender": "~",
+   "text": "אפשר לשלו שוב קישור לדרייב?",
+   "ts": 1793682562000,
+   "date": "2026-11-03",
+   "time": "07:09",
+   "files": [],
+   "drive": null,
+   "phone": "972536227899"
+  },
+  {
+   "id": "A50602372F2981AFA3F2C4FB80FAC793",
+   "sender": "מנחם מענדל בליזובסקי",
+   "text": "**🌟 מערכת נקודות עידוד לכיתה**ח\n\nכלי פשוט ויפה לעידוד תלמידים, בקובץ אחד במחשב, בלי התקנה ובלי אינטרנט.\n\n✅ כרטיס לכל תלמיד: לחיצה אחת מוסיפה נקודות, עם קונפטי ודרגות\n✅ מעקב לפי ימי השבוע, עם סיכום שבועי ומצטבר\n✅ יעד שבועי משותף לכיתה\n✅ טבלה להדפסה\n✅ לוגו וסדר כיתה אישיים, עד 36 תלמידים\n✅ שמירה אוטומטית וגיבוי, והנתונים נשארים אצלכם\n✅ איפוס רק באישור\n\n**להתחלה:** פותחים את הקובץ, מעלים לוגו, מדביקים רשימת תלמידים ומתחילים לחלק נקודות. 🚀\n\nרוצה לקבל את התוכנה להורדה?\nלחץ על הקישור 👈🏻 https://wa.me/message/T2OTTXNCQVJIP1",
+   "ts": 1793683434000,
+   "date": "2026-11-03",
+   "time": "07:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "15.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1OLlNi4v6vvQbMfi9VnqVaau7eU4YHPYd/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A50602372F2981AFA3F2C4FB80FAC793_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1OLlNi4v6vvQbMfi9VnqVaau7eU4YHPYd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534294421"
+  },
+  {
+   "id": "ACFD0FDEECA1B142D25A61090A741588",
+   "sender": "דיקלה תמר גינזברג",
+   "text": "https://drive.google.com/drive/folders/1maDmLXzWM6RwgpT8fcp-OMJ7A-1nWTO5",
+   "ts": 1793685811000,
+   "date": "2026-11-03",
+   "time": "08:03",
+   "files": [],
+   "drive": null,
+   "phone": "972505950080"
+  },
+  {
+   "id": "ACAC3E8BADAC4D2F7039B93662D50E7D",
+   "sender": "זהבה",
+   "text": "בבקשה רק שימו לב לתלמידים שאין להם את אחד ההורים",
+   "ts": 1793699973000,
+   "date": "2026-11-03",
+   "time": "11:59",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
   }
  ]
 }
