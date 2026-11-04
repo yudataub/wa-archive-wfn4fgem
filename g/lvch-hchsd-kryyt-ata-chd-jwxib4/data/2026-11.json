@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-04T21:00:52.831Z",
+ "updated": "2026-11-04T22:41:36.191Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -2435,7 +2435,8 @@
      "path": "https://drive.google.com/file/d/1OEzc0SVxvSaM1pDHtzYHwtmrLP6sVhxL/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC803B6AAF33B17CEFC8DD27DE543F9A_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1OEzc0SVxvSaM1pDHtzYHwtmrLP6sVhxL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1OEzc0SVxvSaM1pDHtzYHwtmrLP6sVhxL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4/v/2026-11/AC803B6AAF33B17CEFC8DD27DE543F9A_0.mp4"
     }
    ],
    "drive": null,
@@ -2558,6 +2559,17 @@
    "files": [],
    "drive": null,
    "phone": "972555502436"
+  },
+  {
+   "id": "AC51D115317CA14589E2DF2142F50523",
+   "sender": "B",
+   "text": "משהו שמע אולי פיצוץ?",
+   "ts": 1793832088000,
+   "date": "2026-11-05",
+   "time": "00:41",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
   }
  ]
 }

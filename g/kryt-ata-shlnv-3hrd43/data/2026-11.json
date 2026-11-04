@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קרית אתא שלנו",
- "updated": "2026-11-04T20:09:10.631Z",
+ "updated": "2026-11-04T21:20:23.130Z",
  "messages": [
   {
    "id": "AC41D981B343121450F40EFD939C4769",
@@ -5935,7 +5935,8 @@
      "path": "https://drive.google.com/file/d/13kcJCSz8j9VFnzhDqVR1TvgkIpEJ1o14/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2A0209FDCD5E010855A1_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=13kcJCSz8j9VFnzhDqVR1TvgkIpEJ1o14&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=13kcJCSz8j9VFnzhDqVR1TvgkIpEJ1o14&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-11/2A0209FDCD5E010855A1_0.mp4"
     }
    ],
    "drive": null,
@@ -5956,7 +5957,8 @@
      "path": "https://drive.google.com/file/d/1R7na_s3hqE7HGRua89v7UQpCj5NZif1N/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2AAA2340881744C553DC_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1R7na_s3hqE7HGRua89v7UQpCj5NZif1N&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1R7na_s3hqE7HGRua89v7UQpCj5NZif1N&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43/v/2026-11/2AAA2340881744C553DC_0.mp4"
     }
    ],
    "drive": null,
@@ -6635,6 +6637,36 @@
    "files": [],
    "drive": null,
    "phone": "972525913246"
+  },
+  {
+   "id": "AC13C08D2D1F80A5C0AFDEFC6227979E",
+   "sender": "גאולה מגיד🌈🌹🌷🌹🌹",
+   "text": "https://share.gemini.google/uJLAHcRL9AEd",
+   "ts": 1793827161000,
+   "date": "2026-11-04",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC13C08D2D1F80A5C0AFDEFC6227979E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549339919"
+  },
+  {
+   "id": "AC1DDEC907A13FB7EE18234D00A6CD04",
+   "sender": "עוז ברזילי",
+   "text": "אפשר גם במייסדים 28 נהרייה איך שמו\"ר מסיים שחרית יש קבלת קהל גם בבית כנסת",
+   "ts": 1793827208000,
+   "date": "2026-11-04",
+   "time": "23:20",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-04T18:59:49.140Z",
+ "updated": "2026-11-04T21:16:53.081Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -6586,6 +6586,74 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE6D552967952255AF346AF43D5AD55",
+   "sender": "yimarom",
+   "text": "",
+   "ts": 1793826842000,
+   "date": "2026-11-04",
+   "time": "23:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACE6D552967952255AF346AF43D5AD55_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "yimarom",
+   "phone": "972545265774"
+  },
+  {
+   "id": "ACE13DBE1B8CC4050F1F79A2BA2C5BCE",
+   "sender": "yimarom",
+   "text": "זה החשבון חשמל שקיבלתי על זמן שלא הייתי בבית...\nהאם משאירים שם מזגן דולק ?אני מבין ממך שאין שם אורחים מנסה להבין מה קורה פה",
+   "ts": 1793826879000,
+   "date": "2026-11-04",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "thread": "yimarom",
+   "phone": "972545265774"
+  },
+  {
+   "id": "AC0155BA730452F771FD242797DC2236",
+   "sender": "Zohar",
+   "text": "הרב יהודה שלום!\nאשמח שתשלח אלי את הקובץ... בבקשה🙏🙏",
+   "ts": 1793826973000,
+   "date": "2026-11-04",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "thread": "Zohar",
+   "phone": "972528308161"
+  },
+  {
+   "id": "AC1D4B1D371187747929E85D988D9256",
+   "sender": "yimarom",
+   "text": "איך החשבון חשמל יותר ממה שנתת לי?",
+   "ts": 1793826973000,
+   "date": "2026-11-04",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "thread": "yimarom",
+   "phone": "972545265774"
+  },
+  {
+   "id": "AC0F2CA476236F803128C4C1C1F841E2",
+   "sender": "yimarom",
+   "text": "אי אפשר להמשיך ככה",
+   "ts": 1793826985000,
+   "date": "2026-11-04",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "thread": "yimarom",
+   "phone": "972545265774"
   }
  ]
 }

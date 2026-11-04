@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חנן פורת - דמות",
- "updated": "2026-11-04T20:54:52.739Z",
+ "updated": "2026-11-04T21:39:30.099Z",
  "messages": [
   {
    "id": "3EB0644E45D0E4A35B1343",
@@ -495,6 +495,28 @@
    "files": [],
    "drive": null,
    "phone": "972545236548"
+  },
+  {
+   "id": "ACD46B73323EF8AACACAE44DEF891C0A",
+   "sender": "יערה",
+   "text": "https://drive.google.com/file/d/12jP1nRrMBOgPktwi7p8P0ODH63W53K2P/view?usp=sharing",
+   "ts": 1793828356000,
+   "date": "2026-11-04",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972525664247"
+  },
+  {
+   "id": "AC0B7E4DEEDB87755538A63A435D2BA3",
+   "sender": "יערה",
+   "text": "לכיתוץ הנמוכות אפשר גם לספר את הסיפור",
+   "ts": 1793828359000,
+   "date": "2026-11-04",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972525664247"
   }
  ]
 }
