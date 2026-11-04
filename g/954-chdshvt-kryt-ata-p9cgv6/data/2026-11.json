@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "954- חדשות קרית אתא 🔟",
- "updated": "2026-11-03T16:26:54.410Z",
+ "updated": "2026-11-04T16:15:59.715Z",
  "messages": [
   {
    "id": "3EB02FAD626D102851714C",
@@ -13,6 +13,44 @@
    "files": [],
    "drive": null,
    "phone": "972545918048"
+  },
+  {
+   "id": "A5187236248775E7178B50F6D2419F9E",
+   "sender": "לוין",
+   "text": "",
+   "ts": 1793808847000,
+   "date": "2026-11-04",
+   "time": "18:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "54KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5187236248775E7178B50F6D2419F9E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542240130"
+  },
+  {
+   "id": "A5693A6BE51109C9F7F67174B87C8B4C",
+   "sender": "לוין",
+   "text": "*הצטרפו לקבוצת החדשות בקריית אתא*",
+   "ts": 1793808931000,
+   "date": "2026-11-04",
+   "time": "18:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "54KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5693A6BE51109C9F7F67174B87C8B4C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542240130"
   }
  ]
 }

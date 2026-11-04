@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-03T21:53:37.622Z",
+ "updated": "2026-11-04T18:59:49.140Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -4617,6 +4617,1972 @@
    "ts": 1793742816000,
    "date": "2026-11-03",
    "time": "23:53",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0F3D641F373B3C03DA7",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/sipurim-matzgot/pdf/190.pdf",
+   "ts": 1793768696000,
+   "date": "2026-11-04",
+   "time": "07:04",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB02FCBDFD31B2C7BCD4A",
+   "sender": "אני",
+   "text": "מעכשיו יש לכל פרשה כיתה מנצחת - לדוגמא הכיתה שלך ניצחה בפרשת נח\nשבוע שעבר כיתה א\nתבדקתי שזה עובד נכון",
+   "ts": 1793771130000,
+   "date": "2026-11-04",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A55B1C213B80285BA06825C5FA4811C1",
+   "sender": "אני",
+   "text": "מה הנושאים בספר ומהיכן?",
+   "ts": 1793771803000,
+   "date": "2026-11-04",
+   "time": "07:56",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0CC52AD9F3CFCD554F2",
+   "sender": "בנימין רוקח",
+   "text": "",
+   "ts": 1793772239000,
+   "date": "2026-11-04",
+   "time": "08:03",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "16KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1WFNBKLMW6zXpQn82DR9NvBP42CshJIwT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "בנימין רוקח",
+   "phone": "972533361076"
+  },
+  {
+   "id": "3EB0691DDAA5CB09C0FBF9",
+   "sender": "אני",
+   "text": "לא הבנתי",
+   "ts": 1793772776000,
+   "date": "2026-11-04",
+   "time": "08:12",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB076D4AD8BAB12890CE0",
+   "sender": "בנימין רוקח",
+   "text": "אין במצגת ששלחת תמונה של אשתו של מר עוקבע",
+   "ts": 1793773526000,
+   "date": "2026-11-04",
+   "time": "08:25",
+   "files": [],
+   "drive": null,
+   "thread": "בנימין רוקח",
+   "phone": "972533361076"
+  },
+  {
+   "id": "3EB0C43C560E6A1E442719",
+   "sender": "בנימין רוקח",
+   "text": "עוקבא",
+   "ts": 1793773528000,
+   "date": "2026-11-04",
+   "time": "08:25",
+   "files": [],
+   "drive": null,
+   "thread": "בנימין רוקח",
+   "phone": "972533361076"
+  },
+  {
+   "id": "3EB0672F363B893A9E9F78",
+   "sender": "בנימין רוקח",
+   "text": "ובמצגת זו יש שגיאת כתיב בשקופית 7",
+   "ts": 1793773605000,
+   "date": "2026-11-04",
+   "time": "08:26",
+   "files": [
+    {
+     "name": "01 - שמאי - הכבש לכבוד שבת.pdf",
+     "size": "2.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1eYgYf4vM2WKCAsno5gAXzPYS33Mz6ZQY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "בנימין רוקח",
+   "phone": "972533361076"
+  },
+  {
+   "id": "A5E1C9605C7FD026670813CBC6022D44",
+   "sender": "אני",
+   "text": "יש בעיה עם תמונות של נשים.\nאז המחשב מעדיף להימנע בכלל.",
+   "ts": 1793773786000,
+   "date": "2026-11-04",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5486EDADEAB5DD8D8DF93BC935EF066",
+   "sender": "אני",
+   "text": "בוקר טוב תוכל לקחת אותי היום ב-10:45 מקופת חולים מכבי?",
+   "ts": 1793778074000,
+   "date": "2026-11-04",
+   "time": "09:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC3B3DCE83FAC0B037354139789570B0",
+   "sender": "גבריאל שלם",
+   "text": "",
+   "ts": 1793778098000,
+   "date": "2026-11-04",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "278KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC3B3DCE83FAC0B037354139789570B0_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "גבריאל שלם",
+   "phone": "972545612602"
+  },
+  {
+   "id": "ACD8FC1B2782768C56B2DE735B638633",
+   "sender": "גבריאל שלם",
+   "text": "כמו שאמרתי אתם לא מקבלים 1000 עכשיו יותר גרוע אפילו מאז",
+   "ts": 1793778098000,
+   "date": "2026-11-04",
+   "time": "09:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "288KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACD8FC1B2782768C56B2DE735B638633_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "גבריאל שלם",
+   "phone": "972545612602"
+  },
+  {
+   "id": "ACBDB47FB7133282561C3455385D20FD",
+   "sender": "אריאלה רוזנטל",
+   "text": "בקר טוב .\nכפי שבקשת מזכירה לך להגיע בשבת אלינו ללמד שעור.\nהברוש 4 דירה 4.\nקומה ראשונה.",
+   "ts": 1793778627000,
+   "date": "2026-11-04",
+   "time": "09:50",
+   "files": [],
+   "drive": null,
+   "thread": "אריאלה רוזנטל",
+   "phone": "972549982128"
+  },
+  {
+   "id": "ACAE4226172C5ED6C31E10E07382CD3F",
+   "sender": "בלייך צבי",
+   "text": "👍🏻",
+   "ts": 1793779170000,
+   "date": "2026-11-04",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "thread": "בלייך צבי",
+   "phone": "972524723034"
+  },
+  {
+   "id": "3EB0AB1A59D09D753B4735",
+   "sender": "אני",
+   "text": "תודה רבה איזה זריזות\nמה אתה מציע לעשות?\nשהחברה לא מבינה שזה המצב?",
+   "ts": 1793779311000,
+   "date": "2026-11-04",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A54003E11692195589AA14F1D60CDF7B",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793779345000,
+   "date": "2026-11-04",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "56KB",
+     "type": "image/webp",
+     "path": "media/2026-11/A54003E11692195589AA14F1D60CDF7B_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0684F21BBF95ED1AF23",
+   "sender": "גבריאל שלם",
+   "text": "צריך לדבר איתם להגיד שחיברנו מחשב לציוד שלהם וזה המהירות שקיבלנו סביב 350 מגה דרך שתי אתרים שונים של בדיקת מהירות ולא אלף כמו שאתם משלמים שישלחו טכנאי לבדוק למה זה",
+   "ts": 1793779473000,
+   "date": "2026-11-04",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "thread": "גבריאל שלם",
+   "phone": "972545612602"
+  },
+  {
+   "id": "A5B2FF108E2A05F314BF50117F0E8FC4",
+   "sender": "אני",
+   "text": "סמל מוסד זה 312629",
+   "ts": 1793779519000,
+   "date": "2026-11-04",
+   "time": "10:05",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE9C2320B8AF09BE08C80EEF2DD0D53",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1793782230000,
+   "date": "2026-11-04",
+   "time": "10:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACE9C2320B8AF09BE08C80EEF2DD0D53_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC2D8A81D050A35D8469EC3C64803E27",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1793782249000,
+   "date": "2026-11-04",
+   "time": "10:50",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1_AaVukbll4UdPC31ZPAhTtfsnzglmQlz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "3A3EDAB28607F9E099D7",
+   "sender": "יוסף צבי רימון",
+   "text": "שלום וברכה הרב,\nסליחה על ההתעכבות.\n\nבהמשך לשיחתנו מנסה לגבש את ראשי הפרקים לחוברת הלכות למטייל בארץ ישראל\n\nמעלת הטיול בארץ ישראל\nונשמרתם מאוד לנפשותיכם (לקיחת סיכונים בטיול)\nצניעות\nבין אדם לחברו:\n1. נסיעה בטרמפים.\n2. השארת לכלוך במסלול או בחניון.\n3. דאגה לחבר בזמן ההליכה (חבר שקשה לו).\n4. התייחסות מכבדת לקבוצות אחרות.\n5. גזל - שימוש או מעבר במטעים. כניסה ללא תשלום. \nסדר היום:\nתפילה - \n1. השכמת הבוקר - נט\"י.\n2. האם להתפלל לפני יציאה לדרך או לאחריה.\n3. מקום התפילה.\n4. תפילה במניין.\n5. זמני התפילות.\n6. תפילת הדרך.\nאכילה -\nברכות - שינוי מקום\n1. ברכות במקום לא נקי או לא צנוע.\n2. נט\"י לאוכל.\n3. זימון.\n4. בירור כשרות.\n5. בישולי עכו\"ם - אכילה אצל בדואים/דרוזים.\nשינה -\n1. צניעות בשינה.\n2. ק\"ש על המיטה.\n\nחזק וברוך!",
+   "ts": 1793782351000,
+   "date": "2026-11-04",
+   "time": "10:52",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "AC500A64912E6C25C4391334F18C9E25",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1793782413000,
+   "date": "2026-11-04",
+   "time": "10:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "87KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC500A64912E6C25C4391334F18C9E25_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC64F038BF862DA01DB9E186C8640AF1",
+   "sender": "מיכל",
+   "text": "גם אוריה כהן",
+   "ts": 1793782418000,
+   "date": "2026-11-04",
+   "time": "10:53",
+   "files": [],
+   "drive": null,
+   "thread": "מיכל",
+   "phone": "972545949809"
+  },
+  {
+   "id": "AC808D43AEA0B90A0C4CD8F09AECAF9D",
+   "sender": "יעקב בקר",
+   "text": "שלום וברכה, *יצאנו לדרך!* רשת תפארת זקנים לוי יצחק יוצאת במיזם של *ספר חידושי התורה של אברכי הכוללים*. נשמח שתיקח חלק במיזם ותעודד את אברכי הכולל שלך לכתוב חידושי תורה, שייכללו בספר משותף שיאחד את חידושי האברכים מכל הכוללים. *את המאמרים יש לשלוח למייל Yoav@tiferet-ly.com.* *לשאלות על הפרויקט:* במייל זה או בוואטסאפ למספר 0548401152. \n*בברכת הצלחה רבה*\n*הנהלת תפארת לוי יצחק*",
+   "ts": 1793782700000,
+   "date": "2026-11-04",
+   "time": "10:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "602KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC808D43AEA0B90A0C4CD8F09AECAF9D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יעקב בקר",
+   "phone": "972549991157"
+  },
+  {
+   "id": "3EB073983BF2BDC4EF86AF",
+   "sender": "פרוייקט עוגן⚓️",
+   "text": "היי יהודה מה שלומך? זו אור מ\"עוגנים לחוסן\", ראיתי שעדיין לא העלת את ההסכם לפורטל, מזכירה לך לעשות זאת בהקדם:)",
+   "ts": 1793784135000,
+   "date": "2026-11-04",
+   "time": "11:22",
+   "files": [],
+   "drive": null,
+   "thread": "פרוייקט עוגן⚓️",
+   "phone": "972502080480"
+  },
+  {
+   "id": "3EB0BF0DF308125B5801D5",
+   "sender": "יוסף צבי רימון",
+   "text": "שלום הרב יהודה,\nאלו דברים שמישהו שלח לי ושיפצתי אותם. \nחלק גדול מהדברים נמצא בספר צבא. חלק אני שולח",
+   "ts": 1793784604000,
+   "date": "2026-11-04",
+   "time": "11:30",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB03179520DD793E892EC",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784638000,
+   "date": "2026-11-04",
+   "time": "11:30",
+   "files": [
+    {
+     "name": "הלכה ממקורה - תפילה בציבור.docx",
+     "size": "68KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1B14w1yKtvYRXv1-9f5X0hHovA7hNtWUF/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB064A5B8F249FEA2F44A",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784683000,
+   "date": "2026-11-04",
+   "time": "11:31",
+   "files": [
+    {
+     "name": "בישולי עכו'ם.doc",
+     "size": "210KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/14Zz78hqETPG6fx1jyl26fpWVtcoZd0OO/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB030C80EA24E687728FE",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784758000,
+   "date": "2026-11-04",
+   "time": "11:32",
+   "files": [
+    {
+     "name": "האם מותר לצאת לטיולים מסוכנים - חופש - לוח מודעות.docx",
+     "size": "31KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Tc-6zgzij-BMVkHi5amRTlxWRLcqCgUr/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB0363B5E98C4B920A39A",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784759000,
+   "date": "2026-11-04",
+   "time": "11:32",
+   "files": [
+    {
+     "name": "הלכות לספר משרד החינוך1.doc",
+     "size": "829KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1JP_pKtUHmYc6baq1JgdzVvxrjbjXhjlV/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB094DA7171813AEEFA88",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784759000,
+   "date": "2026-11-04",
+   "time": "11:32",
+   "files": [
+    {
+     "name": "שותי'ם קצרים לנוער - בנושאים שונים וענייני חגים - לקהילה 4.doc",
+     "size": "839KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1DIXFnr4lIBw2yd2ev9A-wcwFJ6xrcM-0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB017FCC2EE15ED6222D7",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784968000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "שינוי מקום בסעודה - תשע'א.doc",
+     "size": "76KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1u7wdeb9zf7p-VKQbg35ahXL90F2HiPBd/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB026F5BA12D3E8EAE16F",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784968000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "ברכה כשרואה כינרת מלאה.doc",
+     "size": "77KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1zYfQBOF3nOKEb2Se70w66_RVtb4UqYSE/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB02F20BA28EBDC0BDF08",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784968000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "ברכות בטיולים - ברכה ראשונה וברכה אחרונה.doc",
+     "size": "35KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1l5KDhrTUCzJLT3ziZd3nhVz3APNVpa5C/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB0302F4BAAE54371A018",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784968000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "מתי לברך בטיול - ערוך עם תיקון.docx",
+     "size": "32KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1YaM1n7Z8kMsU5oNyylRtxkor82Pq0dwT/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB05FEF60071D4403DED8",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784968000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "המאחר לתפילה - הנחיות.docx",
+     "size": "31KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1_cSMG7cRmiFVQCfEiRkEdZdvQ0WDM2xQ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB0B2AEF1E72D08E6A594",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784968000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "מתי לברך בטיול - מקוצר - לעולם קטן תש'פ.docx",
+     "size": "28KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1R3NxKZNXSgGO_EAUMGm89RK7NDi21hjn/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB01EE26A1003AF6BD32E",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793784969000,
+   "date": "2026-11-04",
+   "time": "11:36",
+   "files": [
+    {
+     "name": "שיעורים בהלכות ברכות - הרב יוסף צבי רימון.doc",
+     "size": "183KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1vCp9A3XLiiDV_ksEPwUJmkIqHDS8s6TZ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB0B56BFAB94D64CABFF3",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793785053000,
+   "date": "2026-11-04",
+   "time": "11:37",
+   "files": [
+    {
+     "name": "ברכון הרב רימון - שער ההלכות - לרב רימון.docx",
+     "size": "229KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1JkrfE9M-w9mJdD6jKVia23uX5ahOU0EM/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB02D6000EA4861E86128",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793785068000,
+   "date": "2026-11-04",
+   "time": "11:37",
+   "files": [
+    {
+     "name": "ברכון נעם שבת_חדש_6.7.pdf",
+     "size": "7.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1dd82bcuc4wINVwCUA9yV9MwDfoAdcvZc/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB0CFB0755ADB42A015BC",
+   "sender": "יוסף צבי רימון",
+   "text": "ייתכן שיש עוד נושאים שלא חשבנו עליהם. וייתכן שניתן להשמיט נושאים (כמו צניעות בשינה). \nאולי להוסיף על ייחוד. שירה. נגיעה וכו'.",
+   "ts": 1793785158000,
+   "date": "2026-11-04",
+   "time": "11:39",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3A681DF71BC277D14DC9",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793785189000,
+   "date": "2026-11-04",
+   "time": "11:39",
+   "files": [
+    {
+     "name": "הלכות צניעות - הרב רימון - מתוך ספר בת מצווה.pdf",
+     "size": "4.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1glNvxgap3CKe4R_PnhXyUGs9Ydw3eq8h/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "A59DFBCD4912E906EBA9AD8A6DD7E9CC",
+   "sender": "אני",
+   "text": "מתי אפשר להתקשר יש כמה דברים שאני לא מבין?",
+   "ts": 1793786676000,
+   "date": "2026-11-04",
+   "time": "12:04",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5D772FB46759757062523228DD45CB9",
+   "sender": "אני",
+   "text": "אלקנה יש לי אישור מהרב רימון לעשות על המקור חיים החדש",
+   "ts": 1793787465000,
+   "date": "2026-11-04",
+   "time": "12:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5B94A36DEFFD2BB1E1196AF2EFCC834",
+   "sender": "אני",
+   "text": "כמובן רק חידון ללא המקור ממש",
+   "ts": 1793787487000,
+   "date": "2026-11-04",
+   "time": "12:18",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A55411F42A7437731251F26B53729A9B",
+   "sender": "אני",
+   "text": "אתה יכול לשלוח לי את הקובץ",
+   "ts": 1793787502000,
+   "date": "2026-11-04",
+   "time": "12:18",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5679965CE8C5732BC2DE661D21A9F1",
+   "sender": "אלקנה שטראוס",
+   "text": "יש!!!",
+   "ts": 1793787995000,
+   "date": "2026-11-04",
+   "time": "12:26",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "ACC523708642B9AD88D1C06636D7F37F",
+   "sender": "אלקנה שטראוס",
+   "text": "אתיישב על המחשב ואשלח",
+   "ts": 1793788119000,
+   "date": "2026-11-04",
+   "time": "12:28",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC2865E41FFC46AE07459AE316441CE4",
+   "sender": "הילה שמר",
+   "text": "מעולה",
+   "ts": 1793788677000,
+   "date": "2026-11-04",
+   "time": "12:37",
+   "files": [],
+   "drive": null,
+   "thread": "הילה שמר",
+   "phone": "972534596413"
+  },
+  {
+   "id": "3EB01D2E8EBF14360F8E7B",
+   "sender": "אלקנה שטראוס",
+   "text": "צריך שהחידונים יהיו לפי הנושאים שנלמדים כעת בתכ\"ל.\nוהחידון ששלחת לי לא דייק בדרישה של מקור ההלכה. צריך את המקור לפי מה שמופיע בקיצור עצמו",
+   "ts": 1793789394000,
+   "date": "2026-11-04",
+   "time": "12:49",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "A5349E8E2CE9646AB5CB74507E358ED3",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/halacha-quiz/mitzvot-mk.html",
+   "ts": 1793789492000,
+   "date": "2026-11-04",
+   "time": "12:51",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5DC226011F808EABE280EC5EEFE03AC",
+   "sender": "אני",
+   "text": "תראה איך הוא יצר מושגים\nזה מהדורה חדשה",
+   "ts": 1793789530000,
+   "date": "2026-11-04",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0077E7A322F9111C1AD",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1793789597000,
+   "date": "2026-11-04",
+   "time": "12:53",
+   "files": [
+    {
+     "name": "קיצור שולחן ערוך - להגהת ניקוד אחרונה (1) (1).pdf",
+     "size": "24.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11wOSeVy6HErSvdfCqAFMgwAEooqUyl55/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0F78E7A3F64ECB2DA7F",
+   "sender": "אלקנה שטראוס",
+   "text": "התחיל ממש טוב אבל אחרי זה ערבב בין מושגים ללשון חכמים ופסוקים.\n1. וראיתם אותו וזכרתם- זה לא לשון חכמים\n2. מרובעות- לא מושג\n3. כנגד הלב- לא מושג\n4. השריר התופח- לא מושג\n5. מזוזה זקופה- לא מושג\nוכו",
+   "ts": 1793789827000,
+   "date": "2026-11-04",
+   "time": "12:57",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB01F702AABB3C7FB9D93",
+   "sender": "אלקנה שטראוס",
+   "text": "מכאן אפשר לשאוב את הנושאים לפי תכ\"ל\nhttps://pop.education.gov.il/tchumey_daat/toshba/elementary/pedagogy/curriculum/",
+   "ts": 1793789891000,
+   "date": "2026-11-04",
+   "time": "12:58",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "A586921EF4B4447867883ADCA8837C63",
+   "sender": "אני",
+   "text": "יש לך רשימת מושגים בנושא מסויים?",
+   "ts": 1793790014000,
+   "date": "2026-11-04",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A563BB4D03814390DE2034B33E3BB0F4",
+   "sender": "אני",
+   "text": "זה כבר הגדרה לא פשוטה מה נקרא מושג?",
+   "ts": 1793790049000,
+   "date": "2026-11-04",
+   "time": "13:00",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0E31FEC1E841B50DA43",
+   "sender": "אלקנה שטראוס",
+   "text": "זהו, אין. זה דבר שצריך לכתוב. סימנתי רשימת מושגים לנושאים של חודש חשוון. זה יעזור?",
+   "ts": 1793790088000,
+   "date": "2026-11-04",
+   "time": "13:01",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB013F1C803C4E2B285D2",
+   "sender": "אלקנה שטראוס",
+   "text": "זה מעניין.\nלשון חכמים- מילה ילדים בני יומנו לא מכירים בגלל פער הזמן והשפה שכבר אינה מדוברת. בד\"כ בגלל משלב לשוני גבוה.\nמושג- צריך כמה משפטים כדי להסביר את המילה/צמד מילים. ההסבר מתרחב יותר",
+   "ts": 1793790184000,
+   "date": "2026-11-04",
+   "time": "13:03",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0C877937C9AE94C207B",
+   "sender": "אלקנה שטראוס",
+   "text": "תפילין מרובעות- שהצורה של התפילין צריכה להיות מרובעת- לשון חכמים.\nכנפות- צד פינה של הבגד- לשון חכמים\nמצוות עשה שהזמן גרמא- מושג",
+   "ts": 1793790274000,
+   "date": "2026-11-04",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "A535270D1684F73AC55A07F47BFD0C5C",
+   "sender": "אני",
+   "text": "הנה יש לך רעיון טוב לעבודת סיכום של השתלמות\nלחלק למורות כל אחת נושא אחר להכין רשימת מושגים וביאורם.",
+   "ts": 1793790308000,
+   "date": "2026-11-04",
+   "time": "13:05",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB077376F2B7EF916CC03",
+   "sender": "אלקנה שטראוס",
+   "text": "אם השאלה היא...\nתרגם / מה פירוש המילה / מה ראשי התיבות-  לשון חכמים\nהסבר את הרעיון / תן דוגמה לחיים / מה העיקרון- מושג",
+   "ts": 1793790427000,
+   "date": "2026-11-04",
+   "time": "13:07",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0E8BEB6B4046E0CD4A5",
+   "sender": "אלקנה שטראוס",
+   "text": "הצאט עזר לי",
+   "ts": 1793790431000,
+   "date": "2026-11-04",
+   "time": "13:07",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0936ADBA95E13BE71D2",
+   "sender": "אלקנה שטראוס",
+   "text": "הבעיה שמורים עושים את המטלה כדי לסיים ולא ישקיעו. זה בעיה. א\"א לבנות על זה",
+   "ts": 1793790464000,
+   "date": "2026-11-04",
+   "time": "13:07",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "A5E9ACE61711210C0828593D9113E8B6",
+   "sender": "אני",
+   "text": "מה התכוונת?\nשהוא לא דייק",
+   "ts": 1793790797000,
+   "date": "2026-11-04",
+   "time": "13:13",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC37DD1632F1F4E8837EAE1E930146C0",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1793790956000,
+   "date": "2026-11-04",
+   "time": "13:15",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "102KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1ZdrZplwttU5UwXIHCFqtDEP_SKSiX32w/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "ACA7D122AF368366500A9DC7A94BE492",
+   "sender": "בנימין רוקח",
+   "text": "👍",
+   "ts": 1793791048000,
+   "date": "2026-11-04",
+   "time": "13:17",
+   "files": [],
+   "drive": null,
+   "thread": "בנימין רוקח",
+   "phone": "972533361076"
+  },
+  {
+   "id": "A5C046BA0F8546AF8DEC376805CC02DE",
+   "sender": "אני",
+   "text": "אתה יודע מי זה רומן ממשרד החינוך ומה הטלפןן שלו?",
+   "ts": 1793791058000,
+   "date": "2026-11-04",
+   "time": "13:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5D7D9A52070271EBCF0467B9F4B5CFC",
+   "sender": "אני",
+   "text": "erezro@education.gov.il",
+   "ts": 1793791476000,
+   "date": "2026-11-04",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB05A9FE6CCBFE36D4BCC",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793792092000,
+   "date": "2026-11-04",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "tzniut-01.html",
+     "size": "116KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/17H_gk9U0jYEonQNxMnRTipDs-1SbHGS6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0AC6CC14AD1ADE26BB0",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793792092000,
+   "date": "2026-11-04",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "tzniut-mk.html",
+     "size": "131KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1roBME-soSX6uyM2W0qoGGKGSALbWlcx2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0A2EC4FE26072DC6AB2",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793792093000,
+   "date": "2026-11-04",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "tzniut-04.html",
+     "size": "121KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1Vpng4sJxZqGUh66bn353obAp2Z99f2A8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0BCB86B76423C9235A3",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793792093000,
+   "date": "2026-11-04",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "tzniut-02.html",
+     "size": "120KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1QefRtanUQT8L9ml9Tl17UISWtcsxngOr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0CF6ACD9EC63DC3CC36",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793792093000,
+   "date": "2026-11-04",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "tzniut-05.html",
+     "size": "115KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/10-jPk7u_G177V5hdOW4eivFrxh7KAllH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0D2DF96DFCBD6E95F69",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793792093000,
+   "date": "2026-11-04",
+   "time": "13:34",
+   "files": [
+    {
+     "name": "tzniut-03.html",
+     "size": "115KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1rnT2NiX3hR57Mth1JOIxJN87UBWq6Vnt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0981C6B04525370677B",
+   "sender": "גבריאל שלם",
+   "text": "אין לי מושג",
+   "ts": 1793792496000,
+   "date": "2026-11-04",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "thread": "גבריאל שלם",
+   "phone": "972545612602"
+  },
+  {
+   "id": "3EB0D65E7508A0D7EE94C8",
+   "sender": "אני",
+   "text": "האם יש בתי ספר שיש להם יותר מ 500 ורואים את זה במד המהירות?",
+   "ts": 1793792581000,
+   "date": "2026-11-04",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB020DB816318DB39695F",
+   "sender": "גבריאל שלם",
+   "text": "אני חושב שמקסימום בביהס אצלנו בקריה זה 500 אף אחד לא שידרג למעל",
+   "ts": 1793792621000,
+   "date": "2026-11-04",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "גבריאל שלם",
+   "phone": "972545612602"
+  },
+  {
+   "id": "3EB0C4CDC5D80686222E22",
+   "sender": "אני",
+   "text": "הם אומרים שהמד מהירות מקולקל במשרד החינוך - אבל באמת יש לנו יותר \nאיך יודעים אם הם לא צודקים",
+   "ts": 1793792656000,
+   "date": "2026-11-04",
+   "time": "13:44",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0545F43A6F1F0492D5F",
+   "sender": "גבריאל שלם",
+   "text": "זאת הסיבה שבדקתי בשתי אתרים ולא אחד שלא להסתמך על תוצאה של אתר אחד פלוס הרצתי כמה בדיקות בכול אתר בשביל לראות אם הפרשים גדולים בבדיקות לא היו",
+   "ts": 1793792776000,
+   "date": "2026-11-04",
+   "time": "13:46",
+   "files": [],
+   "drive": null,
+   "thread": "גבריאל שלם",
+   "phone": "972545612602"
+  },
+  {
+   "id": "AC4B1CBBD9D8886B77BF4BA05671F249",
+   "sender": "Maxim Kogan",
+   "text": "",
+   "ts": 1793792990000,
+   "date": "2026-11-04",
+   "time": "13:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "343KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC4B1CBBD9D8886B77BF4BA05671F249_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "ACAC6F06C09F95FA6F1F24A3AE9770BD",
+   "sender": "Maxim Kogan",
+   "text": "בספריה",
+   "ts": 1793794057000,
+   "date": "2026-11-04",
+   "time": "14:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "420KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACAC6F06C09F95FA6F1F24A3AE9770BD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "ACB5069F1054B7DA7977CB8EFDDA06FA",
+   "sender": "Maxim Kogan",
+   "text": "בחדר מורים",
+   "ts": 1793794063000,
+   "date": "2026-11-04",
+   "time": "14:07",
+   "files": [],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "A5EB9D2A7D867908061B3CC1BF3A7F7C",
+   "sender": "אני",
+   "text": "אז אין יותר מ 500!",
+   "ts": 1793794155000,
+   "date": "2026-11-04",
+   "time": "14:09",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1D923CB83A6CB3E1CC2C3C10A52A6A",
+   "sender": "Maxim Kogan",
+   "text": "אבדוק עוד במעבדות מחשבים",
+   "ts": 1793794773000,
+   "date": "2026-11-04",
+   "time": "14:19",
+   "files": [],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "ACCE83B490CDCFC050DA254AC54B024C",
+   "sender": "Maxim Kogan",
+   "text": "",
+   "ts": 1793794807000,
+   "date": "2026-11-04",
+   "time": "14:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "22KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Inna7HPWyZR8OSpoJ4ZudiJqy6erHKMq/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "AC64863D2B9506B95AAAA98BED6B00AC",
+   "sender": "Maxim Kogan",
+   "text": "",
+   "ts": 1793794811000,
+   "date": "2026-11-04",
+   "time": "14:20",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "3KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/18dP2hKQScCg4WLqOkJHANHZ6uG2_ZwJP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "A5488DDBB9A03106EE2A502E1A9E54AD",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793794935000,
+   "date": "2026-11-04",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "31KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1MyDI6VvM6erOidv_DMEIYt5JAPvmOdWI/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5A2F913492407162D673CC013172172",
+   "sender": "אני",
+   "text": "הכנתי כרגע הלכות צניעות לילדים בכיתות תיכון מתוך הספר של הרב נו ברמה הקלה עם חידונים בצורה נעימה מאוד",
+   "ts": 1793795000000,
+   "date": "2026-11-04",
+   "time": "14:23",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC8F9F905ACC0A198D847D5F2FA14EE3",
+   "sender": "Maxim Kogan",
+   "text": "וואלה איזה קטע",
+   "ts": 1793795035000,
+   "date": "2026-11-04",
+   "time": "14:23",
+   "files": [],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "AC0F450699369681365024D94A1EA498",
+   "sender": "אוריה דהישראלי",
+   "text": "היוש, מחר חמישי💙 אני מתרגשת מאד להזמין אותך להופעה עם ההרכב שמלווה אותי במסגרת *״מרפסות נובמבר״*. זה ערב של בלוז, ג'אז וסול עם הרבה גרוב, רגש וחופש, ואפילו הביטלס בגרסה מפתיעה 😉\n\n📅 *חמישי, 5.11 | 21:30*\n📍 *קרון הספרים, הכלנית 2, טבעון*\n\n🎟️ הכניסה חופשית🎁\nפסטיבל מרפסות נובמבר\n\nכמה מקומות לשמור לך בקרון?\nאוריה 💕",
+   "ts": 1793795410000,
+   "date": "2026-11-04",
+   "time": "14:30",
+   "files": [],
+   "drive": null,
+   "thread": "אוריה דהישראלי"
+  },
+  {
+   "id": "AC94214B5A1FDF6B6B745503C262EF8C",
+   "sender": "Yonatan",
+   "text": "שלום שלום, שיהיה לנו בהצלחה.\nנקבע שיחה למתישהו או נעשה היכרות בהודעות? אני בסדר עם שניהם",
+   "ts": 1793796546000,
+   "date": "2026-11-04",
+   "time": "14:49",
+   "files": [],
+   "drive": null,
+   "thread": "Yonatan",
+   "phone": "972544784644"
+  },
+  {
+   "id": "A5908FDD093596436FBF6782289A6267",
+   "sender": "אני",
+   "text": "מתי נתקדם?",
+   "ts": 1793796851000,
+   "date": "2026-11-04",
+   "time": "14:54",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC37BC1035671B40C543094DD21F90A2",
+   "sender": "אורלי אוחנה",
+   "text": "אני בכנס מנהלים. צלצלתי הבוקר לא היתה תשובה",
+   "ts": 1793798029000,
+   "date": "2026-11-04",
+   "time": "15:13",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC7B0617FAF81D847F333C593EB1962A",
+   "sender": "אורלי אוחנה",
+   "text": "תוכל להגיע מחר שנענה על השאלון",
+   "ts": 1793798043000,
+   "date": "2026-11-04",
+   "time": "15:14",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "A525FB71145C3F29B8510D4B4E815A6E",
+   "sender": "אני",
+   "text": "בעזרת השם\nב 5 כיתות אפשר כבר עכשיו להפעיל 40 מחשבים בכיתה.",
+   "ts": 1793798360000,
+   "date": "2026-11-04",
+   "time": "15:19",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFE4174A402EEA9954B3D05A50C2C7F",
+   "sender": "Maxim Kogan",
+   "text": "במעבדות מחשבים( רשת אחרת) מראה לי יותר גבוה",
+   "ts": 1793799221000,
+   "date": "2026-11-04",
+   "time": "15:33",
+   "files": [],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "ACF615A27C495486E8CEEBFE89410BC6",
+   "sender": "Maxim Kogan",
+   "text": "",
+   "ts": 1793799237000,
+   "date": "2026-11-04",
+   "time": "15:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "392KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACF615A27C495486E8CEEBFE89410BC6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "ACE048AE8FB58E7C34FFD5A154555EDF",
+   "sender": "אורלי אוחנה",
+   "text": "ואווו באמת???",
+   "ts": 1793799257000,
+   "date": "2026-11-04",
+   "time": "15:34",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACB79E091C7922AD50CF31CAA839AC1F",
+   "sender": "Maxim Kogan",
+   "text": "במעבדות מחשוב",
+   "ts": 1793799357000,
+   "date": "2026-11-04",
+   "time": "15:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "349KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB79E091C7922AD50CF31CAA839AC1F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "3EB014015218467C74D808",
+   "sender": "אני",
+   "text": "להלן רשימת נושאים הלכתיים מרכזיים הקשורים לטיולים, כפי שהם מופיעים במקורות:\n\n* **היתר יציאה לטיול וזהירות מסכנות**:\n  * **גדר סכנה בטיולים**: היתר יציאה לטיול מדין \"שומר פתאים ה'\" במקומות שרבים רגילים לטייל בהם, לעומת טיול בדרכים מסוכנות.\n  * **חובת התכנון והזהירות**: זהירות מאיסור סיכון עצמי, תכנון מוקדם של המסלול, הצטיידות במים ושמירה על שעות האור.\n  * **מצוות טיול בארץ ישראל**: הערך והחשיבות של הטיול בארץ להתחברות לתנ\"ך ולאבות.\n\n* **ברכות הנהנין ושינוי מקום בטיול**:\n  * **ברכה ראשונה ואחרונה בהליכה**: כיצד מברכים על אכילה ושתייה תוך כדי מסלול או בהפסקות.\n  * **דין שינוי מקום בשטח**: מתי מעבר ממקום למקום מצריך ברכה חדשה, ומתי כוונה מראש או הליכה רציפה פוטרות מברכה נוספת.\n\n* **תפילה בציבור וזמני תפילה**:\n  * **תפילה במניין בטיול**: המאמץ הנדרש להגיע למניין (עד מרחק הליכה/נסיעה סביר), והיתר תפילה ביחידות כשאין מניין זמין.\n  * **שמירה על זמני התפילה**: הקפדה על סוף זמן קריאת שמע ותפילה גם כשיוצאים משגרת היום-יום.\n\n* **הלכות צניעות ולבוש בטיולים**:\n  * **צניעות בלבוש ובדיבור**: חובת ההקפדה על כללי הצניעות דווקא בעת יציאה מהשגרה והבית.\n  * **לבוש בנים ובנות**: הנחיות לגבי לבישת חצאית בטיול, ולבוש בנים בעת כניסה למים ויציאה מהם במהלך המסלול.\n  * **התמודדות עם מראות לא צנועים**: כיצד לנהוג כאשר נתקלים במראות בלתי צנועים במסלול.\n\n* **איסור ייחוד ונסיעה בטרמפים**:\n  * **ייחוד במסלולים מבודדים**: גדרי איסור ייחוד בטיולים במקומות שוממים (כגון במדבר או בגולן) ובשעות החשיכה.\n  * **כללי נסיעה בטרמפים**: זהירות מבחינה ביטחונית ושמירה על דיני ייחוד בטרמפים ובנסיעות בדרכים.\n\n* **טיולים במועדים ובימי אבלות**:\n  * **טיולים בחול המועד סוכות**: המחלוקת והפתרונות המעשיים לשילוב טיולים עם שמירה על מצוות סוכה (סוכה מתקפלת, אכילת ארעי).\n  * **טיולים בשלושת השבועות ותשעת הימים**: הלכות הליכה לים, לברכה ולמסלולים בימי בין המצרים.\n  * **חציצה והדלקת נרות חנוכה**: חובת הדלקת נרות חנוכה בעת יציאה לטיול ולינה בשטח.\n\n* **כשרות וברכות הראייה**:\n  * **בישולי עכו\"ם ופת עכו\"ם**: הקפדה על כשרות המאכלים ופת גויים בעת קנייה או אכילה בדרכים.\n  * **ברכות על תופעות טבע**: ברכות הראייה בעת צפייה באתרים מיוחדים (כגון כינרת מלאה או הר החרמון).\n\nפליתר אולי תרצה שנתמקד באחד מהנושאים הללו ונפרט את הפסיקה המעשית לגביו, או שנכין דף הנחיות קצר ומרוכז לקראת יציאה לטיול?",
+   "ts": 1793800418000,
+   "date": "2026-11-04",
+   "time": "15:53",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0D450B81D2902AA63E9",
+   "sender": "אני",
+   "text": "זה של משרד החינוך עם בזק?",
+   "ts": 1793800519000,
+   "date": "2026-11-04",
+   "time": "15:55",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC7C4FDCF9ACFBA5BEDF70FCC11F6FC4",
+   "sender": "Maxim Kogan",
+   "text": "כן , דרך בזק בינלאומי",
+   "ts": 1793800639000,
+   "date": "2026-11-04",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "AC0F589BC562D7F26552BF0B4E3F55DB",
+   "sender": "Maxim Kogan",
+   "text": "כן נכון ,ויש לנו סיב אופטי וסוויטשים חדשים ברוב המקומות שתומכים 1000",
+   "ts": 1793800690000,
+   "date": "2026-11-04",
+   "time": "15:58",
+   "files": [],
+   "drive": null,
+   "thread": "Maxim Kogan",
+   "phone": "972526158557"
+  },
+  {
+   "id": "AC5EC766FCE362A3BC0B307586095A75",
+   "sender": "אריאלה רוזנטל",
+   "text": "מחכה לתגובה שאכן בע\"ה תגיע.",
+   "ts": 1793802776000,
+   "date": "2026-11-04",
+   "time": "16:32",
+   "files": [],
+   "drive": null,
+   "thread": "אריאלה רוזנטל",
+   "phone": "972549982128"
+  },
+  {
+   "id": "3EB02FD1400E5383FFC604",
+   "sender": "אני",
+   "text": "כן בעזרת ה' בשמחה רבה",
+   "ts": 1793802944000,
+   "date": "2026-11-04",
+   "time": "16:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC4D8DB96339388AE6E4A443D5A07F37",
+   "sender": "אריאלה רוזנטל",
+   "text": "תודה.",
+   "ts": 1793805188000,
+   "date": "2026-11-04",
+   "time": "17:13",
+   "files": [],
+   "drive": null,
+   "thread": "אריאלה רוזנטל",
+   "phone": "972549982128"
+  },
+  {
+   "id": "ACA3BE562CACBA40F5D97C28D0CC9FE2",
+   "sender": "רפאל",
+   "text": "",
+   "ts": 1793805848000,
+   "date": "2026-11-04",
+   "time": "17:24",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "22KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1CD7PB9p-sHU8U3YMazZHQQL9VB1lis-0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "רפאל",
+   "phone": "972535397101"
+  },
+  {
+   "id": "3EB00BE9DCCBAC6DE461AB",
+   "sender": "Pc Online",
+   "text": "היי,\nתודה על ההזמנה 🙏\nשמתי לב שההזמנה נקלטה באתר ללא תשלום.\n\nאיך תרצה להמשיך?\nאפשר לשלוח לך קישור לתשלום מאובטח או פרטי חשבון להעברה בנקאית",
+   "ts": 1793805879000,
+   "date": "2026-11-04",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "thread": "Pc Online",
+   "phone": "97236005007"
+  },
+  {
+   "id": "3EB00E77CE3AC805639017",
+   "sender": "Pc Online",
+   "text": "פרטי הזמנה #202490",
+   "ts": 1793805891000,
+   "date": "2026-11-04",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "thread": "Pc Online",
+   "phone": "97236005007"
+  },
+  {
+   "id": "3EB072F187C2C2A83AC9E0",
+   "sender": "Pc Online",
+   "text": "₪ 2,025",
+   "ts": 1793805898000,
+   "date": "2026-11-04",
+   "time": "17:24",
+   "files": [],
+   "drive": null,
+   "thread": "Pc Online",
+   "phone": "97236005007"
+  },
+  {
+   "id": "3EB049CE298215F2B544A0",
+   "sender": "Pc Online",
+   "text": "ZNHBU, NUDCK,",
+   "ts": 1793805920000,
+   "date": "2026-11-04",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "thread": "Pc Online",
+   "phone": "97236005007"
+  },
+  {
+   "id": "3EB080ED291B0417D4C612",
+   "sender": "Pc Online",
+   "text": "זמינות מוגבלת",
+   "ts": 1793805927000,
+   "date": "2026-11-04",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "thread": "Pc Online",
+   "phone": "97236005007"
+  },
+  {
+   "id": "A59F41DB6B6E9A6E816DA7D61BCD267B",
+   "sender": "אני",
+   "text": "פרטי חשבון",
+   "ts": 1793810158000,
+   "date": "2026-11-04",
+   "time": "18:35",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5F7B58E5A8A40A94E4080B0920C5024",
+   "sender": "אני",
+   "text": "תפוסה השבת",
+   "ts": 1793810179000,
+   "date": "2026-11-04",
+   "time": "18:36",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0F30F7D4622989CAE43",
+   "sender": "Pc Online",
+   "text": "פרטי חשבון בנק להעברה בנקאית\nפי סי אונליין בע״מ\nבנק : הפועלים (12)\nסניף : 766 דוב גור אשדוד\nחשבון : 138013",
+   "ts": 1793810900000,
+   "date": "2026-11-04",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "thread": "Pc Online",
+   "phone": "97236005007"
+  },
+  {
+   "id": "3EB0BA963E7A671095B7D1",
+   "sender": "אני",
+   "text": "חלק א מוכן \nתן לי הכוונה איך להמשיך\nhttps://yudataub.github.io/nosaim/%D7%97%D7%99%D7%93%D7%95%D7%A0%D7%99%20%D7%9E%D7%A7%D7%95%D7%A8%20%D7%97%D7%99%D7%99%D7%9D%20-%20%D7%AA%D7%A6%D7%95%D7%92%D7%94%20%D7%9E%D7%A7%D7%93%D7%99%D7%9E%D7%94/",
+   "ts": 1793810970000,
+   "date": "2026-11-04",
+   "time": "18:49",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB04C08DAD355B1A97E3F",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793811295000,
+   "date": "2026-11-04",
+   "time": "18:54",
+   "files": [
+    {
+     "name": "reference_04112026_1854.xlsx",
+     "size": "21KB",
+     "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+     "path": "https://docs.google.com/spreadsheets/d/1J7tqUL9gSh78wwdbRI0p_ywz5ttHwuNS/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5C573C4B74B6AA92953E4D6D8AD7AF9",
+   "sender": "אני",
+   "text": "",
+   "ts": 1793815241000,
+   "date": "2026-11-04",
+   "time": "20:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5C573C4B74B6AA92953E4D6D8AD7AF9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A5A459B157A16AA0797",
+   "sender": "יוסף צבי רימון",
+   "text": "שלום הרב האם יש בעיתיות לעשות קיאקים בירדן מבחינה של רחצה מעורבת וגידרי צניעות?\nשלום אלעד,\nשאלה חשובה.\nאני חושב שאפשר אבל אם בדיוק יש קבוצה של נשים בבגדי ים, להמתין עד שהם ייכנסו ולהיכנס כמה דקות אחר כך. אסביר את הדברים.\n\n​בעקבות הפסוק \"ולא תתורו אחרי לבבכם ואחרי עיניכם\", למדו חז\"ל בספרי (במדבר ט\"ו, לט) ובירושלמי (ברכות פ\"א ה\"ה) שיש איסור להסתכל בנשים באופנים מסוימים. דבר זה הובא בספר המצוות לרמב\"ם (לאוין מ\"ז) ובחינוך (שפ\"ז) ועוד.\n​כאשר מדובר על הסתכלות במקומות צנועים שבאישה, אמרו חז\"ל דברים חמורים ביותר. הגמרא בברכות סא. אומרת:\n\"כל העובר אחורי אישה בנהר – אין לו חלק לעולם הבא\".\n​רש\"י מבאר, שכאשר האישה נמצאת בנהר \"מגבהת בגדיה מפני המים\"! מדובר על כיסוי טוב בהרבה מאשר בגד ים המצוי כיום, ובכל זאת דיברו חז\"ל בצורה כל כך חמורה.\n​הרמב\"ם (איסורי ביאה, פכ\"א, הכ\"א) פוסק ברוח זו:\n\"וכן אסור לאדם להסתכל בנשים בשעה שהן עומדות על הכביסה\".\n​שמא יאמר אדם: אני לא אבוא לידי הרהור. כתב עליו הרמב\"ם (הלכות תשובה, פ\"ד ה\"ד) שראיית העיניים בעצמה היא עוון גדול:\n\"המסתכל בעריות, מעלה על דעתו שאין בכך כלום, שהוא אומר וכי בעלתי או קרבתי אצלה? והוא אינו יודע שראיית העינים עון גדול, שהיא גורמת לגופן של עריות, שנאמר: \"ולא תתורו אחרי לבבכם ואחרי עיניכם\".\n​נשים בבגד ים, נחשבות כערומות (אמנם יש עירום מלא עוד יותר, וגרוע עוד יותר, אבל זה עדיין לא מכשיר את העירום הזה). מציאות זו חמורה בהרבה מכל המקורות שהבאתי קודם בשם חז\"ל.\n​כל הפוסקים שהתייחסו לכך בספרי השו\"ת התייחסו לכך בצורה חמורה מאוד. אצטט שניים, שהם נחשבים מפוסקי הציונות הדתית, ופוסקים מקלים במיוחד:\n​הרב אלימלך בר שאול (שהיה הרב הראשי לרחובות. מובא בספר קדושים תהיו עמ' 234) כתב:\n\"בכל עומק הכרתי, ללא כל רצון ונטיה להחמיר, הריני אומר כי בריכה מעורבת אסורה בהחלט מבחינת ההלכה ואיסורה מדאורייתא!\".\n​השני הוא הרב חיים דוד הלוי (בעל קיצור שלחן ערוך, מקור חיים) הכותב (שו\"ת עשה לך רב, ח\"ג, מא. ואני מדלג על דברים חריפים מידי):\n\"רחצה בחוף מעורב הוא איסור תורה... כי הוא אביזרייהו דגילוי עריות...\".\n​למרות האמור, נראה שיש לחלק בין מקרים שונים, ובמיוחד כשטיול בארץ ישראל חשוב, וזהו כמעט הבילוי היחיד שנותר לנו. לכן נראה כדלהלן:\n \nא. *שהייה או רחצה בחוף מעורב, בו נמצאות נשים בבגד ים* – אסורה בהחלט, וכאמור, דבר זה גובל באיסור תורה.\nב. *כאשר משפחה הולכת לפינה בחוף, ובאיזור הקרוב אליה אין אנשים, ורק מרחוק ניתן להבחין בנשים בבגד ים, אך לא רואים בבירור וכו' (כמו בכינרת למשל, או במקומות אחרים)* – נראה שניתן להקל ולהיכנס לים. גם במקרה זה, הנשים תיכנסנה עם בגדים (או עם בגדי ים החדשים, שמכסים כמו בגדים, ועם כיסוי ראש לנשואות וכדומה), מחשש שמישהו יעבור שם.\nג. *טיול במסלול (יבש או רטוב)* שעשויות לעבור שם לעתים נשים בלבוש לא צנוע: יש הבדל בין ראיה ובין הסתכלות. כאשר נמצאים בחוף, הרי ששוהים במקום, ובהכרח רואים נשים בבגדי ים, לאורך זמן (דבר המוגדר כהסתכלות, האסורה). מאידך, כאשר הולכים במסלול, יבש או רטוב, המצב טוב בהרבה. בדרך כלל אנשים ונשים לבושים שם בצניעות, אבל ייתכן שמידי פעם תחלוף איזו אישה בבגד ים. לכן, נראה שיש מקום להקל למשפחה לטייל במסלולים כאלה, כיוון שמדובר על ראייה רגעית ולא על הסתכלות, וכיוון שבדרך כלל המציאות צנועה שם, וכיוון שכמעט ואין אופציה אחרת לטייל (כמובן, שבני נוער – שבט ההולך יחד וכדומה – לא ייכנסו יחדיו גם למעיין שכזה, גם כשהם לבושים, והחילוק ברור. עיינו עוד בסעיף הבא).\nד. *נוער: בנים ובנות לא ייכנסו יחד למעיין אחד, גם אם הם לבושים*, אלא אם כן המעיין גדול מאוד, והם רחוקים זה מזה בצורה משמעותית (שאין קשר בין הקבוצות). גם אז, הבנות חייבות להיכנס בלבוש מלא. באופן כללי, כאשר מדובר על בני נוער, קלות ראש וכדומה, בעייתית הרבה יותר, ולכן צריך להקפיד הרבה יותר. לכן, בטיולים של נוער, יש להקפיד שכאשר הבנות נכנסות, הבנים לא יהיו באיזור, ואחר כך הבנות ילכו להתייבש בצד (כי גם בגד רטוב איננו צנוע) ואז ייכנסו הבנים.\nה. *שחייה של משפחה בבריכה מותרת כשהם לבדם.* אם יש שם משפחה נוספת, הדבר יכול להיות מותר רק אם יש רווח משמעותי בינם ובין המשפחה האחרת, ורק אם כל הנשים (הנמצאות על שפת הבריכה או במים) לבושות בלבוש מלא (או בבגד ים החדש, שנראה כלבוש מלא, בתוספת כמובן לכיסוי ראש לנשואות).\n\nבהצלחה רבה בע''ה",
+   "ts": 1793815876000,
+   "date": "2026-11-04",
+   "time": "20:11",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3AD90E69ACE76586BF10",
+   "sender": "יוסף צבי רימון",
+   "text": "נראה כיוון טוב",
+   "ts": 1793815922000,
+   "date": "2026-11-04",
+   "time": "20:12",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "4AB94882F3B432BF5F3E",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793816009000,
+   "date": "2026-11-04",
+   "time": "20:13",
+   "files": [
+    {
+     "name": "טיול בסוכות בקצרה.docx",
+     "size": "15KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Tw-o_SQGX7PE7RaLo2usAv4MweKbmDYx/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "4AA285A8E8E94CD017CD",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793816027000,
+   "date": "2026-11-04",
+   "time": "20:13",
+   "files": [
+    {
+     "name": "טיולים בסוכות - מהלך תשע'ב.doc",
+     "size": "143KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1fujN3qw6RzZJ8GPIUq7M14KH28ltPCO1/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "4A8F69022E1584709BEA",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793816052000,
+   "date": "2026-11-04",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "טיולים בסוכות - מקוצר - לשבת בשבתו.doc",
+     "size": "48KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1r_30vnBNQ8mQMFrIesF-p1sNqQFOTskb/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "4AB66C0B29FF37900280",
+   "sender": "יוסף צבי רימון",
+   "text": "",
+   "ts": 1793816081000,
+   "date": "2026-11-04",
+   "time": "20:14",
+   "files": [
+    {
+     "name": "טיולים בסוכות - מקוצר יותר .doc",
+     "size": "42KB",
+     "type": "application/msword",
+     "path": "https://docs.google.com/document/d/1uyXv_kfGx-ZDFHooxA8YgsKv6kKadu4Z/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "A561634478E7F71E0B326BF2393FA2EA",
+   "sender": "אני",
+   "text": "תראה איך הוא עשה הלכות צניעות מהספר שלך?",
+   "ts": 1793816097000,
+   "date": "2026-11-04",
+   "time": "20:14",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A1318C1C10234AE625D",
+   "sender": "יוסף צבי רימון",
+   "text": "היכן לראות?",
+   "ts": 1793816543000,
+   "date": "2026-11-04",
+   "time": "20:22",
+   "files": [],
+   "drive": null,
+   "thread": "יוסף צבי רימון",
+   "phone": "972525456060"
+  },
+  {
+   "id": "3EB02ACFD0429D03A2D21F",
+   "sender": "אלקנה שטראוס",
+   "text": "ממש כיף שההלכות ממש מתוך החוברת עצמה ונותן טעמים וערכים. מדהים!",
+   "ts": 1793817356000,
+   "date": "2026-11-04",
+   "time": "20:35",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0A6048D0CCEA79AA236",
+   "sender": "אלקנה שטראוס",
+   "text": "החידון עצמו עובד בעיקר על הבנה ויישום. שכבר זה זה מעותה ויפה מאוד",
+   "ts": 1793817378000,
+   "date": "2026-11-04",
+   "time": "20:36",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0421DA7A4C43942571A",
+   "sender": "אלקנה שטראוס",
+   "text": "אם היה גם שאלות על מושגים ולשון חכמים זה היה יכול להיות מעולה",
+   "ts": 1793817527000,
+   "date": "2026-11-04",
+   "time": "20:38",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB07CF83274F97336A5FD",
+   "sender": "אלקנה שטראוס",
+   "text": "יש לי רעיון.\nנעשה פילוט של חידות למה שלמדו בחודש חשוון.\nאכתוב לך את המושגים ולשון חכמים",
+   "ts": 1793817621000,
+   "date": "2026-11-04",
+   "time": "20:40",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0582D565F9A87EC9CB7",
+   "sender": "אלקנה שטראוס",
+   "text": "*כיתה ד- סימנים א-ב, ו, יא*\n*מושגים:* כוונת הלב, עבודת הבורא, נטילה לסרוגין, השכמת בית-הכנסת, הקרן קיימת לו לעולם הבא, פסוקי דזמרה, ברוך שאמר, ישתבח, כוונה, לא יצא ידי חובה, צורך מצווה.\n*לשון חכמים:* לנגדנו (נמצא לפנינו), משקיף, בשעת, כראוי, המשכים, מתינות, אימה ויראה, לשהות, קלות ראש, שחוק, היתול, שנת עראי, היטב.",
+   "ts": 1793817897000,
+   "date": "2026-11-04",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0910F2F681F06D5F616",
+   "sender": "אלקנה שטראוס",
+   "text": "*כיתה ו- סימנים ה, יג-יד*\n*מושגים:* מנהג אבות, ברכות השחר, ברכות התורה, מאה ברכות, כבד ראש, קלות ראש, קורבן תמיד, קורבן תמיד של שחר, קורבן תמיד של בין הערבים, תפילת עמידה, ברכת אבות, אמות (כחצי מטר), עול מלכות שמים, בשעת הדחק, חכמי כנסת הגדולה, ברכת המינים.\n*לשון חכמים:* יזדקף, בזמנן, שוהים, מכניעים, כנגד, שפלות, יראה, הכנעה, תיקן, יחצוץ, טרוד, רשאי, כורעים, שיתפוקקו, להטות, לכרוע",
+   "ts": 1793818378000,
+   "date": "2026-11-04",
+   "time": "20:52",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB081D284885D6FE64B79",
+   "sender": "אלקנה שטראוס",
+   "text": "*כיתה ה- סימנים ה, יג-יד*\n*מושגים:* מנהג אבות, ברכות השחר, ברכות התורה, מאה ברכות, כבד ראש, קלות ראש, קורבן תמיד, קורבן תמיד של שחר, קורבן תמיד של בין הערבים, תפילת עמידה, ברכת אבות, אמות (כחצי מטר), עול מלכות שמים, בשעת הדחק, חכמי כנסת הגדולה, ברכת המינים.\n*לשון חכמים:* יזדקף, בזמנן, שוהים, מכניעים, כנגד, שפלות, יראה, הכנעה, תיקן, יחצוץ, טרוד, רשאי, כורעים, שיתפוקקו, להטות, לכרוע",
+   "ts": 1793818403000,
+   "date": "2026-11-04",
+   "time": "20:53",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB09D729ED6F6303C39EB",
+   "sender": "אלקנה שטראוס",
+   "text": "*כיתה ו- סימנים טו-טז, יח, ט*\n*מושגים:* ברכת גבורות, שמיני עצרת, לצאת מן הספק, ברכת השנים, עולי רגלים, מצוות עשה, כבוד הציבור, זכר למקדש, נשיאת כפיים, עת רצון, תפילת עמידה, מניין (תפילה), דבר שבקדושה\n*לשון חכמים:* שקולה, מפורשת, שואלים (גשמים), חרב (נהרס), בטלה, דוכן, כוללת, נכסיך (הנכסים שלך), יוצק, לעקור (להזיז), לשלשל (לפרוס), הופכים (מסובבים), מואס, לשתף.",
+   "ts": 1793818708000,
+   "date": "2026-11-04",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "A5BAC5D9429EC98008A7A5F4A2DE3454",
+   "sender": "אני",
+   "text": "בקבצים למעלה",
+   "ts": 1793818758000,
+   "date": "2026-11-04",
+   "time": "20:59",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5A6ABC3D699A2BC3C8117EE321FA2CD",
+   "sender": "אני",
+   "text": "כרגע יש חמש פה ובהמשך אני אשלח את השער צריך כמובן להוסיף",
+   "ts": 1793818793000,
+   "date": "2026-11-04",
+   "time": "20:59",
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"

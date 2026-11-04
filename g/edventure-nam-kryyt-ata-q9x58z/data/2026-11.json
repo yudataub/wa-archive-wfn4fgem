@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "Edventure & נעם קריית אתא",
- "updated": "2026-11-03T16:45:24.733Z",
+ "updated": "2026-11-04T17:34:07.522Z",
  "messages": [
   {
    "id": "3AD157C3993452BFBC53",
@@ -79,6 +79,111 @@
    "files": [],
    "drive": null,
    "phone": "972528686062"
+  },
+  {
+   "id": "3A4E6CA0067DF83BC493",
+   "sender": "Or Gibly",
+   "text": "בוקר טוב \nהכל קורה בחדר מחשבים?",
+   "ts": 1793769876000,
+   "date": "2026-11-04",
+   "time": "07:24",
+   "files": [],
+   "drive": null,
+   "phone": "972543372753"
+  },
+  {
+   "id": "AC73F01134DC8FC566853048901555A0",
+   "sender": "אורלי אוחנה",
+   "text": "כן",
+   "ts": 1793769935000,
+   "date": "2026-11-04",
+   "time": "07:25",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3ADBB973559D4D86719E",
+   "sender": "Or Gibly",
+   "text": "אנחנו תקועים בפקק יחסית רציני, אולי מאחר ב5-10 דק",
+   "ts": 1793773631000,
+   "date": "2026-11-04",
+   "time": "08:27",
+   "files": [],
+   "drive": null,
+   "phone": "972543372753"
+  },
+  {
+   "id": "3EB06E4BB54B8461BDE2F2",
+   "sender": "Edventure",
+   "text": "מורי ומורות בי\"ס נועם היקרים!\nשמחנו *מאוד* להגיע ולהדריך אתכם היום!\nאנחנו מקפיצים פה את המדריכים שלנו לנוחיותכם, בפורמט קריא ובסרטונים, וכאן לשירותכם תמיד לכל שאלה או בעיה שעולה!\n\nבברכה,\nהחברים מEdventure.",
+   "ts": 1793813603000,
+   "date": "2026-11-04",
+   "time": "19:33",
+   "files": [],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "3EB03B8FEBFBE0A3A04E70",
+   "sender": "Edventure",
+   "text": "",
+   "ts": 1793813624000,
+   "date": "2026-11-04",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "מדריך למורה - Edventure Hub.pdf",
+     "size": "5.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PIaw8LqW1AcpybnTKeiQLah__YLSZp6_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "3EB0A1E87B581DC403E748",
+   "sender": "Edventure",
+   "text": "",
+   "ts": 1793813624000,
+   "date": "2026-11-04",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "60.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1N4t1IGJt8Laf-qec8qSgKBjDV5PQnkiL/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0A1E87B581DC403E748_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1N4t1IGJt8Laf-qec8qSgKBjDV5PQnkiL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552708412"
+  },
+  {
+   "id": "3EB054B1CFC17612476FCD",
+   "sender": "Edventure",
+   "text": "",
+   "ts": 1793813625000,
+   "date": "2026-11-04",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "20.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1nxZiKtKJoiJNQ4kVj2UUY-NV5GV7xlVF/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB054B1CFC17612476FCD_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1nxZiKtKJoiJNQ4kVj2UUY-NV5GV7xlVF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552708412"
   }
  ]
 }

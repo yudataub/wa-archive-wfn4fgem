@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-11-03T14:39:31.838Z",
+ "updated": "2026-11-04T16:15:50.214Z",
  "messages": [
   {
    "id": "A531A47E0E0ACE55B3CB85B1CDE02DA7",
@@ -444,6 +444,28 @@
    "files": [],
    "drive": null,
    "phone": "972505848342"
+  },
+  {
+   "id": "ACE9BA3265231D2132AA793310287930",
+   "sender": "זיאד פאהום",
+   "text": "https://phone-ziad.sites.tab.bot/",
+   "ts": 1793807923000,
+   "date": "2026-11-04",
+   "time": "17:58",
+   "files": [],
+   "drive": null,
+   "phone": "972507975380"
+  },
+  {
+   "id": "3EB06BD511B082BE7BAF1F",
+   "sender": "سهير تلاوي هريش \"ام بشار",
+   "text": "s",
+   "ts": 1793808927000,
+   "date": "2026-11-04",
+   "time": "18:15",
+   "files": [],
+   "drive": null,
+   "phone": "972546304741"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיווק בין מאמנים",
- "updated": "2026-11-02T15:18:28.183Z",
+ "updated": "2026-11-04T17:21:37.314Z",
  "messages": [
   {
    "id": "3EB06DFDBC575B144E53AD",
@@ -16,6 +16,25 @@
      "size": "335KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3EB06DFDBC575B144E53AD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB0536AF5E2E341B70589",
+   "sender": "קובי גטניו",
+   "text": "עולים לשידור לייב היום בשעה 20:00 בקהילה:אימון אישי-מרכז הקואצ'ינג הישראלי.קישור לשידור:https://yozmotgroup.zoom.us/j/87915684080",
+   "ts": 1793812890000,
+   "date": "2026-11-04",
+   "time": "19:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB0536AF5E2E341B70589_1.jpg",
      "skipped": ""
     }
    ],

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-03T09:14:46.805Z",
+ "updated": "2026-11-04T17:12:37.192Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -54,6 +54,36 @@
    "files": [],
    "drive": null,
    "phone": "972509786520"
+  },
+  {
+   "id": "AC9F3AED4C4F7B2ABC7AA61DD922586E",
+   "sender": "גיא כהן",
+   "text": "מי יכול לשלוח את זה שוב? תודה",
+   "ts": 1793812034000,
+   "date": "2026-11-04",
+   "time": "19:07",
+   "files": [],
+   "drive": null,
+   "phone": "972507463833"
+  },
+  {
+   "id": "AC4E9F5200E1E858553CA813DC59E29C",
+   "sender": "רונית",
+   "text": "",
+   "ts": 1793812355000,
+   "date": "2026-11-04",
+   "time": "19:12",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת.mp3",
+     "size": "3.3MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/182BlapYgFsOapxZ8jdt8sXT9z8RVhn_Q/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523664663"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מחוז חרדי משרד החינוך (3)",
- "updated": "2026-11-02T19:45:56.467Z",
+ "updated": "2026-11-04T06:17:58.922Z",
  "messages": [
   {
    "id": "A565327EF9E9CA45F728982C52BCE69B",
@@ -92,6 +92,25 @@
      "size": "356KB",
      "type": "image/jpeg",
      "path": "media/2026-11/A5AD03869D4D0DE4732BF73D4F291B33_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
+  },
+  {
+   "id": "A5C3842F6E3B2157DA71DB38A66BFC12",
+   "sender": "שחר שאער",
+   "text": "",
+   "ts": 1793773068000,
+   "date": "2026-11-04",
+   "time": "08:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5C3842F6E3B2157DA71DB38A66BFC12_1.jpg",
      "skipped": ""
     }
    ],

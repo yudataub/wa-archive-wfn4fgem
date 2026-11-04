@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-03T04:17:24.651Z",
+ "updated": "2026-11-04T04:45:55.801Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -149,6 +149,44 @@
      "size": "124KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3A8F96BB53765D074E5C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AAF33B615ABDCE85E08",
+   "sender": ".",
+   "text": "״היו לו בנים בהיותו עובד כוכבים והתגייר״ (בכורות מז, א).",
+   "ts": 1793767523000,
+   "date": "2026-11-04",
+   "time": "06:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "142KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AAF33B615ABDCE85E08_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A408E6C51269F4A672D",
+   "sender": ".",
+   "text": "״הוכרו ולבסוף נתערבו״ (בכורות מז, ב).",
+   "ts": 1793767531000,
+   "date": "2026-11-04",
+   "time": "06:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A408E6C51269F4A672D_1.jpg",
      "skipped": ""
     }
    ],

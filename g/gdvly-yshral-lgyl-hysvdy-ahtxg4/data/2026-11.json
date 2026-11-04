@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-11-03T15:53:48.186Z",
+ "updated": "2026-11-04T15:52:19.454Z",
  "messages": [
   {
    "id": "ACEB9B32BF16BB4C7F7855467466FB1D",
@@ -117,6 +117,28 @@
    "files": [],
    "drive": null,
    "phone": "972503070424"
+  },
+  {
+   "id": "AC918EFE09C2FEFD45649FE0EF656BE1",
+   "sender": "אוהד אהרון",
+   "text": "אשמח לדף נחיתה של מיזם \"תפילה באהבה\"",
+   "ts": 1793805908000,
+   "date": "2026-11-04",
+   "time": "17:25",
+   "files": [],
+   "drive": null,
+   "phone": "972526228186"
+  },
+  {
+   "id": "AC5F6E20A6D5308E9A517895EA944FC3",
+   "sender": "אוהד חזי",
+   "text": "https://sites.google.com/view/tfilabeahavalink/%D7%91%D7%99%D7%AA?pli=1&authuser=0",
+   "ts": 1793807520000,
+   "date": "2026-11-04",
+   "time": "17:52",
+   "files": [],
+   "drive": null,
+   "phone": "972587075770"
   }
  ]
 }

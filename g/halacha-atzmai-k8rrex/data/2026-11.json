@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-03T19:05:43.072Z",
+ "updated": "2026-11-04T11:19:12.423Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -480,6 +480,238 @@
    "files": [],
    "drive": null,
    "phone": "972523003393"
+  },
+  {
+   "id": "AC985D49F1F7345DBDDE1F47A689C0EA",
+   "sender": "יוסף חי",
+   "text": "בוקר טוב.מישהו יכול לשלוח קישור להכנס לאתר איפה שמעלים הכל?",
+   "ts": 1793770597000,
+   "date": "2026-11-04",
+   "time": "07:36",
+   "files": [],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "AC184B31A9DBCEA11CE2EE78FF1E0B84",
+   "sender": "זהבה",
+   "text": "נמצא בתאור הקבוצה",
+   "ts": 1793770739000,
+   "date": "2026-11-04",
+   "time": "07:38",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "AC8FA37398ED154AB84367A44CDA9A09",
+   "sender": "יוסף חי",
+   "text": "אני לא מצליח להכנס לתאור הקבוצה",
+   "ts": 1793773083000,
+   "date": "2026-11-04",
+   "time": "08:18",
+   "files": [],
+   "drive": null,
+   "phone": "972586379408"
+  },
+  {
+   "id": "ACF1C805DDDF77093F474EE2BF2DC7E5",
+   "sender": "Gili Zehavi",
+   "text": "https://www.classe.world/go/6u8yex0lh0t7nuza",
+   "ts": 1793774032000,
+   "date": "2026-11-04",
+   "time": "08:33",
+   "files": [],
+   "drive": null,
+   "phone": "972507813420"
+  },
+  {
+   "id": "AC89FEC1EBFA39848674567C0587ED26",
+   "sender": "רננה אזולאי",
+   "text": "אפשר בבקשה לקבל את הסילבוס של ההשתלמות?",
+   "ts": 1793774094000,
+   "date": "2026-11-04",
+   "time": "08:34",
+   "files": [],
+   "drive": null,
+   "phone": "972526637266"
+  },
+  {
+   "id": "3EB07AE81845EDC8E02C05",
+   "sender": "אברהם פויכטונגר",
+   "text": "יש אותו כאן באתר",
+   "ts": 1793774851000,
+   "date": "2026-11-04",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB07AE81845EDC8E02C05_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523003393"
+  },
+  {
+   "id": "AC67F443F48A5AB5A1B59043225FC0B9",
+   "sender": "יאיר אדלר",
+   "text": "",
+   "ts": 1793776450000,
+   "date": "2026-11-04",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "615KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC67F443F48A5AB5A1B59043225FC0B9_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523857497"
+  },
+  {
+   "id": "AC937ED5AAEED4FE86F67C1FC996E2BF",
+   "sender": "יאיר אדלר",
+   "text": "",
+   "ts": 1793776451000,
+   "date": "2026-11-04",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "458KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC937ED5AAEED4FE86F67C1FC996E2BF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523857497"
+  },
+  {
+   "id": "AC96C27D2F68E3D30E349B84F5ED1BAA",
+   "sender": "יאיר אדלר",
+   "text": "תחנה 1 למידה בחברותא",
+   "ts": 1793776452000,
+   "date": "2026-11-04",
+   "time": "09:14",
+   "files": [],
+   "drive": null,
+   "phone": "972523857497"
+  },
+  {
+   "id": "ACB88EAAB4669D9D1707B4A77E9D7CA5",
+   "sender": "יאיר אדלר",
+   "text": "",
+   "ts": 1793776452000,
+   "date": "2026-11-04",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "513KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB88EAAB4669D9D1707B4A77E9D7CA5_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523857497"
+  },
+  {
+   "id": "ACD9E2A8FA30A803E3C020DD66EF2262",
+   "sender": "יאיר אדלר",
+   "text": "",
+   "ts": 1793776452000,
+   "date": "2026-11-04",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "468KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACD9E2A8FA30A803E3C020DD66EF2262_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523857497"
+  },
+  {
+   "id": "3A0664A443BAEA335AA7",
+   "sender": "חיה לוי",
+   "text": "",
+   "ts": 1793790293000,
+   "date": "2026-11-04",
+   "time": "13:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "299KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A0664A443BAEA335AA7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587055508"
+  },
+  {
+   "id": "3ABFA7B20B00871C4F93",
+   "sender": "חיה לוי",
+   "text": "תחנה 1\nעבודה עיונית מציאת התשובות לשאלות \nמהחוברת מתוך הספר\nתחנה 2\n פיתרון חידות על הנושא ומציאת התשובות בתפזורת",
+   "ts": 1793790293000,
+   "date": "2026-11-04",
+   "time": "13:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "305KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3ABFA7B20B00871C4F93_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587055508"
+  },
+  {
+   "id": "AC413CF01B7E1E54E1149357910347D3",
+   "sender": "זהבה",
+   "text": "ממש רעיונות מהממים.\nהאם יש את ריכוז הקבצים שהמורים מכינים במקום מסויים? שיהיה נגיש לכולם?",
+   "ts": 1793790988000,
+   "date": "2026-11-04",
+   "time": "13:16",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "3A6640818B628F5096D8",
+   "sender": "חיה לוי",
+   "text": "העלנו לפאדלט",
+   "ts": 1793791019000,
+   "date": "2026-11-04",
+   "time": "13:16",
+   "files": [],
+   "drive": null,
+   "phone": "972587055508"
+  },
+  {
+   "id": "AC31502280932EE61205E09C7B6BC49F",
+   "sender": "זהבה",
+   "text": "❤️",
+   "ts": 1793791128000,
+   "date": "2026-11-04",
+   "time": "13:18",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
   }
  ]
 }
