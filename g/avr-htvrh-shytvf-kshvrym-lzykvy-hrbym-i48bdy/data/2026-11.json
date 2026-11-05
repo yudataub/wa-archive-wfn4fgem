@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"אור התורה\" 🕍 שיתוף קשורים לזיכוי הרבים",
- "updated": "2026-11-03T20:29:50.469Z",
+ "updated": "2026-11-05T16:23:16.479Z",
  "messages": [
   {
    "id": "A55C18B9A8EAD884F995FFCEF592D7B1",
@@ -34,6 +34,28 @@
    "files": [],
    "drive": null,
    "phone": "972527188781"
+  },
+  {
+   "id": "AC6FB1E170F0BFDE13E0C7ED4A58FF6F",
+   "sender": ".",
+   "text": "https://youtube.com/shorts/gm2omxGJAnA?si=XEoH5iEclJL3arjD",
+   "ts": 1793895766000,
+   "date": "2026-11-05",
+   "time": "18:22",
+   "files": [],
+   "drive": null,
+   "phone": "972503611268"
+  },
+  {
+   "id": "AC9BB26E68BD8207F62061107899BC61",
+   "sender": ".",
+   "text": "https://youtube.com/shorts/gm2omxGJAnA?si=XEoH5iEclJL3arjD",
+   "ts": 1793895787000,
+   "date": "2026-11-05",
+   "time": "18:23",
+   "files": [],
+   "drive": null,
+   "phone": "972503611268"
   }
  ]
 }

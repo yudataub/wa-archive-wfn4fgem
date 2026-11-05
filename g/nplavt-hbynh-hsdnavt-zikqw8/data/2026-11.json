@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-11-04T10:01:56.928Z",
+ "updated": "2026-11-05T11:56:11.425Z",
  "messages": [
   {
    "id": "3EB0ACDC9E12640E1E2FFA",
@@ -68,6 +68,46 @@
      "size": "240KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3EB0143E8FA594685676EF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC3BBA0DFE0CBF7D0E5052CD82497DA8",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*חדש בGPT* יצירת תמונת Gif מונפשת. כותבים בפרומפט: צור גיפ של..\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\n💚 שירה",
+   "ts": 1793866817000,
+   "date": "2026-11-05",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "84KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1POHEo5GqBIV7P2u2VM5WPYpcTHZadmdN/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC3BBA0DFE0CBF7D0E5052CD82497DA8_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1POHEo5GqBIV7P2u2VM5WPYpcTHZadmdN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB05C4594FCA827213C4E",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "היום בפרומפט היומי\n*התמונה שלך בצבעי המותג - הלוגו / המותג שלך*\nהפכו את התמונה שלכם לתמונה קטלוגית בצבעי המותג שלכם. העלו למחולל תמונות את הלוגו שלכם והתמונה שלכם וצרפו את הפרומפט\nלפרומפט היומי: https://www.lomdot.org/dailyprompt\nבסדנאות נובמבר אני מסבירה איך יצרתי את אתר *הפרומפט היומי*\nמוזמנים להצטרף ולהתחיל לבנות: https://www.lomdot.org/november-workshops\nקוד הנחה 15% לחברי הקהילה: WA15",
+   "ts": 1793879755000,
+   "date": "2026-11-05",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB05C4594FCA827213C4E_1.jpg",
      "skipped": ""
     }
    ],

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-11-04T06:44:57.669Z",
+ "updated": "2026-11-05T17:44:17.341Z",
  "messages": [
   {
    "id": "A536C79BE19E2BCCEEA23C666D662BA6",
@@ -65,6 +65,27 @@
    ],
    "drive": null,
    "phone": "972504610064"
+  },
+  {
+   "id": "3EB0A6F9E02DFB2B8FFD2E",
+   "sender": "לטס בינה מלאכותית",
+   "text": "אנחנו עושים סדר - שלושה מקצועות העידן החדש, ולכל אחד ייעוד אחר:\n✅ נתחיל עם *AI Engineer:* איש פיתוח שמשלב יכולות AI מתקדמות ב-Workflows.\n✅ ה-FDE זה קיצור של *Forward Deployed Engineer*. כל FDE הוא AI Engineer, אבל לא כל AI Engineer הוא FDE.\n✅ וה- *AI Solution Architect* - הפוזיציה הבכירה שמסייעת לחברות וארגונים להוביל תהליכי שינוי טכנולוגיים ותרבותיים, לאפיין, לפתח ולהטמיע.\n\n*רוצם לדעת איזה תפקיד הכי מתאים לכם? תאמו פגישה עם יועצי הלימודים שלנו* 👇\nhttps://ltsai.co/booking/",
+   "ts": 1793900631000,
+   "date": "2026-11-05",
+   "time": "19:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "20.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1zBFUzsb-Smn9IHwkB9w7EO8kjT1QwT5O/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0A6F9E02DFB2B8FFD2E_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1zBFUzsb-Smn9IHwkB9w7EO8kjT1QwT5O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586408042"
   }
  ]
 }

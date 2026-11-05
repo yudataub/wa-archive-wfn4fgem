@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-04T04:45:55.801Z",
+ "updated": "2026-11-05T04:04:00.517Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -187,6 +187,44 @@
      "size": "170KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3A408E6C51269F4A672D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2586D75332BC65D215",
+   "sender": ".",
+   "text": "״וילדה שני זכרים״ (בכורות מח, א).",
+   "ts": 1793851425000,
+   "date": "2026-11-05",
+   "time": "06:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A2586D75332BC65D215_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AB47B441DDEEF7480E4",
+   "sender": ".",
+   "text": "״דכל חד וחד אומר הנקבה שלי היא״ (רש״י בכורות מח, ב).",
+   "ts": 1793851427000,
+   "date": "2026-11-05",
+   "time": "06:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AB47B441DDEEF7480E4_1.jpg",
      "skipped": ""
     }
    ],

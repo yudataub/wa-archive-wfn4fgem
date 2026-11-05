@@ -1,0 +1,67 @@
+{
+ "month": "2026-11",
+ "group": "כישורי חיים מהפרשה",
+ "updated": "2026-11-05T19:23:53.357Z",
+ "messages": [
+  {
+   "id": "A5463BF88870C5DAA09E11188F1B1017",
+   "sender": "אלחנן שניאור",
+   "text": "פרשת חיי שרה",
+   "ts": 1793898736000,
+   "date": "2026-11-05",
+   "time": "19:12",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A500A0A89328F98EBC777C4415433A83",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1793898737000,
+   "date": "2026-11-05",
+   "time": "19:12",
+   "files": [
+    {
+     "name": "חיי שרה 76df",
+     "size": "574KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1uOD0vDFkJS4EEPtEFA8PuSbuKPWUngGz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A53A673DFF31CA6BB75F5F7A49D9E4F9",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1793898738000,
+   "date": "2026-11-05",
+   "time": "19:12",
+   "files": [
+    {
+     "name": "חיי שרה 58 (1).pdf",
+     "size": "565KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DN1RODf5FfMWq9NsofOtj7l-NmFQ1y4o/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "2AD63CA9E9C58BA15192",
+   "sender": "יהודית שניאור",
+   "text": "https://youtube.com/shorts/5HugeYpdfng?feature=share",
+   "ts": 1793906618000,
+   "date": "2026-11-05",
+   "time": "21:23",
+   "files": [],
+   "drive": null,
+   "phone": "972548496309"
+  }
+ ]
+}

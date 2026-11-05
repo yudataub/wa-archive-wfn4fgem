@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-04T18:43:18.902Z",
+ "updated": "2026-11-05T14:18:09.528Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -1011,6 +1011,140 @@
    "files": [],
    "drive": null,
    "phone": "972586342815"
+  },
+  {
+   "id": "ACCDEF2143AF595945599FBF4D90C338",
+   "sender": "יזהר פינטוס",
+   "text": "",
+   "ts": 1793851577000,
+   "date": "2026-11-05",
+   "time": "06:06",
+   "files": [
+    {
+     "name": "השתלמויות תנך תשפז.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BMODaWB-x7aiw5_y1xph74TLb_wEUwoM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "ACA2EEAF7317DBE0686EC4E72CD6D027",
+   "sender": "יזהר פינטוס",
+   "text": "",
+   "ts": 1793863321000,
+   "date": "2026-11-05",
+   "time": "09:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "341KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA2EEAF7317DBE0686EC4E72CD6D027_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC559FF93A97D41F3B0AB06DE738A844",
+   "sender": "יזהר פינטוס",
+   "text": "שימו לב!\nבכיתות ד', ו' בתנך יד חובת היבחנות ומיפוי. יישלחו מבחנים חדשים מטעם המשרד.\nבכיתות ג', ה' אם מחליטים לבחון ולמפות זה דבר מבורך - ויש לבחון על בסיס מבחנים שקיימים בפורטל",
+   "ts": 1793863323000,
+   "date": "2026-11-05",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC87AFE692623DA55C0D1DD88FC1DC98",
+   "sender": "חן דרמר",
+   "text": "יש קישור לקבוצה?",
+   "ts": 1793873407000,
+   "date": "2026-11-05",
+   "time": "12:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528751767"
+  },
+  {
+   "id": "3ABF04F19B92FDD07E7C",
+   "sender": "אפרת שמחה🐬",
+   "text": "יש דפי חזרה למבחן הארצי?",
+   "ts": 1793876676000,
+   "date": "2026-11-05",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972522992449"
+  },
+  {
+   "id": "ACB4151D8B390D5D9E6CA614C2292BCF",
+   "sender": "יזהר פינטוס",
+   "text": "👆🏽כאמור הכל מבוסס על האתר",
+   "ts": 1793876901000,
+   "date": "2026-11-05",
+   "time": "13:08",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC7923D593A5E79CFF0D45E900781C7F",
+   "sender": "איילה",
+   "text": "המבחנים של ד ו עם בוחנים חיצוניים? מקבלים מודפס?\nאו צריך להדפיס לבד?",
+   "ts": 1793878173000,
+   "date": "2026-11-05",
+   "time": "13:29",
+   "files": [],
+   "drive": null,
+   "phone": "972527279066"
+  },
+  {
+   "id": "ACB6AE3A201F35F72824923C02C4FAB9",
+   "sender": "יזהר פינטוס",
+   "text": "מקבלים ומדפיסים",
+   "ts": 1793878313000,
+   "date": "2026-11-05",
+   "time": "13:31",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC0AC6054D6C886380BBDAF843D0E96B",
+   "sender": "איילה",
+   "text": "יש אקסל למיפוי?",
+   "ts": 1793887498000,
+   "date": "2026-11-05",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972527279066"
+  },
+  {
+   "id": "AC9D822CE406DDA970FDBC9527D92C8D",
+   "sender": "שיראל",
+   "text": "",
+   "ts": 1793888243000,
+   "date": "2026-11-05",
+   "time": "16:17",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "12KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1ZLHTF2HYFiAZ0BP5BPpJIkb0Qiddh9DD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504577526"
   }
  ]
 }

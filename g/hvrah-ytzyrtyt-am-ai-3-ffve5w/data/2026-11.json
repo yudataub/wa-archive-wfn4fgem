@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-11-04T12:13:20.363Z",
+ "updated": "2026-11-05T11:52:41.228Z",
  "messages": [
   {
    "id": "3EB0D8AB2D3E8886F6F2F8",
@@ -51,6 +51,46 @@
    "files": [],
    "drive": null,
    "phone": "972552932915"
+  },
+  {
+   "id": "AC6F0A3271E92131F6760F361F8A1FDC",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*חדש בGPT* יצירת תמונת Gif מונפשת. כותבים בפרומפט: צור גיפ של..\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\n💚 שירה",
+   "ts": 1793866808000,
+   "date": "2026-11-05",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "84KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1HJCNeM1bv13jRiaVv6kqfpiJN9VK2MFY/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC6F0A3271E92131F6760F361F8A1FDC_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1HJCNeM1bv13jRiaVv6kqfpiJN9VK2MFY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB03F6C244DC89D9877CD",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "היום בפרומפט היומי\n*התמונה שלך בצבעי המותג - הלוגו / המותג שלך*\nהפכו את התמונה שלכם לתמונה קטלוגית בצבעי המותג שלכם. העלו למחולל תמונות את הלוגו שלכם והתמונה שלכם וצרפו את הפרומפט\nלפרומפט היומי: https://www.lomdot.org/dailyprompt\nבסדנאות נובמבר אני מסבירה איך יצרתי את אתר *הפרומפט היומי*\nמוזמנים להצטרף ולהתחיל לבנות: *הפרומפט היומי!*\nקוד הנחה 15% לחברי הקהילה: WA15",
+   "ts": 1793879547000,
+   "date": "2026-11-05",
+   "time": "13:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB03F6C244DC89D9877CD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

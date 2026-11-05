@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-04T18:21:12.839Z",
+ "updated": "2026-11-05T09:51:17.456Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -699,6 +699,256 @@
      "type": "video/mp4",
      "path": "",
      "skipped": "סרטון 95.8MB — מעל 95MB, לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC7EFAB9561DC1B220938D4D3C7AD5CE",
+   "sender": "אפי",
+   "text": "https://drive.google.com/file/d/1LU2P3yEbZlbpf0hEh80pTvyRvJyWoeUw/view?usp=sharing פרייאר זו מעלה",
+   "ts": 1793854307000,
+   "date": "2026-11-05",
+   "time": "06:51",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACCBB6DBC2D14D55C24F063D6CEFA6C0",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1793854312000,
+   "date": "2026-11-05",
+   "time": "06:51",
+   "files": [
+    {
+     "name": "פרשה ובדיחה פרייאר זו לא קללה.docx",
+     "size": "50KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/10Qe-IO6zi75rE_1iihH_7tcBsCltS7da/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC9509CEDB5BB9E6349BED60ECBE5E8F",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1793854313000,
+   "date": "2026-11-05",
+   "time": "06:51",
+   "files": [
+    {
+     "name": "מי אמר שלתת זה להיות פרייאר.pptx",
+     "size": "14.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1AeB76E5kQGqYMp6tXKpLwxlNeJtVKJT1/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACB9E4CB3FEB1A7E243AA6581DAEF9CF",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1793854780000,
+   "date": "2026-11-05",
+   "time": "06:59",
+   "files": [
+    {
+     "name": "פרשה ובדיחה פרייאר זו לא קללה.docx",
+     "size": "50KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1fzKkQ8tqeB_KuafaCoRXaIETnG5u2CqM/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "3EB0BA0EF609037C55B67C",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1793854789000,
+   "date": "2026-11-05",
+   "time": "06:59",
+   "files": [
+    {
+     "name": "פרשה ובדיחה פרייאר זו לא קללה.docx",
+     "size": "50KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1kfmemZ-8tSYY_n_1CfvhL590bdEc6oKq/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC1CBD8C5424A20EA3EC2BAB06B26D8B",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872208000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "א-ת חיי שרה תשפו.pdf",
+     "size": "599KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1At3IHLySkxs-vnKiZ7msh1nG5ja1gTDG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACBA5BE1AD2AECD982011A4D7D2738E4",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872214000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי שרה לכיתות הצעירות - תשפו.pdf",
+     "size": "520KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1WBOedeeADC-0ciRTbM7rS6yiRXivrS-n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC00B431B3A6D2D2CC56203D3AC9EA53",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "*שלום!*\n\nלפניכם משחקים לפרשת השבוע *\"חיי שרה\"*- בהוקרה מבית ספר עוזיאל קריית שמונה💓\nמבוססים על דפי פרשת השבוע של הרב שלום פינצ'ובר, ושאר מקורות.\n(יש משחקים בפורמטים שונים- מומלץ לשחק במחשב, אך ניתן גם בסלולרי)\n*שבת שלום ובשורות טובות!*\nאת כל המשחקים, ועוד רבים, ניתן לראות בדף הבא:\nhttps://docs.google.com/document/d/12-ObA-iJiKMWsEXGuv0PDb84D19BSCghkwaYIW5w8xQ/edit?usp=sharing\n\n*אוהל שרה - התאימו מושג לציור*\nhttps://wordwall.net/he/resource/24061365 \n\n*מספרים בפרשת חיי שרה* - התאמה\nhttps://wordwall.net/he/resource/24067771 \n\nמספרים בפרשת חיי שרה - חידון\nhttps://wordwall.net/he/resource/24067901 \n\nמספרים בפרשת חיי שרה - מטוס\nhttps://wordwall.net/he/resource/24067975 \n\nמספרים בפרשת חיי שרה - פתח את התיבה\nhttps://wordwall.net/he/resource/38316892 \n\nמספרים בפרשת חיי שרה - מרדף במבוך\nhttps://wordwall.net/he/resource/38316960 \n\nמספרים בפרשת חיי שרה - מצא את ההתאמה\nhttps://wordwall.net/he/resource/38317025 \n\nמספרים בפרשת חיי שרה - חידון טלויזיה\nhttps://wordwall.net/he/resource/38317101 \n\nמספרים בפרשת חיי שרה - פוצץ בלון\nhttps://wordwall.net/he/resource/38317144 \n\n*סדר האירועים בפרשת חיי שרה* - בראשית\nhttps://wordwall.net/he/resource/24088960 \n\n*התאימו בין מילות הפסוק לפירוש רש\"י* - פרשת חיי שרה\nhttps://wordwall.net/he/resource/24102448 \n\nהתאימו בין מילות הפסוק לפירוש רש\"י - פרשת חיי שרה - פתח את התיבה\nhttps://wordwall.net/he/resource/24102563 \n\nהתאימו בין מילות הפסוק לפירוש רש\"י - פרשת חיי שרה - מרדף במבוך\nhttps://wordwall.net/he/resource/24125817 \n\nהתאימו בין מילות הפסוק לפירוש רש\"י - פרשת חיי שרה - מצא את ההתאמה\nhttps://wordwall.net/he/resource/38314801 \n\nהתאימו בין מילות הפסוק לפירוש רש\"י - פרשת חיי שרה - חידון טלויזיה\nhttps://wordwall.net/he/resource/38314863 \n\n*א\"ת פ\"ש לפרשת חיי שרה-* היפוך אותיות\nhttps://wordwall.net/he/resource/38315014 \n\nא\"ת פ\"ש לפרשת חיי שרה - איש תלוי\nhttps://wordwall.net/he/resource/38315142 \n\nא\"ת פ\"ש לפרשת חיי שרה - חידון\nhttps://wordwall.net/he/resource/38316234 \n\nא\"ת פ\"ש לפרשת חיי שרה - פתח את התיבה\nhttps://wordwall.net/he/resource/38316292 \n\nא\"ת פ\"ש לפרשת חיי שרה - מרדף במבוך\nhttps://wordwall.net/he/resource/38316337 \n\nא\"ת פ\"ש לפרשת חיי שרה - חידון טלויזיה\nhttps://wordwall.net/he/resource/38316504 \n\nא\"ת פ\"ש לפרשת חיי שרה - מטוס\nhttps://wordwall.net/he/resource/38316594 \n\nא\"ת פ\"ש לפרשת חיי שרה - פוצץ בלון\nhttps://wordwall.net/he/resource/38316714",
+   "ts": 1793872217000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC38C527F49F3C44B57A0B288F79C5D2",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872219000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי-שרה-כתב-רשי-כרמית-גרמאי.pdf",
+     "size": "371KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1sm525N7Fft07KrKQvbGUy0leOIX3Azp6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACFE28ECDA55D024F4BA408EB3931059",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872222000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי-שרה-חידון-א-ב-מנוקד-כרמית-גרמאי.pdf",
+     "size": "369KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rlrylAPjMf5hArQ6xnQ6JwLisJw1VmST/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC00576B054CE9451E58398015959465",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872224000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי-שרה-חידון-א-ב-כרמית-גרמאי.pdf",
+     "size": "365KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1gARHw6NytHZRX8zNR2HMfQnMhCHMrUbI/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACDE20EB8857112C81FB2C3652F1CF9C",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872226000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי-שרה-דף-לפרשה-כרמית-גרמאי.pdf",
+     "size": "445KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TUpV2Wt5iU-jO4UvSZq7j_DX34uJ7HmR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACF7C727B37DB1D64526B575D86CA306",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872230000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי-שרה-חדשות-לפרשה-כרמית-גרמאי.pdf",
+     "size": "366KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/15Yu1hdFo_dlQAXAFcjqMXeTL7F8OJvrg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC82A99B7CD85C5DE9108456A4752703",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1793872250000,
+   "date": "2026-11-05",
+   "time": "11:50",
+   "files": [
+    {
+     "name": "חיי-שרה-דף-לפרשה-מנוקד-כרמית-גרמאי.pdf",
+     "size": "436KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1vbi-kQkvPx5feGI3qkdQAYJLpBnkHB6p/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,

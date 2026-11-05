@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-11-04T15:14:34.215Z",
+ "updated": "2026-11-05T17:01:10.802Z",
  "messages": [
   {
    "id": "A554B615A3012223D2850C5ED6385152",
@@ -497,6 +497,154 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "AC39AC123EB266921C2D8B147734C561",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*חדש בGPT* יצירת תמונת Gif מונפשת. כותבים בפרומפט: צור גיפ של..\nלעוד תכנים הצטרפו לקהילה שלי: הוראה יצירתית עם AI\n💚 שירה",
+   "ts": 1793866823000,
+   "date": "2026-11-05",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "84KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1zux-1B12iDLRj8TE7a4227ktjRLYkrv9/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC39AC123EB266921C2D8B147734C561_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1zux-1B12iDLRj8TE7a4227ktjRLYkrv9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB0FE654794AC6884D819",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "היום בפרומפט היומי\n*התמונה שלך בצבעי המותג - הלוגו / המותג שלך*\nהפכו את התמונה שלכם לתמונה קטלוגית בצבעי המותג שלכם. העלו למחולל תמונות את הלוגו שלכם והתמונה שלכם וצרפו את הפרומפט\nלפרומפט היומי: https://www.lomdot.org/dailyprompt\nבסדנאות נובמבר אני מסבירה איך יצרתי את אתר *הפרומפט היומי*\nמוזמנים להצטרף ולהתחיל לבנות: https://www.lomdot.org/november-workshops\nקוד הנחה 15% לחברי הקהילה: WA15",
+   "ts": 1793879756000,
+   "date": "2026-11-05",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "151KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB0FE654794AC6884D819_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3AB9E10038A1F2A58BE5",
+   "sender": "אילנה",
+   "text": "היי שירה\nאילו כלים להקראה של טקסט מהאינטרנט או סרוק את מכירה?",
+   "ts": 1793882155000,
+   "date": "2026-11-05",
+   "time": "14:35",
+   "files": [],
+   "drive": null,
+   "phone": "972546626254"
+  },
+  {
+   "id": "3EB0B170CC7F9B7F691671",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "אני יצרתי אתר שמאפשר הקראת מבחנים",
+   "ts": 1793883064000,
+   "date": "2026-11-05",
+   "time": "14:51",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB08933B80A1879DE795C",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "אפשר להעלות אליו כל טקסט או תמונה",
+   "ts": 1793883088000,
+   "date": "2026-11-05",
+   "time": "14:51",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB0319BAF584B082FF5BA",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "אני מאמינה שאפשר גם דרך AI סטודיו",
+   "ts": 1793883111000,
+   "date": "2026-11-05",
+   "time": "14:51",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "ACB1D3FAF4764482D314E892F60C8452",
+   "sender": "יעלה אגאי",
+   "text": "מהיום, יוצרים GIF ב-Chatgpt.\n בסרטון תראו הדגמות לרעיונות כיצד ניתן ליצור GIF.  \nאם תרצו לעקוב ולראות את כל סדרת הסרטונים של \"בינה בקטנה\" , מוזמנים לעקוב בקישור:  https://www.instagram.com/yeela_a?vrfl=eHBrNGozN3hhbXo0. \nוכמובן, להזמין חברים נוספים לקבוצה:\n\n יום טוב, \nיעלה🌸",
+   "ts": 1793891989000,
+   "date": "2026-11-05",
+   "time": "17:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1IokQJVVD4wfbMSO5t8nwWZgB1Nox_Cg7/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACB1D3FAF4764482D314E892F60C8452_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1IokQJVVD4wfbMSO5t8nwWZgB1Nox_Cg7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587878729"
+  },
+  {
+   "id": "ACFAEB7D776E0140C557DB4F8897BACD",
+   "sender": "מרים",
+   "text": "",
+   "ts": 1793894497000,
+   "date": "2026-11-05",
+   "time": "18:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MEObnUg2qozt57BqO6MZRIYWPX-3T7Lz/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACFAEB7D776E0140C557DB4F8897BACD_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1MEObnUg2qozt57BqO6MZRIYWPX-3T7Lz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522548451"
+  },
+  {
+   "id": "3AB0CB8BA6DD15829BFB",
+   "sender": "Ayala Gottlieb",
+   "text": "נחמד",
+   "ts": 1793897262000,
+   "date": "2026-11-05",
+   "time": "18:47",
+   "files": [],
+   "drive": null,
+   "phone": "972522907170"
+  },
+  {
+   "id": "AC2C0538A1541291CD64FA23697ED33B",
+   "sender": "מרים",
+   "text": "תודה",
+   "ts": 1793898047000,
+   "date": "2026-11-05",
+   "time": "19:00",
+   "files": [],
+   "drive": null,
+   "phone": "972522548451"
   }
  ]
 }
