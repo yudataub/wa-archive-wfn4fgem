@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-11-05T20:28:59.805Z",
+ "updated": "2026-11-05T21:57:03.187Z",
  "messages": [
   {
    "id": "AC7659CFAD0E6D26512B35AF415C55A2",
@@ -1872,6 +1872,36 @@
    "date": "2026-11-05",
    "time": "22:28",
    "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC374F86756EC5358DE71A3554DA866A",
+   "sender": "דוד המדאני",
+   "text": "האם אפשר לאכול את הגזע של החסה",
+   "ts": 1793915770000,
+   "date": "2026-11-05",
+   "time": "23:56",
+   "files": [],
+   "drive": null,
+   "phone": "972585836955"
+  },
+  {
+   "id": "ACA2987FEF76E074916A03D11F778772",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "",
+   "ts": 1793915792000,
+   "date": "2026-11-05",
+   "time": "23:56",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1tXjq0cAvRzKKAOJ0XIom90viK5B9C-nr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972546607527"
   }

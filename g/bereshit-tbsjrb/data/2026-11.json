@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-05T20:54:55.278Z",
+ "updated": "2026-11-05T21:17:25.595Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -404,6 +404,66 @@
    "files": [],
    "drive": null,
    "phone": "972526228186"
+  },
+  {
+   "id": "A53C586F89DD6A2359506B1EE2C99257",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1793913421000,
+   "date": "2026-11-05",
+   "time": "23:17",
+   "files": [
+    {
+     "name": "שמות דפי עבודה וסיכום מיכל ביטון 2026.pdf",
+     "size": "4.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EoyEph8V7susrY1jveGYfbUD9xsKwqBw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A50FE47ED027497CA5624B9FCF4A7281",
+   "sender": "Michal Biton",
+   "text": "👆🏼",
+   "ts": 1793913423000,
+   "date": "2026-11-05",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5EC890084F23A0014EF7F584016F0D5",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1793913423000,
+   "date": "2026-11-05",
+   "time": "23:17",
+   "files": [
+    {
+     "name": "דפי עבודה פרשת לך לך מיכל ביטון 2024.pdf",
+     "size": "5.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Bmr6Axwox7ybcwHjzyCJmTpgFeeS7jgT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "A5819A4B0D33431219A0269A9ABB8002",
+   "sender": "Michal Biton",
+   "text": "👆🏼",
+   "ts": 1793913424000,
+   "date": "2026-11-05",
+   "time": "23:17",
+   "files": [],
+   "drive": null,
+   "phone": "4917640585779"
   }
  ]
 }

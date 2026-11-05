@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-05T20:48:25.181Z",
+ "updated": "2026-11-05T21:10:55.492Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -545,6 +545,28 @@
    "ts": 1793911683000,
    "date": "2026-11-05",
    "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "AC53D48D642D1650BAF45A1FFF119F77",
+   "sender": "Ronen I Tayar 2",
+   "text": "https://www.facebook.com/share/v/1G2bRtvMxh/",
+   "ts": 1793912900000,
+   "date": "2026-11-05",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "ACFB0326C49106B3B6AAEF4347B37827",
+   "sender": "Ronen I Tayar 2",
+   "text": "https://www.facebook.com/share/r/1Ed8rNyBaG/",
+   "ts": 1793913046000,
+   "date": "2026-11-05",
+   "time": "23:10",
    "files": [],
    "drive": null,
    "phone": "972546328697"
