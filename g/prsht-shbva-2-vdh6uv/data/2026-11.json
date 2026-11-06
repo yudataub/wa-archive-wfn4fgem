@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-05T09:51:17.456Z",
+ "updated": "2026-11-05T23:53:26.004Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -953,6 +953,17 @@
    ],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "A549FA34B4B78DAC29D7DEDB41DEC2BE",
+   "sender": "אלחנן שניאור",
+   "text": "https://youtube.com/shorts/5HugeYpdfng?feature=share",
+   "ts": 1793922776000,
+   "date": "2026-11-06",
+   "time": "01:52",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
   }
  ]
 }
