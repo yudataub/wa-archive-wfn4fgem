@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משפחת נעם",
- "updated": "2026-11-05T19:42:48.585Z",
+ "updated": "2026-11-06T11:51:23.157Z",
  "messages": [
   {
    "id": "AC3A102DF013177A6C6B9553517C2345",
@@ -719,6 +719,150 @@
    "date": "2026-11-05",
    "time": "21:42",
    "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "4A8DE6CB952912164510",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1793949131000,
+   "date": "2026-11-06",
+   "time": "09:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/4A8DE6CB952912164510_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "3AD2F58FAC0F5A1401F7",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1793953157000,
+   "date": "2026-11-06",
+   "time": "10:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AD2F58FAC0F5A1401F7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "ACB26500C67DA104A5CFFD447ADD1E25",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1793961134000,
+   "date": "2026-11-06",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "דף קשר חמד נעם קרית אתא.pdf",
+     "size": "3.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Zd9G1U0EclsJEcLngSJF0kMZblG0fUYY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACBDDB20431319366D2374984A3E3654",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1793961134000,
+   "date": "2026-11-06",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "497KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACBDDB20431319366D2374984A3E3654_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACA03615C6B57F6D3D57F80FAEE9F9BE",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1793961135000,
+   "date": "2026-11-06",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "574KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA03615C6B57F6D3D57F80FAEE9F9BE_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACFDA58DABE069F72B3593F2C5CDF3D7",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1793961135000,
+   "date": "2026-11-06",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "568KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACFDA58DABE069F72B3593F2C5CDF3D7_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC157C26F6EDCA0B664A5FE6FEE8DA73",
+   "sender": "אורלי אוחנה",
+   "text": "☝️יש לשלוח לקבוצת ההורים",
+   "ts": 1793961178000,
+   "date": "2026-11-06",
+   "time": "12:32",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACF8EAECADB57E1D818380A7DC1ADC24",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1793965850000,
+   "date": "2026-11-06",
+   "time": "13:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "464KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACF8EAECADB57E1D818380A7DC1ADC24_1.jpg",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972507864721"
   }

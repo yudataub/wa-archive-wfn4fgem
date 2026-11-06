@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-05T04:04:00.517Z",
+ "updated": "2026-11-06T04:05:05.775Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -225,6 +225,25 @@
      "size": "97KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3AB47B441DDEEF7480E4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2E4A177B0F6AB781CE",
+   "sender": ".",
+   "text": "״אף על גב דנתעכלו המעות״ (בכורות מט, א).",
+   "ts": 1793937874000,
+   "date": "2026-11-06",
+   "time": "06:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "127KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A2E4A177B0F6AB781CE_1.jpg",
      "skipped": ""
     }
    ],

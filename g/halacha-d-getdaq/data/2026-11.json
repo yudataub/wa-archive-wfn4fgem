@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ד'",
- "updated": "2026-11-04T22:01:00.400Z",
+ "updated": "2026-11-06T08:13:39.812Z",
  "messages": [
   {
    "id": "ACB0E6A48615372D5894E35A95213A4B",
@@ -137,6 +137,58 @@
    "files": [],
    "drive": null,
    "phone": "972502833330"
+  },
+  {
+   "id": "A5F21B99F7569583805D7ABB2DAF98EF",
+   "sender": "אור חדש הפצת תורה ויהדות בראשות הרב דביר לוי",
+   "text": "אשמח למבחן או עבודה בנושא נטילת ידיים",
+   "ts": 1793952269000,
+   "date": "2026-11-06",
+   "time": "10:04",
+   "files": [],
+   "drive": null,
+   "phone": "972533811873"
+  },
+  {
+   "id": "AC1E745A5C5487267CA6364CD4F60E3E",
+   "sender": "\" הודו לה' כי טוב\"",
+   "text": "גם אני אשמח",
+   "ts": 1793952722000,
+   "date": "2026-11-06",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972506737267"
+  },
+  {
+   "id": "ACD99DBCB0BE78D0C3BDC8C893EF40B8",
+   "sender": "\" הודו לה' כי טוב\"",
+   "text": "",
+   "ts": 1793952780000,
+   "date": "2026-11-06",
+   "time": "10:13",
+   "files": [
+    {
+     "name": "מבחן בסימן ב הלכות_נטילת ידיים.docx",
+     "size": "28KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1g4Kj8vWH7WAefRwIUasCj3-uhlnzi0f9/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506737267"
+  },
+  {
+   "id": "AC853305E63A29A41F11F7ED342D4F07",
+   "sender": "\" הודו לה' כי טוב\"",
+   "text": "מצאתי משהו באחת הקבוצות למי שצריך👆",
+   "ts": 1793952797000,
+   "date": "2026-11-06",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972506737267"
   }
  ]
 }

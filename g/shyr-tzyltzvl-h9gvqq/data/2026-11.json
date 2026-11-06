@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-04T17:12:37.192Z",
+ "updated": "2026-11-06T08:29:10.031Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -84,6 +84,77 @@
    ],
    "drive": null,
    "phone": "972523664663"
+  },
+  {
+   "id": "3A52DA657044AE9EB3EF",
+   "sender": "אסנת",
+   "text": "רעיון לצילצול לשבוע הקרוב",
+   "ts": 1793952233000,
+   "date": "2026-11-06",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972546278725"
+  },
+  {
+   "id": "A5D446B5AEF854339370B34D377172BD",
+   "sender": "הראל מקייס",
+   "text": "''שלום לך עיר'' - פיוט ממסורת אתיופיה , לחג הסיגד",
+   "ts": 1793952713000,
+   "date": "2026-11-06",
+   "time": "10:11",
+   "files": [],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "A538ED19FC2810ED761903864001A9F5",
+   "sender": "הראל מקייס",
+   "text": "",
+   "ts": 1793952714000,
+   "date": "2026-11-06",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "855KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1l5BCFOqPvgTz3EXE9_M9_dly0H_5ZiPY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524591311"
+  },
+  {
+   "id": "ACEB68D6EE2DC75E2CC70263291DC420",
+   "sender": "צביה ויזנר",
+   "text": "",
+   "ts": 1793953728000,
+   "date": "2026-11-06",
+   "time": "10:28",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "944KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1SjDgtYqgJxnJz7b3U1Vms-U80z8U1INi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545404518"
+  },
+  {
+   "id": "ACB28D762BDAC01FF154D13C40771F5C",
+   "sender": "צביה ויזנר",
+   "text": "את אחיי אנוכי מבקש",
+   "ts": 1793953742000,
+   "date": "2026-11-06",
+   "time": "10:29",
+   "files": [],
+   "drive": null,
+   "phone": "972545404518"
   }
  ]
 }

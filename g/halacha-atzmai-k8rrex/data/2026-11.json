@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-04T11:19:12.423Z",
+ "updated": "2026-11-06T09:58:43.677Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -712,6 +712,74 @@
    "files": [],
    "drive": null,
    "phone": "972502833330"
+  },
+  {
+   "id": "ACFB3741C77F29894918E2D8D35297B2",
+   "sender": "לימור",
+   "text": "",
+   "ts": 1793959006000,
+   "date": "2026-11-06",
+   "time": "11:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACFB3741C77F29894918E2D8D35297B2_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "ACFE382E34A501D5002A57DAE44F6126",
+   "sender": "לימור",
+   "text": "",
+   "ts": 1793959006000,
+   "date": "2026-11-06",
+   "time": "11:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "210KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACFE382E34A501D5002A57DAE44F6126_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "ACE469A2BB15B7FCE542645C5C9D96ED",
+   "sender": "לימור",
+   "text": "",
+   "ts": 1793959007000,
+   "date": "2026-11-06",
+   "time": "11:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "282KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACE469A2BB15B7FCE542645C5C9D96ED_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544672279"
+  },
+  {
+   "id": "ACBADD958116CEA7C51F152C7FBCFACA",
+   "sender": "לימור",
+   "text": "תחנה 1-פעילות תשבץ בנושא תפילה בציבור במניין.\nתחנה 2- מיון כרטיסים של שמות קטעי תפילה לדורשים מניין וללא דורשים מניין",
+   "ts": 1793959104000,
+   "date": "2026-11-06",
+   "time": "11:58",
+   "files": [],
+   "drive": null,
+   "phone": "972544672279"
   }
  ]
 }

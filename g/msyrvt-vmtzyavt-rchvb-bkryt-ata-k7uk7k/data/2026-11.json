@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-05T16:55:23.574Z",
+ "updated": "2026-11-06T11:22:54.863Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -343,6 +343,55 @@
    "files": [],
    "drive": null,
    "phone": "972544441625"
+  },
+  {
+   "id": "ACA308CB708847380F7F8443C5138092",
+   "sender": "אהובה",
+   "text": "",
+   "ts": 1793963305000,
+   "date": "2026-11-06",
+   "time": "13:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA308CB708847380F7F8443C5138092_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "AC698FE7A4B0D43320574045ED994479",
+   "sender": "אהובה",
+   "text": "למסירה!\nחוטי רקמה.",
+   "ts": 1793963340000,
+   "date": "2026-11-06",
+   "time": "13:09",
+   "files": [],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "ACA637299A04BDD316BD420D4C0CBC87",
+   "sender": "אהובה",
+   "text": "למסירה!\nגרבי בריאות מידה 40- 43",
+   "ts": 1793964171000,
+   "date": "2026-11-06",
+   "time": "13:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA637299A04BDD316BD420D4C0CBC87_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528640925"
   }
  ]
 }
