@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-11-06T13:08:55.154Z",
+ "updated": "2026-11-07T19:03:30.787Z",
  "messages": [
   {
    "id": "3EB0D8AB2D3E8886F6F2F8",
@@ -103,6 +103,27 @@
    "files": [],
    "drive": null,
    "phone": "972552921939"
+  },
+  {
+   "id": "3EB03946C57BBF441A2008",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "קופון 15% הנחה לחברי הקבוצה עד היום בחצות\nרשמו WA15 בעמוד התשלום\nhttps://www.lomdot.org/november-workshops",
+   "ts": 1794078189000,
+   "date": "2026-11-07",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vu5YPFqJUZSaTcl3nTCgneUnFbIN0GQ4/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB03946C57BBF441A2008_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1vu5YPFqJUZSaTcl3nTCgneUnFbIN0GQ4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🛍️ יד2 קריות והסביבה – מכירה ומסירה 🛍️",
- "updated": "2026-11-06T14:20:03.099Z",
+ "updated": "2026-11-07T19:10:00.875Z",
  "messages": [
   {
    "id": "AC1D80E959078FD236625A80E55DDB95",
@@ -70,6 +70,302 @@
    ],
    "drive": null,
    "phone": "972539052832"
+  },
+  {
+   "id": "AC7305BC6FDB2FB05C2A7FF9C4563266",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794058369000,
+   "date": "2026-11-07",
+   "time": "15:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC7305BC6FDB2FB05C2A7FF9C4563266_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACB866471C3F1261CBCD5616FFBC3F9B",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794058369000,
+   "date": "2026-11-07",
+   "time": "15:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB866471C3F1261CBCD5616FFBC3F9B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC1E0CB516A12BD20D91D4E04C2B8661",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794058370000,
+   "date": "2026-11-07",
+   "time": "15:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC1E0CB516A12BD20D91D4E04C2B8661_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC651F9D5E76432BD5CA5AE0965C7F3E",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794058370000,
+   "date": "2026-11-07",
+   "time": "15:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC651F9D5E76432BD5CA5AE0965C7F3E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC2C6E25E7EF2A19C55BF374FE25FF19",
+   "sender": "💛",
+   "text": "מכנסי פוקס חדשים מידה 6 לפי 15 ש\"ח לפריט\nאיסוף מהקריות",
+   "ts": 1794073076000,
+   "date": "2026-11-07",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "202KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC2C6E25E7EF2A19C55BF374FE25FF19_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533467100"
+  },
+  {
+   "id": "AC876EAF5057A03E7DC4ECD272AC5569",
+   "sender": "💛",
+   "text": "מכנסים רשת גולף חדשים מידה 5 לפי 15 ש\"ח לאחד\nאיסוף מהקריות",
+   "ts": 1794073076000,
+   "date": "2026-11-07",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "197KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC876EAF5057A03E7DC4ECD272AC5569_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533467100"
+  },
+  {
+   "id": "ACF9CF74C0742EF475D071B0CDEF66BF",
+   "sender": "💛",
+   "text": "חליפות חדשות של פוקס מידה 5 לפי 50 ש\"ח לסט\nאיסוף מהקריות",
+   "ts": 1794073076000,
+   "date": "2026-11-07",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACF9CF74C0742EF475D071B0CDEF66BF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533467100"
+  },
+  {
+   "id": "ACBDA18868A9B0B67128151D830F77DF",
+   "sender": "💛",
+   "text": "המעיל והפוטר מידה 6, החולצת גינס מידה 4 \nלפי 30 שח לפריט - חדשים \nאיסוף מהקריות",
+   "ts": 1794073077000,
+   "date": "2026-11-07",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "258KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACBDA18868A9B0B67128151D830F77DF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533467100"
+  },
+  {
+   "id": "AC0B0928CEFC52C10BBAE5E0ECE6560C",
+   "sender": "אין עוד מלבדו",
+   "text": "",
+   "ts": 1794073183000,
+   "date": "2026-11-07",
+   "time": "19:39",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "23KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC0B0928CEFC52C10BBAE5E0ECE6560C_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "AC840091F7160F646A64464C910490A2",
+   "sender": "💛",
+   "text": "נשלח רק 4 🙏",
+   "ts": 1794078271000,
+   "date": "2026-11-07",
+   "time": "21:04",
+   "files": [],
+   "drive": null,
+   "phone": "972533467100"
+  },
+  {
+   "id": "3A11447701B00EC7FD65",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "מראת לד עם 3 מצבי תאורה\nחדשה סגורה בקרטון \nקוטר 60 ס״מ\n200 ₪",
+   "ts": 1794078409000,
+   "date": "2026-11-07",
+   "time": "21:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A11447701B00EC7FD65_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
+  },
+  {
+   "id": "3A3F4B3C124B3A79FE99",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "",
+   "ts": 1794078410000,
+   "date": "2026-11-07",
+   "time": "21:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A3F4B3C124B3A79FE99_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
+  },
+  {
+   "id": "3A35F8032614511E8620",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "Xiaomi Mi Electric Scooter 1S\nצמיגים נגד פנצרים מגיעה עם קסדה ומתקן לטלפון",
+   "ts": 1794078524000,
+   "date": "2026-11-07",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A35F8032614511E8620_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
+  },
+  {
+   "id": "3A802B9EDFB1F3143E72",
+   "sender": "𝐋𝐈𝐑𝐀𝐙",
+   "text": "",
+   "ts": 1794078525000,
+   "date": "2026-11-07",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A802B9EDFB1F3143E72_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537234021"
+  },
+  {
+   "id": "ACD0D79A93BB2B49B7A5D00325FA8002",
+   "sender": "St",
+   "text": "",
+   "ts": 1794078582000,
+   "date": "2026-11-07",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACD0D79A93BB2B49B7A5D00325FA8002_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547216428"
+  },
+  {
+   "id": "ACF42B45BC98BFAB5B8759D23B74D0DC",
+   "sender": "St",
+   "text": "למכירה מיטת תינוק כולל מזרון, מפורקת",
+   "ts": 1794078582000,
+   "date": "2026-11-07",
+   "time": "21:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACF42B45BC98BFAB5B8759D23B74D0DC_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547216428"
   }
  ]
 }

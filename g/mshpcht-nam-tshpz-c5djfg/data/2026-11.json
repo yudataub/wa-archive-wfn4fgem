@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-11-06T11:51:21.215Z",
+ "updated": "2026-11-07T18:34:00.329Z",
  "messages": [
   {
    "id": "AC3A102DF013177A6C6B9553517C2345",
@@ -878,6 +878,125 @@
      "size": "464KB",
      "type": "image/jpeg",
      "path": "media/2026-11/ACF8EAECADB57E1D818380A7DC1ADC24_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB0A6BA0736D728C91A0F",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1794073518000,
+   "date": "2026-11-07",
+   "time": "19:45",
+   "files": [
+    {
+     "name": "תכנון שבועי- חיי שרה.docx",
+     "size": "927KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1OexAukoutheMWjQgY_4eNmwPsxZtUQ1u/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC4FA7C12E97B0452F27876151065AE7",
+   "sender": "אורלי אוחנה",
+   "text": "לכל משפחת החמ\"ד היקרה!\nלרגל *חג הסיגד* שיחול ביום שני הבעל''ט אנו שמחים לשתף סרטון מיוחד שהפקנו בשנה שעברה במסגרת ''מסע בעקבות בתי כנסת ועדות ישראל''!\n\nhttps://did.li/kBcUY\n\nנשמח שתשתפו את הקישור בין צוותי החינוך והתלמידים 🙏",
+   "ts": 1794073553000,
+   "date": "2026-11-07",
+   "time": "19:45",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC8B84E42ECC15B38027FEB17EC6C77C",
+   "sender": "אורלי אוחנה",
+   "text": "מצרפת תיקייה עם חומרים שאיגדתי ואספתי בנושא חג הסיגד.\n \n\nhttps://drive.google.com/drive/folders/1HEbe5RW2Ssp_VkBKqP2ofdf6Ntv3Y_Vs?usp=drive_link",
+   "ts": 1794073554000,
+   "date": "2026-11-07",
+   "time": "19:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC8B84E42ECC15B38027FEB17EC6C77C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC02E16990773B1E9A7D677E819E2057",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1794076088000,
+   "date": "2026-11-07",
+   "time": "20:28",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "694KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1GRNDGyIxr66lTnhk9mwbeClnQ2TeWZNq/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC02E16990773B1E9A7D677E819E2057_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1GRNDGyIxr66lTnhk9mwbeClnQ2TeWZNq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC14A8D0A599B91F033DE8EC9BBC5E4C",
+   "sender": "אורלי אוחנה",
+   "text": "https://sigd-trip.sites.tab.bot/ מוכנים לטוס לטיול לאתיופייה. המטוס מחכה לכםם🛫",
+   "ts": 1794076318000,
+   "date": "2026-11-07",
+   "time": "20:31",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC20CE9F60E38586EEC1D383FE1E4A62",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1794076415000,
+   "date": "2026-11-07",
+   "time": "20:33",
+   "files": [
+    {
+     "name": "חג הסיגד- על שום מה.pdf",
+     "size": "283KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1cCyKX2uRBvED-_9KkMy7XhFD1VjjujBN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC736EA123649ED93EC1AC0064497587",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1794076415000,
+   "date": "2026-11-07",
+   "time": "20:33",
+   "files": [
+    {
+     "name": "המסע של יהודי אתיופיה-מצגת.pptx",
+     "size": "5.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1TTaTOtHhvYs1TIT6gUqY-BG1l7KOeWK9/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
      "skipped": ""
     }
    ],

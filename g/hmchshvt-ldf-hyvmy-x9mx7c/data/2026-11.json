@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-06T04:05:05.775Z",
+ "updated": "2026-11-07T16:32:55.577Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -244,6 +244,63 @@
      "size": "127KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3A2E4A177B0F6AB781CE_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ADF774E0B377A509B4F",
+   "sender": ".",
+   "text": "״שתקע בפיו באזנו״ (רש״י בכורות נ, ב).",
+   "ts": 1794066111000,
+   "date": "2026-11-07",
+   "time": "17:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3ADF774E0B377A509B4F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AEF846E3BF95B05C384",
+   "sender": ".",
+   "text": "״המכה את חבירו באזנו״ (רש״י בכורות נ, ב).",
+   "ts": 1794066112000,
+   "date": "2026-11-07",
+   "time": "17:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AEF846E3BF95B05C384_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AB278AD432C8C147125",
+   "sender": ".",
+   "text": "״אל תהי בתוקעי כף״ (רש״י בכורות נ, ב).",
+   "ts": 1794066113000,
+   "date": "2026-11-07",
+   "time": "17:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AB278AD432C8C147125_1.jpg",
      "skipped": ""
     }
    ],

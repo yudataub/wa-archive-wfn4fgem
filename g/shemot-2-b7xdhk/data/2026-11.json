@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-06T07:54:28.459Z",
+ "updated": "2026-11-07T20:01:01.628Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -1156,6 +1156,349 @@
    "files": [],
    "drive": null,
    "phone": "972504035015"
+  },
+  {
+   "id": "AC5B875E4F4E4554D751B54D47CF4D45",
+   "sender": "ARAZI SHARONA",
+   "text": "https://did.li/kvotzot",
+   "ts": 1794067758000,
+   "date": "2026-11-07",
+   "time": "18:09",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "3EB009CE66144B8BB75742",
+   "sender": "אביגיל",
+   "text": "שבוע טוב\nיש אולי למישהו דף שמלווה את מכות מצרים \nזוכרת ששלחו פה שנה שעברה...\n(המכה, מבצע המכה, אזהרה וכו')\nתודה רבה🙏🏻",
+   "ts": 1794071315000,
+   "date": "2026-11-07",
+   "time": "19:08",
+   "files": [],
+   "drive": null,
+   "phone": "972527669496"
+  },
+  {
+   "id": "ACFAF829997FC73D8922E1CAA9054C1E",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073740000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "192KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACFAF829997FC73D8922E1CAA9054C1E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACB1950DD29F90256BD359AB5ABBA874",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073742000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "306KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB1950DD29F90256BD359AB5ABBA874_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC35B2A0C43E68FF2C211069F26B3FD0",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073743000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת כִּנִּים - דף עבודה.pdf",
+     "size": "204KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1wKzV2NJIs0mVr_82V7iosd785gecucGk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC362D8563BD564B6B2CD81FFA11AD1B",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073744000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת חֹשֶׁךְ  - דף עבודה.pdf",
+     "size": "81KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PPFxJQuU9iVw-5sGap2a-c0qGgpNZyj2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC2B98327E07DA70A75D6D5F3D23CB8F",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073745000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת אַרְבֶּה - דף עבודה.pdf",
+     "size": "98KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16ExRlYn4s0IdSmQjhi9jCINHTWhGk_uH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACE3DF7B9733A7F923ABB83CE20C5C13",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073745000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת דָּם - דף עבודה.pdf",
+     "size": "165KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XhpVIWLw5rmxY2F5NcDPf87DLZ1EaAKx/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACBB4512C8F3A2BD445B89F4C79480D8",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073746000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת בְּכוֹרוֹת - דף עבודה.pdf",
+     "size": "117KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XSrKVujxHnaS2QonoIS1DXEIoqOLnnUw/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC9DDE1D84B7F0F5624EE53F7C338E67",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073747000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת שְׁחִין- דף עבודה.pdf",
+     "size": "120KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OB7Il3JV7XsFGwJ9VR7bWAbCRzkHiKVH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC15526DFD8C8DA3FFCD354D6727BC92",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073748000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת עָרֹב - דף עבודה.pdf",
+     "size": "82KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1apcFe9GUnhd09u8CBO6NUM-xvvA61opK/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC8F46E1469B730AC51FCAA174D451D3",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073749000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת צְפַרְדֵּעַ - דף עבודה.pdf",
+     "size": "85KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1LJBkSWklzKM_zrJO8bTUSpVYDuOkNFAU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACF931468FC1C10545DA07C8FCBFC732",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073750000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת בָּרָד - דף עבודה.pdf",
+     "size": "115KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1o1PTzvzkjxkFumGA2iCP_hFgHseqXtNM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC69C8678E505A109564FCD840A02C8B",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073751000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "מַכַּת דֶּבֶר - דף עבודה.pdf",
+     "size": "155KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DdwAQtPaPCkQCsU-hfYlmZ1nyTx80Thm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACAEFED381DBF145BD0CDEF6C509B4EF",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073752000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "תעודת זהות לעשרת המכות.pdf",
+     "size": "95KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10_C6tba_7DCjpUk5oME1StRcfteZtKR_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "ACD95247170F4758C94852524FAAC97E",
+   "sender": "רותי חדידה",
+   "text": "",
+   "ts": 1794073752000,
+   "date": "2026-11-07",
+   "time": "19:49",
+   "files": [
+    {
+     "name": "תעודת זהות למכת ___________.pdf",
+     "size": "31KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1oAJPMnz6a1-3yzu6IyUkbKDy4ZZVWdd2/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535266794"
+  },
+  {
+   "id": "AC21051B8BCB99F98B7DF50BDDDD605B",
+   "sender": "יזהר פינטוס",
+   "text": "מפגש פתיחה בזום להשתלמות שמות ביום א' י\"ב כסלו 22.11 בערב, שעה 20.30-22.00\n\nיהיה עוד מפגש זום בחודש אדר א - פרטים בהמשך.\n\nשאר יחידות ההשתלמות הן א-סינכרוניות=המשתלמים יעשו בזמנם מתי שיבחרו.\n\nבהצלחה לכל משתתפי הקורס, \nיזהר פינטוס\nמדריך ארצי, מלווה חומש שמות",
+   "ts": 1794075989000,
+   "date": "2026-11-07",
+   "time": "20:26",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "ACA62C97789288345594A0F75A7D9708",
+   "sender": "יזהר פינטוס",
+   "text": "מפגש פתיחה בזום להשתלמות שמות ביום א' י\"ב כסלו 22.11 בערב, שעה 20.30-22.00\n\nיהיה עוד מפגש זום בחודש אדר א - פרטים בהמשך.\n\nשאר יחידות ההשתלמות הן א-סינכרוניות=המשתלמים יעשו בזמנם מתי שיבחרו.\n\nבהצלחה לכל משתתפי הקורס, \nיזהר פינטוס\nמדריך ארצי, מלווה חומש שמות",
+   "ts": 1794075991000,
+   "date": "2026-11-07",
+   "time": "20:26",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC4D387032EE37E92A754B2C9C874695",
+   "sender": "אפרת אושרי כונן 1943🚨🚨",
+   "text": "מי יודעת איזה פרשה אנחנו אמורות להיות לפי התכנון השנתי?",
+   "ts": 1794079406000,
+   "date": "2026-11-07",
+   "time": "21:23",
+   "files": [],
+   "drive": null,
+   "phone": "972504172820"
+  },
+  {
+   "id": "AC10E13B16FCABA1D56FCE22153CCDCD",
+   "sender": "שלומית",
+   "text": "לא הבנתי\nאני מלמדת ויקרא בכיתה ד.\nעליי לבחון את התלמידים במבחן הנ\"ל ולהכין דף מיפוי?",
+   "ts": 1794079585000,
+   "date": "2026-11-07",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972502818303"
+  },
+  {
+   "id": "AC07165E071A4A6468B37CB9A7036F24",
+   "sender": "יזהר פינטוס",
+   "text": "עד חנוכה תחילת בשלח",
+   "ts": 1794081648000,
+   "date": "2026-11-07",
+   "time": "22:00",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
   }
  ]
 }
