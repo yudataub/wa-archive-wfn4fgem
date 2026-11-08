@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-08T10:02:29.648Z",
+ "updated": "2026-11-08T21:29:44.666Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -670,6 +670,25 @@
    "files": [],
    "drive": null,
    "phone": "972587810580"
+  },
+  {
+   "id": "AC6D33CAE53F990436CC1DDB0CE93237",
+   "sender": "יהונתן מילר",
+   "text": "",
+   "ts": 1794173349000,
+   "date": "2026-11-08",
+   "time": "23:29",
+   "files": [
+    {
+     "name": "פרשת נח דפי עבודה מיכל ביטון 2023-2.pdf",
+     "size": "2.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-OjcP3FUBEQMjsE2dNbd0ThSKw85mqOy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542035900"
   }
  ]
 }

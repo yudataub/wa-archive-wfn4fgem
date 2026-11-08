@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-08T19:40:29.757Z",
+ "updated": "2026-11-08T22:34:22.569Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -2788,7 +2788,8 @@
      "path": "https://drive.google.com/file/d/1m1ByUkjDMvBGV2u9p9PuF_sLW3RGXRfx/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC9BC1C9C50BAEDE908DBDB509635FFA_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1m1ByUkjDMvBGV2u9p9PuF_sLW3RGXRfx&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1m1ByUkjDMvBGV2u9p9PuF_sLW3RGXRfx&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-11/AC9BC1C9C50BAEDE908DBDB509635FFA_0.mp4"
     }
    ],
    "drive": null,
@@ -2903,6 +2904,50 @@
    "files": [],
    "drive": null,
    "phone": "972506044015"
+  },
+  {
+   "id": "AC4CE5412F1CCDC07D60BEC9E0E1A490",
+   "sender": "SJG",
+   "text": "אני צריך אינסטלטור אמין שיהיה פנוי מחר – מישהו מכיר מישהו?",
+   "ts": 1794172491000,
+   "date": "2026-11-08",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "447555347536"
+  },
+  {
+   "id": "ACA0DF7F1FA8B19F787DB1352562D364",
+   "sender": "אביתר",
+   "text": "📇 דוד ועקנין\n+972524734116",
+   "ts": 1794172525000,
+   "date": "2026-11-08",
+   "time": "23:15",
+   "files": [],
+   "drive": null,
+   "phone": "972543318688"
+  },
+  {
+   "id": "A580A1E2CBE95406C672871621FBE484",
+   "sender": "הדרכת חתנים",
+   "text": "0533122429\nרפאל. מומלץ מאוד",
+   "ts": 1794175023000,
+   "date": "2026-11-08",
+   "time": "23:57",
+   "files": [],
+   "drive": null,
+   "phone": "972556685046"
+  },
+  {
+   "id": "ACBD1DC69BF93964533A1EBEE40F1EFF",
+   "sender": "אסתי שולמן",
+   "text": "תודה.",
+   "ts": 1794177241000,
+   "date": "2026-11-09",
+   "time": "00:34",
+   "files": [],
+   "drive": null,
+   "phone": "972545852027"
   }
  ]
 }

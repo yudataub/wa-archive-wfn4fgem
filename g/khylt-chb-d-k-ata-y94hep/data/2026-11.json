@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-08T19:54:29.978Z",
+ "updated": "2026-11-08T22:00:45.199Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -869,7 +869,8 @@
      "path": "https://drive.google.com/file/d/1GCQzajhxFVCFDFPNMH_gu_jyX70b_lmz/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACD0A983099BD72E9D9E6CF82DCB35C9_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1GCQzajhxFVCFDFPNMH_gu_jyX70b_lmz&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1GCQzajhxFVCFDFPNMH_gu_jyX70b_lmz&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-11/ACD0A983099BD72E9D9E6CF82DCB35C9_0.mp4"
     }
    ],
    "drive": null,
@@ -920,7 +921,8 @@
      "path": "https://drive.google.com/file/d/1TSt0EB53xoG8MIBBWaGALVy8eGqFW4cd/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACE2EED17BEF2683641ADDAB9ECCDCBB_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1TSt0EB53xoG8MIBBWaGALVy8eGqFW4cd&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1TSt0EB53xoG8MIBBWaGALVy8eGqFW4cd&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-11/ACE2EED17BEF2683641ADDAB9ECCDCBB_0.mp4"
     }
    ],
    "drive": null,
@@ -960,11 +962,63 @@
      "path": "https://drive.google.com/file/d/1F-EJ-liD9wG89QN8XJsPJQGvIEAT6HmN/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACFAA6637B034E56F9205D025194361D_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1F-EJ-liD9wG89QN8XJsPJQGvIEAT6HmN&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1F-EJ-liD9wG89QN8XJsPJQGvIEAT6HmN&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-chb-d-k-ata-y94hep/v/2026-11/ACFAA6637B034E56F9205D025194361D_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972546328697"
+  },
+  {
+   "id": "ACB800D18E82F83D1E8F5D4619576315",
+   "sender": "ר.א",
+   "text": "מנכ״ל מאוחדת מר עוזי ביתן הגיע היום להשתתף בכינוס השלוחים העולמי של חסידות חב״ד בניו יורק בהשתתפות אלפי שלוחי חב״ד. למנכ״ל הצטרפו יועצו דודי שוורץ ושמוליק אזימוב אחראי פרוייקט שלוחי חב״ד במאוחדת. \n\nאת המשלחת של מאוחדת אירחו ארגון 'לב חב״ד' ארגון הבריאות של צעירי חב״ד. השליח ומנהל ארגון ׳לב חב״ד׳ הרב לוי מנדלזון: ״בשם אלפי שלוחי חב״ד אנחנו מודים להנהלת מאוחדת שמבטחת שלוחים רבים ומפעילה מרפאות מאוחדת בריכוזי חב״ד״.\n*לכל עדכוני 'הקו החרדי':*",
+   "ts": 1794172300000,
+   "date": "2026-11-08",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB800D18E82F83D1E8F5D4619576315_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
+  },
+  {
+   "id": "ACC61CE631FFA9E66074094FA1BB1986",
+   "sender": "וייסגלס יצחק",
+   "text": "https://youtu.be/KY2epiwzGQI?is=xdJEdhYySkQ73Adc",
+   "ts": 1794172948000,
+   "date": "2026-11-08",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "phone": "972523772770"
+  },
+  {
+   "id": "AC6F85CA787F5B6CBB3DE899111BAAEB",
+   "sender": "וייסגלס יצחק",
+   "text": "",
+   "ts": 1794175232000,
+   "date": "2026-11-09",
+   "time": "00:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1V66o_xuW6deYziz5jhRKZOi8CBXx0osy/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC6F85CA787F5B6CBB3DE899111BAAEB_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1V66o_xuW6deYziz5jhRKZOi8CBXx0osy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523772770"
   }
  ]
 }

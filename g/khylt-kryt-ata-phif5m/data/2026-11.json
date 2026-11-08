@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת קרית אתא",
- "updated": "2026-11-08T21:03:33.923Z",
+ "updated": "2026-11-08T22:15:15.381Z",
  "messages": [
   {
    "id": "ACD6A1BB90E48FE309B240C9727A28B2",
@@ -1532,7 +1532,8 @@
      "path": "https://drive.google.com/file/d/1zvam3XvqRke5pH6R-Go9ReLCE2Y_e8Rk/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACDF94313EF8C0BAA9EDC47865FD3561_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1zvam3XvqRke5pH6R-Go9ReLCE2Y_e8Rk&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1zvam3XvqRke5pH6R-Go9ReLCE2Y_e8Rk&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m-2/v/2026-11/ACDF94313EF8C0BAA9EDC47865FD3561_0.mp4"
     }
    ],
    "drive": null,
@@ -1589,6 +1590,17 @@
    "files": [],
    "drive": null,
    "phone": "972537118255"
+  },
+  {
+   "id": "ACCE762B3E479F1B525E6064237BD4F8",
+   "sender": "Maayan Shachar 💕💋",
+   "text": "מה כל האמבולנסים והמשטרות האלה?",
+   "ts": 1794176085000,
+   "date": "2026-11-09",
+   "time": "00:14",
+   "files": [],
+   "drive": null,
+   "phone": "972528872526"
   }
  ]
 }
