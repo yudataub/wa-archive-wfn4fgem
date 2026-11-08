@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בזווית אחרת | כלים בחינם לרבנים ומרצים",
- "updated": "2026-11-07T23:07:11.433Z",
+ "updated": "2026-11-07T23:46:18.802Z",
  "messages": [
   {
    "id": "ACB628112DA3E9D3FDA8C83F957C61CF",
@@ -9026,6 +9026,27 @@
    "files": [],
    "drive": null,
    "phone": "972527190180"
+  },
+  {
+   "id": "A54E38A5DD4028B0878C00DC74E01E8A",
+   "sender": "הרב",
+   "text": "סעודה רבעית חובה וניצול מחיבוט הקבר וזוכה לישועה שתפו",
+   "ts": 1794095158000,
+   "date": "2026-11-08",
+   "time": "01:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "16.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1opBPbHInFM2UrMgcyBafIQQGb__8HwAY/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A54E38A5DD4028B0878C00DC74E01E8A_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1opBPbHInFM2UrMgcyBafIQQGb__8HwAY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "19175292099"
   }
  ]
 }
