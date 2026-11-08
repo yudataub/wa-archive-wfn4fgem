@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מחוז חרדי משרד החינוך (3)",
- "updated": "2026-11-07T18:01:19.619Z",
+ "updated": "2026-11-08T07:54:03.747Z",
  "messages": [
   {
    "id": "A565327EF9E9CA45F728982C52BCE69B",
@@ -169,6 +169,27 @@
      "type": "image/jpeg",
      "path": "media/2026-11/A5B3D7C74FF20D10E61B33ED2E7AD8BE_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
+  },
+  {
+   "id": "A51AC75491B4075478684D95A45251B8",
+   "sender": "שחר שאער",
+   "text": "כשחינוך פוגש בריאות התוצאה יוזמת ייחודית\n\n​המרכז החינוכי \"מעייני הישועה\" משיק מערך הכנה ייעודי לבדיקות דימות בקרב ילדים. המהלך נועד לתווך לילדים את ההליך הרפואי מראש, להפיג חששות ולחזק את חוסנם הרגשי בזמן האשפוז או הבדיקה.\n\nמנהלת המרכז החינוכי גב' טובה אופנהיימר מציינת את המהפך ​שהדבר מחולל מהפכה בהתנהגות הילדים לקראת בדיקות. \n\nיישר כוח להנהלת המרכז החינוכי ולצוות המקצועי על היוזמה המבורכת, הרגישות וההשקעה המסורה.\n\n​הישארו מעודכנים:\n\n​💌 לקבוצת המידע של המחוז החרדי:\n\n​📣 לערוץ המידע:\nhttps://whatsapp.com/channel/0029Vb5SPHjHFxP1Kkniuw3U\n\n​📧 לדף המחוז החרדי:\nhttps://www.facebook.com/profile.php?id=100087224925404",
+   "ts": 1794124424000,
+   "date": "2026-11-08",
+   "time": "09:53",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1mOYt4RHOE0EkrD59X-rW66cp2bpBsGZI/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A51AC75491B4075478684D95A45251B8_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1mOYt4RHOE0EkrD59X-rW66cp2bpBsGZI&sz=w1200"
     }
    ],
    "drive": null,

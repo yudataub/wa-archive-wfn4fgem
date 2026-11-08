@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משוחררי קרית אתא",
- "updated": "2026-11-05T13:20:48.497Z",
+ "updated": "2026-11-08T12:51:23.848Z",
  "messages": [
   {
    "id": "3EB090C7CAEA25E50414A5",
@@ -106,6 +106,44 @@
      "size": "234KB",
      "type": "image/jpeg",
      "path": "media/2026-11/ACE23D034074C374CBE6F7ACB44269ED_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "ACA8407AF1F35C4C6589BE3D9582333F",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "קישור לפרטים נוספים:\nhttps://www.hachvana.mod.gov.il/MainEducation/HachvanaScholarship/Pages/UniformToStudies.aspx",
+   "ts": 1794130918000,
+   "date": "2026-11-08",
+   "time": "11:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "303KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA8407AF1F35C4C6589BE3D9582333F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC3E1F1AA43FFB7A0455904329825078",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*חיילים משוחררים ומשרתי המילואים, שירות התעסוקה כאן בשבילכם*🫡\n\n🤖 *קו ג׳וב* סימולטור ראיונות AI\n*מתכוננים לראיון עבודה?* \nבואו לתרגל מול מערכת בינה מלאכותית, לקבל משוב אישי ולהגיע הכי מוכנים שיש - *ללא עלות!*\nלהתנסות > https://go.gov.il/co_job \n\nקורסים שנפתחים בקרוב *במימון מלא* >\n✅  קורס - AI for developers with Cursor ב- 23.11.26\n✅  קורס - Research & Insights with perplexity ב - 29.11.26\n✅  קורס - DevOps ב 29.11.26\nלרשימת ההכשרות המלאה > \nhttps://katzr.net/1b918a\n\n*ומה עוד מחכה לכם השבוע?*💻 \n*סדנת זום* מקצועית שתכין אתכם לראיון עבודה הבא!\n👩🏻‍💻 10.11 | הכנה לראיון עבודה | 09:00\nhttps://tinyurl.com/37e78jke\n\n🧑🏻‍💻 11.11 | כתיבה ושדרוג קורות חיים | 13:30 \nhttps://tinyurl.com/732xjxwv\n\n*לוח המשרות* שלנו בואו למצוא את האתגר הבא בקריירה שלכם > https://go.gov.il/h1y31",
+   "ts": 1794142269000,
+   "date": "2026-11-08",
+   "time": "14:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "14KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC3E1F1AA43FFB7A0455904329825078_1.jpg",
      "skipped": ""
     }
    ],

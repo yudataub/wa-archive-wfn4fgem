@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני העל-יסודי",
- "updated": "2026-11-07T17:25:49.067Z",
+ "updated": "2026-11-08T08:36:04.397Z",
  "messages": [
   {
    "id": "A501B677F98CB40F70285E1B9B2DF99F",
@@ -937,6 +937,55 @@
    "files": [],
    "drive": null,
    "phone": "972524700429"
+  },
+  {
+   "id": "AC0F21DB69CF6D5FE35431779B9C8EE0",
+   "sender": "ינון אליה לוי בוסאני",
+   "text": "",
+   "ts": 1794126946000,
+   "date": "2026-11-08",
+   "time": "10:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "545KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC0F21DB69CF6D5FE35431779B9C8EE0_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552254280"
+  },
+  {
+   "id": "ACC42EB16F0B01E1BDB129F596B32D75",
+   "sender": "ינון אליה לוי בוסאני",
+   "text": "",
+   "ts": 1794126946000,
+   "date": "2026-11-08",
+   "time": "10:35",
+   "files": [
+    {
+     "name": "וידאו",
+     "size": "",
+     "type": "video/mp4",
+     "path": "",
+     "skipped": "סרטון 121.8MB — מעל 95MB, לא נשמר"
+    }
+   ],
+   "drive": null,
+   "phone": "972552254280"
+  },
+  {
+   "id": "AC50E56FE61187FC09BFC6106DE8D2AF",
+   "sender": "ינון אליה לוי בוסאני",
+   "text": "אשמח להפצה",
+   "ts": 1794126956000,
+   "date": "2026-11-08",
+   "time": "10:35",
+   "files": [],
+   "drive": null,
+   "phone": "972552254280"
   }
  ]
 }

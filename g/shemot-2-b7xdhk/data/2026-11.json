@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-07T22:42:11.049Z",
+ "updated": "2026-11-08T20:30:33.414Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -1510,6 +1510,184 @@
    "files": [],
    "drive": null,
    "phone": "972587176233"
+  },
+  {
+   "id": "AC8873C27BFAE53B0A8CF7E7F9EEB250",
+   "sender": "רחלי שטרנברג",
+   "text": "בןקר אור \nמחפשת שיר לשמות הפרשיות",
+   "ts": 1794115394000,
+   "date": "2026-11-08",
+   "time": "07:23",
+   "files": [],
+   "drive": null,
+   "phone": "972503888292"
+  },
+  {
+   "id": "ACDC7257282AA17AFAE50CC801273850",
+   "sender": "סלעית ויסמן",
+   "text": "",
+   "ts": 1794121200000,
+   "date": "2026-11-08",
+   "time": "09:00",
+   "files": [
+    {
+     "name": "מכירים-ושרים-שמות.pdf",
+     "size": "121KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DPz3ZxLA6lDs2rUGw6X-fj5MmZ-WzbKt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524560600"
+  },
+  {
+   "id": "AC2D54843FDD786725B509B622B840F5",
+   "sender": "סלעית ויסמן",
+   "text": "",
+   "ts": 1794121201000,
+   "date": "2026-11-08",
+   "time": "09:00",
+   "files": [
+    {
+     "name": "מכירים-ושרים-שמות.mp3",
+     "size": "1.9MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1-j7j79NrZHnh8nwWc96grTDboZyRZZie/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524560600"
+  },
+  {
+   "id": "AC946D9C46A8C26EBC3C98D061408565",
+   "sender": "יזהר פינטוס",
+   "text": "https://youtu.be/VjGuQoQPIXw?si=XFmo3vXBtbdTfiBi",
+   "ts": 1794121764000,
+   "date": "2026-11-08",
+   "time": "09:09",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "ACD2EBDCE274A6CB73C260EFC59C95CA",
+   "sender": "יזהר פינטוס",
+   "text": "כל ההשתלמויות הנל 30 שעות אופק חדש.\nבכל השתלמות 2-3 מפגשי זום סינכרוניים והשאר א-סינכרוני",
+   "ts": 1794121903000,
+   "date": "2026-11-08",
+   "time": "09:11",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC20BB5EB2B6CCD5AC24A2ED8CA7633A",
+   "sender": "רחלי שטרנברג",
+   "text": "תודה",
+   "ts": 1794130526000,
+   "date": "2026-11-08",
+   "time": "11:35",
+   "files": [],
+   "drive": null,
+   "phone": "972503888292"
+  },
+  {
+   "id": "AC095FEEF562C38E9CB1764A0DB38464",
+   "sender": "יזהר פינטוס",
+   "text": "",
+   "ts": 1794136225000,
+   "date": "2026-11-08",
+   "time": "13:10",
+   "files": [
+    {
+     "name": "השתלמויות תנך תשפז.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10dzOBO7KYlhlMAOgp0DZOvTP-AOfCaOL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "ACCEB60D2814E595603219D04DCA4D4B",
+   "sender": "יזהר פינטוס",
+   "text": "עם הקישורים להשתלמויות חדשות למורים היותר ותיקים",
+   "ts": 1794136227000,
+   "date": "2026-11-08",
+   "time": "13:10",
+   "files": [],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "AC0C33FC6C942F7AB7D7089BFBA7A09C",
+   "sender": "קרן פלט🌸",
+   "text": "היי, מחפשת מבחן על פרשת שמות פרקים א-ג🙏",
+   "ts": 1794147046000,
+   "date": "2026-11-08",
+   "time": "16:10",
+   "files": [],
+   "drive": null,
+   "phone": "972502028311"
+  },
+  {
+   "id": "3A9CDEFB92E614208D5A",
+   "sender": "Avigail",
+   "text": "אשמח לעבודה מסכמת על פרקים א-ו בנביא ללא ביאורי מילים 🙏",
+   "ts": 1794148231000,
+   "date": "2026-11-08",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972535834186"
+  },
+  {
+   "id": "AC6E1A6DDAC2F59CFF36DDC59F3EBE85",
+   "sender": "שירן לוי",
+   "text": "תודה רבה",
+   "ts": 1794153046000,
+   "date": "2026-11-08",
+   "time": "17:50",
+   "files": [],
+   "drive": null,
+   "phone": "972548469798"
+  },
+  {
+   "id": "AC0830BF22AE9B26610D64E86479CDC7",
+   "sender": "הודיה קליגר",
+   "text": "יש למשהו דף חזרה על פרשת שמות?",
+   "ts": 1794165213000,
+   "date": "2026-11-08",
+   "time": "21:13",
+   "files": [],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC83C5E59358906ECA6BF14FD2538B12",
+   "sender": "אלי מילר",
+   "text": "אשמח גם",
+   "ts": 1794165880000,
+   "date": "2026-11-08",
+   "time": "21:24",
+   "files": [],
+   "drive": null,
+   "phone": "972559738202"
+  },
+  {
+   "id": "ACDE2EAF4736B6B06FA05C6353BE1B24",
+   "sender": "ברכה שורץ",
+   "text": "למשהו במקרה יש מצגת על פרק ה' בשמות?",
+   "ts": 1794169804000,
+   "date": "2026-11-08",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972525304028"
   }
  ]
 }

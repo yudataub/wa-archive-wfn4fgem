@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-06T09:45:43.473Z",
+ "updated": "2026-11-08T16:04:53.849Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -414,6 +414,74 @@
    ],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "AC407F5E8DBBBC0B98BAF3C360234CA8",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794122163000,
+   "date": "2026-11-08",
+   "time": "09:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC407F5E8DBBBC0B98BAF3C360234CA8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACAD019C8BD61E619037DD675460EB6C",
+   "sender": "שלום בוצחק",
+   "text": "📢📣📢📣\n\n*חברים יקרים שימו לב ❤️* \n*תפילת מנחה, ולאחר מכן תפילת ערבית צמודה תתקיים בבית הכנסת-\"אוהל מאיר\"*\n*בשעה 16:40*\n\n*ברוכים הבאים!*",
+   "ts": 1794139592000,
+   "date": "2026-11-08",
+   "time": "14:06",
+   "files": [],
+   "drive": null,
+   "phone": "972504261741"
+  },
+  {
+   "id": "AC809FDEDD2FDEF396E8813930A51B59",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794153886000,
+   "date": "2026-11-08",
+   "time": "18:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC809FDEDD2FDEF396E8813930A51B59_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC885D9F85B39BCEBCFE375D69666F3C",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794153886000,
+   "date": "2026-11-08",
+   "time": "18:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC885D9F85B39BCEBCFE375D69666F3C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

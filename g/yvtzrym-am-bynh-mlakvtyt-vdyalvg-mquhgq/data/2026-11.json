@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-11-07T19:13:19.290Z",
+ "updated": "2026-11-08T11:05:16.432Z",
  "messages": [
   {
    "id": "AC0D089A6964F565F5B700458FC19344",
@@ -725,6 +725,69 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "AC9BDC9ADA224530BA6C4B6BAF24491A",
+   "sender": "נועם",
+   "text": "מנפלאות בינה מלאכותית בווטסאפ \n\nכאן יש ספריה של רעיונות לשימוש מה אפשר להכין עם אינסטינקט / טאב, הבקשה כבר כתובה ומוכנה להעתקה. \nhttps://chepti.com/instinct/#/\n\nכאן דרך מקורית ליצור ספיריה אישית מסודרת עם כל הפרויקטים שלי באינסטינקט / טאב\n\nhttps://drive-skill.sites.tab.bot/\n\nבהצלחה",
+   "ts": 1794123907000,
+   "date": "2026-11-08",
+   "time": "09:45",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB070874F9B40C4307E56",
+   "sender": "👀",
+   "text": "can't reach this page\nIt looks like the webpage at http://localhost:1/?state=6WWHwvAADQeiODQ2f7fel9mIaYWdN8oztBu3-OsB4Io&iss=https://accounts.google.com&code=4/0AUn6Hd_I__KLFOsmuQgo4U463ZUHiPNUTnJuUHxyrB91djLCSX1idIMVwx5EojgN8Ci4WA&scope=https://www.googleapis.com/auth/calendar.readonly might be having issues, or it may have moved permanently to a new web address.\nERR_UNSAFE_PORT",
+   "ts": 1794125292000,
+   "date": "2026-11-08",
+   "time": "10:08",
+   "files": [],
+   "drive": null,
+   "phone": "972529278388"
+  },
+  {
+   "id": "AC8CF16D8513461C4EC3550713E3ADEE",
+   "sender": "ד\"ר חיננית לויפר פלד",
+   "text": "היי, נעים מאוד, ד\"ר חיננית לויפר פלד, מנכ\"לית \"מחוץ לקופסא\".\nשמחה להכיר לכן/ם את העוזרת הדיגיטלית שלי – Tab 💜\n\nמאז שיש לי עוזרת אישית, היומיום שלי השתנה, והמון מטלות עסקיות עברו אליה: סיוע בכתיבת מכתבים, פוסטים, הצעות מחיר, סילבוסים וכל דבר שרק תחשבו עליו.\n\nרוצים לנסות? מוזמנים להיכנס דרך הקישור שיצרתי עבורכם 👇\nhttps://tab.bot/r/6F04F05EEAA558E9\n\nיום קסום ובהצלחה,\nד\"ר חיננית לויפר פלד\n\n#בינהמלאכותית #AI #חינוך #עסקים #עוזרתאישית #Tab",
+   "ts": 1794125533000,
+   "date": "2026-11-08",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC8CF16D8513461C4EC3550713E3ADEE_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522662274"
+  },
+  {
+   "id": "ACB3799BB899173A1F51206A0272EA26",
+   "sender": "נועם",
+   "text": "למי שעוסק בהוראה- יש שלושה ימים מרוכזים (באוריינטציית K12 אבל יכול להיות רלוונטי גם להשכלה גבוהה) בהם יהיו\nתשעה מפגשים מקוונים של המכון למחקר יישומי של ב״מ בחינוך, עם מודלים, פרקטיקות, כלים ובוטים שפיתחנו יחד עם מורים.ות, גננות ומדריכים.ות.\nמהגן ועד הכשרת המורים, מהמחקר ישר לכיתה.\n📅 16–18 בנובמבר\n ⏰ בכל יום ב־15:00, 17:00 ו־20:00\n ✅ ללא עלות וללא הרשמה מראש\nהתוכנית המלאה וקישורים למפגשים כאן👇\n https://edu-tech.education.gov.il/events/all-events/3days-ai/#p_2cea7b96-eb70-408a-8e3b-95b3510bfe2a\nמוזמנים.ות לשתף ✨",
+   "ts": 1794135396000,
+   "date": "2026-11-08",
+   "time": "12:56",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB049460FF3D63A855361",
+   "sender": "עדנה",
+   "text": "מגיע לדף שגיאה.",
+   "ts": 1794135890000,
+   "date": "2026-11-08",
+   "time": "13:04",
+   "files": [],
+   "drive": null,
+   "phone": "972523858820"
   }
  ]
 }

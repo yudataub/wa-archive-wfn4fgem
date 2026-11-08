@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-07T16:32:55.577Z",
+ "updated": "2026-11-08T04:05:50.967Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -301,6 +301,44 @@
      "size": "131KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3AB278AD432C8C147125_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2B0B7A65BEAF2EC809",
+   "sender": ".",
+   "text": "״דהוה קא אזיל ואתי קמיה״ (בכורות נא, ב).",
+   "ts": 1794110717000,
+   "date": "2026-11-08",
+   "time": "06:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A2B0B7A65BEAF2EC809_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A9677E23AEC5BEF00E5",
+   "sender": ".",
+   "text": "״שמא לא היו מחזירין אלא לעניים״ (תוס׳ בכורות נא, ב).",
+   "ts": 1794110718000,
+   "date": "2026-11-08",
+   "time": "06:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A9677E23AEC5BEF00E5_1.jpg",
      "skipped": ""
     }
    ],

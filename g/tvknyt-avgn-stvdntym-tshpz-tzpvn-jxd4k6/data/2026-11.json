@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "תוכנית עוגן סטודנטים תשפז⚓ -צפון",
- "updated": "2026-11-03T07:16:10.367Z",
+ "updated": "2026-11-08T08:58:18.613Z",
  "messages": [
   {
    "id": "3EB0EB42753356CF2F20F2",
@@ -33,6 +33,36 @@
    "date": "2026-11-03",
    "time": "09:16",
    "files": [],
+   "drive": null,
+   "phone": "972546774051"
+  },
+  {
+   "id": "AC8B89E1329560BA991781A96A5F40D8",
+   "sender": "Hila",
+   "text": "בוקר טוב לכולם! \nלמי שפיספס או לא נכח\nמצ\"ב קישור להרצאה הערב בנוגע לקשר הפרטני: https://weizmann.zoom.us/j/94619661704?pwd=HUV8S8cII6b8QGXIqfVqJ7qADT4VNH.1&from=addon מתחילים בשעה 20:00",
+   "ts": 1794128260000,
+   "date": "2026-11-08",
+   "time": "10:57",
+   "files": [],
+   "drive": null,
+   "phone": "972546774051"
+  },
+  {
+   "id": "ACC21180DD52D84F441097BBA6F2F757",
+   "sender": "Hila",
+   "text": "",
+   "ts": 1794128274000,
+   "date": "2026-11-08",
+   "time": "10:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACC21180DD52D84F441097BBA6F2F757_1.jpg",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972546774051"
   }

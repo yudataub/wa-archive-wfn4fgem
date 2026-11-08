@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת קרית אתא",
- "updated": "2026-11-07T20:00:01.620Z",
+ "updated": "2026-11-08T21:03:33.923Z",
  "messages": [
   {
    "id": "ACD6A1BB90E48FE309B240C9727A28B2",
@@ -1478,6 +1478,117 @@
    ],
    "drive": null,
    "phone": "972527317774"
+  },
+  {
+   "id": "ACFE018D836D418B00D42B5A38C25231",
+   "sender": "זהבה גוטמן",
+   "text": "",
+   "ts": 1794121571000,
+   "date": "2026-11-08",
+   "time": "09:06",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "150KB",
+     "type": "image/webp",
+     "path": "media/2026-11/ACFE018D836D418B00D42B5A38C25231_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527361718"
+  },
+  {
+   "id": "3AC8B4E94FA593472338",
+   "sender": "שירה בן סימון ",
+   "text": "",
+   "ts": 1794126020000,
+   "date": "2026-11-08",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AC8B4E94FA593472338_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586710024"
+  },
+  {
+   "id": "ACDF94313EF8C0BAA9EDC47865FD3561",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1794145086000,
+   "date": "2026-11-08",
+   "time": "15:38",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "689KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1zvam3XvqRke5pH6R-Go9ReLCE2Y_e8Rk/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACDF94313EF8C0BAA9EDC47865FD3561_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1zvam3XvqRke5pH6R-Go9ReLCE2Y_e8Rk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
+  },
+  {
+   "id": "ACB2D10C860E659591DFEAE5D5B0C760",
+   "sender": "לב",
+   "text": "",
+   "ts": 1794170972000,
+   "date": "2026-11-08",
+   "time": "22:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "204KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACB2D10C860E659591DFEAE5D5B0C760_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537281557"
+  },
+  {
+   "id": "ACAE4E1D31C1DD638C9954353854D9F5",
+   "sender": "נריה ממן",
+   "text": "מווווווושלם",
+   "ts": 1794171235000,
+   "date": "2026-11-08",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "2A4B2FB0EB45C62A99F7",
+   "sender": "תהילה וקסלר יועצת ומשווקת נדלן",
+   "text": "מה מושלם מסכנה איזה תיקון 🙄",
+   "ts": 1794171741000,
+   "date": "2026-11-08",
+   "time": "23:02",
+   "files": [],
+   "drive": null,
+   "phone": "972553068667"
+  },
+  {
+   "id": "AC78F5EE9E056A127DA830931672460D",
+   "sender": "נריה ממן",
+   "text": "מושלם שחילצוווו 🙌",
+   "ts": 1794171804000,
+   "date": "2026-11-08",
+   "time": "23:03",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
   }
  ]
 }

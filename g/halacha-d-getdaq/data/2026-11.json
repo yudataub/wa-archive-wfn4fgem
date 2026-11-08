@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ד'",
- "updated": "2026-11-06T08:13:39.812Z",
+ "updated": "2026-11-08T18:20:08.493Z",
  "messages": [
   {
    "id": "ACB0E6A48615372D5894E35A95213A4B",
@@ -189,6 +189,121 @@
    "files": [],
    "drive": null,
    "phone": "972506737267"
+  },
+  {
+   "id": "A53C7C9D19D14152B11FF64DB9B41876",
+   "sender": "אור חדש הפצת תורה ויהדות בראשות הרב דביר לוי",
+   "text": "תודה רבה",
+   "ts": 1794123410000,
+   "date": "2026-11-08",
+   "time": "09:36",
+   "files": [],
+   "drive": null,
+   "phone": "972533811873"
+  },
+  {
+   "id": "ACD76C182625C164ACCC89D0FCBA7679",
+   "sender": "שרית דאודי- יקב תקוע",
+   "text": "מחפשת חומרים בהלכה לפי התוכנית לימודים כי אין לי ספר עדיין בכיתה. יש למישהו משהו?",
+   "ts": 1794134848000,
+   "date": "2026-11-08",
+   "time": "12:47",
+   "files": [],
+   "drive": null,
+   "phone": "972542307375"
+  },
+  {
+   "id": "3AFCAB5A501AECF69099",
+   "sender": "שושנה",
+   "text": "אני עובדת מתוך קיצור שולחן על הנושאים השכמת בוקר וכו",
+   "ts": 1794137495000,
+   "date": "2026-11-08",
+   "time": "13:31",
+   "files": [],
+   "drive": null,
+   "phone": "972502022280"
+  },
+  {
+   "id": "AC4CD6C63D231D6F62154F2C161B3224",
+   "sender": "שרית דאודי- יקב תקוע",
+   "text": "יש לך דף עבודה?",
+   "ts": 1794145110000,
+   "date": "2026-11-08",
+   "time": "15:38",
+   "files": [],
+   "drive": null,
+   "phone": "972542307375"
+  },
+  {
+   "id": "AC6214F0DA8DE5D0F96DC351B478FEBA",
+   "sender": "שרית דאודי- יקב תקוע",
+   "text": "מצגת?",
+   "ts": 1794145112000,
+   "date": "2026-11-08",
+   "time": "15:38",
+   "files": [],
+   "drive": null,
+   "phone": "972542307375"
+  },
+  {
+   "id": "AC7D2910628A82DDEF140F1BBADB1C50",
+   "sender": "sigalit",
+   "text": "",
+   "ts": 1794146201000,
+   "date": "2026-11-08",
+   "time": "15:56",
+   "files": [
+    {
+     "name": "פרקים א וב.pptx",
+     "size": "4.8MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1iF5kF3zUBuCy_mhIo74hJhoFJxwoDdzV/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542525629"
+  },
+  {
+   "id": "AC4626FE28A7C725AC48B08A1C06C559",
+   "sender": "שרון שריר",
+   "text": "יש למישהו מצגת מעניינת או מהלך מענין לקידוש על היין?",
+   "ts": 1794150509000,
+   "date": "2026-11-08",
+   "time": "17:08",
+   "files": [],
+   "drive": null,
+   "phone": "972528613004"
+  },
+  {
+   "id": "AC543C6BA6FA0BBB303B9A1AD4762B74",
+   "sender": "Lior.A",
+   "text": "",
+   "ts": 1794161978000,
+   "date": "2026-11-08",
+   "time": "20:19",
+   "files": [
+    {
+     "name": "יחידה 17 פרקים מב-מג – קידוש וסעודות שבת.pdf",
+     "size": "16.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EC-hVP-KbB6WOSUhysWj0aVxslAA-etZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533285811"
+  },
+  {
+   "id": "AC2A2CD51EBBF4F542B852DEECDCB5BB",
+   "sender": "Lior.A",
+   "text": "👆",
+   "ts": 1794161981000,
+   "date": "2026-11-08",
+   "time": "20:19",
+   "files": [],
+   "drive": null,
+   "phone": "972533285811"
   }
  ]
 }

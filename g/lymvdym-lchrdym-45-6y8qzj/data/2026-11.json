@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לימודים לחרדים - 45",
- "updated": "2026-11-03T14:18:32.752Z",
+ "updated": "2026-11-08T14:47:39.110Z",
  "messages": [
   {
    "id": "3EB0D466DD29CF5B03ADCD",
@@ -54,6 +54,25 @@
      "size": "377KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3EB00E93F79A5DBB08AC76_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "97225018198"
+  },
+  {
+   "id": "3EB04FE90C93F80651E724",
+   "sender": "פרונטל",
+   "text": "🎨 *היצירה שלך מתחילה כאן!*\n\nחולמים להפוך את הכישרון שלכם למקצוע?\n\nמרכז אמן – המרכז החרדי לאמנות ועיצוב מזמין אתכם לגלות עולם של יצירה,\nאמנות והזדמנויות מקצועיות!\n\n🖌️ *מגוון מסלולי לימוד*\n🔹 ציור ורישום\n🔹 פיסול וקרמיקה\n🔹 קורסים וסדנאות אמנות\n🔹 לימודי תעודה\n🔹 מסלולים ייעודיים לנשים\n\n✨ לימודי אמנות ברמה מקצועית ובאווירה מותאמת לציבור החרדי.\n\n*לפרטים הרשמה ומסלולים נוספים>>*\nhttps://frontal.co.il/learning-paths/multidisciplinary-art-studies?utm_source=limudim-lechredim&utm_medium=email&utm_campaign=prvntl&utm_term=22-10\n\n*מלגות ולימודים לחרדים >>*",
+   "ts": 1794149246000,
+   "date": "2026-11-08",
+   "time": "16:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB04FE90C93F80651E724_1.jpg",
      "skipped": ""
     }
    ],

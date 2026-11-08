@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משולחן מפמ\"ר היסטוריה חמ\"ד תשפ\"ז",
- "updated": "2026-11-06T05:29:42.467Z",
+ "updated": "2026-11-08T12:08:46.111Z",
  "messages": [
   {
    "id": "3EB09A9EE911313CE7D2A0",
@@ -79,6 +79,25 @@
    "date": "2026-11-06",
    "time": "07:29",
    "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "AC8F03A45A1FBC57D1C4B0A0FC191538",
+   "sender": "יוסי לונדין",
+   "text": "",
+   "ts": 1794139714000,
+   "date": "2026-11-08",
+   "time": "14:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC8F03A45A1FBC57D1C4B0A0FC191538_1.jpg",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972526071630"
   }

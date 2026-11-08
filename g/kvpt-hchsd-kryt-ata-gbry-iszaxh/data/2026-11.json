@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-07T21:30:02.898Z",
+ "updated": "2026-11-08T16:41:31.043Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -751,6 +751,78 @@
    ],
    "drive": null,
    "phone": "972587132636"
+  },
+  {
+   "id": "AC98595B4181580DD9AE2698976D8891",
+   "sender": "ש י דויטש",
+   "text": "שלום וברכה.\nבני בן ה־13 מאושפז בבית החולים כרמל בחיפה עקב זיהום בחוליות הגב.\n\nאנחנו זקוקים בדחיפות למתנדב שיוכל לשבת לידו, גם בשעות היום וגם בשעות הלילה, כדי לאפשר לנו ההורים מעט מנוחה.\n\nנשמח מאוד לכל עזרה, אפילו לכמה שעות, כבר מהיום.\n\nתזכו למצוות ובשורות טובות.",
+   "ts": 1794119958000,
+   "date": "2026-11-08",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972522631228"
+  },
+  {
+   "id": "AC3E6903645FAF89B69B4A7A74F75BB6",
+   "sender": "אריאל",
+   "text": "*מתחילים את שבוע החסד*👇👇\n\n*מטריות*\n*משחקים*\n*בגדי תינוקות וילדים חדשים*\n*כובעים וצעיפים*\n*גרבי ילדים*\n*ועוד הרבה דבר מגניבים*\n\n*-ראשון בין 16:00-18:00*\n*-שני בוקר בין 10:00-12:00*\n*-רביעי בין 19:00-21:00*\n\n*נוף הכרמל 13 סניף קרית אתא*\n\nהצטרפו עכשיו לקבוצה של הקריות",
+   "ts": 1794142247000,
+   "date": "2026-11-08",
+   "time": "14:50",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1v_NMqamm6-SbHoW14w1Bj3db4s0_owhD/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC3E6903645FAF89B69B4A7A74F75BB6_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1v_NMqamm6-SbHoW14w1Bj3db4s0_owhD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "AC3DC1D0DFB9D6860CC36BB571B7C434",
+   "sender": "אמונה נותנת את הכוח",
+   "text": "‏תפרסם לי את זה",
+   "ts": 1794144693000,
+   "date": "2026-11-08",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC3DC1D0DFB9D6860CC36BB571B7C434_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525962026"
+  },
+  {
+   "id": "ACF80EAC5F2E7B17B51891D7C42DD9FC",
+   "sender": "דרור לנפש המפתח לשינוי",
+   "text": "",
+   "ts": 1794156080000,
+   "date": "2026-11-08",
+   "time": "18:41",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hqZWoSUQwzAmd-SfeRwdCCg_1kaZmdRc/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACF80EAC5F2E7B17B51891D7C42DD9FC_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1hqZWoSUQwzAmd-SfeRwdCCg_1kaZmdRc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972508757537"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-11-07T21:49:40.455Z",
+ "updated": "2026-11-08T04:45:24.884Z",
  "messages": [
   {
    "id": "ACC6568ECDEB7F48FEA2636611698041",
@@ -703,6 +703,25 @@
    "date": "2026-11-07",
    "time": "23:49",
    "files": [],
+   "drive": null,
+   "phone": "972535658889"
+  },
+  {
+   "id": "AC42577ED48667CC21A9854C224A0181",
+   "sender": "ציפי קוריאט",
+   "text": "",
+   "ts": 1794113109000,
+   "date": "2026-11-08",
+   "time": "06:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "6KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1-E11UUKX1F-i5L5xKgxm4lZAKQVwGB58/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972535658889"
   }
