@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חממה לפדגוגיה דיגיטלית2",
- "updated": "2026-11-08T10:27:56.588Z",
+ "updated": "2026-11-09T09:35:00.858Z",
  "messages": [
   {
    "id": "3A79B84A43452B1AE0E8",
@@ -41,6 +41,26 @@
    "date": "2026-11-08",
    "time": "12:27",
    "files": [],
+   "drive": null,
+   "phone": "972508656311"
+  },
+  {
+   "id": "3AF553F6DCD317DD60E2",
+   "sender": "ורד פרידמן",
+   "text": "*קישור לזום* https://gordonacademy.zoom.us/j/84047391199?from=addon",
+   "ts": 1794216889000,
+   "date": "2026-11-09",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TS5TzITtk7BDS-oO-wY-9NkcHQp4G2jM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TS5TzITtk7BDS-oO-wY-9NkcHQp4G2jM&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972508656311"
   }

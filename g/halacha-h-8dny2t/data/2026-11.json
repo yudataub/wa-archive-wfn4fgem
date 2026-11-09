@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ה",
- "updated": "2026-11-08T18:47:07.916Z",
+ "updated": "2026-11-09T19:04:15.779Z",
  "messages": [
   {
    "id": "3EB07D29E51DF1417119FE",
@@ -557,6 +557,126 @@
    "files": [],
    "drive": null,
    "phone": "972535942772"
+  },
+  {
+   "id": "A56339115E152453782C7AA271626492",
+   "sender": "אוֹריה",
+   "text": "אפשר לשלוח שוב בבקשה?",
+   "ts": 1794217789000,
+   "date": "2026-11-09",
+   "time": "11:49",
+   "files": [],
+   "drive": null,
+   "phone": "972585357978"
+  },
+  {
+   "id": "AC8CC185C4962749043D227C7834CF5A",
+   "sender": "תמר רון",
+   "text": "בקשת עזרה דחופה\nנתקלתי בקובץ של שאלות להלכות חנוכה עפ קצשע מקור חיים. לא מוצאת אותו\nמישהו יכול לשלח לי אם יש לו?🙏🙏🙏🙏",
+   "ts": 1794250064000,
+   "date": "2026-11-09",
+   "time": "20:47",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "AC5FB375350C4A8EA19E688FA7B64E39",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1794250880000,
+   "date": "2026-11-09",
+   "time": "21:01",
+   "files": [
+    {
+     "name": "הלכות חנוכה במצגת (1).pptx",
+     "size": "2.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1EupjxKBtMJ9U7wEj2zCVdhgnAKqjQhue/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC35EBAF11E775F90DEDA64D3B8CDA75",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1794250881000,
+   "date": "2026-11-09",
+   "time": "21:01",
+   "files": [
+    {
+     "name": "דף לימוד חנוכה (2).pdf",
+     "size": "272KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1HPKOiSwpbMJuWqPlZ4Cw_pDhsekCLQu3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC0210FA7269DE363C326E791F6335E2",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1794250882000,
+   "date": "2026-11-09",
+   "time": "21:01",
+   "files": [
+    {
+     "name": "משימת הגשה בהלכה סיכום הלכות חנוכה.pdf",
+     "size": "85KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UgP7_Ic4y79juK1SDvmuC5CfTDSV8apO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC3BA0C733FF521C8F9B7C1A7C4BAA1C",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1794250882000,
+   "date": "2026-11-09",
+   "time": "21:01",
+   "files": [
+    {
+     "name": "מבחן בהלכות חנוכה       שם.docx",
+     "size": "19KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1v3E4QHyGYdYKwaQqbLnFc8r3uTy3LsFN/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC5A7169A3C6AF4C4BAE798CA03A31AB",
+   "sender": "אורן יהודה",
+   "text": "זה מה ששלחו פה בעבר (וקיים אצלי) על חנוכה",
+   "ts": 1794250894000,
+   "date": "2026-11-09",
+   "time": "21:01",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC08E82E5DA7F85DA5BD6A589BD0BF10",
+   "sender": "תמר רון",
+   "text": "זהו\nבדיוק מה שחפשתי\nתודה🙏",
+   "ts": 1794251046000,
+   "date": "2026-11-09",
+   "time": "21:04",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
   }
  ]
 }

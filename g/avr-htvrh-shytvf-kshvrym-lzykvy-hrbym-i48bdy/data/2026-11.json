@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"אור התורה\" 🕍 שיתוף קשורים לזיכוי הרבים",
- "updated": "2026-11-06T08:15:39.854Z",
+ "updated": "2026-11-09T10:13:02.013Z",
  "messages": [
   {
    "id": "A55C18B9A8EAD884F995FFCEF592D7B1",
@@ -64,6 +64,38 @@
    "ts": 1793952936000,
    "date": "2026-11-06",
    "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "A5E68C13198BB9563C3FAEBB3CFE8249",
+   "sender": "רב/ מגשר",
+   "text": "https://rav.adifferentangle.ai/yossef\nהצטרפו לערוץ הרשמי  \n\n*הקבוצה הפרטית בוואטספ*",
+   "ts": 1794217633000,
+   "date": "2026-11-09",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "17.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rd839BvlBNcZxvdqTctHpVuJ1XE5Y2uQ/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5E68C13198BB9563C3FAEBB3CFE8249_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1rd839BvlBNcZxvdqTctHpVuJ1XE5Y2uQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527188781"
+  },
+  {
+   "id": "A51F4A237C58905D851576B8F04A1F6C",
+   "sender": "רב/ מגשר",
+   "text": "https://youtube.com/shorts/v9X9lyjQMHc?si=jRHisR54Qk3fOMoY",
+   "ts": 1794219175000,
+   "date": "2026-11-09",
+   "time": "12:12",
    "files": [],
    "drive": null,
    "phone": "972527188781"

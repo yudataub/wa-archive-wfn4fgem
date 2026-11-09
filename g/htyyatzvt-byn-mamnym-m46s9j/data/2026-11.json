@@ -1,1 +1,91 @@
-{"month":"2026-11","group":"התייעצות בין מאמנים","updated":"2026-11-04T18:02:42.598Z","messages":[{"id":"3EB0C0F7B2B27EF9AAFA1A","sender":"קובי גטניו","text":"יום רביעי הקרוב 4/11 שעה 20:00 נארח את ליבנת בן דיין בקהילה שלנו: \"אימון אישי-מרכז הקואצ'ינג הישראלי\",קישור לשידור ינתן בשעה 19:30","ts":1793632722000,"date":"2026-11-02","time":"17:18","files":[{"name":"תמונה.jpg","size":"335KB","type":"image/jpeg","path":"https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB0C0F7B2B27EF9AAFA1A_0.jpg","skipped":"","spool":"2026-11/3EB0C0F7B2B27EF9AAFA1A_0.jpg","mirror":"https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB0C0F7B2B27EF9AAFA1A_0.jpg"}],"drive":null,"phone":"972546090536"},{"id":"3EB09796045F779B70CC51","sender":"קובי גטניו","text":"עולים לשידור לייב היום בשעה 20:00 בקהילה:אימון אישי-מרכז הקואצ'ינג הישראלי.קישור לשידור:https://yozmotgroup.zoom.us/j/87915684080","ts":1793812947000,"date":"2026-11-04","time":"19:22","files":[{"name":"תמונה.jpg","size":"335KB","type":"image/jpeg","path":"https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB09796045F779B70CC51_0.jpg","skipped":"","spool":"2026-11/3EB09796045F779B70CC51_0.jpg","mirror":"https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB09796045F779B70CC51_0.jpg"}],"drive":null,"phone":"972546090536"},{"id":"AC5F06B3A037E4236D39D16EC1E92015","sender":"קובי גטניו","text":"מתחילים עכשיו","ts":1793815346000,"date":"2026-11-04","time":"20:02","files":[],"drive":null,"phone":"972546090536"},{"id":"AC3DE1A935E9D54DBCC63318E415AA22","sender":"קובי גטניו","text":"מתחילים עכשיו","ts":1793815366000,"date":"2026-11-04","time":"20:02","files":[],"drive":null,"phone":"972546090536"}]}
+{
+ "month": "2026-11",
+ "group": "התייעצות בין מאמנים",
+ "updated": "2026-11-09T06:10:42.358Z",
+ "messages": [
+  {
+   "id": "3EB0C0F7B2B27EF9AAFA1A",
+   "sender": "קובי גטניו",
+   "text": "יום רביעי הקרוב 4/11 שעה 20:00 נארח את ליבנת בן דיין בקהילה שלנו: \"אימון אישי-מרכז הקואצ'ינג הישראלי\",קישור לשידור ינתן בשעה 19:30",
+   "ts": 1793632722000,
+   "date": "2026-11-02",
+   "time": "17:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB0C0F7B2B27EF9AAFA1A_0.jpg",
+     "skipped": "",
+     "spool": "2026-11/3EB0C0F7B2B27EF9AAFA1A_0.jpg",
+     "mirror": "https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB0C0F7B2B27EF9AAFA1A_0.jpg"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB09796045F779B70CC51",
+   "sender": "קובי גטניו",
+   "text": "עולים לשידור לייב היום בשעה 20:00 בקהילה:אימון אישי-מרכז הקואצ'ינג הישראלי.קישור לשידור:https://yozmotgroup.zoom.us/j/87915684080",
+   "ts": 1793812947000,
+   "date": "2026-11-04",
+   "time": "19:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB09796045F779B70CC51_0.jpg",
+     "skipped": "",
+     "spool": "2026-11/3EB09796045F779B70CC51_0.jpg",
+     "mirror": "https://yudataub.github.io/wa-vid-htyyatzvt-byn-mamnym-m46s9j/f/2026-11/3EB09796045F779B70CC51_0.jpg"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "AC5F06B3A037E4236D39D16EC1E92015",
+   "sender": "קובי גטניו",
+   "text": "מתחילים עכשיו",
+   "ts": 1793815346000,
+   "date": "2026-11-04",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "AC3DE1A935E9D54DBCC63318E415AA22",
+   "sender": "קובי גטניו",
+   "text": "מתחילים עכשיו",
+   "ts": 1793815366000,
+   "date": "2026-11-04",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB0A20C505A8F213B8343",
+   "sender": "קובי גטניו",
+   "text": "טיפול רגשי בילדים-Gymind\nיום שלישי הקרוב 10/11 שעה 20:15 נארח את ד\"ר ענת פלדמן ד\"ר ענת פלדמן - שיטת Gymind לשידור לייב בנושא טיפול רגשי בילדים.\nענת פיתחה את שיטת Gymind לטיפול רגשי בילדים הנוגעת בארבעה רבדים -גוף נפש תודעה רוח.\nבשידור נשוחח על המסע של ענת לעבר הייעוד שלה,הכלים בהם היא משתמשת ,מה המשמעות של כל כלי ואיך הוא תורם לתהליך האימוני ומקדם אותו.\nמוזמנים להצטרף לקבוצה השקטה של הקהילה שלנו על מת לקבל את הקישור ביום השידור בקישור הבא:\nקובי מנהל הקהילה",
+   "ts": 1794204631000,
+   "date": "2026-11-09",
+   "time": "08:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JcSXyKOrq-sJ6vOOS_cqqp_fU289qdni/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JcSXyKOrq-sJ6vOOS_cqqp_fU289qdni&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  }
+ ]
+}
