@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-09T20:27:20.146Z",
+ "updated": "2026-11-09T21:49:35.532Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -767,6 +767,66 @@
    "ts": 1794256018000,
    "date": "2026-11-09",
    "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACEFEFA328FAB6CA663ED2643E9F5612",
+   "sender": "זהבה",
+   "text": "תודה רבה",
+   "ts": 1794258637000,
+   "date": "2026-11-09",
+   "time": "23:10",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "AC9B95152B3F7AB74FA45D13CF92C49B",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794260878000,
+   "date": "2026-11-09",
+   "time": "23:47",
+   "files": [
+    {
+     "name": "..ספרון השבת אבידה קריאה וצביעה.pdf",
+     "size": "3.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_L95L10Ejz-7A1Pi39Xlp4TZ8k4nXUHV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC7A96C0D0838DB6D0C704489ABCA4B6",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794260925000,
+   "date": "2026-11-09",
+   "time": "23:48",
+   "files": [
+    {
+     "name": "..ספרון קריאה ציור כיתה א חנוכה.pdf",
+     "size": "5.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1VVHnY7CyXjoEGG21hl8ahlogVVlkkHbX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC70FE2533349392E460DB531ACC088C",
+   "sender": "Ys",
+   "text": "ה ai מכין היום דברים נפלאים, כדאי לנסות ולראות תוצאות נפלאות",
+   "ts": 1794260960000,
+   "date": "2026-11-09",
+   "time": "23:49",
    "files": [],
    "drive": null,
    "phone": "972547426770"

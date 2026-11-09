@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-09T20:32:57.367Z",
+ "updated": "2026-11-09T21:25:05.104Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -1129,6 +1129,17 @@
    "files": [],
    "drive": null,
    "phone": "972523772770"
+  },
+  {
+   "id": "AC89D2B874BDDF5B4EDA01077EB75415",
+   "sender": "Joseph Or-chen",
+   "text": "https://www.facebook.com/share/r/19ZbfKmDBE/",
+   "ts": 1794259501000,
+   "date": "2026-11-09",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "phone": "972523545771"
   }
  ]
 }

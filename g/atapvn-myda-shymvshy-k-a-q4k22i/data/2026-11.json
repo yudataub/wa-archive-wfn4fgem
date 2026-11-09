@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-11-09T17:14:10.020Z",
+ "updated": "2026-11-09T21:39:35.325Z",
  "messages": [
   {
    "id": "3A1360C74E1D1E477058",
@@ -2248,7 +2248,8 @@
      "path": "https://drive.google.com/file/d/1qh_d9WwoDobCgT9edNlAUEwQrvEt0oVw/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2A51C5A34B4091DBE589_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1qh_d9WwoDobCgT9edNlAUEwQrvEt0oVw&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1qh_d9WwoDobCgT9edNlAUEwQrvEt0oVw&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i-2/v/2026-11/2A51C5A34B4091DBE589_0.mp4"
     }
    ],
    "drive": null,
@@ -2334,6 +2335,86 @@
    "files": [],
    "drive": null,
    "phone": "972529955992"
+  },
+  {
+   "id": "2AF7D7C99C1B71708D49",
+   "sender": "בר סליפק - המקום שלך שמדובר בכושר ותזונה",
+   "text": "🔥 שבוע טוב וחזק לכולם! 🔥\n\nהשבוע לא מחכים למוטיבציה – יוצרים אותה!\n\nזה הזמן לצאת לדרך, להשקיע בעצמכם, להתחזק, לשפר את הכושר ולהתקדם לעבר המטרות שלכם 💪\n\nבסטודיו של בר סליפק מחכה לכם אימון מקצועי, יחס אישי, ליווי צמוד ותוכנית שמותאמת בדיוק לקצב ולמטרות שלכם.\n\n⏱️ קחו דקה ו־25 שניות לצפות בסרטון ותבינו על מה אנחנו מדברים!\n\n📍 מרכז קרית אתא\n🏋️ אימוני כוח בקבוצות קטנות\n💪 יחס אישי ותוצאות לאורך הדרך\n\nאל תדחו למחר את מה שאפשר להתחיל היום!\n\nבר סליפק – מאמן כושר ותזונה\nביחד נגיע לתוצאות! 🔥",
+   "ts": 1794259165000,
+   "date": "2026-11-09",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1mF3tQvNlo4EHErV0hevVGPNvBInyo_Y_/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/2AF7D7C99C1B71708D49_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1mF3tQvNlo4EHErV0hevVGPNvBInyo_Y_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547556711"
+  },
+  {
+   "id": "AC44F5E2125AA5ACD4C78A58D0AF2C44",
+   "sender": "B",
+   "text": "",
+   "ts": 1794260358000,
+   "date": "2026-11-09",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FKr22Xr5oe0pUoSIdFGL3elkAERv-mFc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FKr22Xr5oe0pUoSIdFGL3elkAERv-mFc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "ACA38F25354593AC56F9FC45D96DB37C",
+   "sender": "B",
+   "text": "",
+   "ts": 1794260358000,
+   "date": "2026-11-09",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA38F25354593AC56F9FC45D96DB37C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "ACBEA2D58E9DD12FEB4AA0899CDE9E7D",
+   "sender": "B",
+   "text": "תקף גם בחוג קבוצות וגם בחוג הפרטי VIP 💝\nלשמור את המודעה לשם קבלת ההטבה 📌",
+   "ts": 1794260358000,
+   "date": "2026-11-09",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z39kZonLjGvnKy2S0etlCelerwNWeiwX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z39kZonLjGvnKy2S0etlCelerwNWeiwX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
   }
  ]
 }

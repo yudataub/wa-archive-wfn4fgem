@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-09T17:44:10.442Z",
+ "updated": "2026-11-09T22:28:42.636Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -808,7 +808,8 @@
      "path": "https://drive.google.com/file/d/1iWi1uY9MMRKiDk-eeYPl6Auvfj-drD37/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC53B08633DB4B0FDBBFEF49984174AA_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1iWi1uY9MMRKiDk-eeYPl6Auvfj-drD37&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1iWi1uY9MMRKiDk-eeYPl6Auvfj-drD37&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chanan-porat-2-2uxxug/v/2026-11/AC53B08633DB4B0FDBBFEF49984174AA_0.mp4"
     }
    ],
    "drive": null,
@@ -852,6 +853,17 @@
    ],
    "drive": null,
    "phone": "972522400391"
+  },
+  {
+   "id": "AC7D02C4EE96D64647725C13E447AC3D",
+   "sender": "ארנון אהרוני",
+   "text": "חודש טוב\nאשמח לאמרות קצרות של הרב חנן פורת\n\nוסיפורי גבורה או משהו שיוכל להתאים לחוברת לימוד לחנוכה",
+   "ts": 1794263296000,
+   "date": "2026-11-10",
+   "time": "00:28",
+   "files": [],
+   "drive": null,
+   "phone": "972506515026"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-09T20:22:50.053Z",
+ "updated": "2026-11-09T22:43:42.876Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -1377,6 +1377,36 @@
    "files": [],
    "drive": null,
    "phone": "972528907838"
+  },
+  {
+   "id": "ACC6F36BC466CDA988F9365D0A892D38",
+   "sender": "דוד גפני",
+   "text": "מזל טוב 🥳🥳",
+   "ts": 1794261954000,
+   "date": "2026-11-10",
+   "time": "00:05",
+   "files": [],
+   "drive": null,
+   "phone": "972504123686"
+  },
+  {
+   "id": "AC84561AF8167299C9066FAB48296A2E",
+   "sender": "Nati",
+   "text": "",
+   "ts": 1794264195000,
+   "date": "2026-11-10",
+   "time": "00:43",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "44KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC84561AF8167299C9066FAB48296A2E_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527208716"
   }
  ]
 }

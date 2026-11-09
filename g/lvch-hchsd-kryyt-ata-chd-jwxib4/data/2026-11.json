@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-09T20:43:57.525Z",
+ "updated": "2026-11-09T21:39:35.336Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -5802,6 +5802,65 @@
    ],
    "drive": null,
    "phone": "97246225511"
+  },
+  {
+   "id": "ACA41C46839E7E1F7189642D7F9F7D1D",
+   "sender": "B",
+   "text": "",
+   "ts": 1794260364000,
+   "date": "2026-11-09",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA41C46839E7E1F7189642D7F9F7D1D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "AC24AB6B59477F15B98FD7A97784C80E",
+   "sender": "B",
+   "text": "",
+   "ts": 1794260365000,
+   "date": "2026-11-09",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1j_MSQtbdZ3Hm5hhdn-4xUjrZucTvAhCL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1j_MSQtbdZ3Hm5hhdn-4xUjrZucTvAhCL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "AC69DA15054982ADAC5A28548327D6C1",
+   "sender": "B",
+   "text": "תקף גם בחוג קבוצות וגם בחוג הפרטי VIP 💝\nלשמור את המודעה לשם קבלת ההטבה 📌",
+   "ts": 1794260365000,
+   "date": "2026-11-09",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HmMcfFVaMMJsXb2Oj3gt2xXaFXqKlc2c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HmMcfFVaMMJsXb2Oj3gt2xXaFXqKlc2c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
   }
  ]
 }
