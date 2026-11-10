@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-09T07:54:13.921Z",
+ "updated": "2026-11-10T12:16:56.389Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -464,6 +464,99 @@
    "files": [],
    "drive": null,
    "phone": "972526070836"
+  },
+  {
+   "id": "3EB042F5BBC73766295847",
+   "sender": "אולפנת צביה",
+   "text": "יש למישהו צלצול לראש חודש",
+   "ts": 1794292377000,
+   "date": "2026-11-10",
+   "time": "08:32",
+   "files": [],
+   "drive": null,
+   "phone": "972527235118"
+  },
+  {
+   "id": "3AFD59B8A36B1331F275",
+   "sender": "יערה חוברה",
+   "text": "אשמח לצלצול בנושא עין טובה/ מילה טובה",
+   "ts": 1794293469000,
+   "date": "2026-11-10",
+   "time": "08:51",
+   "files": [],
+   "drive": null,
+   "phone": "972506334126"
+  },
+  {
+   "id": "ACE894A9394F78404112F16A0F807DE0",
+   "sender": "אלעד",
+   "text": "מילה טובה/יהודית רביץ",
+   "ts": 1794293840000,
+   "date": "2026-11-10",
+   "time": "08:57",
+   "files": [],
+   "drive": null,
+   "phone": "972556613212"
+  },
+  {
+   "id": "3A4D1ABCCE470052C21D",
+   "sender": "יערה חוברה",
+   "text": "תודה\nיש למישהו ערוך?",
+   "ts": 1794294011000,
+   "date": "2026-11-10",
+   "time": "09:00",
+   "files": [],
+   "drive": null,
+   "phone": "972506334126"
+  },
+  {
+   "id": "3EB03302A93A880AC8DD8A",
+   "sender": "אלעד",
+   "text": "",
+   "ts": 1794296543000,
+   "date": "2026-11-10",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "528KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1Nr30v6Rql0QeVo2VMJZ56UWJvtmk_KTC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556613212"
+  },
+  {
+   "id": "A5709E1BBBB5E70F536FA90C3432D091",
+   "sender": "עדי יעקובי",
+   "text": "מישהו יכול לשלוח את זה שוב?",
+   "ts": 1794307975000,
+   "date": "2026-11-10",
+   "time": "12:52",
+   "files": [],
+   "drive": null,
+   "phone": "972508870789"
+  },
+  {
+   "id": "ACE1DF9DB7A4456B83F7CF05684CE2AA",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1794313010000,
+   "date": "2026-11-10",
+   "time": "14:16",
+   "files": [
+    {
+     "name": "צלצול- על הניסים.mp3",
+     "size": "2.3MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1ii_3poLJJV0OMBCOvtwzVlcdXxmmjcSY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
   }
  ]
 }

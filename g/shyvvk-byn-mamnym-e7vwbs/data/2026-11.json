@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיווק בין מאמנים",
- "updated": "2026-11-09T06:10:12.334Z",
+ "updated": "2026-11-10T18:19:44.426Z",
  "messages": [
   {
    "id": "3EB06DFDBC575B144E53AD",
@@ -83,6 +83,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1CPlFy45ntDtQ0WXovnLxyT9RVPf1lM0C&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB0411DF7FB648F43742D",
+   "sender": "קובי גטניו",
+   "text": "ערב נפלא לכולם,נפגשים היום בשעה 20:15 לשידור לייב  בקהילה שלנו \"אימון אישי-מרכז הקואצ'ינג הישראלי\" .קישור לשידור: https://yozmotgroup.zoom.us/j/86059445253",
+   "ts": 1794332443000,
+   "date": "2026-11-10",
+   "time": "19:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DXz4tQCbbCKpzQ3lhMocZH9Vk5NmTSnO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DXz4tQCbbCKpzQ3lhMocZH9Vk5NmTSnO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "AC1DA5C7650AD90C4EAB781975A08280",
+   "sender": "קובי גטניו",
+   "text": "מתחילים עכשיו",
+   "ts": 1794334769000,
+   "date": "2026-11-10",
+   "time": "20:19",
+   "files": [],
    "drive": null,
    "phone": "972546090536"
   }

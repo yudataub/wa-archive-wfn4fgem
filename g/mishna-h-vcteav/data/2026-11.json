@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-11-09T11:50:48.350Z",
+ "updated": "2026-11-10T20:45:04.555Z",
  "messages": [
   {
    "id": "A592F509500EFC3F24FFED703532E1A3",
@@ -440,6 +440,494 @@
    "files": [],
    "drive": null,
    "phone": "972533378198"
+  },
+  {
+   "id": "3EB0D055C87A1EB3FFD699",
+   "sender": "חן לביא",
+   "text": "משנה א' – התיבה ברחוב 🕍",
+   "ts": 1794340480000,
+   "date": "2026-11-10",
+   "time": "21:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1LPIdZK-eOpbI3KsQpn888hM-B1VhGyqv/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0D055C87A1EB3FFD699_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1LPIdZK-eOpbI3KsQpn888hM-B1VhGyqv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0B9B7DAC4581AC92FAB",
+   "sender": "חן לביא",
+   "text": "פרק ב' במסכת ראש השנה- סרטוני פתיחה לכל משנה.\nלא עברתי על זה בדקדוק, מוזמנים להעיר ולהאיר.",
+   "ts": 1794340481000,
+   "date": "2026-11-10",
+   "time": "21:54",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB051E83574B6D9CB10D4",
+   "sender": "חן לביא",
+   "text": "משנה ב' – זקן ורגיל 🙏",
+   "ts": 1794340506000,
+   "date": "2026-11-10",
+   "time": "21:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1_J9zs-n89cI6Pq4CNazkxWMLNpu1s8cK/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB051E83574B6D9CB10D4_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1_J9zs-n89cI6Pq4CNazkxWMLNpu1s8cK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB07BE548FFED608B4784",
+   "sender": "חן לביא",
+   "text": "משנה ג' – זכרונות ושופרות 📯",
+   "ts": 1794340534000,
+   "date": "2026-11-10",
+   "time": "21:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1pEHkjBXbdwfp-Q_DK-iBy-6OFbSF6V0p/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB07BE548FFED608B4784_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1pEHkjBXbdwfp-Q_DK-iBy-6OFbSF6V0p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0C46121EB9EFCC40D18",
+   "sender": "חן לביא",
+   "text": "משנה ד' – מי שענה 🌊",
+   "ts": 1794340590000,
+   "date": "2026-11-10",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1r4bvVJzu5YgaGwr-dk0N0g711TGz2W3q/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0C46121EB9EFCC40D18_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1r4bvVJzu5YgaGwr-dk0N0g711TGz2W3q&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB04ABCD3BDF1384F04B9",
+   "sender": "חן לביא",
+   "text": "משנה ה' – תקעו הכהנים 🎺",
+   "ts": 1794340634000,
+   "date": "2026-11-10",
+   "time": "21:57",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1YtZFGM1ofBCDmrPXm_5CxvOJL8Fdwuja/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB04ABCD3BDF1384F04B9_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1YtZFGM1ofBCDmrPXm_5CxvOJL8Fdwuja&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0245617CA634EA21F3A",
+   "sender": "חן לביא",
+   "text": "משנה ו' – אנשי משמר 🔥",
+   "ts": 1794340699000,
+   "date": "2026-11-10",
+   "time": "21:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12Sh2Qz7EHBrEPkSFROH7i7XTX_9EKA-J/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0245617CA634EA21F3A_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=12Sh2Qz7EHBrEPkSFROH7i7XTX_9EKA-J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB045F3F61AC442CDF40C",
+   "sender": "חן לביא",
+   "text": "משנה ז' – אנשי מעמד 🍷",
+   "ts": 1794340740000,
+   "date": "2026-11-10",
+   "time": "21:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ZXPwJ39kX-f8Oa3DJRDyV51mdkkx67Gg/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB045F3F61AC442CDF40C_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZXPwJ39kX-f8Oa3DJRDyV51mdkkx67Gg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB06DFA5682EAF8B29828",
+   "sender": "חן לביא",
+   "text": "משנה ח' – מגילת תענית 📜",
+   "ts": 1794340780000,
+   "date": "2026-11-10",
+   "time": "21:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1fHLab1ax1AEaaJQUjeYKukeTKfaEPv4B/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB06DFA5682EAF8B29828_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1fHLab1ax1AEaaJQUjeYKukeTKfaEPv4B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB09FA72547AE0B7A09EB",
+   "sender": "חן לביא",
+   "text": "משנה ט' – שלא להפקיע את השערים 🍇",
+   "ts": 1794340810000,
+   "date": "2026-11-10",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1RYGPSZQpKSJsVB6mJADxN4CuexmHM3cB/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB09FA72547AE0B7A09EB_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1RYGPSZQpKSJsVB6mJADxN4CuexmHM3cB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0D25C02972EC2B8B965",
+   "sender": "חן לביא",
+   "text": "משנה י' – ואם התחילו 🕎 וזהו, כל פרק ב' אצלך 😊",
+   "ts": 1794340840000,
+   "date": "2026-11-10",
+   "time": "22:00",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/12W9RnqVRk7XT_-aEMA61vnJ_navUpysw/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0D25C02972EC2B8B965_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=12W9RnqVRk7XT_-aEMA61vnJ_navUpysw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "ACFFEF4B30C0CAA7E5D7CC603D47B412",
+   "sender": "MORAG ♠️♦️",
+   "text": "איזה אליפותתתת!!! יש כזה גם לפרק א' כל המשניות?",
+   "ts": 1794340876000,
+   "date": "2026-11-10",
+   "time": "22:01",
+   "files": [],
+   "drive": null,
+   "phone": "972528826321"
+  },
+  {
+   "id": "3EB06607F84EB26C18A0D5",
+   "sender": "חן לביא",
+   "text": "אופס שלחתי לכם תענית. שולחת את של ראש השנה",
+   "ts": 1794341170000,
+   "date": "2026-11-10",
+   "time": "22:06",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB02BCEFF12159C7F36A3",
+   "sender": "חן לביא",
+   "text": "נתחיל מההתחלה בהשגח\"פ",
+   "ts": 1794341533000,
+   "date": "2026-11-10",
+   "time": "22:12",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB05F8A1B80BC65AFA3B9",
+   "sender": "חן לביא",
+   "text": "קידוש החודש- סרטון פתיחה מעולה",
+   "ts": 1794341542000,
+   "date": "2026-11-10",
+   "time": "22:12",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB052C8FE43DB9F6CE005",
+   "sender": "חן לביא",
+   "text": "",
+   "ts": 1794341590000,
+   "date": "2026-11-10",
+   "time": "22:13",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/148upGQZdKMIZsIwtYPN2uFAOIL-WoIxq/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB052C8FE43DB9F6CE005_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=148upGQZdKMIZsIwtYPN2uFAOIL-WoIxq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0083DFB13EF3CDE97F0",
+   "sender": "חן לביא",
+   "text": "העירו נכון שהם קרובים ולפי אחת הדעות הם לא אמורים להעיד יחד (אם כי הם כן אמורים ללכת שניהם כדי להעיד, אם אני מבינה נכון מהמשנה), בהמשך הם יגלו שהעובדה שהם קרובי משפחה היא בעייתית לעדות... בסרטון הקשור למשנה זו",
+   "ts": 1794341630000,
+   "date": "2026-11-10",
+   "time": "22:13",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB077AE5CB6C85850D0AC",
+   "sender": "חן לביא",
+   "text": "ובהתאם לכך- לכל מי שיש הערות או הארות על הסרטונים אנא! שיכתוב לי כדי שלא תצא תקלה תחת ידי. זו פעם ראשונה שאני לומדת את המשנה הזו וייתכן ולא שמתי לב לפרטים מסוימים אז אשמח לתשומת לבכם",
+   "ts": 1794341670000,
+   "date": "2026-11-10",
+   "time": "22:14",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0718B32EFACE85106B2",
+   "sender": "חן לביא",
+   "text": "פרק א' משניות ג'-ט'.",
+   "ts": 1794341975000,
+   "date": "2026-11-10",
+   "time": "22:19",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB09525B318516B221724",
+   "sender": "חן לביא",
+   "text": "בשמחה! משנה ג'",
+   "ts": 1794341983000,
+   "date": "2026-11-10",
+   "time": "22:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1M_XWuRpdxtfCfzLSq-Aq7JvVJKRCTAN9/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB09525B318516B221724_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1M_XWuRpdxtfCfzLSq-Aq7JvVJKRCTAN9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0B3242185EB2D1E5D9E",
+   "sender": "חן לביא",
+   "text": "משנה ד'",
+   "ts": 1794342039000,
+   "date": "2026-11-10",
+   "time": "22:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1TGhFnmQ0mJesfwDJtInbGXH0cFzk4NV5/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0B3242185EB2D1E5D9E_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1TGhFnmQ0mJesfwDJtInbGXH0cFzk4NV5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0B43944280DF9E9BEFF",
+   "sender": "חן לביא",
+   "text": "משנה ה'",
+   "ts": 1794342071000,
+   "date": "2026-11-10",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Oijnl33e_JC3sx9ljgd_YUeiHxZUz3Ny/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0B43944280DF9E9BEFF_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1Oijnl33e_JC3sx9ljgd_YUeiHxZUz3Ny&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0AEA2725CA2E07765B8",
+   "sender": "חן לביא",
+   "text": "משנה ו'",
+   "ts": 1794342103000,
+   "date": "2026-11-10",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/11mbiiO7OWNKEh4UqiaNwCXjP-yrL7fu5/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0AEA2725CA2E07765B8_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=11mbiiO7OWNKEh4UqiaNwCXjP-yrL7fu5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB01D051D0870DD375B51",
+   "sender": "חן לביא",
+   "text": "משנה ז'",
+   "ts": 1794342182000,
+   "date": "2026-11-10",
+   "time": "22:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1WwrOiITN3NJZYknHNMSfcSGxB3-OMQY-/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB01D051D0870DD375B51_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1WwrOiITN3NJZYknHNMSfcSGxB3-OMQY-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0B46C5F86EE4A889731",
+   "sender": "חן לביא",
+   "text": "משנה ח'",
+   "ts": 1794342216000,
+   "date": "2026-11-10",
+   "time": "22:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.3MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/10C5eVfwruOuYJ-AxJT5ZWN0zrHSqFQP0/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0B46C5F86EE4A889731_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=10C5eVfwruOuYJ-AxJT5ZWN0zrHSqFQP0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0B5394841EA7BAFDF84",
+   "sender": "חן לביא",
+   "text": "משנה ט' 🌙",
+   "ts": 1794342306000,
+   "date": "2026-11-10",
+   "time": "22:25",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1_lMnFlYKWzJ1ZOO6qvH9cRFsr8b43Xhd/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0B5394841EA7BAFDF84_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1_lMnFlYKWzJ1ZOO6qvH9cRFsr8b43Xhd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "3EB0D31A33692BE7252512",
+   "sender": "חן לביא",
+   "text": "סיימנו פרק א",
+   "ts": 1794342471000,
+   "date": "2026-11-10",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972587708082"
+  },
+  {
+   "id": "AC30469AF409BF09D850D214943B259B",
+   "sender": "שלום מלייב",
+   "text": "וואו איזה יופי של סרטונים \nאשמח לקבל עוד על שאר הפרקיפ אם אפשר",
+   "ts": 1794343490000,
+   "date": "2026-11-10",
+   "time": "22:44",
+   "files": [],
+   "drive": null,
+   "phone": "972552643092"
   }
  ]
 }

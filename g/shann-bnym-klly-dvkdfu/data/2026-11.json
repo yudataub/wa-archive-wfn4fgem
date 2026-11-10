@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-11-09T09:48:31.649Z",
+ "updated": "2026-11-10T19:01:49.701Z",
  "messages": [
   {
    "id": "ACF54F64A34CDDCC927BCF19F5D8BE8E",
@@ -627,6 +627,59 @@
    ],
    "drive": null,
    "phone": "972546702322"
+  },
+  {
+   "id": "ACBA32CF12284DD1BB1518A7E3346C5F",
+   "sender": "שמריהו",
+   "text": "מישהוא שעשה עבודה סמינריונית ויש לו עצות? אשמח בפרטי🙏",
+   "ts": 1794303414000,
+   "date": "2026-11-10",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972542402071"
+  },
+  {
+   "id": "3B9FCAF3CE0E3C64943F",
+   "sender": "Itsik Bamani",
+   "text": "לעוד משהו יש בעיה בכניסה לפורטל ?\nאני מקבל את ההודעה\n  The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.",
+   "ts": 1794321428000,
+   "date": "2026-11-10",
+   "time": "16:37",
+   "files": [],
+   "drive": null,
+   "phone": "972524045460"
+  },
+  {
+   "id": "AC5AB4E7149E65CC1E3C9B31C0091806",
+   "sender": "sagi shlomo",
+   "text": "בקרוס של הרב יהודה טרופר על האדם הראשון עד אברהם אבינו\nהתחלנו עכשיו",
+   "ts": 1794336108000,
+   "date": "2026-11-10",
+   "time": "20:41",
+   "files": [],
+   "drive": null,
+   "phone": "972548020919"
+  },
+  {
+   "id": "AC7CF44EC51F5C51C92FB6D5EB62FA05",
+   "sender": "נעם חיים חן",
+   "text": "הצלחת לאומדן הגודל",
+   "ts": 1794337290000,
+   "date": "2026-11-10",
+   "time": "21:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZQU0YwDdZ5X4502N9OyTvNftKeHuma40/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZQU0YwDdZ5X4502N9OyTvNftKeHuma40&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502467593"
   }
  ]
 }

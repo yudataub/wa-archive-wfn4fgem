@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וותיקין של שבת ",
- "updated": "2026-11-09T20:25:50.124Z",
+ "updated": "2026-11-10T13:19:04.625Z",
  "messages": [
   {
    "id": "AC7C39D5E2C0C560FE7FECC623DEE408",
@@ -46,6 +46,173 @@
    "files": [],
    "drive": null,
    "phone": "972555649000"
+  },
+  {
+   "id": "AC53FD1B2235748D86FA48AB09869B24",
+   "sender": "oriyaagolnik",
+   "text": "מזל טוב. שיהיה בניין עדי עד 😍🥳🤩😍🥳🤩😍🥳🤩",
+   "ts": 1794287966000,
+   "date": "2026-11-10",
+   "time": "07:19",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC9DD18E2D700EEED08AAADFA3C3BF56",
+   "sender": "דרור לנפש המפתח לשינוי",
+   "text": "מזל טוב לרב טאוב ולכל המשפחה היקרה",
+   "ts": 1794290730000,
+   "date": "2026-11-10",
+   "time": "08:05",
+   "files": [],
+   "drive": null,
+   "phone": "972508757537"
+  },
+  {
+   "id": "AC6059B3D77A1CCB1D1E482475635173",
+   "sender": "oriyaagolnik",
+   "text": "",
+   "ts": 1794309559000,
+   "date": "2026-11-10",
+   "time": "13:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC6059B3D77A1CCB1D1E482475635173_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC24FB83C0830F3AC8E22FBB6415D0D1",
+   "sender": "oriyaagolnik",
+   "text": "ברוך דיין האמת",
+   "ts": 1794309576000,
+   "date": "2026-11-10",
+   "time": "13:19",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "ACFEC8ED8B6860DD2BA988DA516CE198",
+   "sender": "oriyaagolnik",
+   "text": "😢😢😢",
+   "ts": 1794309587000,
+   "date": "2026-11-10",
+   "time": "13:19",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC20B4A2E6D7CD4D1DCE81B8E93354E8",
+   "sender": "אלעזר דוידוביץ",
+   "text": "תודה לכולם על על התפילות עבור אימא. ברוך דיין אמת.",
+   "ts": 1794309632000,
+   "date": "2026-11-10",
+   "time": "13:20",
+   "files": [],
+   "drive": null,
+   "phone": "972508210647"
+  },
+  {
+   "id": "AC704E9FFAE63A7E1F6932323C05CE2F",
+   "sender": "שרגא שינובר",
+   "text": "",
+   "ts": 1794309645000,
+   "date": "2026-11-10",
+   "time": "13:20",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "49KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC704E9FFAE63A7E1F6932323C05CE2F_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
+  },
+  {
+   "id": "AC1FC1FFB5D6872FE99999C85DA3F813",
+   "sender": "oriyaagolnik",
+   "text": "אני יכול לומר שכל העיר התפללה עבור אמא.",
+   "ts": 1794309689000,
+   "date": "2026-11-10",
+   "time": "13:21",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC3FC659ECC541799B484B472A9671B3",
+   "sender": "חיים קורלנסקי",
+   "text": "ברוך דיין האמת \nצער גדול לכולנו\nבעל הנחמות ינחם אותכם על האבדה הגדולה. 😪",
+   "ts": 1794309882000,
+   "date": "2026-11-10",
+   "time": "13:24",
+   "files": [],
+   "drive": null,
+   "phone": "972544668466"
+  },
+  {
+   "id": "A5D00235437044DF02A2F23B45F7CDE5",
+   "sender": "אסף כהן שיווק בשר ודגים",
+   "text": "ברוך דיין האמת\nמשתתף בצערך אח יקר🙏🙏",
+   "ts": 1794310092000,
+   "date": "2026-11-10",
+   "time": "13:28",
+   "files": [],
+   "drive": null,
+   "phone": "972544389935"
+  },
+  {
+   "id": "AC8A74BE133DDBC88504CAA123F1499E",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1794310119000,
+   "date": "2026-11-10",
+   "time": "13:28",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "56KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC8A74BE133DDBC88504CAA123F1499E_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
+  },
+  {
+   "id": "AC57F8C792DDB3A568CE6C946C70E539",
+   "sender": "אלעזר דוידוביץ",
+   "text": "תודה רבה רק שמחות",
+   "ts": 1794316184000,
+   "date": "2026-11-10",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "phone": "972508210647"
+  },
+  {
+   "id": "AC10D7E21B3FE5D825F300AC9AD69F6B",
+   "sender": "דרור לנפש המפתח לשינוי",
+   "text": "שלא תדעו צער אלעזר יקר",
+   "ts": 1794316726000,
+   "date": "2026-11-10",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972508757537"
   }
  ]
 }

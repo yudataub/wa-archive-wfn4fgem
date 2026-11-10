@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-09T20:44:57.539Z",
+ "updated": "2026-11-10T17:19:08.090Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -947,6 +947,87 @@
    ],
    "drive": null,
    "phone": "97246225511"
+  },
+  {
+   "id": "AC0320D8EDAC20EAD7F16A7A4C6B506C",
+   "sender": "אבי אטיאס",
+   "text": "",
+   "ts": 1794312143000,
+   "date": "2026-11-10",
+   "time": "14:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1AHbxB8Dm2Fzxn_0LNtY-HwdJu-6uctgF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1AHbxB8Dm2Fzxn_0LNtY-HwdJu-6uctgF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525135333"
+  },
+  {
+   "id": "A5F6718532F41020DBAC4BC9B6FCB7A9",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "🚨 משהו גדול קורה מחר באלקטרומיקס!\n\n11.11 מתקרב, והפעם הכנו לכם הפתעה ששווה לחכות לה! 🤩\n\n📱 חושבים לשדרג את המכשיר?\n🛡️ רוצים ליהנות מהגנה מושלמת?\n\nזה בדיוק הזמן לדבר איתי!\n\n📲 שלחו לי הודעה כבר עכשיו, ותהיו הראשונים להתעדכן.\n\nhttps://wa.me/message/GSOVOOJ5KBAYD1\n\nאל תגידו שלא אמרנו לכם 😉🔥",
+   "ts": 1794322698000,
+   "date": "2026-11-10",
+   "time": "16:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/13WX5WqQ96i00a3QZmfIoG_IEFN8s9RG9/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5F6718532F41020DBAC4BC9B6FCB7A9_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=13WX5WqQ96i00a3QZmfIoG_IEFN8s9RG9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "ACF8107B0C567B1E7DCCC0B528384874",
+   "sender": "חזקי סולומונס",
+   "text": "*חוזרים ובגדול למבצעים הקבועים!!!*\n\n*מבצעי השבוע בקטוף סניף קרית אתא*\n\nפתוחים עם כל השפע המוכר והאהוב!\n\nקניון תימורה - רח' העצמאות 37\n\n*זמני פתיחה קבועים*\n* ימים א' - ה': 21:30 - 9:30\n*  יום ו': 8:30-14:00\n\nנסיעה עם Waze אל קטוף סניף קרית אתא: https://waze.com/ul/hsvbfwu4mh\n\nלהצטרפות לקבוצת המועדון",
+   "ts": 1794329484000,
+   "date": "2026-11-10",
+   "time": "18:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "314KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GbmXHbvZmcZAhOccPdshWmrcorOBxVrb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GbmXHbvZmcZAhOccPdshWmrcorOBxVrb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587161155"
+  },
+  {
+   "id": "ACAF84F43AEF3901A0E558D838DB22EA",
+   "sender": "אודליה",
+   "text": "",
+   "ts": 1794331147000,
+   "date": "2026-11-10",
+   "time": "19:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "269KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B4rTQJaoekcKJHyuOR1IVNUzCR6Ae5EB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B4rTQJaoekcKJHyuOR1IVNUzCR6Ae5EB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552515525"
   }
  ]
 }

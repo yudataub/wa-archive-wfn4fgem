@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-09T04:56:01.916Z",
+ "updated": "2026-11-10T03:59:44.143Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -408,6 +408,46 @@
      "path": "https://drive.google.com/file/d/1KyiSNuQa7yI9CtwaIzPpJClugWe34J2v/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1KyiSNuQa7yI9CtwaIzPpJClugWe34J2v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A6505DF9CD540DE46E9",
+   "sender": ".",
+   "text": "״תקלה דגיזה ועבודה״ (בכורות נג, א).",
+   "ts": 1794283168000,
+   "date": "2026-11-10",
+   "time": "05:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hZnyYvAh8wsh9HRI3z0XHjgp7MT5yz68/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hZnyYvAh8wsh9HRI3z0XHjgp7MT5yz68&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A59AD07751D409F4432",
+   "sender": ".",
+   "text": "״מהרה יבנה המקדש״ (בכורות נג, ב).",
+   "ts": 1794283169000,
+   "date": "2026-11-10",
+   "time": "05:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hwO-tfGfTUsjcc37aEK-lsCsYzk_iIRa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hwO-tfGfTUsjcc37aEK-lsCsYzk_iIRa&sz=w1200"
     }
    ],
    "drive": null,

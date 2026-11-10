@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-09T06:03:12.229Z",
+ "updated": "2026-11-10T09:01:31.777Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -142,6 +142,26 @@
    "date": "2026-11-09",
    "time": "08:03",
    "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACF764EF094EB9E7C234292DEC6ACC08",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1794301279000,
+   "date": "2026-11-10",
+   "time": "11:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "265KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19eHOa4wHIgh67533K0miw6CtpaSq659D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19eHOa4wHIgh67533K0miw6CtpaSq659D&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972549991157"
   }

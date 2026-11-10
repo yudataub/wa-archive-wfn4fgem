@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ג'",
- "updated": "2026-11-09T21:35:05.256Z",
+ "updated": "2026-11-10T19:41:32.461Z",
  "messages": [
   {
    "id": "AC477A305294793FE5EE0C93B54C765B",
@@ -379,6 +379,25 @@
    "files": [],
    "drive": null,
    "phone": "972526478257"
+  },
+  {
+   "id": "AC0F5F1328ACF3E72BCEAD1F4A0A9A68",
+   "sender": "רפאל ג'יל טייב",
+   "text": "",
+   "ts": 1794339678000,
+   "date": "2026-11-10",
+   "time": "21:41",
+   "files": [
+    {
+     "name": "מצגת לימודים חנוכה עמודים 87-95 - טייב רפאל.pdf",
+     "size": "21.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RjLRP85gj8u5h158Mhv__RlpnkzSk6GJ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
   }
  ]
 }

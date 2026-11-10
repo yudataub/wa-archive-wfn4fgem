@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-09T22:43:42.876Z",
+ "updated": "2026-11-10T20:42:04.504Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -1407,6 +1407,242 @@
    ],
    "drive": null,
    "phone": "972527208716"
+  },
+  {
+   "id": "AC806D5851191DBC3CA648C48C330A74",
+   "sender": "הירש מיכאל",
+   "text": "",
+   "ts": 1794276541000,
+   "date": "2026-11-10",
+   "time": "04:09",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "82KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC806D5851191DBC3CA648C48C330A74_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506718983"
+  },
+  {
+   "id": "3EB07B165E2EAE3A0B12D1",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1794284052000,
+   "date": "2026-11-10",
+   "time": "06:14",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "293KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1iezngfl4nct7oJ7Izc1fOVvCx31yritS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iezngfl4nct7oJ7Izc1fOVvCx31yritS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC0E812C833EBE3498AACF32A4449287",
+   "sender": "י.  כהן",
+   "text": "",
+   "ts": 1794290757000,
+   "date": "2026-11-10",
+   "time": "08:05",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "271KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/12P2a2nKdnnz_LKU0Q1CM3ymdfmMrfINz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12P2a2nKdnnz_LKU0Q1CM3ymdfmMrfINz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555649000"
+  },
+  {
+   "id": "A57CB1D3670F47B033C8EDA7A680E635",
+   "sender": "מוישי ולדמן",
+   "text": "מזל טוב \n בניין עדי עד",
+   "ts": 1794291296000,
+   "date": "2026-11-10",
+   "time": "08:14",
+   "files": [],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "AC6A4DBC027D8F196786A0B8A9392FBE",
+   "sender": "אלקנה",
+   "text": "הגיע לחם",
+   "ts": 1794301163000,
+   "date": "2026-11-10",
+   "time": "10:59",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "AC316EB8C7786A2B01E120A835C48303",
+   "sender": "Natan Borkowski",
+   "text": "בקרוב מתחילים מסכת חדשה\nחצי שעה ביום של שטייגען עם השיעור המתומצת \"רק הדף\" של ר' אלי \nמוזמנים להצטרף",
+   "ts": 1794302566000,
+   "date": "2026-11-10",
+   "time": "11:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rH6nzwqu5sfBk7962e9i6-zJ1fvGd008/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rH6nzwqu5sfBk7962e9i6-zJ1fvGd008&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972585735002"
+  },
+  {
+   "id": "3EB01FD046DD27E518D4FC",
+   "sender": "ישי",
+   "text": "יש\"כ לרב א. ראקוב שיחי' על הכיבוד המיוחד היום בערב ללומדי עמלים לכבוד ר\"ח!",
+   "ts": 1794313783000,
+   "date": "2026-11-10",
+   "time": "14:29",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACDE9E890BB8EB410694A468E8050FE0",
+   "sender": "יחיאל",
+   "text": "איפה יש מנחה בשעה 16",
+   "ts": 1794317808000,
+   "date": "2026-11-10",
+   "time": "15:36",
+   "files": [],
+   "drive": null,
+   "phone": "972543377450"
+  },
+  {
+   "id": "AC562E29680728257BE6BB53D0ED2F10",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1794317906000,
+   "date": "2026-11-10",
+   "time": "15:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "230KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DK7I12265Dph8c_dpJW_zuOX9mUf_KB-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DK7I12265Dph8c_dpJW_zuOX9mUf_KB-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC888926DB897AA77B7D2FB078C1AE17",
+   "sender": "דוד יוליס",
+   "text": "איפה עושים פה באיזור (קרית אתא/ רכסים) ריקמה על מגבות וכדומה?",
+   "ts": 1794319705000,
+   "date": "2026-11-10",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972506568711"
+  },
+  {
+   "id": "AC3A4A6901981CD9766C9B2A85B0AE94",
+   "sender": "hazaneli7",
+   "text": "איריס מתנות",
+   "ts": 1794319732000,
+   "date": "2026-11-10",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972502770777"
+  },
+  {
+   "id": "A55DFB924489C428FA24583B39E7BFBB",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "🚨 משהו גדול קורה מחר באלקטרומיקס!\n\n11.11 מתקרב, והפעם הכנו לכם הפתעה ששווה לחכות לה! 🤩\n\n📱 חושבים לשדרג את המכשיר?\n🛡️ רוצים ליהנות מהגנה מושלמת?\n\nזה בדיוק הזמן לדבר איתי!\n\n📲 שלחו לי הודעה כבר עכשיו, ותהיו הראשונים להתעדכן.\n\nhttps://wa.me/message/GSOVOOJ5KBAYD1\n\nאל תגידו שלא אמרנו לכם 😉🔥",
+   "ts": 1794322698000,
+   "date": "2026-11-10",
+   "time": "16:58",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rp5_7bNsBjm47ka1XKriKsy_EdkdLcXO/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A55DFB924489C428FA24583B39E7BFBB_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1rp5_7bNsBjm47ka1XKriKsy_EdkdLcXO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537173783"
+  },
+  {
+   "id": "AC636A9DC05A8480C3D441E5E9F829CB",
+   "sender": "חזקי סולומונס",
+   "text": "*חוזרים ובגדול למבצעים הקבועים!!!*\n\n*מבצעי השבוע בקטוף סניף קרית אתא*\n\nפתוחים עם כל השפע המוכר והאהוב!\n\nקניון תימורה - רח' העצמאות 37\n\n*זמני פתיחה קבועים*\n* ימים א' - ה': 21:30 - 9:30\n*  יום ו': 8:30-14:00\n\nנסיעה עם Waze אל קטוף סניף קרית אתא: https://waze.com/ul/hsvbfwu4mh\n\nלהצטרפות לקבוצת המועדון",
+   "ts": 1794329483000,
+   "date": "2026-11-10",
+   "time": "18:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "314KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NWXWbHrTSJONt8epyCyq_JNO1GbxJhG4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NWXWbHrTSJONt8epyCyq_JNO1GbxJhG4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587161155"
+  },
+  {
+   "id": "AC6940FA17C52588F345A635DB04B960",
+   "sender": "יעקב קרלינסקי",
+   "text": "היום",
+   "ts": 1794329753000,
+   "date": "2026-11-10",
+   "time": "18:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "57KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC6940FA17C52588F345A635DB04B960_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACB305E8BD729901BA77C104D4C669AF",
+   "sender": "דוד יוליס",
+   "text": "אני צריך להעביר בימים הקרובים מעטפה ממודיעין עילית לכאן.\nמי שמגיע אשמח לעדכון. \nתודה",
+   "ts": 1794343319000,
+   "date": "2026-11-10",
+   "time": "22:41",
+   "files": [],
+   "drive": null,
+   "phone": "972506568711"
   }
  ]
 }

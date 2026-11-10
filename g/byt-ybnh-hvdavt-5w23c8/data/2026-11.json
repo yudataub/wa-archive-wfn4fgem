@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית יבנה הודעות",
- "updated": "2026-11-09T19:37:13.857Z",
+ "updated": "2026-11-10T19:24:27.781Z",
  "messages": [
   {
    "id": "ACFB76AB8F17A6FD3ECCF40B017B90ED",
@@ -2434,6 +2434,186 @@
    "date": "2026-11-09",
    "time": "21:37",
    "files": [],
+   "drive": null,
+   "phone": "972542707965"
+  },
+  {
+   "id": "3EB0D3AAA63C226E5C4AFC",
+   "sender": "יעקב ביניאשוילי",
+   "text": "בוקר טוב מחנכים,\nעל השולחן בחדר מורים יש מעטפות לתרומה.\nנא לקחת ולחלק לילדים.\nחודש מבורך🌹",
+   "ts": 1794289663000,
+   "date": "2026-11-10",
+   "time": "07:47",
+   "files": [],
+   "drive": null,
+   "phone": "972533818775"
+  },
+  {
+   "id": "3EB092D2F81A1DD6969B86",
+   "sender": "יעקב ביניאשוילי",
+   "text": "",
+   "ts": 1794289680000,
+   "date": "2026-11-10",
+   "time": "07:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "418KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DEFwkt_3SxUe2iV8V2qbD0mgyKVLdm9M/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DEFwkt_3SxUe2iV8V2qbD0mgyKVLdm9M&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533818775"
+  },
+  {
+   "id": "3EB00D8EB1E4957356563F",
+   "sender": "יעקב ביניאשוילי",
+   "text": "",
+   "ts": 1794290584000,
+   "date": "2026-11-10",
+   "time": "08:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "271KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13VGJDS8MtxDy6E1ciWL2ZKg78OClneR-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13VGJDS8MtxDy6E1ciWL2ZKg78OClneR-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533818775"
+  },
+  {
+   "id": "AC63C05388DC689A9DE77E60116143B4",
+   "sender": "רעות",
+   "text": "תזכורת",
+   "ts": 1794293333000,
+   "date": "2026-11-10",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972532796095"
+  },
+  {
+   "id": "ACF486600C6DDE6EFD59988982A5AA82",
+   "sender": "רעות",
+   "text": "הפסקת חצר כרגיל \nולאחריה הפסקת אוכל בכיתות \nתודה לכולם על שיתוף הפעולה 🙏",
+   "ts": 1794297606000,
+   "date": "2026-11-10",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "phone": "972532796095"
+  },
+  {
+   "id": "AC5E07180BA564F531E611092DB824FF",
+   "sender": "הילה",
+   "text": "ביום שני בשעות 2+3, חדר אומנות יהיה תפוס🙏🏻.\nתודה",
+   "ts": 1794300340000,
+   "date": "2026-11-10",
+   "time": "10:45",
+   "files": [],
+   "drive": null,
+   "phone": "972502411466"
+  },
+  {
+   "id": "3A3EE70B3DC10FE7BF2E",
+   "sender": "אלראי",
+   "text": "תלמידי כיתה ו1 לא בכיתה , מפריעים לכל הקומה",
+   "ts": 1794304572000,
+   "date": "2026-11-10",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972586621115"
+  },
+  {
+   "id": "AC266E9CDDEC1D1CF645E28635FBF3AD",
+   "sender": "אוראל דרורי",
+   "text": "מחר חדר מחשבים יהיה תפוס בשעה החמישית בע\"ה.",
+   "ts": 1794313438000,
+   "date": "2026-11-10",
+   "time": "14:23",
+   "files": [],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "ACA4B73F6EE1EB77B3B6C512FAC819F5",
+   "sender": "🌟 Ravit 🌟",
+   "text": "",
+   "ts": 1794326298000,
+   "date": "2026-11-10",
+   "time": "17:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wSgSsXPWELOhwBor0yzd7ozBUXPS7r0B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wSgSsXPWELOhwBor0yzd7ozBUXPS7r0B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542412777"
+  },
+  {
+   "id": "AC0D78DD653BB4E598BECAB6C430CB54",
+   "sender": "דורית חניה",
+   "text": "ערב טוב. מ''מ מחר: \n\nבמקום צופיה \nרחלי יומטוביאן \n\nבמקום אילונה \nתהילה לוי \n\nבמקום לירון\n1. ב5 סמדר\n3. א1 אביב\n4. ב'1 רותי \n5. ב2:רוני \n6. ב4+ב5 הדר\n\n1. במקום אוראל ה1- מרים \n\nתודה לכל המורים שנרתמים לטובת המערכת🙏🙏\n\nהמשך ערב נעים",
+   "ts": 1794336299000,
+   "date": "2026-11-10",
+   "time": "20:44",
+   "files": [],
+   "drive": null,
+   "phone": "972505924155"
+  },
+  {
+   "id": "AC03AAD9AE4B28B880AECCC74E082C4C",
+   "sender": "..",
+   "text": "*רעות יקרה, יישר כח על שבוע וחצי של עשייה מדהימה סביב נושא הבטיחות בדרכים*👏🏻🙏🏻🌸\n\nתודה על התכנון, הארגון, החשיבה על כל פרט ופרט, היוזמה וההוצאה לפועל של כל כך הרבה פעילויות מגוונות ומשמעותיות.\n\nבזכות ההשקעה הגדולה שלך, ילדי בית הספר זכו לשבוע וחצי מלאים בלמידה, ביצירה, בחוויות, בהנאה ובמפגשים מעשירים. הצלחת להפוך נושא חשוב ומשמעותי לחוויה בית ספרית של ממש, כזו שנוגעת בכל תלמיד ותלמידה ומשאירה מסר חשוב להמשך הדרך🚦🚸",
+   "ts": 1794338617000,
+   "date": "2026-11-10",
+   "time": "21:23",
+   "files": [],
+   "drive": null,
+   "phone": "972542707965"
+  },
+  {
+   "id": "AC103C5A9F1E65BAEFA3954F68E4D180",
+   "sender": "..",
+   "text": "*אוראל היקר, יישר כח על עריכת הסרטון המקסים, המושקע והמרשים!* הצלחת לקחת רגעים רבים של עשייה ולהפוך אותם לסרטון יפהפה, מזמין, מעניין ומלא חיים, שמעביר בצורה נהדרת את האווירה ואת החוויות שעברו על ילדי בית הספר👏🏻🙏🏻🎞️",
+   "ts": 1794338637000,
+   "date": "2026-11-10",
+   "time": "21:23",
+   "files": [],
+   "drive": null,
+   "phone": "972542707965"
+  },
+  {
+   "id": "AC3DA72DE4C177509169E5E53CF2FBE2",
+   "sender": "..",
+   "text": "",
+   "ts": 1794338652000,
+   "date": "2026-11-10",
+   "time": "21:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "73.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1GIYhV5i-S47aym-KDvhxbGU8w6IUkKZH/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC3DA72DE4C177509169E5E53CF2FBE2_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1GIYhV5i-S47aym-KDvhxbGU8w6IUkKZH&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972542707965"
   }

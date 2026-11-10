@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-09T21:49:35.532Z",
+ "updated": "2026-11-10T19:35:32.422Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -830,6 +830,108 @@
    "files": [],
    "drive": null,
    "phone": "972547426770"
+  },
+  {
+   "id": "AC1396C94A796380396F5B47C87B41F5",
+   "sender": "אוריה כהן 🤍",
+   "text": "מתחילים שבוע הבא ללמד הלכות חנוכה?",
+   "ts": 1794305109000,
+   "date": "2026-11-10",
+   "time": "12:05",
+   "files": [],
+   "drive": null,
+   "phone": "972535791538"
+  },
+  {
+   "id": "3AFAA683D37444EBD907",
+   "sender": "הודיה",
+   "text": "יש למישהו חומר על ייצור שמן זית?",
+   "ts": 1794305149000,
+   "date": "2026-11-10",
+   "time": "12:05",
+   "files": [],
+   "drive": null,
+   "phone": "972528181082"
+  },
+  {
+   "id": "3A4D7BEA5B68771933DF",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1794305154000,
+   "date": "2026-11-10",
+   "time": "12:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1x3Cv7QiDJ7OXcu18her-t_koyTLWkMdg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1x3Cv7QiDJ7OXcu18her-t_koyTLWkMdg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528181082"
+  },
+  {
+   "id": "3A81CE41B9C6F1841DD8",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1794305155000,
+   "date": "2026-11-10",
+   "time": "12:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "224KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ektPWshpN_TMKEguoKjn-jdpEYWNsn79/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ektPWshpN_TMKEguoKjn-jdpEYWNsn79&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528181082"
+  },
+  {
+   "id": "ACB052858D1A4443DF975FFBF425872D",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1p6c4NjNHOyljvxiHl-ZkYCfHpr0Bxa-B",
+   "ts": 1794328474000,
+   "date": "2026-11-10",
+   "time": "18:34",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACF1354AA6F2C71500CA75059F2FA9A7",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794336752000,
+   "date": "2026-11-10",
+   "time": "20:52",
+   "files": [
+    {
+     "name": "..ספרון השבת אבדה לצביעה.pdf",
+     "size": "4.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1HNxoesypImnEE1q9NIbZg1KIz8sq-Vw9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "3EB051999801E81628CE2D",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://www.kol-toda.co.il/chagim/chanuka/?v=2",
+   "ts": 1794339309000,
+   "date": "2026-11-10",
+   "time": "21:35",
+   "files": [],
+   "drive": null
   }
  ]
 }

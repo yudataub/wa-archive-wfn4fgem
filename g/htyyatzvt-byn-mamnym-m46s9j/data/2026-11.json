@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "התייעצות בין מאמנים",
- "updated": "2026-11-09T06:10:42.358Z",
+ "updated": "2026-11-10T17:41:08.490Z",
  "messages": [
   {
    "id": "3EB0C0F7B2B27EF9AAFA1A",
@@ -82,6 +82,26 @@
      "path": "https://drive.google.com/file/d/1JcSXyKOrq-sJ6vOOS_cqqp_fU289qdni/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1JcSXyKOrq-sJ6vOOS_cqqp_fU289qdni&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB0F7C74C0B44970E8376",
+   "sender": "קובי גטניו",
+   "text": "ערב נפלא לכולם,נפגשים היום בשעה 20:15 לשידור לייב  בקהילה שלנו \"אימון אישי-מרכז הקואצ'ינג הישראלי\" .קישור לשידור: https://yozmotgroup.zoom.us/j/86059445253",
+   "ts": 1794332443000,
+   "date": "2026-11-10",
+   "time": "19:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "339KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WdfLw5QfMqJ9GAXpYcm5xZ0Psdf-CerU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WdfLw5QfMqJ9GAXpYcm5xZ0Psdf-CerU&sz=w1200"
     }
    ],
    "drive": null,
