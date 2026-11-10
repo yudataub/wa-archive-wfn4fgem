@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-11-10T19:01:21.912Z",
+ "updated": "2026-11-10T21:18:32.335Z",
  "messages": [
   {
    "id": "AC0D089A6964F565F5B700458FC19344",
@@ -956,6 +956,37 @@
    ],
    "drive": null,
    "phone": "972585005171"
+  },
+  {
+   "id": "2A8FF90793E7ED282FFF",
+   "sender": "972 Education Inc. Orly",
+   "text": "",
+   "ts": 1794345482000,
+   "date": "2026-11-10",
+   "time": "23:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qFAWSif6Wb50D7ocno_P2FLLNPfqZ4kg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qFAWSif6Wb50D7ocno_P2FLLNPfqZ4kg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A06497C42DAEC075589",
+   "sender": "972 Education Inc. Orly",
+   "text": "מורים ומורות לשפה, מרגישים שאתם יודעים ש־AI יכול לחסוך לכם זמן, אבל לא תמיד יודעים איך להפוך אותו לחומרי הוראה שבאמת מתאימים ללומדים שלכם?\n\nאני מזמינה אתכם למפגש הדגמה חי של The BAIonic Language Teacher, הפלטפורמה שבניתי במיוחד עבור מורים לשפה.\n\nבמהלך המפגש אדגים בלייב כיצד ליצור, בעזרת כלי AI:\n\n✨ משחקים ופעילויות אינטראקטיביות\n✨ דפי עבודה\n✨ עיתונים לימודיים\n✨ כרטיסיות הברקה\n✨ אינפוגרפיקה\n✨ יחידות לימוד\n✨ הערכות ומשימות מותאמות רמה\n✨ ועוד המון תוצרים שתוכלו לקחת ישירות לעבודה שלכם\n\nהמפגש מתאים למורים ולמורות בכל שפה ובמגוון רמות וגילים.\n\n📅 יום ראשון, 15 בנובמבר\n⏰ 10:00 בבוקר, זמן לוס אנג׳לס\n🎁 בין המשתתפים תיערך הגרלה על מנוי שנתי אחד חינם ל־The BAIonic Language Teacher.\n\n*ההגרלה תתקיים בתנאי שישתתפו במפגש יותר מ־20 אנשים.\n\nלהרשמה:\nhttps://forms.gle/4bzV4cZxxXfdKSsGA\n\nמוזמנים לשתף עם מורים ומורות נוספים לשפה. מחכה לפגוש אתכם ולהראות לכם בלייב כמה אפשר ליצור כשהפדגוגיה מובילה את ה־AI.\n\nלהצטרפות לקהילת המורים/ות לשפה הגלובלית בפייסבוק:\n972Educators - Hebrew L2\n\nלהצטרפות לקבוצת הוואטסאפ:\n\n@followers\n@highlight\nOrly Lavi Travish\n\n972 Education - Hebrew Language and Israeli Culture Instruction\nr#972education #langchat #thebaioniclanguageteacher #הוראתשפות #בינהמלאכותית #בינהמלאכותיתבחינוך #מוריםלשפה #חדשנותבחינוך",
+   "ts": 1794345485000,
+   "date": "2026-11-10",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
   }
  ]
 }

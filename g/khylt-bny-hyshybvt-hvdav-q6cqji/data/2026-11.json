@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-10T20:42:04.504Z",
+ "updated": "2026-11-10T22:01:03.517Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -1588,7 +1588,8 @@
      "path": "https://drive.google.com/file/d/1rp5_7bNsBjm47ka1XKriKsy_EdkdLcXO/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A55DFB924489C428FA24583B39E7BFBB_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1rp5_7bNsBjm47ka1XKriKsy_EdkdLcXO&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1rp5_7bNsBjm47ka1XKriKsy_EdkdLcXO&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-11/A55DFB924489C428FA24583B39E7BFBB_0.mp4"
     }
    ],
    "drive": null,
@@ -1643,6 +1644,17 @@
    "files": [],
    "drive": null,
    "phone": "972506568711"
+  },
+  {
+   "id": "AC3D29CD1D79E312FB8BD554225AEB2E",
+   "sender": "אלקנה",
+   "text": "יש מישהו שנוסע מחר בסביבות 13.00 לאזור בני ברק / פתח תקווה ?",
+   "ts": 1794348043000,
+   "date": "2026-11-11",
+   "time": "00:00",
+   "files": [],
+   "drive": null,
+   "phone": "972529407610"
   }
  ]
 }

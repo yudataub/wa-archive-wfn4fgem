@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ד'",
- "updated": "2026-11-10T19:35:32.468Z",
+ "updated": "2026-11-10T22:22:03.818Z",
  "messages": [
   {
    "id": "ACB0E6A48615372D5894E35A95213A4B",
@@ -384,6 +384,28 @@
    "time": "21:35",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "ACDD65EAEC4B16CD221ECF1EBB5A2CC1",
+   "sender": "מירי",
+   "text": "אשמח לחומרים על חנוכה",
+   "ts": 1794348649000,
+   "date": "2026-11-11",
+   "time": "00:10",
+   "files": [],
+   "drive": null,
+   "phone": "972502291622"
+  },
+  {
+   "id": "AC499DD32B83F2C6A7FC348122285C16",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/0B8-ZH1QylxUFdWh4TDFXWlJiMmc?resourcekey=0-m3TNK1VszQFkaT3V_eblvw",
+   "ts": 1794349315000,
+   "date": "2026-11-11",
+   "time": "00:21",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
   }
  ]
 }

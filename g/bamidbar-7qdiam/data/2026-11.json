@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-10T20:34:34.316Z",
+ "updated": "2026-11-10T21:21:56.244Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -2555,6 +2555,85 @@
    "files": [],
    "drive": null,
    "phone": "972587708082"
+  },
+  {
+   "id": "ACDD6F748821E0B67A629589EDAD23BF",
+   "sender": "חרות שלזינגר",
+   "text": "מישהו יכול לשלוח את זה שוב?",
+   "ts": 1794345364000,
+   "date": "2026-11-10",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972587530939"
+  },
+  {
+   "id": "AC4C07FC47FF7882A913D75036BF2D07",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1794345410000,
+   "date": "2026-11-10",
+   "time": "23:16",
+   "files": [
+    {
+     "name": "DOC-20261008-WA0584.pptx",
+     "size": "3.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Ln8uZ1p0t7w-XxzBMSJbMPNP8SUmcY4b/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "ACF3132FD2A17DF92C499E24886A766B",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1794345446000,
+   "date": "2026-11-10",
+   "time": "23:17",
+   "files": [
+    {
+     "name": "פרשת נשא פרק ז' קורבנות הנשיאים.pptx",
+     "size": "1.1MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/17ofbNGjQWbuWXII4Wvb5PudUbazCwqoC/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC4BD9A086CB8E7263706C57B2D99957",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1794345498000,
+   "date": "2026-11-10",
+   "time": "23:18",
+   "files": [
+    {
+     "name": "פרשת נשא פרק ז' קורבנות הנשיאים (3).pptx",
+     "size": "3.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1cPF3Tx8N6-uXZvc9VsIEa_7PFfB4XI6l/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC15DC8BD6A02F42AF74572B4CC8FBDD",
+   "sender": "חרות שלזינגר",
+   "text": "צודהה",
+   "ts": 1794345692000,
+   "date": "2026-11-10",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "phone": "972587530939"
   }
  ]
 }
