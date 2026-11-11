@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-10T19:10:19.816Z",
+ "updated": "2026-11-11T17:20:35.596Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -264,6 +264,46 @@
    ],
    "drive": null,
    "phone": "972586900556"
+  },
+  {
+   "id": "3EB0D6559D2397EE9239E2",
+   "sender": "Adi Zvieli",
+   "text": "",
+   "ts": 1794381636000,
+   "date": "2026-11-11",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "165KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eFuWLW7qOJssQeEw9DYOi6-AfTofBtnM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eFuWLW7qOJssQeEw9DYOi6-AfTofBtnM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "AC530A08176C1C0BDACF94FFC9D7B124",
+   "sender": "יובל",
+   "text": "",
+   "ts": 1794417627000,
+   "date": "2026-11-11",
+   "time": "19:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_zs_QIUxBJkTcGo7voWyFHr7IgCg5hKT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_zs_QIUxBJkTcGo7voWyFHr7IgCg5hKT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702322"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-10T14:30:17.499Z",
+ "updated": "2026-11-11T14:59:55.193Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -2360,6 +2360,104 @@
    "files": [],
    "drive": null,
    "phone": "972546407404"
+  },
+  {
+   "id": "AC6B0D92DD47E510446DBD36B3DF101A",
+   "sender": "שמעון",
+   "text": "עטיפה למחברת נביא 🙏🏻",
+   "ts": 1794382751000,
+   "date": "2026-11-11",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "phone": "972504884402"
+  },
+  {
+   "id": "ACB47BCEBE23BFCA3DD2A0E876F7B275",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1794405323000,
+   "date": "2026-11-11",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "עטיפה למחברת נביא - שמואל+כריכה לתיקיה.pdf",
+     "size": "918KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14RfyRGF74QbZ0LAEcZX0_yEQKgRMRFeD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC14FF37F65E7249C6808C0AB9F9B801",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1794405324000,
+   "date": "2026-11-11",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "עטיפה למחברת נביא - שמואל.pdf",
+     "size": "308KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1erhUD4gRYI5SZDIQdvd38inCs6xCj9eH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "3EB0DC77B2BDE36B27BA8C",
+   "sender": "livnatsiri",
+   "text": "יש למישהו את הקובץ הזה... זה לא נפתח לי",
+   "ts": 1794409127000,
+   "date": "2026-11-11",
+   "time": "16:58",
+   "files": [],
+   "drive": null,
+   "phone": "972527076356"
+  },
+  {
+   "id": "AC0842331EE5FB9D1E3844C9188B40FE",
+   "sender": "livnatsiri",
+   "text": "",
+   "ts": 1794409171000,
+   "date": "2026-11-11",
+   "time": "16:59",
+   "files": [
+    {
+     "name": "מבחן בתורה.pdf",
+     "size": "157KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1w1dREaTB3UDo0kcTsUKb655yrZrNmzoE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527076356"
+  },
+  {
+   "id": "AC936AEF51D4B752670F6D70384780E9",
+   "sender": "livnatsiri",
+   "text": "",
+   "ts": 1794409172000,
+   "date": "2026-11-11",
+   "time": "16:59",
+   "files": [
+    {
+     "name": "דף חזרה פרשת דברים.pdf",
+     "size": "319KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Cd_9a0_hBwtwdfASSU3FwLS0eqWyrFl7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527076356"
   }
  ]
 }

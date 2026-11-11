@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-11-10T22:37:34.101Z",
+ "updated": "2026-11-11T09:07:41.652Z",
  "messages": [
   {
    "id": "ACEE449B1818FE1E509318A45C76CDA4",
@@ -968,6 +968,36 @@
    "files": [],
    "drive": null,
    "phone": "972524317337"
+  },
+  {
+   "id": "ACD291545FCFDFC29C4586C7FB8515CC",
+   "sender": "Léa🌻💚",
+   "text": "אפשר קישורים לכל הסרטים היפים האלה?",
+   "ts": 1794384870000,
+   "date": "2026-11-11",
+   "time": "10:14",
+   "files": [],
+   "drive": null,
+   "phone": "972545765743"
+  },
+  {
+   "id": "AC7F820572F262A7F926435AEA1D4E99",
+   "sender": "חמוטל שרפי",
+   "text": "",
+   "ts": 1794388031000,
+   "date": "2026-11-11",
+   "time": "11:07",
+   "files": [
+    {
+     "name": "yehoshua-orientation.pdf",
+     "size": "98KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1LU-q7c88SyedKW1wdzoTcefLL3jCi69-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503996683"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-10T21:21:56.244Z",
+ "updated": "2026-11-11T20:45:19.225Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -2634,6 +2634,299 @@
    "files": [],
    "drive": null,
    "phone": "972587530939"
+  },
+  {
+   "id": "3AAABDC5E8EAF7700A46",
+   "sender": "סימי חגיאן",
+   "text": "מחפשת דפי תרגול לכתב רש״י",
+   "ts": 1794378707000,
+   "date": "2026-11-11",
+   "time": "08:31",
+   "files": [],
+   "drive": null,
+   "phone": "972536336392"
+  },
+  {
+   "id": "AC3A4764A9BC68D3A222202F657A870C",
+   "sender": "דקלה שמח",
+   "text": "",
+   "ts": 1794381332000,
+   "date": "2026-11-11",
+   "time": "09:15",
+   "files": [
+    {
+     "name": "--חוברת לימוד כתב רש''י מורחב_250817_152126.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1yBz9AkRs5KqqDffjG-tiHsN8QIjebgMG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522912579"
+  },
+  {
+   "id": "AC1102B8F806B83325EDC4D53E6F7FEE",
+   "sender": "דקלה שמח",
+   "text": "",
+   "ts": 1794381377000,
+   "date": "2026-11-11",
+   "time": "09:16",
+   "files": [
+    {
+     "name": "כתב רשי סימניה.pdf",
+     "size": "143KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1e92g4lpEh4AaRnaRiZrPZ8wRaN8ukNs8/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522912579"
+  },
+  {
+   "id": "3A9DDBE9B672CF6EB470",
+   "sender": "Gabi Romera",
+   "text": "בוקר טוב\nיש למישהו חומר לפרשה בשלח?",
+   "ts": 1794381778000,
+   "date": "2026-11-11",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972539667727"
+  },
+  {
+   "id": "AC2C312816CD5E6B089931CA6DDFB712",
+   "sender": "אשר רפאל מיימון",
+   "text": "אם כבר מתעסקים בבינה מלאכותית, מישהו יכול לרכז את כל הדברים על שמואל בנפרד ועל במדבר בנפרד?",
+   "ts": 1794393482000,
+   "date": "2026-11-11",
+   "time": "12:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "AC20DF8890299579351DEC042AB8D980",
+   "sender": "אשר רפאל מיימון",
+   "text": "יש אתר למורה מיכל ביטון?",
+   "ts": 1794393488000,
+   "date": "2026-11-11",
+   "time": "12:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "ACED31FEFC9ED893A8244FD976964161",
+   "sender": "אשר רפאל מיימון",
+   "text": "אפשר שוב את הקובץ של מיכל ביטון לשמואל א?\nלא מצליח למצוא",
+   "ts": 1794393982000,
+   "date": "2026-11-11",
+   "time": "12:46",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "AC43EE778A57CBE48820351C4506A29C",
+   "sender": "ניסים",
+   "text": "אפשר בבקשה לקבל מצגת על פרק ו' בתורה?",
+   "ts": 1794395605000,
+   "date": "2026-11-11",
+   "time": "13:13",
+   "files": [],
+   "drive": null,
+   "phone": "972548524552"
+  },
+  {
+   "id": "A5C1885D43384510931B4BF92B3C5D51",
+   "sender": "Michal Biton",
+   "text": "",
+   "ts": 1794395690000,
+   "date": "2026-11-11",
+   "time": "13:14",
+   "files": [
+    {
+     "name": "שמואל א חלק ראשון מיכל ביטון.pdf",
+     "size": "6.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11dk_CaTwnFmliHjlwEqj2rfCy8Oyix6Y/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "4917640585779"
+  },
+  {
+   "id": "AC325AFE75DD55834B7B100DCEFF1BD8",
+   "sender": "שמואל טויזר",
+   "text": "למה לא עושים קבוצה על במדבר וקבוצה על שמואל א'?",
+   "ts": 1794398763000,
+   "date": "2026-11-11",
+   "time": "14:06",
+   "files": [],
+   "drive": null,
+   "phone": "972508160154"
+  },
+  {
+   "id": "AC7E01BFEDE6D94A6E35A78EF5B29A60",
+   "sender": "אשר רפאל מיימון",
+   "text": "כל הכבוד לשמואל.....",
+   "ts": 1794401316000,
+   "date": "2026-11-11",
+   "time": "14:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "ACC671CCD0D02F480579F119BF5F8E29",
+   "sender": "שירן",
+   "text": "מדובר גם במבחן בהלכה?",
+   "ts": 1794420442000,
+   "date": "2026-11-11",
+   "time": "20:07",
+   "files": [],
+   "drive": null,
+   "phone": "972546302413"
+  },
+  {
+   "id": "3EB0E6622A27C1F05F5480",
+   "sender": "קובי",
+   "text": "תורה- חומש",
+   "ts": 1794420492000,
+   "date": "2026-11-11",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "AC6E560E19829867BDF01EADC15A7961",
+   "sender": "שירן",
+   "text": "יש למשהו את הנושאים למפמר בהלכה?",
+   "ts": 1794420556000,
+   "date": "2026-11-11",
+   "time": "20:09",
+   "files": [],
+   "drive": null,
+   "phone": "972546302413"
+  },
+  {
+   "id": "3EB0D36AB4172E54301A4D",
+   "sender": "קובי",
+   "text": "https://drive.google.com/file/d/1W-YFathKvzJDYdjie38-ft9RdPz6Rzz4/view?usp=sharing\nקישור לקבוצות הווטסאפ בתושבע",
+   "ts": 1794420685000,
+   "date": "2026-11-11",
+   "time": "20:11",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "3AF2E810C527A6743674",
+   "sender": "סילבי",
+   "text": "האם יש קבוצה ייעודית לספר דברים?",
+   "ts": 1794428541000,
+   "date": "2026-11-11",
+   "time": "22:22",
+   "files": [],
+   "drive": null,
+   "phone": "972547344462"
+  },
+  {
+   "id": "AC57BF87FC6B4F5AF7F3BD447590800A",
+   "sender": "קובי",
+   "text": "כן.יש לכל חומש",
+   "ts": 1794428759000,
+   "date": "2026-11-11",
+   "time": "22:25",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "3A20ECDD80CA53C641A5",
+   "sender": "סילבי",
+   "text": "אשמח לקישור בבקשה",
+   "ts": 1794428773000,
+   "date": "2026-11-11",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972547344462"
+  },
+  {
+   "id": "AC3815C3D28180C8BAE15A781544898F",
+   "sender": "Daniela Sandrusi",
+   "text": "יש למשהו מבחן בנביא על פרקים א-ב",
+   "ts": 1794429802000,
+   "date": "2026-11-11",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972527240414"
+  },
+  {
+   "id": "ACBA1F446717616BFE7808DE33FBA9DA",
+   "sender": "שרה יעיש",
+   "text": "",
+   "ts": 1794429872000,
+   "date": "2026-11-11",
+   "time": "22:44",
+   "files": [
+    {
+     "name": "מסמך ללא שם (3).docx",
+     "size": "9KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/15JcTV0Rnu2rsvCwUYQYyPtgbux3Nui6m/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544271447"
+  },
+  {
+   "id": "AC0DE792817D0611FC11831E340A4365",
+   "sender": "שרה יעיש",
+   "text": "",
+   "ts": 1794429873000,
+   "date": "2026-11-11",
+   "time": "22:44",
+   "files": [
+    {
+     "name": "מסמך ללא שם (2).docx",
+     "size": "61KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/19qVAGD88Tqj1cEHUirWR2MQclxcfyNAi/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544271447"
+  },
+  {
+   "id": "AC792440532667CAC07CAEC62B035CB8",
+   "sender": "שרה יעיש",
+   "text": "מישהו שלח פה",
+   "ts": 1794429875000,
+   "date": "2026-11-11",
+   "time": "22:44",
+   "files": [],
+   "drive": null,
+   "phone": "972544271447"
+  },
+  {
+   "id": "AC26B8D47A09674E5D0A10AD7C5D9D11",
+   "sender": "Daniela Sandrusi",
+   "text": "תודה",
+   "ts": 1794429917000,
+   "date": "2026-11-11",
+   "time": "22:45",
+   "files": [],
+   "drive": null,
+   "phone": "972527240414"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ה",
- "updated": "2026-11-09T19:04:15.779Z",
+ "updated": "2026-11-11T20:55:49.330Z",
  "messages": [
   {
    "id": "3EB07D29E51DF1417119FE",
@@ -677,6 +677,39 @@
    "files": [],
    "drive": null,
    "phone": "972524664998"
+  },
+  {
+   "id": "AC7BF6FB478EB8D742B031CDF8825AFA",
+   "sender": "נבו",
+   "text": "שלום, אשמח לקבל קישור לספר הדיגיטלי 'הלכה מקור חיים'. תודה רבה🙏🏽",
+   "ts": 1794430377000,
+   "date": "2026-11-11",
+   "time": "22:52",
+   "files": [],
+   "drive": null,
+   "phone": "972586647464"
+  },
+  {
+   "id": "3EB0222A8EE9BD55B1B974",
+   "sender": "אסף אלדר",
+   "text": "https://create.kahoot.it/details/7a1f39e1-37e8-4dfe-be6b-0e8cd8c20a80",
+   "ts": 1794430517000,
+   "date": "2026-11-11",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "3EB0C8BEA6637584F2A1E3",
+   "sender": "אסף אלדר",
+   "text": "https://www.classe.world/go/19p74fb9np3opc7j",
+   "ts": 1794430529000,
+   "date": "2026-11-11",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
   }
  ]
 }

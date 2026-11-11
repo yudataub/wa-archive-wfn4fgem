@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-10T03:59:44.143Z",
+ "updated": "2026-11-11T04:08:47.598Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -448,6 +448,46 @@
      "path": "https://drive.google.com/file/d/1hwO-tfGfTUsjcc37aEK-lsCsYzk_iIRa/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1hwO-tfGfTUsjcc37aEK-lsCsYzk_iIRa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AED4D79DAC3C7405479",
+   "sender": ".",
+   "text": "״יכול להביא בין כבש בין עז״ (רש״י בכורות נד, ב).",
+   "ts": 1794370092000,
+   "date": "2026-11-11",
+   "time": "06:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FBfyIRM-ouj_g11l-O52Y9papS8PWwwp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FBfyIRM-ouj_g11l-O52Y9papS8PWwwp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A18DB0642CFB4F8AC54",
+   "sender": ".",
+   "text": "״הירדן מפסיק״ (בכורות נד, ב).",
+   "ts": 1794370093000,
+   "date": "2026-11-11",
+   "time": "06:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "160KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B5Lm-onf_N2kXytQPjjQjFt8T5RVdcKa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B5Lm-onf_N2kXytQPjjQjFt8T5RVdcKa&sz=w1200"
     }
    ],
    "drive": null,

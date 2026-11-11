@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-10T12:16:56.389Z",
+ "updated": "2026-11-11T21:06:56.724Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -557,6 +557,82 @@
    ],
    "drive": null,
    "phone": "972539218034"
+  },
+  {
+   "id": "3EB0543752A96BD058D6B1",
+   "sender": "דני כהן",
+   "text": "",
+   "ts": 1794431211000,
+   "date": "2026-11-11",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת חלק א.mp3",
+     "size": "616KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1psH1Y0SILXYPtyHiusOOJ86sRLi0eMsf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526888703"
+  },
+  {
+   "id": "3EB05CE424FF2A0F9560EC",
+   "sender": "דני כהן",
+   "text": "",
+   "ts": 1794431211000,
+   "date": "2026-11-11",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת חלק ב.mp3",
+     "size": "458KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1S8tFa1GEoaNoWU3Rxn6vn-eMk3fFrOcu/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526888703"
+  },
+  {
+   "id": "3EB0BFA63F1AEC3FD1D97F",
+   "sender": "דני כהן",
+   "text": "",
+   "ts": 1794431212000,
+   "date": "2026-11-11",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת חלק ג.mp3",
+     "size": "453KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1CUKFHK9npvsEgRq1ONywiZ_-ewIsPAzO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526888703"
+  },
+  {
+   "id": "3EB02044E2C9E9941D6D06",
+   "sender": "דני כהן",
+   "text": "",
+   "ts": 1794431213000,
+   "date": "2026-11-11",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת חלק ד.mp3",
+     "size": "522KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1NQp7602Ndy0lMsaXmFLahbH19uC7eFyU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526888703"
   }
  ]
 }

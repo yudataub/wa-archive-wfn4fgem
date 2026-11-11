@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-11-10T16:19:59.481Z",
+ "updated": "2026-11-11T13:48:06.235Z",
  "messages": [
   {
    "id": "3EB0ACDC9E12640E1E2FFA",
@@ -279,6 +279,27 @@
    "date": "2026-11-10",
    "time": "18:19",
    "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC7335DE88D3EC7E10AA75BE12A8C16B",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "קהילה יקרה מזמינה אתכם אישית!\n*מסיבת חנוכה עם AI יוצאת לדרך!*\nומה יהיה בה?\nשעשועי פרומפטים, פעילויות ומשחקים,\nוהרבה יצירה עם בינה מלאכותית בתמונה, בווידאו ובקוד.\nורגע השיא: תחרות הסופגנייה המקורית!\nמספר המקומות מוגבל!\n*רביעי 25.11, 20:00 בזום*\nמחיר סמלי לדמי רצינות - 20 ש\"ח בלבד\nלהרשמה:\nhttps://www.lomdot.org/event-details/ai-hanukkah2",
+   "ts": 1794404873000,
+   "date": "2026-11-11",
+   "time": "15:47",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "83KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hK7Yy6_P6C5kCCqJaUW4zh_LxqdsOaLf/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC7335DE88D3EC7E10AA75BE12A8C16B_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1hK7Yy6_P6C5kCCqJaUW4zh_LxqdsOaLf&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972523930628"
   }

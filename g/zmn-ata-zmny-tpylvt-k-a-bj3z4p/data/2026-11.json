@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-10T13:05:04.395Z",
+ "updated": "2026-11-11T07:17:17.186Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -636,6 +636,37 @@
    "files": [],
    "drive": null,
    "phone": "972544373003"
+  },
+  {
+   "id": "AC03BA7721146F16C0E391E6E4D29426",
+   "sender": "מרדכי",
+   "text": "*לעילוי נשמת הרב איתמר שוורץ בן טובה*",
+   "ts": 1794381433000,
+   "date": "2026-11-11",
+   "time": "09:17",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC1DA859DCAB9FE2187B1F4EA6D476ED",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794381433000,
+   "date": "2026-11-11",
+   "time": "09:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "235KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GxH7axJa85gnGO9v9JrMpZtjFOQhxYbc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GxH7axJa85gnGO9v9JrMpZtjFOQhxYbc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }
