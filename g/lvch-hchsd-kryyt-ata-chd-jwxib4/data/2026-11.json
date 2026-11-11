@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-11T20:45:19.215Z",
+ "updated": "2026-11-11T21:14:56.824Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -6878,7 +6878,8 @@
      "path": "https://drive.google.com/file/d/1vKd7GT-7tfmvcxtLi1Allz_ztXno9JJq/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACF3436543E506E4750FBE537D511AD6_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1vKd7GT-7tfmvcxtLi1Allz_ztXno9JJq&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1vKd7GT-7tfmvcxtLi1Allz_ztXno9JJq&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/ACF3436543E506E4750FBE537D511AD6_0.mp4"
     }
    ],
    "drive": null,
@@ -6941,7 +6942,8 @@
      "path": "https://drive.google.com/file/d/1HQwUvRYMQRy6-6kf9QmJWempTW8-DxYP/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A532D444B473B71C6F99FD2308C24073_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1HQwUvRYMQRy6-6kf9QmJWempTW8-DxYP&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1HQwUvRYMQRy6-6kf9QmJWempTW8-DxYP&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/A532D444B473B71C6F99FD2308C24073_0.mp4"
     }
    ],
    "drive": null,
@@ -7095,6 +7097,26 @@
    "files": [],
    "drive": null,
    "phone": "972525135333"
+  },
+  {
+   "id": "ACD274988B826D70F2FB11761FB125C7",
+   "sender": "B",
+   "text": "תקף גם בחוג קבוצות וגם בחוג הפרטי VIP 💝\nלשמור את המודעה לשם קבלת ההטבה 📌\nהטבה עד סוף חודש כסלו אי'ה",
+   "ts": 1794431665000,
+   "date": "2026-11-11",
+   "time": "23:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EyzmbxRBmqVP_IJXIECo-vuTOM650kcL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EyzmbxRBmqVP_IJXIECo-vuTOM650kcL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547264000"
   }
  ]
 }

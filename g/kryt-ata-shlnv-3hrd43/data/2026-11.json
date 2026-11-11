@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קרית אתא שלנו",
- "updated": "2026-11-11T20:51:49.306Z",
+ "updated": "2026-11-11T21:20:26.908Z",
  "messages": [
   {
    "id": "AC41D981B343121450F40EFD939C4769",
@@ -15951,7 +15951,8 @@
      "path": "https://drive.google.com/file/d/15u17DMXc_9fXOFMYt6y6xPX12VQy-LT0/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A5E4FEDAD8B53C655256E027C30403AB_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=15u17DMXc_9fXOFMYt6y6xPX12VQy-LT0&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=15u17DMXc_9fXOFMYt6y6xPX12VQy-LT0&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43-3/v/2026-11/A5E4FEDAD8B53C655256E027C30403AB_0.mp4"
     }
    ],
    "drive": null,
@@ -16470,7 +16471,8 @@
      "path": "https://drive.google.com/file/d/1VKctKcRTzLHAdZn7S8-PgPOc6Pob_V-n/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A543B9512DA7CB03D3DE34326761A7A8_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1VKctKcRTzLHAdZn7S8-PgPOc6Pob_V-n&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1VKctKcRTzLHAdZn7S8-PgPOc6Pob_V-n&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43-3/v/2026-11/A543B9512DA7CB03D3DE34326761A7A8_0.mp4"
     }
    ],
    "drive": null,
@@ -16695,6 +16697,25 @@
    "files": [],
    "drive": null,
    "phone": "972545767675"
+  },
+  {
+   "id": "A519BA1C1B94F4BEF2FDAB277916C6C6",
+   "sender": "מאיר מוגרבי",
+   "text": "למכירה מחשב נייד LENOVO סדרת מנהלים כמו חדש מעבד Intel Core i5, מסך 14 אינצ', זיכרון 16GB RAM, כונן SSD בנפח 250GB, רמקולים איכותיים, מסך נפתח °180, מחשב סופר עוצמתי! 054-6084870",
+   "ts": 1794431994000,
+   "date": "2026-11-11",
+   "time": "23:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A519BA1C1B94F4BEF2FDAB277916C6C6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

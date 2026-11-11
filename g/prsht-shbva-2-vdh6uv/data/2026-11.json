@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-11T18:31:03.072Z",
+ "updated": "2026-11-11T21:54:57.465Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -1991,6 +1991,66 @@
    "files": [],
    "drive": null,
    "phone": "972523908252"
+  },
+  {
+   "id": "3EB08DE5DFF0996788D3B4",
+   "sender": "אפי",
+   "text": "https://drive.google.com/file/d/1Qi6O86WeSpxoPQ_AWanb57xgUmVj8lqA/view?usp=sharing ערך המאמץ מבוסס על הרב אבינר תולדות.",
+   "ts": 1794433942000,
+   "date": "2026-11-11",
+   "time": "23:52",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "3EB01E22509E405C061C87",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1794434047000,
+   "date": "2026-11-11",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "The_Topography_of_Effort.pptx",
+     "size": "21.7MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1FpXmI615sR0o03MfN8yFmdjxFkFnZ4pP/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "3EB0A9252F3FB78646FE0A",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1794434048000,
+   "date": "2026-11-11",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "מאמץ פרשה ובדיחה.docx",
+     "size": "16KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1KDGKSQlkUhq05R2gk75d4907_ulr95Pk/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACB770F7336A5A2266BC82E92E80C521",
+   "sender": "אפי",
+   "text": "נראה לי יכול להתאים גם לחילוני..",
+   "ts": 1794434084000,
+   "date": "2026-11-11",
+   "time": "23:54",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
   }
  ]
 }

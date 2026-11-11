@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-11-11T20:45:19.206Z",
+ "updated": "2026-11-11T22:39:19.022Z",
  "messages": [
   {
    "id": "ACA158C915E6F8E25F841C558234F4D2",
@@ -4367,6 +4367,58 @@
    "files": [],
    "drive": null,
    "phone": "972552422630"
+  },
+  {
+   "id": "3EB09A7B06F7DDD002EB9D",
+   "sender": "חנה ליסטמן",
+   "text": "ערכתי מעט והוספתי קצת, בלשון זכר",
+   "ts": 1794436670000,
+   "date": "2026-11-12",
+   "time": "00:37",
+   "files": [],
+   "drive": null,
+   "phone": "972528748775"
+  },
+  {
+   "id": "3EB04BA725CD48E9E5D150",
+   "sender": "חנה ליסטמן",
+   "text": "",
+   "ts": 1794436691000,
+   "date": "2026-11-12",
+   "time": "00:38",
+   "files": [
+    {
+     "name": "דף עבודה – פרשת ויקרא.docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/13pC8rQ706j7wOPeJ6LE1LwpP7SNGxQMj/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528748775"
+  },
+  {
+   "id": "3EB07A198FC6AACD749798",
+   "sender": "חנה ליסטמן",
+   "text": "דף חזרה כליל למבחן על פרשת ויקרא",
+   "ts": 1794436707000,
+   "date": "2026-11-12",
+   "time": "00:38",
+   "files": [],
+   "drive": null,
+   "phone": "972528748775"
+  },
+  {
+   "id": "3EB04E9480350AFDBF8FA1",
+   "sender": "חנה ליסטמן",
+   "text": "משהו צריך מצגת יפה על קורבן אשם?",
+   "ts": 1794436753000,
+   "date": "2026-11-12",
+   "time": "00:39",
+   "files": [],
+   "drive": null,
+   "phone": "972528748775"
   }
  ]
 }

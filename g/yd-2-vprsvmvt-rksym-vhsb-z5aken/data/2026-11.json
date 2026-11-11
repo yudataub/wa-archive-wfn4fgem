@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-11T18:36:33.169Z",
+ "updated": "2026-11-11T22:11:34.400Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -10325,7 +10325,8 @@
      "path": "https://drive.google.com/file/d/1PoHw5ejnhtz8EWCrYBaKhUOWmKadAgTO/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A53E5BE9795D69674D5D146CFCE345F4_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1PoHw5ejnhtz8EWCrYBaKhUOWmKadAgTO&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1PoHw5ejnhtz8EWCrYBaKhUOWmKadAgTO&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/A53E5BE9795D69674D5D146CFCE345F4_0.mp4"
     }
    ],
    "drive": null,
@@ -10381,6 +10382,47 @@
    "files": [],
    "drive": null,
    "phone": "972556717628"
+  },
+  {
+   "id": "A52A1384DD36C7133FC908741666C223",
+   "sender": "מאיר מוגרבי",
+   "text": "למכירה מחשב נייד LENOVO סדרת מנהלים כמו חדש מעבד Intel Core i5, מסך 14 אינצ', זיכרון 16GB RAM, כונן SSD בנפח 250GB, רמקולים איכותיים, מסך נפתח °180, מחשב סופר עוצמתי! 054-6084870",
+   "ts": 1794431870000,
+   "date": "2026-11-11",
+   "time": "23:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A52A1384DD36C7133FC908741666C223_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
+  },
+  {
+   "id": "ACF40CB8CCD662DFB15C9B1119ACEAC4",
+   "sender": "אהרון",
+   "text": "אשמח למס של הרב גרזון",
+   "ts": 1794435000000,
+   "date": "2026-11-12",
+   "time": "00:10",
+   "files": [],
+   "drive": null,
+   "phone": "972503925992"
+  },
+  {
+   "id": "AC4B014BB94040E7531A2185ADF2AD57",
+   "sender": "יוסי מוזס",
+   "text": "📇 גרזון יוסף\n+972 52-716-6668",
+   "ts": 1794435068000,
+   "date": "2026-11-12",
+   "time": "00:11",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
   }
  ]
 }

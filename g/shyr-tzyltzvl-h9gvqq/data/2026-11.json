@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-11T21:06:56.724Z",
+ "updated": "2026-11-11T21:07:26.703Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -631,6 +631,55 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972526888703"
+  },
+  {
+   "id": "3EB04559735596EB391177",
+   "sender": "דני כהן",
+   "text": "",
+   "ts": 1794431213000,
+   "date": "2026-11-11",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת חלק ה.mp3",
+     "size": "690KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1dmTfCYAFW6dIhGDFZcnLj2-ozPUvC7hl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526888703"
+  },
+  {
+   "id": "3EB0BB76D34A1751643EA1",
+   "sender": "דני כהן",
+   "text": "",
+   "ts": 1794431217000,
+   "date": "2026-11-11",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "שולי רנד & שרק - עונג שבת חלק ו.mp3",
+     "size": "319KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/12iSgyzzgy7WOfAktlAGDWNTI5ynxmNya/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526888703"
+  },
+  {
+   "id": "3EB014437156567BFB9550",
+   "sender": "דני כהן",
+   "text": "צלצולים לשבת 😊",
+   "ts": 1794431237000,
+   "date": "2026-11-11",
+   "time": "23:07",
+   "files": [],
    "drive": null,
    "phone": "972526888703"
   }

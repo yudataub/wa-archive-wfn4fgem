@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בזווית אחרת | כלים בחינם לרבנים ומרצים",
- "updated": "2026-11-11T20:35:19.116Z",
+ "updated": "2026-11-11T21:36:57.152Z",
  "messages": [
   {
    "id": "ACB628112DA3E9D3FDA8C83F957C61CF",
@@ -12343,7 +12343,8 @@
      "path": "https://drive.google.com/file/d/1NgLec-5MjSQ2Ra5b6nO8pN34f7WliajQ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB0DCFC4CBF3DCDB15F30_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1NgLec-5MjSQ2Ra5b6nO8pN34f7WliajQ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1NgLec-5MjSQ2Ra5b6nO8pN34f7WliajQ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v-2/v/2026-11/3EB0DCFC4CBF3DCDB15F30_0.mp4"
     }
    ],
    "drive": null,
@@ -12732,6 +12733,59 @@
    "ts": 1794429293000,
    "date": "2026-11-11",
    "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "A5BB623A1D6A4E00D7C9408DE0057F33",
+   "sender": "אלירן סעידיאן",
+   "text": "האם אפשר לייצא בפעולה אחת את כל השורטים שאני מעוניין בהם",
+   "ts": 1794432458000,
+   "date": "2026-11-11",
+   "time": "23:27",
+   "files": [],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "3EB0626B6717E16F9438A8",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "כן, בוחרים כמה קטעים בשלב \"מה להוציא\", ובחלון הייצוא מסמנים ✓ את כל הקטעים שרוצים ולוחצים על \"⬇️ ייצוא הקטעים המסומנים\". אם רוצים את כולם נקיים ובלי שום תוספות, אפשר ללחוץ על \"📦 גרינים: רק הרב, בלי כלום\" שמוריד את כל הקטעים המסומנים נקיים בבת אחת. בהצלחה!\n\n📖 במדריך: https://shorts.adifferentangle.ai/guide/#exp-run\n\n💡 אפשר לשאול אותי גם בתוך כל כלי, וזה מהיר יותר: לוחצים על הלשונית הצהובה *אורן* בצד ימין של המסך, ואפשר לצרף שם צילום מסך.",
+   "ts": 1794432466000,
+   "date": "2026-11-11",
+   "time": "23:27",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "A5FB2AC49E802E47566A31C32F5AFCD8",
+   "sender": "אלירן סעידיאן",
+   "text": "מה הסיבה לכך? \nבעבר העלתי אותו שיעור וזה כן חילק לשורטים",
+   "ts": 1794432981000,
+   "date": "2026-11-11",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18gZcg2c0CXNBiyRB1gFXOv6KVwiGVorg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18gZcg2c0CXNBiyRB1gFXOv6KVwiGVorg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "3EB093DF0B565F114D7448",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "כשה-AI לא מוצא קטעים, כדאי לנסות אורך קטע אחר, לבחור פחות סוגים, או לוותר על הנושא הממוקד. אם חיפשתם בדיוק את אותו נושא שהצליח בפעם הקודמת, ייתכן שכדאי להגדיר מחדש את ההגדרות בשלב \"מה להוציא\" ולנסות שוב.\n\n📖 במדריך: https://shorts.adifferentangle.ai/guide/#find-run",
+   "ts": 1794432987000,
+   "date": "2026-11-11",
+   "time": "23:36",
    "files": [],
    "drive": null,
    "phone": "972527190180"
