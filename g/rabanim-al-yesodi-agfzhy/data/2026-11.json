@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני העל-יסודי",
- "updated": "2026-11-11T20:08:27.257Z",
+ "updated": "2026-11-12T16:03:49.569Z",
  "messages": [
   {
    "id": "A501B677F98CB40F70285E1B9B2DF99F",
@@ -1369,6 +1369,150 @@
    "files": [],
    "drive": null,
    "phone": "972508733084"
+  },
+  {
+   "id": "AC0155BDC30E6FE4EDFA73D828ECEE86",
+   "sender": "אבי שושן",
+   "text": "מצרף משחק מטורף על הלכות חנוכה שיצר הרב אודי פריד מחנך ט4 .יישר כח עצום על ההפקה  באמצעות הבינה שמשרתת את ההלכה בכיף .\nנשמח לקבל תגובות ממורים שהשתמשו",
+   "ts": 1794470482000,
+   "date": "2026-11-12",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "phone": "972525666980"
+  },
+  {
+   "id": "ACDAE1BCE16C6C8E65E9CAC4C86C1DE8",
+   "sender": "אבי שושן",
+   "text": "https://udi-games.neocities.org/חנוכה/",
+   "ts": 1794470482000,
+   "date": "2026-11-12",
+   "time": "10:01",
+   "files": [],
+   "drive": null,
+   "phone": "972525666980"
+  },
+  {
+   "id": "AC6404C66435FE21E5745722D150DCBE",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1794483527000,
+   "date": "2026-11-12",
+   "time": "13:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "258KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1o_a7GUBPBeEqcBH2SyQ2sXhfOOboe83V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1o_a7GUBPBeEqcBH2SyQ2sXhfOOboe83V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "AC4045EB7318DC4C94912EE6B68EB2AB",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1794483550000,
+   "date": "2026-11-12",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "448KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K2J5IEwSfj1H3qJQvjQdfGT5v7G_6klY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K2J5IEwSfj1H3qJQvjQdfGT5v7G_6klY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "ACE66DA3A1F750A585555A4A2AD7CE07",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1794483550000,
+   "date": "2026-11-12",
+   "time": "13:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1xVyWJDiZNh9Vo-n6KE4CBsbYnXsm0sUr/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACE66DA3A1F750A585555A4A2AD7CE07_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1xVyWJDiZNh9Vo-n6KE4CBsbYnXsm0sUr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "ACB07CD43EF41A95863CECDE80ED3DF1",
+   "sender": "אליהו ממן",
+   "text": "פינת הלכה יומית בכיתה - הלכות שבת",
+   "ts": 1794483659000,
+   "date": "2026-11-12",
+   "time": "13:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "367KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nKDG9RxE-uSDr84HcaooM_4fbkN4Awqt/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nKDG9RxE-uSDr84HcaooM_4fbkN4Awqt&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "ACE150F7592C21042531EB0866CD8F3E",
+   "sender": "הרב יוסף קורקוס",
+   "text": "פרשת חיי שרה א \nמנהרות החמס \nhttps://youtu.be/shYHLNP6Iq8\n\nפרשת חיי שרה ב\nדולנד טמרפ מימי חז\"ל \nhttps://youtu.be/FyzEQopIvO4",
+   "ts": 1794487374000,
+   "date": "2026-11-12",
+   "time": "14:42",
+   "files": [],
+   "drive": null,
+   "phone": "972545321263"
+  },
+  {
+   "id": "AC106B1D009BA98F62E9FC68A894A6E8",
+   "sender": "שמעון תורגמן",
+   "text": "",
+   "ts": 1794492943000,
+   "date": "2026-11-12",
+   "time": "16:15",
+   "files": [
+    {
+     "name": "הלכות חנוכה תשפז.pdf",
+     "size": "314KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1QLkb-ZvCFyz4X3mXnrjklO7h3LGFqlna/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972534264790"
+  },
+  {
+   "id": "AC8FB985817D582F68A0AB7C96993A97",
+   "sender": "מירב יצחק",
+   "text": "וואו תודה",
+   "ts": 1794499410000,
+   "date": "2026-11-12",
+   "time": "18:03",
+   "files": [],
+   "drive": null,
+   "phone": "972535254836"
   }
  ]
 }

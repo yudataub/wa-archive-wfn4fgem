@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "⚓️עוגנים לחוסן גורדון תשפ״ז ⚓️",
- "updated": "2026-11-08T14:41:39.047Z",
+ "updated": "2026-11-12T10:23:22.207Z",
  "messages": [
   {
    "id": "3A7AF266E4DD1BB50A0C",
@@ -79,6 +79,92 @@
    "files": [],
    "drive": null,
    "phone": "972526259434"
+  },
+  {
+   "id": "ACA050522EF0C49FC8C327AFABE97E49",
+   "sender": "Yonatan",
+   "text": "תודה רבה",
+   "ts": 1794475876000,
+   "date": "2026-11-12",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972544784644"
+  },
+  {
+   "id": "3AC6FE0EF4BBEFC76342",
+   "sender": "Zehavit Shor",
+   "text": "תודה",
+   "ts": 1794476930000,
+   "date": "2026-11-12",
+   "time": "11:48",
+   "files": [],
+   "drive": null,
+   "phone": "972526259434"
+  },
+  {
+   "id": "ACB650EFB07C819DD1283ADAA5301D8A",
+   "sender": "רחל",
+   "text": "",
+   "ts": 1794477242000,
+   "date": "2026-11-12",
+   "time": "11:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "173KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OKt2xZB2c_WEeC7uuXBCJ7IWh3CmY2ox/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OKt2xZB2c_WEeC7uuXBCJ7IWh3CmY2ox&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522263613"
+  },
+  {
+   "id": "ACDDB5CED01B9ED358C578EAEC853F1C",
+   "sender": "רחל",
+   "text": "נמצא בחדר מורים",
+   "ts": 1794477251000,
+   "date": "2026-11-12",
+   "time": "11:54",
+   "files": [],
+   "drive": null,
+   "phone": "972522263613"
+  },
+  {
+   "id": "AC87B0FC6F0B1A406A936D8587CA0EFC",
+   "sender": "Yonatan",
+   "text": "תודה רבה שוב",
+   "ts": 1794477274000,
+   "date": "2026-11-12",
+   "time": "11:54",
+   "files": [],
+   "drive": null,
+   "phone": "972544784644"
+  },
+  {
+   "id": "3A0624B49D1662F64BF1",
+   "sender": "Zehavit Shor",
+   "text": "תודה רבה",
+   "ts": 1794478271000,
+   "date": "2026-11-12",
+   "time": "12:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526259434"
+  },
+  {
+   "id": "3A00E705CDFA0F24AD06",
+   "sender": "אורטל🌻",
+   "text": "תודה רבה!",
+   "ts": 1794478983000,
+   "date": "2026-11-12",
+   "time": "12:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546261812"
   }
  ]
 }

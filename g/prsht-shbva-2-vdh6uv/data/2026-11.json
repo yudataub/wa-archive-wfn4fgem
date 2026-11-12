@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-11T21:54:57.465Z",
+ "updated": "2026-11-12T19:03:11.535Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -2051,6 +2051,164 @@
    "files": [],
    "drive": null,
    "phone": "972543118860"
+  },
+  {
+   "id": "ACB01FB30FD64D9C8C692C1F906C522E",
+   "sender": "רבקי רואש",
+   "text": "מחפשת את חידון א‘ב‘ של כרמית על פרשת תולדות\nפספסתי או שטרם נשלח?\nאשמח מאוד לקבל עכשיו🙏",
+   "ts": 1794464478000,
+   "date": "2026-11-12",
+   "time": "08:21",
+   "files": [],
+   "drive": null,
+   "phone": "972584133538"
+  },
+  {
+   "id": "3AE93E2F885D44F2DB89",
+   "sender": "חני קרביצקי",
+   "text": "אני אשמח גם לדף של פרשת השבוע",
+   "ts": 1794474637000,
+   "date": "2026-11-12",
+   "time": "11:10",
+   "files": [],
+   "drive": null,
+   "phone": "972535740664"
+  },
+  {
+   "id": "ACBC640722628F800C7F1C8C4C0184E0",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502126000,
+   "date": "2026-11-12",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC9E3ED7B2B5DA52FB583B21B998739F",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502180000,
+   "date": "2026-11-12",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תולדות-חידון-א-ב-כרמית-גרמאי.pdf",
+     "size": "350KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1amxYRyw_j3YDpbiFdJsg8w8ZbqJpmtEV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC0FC7D4D38382D9BA9013CE8EB21CAD",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502181000,
+   "date": "2026-11-12",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תולדות-כתב-רשי-כרמית-גרמאי.pdf",
+     "size": "349KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1zFRBSMcWQ--AV8d-PBZS247OU_Z_7n09/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC00B754A8388CFF733FF1F7C342D634",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502182000,
+   "date": "2026-11-12",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תולדות-חידון-א-ב-מנוקד-כרמית-גרמאי.pdf",
+     "size": "346KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Tizc22uLcRnZ7Ic-pgI9mVOhR20t-YHF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACD6835C9CCCA5396AD6C3CE57A36913",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502183000,
+   "date": "2026-11-12",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תולדות-דף-לפרשה-כרמית-גרמאי.pdf",
+     "size": "482KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1haUXBUIFqaRVWIcVGzyouBQ6COGvAttY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "ACAAAC90F31C4C42F6EF2F46165F21F0",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502184000,
+   "date": "2026-11-12",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תולדות-חדשות-הפרשה-כרמית-גרמאי.pdf",
+     "size": "335KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1u9JSIQhbq76gS0S5LTaXsDIoAjM-CVhO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC971D5FD28E3F466176F89B4CEA41AB",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1794502185000,
+   "date": "2026-11-12",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תולדות-דף-לפרשה-מנוקד-כרמית-גרמאי.pdf",
+     "size": "468KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jYqOf7vzVyj-QplApasQoYC9oZjXebib/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC9270E7768C3F37DF9DEF7EF73B64A4",
+   "sender": "ליאורה כהן😍",
+   "text": "יש דף לפרשה של אבינועם?",
+   "ts": 1794510182000,
+   "date": "2026-11-12",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972505708421"
   }
  ]
 }

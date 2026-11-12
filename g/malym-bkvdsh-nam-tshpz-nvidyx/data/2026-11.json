@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מעלים בקודש - נעם תשפז",
- "updated": "2026-11-11T20:02:57.145Z",
+ "updated": "2026-11-12T20:03:19.240Z",
  "messages": [
   {
    "id": "3EB0DC284645E448C8CEE0",
@@ -403,6 +403,37 @@
      "path": "https://drive.google.com/file/d/1amsYypUvlpCLJ_64Cyr761AaSxf9k13A/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1amsYypUvlpCLJ_64Cyr761AaSxf9k13A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525802694"
+  },
+  {
+   "id": "3EB0DDB4FE7B0931583158",
+   "sender": "חוברות אהבה ושמחה",
+   "text": "🌙 *סיכום יומי – צוות נעם* 🌙\n📆 יום חמישי, 12.11.2026\n━━━━━━━━━━━━\n\n*📅 מחר – שינויים בכיתה של תמר*\n🕐 שעה ראשונה – אביטל\n🕒 שעה שלישית – מיכל סויסה\n🕓 שעה רביעית – הרב יהודה טאוב\n_מלי שלחה את הסידור למחר, כדאי לוודא שהוא מתאים לכם._\n\n*🌟 נקודת אור מהיום*\nהמורה לירון סלמן כתבה שהתלמידים התנהגו יפה, לא ויתרו על התפילה\nוהתייחסו בכבוד זה לזה 💞\n\n━━━━━━━━━━━━\nערב טוב ולילה רגוע 💙",
+   "ts": 1794513771000,
+   "date": "2026-11-12",
+   "time": "22:02",
+   "files": [],
+   "drive": null,
+   "phone": "972525802694"
+  },
+  {
+   "id": "3EB01340253C131607C4C3",
+   "sender": "חוברות אהבה ושמחה",
+   "text": "",
+   "ts": 1794513776000,
+   "date": "2026-11-12",
+   "time": "22:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "277KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OT7ENqZOBGS9CIk9zm3v4Pf7MzQz6AJ4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OT7ENqZOBGS9CIk9zm3v4Pf7MzQz6AJ4&sz=w1200"
     }
    ],
    "drive": null,

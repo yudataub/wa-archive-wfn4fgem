@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חנן פורת - דמות",
- "updated": "2026-11-11T12:01:50.305Z",
+ "updated": "2026-11-12T17:05:57.402Z",
  "messages": [
   {
    "id": "3EB0644E45D0E4A35B1343",
@@ -1802,6 +1802,110 @@
    "files": [],
    "drive": null,
    "phone": "972546368328"
+  },
+  {
+   "id": "AC2870259E0B8E3BA3CF31DB77E9D20C",
+   "sender": "שילה שלמה שראל",
+   "text": "מחפש דפי לימוד בנושא הגבורה. מישהו מכיר?",
+   "ts": 1794468260000,
+   "date": "2026-11-12",
+   "time": "09:24",
+   "files": [],
+   "drive": null,
+   "phone": "972542049065"
+  },
+  {
+   "id": "AC5E2ACBD89F1054C9F74AE84248C112",
+   "sender": "שילה שלמה שראל",
+   "text": "מחפש דפי לימוד בנושא הגבורה. מישהו מכיר?",
+   "ts": 1794468262000,
+   "date": "2026-11-12",
+   "time": "09:24",
+   "files": [],
+   "drive": null,
+   "phone": "972542049065"
+  },
+  {
+   "id": "AC5C20E1E1277E18507C2A705448D231",
+   "sender": "תהילה קפש🌷",
+   "text": "אשמח לדברים שמתאימים לגיל הרך.\nסיפורים, פעילויות",
+   "ts": 1794469279000,
+   "date": "2026-11-12",
+   "time": "09:41",
+   "files": [],
+   "drive": null,
+   "phone": "972543517736"
+  },
+  {
+   "id": "3AE09C671E9B76314E22",
+   "sender": "שירי פפר",
+   "text": "שלום . איפה אפשר להזמין ערכה של כרזות עם מידע על חנן פורת למרחב למידה ? \nמשהו מוכן לא שצריך להדפיס",
+   "ts": 1794500978000,
+   "date": "2026-11-12",
+   "time": "18:29",
+   "files": [],
+   "drive": null,
+   "phone": "972544553288"
+  },
+  {
+   "id": "AC44AB6147FEEA47B591D2D05383D835",
+   "sender": ".תמר",
+   "text": "כרזה מודפסת על שמשונית עם לולאות, לתליה בכיתות או בפרוזדור ביה\"ס. \nהמחיר: 120 ש''ח למטר רבוע. \n*ניתן להוסיף לוגו של ביה\"ס. \nלפרטים נוספים: \n0587960699 ספיר 🌈",
+   "ts": 1794503006000,
+   "date": "2026-11-12",
+   "time": "19:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "374KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11iKQ9FlwskINFI3OHb0y-eBobLkC9QSs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11iKQ9FlwskINFI3OHb0y-eBobLkC9QSs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523494436"
+  },
+  {
+   "id": "AC1F624EB3048EE6F74CF4F41F65DFD6",
+   "sender": ".תמר",
+   "text": "",
+   "ts": 1794503030000,
+   "date": "2026-11-12",
+   "time": "19:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GWO_NvrzQlM7r_ucPYAo4bYVqnFUsPqB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GWO_NvrzQlM7r_ucPYAo4bYVqnFUsPqB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523494436"
+  },
+  {
+   "id": "ACCFD7733BEAB221A65B64097B0DC4A7",
+   "sender": ".תמר",
+   "text": "מרכז הלמידה על דמות החמ\"ד יצא לדרך...\nמודפס על שמשונית- לפי מידות בהתאמה אישית. \nלהזמנות ופרטים נוספים: 058-7960699 🌈\nספיר, מעצבת סביבות למידה. \nhttps://drive.google.com/file/d/1whVTTioGj3T6WYARme7-J2hsQ-6T6Dlw/view?usp=sharing",
+   "ts": 1794503150000,
+   "date": "2026-11-12",
+   "time": "19:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "494KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ADvMEW-oaUrYMU5c5QWAqwnFYjCvvwtu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ADvMEW-oaUrYMU5c5QWAqwnFYjCvvwtu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523494436"
   }
  ]
 }

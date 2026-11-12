@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-11T14:59:55.193Z",
+ "updated": "2026-11-12T08:17:48.131Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -2458,6 +2458,96 @@
    ],
    "drive": null,
    "phone": "972527076356"
+  },
+  {
+   "id": "3ACB539485309271CE0A",
+   "sender": "לאה",
+   "text": "יש למשהו קישוט לקיר לחודש כסליו לכיתה ו?",
+   "ts": 1794464836000,
+   "date": "2026-11-12",
+   "time": "08:27",
+   "files": [],
+   "drive": null,
+   "phone": "972559950085"
+  },
+  {
+   "id": "3A9088884A78ABC02809",
+   "sender": "לאה",
+   "text": "יש לזה דף חזרה?",
+   "ts": 1794464938000,
+   "date": "2026-11-12",
+   "time": "08:28",
+   "files": [],
+   "drive": null,
+   "phone": "972559950085"
+  },
+  {
+   "id": "AC94A4D0D4B8EEFA5E3AA5D67ABE73F3",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "דף מיקוד",
+   "ts": 1794465388000,
+   "date": "2026-11-12",
+   "time": "08:36",
+   "files": [
+    {
+     "name": "DOC-20261014-WA0139.pdf",
+     "size": "197KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11FOgF6N8s1IbUrnWIt78VMzGNPs2kh8h/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "ACCE2DC651EA7919710D151CB4DCE7E0",
+   "sender": "מרים שירה גורפינקל",
+   "text": "",
+   "ts": 1794469926000,
+   "date": "2026-11-12",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "שער למחברת שחור לבן.pdf",
+     "size": "91KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1gl_xzh2K_7_b_Mn2gd1EwKtjIM0MEmaX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585907923"
+  },
+  {
+   "id": "AC4968E75B67EF4E647A30B36CCE27AA",
+   "sender": "מרים שירה גורפינקל",
+   "text": "",
+   "ts": 1794469928000,
+   "date": "2026-11-12",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "שער לתקיה.pdf",
+     "size": "635KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Zh-AljbzDcdsN8pOhoRLHpIhVPVjAZRN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585907923"
+  },
+  {
+   "id": "AC98CFD421D6BB07A23E580B7E9CDB1B",
+   "sender": "תפארת לוי",
+   "text": "רשי",
+   "ts": 1794471445000,
+   "date": "2026-11-12",
+   "time": "10:17",
+   "files": [],
+   "drive": null,
+   "phone": "972522258245"
   }
  ]
 }

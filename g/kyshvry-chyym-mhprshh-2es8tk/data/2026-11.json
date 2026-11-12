@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-11-06T10:49:24.368Z",
+ "updated": "2026-11-12T20:53:26.881Z",
  "messages": [
   {
    "id": "A5463BF88870C5DAA09E11188F1B1017",
@@ -81,6 +81,99 @@
    ],
    "drive": null,
    "phone": "972548496309"
+  },
+  {
+   "id": "A582807E26679D74C4B61BD21447EAF2",
+   "sender": "אלחנן שניאור",
+   "text": "*פרשת תולדות*",
+   "ts": 1794515446000,
+   "date": "2026-11-12",
+   "time": "22:30",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A54B61D275EDB51BC8A4A10CB159ED50",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794515560000,
+   "date": "2026-11-12",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "תולדות 77.pdf",
+     "size": "576KB",
+     "type": "application/octet-stream",
+     "path": "https://drive.google.com/file/d/1sBvUJwhpP5iuIqwhCQw3DVxyHw7DlpPN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A50ACA4FD6619708BDAE3300A2EA350B",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794515561000,
+   "date": "2026-11-12",
+   "time": "22:32",
+   "files": [
+    {
+     "name": "פרשת תולדות (1).pdf",
+     "size": "541KB",
+     "type": "application/octet-stream",
+     "path": "https://drive.google.com/file/d/1bg0ItrD_ZUSIg9OB6qIuU_sa3lDlqWxk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A50EBCD57E87C62DF108BEA55F39E1AF",
+   "sender": "אלחנן שניאור",
+   "text": "https://youtube.com/shorts/223kg3jTwfE?feature=share",
+   "ts": 1794515610000,
+   "date": "2026-11-12",
+   "time": "22:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "2AE0994D1614A091C094",
+   "sender": "יהודית שניאור",
+   "text": "https://youtube.com/shorts/5HugeYpdfng",
+   "ts": 1794516102000,
+   "date": "2026-11-12",
+   "time": "22:41",
+   "files": [],
+   "drive": null,
+   "phone": "972548496309"
+  },
+  {
+   "id": "2A8B468E4F394F67F170",
+   "sender": "יהודית שניאור",
+   "text": "https://youtube.com/shorts/OEjUovWfivU?si=ztN7E-R5G6T8OIjN",
+   "ts": 1794516154000,
+   "date": "2026-11-12",
+   "time": "22:42",
+   "files": [],
+   "drive": null,
+   "phone": "972548496309"
+  },
+  {
+   "id": "A5FD0922CFB488B38722B45D7C97369E",
+   "sender": "אלחנן שניאור",
+   "text": "מסר חדש 👆",
+   "ts": 1794516784000,
+   "date": "2026-11-12",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
   }
  ]
 }

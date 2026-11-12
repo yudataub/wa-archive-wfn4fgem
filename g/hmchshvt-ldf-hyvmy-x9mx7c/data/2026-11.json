@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-11T04:08:47.598Z",
+ "updated": "2026-11-12T04:02:44.431Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -488,6 +488,85 @@
      "path": "https://drive.google.com/file/d/1B5Lm-onf_N2kXytQPjjQjFt8T5RVdcKa/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1B5Lm-onf_N2kXytQPjjQjFt8T5RVdcKa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A489573AC2050397E9F",
+   "sender": ".",
+   "text": "״דקרי ליה ואתי״ (בכורות נה, א).",
+   "ts": 1794456130000,
+   "date": "2026-11-12",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A489573AC2050397E9F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A2CE8BD50CC9158090D",
+   "sender": ".",
+   "text": "״ועל יובל ישלח שרשיו״ (בכורות נה, ב).",
+   "ts": 1794456132000,
+   "date": "2026-11-12",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QsUDSrCJ_S9Kll6h22PRUKXrBCtahLx2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QsUDSrCJ_S9Kll6h22PRUKXrBCtahLx2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A0D62B94D64EA3D9B27",
+   "sender": ".",
+   "text": "״היה עושה להם מחצלות של קנים שקורים קלויי״ש״ (רש״י בכורות נה, ב).",
+   "ts": 1794456133000,
+   "date": "2026-11-12",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/146-dr4Ddh5cGJXosS2V3Wo4L-8X2n9Oy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=146-dr4Ddh5cGJXosS2V3Wo4L-8X2n9Oy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF24638314FB9FCD58B",
+   "sender": ".",
+   "text": "״ומפצי, משום צניעות״ (תוס׳ בכורות נה, ב).",
+   "ts": 1794456141000,
+   "date": "2026-11-12",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "119KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1usvuXDAoFIm9G64HYevcN-vSYsZnvBsD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1usvuXDAoFIm9G64HYevcN-vSYsZnvBsD&sz=w1200"
     }
    ],
    "drive": null,

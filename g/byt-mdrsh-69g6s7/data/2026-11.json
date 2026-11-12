@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-10T09:01:31.777Z",
+ "updated": "2026-11-12T08:18:41.555Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -160,6 +160,57 @@
      "path": "https://drive.google.com/file/d/19eHOa4wHIgh67533K0miw6CtpaSq659D/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=19eHOa4wHIgh67533K0miw6CtpaSq659D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC7CACC7D786E4661DBDDE51F91432DF",
+   "sender": "יעקב בקר",
+   "text": "שלום ללומדים\nעדכון להיום\nבשעה 10 הרב ביסמוט\n                 המשך מהרל\nבשעה 11 הרב ביסמוט\n               גמרה\nבשעה 11:50                            ,ד\"ר יהושפט\nתודה",
+   "ts": 1794462651000,
+   "date": "2026-11-12",
+   "time": "07:50",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC12417B341A194AFC318A15DD57BF17",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1794471515000,
+   "date": "2026-11-12",
+   "time": "10:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Hx1pBBMPP1zVVqfPde-krb5ruujdqHAI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Hx1pBBMPP1zVVqfPde-krb5ruujdqHAI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC4299196633151BF94BE1F265348359",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1794471515000,
+   "date": "2026-11-12",
+   "time": "10:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UgPlKbW7OgRAkofeeNlbe6AX2KhUN8zm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UgPlKbW7OgRAkofeeNlbe6AX2KhUN8zm&sz=w1200"
     }
    ],
    "drive": null,

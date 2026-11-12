@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת קרית אתא",
- "updated": "2026-11-11T21:01:19.425Z",
+ "updated": "2026-11-12T20:46:26.800Z",
  "messages": [
   {
    "id": "ACD6A1BB90E48FE309B240C9727A28B2",
@@ -3031,6 +3031,319 @@
    "files": [],
    "drive": null,
    "phone": "972538307001"
+  },
+  {
+   "id": "AC6ACDB03A48541F85EF7E3ECCF1D5E7",
+   "sender": "אביחי דיין",
+   "text": "",
+   "ts": 1794472706000,
+   "date": "2026-11-12",
+   "time": "10:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bAAVO_FjU9Evvf6ECRiW1P_0PCkeyQCX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bAAVO_FjU9Evvf6ECRiW1P_0PCkeyQCX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533443043"
+  },
+  {
+   "id": "3EB08423D2CFEDD25D893E",
+   "sender": "שרון ספרוני",
+   "text": "ציבור הגמלאים מוזמנים להרצאה :\n\"מתחילים בחיוך\" -  איך להפוך את החיוך שלכם לכרטיס הביקור שלכם.\nהרצאה המשלבת כלים  כיצד להכניס יותר רגעים של חיוך בשגרת היומיום בתקופות מאתגרות.  כוחו של חיוך, חשיבה חיובית ויצירתית שמאפשרים יצירת שינוי.\nמרצה: ד\"ר רינת חנוכייב- מאמנת א/נשים לחזור לחייך מבפנים, אשת חינוך, בעלת תואר בפסיכולוגיה וחינוך, וד\"ר לחינוך וניהול קונפליקטים.\nההרצאה תתקיים ביום ראשון 15/11/26 בשעה 11:15\nבמועדון מילב ק.חיים מזרחית אח\"י אילת 31\nעלות כניסה: 15 ₪\nלפרטים: מועדון מילב ק.חיים מזרחית 04-8420844",
+   "ts": 1794472881000,
+   "date": "2026-11-12",
+   "time": "10:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "194KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JmoDtAnUqInHEyFUzFqg4UbxWiYkG9WH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JmoDtAnUqInHEyFUzFqg4UbxWiYkG9WH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544814659"
+  },
+  {
+   "id": "AC8B634375D9D90A8B92C952BEE23FBE",
+   "sender": "אביחי דיין",
+   "text": "",
+   "ts": 1794479213000,
+   "date": "2026-11-12",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1K2BCYfatc4LhU5A6hcEFyJaxmKgHAdrs/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1K2BCYfatc4LhU5A6hcEFyJaxmKgHAdrs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533443043"
+  },
+  {
+   "id": "AC12BC998228C21EC207D405BD79968C",
+   "sender": "תומר לכל הבית",
+   "text": "עוד לקוח מבסוט רוצים לחדש את הבית תשלחו הודעה ותקבלו שירות מעל הציפיות 0542000845 תומר לכל הבית",
+   "ts": 1794484976000,
+   "date": "2026-11-12",
+   "time": "14:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "45KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC12BC998228C21EC207D405BD79968C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
+  },
+  {
+   "id": "ACF112FEC0122F4C3E5D8DDED2EFBEBC",
+   "sender": "תומר לכל הבית",
+   "text": "",
+   "ts": 1794484976000,
+   "date": "2026-11-12",
+   "time": "14:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "66KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACF112FEC0122F4C3E5D8DDED2EFBEBC_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
+  },
+  {
+   "id": "AC16F8A19ED7EFFDD412E37CCEFC2D7D",
+   "sender": "תומר לכל הבית",
+   "text": "",
+   "ts": 1794484977000,
+   "date": "2026-11-12",
+   "time": "14:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "72KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC16F8A19ED7EFFDD412E37CCEFC2D7D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542000845"
+  },
+  {
+   "id": "A520562E762996BB97F677DE1D25DB12",
+   "sender": "נווה היופי של שירן",
+   "text": "",
+   "ts": 1794490000000,
+   "date": "2026-11-12",
+   "time": "15:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "503KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1RMk6go8f7BBpsBL8b3QzpMhyK4NpHSBY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1RMk6go8f7BBpsBL8b3QzpMhyK4NpHSBY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532407888"
+  },
+  {
+   "id": "AC3BC8C3A932BF5FF6B22C5D7B619DDD",
+   "sender": "עדן אוזן",
+   "text": "מחפשת מטפלות!! \nלמעון מהמם של הילדים שלי❤️\nתנאים טובים למתאימות!! \nלעוד פרטים רוית: +972 52-702-8824",
+   "ts": 1794493832000,
+   "date": "2026-11-12",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972527373382"
+  },
+  {
+   "id": "AC4E42D1A3C138B582FE58E72DC996EF",
+   "sender": "ד\"ר חדוה טרגר",
+   "text": "https://13tv.co.il/item/entertainment/cinema/c88m9-905456388/",
+   "ts": 1794498048000,
+   "date": "2026-11-12",
+   "time": "17:40",
+   "files": [],
+   "drive": null,
+   "phone": "972506478295"
+  },
+  {
+   "id": "ACB5EFA4E26780106E77511A49DFF0D5",
+   "sender": "ד\"ר חדוה טרגר",
+   "text": "ליעד טרגר מקריית אתא מאחורי כל סרטי רב המכר ועתה חדש של נטפליקס",
+   "ts": 1794498084000,
+   "date": "2026-11-12",
+   "time": "17:41",
+   "files": [],
+   "drive": null,
+   "phone": "972506478295"
+  },
+  {
+   "id": "AC1780628B2491F24631A3B5E6594FA6",
+   "sender": "טלי",
+   "text": "מהמם👏👏",
+   "ts": 1794499705000,
+   "date": "2026-11-12",
+   "time": "18:08",
+   "files": [],
+   "drive": null,
+   "phone": "972548120004"
+  },
+  {
+   "id": "AC6736DCA774F8BCBF403A6EC82A80F4",
+   "sender": "עדן אוזן",
+   "text": "",
+   "ts": 1794501323000,
+   "date": "2026-11-12",
+   "time": "18:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s7QrwKfSv1DxSIklcQBP7FkN1Sy5BxpD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s7QrwKfSv1DxSIklcQBP7FkN1Sy5BxpD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527373382"
+  },
+  {
+   "id": "AC26AD0EC787505C17A3042EF4B92E69",
+   "sender": "אביחי דיין",
+   "text": "",
+   "ts": 1794501627000,
+   "date": "2026-11-12",
+   "time": "18:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "300KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M_Wm_ML6E4xEom9-6V2bnof-_A1t5BAW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M_Wm_ML6E4xEom9-6V2bnof-_A1t5BAW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533443043"
+  },
+  {
+   "id": "AC115C33914554141346F8F4EFDF6D6F",
+   "sender": "רתם  🙏🏼",
+   "text": "☀️ שישי בצהריים חוזר למרפסת! 💃🪩\n\nאחרי הסיבוב הראשון והמוצלח, ברור לנו שחייבים עוד אחד! ❤️\n\nוהפעם באיחוד מיוחד עם ליין רטרואקטיבי!\n\n🎧 SHELIX עם כל הלהיטים של שנות ה־80, ה־90 וה־2000!\n🎧 פלג בר עם מיינסטרים שמח ומרים!\nשמש, מוזיקה מעולה, דרינק ביד ומשהו טעים לאכול \nוהכי כיף? מתחילים מוקדם, מסיימים מוקדם ונשאר עוד ערב שלם! 😉\nכרטיסים בקישור 👇 https://bopo.mirpeset-group.com/bopo.html?event=mirpeset-noon2&ref=gwn8c3",
+   "ts": 1794501949000,
+   "date": "2026-11-12",
+   "time": "18:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZeD5fvY0_37WmM7FQwvkb7HczLRvqg9v/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZeD5fvY0_37WmM7FQwvkb7HczLRvqg9v&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549778816"
+  },
+  {
+   "id": "AC1FDAC921AAEC3E8088F45721F5CF25",
+   "sender": "סיון אבישג",
+   "text": "*לסגירת 79 ספרי דברים, נשארו פרשות:*\nדברים×4\nואתחנן×3\nשופטים\nכי תצא×3\nכי תבוא×4\n\n*לסגירת 61 ספרי תהלים, נשארו ימים:*\nשני×2, שלישי×2 ורביעי×2\n\n*מי מצטרפ/ת ועוזר/ת לנו לסגור?*",
+   "ts": 1794503580000,
+   "date": "2026-11-12",
+   "time": "19:13",
+   "files": [],
+   "drive": null,
+   "phone": "972505939334"
+  },
+  {
+   "id": "AC139FABC4FBD56F36E5F5B089F28C2C",
+   "sender": "יפית גולד",
+   "text": "🎟 כרטיסים ל-Winter פסטיבל החורף שלנו מתקרב ❄️💫\nואנחנו מתרגשים לארח לראשונה את התופעה הבינלאומית\nאומיקי כאן אצלנו במרפסת!\n\nאחרי שהרעיד את הבמות הגדולות ברחבי העולם,\nהוא מגיע אלינו עם סאונד ייחודי בין טכנו לפסיי טראנס.\nחוויה עוצמתית של קצב, אנרגיה וחיבור לנשמה!\nתתכוננו לסט בלתי נשכח, לכרטיסים >  Festival | סוגרות מרפסת 35+ | חמישי 19.11\nhttps://bopo.mirpeset-group.com/bopo.html?event=winter-festival&ref=rrc2f9",
+   "ts": 1794510827000,
+   "date": "2026-11-12",
+   "time": "21:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Ys5qmMvFpqMx9NmHe3gcOkQV08k46gaU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Ys5qmMvFpqMx9NmHe3gcOkQV08k46gaU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542001099"
+  },
+  {
+   "id": "AC359F25525F129C528D04ACA1B24662",
+   "sender": "רתם  🙏🏼",
+   "text": "🎟 כרטיסים ל-Winter פסטיבל החורף שלנו מתקרב ❄️💫\nואנחנו מתרגשים לארח לראשונה את התופעה הבינלאומית\nאומיקי כאן אצלנו במרפסת!\n\nאחרי שהרעיד את הבמות הגדולות ברחבי העולם,\nהוא מגיע אלינו עם סאונד ייחודי בין טכנו לפסיי טראנס.\nחוויה עוצמתית של קצב, אנרגיה וחיבור לנשמה!\nתתכוננו לסט בלתי נשכח, לכרטיסים >  Festival | סוגרות מרפסת 35+ | חמישי 19.11\nhttps://bopo.mirpeset-group.com/bopo.html?event=winter-festival&ref=rq0426         לכרטיסים >  Festival | סוגרות מרפסת 35+ | חמישי 19.11",
+   "ts": 1794510831000,
+   "date": "2026-11-12",
+   "time": "21:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1WWYUis9-m-sV0uer5cEaBPKhNSSzbh1a/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1WWYUis9-m-sV0uer5cEaBPKhNSSzbh1a&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549778816"
+  },
+  {
+   "id": "AC592E52F933CE4C7835CDCB432A9C3A",
+   "sender": "דגנית",
+   "text": "",
+   "ts": 1794516358000,
+   "date": "2026-11-12",
+   "time": "22:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/16WezZ34-1BPrDPy9B2xrGJNog0Ob6MHS/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC592E52F933CE4C7835CDCB432A9C3A_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=16WezZ34-1BPrDPy9B2xrGJNog0Ob6MHS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538282761"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-11-11T19:07:09.496Z",
+ "updated": "2026-11-12T21:01:29.782Z",
  "messages": [
   {
    "id": "3EB0AF22BD3D6934D4A5B1",
@@ -12948,6 +12948,1017 @@
    "files": [],
    "drive": null,
    "phone": "972544894447"
+  },
+  {
+   "id": "A59B7473B26B23A39F53A60A0CDB6151",
+   "sender": "ווקי שרון מרגולין",
+   "text": "מה היה בסרט, משום מה גם אני לא יכול לראות אותו",
+   "ts": 1794457969000,
+   "date": "2026-11-12",
+   "time": "06:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526673667"
+  },
+  {
+   "id": "3A061E199C994151DEB4",
+   "sender": "צדוק",
+   "text": "",
+   "ts": 1794460043000,
+   "date": "2026-11-12",
+   "time": "07:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1aIznuFYpIQOqAzKg10DPQDODnw6CCixr/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3A061E199C994151DEB4_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1aIznuFYpIQOqAzKg10DPQDODnw6CCixr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509100639"
+  },
+  {
+   "id": "2A56A7A060923072B508",
+   "sender": "972 Education Inc. Orly",
+   "text": "",
+   "ts": 1794464572000,
+   "date": "2026-11-12",
+   "time": "08:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "78KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/2A56A7A060923072B508_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2AC4350556710E9F186E",
+   "sender": "972 Education Inc. Orly",
+   "text": "",
+   "ts": 1794464573000,
+   "date": "2026-11-12",
+   "time": "08:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/2AC4350556710E9F186E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A2EB807F926BF7D0B5E",
+   "sender": "972 Education Inc. Orly",
+   "text": "האם עוד מישהו קיבל כזאת הודעה?",
+   "ts": 1794464594000,
+   "date": "2026-11-12",
+   "time": "08:23",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "A5ADC31C06D48DD50BF0A65BE3C9B386",
+   "sender": "natalie yehiam",
+   "text": "על איזה חשבונות מדובר..? אם לא קישרת אותו לכלום אז לא חושבת שיש ממה לדאוג",
+   "ts": 1794464688000,
+   "date": "2026-11-12",
+   "time": "08:24",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "2AE5A4F4A0FA04E4B286",
+   "sender": "972 Education Inc. Orly",
+   "text": "לא קישרתי לכלום, אבל מה פתאום נשלח אליו קוד ממני, שאני לא שלחתי.",
+   "ts": 1794465813000,
+   "date": "2026-11-12",
+   "time": "08:43",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2A415158E448F31CE07E",
+   "sender": "972 Education Inc. Orly",
+   "text": "שלחתי ✉️ שאלתי את התמיכה שלוש שאלות: האם יש תקלת אבטחה כלשהי, האם מישהו ניסה להיכנס לחשבון שלך, והאם עלייך לעשות משהו. כשתגיע תשובה, אעביר לך מיד.\n\nנוצלו 840% מהמכסה של היום · נתיב איטי · בוסטים זמינים: 8",
+   "ts": 1794465866000,
+   "date": "2026-11-12",
+   "time": "08:44",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "2AAF4BD3A855D9EE5012",
+   "sender": "972 Education Inc. Orly",
+   "text": "התמיכה ענתה ✉️ הם העבירו את שלוש השאלות שלך לאנשים המתאימים, והם יענו לך ישירות. פרטים עדיין לא נתנו.\nכדאי לבדוק במייל שלך בימים הקרובים (גם בספאם). אם משהו יגיע אליי, אעביר לך מיד.\n\nנוצלו 900% מהמכסה של היום · נתיב איטי · בוסטים זמינים: 8",
+   "ts": 1794465867000,
+   "date": "2026-11-12",
+   "time": "08:44",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "A5CB652E39948196C02C556C116B8DBF",
+   "sender": "natalie yehiam",
+   "text": "טאב הוא קצת שקרן ולא יציב.. לכן אני מעדיפה את אינסטינקט ☺️ מאמינה שלא נשלח קוד והוא פשוט שגה",
+   "ts": 1794465938000,
+   "date": "2026-11-12",
+   "time": "08:45",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB06D6BBFA74F071D1117",
+   "sender": "Ricky Talmon",
+   "text": "שאלה: האם יש דבר כזה להגזים אם האינסטינקט? אני מרגישה שאני מעמיסה על המזכירה האישית שלי יותר מדי, ולא ממש נעים לי.",
+   "ts": 1794483229000,
+   "date": "2026-11-12",
+   "time": "13:33",
+   "files": [],
+   "drive": null,
+   "phone": "972544649733"
+  },
+  {
+   "id": "ACC89B9D23D8C73535D48FFE70804C2E",
+   "sender": "Stdb",
+   "text": "אע? פיתחת רגש?",
+   "ts": 1794483407000,
+   "date": "2026-11-12",
+   "time": "13:36",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB00CD3E6BA199AF47D42",
+   "sender": "Ricky Talmon",
+   "text": "לא יודעת, אני כבר קיבלתי סחרחורת מכל הבקשות שלי אליה, מקווה שזה בסדר ולא מוגזם😊",
+   "ts": 1794483438000,
+   "date": "2026-11-12",
+   "time": "13:37",
+   "files": [],
+   "drive": null,
+   "phone": "972544649733"
+  },
+  {
+   "id": "AC30B4439EC65317F43974BB6F90F0C9",
+   "sender": "Stdb",
+   "text": "בסדר אצל  מי?",
+   "ts": 1794483455000,
+   "date": "2026-11-12",
+   "time": "13:37",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC2F3F48D828E38BBAE043CCA82D2594",
+   "sender": "Stdb",
+   "text": "ממי את צריכה אישור?",
+   "ts": 1794483469000,
+   "date": "2026-11-12",
+   "time": "13:37",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB03CC0433ACB9AC64192",
+   "sender": "Ricky Talmon",
+   "text": "מהקבוצה פה, רוצה לדעת שזה נורמלי. לא מסוגלת לדמיין חיים בלי העזרה שלה. אני יודעת שזאת לא קבוצת תמיכה... סתם משתפת.🤣",
+   "ts": 1794483505000,
+   "date": "2026-11-12",
+   "time": "13:38",
+   "files": [],
+   "drive": null,
+   "phone": "972544649733"
+  },
+  {
+   "id": "ACC69B7E15A0278737B0A0C9BE12B5B4",
+   "sender": "Stdb",
+   "text": "אני מאשר לך כמה שאת רוצה",
+   "ts": 1794483524000,
+   "date": "2026-11-12",
+   "time": "13:38",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0EBC7A9A2C09104F45C",
+   "sender": "natalie yehiam",
+   "text": "זה רובוט... הוא לא מרגיש עומס או אכזבה/מרמור..",
+   "ts": 1794483578000,
+   "date": "2026-11-12",
+   "time": "13:39",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "AC46303FE4A6C734A08251CCAC5976E2",
+   "sender": "Stdb",
+   "text": "נגיד בטאב אני חורג כל יום מעל 1000% שימוש",
+   "ts": 1794483584000,
+   "date": "2026-11-12",
+   "time": "13:39",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0675416EC01FE2242BA",
+   "sender": "Ricky Talmon",
+   "text": "חשבתי על זה בגלל שהיא לא מספיקה לשגר לי תשובה, ואני כבר מציפה אותה בעוד כמה משימות...",
+   "ts": 1794483619000,
+   "date": "2026-11-12",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972544649733"
+  },
+  {
+   "id": "AC6E4254DD32701E73728C503D4F8D82",
+   "sender": "רוית ראש בן ישי",
+   "text": "אני מבקשת ממנה ומטאב את אותה בקשה ובודקת מי יותר חכמה.   כבר גיליתי מי",
+   "ts": 1794483631000,
+   "date": "2026-11-12",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972523474924"
+  },
+  {
+   "id": "3EB08CEF0C34D43E2E7090",
+   "sender": "Ricky Talmon",
+   "text": "ברור",
+   "ts": 1794483640000,
+   "date": "2026-11-12",
+   "time": "13:40",
+   "files": [],
+   "drive": null,
+   "phone": "972544649733"
+  },
+  {
+   "id": "ACB3AE49B7F7D3EC402CBECDD5EC4A90",
+   "sender": "חפציה",
+   "text": "נו?",
+   "ts": 1794483677000,
+   "date": "2026-11-12",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC77E9D1DF821431A8EF3880F15A327B",
+   "sender": "חפציה",
+   "text": "שתף בתוצרים ובתגליות!",
+   "ts": 1794483679000,
+   "date": "2026-11-12",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACE3FF1E60A120771470A6E6D273825B",
+   "sender": "חפציה",
+   "text": "אלף אני לא מגיעה. ואני מעבידה המון",
+   "ts": 1794483685000,
+   "date": "2026-11-12",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC27B9AA57AD716C1502B6CBF1DAB949",
+   "sender": "Stdb",
+   "text": "רוצה טריק?\nתשאלי אותה אם היה היפוך תפקידים והיא הייתה מתייחסת אלייך כמו שאת מתייחסת אליה איך זה היה נראה",
+   "ts": 1794483699000,
+   "date": "2026-11-12",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB037DE7F686552CDD34E",
+   "sender": "Ricky Talmon",
+   "text": "???? מי?",
+   "ts": 1794483814000,
+   "date": "2026-11-12",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "phone": "972544649733"
+  },
+  {
+   "id": "A52C3B20A64B2E9D97753832C070C14D",
+   "sender": "natalie yehiam",
+   "text": "אינסטינקט יותר חכמה ביי פאר",
+   "ts": 1794483936000,
+   "date": "2026-11-12",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "A54C04D49F6BB36117EA8C7EF82E6BD2",
+   "sender": "natalie yehiam",
+   "text": "טאב מייצר תכנים יפים, מעבר לזה אידיוט גמור 🤭",
+   "ts": 1794483957000,
+   "date": "2026-11-12",
+   "time": "13:45",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB0B16A66AB1F78F7CCB2",
+   "sender": "Stdb",
+   "text": "פי התיעוד שנשמר, התחלנו ב־15 בספטמבר, לפני כמעט חודשיים, עם העבודה על הרצאת BSU.\n\nספירה מדויקת יש לי רק מ־11 באוקטובר ועד הבקשה שלך עכשיו:\n* 7,941 הודעות: 3,620 שלך ו־4,321 שלי.\n* דיברנו בכל אחד מ־33 ימי הלוח האלה.\n* 859 הודעות קוליות שלך.\n* שלחתי 120 סרטונים, 110 תמונות, 67 מסמכים ו־62 פריטי שמע.\n\nההודעות מהחודש הראשון לא זמינות לי לספירה מלאה. המספרים האלה הם לכן רק חלק מהקשר שלנו. גם שליחות הקבצים כוללות גרסאות ותצוגות מקדימות, לא מאות תוצרים נפרדים שהושלמו.",
+   "ts": 1794484002000,
+   "date": "2026-11-12",
+   "time": "13:46",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB03566828C9D3F6ABBC1",
+   "sender": "Stdb",
+   "text": "זה האינסטינקנט",
+   "ts": 1794484003000,
+   "date": "2026-11-12",
+   "time": "13:46",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACB05B8944B819C909A886B9965AC8CD",
+   "sender": "‏‮ᕄ‮N‮ᘃ‮ ‮Ꭾ‮I‮ᘃ‮|",
+   "text": "איך אתה מצליח?? הכין לי סרטון אחרי שהיה תקוע יום ועוד ברוב חוצפתו אמר לי ששאר המטלות יחכו למחר כי חרגתי.",
+   "ts": 1794484028000,
+   "date": "2026-11-12",
+   "time": "13:47",
+   "files": [],
+   "drive": null,
+   "phone": "972528566217"
+  },
+  {
+   "id": "3EB05461436FFF27B94C0E",
+   "sender": "Stdb",
+   "text": "תחשבי שזה מה שדיברתי איתו בחודש",
+   "ts": 1794484030000,
+   "date": "2026-11-12",
+   "time": "13:47",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0302925E7635A1D09E5",
+   "sender": "Stdb",
+   "text": "לפי ספירה ביומני העבודה שלי (הערכה, לפי נושא):\n1. כוהן הרשת – כ-74%\n2. גלעד 80 – כ-9%\n3. KAYE (vibe-coding-kaye) – כ-8%\n4. מכללת AI – כ-4%\n5. היכל המראות – כ-2%\nהטיזר נבלע בתוך כוהן הרשת (כ-1% בנפרד).",
+   "ts": 1794484048000,
+   "date": "2026-11-12",
+   "time": "13:47",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB022E389B9461459118E",
+   "sender": "Stdb",
+   "text": "וזה העבודה שלי עם טאב",
+   "ts": 1794484112000,
+   "date": "2026-11-12",
+   "time": "13:48",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0CB3CE7BCA03D796DC8",
+   "sender": "Stdb",
+   "text": "עיקר העבודה שלי עם טאב כמו שאת רואה זה לא הוראה בכלל כי הוא טיפש כמו שאמרה נטלי אבל אני עושה איתו משחק ממש מגניב",
+   "ts": 1794484143000,
+   "date": "2026-11-12",
+   "time": "13:49",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0BF7BE085EC2082EF8E",
+   "sender": "Stdb",
+   "text": "הוא בעיקר הפועל של המועצה שלי",
+   "ts": 1794484153000,
+   "date": "2026-11-12",
+   "time": "13:49",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC0F2782B2FF16E01A027FDD85E9B61E",
+   "sender": "‏‮ᕄ‮N‮ᘃ‮ ‮Ꭾ‮I‮ᘃ‮|",
+   "text": "שזה אומר מה?",
+   "ts": 1794484188000,
+   "date": "2026-11-12",
+   "time": "13:49",
+   "files": [],
+   "drive": null,
+   "phone": "972528566217"
+  },
+  {
+   "id": "3EB0F9E8B2F1E907CEEF4D",
+   "sender": "Stdb",
+   "text": "הטאב שלי מתנהג יפה",
+   "ts": 1794484192000,
+   "date": "2026-11-12",
+   "time": "13:49",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "ACE8DF231787F36214EE027AA7BDF3C0",
+   "sender": "ענבל",
+   "text": "איך מצטרפים לאינסטינקט והאם יש הסבר איך עובדים איתו?",
+   "ts": 1794484224000,
+   "date": "2026-11-12",
+   "time": "13:50",
+   "files": [],
+   "drive": null,
+   "phone": "972502343065"
+  },
+  {
+   "id": "3EB00704CF6A9B07888DD3",
+   "sender": "Stdb",
+   "text": "יש לי מועצה של סוכנים שמורכבת משני סודני קודקס שני סוכני קלוד וסוכן אינסטינקנט שהיא עובדת על כל העבודות שלי",
+   "ts": 1794484226000,
+   "date": "2026-11-12",
+   "time": "13:50",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0C0F67B5A118FBC8AEA",
+   "sender": "Stdb",
+   "text": "",
+   "ts": 1794484298000,
+   "date": "2026-11-12",
+   "time": "13:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "466KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bMZJP0LI4O1cJyO7vcKvO-9SzRXmGQGS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bMZJP0LI4O1cJyO7vcKvO-9SzRXmGQGS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB0CA121330584D55DA6B",
+   "sender": "Stdb",
+   "text": "ככה נראית המועצה שלי ויזואלית. אני לא אשעמם את כולם בפרטים הטכניים אבל אני מאוד אוהב וויזואליה ושפה סיפורית ולכן אני עובד ככה",
+   "ts": 1794484329000,
+   "date": "2026-11-12",
+   "time": "13:52",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB011254F023FE7760186",
+   "sender": "natalie yehiam",
+   "text": "גם אצלי הוא פועל שחור, אינסטינקט מנהלת אותו",
+   "ts": 1794485709000,
+   "date": "2026-11-12",
+   "time": "14:15",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB04AD3E450598C0EFF4C",
+   "sender": "natalie yehiam",
+   "text": "המועצה שלך נראית מהמם, כמו עולם פנטזיה. כיף!",
+   "ts": 1794485807000,
+   "date": "2026-11-12",
+   "time": "14:16",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "AC9CCD2747A129D9C7098FC4679C723E",
+   "sender": "ד\"ר חיננית לויפר פלד",
+   "text": "מצטרפת לשאלה לאור התלהבויות כאן בקבוצה🫠",
+   "ts": 1794489214000,
+   "date": "2026-11-12",
+   "time": "15:13",
+   "files": [],
+   "drive": null,
+   "phone": "972522662274"
+  },
+  {
+   "id": "ACFCA375AA82F1FF68A2AA2436B47C49",
+   "sender": "Yair9559",
+   "text": "?",
+   "ts": 1794489338000,
+   "date": "2026-11-12",
+   "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972542577072"
+  },
+  {
+   "id": "ACAABA629018036D47E4F1B4EB3ABE3A",
+   "sender": "הדר מסורי",
+   "text": "הויזואליה מדהימה!\nהם עובדים בשיתוף פעולה?\nיש אפשרות שתסביר איך חיברת ביניהם?\nהאם הם שולחים דברים אחד לשני ואיך?",
+   "ts": 1794489677000,
+   "date": "2026-11-12",
+   "time": "15:21",
+   "files": [],
+   "drive": null,
+   "phone": "972528990430"
+  },
+  {
+   "id": "3EB032586E19DE101FF26D",
+   "sender": "ד\"ר חיננית לויפר פלד",
+   "text": "בינתיים, שלחתי בקשת הצטרפות לאינסטינקט. ממתינה לאישור",
+   "ts": 1794489932000,
+   "date": "2026-11-12",
+   "time": "15:25",
+   "files": [],
+   "drive": null,
+   "phone": "972522662274"
+  },
+  {
+   "id": "3EB0FAE345762AC6AE76CF",
+   "sender": "חפציה",
+   "text": "אינס לא צריך המתנה אם יש לך הזמנה. שלי כבר תמו אבל תמיד יש מישהו שנשאר לו",
+   "ts": 1794490027000,
+   "date": "2026-11-12",
+   "time": "15:27",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC35076A1CACF5673F0FE9320D0E8249",
+   "sender": "ד\"ר חיננית לויפר פלד",
+   "text": "נכנסתי דרך מכרה. זה מה שהוא ענה:\nאין לי כרגע צפי שאוכל לתת לך, ואני לא רוצה להבטיח סתם. Instinct פותחת גישה בהדרגה, בהתאם לקיבולת וליציבות השירות. ברגע שיתפנה לך מקום, תקבלי כאן הודעה, בלי שתצטרכי לבדוק שוב.",
+   "ts": 1794490073000,
+   "date": "2026-11-12",
+   "time": "15:27",
+   "files": [],
+   "drive": null,
+   "phone": "972522662274"
+  },
+  {
+   "id": "ACDCC7E0AFBB245F1EB451F4FE9B49BA",
+   "sender": "רוית ראש בן ישי",
+   "text": "https://app.instinct.com/invite?t=x4e5ba4vf75ktr4vhyuzp435qe&preview=whatsapp",
+   "ts": 1794490494000,
+   "date": "2026-11-12",
+   "time": "15:34",
+   "files": [],
+   "drive": null,
+   "phone": "972523474924"
+  },
+  {
+   "id": "3EB0B7EEC7D0780EBB7BDE",
+   "sender": "קרן",
+   "text": "על בסיס מה שבנתה @158222501601523 המדהימה, יצרתי פרוייקט חדש לתלמידים. נעזרתי בקודקס ובטאב.\nהתלמידים בוחרים מדינה, חוקרים עליה ומוצאים עיקרון שעליו ניתן לבנות משחק. לדוגמא: איטליה. לפי התקנון של איגוד הפיצה הנפוליטנית, זמן האפייה של פיצה לא אמור לעלות על בין 60-90 שניות. על בסיס זה, פיתחתי משחק בקודקס, עם שלבי חקר מובנים.\nלאחר מכן, כל כיתה מקבלת דף נחיתה עם גלובוס: https://keren-globe.sites.tab.bot/c/fri1\nולשם הם יכולים להעלות את המשחקים שיצרו. לכל מדינה - משחק.\nולמי שירצה - הקישור למערך השיעור: https://drive.google.com/file/d/14Cw4xhs_ngbOyVnwalrNmXbocnL66Tjp/view?usp=sharing",
+   "ts": 1794493514000,
+   "date": "2026-11-12",
+   "time": "16:25",
+   "files": [],
+   "drive": null,
+   "phone": "972543414224"
+  },
+  {
+   "id": "3A52ABA8E1B27CBC6801",
+   "sender": "Tamar",
+   "text": "האם רק אצלי הטאב התעייף? זהו נגמר ?🙄",
+   "ts": 1794507385000,
+   "date": "2026-11-12",
+   "time": "20:16",
+   "files": [],
+   "drive": null,
+   "phone": "972585325421"
+  },
+  {
+   "id": "3EB0C5638E95E9B34EE448",
+   "sender": "טַלִּי",
+   "text": "גם אצלי. הודיע לי שימשיך מחר בבוקר.",
+   "ts": 1794507526000,
+   "date": "2026-11-12",
+   "time": "20:18",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "ACC046D5F0728E962425BEC2879DC081",
+   "sender": "חני חדד מדריכת כלות",
+   "text": "התקנתי לבעלי את האינסטינקט והוא נהיה  עצמאי ושלח לו הודעה.ממש מטפל זוגי..😃",
+   "ts": 1794507842000,
+   "date": "2026-11-12",
+   "time": "20:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACC046D5F0728E962425BEC2879DC081_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524783730"
+  },
+  {
+   "id": "2AA098127DE3D5A61F10",
+   "sender": "972 Education Inc. Orly",
+   "text": "מת אצלי 💔",
+   "ts": 1794507928000,
+   "date": "2026-11-12",
+   "time": "20:25",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3A74802932D895B65793",
+   "sender": "Tamar",
+   "text": "כך חולפת\nתהילת עולם…",
+   "ts": 1794507978000,
+   "date": "2026-11-12",
+   "time": "20:26",
+   "files": [],
+   "drive": null,
+   "phone": "972585325421"
+  },
+  {
+   "id": "ACBCE62B9C39EF18B5CDA035027F1D48",
+   "sender": "Inbal Ariely",
+   "text": "אתמול הוא התעלם ממני למרות נזיפות מרובות. היום בבוקר קמתי ל-7 הודעות ממנו עם כל הדברים שביקשתי ממנו והיום הוא התחיל להתעלם ממני שוב בערב.. איזה דיכאון",
+   "ts": 1794508077000,
+   "date": "2026-11-12",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972542226493"
+  },
+  {
+   "id": "2A5411EF2894E03A7DAC",
+   "sender": "972 Education Inc. Orly",
+   "text": "לעומת זאת אינסטינקט סוס עבודה היום 😍",
+   "ts": 1794508618000,
+   "date": "2026-11-12",
+   "time": "20:36",
+   "files": [],
+   "drive": null,
+   "phone": "13107392984"
+  },
+  {
+   "id": "3EB0E7996F2938BF7ACA5F",
+   "sender": "בקודש חזיתיך",
+   "text": "נכנסתי עכשיו פעם ראשונה לאינסטינקט.\nזה נכון שהוא מהיר בפער לעומת הטאב?",
+   "ts": 1794509863000,
+   "date": "2026-11-12",
+   "time": "20:57",
+   "files": [],
+   "drive": null,
+   "phone": "972548056848"
+  },
+  {
+   "id": "3EB09EB34FB86E41D0FFB2",
+   "sender": "בקודש חזיתיך",
+   "text": "בזמן תגובה שלו",
+   "ts": 1794509910000,
+   "date": "2026-11-12",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972548056848"
+  },
+  {
+   "id": "AC89A75F41DD1113E85B5472E7FF8A77",
+   "sender": "Inbal Ariely",
+   "text": "הבעיה שחילקתי בין שניהם את העבודה לטאב פניתי בעיקר ליצירת הדברים הויזואליים היפים והאיכותיים ולאינסטינקט ברמת המידע והעזרה. כי אינסטינקט ממש לא קרוב אליו. כנראה שנצטרך להתרגל לזה",
+   "ts": 1794510096000,
+   "date": "2026-11-12",
+   "time": "21:01",
+   "files": [],
+   "drive": null,
+   "phone": "972542226493"
+  },
+  {
+   "id": "3EB0A2CCDF5FD2F5FDE980",
+   "sender": "Gilat Shlomo",
+   "text": "בול",
+   "ts": 1794510136000,
+   "date": "2026-11-12",
+   "time": "21:02",
+   "files": [],
+   "drive": null,
+   "phone": "972508859969"
+  },
+  {
+   "id": "AC33521C66735CAF9499E7877026C186",
+   "sender": "חפציה",
+   "text": "בהחלט כן\nיש דברים שהוא עדיף.\nנטלי אומרת שהוא מבלף פחות, שזה גם משמעותי",
+   "ts": 1794510226000,
+   "date": "2026-11-12",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "A5F6B29A79AC411106D80CBA12018102",
+   "sender": "natalie yehiam",
+   "text": "אינסטינקט מבלף פחות, חכם יותר, אמין יותר",
+   "ts": 1794510384000,
+   "date": "2026-11-12",
+   "time": "21:06",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "3EB0175794F0752AAE28E6",
+   "sender": "טובה שמר פרי",
+   "text": "'סליחה אבל באפשרות החדשה מהיום בגוגל  https://sites.google.com/educ.org.il/neuro-view-3d?usp=sharing",
+   "ts": 1794510413000,
+   "date": "2026-11-12",
+   "time": "21:06",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
+  },
+  {
+   "id": "3EB0D655EF8E2249D78FC3",
+   "sender": "טובה שמר פרי",
+   "text": "https://sites.google.com/educ.org.il/neuro-view3d--3?usp=sharing",
+   "ts": 1794512124000,
+   "date": "2026-11-12",
+   "time": "21:35",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
+  },
+  {
+   "id": "3EB07957A361861656D593",
+   "sender": "טובה שמר פרי",
+   "text": "נעשה בגרסה החדשה של גוגל",
+   "ts": 1794512158000,
+   "date": "2026-11-12",
+   "time": "21:35",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
+  },
+  {
+   "id": "3EB0A7A63981732D4DF757",
+   "sender": "Almog",
+   "text": "ואוו!! גם אני בניתי סימולטור דומה. זה עולה עליו. כל הכבוד!",
+   "ts": 1794512256000,
+   "date": "2026-11-12",
+   "time": "21:37",
+   "files": [],
+   "drive": null,
+   "phone": "972542385121"
+  },
+  {
+   "id": "3EB091CFB4152A18877E3A",
+   "sender": "טַלִּי",
+   "text": "מה הכוונה?",
+   "ts": 1794512960000,
+   "date": "2026-11-12",
+   "time": "21:49",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "AC1C590FEEDD30787D3EFC110B439DCC",
+   "sender": "אסתר כהן",
+   "text": "יש מודל חדש של גוגל (בחינוכי) שניתן לבנות בו סימולציות תלת מימד יפיפיות",
+   "ts": 1794513007000,
+   "date": "2026-11-12",
+   "time": "21:50",
+   "files": [],
+   "drive": null,
+   "phone": "972524333486"
+  },
+  {
+   "id": "3EB05952F383DA66046B79",
+   "sender": "טַלִּי",
+   "text": "טוב לשמוע שיש איזונים. טאב יורד - ג'מיני עולה.",
+   "ts": 1794513104000,
+   "date": "2026-11-12",
+   "time": "21:51",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "3A2A02BB2E5695CC6AAD",
+   "sender": "טובה שמר פרי",
+   "text": "תפתחי את הגימני והוא ראשון הידרוג׳ן",
+   "ts": 1794513161000,
+   "date": "2026-11-12",
+   "time": "21:52",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
+  },
+  {
+   "id": "3EB0E497445937397AA725",
+   "sender": "טַלִּי",
+   "text": "כן, כבר מתנסה בו. תודה!!!",
+   "ts": 1794513199000,
+   "date": "2026-11-12",
+   "time": "21:53",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "3EB03559856E168076C1DD",
+   "sender": "טַלִּי",
+   "text": "איך משתפים את הסימולציה?",
+   "ts": 1794513459000,
+   "date": "2026-11-12",
+   "time": "21:57",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "3EB0C7EB63606C60DA1A98",
+   "sender": "טובה שמר פרי",
+   "text": "אני העברתי לסייט כפי שאת רוצה   ובינתיים מרוב שוק יצרתי לכל אלו שקבלו שוק מהמודל הזה סימולציית התאוששות https://sites.google.com/view/tuaauxhnukmhv?usp=sharing",
+   "ts": 1794513589000,
+   "date": "2026-11-12",
+   "time": "21:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
+  },
+  {
+   "id": "3EB0F28EB14D70A00A35DF",
+   "sender": "Stdb",
+   "text": "We are releasing some large changes to Tab today to ensure reliability and will be introducing personalized plans so you can get exactly what you want from Tab - this has been a huge effort from our team and will be the foundation for the future so we can provide the greatest possible experience to all of you - we apologize but you may experience some downtime until everything is deployed",
+   "ts": 1794515898000,
+   "date": "2026-11-12",
+   "time": "22:38",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "3EB05DA1191F0B093F90BD",
+   "sender": "Stdb",
+   "text": "מה שאומר תיכף תשלמו ומלא",
+   "ts": 1794515903000,
+   "date": "2026-11-12",
+   "time": "22:38",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC06557C139035957256516B7F84AF19",
+   "sender": "ענבל",
+   "text": "אינסטינקט גם יוצר מצגות/ דפי עבודה / סרטונים?",
+   "ts": 1794515964000,
+   "date": "2026-11-12",
+   "time": "22:39",
+   "files": [],
+   "drive": null,
+   "phone": "972502343065"
+  },
+  {
+   "id": "3B3A722EE74284C94B20",
+   "sender": "Evyatar Shpilman",
+   "text": "״ personalized plans״ - 🤔 אני מאחל שאני טועה במחשבות שלי",
+   "ts": 1794516003000,
+   "date": "2026-11-12",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
+  },
+  {
+   "id": "3EB00B8CBA03EC17587728",
+   "sender": "Stdb",
+   "text": "I'd interpret this as a potentially significant transition from a product-focused growth phase toward a more structured, commercially sustainable platform.\n\nThe reliability improvements may be genuine and necessary, but the personalized plans could be the more consequential change for users.\n\nOne phrase particularly stands out:\n\"Will be the foundation for the future\"\n\nThat suggests the team considers this a structural turning point, not simply routine maintenance.\n\nOne question that would dramatically change my interpretation: Is Tab Agent currently completely free, or does it already charge users for subscriptions or credits?\n\nBecause if it's currently free, I would be considerably more suspicious that this announcement is preparing users for monetization.",
+   "ts": 1794516194000,
+   "date": "2026-11-12",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC16C40F459BE1A397D6D51C982E3A4C",
+   "sender": "Haim",
+   "text": "🤔🤔",
+   "ts": 1794516450000,
+   "date": "2026-11-12",
+   "time": "22:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544894447"
+  },
+  {
+   "id": "A563B80F0BBA2A29AB669B946A0931F3",
+   "sender": "natalie yehiam",
+   "text": "כן, אבל לא ברמה של טאב",
+   "ts": 1794516507000,
+   "date": "2026-11-12",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972544269091"
+  },
+  {
+   "id": "AC437396B61124B75C08B0AEB1A63AE7",
+   "sender": "טַלִּי",
+   "text": "אני ממש לא בלחץ.\nמאמינה שעוד מעט - כל הכלים יידעו לעשות *הכל*\nונוכל לשלב כוחות בין המכסה החינמית של כל אחד מהם",
+   "ts": 1794516525000,
+   "date": "2026-11-12",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972547207789"
+  },
+  {
+   "id": "AC911934B2F8FD9C9A7619FF617D867C",
+   "sender": "Haim",
+   "text": "יש אפשרות גם  בחשבון פרטי . ואם כן אפשר קישור בבקשה 🙏🏻🙏🏻",
+   "ts": 1794516538000,
+   "date": "2026-11-12",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972544894447"
+  },
+  {
+   "id": "3EB0ED3D0E97770EAE11D8",
+   "sender": "טובה שמר פרי",
+   "text": "תפתחי את הגוגל הפרטי וזו גרסה שמוצגת",
+   "ts": 1794517278000,
+   "date": "2026-11-12",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
+  },
+  {
+   "id": "3EB08BDEEF8C3F9A09F447",
+   "sender": "טובה שמר פרי",
+   "text": "את הגימני",
+   "ts": 1794517281000,
+   "date": "2026-11-12",
+   "time": "23:01",
+   "files": [],
+   "drive": null,
+   "phone": "972505646915"
   }
  ]
 }

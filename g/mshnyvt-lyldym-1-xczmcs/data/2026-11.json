@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משניות לילדים 1⃣",
- "updated": "2026-11-01T14:46:13.307Z",
+ "updated": "2026-11-12T17:08:27.443Z",
  "messages": [
   {
    "id": "A529EA30FE32A9ACBA60DDF8D7956805",
@@ -27,6 +27,36 @@
      "size": "7.2MB",
      "type": "audio/mpeg",
      "path": "https://drive.google.com/file/d/1sV2lmrxrw_hmGtGZnJNq4uzZitJ5R9eD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A52AEDFFCB5ADE2D7F3EA671C9E2B330",
+   "sender": "משנת חיים",
+   "text": "*איזה כיף להתחיל שבוע חדש עם לימוד משניות*🥰\nוהיום נלמד את משנה ג':\nhttps://youtu.be/wL7pmF9YTPc\nועכשיו כנסו לקישור וענו על החידה🎁:\nhttps://forms.gle/48oDshQXVddQA7g98\n........\n🪗בנוסף מצורף קובץ למי שאין יוטיוב.\n🎺השיר נשלח בשבוע שעבר\n........\nלצירוף חברים חדשים שלחו להם את הקישור: https://katzr.net/f2cc1b\n..............\n*והזוכה בחידה של שבוע שעבר: אברהם יצחק שטראוס מפסגות*🎊🏆",
+   "ts": 1794503132000,
+   "date": "2026-11-12",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A5CE14C1F92F0EDA7E382A7F7C69C254",
+   "sender": "משנת חיים",
+   "text": "",
+   "ts": 1794503294000,
+   "date": "2026-11-12",
+   "time": "19:08",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "8.8MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1wE_d0THW2Kr_ScNN2U5hajjHdl4wi5Xo/view?usp=drivesdk",
      "skipped": ""
     }
    ],

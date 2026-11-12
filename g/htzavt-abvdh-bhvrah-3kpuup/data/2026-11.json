@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-11T17:20:35.596Z",
+ "updated": "2026-11-12T09:26:44.525Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -304,6 +304,26 @@
    ],
    "drive": null,
    "phone": "972546702322"
+  },
+  {
+   "id": "ACDB93B88849134307CF7E58D47E84CA",
+   "sender": "מוריה טל",
+   "text": "https://app.civi.co.il/promo/id=632847&src=19763",
+   "ts": 1794475578000,
+   "date": "2026-11-12",
+   "time": "11:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "321KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UyYBnKkL7m6s1RXKwxE1RWfb7BDHB_cM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UyYBnKkL7m6s1RXKwxE1RWfb7BDHB_cM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
   }
  ]
 }

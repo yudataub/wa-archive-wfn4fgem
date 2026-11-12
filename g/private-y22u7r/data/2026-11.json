@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-11T19:38:26.761Z",
+ "updated": "2026-11-12T20:06:49.279Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -12042,6 +12042,1330 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A581829D3CF686ADDAD7A39A46651101",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794463469000,
+   "date": "2026-11-12",
+   "time": "08:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "155KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H_DFPjSqO04bwgngw4CYTFL8uOEkCkPM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H_DFPjSqO04bwgngw4CYTFL8uOEkCkPM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56942ED32E859C55F8D88C6B70318B9",
+   "sender": "אני",
+   "text": "בוקר טוב\nתוכל להטעין את המחשבים \nשיהיה מוכן לשייור",
+   "ts": 1794466657000,
+   "date": "2026-11-12",
+   "time": "08:57",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFB14457D67ADFE71BFD32347AFA2F8",
+   "sender": "מיכאל",
+   "text": "",
+   "ts": 1794466682000,
+   "date": "2026-11-12",
+   "time": "08:58",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1fLLzrL2rxXb-_oA-ECmR5wQrUnq09StR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מיכאל",
+   "phone": "972505333992"
+  },
+  {
+   "id": "3A59D3442FC5B8770926",
+   "sender": "אורטל🌻",
+   "text": "בוקר טוב יהודה, \nאשמח שנקבע פגישה קצרה בזום. \nמתי נוח לך היום?",
+   "ts": 1794467702000,
+   "date": "2026-11-12",
+   "time": "09:15",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "A5423865D48C82F12D4DAE8570A625DB",
+   "sender": "אני",
+   "text": "את רוצה כמה דקות עכשיו?",
+   "ts": 1794468114000,
+   "date": "2026-11-12",
+   "time": "09:21",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3ABDE0D230E37526F075",
+   "sender": "אורטל🌻",
+   "text": "אתה רוצה בעשר?",
+   "ts": 1794469079000,
+   "date": "2026-11-12",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "3ADA5514911B83469035",
+   "sender": "אורטל🌻",
+   "text": "אנחנו צריכים כעשרים דקות בזום",
+   "ts": 1794469100000,
+   "date": "2026-11-12",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "A5E55FF9ACDFFF244D0BD9F274AE13AA",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794469434000,
+   "date": "2026-11-12",
+   "time": "09:43",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "51KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1jxPuC9AKbxFbfAV336BfHJAR4P4a99vg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A95D23746525C1232DA",
+   "sender": "אורטל🌻",
+   "text": "אני מתכוונת שניפגש בזום…",
+   "ts": 1794469456000,
+   "date": "2026-11-12",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "3A36CC31CF93C7231B3F",
+   "sender": "אורטל🌻",
+   "text": "כשאתה פנוי ורגוע לא בדרך לבית הספר",
+   "ts": 1794469463000,
+   "date": "2026-11-12",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "3A87F4267B0B495D17EE",
+   "sender": "אורטל🌻",
+   "text": "תגיד לי מתי אתה פנוי לשבת מול מסך ושנשוחח",
+   "ts": 1794469484000,
+   "date": "2026-11-12",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "A5C4AE62ADB012C296FA22CBDAC5A128",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794469484000,
+   "date": "2026-11-12",
+   "time": "09:44",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "54KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1nsJQbW0M2de5unUFRZ6Yfu7NtuWx3YNV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5459FEB6479E15A4ED1E619730F598D",
+   "sender": "אני",
+   "text": "עכשיו זה מעולה",
+   "ts": 1794469643000,
+   "date": "2026-11-12",
+   "time": "09:47",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0C98B285A8BC709FA37",
+   "sender": "אורטל🌻",
+   "text": "https://us02web.zoom.us/j/89015372025?pwd=OrZxCdaUOx8czeoaCs3wQqgTJxvdxE.1",
+   "ts": 1794469722000,
+   "date": "2026-11-12",
+   "time": "09:48",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "A506F41FF11F5E4C4DD3D246A18605BA",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "רבני בתי הספר ורכזי חינוך חברתי היקרים, \nשלום וברכה! 🌷\n\nשמחים להזמינכם למפגש זום קצר ביום שלישי הקרוב ז' כסלו (17/11/26), 20:30-21:00, להמשך עשייה משותפת ומשמעותית בין רבני בתיה\"ס והרכזות החברתיות.\n\nבמפגש ישתתפו \nהמחמדי״ת ירדנה אלון,\nהרב עותניאל מנצור – המפקח הארצי על הרבנים, בתאל גור - מנחה ארצית לחינוך חברתי ערכי.\n\n *מבקשים נוכחות מלאה של כולם.* \n\nנא לאשר השתתפות דרך הקישור המצורף. \n\nhttps://docs.google.com/forms/d/e/1FAIpQLSezXD7U428_fPXPHtJ652Z8OCLzMy58tf8IFqSiHfgLyA2zqA/viewform?usp=publish-editor\n\n             מחכים לראות \n              את כולכם! 🌸\n\n                בברכה\nהרב יאיר אסולין - רכז רבני בתיה\"ס במחוז\n\nג׳ולי סבג – מנחת החינוך החברתי־ערכי יסודי במחוז",
+   "ts": 1794470600000,
+   "date": "2026-11-12",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "thread": "המוהל הרב יאיר אסולין",
+   "phone": "972508733084"
+  },
+  {
+   "id": "A5C4137315EB5D086F5C2329A6518976",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "",
+   "ts": 1794470600000,
+   "date": "2026-11-12",
+   "time": "10:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19l-in4Olg5UpPLN1Y_xgXrxUsdWY2vsD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19l-in4Olg5UpPLN1Y_xgXrxUsdWY2vsD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "המוהל הרב יאיר אסולין",
+   "phone": "972508733084"
+  },
+  {
+   "id": "3EB0816085A6D76E6B2EF7",
+   "sender": "Ronen I Tayar 2",
+   "text": "אהלן יהודה , החלפתי טלפון של הווטסאפ . תוסיף אותי בבקשה עם המספר החדש לקבוצת זמני תפילות",
+   "ts": 1794476851000,
+   "date": "2026-11-12",
+   "time": "11:47",
+   "files": [],
+   "drive": null,
+   "thread": "Ronen I Tayar 2",
+   "phone": "972546328697"
+  },
+  {
+   "id": "3EB0C35F76EF3FE215D2ED",
+   "sender": "Ronen I Tayar 2",
+   "text": "📇 רונן תייר ווטסאפ\n+972546328697",
+   "ts": 1794476871000,
+   "date": "2026-11-12",
+   "time": "11:47",
+   "files": [],
+   "drive": null,
+   "thread": "Ronen I Tayar 2",
+   "phone": "972546328697"
+  },
+  {
+   "id": "3EB0E903632E35FF6267E9",
+   "sender": "Alexey Sireniv",
+   "text": "צהריים טובים יהודה. יש לי כמה שאלות. מתי תוכל לדבר?",
+   "ts": 1794480244000,
+   "date": "2026-11-12",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "thread": "Alexey Sireniv",
+   "phone": "972547797954"
+  },
+  {
+   "id": "A5E8294FDF8B0A41E6261242B2E9FA29",
+   "sender": "אני",
+   "text": "אורטל רוצה שנעשה חלוקה בתפקידים\nתרמה לעשות רשימה על מה כל אחד אחראי",
+   "ts": 1794481860000,
+   "date": "2026-11-12",
+   "time": "13:11",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC468D9359DC3CE623CCBB9C2C4D8ACC",
+   "sender": "Yonatan",
+   "text": "תרמה?",
+   "ts": 1794481968000,
+   "date": "2026-11-12",
+   "time": "13:12",
+   "files": [],
+   "drive": null,
+   "thread": "Yonatan",
+   "phone": "972544784644"
+  },
+  {
+   "id": "3EB0142DC5A715E082F046",
+   "sender": "Yonatan",
+   "text": "בהנחה שזה אמור להיות 'תרצה'\nאיך אתה חושב שצריכה להיראות הפעילות והחלוקה, בהתחשב בפגישה אתמול?",
+   "ts": 1794483017000,
+   "date": "2026-11-12",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "thread": "Yonatan",
+   "phone": "972544784644"
+  },
+  {
+   "id": "AC9D412E50FF5D04CC23BCC8EBC6C7B3",
+   "sender": "חפציה",
+   "text": "חומר פתוח נתפס כאיכותי מאוד בגוגל. זה באמת מדהים",
+   "ts": 1794483798000,
+   "date": "2026-11-12",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "חפציה",
+   "phone": "972544477081"
+  },
+  {
+   "id": "ACF9AF58DCB489497E0DECBA85185363",
+   "sender": "חפציה",
+   "text": "איזה רעיון יפה",
+   "ts": 1794483811000,
+   "date": "2026-11-12",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "חפציה",
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC25F27B7A17278D741B3FA93C5A4C80",
+   "sender": "חפציה",
+   "text": "הכנתי תוסף סינון תוכן לפני כמה זמן. אבל לא השקעתי בו לדייק",
+   "ts": 1794483830000,
+   "date": "2026-11-12",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "thread": "חפציה",
+   "phone": "972544477081"
+  },
+  {
+   "id": "A5F5BEA8D632866586EB175AE93EDF2F",
+   "sender": "אני",
+   "text": "אתה משפל מפתח של ארון חשמל?\nקטן",
+   "ts": 1794489163000,
+   "date": "2026-11-12",
+   "time": "15:12",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A55E98A1D285ACCC64E16CB36FE32445",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794489335000,
+   "date": "2026-11-12",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "442KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19UbGlgAeqFhLFg_MHpwV9pOJqCbNWioT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19UbGlgAeqFhLFg_MHpwV9pOJqCbNWioT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A572042AED874E8E71D4B03850F21C67",
+   "sender": "אני",
+   "text": "אתם משכפלים מפתחות קטנים של ארון חשמל",
+   "ts": 1794489380000,
+   "date": "2026-11-12",
+   "time": "15:16",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5C6C6C8D4113093D49090019D08C6F5",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794489391000,
+   "date": "2026-11-12",
+   "time": "15:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "442KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1d0cGV_gK2aGFfYQRRV75IwtCZ6qeqM0e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d0cGV_gK2aGFfYQRRV75IwtCZ6qeqM0e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACD8A9D34426DA62309BCD32A4FB68F8",
+   "sender": "אומן המפתח מחסני מנעולים",
+   "text": "",
+   "ts": 1794489803000,
+   "date": "2026-11-12",
+   "time": "15:23",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1tpY-KAK_02CWam5GoEIaeJBHUl7_ciPI/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אומן המפתח מחסני מנעולים",
+   "phone": "972522949562"
+  },
+  {
+   "id": "AC9465964BEC4F5F4D748E5AEC8C644B",
+   "sender": "אומן המפתח מחסני מנעולים",
+   "text": "[מיקום]",
+   "ts": 1794489817000,
+   "date": "2026-11-12",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "thread": "אומן המפתח מחסני מנעולים",
+   "phone": "972522949562"
+  },
+  {
+   "id": "A51F15D5EF0F4CF8138074132D831A1C",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794490153000,
+   "date": "2026-11-12",
+   "time": "15:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nnv_84Jv-E5zmBd__exdmxgJQiXtRIhm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nnv_84Jv-E5zmBd__exdmxgJQiXtRIhm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC3527A6490C233E29F053B5124284E5",
+   "sender": "אומן המפתח מחסני מנעולים",
+   "text": "",
+   "ts": 1794490174000,
+   "date": "2026-11-12",
+   "time": "15:29",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1CxZLYXKXsu_aIw2TSfJ1PCm3rtXGSAFL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אומן המפתח מחסני מנעולים",
+   "phone": "972522949562"
+  },
+  {
+   "id": "A5DC39BCC6F4E5650F242E4B9C2259DA",
+   "sender": "אני",
+   "text": "050-8105323",
+   "ts": 1794490789000,
+   "date": "2026-11-12",
+   "time": "15:39",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACEFFD8B056A0F1883F12C05F247A47B",
+   "sender": "Shmuel",
+   "text": "זה?",
+   "ts": 1794490791000,
+   "date": "2026-11-12",
+   "time": "15:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "440KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vfOXjlardTplxDuIh5EgK78u83LILWTd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vfOXjlardTplxDuIh5EgK78u83LILWTd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "A5BC8DAD67407A95FC186C6D03C2D4CE",
+   "sender": "אני",
+   "text": "מפתח",
+   "ts": 1794490798000,
+   "date": "2026-11-12",
+   "time": "15:39",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A506703B43EA08D22811E334BC09079A",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794490809000,
+   "date": "2026-11-12",
+   "time": "15:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1k2xAnOZt-sV1v4Vc5buZdzEgYkj0xZPy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1k2xAnOZt-sV1v4Vc5buZdzEgYkj0xZPy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5629F84AE11FFDE228F0F87D9667162",
+   "sender": "אני",
+   "text": "שניהם",
+   "ts": 1794490820000,
+   "date": "2026-11-12",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5455DFB557769F88E548AFA788C7016",
+   "sender": "אני",
+   "text": "זה?",
+   "ts": 1794490828000,
+   "date": "2026-11-12",
+   "time": "15:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "440KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W9CyRyg_U_s4Gn_HrVEHRBt9Be5oFgKF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W9CyRyg_U_s4Gn_HrVEHRBt9Be5oFgKF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC44C55F2C49309BB8CCD3078F720D57",
+   "sender": "גבי חמו",
+   "text": "כן אבל רק מחר",
+   "ts": 1794490852000,
+   "date": "2026-11-12",
+   "time": "15:40",
+   "files": [],
+   "drive": null,
+   "thread": "גבי חמו",
+   "phone": "972508105323"
+  },
+  {
+   "id": "A5918F83AC683D8ECC56595EC8ECB808",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794490854000,
+   "date": "2026-11-12",
+   "time": "15:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "442KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kRHoJ8JRkm-Ed4ezeqW_RaYTGrz5R8P_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kRHoJ8JRkm-Ed4ezeqW_RaYTGrz5R8P_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A59E06C856AB903D9193F0A94AC4E05F",
+   "sender": "אני",
+   "text": "שד' חן 5, קריית ביאליק. 30+ שנה בתחום, לפי הביקורות מחזיק \"כל סוגי המפתחות\". עד 17:00 היום. 050-8105323",
+   "ts": 1794490887000,
+   "date": "2026-11-12",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC1AE9F0C6671C3B49C986AA36D067A5",
+   "sender": "Shmuel",
+   "text": "בודק לך",
+   "ts": 1794490890000,
+   "date": "2026-11-12",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "AC03AE68D105CAA399CCA3665D2F4B94",
+   "sender": "גבי חמו",
+   "text": "יש לי אזכרה היום",
+   "ts": 1794490918000,
+   "date": "2026-11-12",
+   "time": "15:41",
+   "files": [],
+   "drive": null,
+   "thread": "גבי חמו",
+   "phone": "972508105323"
+  },
+  {
+   "id": "A55858A8BAF63DC1391430FFF7E58ECC",
+   "sender": "אני",
+   "text": "ביום ראשון מתי וזה הכתובת?",
+   "ts": 1794490933000,
+   "date": "2026-11-12",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACC4A660E9DFC9144201C9D43E2F46D7",
+   "sender": "גבי חמו",
+   "text": "כן",
+   "ts": 1794490946000,
+   "date": "2026-11-12",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "thread": "גבי חמו",
+   "phone": "972508105323"
+  },
+  {
+   "id": "ACC11AE6A1611EC5F46AF32787DC2F7B",
+   "sender": "גבי חמו",
+   "text": "אפשר גם מחר",
+   "ts": 1794490962000,
+   "date": "2026-11-12",
+   "time": "15:42",
+   "files": [],
+   "drive": null,
+   "thread": "גבי חמו",
+   "phone": "972508105323"
+  },
+  {
+   "id": "A5BFA690B8FF331CABD23BB693B48346",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794491033000,
+   "date": "2026-11-12",
+   "time": "15:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kQ1sE21jQGjkdVuuatrrfevVvQe38kkn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kQ1sE21jQGjkdVuuatrrfevVvQe38kkn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACE9A7FA6673EA3A5BF55AC17B62F889",
+   "sender": "Shmuel",
+   "text": "שלחתי לו את התמונה הזאת עכשיו, אמר לי שאין לו",
+   "ts": 1794491295000,
+   "date": "2026-11-12",
+   "time": "15:48",
+   "files": [],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "AC34FD869DB1ECCE74DA0BCE63E66CA0",
+   "sender": "Shmuel",
+   "text": "יש לך אפשרות לצלם את  הצד השני",
+   "ts": 1794491898000,
+   "date": "2026-11-12",
+   "time": "15:58",
+   "files": [],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "A5968E4B3C0E6B47C0C8B1798592D697",
+   "sender": "אני",
+   "text": "2 058505 03-60",
+   "ts": 1794492981000,
+   "date": "2026-11-12",
+   "time": "16:16",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A50F8C3E2834A4ECFA9E7647E75E14BC",
+   "sender": "אני",
+   "text": "0585050360",
+   "ts": 1794493013000,
+   "date": "2026-11-12",
+   "time": "16:16",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5D7BBEFE3D0A0177C1C77241C41E823",
+   "sender": "אני",
+   "text": "מפתח",
+   "ts": 1794493026000,
+   "date": "2026-11-12",
+   "time": "16:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5D490F7CF4273D478B2828BBE9DCE60",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794493041000,
+   "date": "2026-11-12",
+   "time": "16:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18uCmGeE5MN_QdjOnikRJh6t_4P2YBBTb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18uCmGeE5MN_QdjOnikRJh6t_4P2YBBTb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A50687D54A47A4848BBF3867BD9FE48C",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794493042000,
+   "date": "2026-11-12",
+   "time": "16:17",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "442KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zP5TiXTDA3OiLYQSdYXD3xMeA59mHndo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zP5TiXTDA3OiLYQSdYXD3xMeA59mHndo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A58E494EFDFA15943D38C6E516553E32",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794493415000,
+   "date": "2026-11-12",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1if_Pe5n19jY1l4gM8gO-GbjnUX4e4p4E/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1if_Pe5n19jY1l4gM8gO-GbjnUX4e4p4E&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5088D3701AF157EF0F55015ABE7F798",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794493427000,
+   "date": "2026-11-12",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "106KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1l9RBPObzyetNz06-JuPOC2s7BQXK83xL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1l9RBPObzyetNz06-JuPOC2s7BQXK83xL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC3B3F6101D3F8FCC3E653FFF5D2E0C9",
+   "sender": "Shmuel",
+   "text": "קרן קיימת לישראל  55 קרית מוצקין",
+   "ts": 1794495390000,
+   "date": "2026-11-12",
+   "time": "16:56",
+   "files": [],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "ACF51281EC929E22C376482CA6A9805E",
+   "sender": "Shmuel",
+   "text": "שלחתי את התמונות לעוד קולגה, אמר שיש לו..",
+   "ts": 1794495442000,
+   "date": "2026-11-12",
+   "time": "16:57",
+   "files": [],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "AC4B9E6A97C5A9B0BACCB0CB1CC8AF0C",
+   "sender": "מלכה טרבלסי",
+   "text": "הרב\nמחר אני צריכה את עזרתך",
+   "ts": 1794497963000,
+   "date": "2026-11-12",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC464BB7C003346C41082D645EFE12CC",
+   "sender": "מלכה טרבלסי",
+   "text": "במחשבים",
+   "ts": 1794497967000,
+   "date": "2026-11-12",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC0F1B29E72810F6016913BCD62972A3",
+   "sender": "מלכה טרבלסי",
+   "text": "בבקשה",
+   "ts": 1794497969000,
+   "date": "2026-11-12",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC9BA78C2AFA011F31BBEF9D7597A159",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794498276000,
+   "date": "2026-11-12",
+   "time": "17:44",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "32KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1dU9CW20VV0He7nc8nTD5QNhey3k5zman/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A506B829F7450F3C080E3DFA90094C87",
+   "sender": "אני",
+   "text": "באיזה שעה?",
+   "ts": 1794498310000,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACF36428A312246F86CF88A81C410DDA",
+   "sender": "מלכה טרבלסי",
+   "text": "מתי שתוכל",
+   "ts": 1794498321000,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A50ED069FB5072A3344671A09345EF70",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794498330000,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "34KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1G4mlv90UnsTw3LPXJt4V2Z7YtrAoikUp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC5B1249ADB135332518DA2CE1C538AB",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794498332000,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "17KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Lq1WhG9a8w8jYK8mtm8Q_obDWVzDqt1Y/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACF553B636A28890091E684FF77EE7F3",
+   "sender": "מלכה טרבלסי",
+   "text": "בטח",
+   "ts": 1794498343000,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC4C3CA36D51E53CE351348E78D0ECDD",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794498359000,
+   "date": "2026-11-12",
+   "time": "17:45",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "36KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1wjmd-bQD3I95fvTP7PqTf5qLKbaycdm4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC92A49603EF0217D2657D4A2B98C29C",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794498366000,
+   "date": "2026-11-12",
+   "time": "17:46",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "8KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1eYPVqGbfOQtmRUSadS9eEUFX5beXcqYd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A5405B3A3C4C0211A855CAD269238977",
+   "sender": "אני",
+   "text": "מעולה מה הטלפון שלו?",
+   "ts": 1794498388000,
+   "date": "2026-11-12",
+   "time": "17:46",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5F55A39A76607DB8314C45172CAC0C5",
+   "sender": "אני",
+   "text": "יש לי מחשבים וכולם שמחים",
+   "ts": 1794498421000,
+   "date": "2026-11-12",
+   "time": "17:47",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A53E84D7660AD09FB4B7E6A01EFF4048",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794498443000,
+   "date": "2026-11-12",
+   "time": "17:47",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "20KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1nnDBxxlrpneuBeiJDEqN_6woEU5sjrpV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACEB59979F879669FCB075889907ADB7",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794498457000,
+   "date": "2026-11-12",
+   "time": "17:47",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "10KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1-sxLX9v0p7wmiQtkmKyGQOfXH1RbCQzg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "מלכה טרבלסי",
+   "phone": "972528686062"
+  },
+  {
+   "id": "A5FDAA884BF031481BCF92607741FBD6",
+   "sender": "אני",
+   "text": "אפשר להעביר ליום שני לפחות אני לא יודע אם הרב משה יספיק להגיע אפילו עד סוף פרשת ואתחנן אני כזה תאריך פשוט בגלל שהיה צריך לכתוב תאריך וזה התאריך של משרד החינוך",
+   "ts": 1794498637000,
+   "date": "2026-11-12",
+   "time": "17:50",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACFD738EB0674902D9C1AF447DDEE01E",
+   "sender": "דבורה ויינר",
+   "text": "שלום. \nמבקשת את המקור של הדף המצ\"ב.\nמעוניינת להדפיס.\nצריכה איכות טובה.\nתודה.",
+   "ts": 1794499854000,
+   "date": "2026-11-12",
+   "time": "18:10",
+   "files": [],
+   "drive": null,
+   "thread": "דבורה ויינר",
+   "phone": "972509101095"
+  },
+  {
+   "id": "ACB6B73807B43B6387D161FFB4492A43",
+   "sender": "דבורה ויינר",
+   "text": "",
+   "ts": 1794499878000,
+   "date": "2026-11-12",
+   "time": "18:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qoFXJ8DzUh3kBxWzaDeFSjDYny7mrEef/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qoFXJ8DzUh3kBxWzaDeFSjDYny7mrEef&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "דבורה ויינר",
+   "phone": "972509101095"
+  },
+  {
+   "id": "A5104E7F7FD28F9A040ACB5711DF5890",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794500587000,
+   "date": "2026-11-12",
+   "time": "18:23",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "16KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1u2qbpKGy7OH4lU7DxamHehazUaJAqEYC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACB71329F8C5CD6E710B1244D6422458",
+   "sender": "דבורה ויינר",
+   "text": "ווטסאפ-\nניסי ה' ועוזו.\n\nמתאים לחוברת שאתה כתבת.",
+   "ts": 1794500642000,
+   "date": "2026-11-12",
+   "time": "18:24",
+   "files": [],
+   "drive": null,
+   "thread": "דבורה ויינר",
+   "phone": "972509101095"
+  },
+  {
+   "id": "3EB0726CBCF9B4E582E3C8",
+   "sender": "אני",
+   "text": "ערב טוב \nאפרת התחילה להכין משחק למידה בכיתה \nאפשר עם היא רוצה להמשיך אותו \nhttps://www.kol-toda.co.il/yotzrim/?c=10045",
+   "ts": 1794502074000,
+   "date": "2026-11-12",
+   "time": "18:47",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08881C4AB61BDC76C25",
+   "sender": "אני",
+   "text": "בכיתה היה כמה דברים שהמחשב תיקן:\n\n🏁 מרוץ – אפרת כהן\nקריאת שמע · 2026-11-12 · ✏️ הוחזר לתיקון\nמה נאמר לתלמיד: אפרת, התחלה יפה! השאלה על המילה \"בכל מאודך\" מצוינת. בשורה 3 יש בעיה: התשובה \"הנכדים שלך\" יכולה להיחשב נכונה, כי מצווה ללמד תורה גם את הנכדים. לכן יש שתי תשובות נכונות. תחליפו אותה בתשובה שבטוח לא נכונה, למשל \"רק החברים הטובים שלך\". ואז תשלחו שוב.\n🏁 מרוץ – אפרת כהן\nקריאת שמע · 2026-11-12 · ✏️ הוחזר לתיקון\nמה נאמר לתלמיד: אפרת, כל הכבוד על שאלה מעניינת על \"בכל מאודך\" ועל שאלת \"בניך\"! 👏 יש שני דברים לתקן: בשורה 1 כל שלוש התשובות (לבבך, נפשך, מאודך) מופיעות בפסוק ולכן כולן נכונות. כתבו למשל \"ואהבת את ה׳ אלוקיך בכל לבבך ובכל... ?\" כתשובה נכונה סמנו \"נפשך\", ובתשובות הלא נכונות כתבו \"כוחך\" ו\"ידיעתך\". בשורה 3 התשובה \"הנכדים שלך\" יכולה להיחשב נכונה, כי התורה מלמדת גם את הנכדים. החליפו אותה ב\"השכנים שלך\" או ב\"החברים שלך\".",
+   "ts": 1794502100000,
+   "date": "2026-11-12",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC005F57D4818C0B307AA87C68619238",
+   "sender": "Shmuel",
+   "text": "052-241-1121\nמשה",
+   "ts": 1794504107000,
+   "date": "2026-11-12",
+   "time": "19:21",
+   "files": [],
+   "drive": null,
+   "thread": "Shmuel",
+   "phone": "972525257499"
+  },
+  {
+   "id": "A53D4F4F9177281D110C218B259079B6",
+   "sender": "אני",
+   "text": "האם יש רמקול באולם הגברה?",
+   "ts": 1794504529000,
+   "date": "2026-11-12",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A56AC5B9891EDDE98D39B0FC31A0EBE0",
+   "sender": "לירון פתרון לבניין ולבית",
+   "text": "מחילה על החזרה המאוחרת...לי חסר\nדבר עם קולגה שלי מאמין שיכול לעזור👇",
+   "ts": 1794504632000,
+   "date": "2026-11-12",
+   "time": "19:30",
+   "files": [],
+   "drive": null,
+   "thread": "לירון פתרון לבניין ולבית",
+   "phone": "972585050360"
+  },
+  {
+   "id": "A5DB93BD90F4DFEB3781B4C11B4AC5C8",
+   "sender": "לירון פתרון לבניין ולבית",
+   "text": "📇 משה בוקובזה שכפול מפתחות אוסישקין\n+972522411121",
+   "ts": 1794504646000,
+   "date": "2026-11-12",
+   "time": "19:30",
+   "files": [],
+   "drive": null,
+   "thread": "לירון פתרון לבניין ולבית",
+   "phone": "972585050360"
+  },
+  {
+   "id": "AC54064E58A4F8267FFC234A69A9C4E5",
+   "sender": "הודיה",
+   "text": "ערב טוב נבקש שתתקשר אלינו בקשר לפרשת וישב השבת של חנוכה ארז יבוא אלינו ב\"ה לחופש נרצה לבוא אליכם ב\"ה מחכות לתשובתך תודה",
+   "ts": 1794505425000,
+   "date": "2026-11-12",
+   "time": "19:43",
+   "files": [],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "3EB09E905E2CE4F976CFEF",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/dapim/screen-translate.html",
+   "ts": 1794506362000,
+   "date": "2026-11-12",
+   "time": "19:59",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3A2CD819BABD6EF0F509",
+   "sender": "מיזלס אריה ופנינה",
+   "text": "רמקול לדיבור ?",
+   "ts": 1794508304000,
+   "date": "2026-11-12",
+   "time": "20:31",
+   "files": [],
+   "drive": null,
+   "thread": "מיזלס אריה ופנינה",
+   "phone": "972526099048"
+  },
+  {
+   "id": "3A66D42000C4956AFD1F",
+   "sender": "אורטל🌻",
+   "text": "היי יהודה,\nהאם אתה ויונתן ואתה ישבתם על המערך וחילקתם מה כל אחד עושה,",
+   "ts": 1794508439000,
+   "date": "2026-11-12",
+   "time": "20:33",
+   "files": [],
+   "drive": null,
+   "thread": "אורטל🌻",
+   "phone": "972546261812"
+  },
+  {
+   "id": "3EB08F3DFFC47F8B6A24A5",
+   "sender": "אני",
+   "text": "תקבע מה שנראה לך - אורטל רוצה שיהיה ביננו חלוקה ונשלח לה רשימה מסודרת",
+   "ts": 1794509815000,
+   "date": "2026-11-12",
+   "time": "20:56",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08554C4E076FC50656F",
+   "sender": "אני",
+   "text": "כן\nוהאם יש אפשרות לחבר לו דיסקאונקי לשירים",
+   "ts": 1794510181000,
+   "date": "2026-11-12",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3AB8670DE87A1C1761E6",
+   "sender": "מיזלס אריה ופנינה",
+   "text": "לא יודע צריך להגיע לבדוק לי אין מושג",
+   "ts": 1794510244000,
+   "date": "2026-11-12",
+   "time": "21:04",
+   "files": [],
+   "drive": null,
+   "thread": "מיזלס אריה ופנינה",
+   "phone": "972526099048"
+  },
+  {
+   "id": "A570E4D8DC918E38145E142FE8757D3A",
+   "sender": "אני",
+   "text": "ערב טוב כאן הרב טאוב\nהיום מוריה זכתה במקום הראשון בחידון קריאת שמע\nכל הכבוד!",
+   "ts": 1794513909000,
+   "date": "2026-11-12",
+   "time": "22:05",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5892752B74060AAEF6029E47A84AE95",
+   "sender": "אני",
+   "text": "ונשמח אם תוכלי להגיד למוריה.\n שלרב לא מדברים כמו חבירה\nוזה לא מכובד להעיר הערות ולומר אתה לא מתנהג יפה וכדומה.",
+   "ts": 1794514001000,
+   "date": "2026-11-12",
+   "time": "22:06",
+   "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }

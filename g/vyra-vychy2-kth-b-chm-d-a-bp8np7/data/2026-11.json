@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-11-09T19:23:46.054Z",
+ "updated": "2026-11-12T09:56:45.039Z",
  "messages": [
   {
    "id": "3EB07E6F24C8A9165D9D2C",
@@ -543,6 +543,47 @@
    ],
    "drive": null,
    "phone": "972544719797"
+  },
+  {
+   "id": "3EB0FEDA18198426D95925",
+   "sender": "בת עמי דהרי",
+   "text": "בוקר טוב, מישהו יכול לשלוח את זה שוב?",
+   "ts": 1794471011000,
+   "date": "2026-11-12",
+   "time": "10:10",
+   "files": [],
+   "drive": null,
+   "phone": "972584021019"
+  },
+  {
+   "id": "A50CEE775E1AF36451AF1E978F567353",
+   "sender": "מנחם מלצמן",
+   "text": "",
+   "ts": 1794471708000,
+   "date": "2026-11-12",
+   "time": "10:21",
+   "files": [
+    {
+     "name": "DOC-20250512-WA0050_261015_144613.pdf",
+     "size": "1.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/10OI4CXPxPQM9YEBtaPDB05BpTd_M6jIM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547891440"
+  },
+  {
+   "id": "ACB6CD97B6B333A690FADDC4633A2DBE",
+   "sender": "בת עמי דהרי",
+   "text": "תודה רבה!",
+   "ts": 1794477403000,
+   "date": "2026-11-12",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972584021019"
   }
  ]
 }
