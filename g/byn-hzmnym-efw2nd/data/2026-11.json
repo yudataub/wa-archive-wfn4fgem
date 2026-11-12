@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-12T21:07:33.901Z",
+ "updated": "2026-11-12T22:01:44.555Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -1941,6 +1941,26 @@
    "files": [],
    "drive": null,
    "phone": "972526677091"
+  },
+  {
+   "id": "2A38EF15913377148B31",
+   "sender": "חדוה צימר הרים באופק חזון",
+   "text": "לשישי שבת - מחר \nמחיר מיוחד למי שרוצה בריכה מחוממת פרטית ומתחם פרטי \nבית הכנסת קרוב \nויש כל מה שצריך לכבוד שבת \nפלטה , מיחם ועוד \n2000 ש״ח למשפחה של עד 8 נפשות \nמחיר ממממש מיוחד של הרגע האחרון \nשריינו לכם - 0523252049\n\n‭050-2779355",
+   "ts": 1794520892000,
+   "date": "2026-11-13",
+   "time": "00:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10UTmS54m1gXv2h5hRgbvx6V7vZq-CRti/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10UTmS54m1gXv2h5hRgbvx6V7vZq-CRti&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523252049"
   }
  ]
 }

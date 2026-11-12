@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרומפט טוב, הכל טוב (כמעט)",
- "updated": "2026-11-12T21:01:29.782Z",
+ "updated": "2026-11-12T21:12:59.963Z",
  "messages": [
   {
    "id": "3EB0AF22BD3D6934D4A5B1",
@@ -12975,7 +12975,8 @@
      "path": "https://drive.google.com/file/d/1aIznuFYpIQOqAzKg10DPQDODnw6CCixr/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3A061E199C994151DEB4_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1aIznuFYpIQOqAzKg10DPQDODnw6CCixr&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1aIznuFYpIQOqAzKg10DPQDODnw6CCixr&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-prvmpt-tvb-hkl-tvb-kmat-g39tzg-2/v/2026-11/3A061E199C994151DEB4_0.mp4"
     }
    ],
    "drive": null,
@@ -13959,6 +13960,55 @@
    "files": [],
    "drive": null,
    "phone": "972505646915"
+  },
+  {
+   "id": "AC7306CA534BF7E6A46F3A3A3A2DF60B",
+   "sender": "חפציה",
+   "text": "צודקת, אני בצד שלך.\nדניאל שרייבר אמר - בינה תהיה כמעט אינסופית וכמעט חינמית.\nהמודלים כבר עכשיו נהיים יותר יעילים, לאט יתכנסו ליעילות אנרגטית המדהימה של המוח שלנו...\nאבל יהיו פערים שנצטרך להסתדר עם מעט, לזפזפ בין כלים...",
+   "ts": 1794517891000,
+   "date": "2026-11-12",
+   "time": "23:11",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC3FF84FD314B7F885ED64907CA2CB68",
+   "sender": "חפציה",
+   "text": "הידרוג'ן",
+   "ts": 1794517899000,
+   "date": "2026-11-12",
+   "time": "23:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "63KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC3FF84FD314B7F885ED64907CA2CB68_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC0EA838F70BB6F1F7BD5785B364889B",
+   "sender": "Haim",
+   "text": "",
+   "ts": 1794517960000,
+   "date": "2026-11-12",
+   "time": "23:12",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "26KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC0EA838F70BB6F1F7BD5785B364889B_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544894447"
   }
  ]
 }

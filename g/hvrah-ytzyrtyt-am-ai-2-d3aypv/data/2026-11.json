@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-11-12T18:47:43.657Z",
+ "updated": "2026-11-12T21:09:59.913Z",
  "messages": [
   {
    "id": "A554B615A3012223D2850C5ED6385152",
@@ -1076,7 +1076,8 @@
      "path": "https://drive.google.com/file/d/1ChF5kYDv4P5K0My_EjzLcHXh-9WZRwij/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC69CF20CE3A65BACDCFC6631EE65761_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1ChF5kYDv4P5K0My_EjzLcHXh-9WZRwij&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ChF5kYDv4P5K0My_EjzLcHXh-9WZRwij&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hvrah-ytzyrtyt-am-ai-2-d3aypv/v/2026-11/AC69CF20CE3A65BACDCFC6631EE65761_0.mp4"
     }
    ],
    "drive": null,
@@ -1156,7 +1157,8 @@
      "path": "https://drive.google.com/file/d/1SCemA5Xn9UVsVPH2NvM24LnRcaKpZfdW/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACD4935EB5145BD8CD6A3AE73BEB4D59_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1SCemA5Xn9UVsVPH2NvM24LnRcaKpZfdW&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1SCemA5Xn9UVsVPH2NvM24LnRcaKpZfdW&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hvrah-ytzyrtyt-am-ai-2-d3aypv/v/2026-11/ACD4935EB5145BD8CD6A3AE73BEB4D59_0.mp4"
     }
    ],
    "drive": null,
@@ -1177,11 +1179,34 @@
      "path": "https://drive.google.com/file/d/1-EOTs6-B1qZ-z2R3_OJD-VT03tw1AVke/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC18BBD6D843035DFDB203B6DE2F044A_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1-EOTs6-B1qZ-z2R3_OJD-VT03tw1AVke&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1-EOTs6-B1qZ-z2R3_OJD-VT03tw1AVke&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-hvrah-ytzyrtyt-am-ai-2-d3aypv/v/2026-11/AC18BBD6D843035DFDB203B6DE2F044A_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972549260040"
+  },
+  {
+   "id": "AC6C0E8AC7FA64C544D343C026D0A0F4",
+   "sender": "מרים",
+   "text": "מ א מ י !",
+   "ts": 1794517739000,
+   "date": "2026-11-12",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972522548451"
+  },
+  {
+   "id": "3BF72C194AC0D27E339B",
+   "sender": "Evyatar Shpilman",
+   "text": "מה?",
+   "ts": 1794517793000,
+   "date": "2026-11-12",
+   "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972547620744"
   }
  ]
 }

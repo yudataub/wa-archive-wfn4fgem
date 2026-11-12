@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-11-12T20:44:26.752Z",
+ "updated": "2026-11-12T22:12:14.718Z",
  "messages": [
   {
    "id": "3A1360C74E1D1E477058",
@@ -2919,7 +2919,8 @@
      "path": "https://drive.google.com/file/d/1C98XI2Lu7JjIuFIsnSKPoSZ_WkykV67K/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC8BA88E5597324FFCE08DDD77721D07_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1C98XI2Lu7JjIuFIsnSKPoSZ_WkykV67K&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1C98XI2Lu7JjIuFIsnSKPoSZ_WkykV67K&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i-2/v/2026-11/AC8BA88E5597324FFCE08DDD77721D07_0.mp4"
     }
    ],
    "drive": null,
@@ -3020,7 +3021,8 @@
      "path": "https://drive.google.com/file/d/1D8kqv1DgCcld2sCQ-mZLuNzuJqlevPwf/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC59500A13E10525B0C71AB27E416C51_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1D8kqv1DgCcld2sCQ-mZLuNzuJqlevPwf&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1D8kqv1DgCcld2sCQ-mZLuNzuJqlevPwf&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i-2/v/2026-11/AC59500A13E10525B0C71AB27E416C51_0.mp4"
     }
    ],
    "drive": null,
@@ -3064,6 +3066,26 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "AC9C161DF309A5C22B4C909BA5192F2D",
+   "sender": "נתנאל סבירו - גוף ונפש",
+   "text": "קריית אתא והסביבה, זאת ההזדמנות שלכם!!",
+   "ts": 1794521507000,
+   "date": "2026-11-13",
+   "time": "00:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZOu-94VtRRRHjyaFQI7K3e-CoScuDeOC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZOu-94VtRRRHjyaFQI7K3e-CoScuDeOC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529244742"
   }
  ]
 }

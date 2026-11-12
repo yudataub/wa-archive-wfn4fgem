@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "נחל אליהו - שיעורי הגר\"א דיסקין",
- "updated": "2026-11-07T19:49:49.807Z",
+ "updated": "2026-11-12T21:28:30.188Z",
  "messages": [
   {
    "id": "AC112B35BCB57182B9B888930C5BF671",
@@ -51,6 +51,25 @@
    ],
    "drive": null,
    "phone": "972512266924"
+  },
+  {
+   "id": "ACF40742915ABB54BD5407C18A6995D1",
+   "sender": "הכול חפצים ליראה את שמך",
+   "text": "",
+   "ts": 1794518894000,
+   "date": "2026-11-12",
+   "time": "23:28",
+   "files": [
+    {
+     "name": "פרשת תולדות 797.pdf",
+     "size": "5.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1TlRVp5AloqKDWdxQZKdFh8t37ewXSzVG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509127078"
   }
  ]
 }

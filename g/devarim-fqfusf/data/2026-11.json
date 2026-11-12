@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-12T08:17:48.131Z",
+ "updated": "2026-11-12T21:07:59.893Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -2548,6 +2548,27 @@
    "files": [],
    "drive": null,
    "phone": "972522258245"
+  },
+  {
+   "id": "AC85E9CB07CCB8C3211732A6817104D5",
+   "sender": "גאולה טל",
+   "text": "*רגע לשבת פרשת תולדות*\n*עם הרב שמשון טל*\nהצטרפו לקבוצה השקטה\n *שבת שלום! הוד השרון*",
+   "ts": 1794517664000,
+   "date": "2026-11-12",
+   "time": "23:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "22.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1o4LgoSMRI-KKlJTNXQ8sNhjJCZIC5AWO/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC85E9CB07CCB8C3211732A6817104D5_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1o4LgoSMRI-KKlJTNXQ8sNhjJCZIC5AWO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547770845"
   }
  ]
 }

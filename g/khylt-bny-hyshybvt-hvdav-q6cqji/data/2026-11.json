@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-12T21:04:26.999Z",
+ "updated": "2026-11-12T21:53:09.425Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -2014,7 +2014,8 @@
      "path": "https://drive.google.com/file/d/1F9m2QPlwKa_jSB0mlUoZ7QupooQfstFm/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC9570B89427DD43B997ECBB6676C701_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1F9m2QPlwKa_jSB0mlUoZ7QupooQfstFm&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1F9m2QPlwKa_jSB0mlUoZ7QupooQfstFm&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-bny-hyshybvt-hvdav-q6cqji/v/2026-11/AC9570B89427DD43B997ECBB6676C701_0.mp4"
     }
    ],
    "drive": null,
@@ -2103,6 +2104,59 @@
    ],
    "drive": null,
    "phone": "972528907838"
+  },
+  {
+   "id": "3EB0B2EF4CE200D692B95C",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1794517807000,
+   "date": "2026-11-12",
+   "time": "23:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "301KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FoF4xU2DEm-sQey8r7q8Nq-Y3WHSVosh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FoF4xU2DEm-sQey8r7q8Nq-Y3WHSVosh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "ACF7AE15BC71408FBB298679AB6C67E6",
+   "sender": "דוד יוליס",
+   "text": "5:47",
+   "ts": 1794519050000,
+   "date": "2026-11-12",
+   "time": "23:30",
+   "files": [],
+   "drive": null,
+   "phone": "972506568711"
+  },
+  {
+   "id": "ACC270F9832F2CBA4DE82CFD58E2BBB0",
+   "sender": "נועה רוזנטל",
+   "text": "תודה",
+   "ts": 1794519591000,
+   "date": "2026-11-12",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972527603559"
+  },
+  {
+   "id": "3A7FAAD20E4F2E1D0C37",
+   "sender": "d",
+   "text": "יש מישהו שיוצא עכשיו מבני ברק לכיוון קרית אתא? 🙏",
+   "ts": 1794520385000,
+   "date": "2026-11-12",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "phone": "972559430188"
   }
  ]
 }

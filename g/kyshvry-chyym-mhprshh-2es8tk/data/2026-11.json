@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-11-12T20:53:26.881Z",
+ "updated": "2026-11-12T22:47:22.436Z",
  "messages": [
   {
    "id": "A5463BF88870C5DAA09E11188F1B1017",
@@ -172,6 +172,63 @@
    "date": "2026-11-12",
    "time": "22:53",
    "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A59BF770105F6525BFD568904C762B18",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794523537000,
+   "date": "2026-11-13",
+   "time": "00:45",
+   "files": [
+    {
+     "name": "פרשת תולדות (1).pdf",
+     "size": "541KB",
+     "type": "application/octet-stream",
+     "path": "https://drive.google.com/file/d/1NdbSEdM32XofzxOGahk-P3BPEzLdxm7c/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A5D1D7F8CBB8AC873CFCFF137F7B367E",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794523617000,
+   "date": "2026-11-13",
+   "time": "00:46",
+   "files": [
+    {
+     "name": "פרשת תולדות (1).pdf",
+     "size": "541KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UoUSn3YgKv3e5FGNT-rjh96pg_XygqSU/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A5F79294A5B9B04FF7D5BB2874F1F5B6",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794523617000,
+   "date": "2026-11-13",
+   "time": "00:46",
+   "files": [
+    {
+     "name": "תולדות 77.pdf",
+     "size": "576KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1A1UXwROIwUbimhxe1qucAm2nb32A6E2A/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972527693680"
   }
