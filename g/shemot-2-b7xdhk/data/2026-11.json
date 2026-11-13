@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-12T14:16:50.813Z",
+ "updated": "2026-11-13T13:19:17.035Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -2056,6 +2056,59 @@
    "files": [],
    "drive": null,
    "phone": "972524833977"
+  },
+  {
+   "id": "AC3469AF4323DEF5529F076C27853CF0",
+   "sender": "שירן לוי",
+   "text": "יש למשהי שער לקלסר פרשת שבוע שמתאים לבנים ובנות?",
+   "ts": 1794555011000,
+   "date": "2026-11-13",
+   "time": "09:30",
+   "files": [],
+   "drive": null,
+   "phone": "972548469798"
+  },
+  {
+   "id": "ACB57C6D55813BB5A3113672BCD1169A",
+   "sender": "אוריה גיגי",
+   "text": "",
+   "ts": 1794573026000,
+   "date": "2026-11-13",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gEtFl60al_0E9cBIFBF54HNetXh3t2XT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gEtFl60al_0E9cBIFBF54HNetXh3t2XT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506762370"
+  },
+  {
+   "id": "AC49DC1B9B77FBEDD15388FCFE8FD929",
+   "sender": "שירן לוי",
+   "text": "יאא תודה",
+   "ts": 1794575930000,
+   "date": "2026-11-13",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972548469798"
+  },
+  {
+   "id": "AC6314446A3FA7F3C0A9A3FF3EC7B614",
+   "sender": "שירן לוי",
+   "text": "אשמח גם לקלסר תורה🙏",
+   "ts": 1794575936000,
+   "date": "2026-11-13",
+   "time": "15:18",
+   "files": [],
+   "drive": null,
+   "phone": "972548469798"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🛍️ יד2 קריות והסביבה – מכירה ומסירה 🛍️",
- "updated": "2026-11-12T19:47:19.041Z",
+ "updated": "2026-11-13T16:00:39.614Z",
  "messages": [
   {
    "id": "AC1D80E959078FD236625A80E55DDB95",
@@ -1663,6 +1663,157 @@
    ],
    "drive": null,
    "phone": "972537540299"
+  },
+  {
+   "id": "AC6B76BB9A2FA35B3FF2825651D98EDD",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794558599000,
+   "date": "2026-11-13",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ej2ZDxWgjKR6eGCC5MkJjFMsN9RUj8uw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ej2ZDxWgjKR6eGCC5MkJjFMsN9RUj8uw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC896A8BDC2CD60981D3E4FDD8BE596B",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794558599000,
+   "date": "2026-11-13",
+   "time": "10:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-Soj00S_83ovOaE8XzogZpLtTvKaqb00/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-Soj00S_83ovOaE8XzogZpLtTvKaqb00&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "AC1508B43D7A4FBF852F47154F6FE42A",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794558600000,
+   "date": "2026-11-13",
+   "time": "10:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "191KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Hig4v5jdomDJ0RfdVeSHKSJaHWlxw-f1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Hig4v5jdomDJ0RfdVeSHKSJaHWlxw-f1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "ACEE33DE6570C6B1D9CFC8AAEDC8FC60",
+   "sender": "המשפחה שלי !",
+   "text": "",
+   "ts": 1794558600000,
+   "date": "2026-11-13",
+   "time": "10:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DMyrtMmxYQnhgK7iHt2cMUyXPXZCgRB2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DMyrtMmxYQnhgK7iHt2cMUyXPXZCgRB2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504477756"
+  },
+  {
+   "id": "3AEA7BDC9BE01B538E4C",
+   "sender": "איתי קובי",
+   "text": "מכונת כביסה מצב חדש לגמרי רק 400 ש״ח משלומית כל הקודם זוכה",
+   "ts": 1794559382000,
+   "date": "2026-11-13",
+   "time": "10:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qdN-Q0aFvnEgANilsAEZ-zJuijKTgsHY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qdN-Q0aFvnEgANilsAEZ-zJuijKTgsHY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505071079"
+  },
+  {
+   "id": "3AB85DE36D1199E2D60A",
+   "sender": "איתי קובי",
+   "text": "אופני דונה מצב מצוין רק 300 ש״ח משלומית",
+   "ts": 1794559470000,
+   "date": "2026-11-13",
+   "time": "10:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "506KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13XXdyiRGT58Xf1syjL7-c_RXhXkjcd8H/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13XXdyiRGT58Xf1syjL7-c_RXhXkjcd8H&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505071079"
+  },
+  {
+   "id": "AC6B1852ABF2AAED1BA685251E62BAFC",
+   "sender": ".",
+   "text": "",
+   "ts": 1794585572000,
+   "date": "2026-11-13",
+   "time": "17:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "244KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/147K2QiJNS9-0hcbtXiFlkb6Wzl1Y9YjN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=147K2QiJNS9-0hcbtXiFlkb6Wzl1Y9YjN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587914318"
+  },
+  {
+   "id": "ACE4581D444EF9283F3CE2BD1EBD9CDE",
+   "sender": ".",
+   "text": "150 מיטה חדשה",
+   "ts": 1794585600000,
+   "date": "2026-11-13",
+   "time": "18:00",
+   "files": [],
+   "drive": null,
+   "phone": "972587914318"
   }
  ]
 }

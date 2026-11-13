@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-12T21:53:09.425Z",
+ "updated": "2026-11-13T13:07:46.801Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -2157,6 +2157,171 @@
    "files": [],
    "drive": null,
    "phone": "972559430188"
+  },
+  {
+   "id": "AC763EB352C91B855D54605712CF45AA",
+   "sender": "דוד יוליס",
+   "text": "מישהו שנוסע לשבת לקרית ספר, להעביר מעטפה קטנה?",
+   "ts": 1794554285000,
+   "date": "2026-11-13",
+   "time": "09:18",
+   "files": [],
+   "drive": null,
+   "phone": "972506568711"
+  },
+  {
+   "id": "A59423FC79DDB0256738891D9CC0A26C",
+   "sender": "קופת החסד קרית אתא",
+   "text": "🌟 זוכרים את השכן לקניה לשבת? 🛒🍷\nמכניסים מטבע קטן לקופה בשבילו –\n וזוכים לכבוד שבת אמיתי, יחד איתו! 🤝✨\n👉 תורמים עכשיו בקישור: https://nedar.im/PYvk\n\n📱 או בביט בקלות: 0584409604\n\nלחדשות הקופה ועדכוני החודש כנסו לאתר החדש של קופת החסד! 🌐👇kupata.co.il",
+   "ts": 1794556546000,
+   "date": "2026-11-13",
+   "time": "09:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1OlchWq5KJ_9tRksBdpiI5pkTNAOz3djO/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A59423FC79DDB0256738891D9CC0A26C_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1OlchWq5KJ_9tRksBdpiI5pkTNAOz3djO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553087073"
+  },
+  {
+   "id": "AC011A92BA2D8D3C086EF3255A04E0C1",
+   "sender": "ישראל",
+   "text": "יש מישהו שמגיע מירושלים לקרית אתא היום?",
+   "ts": 1794559479000,
+   "date": "2026-11-13",
+   "time": "10:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526777485"
+  },
+  {
+   "id": "AC1E495FFBEB8FD2E3D2B6C00953C184",
+   "sender": "שרגא רוזנטל",
+   "text": "המנין ב12:30 בפאי היום, פעיל?",
+   "ts": 1794564086000,
+   "date": "2026-11-13",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "phone": "972547477628"
+  },
+  {
+   "id": "AC870ADC614B324B264F1C8AE729C6DB",
+   "sender": "דוד יוליס",
+   "text": "אמור להיות",
+   "ts": 1794564229000,
+   "date": "2026-11-13",
+   "time": "12:03",
+   "files": [],
+   "drive": null,
+   "phone": "972506568711"
+  },
+  {
+   "id": "AC8472DCEA50DB2F6BADF14AC8EB0C09",
+   "sender": "יעקב קרלינסקי",
+   "text": "כן",
+   "ts": 1794564242000,
+   "date": "2026-11-13",
+   "time": "12:04",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACA966113284C743E10589CD15DD0C36",
+   "sender": "בני קרמר",
+   "text": "*מנין מנחה חדש בבית הכנסת דרך אמונה*\nבימי שישי\nבשעה 12:30",
+   "ts": 1794564274000,
+   "date": "2026-11-13",
+   "time": "12:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA966113284C743E10589CD15DD0C36_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC8B088D068C1A59F20D64AA0478AEE6",
+   "sender": "בני קרמר",
+   "text": "זמני התפילות בית הכנסת דרך אמונה\nפרשת תולדות",
+   "ts": 1794574386000,
+   "date": "2026-11-13",
+   "time": "14:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "97KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC8B088D068C1A59F20D64AA0478AEE6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552750802"
+  },
+  {
+   "id": "AC2431A3F48315BFE9CF22DDADDA4E85",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1794575230000,
+   "date": "2026-11-13",
+   "time": "15:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14YshfArS9Pe56a-WVYiOAK4pTqPmFMCF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14YshfArS9Pe56a-WVYiOAK4pTqPmFMCF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC7C0EC859CD5CF9D6BD9F865B740010",
+   "sender": "ישי",
+   "text": "",
+   "ts": 1794575253000,
+   "date": "2026-11-13",
+   "time": "15:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "450KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-wfbH6ilYNJfM8J-yvDDdTRd0LbGlSNa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-wfbH6ilYNJfM8J-yvDDdTRd0LbGlSNa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC818467B921BAA67B363EEC21AEFE56",
+   "sender": "ישי",
+   "text": "כולם מוזמנים",
+   "ts": 1794575253000,
+   "date": "2026-11-13",
+   "time": "15:07",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
   }
  ]
 }

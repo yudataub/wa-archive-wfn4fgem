@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-11-12T22:31:14.977Z",
+ "updated": "2026-11-13T13:49:24.562Z",
  "messages": [
   {
    "id": "ACC6568ECDEB7F48FEA2636611698041",
@@ -1276,6 +1276,90 @@
    "files": [],
    "drive": null,
    "phone": "972548405900"
+  },
+  {
+   "id": "ACA11D12F672E2E8C2360BD361D50989",
+   "sender": "Dikla Rosner  Orlian",
+   "text": "מה עם משרות בצפון ? איזור חיפה והקריות ...מחפשת סטאג ' כבר לשנה הבאה .....",
+   "ts": 1794544370000,
+   "date": "2026-11-13",
+   "time": "06:32",
+   "files": [],
+   "drive": null,
+   "phone": "972508837014"
+  },
+  {
+   "id": "3A42AD751211C7D2D106",
+   "sender": "Hadasa🌹",
+   "text": "",
+   "ts": 1794556256000,
+   "date": "2026-11-13",
+   "time": "09:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16RR_TlVHTXIGLHWegnndFsgpgyHc9olL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16RR_TlVHTXIGLHWegnndFsgpgyHc9olL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505792010"
+  },
+  {
+   "id": "3A5CAEB954D52D6B3AF3",
+   "sender": "אורטל",
+   "text": "חינוך מיוחד או רגיל?",
+   "ts": 1794556984000,
+   "date": "2026-11-13",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972585789234"
+  },
+  {
+   "id": "AC497E522F4330CBBF981FE4DEDC5893",
+   "sender": "אסתר מזרחי👑",
+   "text": "אשמח למידע על משרות בעפולה והסביבה🙏🏻",
+   "ts": 1794557211000,
+   "date": "2026-11-13",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "phone": "972533549503"
+  },
+  {
+   "id": "AC117F4606ABECB937938B3484331CDB",
+   "sender": "Dikla Rosner  Orlian",
+   "text": "היי רגיל וגנים בבקשה",
+   "ts": 1794558209000,
+   "date": "2026-11-13",
+   "time": "10:23",
+   "files": [],
+   "drive": null,
+   "phone": "972508837014"
+  },
+  {
+   "id": "AC140065C8FD29C27490ACC69853561E",
+   "sender": "אביטל",
+   "text": "",
+   "ts": 1794577761000,
+   "date": "2026-11-13",
+   "time": "15:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16U_kj3o6OOg9wnMS34EGpqkEw_nDTE58/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16U_kj3o6OOg9wnMS34EGpqkEw_nDTE58&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552551435"
   }
  ]
 }

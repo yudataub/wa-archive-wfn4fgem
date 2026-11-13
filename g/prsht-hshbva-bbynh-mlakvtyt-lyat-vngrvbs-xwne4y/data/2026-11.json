@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת השבוע בבינה מלאכותית ליאת ונגרובסקי",
- "updated": "2026-11-10T10:57:11.673Z",
+ "updated": "2026-11-13T07:12:39.512Z",
  "messages": [
   {
    "id": "3EB08804F3558AE14FF6BB",
@@ -39,6 +39,25 @@
      "path": "https://drive.google.com/file/d/1WKbZdiN7C802e5AwgFIq6A6E-EWqmJtH/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1WKbZdiN7C802e5AwgFIq6A6E-EWqmJtH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546535745"
+  },
+  {
+   "id": "ACF24493B1143287AE66DE18AEE8F832",
+   "sender": "ליאת ונגרובסקי",
+   "text": "פרשת תולדות\nפתרונות בקובץ בתיאור הקבוצה",
+   "ts": 1794553929000,
+   "date": "2026-11-13",
+   "time": "09:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "72KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACF24493B1143287AE66DE18AEE8F832_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

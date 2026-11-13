@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "'חלקנו' - עדכונים ותוכן 23",
- "updated": "2026-11-12T07:11:43.720Z",
+ "updated": "2026-11-13T11:54:39.426Z",
  "messages": [
   {
    "id": "A58564826A32DEC48B707E138120F872",
@@ -100,6 +100,47 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1XFrVq0dUyh4Hg5Iky4CVm_pU8J2uKKfX/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972553390473"
+  },
+  {
+   "id": "A55C3EF6841C66C8FBA7F3397C17ECBA",
+   "sender": "מחלקת התוכן חלקי בקהילתי",
+   "text": "🕯️ *זמני הדלקת נרות פרשת תולדות* 🕯️",
+   "ts": 1794550826000,
+   "date": "2026-11-13",
+   "time": "08:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1niMTtmb0kIv65YBvcTJV_bhBLmWKZ3Hd/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A55C3EF6841C66C8FBA7F3397C17ECBA_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1niMTtmb0kIv65YBvcTJV_bhBLmWKZ3Hd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972553390473"
+  },
+  {
+   "id": "A5D5F514EB379C919ED7E73F1B59664D",
+   "sender": "מחלקת התוכן חלקי בקהילתי",
+   "text": "",
+   "ts": 1794570854000,
+   "date": "2026-11-13",
+   "time": "13:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "148KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hrS9v3x_ZL_yWjSFBVduDKzqQr4qFjdp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hrS9v3x_ZL_yWjSFBVduDKzqQr4qFjdp&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-12T13:07:46.820Z",
+ "updated": "2026-11-13T06:55:13.860Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -2949,6 +2949,185 @@
    "files": [],
    "drive": null,
    "phone": "972509452770"
+  },
+  {
+   "id": "3A7275E4DBE6C36E000F",
+   "sender": "אפרת כהן",
+   "text": "בוקר טוב",
+   "ts": 1794551208000,
+   "date": "2026-11-13",
+   "time": "08:26",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "3A87CAEE9ED4A6294B2F",
+   "sender": "אפרת כהן",
+   "text": "מותר לבחון עם חומש פתוח?",
+   "ts": 1794551222000,
+   "date": "2026-11-13",
+   "time": "08:27",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "3AF44555F9842488034F",
+   "sender": "אפרת כהן",
+   "text": "אשמח למענה דחוף",
+   "ts": 1794551264000,
+   "date": "2026-11-13",
+   "time": "08:27",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "AC4B3F0430AF81B2F88EDBEB1BC9BE8C",
+   "sender": "גלית רקנטי",
+   "text": "למה לא?",
+   "ts": 1794551316000,
+   "date": "2026-11-13",
+   "time": "08:28",
+   "files": [],
+   "drive": null,
+   "phone": "972504414170"
+  },
+  {
+   "id": "3ADEC973A4C09F1CA8A2",
+   "sender": "אפרת כהן",
+   "text": "המנהלת שלי טוענת שאסור",
+   "ts": 1794551333000,
+   "date": "2026-11-13",
+   "time": "08:28",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "AC440D3A3BEDF6C649156018727E9CDF",
+   "sender": "גלית רקנטי",
+   "text": "",
+   "ts": 1794551345000,
+   "date": "2026-11-13",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "phone": "972504414170"
+  },
+  {
+   "id": "3A7DC662696647FE7FCD",
+   "sender": "אפרת כהן",
+   "text": "יש לנו על זה ויכוח",
+   "ts": 1794551370000,
+   "date": "2026-11-13",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "AC6A320C141C3C270D86CDFBD874F168",
+   "sender": "גלית רקנטי",
+   "text": "",
+   "ts": 1794551373000,
+   "date": "2026-11-13",
+   "time": "08:29",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "64KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1eHJxFu-2OQ-2tEuIGpggWMnQa8tBtKWs/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504414170"
+  },
+  {
+   "id": "AC0CDFF664FBB1EACAB99645788683C8",
+   "sender": "גלית רקנטי",
+   "text": "",
+   "ts": 1794551411000,
+   "date": "2026-11-13",
+   "time": "08:30",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "87KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1UUEdEY_hGV-qCqXW2mNMAKMnVfhV9An_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504414170"
+  },
+  {
+   "id": "3A50CFC751910BF88402",
+   "sender": "אפרת כהן",
+   "text": "תודה!",
+   "ts": 1794551488000,
+   "date": "2026-11-13",
+   "time": "08:31",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "3EB09D623F0FAE0C73FCB1",
+   "sender": "קובי",
+   "text": "בוחנים עם חומש פתוח. שלחנו הנחיות מדוייקות",
+   "ts": 1794551620000,
+   "date": "2026-11-13",
+   "time": "08:33",
+   "files": [],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "3A2F0518A7BBE9730592",
+   "sender": "אפרת כהן",
+   "text": "תודה!",
+   "ts": 1794551639000,
+   "date": "2026-11-13",
+   "time": "08:33",
+   "files": [],
+   "drive": null,
+   "phone": "972504565559"
+  },
+  {
+   "id": "AC7B664704077A82530E732BBB95B6D3",
+   "sender": "קובי",
+   "text": "מצורף קישור למבחנים:\nhttps://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/pedagogy-of-the-hamad-bible/measurement/",
+   "ts": 1794551648000,
+   "date": "2026-11-13",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "333KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tvCfCSri1ZsovT763zfo-cyfOlaom9c6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tvCfCSri1ZsovT763zfo-cyfOlaom9c6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522916682"
+  },
+  {
+   "id": "AC0E9CA6EE9A58BE209D152C8AC9E98D",
+   "sender": "S",
+   "text": "יש למישהו תפזורות תולדות",
+   "ts": 1794552896000,
+   "date": "2026-11-13",
+   "time": "08:54",
+   "files": [],
+   "drive": null,
+   "phone": "972534515491"
   }
  ]
 }

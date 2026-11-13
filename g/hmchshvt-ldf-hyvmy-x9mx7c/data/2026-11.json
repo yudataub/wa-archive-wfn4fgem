@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-12T04:02:44.431Z",
+ "updated": "2026-11-13T04:13:29.338Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -567,6 +567,45 @@
      "path": "https://drive.google.com/file/d/1usvuXDAoFIm9G64HYevcN-vSYsZnvBsD/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1usvuXDAoFIm9G64HYevcN-vSYsZnvBsD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A9702344F2EFB666793",
+   "sender": ".",
+   "text": "״בניך אין בלקוח ובמתנה״ (בכורות נו, א).",
+   "ts": 1794543200000,
+   "date": "2026-11-13",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Pxv0g5K2DkJ6hw27MzZcedt1jr9C96AP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pxv0g5K2DkJ6hw27MzZcedt1jr9C96AP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AAC638DF754D28684A8",
+   "sender": ".",
+   "text": "״גדיים כנגד תיישים״ (בכורות נו, ב).",
+   "ts": 1794543201000,
+   "date": "2026-11-13",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AAC638DF754D28684A8_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת המורים של גוגל GEG",
- "updated": "2026-11-12T20:00:44.808Z",
+ "updated": "2026-11-13T14:02:28.369Z",
  "messages": [
   {
    "id": "3EB0C879BEBEE1863EE35C",
@@ -160,6 +160,26 @@
      "type": "image/jpeg",
      "path": "media/2026-11/AC933DFF2A9476EF1333F5F04FFC42CD_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525121007"
+  },
+  {
+   "id": "3EB0FE6C3CF950B0B4809B",
+   "sender": "עומרי אירם",
+   "text": "מתנה ממני אליכם לכבוד הסופ\"ש - *יצירה אוטומטית של לוח משימות לתלמידים* שיחסוך לכם המון זמן (ושהתלמידים יאהבו! ❤️). \n\nהוא *סוגר לכם את הפינה לשיעורים לשבוע הקרוב*. 😊בהבטחה!\n\nאני מדבר על לוח בחירה. הוא מציג מספר אפשרויות שהן דומות מבחינת המיומנויות שהן דורשות מהתלמידים. \n\nהגיוון מאפשר לתלמידים מוטיבציה ומאפשר להם להרגיש שיש להם שליטה על תהליך הלמידה שלהם.\n\nיוצרים אותו בעזרת skill שהכנתי שצריך להתקין ב-Gemini (לוקח דקה).\n\nhttps://go.omri-iram.co.il/zatax\n\nהווידאו מתחיל בהסבר על ההתקנה של ה-skill ואז אני ישר קופץ להדגמה של יצירת לוח הבחירה. \n\nסופש של בחירה ורווחה,\nעומרי אירם ✨",
+   "ts": 1794578524000,
+   "date": "2026-11-13",
+   "time": "16:02",
+   "files": [
+    {
+     "name": "תמונה.png",
+     "size": "126KB",
+     "type": "image/png",
+     "path": "https://drive.google.com/file/d/1wVzilEdExM48ne_hpfL54-kAZZHak5JM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wVzilEdExM48ne_hpfL54-kAZZHak5JM&sz=w1200"
     }
    ],
    "drive": null,

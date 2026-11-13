@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חנן פורת - דמות",
- "updated": "2026-11-13T00:31:31.897Z",
+ "updated": "2026-11-13T09:35:13.908Z",
  "messages": [
   {
    "id": "3EB0644E45D0E4A35B1343",
@@ -1917,6 +1917,37 @@
    "files": [],
    "drive": null,
    "phone": "972586522072"
+  },
+  {
+   "id": "AC3CD87650510E7F9F39AE00E8EE6F45",
+   "sender": "סיגלית",
+   "text": "",
+   "ts": 1794559835000,
+   "date": "2026-11-13",
+   "time": "10:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "245KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1920mQuuoWBJFVU94ZpKUNtqimd8SeOwx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1920mQuuoWBJFVU94ZpKUNtqimd8SeOwx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584461129"
+  },
+  {
+   "id": "ACBF920D06496FC69002912DCA6EBEBD",
+   "sender": "נעמה מלק",
+   "text": "איזה רעיון מקסים",
+   "ts": 1794562498000,
+   "date": "2026-11-13",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972523114774"
   }
  ]
 }

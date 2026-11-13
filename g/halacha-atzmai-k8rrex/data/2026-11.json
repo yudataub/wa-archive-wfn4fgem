@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-12T10:35:52.305Z",
+ "updated": "2026-11-13T06:44:43.398Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -1083,6 +1083,26 @@
    ],
    "drive": null,
    "phone": "972546289235"
+  },
+  {
+   "id": "AC710AF72FBDAA7ECEB809901EE7B3B6",
+   "sender": "נוי יצחק 😊",
+   "text": "",
+   "ts": 1794552256000,
+   "date": "2026-11-13",
+   "time": "08:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KW6HeRy9t8kxV6PNKM6ZTvdfgUQBOCg5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KW6HeRy9t8kxV6PNKM6ZTvdfgUQBOCg5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502266255"
   }
  ]
 }

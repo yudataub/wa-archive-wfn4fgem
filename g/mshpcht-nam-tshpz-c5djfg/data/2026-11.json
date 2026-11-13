@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-11-12T12:45:43.183Z",
+ "updated": "2026-11-13T10:23:49.792Z",
  "messages": [
   {
    "id": "AC3A102DF013177A6C6B9553517C2345",
@@ -2247,6 +2247,57 @@
    ],
    "drive": null,
    "phone": "972522376845"
+  },
+  {
+   "id": "4A848779392D1CE8154A",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1794555904000,
+   "date": "2026-11-13",
+   "time": "09:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "55KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/4A848779392D1CE8154A_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC86377867D73F127E35147DB1A5C29E",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1794565401000,
+   "date": "2026-11-13",
+   "time": "12:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "694KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1K4olzK1A5UNWNIlpWdnEYjiFBdfetodK/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC86377867D73F127E35147DB1A5C29E_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1K4olzK1A5UNWNIlpWdnEYjiFBdfetodK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACE170AF2DC912CD355BCED4AF59AC28",
+   "sender": "אורלי אוחנה",
+   "text": "מחנכות ג-ד היקרות,\nתשלחו בבקשה תזכורת להורים ❤️שבת מבורכת",
+   "ts": 1794565430000,
+   "date": "2026-11-13",
+   "time": "12:23",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }
