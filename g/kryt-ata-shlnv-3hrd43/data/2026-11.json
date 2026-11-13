@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קרית אתא שלנו",
- "updated": "2026-11-12T21:29:34.218Z",
+ "updated": "2026-11-13T00:28:31.875Z",
  "messages": [
   {
    "id": "AC41D981B343121450F40EFD939C4769",
@@ -18778,6 +18778,26 @@
    ],
    "drive": null,
    "phone": "972534165626"
+  },
+  {
+   "id": "A5835BF9BE94B20557E0B99C1EE5FF2C",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "חדש!! חדש!! החל ממחר בכל סופ”ש מכירה קבועה בבית הכנסת הגדול רחוב המייסדים 15 קריית אתא. בין השעות 08:00 ל- 10:30\n\nכמובן שניתן להזמין ולאסוף גם מחנות המפעל 😉 הרצל 39 קרית אתא\nבתיאום טלפוני 052-766-3682 \n\nמתקדמים בשבילכם!! ניתן ללחוץ על הקישור הבא ולהזמין בקלות\nhttps://wa.me/message/RHB6MXX3CJAWF1",
+   "ts": 1794529701000,
+   "date": "2026-11-13",
+   "time": "02:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ugmmgMLswjl_9PAgUoMclKz9CDvGxS1T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ugmmgMLswjl_9PAgUoMclKz9CDvGxS1T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }
