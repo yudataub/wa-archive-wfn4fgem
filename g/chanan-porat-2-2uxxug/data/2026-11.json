@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-13T04:57:40.654Z",
+ "updated": "2026-11-14T22:41:55.495Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -980,6 +980,47 @@
    "files": [],
    "drive": null,
    "phone": "972584734037"
+  },
+  {
+   "id": "AC56A9C76D9334FB774A5015339E4563",
+   "sender": "תיאטרון רון תיאטרון רון",
+   "text": "🎭 הצצה להצגה \"האבן המחוננת\"\nכתיבה עם עומק, תחקיר מהספרים ומסר מרגש על הקרבה ❤️\n📢 מה בחבילה?\n✨ 2 סבבים: כיתות א'–ג' ו-ד'–ו' (אופציה להפרדת בנים/בנות)\n🎮 חידון שלטים אינטראקטיבי\n💰 4,000 ש\"ח – כולל הכל!",
+   "ts": 1794693401000,
+   "date": "2026-11-14",
+   "time": "23:56",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "69.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Gkv4Uanac9FylqzzYQDfdJhYBr3z6NnB/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC56A9C76D9334FB774A5015339E4563_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1Gkv4Uanac9FylqzzYQDfdJhYBr3z6NnB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522400391"
+  },
+  {
+   "id": "AC56D23BBED1346D2B59EB817E381EEC",
+   "sender": "אביגיל",
+   "text": "",
+   "ts": 1794696095000,
+   "date": "2026-11-15",
+   "time": "00:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "123KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/120W6Ur75sJdYlYjFbR1bIf0IWpIxqM3I/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=120W6Ur75sJdYlYjFbR1bIf0IWpIxqM3I&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545603839"
   }
  ]
 }

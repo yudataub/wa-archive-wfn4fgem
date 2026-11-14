@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-14T20:27:30.405Z",
+ "updated": "2026-11-14T23:07:18.100Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -1366,6 +1366,99 @@
    "files": [],
    "drive": null,
    "phone": "972525666302"
+  },
+  {
+   "id": "ACA07096F276781CB22C136F48A9BCAA",
+   "sender": "אביה מדינה (זינר)",
+   "text": "אשמח גם",
+   "ts": 1794690894000,
+   "date": "2026-11-14",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972546360049"
+  },
+  {
+   "id": "ACB4E19342FDD61C54BCF90914AD7243",
+   "sender": "Orly Bokovza",
+   "text": "יש כאן דפי עבודה או רק צביעה?",
+   "ts": 1794692263000,
+   "date": "2026-11-14",
+   "time": "23:37",
+   "files": [],
+   "drive": null,
+   "phone": "972545905700"
+  },
+  {
+   "id": "A5F998EE59EB90E693C3CCCA59D69F72",
+   "sender": "ranana marev malkiel",
+   "text": "שבוע טוב יש למישהו דפי עבודה על קין והבל?",
+   "ts": 1794693153000,
+   "date": "2026-11-14",
+   "time": "23:52",
+   "files": [],
+   "drive": null,
+   "phone": "972533618323"
+  },
+  {
+   "id": "AC7D6EE57AA3F19307E4ED867204E165",
+   "sender": "רחלי מנדלסון",
+   "text": "צביעה בעיקר, בחלק מהם יש משימה קטנה",
+   "ts": 1794693431000,
+   "date": "2026-11-14",
+   "time": "23:57",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "4A8DF7B71FC9BDFD527B",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1794693593000,
+   "date": "2026-11-14",
+   "time": "23:59",
+   "files": [
+    {
+     "name": "%D7%A7%D7%99%D7%9F-%D7%95%D7%94%D7%91%D7%9C-%D7%99%D7%A6%D7%99%D7%A8%D7%94.pdf",
+     "size": "638KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OgU0iQK_j5u-3K50wzSSQrYZ7BxH6xAy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525590060"
+  },
+  {
+   "id": "4A857F9A0FA4E412BE63",
+   "sender": "מיכל",
+   "text": "",
+   "ts": 1794693655000,
+   "date": "2026-11-15",
+   "time": "00:00",
+   "files": [
+    {
+     "name": "%D7%A7%D7%99%D7%9F-%D7%95%D7%94%D7%91%D7%9C-%D7%93%D7%A3-%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%AA-.pdf",
+     "size": "408KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Ys3hLO9ToVfh5z4BR4gaXTjyEsrb-xbb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525590060"
+  },
+  {
+   "id": "3EB0919D4FD922343B4F2A",
+   "sender": "חנה ליסטמן",
+   "text": "שלום וברכה למחר-\n יש למשהו חוברת עבודה לכיתה א' שיכול לשלוח כאן שאפשר להעזר בה לתלמידים. \nתודה רבה",
+   "ts": 1794697613000,
+   "date": "2026-11-15",
+   "time": "01:06",
+   "files": [],
+   "drive": null,
+   "phone": "972528748775"
   }
  ]
 }

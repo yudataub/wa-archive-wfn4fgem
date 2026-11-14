@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חנן פורת - דמות",
- "updated": "2026-11-14T20:35:30.563Z",
+ "updated": "2026-11-14T21:54:54.704Z",
  "messages": [
   {
    "id": "3EB0644E45D0E4A35B1343",
@@ -1981,6 +1981,27 @@
    "files": [],
    "drive": null,
    "phone": "972556617480"
+  },
+  {
+   "id": "AC92C0C49B28F9676BE2FAAAA5E988F8",
+   "sender": "תיאטרון רון תיאטרון רון",
+   "text": "🎭 הצצה להצגה \"האבן המחוננת\"\nכתיבה עם עומק, תחקיר מהספרים ומסר מרגש על הקרבה ❤️\n📢 מה בחבילה?\n✨ 2 סבבים: כיתות א'–ג' ו-ד'–ו' (אופציה להפרדת בנים/בנות)\n🎮 חידון שלטים אינטראקטיבי\n💰 4,000 ש\"ח – כולל הכל!",
+   "ts": 1794693278000,
+   "date": "2026-11-14",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "69.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/15QFhmUFIKygGu8zv95qy0mN5Iy_W-V83/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC92C0C49B28F9676BE2FAAAA5E988F8_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=15QFhmUFIKygGu8zv95qy0mN5Iy_W-V83&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522400391"
   }
  ]
 }
