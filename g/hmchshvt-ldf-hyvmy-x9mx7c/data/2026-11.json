@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-13T04:13:29.338Z",
+ "updated": "2026-11-14T15:40:17.905Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -606,6 +606,65 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3AAC638DF754D28684A8_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A8E67B95DDBAD30A9EF",
+   "sender": ".",
+   "text": "״כגון שניסך לה בין קרניה״ (רש״י בכורות נז, א).",
+   "ts": 1794670791000,
+   "date": "2026-11-14",
+   "time": "17:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A8E67B95DDBAD30A9EF_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A1BA8040E995FA2A059",
+   "sender": ".",
+   "text": "״וכלב עמהן״ (בכורות נז, א).",
+   "ts": 1794670795000,
+   "date": "2026-11-14",
+   "time": "17:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1b2IpxZeORHWRC20zdygifAjQvifvRjQF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1b2IpxZeORHWRC20zdygifAjQvifvRjQF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AFEAA9A5F0E06444D7F",
+   "sender": ".",
+   "text": "״מוזרתא הואי״ (בכורות נז, ב).",
+   "ts": 1794670796000,
+   "date": "2026-11-14",
+   "time": "17:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Qk8Vy8nyD-CHf03Swlx8W59Qv0Kkj5IE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qk8Vy8nyD-CHf03Swlx8W59Qv0Kkj5IE&sz=w1200"
     }
    ],
    "drive": null,

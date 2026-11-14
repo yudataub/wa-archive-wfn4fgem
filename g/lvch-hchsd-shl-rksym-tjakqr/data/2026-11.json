@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-13T13:29:24.124Z",
+ "updated": "2026-11-14T19:36:29.048Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -4836,6 +4836,101 @@
    "files": [],
    "drive": null,
    "phone": "972509252690"
+  },
+  {
+   "id": "AC5719C6AD21E616AAFC40303AEC8656",
+   "sender": "יוסי מוזס",
+   "text": "מחפשים אדם עם רשיון לקחת רכב עם משפחה מרכסים לירושלים.\nבאישי",
+   "ts": 1794673640000,
+   "date": "2026-11-14",
+   "time": "18:27",
+   "files": [],
+   "drive": null,
+   "phone": "972527632787"
+  },
+  {
+   "id": "AC6DBD62C783C63D2604CD3C87DD0C2C",
+   "sender": "מוטי",
+   "text": "?",
+   "ts": 1794680235000,
+   "date": "2026-11-14",
+   "time": "20:17",
+   "files": [],
+   "drive": null,
+   "phone": "972587151984"
+  },
+  {
+   "id": "ACCBD8D4952DE6F6DD5DA77F58A5F2EE",
+   "sender": "מוטי",
+   "text": "יש למישהו מספר של זוהר מהקיוסק",
+   "ts": 1794680235000,
+   "date": "2026-11-14",
+   "time": "20:17",
+   "files": [],
+   "drive": null,
+   "phone": "972587151984"
+  },
+  {
+   "id": "AC1016F2FB225F0C0FD916DA5CBC02FC",
+   "sender": "נתן אשכול",
+   "text": "📇 זהר ג׳אסי\n+972 52-714-1172",
+   "ts": 1794681672000,
+   "date": "2026-11-14",
+   "time": "20:41",
+   "files": [],
+   "drive": null,
+   "phone": "972552487854"
+  },
+  {
+   "id": "AC2952688E8D2F425AD94A777729C388",
+   "sender": "אריאל",
+   "text": "ביחד \nזכינו לשמח משפחות \nהודו לשם \nארגון רועי לא יחסר",
+   "ts": 1794683333000,
+   "date": "2026-11-14",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "195KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17hMZQTIgmYP9BYGEwhbsQoKD4yEsP9rX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17hMZQTIgmYP9BYGEwhbsQoKD4yEsP9rX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525302839"
+  },
+  {
+   "id": "AC00FED7E7DFC59311C1E147DC3FCD3B",
+   "sender": "Dudi",
+   "text": "למי יש להשאיל חצובה לצילום בטלפון?",
+   "ts": 1794683817000,
+   "date": "2026-11-14",
+   "time": "21:16",
+   "files": [],
+   "drive": null,
+   "phone": "972584772228"
+  },
+  {
+   "id": "AC47E14E091AC761BCFE9A353112DFE7",
+   "sender": "Chaim Harris",
+   "text": "למסירה 0527147619",
+   "ts": 1794684981000,
+   "date": "2026-11-14",
+   "time": "21:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "156KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oPmkkrj_zDhih7w5QBUD_rgpF2LH0ElR/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oPmkkrj_zDhih7w5QBUD_rgpF2LH0ElR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505363619"
   }
  ]
 }

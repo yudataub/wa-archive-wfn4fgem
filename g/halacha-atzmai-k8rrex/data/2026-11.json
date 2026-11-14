@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-13T06:44:43.398Z",
+ "updated": "2026-11-14T20:39:30.661Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -1103,6 +1103,83 @@
    ],
    "drive": null,
    "phone": "972502266255"
+  },
+  {
+   "id": "AC06349AD6E7965E220E8FA67CA5680D",
+   "sender": "דבי שגב",
+   "text": "",
+   "ts": 1794674135000,
+   "date": "2026-11-14",
+   "time": "18:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC06349AD6E7965E220E8FA67CA5680D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548014479"
+  },
+  {
+   "id": "ACA905892272EBCBBF0F59987B2C2C33",
+   "sender": "דבי שגב",
+   "text": "הלכות נטילת ידיים דפי עבודה ותרגול המושגים לפני שהצגנו את גלגל המזל במקרן⚙️",
+   "ts": 1794674219000,
+   "date": "2026-11-14",
+   "time": "18:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "73KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA905892272EBCBBF0F59987B2C2C33_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548014479"
+  },
+  {
+   "id": "ACBA245DB41BFFAC2F88A20B6A7B7D00",
+   "sender": "דבי שגב",
+   "text": "גלגל המזל- נטילת ידיים",
+   "ts": 1794674600000,
+   "date": "2026-11-14",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACBA245DB41BFFAC2F88A20B6A7B7D00_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548014479"
+  },
+  {
+   "id": "AC68174BBEB3188295E57FEFD3FA2B19",
+   "sender": "Yakov Luvton",
+   "text": "",
+   "ts": 1794688747000,
+   "date": "2026-11-14",
+   "time": "22:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "319KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11PXqwIvSw0Q-2Dg9hzlKHkZPu1NPuU9h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11PXqwIvSw0Q-2Dg9hzlKHkZPu1NPuU9h&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504601818"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משחק השבת - משחק לפרשה 4",
- "updated": "2026-11-12T08:13:41.460Z",
+ "updated": "2026-11-14T16:48:26.630Z",
  "messages": [
   {
    "id": "3EB0558F2ABC77FD130083",
@@ -86,6 +86,37 @@
    "ts": 1794471202000,
    "date": "2026-11-12",
    "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0682590F63C40C2C47F",
+   "sender": "עמי חניא",
+   "text": "היום היום היום היום היום \n\n🎯 *החידון השבועי של OrQuiz לכבוד חג החנוכה!* 💙\n\n📆 מוצאי שבת פרשת תולדות, 14.11.26, ד' כסלו\n🕗 מתחילים ב-18:45 בדיוק!\n\nלקבוצת העדכונים:\n\nהתחברות לחידון:\n🔗 https://orquiz-game.clap.co.il/player.html?code=0000",
+   "ts": 1794671999000,
+   "date": "2026-11-14",
+   "time": "17:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "404KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JnyI0S6BeoyEAlKyzXVgkFawHxB0U0d9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JnyI0S6BeoyEAlKyzXVgkFawHxB0U0d9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB00E52D32C8F1D9678DF",
+   "sender": "עמי חניא",
+   "text": "החידון מתחיל - הצטרפו עכשיו!",
+   "ts": 1794674905000,
+   "date": "2026-11-14",
+   "time": "18:48",
    "files": [],
    "drive": null,
    "phone": "972546702328"

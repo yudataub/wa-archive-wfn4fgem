@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-11-13T09:56:19.362Z",
+ "updated": "2026-11-14T19:16:28.775Z",
  "messages": [
   {
    "id": "AC766E9745AEAD82DE14821E17AEB47A",
@@ -1664,6 +1664,96 @@
    "files": [],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "ACA39BDD6815849C0D36DEF737F963CF",
+   "sender": "יניב",
+   "text": "",
+   "ts": 1794673828000,
+   "date": "2026-11-14",
+   "time": "18:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "264KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1spynqtIUgilaQgrEXUhBzi3DnSkyfglw/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1spynqtIUgilaQgrEXUhBzi3DnSkyfglw&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544482293"
+  },
+  {
+   "id": "A5B2375789F8BC47D6C0BE822C22AC11",
+   "sender": "אוהד אקספרס",
+   "text": "🔥 קורס ספרות גברים 2026 🔥\n\n💈 רוצה להפוך למקצוען בתחום?\nהגיע הזמן ללמוד את המקצוע ולהתחיל להרוויח!\n\n✂️ לימוד מקצועי | עבודה מעשית | עתיד מצליח\n\n אוהד אקספרס\n\n📲 לפרטים והרשמה: 054-3109788\n\nההרשמה נפתחה – מספר המקומות מוגבל!",
+   "ts": 1794674180000,
+   "date": "2026-11-14",
+   "time": "18:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "214KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tIa736WyFKmReoiQgKGG40qFiMKl5Th9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tIa736WyFKmReoiQgKGG40qFiMKl5Th9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543109788"
+  },
+  {
+   "id": "ACDAA4CCA3996BD09C584DFE56CF5483",
+   "sender": "גדז' שמעון",
+   "text": "",
+   "ts": 1794677682000,
+   "date": "2026-11-14",
+   "time": "19:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "25KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACDAA4CCA3996BD09C584DFE56CF5483_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545614454"
+  },
+  {
+   "id": "AC8BBCE8CCB6F0C5B93F77EB2270258B",
+   "sender": "נתנאל סבירו - גוף ונפש",
+   "text": "קריית אתא והסביבה, זאת ההזדמנות שלכם!!",
+   "ts": 1794677723000,
+   "date": "2026-11-14",
+   "time": "19:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18fNRuLlRQa_i2vIH_QSrFj2Yjlv1lObB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18fNRuLlRQa_i2vIH_QSrFj2Yjlv1lObB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529244742"
+  },
+  {
+   "id": "ACEA2DAA4847AB01B522EDA7E0DE381C",
+   "sender": "אלעד פרץ",
+   "text": "שבוע טוב, האם משהו יכול להמליץ על חוג /אמוני ספורט לנערות?",
+   "ts": 1794683779000,
+   "date": "2026-11-14",
+   "time": "21:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526025011"
   }
  ]
 }

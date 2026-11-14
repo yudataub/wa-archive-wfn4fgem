@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-11T17:55:42.981Z",
+ "updated": "2026-11-14T18:51:28.497Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -560,6 +560,57 @@
    ],
    "drive": null,
    "phone": "972526621118"
+  },
+  {
+   "id": "AC51D0248D6A699A25B2C4FA673C102A",
+   "sender": "טלי דוד",
+   "text": "שמיכת פוך (דורשת ניקיון).\nלמיטת יחיד או מיטה וחצי (לא בטוחים",
+   "ts": 1794682093000,
+   "date": "2026-11-14",
+   "time": "20:48",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "145KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-XNuV2RzLMa-8sQ_cKkoCg-nhR_VQUjd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-XNuV2RzLMa-8sQ_cKkoCg-nhR_VQUjd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528931791"
+  },
+  {
+   "id": "AC026A2970764D48079B6B18C9F55EFA",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1794682262000,
+   "date": "2026-11-14",
+   "time": "20:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gKEw4p4Vaw8YGGlTNDhjtYWm9Jp5_mev/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gKEw4p4Vaw8YGGlTNDhjtYWm9Jp5_mev&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACAE385F49F20B5DBFEDF5D94DD3B0FA",
+   "sender": "ויקטוריה",
+   "text": "למסירה חדש \nלא בוצע שימוש",
+   "ts": 1794682262000,
+   "date": "2026-11-14",
+   "time": "20:51",
+   "files": [],
+   "drive": null,
+   "phone": "972528969584"
   }
  ]
 }

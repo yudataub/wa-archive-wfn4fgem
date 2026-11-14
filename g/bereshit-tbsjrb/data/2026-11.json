@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-12T14:38:27.628Z",
+ "updated": "2026-11-14T20:27:30.405Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -1248,6 +1248,124 @@
    "files": [],
    "drive": null,
    "phone": "972526312691"
+  },
+  {
+   "id": "AC48FF3A2C9CB26F2959FE9605F77E66",
+   "sender": "~רחל כהן",
+   "text": "אפשר בבקשה לשלוח את זה שוב? \nתודה",
+   "ts": 1794679755000,
+   "date": "2026-11-14",
+   "time": "20:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526312691"
+  },
+  {
+   "id": "ACED58A2937CB2AFAC552C2CE57B5181",
+   "sender": "שיראל חיים",
+   "text": "",
+   "ts": 1794685295000,
+   "date": "2026-11-14",
+   "time": "21:41",
+   "files": [
+    {
+     "name": ".. אלבום בריאת העולם.pdf",
+     "size": "22.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DisYTHJ1P52f1kaGVMTmlDOabCWjCdbg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525329136"
+  },
+  {
+   "id": "ACAEB5D6E06CFCED9014448F221A65A3",
+   "sender": "~רחל כהן",
+   "text": "תודה",
+   "ts": 1794685314000,
+   "date": "2026-11-14",
+   "time": "21:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526312691"
+  },
+  {
+   "id": "AC986DD10A133016A5023DD5A3523F29",
+   "sender": "Orly Bokovza",
+   "text": "אשמח לדפים על פרשת נח . לתחילת כיתה א",
+   "ts": 1794685396000,
+   "date": "2026-11-14",
+   "time": "21:43",
+   "files": [],
+   "drive": null,
+   "phone": "972545905700"
+  },
+  {
+   "id": "AC5CD178B7481AD7A454EFDBBEAF9A8D",
+   "sender": "רבקה בארי",
+   "text": "יש באתר \"אביטה\"",
+   "ts": 1794686058000,
+   "date": "2026-11-14",
+   "time": "21:54",
+   "files": [],
+   "drive": null,
+   "phone": "972526070204"
+  },
+  {
+   "id": "AC727AEDFD48D515245851EB55124C2F",
+   "sender": "Orly Bokovza",
+   "text": "לא מצאתי שם... ראיתי דפי צביעה. הדפים עבודה לא ראיתי משהו שמתאים לכיתה א",
+   "ts": 1794686229000,
+   "date": "2026-11-14",
+   "time": "21:57",
+   "files": [],
+   "drive": null,
+   "phone": "972545905700"
+  },
+  {
+   "id": "ACC5781C3658014F9405AE89E72CCE64",
+   "sender": "רחלי מנדלסון",
+   "text": "https://drive.google.com/drive/folders/1KVTu1O1nVoX21d4SSeCsnMdsmhFsg7Sl\nפה יש, זה בבעלותי אז רק לבקש גישה ואתן",
+   "ts": 1794686325000,
+   "date": "2026-11-14",
+   "time": "21:58",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "AC17C48338582A9110941ACB4FC645B8",
+   "sender": "Orly Bokovza",
+   "text": "ביקשתי. תודה רבה",
+   "ts": 1794686710000,
+   "date": "2026-11-14",
+   "time": "22:05",
+   "files": [],
+   "drive": null,
+   "phone": "972545905700"
+  },
+  {
+   "id": "AC1BCC648AF159505C53A8226F6067C5",
+   "sender": "רחלי מנדלסון",
+   "text": "אישרתי",
+   "ts": 1794687992000,
+   "date": "2026-11-14",
+   "time": "22:26",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "ACAEFB8DF7822A3949A9BFC7082354B9",
+   "sender": "דורית בן דוד",
+   "text": "תודה רבה",
+   "ts": 1794688039000,
+   "date": "2026-11-14",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972525666302"
   }
  ]
 }

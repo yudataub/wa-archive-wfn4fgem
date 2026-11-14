@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-12T08:18:41.555Z",
+ "updated": "2026-11-14T17:50:27.556Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -213,6 +213,48 @@
      "thumb": "https://drive.google.com/thumbnail?id=1UgPlKbW7OgRAkofeeNlbe6AX2KhUN8zm&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC1DF7414AAE37E38D0834DC880093AC",
+   "sender": "יעקב בקר",
+   "text": "שלום ללומדים\nזו הרצאה  מרתקת נוספת של מכון צומת\nנא לסמן ביומן\nנא להפיץ את המודעה\nבעוד בתי כנסיות\nמי שיכול\nהציבור הרחב מוזמן\nתודה",
+   "ts": 1794678457000,
+   "date": "2026-11-14",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC6272F5301BD1C854FA42B77AD7A884",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1794678458000,
+   "date": "2026-11-14",
+   "time": "19:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1A19hcEgcw5KcE5Yxsd_3X4fnKORFqy0Y/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1A19hcEgcw5KcE5Yxsd_3X4fnKORFqy0Y&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC5B03F5A71FA82EA7FC120807D31594",
+   "sender": "יעקב בקר",
+   "text": "שלום ללומדים\nזו הרצאה  מרתקת נוספת של מכון צומת\nהשבוע ביום חמישי\nנא להפיץ את המודעה\nבעוד בתי כנסיות\nמי שיכול\nהציבור הרחב מוזמן\nתודה",
+   "ts": 1794678614000,
+   "date": "2026-11-14",
+   "time": "19:50",
+   "files": [],
    "drive": null,
    "phone": "972549991157"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-11-12T21:09:59.913Z",
+ "updated": "2026-11-14T19:20:54.004Z",
  "messages": [
   {
    "id": "A554B615A3012223D2850C5ED6385152",
@@ -1207,6 +1207,26 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "3EB07A35B6D22DE7F74A18",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "זהו בהחלט זמן טוב להזכר בחידות בציורים על מושגי חנוכה משנה שעברה. המושגים קשורים באור, שמן וכד'\nפעילות נחמדה בכיתה...\nhttps://docs.google.com/presentation/d/1ReBLO7-t1TthlLnMGNxaz9qyQ7d9uR8RUzNgmriymZI/edit?usp=sharing\nלעוד תכנים הצטרפו לקהילה שלי הוראה יצירתית עם AI",
+   "ts": 1794684028000,
+   "date": "2026-11-14",
+   "time": "21:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aq5RD4vTg65R-r3WRaj6M18gl0xySlZe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aq5RD4vTg65R-r3WRaj6M18gl0xySlZe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

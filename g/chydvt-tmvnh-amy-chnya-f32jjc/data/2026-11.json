@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-13T07:12:39.469Z",
+ "updated": "2026-11-14T16:48:48.765Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -793,6 +793,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1mn8T2GZ6rsUv_G_fQMHwVxIiUBu0clfk&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB02FEFE40B7DB7A79C81",
+   "sender": "עמי חניא",
+   "text": "היום היום היום היום היום \n\n🎯 *החידון השבועי של OrQuiz לכבוד חג החנוכה!* 💙\n\n📆 מוצאי שבת פרשת תולדות, 14.11.26, ד' כסלו\n🕗 מתחילים ב-18:45 בדיוק!\n\nלקבוצת העדכונים:\n\nהתחברות לחידון:\n🔗 https://orquiz-game.clap.co.il/player.html?code=0000",
+   "ts": 1794672082000,
+   "date": "2026-11-14",
+   "time": "18:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "404KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1n-SCXaTPgh28rp_Q3NvDtrqMkvnKkFf6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1n-SCXaTPgh28rp_Q3NvDtrqMkvnKkFf6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0457E432A223B2AA1B2",
+   "sender": "עמי חניא",
+   "text": "החידון מתחיל - הצטרפו עכשיו!",
+   "ts": 1794674904000,
+   "date": "2026-11-14",
+   "time": "18:48",
+   "files": [],
    "drive": null,
    "phone": "972546702328"
   }

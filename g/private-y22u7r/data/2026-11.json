@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-13T13:26:24.085Z",
+ "updated": "2026-11-14T20:59:31.308Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -14136,6 +14136,214 @@
    "drive": null,
    "thread": "הודיה",
    "phone": "972546785890"
+  },
+  {
+   "id": "AC5FDE37263EF0B13BB1CE866E25881A",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1794672449000,
+   "date": "2026-11-14",
+   "time": "18:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yqlVssIwwL5_oLljdCBjxp6kgwCsfIl8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yqlVssIwwL5_oLljdCBjxp6kgwCsfIl8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "3EB0FCB8FAFC196D89B512",
+   "sender": "אלקנה שטראוס",
+   "text": "שבוע טוב.\nניסיתי להוריד את הקובץ לMP3 אך ללא הצלחה...\nמכיר דרך יותר פשוטה מאשר להוריד לMP4 ואז לבצע המרה?",
+   "ts": 1794673802000,
+   "date": "2026-11-14",
+   "time": "18:30",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0237F21180300DC9984",
+   "sender": "אני",
+   "text": "תסתכל מה קיבלת בווטסאפ הודעה",
+   "ts": 1794683293000,
+   "date": "2026-11-14",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB08B49C617994D77AF11",
+   "sender": "אני",
+   "text": "זה מגיע ממספר אחר - ותגיד לי איך הוא הכין לך",
+   "ts": 1794683311000,
+   "date": "2026-11-14",
+   "time": "21:08",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0950933F8A6EBE19A09",
+   "sender": "Yonatan",
+   "text": "אני שולח לך שתוכל להתכונן למחר. את השיחה שיש לעשות נעשה עם אורטל בבוא הזמן במהלך השבוע הבא.",
+   "ts": 1794683926000,
+   "date": "2026-11-14",
+   "time": "21:18",
+   "files": [
+    {
+     "name": "oganim-lesson-plan_1.pdf",
+     "size": "110KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1I1WZQoaJc0I28EpUqEs9oCXQ-Q2DnVOm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "Yonatan",
+   "phone": "972544784644"
+  },
+  {
+   "id": "3EB0CF4FA729A904E39E1F",
+   "sender": "Yonatan",
+   "text": "אם אתה לא חושב שתזכור פרטים, שיהיה על דף או מחברת, אין לפטופים או טאבלטים פתוחים בזמן ההדרכה.",
+   "ts": 1794683958000,
+   "date": "2026-11-14",
+   "time": "21:19",
+   "files": [],
+   "drive": null,
+   "thread": "Yonatan",
+   "phone": "972544784644"
+  },
+  {
+   "id": "3EB02550EB45999B4780CF",
+   "sender": "אני",
+   "text": "תודה רבה הדפסתי",
+   "ts": 1794684170000,
+   "date": "2026-11-14",
+   "time": "21:22",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB05C8F1B38315E83F2FC",
+   "sender": "אני",
+   "text": "https://yudataub.github.io/lessons/berachot-chapter-3-teacher-guide.html",
+   "ts": 1794684398000,
+   "date": "2026-11-14",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0C1906771710D3E835D",
+   "sender": "אני",
+   "text": "https://docs.google.com/document/d/16dhDeVzsKmhp2G_ateq8OHWyM0S-6QKhvYnpEoevZPM/edit",
+   "ts": 1794684412000,
+   "date": "2026-11-14",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB061BE2A37595AA183E7",
+   "sender": "Yonatan",
+   "text": "שלב שלוש הכוונה של אורטל בסוף זה להדגים לא להדריך",
+   "ts": 1794684542000,
+   "date": "2026-11-14",
+   "time": "21:29",
+   "files": [],
+   "drive": null,
+   "thread": "Yonatan",
+   "phone": "972544784644"
+  },
+  {
+   "id": "AC146132CB9686BD868DA4B084A9817D",
+   "sender": "אורלי אוחנה",
+   "text": "שבוע טוב, \nתוכל להכין לי כרזה כזו מעודכנת.\nאני רוצה להקרין מחר במסך.\nדבר נוסף נעביר את מפגש ההדרכה ליום ראשון הבא.\nמחר נראה לי קצת עמוס מידיי.\nתודה רבה",
+   "ts": 1794686831000,
+   "date": "2026-11-14",
+   "time": "22:07",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACA78D0A5D260A035644510D291B878E",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1794686843000,
+   "date": "2026-11-14",
+   "time": "22:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jsn4QWpoervvX_FjKQGZrZu5t4x3WQBW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jsn4QWpoervvX_FjKQGZrZu5t4x3WQBW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC1D598371D7CD21EF5A4D6CB156092D",
+   "sender": "אורלי אוחנה",
+   "text": "רק חשוב להוסיף בבקשה לוגו",
+   "ts": 1794686856000,
+   "date": "2026-11-14",
+   "time": "22:07",
+   "files": [],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "3EB08776D6B71B34A5867E",
+   "sender": "אלקנה שטראוס",
+   "text": "וואי, ממש תודה.\nאעבור על זה",
+   "ts": 1794686874000,
+   "date": "2026-11-14",
+   "time": "22:07",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB06EB5745F5B1A0AC622",
+   "sender": "אני",
+   "text": "",
+   "ts": 1794689964000,
+   "date": "2026-11-14",
+   "time": "22:59",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "41KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1w_52ZUD--PKZMYTQiOYN7wO6QkQp6WKz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }

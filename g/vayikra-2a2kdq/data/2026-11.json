@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-11-13T05:26:41.290Z",
+ "updated": "2026-11-14T21:08:31.459Z",
  "messages": [
   {
    "id": "ACA158C915E6F8E25F841C558234F4D2",
@@ -4641,6 +4641,66 @@
    "files": [],
    "drive": null,
    "phone": "972546806138"
+  },
+  {
+   "id": "3EB0430FB647E148DAA4C2",
+   "sender": "חנה ליסטמן",
+   "text": "",
+   "ts": 1794689908000,
+   "date": "2026-11-14",
+   "time": "22:58",
+   "files": [
+    {
+     "name": "חידון_חטאת_וקורבן_עולה_ויורד_(2).pptx",
+     "size": "17.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1igJRDfBY2GiTptzY6BV7vm7FHTEpDpOl/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528748775"
+  },
+  {
+   "id": "3EB0D79ECA8B3EE21CC901",
+   "sender": "חנה ליסטמן",
+   "text": "המצגות לא שמושלמות, ולא מדויקות בכל הפרטים. אולי בכל זאת יעזור. בהצלחה",
+   "ts": 1794690000000,
+   "date": "2026-11-14",
+   "time": "23:00",
+   "files": [],
+   "drive": null,
+   "phone": "972528748775"
+  },
+  {
+   "id": "3EB08A24108A08CADC991C",
+   "sender": "חנה ליסטמן",
+   "text": "",
+   "ts": 1794690010000,
+   "date": "2026-11-14",
+   "time": "23:00",
+   "files": [
+    {
+     "name": "פרק ה קורבן אשם.pptx",
+     "size": "20.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/191_8LLwfaF8EhlxensIwFYDeOlcOeP3A/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528748775"
+  },
+  {
+   "id": "AC91B128D549EDD90DF7E025212D5F78",
+   "sender": "גלית מונשטר🪬🌸",
+   "text": "אשמח לדפי עבודה בנושא קורבן אשם פרק ה'",
+   "ts": 1794690496000,
+   "date": "2026-11-14",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972503679888"
   }
  ]
 }
