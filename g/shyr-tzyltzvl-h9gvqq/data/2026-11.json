@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-12T12:45:13.174Z",
+ "updated": "2026-11-15T13:59:31.483Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -759,6 +759,99 @@
    "files": [],
    "drive": null,
    "phone": "972526524012"
+  },
+  {
+   "id": "3EB066194E693CD60C712C",
+   "sender": "אולפנת צביה",
+   "text": "",
+   "ts": 1794746897000,
+   "date": "2026-11-15",
+   "time": "14:48",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "548KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1acRnC2iTtuq5SvNh6mmbTrRbd4ZOO2RL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527235118"
+  },
+  {
+   "id": "3EB01A155DD084B1AF2B7C",
+   "sender": "אולפנת צביה",
+   "text": "אני מאמין בניסים",
+   "ts": 1794746906000,
+   "date": "2026-11-15",
+   "time": "14:48",
+   "files": [],
+   "drive": null,
+   "phone": "972527235118"
+  },
+  {
+   "id": "ACDA8BB2465D17622761F88AE398F1A9",
+   "sender": "רונית",
+   "text": "בבקשה שכל אחד ישאל את משפחתו אם הם באים.שנדע להערך כראוי\nאצלי בעז\"ה כולם באים\nאני.נחמי.הדס.מוישי.שימי ואביטל",
+   "ts": 1794746915000,
+   "date": "2026-11-15",
+   "time": "14:48",
+   "files": [],
+   "drive": null,
+   "phone": "972523664663"
+  },
+  {
+   "id": "3EB092A2C3D9E0558BF439",
+   "sender": "אולפנת צביה",
+   "text": "",
+   "ts": 1794748346000,
+   "date": "2026-11-15",
+   "time": "15:12",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "619KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1Rrn1RNP7g9zKs-AR4E2eGl-dTrNFpu64/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527235118"
+  },
+  {
+   "id": "3EB0937BC39EB551884EEC",
+   "sender": "אולפנת צביה",
+   "text": "תן לי אור",
+   "ts": 1794748356000,
+   "date": "2026-11-15",
+   "time": "15:12",
+   "files": [],
+   "drive": null,
+   "phone": "972527235118"
+  },
+  {
+   "id": "ACDC3A993B0E3987A4788D1AE0EFC865",
+   "sender": "קרן ברדוגו",
+   "text": "מחפשת המנון בני עקיבא חתוך\nוהכי מתאים אם זה מתחיל בראשינו בעמקי תורתה",
+   "ts": 1794751105000,
+   "date": "2026-11-15",
+   "time": "15:58",
+   "files": [],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "AC07E2435880DE94667998B9E0F67DCF",
+   "sender": "עידית ברכיה 😘",
+   "text": "רעיוןןןן מהממםםם",
+   "ts": 1794751155000,
+   "date": "2026-11-15",
+   "time": "15:59",
+   "files": [],
+   "drive": null,
+   "phone": "972546368328"
   }
  ]
 }

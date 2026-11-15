@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-13T10:04:49.536Z",
+ "updated": "2026-11-15T12:46:53.465Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -887,6 +887,48 @@
    ],
    "drive": null,
    "phone": "972552750802"
+  },
+  {
+   "id": "AC242D94F2109A131C61D11CBA53A1B4",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794724806000,
+   "date": "2026-11-15",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "280KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FlBiFubncLGz0VANzgSQNPA_h1EWOP9V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FlBiFubncLGz0VANzgSQNPA_h1EWOP9V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC64096DBADEC8237595F4F32AC07154",
+   "sender": "מרדכי",
+   "text": "*לעילוי נשמת הרב איתמר שוורץ בן טובה*",
+   "ts": 1794724807000,
+   "date": "2026-11-15",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC34AAD099E4BA5C6B3186C40885B6FC",
+   "sender": "שלום בוצחק",
+   "text": "📢📣📢📣\n\n*חברים יקרים שימו לב ❤️* \n*תפילת מנחה, ולאחר מכן תפילת ערבית צמודה תתקיים בבית הכנסת-\"אוהל מאיר\"*\n*בשעה 16:30*\n\n*ברוכים הבאים!*",
+   "ts": 1794746789000,
+   "date": "2026-11-15",
+   "time": "14:46",
+   "files": [],
+   "drive": null,
+   "phone": "972504261741"
   }
  ]
 }

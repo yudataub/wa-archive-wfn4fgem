@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-11-13T07:21:01.023Z",
+ "updated": "2026-11-15T14:55:44.478Z",
  "messages": [
   {
    "id": "3A17F0D9CC7FA299B3EA",
@@ -267,6 +267,46 @@
    "date": "2026-11-13",
    "time": "09:20",
    "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3ADCC2FFD97C26ECB632",
+   "sender": "חגית סייג",
+   "text": "היום בשעה 19:00 באולם הכדורסל רמז, כדורסל מליגת העל בכדורסל!\n\nעירוני קרית אתא בכדורסל מול מכבי אשדוד.\n\nהמשחק משודר בשידור ישיר בטלוויזיה!\n\nכרטיסים ללא עלות בקישור\nhttps://go-out.co/event/1793624259946?ref=a392229191",
+   "ts": 1794744705000,
+   "date": "2026-11-15",
+   "time": "14:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "555KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pNeLqFrOfDxWe06FAV_AF7D7s1dtUVK9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pNeLqFrOfDxWe06FAV_AF7D7s1dtUVK9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3AAEC7B0CDBAE0B90C36",
+   "sender": "חגית סייג",
+   "text": "מוקירים את פצועי צה״ל🇮🇱🫡\n\nתושבים יקרים,\nבמסגרת יום ההוקרה לפצועי צה״ל, אתם מוזמנים להרצאה מרתקת של *ידין גלמן- השעה הארוכה בחיי*\n\n📅 יום שני | 23.11\n🕗 בשעה 20:00\n✨ עלות: 15 ש\"ח\n📍 אולם המתנ״ס העירוני, פלמ״ח 11, קרית אתא\n\nלפרטים ולהרשמה:\nhttps://katzr.net/54fd6a",
+   "ts": 1794754529000,
+   "date": "2026-11-15",
+   "time": "16:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bODsJlYJecWa0YOfZ64p93UeN7ni-Gci/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bODsJlYJecWa0YOfZ64p93UeN7ni-Gci&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522346593"
   }

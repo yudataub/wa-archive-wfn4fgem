@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרצאות מהכורסא - מנויים 1",
- "updated": "2026-11-12T16:30:52.430Z",
+ "updated": "2026-11-15T13:46:01.267Z",
  "messages": [
   {
    "id": "3EB06B97166CDE6C89C003",
@@ -99,6 +99,26 @@
      "path": "https://drive.google.com/file/d/1chQj5MHvJ7hlTd8Ilr78Sb7XHI5dtrR8/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1chQj5MHvJ7hlTd8Ilr78Sb7XHI5dtrR8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505630220"
+  },
+  {
+   "id": "3EB093663B61E84855C52A",
+   "sender": "הרצאות מהכורסא",
+   "text": "שבוע טוב לכולן ולכולם 🌿\nגם השבוע מחכים לכם בקהילת המנויים תכנים מרתקים לצפייה באתר, מפגשי זום למנויים בלבד והטבות מיוחדות שהכנו עבורכם.\n\nומה מחכה לנו השבוע במפגשי שיחות מהכורסא?\n\n🔸 בימים שני ורביעי בבוקר | *לקום מהכורסא עם לונה גלילי* – מתחילים את היום בתנועה, נשימה ותרגול משותף מהבית.\n\n🔸 ביום שני ב־12:00 | *מה חדש עם גל זיו* – נשמע על כל מה שחדש ומתוכנן אצלנו, ויש לא מעט.\n\n🔸 ביום חמישי ב־11:00 | *תרגול AI עם רון יחזקאל* – מתרגלים יחד, מכירים כלים שימושיים ומקבלים תשובות לשאלות שלכם.\n\n📅 לכל המפגשים ולהרשמה לקבלת תזכורות:\nhttps://lecturesonline.co.il/live\n\nשיהיה שבוע טוב ומעניין 🌱",
+   "ts": 1794750336000,
+   "date": "2026-11-15",
+   "time": "15:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "259KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10iMjhv-kmVEBn6n__IPOFdNGwsNsx-Oh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10iMjhv-kmVEBn6n__IPOFdNGwsNsx-Oh&sz=w1200"
     }
    ],
    "drive": null,

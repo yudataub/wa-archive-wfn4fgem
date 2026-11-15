@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-13T06:26:12.412Z",
+ "updated": "2026-11-15T12:29:53.203Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -1972,6 +1972,128 @@
    "files": [],
    "drive": null,
    "phone": "972524282461"
+  },
+  {
+   "id": "ACCDCE8F661D5DD8770EE593DB8BD93E",
+   "sender": "אביאל לוי",
+   "text": "",
+   "ts": 1794736952000,
+   "date": "2026-11-15",
+   "time": "12:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EoIAF0yIeimAOdnyhSR-iMjWUKFtxKfk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EoIAF0yIeimAOdnyhSR-iMjWUKFtxKfk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586697757"
+  },
+  {
+   "id": "ACD13A32BADC4C0E4265BB3697C2599D",
+   "sender": "אביאל לוי",
+   "text": "איסוף מחיפה!",
+   "ts": 1794736954000,
+   "date": "2026-11-15",
+   "time": "12:02",
+   "files": [],
+   "drive": null,
+   "phone": "972586697757"
+  },
+  {
+   "id": "ACD0E5ABA432FA7BF4949B8CE4DE42A3",
+   "sender": "תמר",
+   "text": "",
+   "ts": 1794738995000,
+   "date": "2026-11-15",
+   "time": "12:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "117KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13rthRH44U5STqvio-pvJM9A3AKXNY_Ht/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13rthRH44U5STqvio-pvJM9A3AKXNY_Ht&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523377112"
+  },
+  {
+   "id": "AC0E52AA55329D847FC4360722202E4E",
+   "sender": "תמר",
+   "text": "סופ\"ש חנוכה ראשון. כל הקודם זוכה! 0523377112",
+   "ts": 1794739004000,
+   "date": "2026-11-15",
+   "time": "12:36",
+   "files": [],
+   "drive": null,
+   "phone": "972523377112"
+  },
+  {
+   "id": "3EB073A05DE28CD8063F38",
+   "sender": "סוכן אחוותא",
+   "text": "מחפשים מקום גדול, נעים וכשר למהדרין לכל המשפחה?\n\n📅 *התאריכים הפנויים הקרובים:*\n• שבת פרשת ויצא — 20.11 (י״א כסלו) · אפשר גם מחמישי\n• שבת פרשת ויגש — 18.12 (ט׳ טבת) · אפשר גם מחמישי\n• שבת פרשת ויחי — 25.12 (ט״ז טבת) · אפשר גם מחמישי\n\n🏡 *ביישוב החרדי במיצד בגוש עציון*\n🛏️ 10 חדרי שינה\n👨‍👩‍👧‍👦 עד 60 אורחים\n🍽️ חדר אוכל ומטבח מאובזר\n🌄 נוף פתוח למדבר יהודה\n🕍 בתי כנסת ועירוב ביישוב\n\n📞 להזמנות: 053-5523266\n📞 מספר נוסף (מענה אוטומטי): 03-3829068\n🌐 achvata.com\n\n✨ אחוותא – יש מקום לכולם",
+   "ts": 1794744181000,
+   "date": "2026-11-15",
+   "time": "14:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "413KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SUx9rtC08XQGHcII4wqb2YEXTxAx1sqJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SUx9rtC08XQGHcII4wqb2YEXTxAx1sqJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535523266"
+  },
+  {
+   "id": "AC08E055E3624DAF02F5339FDBC7B90F",
+   "sender": "#",
+   "text": "",
+   "ts": 1794745280000,
+   "date": "2026-11-15",
+   "time": "14:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17gaw926sxd__k_M8n_XUy_vRmT7zPuOV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17gaw926sxd__k_M8n_XUy_vRmT7zPuOV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559943930"
+  },
+  {
+   "id": "ACC58FDE238601BDBA26C1E87CE76679",
+   "sender": "#",
+   "text": "",
+   "ts": 1794745766000,
+   "date": "2026-11-15",
+   "time": "14:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JeqafC_zxZEEWR61-icBktEoMOIXkEU-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JeqafC_zxZEEWR61-icBktEoMOIXkEU-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559943930"
   }
  ]
 }

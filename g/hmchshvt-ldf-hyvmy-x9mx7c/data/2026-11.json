@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-14T15:40:17.905Z",
+ "updated": "2026-11-15T04:13:16.481Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -665,6 +665,46 @@
      "path": "https://drive.google.com/file/d/1Qk8Vy8nyD-CHf03Swlx8W59Qv0Kkj5IE/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Qk8Vy8nyD-CHf03Swlx8W59Qv0Kkj5IE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ADBD2A229FB9E3481EC",
+   "sender": ".",
+   "text": "״והם מבפנים״ (בכורות נח, ב).",
+   "ts": 1794715963000,
+   "date": "2026-11-15",
+   "time": "06:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1pfIR3amYzK0LFxFR70lCXNCxIKuJJxPo/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1pfIR3amYzK0LFxFR70lCXNCxIKuJJxPo&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AA5DA1B6D83D8E1EE6A",
+   "sender": ".",
+   "text": "״קפץ אחד מן המנויין״ (בכורות נח, ב).",
+   "ts": 1794715966000,
+   "date": "2026-11-15",
+   "time": "06:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "178KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tteW2IroE-W9mXl9ub_4FAlrASdpP405/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tteW2IroE-W9mXl9ub_4FAlrASdpP405&sz=w1200"
     }
    ],
    "drive": null,

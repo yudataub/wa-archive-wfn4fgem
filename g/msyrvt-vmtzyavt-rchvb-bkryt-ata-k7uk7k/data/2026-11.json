@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-14T18:51:28.497Z",
+ "updated": "2026-11-15T18:35:12.559Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -611,6 +611,118 @@
    "files": [],
    "drive": null,
    "phone": "972528969584"
+  },
+  {
+   "id": "AC4FA06DE1D49EF7B7E4828B59BCA21B",
+   "sender": "אהובה",
+   "text": "",
+   "ts": 1794739421000,
+   "date": "2026-11-15",
+   "time": "12:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "164KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v0j8XZPYcHgDsbDC3fFps94ftikPaoaG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v0j8XZPYcHgDsbDC3fFps94ftikPaoaG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "AC994FC17472B6A5FDF61959F040C146",
+   "sender": "אהובה",
+   "text": "",
+   "ts": 1794739421000,
+   "date": "2026-11-15",
+   "time": "12:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "288KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1457lBSnoBV3ljlVxjMWyg44Qi2KetC11/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1457lBSnoBV3ljlVxjMWyg44Qi2KetC11&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "ACCE2E4E7B660062D6735E7518F84B33",
+   "sender": "אהובה",
+   "text": "🔼 למסירה! מצב מצוין!",
+   "ts": 1794739440000,
+   "date": "2026-11-15",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "AC857F74D3E40860840DEA34DD1770CD",
+   "sender": "עדנה שווט",
+   "text": "למסירה",
+   "ts": 1794751850000,
+   "date": "2026-11-15",
+   "time": "16:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC857F74D3E40860840DEA34DD1770CD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "AC5DF7FF58470EA912F0AE8835C6BDD9",
+   "sender": "גליה",
+   "text": "https://www.facebook.com/share/r/1Gc81iPPQL/",
+   "ts": 1794753008000,
+   "date": "2026-11-15",
+   "time": "16:30",
+   "files": [],
+   "drive": null,
+   "phone": "972523974498"
+  },
+  {
+   "id": "AC855E9F0115D26CAF41E37BFF6A90A5",
+   "sender": "עדנה שווט",
+   "text": "שמור",
+   "ts": 1794756068000,
+   "date": "2026-11-15",
+   "time": "17:21",
+   "files": [],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "AC04541CA8BE3A77D3A07095233971C7",
+   "sender": "מירה בוחבוט",
+   "text": "",
+   "ts": 1794767688000,
+   "date": "2026-11-15",
+   "time": "20:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1m7EOgP_LpQ0lmRM4A-Ix7DjqrzTe8Vwp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1m7EOgP_LpQ0lmRM4A-Ix7DjqrzTe8Vwp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509709704"
   }
  ]
 }

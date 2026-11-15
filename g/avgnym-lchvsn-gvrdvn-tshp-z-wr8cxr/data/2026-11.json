@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "⚓️עוגנים לחוסן גורדון תשפ״ז ⚓️",
- "updated": "2026-11-12T10:23:22.207Z",
+ "updated": "2026-11-15T15:39:45.112Z",
  "messages": [
   {
    "id": "3A7AF266E4DD1BB50A0C",
@@ -165,6 +165,46 @@
    "files": [],
    "drive": null,
    "phone": "972546261812"
+  },
+  {
+   "id": "3EB0A118F4D89EC8BE4644",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1794750889000,
+   "date": "2026-11-15",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "עוגנים לחוסן – המפגש הראשון.html",
+     "size": "16KB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1m4KWzKrsd66ku1QpMaIeliAj_YTduvuY/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "3AE1D02100758575A0A0",
+   "sender": "Zehavit Shor",
+   "text": "איזה יופי של סיכום \nתודה 🫶🏼\n\nהמון הצלחה בהמשך 🌷",
+   "ts": 1794751448000,
+   "date": "2026-11-15",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972526259434"
+  },
+  {
+   "id": "AC8EB37ECD8C9DED662A01A8186C7A58",
+   "sender": "יעל אריש",
+   "text": "וואווווו מושלם",
+   "ts": 1794757167000,
+   "date": "2026-11-15",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "phone": "972522519548"
   }
  ]
 }

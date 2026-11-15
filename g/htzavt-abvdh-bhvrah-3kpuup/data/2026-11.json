@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-14T19:46:29.348Z",
+ "updated": "2026-11-15T17:37:06.023Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -375,6 +375,46 @@
    ],
    "drive": null,
    "phone": "972546702322"
+  },
+  {
+   "id": "3EB068391BC4006AD2E613",
+   "sender": "Adi Zvieli",
+   "text": "https://app.civi.co.il/promo/id=632847&src=19763",
+   "ts": 1794738741000,
+   "date": "2026-11-15",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "321KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Rj8ZpJGP6TmvvrGpjYVWoGWoxsVtTDWv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Rj8ZpJGP6TmvvrGpjYVWoGWoxsVtTDWv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "AC70B805E08618ED99B322F3C57C9539",
+   "sender": "אני ולא אחרת",
+   "text": "",
+   "ts": 1794764197000,
+   "date": "2026-11-15",
+   "time": "19:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "208KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tDY888cYPhxC6ZiR9HXsGQLHG4oj3APZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tDY888cYPhxC6ZiR9HXsGQLHG4oj3APZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526681329"
   }
  ]
 }

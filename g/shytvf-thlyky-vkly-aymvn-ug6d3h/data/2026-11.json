@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיתוף תהליכי וכלי אימון",
- "updated": "2026-11-12T06:41:13.238Z",
+ "updated": "2026-11-15T17:23:30.551Z",
  "messages": [
   {
    "id": "3EB0DF7DB510A506A7867C",
@@ -164,6 +164,46 @@
      "path": "https://drive.google.com/file/d/1fRibH1FYyXPR882IkjOI2Mn3BDpjwEzQ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1fRibH1FYyXPR882IkjOI2Mn3BDpjwEzQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB07B756A66E09857B85C",
+   "sender": "קובי גטניו",
+   "text": "קהילה יקרה נפגשים היום בשעה 20:00,קישור לשידור יינתן בשעה 19:30.",
+   "ts": 1794724494000,
+   "date": "2026-11-15",
+   "time": "08:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "306KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W_KSKS3BMDRw_gK9_njE37iVSjbihsVX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W_KSKS3BMDRw_gK9_njE37iVSjbihsVX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546090536"
+  },
+  {
+   "id": "3EB00492E4A32B5EA3DEB1",
+   "sender": "קובי גטניו",
+   "text": "חושבים חיובי ומדברים חיובי.נפגשים היום בשעה 20:00 לשידור לייב  בקהילה  \"אימון אישי-מרכז הקואצ'ינג הישראלי\" בקישור הבא:https://yozmotgroup.zoom.us/j/85032334490",
+   "ts": 1794763398000,
+   "date": "2026-11-15",
+   "time": "19:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "306KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N6Imc1CdsXTb9LYvbaGZLqBqDfEQZQv3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N6Imc1CdsXTb9LYvbaGZLqBqDfEQZQv3&sz=w1200"
     }
    ],
    "drive": null,

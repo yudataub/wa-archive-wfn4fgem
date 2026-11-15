@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-14T20:22:01.928Z",
+ "updated": "2026-11-15T15:26:54.740Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -2625,6 +2625,680 @@
    "files": [],
    "drive": null,
    "phone": "972545630812"
+  },
+  {
+   "id": "ACD3B379D30E257534D07549DCBB9CDB",
+   "sender": "חני",
+   "text": "לא יודעת למי זה קשור, אבל חלק מהמצגות ב'ללמוד וללמד' נמחקו. מי יכול לטפל בזה?",
+   "ts": 1794725197000,
+   "date": "2026-11-15",
+   "time": "08:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mY1nl0nvDcADrtqrQ99t69dwWtc2BC7p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mY1nl0nvDcADrtqrQ99t69dwWtc2BC7p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542617701"
+  },
+  {
+   "id": "AC70CC431D9FE4962AF36EF12ECD0142",
+   "sender": "ARAZI SHARONA",
+   "text": "שבוע טוב\nאתר ללמוד וללמד אינו פעיל.\nהאתר הרשמי שלנו : מפמ\"ר תנ\"ך חמ\"ד *בשורות טובות*\nhttps://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/",
+   "ts": 1794725336000,
+   "date": "2026-11-15",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "3EB0942485CA740A32BFD7",
+   "sender": "זהבה בן שבת",
+   "text": "מבחן שהכנתי עבור כתתי לאחר סיום פרשת דברים ואתחנן",
+   "ts": 1794727392000,
+   "date": "2026-11-15",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "מבחן מסכם בתורה פרשת דברים ואתחנן (1).pdf",
+     "size": "170KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1xB79KmpTGQhRFv9f4mHII0OgdZuYyQCD/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972529406112"
+  },
+  {
+   "id": "3A25651DAA8D00815551",
+   "sender": "לירון בן לולו💕",
+   "text": "למישהו יש דפי חזרה למבחן על פרשת דברים ופרשת ואתחנן?",
+   "ts": 1794735601000,
+   "date": "2026-11-15",
+   "time": "11:40",
+   "files": [],
+   "drive": null,
+   "phone": "972542057474"
+  },
+  {
+   "id": "AC2FA7028906B25307E0A97C693826C5",
+   "sender": "yochai🤩❤💚",
+   "text": "שאלות תשובות טוב לך",
+   "ts": 1794737581000,
+   "date": "2026-11-15",
+   "time": "12:13",
+   "files": [],
+   "drive": null,
+   "phone": "972503737325"
+  },
+  {
+   "id": "AC84AE7593966F5A3CF0AEFDA7AD1B80",
+   "sender": "בית חינוך נעם חבל יבנה",
+   "text": "יש אתת המבחן ואת החזרה בקובץ פתוח? אשמח!!",
+   "ts": 1794737859000,
+   "date": "2026-11-15",
+   "time": "12:17",
+   "files": [],
+   "drive": null,
+   "phone": "972548193598"
+  },
+  {
+   "id": "AC5E8F4DACE40BE51E8EB22890520D91",
+   "sender": "ryhen97",
+   "text": "גם באתר הרשמי, זה מה שמופיע בחלק מהמצגות",
+   "ts": 1794739537000,
+   "date": "2026-11-15",
+   "time": "12:45",
+   "files": [],
+   "drive": null,
+   "phone": "972524599871"
+  },
+  {
+   "id": "AC4EABA7F2CD111D0CB3221C0EB5AC81",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "נכון. ביקשתי פה את של ואתחנן והרב יאיר שלח לפה.",
+   "ts": 1794740920000,
+   "date": "2026-11-15",
+   "time": "13:08",
+   "files": [],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "ACD09FEB5B964B60DC4D43C422DBA093",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "",
+   "ts": 1794740922000,
+   "date": "2026-11-15",
+   "time": "13:08",
+   "files": [
+    {
+     "name": "פרשת ואתחנן מצגות .pptx",
+     "size": "32.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1gmuGtr6A9nTpYRMT4JWSz4uB9aKjnD9O/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "ACEA17AC0C34EA206F1F472BE689CFC2",
+   "sender": "נועם רוצ'ס",
+   "text": "למישהו יש מצגת על שמואל ב פרק ג?",
+   "ts": 1794746130000,
+   "date": "2026-11-15",
+   "time": "14:35",
+   "files": [],
+   "drive": null,
+   "phone": "972533395164"
+  },
+  {
+   "id": "3A353990B9ECD5FC9EAD",
+   "sender": "לאה עטר",
+   "text": "יש באתר אביטה מצגות מעולות",
+   "ts": 1794746269000,
+   "date": "2026-11-15",
+   "time": "14:37",
+   "files": [],
+   "drive": null,
+   "phone": "972547707574"
+  },
+  {
+   "id": "ACE14BAB9E0069266AB8CD89764D3D30",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1794746279000,
+   "date": "2026-11-15",
+   "time": "14:37",
+   "files": [
+    {
+     "name": "שמואל ב פרק ג.pptx",
+     "size": "3.5MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/145Dsdy4QSrPbbL-alim1BfDwvkazsXQt/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "AC3D4309A023574C2F07E4D93A1C7A8E",
+   "sender": "ענת מלאכי",
+   "text": "יש למישהו דף עבודה טוב לשמואל ב' פרק ו'?🙏🏻",
+   "ts": 1794746454000,
+   "date": "2026-11-15",
+   "time": "14:40",
+   "files": [],
+   "drive": null,
+   "phone": "972544905340"
+  },
+  {
+   "id": "AC4179589CD4AD1BBDFC69B809657B56",
+   "sender": "יעל אילן",
+   "text": "דף הפסוקים ללמידה בע\"פ, למבחן באייר, נשאר כבשנים עברו?\nנשמח להקפצת הדף בבקשה",
+   "ts": 1794747305000,
+   "date": "2026-11-15",
+   "time": "14:55",
+   "files": [],
+   "drive": null,
+   "phone": "972526661583"
+  },
+  {
+   "id": "AC149DD81A757B677F8F67F0B192DFDB",
+   "sender": "זיו גודיס",
+   "text": "תלוי איזה מבחן יהיה..\nאם זה מבחן של ראמה החלק הזה ותרגום כתב רשי יורד..",
+   "ts": 1794747357000,
+   "date": "2026-11-15",
+   "time": "14:55",
+   "files": [],
+   "drive": null,
+   "phone": "972545932045"
+  },
+  {
+   "id": "ACFB9909D4095712F793C75C0D881421",
+   "sender": "מוטי אלבז",
+   "text": "",
+   "ts": 1794747518000,
+   "date": "2026-11-15",
+   "time": "14:58",
+   "files": [
+    {
+     "name": "פרק ו (2).docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1eCpekjk7tAR4AjWY0A17IOHsbo2pTxPH/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523486547"
+  },
+  {
+   "id": "AC6D9F2464289C88CA3C4B75ACD99CF4",
+   "sender": "יעל אילן",
+   "text": "יש צפי לדעת?",
+   "ts": 1794747678000,
+   "date": "2026-11-15",
+   "time": "15:01",
+   "files": [],
+   "drive": null,
+   "phone": "972526661583"
+  },
+  {
+   "id": "ACF31EC1B677E6AA4CE9BA1403938CF5",
+   "sender": "זיו גודיס",
+   "text": "@82270199279851",
+   "ts": 1794747707000,
+   "date": "2026-11-15",
+   "time": "15:01",
+   "files": [],
+   "drive": null,
+   "phone": "972545932045"
+  },
+  {
+   "id": "AC269AF1467F55CB4C395F4861A56E35",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "ממליצה ממש על המערך שיעןר של שמע ישראל עם הסיפורים המקסימים. מצרפת כאן טבלה למילוי. לא לשכוח להראות את הסרטון על רועי קליין. הבנות ממש התרגשו מהשיעור הזה.",
+   "ts": 1794748476000,
+   "date": "2026-11-15",
+   "time": "15:14",
+   "files": [],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "AC81B3B343F8763DAD1870D4618B52CC",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "",
+   "ts": 1794748507000,
+   "date": "2026-11-15",
+   "time": "15:15",
+   "files": [
+    {
+     "name": "טבלת סיכום מקרים שמע ישראל.pdf",
+     "size": "17KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1lgLx9bzsj01L0bMRZZpzl2Zcz_LAVGGB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "ACB0C3FA6250D1121C879CD8655FC100",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "https://youtu.be/xcVBCFSuPIw?si=xzL0KoH8Czt_-Wj0",
+   "ts": 1794748529000,
+   "date": "2026-11-15",
+   "time": "15:15",
+   "files": [],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "ACBFA191469AE6E6C8228B76463F93A3",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "מקור: YouTube https://share.google/BMfe7tPQGbgbqc0wO",
+   "ts": 1794748748000,
+   "date": "2026-11-15",
+   "time": "15:19",
+   "files": [],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "AC14C5A687ECE13A3F3735EADD0F9489",
+   "sender": "🎀רעות כהן🎀",
+   "text": "המבחן שמופיע באתר הוא רק על פרשת דברים. \n\nיש אפשרות להעלות לכאן את המבחן הנכון?",
+   "ts": 1794749036000,
+   "date": "2026-11-15",
+   "time": "15:23",
+   "files": [],
+   "drive": null,
+   "phone": "972522853740"
+  },
+  {
+   "id": "AC88AD8B76E99575193198F28C8518BB",
+   "sender": "אוראל דרורי",
+   "text": "במבחן שבאתר הוא גם על פרשת ואתחנן.",
+   "ts": 1794749288000,
+   "date": "2026-11-15",
+   "time": "15:28",
+   "files": [],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "ACF4C6DBCE8A9EFA24394ABA77E75071",
+   "sender": "אוראל דרורי",
+   "text": "",
+   "ts": 1794749289000,
+   "date": "2026-11-15",
+   "time": "15:28",
+   "files": [
+    {
+     "name": "dvarim-aharaha-a-artzi-TSPZ.pdf",
+     "size": "573KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1D2Z-8ONUZ_6eLp14C4UAHjGrYwEe8nb9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526452568"
+  },
+  {
+   "id": "ACE37345E70260C03AF2AEA87C7A3D5A",
+   "sender": "זיו בן זקן",
+   "text": "ממש! איזה שיעור משמעותי 🤩",
+   "ts": 1794749300000,
+   "date": "2026-11-15",
+   "time": "15:28",
+   "files": [],
+   "drive": null,
+   "phone": "972585666343"
+  },
+  {
+   "id": "ACCA992D74AD0CA0C902FE86557A0FF7",
+   "sender": "חיה מושקא ברגר",
+   "text": "זה המבחן הארצי?",
+   "ts": 1794749882000,
+   "date": "2026-11-15",
+   "time": "15:38",
+   "files": [],
+   "drive": null,
+   "phone": "972549821778"
+  },
+  {
+   "id": "ACD5536D703728BBA1651586EB78262E",
+   "sender": "נעמה",
+   "text": "על איזה מערך את מדברת? בפורטל? סיימתי את החומר למבחן רוצה לחזור אחורה להדגיש את זה...",
+   "ts": 1794750477000,
+   "date": "2026-11-15",
+   "time": "15:47",
+   "files": [],
+   "drive": null,
+   "phone": "972524669264"
+  },
+  {
+   "id": "3AFA31C6AD137E57385D",
+   "sender": "✨Eti Zohar✨",
+   "text": "אפשר את המערך",
+   "ts": 1794750889000,
+   "date": "2026-11-15",
+   "time": "15:54",
+   "files": [],
+   "drive": null,
+   "phone": "972547221070"
+  },
+  {
+   "id": "ACDF5D4BD4B164CF1015034F22CD7966",
+   "sender": "הדס דילר 🇮🇱",
+   "text": "",
+   "ts": 1794750975000,
+   "date": "2026-11-15",
+   "time": "15:56",
+   "files": [
+    {
+     "name": "dvarim-6-4-9.pdf",
+     "size": "566KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rZdcBkm_GXCU0JGny0pgYxEqAFEKftYQ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972545630812"
+  },
+  {
+   "id": "ACFB434F46862A79EA7D7A8B66B9FFE4",
+   "sender": "אדר חזן",
+   "text": "האם יש אקסל למבחנים הארציים של ד או ו' שצריך להזין?",
+   "ts": 1794751020000,
+   "date": "2026-11-15",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "phone": "972504220288"
+  },
+  {
+   "id": "AC4DABCDF0A5DAE04348B779A983D3AA",
+   "sender": "הילה כהן 😍",
+   "text": "זה המבחן שצריך להעביר מי שבוחר בהערכה זו ?",
+   "ts": 1794751147000,
+   "date": "2026-11-15",
+   "time": "15:59",
+   "files": [],
+   "drive": null,
+   "phone": "972544788864"
+  },
+  {
+   "id": "ACE1C268FE4F06F44BC8824B54E2E16E",
+   "sender": "Yair Lieberman",
+   "text": "🚦 מזכיר שבימי ראשון בערב סוגרים את הקבוצה כדי לשלוח במרוכז הודעות ותשובות לשאלות שעלו.\n\nיאיר ליברמן מדריך תנ״ך ארצי",
+   "ts": 1794754990000,
+   "date": "2026-11-15",
+   "time": "17:03",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACE24ECE798A47E5739AC904CD386A40",
+   "sender": "Yair Lieberman",
+   "text": "מצטרף להמלצה על המשימה המיוחדת על פרשת *שמע ישראל*.\n\n*למה זה כל כך חשוב?* \nבנאום הלקח, בפרקים א׳–י״א, טמונים יסודות גדולים, כמו:\n- ״שמע ישראל״, האמונה \n- אהבת ה', יראת ה'\n-  \"והיה אם שמוע\" - שכר ועונש.\n- תורה מן השמים\n-  עשרת הדברות\n- הבחירה החופשית\n- מעלתה של ארץ ישראל  ועוד.\n\nכשאנחנו מלמדים דברים כל כך יסודיים, חשוב לתת לתלמידים הזדמנות לבטא, במילים שלהם, את המסר מהפרשה וכיצד הוא נוגע לחייהם. לשם כך לקחנו את פרשת שמע, יסוד האמונה, ויצרנו עבורה את המשימה הזו, שנותנת מקום לבטא את ההבנה שלהם. \nזו צורה אחרת של למידה.\nתתנסו בה. אני מבטיח לכם שתגלו דברים חדשים ונפלאים על התלמידים שלכם.\n\nבהצלחה!",
+   "ts": 1794755140000,
+   "date": "2026-11-15",
+   "time": "17:05",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC13B45F823A36BBC3F07D6BAC06C31E",
+   "sender": "Yair Lieberman",
+   "text": "",
+   "ts": 1794755210000,
+   "date": "2026-11-15",
+   "time": "17:06",
+   "files": [
+    {
+     "name": "dvarim-6-4-9.pdf",
+     "size": "566KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1V2XH18dmKSawecLrhnI16JdRCD-2VtDp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACDA6185A014393CB5FFF605EFB15746",
+   "sender": "Yair Lieberman",
+   "text": "",
+   "ts": 1794755211000,
+   "date": "2026-11-15",
+   "time": "17:06",
+   "files": [
+    {
+     "name": "dvarim-6-shma.pdf",
+     "size": "894KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PRYitC7vHw8VKEjS_1nw6UNq91en8Vi9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACF34A5115FFA2F39E47D379F1A800CB",
+   "sender": "Yair Lieberman",
+   "text": "",
+   "ts": 1794755212000,
+   "date": "2026-11-15",
+   "time": "17:06",
+   "files": [
+    {
+     "name": "שמע ישראל - מדריך למורה -סופי.pdf",
+     "size": "853KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1f2SbQ4hUPlWXqH_cEY181HEtwkh1FYfx/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC55C73F5C3E723939574423F925920B",
+   "sender": "Yair Lieberman",
+   "text": "מצורפים, גם המערך וגם משימה.",
+   "ts": 1794755229000,
+   "date": "2026-11-15",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC7B070BE6733E054A82BC84C3137C36",
+   "sender": "Yair Lieberman",
+   "text": "*מצגות והדרכה ואתחנן*\nהפנו את תשומת לבנו להיעלמם של חלק מהמצגות בפרשת ואתחנן. מצרף אותם ומתוסכל ההדרכה המלווה לשימוש בהם.",
+   "ts": 1794755259000,
+   "date": "2026-11-15",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC5C2FC9AB487B2A1AE1E23EFE60303A",
+   "sender": "Yair Lieberman",
+   "text": "https://youtu.be/djO9YautXCY?feature=shared",
+   "ts": 1794755261000,
+   "date": "2026-11-15",
+   "time": "17:07",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACBB5676D0AB21DF8C25637F7F7DA141",
+   "sender": "Yair Lieberman",
+   "text": "",
+   "ts": 1794755262000,
+   "date": "2026-11-15",
+   "time": "17:07",
+   "files": [
+    {
+     "name": "פרשת ואתחנן מצגות .pptx",
+     "size": "32.6MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1VnFv-JijbOnJ6fpaWeYLkaxsWZDXRbv0/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACD85E120C196CEB3B9FA2539A83AB6D",
+   "sender": "Yair Lieberman",
+   "text": "לפי התכנון השנתי, בקרוב נעבור *להוראת פרשת עקב*.\n\nלמי שכבר רוצים להתכונן, מצרף שני חומרים שילוו אתכם בהוראת הפרשה\n\n📂 קובץ מצגות המחולק לפי נושאים ושיעורים, לשימוש לאורך כל הוראת הפרשה.\n\n🎥 סרטון הדרכה שסוקר את המצגות ומסביר את מהלך השיעורים המוצגים בהן ואיך להעביר אותם בכיתה.\n\nחשוב מאוד לצפות בסרטון ההדרכה לפני השימוש במצגות.\n\nיישר כח לכל המורות והמורים שמעלים חומרים נפלאים נוספים משלהם.\n\nשיהיה לנו בהצלחה!",
+   "ts": 1794755318000,
+   "date": "2026-11-15",
+   "time": "17:08",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC0491517AC552F1191ABC723A246A8B",
+   "sender": "Yair Lieberman",
+   "text": "",
+   "ts": 1794755327000,
+   "date": "2026-11-15",
+   "time": "17:08",
+   "files": [
+    {
+     "name": "מצגות פרשת עקב.pptx",
+     "size": "17.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1pItHp1Nh7_ww5Ee3rtHz8EuHmLuqIgoM/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC8453084AB8BA8F67311DE2CC33F8C3",
+   "sender": "Yair Lieberman",
+   "text": "https://www.youtube.com/watch?v=aoTawsY9a-k",
+   "ts": 1794755328000,
+   "date": "2026-11-15",
+   "time": "17:08",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC6AA9F0C05631995FE2156BF41BC799",
+   "sender": "Yair Lieberman",
+   "text": "*לגבי השאלות על מבנה המבחן הארצי*\n\nכפי שהסברנו, המבחן הארצי השנה מתוכנן להיערך במתכונת חיצונית  המבחן השנה נערך על ידי ראמ\"ה, הוא אינו מבחן של החמ\"ד כפי שהיה. (על ילדי ישראל נבחנים בתנ\"ך כולל המגזר הממלכתי).\n\nאכן, במבנה החדש החלק של הפסוקים בעל פה וכתב רש\"י - יורד.\n\nמבנה המבחן השנה: כמחצית מהמבחן יהיה כמו המבחנים שהיו עד כה - שאלות צורה ורש\"י ע\"פ תכנית הלימודים בחלק המצוות בחומש דברים.\nבנוסף יהיו שאלות על ידע כללי בסיסי בחומש ובנביא, ותהיה שאלת נושא שתכלול כמה שאלות מיומנות וביטוי סביב ערך/נושא מרכזי.\n\nהמבחן יתקיים בחודש אייר והרבה לפני כן נקיים מפגש ייעודי שבו נסביר את המבנה ונענה על שאלות כפי יכולתנו. \n*אין צורך לשנות את תוכנית הלמידה* בשום דבר. המבחן מתאים עצמו לתכנית הלימודים, ולא ההפך.",
+   "ts": 1794755450000,
+   "date": "2026-11-15",
+   "time": "17:10",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC790FADEEDC6632390AF31AD0923B69",
+   "sender": "Yair Lieberman",
+   "text": "👆 מצורפת מודעה *עם כל הקישורים בפנים* לרישום להשתלמויות בתנ״ך. \nשימו לב לכמה דגשים:\n\n📘 *יסודות בהוראת תנ״ך* היא השתלמות ייעודית *למורים חדשים*. זו השתלמות יסוד חשובה, שתיתן את כל הידע והכלים הדרושים עם הכניסה להוראת תורה ונביא.\n\n💡 'חוויה בהוראת תנ״ך' ו-'כלים טכנולוגיים בהוראת תנ״ך' הן השתלמויות העמקה למי שכבר השתתפו בהשתלמויות הרגילות. (ההשתלמות בכלים טכנולוגיים תיפתח בשבועות הקרובים, וקישור להרשמה יישלח בהמשך.)\n\n📖 שימו לב גם להשתלמות המיוחדת *הוראת נביאים*, הכוללת הדרכה, עקרונות וכלים להוראת כל ספרי הנביאים. מומלצת מאוד למי שטרם השתתפו בה.\n\nמוזמנים ומוזמנות להירשם!",
+   "ts": 1794755860000,
+   "date": "2026-11-15",
+   "time": "17:17",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACD62D5CC2EBB32C47AF46DF6EC43927",
+   "sender": "Yair Lieberman",
+   "text": "*'לא קבלתי הודעה' / 'מתי ההשתלמות נפתחת*?\n\nההשתלמויות מנוהלות על ידי הפסגות/מכללה והן צריכות. לשלוח הודעה.\nשימו לב שעם הרישום היה סילבוס של כל התאריכים.\nיתכן ושולחים הודעה מרוכזת על ידי המנחה רק אחרי שנרשמים מספר מספיק של נרשמים וההשתלמות נפתחת סופית. אולי זה יקח עוד מספר ימים.",
+   "ts": 1794755861000,
+   "date": "2026-11-15",
+   "time": "17:17",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "ACCB809AB7BFA846CB029C23F5CDEE60",
+   "sender": "Yair Lieberman",
+   "text": "",
+   "ts": 1794755891000,
+   "date": "2026-11-15",
+   "time": "17:18",
+   "files": [
+    {
+     "name": "השתלמויות תנך תשפז.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1-HXmUHVBFCYzBAeYUzZIECcbYtnavid_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC4448768668609C55140BDFFC6D6133",
+   "sender": "Yair Lieberman",
+   "text": "👆 מצורפת מודעה *עם כל הקישורים בפנים* לרישום להשתלמויות בתנ״ך. \nשימו לב לכמה דגשים:\n\n📘 *יסודות בהוראת תנ״ך* היא השתלמות ייעודית *למורים חדשים*. זו השתלמות יסוד חשובה, שתיתן את כל הידע והכלים הדרושים עם הכניסה להוראת תורה ונביא.\n\n💡 'חוויה בהוראת תנ״ך' ו-'כלים טכנולוגיים בהוראת תנ״ך' הן השתלמויות העמקה למי שכבר השתתפו בהשתלמויות הרגילות. (ההשתלמות בכלים טכנולוגיים תיפתח בשבועות הקרובים, וקישור להרשמה יישלח בהמשך.)\n\n📖 שימו לב גם להשתלמות המיוחדת *הוראת נביאים*, הכוללת הדרכה, עקרונות וכלים להוראת כל ספרי הנביאים. מומלצת מאוד למי שטרם השתתפו בה.\n\nמוזמנים ומוזמנות להירשם!",
+   "ts": 1794755904000,
+   "date": "2026-11-15",
+   "time": "17:18",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC6F2F112377C9595151C322B31F4D41",
+   "sender": "Yair Lieberman",
+   "text": "*'לא קבלתי הודעה' / 'מתי ההשתלמות נפתחת*?\n\nההשתלמויות מנוהלות על ידי הפסגות/מכללה והן צריכות. לשלוח הודעה.\nשימו לב שעם הרישום היה סילבוס של כל התאריכים.\nיתכן ושולחים הודעה מרוכזת על ידי המנחה רק אחרי שנרשמים מספר מספיק של נרשמים וההשתלמות נפתחת סופית. אולי זה יקח עוד מספר ימים.",
+   "ts": 1794755905000,
+   "date": "2026-11-15",
+   "time": "17:18",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
+  },
+  {
+   "id": "AC5C2F9918D489E61718427C53785CEC",
+   "sender": "Yair Lieberman",
+   "text": "רציתי להרחיב מעט בנושא השיעואים הנוצרים (בקלות) בבינה המלאכותית ובעיקר בשאלה *מהי אמת המידה* לפיה אנחנו קובעים אם השיעור טוב/מתאים/מדהים לנו וללתלמידים שלנו.\n[תוכן מדויק ונאמן? ויזואליה? פדגוגיה? פיתוח רעיון מרכזי? משימות מפתחות הבנה?]\n\nלא נאריך כעת שלא להעמיס.\nנחזור לשאלה הזו בהמשך השבוע בע\"ה.\nבהצלחה.\nיאיר",
+   "ts": 1794756390000,
+   "date": "2026-11-15",
+   "time": "17:26",
+   "files": [],
+   "drive": null,
+   "phone": "972547228856"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-11-11T12:01:50.416Z",
+ "updated": "2026-11-15T16:14:52.555Z",
  "messages": [
   {
    "id": "A592F509500EFC3F24FFED703532E1A3",
@@ -979,6 +979,59 @@
    "files": [],
    "drive": null,
    "phone": "972548193598"
+  },
+  {
+   "id": "AC8FE3B735F4F7B0C829AB89F930524E",
+   "sender": "לירון",
+   "text": "אשמח למבחן במשנה לכיתה ה",
+   "ts": 1794740901000,
+   "date": "2026-11-15",
+   "time": "13:08",
+   "files": [],
+   "drive": null,
+   "phone": "972526005158"
+  },
+  {
+   "id": "AC60D52276FB09C9926ECDC39F95C762",
+   "sender": "קוקי סופר",
+   "text": "",
+   "ts": 1794745986000,
+   "date": "2026-11-15",
+   "time": "14:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "252KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/162uq5fYz2rcPGqBA__c4TS4WhbMe-z_L/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=162uq5fYz2rcPGqBA__c4TS4WhbMe-z_L&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528242795"
+  },
+  {
+   "id": "AC7507639D7E9E1ED54394B6A8EEF5F2",
+   "sender": "קוקי סופר",
+   "text": "שלחתי לתלמידים קישור וזה מה ששלח להם, אפשר עזרה?",
+   "ts": 1794745993000,
+   "date": "2026-11-15",
+   "time": "14:33",
+   "files": [],
+   "drive": null,
+   "phone": "972528242795"
+  },
+  {
+   "id": "ACF8AFE5AC1734D171BF6005A5D63444",
+   "sender": "❤❤❤❤",
+   "text": "תודה רבה על הסרטונים ויישר כוח גדול!",
+   "ts": 1794759287000,
+   "date": "2026-11-15",
+   "time": "18:14",
+   "files": [],
+   "drive": null,
+   "phone": "972522406167"
   }
  ]
 }

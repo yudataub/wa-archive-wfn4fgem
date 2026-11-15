@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"אור התורה\" 🕍 שיתוף קשורים לזיכוי הרבים",
- "updated": "2026-11-12T11:43:28.548Z",
+ "updated": "2026-11-15T19:40:23.912Z",
  "messages": [
   {
    "id": "A55C18B9A8EAD884F995FFCEF592D7B1",
@@ -155,6 +155,25 @@
    "files": [],
    "drive": null,
    "phone": "972527188781"
+  },
+  {
+   "id": "A527097DA45E794434EF459326D28973",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1794771599000,
+   "date": "2026-11-15",
+   "time": "21:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-wdaIftDeXjep0hK5wSNUNl567RCEZjY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-wdaIftDeXjep0hK5wSNUNl567RCEZjY&sz=w1200"
+    }
+   ],
+   "drive": null
   }
  ]
 }

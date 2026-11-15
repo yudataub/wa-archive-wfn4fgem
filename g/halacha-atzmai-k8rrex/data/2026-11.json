@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-14T20:39:30.661Z",
+ "updated": "2026-11-15T12:54:23.571Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -1180,6 +1180,57 @@
    ],
    "drive": null,
    "phone": "972504601818"
+  },
+  {
+   "id": "AC5F28C091FD7F1519552163B769E6EC",
+   "sender": "אושרי",
+   "text": "לימוד כתב סתרים *משימה ראשונה של ההשתלמות*",
+   "ts": 1794729164000,
+   "date": "2026-11-15",
+   "time": "09:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "290KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ienzSvnbWklqWNc9T977jPFHA4Ufke5D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ienzSvnbWklqWNc9T977jPFHA4Ufke5D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532830670"
+  },
+  {
+   "id": "ACFA0A209B19E9A0C77FC330C983EA79",
+   "sender": "אושרי",
+   "text": "גלגל המזל על משנה מסכת עבודה לפי תחנות, חוברת עבודה, תרגול משחק רצים למסכת וגלגל המזל",
+   "ts": 1794729223000,
+   "date": "2026-11-15",
+   "time": "09:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "241KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ApvTNfDg1zOqK0Jyk34MZC8xpXBOyAj_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ApvTNfDg1zOqK0Jyk34MZC8xpXBOyAj_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532830670"
+  },
+  {
+   "id": "ACC3EEF6A65D6951B8BCCD3C83A6798C",
+   "sender": "דניאל",
+   "text": "לפי הסילבוס המפגש האחרון יוצא 25.1, זה נכון?",
+   "ts": 1794747250000,
+   "date": "2026-11-15",
+   "time": "14:54",
+   "files": [],
+   "drive": null,
+   "phone": "972547559290"
   }
  ]
 }
