@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-15T08:29:18.411Z",
+ "updated": "2026-11-15T21:46:16.017Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -1565,6 +1565,107 @@
    "files": [],
    "drive": null,
    "phone": "972546328697"
+  },
+  {
+   "id": "AC4980119FEC29521FFFA4A32AF6D263",
+   "sender": "תומר וירט",
+   "text": "שלום: תומר\n\nתודה שרכשת *15* כרטיסים 🤩\nלהגרלה המשפחתית של 'נוסעים לרבי' \n\nשתפו את הלינק האישי שלכם \nבקבוצה או בסטטוס\nועל כל 3 שנכנסים דרככם \nתקבלו כרטיס נוסף!🪄\n\nללינק ומודעה לשיתוף👇",
+   "ts": 1794778769000,
+   "date": "2026-11-15",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "30KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC4980119FEC29521FFFA4A32AF6D263_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507146770"
+  },
+  {
+   "id": "ACB58213670634843F3C255B058A699F",
+   "sender": "תומר וירט",
+   "text": "👇 להרשמה להגרלה\nhttps://wa.me/972512770165?text=/אני+רוצה+לזכות+בכרטיס+טיסה+לרבי+הגעתי+דרך--972507146770",
+   "ts": 1794779138000,
+   "date": "2026-11-15",
+   "time": "23:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mIZW8G8yHSpA_LHyYqtSJb71be7OqY89/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mIZW8G8yHSpA_LHyYqtSJb71be7OqY89&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507146770"
+  },
+  {
+   "id": "AC3854AF90A4BFD2183DD336EFC418C7",
+   "sender": "תומר וירט",
+   "text": "👇 להרשמה להגרלה\nhttps://wa.me/972512770165?text=/אני+רוצה+לזכות+בכרטיס+טיסה+לרבי+הגעתי+דרך--972507146770",
+   "ts": 1794779140000,
+   "date": "2026-11-15",
+   "time": "23:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "334KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fVRbGU_nC4Yor3l9cI3lwFcC4HPNjTuE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fVRbGU_nC4Yor3l9cI3lwFcC4HPNjTuE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507146770"
+  },
+  {
+   "id": "AC010876DE353D7FDA2C8AA20BBBCD2D",
+   "sender": "תומר וירט",
+   "text": "",
+   "ts": 1794779145000,
+   "date": "2026-11-15",
+   "time": "23:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1W9IhsQdKULN2fSQTV5mpMgt72c9p0iZ-/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC010876DE353D7FDA2C8AA20BBBCD2D_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1W9IhsQdKULN2fSQTV5mpMgt72c9p0iZ-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507146770"
+  },
+  {
+   "id": "ACDF0106282039FE546B1B85F9D4C8C5",
+   "sender": "תומר וירט",
+   "text": "",
+   "ts": 1794779145000,
+   "date": "2026-11-15",
+   "time": "23:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1sepOpi8rJD7lbzobHYKcGIXEX_PQia9m/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACDF0106282039FE546B1B85F9D4C8C5_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1sepOpi8rJD7lbzobHYKcGIXEX_PQia9m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507146770"
   }
  ]
 }

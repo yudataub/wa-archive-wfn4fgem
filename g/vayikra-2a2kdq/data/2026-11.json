@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-11-15T20:58:08.490Z",
+ "updated": "2026-11-15T22:18:46.800Z",
  "messages": [
   {
    "id": "ACA158C915E6F8E25F841C558234F4D2",
@@ -6009,6 +6009,121 @@
    "ts": 1794776270000,
    "date": "2026-11-15",
    "time": "22:57",
+   "files": [],
+   "drive": null,
+   "phone": "972509605150"
+  },
+  {
+   "id": "ACBD77F52EECE59CA6D982BE71A757D1",
+   "sender": "ימי מישולובין",
+   "text": "ערב טוב,\nלמישהי יש מצגת לפרק ד?",
+   "ts": 1794777272000,
+   "date": "2026-11-15",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972528273999"
+  },
+  {
+   "id": "ACFD292456C2B861959D15A96042E53F",
+   "sender": "חנה שרה קיי",
+   "text": "שלחו פה מצגת מהממת",
+   "ts": 1794777367000,
+   "date": "2026-11-15",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972552422630"
+  },
+  {
+   "id": "AC0CDAC542A87E34892370D6D9B399EE",
+   "sender": "חנה שרה קיי",
+   "text": "",
+   "ts": 1794777368000,
+   "date": "2026-11-15",
+   "time": "23:16",
+   "files": [
+    {
+     "name": "חומש ויקרא פרק ד קורבן חטאת.pdf",
+     "size": "18.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1m1bU-xGBOgZZsI3c9qCywRLm2UnU_dOM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972552422630"
+  },
+  {
+   "id": "ACC26F4A01140F024C4D411DD8E0E376",
+   "sender": "ימי מישולובין",
+   "text": "תודה רבה.",
+   "ts": 1794777615000,
+   "date": "2026-11-15",
+   "time": "23:20",
+   "files": [],
+   "drive": null,
+   "phone": "972528273999"
+  },
+  {
+   "id": "3ABD511997FDC80A374B",
+   "sender": "מוסי מינצברג",
+   "text": "",
+   "ts": 1794777885000,
+   "date": "2026-11-15",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "korbanot-quartets-A4-print-5278b25b.pdf",
+     "size": "554KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XaBFtOEUO4JB1BGYRBesnWjmUwq9pd2I/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586668903"
+  },
+  {
+   "id": "3A70271D08208A53E355",
+   "sender": "מוסי מינצברג",
+   "text": "שיניתי את זה מוכן להדפסה בגודל מתאים לקלפים\nבעיצוב יותר בהיר.\nבהצלחה❤️",
+   "ts": 1794777923000,
+   "date": "2026-11-15",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "phone": "972586668903"
+  },
+  {
+   "id": "AC88467DEFF32A17085CEA478F5C03EC",
+   "sender": "ימי מישולובין",
+   "text": "מקסים!!\nתודה על השיתוף.",
+   "ts": 1794778018000,
+   "date": "2026-11-15",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "phone": "972528273999"
+  },
+  {
+   "id": "AC816146632955EBADC07D6D464AE8D2",
+   "sender": "עדנה משה",
+   "text": "אשמח לאיך הצגת את זה כולם ביחד בכיתה או כל ילד קיבל קישור ועשה לבד במחשב",
+   "ts": 1794779074000,
+   "date": "2026-11-15",
+   "time": "23:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526606106"
+  },
+  {
+   "id": "ACD02192D8EB85B72C6CB703F7C6B05D",
+   "sender": "אורית הודיה",
+   "text": "איזו אלופה. יצא מהמם. \nיישר כח ותודה על השיתוף",
+   "ts": 1794781102000,
+   "date": "2026-11-16",
+   "time": "00:18",
    "files": [],
    "drive": null,
    "phone": "972509605150"
