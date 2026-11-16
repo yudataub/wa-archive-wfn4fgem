@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-16T21:09:30.720Z",
+ "updated": "2026-11-16T22:21:38.549Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -9503,6 +9503,135 @@
    "ts": 1794863345000,
    "date": "2026-11-16",
    "time": "23:09",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "ACB33652B3125F0FF129D402EC6AF44B",
+   "sender": "יניב",
+   "text": "חומוס אליהו",
+   "ts": 1794863556000,
+   "date": "2026-11-16",
+   "time": "23:12",
+   "files": [],
+   "drive": null,
+   "phone": "972527222741"
+  },
+  {
+   "id": "ACB5AD2783C6121465F34ADEAB1FE890",
+   "sender": "א",
+   "text": "לא עליו",
+   "ts": 1794863569000,
+   "date": "2026-11-16",
+   "time": "23:12",
+   "files": [],
+   "drive": null,
+   "phone": "972528715167"
+  },
+  {
+   "id": "AC5BE37D92333B16DA957483A64BB9CC",
+   "sender": "א",
+   "text": "ליד",
+   "ts": 1794863573000,
+   "date": "2026-11-16",
+   "time": "23:12",
+   "files": [],
+   "drive": null,
+   "phone": "972528715167"
+  },
+  {
+   "id": "AC5B2B5E0AD9FC624E72C3461B56DEB3",
+   "sender": "B",
+   "text": "כנראה החומוס היה מקולקל 😂",
+   "ts": 1794863590000,
+   "date": "2026-11-16",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972547264000"
+  },
+  {
+   "id": "AC2147AFD17579EBEEC15F26ED7F4B61",
+   "sender": "דויד אלבו",
+   "text": "אני מתקשה להאמין שיש אנשים האלה שעושים דברים לא נורמליים כמו השלכת רימון הלם זה נראה נסיון לפגוע בנפש רחמנא ליצלן",
+   "ts": 1794863814000,
+   "date": "2026-11-16",
+   "time": "23:16",
+   "files": [],
+   "drive": null,
+   "phone": "972528546866"
+  },
+  {
+   "id": "3A78E135E4C8CA8F5885",
+   "sender": "לילך יגן",
+   "text": "",
+   "ts": 1794864619000,
+   "date": "2026-11-16",
+   "time": "23:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Pf717sek6dL11mZzKl-b7kpc4BVYJBgp/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3A78E135E4C8CA8F5885_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1Pf717sek6dL11mZzKl-b7kpc4BVYJBgp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539333059"
+  },
+  {
+   "id": "3A2BA5A1E73A3623005C",
+   "sender": "לילך יגן",
+   "text": "רימון הלם הושלך לעבר עסק ברח' העצמאות בעיר.\n*צוותי המשמר העירוני קרית אתא* בסיוע לכוחות המשטרה במקום\nקרדיט לילך יגן ורינה בן עזרי \n\n‏להצטרפות לקבוצת הווטסאפ שלנו",
+   "ts": 1794864620000,
+   "date": "2026-11-16",
+   "time": "23:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nbLAaJZZCoAGyYxiFaMLuI73nBKB_mNx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nbLAaJZZCoAGyYxiFaMLuI73nBKB_mNx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539333059"
+  },
+  {
+   "id": "AC3FD10C7EA6B3BB829C745F2924EF80",
+   "sender": "רוית נאומה",
+   "text": "לצערנו יש בקריה שלנו הכל מהכל ,  אנשים לא יודעים שיש דין ויש דיין",
+   "ts": 1794864641000,
+   "date": "2026-11-16",
+   "time": "23:30",
+   "files": [],
+   "drive": null,
+   "phone": "972508353555"
+  },
+  {
+   "id": "A5802185BE77A820D32A3128B3F7372E",
+   "sender": "סטודיו יעל ברזל",
+   "text": "🔥 *מחפשים* *עבודה?* \n📲 הצטרפו לערוץ הווטסאפ החדש של קבוצות *דרושון* וקבלו *מדי יום משרות חדשות ישירות לוואטסאפ - בחינם!*\n\nלהצטרפות לערוץ לחצו כאן👇\n\nhttps://whatsapp.com/channel/0029VbE7TQRH5JM6FMU1vH2i",
+   "ts": 1794865492000,
+   "date": "2026-11-16",
+   "time": "23:44",
+   "files": [],
+   "drive": null,
+   "phone": "972526699371"
+  },
+  {
+   "id": "AC55E9E3E1BDEC5D37137A3AC0D2CDEC",
+   "sender": "B",
+   "text": "חדשות ישראל 🔴\nמכת רימונים: רימון הושלך לעבר בית בחולון, ובאירוע נוסף הושלך רימון לעבר חומוסייה בקריית אתא.\n\nלשליחת תיעוד מהשטח",
+   "ts": 1794867687000,
+   "date": "2026-11-17",
+   "time": "00:21",
    "files": [],
    "drive": null,
    "phone": "972547264000"

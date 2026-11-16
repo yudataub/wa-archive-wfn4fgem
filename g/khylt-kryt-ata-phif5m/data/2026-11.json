@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת קרית אתא",
- "updated": "2026-11-16T21:06:00.586Z",
+ "updated": "2026-11-16T22:30:08.761Z",
  "messages": [
   {
    "id": "ACD6A1BB90E48FE309B240C9727A28B2",
@@ -4564,7 +4564,8 @@
      "path": "https://drive.google.com/file/d/10EFEfZ1pB6kei5CZVNJCLU9pNpVkrV-l/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC763DBF12CA8021336967E9931DDC59_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=10EFEfZ1pB6kei5CZVNJCLU9pNpVkrV-l&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=10EFEfZ1pB6kei5CZVNJCLU9pNpVkrV-l&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m-2/v/2026-11/AC763DBF12CA8021336967E9931DDC59_0.mp4"
     }
    ],
    "drive": null,
@@ -4726,7 +4727,8 @@
      "path": "https://drive.google.com/file/d/1INuwuoc4k7jE2x6W8Xjaq3gtmUyuQbT7/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC9069E4A0B4745E45F88594ACC10DCB_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1INuwuoc4k7jE2x6W8Xjaq3gtmUyuQbT7&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1INuwuoc4k7jE2x6W8Xjaq3gtmUyuQbT7&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-khylt-kryt-ata-phif5m-2/v/2026-11/AC9069E4A0B4745E45F88594ACC10DCB_0.mp4"
     }
    ],
    "drive": null,
@@ -5107,6 +5109,124 @@
    "files": [],
    "drive": null,
    "phone": "972532406993"
+  },
+  {
+   "id": "ACE9B22E92B1A9211D35634A156C8400",
+   "sender": "ישראל לוגסי",
+   "text": "לי עייש: רימון הלם הושלך לעבר סניף חומוס אליהו בקריית אתא.\n\nלעדכוני אתא⏬",
+   "ts": 1794863451000,
+   "date": "2026-11-16",
+   "time": "23:10",
+   "files": [],
+   "drive": null,
+   "phone": "972548048838"
+  },
+  {
+   "id": "AC8108F7D30713257B6A2A0CFB69A83F",
+   "sender": "נריה ממן",
+   "text": "יש מצב לקוח אכל פול ....",
+   "ts": 1794863482000,
+   "date": "2026-11-16",
+   "time": "23:11",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "AC7FD7DDFBB389E88C03EF050411E53D",
+   "sender": "ישראל לוגסי",
+   "text": "רימון הלם הושלך לעבר עסק ברח' העצמאות בעיר.\n*צוותי המשמר העירוני קרית אתא* בסיוע לכוחות המשטרה במקום\n\n‏להצטרפות לקבוצת הווטסאפ שלנו",
+   "ts": 1794864280000,
+   "date": "2026-11-16",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LdVBbs57iNj-IJJrv1A6oBuZs8XvDRGp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LdVBbs57iNj-IJJrv1A6oBuZs8XvDRGp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548048838"
+  },
+  {
+   "id": "ACCAD9F4C5126F9431BF85651EA14ABD",
+   "sender": "ישראל לוגסי",
+   "text": "",
+   "ts": 1794864280000,
+   "date": "2026-11-16",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/17NMaMOlvYdNt2Dka9WAzFwaNIlBr-pK6/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACCAD9F4C5126F9431BF85651EA14ABD_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=17NMaMOlvYdNt2Dka9WAzFwaNIlBr-pK6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548048838"
+  },
+  {
+   "id": "AC7FE1AFC2159582B7770F415BACA56A",
+   "sender": "Ynur",
+   "text": "לא שייך לחומוס אליהו",
+   "ts": 1794864298000,
+   "date": "2026-11-16",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972502227687"
+  },
+  {
+   "id": "AC41A684F8F7C513F8860104464B3B00",
+   "sender": "Ynur",
+   "text": "ליד הסטודיו של הפילאטיס",
+   "ts": 1794864303000,
+   "date": "2026-11-16",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "phone": "972502227687"
+  },
+  {
+   "id": "AC21B8CAAB84FA31576D1107184922DE",
+   "sender": "נריה ממן",
+   "text": "נגמר המנוי 😭😭",
+   "ts": 1794864623000,
+   "date": "2026-11-16",
+   "time": "23:30",
+   "files": [],
+   "drive": null,
+   "phone": "972537118255"
+  },
+  {
+   "id": "ACF0F82C8052D8CAF0E1644B8F9EDA9D",
+   "sender": "Ynur",
+   "text": "חחח",
+   "ts": 1794864642000,
+   "date": "2026-11-16",
+   "time": "23:30",
+   "files": [],
+   "drive": null,
+   "phone": "972502227687"
+  },
+  {
+   "id": "3A33E583ADD2717351BF",
+   "sender": "זבולון ברנט",
+   "text": "היה עכשיו עוד אחד??",
+   "ts": 1794868188000,
+   "date": "2026-11-17",
+   "time": "00:29",
+   "files": [],
+   "drive": null,
+   "phone": "972559946365"
   }
  ]
 }

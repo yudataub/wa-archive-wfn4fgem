@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים סלופ עם בינה מלאכותית",
- "updated": "2026-11-16T20:59:09.182Z",
+ "updated": "2026-11-16T21:25:18.612Z",
  "messages": [
   {
    "id": "3EB0EB4319BC0FFB70940C",
@@ -232,7 +232,8 @@
      "path": "https://drive.google.com/file/d/1oyJeQipqMnxrHI55uNwLLvX3B4hwemZS/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A54EB2CE0E8B46F883F1C7F3837F7923_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1oyJeQipqMnxrHI55uNwLLvX3B4hwemZS&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1oyJeQipqMnxrHI55uNwLLvX3B4hwemZS&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yvtzrym-slvp-am-bynh-mlakvtyt-bpp8bg/v/2026-11/A54EB2CE0E8B46F883F1C7F3837F7923_0.mp4"
     }
    ],
    "drive": null,
@@ -256,6 +257,39 @@
    "ts": 1794862722000,
    "date": "2026-11-16",
    "time": "22:58",
+   "files": [],
+   "drive": null,
+   "phone": "972507579152"
+  },
+  {
+   "id": "AC50BAF3E17A5F7CFEEB314B5E9380E6",
+   "sender": "צורית",
+   "text": "נשמע לי מוזר. אז איך אני משחזרת את החשבון... גם לי נשמע לא הגיוני",
+   "ts": 1794863608000,
+   "date": "2026-11-16",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972546225020"
+  },
+  {
+   "id": "AC56033D63B8C6AB04E988F27C0D00F2",
+   "sender": "חפציה",
+   "text": "כבר פעמיים הבת שלי היתה צריכה לשכנע.\nזה זיהוי מאובטח, אני לא חושבת שיש בעיה",
+   "ts": 1794863674000,
+   "date": "2026-11-16",
+   "time": "23:14",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB0A64EFF4765F9EE9C58",
+   "sender": "Stdb",
+   "text": "פחות מגניב לי לעשות זיהוי פנים ןלמרות שה מטומטם כי העליתי כבר ככ הרבה פעמים את התמונה שלי",
+   "ts": 1794864307000,
+   "date": "2026-11-16",
+   "time": "23:25",
    "files": [],
    "drive": null,
    "phone": "972507579152"

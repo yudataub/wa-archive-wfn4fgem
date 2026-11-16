@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-16T18:48:02.691Z",
+ "updated": "2026-11-16T21:46:07.704Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -1358,6 +1358,97 @@
    ],
    "drive": null,
    "phone": "972523003393"
+  },
+  {
+   "id": "AC52B8A16A69B7B4E7DBEA325E05AC23",
+   "sender": "משה ברכה",
+   "text": "",
+   "ts": 1794864736000,
+   "date": "2026-11-16",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12NXpLY9lxyo9LQqpwiOQqnYuXVlM3uYi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12NXpLY9lxyo9LQqpwiOQqnYuXVlM3uYi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523791306"
+  },
+  {
+   "id": "ACE3CA6B6D11D316164BC2041157FE62",
+   "sender": "משה ברכה",
+   "text": "למידה בקבוצה",
+   "ts": 1794864748000,
+   "date": "2026-11-16",
+   "time": "23:32",
+   "files": [],
+   "drive": null,
+   "phone": "972523791306"
+  },
+  {
+   "id": "AC37A75CA9DF11363F1B784A854B0C05",
+   "sender": "Naor Peretz",
+   "text": "למידה תפזורת על נטילת ידיים",
+   "ts": 1794864813000,
+   "date": "2026-11-16",
+   "time": "23:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "219KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JLztYN1GNkgqmzubARtx0fwDPx6f2Dp0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JLztYN1GNkgqmzubARtx0fwDPx6f2Dp0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533376013"
+  },
+  {
+   "id": "AC39A3504A1F64690CABF563FFE69E6A",
+   "sender": "Naor Peretz",
+   "text": "למידה כתב סתרים הכנסת אורחים",
+   "ts": 1794865011000,
+   "date": "2026-11-16",
+   "time": "23:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lc4jkqL4HLfPxuYHZO-3oBFzefpOSrc0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lc4jkqL4HLfPxuYHZO-3oBFzefpOSrc0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533376013"
+  },
+  {
+   "id": "AC457625273EC77793A6AC9068CC88F7",
+   "sender": "משה ברכה",
+   "text": "קבוצה שעובדת בתחנה שניה",
+   "ts": 1794865560000,
+   "date": "2026-11-16",
+   "time": "23:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EjHaiOW7wxdtV0VUBboo_FE0WR527JD7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EjHaiOW7wxdtV0VUBboo_FE0WR527JD7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523791306"
   }
  ]
 }

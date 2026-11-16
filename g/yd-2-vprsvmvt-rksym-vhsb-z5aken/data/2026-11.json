@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-16T19:59:39.454Z",
+ "updated": "2026-11-16T22:18:38.471Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -14530,7 +14530,8 @@
      "path": "https://drive.google.com/file/d/1cBym9ngbCqqXqhPUVxZY33EVhXStySCB/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A5F9577F114C58B2F80E43A18598F625_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1cBym9ngbCqqXqhPUVxZY33EVhXStySCB&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1cBym9ngbCqqXqhPUVxZY33EVhXStySCB&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/A5F9577F114C58B2F80E43A18598F625_0.mp4"
     }
    ],
    "drive": null,
@@ -14899,7 +14900,8 @@
      "path": "https://drive.google.com/file/d/1pAIyYKGwgx1Ei0vA9d3T9Nnm4zQQMPLL/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3A055E37EA9F2AF85A71_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1pAIyYKGwgx1Ei0vA9d3T9Nnm4zQQMPLL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1pAIyYKGwgx1Ei0vA9d3T9Nnm4zQQMPLL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/3A055E37EA9F2AF85A71_0.mp4"
     }
    ],
    "drive": null,
@@ -15307,7 +15309,8 @@
      "path": "https://drive.google.com/file/d/19HxHvPsqxcoArQM2wK-OYX0kXrCp0_KU/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2A36752978EA964D7A10_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=19HxHvPsqxcoArQM2wK-OYX0kXrCp0_KU&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=19HxHvPsqxcoArQM2wK-OYX0kXrCp0_KU&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/2A36752978EA964D7A10_0.mp4"
     }
    ],
    "drive": null,
@@ -15444,6 +15447,46 @@
    ],
    "drive": null,
    "phone": "972539330068"
+  },
+  {
+   "id": "ACC7058183A4D2A75EBC016C74D8472D",
+   "sender": "שמואל",
+   "text": "",
+   "ts": 1794866442000,
+   "date": "2026-11-17",
+   "time": "00:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "230KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EJuT1XCIWp9GQgwglTOcmB2lnMKaw6gd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EJuT1XCIWp9GQgwglTOcmB2lnMKaw6gd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533168397"
+  },
+  {
+   "id": "AC54FD42D2A280F083F942427BB50107",
+   "sender": "נפתלי ורות שובל",
+   "text": "",
+   "ts": 1794867496000,
+   "date": "2026-11-17",
+   "time": "00:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "353KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fR5T2casA7dx7GZsHl5HZN3vnQdGbZdU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fR5T2casA7dx7GZsHl5HZN3vnQdGbZdU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535488645"
   }
  ]
 }

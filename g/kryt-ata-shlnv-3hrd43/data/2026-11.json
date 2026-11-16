@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קרית אתא שלנו",
- "updated": "2026-11-16T21:01:00.454Z",
+ "updated": "2026-11-16T21:24:36.410Z",
  "messages": [
   {
    "id": "AC41D981B343121450F40EFD939C4769",
@@ -23107,7 +23107,8 @@
      "path": "https://drive.google.com/file/d/1w1m0tiExZlrLD9dNj30QaPE0c0iO8jH-/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2A83184585DA15E03737_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1w1m0tiExZlrLD9dNj30QaPE0c0iO8jH-&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1w1m0tiExZlrLD9dNj30QaPE0c0iO8jH-&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43-3/v/2026-11/2A83184585DA15E03737_0.mp4"
     }
    ],
    "drive": null,
@@ -24103,7 +24104,8 @@
      "path": "https://drive.google.com/file/d/1HQ_4p2E16FsYWV-mB6_YAjU70jkVA2RL/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2A718391A440F22B3CDE_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1HQ_4p2E16FsYWV-mB6_YAjU70jkVA2RL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1HQ_4p2E16FsYWV-mB6_YAjU70jkVA2RL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kryt-ata-shlnv-3hrd43-3/v/2026-11/2A718391A440F22B3CDE_0.mp4"
     }
    ],
    "drive": null,
@@ -24744,6 +24746,47 @@
    "date": "2026-11-16",
    "time": "23:00",
    "files": [],
+   "drive": null,
+   "phone": "972504247737"
+  },
+  {
+   "id": "AC1EEC6374355E27B6C1C53C76F91B7D",
+   "sender": "שמואל מלול",
+   "text": "",
+   "ts": 1794864251000,
+   "date": "2026-11-16",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "7.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1WRrP5Pm3ODWFpaTncQvaN90A2hnTwMsQ/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC1EEC6374355E27B6C1C53C76F91B7D_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1WRrP5Pm3ODWFpaTncQvaN90A2hnTwMsQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504247737"
+  },
+  {
+   "id": "AC5A7EC58EA32AD399201898C67C7057",
+   "sender": "שמואל מלול",
+   "text": "רימון הלם הושלך לעבר עסק ברח' העצמאות בעיר.\n*צוותי המשמר העירוני קרית אתא* בסיוע לכוחות המשטרה במקום\n\n‏להצטרפות לקבוצת הווטסאפ שלנו",
+   "ts": 1794864251000,
+   "date": "2026-11-16",
+   "time": "23:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11zSzgxmau8RocYhHZ6-krZbuGd0ND85W/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11zSzgxmau8RocYhHZ6-krZbuGd0ND85W&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972504247737"
   }
