@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-11-13T10:59:00.307Z",
+ "updated": "2026-11-16T20:36:56.666Z",
  "messages": [
   {
    "id": "ACF55E3083B1A11855B6B51F949FA9C2",
@@ -168,6 +168,26 @@
    "files": [],
    "drive": null,
    "phone": "972527703159"
+  },
+  {
+   "id": "ACC7CE2AD47B8E7D1F9BE17D517FCC19",
+   "sender": "עמיחי בן שחר",
+   "text": "*עם ישראל הוא עם של גיבורים*!!!! ❤️🤍🇮🇱🇮🇱",
+   "ts": 1794861386000,
+   "date": "2026-11-16",
+   "time": "22:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "401KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sjCMOcdqGVND58M-rYo29n44oR05p4rY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sjCMOcdqGVND58M-rYo29n44oR05p4rY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504949159"
   }
  ]
 }

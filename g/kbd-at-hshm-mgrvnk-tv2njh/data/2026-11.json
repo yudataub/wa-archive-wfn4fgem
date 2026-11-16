@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כבד את השם מגרונך",
- "updated": "2026-11-09T17:37:10.356Z",
+ "updated": "2026-11-16T19:10:03.095Z",
  "messages": [
   {
    "id": "AC05D426975E5BD188D23D212D849A23",
@@ -208,6 +208,37 @@
    ],
    "drive": null,
    "phone": "972538285952"
+  },
+  {
+   "id": "AC64A1915BFC882940D4B0A5A1AD67AB",
+   "sender": "ktla5359",
+   "text": "",
+   "ts": 1794855671000,
+   "date": "2026-11-16",
+   "time": "21:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1a9b2h7P-35iTekr_h4ZfrnyMLaAwib5e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1a9b2h7P-35iTekr_h4ZfrnyMLaAwib5e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC4B11D4B375F150DBDE7F171F1B7ACC",
+   "sender": "Leonid Gelbet",
+   "text": "תודה רבה \nהחלק הזה חשוב ללמוד לכלם! ברכות.",
+   "ts": 1794856196000,
+   "date": "2026-11-16",
+   "time": "21:09",
+   "files": [],
+   "drive": null,
+   "phone": "972549491394"
   }
  ]
 }

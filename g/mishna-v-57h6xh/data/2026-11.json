@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר ו'",
- "updated": "2026-11-11T08:34:18.195Z",
+ "updated": "2026-11-16T10:40:01.155Z",
  "messages": [
   {
    "id": "ACAD28010E4C31B45DD5FB6BF3C34DEF",
@@ -262,6 +262,37 @@
    "files": [],
    "drive": null,
    "phone": "972504806939"
+  },
+  {
+   "id": "AC8C93840C11E8ACA62D57AA24DB6611",
+   "sender": "ברקת",
+   "text": "",
+   "ts": 1794819091000,
+   "date": "2026-11-16",
+   "time": "10:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "394KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18opKM7OUjt19n7TttZJiQF_KC3FRX09s/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18opKM7OUjt19n7TttZJiQF_KC3FRX09s&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539535909"
+  },
+  {
+   "id": "ACFECAD28773A1D171D251361593C23E",
+   "sender": "אלעד לחיאני",
+   "text": "שלום וברכה, \n\nמורים שבתי הספר שלהם משתתפים השנה בתוכנית \"*רצים למסכת\"* (כיתות ג'–ו') ועדיין לא הצטרפו לקבוצת הוואטסאפ הייעודית שלנו - מוזמנים להיכנס דרך הקישור המצורף כדי לקבל עדכונים, הסברים והודעות חשובות.\n(הקבוצה מיועדת לצוותים מבתי ספר שרכשו את התוכנית).\n\nנשמח לראותכם!",
+   "ts": 1794825584000,
+   "date": "2026-11-16",
+   "time": "12:39",
+   "files": [],
+   "drive": null,
+   "phone": "972508741973"
   }
  ]
 }

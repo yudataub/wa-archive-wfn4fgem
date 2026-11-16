@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"אור התורה\" 🕍 שיתוף קשורים לזיכוי הרבים",
- "updated": "2026-11-15T19:40:23.912Z",
+ "updated": "2026-11-16T15:20:47.432Z",
  "messages": [
   {
    "id": "A55C18B9A8EAD884F995FFCEF592D7B1",
@@ -174,6 +174,27 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "A5797E1F329151EA68479E14B916CEBC",
+   "sender": "רב/ מגשר",
+   "text": "✨ *תפילות של מלאכים*\n\n*לצפייה בסרטון ללא הורדה לחצו:*\nhttps://youtube.com/shorts/AyFZCurHhCA?si=XFL2pjYZvJCJK4et\n*📺 השיעור המלא וכל השיעורים באתר:*\nhttps://share.adifferentangle.ai/j/b8wkhj\n*להצטרפות לקבוצה לחצו:*\nhttps://share.adifferentangle.ai/j/rd5srd\n*_הרב יוסף בן משה שליט\"א ארגון וליוסף אמר · חיזוקים יומים_*",
+   "ts": 1794842417000,
+   "date": "2026-11-16",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1pBnl_g6_Lf6wrf-L0zTM8G_lF7JFw3PL/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5797E1F329151EA68479E14B916CEBC_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1pBnl_g6_Lf6wrf-L0zTM8G_lF7JFw3PL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527188781"
   }
  ]
 }

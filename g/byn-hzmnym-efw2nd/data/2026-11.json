@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-15T12:29:53.203Z",
+ "updated": "2026-11-16T20:54:59.981Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2094,6 +2094,56 @@
    ],
    "drive": null,
    "phone": "972559943930"
+  },
+  {
+   "id": "A5EEDB7E1FAB14397201E525768B2C85",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "בוקר אור.",
+   "ts": 1794819963000,
+   "date": "2026-11-16",
+   "time": "11:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-HVxvjzs7edjuDkplPP5kL8Ak2TfCHbk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-HVxvjzs7edjuDkplPP5kL8Ak2TfCHbk&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACC8AA56A638269596D7508261B9762D",
+   "sender": "עדית אבני",
+   "text": "*עקב ביטול פנוי לנו הסופש הקרוב חמישי-מוצ\"ש.*  \n🔥וילה שומרת כשרות ושבת.\n🔥מחירים מעולים..\n🔥2 תאריכים אחרונים לחנוכה.\n🌺זה הזמן לשריין ולהנות מחופשה חלומית יוקרתית ומפנקת..🌺",
+   "ts": 1794820083000,
+   "date": "2026-11-16",
+   "time": "11:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZJr_FJxL_Zp-1EgZVT3A-y7dZd5NWD1K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZJr_FJxL_Zp-1EgZVT3A-y7dZd5NWD1K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528229604"
+  },
+  {
+   "id": "AC8C818021C9141F603081C7F9DBF552",
+   "sender": "מקליד/ה",
+   "text": "שלום מחפשת דירה בנחלאות בירושלים לשבת וישלח \n0533757772",
+   "ts": 1794862433000,
+   "date": "2026-11-16",
+   "time": "22:53",
+   "files": [],
+   "drive": null,
+   "phone": "972533757772"
   }
  ]
 }

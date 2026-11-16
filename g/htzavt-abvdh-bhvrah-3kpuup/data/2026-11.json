@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-15T17:37:06.023Z",
+ "updated": "2026-11-16T18:05:57.098Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -415,6 +415,165 @@
    ],
    "drive": null,
    "phone": "972526681329"
+  },
+  {
+   "id": "AC3006E5C9DC76E829126CD7CF8F0977",
+   "sender": "יובל",
+   "text": "https://app.civi.co.il/promo/id=632847&src=19763",
+   "ts": 1794812257000,
+   "date": "2026-11-16",
+   "time": "08:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "321KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1M3ch-qEFh69xlF-bMIwsWF5nzMVusO_d/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1M3ch-qEFh69xlF-bMIwsWF5nzMVusO_d&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702322"
+  },
+  {
+   "id": "AC77814F47B43853F1B7A68A319EAA50",
+   "sender": "מוריה טל",
+   "text": "",
+   "ts": 1794814741000,
+   "date": "2026-11-16",
+   "time": "09:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "94KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC77814F47B43853F1B7A68A319EAA50_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
+  },
+  {
+   "id": "AC324970DF45BE656169EA92EA650E88",
+   "sender": "אני ולא אחרת",
+   "text": "",
+   "ts": 1794825002000,
+   "date": "2026-11-16",
+   "time": "12:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1N5W6m1sD5sKfiulpDTM873GmU9FV6E8J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1N5W6m1sD5sKfiulpDTM873GmU9FV6E8J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526681329"
+  },
+  {
+   "id": "ACB894FD85907FD3A709019B56FE110A",
+   "sender": "אני ולא אחרת",
+   "text": "",
+   "ts": 1794825002000,
+   "date": "2026-11-16",
+   "time": "12:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "251KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EZmU9abM4vu4w9CmTaiTHbcRypWAG9MB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EZmU9abM4vu4w9CmTaiTHbcRypWAG9MB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526681329"
+  },
+  {
+   "id": "3A06819184D42F66449B",
+   "sender": "שירה מדיפור",
+   "text": "",
+   "ts": 1794831901000,
+   "date": "2026-11-16",
+   "time": "14:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "712KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12ANAiFS7x6OaelmIKYBuAGxNIVVdKX_t/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12ANAiFS7x6OaelmIKYBuAGxNIVVdKX_t&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972538318044"
+  },
+  {
+   "id": "ACC5800732C83E2A92B46A3202530D8E",
+   "sender": "אני ולא אחרת",
+   "text": "",
+   "ts": 1794839596000,
+   "date": "2026-11-16",
+   "time": "16:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XtyjeLcYN3XTYGdtr4HnNM1sFzYIzE4m/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XtyjeLcYN3XTYGdtr4HnNM1sFzYIzE4m&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526681329"
+  },
+  {
+   "id": "AC3EC482AFBF24897CC0C144EA5907A7",
+   "sender": "מוריה טל",
+   "text": "",
+   "ts": 1794850403000,
+   "date": "2026-11-16",
+   "time": "19:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "438KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hVcZh7cK3PUHYLVBY9Pmln7WoXxezqZP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hVcZh7cK3PUHYLVBY9Pmln7WoXxezqZP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
+  },
+  {
+   "id": "AC90F9A3EFBF2AEF71E97AC1704715CC",
+   "sender": "יובל",
+   "text": "",
+   "ts": 1794852344000,
+   "date": "2026-11-16",
+   "time": "20:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "438KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18PME-F6hC40eegL0y9Wzoi17q_dsXH13/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18PME-F6hC40eegL0y9Wzoi17q_dsXH13&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702322"
   }
  ]
 }

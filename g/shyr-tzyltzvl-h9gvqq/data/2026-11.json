@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-15T13:59:31.483Z",
+ "updated": "2026-11-16T18:10:27.140Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -852,6 +852,184 @@
    "files": [],
    "drive": null,
    "phone": "972546368328"
+  },
+  {
+   "id": "3EB0574CE2E764CA092643",
+   "sender": "קרן ברדוגו",
+   "text": "אז מישהו ביצע את הרעיון המהמם ויכול לשלוח?😁",
+   "ts": 1794835595000,
+   "date": "2026-11-16",
+   "time": "15:26",
+   "files": [],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "AC0CF900E76645006E477A12A651197F",
+   "sender": "אלירן פרארי",
+   "text": "זה שנייה ממש. תשלחו את הקובץ ואחתוך בשמחה",
+   "ts": 1794838398000,
+   "date": "2026-11-16",
+   "time": "16:13",
+   "files": [],
+   "drive": null,
+   "phone": "972533345585"
+  },
+  {
+   "id": "ACE07EB5174AA33BE3719E501EAD3F26",
+   "sender": "ורד מעודי",
+   "text": "https://youtu.be/p4NLjH1cHAE?feature=shared",
+   "ts": 1794843585000,
+   "date": "2026-11-16",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "phone": "972526504599"
+  },
+  {
+   "id": "AC6B90C1FABB98540A3BE92FD1B253E8",
+   "sender": "ורד מעודי",
+   "text": "המנון החמ\"ד המחודש🇮🇱",
+   "ts": 1794843586000,
+   "date": "2026-11-16",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "phone": "972526504599"
+  },
+  {
+   "id": "ACFE5CDDD444D43077A5C12EAAC92AD7",
+   "sender": "ורד מעודי",
+   "text": "מישהו יכול לעשות מזה צילצול? מהפיזמון",
+   "ts": 1794843586000,
+   "date": "2026-11-16",
+   "time": "17:39",
+   "files": [],
+   "drive": null,
+   "phone": "972526504599"
+  },
+  {
+   "id": "ACE5B5D299EE116A32C562FE78E77A69",
+   "sender": "עידית ברכיה 😘",
+   "text": "עשיתם?",
+   "ts": 1794846016000,
+   "date": "2026-11-16",
+   "time": "18:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546368328"
+  },
+  {
+   "id": "AC81921F82B199B21DE1DF0669914135",
+   "sender": "קרן ברדוגו",
+   "text": "",
+   "ts": 1794847424000,
+   "date": "2026-11-16",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "57KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1H56VGHqa-9AeZwL6Q17BtAMUDHn1_XtH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "AC450DF68F2FA81A0B6B8513963FBBA7",
+   "sender": "קרן ברדוגו",
+   "text": "",
+   "ts": 1794847459000,
+   "date": "2026-11-16",
+   "time": "18:44",
+   "files": [
+    {
+     "name": "wps_wid.cid-2040632694.1770374916.exe",
+     "size": "5.3MB",
+     "type": "application/x-msdownload",
+     "path": "https://drive.google.com/file/d/12jDHWl9q577d77gnbrp6iwhRWYfs0RPr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "AC1FB21566A17033B7B08F7467AA9215",
+   "sender": "קרן ברדוגו",
+   "text": "👆",
+   "ts": 1794847466000,
+   "date": "2026-11-16",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "AC8F80558E069E92A3D00D1D29320468",
+   "sender": "קרן ברדוגו",
+   "text": "זה קובץ טוב?",
+   "ts": 1794847491000,
+   "date": "2026-11-16",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "AC5B7D9D3C8C6D6334A4CE1BCEDA9817",
+   "sender": "עידית ברכיה 😘",
+   "text": "זה לא פותח",
+   "ts": 1794847519000,
+   "date": "2026-11-16",
+   "time": "18:45",
+   "files": [],
+   "drive": null,
+   "phone": "972546368328"
+  },
+  {
+   "id": "AC85B582F3C924EF783B3EEB7C268D29",
+   "sender": "קרן ברדוגו",
+   "text": "",
+   "ts": 1794849328000,
+   "date": "2026-11-16",
+   "time": "19:15",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "967KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/118ul1lQQtYJJfuipBqO7kIR0P4YII56f/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "ACE8FF3FEFC656BEDEFCE745BC069415",
+   "sender": "קרן ברדוגו",
+   "text": "צלצול המנון התנועה 40 שניות מתחיל בראשינו במעמקי תורתה",
+   "ts": 1794849354000,
+   "date": "2026-11-16",
+   "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972587737004"
+  },
+  {
+   "id": "3EB0F63B57D890734283DA",
+   "sender": "אלירן פרארי",
+   "text": "שני סוגי פזמון ישנם בשיר",
+   "ts": 1794852624000,
+   "date": "2026-11-16",
+   "time": "20:10",
+   "files": [],
+   "drive": null,
+   "phone": "972533345585"
   }
  ]
 }

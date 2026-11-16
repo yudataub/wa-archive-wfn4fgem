@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וותיקין של שבת ",
- "updated": "2026-11-15T12:03:47.494Z",
+ "updated": "2026-11-16T20:23:24.699Z",
  "messages": [
   {
    "id": "AC7C39D5E2C0C560FE7FECC623DEE408",
@@ -255,6 +255,59 @@
    "date": "2026-11-15",
    "time": "14:03",
    "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "ACBA9E97B57B5A81A3E8785375357A80",
+   "sender": "oriyaagolnik",
+   "text": "אשמח למי שיוכל לומר לי אם הוא נוסע לחתונה. אפילו בפרטי. שכוייח גדול.",
+   "ts": 1794840375000,
+   "date": "2026-11-16",
+   "time": "16:46",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC9E8CFD6F4723F80A2BCA94BD854475",
+   "sender": "oriyaagolnik",
+   "text": "",
+   "ts": 1794860512000,
+   "date": "2026-11-16",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1O6AzQUwFmn8tZCztaQfBxGeGdshPYMq2/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC9E8CFD6F4723F80A2BCA94BD854475_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1O6AzQUwFmn8tZCztaQfBxGeGdshPYMq2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "AC8DCD08372FD278B006E93158FBB94C",
+   "sender": "oriyaagolnik",
+   "text": "",
+   "ts": 1794860515000,
+   "date": "2026-11-16",
+   "time": "22:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "10.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vHV2f80pQdGNBsrcXrso2HuxcfQlUVdV/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC8DCD08372FD278B006E93158FBB94C_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1vHV2f80pQdGNBsrcXrso2HuxcfQlUVdV&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972534712840"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-11-15T18:49:42.780Z",
+ "updated": "2026-11-16T09:35:03.005Z",
  "messages": [
   {
    "id": "ACF54F64A34CDDCC927BCF19F5D8BE8E",
@@ -878,6 +878,58 @@
    "files": [],
    "drive": null,
    "phone": "972548020919"
+  },
+  {
+   "id": "A587458E2166E6B951366BEB5ECADCA5",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "בוקר אור.",
+   "ts": 1794819959000,
+   "date": "2026-11-16",
+   "time": "11:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ptJjXAv15OlM7qb-3cRWBWIMFPsSLa0q/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ptJjXAv15OlM7qb-3cRWBWIMFPsSLa0q&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACC4370BB11F56D18CC0C3F4CD70C542",
+   "sender": "ליאור",
+   "text": "מישהו יכול לשלוח לי בבקשה את המספר של אביגיל המזכירה ?",
+   "ts": 1794821534000,
+   "date": "2026-11-16",
+   "time": "11:32",
+   "files": [],
+   "drive": null,
+   "phone": "972525934705"
+  },
+  {
+   "id": "AC74A196A06D9E08B898E5D36F7BE17E",
+   "sender": "sd",
+   "text": "048780018",
+   "ts": 1794821638000,
+   "date": "2026-11-16",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972545628946"
+  },
+  {
+   "id": "AC6504B404344026D40CAEB5D65C5D97",
+   "sender": "ליאור",
+   "text": "🙏🏻🙏🏻",
+   "ts": 1794821692000,
+   "date": "2026-11-16",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972525934705"
   }
  ]
 }

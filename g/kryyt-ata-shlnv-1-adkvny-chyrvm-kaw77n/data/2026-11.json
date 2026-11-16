@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קריית אתא שלנו 1 | עדכוני חירום",
- "updated": "2026-11-15T09:12:25.741Z",
+ "updated": "2026-11-16T20:55:00.220Z",
  "messages": [
   {
    "id": "3AE8AB1B0E2032D5918A",
@@ -101,6 +101,26 @@
    "files": [],
    "drive": null,
    "phone": "972502110820"
+  },
+  {
+   "id": "3A843568BB2371AEAEAB",
+   "sender": "Boaz Golan",
+   "text": "הד הפיצוץ בקרייה - רימון הלם שהושלך לעבר עסק ברחוב העצמאות.",
+   "ts": 1794862424000,
+   "date": "2026-11-16",
+   "time": "22:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1y5l5KpENopvT-MxkqUhoKpe0jEClbKP6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1y5l5KpENopvT-MxkqUhoKpe0jEClbKP6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504780000"
   }
  ]
 }

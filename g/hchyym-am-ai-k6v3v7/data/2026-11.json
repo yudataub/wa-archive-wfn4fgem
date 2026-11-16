@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "החיים עם AI",
- "updated": "2026-11-15T16:45:03.398Z",
+ "updated": "2026-11-16T09:44:36.292Z",
  "messages": [
   {
    "id": "3AB32F55F2225FF2A59B",
@@ -160,6 +160,45 @@
      "path": "https://drive.google.com/file/d/1xRiVDn5S-HZfmMRHZKN-3o-cB9A-UQfq/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1xRiVDn5S-HZfmMRHZKN-3o-cB9A-UQfq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3A862588097DCDDC6975",
+   "sender": "הילה נאור",
+   "text": "📰 *החיים עם Ai | מדריך מס' 4 יצא!*\n\nנמאס לכתוב סיכומים אחרי כל פגישה? 🙋‍♀️🙋‍♂️\nהשבוע אני מכירה לכם את Fireflies.ai. הוא מצטרף לפגישות שלכם ב-Zoom, ב-Meet או ב-Teams, ובסוף שולח לכם *תמלול, סיכום ורשימת משימות בעברית*, ובחינם 🎉\n\nבנוסף, יש בו הקלדה קולית ללא הגבלה: מדברים, והטקסט נכתב לבד.\n\nבמדריך תמצאו:\n✅ איך פותחים חשבון בכמה דקות\n✅ איך מחברים את היומן כדי שיצטרף לבד לפגישות\n✅ איך מקבלים סיכום ומשימות בעברית\n✅ טיפים לבעלי עסקים וליוצרי תוכן\n\n📎 המדריך המלא מצורף. שמרו אותו, נסו אותו השבוע, וספרו לי איך הלך 👇",
+   "ts": 1794822247000,
+   "date": "2026-11-16",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "143KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-D4GwtiNNytEivuc_EoIMrLvxvpbCeGG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-D4GwtiNNytEivuc_EoIMrLvxvpbCeGG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3A7AAB3927779C81E435",
+   "sender": "הילה נאור",
+   "text": "",
+   "ts": 1794822257000,
+   "date": "2026-11-16",
+   "time": "11:44",
+   "files": [
+    {
+     "name": "_-_-Ai-_-4-Fireflies-_-_-_-_.pdf",
+     "size": "1.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17yoEpB7jczwwqJy_lkFvdOw-g-e8dffZ/view?usp=drivesdk",
+     "skipped": ""
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "סדנת יצירת אפליקציות NO CODE מחזור 2",
- "updated": "2026-11-10T15:23:55.169Z",
+ "updated": "2026-11-16T20:40:48.325Z",
  "messages": [
   {
    "id": "AC27F2D1BFE0A65381C7DCB1CB215435",
@@ -22,6 +22,90 @@
    ],
    "drive": null,
    "phone": "972523955056"
+  },
+  {
+   "id": "3AF7285331C9CA986B16",
+   "sender": "Benny Farber",
+   "text": "*עוד שעה נפגשים!*\nוובינר פרקטי על קלוד קוד החדש + גרוק 🤖 \n\nקישור לזום:\nhttps://us06web.zoom.us/j/81552343082?pwd=j1pRbC1IYI4F729cHUjCYdtaMTLIGT.1",
+   "ts": 1794852139000,
+   "date": "2026-11-16",
+   "time": "20:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "192KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11wicmqjVqx0AeHwxntlWP5O9Q21FWLD8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11wicmqjVqx0AeHwxntlWP5O9Q21FWLD8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527812500"
+  },
+  {
+   "id": "3AA06269FCB7AEAFACA9",
+   "sender": "Benny Farber",
+   "text": "אנחנו באוויר!\n עדו כמה דק מתחילים\nמוזמנים ❤️\n\n*מספר המקומות בזום מוגבל אז אל תתמהמהו 🤓\n\nhttps://us06web.zoom.us/j/81552343082?pwd=j1pRbC1IYI4F729cHUjCYdtaMTLIGT.1",
+   "ts": 1794855123000,
+   "date": "2026-11-16",
+   "time": "20:52",
+   "files": [],
+   "drive": null,
+   "phone": "972527812500"
+  },
+  {
+   "id": "3AE08B3033DBCD0E6AAC",
+   "sender": "Benny Farber",
+   "text": "*תודה לכל מי שעלה!* ❤️\nהיה כיף ומעשיר כרגיל \n\n*מי שמעניין אותו להרחיב עוד את אופקיו בנושאי הקלוד קוד וגרוק בוט - אתם יותר ממוזמנים להצטרף אלינו לקורס החדש:*\n4 מפגשים לייב בזום! 🌹\n\n**בעידן של קורסים דיגיטליים הכי כיף ללמוד ביחד בלייב 🤓*\nוכמובן מחיר חברי כתמיד 💫\n\n*פרטים מלאים והרשמה כאן:*\nhttps://claude.danielai.co.il/claude-course\n\nלילה טוב 🌶️",
+   "ts": 1794859945000,
+   "date": "2026-11-16",
+   "time": "22:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "231KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fZcz5DD389hrUYS_GHVu9JTR6yMhMWn3/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fZcz5DD389hrUYS_GHVu9JTR6yMhMWn3&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527812500"
+  },
+  {
+   "id": "3EB0F63BFC221461FDA851",
+   "sender": "D",
+   "text": "יש הקלטה של הזום היום ?",
+   "ts": 1794860237000,
+   "date": "2026-11-16",
+   "time": "22:17",
+   "files": [],
+   "drive": null,
+   "phone": "972542432146"
+  },
+  {
+   "id": "3A2B0164BB8AFEC721A1",
+   "sender": "Benny Farber",
+   "text": "תישלח מחר",
+   "ts": 1794860248000,
+   "date": "2026-11-16",
+   "time": "22:17",
+   "files": [],
+   "drive": null,
+   "phone": "972527812500"
+  },
+  {
+   "id": "3EB030C3DEB5F078A42504",
+   "sender": "מושיק ירון",
+   "text": "תודה, חבל פיספסתי🥲",
+   "ts": 1794861627000,
+   "date": "2026-11-16",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972504107435"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-15T19:37:23.969Z",
+ "updated": "2026-11-16T21:03:30.457Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -2549,6 +2549,266 @@
    ],
    "drive": null,
    "phone": "972559430188"
+  },
+  {
+   "id": "AC4B655387280667DE8124BDB8548672",
+   "sender": "moshe",
+   "text": "באתא- רחוב המייסדים\n (מול שומר מסך) עומד רכב אפור לא מסומן \n *מדובר בסמויים שדופקים דוחות* \nתיזהרוווו חגורות/ ילדים לא חגורים/ פלאפון וכו",
+   "ts": 1794830405000,
+   "date": "2026-11-16",
+   "time": "14:00",
+   "files": [],
+   "drive": null,
+   "phone": "972532462420"
+  },
+  {
+   "id": "A5F165D1640072D36F86EE9162536E1D",
+   "sender": "קידום אתרים - מיכאל דיגיטל",
+   "text": "",
+   "ts": 1794832127000,
+   "date": "2026-11-16",
+   "time": "14:28",
+   "files": [
+    {
+     "name": "עדכונים צפון 1.pdf",
+     "size": "3.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1WatDyrpuYtQw-sE_mV_UmgfWqF0hJC_4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503392144"
+  },
+  {
+   "id": "A5F3F6F0E0D8DEA94BF25DC2F5D7DD2C",
+   "sender": "א.ו",
+   "text": "מישהו יורד מהחיידר בסביבות השעה 4?",
+   "ts": 1794833687000,
+   "date": "2026-11-16",
+   "time": "14:54",
+   "files": [],
+   "drive": null,
+   "phone": "972546334224"
+  },
+  {
+   "id": "A553D9C91A76AD56752CA4374F51165E",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1794839572000,
+   "date": "2026-11-16",
+   "time": "16:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jIQfZo457Rj-udGQmW0pwXVayTRb_elF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jIQfZo457Rj-udGQmW0pwXVayTRb_elF&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5892FF81137101653C31A8DBA7BDD4C",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1794839572000,
+   "date": "2026-11-16",
+   "time": "16:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ma58ckqFFoIWY6NH6jS2yPVLL3be0Sca/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ma58ckqFFoIWY6NH6jS2yPVLL3be0Sca&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5A010D4925166F8324CD829C5FAA3FF",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1794839572000,
+   "date": "2026-11-16",
+   "time": "16:32",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "111KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/17rbfegdyQ2qG14UkpOb8HfdAEm-1Vu5M/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACAACA883C723E1ACD6BDA10A7DD4B83",
+   "sender": "יעקב קרלינסקי",
+   "text": "",
+   "ts": 1794841339000,
+   "date": "2026-11-16",
+   "time": "17:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1e7BGVGS5xs4kpniNORHR1oQ6FmkhaMX6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1e7BGVGS5xs4kpniNORHR1oQ6FmkhaMX6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "3EB074D9F8FA79ED440C87",
+   "sender": "++",
+   "text": "ביטלו את הקו של 18.00. הקו הישיר לחתונות! וגם החזור נהיה רק ב 23.45! חייבים לעשות עם זה משהו",
+   "ts": 1794846901000,
+   "date": "2026-11-16",
+   "time": "18:35",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB0E3E91BB283EE8D9C7C",
+   "sender": "++",
+   "text": "*12* קוים מרכסים לב\"ב לכל צד.... טענו ש'אין נוסעים'😮",
+   "ts": 1794847489000,
+   "date": "2026-11-16",
+   "time": "18:44",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "3EB061A9BFA70CF24A02FF",
+   "sender": "++",
+   "text": "מס' של פיזם יש למישהו?",
+   "ts": 1794847921000,
+   "date": "2026-11-16",
+   "time": "18:52",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "AC04E84FA9398BB125E151735AA6F030",
+   "sender": "יעקב קרלינסקי",
+   "text": "📇 פיזם ק. אתא\n+972 52-766-7342",
+   "ts": 1794848151000,
+   "date": "2026-11-16",
+   "time": "18:55",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "AC1D577596BCACB2322C8C6E3B8A4B4A",
+   "sender": "++",
+   "text": "👍",
+   "ts": 1794848418000,
+   "date": "2026-11-16",
+   "time": "19:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
+  },
+  {
+   "id": "A5ED82C8384A2374AB03593DAC12274F",
+   "sender": "נתי קלברמן",
+   "text": "14.15 מרכסים לא מופיע באפליקציה 🧐",
+   "ts": 1794849107000,
+   "date": "2026-11-16",
+   "time": "19:11",
+   "files": [],
+   "drive": null,
+   "phone": "972533559987"
+  },
+  {
+   "id": "AC0D843B3030A5DC0FF297DC07394E5D",
+   "sender": "שרגא רוזנטל",
+   "text": "מספר של משאש מהציונות 9 בבקשה",
+   "ts": 1794849673000,
+   "date": "2026-11-16",
+   "time": "19:21",
+   "files": [],
+   "drive": null,
+   "phone": "972547477628"
+  },
+  {
+   "id": "AC3E31609E5CF7A1A0A9D36BC5A471F9",
+   "sender": "יעקב קרלינסקי",
+   "text": "📇 אהרון מסס\n+972 53-314-5981",
+   "ts": 1794849736000,
+   "date": "2026-11-16",
+   "time": "19:22",
+   "files": [],
+   "drive": null,
+   "phone": "972552748485"
+  },
+  {
+   "id": "ACB66033034D37C42CE4C158A9ABB4B5",
+   "sender": "Simcha izikov",
+   "text": "המלצה לטכנאי מחשבים ניידים מניסיון אישי?",
+   "ts": 1794856885000,
+   "date": "2026-11-16",
+   "time": "21:21",
+   "files": [],
+   "drive": null,
+   "phone": "972548598914"
+  },
+  {
+   "id": "A59EBEB304AFB4348EC3A80C6EE94384",
+   "sender": "קידום אתרים - מיכאל דיגיטל",
+   "text": "📇 טכנאי מחשבים צפון\n+972524502974",
+   "ts": 1794858034000,
+   "date": "2026-11-16",
+   "time": "21:40",
+   "files": [],
+   "drive": null,
+   "phone": "972503392144"
+  },
+  {
+   "id": "AC0205751AEB5AADBA05C413E4F19149",
+   "sender": "Natan Borkowski",
+   "text": "אף אחד עוד לא שאל מה זה היה? לא מתאים...",
+   "ts": 1794862121000,
+   "date": "2026-11-16",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972585735002"
+  },
+  {
+   "id": "AC5AA33D64222DBA0C94E3A4E551997E",
+   "sender": "דוד גפני",
+   "text": "רפאל הודיעו מראש שייערך ניסוי ברחוב העצמאות",
+   "ts": 1794862632000,
+   "date": "2026-11-16",
+   "time": "22:57",
+   "files": [],
+   "drive": null,
+   "phone": "972504123686"
+  },
+  {
+   "id": "A52BA5EFC81DDD9C92465D90C9B4E693",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "תופעות לוואי של חומוס אליהו",
+   "ts": 1794862994000,
+   "date": "2026-11-16",
+   "time": "23:03",
+   "files": [],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בואו שעריו בתודה🙏",
- "updated": "2026-11-15T04:32:05.084Z",
+ "updated": "2026-11-16T04:31:22.385Z",
  "messages": [
   {
    "id": "A501C9FB103CB7CFC2C9C634F65C8088",
@@ -194,6 +194,26 @@
      "path": "https://drive.google.com/file/d/1sPc9ZH6sJyAZ1WrNnGi11dS7W02BSmhR/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1sPc9ZH6sJyAZ1WrNnGi11dS7W02BSmhR&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502241426"
+  },
+  {
+   "id": "A5EB31DD9C2047614169858BC172AC2D",
+   "sender": "בית הבעל שם טוב",
+   "text": "",
+   "ts": 1794803458000,
+   "date": "2026-11-16",
+   "time": "06:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Np62DeggRMDGD5qgldX2SdPpnO-I2SZc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Np62DeggRMDGD5qgldX2SdPpnO-I2SZc&sz=w1200"
     }
    ],
    "drive": null,

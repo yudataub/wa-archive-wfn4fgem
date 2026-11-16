@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-15T04:13:16.481Z",
+ "updated": "2026-11-16T04:02:32.503Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -705,6 +705,46 @@
      "path": "https://drive.google.com/file/d/1tteW2IroE-W9mXl9ub_4FAlrASdpP405/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1tteW2IroE-W9mXl9ub_4FAlrASdpP405&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A320824EE8210DF07A4",
+   "sender": ".",
+   "text": "״אין לי אלא שקרא שמו עשירי״ (בכורות נט, א),",
+   "ts": 1794801748000,
+   "date": "2026-11-16",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/168cvld-KLpsYZMUnH3zvoIShAh15JeJ2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=168cvld-KLpsYZMUnH3zvoIShAh15JeJ2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AD1F7889585330A9D57",
+   "sender": ".",
+   "text": "״י״א דאיברר ליה עשירי״ (בכורות נט, ב).",
+   "ts": 1794801749000,
+   "date": "2026-11-16",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lv8SceE9c6E7oYiWfDRYs45Vu5TdQc3-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lv8SceE9c6E7oYiWfDRYs45Vu5TdQc3-&sz=w1200"
     }
    ],
    "drive": null,

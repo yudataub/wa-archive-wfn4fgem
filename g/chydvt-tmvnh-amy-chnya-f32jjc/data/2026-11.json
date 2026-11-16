@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-15T16:48:33.449Z",
+ "updated": "2026-11-16T15:05:31.918Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -862,6 +862,57 @@
      "path": "https://drive.google.com/file/d/1ocADMu9-sOEohj1yO5vH9HwJDdUSa5Vz/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1ocADMu9-sOEohj1yO5vH9HwJDdUSa5Vz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC082D1A992C6CE70C98B2327360E528",
+   "sender": "עמי חניא",
+   "text": "*המלצה קטנה לחנוכה* 🕎\nראיתי את חוברת חידות התמונה של עמי חניא, והיא ממש כיפית!\nכיף לשבת יחד אחרי הדלקת נרות ולראות מי פותר ראשון 😄\nאחלה פעילות לכל המשפחה, וגם רעיון למתנה לחג 🎁\nhttps://clap.co.il/aGJ",
+   "ts": 1794806438000,
+   "date": "2026-11-16",
+   "time": "07:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB081FF4933029E363D57",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קשה\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1794812353000,
+   "date": "2026-11-16",
+   "time": "08:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "459KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LxLbTPxkOm3ZD2UWx8qv8Frd7EipPSeA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LxLbTPxkOm3ZD2UWx8qv8Frd7EipPSeA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0F411A213A0C0EA34F4",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: מקומות בארץ\n\nבשיתוף עם גילוי דעת\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1794841504000,
+   "date": "2026-11-16",
+   "time": "17:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "302KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1oNZrKY-fpBmb3_083yMrFHqyzQSSqQ7X/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1oNZrKY-fpBmb3_083yMrFHqyzQSSqQ7X&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "עידן והבינה #1",
- "updated": "2026-11-15T19:28:53.581Z",
+ "updated": "2026-11-16T11:53:39.198Z",
  "messages": [
   {
    "id": "3EB0D489A0CCDF9DADE39A",
@@ -222,6 +222,17 @@
    "files": [],
    "drive": null,
    "phone": "972542030380"
+  },
+  {
+   "id": "AC863144B2A860D73A78FA29C39DD6ED",
+   "sender": "Amir Meilin",
+   "text": "אין חדשות להיום",
+   "ts": 1794830002000,
+   "date": "2026-11-16",
+   "time": "13:53",
+   "files": [],
+   "drive": null,
+   "phone": "972546414743"
   }
  ]
 }

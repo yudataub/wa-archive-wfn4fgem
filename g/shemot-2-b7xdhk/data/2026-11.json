@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-15T13:22:30.941Z",
+ "updated": "2026-11-16T20:17:10.155Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -2369,6 +2369,156 @@
    "files": [],
    "drive": null,
    "phone": "972504441966"
+  },
+  {
+   "id": "ACAD4E2DDB4A2F20BA675C0431DBF795",
+   "sender": "ויולה בן משה",
+   "text": "אשמח לרעיון להערכה חלופית יצירתית לפרקים הראשונים של ספר יהושע",
+   "ts": 1794848064000,
+   "date": "2026-11-16",
+   "time": "18:54",
+   "files": [],
+   "drive": null,
+   "phone": "972556699387"
+  },
+  {
+   "id": "ACF8152E1DCF417620AE9EDBBB0BB404",
+   "sender": "אושרת הרכבי",
+   "text": "לעבודה מסכמת התלמידים הכינו דגם למכה ועשו ת\"ז",
+   "ts": 1794848968000,
+   "date": "2026-11-16",
+   "time": "19:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "166KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kFliF4yIdH2k7GWIX33-l3bq5llkRWC6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kFliF4yIdH2k7GWIX33-l3bq5llkRWC6&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524631318"
+  },
+  {
+   "id": "AC7AE941A57C9B17366A455EA8045A10",
+   "sender": "Shani",
+   "text": "מהמם!",
+   "ts": 1794850933000,
+   "date": "2026-11-16",
+   "time": "19:42",
+   "files": [],
+   "drive": null,
+   "phone": "972502629768"
+  },
+  {
+   "id": "AC7E24F02317499CDDD46943D925961E",
+   "sender": "הודיה",
+   "text": "מקסים. אשמח לת.ז. האם יש מחוון?",
+   "ts": 1794851038000,
+   "date": "2026-11-16",
+   "time": "19:43",
+   "files": [],
+   "drive": null,
+   "phone": "972525802620"
+  },
+  {
+   "id": "AC8D04D2808EE92E39B108A54BFF94F3",
+   "sender": "אושרת הרכבי",
+   "text": "שיניתי את השאלה האחרונה ל \"מהי תגובת פרעה למכה\"?\nאת הטופס העלתי לצאט והוא עיצב לי אותו יפה.\nאכין מחוון לבדיקה ואשתף.",
+   "ts": 1794853648000,
+   "date": "2026-11-16",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972524631318"
+  },
+  {
+   "id": "AC7AADBB8571D0F08EA4ABE7541BF6DC",
+   "sender": "אושרת הרכבי",
+   "text": "כאמור שאלה אחורנה שיניתי לתגובת פרעה",
+   "ts": 1794853774000,
+   "date": "2026-11-16",
+   "time": "20:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "209KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17y8VM9SE59rqwh5XdCzhgFPyvl6-u5UQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17y8VM9SE59rqwh5XdCzhgFPyvl6-u5UQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524631318"
+  },
+  {
+   "id": "3A195BF8F01346E25FB5",
+   "sender": "עמית ויצמן",
+   "text": "תוכלי לשתף אותנו בקובץ ואת המחוון להורים לתערוכה",
+   "ts": 1794853912000,
+   "date": "2026-11-16",
+   "time": "20:31",
+   "files": [],
+   "drive": null,
+   "phone": "972526262760"
+  },
+  {
+   "id": "AC495268444FDFB12E68B4751587FD87",
+   "sender": "Ortal",
+   "text": "אם יש לך את הקובץ הסופי אשמח עם התיקון בסוף",
+   "ts": 1794857335000,
+   "date": "2026-11-16",
+   "time": "21:28",
+   "files": [],
+   "drive": null,
+   "phone": "972546583495"
+  },
+  {
+   "id": "3EB06C12B7944C28311322",
+   "sender": "Miriam",
+   "text": "עשית את זה לכל מכה?",
+   "ts": 1794857368000,
+   "date": "2026-11-16",
+   "time": "21:29",
+   "files": [],
+   "drive": null,
+   "phone": "972587176233"
+  },
+  {
+   "id": "ACE28A0027F425C446B1FFA594FCC053",
+   "sender": "אושרת הרכבי",
+   "text": "כן כל ילד קיבל דף כזה והחלק המעשי זה להכין דגם/מצגת/קומיקס וכיוב'\nוהיום עשינו תערוכה של הדגמים במרחב והילדים ממש התלהבו והתרגשו",
+   "ts": 1794857459000,
+   "date": "2026-11-16",
+   "time": "21:30",
+   "files": [],
+   "drive": null,
+   "phone": "972524631318"
+  },
+  {
+   "id": "AC68D0B96666FF702196AA75466243B2",
+   "sender": "הודיה זיני",
+   "text": "אלופה\nתודה על השיתוף\nאשמח לקובץ האחרון..",
+   "ts": 1794857726000,
+   "date": "2026-11-16",
+   "time": "21:35",
+   "files": [],
+   "drive": null,
+   "phone": "972584263284"
+  },
+  {
+   "id": "3A0B296CF6C26D26AB11",
+   "sender": "Orna Bracha Mizrahi",
+   "text": "גם אני אשמח לקובץ המעודכן. \nתודה 🙏",
+   "ts": 1794860224000,
+   "date": "2026-11-16",
+   "time": "22:17",
+   "files": [],
+   "drive": null,
+   "phone": "972546989935"
   }
  ]
 }

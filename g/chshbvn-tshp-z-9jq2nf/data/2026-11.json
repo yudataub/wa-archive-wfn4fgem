@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חשבון תשפ\"ז🍭🥰",
- "updated": "2026-11-15T10:29:33.940Z",
+ "updated": "2026-11-16T20:40:56.819Z",
  "messages": [
   {
    "id": "AC4D373CD82459D059CFE78CC57B8E50",
@@ -42,6 +42,222 @@
      "thumb": "https://drive.google.com/thumbnail?id=1Xra6O2L4ymbAMxHo0nge55E9r7GCn7I_&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC6594BEAC76944E9D188F40EBCA0365",
+   "sender": "מלכה טרבלסי",
+   "text": "אני שולחת לכם את רשימת הילדים המשולבים\n\nזה מידע חסוי\nלא להעביר",
+   "ts": 1794810565000,
+   "date": "2026-11-16",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACA42787FCD11600D6E5B331D9781476",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794810580000,
+   "date": "2026-11-16",
+   "time": "08:29",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA42787FCD11600D6E5B331D9781476_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC560CCA30D490C5A33E38AAC204DDC1",
+   "sender": "מלכה טרבלסי",
+   "text": "כיתה א",
+   "ts": 1794810583000,
+   "date": "2026-11-16",
+   "time": "08:29",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC5E2A53B5D72DD461A4EF989EB86583",
+   "sender": "מלכה טרבלסי",
+   "text": "כיתה ב",
+   "ts": 1794810607000,
+   "date": "2026-11-16",
+   "time": "08:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC738A06AAF0807D899DF7E42EF53F3B",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794810612000,
+   "date": "2026-11-16",
+   "time": "08:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC738A06AAF0807D899DF7E42EF53F3B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC3A2B1D3A8113BB47BFFD5ED37DB84C",
+   "sender": "מלכה טרבלסי",
+   "text": "כיתה ג",
+   "ts": 1794810638000,
+   "date": "2026-11-16",
+   "time": "08:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACD9821737F77EBCD9933A28A8FA797E",
+   "sender": "מלכה טרבלסי",
+   "text": "כיתה ד",
+   "ts": 1794810650000,
+   "date": "2026-11-16",
+   "time": "08:30",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC998F9240F393ECC6E4EAF38401744E",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794810684000,
+   "date": "2026-11-16",
+   "time": "08:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hjXDWmtsaIXQWKJZRg45LUcH7ZI9-ouP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hjXDWmtsaIXQWKJZRg45LUcH7ZI9-ouP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC5059D08AE686F7F857C692C173AE15",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794810709000,
+   "date": "2026-11-16",
+   "time": "08:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "131KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hoW678gc80Lf2549nikFY8155zWxcFhk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hoW678gc80Lf2549nikFY8155zWxcFhk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACD1FAF27CC386257150D911915D8F90",
+   "sender": "מלכה טרבלסי",
+   "text": "כיתה ה",
+   "ts": 1794810712000,
+   "date": "2026-11-16",
+   "time": "08:31",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACE150EA6B796A772E57247E73D3E51C",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794810715000,
+   "date": "2026-11-16",
+   "time": "08:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s9M4bZ8K0ukGb_qn7LaiP_X_q9vCBKSX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s9M4bZ8K0ukGb_qn7LaiP_X_q9vCBKSX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC6337F13F4567CB2B8E796C168A9F34",
+   "sender": "מלכה טרבלסי",
+   "text": "כיתה ו",
+   "ts": 1794810716000,
+   "date": "2026-11-16",
+   "time": "08:31",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC9848809240538A353E3A0F2D57CF09",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1794810716000,
+   "date": "2026-11-16",
+   "time": "08:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC9848809240538A353E3A0F2D57CF09_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACD5B03E4747908E40E32589464FC57F",
+   "sender": "מלכה טרבלסי",
+   "text": "מורות יקרות\nנא להגיש לי מה שביקשתי\nעד סוף שבוע",
+   "ts": 1794861629000,
+   "date": "2026-11-16",
+   "time": "22:40",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACCC9F8C27C0D91A69EF38DCCF7CEE02",
+   "sender": "מלכה טרבלסי",
+   "text": "🥰😍",
+   "ts": 1794861631000,
+   "date": "2026-11-16",
+   "time": "22:40",
+   "files": [],
    "drive": null,
    "phone": "972528686062"
   }

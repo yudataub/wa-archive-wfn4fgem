@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני העל-יסודי",
- "updated": "2026-11-13T06:06:11.952Z",
+ "updated": "2026-11-16T19:53:39.165Z",
  "messages": [
   {
    "id": "A501B677F98CB40F70285E1B9B2DF99F",
@@ -1529,6 +1529,45 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3AE04D800AD884455C0D_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "3EB011DCA41C1288BD9746",
+   "sender": "יזהר פינטוס",
+   "text": "ערב טוב,\nהנה סיפור מרד בית חשמונאי מנקודת מבט אמונית, בשקופיות עם איורים נחמדים.\nבאהבה,\nיזהר",
+   "ts": 1794842845000,
+   "date": "2026-11-16",
+   "time": "17:27",
+   "files": [
+    {
+     "name": "מרד בית חשמונאי תשפא.pptx",
+     "size": "4.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Xq5lD4a366yX2D7sGclsU18S6OctAGBW/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508808857"
+  },
+  {
+   "id": "3A80654867CF5B110947",
+   "sender": "עותניאל מנצור",
+   "text": "*שני מפגשים עם הרב יעקב אריאל שליט״א - בחודש!*🎉\n\nבמסגרת *בית המדרש לרבני החמ\"ד* זכינו להיפגש רבנים מטעם הפיקוח על רבני בתי הספר - מחזור רבנים נוסף - עם הרב יעקב אריאל שליט\"א.\n\nמפגש זה מתווסף למפגש שכבר קיימנו בחודש האחרון עם רבני החמ\"ד השותפים בבית המדרש.\n\nגם הפעם זכו הרבנים להציף את הנושאים הבוערים בשטח, לשאול שאלות - *ולקבל מענה חינוכי מפורט ומקיף מהרב.*\nיצאנו כולנו ב\"ה עם תובנות רבות, שבע\"ה יסייעו לנו מאוד בעשיה החינוכית עם התלמידים, הצוות וההורים.\n\n*בשורה*: מחזור רבנים חדש עומד להיפתח!🥳\nבע\"ה לאור הביקוש, בחודשים הקרובים ייפתח מחזור רבנים נוסף. מוזמנים להצטרף לבית המדרש, בו נפגשים רבני החמ\"ד *בקבוצות מצומצמות* עם גדולי הדור, ומתמלאים בראיה חינוכית עמוקה, מעשית ורלוונטית.\nההרשמה (והסילבוס) בקישור >>>\nhttps://www.yedidhemed.co.il/beit_midrash/",
+   "ts": 1794858789000,
+   "date": "2026-11-16",
+   "time": "21:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "222KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17TpS4eLtGsv2HdxCLmJFKMnxIg3oSIB2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17TpS4eLtGsv2HdxCLmJFKMnxIg3oSIB2&sz=w1200"
     }
    ],
    "drive": null,
