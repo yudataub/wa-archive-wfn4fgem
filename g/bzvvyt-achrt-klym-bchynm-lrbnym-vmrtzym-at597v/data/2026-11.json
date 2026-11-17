@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בזווית אחרת | כלים בחינם לרבנים ומרצים",
- "updated": "2026-11-17T21:29:31.701Z",
+ "updated": "2026-11-17T23:00:34.630Z",
  "messages": [
   {
    "id": "ACB628112DA3E9D3FDA8C83F957C61CF",
@@ -16890,6 +16890,25 @@
    "files": [],
    "drive": null,
    "phone": "972502704154"
+  },
+  {
+   "id": "ACDE9094648DA2ECDC4B19C5E50A0FBD",
+   "sender": "נעם",
+   "text": "",
+   "ts": 1794956425000,
+   "date": "2026-11-18",
+   "time": "01:00",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "4KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/11b7_8uG9ZPMlTTi4OPktXLKuEIklaCdf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972548095994"
   }
  ]
 }

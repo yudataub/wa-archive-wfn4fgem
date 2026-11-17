@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מזכי הרבים",
- "updated": "2026-11-17T15:32:32.172Z",
+ "updated": "2026-11-17T22:35:26.613Z",
  "messages": [
   {
    "id": "A596A5EC8D4EA07D8B3151B49701CD59",
@@ -2778,6 +2778,57 @@
    "ts": 1794929537000,
    "date": "2026-11-17",
    "time": "17:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "A5474A97FFF14D386939428317C9F56B",
+   "sender": "אלירן סעידיאן",
+   "text": "",
+   "ts": 1794954864000,
+   "date": "2026-11-18",
+   "time": "00:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "128KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EsPVQshbIpJicqyRiA0fnxOyy4xHhE48/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EsPVQshbIpJicqyRiA0fnxOyy4xHhE48&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "A5A122299C2C20C93FE37932EFB7068A",
+   "sender": "אלירן סעידיאן",
+   "text": "",
+   "ts": 1794954864000,
+   "date": "2026-11-18",
+   "time": "00:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eALTzlKW0ADNrOH9C94mwLyteFQr-fNF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eALTzlKW0ADNrOH9C94mwLyteFQr-fNF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "A5771161BDF9FF2E813B3894EFD797AA",
+   "sender": "אלירן סעידיאן",
+   "text": "חברים יקרים הקלטתי הרצאה במשך כשעה . במהלך ההרצאה השתבש משהו בפוקוס.  כפי שרואים את ההבדל בין התמונות. האם יש דרך לסדר את זה בצורה פשוטה?",
+   "ts": 1794954918000,
+   "date": "2026-11-18",
+   "time": "00:35",
    "files": [],
    "drive": null,
    "phone": "972526446736"

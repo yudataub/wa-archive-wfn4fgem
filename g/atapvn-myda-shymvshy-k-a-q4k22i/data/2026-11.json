@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-11-17T21:14:32.650Z",
+ "updated": "2026-11-17T21:55:03.952Z",
  "messages": [
   {
    "id": "3A1360C74E1D1E477058",
@@ -4111,6 +4111,26 @@
    ],
    "drive": null,
    "phone": "972547556711"
+  },
+  {
+   "id": "2AA2A973644FE03DB507",
+   "sender": "רן רהב סופר סת״ם",
+   "text": "נשכח במאקווא , מי שמכיר",
+   "ts": 1794952442000,
+   "date": "2026-11-17",
+   "time": "23:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "252KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17waxS_WQ31FWZw-0XbaeQiqE1s-Uw2tM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17waxS_WQ31FWZw-0XbaeQiqE1s-Uw2tM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533834131"
   }
  ]
 }
