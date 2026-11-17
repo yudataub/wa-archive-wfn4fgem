@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "השלמה תרבות ישראל קיץ-פו'",
- "updated": "2026-11-10T18:08:14.260Z",
+ "updated": "2026-11-17T18:46:06.638Z",
  "messages": [
   {
    "id": "ACBE5D4FFEF1AB675A592DBBDEB7E792",
@@ -405,6 +405,114 @@
    "files": [],
    "drive": null,
    "phone": "972584973225"
+  },
+  {
+   "id": "AC95DC2860B473C3BDDEFE32DF1E51EF",
+   "sender": "נתן בר יוחאי",
+   "text": "מישהו יודע מה המטלה של יניב -באנגלית",
+   "ts": 1794935496000,
+   "date": "2026-11-17",
+   "time": "19:11",
+   "files": [],
+   "drive": null,
+   "phone": "972507641139"
+  },
+  {
+   "id": "AC7CB5F7DC004791FF6911DD9458BB53",
+   "sender": "אביחי",
+   "text": "כן תיכנס לקורס מספר שלוש המטלה השניה והשלישית",
+   "ts": 1794935755000,
+   "date": "2026-11-17",
+   "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972556811898"
+  },
+  {
+   "id": "ACABE1129CCE85D0E949F04225558A4B",
+   "sender": "אביחי",
+   "text": "",
+   "ts": 1794935764000,
+   "date": "2026-11-17",
+   "time": "19:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "100KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11DHwX7Kh3792AvNXawn6PL1M-NGDGILA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11DHwX7Kh3792AvNXawn6PL1M-NGDGILA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556811898"
+  },
+  {
+   "id": "AC7A0B6849DCDDAE0F58D82327F08CE4",
+   "sender": "אביחי",
+   "text": "זה המטלה השניה",
+   "ts": 1794935771000,
+   "date": "2026-11-17",
+   "time": "19:16",
+   "files": [],
+   "drive": null,
+   "phone": "972556811898"
+  },
+  {
+   "id": "ACCF9550C4F3C9711CFEA723B8FDB53B",
+   "sender": "אביחי",
+   "text": "ואם תרצה אשלח לך את המטלה השלישית פשוט רק תעלה אותה אם אתה רוצה תגיד לי",
+   "ts": 1794935789000,
+   "date": "2026-11-17",
+   "time": "19:16",
+   "files": [],
+   "drive": null,
+   "phone": "972556811898"
+  },
+  {
+   "id": "AC05DF288DC61F7DFFE38A8888D68A51",
+   "sender": "נתן בר יוחאי",
+   "text": "עשיתי את שתיהן כעת",
+   "ts": 1794935901000,
+   "date": "2026-11-17",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507641139"
+  },
+  {
+   "id": "AC10C11039DD9AED9922CF9CCA7C7B5C",
+   "sender": "נתן בר יוחאי",
+   "text": "תודה לך ולשמעון",
+   "ts": 1794935908000,
+   "date": "2026-11-17",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507641139"
+  },
+  {
+   "id": "ACD1CF8D00EE235A84A5A1BD6DBA0568",
+   "sender": "נתן בר יוחאי",
+   "text": "👍🏻👍🏻",
+   "ts": 1794935910000,
+   "date": "2026-11-17",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "972507641139"
+  },
+  {
+   "id": "ACFD3AEEE38411EE104D0D95F4588422",
+   "sender": "אביחי",
+   "text": "אפשר להגיד לרב קליר להכניס אותנו",
+   "ts": 1794941149000,
+   "date": "2026-11-17",
+   "time": "20:45",
+   "files": [],
+   "drive": null,
+   "phone": "972556811898"
   }
  ]
 }

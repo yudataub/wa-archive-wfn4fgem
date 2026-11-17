@@ -1,0 +1,58 @@
+{
+ "month": "2026-11",
+ "group": "מסירה ומכירה יד 2 בק.אתא",
+ "updated": "2026-11-17T15:49:39.247Z",
+ "messages": [
+  {
+   "id": "AC0FBFC36477918BE7DBD429AF1A1F7A",
+   "sender": "אורלי שלמה",
+   "text": "ב ה ז ד מ נ ו ת !!!\n\nלמסירה בחינם מטירת הכרמל.\n0525236296- לבנה",
+   "ts": 1794930558000,
+   "date": "2026-11-17",
+   "time": "17:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543470537"
+  },
+  {
+   "id": "AC51E3B07675C01AD1D4A866CE76AB79",
+   "sender": "אורלי שלמה",
+   "text": "",
+   "ts": 1794930558000,
+   "date": "2026-11-17",
+   "time": "17:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "233KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xvQnR1HgkEf5egJy7Jqdet1WHjZJwy6T/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xvQnR1HgkEf5egJy7Jqdet1WHjZJwy6T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543470537"
+  },
+  {
+   "id": "AC59BDA2D0BDBCDDA3E3C43450569D57",
+   "sender": "אורלי שלמה",
+   "text": "",
+   "ts": 1794930558000,
+   "date": "2026-11-17",
+   "time": "17:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "406KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/149hSArYVAnp34-dl87c_C2C4D8AWwuTA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=149hSArYVAnp34-dl87c_C2C4D8AWwuTA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543470537"
+  }
+ ]
+}

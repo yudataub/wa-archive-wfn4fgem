@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משוחררי קרית אתא",
- "updated": "2026-11-09T13:01:32.101Z",
+ "updated": "2026-11-17T07:03:58.371Z",
  "messages": [
   {
    "id": "3EB090C7CAEA25E50414A5",
@@ -166,6 +166,46 @@
    "date": "2026-11-09",
    "time": "15:01",
    "files": [],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "3EB0949DC60E2599277180",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "מוקירים את פצועי צה״ל🇮🇱🫡\n\nבמסגרת יום ההוקרה לפצועי צה״ל, אתם מוזמנים להרצאה מרתקת של ידין גלמן- השעה הארוכה בחיי\n\n📅 יום שני | 23.11\n🕗 בשעה 20:00\n✨ עלות: 15 ש\"ח\n📍 אולם המתנ״ס העירוני, פלמ״ח 11, קרית אתא\n\nלפרטים ולהרשמה:\nhttps://katzr.net/54fd6a",
+   "ts": 1794898160000,
+   "date": "2026-11-17",
+   "time": "08:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dnhM2dzev7bTNVpjWCdidps3PNvbW9Sc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dnhM2dzev7bTNVpjWCdidps3PNvbW9Sc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC11C3439F02AC927BD30CF666786926",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "🍻 *אהבה על הבר- סדנת בירה למשרתי מילואים ובני/בנות הזוג* 🍻\n\nמוזמנים לערב חווייתי ומהנה לכבוד החנוכה הכולל טעימות של סוגי בירה שונים, יצירת מותג בירה זוגי והיכרות עם עולם הבירה.\n\n📅 יום שני | 30.11\n 🕢 19:30-22:00\n 📍 מרכז צעירים, מורדי הגטאות 24\n 💰 45 ₪ למשתתף\n💚 *מיועד למשרתי מילואים ובני/בנות הזוג*\n🔗 לפרטים והרשמה בקישור המצורף: https://katzr.net/2c7073\n\n ⚠️ מספר המקומות מוגבל! 🍺",
+   "ts": 1794899027000,
+   "date": "2026-11-17",
+   "time": "09:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "281KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uKO5_aYV3tXNFDVTlutIMa_L9KExp8rr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uKO5_aYV3tXNFDVTlutIMa_L9KExp8rr&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972528114222"
   }

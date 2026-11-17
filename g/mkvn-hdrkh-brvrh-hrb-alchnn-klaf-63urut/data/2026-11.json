@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מכון הדרכה ברורה☆הרב אלחנן כלאף",
- "updated": "2026-11-16T19:03:03.001Z",
+ "updated": "2026-11-17T14:23:55.753Z",
  "messages": [
   {
    "id": "AC62F8A065AEE9C187C16B91127C4ECC",
@@ -73,6 +73,46 @@
    "files": [],
    "drive": null,
    "phone": "972527818887"
+  },
+  {
+   "id": "A5237CD432A501889D30926382EBE22B",
+   "sender": "נתי",
+   "text": "בשורה משמחת לתושבי הדרום\nההרשמה לסידרת השיעורים \"טובים השניים\" בעיצומה!\nפרטים במודעה!! אל תוותרו!!👍\nחוסך פגישות ייעוץ והוצאות מרובות!!\nהפיצו! הפיצו! הפיצו! 💞",
+   "ts": 1794903114000,
+   "date": "2026-11-17",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "443KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EHYeipOcVccbnvcBHAxH9mOhY13VQ1Fm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EHYeipOcVccbnvcBHAxH9mOhY13VQ1Fm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547846191"
+  },
+  {
+   "id": "A5249A7447619F31E8E00A24DF903D81",
+   "sender": "נתי",
+   "text": "בשורה משמחת לתושבי הדרום\nההרשמה לסידרת השיעורים \"טובים השניים\" בעיצומה!\nפרטים במודעה!! אל תוותרו!!👍\nחוסך פגישות ייעוץ והוצאות מרובות!!\nהפיצו! הפיצו! הפיצו! 💞",
+   "ts": 1794925427000,
+   "date": "2026-11-17",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "534KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17DmWvYIvNwj8xIFnJVPix9MBkucwNO6n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17DmWvYIvNwj8xIFnJVPix9MBkucwNO6n&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547846191"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ג'",
- "updated": "2026-11-14T19:51:59.311Z",
+ "updated": "2026-11-17T08:06:39.105Z",
  "messages": [
   {
    "id": "AC477A305294793FE5EE0C93B54C765B",
@@ -475,6 +475,122 @@
    "files": [],
    "drive": null,
    "phone": "972525888501"
+  },
+  {
+   "id": "AC641292E0FE7DC432B4FA94A610DE95",
+   "sender": "ארנון אהרוני",
+   "text": "",
+   "ts": 1794896078000,
+   "date": "2026-11-17",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "להדליק אור - קובץ לדפוס-1.pdf",
+     "size": "10.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mYa6Xm5HEF1BCeIs6Mu4b22TY4RCjb4H/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "AC228A911E96AABDFA5769DA49E5ACDF",
+   "sender": "ארנון אהרוני",
+   "text": "מנהיגי חינוך יקרים, שלום וברכה!\n\nלקראת חג החנוכה, שמח להציג בפניכם *לימוד משפחתי לחנוכה* לשמונת ימי החנוכה, הכולל :\n 🕎 חידות, \n🎶 פיוטים, \n📖 הלכות \n✨ מאורו של הרב חנן פורת.\n\nהחוברת נועדה לעודד לימוד משותף של הורים וילדים ולהוסיף תוכן, תורה ואור למפגש המשפחתי למול נרות החנוכה.\n\nחנוכה שמח ומאיר! 🕎\n\nארנון אהרוני\nמדריך תנ''ך ותושב''ע",
+   "ts": 1794896080000,
+   "date": "2026-11-17",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "416KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iavKcpToeFK7W3grzevIPwnZnv7aIRTD/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iavKcpToeFK7W3grzevIPwnZnv7aIRTD&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "AC56775DA31872A025793917DC40412D",
+   "sender": "ארנון אהרוני",
+   "text": "",
+   "ts": 1794896080000,
+   "date": "2026-11-17",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "798KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kuHHy0AUZSvsypyCivyToIwWKW_Iap4i/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kuHHy0AUZSvsypyCivyToIwWKW_Iap4i&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "AC3C1AA06CE3374B80510886227363D9",
+   "sender": "ארנון אהרוני",
+   "text": "מנהיגי חינוך יקרים!\nלרשותכם חוברת ללימוד הלכות ומושגי חנוכה, בעיצוב מזמין\n ללימוד לקראת חנוכה וחידון\nבהצלחה רבה \nארנון",
+   "ts": 1794896104000,
+   "date": "2026-11-17",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "מושגים והלכות חנוכה  - ארנון.pdf",
+     "size": "44.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1SpuDEXczjQ4-NKN-KMD2WzzfyGInmPcv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "ACBAC028D59E560CAB5DED8DEE3D3568",
+   "sender": "רפאל ג'יל טייב",
+   "text": "",
+   "ts": 1794902770000,
+   "date": "2026-11-17",
+   "time": "10:06",
+   "files": [
+    {
+     "name": "מצגת לימודית חנוכה - טייב רפאל.pdf",
+     "size": "17.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1967y2QwajudXYS1Flg0OOqWDbSH7n1Yz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
+  },
+  {
+   "id": "AC781AF7A848612C684B6DD1FCB19A6F",
+   "sender": "רפאל ג'יל טייב",
+   "text": "",
+   "ts": 1794902776000,
+   "date": "2026-11-17",
+   "time": "10:06",
+   "files": [
+    {
+     "name": "מצגת חנוכה חב''ד - טייב רפאל.pdf",
+     "size": "23.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19JxneX6eAn5X0OsZiw36YAaQAsg6lCtP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528063022"
   }
  ]
 }

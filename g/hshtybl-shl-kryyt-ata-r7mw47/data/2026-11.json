@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-11-14T17:59:57.707Z",
+ "updated": "2026-11-17T18:34:53.011Z",
  "messages": [
   {
    "id": "A599A3538691134A9C856802507F5F66",
@@ -213,6 +213,26 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "A5D4D603C820A43DA403EB6B43C9E4AD",
+   "sender": "מאיר מוגרבי",
+   "text": "",
+   "ts": 1794940465000,
+   "date": "2026-11-17",
+   "time": "20:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "136KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_v8AOMj0peRhlqNkcZf_IG3qe3NEFi5I/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_v8AOMj0peRhlqNkcZf_IG3qe3NEFi5I&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

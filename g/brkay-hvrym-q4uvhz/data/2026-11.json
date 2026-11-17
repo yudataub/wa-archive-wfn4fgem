@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ברקאי הורים",
- "updated": "2026-11-16T14:04:24.836Z",
+ "updated": "2026-11-17T14:23:52.832Z",
  "messages": [
   {
    "id": "3EB096D60C2080A4777F31",
@@ -233,6 +233,27 @@
      "path": "https://drive.google.com/file/d/11DMS8uEEA5bwKyYfl_UiU3cdWC-l1FKV/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=11DMS8uEEA5bwKyYfl_UiU3cdWC-l1FKV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507333664"
+  },
+  {
+   "id": "A52078DA10B2637809020DFD45D22B01",
+   "sender": "אברהם בורודיאנסקי",
+   "text": "סיפור ממשנת חייו של נשיא הישיבה מרן הגאון רבי מרדכי אוירבך זיע\"א שפורסם לתלמידים",
+   "ts": 1794925418000,
+   "date": "2026-11-17",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.8MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1AyLBDT3yx1kfDZIueZ2NSgxaDJn51E5w/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A52078DA10B2637809020DFD45D22B01_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1AyLBDT3yx1kfDZIueZ2NSgxaDJn51E5w&sz=w1200"
     }
    ],
    "drive": null,

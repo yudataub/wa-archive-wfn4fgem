@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-16T10:20:53.112Z",
+ "updated": "2026-11-17T09:14:08.793Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -265,6 +265,59 @@
    "ts": 1794824443000,
    "date": "2026-11-16",
    "time": "12:20",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC4F9AEFD04BD70BA4B0DFFB8822A44B",
+   "sender": "יעקב בקר",
+   "text": "שלום ללומדים\nעדכון ליום שלישי\nבשעה 11 הרב\nדוד אבוטבול\nתודה",
+   "ts": 1794896805000,
+   "date": "2026-11-17",
+   "time": "08:26",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC47A5C66FF66627B1F8909272EC8479",
+   "sender": "יעקב בקר",
+   "text": "שלום ללומדים\nזו הרצאה  מרתקת נוספת של מכון צומת\nהשבוע ביום חמישי\nנא להפיץ את המודעה\nבעוד בתי כנסיות\nמי שיכול\nהציבור הרחב מוזמן\nתודה",
+   "ts": 1794906784000,
+   "date": "2026-11-17",
+   "time": "11:13",
+   "files": [],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "AC612F2F6A73602F5F468E4845CC72CF",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1794906791000,
+   "date": "2026-11-17",
+   "time": "11:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bJzSMzpYSqYdJMhlbnL2cSSEwdzddkrg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bJzSMzpYSqYdJMhlbnL2cSSEwdzddkrg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACFFAADD1BFE734798B0296D51D101B0",
+   "sender": "יעקב בקר",
+   "text": "מבקש להגיע  ב 10",
+   "ts": 1794906840000,
+   "date": "2026-11-17",
+   "time": "11:14",
    "files": [],
    "drive": null,
    "phone": "972549991157"

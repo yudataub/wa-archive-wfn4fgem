@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-11-16T18:44:02.628Z",
+ "updated": "2026-11-17T18:42:53.917Z",
  "messages": [
   {
    "id": "AC766E9745AEAD82DE14821E17AEB47A",
@@ -1942,6 +1942,153 @@
    "files": [],
    "drive": null,
    "phone": "972522822589"
+  },
+  {
+   "id": "AC0CFDA272146C00EA6568CD433C7B64",
+   "sender": "מרדכי",
+   "text": "*לעילוי נשמת הרב איתמר שוורץ בן טובה*",
+   "ts": 1794897531000,
+   "date": "2026-11-17",
+   "time": "08:38",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACB507A0AEF8D43725AAD44318F46912",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794897531000,
+   "date": "2026-11-17",
+   "time": "08:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bJBLg0jwBLO-fimiS7kdbAuT--LFq1fz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bJBLg0jwBLO-fimiS7kdbAuT--LFq1fz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC9A6F7B89006D8FA97637FC757081C9",
+   "sender": "מי שמאמין לא מפחד",
+   "text": "*חשבתם ששמעתם הכל? צפו בביצוע המרגש של החיילים האלו*\n\n`ארגון 2000 בוואטסאפ`\nhttps://bit.ly/_tv_2000",
+   "ts": 1794924466000,
+   "date": "2026-11-17",
+   "time": "16:07",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1jz7704M61Q6NrP7g1n2VCWbU4oNIJN2P/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC9A6F7B89006D8FA97637FC757081C9_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1jz7704M61Q6NrP7g1n2VCWbU4oNIJN2P&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524709727"
+  },
+  {
+   "id": "AC8430B02E4DACDBB93FFDE6A49E5048",
+   "sender": "אוריאל",
+   "text": "ע נ ק",
+   "ts": 1794925255000,
+   "date": "2026-11-17",
+   "time": "16:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MeCkyylkY01JFFklM77IpRGI2hTvhKGm/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC8430B02E4DACDBB93FFDE6A49E5048_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1MeCkyylkY01JFFklM77IpRGI2hTvhKGm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546660233"
+  },
+  {
+   "id": "AC396CE67BFC63F06D20ED24E64D19FB",
+   "sender": "מרדכי",
+   "text": "*שיעור דף היומי קצר-וחווייתי!*\nזה הסוד שמאפשר לעשרות אלפים לסיים את השס בקלות!\nואתה עדיין עסוק??\n\n*הצטרף עכשיו!*\nהשיעור מוגש בצורת חברותא-15 דקות לדף!",
+   "ts": 1794927766000,
+   "date": "2026-11-17",
+   "time": "17:02",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC840217E0532C076F6693979D33D3E5",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794927783000,
+   "date": "2026-11-17",
+   "time": "17:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "479KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UdbUdB_3VBD9xhRBeKdsgGTOrE7ywjqh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UdbUdB_3VBD9xhRBeKdsgGTOrE7ywjqh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC1C0AE092368679D15AD379ACD4B560",
+   "sender": "מרדכי",
+   "text": "והמבין יבין.....",
+   "ts": 1794940771000,
+   "date": "2026-11-17",
+   "time": "20:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1xWCVugtlggrH-3D1dHhtY_o9B_blB7mM/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC1C0AE092368679D15AD379ACD4B560_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1xWCVugtlggrH-3D1dHhtY_o9B_blB7mM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACFC12137022FB778FDDE9BE5C438C2C",
+   "sender": "אין עוד מלבדו",
+   "text": "מתי רבי דוד מקבל?",
+   "ts": 1794940797000,
+   "date": "2026-11-17",
+   "time": "20:39",
+   "files": [],
+   "drive": null,
+   "phone": "972559517680"
+  },
+  {
+   "id": "AC66C3E6E88B1040C912F1C6D1E9B353",
+   "sender": "משה נחמן חי פרץ",
+   "text": "https://www.youtube.com/live/kMdTA0qgrwE?si=bnRouxCEZ3pogDSW",
+   "ts": 1794940949000,
+   "date": "2026-11-17",
+   "time": "20:42",
+   "files": [],
+   "drive": null,
+   "phone": "972549912156"
   }
  ]
 }

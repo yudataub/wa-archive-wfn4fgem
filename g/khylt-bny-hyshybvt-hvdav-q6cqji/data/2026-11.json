@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-16T21:26:36.458Z",
+ "updated": "2026-11-17T19:59:48.611Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -2820,6 +2820,100 @@
    "files": [],
    "drive": null,
    "phone": "972528907838"
+  },
+  {
+   "id": "ACD164DB87C8C73C343C82BD8577E460",
+   "sender": "חזקי סולומונס",
+   "text": "שיעורי דף היומי בקרית אתא!\nמתחילים מסכת ערכין!",
+   "ts": 1794893080000,
+   "date": "2026-11-17",
+   "time": "07:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1EM4mMSwSANjAEk6YAZCutKwhjGklhF_K/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1EM4mMSwSANjAEk6YAZCutKwhjGklhF_K&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587161155"
+  },
+  {
+   "id": "A50BC4FBDD91218839614C60A260665C",
+   "sender": "א.ו",
+   "text": "",
+   "ts": 1794902513000,
+   "date": "2026-11-17",
+   "time": "10:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "77KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A50BC4FBDD91218839614C60A260665C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546334224"
+  },
+  {
+   "id": "A5D340948A399CDC0E7077DAFBAAFD22",
+   "sender": "א.ו",
+   "text": "איפה מוכרים בעיר קופסאות כאלה?",
+   "ts": 1794902524000,
+   "date": "2026-11-17",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972546334224"
+  },
+  {
+   "id": "ACE30926031F405EAAB8243310067DB4",
+   "sender": "Natan Borkowski",
+   "text": "איקאה",
+   "ts": 1794902544000,
+   "date": "2026-11-17",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972585735002"
+  },
+  {
+   "id": "3EB0A713D2B9F29DD185A6",
+   "sender": "ישראל אהרוני",
+   "text": "קניתי כאלה בזול סטוק לפני חצי שנה",
+   "ts": 1794902634000,
+   "date": "2026-11-17",
+   "time": "10:03",
+   "files": [],
+   "drive": null,
+   "phone": "972548486008"
+  },
+  {
+   "id": "AC1D03CC30137DD0834E9429B8F26855",
+   "sender": "שמאי סופר",
+   "text": "יש מישהו שנמצא באירוסין של טאוב ויכול לקחת חבילה ממישהו שהגיע מקרית ספר?",
+   "ts": 1794938014000,
+   "date": "2026-11-17",
+   "time": "19:53",
+   "files": [],
+   "drive": null,
+   "phone": "972583262212"
+  },
+  {
+   "id": "ACE53E082E27D534F8C4FA8BA3B51278",
+   "sender": "++",
+   "text": "חלוקת מאפים/חלות/לחמניות ע\"י הרב ראקוב לאחר מעריב בכולל עמלים",
+   "ts": 1794945543000,
+   "date": "2026-11-17",
+   "time": "21:59",
+   "files": [],
+   "drive": null,
+   "phone": "972527617538"
   }
  ]
 }

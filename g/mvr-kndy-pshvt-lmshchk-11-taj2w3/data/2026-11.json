@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מור קנדי - פשוט למשחק 11",
- "updated": "2026-11-16T17:27:07.244Z",
+ "updated": "2026-11-17T13:55:38.411Z",
  "messages": [
   {
    "id": "A5B09B38B0C06C869F307A104E8904DA",
@@ -64,6 +64,37 @@
    "date": "2026-11-16",
    "time": "19:26",
    "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A502448E020E7CAFD5AA43486E6F0A81",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "צהריים טובים,\nאיזה כיף, חנוכה מתקרב! \nהכנו לכם משחקי תחרותי כיפי לכיתות- תחרות בין קבוצות. \nכל הפרטים בפוסט:\nhttps://funlearning.co.il/2026/11/hanukkah-missions/\nמוזמנים להשתמש ולשתף,\nמור קנדי וצוות פשוט למשחק.\nנ.ב- מזכירה שביום ראשון תתקיים סדנת משחק וחידונים מרובי משתתפים.  \nלפרטים והרשמה- \nhttps://funcourses.base44.app/course/6af17498066e5161e7e4e173",
+   "ts": 1794923720000,
+   "date": "2026-11-17",
+   "time": "15:55",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A50EC9E73AF18215FCF482C171668D37",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1794923721000,
+   "date": "2026-11-17",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SL9QzCx1qQWF4VLWhiKUF5pqciZuHPNh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SL9QzCx1qQWF4VLWhiKUF5pqciZuHPNh&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972547461614"
   }

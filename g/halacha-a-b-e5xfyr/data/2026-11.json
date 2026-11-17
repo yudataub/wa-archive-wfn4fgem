@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-15T16:19:52.645Z",
+ "updated": "2026-11-17T20:12:07.773Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -1075,6 +1075,82 @@
    "files": [],
    "drive": null,
    "phone": "972533334930"
+  },
+  {
+   "id": "AC4A814D844467E9C5F5B9DAA3FAD973",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794945839000,
+   "date": "2026-11-17",
+   "time": "22:03",
+   "files": [
+    {
+     "name": ".. ה-ו סיפור חנוכה ה-ו.pdf",
+     "size": "4.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1XM-u794ssRull-WduXHFwgXDi5AipIgy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC412C1377163D28CC2A74EA6E7C8E39",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794945841000,
+   "date": "2026-11-17",
+   "time": "22:04",
+   "files": [
+    {
+     "name": ".חוברת שעשועונים ג-ד חנוכה .pdf",
+     "size": "2.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1e0CPvGDB-1HjAaiEoCbhePSPnAgMlOzk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACC9329FE21D707EF6760407CEB630E7",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794945841000,
+   "date": "2026-11-17",
+   "time": "22:04",
+   "files": [
+    {
+     "name": ".ספרון חנוכה קריאה ציור כיתה א .pdf",
+     "size": "5.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1oVfXWtVrCKAqJ3Xxjk7FwP3iVfktLFal/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC155D7439FD187C1B7A0777C8725895",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1794945842000,
+   "date": "2026-11-17",
+   "time": "22:04",
+   "files": [
+    {
+     "name": "ספרון חנוכה ב-ג קריאה צביעה.pdf",
+     "size": "5.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1R5jty-OOnrmcvdHK9r-XTs5_vVSVAJNg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
   }
  ]
 }

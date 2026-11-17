@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וובינרים ואירועים #30 | LetsAI Events",
- "updated": "2026-11-09T17:10:47.778Z",
+ "updated": "2026-11-17T17:37:54.158Z",
  "messages": [
   {
    "id": "ACDDBF3F1E955D0AFA7575195624AFB5",
@@ -54,6 +54,26 @@
    ],
    "drive": null,
    "phone": "972506686869"
+  },
+  {
+   "id": "3EB0F35906957D97D18B81",
+   "sender": "לטס בינה מלאכותית",
+   "text": "עוד רגע מתחילים! \n*וובינר AI Solution Architect*\nכל מה שאתם צריכים לדעת על מקצועות ה-AI של 2027!\n\nזה הלינק לזום 👇\nhttps://ltsai.co/webinars-17-11-2026\n\n*שתפו עם חברים וקולגות והזמינו אותם להצטרף!*\nאמנם ההשתתפות בחינם אבל לא תהיה הקלטה, אז כדאי להיות איתנו בלייב!",
+   "ts": 1794937068000,
+   "date": "2026-11-17",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "157KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vz1AQoOjMKgPbeh2dX5WUugQe-r_yial/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vz1AQoOjMKgPbeh2dX5WUugQe-r_yial&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586408042"
   }
  ]
 }

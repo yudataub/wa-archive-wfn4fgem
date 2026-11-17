@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ו'",
- "updated": "2026-11-16T22:58:55.216Z",
+ "updated": "2026-11-17T06:15:27.577Z",
  "messages": [
   {
    "id": "ACC205B39F07623B24C19608A8E0F001",
@@ -848,6 +848,84 @@
    "files": [],
    "drive": null,
    "phone": "972587782548"
+  },
+  {
+   "id": "ACCC4C1EA4D40EC44BC2C57C8B59DC53",
+   "sender": "ארנון אהרוני",
+   "text": "",
+   "ts": 1794896075000,
+   "date": "2026-11-17",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "להדליק אור - קובץ לדפוס-1.pdf",
+     "size": "10.7MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RzXuB8spjpDDJ8GCE1-FMbv5jrb4apic/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "AC002C41E446A2B137813728CF1A0775",
+   "sender": "ארנון אהרוני",
+   "text": "מנהיגי חינוך יקרים, שלום וברכה!\n\nלקראת חג החנוכה, שמח להציג בפניכם *לימוד משפחתי לחנוכה* לשמונת ימי החנוכה, הכולל :\n 🕎 חידות, \n🎶 פיוטים, \n📖 הלכות \n✨ מאורו של הרב חנן פורת.\n\nהחוברת נועדה לעודד לימוד משותף של הורים וילדים ולהוסיף תוכן, תורה ואור למפגש המשפחתי למול נרות החנוכה.\n\nחנוכה שמח ומאיר! 🕎\n\nארנון אהרוני\nמדריך תנ''ך ותושב''ע",
+   "ts": 1794896078000,
+   "date": "2026-11-17",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "416KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/160BIpZQ28iZBgQDprj9_p1i8XCqitZbn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=160BIpZQ28iZBgQDprj9_p1i8XCqitZbn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "ACA1FA8D232B1FF4221B9D903FA162A1",
+   "sender": "ארנון אהרוני",
+   "text": "",
+   "ts": 1794896079000,
+   "date": "2026-11-17",
+   "time": "08:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "798KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KvEHPu1B7DDA59-qTMXKjHy7qMBto2Wz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KvEHPu1B7DDA59-qTMXKjHy7qMBto2Wz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "AC5460875F6D135AA045B5BD2C9F74CE",
+   "sender": "ארנון אהרוני",
+   "text": "מנהיגי חינוך יקרים!\nלרשותכם חוברת ללימוד הלכות ומושגי חנוכה, בעיצוב מזמין\n ללימוד לקראת חנוכה וחידון\nבהצלחה רבה \nארנון",
+   "ts": 1794896101000,
+   "date": "2026-11-17",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "מושגים והלכות חנוכה  - ארנון.pdf",
+     "size": "44.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1yQd41XiWI-5eNlqarCxqNsxyA9b73DJp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
   }
  ]
 }

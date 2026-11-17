@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-16T21:01:31.151Z",
+ "updated": "2026-11-17T14:17:25.662Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -1571,6 +1571,86 @@
    ],
    "drive": null,
    "phone": "972506064441"
+  },
+  {
+   "id": "ACCD72D76C1CF018011B517DF30A7883",
+   "sender": "חזקי סולומונס",
+   "text": "שיעורי דף היומי בקרית אתא!\nמתחילים מסכת ערכין!",
+   "ts": 1794893081000,
+   "date": "2026-11-17",
+   "time": "07:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "254KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v1dK-qAw0JinzRbGOhqKxSe7gCpCh3iV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v1dK-qAw0JinzRbGOhqKxSe7gCpCh3iV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587161155"
+  },
+  {
+   "id": "A59A99962F37CF4CF593FCB605232D95",
+   "sender": "מוישי ולדמן",
+   "text": "דירת 2 חדרים להשכרה ברחוב המפקד קיש\nמשה ולדמן יד לנדל\"ן\n0507924828",
+   "ts": 1794911199000,
+   "date": "2026-11-17",
+   "time": "12:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1g4HXtX6Et4y2Q30Bk81EWd2V3W8MeIrM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1g4HXtX6Et4y2Q30Bk81EWd2V3W8MeIrM&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507924828"
+  },
+  {
+   "id": "AC521654EB2E55A694ADCC97A982C9C5",
+   "sender": "מאיר קרליץ",
+   "text": "",
+   "ts": 1794925011000,
+   "date": "2026-11-17",
+   "time": "16:16",
+   "files": [
+    {
+     "name": "תרגיל במה אני טוב עונה 1 פרק 2.pdf",
+     "size": "98KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1yAviYCpdY6BBBZLkQ3juc981b7z2QzfL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527103410"
+  },
+  {
+   "id": "ACA660038452A0F73CC39B28191F065B",
+   "sender": "מאיר קרליץ",
+   "text": "״בכל הפרחים יצא שאני טוב בלתת הוראות.״ 😄\n\nמשתדל מילא את דף העבודה וכבר החליט שהוא מתאים לניהול. אבי מבקש קודם דוגמה…\n\n🎬 משתדל בעבודה | עונה 1, פרק 2: ״במה אתה טוב?״\n\nלהצליח במשימה זה דבר אחד. לרצות לעשות אותה כל יום — זו כבר שאלה נוספת.\n\n📄 מצורף דף עבודה עם הוראות ודוגמה למילוי: מזהים יכולות, בודקים ממה נהנים ובוחרים התנסות קטנה שתעזור לברר כיוון.\n\nצפו, נסו בעצמכם והעבירו למישהו שמחפש את הצעד הבא שלו.\n\nהשתדלות — לקראת עתיד כלכלי.\n\nלהצטרפות לפורום משתדלים:\nhttps://forms.gle/gw5xjR3gEfKAqciY8",
+   "ts": 1794925013000,
+   "date": "2026-11-17",
+   "time": "16:16",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rtB8haMVnnclgQJCXDoY6XcalgGLBbv1/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACA660038452A0F73CC39B28191F065B_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1rtB8haMVnnclgQJCXDoY6XcalgGLBbv1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527103410"
   }
  ]
 }

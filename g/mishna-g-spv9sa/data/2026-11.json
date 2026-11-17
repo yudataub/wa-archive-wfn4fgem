@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר ג",
- "updated": "2026-11-16T19:10:03.093Z",
+ "updated": "2026-11-17T20:15:24.555Z",
  "messages": [
   {
    "id": "ACEE449B1818FE1E509318A45C76CDA4",
@@ -1075,6 +1075,110 @@
    "files": [],
    "drive": null,
    "phone": "972525986370"
+  },
+  {
+   "id": "AC32B17928C00F8A2676009903AB1F0F",
+   "sender": "אלחנן שטראוס",
+   "text": "אשמח לקישור לדרייב",
+   "ts": 1794928941000,
+   "date": "2026-11-17",
+   "time": "17:22",
+   "files": [],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "3EB0BB84A870D9EBB1AC74",
+   "sender": "אלחנן שטראוס",
+   "text": "אפשר לשלוח פעם נוספת? זה לא נפתח לי",
+   "ts": 1794929551000,
+   "date": "2026-11-17",
+   "time": "17:32",
+   "files": [],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "3A70D539B7AA9E2B5C44",
+   "sender": "Shalev Taasa",
+   "text": "מחפשת פעילות במשנה לכיתה ג׳ שקשורה בחנוכה, משהו כיף ומרענן🤍",
+   "ts": 1794935036000,
+   "date": "2026-11-17",
+   "time": "19:03",
+   "files": [],
+   "drive": null,
+   "phone": "972509792021"
+  },
+  {
+   "id": "ACB5E9B38BADF4545B821DDCFE485521",
+   "sender": "תמי",
+   "text": "תודה",
+   "ts": 1794936250000,
+   "date": "2026-11-17",
+   "time": "19:24",
+   "files": [],
+   "drive": null,
+   "phone": "972525986370"
+  },
+  {
+   "id": "A5A6B355C4F06FFE045B83A8ACABBE94",
+   "sender": "מנחם מלצמן",
+   "text": "אין משניות שקשורות לחנוכה.",
+   "ts": 1794938352000,
+   "date": "2026-11-17",
+   "time": "19:59",
+   "files": [],
+   "drive": null,
+   "phone": "972547891440"
+  },
+  {
+   "id": "3EB00688E3D4A59E68EFD3",
+   "sender": "מנחם מלצמן",
+   "text": "",
+   "ts": 1794945089000,
+   "date": "2026-11-17",
+   "time": "21:51",
+   "files": [
+    {
+     "name": "דף בונוס - טבלת התעניות על הגשמים (1).pdf",
+     "size": "257KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Ra4K7ljHDMz9n6xwO0HCGfmHwmR_tIXX/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547891440"
+  },
+  {
+   "id": "3EB0C6DC27AF5FC2112D7C",
+   "sender": "מנחם מלצמן",
+   "text": "",
+   "ts": 1794945090000,
+   "date": "2026-11-17",
+   "time": "21:51",
+   "files": [
+    {
+     "name": "מבחן מחצית א במשנה - מסכת תענית (1).pdf",
+     "size": "247KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1sUJTPeKS4QTXeYeB1xij-v7Trzb1SKCH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547891440"
+  },
+  {
+   "id": "A5A98F41204AFF70A4FF4C7E01E48682",
+   "sender": "מנחם מלצמן",
+   "text": "תלוי לפי בי\"ס ודרישה.\nייתכן כדאי לעשות עבודה כלשהי כדי לדעת את ההבנה שלהם ואת רמת התלמידים.",
+   "ts": 1794946460000,
+   "date": "2026-11-17",
+   "time": "22:14",
+   "files": [],
+   "drive": null,
+   "phone": "972547891440"
   }
  ]
 }

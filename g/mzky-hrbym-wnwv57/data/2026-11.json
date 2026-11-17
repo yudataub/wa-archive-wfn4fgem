@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מזכי הרבים",
- "updated": "2026-11-16T21:49:37.851Z",
+ "updated": "2026-11-17T15:32:32.172Z",
  "messages": [
   {
    "id": "A596A5EC8D4EA07D8B3151B49701CD59",
@@ -2601,6 +2601,186 @@
    "files": [],
    "drive": null,
    "phone": "972533881460"
+  },
+  {
+   "id": "AC1D247E78FD551D7490740FC94470DD",
+   "sender": "עוז ברזילי",
+   "text": "https://video-converter.com/",
+   "ts": 1794893035000,
+   "date": "2026-11-17",
+   "time": "07:23",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "ACEC800FDC9A836B072ADD35EB171B54",
+   "sender": "עדיאל שפיגל",
+   "text": "למישהו יש את הטלפון של הרב טוביה פולק",
+   "ts": 1794909668000,
+   "date": "2026-11-17",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "phone": "972539396699"
+  },
+  {
+   "id": "ACC1F15F68174BC113CD2EAB5942B182",
+   "sender": "עדיאל שפיגל",
+   "text": "ואת המספר של הרב עמנואל תהילה",
+   "ts": 1794909686000,
+   "date": "2026-11-17",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "phone": "972539396699"
+  },
+  {
+   "id": "A5D5E2FF1BEE2F3735C09EA9A5B352B2",
+   "sender": "אלירן סעידיאן",
+   "text": "כשאני עושה שידור בגוגל מיט ואני רוצה להציג משהו במסך של המחשב שלי. אז הצוםים רואים את הטקסט הפוך. איך אפשר לסדר את זה?",
+   "ts": 1794911806000,
+   "date": "2026-11-17",
+   "time": "12:36",
+   "files": [],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "3EB0F038768E1A458E389D",
+   "sender": "Jmedia",
+   "text": "למשהו יש במספר של הרב יהודה טריקי שליט\"א",
+   "ts": 1794926194000,
+   "date": "2026-11-17",
+   "time": "16:36",
+   "files": [],
+   "drive": null,
+   "phone": "972527972919"
+  },
+  {
+   "id": "A57C78CFA0FCAADB87A48D3E6A0A563C",
+   "sender": "הפצת תורה וזיכוי הרבים",
+   "text": "ערב טוב חברים. אם אני מצלם עם מקרופון אלחוטי על החולצה של הרב על כמה db צריך לשים?",
+   "ts": 1794928495000,
+   "date": "2026-11-17",
+   "time": "17:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A57C78CFA0FCAADB87A48D3E6A0A563C_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533033324"
+  },
+  {
+   "id": "A56F6AA0A21C3ABE43E16ADC20E360F9",
+   "sender": "דוד חניה הפקות",
+   "text": "מאוד תלוי באיך הרב מדבר, תעשה איתו טסט קטן ותשמע, אם הוא מדבר נמוך תשאר על 0, אם גבוה או צועק מידי פעם אז תנחית ל -10",
+   "ts": 1794928619000,
+   "date": "2026-11-17",
+   "time": "17:16",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "A5F3C748ED5C43E1A2BD270E15A4A19A",
+   "sender": "אלירן סעידיאן",
+   "text": "❓😅",
+   "ts": 1794928707000,
+   "date": "2026-11-17",
+   "time": "17:18",
+   "files": [],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "A50F62622BE751F37BC26A21B8432470",
+   "sender": "oz cohen",
+   "text": "קודם תגדיר פה כמה נכנס. אחרי זה במה שסימנת. שזה ההנחתה",
+   "ts": 1794928797000,
+   "date": "2026-11-17",
+   "time": "17:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "103KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1H9JCEGY1l4k7UhEdNPJGqPSetlkNwh7_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1H9JCEGY1l4k7UhEdNPJGqPSetlkNwh7_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524646360"
+  },
+  {
+   "id": "AC617D4947773AE77ABDDE81C8102BD2",
+   "sender": "להב בשארי",
+   "text": "שים לב גם כמה מוגדר במצלמה עצמה",
+   "ts": 1794928846000,
+   "date": "2026-11-17",
+   "time": "17:20",
+   "files": [],
+   "drive": null,
+   "phone": "972509532534"
+  },
+  {
+   "id": "A5051EC23BF7F29A505127372BC477D2",
+   "sender": "דוד חניה הפקות",
+   "text": "",
+   "ts": 1794928854000,
+   "date": "2026-11-17",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "137KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Vqriai0nD6-TC-E0fZggcOMck-NnofUj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Vqriai0nD6-TC-E0fZggcOMck-NnofUj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "A59557C429B26837B4BAF2D475084A4C",
+   "sender": "אלירן סעידיאן",
+   "text": "הוא מסביר כאן במקרה ומציגים משהו מול המצלמה.\nאני משתף את המסך של המחשב",
+   "ts": 1794928919000,
+   "date": "2026-11-17",
+   "time": "17:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526446736"
+  },
+  {
+   "id": "A5D64A05A40DBFDA96A618A805861A62",
+   "sender": "דוד חניה הפקות",
+   "text": "תמשיך עם gemini, הוא יציע לך כמה פתרונות\nצריך לנסות",
+   "ts": 1794929031000,
+   "date": "2026-11-17",
+   "time": "17:23",
+   "files": [],
+   "drive": null,
+   "phone": "972529551584"
+  },
+  {
+   "id": "A54192925C4E945195601716C33E8BAE",
+   "sender": "אלירן סעידיאן",
+   "text": "ניסיתי בהתחלה.. \nאנסה שוב\nתודה",
+   "ts": 1794929537000,
+   "date": "2026-11-17",
+   "time": "17:32",
+   "files": [],
+   "drive": null,
+   "phone": "972526446736"
   }
  ]
 }

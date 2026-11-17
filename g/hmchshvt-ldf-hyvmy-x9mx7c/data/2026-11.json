@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-16T04:02:32.503Z",
+ "updated": "2026-11-17T04:02:26.243Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -745,6 +745,46 @@
      "path": "https://drive.google.com/file/d/1lv8SceE9c6E7oYiWfDRYs45Vu5TdQc3-/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1lv8SceE9c6E7oYiWfDRYs45Vu5TdQc3-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AE7A96F0A3A5F5C22A4",
+   "sender": ".",
+   "text": "״זכאי אימיה״ (בכורות ס, א).",
+   "ts": 1794888130000,
+   "date": "2026-11-17",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "121KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SUGqMdB5J6TtQ1oIHPsipynjCko5-lx7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SUGqMdB5J6TtQ1oIHPsipynjCko5-lx7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A9E998603C86C7F6DC3",
+   "sender": ".",
+   "text": "״יצאו שנים כאחת״ (בכורות ס, א).",
+   "ts": 1794888132000,
+   "date": "2026-11-17",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "162KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Xx49xJqBYz9LT5JSbmGkiO73ou1FnSno/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Xx49xJqBYz9LT5JSbmGkiO73ou1FnSno&sz=w1200"
     }
    ],
    "drive": null,

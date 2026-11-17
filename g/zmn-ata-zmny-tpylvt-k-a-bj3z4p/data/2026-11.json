@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-16T18:44:32.636Z",
+ "updated": "2026-11-17T18:40:46.813Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -1027,6 +1027,89 @@
      "type": "image/jpeg",
      "path": "media/2026-11/ACFABB29C616A4E3863FDE403BD81803_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACC1B449768C91391A2FAF673E6ED0F1",
+   "sender": "מרדכי",
+   "text": "*לעילוי נשמת הרב איתמר שוורץ בן טובה*",
+   "ts": 1794897531000,
+   "date": "2026-11-17",
+   "time": "08:38",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACD81CCDAAD0D848C6F5CECE9659A1B3",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794897531000,
+   "date": "2026-11-17",
+   "time": "08:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "213KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LthhFGm0B-OlITvpQsi7EaISPs71GHrO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LthhFGm0B-OlITvpQsi7EaISPs71GHrO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACC38B5583E222D50C3FA8AE4A17F7DE",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1794927791000,
+   "date": "2026-11-17",
+   "time": "17:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "479KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1L_cR7wJiwDjZjJKMuH3qZf1hQIG3W6me/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1L_cR7wJiwDjZjJKMuH3qZf1hQIG3W6me&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACE6EF6E70B795668699D6042FDD6886",
+   "sender": "מרדכי",
+   "text": "*שיעור דף היומי קצר-וחווייתי!*\nזה הסוד שמאפשר לעשרות אלפים לסיים את השס בקלות!\nואתה עדיין עסוק??\n\n*הצטרף עכשיו!*\nהשיעור מוגש בצורת חברותא-15 דקות לדף!",
+   "ts": 1794927800000,
+   "date": "2026-11-17",
+   "time": "17:03",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC3807D4065811DA9785EB83747865C5",
+   "sender": "מרדכי",
+   "text": "והמבין יבין.....",
+   "ts": 1794940771000,
+   "date": "2026-11-17",
+   "time": "20:39",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1R3PZB7JeVrL7iEya48mrnm-6g2pebpbJ/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC3807D4065811DA9785EB83747865C5_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1R3PZB7JeVrL7iEya48mrnm-6g2pebpbJ&sz=w1200"
     }
    ],
    "drive": null,

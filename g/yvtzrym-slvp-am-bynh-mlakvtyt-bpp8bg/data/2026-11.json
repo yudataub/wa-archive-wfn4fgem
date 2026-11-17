@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים סלופ עם בינה מלאכותית",
- "updated": "2026-11-16T21:25:18.612Z",
+ "updated": "2026-11-17T14:40:53.077Z",
  "messages": [
   {
    "id": "3EB0EB4319BC0FFB70940C",
@@ -293,6 +293,103 @@
    "files": [],
    "drive": null,
    "phone": "972507579152"
+  },
+  {
+   "id": "AC340717F992982651BD6CE7A906FAF3",
+   "sender": "ניסים המורה",
+   "text": "https://www.instagram.com/reel/Dfy0YPjRvuZ/?cplk=aHd3aGtrcjlxaTQ0\nהצחיק אותי, חשבתי עליכם...",
+   "ts": 1794914098000,
+   "date": "2026-11-17",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972506369525"
+  },
+  {
+   "id": "3EB01C945EEBB7FC292979",
+   "sender": "נועם",
+   "text": "אם מישהו רוצה חוויית gta של שליח וולט בתל אביב, עדיין לא סיימתי אבל זה פסיכי. פייבל הזה... https://claude.ai/artifact/TRrt7BqTDR4bdMtZj2BCEg",
+   "ts": 1794926422000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1266fFv2V2iNrvW7PxLmCYlufPq-F4BtB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1266fFv2V2iNrvW7PxLmCYlufPq-F4BtB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB014BBACC1D64DB54F93",
+   "sender": "נועם",
+   "text": "כמה זה עלה לך! איך???",
+   "ts": 1794926424000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB035B74CABCA467E044D",
+   "sender": "נועם",
+   "text": "שני איפוסים של פייבל במנוי 100 🫣",
+   "ts": 1794926427000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0AB7889241F0F5E9ECC",
+   "sender": "נועם",
+   "text": "אני בגוגל קלאוד פותח כל פעם פרופיל חדש שנגמרים הקרדיטים החינמיים חשבון חדש ומקבל שוב קרדיטים בעלות של 300$",
+   "ts": 1794926432000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0124E58300A6BCC0739",
+   "sender": "נועם",
+   "text": "אתה מכניס כל פעם טלפון ואמצעי תשלום חדש?",
+   "ts": 1794926435000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB0464D47361A279DAC98",
+   "sender": "נועם",
+   "text": "אותו אמצעי תשלום רק אימייל אחר",
+   "ts": 1794926440000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
+  },
+  {
+   "id": "3EB036521827D315BFB0F8",
+   "sender": "נועם",
+   "text": "עשיתי את זה עשרות פעמים",
+   "ts": 1794926443000,
+   "date": "2026-11-17",
+   "time": "16:40",
+   "files": [],
+   "drive": null,
+   "phone": "972534663621"
   }
  ]
 }

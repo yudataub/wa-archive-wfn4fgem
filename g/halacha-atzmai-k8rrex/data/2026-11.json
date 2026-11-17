@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-16T21:46:07.704Z",
+ "updated": "2026-11-17T20:49:00.110Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -1449,6 +1449,314 @@
    ],
    "drive": null,
    "phone": "972523791306"
+  },
+  {
+   "id": "ACCA010F700922900ED3BA741D2FB0AA",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "לא עובד לי",
+   "ts": 1794890728000,
+   "date": "2026-11-17",
+   "time": "06:45",
+   "files": [],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC484EA5CD5303E7E67AE62C63DE737C",
+   "sender": "אלקנה שטראוס",
+   "text": "זה הקישור הישיר\nhttps://google.com/file/d/1uhumYbzWBg__8LaSNZ2D27k5NzlwUh3t/view?usp=sharing",
+   "ts": 1794894171000,
+   "date": "2026-11-17",
+   "time": "07:42",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC0A26A55CA05DFC818523F320BC19AC",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794896128000,
+   "date": "2026-11-17",
+   "time": "08:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "36KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC0A26A55CA05DFC818523F320BC19AC_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC08AB34BCE9385466887FE52BC4A277",
+   "sender": "ראובן יעקובוב",
+   "text": "הסרטון לא פועל אם אפשר לתקן תודה רבה",
+   "ts": 1794897856000,
+   "date": "2026-11-17",
+   "time": "08:44",
+   "files": [],
+   "drive": null,
+   "phone": "972587891416"
+  },
+  {
+   "id": "AC8894E761DC673990EA817E1E109DA9",
+   "sender": "אלקנה שטראוס",
+   "text": "איך עכשיו?\n\nhttps://drive.google.com/file/d/1uhumYbzWBg__8LaSNZ2D27k5NzlwUh3t/view?usp=drivesdk",
+   "ts": 1794898563000,
+   "date": "2026-11-17",
+   "time": "08:56",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0A888B85F93CB42F655",
+   "sender": "אלקנה שטראוס",
+   "text": "@all ב\"ה התקלה תוקנה\nתזדרזו לצפות לפי שהסיטרא אחרא יתלבש על הקישור שוב😅",
+   "ts": 1794899066000,
+   "date": "2026-11-17",
+   "time": "09:04",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC04C2CEECBF5BDE0FA7DAB751541447",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "תודה רבה\nעובד",
+   "ts": 1794902277000,
+   "date": "2026-11-17",
+   "time": "09:57",
+   "files": [],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC634927985D5985F6C42B9CFCBD8B59",
+   "sender": "יגאל אלימלך",
+   "text": "אני לצערי לא מצליח להגיע להשתלמות .\nבחופשת חנוכה אשלים פערים בעז'ה.",
+   "ts": 1794909342000,
+   "date": "2026-11-17",
+   "time": "11:55",
+   "files": [],
+   "drive": null,
+   "phone": "972546909056"
+  },
+  {
+   "id": "AC041B9CF023F0CA77E3030B8E52F393",
+   "sender": "איילת",
+   "text": "כנ\"ל😬",
+   "ts": 1794909388000,
+   "date": "2026-11-17",
+   "time": "11:56",
+   "files": [],
+   "drive": null,
+   "phone": "972508228422"
+  },
+  {
+   "id": "ACD09A05B19CCE7385C526E9AED4BCFE",
+   "sender": "רננה אזולאי",
+   "text": "איפה הפרסום על השתלמות בחנוכה?",
+   "ts": 1794909894000,
+   "date": "2026-11-17",
+   "time": "12:04",
+   "files": [],
+   "drive": null,
+   "phone": "972526637266"
+  },
+  {
+   "id": "AC4CC8ECEFB32D4936A49F5E977B49C0",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "משחקים רביעיות הלכות חנוכה",
+   "ts": 1794912102000,
+   "date": "2026-11-17",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/156L9Ise0QHO-sC8yPOR-e80kEBXv3O67/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=156L9Ise0QHO-sC8yPOR-e80kEBXv3O67&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC6E349B99BE761B3EE96A7F7B8C610F",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794912120000,
+   "date": "2026-11-17",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "141KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ApOjFAXumkhi9V5pTZ9DmwB2aBNCLetf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ApOjFAXumkhi9V5pTZ9DmwB2aBNCLetf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC3DA89D81FB19F7269391821C8B91B5",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794912137000,
+   "date": "2026-11-17",
+   "time": "12:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC3DA89D81FB19F7269391821C8B91B5_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC3C96D994DD5EC8890F2E2F88625547",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794912246000,
+   "date": "2026-11-17",
+   "time": "12:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1xA4p7TQOCKfzsfuZoeKBUWOCJ6zpzNY1/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1xA4p7TQOCKfzsfuZoeKBUWOCJ6zpzNY1&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC6ECFC31593EDEED1C10D6FDC5AD5D9",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794912260000,
+   "date": "2026-11-17",
+   "time": "12:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "170KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kPh45R2-DGxiWJdExf7tlp9FEepwdJEE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kPh45R2-DGxiWJdExf7tlp9FEepwdJEE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC2AC444527B69265C999D39B342458B",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794912311000,
+   "date": "2026-11-17",
+   "time": "12:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "87KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC2AC444527B69265C999D39B342458B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "ACA51BFBAB9A51839959F6E4009C9E87",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "",
+   "ts": 1794912326000,
+   "date": "2026-11-17",
+   "time": "12:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACA51BFBAB9A51839959F6E4009C9E87_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC9EB7D5C431167CE148DB894912EDC3",
+   "sender": "אביעד מאיר קרבלו",
+   "text": "מי שרוצה העלתי בפדלט של כיתה ה בשמחה",
+   "ts": 1794912548000,
+   "date": "2026-11-17",
+   "time": "12:49",
+   "files": [],
+   "drive": null,
+   "phone": "972549701213"
+  },
+  {
+   "id": "AC1BD28CC401DBE3AECF5F848A1F1D32",
+   "sender": "יעל אילן",
+   "text": "",
+   "ts": 1794944046000,
+   "date": "2026-11-17",
+   "time": "21:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "278KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W_zqatbJpFzTHjsa1jLghZbgfpfVqkOl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W_zqatbJpFzTHjsa1jLghZbgfpfVqkOl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526661583"
+  },
+  {
+   "id": "ACBA3D65C37DEBD0DD29DCF96B90FBA6",
+   "sender": "יעל אילן",
+   "text": "הכנתי כסיכום ללימוד  נושא השבת",
+   "ts": 1794944046000,
+   "date": "2026-11-17",
+   "time": "21:34",
+   "files": [],
+   "drive": null,
+   "phone": "972526661583"
+  },
+  {
+   "id": "AC8E3DA9C92C9F1872CB1FFCD5A9E4F2",
+   "sender": "זמרתיה כהן",
+   "text": "מהמם",
+   "ts": 1794948534000,
+   "date": "2026-11-17",
+   "time": "22:48",
+   "files": [],
+   "drive": null,
+   "phone": "972542536213"
   }
  ]
 }

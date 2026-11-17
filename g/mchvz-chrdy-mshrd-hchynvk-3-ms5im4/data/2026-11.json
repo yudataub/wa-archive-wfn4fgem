@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מחוז חרדי משרד החינוך (3)",
- "updated": "2026-11-16T20:46:37.212Z",
+ "updated": "2026-11-17T06:27:27.795Z",
  "messages": [
   {
    "id": "A565327EF9E9CA45F728982C52BCE69B",
@@ -379,6 +379,27 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1HPobFfUlegHS-_CcqZtRJxhu6hER4d64/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
+  },
+  {
+   "id": "A5A500A6E1E0D80A0FA4387FE7DA62B6",
+   "sender": "שחר שאער",
+   "text": "​מצוינות חינוכית מבאר שבע ועד קריית שמונה 🎓\n\n​ועדת פרס החינוך של המחוז החרדי התכנסה היום למיון ההמלצות שהוגשו לפרס החינוך המחוזי.\n\n​הפרסים יוענקו בשלוש קטגוריות:\n​מוסדות חינוך מובילים\n​מנהלים פורצי דרך\n​אנשי חינוך מצטיינים\n\n​מתוך הזוכים המחוזיים ייבחרו בהמשך המועמדים לפרס החינוך הארצי. \n\nראוי לציין כי עבודת הוועדה מתפרסת על פני כל הארץ, לאור הגשות והמלצות שהתקבלו ממוסדות חינוך מקריית שמונה ועד באר שבע.\n\n​בהצלחה לכל המועמדים!\n\n​הישארו מעודכנים:\n\n💌 לקבוצת המידע של המחוז החרדי:\n\n📣 לערוץ המידע בוואטסאפ: https://whatsapp.com/channel/0029Vb5SPHjHFxP1Kkniuw3U\n\n📧 לעמוד הפייסבוק של המחוז החרדי: https://www.facebook.com/profile.php?id=100087224925404",
+   "ts": 1794896827000,
+   "date": "2026-11-17",
+   "time": "08:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "4.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CnKl98YzRdrOTqNDbTPYEfTSbyE7iFxq/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5A500A6E1E0D80A0FA4387FE7DA62B6_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1CnKl98YzRdrOTqNDbTPYEfTSbyE7iFxq&sz=w1200"
     }
    ],
    "drive": null,

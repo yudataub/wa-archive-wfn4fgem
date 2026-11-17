@@ -1,0 +1,49 @@
+{
+ "month": "2026-11",
+ "group": "בינה מלאכותית לצוותי הוראה",
+ "updated": "2026-11-17T17:07:52.151Z",
+ "messages": [
+  {
+   "id": "AC37A47B7CB976A743B8BA1B83A7CB33",
+   "sender": "אליהו טרבלסי",
+   "text": "🧠 כמה פעמים כבר הסברתם לבינה המלאכותית מי התלמידים בכיתה שלכם?\n\n\"יש לי שלוש רמות בכיתה...\"\n\"אני צריך הוראות קצרות...\"\n\"אל תעשה לי משהו מסובך...\"\n\"ותזכור שיש לי רק 45 דקות לשיעור!\"\n\nואחרי כמה ימים? שוב מתחילים להסביר הכול מחדש. 😅\n\n💡 אז הגיע הזמן להכין לעצמכם עוזרת הוראה קבועה!\n\nב־Gemini יש אפשרות שנקראת Skills.\n\nהרעיון פשוט: מלמדים את ה־AI פעם אחת איך אתם אוהבים לעבוד ומה מאפיין את הכיתה שלכם.\n\nובפעם הבאה, במקום להסביר הכול מחדש, מבקשים:\n\n\"התאימי את דף העבודה הזה לכיתה שלי.\"\n\nוזהו!\n\n🎯 מה אפשר לבקש מהעוזרת האישית שלכם?\n\n✅ להתאים דף קריאה לרמות שונות.\n\n✅ להכין פתיחה מעניינת לשיעור.\n\n✅ לפשט הוראות בלי להוריד את הרמה הלימודית.\n\n✅ להוסיף אתגר לתלמידים מתקדמים.\n\n✅ להכין כרטיס יציאה שבודק מה באמת הבינו.\n\nהדגש הוא לא על עוד כלי שצריך ללמוד, אלא על פחות עבודה למורה!\n\n📋 הנה פרומפט מוכן ליצירת ה־Skill:\n\nהפרומפט באנגלית כדי להתאים לתמיכה הנוכחית של Gemini Skills, אבל התוצרים יהיו בעברית.\n\n\"Create a reusable skill named 'My Teaching Assistant'.\n\nMy classroom profile:\n\n- Subject and grade: [fill in]\n- Learning levels: [fill in]\n- Teaching and support languages: [fill in]\n- Common learning challenges: [fill in]\n- Lesson duration: [fill in]\n\nWhenever I provide a topic, text, or existing worksheet:\n\n1. Adapt it to my classroom profile.\n2. Create only what I request, without adding unnecessary materials.\n3. Ask one short clarification question only when essential.\n4. Preserve the original learning objective.\n5. When differentiated levels are requested, offer suitable support and meaningful challenges.\n6. Use short, clear instructions appropriate for my students.\n7. When I attach source material, preserve its facts and do not invent information.\n8. Include a separate teacher answer key when relevant.\n9. For exit tickets, suggest what I should reteach based on likely student responses.\n10. Write all final teaching materials in clear Hebrew, with right-to-left formatting.\n\nNever include or request personally identifying student information.\"\n\n🚀 איך מתחילים?\n\n1️⃣ נכנסים ל־https://gemini.google.com\n\n2️⃣ פותחים Customize בתפריט הצד ובוחרים Skills.\n\n3️⃣ יוצרים Skill חדש ומדביקים את ההוראות, אחרי שממלאים את פרטי הכיתה.\n\n4️⃣ שומרים ומפעילים את ה־Skill.\n\n5️⃣ חוזרים לשיחה ומבקשים ממנו להכין חומר לכיתה.\n\nורוצים לבדוק שזה באמת עובד?\n\nצרפו דף קריאה שכבר יש לכם וכתבו:\n\n\"התאימי את הדף לכיתה שלי. הוסיפי מילון קצר בערבית, שאלת הבנה שמחייבת הוכחה מהטקסט וכרטיס יציאה של שתי דקות.\"\n\n💛 אני אוהב את הרעיון הזה במיוחד.\n\nכי מורה לא צריך להתאים את עצמו בכל פעם מחדש לטכנולוגיה.\n\nהטכנולוגיה צריכה להתאים את עצמה לדרך שבה המורה מלמד.\n\nורק בקשה קטנה: בפרופיל הכיתה כתבו מאפיינים כלליים בלבד, בלי שמות תלמידים או מידע אישי ורגיש.\n\nיותר זמן להיות מורים. פחות זמן על הכנות.\n\n---\n\n📲 שתפו את הקהילה בקבוצת צוות ההוראה שלכם.\n\n👩‍🏫 שלחו את הקישור לחבר או לחברה שמלמדים.\n\n💬 העלו לסטטוס או שתפו בקבוצות מורים.\n\n🔗 זה הקישור להצטרפות ולשיתוף:\n\nשיתוף קטן שלכם יכול לחסוך שעות עבודה למורה אחר! ❤️\n\nכי המטרה שלנו פשוטה:\nפחות עומס על המורים. יותר זמן למה שחשוב באמת.\n\n🐾 AI MASTER CLASS",
+   "ts": 1794935020000,
+   "date": "2026-11-17",
+   "time": "19:03",
+   "files": [],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "ACA6AE8509BB80034DA7D590FF52F4FC",
+   "sender": "אליהו טרבלסי",
+   "text": "",
+   "ts": 1794935022000,
+   "date": "2026-11-17",
+   "time": "19:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DKGVT7_W5h9CywjE7GjnKaYs3OvUBKP-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DKGVT7_W5h9CywjE7GjnKaYs3OvUBKP-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "ACC414237FCACA9C2F70848D52112280",
+   "sender": "אליהו טרבלסי",
+   "text": "*אני יודע שהיום זה למתקדמים.. לא להיבהל* לאט לאט, סומך עליכם 💪🙂",
+   "ts": 1794935250000,
+   "date": "2026-11-17",
+   "time": "19:07",
+   "files": [],
+   "drive": null,
+   "phone": "972544518399"
+  }
+ ]
+}
