@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-16T20:54:59.981Z",
+ "updated": "2026-11-17T00:51:03.386Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2144,6 +2144,46 @@
    "files": [],
    "drive": null,
    "phone": "972533757772"
+  },
+  {
+   "id": "ACCE0F48D580E255E958C959DADB9F34",
+   "sender": "שמואל שער",
+   "text": "מחיר מיוחד דקה ה-90!",
+   "ts": 1794873851000,
+   "date": "2026-11-17",
+   "time": "02:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "174KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rEfHaRF-mLBsGpu2tXZ552bpoytSPJ63/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rEfHaRF-mLBsGpu2tXZ552bpoytSPJ63&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548519071"
+  },
+  {
+   "id": "ACC4630D48A41BF81408DA51FAAAF307",
+   "sender": "שמואל שער",
+   "text": "",
+   "ts": 1794876658000,
+   "date": "2026-11-17",
+   "time": "02:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "301KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ezca3XSziEW-BGHs2Uo-_AcWHh6YOKTe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ezca3XSziEW-BGHs2Uo-_AcWHh6YOKTe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548519071"
   }
  ]
 }
