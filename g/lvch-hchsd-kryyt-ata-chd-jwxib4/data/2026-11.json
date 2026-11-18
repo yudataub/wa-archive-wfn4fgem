@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-18T20:54:09.827Z",
+ "updated": "2026-11-18T21:49:16.289Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -9992,7 +9992,8 @@
      "path": "https://drive.google.com/file/d/1hTEEx7665Dn0FOODAQM5MLjb0R0SZSc2/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACF00B7894C795E2BFE886DFE74BBE4A_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1hTEEx7665Dn0FOODAQM5MLjb0R0SZSc2&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1hTEEx7665Dn0FOODAQM5MLjb0R0SZSc2&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/ACF00B7894C795E2BFE886DFE74BBE4A_0.mp4"
     }
    ],
    "drive": null,
@@ -10228,7 +10229,8 @@
      "path": "https://drive.google.com/file/d/1uMUQkPkBcrM4Mw_lb_QXLSfdcXmtAcBy/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2AEB337A6A6489380F5F_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1uMUQkPkBcrM4Mw_lb_QXLSfdcXmtAcBy&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1uMUQkPkBcrM4Mw_lb_QXLSfdcXmtAcBy&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/2AEB337A6A6489380F5F_0.mp4"
     }
    ],
    "drive": null,
@@ -10428,7 +10430,8 @@
      "path": "https://drive.google.com/file/d/18gfq7X5Y1AgQvF4UKFoTm6RXzHKiQg4Z/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC52D8D548DE0DBC988CB431217C4902_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=18gfq7X5Y1AgQvF4UKFoTm6RXzHKiQg4Z&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=18gfq7X5Y1AgQvF4UKFoTm6RXzHKiQg4Z&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/AC52D8D548DE0DBC988CB431217C4902_0.mp4"
     }
    ],
    "drive": null,
@@ -10788,6 +10791,27 @@
    ],
    "drive": null,
    "phone": "972503207070"
+  },
+  {
+   "id": "AC7A69F706FD71FA2D6C4F2AE2F25FBF",
+   "sender": "Amichay25@gmail.com",
+   "text": "",
+   "ts": 1795038540000,
+   "date": "2026-11-18",
+   "time": "23:49",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.5MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1bCsNl_njyK0R9kuwh9aCzXDNmq8S_E3T/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC7A69F706FD71FA2D6C4F2AE2F25FBF_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1bCsNl_njyK0R9kuwh9aCzXDNmq8S_E3T&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525838315"
   }
  ]
 }

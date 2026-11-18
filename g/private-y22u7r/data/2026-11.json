@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-18T19:30:45.614Z",
+ "updated": "2026-11-18T22:29:57.420Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -19005,6 +19005,47 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB097983F7BE750314F21",
+   "sender": "MM",
+   "text": "",
+   "ts": 1795040561000,
+   "date": "2026-11-19",
+   "time": "00:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "71KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB097983F7BE750314F21_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "MM",
+   "phone": "13472519949"
+  },
+  {
+   "id": "3EB0966FD1F3F12EDC0E4D",
+   "sender": "MM",
+   "text": "זה לא עובד ב184 מקורות?",
+   "ts": 1795040905000,
+   "date": "2026-11-19",
+   "time": "00:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-cKxfrwMN3bLagn_Ors5j-U_3750AfaT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-cKxfrwMN3bLagn_Ors5j-U_3750AfaT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "MM",
+   "phone": "13472519949"
   }
  ]
 }

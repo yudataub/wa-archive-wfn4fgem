@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-18T20:16:36.668Z",
+ "updated": "2026-11-18T21:33:16.067Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -6730,7 +6730,8 @@
      "path": "https://drive.google.com/file/d/1vJv8WXHX-31M7PZd-PDKH2JFWUyAldNB/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACB672C59001DB8CFF225DA238C08479_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1vJv8WXHX-31M7PZd-PDKH2JFWUyAldNB&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1vJv8WXHX-31M7PZd-PDKH2JFWUyAldNB&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-11/ACB672C59001DB8CFF225DA238C08479_0.mp4"
     }
    ],
    "drive": null,
@@ -6830,6 +6831,28 @@
    "files": [],
    "drive": null,
    "phone": "972545465996"
+  },
+  {
+   "id": "AC464D9F9AB3942992B628403E720A1D",
+   "sender": "Natti",
+   "text": "אפשר מספר של יוסי בקר בבקשה",
+   "ts": 1795037007000,
+   "date": "2026-11-18",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "phone": "972545286509"
+  },
+  {
+   "id": "AC73E6E29348A6DF5519B0E62FC5B6C3",
+   "sender": "מיכאל כהן",
+   "text": "📇 יוסי בקר\n+972 52-762-5951",
+   "ts": 1795037569000,
+   "date": "2026-11-18",
+   "time": "23:32",
+   "files": [],
+   "drive": null,
+   "phone": "972584043064"
   }
  ]
 }

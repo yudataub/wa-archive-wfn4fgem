@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-18T20:54:09.839Z",
+ "updated": "2026-11-18T21:50:16.322Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -17064,7 +17064,8 @@
      "path": "https://drive.google.com/file/d/1kKpnnJWz_v55r4qoakFInB9v0dNIwO4M/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACFDE3ACDCC219F68B4B9EE5410ABC1E_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1kKpnnJWz_v55r4qoakFInB9v0dNIwO4M&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1kKpnnJWz_v55r4qoakFInB9v0dNIwO4M&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/ACFDE3ACDCC219F68B4B9EE5410ABC1E_0.mp4"
     }
    ],
    "drive": null,
@@ -17307,7 +17308,8 @@
      "path": "https://drive.google.com/file/d/1JdYOb9TaXqTps_NBlNG65_eEnY1YuImM/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACC4DB5C692FDA5686D8C14116BC1568_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1JdYOb9TaXqTps_NBlNG65_eEnY1YuImM&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1JdYOb9TaXqTps_NBlNG65_eEnY1YuImM&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/ACC4DB5C692FDA5686D8C14116BC1568_0.mp4"
     }
    ],
    "drive": null,
@@ -17348,7 +17350,8 @@
      "path": "https://drive.google.com/file/d/1YObGr502A0Ub11Ez2_pvOGBKoBnHBj7k/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A546E500593E5A058133397A0537B3B1_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1YObGr502A0Ub11Ez2_pvOGBKoBnHBj7k&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1YObGr502A0Ub11Ez2_pvOGBKoBnHBj7k&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/A546E500593E5A058133397A0537B3B1_0.mp4"
     }
    ],
    "drive": null,
@@ -17555,6 +17558,26 @@
    ],
    "drive": null,
    "phone": "972503207070"
+  },
+  {
+   "id": "ACE8486885DEBE1531C87D3D2EE7650D",
+   "sender": "א. בויאר",
+   "text": "",
+   "ts": 1795038602000,
+   "date": "2026-11-18",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "220KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1up0VQRyTR6U32ikcbzsjB_ra_W1mwLaI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1up0VQRyTR6U32ikcbzsjB_ra_W1mwLaI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972552779034"
   }
  ]
 }

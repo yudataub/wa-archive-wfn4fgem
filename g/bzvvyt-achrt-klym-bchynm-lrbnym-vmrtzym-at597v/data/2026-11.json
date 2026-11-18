@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בזווית אחרת | כלים בחינם לרבנים ומרצים",
- "updated": "2026-11-18T20:43:39.628Z",
+ "updated": "2026-11-18T22:52:33.885Z",
  "messages": [
   {
    "id": "ACB628112DA3E9D3FDA8C83F957C61CF",
@@ -16947,7 +16947,8 @@
      "path": "https://drive.google.com/file/d/1m4xaYmsYBD9SGU5T2A5_LkZfnlDQio-n/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3AF0764110D4E7426AC7_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1m4xaYmsYBD9SGU5T2A5_LkZfnlDQio-n&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1m4xaYmsYBD9SGU5T2A5_LkZfnlDQio-n&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v-2/v/2026-11/3AF0764110D4E7426AC7_0.mp4"
     }
    ],
    "drive": null,
@@ -17032,7 +17033,8 @@
      "path": "https://drive.google.com/file/d/1pADIsLhwbbrEiccwF2kmX8foaZhXQhd_/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC8A41A473875BE13753DBC9AA09332A_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1pADIsLhwbbrEiccwF2kmX8foaZhXQhd_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1pADIsLhwbbrEiccwF2kmX8foaZhXQhd_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v-2/v/2026-11/AC8A41A473875BE13753DBC9AA09332A_0.mp4"
     }
    ],
    "drive": null,
@@ -17130,7 +17132,8 @@
      "path": "https://drive.google.com/file/d/1rgQKP8I68qQf7ojDvXd2eiVBi-FLi0FS/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB079813FF79FE1ED2DCE_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1rgQKP8I68qQf7ojDvXd2eiVBi-FLi0FS&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1rgQKP8I68qQf7ojDvXd2eiVBi-FLi0FS&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-bzvvyt-achrt-klym-bchynm-lrbnym-vmrtzym-at597v-2/v/2026-11/3EB079813FF79FE1ED2DCE_0.mp4"
     }
    ],
    "drive": null,
@@ -17567,6 +17570,102 @@
    "files": [],
    "drive": null,
    "phone": "972527188781"
+  },
+  {
+   "id": "3EB0B56B4F939AE9EE3F6D",
+   "sender": "Shay Swisa",
+   "text": "אחרי יצוא לסרטון MP4 יש כתוביות שלא נראות בעריכה. איך אפשר להסיר?\nזה חוזר לי כבר במספר סרטונים גם לאחר מחיקת CACHE או סרטונים קודמים",
+   "ts": 1795036731000,
+   "date": "2026-11-18",
+   "time": "23:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "88KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB0B56B4F939AE9EE3F6D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502050521"
+  },
+  {
+   "id": "3EB079FC43C41E77A1A049",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "כדי להסיר כתוביות שנשארו בקובץ המיוצא, חוזרים לשלב הייצוא של השורטים. \n\nבחלון הייצוא, תחת ההגדרה של הכתוביות, בוחרים באפשרות \"בלי (לעריכה בתוכנה אחרת)\" ומייצאים מחדש. הכתוביות הצרובות ירדו מהסרטון.\n\n📖 במדריך: https://shorts.adifferentangle.ai/guide/#exp-run\n\n💡 אפשר לשאול אותי גם בתוך כל כלי, וזה מהיר יותר: לוחצים על הלשונית הצהובה *אורן* בצד ימין של המסך, ואפשר לצרף שם צילום מסך.",
+   "ts": 1795036737000,
+   "date": "2026-11-18",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "3EB077D288AFFEE372D068",
+   "sender": "Shay Swisa",
+   "text": "ממש מוזר\nעשיתי יצוא נוסף והכתוביות לא הופיעו שנית\nאותן הכתוביות כבר הופיעו לי משיעור ישן יותר איזה 3 סרטונים כבר",
+   "ts": 1795037592000,
+   "date": "2026-11-18",
+   "time": "23:33",
+   "files": [],
+   "drive": null,
+   "phone": "972502050521"
+  },
+  {
+   "id": "3EB00EADED52A225C04946",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "לפעמים נשאר זיכרון מטמון ישן בדפדפן או שהקובץ הקודם נשאר עם אותו השם בדיוק. \n\nכדי לוודא שהקובץ החדש יורד נקי ושזה לא קובץ ישן מההורדות:\n1. מומלץ למחוק את הקבצים הישנים מתיקיית ההורדות או לוודא שפותחים את הקובץ החדש שירד עכשיו.\n2. אם זה ממשיך, כדאי לרענן את הדף (F5) לפני הייצוא הבא כדי שהמערכת תטען את ההגדרות המעודכנות.\n\n📖 במדריך: https://shorts.adifferentangle.ai/guide/#exp-run",
+   "ts": 1795037600000,
+   "date": "2026-11-18",
+   "time": "23:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "AC42D1899DF3433D1E27359FB23DB0DD",
+   "sender": ".",
+   "text": "איך מסדרים את הסירטון לאורך לשורט?\nלא מצליחה",
+   "ts": 1795041402000,
+   "date": "2026-11-19",
+   "time": "00:36",
+   "files": [],
+   "drive": null,
+   "phone": "972503611268"
+  },
+  {
+   "id": "3EB0C622DEE2D75E32F76A",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "הדרך הפשוטה ביותר להפוך שיעור ארוך לשורטים לאורך היא להיעזר בכלי הייעודי. מעלים את ההקלטה ל*שיעור לשורטים*, והמערכת כבר חותכת לבד את הקטעים הטובים ביותר, מוסיפה כתוביות ומסדרת את התמונה לאורך. \n\nכדי לסדר את התמונה והמסגור של הרב:\n1. ב*שיעור לשורטים* לוחצים על התמונה או על הכותרת של השורט כדי לפתוח את העריכה של הקטע.\n2. עוברים לחלון העיצוב, תחת \"מסגור\", ובוחרים *🙂 עוקב אחרי הרב*, כך שהמסגרת תישאר ממוקדת על הפנים לאורך כל השורט.\n3. אם מעדיפים שהתמונה תישאר יציבה בלי קפיצות של התקרבות והתרחקות, מוודאים ש*זום דינמי* בחלק \"אפקטים\" כבוי.\n\n📖 במדריך: https://shorts.adifferentangle.ai/guide/#design-main\n\n💡 אפשר לשאול אותי גם בתוך כל כלי, וזה מהיר יותר: לוחצים על הלשונית הצהובה *אורן* בצד ימין של המסך, ואפשר לצרף שם צילום מסך.",
+   "ts": 1795041410000,
+   "date": "2026-11-19",
+   "time": "00:36",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
+  },
+  {
+   "id": "ACA993DF2BE602AB10DB91C8324F7AC4",
+   "sender": ".",
+   "text": "לא מצליחה",
+   "ts": 1795042348000,
+   "date": "2026-11-19",
+   "time": "00:52",
+   "files": [],
+   "drive": null,
+   "phone": "972503611268"
+  },
+  {
+   "id": "3EB0B9338594044EDC82B2",
+   "sender": "אורן · מזכיר בזווית אחרת",
+   "text": "כדי שאוכל לעזור לך בדיוק, אשמח לדעת באיזה שלב זה נעצר או מה בדיוק מופיע על המסך. האם מדובר בהעלאת הקובץ, בחיתוך, או בשלב הייצוא? \n\nבאיזה מכשיר את משתמשת, טלפון או מחשב?\n\n📖 במדריך: https://shorts.adifferentangle.ai/guide/",
+   "ts": 1795042351000,
+   "date": "2026-11-19",
+   "time": "00:52",
+   "files": [],
+   "drive": null,
+   "phone": "972527190180"
   }
  ]
 }
