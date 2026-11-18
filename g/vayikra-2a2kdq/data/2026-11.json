@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-11-17T15:42:09.100Z",
+ "updated": "2026-11-18T20:58:09.895Z",
  "messages": [
   {
    "id": "ACA158C915E6F8E25F841C558234F4D2",
@@ -6434,6 +6434,258 @@
    "files": [],
    "drive": null,
    "phone": "972508555461"
+  },
+  {
+   "id": "ACA5C3988F4CBCF99905BFB893D6F4B3",
+   "sender": "0545772303",
+   "text": "היי \nתלמיד שאל אותי על קרבן חטאת \nהאם כשיהיה בית המקדש הקורבן יהיה גם על איסור לא תעשה של דרבנן? או רק מצוות דאורייתא?",
+   "ts": 1794986643000,
+   "date": "2026-11-18",
+   "time": "09:24",
+   "files": [],
+   "drive": null,
+   "phone": "972545772303"
+  },
+  {
+   "id": "AC76CA623B23468573211E88E8F83485",
+   "sender": "רחלי מנדלסון",
+   "text": "לא יהיה יצר הרע בכלל אז לכאורה לא יהיה קרבן חטאת...",
+   "ts": 1794986721000,
+   "date": "2026-11-18",
+   "time": "09:25",
+   "files": [],
+   "drive": null,
+   "phone": "972584960699"
+  },
+  {
+   "id": "ACD48464E2D9A8E1D4FFAF7E56D832D7",
+   "sender": "ישראל יוקל",
+   "text": "דאורייתא בלבד\nרק לאו הענוש כרת",
+   "ts": 1794988448000,
+   "date": "2026-11-18",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972542261101"
+  },
+  {
+   "id": "AC788A0A05154D7EFE7E6A61FCEF6390",
+   "sender": "חנה שרה קיי",
+   "text": "אולי על חטאים שנעשו בגלות 😉",
+   "ts": 1795005045000,
+   "date": "2026-11-18",
+   "time": "14:30",
+   "files": [],
+   "drive": null,
+   "phone": "972552422630"
+  },
+  {
+   "id": "ACCB12988B39052950FBD0E335107E09",
+   "sender": "שרה אמיתי",
+   "text": "אשמח למבחן בנביא.\nמפרק ג-ח מאוד עד גדעון.\nבערך",
+   "ts": 1795010368000,
+   "date": "2026-11-18",
+   "time": "15:59",
+   "files": [],
+   "drive": null,
+   "phone": "972505432177"
+  },
+  {
+   "id": "3AA8CB661CF0C314BE6A",
+   "sender": "גאולה לוי",
+   "text": "אשמח למחוון \nתשובות וניקוד למבדק ויקרא של החמד",
+   "ts": 1795010412000,
+   "date": "2026-11-18",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972507703136"
+  },
+  {
+   "id": "AC850FA27F5CC25EA356AE1C8686A3C2",
+   "sender": "איילה",
+   "text": "",
+   "ts": 1795010507000,
+   "date": "2026-11-18",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "vaikra_mehvan_corrected.pdf",
+     "size": "407KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RJw6x80Am2e4ZtdYBE-ZLUpaMLeb0mfx/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527279066"
+  },
+  {
+   "id": "AC89551A0306E0C25BA22A3D11D3BDCB",
+   "sender": "איילה",
+   "text": "מיחוון מתוקן",
+   "ts": 1795010510000,
+   "date": "2026-11-18",
+   "time": "16:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527279066"
+  },
+  {
+   "id": "3A2DAD97684E8FB3E0F8",
+   "sender": "גאולה לוי",
+   "text": "איילה יקרה, רוב תודות וברכות 🩷",
+   "ts": 1795010535000,
+   "date": "2026-11-18",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "phone": "972507703136"
+  },
+  {
+   "id": "AC37FAF847F56CA178B4F9C74BB8380B",
+   "sender": "רחל הסל",
+   "text": "יש למישהו פה דף חזרה למבחן המחוזי שהיה בסוף השנה שעברה על ויקרא י\"ט - כ\"ג?",
+   "ts": 1795010984000,
+   "date": "2026-11-18",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972547888630"
+  },
+  {
+   "id": "AC029B0215F80C2DEDF80DEB45459535",
+   "sender": "שרה אמיתי",
+   "text": "ספר שופטים כמובן",
+   "ts": 1795014748000,
+   "date": "2026-11-18",
+   "time": "17:12",
+   "files": [],
+   "drive": null,
+   "phone": "972505432177"
+  },
+  {
+   "id": "AC4421A837EF685FFB6E947D6EB2E68F",
+   "sender": "יהודה ליפשיץ",
+   "text": "לאיזו כיתה? ד?",
+   "ts": 1795015018000,
+   "date": "2026-11-18",
+   "time": "17:16",
+   "files": [],
+   "drive": null,
+   "phone": "972545533941"
+  },
+  {
+   "id": "AC80937BC41EDFA57CBBDE4D085FD10F",
+   "sender": "שרה אמיתי",
+   "text": "כן",
+   "ts": 1795015070000,
+   "date": "2026-11-18",
+   "time": "17:17",
+   "files": [],
+   "drive": null,
+   "phone": "972505432177"
+  },
+  {
+   "id": "AC881E86D1A54E7D77B8647149507CF7",
+   "sender": "0545772303",
+   "text": "היי\nאפשר לצרף פה חברת צוות?",
+   "ts": 1795015300000,
+   "date": "2026-11-18",
+   "time": "17:21",
+   "files": [],
+   "drive": null,
+   "phone": "972545772303"
+  },
+  {
+   "id": "AC3CC8D28D2B354F41414174A931A269",
+   "sender": "0545772303",
+   "text": "📇 אילה גמליאל\n+972583216101",
+   "ts": 1795015303000,
+   "date": "2026-11-18",
+   "time": "17:21",
+   "files": [],
+   "drive": null,
+   "phone": "972545772303"
+  },
+  {
+   "id": "3EB069A1D1B44C23DFFC7C",
+   "sender": "esterzomrati",
+   "text": "דך חזרה ומבדק פרקים א-ד שופטים",
+   "ts": 1795026026000,
+   "date": "2026-11-18",
+   "time": "20:20",
+   "files": [
+    {
+     "name": "חזרה בנביא.pdf",
+     "size": "169KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jfn-d8_0YgwMGf8E2Q3Q4sGzvaieETb3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502182888"
+  },
+  {
+   "id": "3EB08D1F649EA1F137FFE3",
+   "sender": "esterzomrati",
+   "text": "",
+   "ts": 1795026027000,
+   "date": "2026-11-18",
+   "time": "20:20",
+   "files": [
+    {
+     "name": "מִבְחָן בְּנָבִיא – סֵפֶר שׁוֹפְטִים פְּרָקִים א'–ד'.pdf",
+     "size": "99KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1iFExGh2dXrRFBJsIuXRmVSjSBv2V9Y4a/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502182888"
+  },
+  {
+   "id": "ACD259C19AB74BB4E12571ACF1193F79",
+   "sender": "הדר",
+   "text": "מקסים.\nאשמח אם יש דף חזרה ומבחן\nלפרקים ה-ז",
+   "ts": 1795026460000,
+   "date": "2026-11-18",
+   "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972522218028"
+  },
+  {
+   "id": "AC1CE68E2E8E966158BBC0557935A44F",
+   "sender": "חיה גרברצ'יק",
+   "text": "אשמח מאוד מאוד למבחן בתורה על פרקים א-ג🙏🏻🙏🏻",
+   "ts": 1795034854000,
+   "date": "2026-11-18",
+   "time": "22:47",
+   "files": [],
+   "drive": null,
+   "phone": "972508216770"
+  },
+  {
+   "id": "3A00920B244252A274EA",
+   "sender": "Oriya Goldi",
+   "text": "",
+   "ts": 1795035477000,
+   "date": "2026-11-18",
+   "time": "22:57",
+   "files": [
+    {
+     "name": "מבחן ויקרא א-ג פז.pdf",
+     "size": "351KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_AI4_EVn3LOiyTHHoo4dSk13oyrvQHM0/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537157739"
   }
  ]
 }

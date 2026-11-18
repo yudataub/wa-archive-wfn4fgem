@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-17T04:02:26.243Z",
+ "updated": "2026-11-18T04:14:16.016Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -785,6 +785,26 @@
      "path": "https://drive.google.com/file/d/1Xx49xJqBYz9LT5JSbmGkiO73ou1FnSno/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Xx49xJqBYz9LT5JSbmGkiO73ou1FnSno&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACB8D0220A42C2D98C1",
+   "sender": ".",
+   "text": "״לא איבעי לך למיטעי״ (בכורות סא, א).",
+   "ts": 1794975225000,
+   "date": "2026-11-18",
+   "time": "06:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tja0KoOLkTOC1beS53-NsC8njdxrhJgX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tja0KoOLkTOC1beS53-NsC8njdxrhJgX&sz=w1200"
     }
    ],
    "drive": null,

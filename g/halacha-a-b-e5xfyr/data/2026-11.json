@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-17T20:12:07.773Z",
+ "updated": "2026-11-18T18:55:15.004Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -1151,6 +1151,80 @@
    ],
    "drive": null,
    "phone": "972547426770"
+  },
+  {
+   "id": "3EB01FF2B3CAC444355F16",
+   "sender": "אלעד טאוב",
+   "text": "חדש! שיר על ברכת על הניסים עם ההלכות בתוכו בשילוב חידון בתגובות\nמוזמנים להשתמש ולשתף מי שרלוונטי\nhttps://youtu.be/q_ppNKj0Mbc",
+   "ts": 1795004184000,
+   "date": "2026-11-18",
+   "time": "14:16",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "3EB09CC8B1223EFF18EDEB",
+   "sender": "אלעד טאוב",
+   "text": "🕎 חנוכה כבר כאן בעוד שבוע - וכל החומרים לחג מחכים לכם בערוץ!\n\n🕵️ \"האור שבנו\" - סיפור חנוכה מרתק ב-8 פרקים, מושלם לנסיעות ולערב משפחתי\nhttps://www.youtube.com/playlist?list=PLv88LJwrMrPT9uZ0czAkv5IHkegw9mR36\n\n📚 הלכות חנוכה בשמחה - סדרת סרטוני הלכה קצרים, ברורים ומהנים\nhttps://www.youtube.com/playlist?list=PLv88LJwrMrPS2itY6Y1lvC4jC3P3holAv\n\n🎵 שיר \"על הניסים\" החדש - הלהיט הקצבי שכל הילדים שרים\nhttps://youtu.be/q_ppNKj0Mbc\n\n💃 חידון חנוכה בריקוד\nhttps://youtu.be/p9RgYbBSj3c\n\n🖼️ חידון מושגים בחנוכה בתמונות\nhttps://youtu.be/H71fPDjA1J8\n\nמוזמנים לצפות, להירשם ולשתף - חג אורים שמח! ✨\n\nבברכה,\nאלעד טאוב",
+   "ts": 1795004346000,
+   "date": "2026-11-18",
+   "time": "14:19",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "ACF1F6269A94D0D2B7C37D9DCB609A85",
+   "sender": "אוהד אהרון",
+   "text": "מצגת רקע היסטורי לחג החנוכה. מותאם לשכבות נמוכות",
+   "ts": 1795026406000,
+   "date": "2026-11-18",
+   "time": "20:26",
+   "files": [],
+   "drive": null,
+   "phone": "972526228186"
+  },
+  {
+   "id": "AC941578FB8308D9924E832409E7084D",
+   "sender": "אוהד אהרון",
+   "text": "",
+   "ts": 1795026411000,
+   "date": "2026-11-18",
+   "time": "20:26",
+   "files": [
+    {
+     "name": "hanukkah_background-f4decb5a.pptx",
+     "size": "3.9MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1fS0qEPZ2xL_5tSrLY62rcS2qalEwPpPm/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526228186"
+  },
+  {
+   "id": "ACD1297F8106DEA53AE73F6C5B8AC2A7",
+   "sender": "אתי",
+   "text": "לא נפתח אצלי...",
+   "ts": 1795027215000,
+   "date": "2026-11-18",
+   "time": "20:40",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC4D3950A52257B65C9837D62F4DDA05",
+   "sender": "רונה",
+   "text": "במחשב ניפתח",
+   "ts": 1795028106000,
+   "date": "2026-11-18",
+   "time": "20:55",
+   "files": [],
+   "drive": null,
+   "phone": "972546081268"
   }
  ]
 }

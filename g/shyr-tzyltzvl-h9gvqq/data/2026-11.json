@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-17T08:43:08.389Z",
+ "updated": "2026-11-18T07:51:38.315Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -1052,6 +1052,58 @@
    "files": [],
    "drive": null,
    "phone": "972535243987"
+  },
+  {
+   "id": "A5AAA09AFDE75DCF434F7111954E3A5C",
+   "sender": "זוהר אנקונינה שיווק בדיגיטל ועיצוב גרפי",
+   "text": "למי יש צלצול של המנום בני עקיבא?",
+   "ts": 1794987432000,
+   "date": "2026-11-18",
+   "time": "09:37",
+   "files": [],
+   "drive": null,
+   "phone": "972558819017"
+  },
+  {
+   "id": "AC242BBEE318001F9A99148554E48ABD",
+   "sender": "אלירן פרארי",
+   "text": "",
+   "ts": 1794987842000,
+   "date": "2026-11-18",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "phone": "972533345585"
+  },
+  {
+   "id": "3EB03B5635E19AB9BECF02",
+   "sender": "אביעד ביר",
+   "text": "אשמח תשלחו את הצילצול עם הנקודה",
+   "ts": 1794987892000,
+   "date": "2026-11-18",
+   "time": "09:44",
+   "files": [],
+   "drive": null,
+   "phone": "972539218034"
+  },
+  {
+   "id": "3EB0FF85DB4CC5C96188ED",
+   "sender": "אביעד ביר",
+   "text": "",
+   "ts": 1794988279000,
+   "date": "2026-11-18",
+   "time": "09:51",
+   "files": [
+    {
+     "name": "יד אחים המנון בני עקיבא - צילצול.mp3",
+     "size": "399KB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1kHnB4kJj_LlfKqZtcHD863kxq_zojKLl/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972539218034"
   }
  ]
 }

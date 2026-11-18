@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-11-17T07:52:38.964Z",
+ "updated": "2026-11-18T16:26:51.834Z",
  "messages": [
   {
    "id": "ACEB9B32BF16BB4C7F7855467466FB1D",
@@ -542,6 +542,68 @@
    "files": [],
    "drive": null,
    "phone": "972544518399"
+  },
+  {
+   "id": "3EB06F7D5ACAE634B53177",
+   "sender": "efraTehila😍😍",
+   "text": "למשהו יש אולי חומר / דפי לימוד על הרב נריה ?",
+   "ts": 1795016742000,
+   "date": "2026-11-18",
+   "time": "17:45",
+   "files": [],
+   "drive": null,
+   "phone": "972584470762"
+  },
+  {
+   "id": "ACF5D87995BFDC80B4ECEA27D0C0B894",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1795017358000,
+   "date": "2026-11-18",
+   "time": "17:55",
+   "files": [
+    {
+     "name": "הרב נריה - סיפורים מבנו פתחיה.docx",
+     "size": "164KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1HSbCCPEecKXqUURBH8lCJOPsKAQm50lr/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "3EB07A88CFF5367F920617",
+   "sender": "efraTehila😍😍",
+   "text": "תודה רבה!",
+   "ts": 1795017417000,
+   "date": "2026-11-18",
+   "time": "17:56",
+   "files": [],
+   "drive": null,
+   "phone": "972584470762"
+  },
+  {
+   "id": "AC7A3D84E3589B89F722319966CA3AA6",
+   "sender": "אפי",
+   "text": "סופר על הרב נריה שהיה יוצא כל בוקר מביתו בכפר הרואה אל הישיבה. בדרך לבית המדרש היה עץ גדול שתחתיו הייתה ערמה גדולה של עלי שלכת. בכל פעם שעבר סמוך לעץ היה מרים עלה אחד וזרקו לפח. כך עשה במשך שנים מידי יום ביומו. \nפעם תלמידו ניגש אליו ושאל אותו: \"הרב, למה אתה עושה את זה? הרי הכל פה מלא עלים?\" \nאמר לו הרב נריה: \"אתה צודק, אבל העלה הזה לא יהיה פה עוד!\"",
+   "ts": 1795017444000,
+   "date": "2026-11-18",
+   "time": "17:57",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "3EB02FB10CB792F3CD6B29",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://www.kol-toda.co.il/gedolim/r/neria.html",
+   "ts": 1795019197000,
+   "date": "2026-11-18",
+   "time": "18:26",
+   "files": [],
+   "drive": null
   }
  ]
 }

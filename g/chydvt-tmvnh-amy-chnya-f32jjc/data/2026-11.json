@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-17T17:29:49.799Z",
+ "updated": "2026-11-18T16:36:27.028Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -953,6 +953,46 @@
      "path": "https://drive.google.com/file/d/1zAVnIpRV5pzSYWeOzbkbveLK98FZ39TG/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1zAVnIpRV5pzSYWeOzbkbveLK98FZ39TG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB00FCDDCDC589A5EAE4F",
+   "sender": "עמי חניא",
+   "text": "חידה מחוברת חנוכה!\nרמת קושי: קלה\nנושא: חנוכה\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1794991615000,
+   "date": "2026-11-18",
+   "time": "10:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mT5aeMxpEoYKiPoKG9nuGp0d6LNPQX6b/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mT5aeMxpEoYKiPoKG9nuGp0d6LNPQX6b&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC24BA150C7CB8ABD446AC1D2E1E7BE3",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795019777000,
+   "date": "2026-11-18",
+   "time": "18:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "291KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kkI9u7HjUq4AEXbDugDZzwhwnFhJ_Mnz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kkI9u7HjUq4AEXbDugDZzwhwnFhJ_Mnz&sz=w1200"
     }
    ],
    "drive": null,

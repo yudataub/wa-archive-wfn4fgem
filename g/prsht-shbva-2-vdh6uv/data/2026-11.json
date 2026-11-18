@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-17T11:50:55.949Z",
+ "updated": "2026-11-18T15:15:13.955Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -2976,6 +2976,56 @@
    ],
    "drive": null,
    "phone": "972528308252"
+  },
+  {
+   "id": "ACB976FB962590A343B293D292886743",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1795011277000,
+   "date": "2026-11-18",
+   "time": "16:14",
+   "files": [
+    {
+     "name": "א-ת ויצא תשפז.pdf",
+     "size": "433KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tSL_W_OVgOejo6TnFY54mtM8cqAdHvyx/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC4258C23C870232DE45D8FC5A932785",
+   "sender": "תהילה מור עבודה",
+   "text": "",
+   "ts": 1795011545000,
+   "date": "2026-11-18",
+   "time": "16:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "180KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bUpAetq63bgULMdVh0WHKWYGLpReQNck/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bUpAetq63bgULMdVh0WHKWYGLpReQNck&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533505086"
+  },
+  {
+   "id": "3A8AC12D8FFA86008670",
+   "sender": "אתי גרינפלד",
+   "text": "אפשר בבקשה דף ושננתם לפרשת ויצא?🙏",
+   "ts": 1795014889000,
+   "date": "2026-11-18",
+   "time": "17:14",
+   "files": [],
+   "drive": null,
+   "phone": "972524667750"
   }
  ]
 }

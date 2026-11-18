@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-17T13:19:36.271Z",
+ "updated": "2026-11-18T16:20:21.766Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2277,6 +2277,46 @@
    ],
    "drive": null,
    "phone": "972559943930"
+  },
+  {
+   "id": "3ADEB30928919CA26ACD",
+   "sender": "ציפי",
+   "text": "",
+   "ts": 1795003532000,
+   "date": "2026-11-18",
+   "time": "14:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "206KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-97wGzzLFbGfrGb7e9jubiunq48IQBWn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-97wGzzLFbGfrGb7e9jubiunq48IQBWn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546665770"
+  },
+  {
+   "id": "AC4B149BFB00B49F0DF4FEE121D84BAB",
+   "sender": "יניב",
+   "text": "",
+   "ts": 1795018799000,
+   "date": "2026-11-18",
+   "time": "18:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kNdR6cLo-zjuT1Vf0tMhfZJIkGLgytXV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kNdR6cLo-zjuT1Vf0tMhfZJIkGLgytXV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527222741"
   }
  ]
 }

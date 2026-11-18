@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-16T16:14:54.041Z",
+ "updated": "2026-11-18T13:09:27.920Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -1012,6 +1012,157 @@
    "files": [],
    "drive": null,
    "phone": "972528969584"
+  },
+  {
+   "id": "AC543E58228B1E4F2CD9B157FD5C2079",
+   "sender": "ויקטוריה",
+   "text": "למסירה,  השתמשתי ב 2 , לא אהבתי",
+   "ts": 1794978909000,
+   "date": "2026-11-18",
+   "time": "07:15",
+   "files": [],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "ACF4F6C20C60FD5BE5CA4670CC9D210D",
+   "sender": "ויקטוריה",
+   "text": "",
+   "ts": 1794978909000,
+   "date": "2026-11-18",
+   "time": "07:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zhz9RHlrgQjm923qPWo9bQOopjX424dW/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zhz9RHlrgQjm923qPWo9bQOopjX424dW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528969584"
+  },
+  {
+   "id": "3AE6C2BAEB52A8B89065",
+   "sender": "תמי פריימן",
+   "text": "תשמרי לי 🙃",
+   "ts": 1794978943000,
+   "date": "2026-11-18",
+   "time": "07:15",
+   "files": [],
+   "drive": null,
+   "phone": "972549995596"
+  },
+  {
+   "id": "AC4BEF64C9CA91EFC9A446CC3831A7B8",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1794998257000,
+   "date": "2026-11-18",
+   "time": "12:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "112KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17orRVe56wqxFkwFHs4M7_a9Log9Y9tyL/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17orRVe56wqxFkwFHs4M7_a9Log9Y9tyL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "AC95B35D5EAC496ED1176EFE93788DA6",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1794998705000,
+   "date": "2026-11-18",
+   "time": "12:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "67KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC95B35D5EAC496ED1176EFE93788DA6_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "ACCD7DDBA15E6FC169853D17E74F0E71",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1794998772000,
+   "date": "2026-11-18",
+   "time": "12:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "126KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iq5ghVG7vJDxoR5mXYvIlCeRaIX11AFC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iq5ghVG7vJDxoR5mXYvIlCeRaIX11AFC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "AC125246CCBB11E608BDB7C0A2F94B14",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1795006948000,
+   "date": "2026-11-18",
+   "time": "15:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Q_Txaz5vE4lcRaK3mfwNhH8rmtYYdY6S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Q_Txaz5vE4lcRaK3mfwNhH8rmtYYdY6S&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "AC556AEB3F0F9E17394E6420F1CAF545",
+   "sender": "דניאלה",
+   "text": "",
+   "ts": 1795007028000,
+   "date": "2026-11-18",
+   "time": "15:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "85KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC556AEB3F0F9E17394E6420F1CAF545_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526621118"
+  },
+  {
+   "id": "2A11D177C5557F51DDED",
+   "sender": "שוהם פיננסים",
+   "text": "בגדים מצוינים למסירה לבנים ובנות",
+   "ts": 1795007347000,
+   "date": "2026-11-18",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "phone": "972526660231"
   }
  ]
 }

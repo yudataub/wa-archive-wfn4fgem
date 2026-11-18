@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משולחן מפמ\"ר היסטוריה חמ\"ד תשפ\"ז",
- "updated": "2026-11-16T14:01:31.636Z",
+ "updated": "2026-11-18T16:44:26.889Z",
  "messages": [
   {
    "id": "3EB09A9EE911313CE7D2A0",
@@ -185,6 +185,94 @@
      "path": "https://drive.google.com/file/d/1l0tLWE824R1QMRlwBbrH5OVvSPyPdY2z/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1l0tLWE824R1QMRlwBbrH5OVvSPyPdY2z&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "3EB059FFD06432F21A0724",
+   "sender": "יוסי לונדין",
+   "text": "*נפגשים לעוד קפה של ערב*☕\nוהפעם- בינה מלאכותית🤖\nבואו בשמחה🤩\nhttps://edu-il.zoom.us/j/88957862599?pwd=9F9q36MW4DlFKPHmcji6SayYFkE5Ny.1",
+   "ts": 1795000483000,
+   "date": "2026-11-18",
+   "time": "13:14",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v6aeVyprb-Br6OCyLKKy-9fqFC5Auv9V/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v6aeVyprb-Br6OCyLKKy-9fqFC5Auv9V&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "3EB0AE95E3CF5E9F2068F2",
+   "sender": "יוסי לונדין",
+   "text": "ערב טוב. בהמשך להשתלמות שניתנה השבוע ביחס ללקחים מבחינת הבגרות מצ\"ב המחוונים לבחינות הבגרות שהיו בקיץ האחרון. בהמשך המחוונים יעלו גם לאתר מפמ\"ר. ממליץ בחום לעיין היטב היטב במחוונים וללמוד מהם על מאפייני התשובות לשאלונים השונים ולהערך בהתאם. מומלץ גם למורי כיתות י' וחטיבות הביניים להכיר את השאלות וסגנונם כדי לדעת כיצד להרגיל את תלמידינו לצורות העבודה והלמידה הרלוונטיות. כתמיד, צוות ההדרכה ואני זמינים לכל שאלה. תודה לכל השותפים בהכנת השאלונים והמחוונים",
+   "ts": 1795020236000,
+   "date": "2026-11-18",
+   "time": "18:43",
+   "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "3EB04CAF831312724812F2",
+   "sender": "יוסי לונדין",
+   "text": "מחוון פדגוגי 29225 קיץ תשפ_ו.docx",
+   "ts": 1795020251000,
+   "date": "2026-11-18",
+   "time": "18:44",
+   "files": [
+    {
+     "name": "מחוון פדגוגי 29225 קיץ תשפ_ו.docx",
+     "size": "2.8MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1cfEXbde_uuGkDA1G_ajrqMYZRiCyOett/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "3EB0C0BED39914E053B728",
+   "sender": "יוסי לונדין",
+   "text": "מחוון 29215 קיץ תשפו.docx",
+   "ts": 1795020252000,
+   "date": "2026-11-18",
+   "time": "18:44",
+   "files": [
+    {
+     "name": "מחוון 29215 קיץ תשפו.docx",
+     "size": "3.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1uwzG5fG4XQj4XgURu2YNyMuxfgcDp9IA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "3EB07B1741FCD3741AB24B",
+   "sender": "יוסי לונדין",
+   "text": "_מחוון פדגוגי  29281 קיץ תשפו.docx",
+   "ts": 1795020253000,
+   "date": "2026-11-18",
+   "time": "18:44",
+   "files": [
+    {
+     "name": "_מחוון פדגוגי  29281 קיץ תשפו.docx",
+     "size": "3.3MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1zZH9MJOYGnfoqBm0zWvtIqKdS_5ledgM/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
     }
    ],
    "drive": null,

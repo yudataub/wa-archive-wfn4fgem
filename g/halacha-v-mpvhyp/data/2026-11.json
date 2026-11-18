@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ו'",
- "updated": "2026-11-17T06:15:27.577Z",
+ "updated": "2026-11-18T15:29:44.169Z",
  "messages": [
   {
    "id": "ACC205B39F07623B24C19608A8E0F001",
@@ -926,6 +926,72 @@
    ],
    "drive": null,
    "phone": "972506515026"
+  },
+  {
+   "id": "AC3AC4296DC1092A3C67B099675A0EE1",
+   "sender": "אדמית",
+   "text": "אשמח למצגת על הלכות חנוכה ברמת כתה ה,ו",
+   "ts": 1794984517000,
+   "date": "2026-11-18",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972508567448"
+  },
+  {
+   "id": "3EB038B31EBAA3C47DBC5A",
+   "sender": "וֹוואטסאפ5",
+   "text": "מצטרפת לבקשה\nואם אפשר איזה שהוא מערך שיעור או משהו מסכם כזה על הלכות חנוכה כתות ה' ו'\nתודה רבה!!",
+   "ts": 1795014963000,
+   "date": "2026-11-18",
+   "time": "17:16",
+   "files": [],
+   "drive": null,
+   "phone": "972539307326"
+  },
+  {
+   "id": "3A014B0E105176A41E64",
+   "sender": "בת חן",
+   "text": "https://drive.google.com/drive/folders/10szuRU37dxmidyrcv3xLsrwWXxunfDNK",
+   "ts": 1795015360000,
+   "date": "2026-11-18",
+   "time": "17:22",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "3A550479451E69D7AA86",
+   "sender": "בת חן",
+   "text": "https://drive.google.com/drive/folders/1F3njuvzEAn2juoM8s-rKLp_Y-Vmj2GSp",
+   "ts": 1795015378000,
+   "date": "2026-11-18",
+   "time": "17:22",
+   "files": [],
+   "drive": null,
+   "phone": "972506544492"
+  },
+  {
+   "id": "ACBD225CC2B1C0B3EF409F0ACD9B5541",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/0B8-ZH1QylxUFdWh4TDFXWlJiMmc?resourcekey=0-m3TNK1VszQFkaT3V_eblvw",
+   "ts": 1795015727000,
+   "date": "2026-11-18",
+   "time": "17:28",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "3EB06021E596F5B0703E82",
+   "sender": "וֹוואטסאפ5",
+   "text": "תודה רבה !!🩷",
+   "ts": 1795015760000,
+   "date": "2026-11-18",
+   "time": "17:29",
+   "files": [],
+   "drive": null,
+   "phone": "972539307326"
   }
  ]
 }

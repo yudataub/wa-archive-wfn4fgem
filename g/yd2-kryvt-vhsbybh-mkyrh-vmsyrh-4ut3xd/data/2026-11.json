@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🛍️ יד2 קריות והסביבה – מכירה ומסירה 🛍️",
- "updated": "2026-11-17T19:52:56.519Z",
+ "updated": "2026-11-18T15:28:14.160Z",
  "messages": [
   {
    "id": "AC1D80E959078FD236625A80E55DDB95",
@@ -3512,6 +3512,124 @@
    ],
    "drive": null,
    "phone": "972504477756"
+  },
+  {
+   "id": "3AC1154EDFB2B2C0E661",
+   "sender": "אלה🎶",
+   "text": "הדום רגליים מתכוונן לא שומש מדר גב 80 שח מקרית ביאליק",
+   "ts": 1794979840000,
+   "date": "2026-11-18",
+   "time": "07:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "225KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZDwo1sIC-ouKFFfn1NJfo7jSMGKw-Msj/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZDwo1sIC-ouKFFfn1NJfo7jSMGKw-Msj&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545899059"
+  },
+  {
+   "id": "AC022CCC560370A6B5974F9B15D80C80",
+   "sender": "khateebsaed037",
+   "text": "",
+   "ts": 1795007226000,
+   "date": "2026-11-18",
+   "time": "15:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lznvoenMg_kgb4L68DCa7zqczjG8N-_c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lznvoenMg_kgb4L68DCa7zqczjG8N-_c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526784591"
+  },
+  {
+   "id": "ACB06572A759C0110C2E1FC6CDDDAEF5",
+   "sender": "khateebsaed037",
+   "text": "Nj",
+   "ts": 1795007226000,
+   "date": "2026-11-18",
+   "time": "15:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "163KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aEgpYxYidHMFXHX9YlJ9oM_qMoTUVKuC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aEgpYxYidHMFXHX9YlJ9oM_qMoTUVKuC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526784591"
+  },
+  {
+   "id": "AC90783C6D17F1C1A329EE5AC921481F",
+   "sender": "khateebsaed037",
+   "text": "",
+   "ts": 1795007480000,
+   "date": "2026-11-18",
+   "time": "15:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1beo-4GOduLL1fz5Uu0ek8DuRzjQVHGwf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1beo-4GOduLL1fz5Uu0ek8DuRzjQVHGwf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526784591"
+  },
+  {
+   "id": "ACDBECA0D7D2807DA23137221E471AE4",
+   "sender": "אין עוד מלבדו",
+   "text": "",
+   "ts": 1795015691000,
+   "date": "2026-11-18",
+   "time": "17:28",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "23KB",
+     "type": "image/webp",
+     "path": "media/2026-11/ACDBECA0D7D2807DA23137221E471AE4_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
+  },
+  {
+   "id": "ACFEF25C8DBF29CFD81DD752BF68C6D5",
+   "sender": "אין עוד מלבדו",
+   "text": "",
+   "ts": 1795015691000,
+   "date": "2026-11-18",
+   "time": "17:28",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "75KB",
+     "type": "image/webp",
+     "path": "media/2026-11/ACFEF25C8DBF29CFD81DD752BF68C6D5_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972537540299"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ה",
- "updated": "2026-11-17T18:10:25.672Z",
+ "updated": "2026-11-18T18:59:44.941Z",
  "messages": [
   {
    "id": "3EB07D29E51DF1417119FE",
@@ -1131,6 +1131,249 @@
    "files": [],
    "drive": null,
    "phone": "972504754465"
+  },
+  {
+   "id": "AC5B991443FA6CFD33DC6B8E66463435",
+   "sender": "אלקנה שטראוס",
+   "text": "אמת",
+   "ts": 1794977109000,
+   "date": "2026-11-18",
+   "time": "06:45",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "AC6E8A913CCE1ABB8B70D61D8396820E",
+   "sender": "אדמית",
+   "text": "אשמח למצגת על הלכות חנוכה ברמת כתה ה,ו",
+   "ts": 1794984517000,
+   "date": "2026-11-18",
+   "time": "08:48",
+   "files": [],
+   "drive": null,
+   "phone": "972508567448"
+  },
+  {
+   "id": "3A29D77362E4C8FA78EA",
+   "sender": "🧿Neta Gottlieb 🧿",
+   "text": "",
+   "ts": 1794987733000,
+   "date": "2026-11-18",
+   "time": "09:42",
+   "files": [
+    {
+     "name": "halaha5 (1).pdf",
+     "size": "535KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/151MgZr3CD4ZMnBHmJrv66VCkYzZtLOsa/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507701815"
+  },
+  {
+   "id": "3AFEC1D3AF3A26A505E9",
+   "sender": "🧿Neta Gottlieb 🧿",
+   "text": "מה שיש כאן בתוכנית הלימודים הכל למבחן הארצי? \nהאם יש כזאת טבלה מסודרת מה בדיוק למבחן הארצי?",
+   "ts": 1794987734000,
+   "date": "2026-11-18",
+   "time": "09:42",
+   "files": [],
+   "drive": null,
+   "phone": "972507701815"
+  },
+  {
+   "id": "AC3D08EB1B7578300F6B427D1939C15D",
+   "sender": "אור",
+   "text": "אפשר לשלוח פתוח לעריכה ?",
+   "ts": 1794989205000,
+   "date": "2026-11-18",
+   "time": "10:06",
+   "files": [],
+   "drive": null,
+   "phone": "972534234849"
+  },
+  {
+   "id": "3EB09AF3ECE5B0E5C57FE5",
+   "sender": "אורן יהודה",
+   "text": "אולי יעזור",
+   "ts": 1794994260000,
+   "date": "2026-11-18",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC35058C00C0E4AEB3849D3CFC3AF9B3",
+   "sender": "גבי דעי",
+   "text": "",
+   "ts": 1794995562000,
+   "date": "2026-11-18",
+   "time": "11:52",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "16KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/11i8X4Cp7bqRSaQeZY4vk9D-4idB6yuK-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586718870"
+  },
+  {
+   "id": "ACCD90DF61227EDF34AE0BE39EFBFF94",
+   "sender": "גבי דעי",
+   "text": "",
+   "ts": 1794995565000,
+   "date": "2026-11-18",
+   "time": "11:52",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "11KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1xFv8jwxOXW8Qv1MfYb3p7JX_-u5VCMn1/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586718870"
+  },
+  {
+   "id": "A595250D924A54AB7554A83ACC582760",
+   "sender": "הוראה",
+   "text": "אשמח לקבל מבחן על זה🙏🏻",
+   "ts": 1794996547000,
+   "date": "2026-11-18",
+   "time": "12:09",
+   "files": [],
+   "drive": null,
+   "phone": "972557060015"
+  },
+  {
+   "id": "3EB074CB02F5B7F8E1667E",
+   "sender": "ארנון אהרוני",
+   "text": "",
+   "ts": 1795004557000,
+   "date": "2026-11-18",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "📜 מבחן המנהלת חנוכה מעט מן האור תשפז.docx",
+     "size": "21KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1I-brjhKeEQ0AudWNKoDFehAZnYYpF2SI/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "3EB0FD450170CC46EF9155",
+   "sender": "ארנון אהרוני",
+   "text": "",
+   "ts": 1795004559000,
+   "date": "2026-11-18",
+   "time": "14:22",
+   "files": [
+    {
+     "name": "שאלות על כל חוברת חנוכה אמריקאי.pdf",
+     "size": "246KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RNFVtd2PGGA2W5DiUg8wLE3DhQ8Xv91m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506515026"
+  },
+  {
+   "id": "A5982E159A4CF51117580D6EE0C53946",
+   "sender": "הוראה",
+   "text": "",
+   "ts": 1795005047000,
+   "date": "2026-11-18",
+   "time": "14:30",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "19KB",
+     "type": "image/webp",
+     "path": "media/2026-11/A5982E159A4CF51117580D6EE0C53946_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972557060015"
+  },
+  {
+   "id": "3EB0068C2B2B7EF7A2BE05",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1795011118000,
+   "date": "2026-11-18",
+   "time": "16:11",
+   "files": [
+    {
+     "name": "מבחן על פי חוברת מעט מן האור.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Tf3fw7_Xmm3oTAWYWE_JZstyKu8u5zan/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "3EB0E66C6E8852716EDBD5",
+   "sender": "אורן יהודה",
+   "text": "ברור שלא לא כמו המקור\nאך אולי יכול עזור",
+   "ts": 1795011135000,
+   "date": "2026-11-18",
+   "time": "16:12",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC2AA5CCB7A3878F566DCB1693808136",
+   "sender": "אלקנה שטראוס",
+   "text": "מתוך ההלכות הללו יהיה מיקוד לקראת המבחן",
+   "ts": 1795026800000,
+   "date": "2026-11-18",
+   "time": "20:33",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3A81D9160EAECE1552F0",
+   "sender": "שירה סיבוני",
+   "text": "יש מיקוד?\nאו שנקבל את זה רק בהמשך?",
+   "ts": 1795028314000,
+   "date": "2026-11-18",
+   "time": "20:58",
+   "files": [],
+   "drive": null,
+   "phone": "972559707857"
+  },
+  {
+   "id": "3EB084A7EDC6154FFC3598",
+   "sender": "דוד ספיאשוילי",
+   "text": "כתב הרב בלשון עתיד כך ש נשמע שנקבל בהמשך  @149585590792236",
+   "ts": 1795028375000,
+   "date": "2026-11-18",
+   "time": "20:59",
+   "files": [],
+   "drive": null,
+   "phone": "972533378198"
   }
  ]
 }

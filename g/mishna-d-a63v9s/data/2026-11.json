@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-11-16T15:45:23.556Z",
+ "updated": "2026-11-18T20:44:09.640Z",
  "messages": [
   {
    "id": "AC9F45E942F1A8339FF479260BF35180",
@@ -123,6 +123,37 @@
    "files": [],
    "drive": null,
    "phone": "972504886618"
+  },
+  {
+   "id": "ACD3E49D20024A879E51B54B75FEEFDD",
+   "sender": "Pixel5",
+   "text": "מישהו ביקש להפיץ.\nסליחה על השעה .. תפיצו הלאה . זה חייל שלנו של עמישראל. ❤️",
+   "ts": 1795034615000,
+   "date": "2026-11-18",
+   "time": "22:43",
+   "files": [],
+   "drive": null,
+   "phone": "972532827606"
+  },
+  {
+   "id": "AC409F582C0A876423E4C58F897FCCDA",
+   "sender": "Pixel5",
+   "text": "חברים, אני צריך את העזרה שלכם.\nשמעון בלזם שירת מאות ימי מילואים במסירות. העסק שלו קרס בתקופת המלחמה והמילואים והוא נכנס לחובות כבדים. המשפחה שלו עברה המון משברים, ועכשיו הם עם הגב לקיר וצריכים אותנו.\n\nבבקשה תכניסו תרומה בקישור:\nhttps://givechak.co.il/blazem?ref=r1",
+   "ts": 1795034625000,
+   "date": "2026-11-18",
+   "time": "22:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "283KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gj8kD-EUA2lqVdOtuUAjr_YuDdeOkV6o/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gj8kD-EUA2lqVdOtuUAjr_YuDdeOkV6o&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532827606"
   }
  ]
 }
