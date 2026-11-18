@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-11-12T22:47:22.436Z",
+ "updated": "2026-11-17T23:27:09.582Z",
  "messages": [
   {
    "id": "A5463BF88870C5DAA09E11188F1B1017",
@@ -226,6 +226,93 @@
      "size": "576KB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1A1UXwROIwUbimhxe1qucAm2nb32A6E2A/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A5F86F3755306E3F4B1C5CDDCF9A9E8B",
+   "sender": "אלחנן שניאור",
+   "text": "*פרשת ויצא*",
+   "ts": 1794957889000,
+   "date": "2026-11-18",
+   "time": "01:24",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A50542651C344214C9C125584B716AB1",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794957930000,
+   "date": "2026-11-18",
+   "time": "01:25",
+   "files": [
+    {
+     "name": "פרשת ויצא - נקודות (1).pdf",
+     "size": "551KB",
+     "type": "application/octet-stream",
+     "path": "https://drive.google.com/file/d/1a9bQve2WpT2_ItAoO51MKf6j8bqjIM_K/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A594986D0549FC963265C22C0B093227",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794957930000,
+   "date": "2026-11-18",
+   "time": "01:25",
+   "files": [
+    {
+     "name": "פרשת ויצא (1).pdf",
+     "size": "566KB",
+     "type": "application/octet-stream",
+     "path": "https://drive.google.com/file/d/1cgodo2CqvHeAlXUOcO6dTMKOLKemosCT/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A58FB3E16F2118174CCE420D3DBD1206",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794958013000,
+   "date": "2026-11-18",
+   "time": "01:26",
+   "files": [
+    {
+     "name": "פרשת ויצא - נקודות (1).pdf",
+     "size": "551KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1RcEz-t3mizoELbyI957Df0Hb1pzOojSL/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A582D212382FC35827846D04FE7C0AA1",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1794958014000,
+   "date": "2026-11-18",
+   "time": "01:26",
+   "files": [
+    {
+     "name": "פרשת ויצא (1).pdf",
+     "size": "566KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1S5AzjfbCb25HXMuFmeGTFCmCtyXR7AV2/view?usp=drivesdk",
      "skipped": ""
     }
    ],

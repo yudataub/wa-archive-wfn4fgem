@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-17T21:31:08.909Z",
+ "updated": "2026-11-18T01:05:18.069Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -6355,6 +6355,26 @@
    "files": [],
    "drive": null,
    "phone": "972535526723"
+  },
+  {
+   "id": "2AFB8D0715C78BEA0D4E",
+   "sender": "ישראל אזרד",
+   "text": "יש למישהו חיישן למשאבת אינסולין מינימד?",
+   "ts": 1794963890000,
+   "date": "2026-11-18",
+   "time": "03:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1DKk6tQM2Km1kwKIZhPvXXNbTP5wczj-u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1DKk6tQM2Km1kwKIZhPvXXNbTP5wczj-u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505961677"
   }
  ]
 }

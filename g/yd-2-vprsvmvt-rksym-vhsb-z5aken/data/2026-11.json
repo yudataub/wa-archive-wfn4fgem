@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-17T22:21:55.998Z",
+ "updated": "2026-11-18T01:02:48.018Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -15682,7 +15682,8 @@
      "path": "https://drive.google.com/file/d/1WwhVl4J9hZJvmtQMHyTiHVqEdU_o7ShC/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A5488D3B29926BDF03A27E718ED8AA8B_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1WwhVl4J9hZJvmtQMHyTiHVqEdU_o7ShC&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1WwhVl4J9hZJvmtQMHyTiHVqEdU_o7ShC&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/A5488D3B29926BDF03A27E718ED8AA8B_0.mp4"
     }
    ],
    "drive": null,
@@ -16117,7 +16118,8 @@
      "path": "https://drive.google.com/file/d/1hcalI36crxw-BqRFjY0dVGHlEDLxBBSY/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC47DDDBB3C9256FA1A394AF7723F5FE_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1hcalI36crxw-BqRFjY0dVGHlEDLxBBSY&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1hcalI36crxw-BqRFjY0dVGHlEDLxBBSY&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/AC47DDDBB3C9256FA1A394AF7723F5FE_0.mp4"
     }
    ],
    "drive": null,
@@ -16198,7 +16200,8 @@
      "path": "https://drive.google.com/file/d/1_HE0iwL8PvWTV-P-eMpL3rMbKwr0Gkt5/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A59083F163B7D7262C4122422A4681CB_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1_HE0iwL8PvWTV-P-eMpL3rMbKwr0Gkt5&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1_HE0iwL8PvWTV-P-eMpL3rMbKwr0Gkt5&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/A59083F163B7D7262C4122422A4681CB_0.mp4"
     }
    ],
    "drive": null,
@@ -16340,7 +16343,8 @@
      "path": "https://drive.google.com/file/d/1jfxX3FDYL7FSBtRQ4v5Idcw35SNG7w3g/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2A1BE61AA2A00A5CCB97_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1jfxX3FDYL7FSBtRQ4v5Idcw35SNG7w3g&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1jfxX3FDYL7FSBtRQ4v5Idcw35SNG7w3g&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/2A1BE61AA2A00A5CCB97_0.mp4"
     }
    ],
    "drive": null,
@@ -16367,6 +16371,26 @@
    "files": [],
    "drive": null,
    "phone": "972545852027"
+  },
+  {
+   "id": "2A4037968BE7C12E5B42",
+   "sender": "ישראל אזרד",
+   "text": "יש למישהו חיישן למשאבת סוכר?",
+   "ts": 1794963738000,
+   "date": "2026-11-18",
+   "time": "03:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "138KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18sQFBON1IGYfNmBaRehMAVq9cE35Du6a/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18sQFBON1IGYfNmBaRehMAVq9cE35Du6a&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505961677"
   }
  ]
 }
