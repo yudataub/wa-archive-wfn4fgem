@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-11-19T20:58:17.512Z",
+ "updated": "2026-11-19T21:53:55.187Z",
  "messages": [
   {
    "id": "AC7659CFAD0E6D26512B35AF415C55A2",
@@ -7059,6 +7059,47 @@
    "date": "2026-11-19",
    "time": "22:58",
    "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "AC0060D101D99FF4217FD4654FFDCEF9",
+   "sender": "Joseph tal  ⚜️",
+   "text": "מצד מה",
+   "ts": 1795122804000,
+   "date": "2026-11-19",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972585533599"
+  },
+  {
+   "id": "AC315FBAE2C559B1B133D850E166C399",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "שמה",
+   "ts": 1795122820000,
+   "date": "2026-11-19",
+   "time": "23:13",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "AC8E60541ED8ABAF4938F0C12486B979",
+   "sender": "הרב אוריאל בצר",
+   "text": "",
+   "ts": 1795125200000,
+   "date": "2026-11-19",
+   "time": "23:53",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "51KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1BHORXx6YT6Q5R_nFDw0GbBGrmnnnL9Hd/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972533890390"
   }

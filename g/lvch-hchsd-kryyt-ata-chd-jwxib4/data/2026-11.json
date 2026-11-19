@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-19T20:57:17.517Z",
+ "updated": "2026-11-19T21:28:17.959Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -11072,7 +11072,8 @@
      "path": "https://drive.google.com/file/d/1q2DaWcVApUHxbuoI9YXFB3jUQcKRa5IH/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3AC539E1FB14CAD397E7_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1q2DaWcVApUHxbuoI9YXFB3jUQcKRa5IH&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1q2DaWcVApUHxbuoI9YXFB3jUQcKRa5IH&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/3AC539E1FB14CAD397E7_0.mp4"
     }
    ],
    "drive": null,
@@ -11243,11 +11244,73 @@
      "path": "https://drive.google.com/file/d/18S5E1EuoJJDTL0Z0eNPUzhhpdnZWK2sQ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A56E1E890F30485068EF4C963F977AEE_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=18S5E1EuoJJDTL0Z0eNPUzhhpdnZWK2sQ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=18S5E1EuoJJDTL0Z0eNPUzhhpdnZWK2sQ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/A56E1E890F30485068EF4C963F977AEE_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972505838100"
+  },
+  {
+   "id": "AC80EB60BF0E08AA476A70CB6FC24FB2",
+   "sender": "גמח עדן",
+   "text": "",
+   "ts": 1795123406000,
+   "date": "2026-11-19",
+   "time": "23:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "328KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i5j0HTZo56zkD9fav1dxN0QsQG4L3iU2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i5j0HTZo56zkD9fav1dxN0QsQG4L3iU2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525368606"
+  },
+  {
+   "id": "ACDADDACAF582D9A57DBFB627C9B0DAD",
+   "sender": "א",
+   "text": "דחוףףף עזרה \n למי שיש מנה או שתיים של נוטרילון פפטי גוניור  לתינוקת קטנה נתקענו ללילה",
+   "ts": 1795123596000,
+   "date": "2026-11-19",
+   "time": "23:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "86KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACDADDACAF582D9A57DBFB627C9B0DAD_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528715167"
+  },
+  {
+   "id": "ACB8B77FAF4A8ACBCF2FEF107D4D94FD",
+   "sender": "א",
+   "text": "אם יש למישהי כאן  אשמח לדעת",
+   "ts": 1795123597000,
+   "date": "2026-11-19",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "phone": "972528715167"
+  },
+  {
+   "id": "AC82E334A4AAE287E090D5E4B8FDD556",
+   "sender": "א",
+   "text": "שלחתי בקבוצות שלי מקווה שיש למישהי",
+   "ts": 1795123693000,
+   "date": "2026-11-19",
+   "time": "23:28",
+   "files": [],
+   "drive": null,
+   "phone": "972528715167"
   }
  ]
 }

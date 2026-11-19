@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-11-19T19:49:58.561Z",
+ "updated": "2026-11-19T21:40:24.955Z",
  "messages": [
   {
    "id": "AC766E9745AEAD82DE14821E17AEB47A",
@@ -2365,7 +2365,8 @@
      "path": "https://drive.google.com/file/d/1FMTCa7co2QGTFoH47weBtbyTuNlKbqlI/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACD7D5A99699DC13C3E164E1033D0D30_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1FMTCa7co2QGTFoH47weBtbyTuNlKbqlI&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1FMTCa7co2QGTFoH47weBtbyTuNlKbqlI&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/ACD7D5A99699DC13C3E164E1033D0D30_0.mp4"
     }
    ],
    "drive": null,
@@ -2397,7 +2398,8 @@
      "path": "https://drive.google.com/file/d/1Mphnrb3gDmmFTsVf6JTYnVMzKNrrqlEL/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC9F4D4237D504F5C987BF33C9854A5C_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Mphnrb3gDmmFTsVf6JTYnVMzKNrrqlEL&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Mphnrb3gDmmFTsVf6JTYnVMzKNrrqlEL&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/AC9F4D4237D504F5C987BF33C9854A5C_0.mp4"
     }
    ],
    "drive": null,
@@ -2438,7 +2440,8 @@
      "path": "https://drive.google.com/file/d/1sTQ599iD235PZqYGoBqInra0xYiRlHJA/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACD3867DADBA32BF487E67CECA7DE827_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1sTQ599iD235PZqYGoBqInra0xYiRlHJA&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1sTQ599iD235PZqYGoBqInra0xYiRlHJA&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/ACD3867DADBA32BF487E67CECA7DE827_0.mp4"
     }
    ],
    "drive": null,
@@ -2463,6 +2466,37 @@
    ],
    "drive": null,
    "phone": "972546660233"
+  },
+  {
+   "id": "AC00D510B9967DD08A4CD010FA149B84",
+   "sender": ":)",
+   "text": "",
+   "ts": 1795124395000,
+   "date": "2026-11-19",
+   "time": "23:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "298KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19Af_KGaInzUkjMJDiD8X9wapuxgeBZmA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19Af_KGaInzUkjMJDiD8X9wapuxgeBZmA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527238777"
+  },
+  {
+   "id": "AC2A5AE9C693C247E0036E59A1F76E22",
+   "sender": ":)",
+   "text": "📢 *אור השבת - שיעור בוקר יום שישי*\n\nשלום רב לציבור הקדוש! \n\nאנו שמחים להזמינכם כמידי שבוע בשבוע לשיעור תורה מחזק ומרומם, כהכנה לקראת שבת מלכתא. ✨\n\nהשיעור יימסר על ידי מורנו ורבינו:\n*הרב אריה סויסה שליט\"א*\n\n📖 *נושא השיעור:*\n*פנינים יקרים בפרשת השבוע*\n\n🗓️ *מתי?*\nיום שישי י' כסלו התשפ\"ז (20/11/2026)\n\n⏰ *לו\"ז:*\n09:00 – תחילת השיעור (נא לדייק!)\n\n📍 *מיקום:*\nבניין המוסדות, הרב מימון 1, קרית אתא.\n*השיעור יתקיים בבית הכנסת בכניסה.*\n\n👨‍💼 *השיעור פתוח לציבור הרחב (גברים).*\n\nבואו להתחיל את השבת באווירה של קדושה, לימוד והתעלות. 💫✡️",
+   "ts": 1795124395000,
+   "date": "2026-11-19",
+   "time": "23:39",
+   "files": [],
+   "drive": null,
+   "phone": "972527238777"
   }
  ]
 }

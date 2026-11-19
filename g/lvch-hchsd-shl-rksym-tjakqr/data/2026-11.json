@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-19T20:58:47.515Z",
+ "updated": "2026-11-19T22:10:25.414Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -7181,7 +7181,8 @@
      "path": "https://drive.google.com/file/d/1ZwdG7D61hHDVPMz7pOYZVbG3LKP47Psp/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACA74217415590918E213097299ACC97_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1ZwdG7D61hHDVPMz7pOYZVbG3LKP47Psp&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1ZwdG7D61hHDVPMz7pOYZVbG3LKP47Psp&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-11/ACA74217415590918E213097299ACC97_0.mp4"
     }
    ],
    "drive": null,
@@ -7389,6 +7390,28 @@
    ],
    "drive": null,
    "phone": "972527600799"
+  },
+  {
+   "id": "AC4ADFF6B71C52A2124F6399E8FDC822",
+   "sender": "CYK",
+   "text": "צריך להעביר חבילה לחיילים באיזור זרעית בצפון \nאם מישהו בכיוון נשמח לשמוח",
+   "ts": 1795124332000,
+   "date": "2026-11-19",
+   "time": "23:38",
+   "files": [],
+   "drive": null,
+   "phone": "972587683835"
+  },
+  {
+   "id": "A569D4732B3BDBB6FBB572753017A058",
+   "sender": "Nachman",
+   "text": "קריות רמת צבי 250ש\nזמנים",
+   "ts": 1795126196000,
+   "date": "2026-11-20",
+   "time": "00:09",
+   "files": [],
+   "drive": null,
+   "phone": "972534842528"
   }
  ]
 }

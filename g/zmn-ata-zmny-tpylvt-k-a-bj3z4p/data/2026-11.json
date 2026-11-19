@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-19T20:26:39.992Z",
+ "updated": "2026-11-19T22:00:55.306Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -1301,6 +1301,26 @@
    "files": [],
    "drive": null,
    "phone": "972525554380"
+  },
+  {
+   "id": "AC88597E09BF3CB4C9DEBF10AEDFED99",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1795125633000,
+   "date": "2026-11-20",
+   "time": "00:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "298KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KLGCwe2zfhXlM4d9Er6qcJ4o9KKhbhNx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KLGCwe2zfhXlM4d9Er6qcJ4o9KKhbhNx&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
   }
  ]
 }
