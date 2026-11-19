@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מלכים - הוראה בכיתה ו (לא בתוכנית הרשמית)",
- "updated": "2026-11-18T11:19:34.587Z",
+ "updated": "2026-11-19T13:00:30.306Z",
  "messages": [
   {
    "id": "3EB025D954A5318C0972B1",
@@ -797,6 +797,48 @@
    "files": [],
    "drive": null,
    "phone": "972522918633"
+  },
+  {
+   "id": "ACCFDB0084FC6F0FA70696B3F953D24D",
+   "sender": "לאה",
+   "text": "",
+   "ts": 1795082077000,
+   "date": "2026-11-19",
+   "time": "11:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "520KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17gBIiTEGYzFGiSc3ICf3cEDwiFvmEX-O/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17gBIiTEGYzFGiSc3ICf3cEDwiFvmEX-O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548110058"
+  },
+  {
+   "id": "AC0697E2DCF06422489757F55996324A",
+   "sender": "לאה",
+   "text": "עבודה לסיכום נושא המקדש \nכל זוג בנות בוחרות את אחד הכלים . מצטטות פסוקים שמצארות את הכלי וגם את המידות ובונות דגם של הכלי.",
+   "ts": 1795082122000,
+   "date": "2026-11-19",
+   "time": "11:55",
+   "files": [],
+   "drive": null,
+   "phone": "972548110058"
+  },
+  {
+   "id": "AC59AA14E0825FFDF8D643AE62C0ED4E",
+   "sender": "עדינה",
+   "text": "תןדה רבה ערכנו חידון בסיום שיעור \nהיה מקסים!!",
+   "ts": 1795093211000,
+   "date": "2026-11-19",
+   "time": "15:00",
+   "files": [],
+   "drive": null,
+   "phone": "972556876834"
   }
  ]
 }

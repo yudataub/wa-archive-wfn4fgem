@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה כתה ה מפמ\"ר",
- "updated": "2026-11-18T20:41:39.618Z",
+ "updated": "2026-11-19T17:12:35.260Z",
  "messages": [
   {
    "id": "A592F509500EFC3F24FFED703532E1A3",
@@ -1162,6 +1162,60 @@
    "files": [],
    "drive": null,
    "phone": "972532827606"
+  },
+  {
+   "id": "AC25B25500D6923F776F30DAD89DFEE7",
+   "sender": "אסף אלדר",
+   "text": "הנה ״מתי מתחיל ראש חודש?״ 🌙 עם קריינות של איתמר, לוח חודשי שמראה את שתי האפשרויות ושאלה קצרה לכיתה ה׳ בסוף.",
+   "ts": 1795088452000,
+   "date": "2026-11-19",
+   "time": "13:40",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Vq9P5JBk3usOHihAZNeT9OUKo0g-aYaG/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC25B25500D6923F776F30DAD89DFEE7_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1Vq9P5JBk3usOHihAZNeT9OUKo0g-aYaG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC2F341728FA3C0ED2D797685AE869BF",
+   "sender": "אסף אלדר",
+   "text": "הסבר באילו ימים בחודש יכול לצאת ראש חודש",
+   "ts": 1795088482000,
+   "date": "2026-11-19",
+   "time": "13:41",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "ACD388392390784921145400DDF58FAD",
+   "sender": "יפעת ש",
+   "text": "אולי אפשר לשלוח שוב?",
+   "ts": 1795108227000,
+   "date": "2026-11-19",
+   "time": "19:10",
+   "files": [],
+   "drive": null,
+   "phone": "972547841216"
+  },
+  {
+   "id": "ACB7620C0D34C41372F68328A78F7434",
+   "sender": "יפעת ש",
+   "text": "לקראת הערכה במשנה\nמחפשת סרטון/מצגת על מבוא לתושב\"ע שאפשר לשלוח לתלמידים לרענון הזכרון...",
+   "ts": 1795108353000,
+   "date": "2026-11-19",
+   "time": "19:12",
+   "files": [],
+   "drive": null,
+   "phone": "972547841216"
   }
  ]
 }

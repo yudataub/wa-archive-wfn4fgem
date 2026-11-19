@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-18T04:14:16.016Z",
+ "updated": "2026-11-19T04:05:58.828Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -805,6 +805,44 @@
      "path": "https://drive.google.com/file/d/1tja0KoOLkTOC1beS53-NsC8njdxrhJgX/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1tja0KoOLkTOC1beS53-NsC8njdxrhJgX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AA96C55936599E2F095",
+   "sender": ".",
+   "text": "״כל בעלי חוברין״ (ערכין ב, א).",
+   "ts": 1795061144000,
+   "date": "2026-11-19",
+   "time": "06:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "80KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AA96C55936599E2F095_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AAB87C61EC599BD89B8",
+   "sender": ".",
+   "text": "״ולא הספיק להקריבו עד שמת״ (רש״י ערכין ב, א).",
+   "ts": 1795061146000,
+   "date": "2026-11-19",
+   "time": "06:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "91KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AAB87C61EC599BD89B8_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

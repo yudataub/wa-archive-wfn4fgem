@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חשבון תשפ\"ז🍭🥰",
- "updated": "2026-11-18T08:58:51.542Z",
+ "updated": "2026-11-19T10:27:46.606Z",
  "messages": [
   {
    "id": "AC4D373CD82459D059CFE78CC57B8E50",
@@ -280,6 +280,55 @@
    "date": "2026-11-18",
    "time": "10:58",
    "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACD71F06DDF8DCB7B5438D7A570CFF98",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795065691000,
+   "date": "2026-11-19",
+   "time": "07:21",
+   "files": [
+    {
+     "name": "ארגז כלים מתמטיקה.pdf",
+     "size": "3.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1obdZoXZgO2UGsni3UWP_yeA5VYgSa-jb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACD44705F5377FA244018E2F6CDCE8A9",
+   "sender": "מלכה טרבלסי",
+   "text": "כרטיסי ניווט\nשהבטחתי",
+   "ts": 1795065700000,
+   "date": "2026-11-19",
+   "time": "07:21",
+   "files": [],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACB04C072C99DCE34A660FA45138E61A",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795084020000,
+   "date": "2026-11-19",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "פתיחת מרחב מודל מתמטיקה יסודי_261119_090958.pdf",
+     "size": "1.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1dGs5YN3mv0DfHqaFC3oNARMP-NAtR7sf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972528686062"
   }

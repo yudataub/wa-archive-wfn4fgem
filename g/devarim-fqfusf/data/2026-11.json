@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-18T19:50:18.802Z",
+ "updated": "2026-11-19T12:07:04.508Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -3678,6 +3678,110 @@
    "files": [],
    "drive": null,
    "phone": "972506544492"
+  },
+  {
+   "id": "3A1CF1F6819226675574",
+   "sender": "ימית חורי",
+   "text": "תלמידה הביאה את זה למבחן, לאפשר לה?",
+   "ts": 1795069133000,
+   "date": "2026-11-19",
+   "time": "08:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "448KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10S6jrdqYYZ1vsVcFLig0RQGOxZIU9UhO/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10S6jrdqYYZ1vsVcFLig0RQGOxZIU9UhO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543083066"
+  },
+  {
+   "id": "AC415EF5FFDEFE1F3E116A26B322CEE7",
+   "sender": "זהר",
+   "text": "למה לא?",
+   "ts": 1795071654000,
+   "date": "2026-11-19",
+   "time": "09:00",
+   "files": [],
+   "drive": null,
+   "phone": "972508744451"
+  },
+  {
+   "id": "3A7E28B8AC49819AEE99",
+   "sender": "ימית חורי",
+   "text": "זה עם הסברים על רש״י",
+   "ts": 1795071774000,
+   "date": "2026-11-19",
+   "time": "09:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "664KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10lGp--HiVmIH3lxOoMTu7T3GGR1qjHNY/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10lGp--HiVmIH3lxOoMTu7T3GGR1qjHNY&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543083066"
+  },
+  {
+   "id": "AC27401E483D00A44A24239E3699C008",
+   "sender": "נחמה",
+   "text": "אם היא תקרא את ההסברים - אשרייך ואשרי יולדתה 👑",
+   "ts": 1795078202000,
+   "date": "2026-11-19",
+   "time": "10:50",
+   "files": [],
+   "drive": null,
+   "phone": "972546461353"
+  },
+  {
+   "id": "AC4CF41AAA8F1CBFE73DCDAD6D43C47E",
+   "sender": "יסכה זמירי",
+   "text": "*לפרטים נוספים ולהרשמה -* https://katzr.net/623f04",
+   "ts": 1795089556000,
+   "date": "2026-11-19",
+   "time": "13:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1aNg1VxhXyCUUHIobjgJpXT5_mX2LvpZh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1aNg1VxhXyCUUHIobjgJpXT5_mX2LvpZh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542230280"
+  },
+  {
+   "id": "AC2A4C1C9680E849402DD34F3DAC3515",
+   "sender": "יסכה זמירי",
+   "text": "טלי פולק מדריכה מדהימה!!!",
+   "ts": 1795089574000,
+   "date": "2026-11-19",
+   "time": "13:59",
+   "files": [],
+   "drive": null,
+   "phone": "972542230280"
+  },
+  {
+   "id": "AC14CD7F98E96063B4C2C6505B059F8A",
+   "sender": "עדי לנדאו",
+   "text": "תורה שבכתב לא צריך לדעת בעל פה זו דעתי...",
+   "ts": 1795090017000,
+   "date": "2026-11-19",
+   "time": "14:06",
+   "files": [],
+   "drive": null,
+   "phone": "972528903667"
   }
  ]
 }

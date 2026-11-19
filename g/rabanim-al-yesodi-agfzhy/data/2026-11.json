@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני העל-יסודי",
- "updated": "2026-11-18T20:49:39.766Z",
+ "updated": "2026-11-19T19:40:58.387Z",
  "messages": [
   {
    "id": "A501B677F98CB40F70285E1B9B2DF99F",
@@ -1645,6 +1645,97 @@
    "files": [],
    "drive": null,
    "phone": "972528303352"
+  },
+  {
+   "id": "3A29D65CDCA67EEAB98C",
+   "sender": "עותניאל מנצור",
+   "text": "",
+   "ts": 1795065864000,
+   "date": "2026-11-19",
+   "time": "07:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "211KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1v0CrggyUMhe6U8GST-bL8zD7XKZPn7xk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1v0CrggyUMhe6U8GST-bL8zD7XKZPn7xk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524700429"
+  },
+  {
+   "id": "ACC673027EDFED820BD8D4C181ED1CB9",
+   "sender": "הרב יוסף קורקוס",
+   "text": "פרשת ויצא\n\nאיך יתכן שיש כלכלה טובה במדינת ישראל אחרי 3 שנות מלחמה?\nhttps://youtu.be/FmL405c-yKA\n\nאיך רוטשילד נהיה עשיר?\nhttps://youtu.be/YQXly7yWKu8",
+   "ts": 1795097069000,
+   "date": "2026-11-19",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972545321263"
+  },
+  {
+   "id": "AC3881CE63131F80A89FE1357D1BBEBD",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1795116900000,
+   "date": "2026-11-19",
+   "time": "21:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "448KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1prDXeYfgc7LMPTOcVuUWC3QJtTlWl8d7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1prDXeYfgc7LMPTOcVuUWC3QJtTlWl8d7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "AC853AD3CF1884480D8086E26E10D5B3",
+   "sender": "אליהו ממן",
+   "text": "",
+   "ts": 1795116900000,
+   "date": "2026-11-19",
+   "time": "21:35",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "12.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1KLRxlTnCjqHIpPrgvI7D2QhBV9cW4qhi/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC853AD3CF1884480D8086E26E10D5B3_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1KLRxlTnCjqHIpPrgvI7D2QhBV9cW4qhi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526004052"
+  },
+  {
+   "id": "A53C6A1CC2D4C4CDD596685AD2CC9EB0",
+   "sender": "המוהל הרב יאיר אסולין",
+   "text": "",
+   "ts": 1795117251000,
+   "date": "2026-11-19",
+   "time": "21:40",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "33KB",
+     "type": "image/webp",
+     "path": "media/2026-11/A53C6A1CC2D4C4CDD596685AD2CC9EB0_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972508733084"
   }
  ]
 }

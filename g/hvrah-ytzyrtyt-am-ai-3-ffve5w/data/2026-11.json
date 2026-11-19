@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-11-15T20:21:00.927Z",
+ "updated": "2026-11-19T18:43:19.970Z",
  "messages": [
   {
    "id": "3EB0D8AB2D3E8886F6F2F8",
@@ -421,6 +421,49 @@
    ],
    "drive": null,
    "phone": "972523930628"
+  },
+  {
+   "id": "3EB0E74E7C297B87D433AE",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הערב ב-20:00, הזדמנות נוספת  של לייב: מגיליון לקטלוג חי.*\nיצירת טופסי הרשמה, תשובות תלמידים ועוד\nקוד קופון 20% הנחה, לנרשמים עד הסדנה. רשמו:1911 בעמוד התשלום\nhttps://www.lomdot.org/event-details/sheet2catalog2\nלהרשמה לחבילה כולה, כולל סדנה במתנה:\nhttps://www.lomdot.org/event-details/november123",
+   "ts": 1795100661000,
+   "date": "2026-11-19",
+   "time": "17:04",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1vA7CamThCRcgCRoYQuOsMlqHp10NdcXk/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0E74E7C297B87D433AE_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1vA7CamThCRcgCRoYQuOsMlqHp10NdcXk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "ACE3163CDF3C89E73E623E2110D477E3",
+   "sender": "מרים",
+   "text": "https://hazeva-shebateva.netlify.app/",
+   "ts": 1795113751000,
+   "date": "2026-11-19",
+   "time": "20:42",
+   "files": [],
+   "drive": null,
+   "phone": "972522548451"
+  },
+  {
+   "id": "AC3E2F8989BE97F3741B46B1D97A568A",
+   "sender": "מרים",
+   "text": "תערוכה שהכנתי מהפרוצפט של תערוכה וירטואלית...",
+   "ts": 1795113784000,
+   "date": "2026-11-19",
+   "time": "20:43",
+   "files": [],
+   "drive": null,
+   "phone": "972522548451"
   }
  ]
 }

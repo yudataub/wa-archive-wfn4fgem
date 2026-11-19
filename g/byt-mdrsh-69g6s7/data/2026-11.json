@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-18T08:06:38.544Z",
+ "updated": "2026-11-19T05:54:12.290Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -339,6 +339,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1WewsXKOI7UjwZqkWwZBU1bgM96tiuj0p&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACCD5EC92A8E5AFC5CFA336FFEFFD6AC",
+   "sender": "יעקב בקר",
+   "text": "בוקר טוב\nמבקש מהציבור להשתדל להגיע היום בזמן ב 10\nהרצאה של מכון צומת\nתודה",
+   "ts": 1795067649000,
+   "date": "2026-11-19",
+   "time": "07:54",
+   "files": [],
    "drive": null,
    "phone": "972549991157"
   }

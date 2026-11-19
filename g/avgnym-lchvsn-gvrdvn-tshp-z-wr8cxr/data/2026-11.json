@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "⚓️עוגנים לחוסן גורדון תשפ״ז ⚓️",
- "updated": "2026-11-17T13:03:48.580Z",
+ "updated": "2026-11-19T05:41:52.617Z",
  "messages": [
   {
    "id": "3A7AF266E4DD1BB50A0C",
@@ -485,6 +485,58 @@
    "files": [],
    "drive": null,
    "phone": "972526130211"
+  },
+  {
+   "id": "3AA784B2924923EEC5F7",
+   "sender": "Zehavit Shor",
+   "text": "",
+   "ts": 1795066861000,
+   "date": "2026-11-19",
+   "time": "07:41",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "52KB",
+     "type": "image/webp",
+     "path": "media/2026-11/3AA784B2924923EEC5F7_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526259434"
+  },
+  {
+   "id": "3A4B253D6F22FA987833",
+   "sender": "Zehavit Shor",
+   "text": "מבקשת להגיע אליי לקבל 2 אישורים לפרטני",
+   "ts": 1795066873000,
+   "date": "2026-11-19",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526259434"
+  },
+  {
+   "id": "3A18CD8840119A5686C2",
+   "sender": "Zehavit Shor",
+   "text": "תודה",
+   "ts": 1795066875000,
+   "date": "2026-11-19",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526259434"
+  },
+  {
+   "id": "3A96693520953713AAE2",
+   "sender": "Zehavit Shor",
+   "text": "בראשון מתחילים ולכן חובה להחזיר עד ראשון בבוקר",
+   "ts": 1795066886000,
+   "date": "2026-11-19",
+   "time": "07:41",
+   "files": [],
+   "drive": null,
+   "phone": "972526259434"
   }
  ]
 }

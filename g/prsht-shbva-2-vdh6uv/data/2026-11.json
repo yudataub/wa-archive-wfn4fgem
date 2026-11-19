@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-18T15:15:13.955Z",
+ "updated": "2026-11-19T18:09:10.861Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -3026,6 +3026,104 @@
    "files": [],
    "drive": null,
    "phone": "972524667750"
+  },
+  {
+   "id": "AC0FA0D71EDC93B7BE70A82500AF816D",
+   "sender": "הודיה",
+   "text": "בוקר טוב. \nלמישהו יש דפים לפרשת בא?",
+   "ts": 1795068525000,
+   "date": "2026-11-19",
+   "time": "08:08",
+   "files": [],
+   "drive": null,
+   "phone": "972532348561"
+  },
+  {
+   "id": "AC156C287196E999202067BBC01F0F68",
+   "sender": "ליאת גדסי",
+   "text": "מחפשת דפי מידע על חנוכה וחידון \nלכיתות ב-ד\nולכיתות ד-ו\nלמי שיש אשמח שישלח.",
+   "ts": 1795068879000,
+   "date": "2026-11-19",
+   "time": "08:14",
+   "files": [],
+   "drive": null,
+   "phone": "972549700460"
+  },
+  {
+   "id": "ACBC8BA9AAF575447734C27B8BEA84A2",
+   "sender": "אלעד טאוב",
+   "text": "https://youtu.be/J2DS0mpssB4?si=8DQmiXHTjUq9R_qD",
+   "ts": 1795101621000,
+   "date": "2026-11-19",
+   "time": "17:20",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "3EB0780BE3F7C344597DF2",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "",
+   "ts": 1795102141000,
+   "date": "2026-11-19",
+   "time": "17:29",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC602F20DC9B5235E1E24F44CC4BB8DF",
+   "sender": "אלעד טאוב",
+   "text": "https://youtu.be/6flyF4dgzI8?si=JGQRE-cTHfnUDMvL",
+   "ts": 1795108473000,
+   "date": "2026-11-19",
+   "time": "19:14",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "ACBAE78D17B309E099F1996898CB9A59",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "*״אילו הייתי שם... בעקבות הפרשה 2️⃣״ - ויצא*\n\nלקבלת הפרק המלא אחת לשבוע\n\n*לעוד אלפי תכנים* בלעדיים *התחברו* עכשיו *ל'הידברות פלוס'* - אפליקציית הסטרימינג היהודית הראשונה בעולם!  \nלחצו: 📲 plus.hidabroot.org",
+   "ts": 1795110510000,
+   "date": "2026-11-19",
+   "time": "19:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "93.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1IVUQ9UMJPyaXgE6kCcxVNAM7GqrNBQRb/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACBAE78D17B309E099F1996898CB9A59_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1IVUQ9UMJPyaXgE6kCcxVNAM7GqrNBQRb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "AC5AB010F87A3A645B86FD3611436E98",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "*9 משחקים לפרשת ויצא - סרטון לפרשה וקבצים להדפסה*\nשחקו עכשיו במשחקים המיוחדים שלנו לפרשת ויצא במשחק השבת\nhttps://clap.co.il/aGO",
+   "ts": 1795110550000,
+   "date": "2026-11-19",
+   "time": "19:49",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
+  },
+  {
+   "id": "A56C8D43A1D8E721D252661F7D050928",
+   "sender": "אלחנן שניאור",
+   "text": "https://youtube.com/shorts/xmWHa_smssg?feature=share",
+   "ts": 1795111742000,
+   "date": "2026-11-19",
+   "time": "20:09",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
   }
  ]
 }

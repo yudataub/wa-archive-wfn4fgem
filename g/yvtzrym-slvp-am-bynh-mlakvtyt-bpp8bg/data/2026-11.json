@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים סלופ עם בינה מלאכותית",
- "updated": "2026-11-18T21:36:40.360Z",
+ "updated": "2026-11-19T15:50:28.639Z",
  "messages": [
   {
    "id": "3EB0EB4319BC0FFB70940C",
@@ -767,6 +767,90 @@
    "files": [],
    "drive": null,
    "phone": "972547620744"
+  },
+  {
+   "id": "A5C6050EE70FC1ECC321EE749C39C297",
+   "sender": "עו״ד תומר ריספלר",
+   "text": "https://pally.com/r/6C004088FB-D51042AF51",
+   "ts": 1795095126000,
+   "date": "2026-11-19",
+   "time": "15:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546789665"
+  },
+  {
+   "id": "A578DFDB370DD1F77EB406C5FD025F44",
+   "sender": "עו״ד תומר ריספלר",
+   "text": "בוט כמו tab לוואצאפ עובד מעולה",
+   "ts": 1795095154000,
+   "date": "2026-11-19",
+   "time": "15:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546789665"
+  },
+  {
+   "id": "ACA26C76AAE4AA9E0148833FB0747575",
+   "sender": "ניסים המורה",
+   "text": "פאלי, לא יציב ויעיל כמו טאב בעברית.\nלא ניסיתי באנגלית.",
+   "ts": 1795095288000,
+   "date": "2026-11-19",
+   "time": "15:34",
+   "files": [],
+   "drive": null,
+   "phone": "972506369525"
+  },
+  {
+   "id": "AC258985F1BB4FB704E8E1F6B10C00C6",
+   "sender": "חפציה",
+   "text": "הארק הצליח!!\nבניתי משחק אינטראקטיבי לשיעור הקרוב עם כיתה ח - על המידרג הביולוגי.\nזה המשחק שכבר כמעט מושלם (חסרות תמונות לרמת מולקולה ואטום. הוא יצר 60 תמונות לפחות בשביל המשחק)\nhttps://hark.com/site/f0a27bb3-3ec8-4513-94aa-5e7fe16a37db?hark_region=us\n\nותשוו לגרסה הראשונה שקיבלתי ממנו 🤢\nhttps://hark.com/site/5ad40c1d-1036-4d72-9aaf-a1f0610145d8?hark_region=us\nהכרחתי אותו להגיע לנראות טובה, במחדל זה היה ממש דל.\n\nיופי, אני מרוצה למדי\n\nאני מתעדת מה שלומדת עליו פה -\nhttps://docs.google.com/document/d/1reKm3W3tlGlRcwVv7tR1oGuOZJ1BKUFemlGGbKyJatY/edit?tab=t.0",
+   "ts": 1795101121000,
+   "date": "2026-11-19",
+   "time": "17:12",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "3EB007352F33983658D657",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*הערב ב-20:00, הזדמנות נוספת  של לייב: מגיליון לקטלוג חי.*\nיצירת טופסי הרשמה, תשובות תלמידים ועוד\nקוד קופון 20% הנחה, לנרשמים עד הסדנה. רשמו:1911 בעמוד התשלום\nhttps://www.lomdot.org/event-details/sheet2catalog2\nלהרשמה לחבילה כולה, כולל סדנה במתנה:\nhttps://www.lomdot.org/event-details/november123",
+   "ts": 1795101650000,
+   "date": "2026-11-19",
+   "time": "17:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "8.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MGllwu77H89YFsvSJ1A2QV82DGpcJfi9/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB007352F33983658D657_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1MGllwu77H89YFsvSJ1A2QV82DGpcJfi9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "AC8D3D2A943150D71131AF6226DC92DD",
+   "sender": "عبد الملك",
+   "text": "",
+   "ts": 1795103405000,
+   "date": "2026-11-19",
+   "time": "17:50",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "2KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1fd13bqW5OqE9KrQslPyUVYwHydXGku0d/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972524312848"
   }
  ]
 }

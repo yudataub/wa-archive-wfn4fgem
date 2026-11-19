@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-11-18T16:41:28.934Z",
+ "updated": "2026-11-19T18:18:39.530Z",
  "messages": [
   {
    "id": "A536C79BE19E2BCCEEA23C666D662BA6",
@@ -320,6 +320,27 @@
    ],
    "drive": null,
    "phone": "972506686869"
+  },
+  {
+   "id": "ACC8132D3E9EDCBB66BE737FF38A20C3",
+   "sender": "מורן ליכטנפלד",
+   "text": "❓*חושבים שאתם אשפי קלוד קוד?! הכנו לכם מבחן קצר שיבדוק מה אתם שווים!!* 💪💪\nרק 10 שאלות ובסופן תקבלו ציון שיעזור לכם להבין איך ואיפה למקם את עצמכם 👇\nhttps://ltsai.co/57tIvTi\n\n*ואם אתם אנשי פיתוח - הצטרפו לקבוצת ה-AI Engineers שלנו* 👇",
+   "ts": 1795112295000,
+   "date": "2026-11-19",
+   "time": "20:18",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "69.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1jetznF2XeW1n6Q4LR1czACcA8vK305dn/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACC8132D3E9EDCBB66BE737FF38A20C3_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1jetznF2XeW1n6Q4LR1czACcA8vK305dn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504610064"
   }
  ]
 }

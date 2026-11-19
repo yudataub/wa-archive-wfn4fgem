@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-11-18T14:42:36.543Z",
+ "updated": "2026-11-19T18:15:40.956Z",
  "messages": [
   {
    "id": "A5463BF88870C5DAA09E11188F1B1017",
@@ -326,6 +326,58 @@
    "ts": 1795012945000,
    "date": "2026-11-18",
    "time": "16:42",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A50FD6EC950A4BD72A79E392021DC445",
+   "sender": "אלחנן שניאור",
+   "text": "מאמר חדש לפרשה",
+   "ts": 1795097052000,
+   "date": "2026-11-19",
+   "time": "16:04",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A527972171982E0F17E9C744425F9B11",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1795097073000,
+   "date": "2026-11-19",
+   "time": "16:04",
+   "files": [
+    {
+     "name": "ויצא (2).pdf",
+     "size": "286KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1WotUHiGgfr89eOmih525Ij4xNEXcaGLv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A5C535BDEF231E75E4F3B5F6A9840EDF",
+   "sender": "אלחנן שניאור",
+   "text": "https://youtube.com/shorts/xmWHa_smssg?feature=share",
+   "ts": 1795111697000,
+   "date": "2026-11-19",
+   "time": "20:08",
+   "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A578B3AA725CF73E26DCA79F1F178AC8",
+   "sender": "אלחנן שניאור",
+   "text": "אם צפיתם ונהנתם מהסרטון, אודה לכם מאוד אם תוכלו לעשות 👍 ביוטיוב, זה גורם לאולגריתם של יוטיוב לקדם את הסרטון לעוד אנשים.",
+   "ts": 1795112140000,
+   "date": "2026-11-19",
+   "time": "20:15",
    "files": [],
    "drive": null,
    "phone": "972527693680"

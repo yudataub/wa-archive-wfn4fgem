@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-18T17:07:27.225Z",
+ "updated": "2026-11-19T18:30:48.036Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -1320,6 +1320,66 @@
    "files": [],
    "drive": null,
    "phone": "972547770810"
+  },
+  {
+   "id": "3EB0260154FC2739E25303",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "הנה ציטוטים רבים ועוד, בהצלחה",
+   "ts": 1795083947000,
+   "date": "2026-11-19",
+   "time": "12:25",
+   "files": [
+    {
+     "name": "חנן פורת - ציטוטים מדבריו+ תמונה+ תעודת זהות ועוד.docx",
+     "size": "2.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1I4wRhJeyszLlw6RT2KStjJsdbx5KazbA/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "AC70151B091771B4B280DB8A9F14F6B3",
+   "sender": "Chaya Sara Shaer",
+   "text": "תודה רבהה 🙏🏻",
+   "ts": 1795087830000,
+   "date": "2026-11-19",
+   "time": "13:30",
+   "files": [],
+   "drive": null,
+   "phone": "972547770810"
+  },
+  {
+   "id": "AC275E9FF55571AB7C74F8529A3DF4F3",
+   "sender": "Chaya Sara Shaer",
+   "text": "",
+   "ts": 1795087838000,
+   "date": "2026-11-19",
+   "time": "13:30",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "42KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC275E9FF55571AB7C74F8529A3DF4F3_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547770810"
+  },
+  {
+   "id": "3EB00B55A46951D6EB13A6",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "חומר חדש: 1. לכבוד יום ההולדת של חנן פורת ז\"ל שחל אתמול - מצגת גדולה על תולדות חייו ופועלו האדיר (מסמכים ותמונות נדירים) 2. ליום ההוקרה לפצועי צה\"ל, י\"ז בכסלו (ביום שישי הבא) - מצגת על פציעתו הקשה במלחמת יום הכיפורים והשפעתה על חייו (אפשר לשלב בטקס). בהצלחה  https://docs.google.com/presentation/d/1lJ0mjrDo2_EuwgNTgc-cWP8D5Pp31hqA/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true   https://docs.google.com/presentation/d/1J9t3CBDu9Gw-vXZfC9eU_BOeSWnW2W5N/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true",
+   "ts": 1795113039000,
+   "date": "2026-11-19",
+   "time": "20:30",
+   "files": [],
+   "drive": null,
+   "phone": "972586522072"
   }
  ]
 }

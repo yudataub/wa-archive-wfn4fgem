@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משניות לילדים 1⃣",
- "updated": "2026-11-12T17:08:27.443Z",
+ "updated": "2026-11-19T14:48:46.813Z",
  "messages": [
   {
    "id": "A529EA30FE32A9ACBA60DDF8D7956805",
@@ -58,6 +58,57 @@
      "type": "audio/mpeg",
      "path": "https://drive.google.com/file/d/1wE_d0THW2Kr_ScNN2U5hajjHdl4wi5Xo/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A5284137B5C9291BD2B2578C7898C902",
+   "sender": "משנת חיים",
+   "text": "*כיף חיים עם משנת חיים*🎁\nהשבוע נלמד את משנה ד':\nhttps://youtu.be/IKxcY6x6MZA\nהחידה של היום:\nhttps://forms.gle/Ec3XJDPFS7UST87C7\nכנסו לקישור ותענו על השאלה, בנוסף מי שלומד בעל פה את המשנה נכנס להגרלה נוספת🎁",
+   "ts": 1795099598000,
+   "date": "2026-11-19",
+   "time": "16:46",
+   "files": [],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A57D199FB9190547F66FAB390A856B3B",
+   "sender": "משנת חיים",
+   "text": "",
+   "ts": 1795099666000,
+   "date": "2026-11-19",
+   "time": "16:47",
+   "files": [
+    {
+     "name": "הודעה קולית.mp3",
+     "size": "8.6MB",
+     "type": "audio/mpeg",
+     "path": "https://drive.google.com/file/d/1watGuTXoX0beKWdietgLldcEE7bMaAvj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972555533789"
+  },
+  {
+   "id": "A573E6F1D4624A3B87290FA5DFCD28A4",
+   "sender": "משנת חיים",
+   "text": "",
+   "ts": 1795099722000,
+   "date": "2026-11-19",
+   "time": "16:48",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hakNijU0ui_8ePh4bhVfbZSt8NiVu3xq/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A573E6F1D4624A3B87290FA5DFCD28A4_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1hakNijU0ui_8ePh4bhVfbZSt8NiVu3xq&sz=w1200"
     }
    ],
    "drive": null,

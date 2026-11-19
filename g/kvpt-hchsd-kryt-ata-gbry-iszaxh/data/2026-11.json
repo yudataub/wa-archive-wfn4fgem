@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-18T19:20:15.428Z",
+ "updated": "2026-11-19T16:41:10.988Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -1743,6 +1743,97 @@
    ],
    "drive": null,
    "phone": "972525135333"
+  },
+  {
+   "id": "AC97B240B5308D99A340FFE56A177E13",
+   "sender": "איתמר",
+   "text": "יש למישהו את המספר של קולט? חסיד חב\"ד שגר בשיכון סיגעט כמדומני",
+   "ts": 1795091224000,
+   "date": "2026-11-19",
+   "time": "14:27",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "3A56D9B975FC4DF6948D",
+   "sender": "רוני פלייש",
+   "text": "📇 אורי קולט\n+972503638999",
+   "ts": 1795091288000,
+   "date": "2026-11-19",
+   "time": "14:28",
+   "files": [],
+   "drive": null,
+   "phone": "972527527707"
+  },
+  {
+   "id": "ACA2FD3B1BDFD40E517FE87CB8118300",
+   "sender": "איתמר",
+   "text": "תודה רבה",
+   "ts": 1795091800000,
+   "date": "2026-11-19",
+   "time": "14:36",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "AC597FDD0E0624187A7EE02F7455964A",
+   "sender": "אלקנה",
+   "text": "🔥 *השטיבל - טשולנט יוקרתי הכי משובח בניחוח של פעם בקרית אתא* 🔥\n\n*מוזמנים לחויית הפינוקים של ליל שישי*\n\n✅ *מקומות ישיבה מרווחים*\n✅ *חדר vip באוירה שקטה ונעימה*\n\n*בכל יום חמישי מהשעה 18.00 עד 01.00 בלילה*\n\n*פרטים נוספים באתר*\nhttps://cholenet.co.il/cholenet/hashtibel-cholent-kiryat-ata/",
+   "ts": 1795098369000,
+   "date": "2026-11-19",
+   "time": "16:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "185KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15oXZNUGkKby3W_w5PGCX1HKLfg-FBw13/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15oXZNUGkKby3W_w5PGCX1HKLfg-FBw13&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972529407610"
+  },
+  {
+   "id": "A5A46F443EAE72B7FB6BC49E7B4AA251",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "",
+   "ts": 1795101558000,
+   "date": "2026-11-19",
+   "time": "17:19",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "322KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10YJbRIeJdVaDbPMF2K5F8KycUj8TdPUu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10YJbRIeJdVaDbPMF2K5F8KycUj8TdPUu&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "A5BE8D1F37AB4F7D0067F4B1B5E5A8F8",
+   "sender": "מוישי ולדמן",
+   "text": "*מגוון שירות להשכרה בקרית אתא*",
+   "ts": 1795106448000,
+   "date": "2026-11-19",
+   "time": "18:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "90KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5BE8D1F37AB4F7D0067F4B1B5E5A8F8_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507924828"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-18T16:36:27.028Z",
+ "updated": "2026-11-19T16:01:28.910Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -993,6 +993,67 @@
      "path": "https://drive.google.com/file/d/1kkI9u7HjUq4AEXbDugDZzwhwnFhJ_Mnz/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1kkI9u7HjUq4AEXbDugDZzwhwnFhJ_Mnz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB01E7C3A8EF7799223A5",
+   "sender": "עמי חניא",
+   "text": "🎁 מתנת יום הולדת מ-AI\n\nהיום יום ההולדת שלי, והחלטתי לתת מתנה במקום לקבל.\n\nככה היא נוצרה:\n1️⃣ ביקשתי מ-GPT לכתוב שיר על מה שעשיתי בשנה האחרונה, מתוך השיחות שלנו - עם טיפים מעצימים לצופים.\n2️⃣ הפכתי אותו לשיר מושלם ב-Suno.\n3️⃣ עברתי ל-Claude ואמרתי לו להפיק מזה קליפ: לשלב צילומים שלי, חוברות ומשחקים מהאתר, ולצייר את הכול מסביב.\n4️⃣ קלוד יצר את הקליפ :)\n\nיצא קליפ שאני ממש אוהב, ואני נותן אותו לכם.\nשבו איתי, מתחילים עכשיו! 🧡",
+   "ts": 1795072494000,
+   "date": "2026-11-19",
+   "time": "09:14",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.7MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1VMbrf9NsFG1cGIaywHg-Crq-GQ8O4zfm/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB01E7C3A8EF7799223A5_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1VMbrf9NsFG1cGIaywHg-Crq-GQ8O4zfm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC18B73562B00196C8B7D550BAF0DD64",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קשה\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795075726000,
+   "date": "2026-11-19",
+   "time": "10:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "332KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1goGoNkXwvGws-jkwu73bVC4-aFrOa1Cl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1goGoNkXwvGws-jkwu73bVC4-aFrOa1Cl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB05BE453B3FCDA5B4CEB",
+   "sender": "עמי חניא",
+   "text": "חידה מחוברת חנוכה!\nרמת קושי: קשה\nנושא: חנוכה\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795104068000,
+   "date": "2026-11-19",
+   "time": "18:01",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "300KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19KSdjjStHJiSGko7b9oQU1_eBqtF0xO4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19KSdjjStHJiSGko7b9oQU1_eBqtF0xO4&sz=w1200"
     }
    ],
    "drive": null,

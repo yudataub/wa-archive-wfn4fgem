@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ה",
- "updated": "2026-11-18T18:59:44.941Z",
+ "updated": "2026-11-19T08:48:34.626Z",
  "messages": [
   {
    "id": "3EB07D29E51DF1417119FE",
@@ -1372,6 +1372,25 @@
    "date": "2026-11-18",
    "time": "20:59",
    "files": [],
+   "drive": null,
+   "phone": "972533378198"
+  },
+  {
+   "id": "A5D9052B20C2FAC9AAB3E00276BB055C",
+   "sender": "דוד ספיאשוילי",
+   "text": "",
+   "ts": 1795078108000,
+   "date": "2026-11-19",
+   "time": "10:48",
+   "files": [
+    {
+     "name": "מבחן שכבת ה' בהלכה עם ניקוד.pdf",
+     "size": "4.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/103o-mxBKZik30nZgwQzRVtBVT2bfkQ5_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972533378198"
   }

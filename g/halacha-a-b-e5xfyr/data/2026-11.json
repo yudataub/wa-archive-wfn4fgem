@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-18T18:55:15.004Z",
+ "updated": "2026-11-19T16:48:04.878Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -1225,6 +1225,17 @@
    "files": [],
    "drive": null,
    "phone": "972546081268"
+  },
+  {
+   "id": "ACF45C42F3B49F4B61304739C3DD9B53",
+   "sender": "אלעד טאוב",
+   "text": "https://youtu.be/6flyF4dgzI8",
+   "ts": 1795106855000,
+   "date": "2026-11-19",
+   "time": "18:47",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
   }
  ]
 }
