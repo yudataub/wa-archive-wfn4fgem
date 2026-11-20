@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-19T23:30:10.609Z",
+ "updated": "2026-11-20T13:34:49.946Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -19858,6 +19858,254 @@
    "files": [],
    "drive": null,
    "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB052F3856405C2FB4475",
+   "sender": "אני",
+   "text": "ספרים מהרשימה שחסרים (אינם נמצאים במקורות):\nהספרים הבאים אינם מופיעים כקבצי מקור, אם כי חלקם מוזכרים בתוך הספרים האחרים כספרים שחוברו על ידי הרב:\nדיני ערב פסח שחל בשבת – לא נמצא במקורות (ישנו פרק על פסח בתוך ספר \"צבא כהלכה\"\n, אך לא הספר הייעודי הנ\"ל).\nהלכה ממקורה - ימי ניסן ואייר – לא נמצא במקורות.\nהלכה ממקורה [ירושלים תשע\"א] מוסד הרב קוק – לא נמצא קובץ בשם זה (ייתכן ומדובר בגרסה מוקדמת או ספר כללי שלא צורף).\nהלכה ממקורה - עת זקנה – לא נמצא במקורות.\nהלכה ממקורה - פורים – הטקסט המלא אינו נמצא, אך הספר מוזכר בהקדמה לספר שבת כספר שיצא לאור בעבר\n.\nהלכה ממקורה - תפילין – הטקסט המלא אינו נמצא, אך גם הוא מוזכר בהקדמה כספר שיצא לאור",
+   "ts": 1795137441000,
+   "date": "2026-11-20",
+   "time": "03:17",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC109D39D29CF0D4D68EA550C55C653F",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1795154818000,
+   "date": "2026-11-20",
+   "time": "08:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "93KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC109D39D29CF0D4D68EA550C55C653F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACB414DFD1FF3FE1ABA9EEEA31B899FB",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1795154819000,
+   "date": "2026-11-20",
+   "time": "08:06",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "20KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1aprEcpgXGz82t2Arh1Wh7zjC-f3fX8GP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "אורלי אוחנה",
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC2E21EF5BF4684FA278DBF7DC356043",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1795156836000,
+   "date": "2026-11-20",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "165KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GmD7t_SSPJl2_N3nUDInSe97EYeFVKz_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GmD7t_SSPJl2_N3nUDInSe97EYeFVKz_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "A5DF95A69418055DEB0E2CE3B886BC57",
+   "sender": "אני",
+   "text": "",
+   "ts": 1795158524000,
+   "date": "2026-11-20",
+   "time": "09:08",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "268KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/1Tf_O_nq3nAWDL7_kSKYxAQDxK9IM-ERf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "ACB75AF823458F993C162BDE271A11F5",
+   "sender": "הודיה",
+   "text": "נבקש את העיתון משכן שילה,הידברות,ערוץ 2000 עיתון מאירים תודה רבה",
+   "ts": 1795163085000,
+   "date": "2026-11-20",
+   "time": "10:24",
+   "files": [],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "AC8CA9D51E1194A1BBF0E217AE624438",
+   "sender": "~sara amor",
+   "text": "הרב, הצלחת?",
+   "ts": 1795165132000,
+   "date": "2026-11-20",
+   "time": "10:58",
+   "files": [],
+   "drive": null,
+   "thread": "~sara amor",
+   "phone": "972515241998"
+  },
+  {
+   "id": "3EB07F8BE0B798E84F0C48",
+   "sender": "אני",
+   "text": "https://docs.google.com/spreadsheets/d/1-BoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/edit",
+   "ts": 1795165304000,
+   "date": "2026-11-20",
+   "time": "11:01",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC656E52509C86126CBCA13D53A0CCC0",
+   "sender": "~sara amor",
+   "text": "",
+   "ts": 1795165385000,
+   "date": "2026-11-20",
+   "time": "11:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "17KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC656E52509C86126CBCA13D53A0CCC0_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "thread": "~sara amor",
+   "phone": "972515241998"
+  },
+  {
+   "id": "3EB0812A61D3F067047502",
+   "sender": "אני",
+   "text": "https://docs.google.com/spreadsheets/d/1-BoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/copy",
+   "ts": 1795165398000,
+   "date": "2026-11-20",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0E6EAA67A9CD410C7AE",
+   "sender": "אני",
+   "text": "https://docs.google.com/spreadsheets/d/1-BoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/copyhttps://docs.google.com/spreadsheets/d/1-https://docs.google.com/spreadsheets/d/1-BoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/copyBoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/copy",
+   "ts": 1795165521000,
+   "date": "2026-11-20",
+   "time": "11:05",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB041B5524E03B2BBDAC5",
+   "sender": "אני",
+   "text": "https://docs.google.com/spreadsheets/d/1-BoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/copy",
+   "ts": 1795165597000,
+   "date": "2026-11-20",
+   "time": "11:06",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB0188BC22DCC5AEFF643",
+   "sender": "אני",
+   "text": "https://docs.google.com/spreadsheets/d/1-BoMOsupcTzpqDexvxGz4-P0m3rlfEPH93KI1-shWzs/edit",
+   "ts": 1795165689000,
+   "date": "2026-11-20",
+   "time": "11:08",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A5CD429DAE52E6D3A14EAB50EB24826F",
+   "sender": "אני",
+   "text": "תוכל להביא עוד משכן שילה לאורחים מצפת?",
+   "ts": 1795168244000,
+   "date": "2026-11-20",
+   "time": "11:50",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "AC19989977EFB4234A78332650889103",
+   "sender": "ktla5359",
+   "text": "יש לך , מתאים שיהיה לך,  רשימת שיעורי תורה ברחבי העיר .\nשיעורים לגברים ולנשים",
+   "ts": 1795168831000,
+   "date": "2026-11-20",
+   "time": "12:00",
+   "files": [],
+   "drive": null,
+   "thread": "ktla5359",
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC6406169279B5A64B75C3A1308CC63F",
+   "sender": "ktla5359",
+   "text": "☝🏻פנו אלי מהידברות ואמרתי שאבדוק. לכן פונה אליך",
+   "ts": 1795168861000,
+   "date": "2026-11-20",
+   "time": "12:01",
+   "files": [],
+   "drive": null,
+   "thread": "ktla5359",
+   "phone": "972524560100"
+  },
+  {
+   "id": "AC9A5383846471FC72B11BFDF27E80D2",
+   "sender": ".",
+   "text": "השנה לא.בדרכ כן",
+   "ts": 1795180878000,
+   "date": "2026-11-20",
+   "time": "15:21",
+   "files": [],
+   "drive": null,
+   "thread": ".",
+   "phone": "972507463604"
+  },
+  {
+   "id": "AC83CAB2FD70E4F69B6B09E24E1B2591",
+   "sender": "אוריה דהישראלי",
+   "text": "הידעת?\nמכירים את זה שצריך להכין את הרכב לחורף,\nלבדוק צמיגים, מגבים ותאורה?\n\nככה גם את הקול והגוף צריך להתכונן לחורף.\nאחרת יכולים לקרות כל מיני דברים לא נעימים כמו \n⏰ירידה ביכולת הקולית,\n👈צרידות שלא עוברת,\n⛓️‍💥קושי לחזור להופיע או \nבכלל לשיר לתקופה\n💨ירידה בביטחון לשיר עקב ירידת הקול\nעייפות קולית\nועוד...\n\nבדיוק בשביל זה אני עושה עכשיו *שירות הכנה לחורף*\nרוצה פרטים נוספים?",
+   "ts": 1795181687000,
+   "date": "2026-11-20",
+   "time": "15:34",
+   "files": [],
+   "drive": null,
+   "thread": "אוריה דהישראלי"
   }
  ]
 }

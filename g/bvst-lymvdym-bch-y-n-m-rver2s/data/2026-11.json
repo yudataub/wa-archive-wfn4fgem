@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בוסט לימודים בח-י-נ-ם💨🤓👨🏻‍🎓👩🏽‍🎓",
- "updated": "2026-11-19T17:29:35.504Z",
+ "updated": "2026-11-20T08:01:19.662Z",
  "messages": [
   {
    "id": "A56EAE1D60133E02C674A6FB482E4890",
@@ -219,6 +219,37 @@
      "path": "https://drive.google.com/file/d/14oIqcCEe4w-iCvXmEb9Xbyf0dJIysEYs/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=14oIqcCEe4w-iCvXmEb9Xbyf0dJIysEYs&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542765163"
+  },
+  {
+   "id": "A5A18274DDC8011F456146617AA106AF",
+   "sender": "בוסט לימודים בוסט לחיים",
+   "text": "למה תלמיד לא משתתף בשיעור? מניסיוני לרוב כי לא יודע את החומר או מספק עצמי. דברו עם המורה שלו/ה ותחשבו יחד על דרכים להגביר את המעורבות של התלמיד. אני אומר לכם זה די משמעותי בהתפתחות שלו כלומד וגם בהבנייה החברתית שלו. \n\n*טריק מחדר המורים, בקשו שהמורה יפנה אל התלמיד בכיתה ויראה לו שזה בסדר ואף כיף להשתתף!*",
+   "ts": 1795161591000,
+   "date": "2026-11-20",
+   "time": "09:59",
+   "files": [],
+   "drive": null,
+   "phone": "972542765163"
+  },
+  {
+   "id": "A5A3985C2E0A95809486BA4F1812A68C",
+   "sender": "בוסט לימודים בוסט לחיים",
+   "text": "*היום ב3 שיעור תכנות משחקים ואנימציות* הכנה לעולם ההייטק👨🏼‍🏫👩🏻‍💻👨🏻‍💻בואו לשיעור ניסיון",
+   "ts": 1795161653000,
+   "date": "2026-11-20",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "239KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HYYbzVf6CEgRVlLciLj47uN3m9-cuf7u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HYYbzVf6CEgRVlLciLj47uN3m9-cuf7u&sz=w1200"
     }
    ],
    "drive": null,

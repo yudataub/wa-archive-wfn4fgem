@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משפחת נעם תשפז❤️",
- "updated": "2026-11-19T16:10:58.874Z",
+ "updated": "2026-11-20T11:32:35.430Z",
  "messages": [
   {
    "id": "AC3A102DF013177A6C6B9553517C2345",
@@ -4229,6 +4229,45 @@
    "date": "2026-11-19",
    "time": "18:10",
    "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "4AB4C2FA6B5F09D01370",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1795158428000,
+   "date": "2026-11-20",
+   "time": "09:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/4AB4C2FA6B5F09D01370_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC18A7F00CAE13E06C392F4D9CACA2AC",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1795174339000,
+   "date": "2026-11-20",
+   "time": "13:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "514KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1zuYmi1asV6c5pZvT-r5mLcrp7eQ0cAd_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1zuYmi1asV6c5pZvT-r5mLcrp7eQ0cAd_&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972507864721"
   }

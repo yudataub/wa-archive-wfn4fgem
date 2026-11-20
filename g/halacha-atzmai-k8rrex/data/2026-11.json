@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-19T19:07:50.285Z",
+ "updated": "2026-11-20T13:54:50.297Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -2211,6 +2211,78 @@
    ],
    "drive": null,
    "phone": "972525665006"
+  },
+  {
+   "id": "ACE5CB5291572EDF7140D0E5574487FB",
+   "sender": "תמר שנדורפי",
+   "text": "מטלה 1- כתב סתרים בקבוצות ואחר כך חלוקה למקרה, דין , הידור וטעמים. סיכום לפרק מניין עשרה.",
+   "ts": 1795174087000,
+   "date": "2026-11-20",
+   "time": "13:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "158KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B1BVOIwiyvw_58K-egFZOw9PXNJB1mRI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B1BVOIwiyvw_58K-egFZOw9PXNJB1mRI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544932960"
+  },
+  {
+   "id": "AC1509D653525E71ACC39E4BB1B8F073",
+   "sender": "אלחנן שטראוס",
+   "text": "משחק סיכום אינטראקטיבי על קדושת בית כנסת",
+   "ts": 1795182166000,
+   "date": "2026-11-20",
+   "time": "15:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "257KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1z9c1GikH8P-kYdhpySL3To-YgWkrMnjn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1z9c1GikH8P-kYdhpySL3To-YgWkrMnjn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507788680"
+  },
+  {
+   "id": "3A635941FCE9CADEC0C1",
+   "sender": "רואי פרנץ",
+   "text": "",
+   "ts": 1795182880000,
+   "date": "2026-11-20",
+   "time": "15:54",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1eyDgKfOLwz24kAZhh_JwiFL0E1NvnPNv/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3A635941FCE9CADEC0C1_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1eyDgKfOLwz24kAZhh_JwiFL0E1NvnPNv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509036036"
+  },
+  {
+   "id": "3A21C0F04E6BA866D664",
+   "sender": "רואי פרנץ",
+   "text": "‏משחק סיכום אינטראקטיבי על חנוכה",
+   "ts": 1795182892000,
+   "date": "2026-11-20",
+   "time": "15:54",
+   "files": [],
+   "drive": null,
+   "phone": "972509036036"
   }
  ]
 }

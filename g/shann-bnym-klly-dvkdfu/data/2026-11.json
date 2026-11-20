@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-11-19T19:24:28.164Z",
+ "updated": "2026-11-20T11:14:27.157Z",
  "messages": [
   {
    "id": "ACF54F64A34CDDCC927BCF19F5D8BE8E",
@@ -1170,6 +1170,28 @@
    "files": [],
    "drive": null,
    "phone": "972538311231"
+  },
+  {
+   "id": "AC9C53F371D4B2DCC6BC4E20D62DD216",
+   "sender": "דויד שולמן",
+   "text": "אפשר את המייל של הרב יצחק פייגלין",
+   "ts": 1795172923000,
+   "date": "2026-11-20",
+   "time": "13:08",
+   "files": [],
+   "drive": null,
+   "phone": "972546751302"
+  },
+  {
+   "id": "3EB0E3A7BD3CAC825DEB21",
+   "sender": "יצחק פייגלין",
+   "text": "feiglinitz@shaanan.ac.il",
+   "ts": 1795173246000,
+   "date": "2026-11-20",
+   "time": "13:14",
+   "files": [],
+   "drive": null,
+   "phone": "972524879911"
   }
  ]
 }

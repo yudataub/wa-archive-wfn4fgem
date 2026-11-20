@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-19T19:06:20.264Z",
+ "updated": "2026-11-20T13:55:50.322Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -2131,6 +2131,98 @@
      "path": "https://drive.google.com/file/d/1FZEAlTUZrhDv7X1wdGIzA60j26OPAmdC/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1FZEAlTUZrhDv7X1wdGIzA60j26OPAmdC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "AC5A659987BEE7C04363E5CF5CA99C5B",
+   "sender": "נתן.קל יועץ ומנטור זוגי",
+   "text": "",
+   "ts": 1795169108000,
+   "date": "2026-11-20",
+   "time": "12:05",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "32.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1OSy85fzYE5nZgNKprqawJSigaFUutwQ_/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC5A659987BEE7C04363E5CF5CA99C5B_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1OSy85fzYE5nZgNKprqawJSigaFUutwQ_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546598043"
+  },
+  {
+   "id": "ACFCAE938A365B102D9A2DC46E6439A9",
+   "sender": "נתן.קל יועץ ומנטור זוגי",
+   "text": "✨ חדש! חדש! חדש! ✨\n📖 פרשת השבוע – במבט חסידי על הבית היהודי \nבכל יום שלישי, בסטטוס!\nבכל שבוע נגלה מבט עמוק ומעשי על חיי הנישואין והזוגיות.\nאיך הסיפורים שבתורה משקפים את מה שקורה אצלנו בבית?\nואיך אפשר להפוך את ההבנה הזאת לכלים מעשיים לבניית זוגיות טובה יותר?\n💡 כדי להבין מה קורה בינינו, צריך פשוט ללמוד להסתכל אחרת.\n📺 רוצים לצפות בתכנים נוספים?\nאו בשאר השיעורים שכבר פורסמו\nמוזמנים למצוא אותי ביוטיוב, להירשם לערוץ( נתן קלינבורד)ולהצטרף למסע של הבנה, עומק וכלים מעשיים לחיי הנישואין.\nדוגמא לשיעור האחרון שעלה לסטטוס מפרשת תולדות",
+   "ts": 1795169108000,
+   "date": "2026-11-20",
+   "time": "12:05",
+   "files": [],
+   "drive": null,
+   "phone": "972546598043"
+  },
+  {
+   "id": "ACBD656E075A4D37740D10FDD4BE129D",
+   "sender": "Moshe",
+   "text": "לשמור על הראש! שבת שלום",
+   "ts": 1795182905000,
+   "date": "2026-11-20",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1MJtLaf3_WkHH_3E2lLZaLUIvriu9g9bW/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACBD656E075A4D37740D10FDD4BE129D_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1MJtLaf3_WkHH_3E2lLZaLUIvriu9g9bW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "AC859D0812B733405AD8F68BFE06815B",
+   "sender": "Ronen I Tayar 2",
+   "text": "",
+   "ts": 1795182941000,
+   "date": "2026-11-20",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "95KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC859D0812B733405AD8F68BFE06815B_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "ACBBEB35195715D15A3F6A8B5A052942",
+   "sender": "Ronen I Tayar 2",
+   "text": "",
+   "ts": 1795182941000,
+   "date": "2026-11-20",
+   "time": "15:55",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "255KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/14PXiir64FBn69P0gt-nYX489zU6Abbx0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14PXiir64FBn69P0gt-nYX489zU6Abbx0&sz=w1200"
     }
    ],
    "drive": null,

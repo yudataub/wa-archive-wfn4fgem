@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית המדרש למלמדים - תוכן",
- "updated": "2026-11-17T16:11:09.591Z",
+ "updated": "2026-11-20T08:02:19.689Z",
  "messages": [
   {
    "id": "3EB03D40A6FBE713212CB9",
@@ -112,6 +112,68 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1upuEqIjSS8tUtXEIMZdjzgx_HZN1Opcg/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "ACA4727C12FD64D528B3B83B6FFAF5D9",
+   "sender": "יהודה ויינר",
+   "text": "*מסע לימודי לקראת חנוכה: 8 ימים של אור*\nשמונה מיילים קצרים: תוכן, סיפור ושאלות לשיח משפחתי סביב השולחן.\nמחמישי ט\"ז בכסלו ועד מוצאי שבת וישב, ליל נר שני.\nההשתתפות ללא עלות.\nלהרשמה זריזה:\nhttps://bit.ly/4j5PPaT\nבית המדרש למלמדים",
+   "ts": 1795161186000,
+   "date": "2026-11-20",
+   "time": "09:53",
+   "files": [],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "AC24E9DB8F7DF5B6893C1F069BCA052F",
+   "sender": "יהודה ויינר",
+   "text": "*מסע לימודי לקראת חנוכה: 8 ימים של אור*\nשמונה מיילים קצרים: תוכן, סיפור ושאלות לשיח משפחתי סביב השולחן.\nמחמישי ט\"ז בכסלו ועד מוצאי שבת וישב, ליל נר שני.\nההשתתפות ללא עלות.\nלהרשמה זריזה:\nhttps://bit.ly/4j5PPaT\nבית המדרש למלמדים",
+   "ts": 1795161217000,
+   "date": "2026-11-20",
+   "time": "09:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IiQH6zxLeEfeLIcJhsq4GDJfMRoP7hJv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IiQH6zxLeEfeLIcJhsq4GDJfMRoP7hJv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "ACC336C19A1F14EF9D8D0BDA84F56DB1",
+   "sender": "יהודה ויינר",
+   "text": "*מסע לימודי לקראת חנוכה: 8 ימים של אור*\nשמונה מיילים קצרים: *תוכן החג*, *סיפורים* מיוחדים, *ושאלות לשיח משפחתי* סביב השולחן.\nמחמישי ט\"ז בכסלו ועד מוצאי שבת וישב, ליל נר שני.\nההשתתפות ללא עלות.\nלהרשמה זריזה:\nhttps://bit.ly/4j5PPaT\nבית המדרש למלמדים",
+   "ts": 1795161726000,
+   "date": "2026-11-20",
+   "time": "10:02",
+   "files": [],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "AC9BEEAC005E2E54EBBE6DA865500BA3",
+   "sender": "יהודה ויינר",
+   "text": "",
+   "ts": 1795161727000,
+   "date": "2026-11-20",
+   "time": "10:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "425KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JEna9nfcPFWDhsRQeP3hFkCM1APbGTtZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JEna9nfcPFWDhsRQeP3hFkCM1APbGTtZ&sz=w1200"
     }
    ],
    "drive": null,

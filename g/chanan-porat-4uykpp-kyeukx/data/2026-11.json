@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חנן פורת - דמות",
- "updated": "2026-11-19T19:35:58.326Z",
+ "updated": "2026-11-20T09:21:23.730Z",
  "messages": [
   {
    "id": "3EB0644E45D0E4A35B1343",
@@ -2861,6 +2861,100 @@
    "files": [],
    "drive": null,
    "phone": "972543024148"
+  },
+  {
+   "id": "AC80FBF5297E301DA693B689FB14912E",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1795146544000,
+   "date": "2026-11-20",
+   "time": "05:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "215KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Y0-H5ZYSYKhkWXBqqBOCtczIGOgBIb79/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Y0-H5ZYSYKhkWXBqqBOCtczIGOgBIb79&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC570FBC2399CE1A50F6B377D49C3305",
+   "sender": "אפי",
+   "text": "ב.טוב. \nמי שרוצה קשור לפרשה על הרב חנן.\n\nבהקשר של תדמית.\nיש גם סרטון בנוטבוק.\nשולח דף הפרשה עם התשובה של הרב חנן...",
+   "ts": 1795146585000,
+   "date": "2026-11-20",
+   "time": "05:49",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC02452807601BD03B1D59225146C55E",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1795146599000,
+   "date": "2026-11-20",
+   "time": "05:49",
+   "files": [
+    {
+     "name": "פרשה ובדיחה חוסר הריטינג של הצדיק.docx",
+     "size": "17KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1M8WGDm1PWkSvc-mjeuWDDDNlqa_ZUcLG/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACC37319F5D761151E1996DFC62E2E4C",
+   "sender": "יעל דהאן",
+   "text": "בוקר טוב\nמה התאריכים של שבוע החמד??",
+   "ts": 1795154159000,
+   "date": "2026-11-20",
+   "time": "07:55",
+   "files": [],
+   "drive": null,
+   "phone": "972526996000"
+  },
+  {
+   "id": "3AEBD35D6AAED4068771",
+   "sender": "מירב מלמד",
+   "text": "היי, יש חוברת לחנוכה כמו שהיה לסוכות?",
+   "ts": 1795157439000,
+   "date": "2026-11-20",
+   "time": "08:50",
+   "files": [],
+   "drive": null,
+   "phone": "972502840676"
+  },
+  {
+   "id": "AC310F66DDDF546B4E028AB8A57F25F2",
+   "sender": "בתיה נדב",
+   "text": "כג באייר-א בסיון",
+   "ts": 1795166282000,
+   "date": "2026-11-20",
+   "time": "11:18",
+   "files": [],
+   "drive": null,
+   "phone": "972548420599"
+  },
+  {
+   "id": "ACC64EC4EA6CD1A53FB7BF4B5FA7AC96",
+   "sender": "יעל דהאן",
+   "text": "תודה🙏",
+   "ts": 1795166481000,
+   "date": "2026-11-20",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972526996000"
   }
  ]
 }

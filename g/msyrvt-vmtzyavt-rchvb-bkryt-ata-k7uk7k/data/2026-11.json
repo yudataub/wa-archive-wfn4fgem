@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-19T17:11:35.255Z",
+ "updated": "2026-11-20T17:02:21.901Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -1473,6 +1473,57 @@
    "files": [],
    "drive": null,
    "phone": "972559971125"
+  },
+  {
+   "id": "AC73B800D8D987FD5F426652A1342456",
+   "sender": "אהובה",
+   "text": "שקית של ניטים/ כפתורים לג'ינס.",
+   "ts": 1795193377000,
+   "date": "2026-11-20",
+   "time": "18:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "153KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12PvJBRGv5Vv8mrNYmzH6cCNyMKPRvkgG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12PvJBRGv5Vv8mrNYmzH6cCNyMKPRvkgG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "AC8A05D17DF59157CBDBF58B4A518FF9",
+   "sender": "אהובה",
+   "text": "למסירה",
+   "ts": 1795193709000,
+   "date": "2026-11-20",
+   "time": "18:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "125KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/149ueair-yI4RcN95vg2PwZhXKGXN3jda/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=149ueair-yI4RcN95vg2PwZhXKGXN3jda&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528640925"
+  },
+  {
+   "id": "AC2DE7755E8707C7C6F6BC601E253CB8",
+   "sender": "שולמית",
+   "text": "אשמח מאד לקבל את הניטים ותודה מראש🙏",
+   "ts": 1795194139000,
+   "date": "2026-11-20",
+   "time": "19:02",
+   "files": [],
+   "drive": null,
+   "phone": "972507878299"
   }
  ]
 }

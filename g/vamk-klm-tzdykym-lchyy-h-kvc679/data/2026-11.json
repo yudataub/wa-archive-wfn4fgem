@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-11-16T20:36:56.666Z",
+ "updated": "2026-11-20T12:57:43.938Z",
  "messages": [
   {
    "id": "ACF55E3083B1A11855B6B51F949FA9C2",
@@ -188,6 +188,37 @@
    ],
    "drive": null,
    "phone": "972504949159"
+  },
+  {
+   "id": "AC17212A3BC74A8636CD2DFB0D4BE6C2",
+   "sender": "יפה בוכבזה",
+   "text": "",
+   "ts": 1795179459000,
+   "date": "2026-11-20",
+   "time": "14:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "182KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XKk3unOextn_If7R-CZBd-so7NhTJjBi/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XKk3unOextn_If7R-CZBd-so7NhTJjBi&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556834055"
+  },
+  {
+   "id": "AC52350D86994A42601F8C1F47C83152",
+   "sender": "יפה בוכבזה",
+   "text": "*דף פרשת השבוע*👆🏻 \nכולל א - ת בפרשה  \nלע\"נ אמי מורתי \n*אמילי מילי בת ניטה ע\"ה* \n*ואמו\"ר - שלום בן כמונה ע\"ה*   \n*נלב\"ע בי\"ב כסלו. תנצב\"ה*\nלהצלחת ושמירת חיילנו ואחדות עמנו ולרפואת כל הפצועים והחולים מעם ישראל🙏🏻\n*לגאולה שלמה ברחמים* 🙌🏻\n*שבת מבורכת ושמחה🎊*",
+   "ts": 1795179461000,
+   "date": "2026-11-20",
+   "time": "14:57",
+   "files": [],
+   "drive": null,
+   "phone": "972556834055"
   }
  ]
 }

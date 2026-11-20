@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ד\"ר שירלי הרשקו 1",
- "updated": "2026-11-19T06:27:49.109Z",
+ "updated": "2026-11-20T09:23:23.800Z",
  "messages": [
   {
    "id": "3EB0E618C8A19FE480B054",
@@ -313,6 +313,26 @@
      "type": "audio/ogg; codecs=opus",
      "path": "https://drive.google.com/file/d/1DJ4hJk_NxF3Plg4TowgXb_qXjPCXiAW7/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587151020"
+  },
+  {
+   "id": "3EB0909C44E2CEB523CA46",
+   "sender": "אנשי הקשב",
+   "text": "לחנות לחצו כאן: https://www.drshirleyhershko.com/shop",
+   "ts": 1795166580000,
+   "date": "2026-11-20",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "198KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tEe2k1gmmHEArBNoObMa3oo0NSGjYYNg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tEe2k1gmmHEArBNoObMa3oo0NSGjYYNg&sz=w1200"
     }
    ],
    "drive": null,

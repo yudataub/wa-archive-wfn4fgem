@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-19T04:05:58.828Z",
+ "updated": "2026-11-20T04:02:32.714Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -843,6 +843,46 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3AAB87C61EC599BD89B8_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A80C044EFB706A0BC91",
+   "sender": ".",
+   "text": "״מנוה היפה לנוה הרעה״ (ערכין ג, ב).",
+   "ts": 1795147331000,
+   "date": "2026-11-20",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hBb7Ut8HNKIx4IcO79i6UlM1001XC1vT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hBb7Ut8HNKIx4IcO79i6UlM1001XC1vT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ABA4D1176A0AFD9D929",
+   "sender": ".",
+   "text": "״עבד שברח מחוץ לארץ״ (ערכין ג, ב).",
+   "ts": 1795147333000,
+   "date": "2026-11-20",
+   "time": "06:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "173KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Y1oDh2CfSUPZ8pAMofcOtpoq0R--DN4k/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Y1oDh2CfSUPZ8pAMofcOtpoq0R--DN4k&sz=w1200"
     }
    ],
    "drive": null,
