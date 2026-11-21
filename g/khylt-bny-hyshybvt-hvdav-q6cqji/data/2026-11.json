@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-21T20:38:13.663Z",
+ "updated": "2026-11-21T22:14:29.448Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -3890,6 +3890,26 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "A50B04617CA5A2CC33EA945F4008191B",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "🕎 בחנוכה הזה עושים קצת אור גם בטלפון! ✨\n\nלא צריך נס ולא צריך להחליף מכשיר כדי ליהנות מהגנה טובה יותר 📱🛡️\n\nהכנתי לכם הטבה מיוחדת לחנוכה באלקטרומיקס!\n\nכל הפרטים במודעה המצורפת 👇\n\nלשאלות ולהתאמה למכשיר שלכם:\nhttps://wa.me/message/GSOVOOJ5KBAYD1",
+   "ts": 1795299239000,
+   "date": "2026-11-22",
+   "time": "00:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1I_4KGWBZ4ndIx8kzs6agD3GxMmltotrm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1I_4KGWBZ4ndIx8kzs6agD3GxMmltotrm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

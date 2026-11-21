@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "עבודות איכות לחרדים (26)",
- "updated": "2026-11-21T21:06:14.161Z",
+ "updated": "2026-11-21T21:53:52.224Z",
  "messages": [
   {
    "id": "A5C5B9C566D86D7EC3F6579D04704754",
@@ -3644,7 +3644,8 @@
      "path": "https://drive.google.com/file/d/14SvledeLrCyT7nmH4IF_Uj5-7RAQFvSA/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A50A49A86011F4A71A4328AC572F4D95_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=14SvledeLrCyT7nmH4IF_Uj5-7RAQFvSA&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=14SvledeLrCyT7nmH4IF_Uj5-7RAQFvSA&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-abvdvt-aykvt-lchrdym-26-agf4j9/v/2026-11/A50A49A86011F4A71A4328AC572F4D95_0.mp4"
     }
    ],
    "drive": null,
@@ -3813,6 +3814,25 @@
    "date": "2026-11-21",
    "time": "23:06",
    "files": [],
+   "drive": null,
+   "phone": "972553378258"
+  },
+  {
+   "id": "A51854E9B48E9837C9C83538E0BC372E",
+   "sender": "shalom",
+   "text": "*מחפש עבודה יציבה עם שכר גבוה – בלי ניסיון ובלי רישיון?*\n\nמטרופולין פותחת לך דלת לקריירה חדשה כנהג אוטובוס\nומממנת לך את כל ההכשרה.\n💰 מענק בזמן הלימודים - 15,000 ₪ \n💰 מענק התמדה אחרי תחילת עבודה - 15,000 ₪\n🎯 בונוסים חודשיים\n🍽️ תן ביס יומי\n🏆 משכורת 13 למצטיינים\nזו לא עוד עבודה – זו קריירה.\n\nלחצו עכשיו ובדקו התאמה בחינם >>\n\nhttps://lp-im.com/metropolin-quiz-sp/?eid=aAdkX5ZfSdDXWMv_nrYlrYTl0xqRUVY_CCTq4cXQApvYAPS",
+   "ts": 1795298026000,
+   "date": "2026-11-21",
+   "time": "23:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "50KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A51854E9B48E9837C9C83538E0BC372E_1.jpg",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972553378258"
   }

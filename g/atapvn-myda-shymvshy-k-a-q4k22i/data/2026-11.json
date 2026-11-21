@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אתאפון-מידע שימושי ק.אתא",
- "updated": "2026-11-21T19:20:01.006Z",
+ "updated": "2026-11-21T22:13:59.463Z",
  "messages": [
   {
    "id": "3A1360C74E1D1E477058",
@@ -4977,7 +4977,8 @@
      "path": "https://drive.google.com/file/d/1Px3cREfBHKhTXY4kVed8uQAP3QPrEjTo/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2ABACC39A18ACC99B9CA_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Px3cREfBHKhTXY4kVed8uQAP3QPrEjTo&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Px3cREfBHKhTXY4kVed8uQAP3QPrEjTo&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i-2/v/2026-11/2ABACC39A18ACC99B9CA_0.mp4"
     }
    ],
    "drive": null,
@@ -5098,11 +5099,32 @@
      "path": "https://drive.google.com/file/d/13U93WndE3TMEWM2Pl0N7m-qJKLfmXVhE/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC279AF08D5A43CB35277952C0AEB4D8_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=13U93WndE3TMEWM2Pl0N7m-qJKLfmXVhE&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=13U93WndE3TMEWM2Pl0N7m-qJKLfmXVhE&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-atapvn-myda-shymvshy-k-a-q4k22i-2/v/2026-11/AC279AF08D5A43CB35277952C0AEB4D8_0.mp4"
     }
    ],
    "drive": null,
    "phone": "972528026112"
+  },
+  {
+   "id": "A532F368FA5A80FA16E849CDCF33F9FE",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "🕎 בחנוכה הזה עושים קצת אור גם בטלפון! ✨\n\nלא צריך נס ולא צריך להחליף מכשיר כדי ליהנות מהגנה טובה יותר 📱🛡️\n\nהכנתי לכם הטבה מיוחדת לחנוכה באלקטרומיקס!\n\nכל הפרטים במודעה המצורפת 👇\n\nלשאלות ולהתאמה למכשיר שלכם:\nhttps://wa.me/message/GSOVOOJ5KBAYD1",
+   "ts": 1795299207000,
+   "date": "2026-11-22",
+   "time": "00:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yCC9Ur7qwY84jeqT_y9Nf0ADAY0Xo34p/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yCC9Ur7qwY84jeqT_y9Nf0ADAY0Xo34p&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

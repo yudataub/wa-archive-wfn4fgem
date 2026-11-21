@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אלו מציאות - פורום אור לגמרא",
- "updated": "2026-11-21T18:40:55.251Z",
+ "updated": "2026-11-21T21:12:14.243Z",
  "messages": [
   {
    "id": "ACA6B3614A504D851DF356B1E1AE52E3",
@@ -84,6 +84,47 @@
    "ts": 1795286429000,
    "date": "2026-11-21",
    "time": "20:40",
+   "files": [],
+   "drive": null,
+   "phone": "972528080814"
+  },
+  {
+   "id": "3EB0275114FB18213DCAC3",
+   "sender": "זלמן סלמנדר",
+   "text": "",
+   "ts": 1795295405000,
+   "date": "2026-11-21",
+   "time": "23:10",
+   "files": [
+    {
+     "name": "ייאוש_שלא_מדעת.pptx",
+     "size": "22.0MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1Zi3NGBJlTzGuq7t_pSW_e6WaxxQgJGgd/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586336040"
+  },
+  {
+   "id": "3EB04518026F27F8C93AC5",
+   "sender": "זלמן סלמנדר",
+   "text": "הרב יאיר, מקווה שמצגת זו תוכל להאיר ולהסביר את הקושיא על רבא...",
+   "ts": 1795295426000,
+   "date": "2026-11-21",
+   "time": "23:10",
+   "files": [],
+   "drive": null,
+   "phone": "972586336040"
+  },
+  {
+   "id": "ACC8F767935B1D892C365081C034CB9A",
+   "sender": "יאיר לקס",
+   "text": "תודה",
+   "ts": 1795295531000,
+   "date": "2026-11-21",
+   "time": "23:12",
    "files": [],
    "drive": null,
    "phone": "972528080814"

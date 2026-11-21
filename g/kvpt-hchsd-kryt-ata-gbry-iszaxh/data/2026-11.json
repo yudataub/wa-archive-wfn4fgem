@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-21T19:22:01.051Z",
+ "updated": "2026-11-21T22:13:59.485Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -1892,7 +1892,8 @@
      "path": "https://drive.google.com/file/d/1Q1b_w7ycEE5O_B5Pd_I7YFZ8ra979fdT/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC2C183041457C1233EF593257CDE813_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1Q1b_w7ycEE5O_B5Pd_I7YFZ8ra979fdT&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1Q1b_w7ycEE5O_B5Pd_I7YFZ8ra979fdT&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kvpt-hchsd-kryt-ata-gbry-iszaxh/v/2026-11/AC2C183041457C1233EF593257CDE813_0.mp4"
     }
    ],
    "drive": null,
@@ -1979,6 +1980,26 @@
    ],
    "drive": null,
    "phone": "972534281627"
+  },
+  {
+   "id": "A5A84ED20ECEB5D146ECE2DA3EB2FCD7",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "🕎 בחנוכה הזה עושים קצת אור גם בטלפון! ✨\n\nלא צריך נס ולא צריך להחליף מכשיר כדי ליהנות מהגנה טובה יותר 📱🛡️\n\nהכנתי לכם הטבה מיוחדת לחנוכה באלקטרומיקס!\n\nכל הפרטים במודעה המצורפת 👇\n\nלשאלות ולהתאמה למכשיר שלכם:\nhttps://wa.me/message/GSOVOOJ5KBAYD1",
+   "ts": 1795299207000,
+   "date": "2026-11-22",
+   "time": "00:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1XzQul_VzkPw4-92IWwpkeKeR96ByQF6M/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1XzQul_VzkPw4-92IWwpkeKeR96ByQF6M&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

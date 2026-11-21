@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-11-20T12:23:13.393Z",
+ "updated": "2026-11-21T22:13:59.445Z",
  "messages": [
   {
    "id": "A599A3538691134A9C856802507F5F66",
@@ -253,6 +253,26 @@
    ],
    "drive": null,
    "phone": "972548047828"
+  },
+  {
+   "id": "A52BE129A4AA743DD00141B4B187BBAA",
+   "sender": "אבי פייבלזון אלקטרומיקס",
+   "text": "🕎 בחנוכה הזה עושים קצת אור גם בטלפון! ✨\n\nלא צריך נס ולא צריך להחליף מכשיר כדי ליהנות מהגנה טובה יותר 📱🛡️\n\nהכנתי לכם הטבה מיוחדת לחנוכה באלקטרומיקס!\n\nכל הפרטים במודעה המצורפת 👇\n\nלשאלות ולהתאמה למכשיר שלכם:\nhttps://wa.me/message/GSOVOOJ5KBAYD1",
+   "ts": 1795299206000,
+   "date": "2026-11-22",
+   "time": "00:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kEEPoqTHQV-Czotiq2cYj_3UirDE79Gh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kEEPoqTHQV-Czotiq2cYj_3UirDE79Gh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972537173783"
   }
  ]
 }

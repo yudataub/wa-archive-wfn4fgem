@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-21T17:38:31.373Z",
+ "updated": "2026-11-21T23:02:05.593Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -7555,6 +7555,166 @@
    "files": [],
    "drive": null,
    "phone": "972509116691"
+  },
+  {
+   "id": "AC6F747EF3D586072994E2ECC3067CBB",
+   "sender": "SJG",
+   "text": "שבוע טוב איפה אפשר לקנות מנורות לשבת?",
+   "ts": 1795296214000,
+   "date": "2026-11-21",
+   "time": "23:23",
+   "files": [],
+   "drive": null,
+   "phone": "447555347536"
+  },
+  {
+   "id": "ACE3B33E485DE18738636E49CB696118",
+   "sender": "מאיר שקלאר",
+   "text": "רוטשילד \nעמרוסי",
+   "ts": 1795296356000,
+   "date": "2026-11-21",
+   "time": "23:25",
+   "files": [],
+   "drive": null,
+   "phone": "972559398100"
+  },
+  {
+   "id": "AC7055F12318B95984976CB613BCA612",
+   "sender": "חנה רווח קוסמטיקה",
+   "text": "",
+   "ts": 1795296674000,
+   "date": "2026-11-21",
+   "time": "23:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "110KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/191xlN4SuD9elTTyBecNDFI3r8cGOT7qh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=191xlN4SuD9elTTyBecNDFI3r8cGOT7qh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545465996"
+  },
+  {
+   "id": "ACDE0F455985486F1ADC72B3F28B2F80",
+   "sender": "orilevi11163",
+   "text": "דמיינו את זההה באירוע שלכם..🔥",
+   "ts": 1795299695000,
+   "date": "2026-11-22",
+   "time": "00:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1t5ORUCcBZ25WrzFP10n7LVA3MvCeC6oT/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACDE0F455985486F1ADC72B3F28B2F80_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1t5ORUCcBZ25WrzFP10n7LVA3MvCeC6oT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522848216"
+  },
+  {
+   "id": "AC977EC6806711FA8D82975378FD3756",
+   "sender": "orilevi11163",
+   "text": "מי אמרה וואוווו ולא קיבלה?! 🤩🔥\nעמדת הצילום המטורפת הזאת יכולה לככב גם באירוע שלכן!!! 🤍\n📸 היומן להזמנות נפתח!\n📲 לשריון תאריך ופרטים – 055-6630969",
+   "ts": 1795299696000,
+   "date": "2026-11-22",
+   "time": "00:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1d08TDlSFQMlD5JanSsq6knRyMWz2xwy8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1d08TDlSFQMlD5JanSsq6knRyMWz2xwy8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522848216"
+  },
+  {
+   "id": "AC4EC3AF52C0AD69AB9AD84983BB262C",
+   "sender": "יוסף ליזרוביץ",
+   "text": "מישהוא נוסף מריח הערב ריח של שריפה...כבר שעות",
+   "ts": 1795301994000,
+   "date": "2026-11-22",
+   "time": "00:59",
+   "files": [],
+   "drive": null,
+   "phone": "972527622175"
+  },
+  {
+   "id": "AC91E5BC109D818578EC596193CDA0D2",
+   "sender": "1",
+   "text": "כן.",
+   "ts": 1795302027000,
+   "date": "2026-11-22",
+   "time": "01:00",
+   "files": [],
+   "drive": null,
+   "phone": "972528372111"
+  },
+  {
+   "id": "AC0B26889542EFD35F7D7BB7F9B34B01",
+   "sender": "יוסף ליזרוביץ",
+   "text": "ידןע מה המקור?",
+   "ts": 1795302044000,
+   "date": "2026-11-22",
+   "time": "01:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527622175"
+  },
+  {
+   "id": "AC8D1B972F717E5C6A8D6CFF935921ED",
+   "sender": "יוסף ליזרוביץ",
+   "text": "מהיכן",
+   "ts": 1795302064000,
+   "date": "2026-11-22",
+   "time": "01:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527622175"
+  },
+  {
+   "id": "ACF78553CEF77D0B309CF6F5B0A47908",
+   "sender": "1",
+   "text": "אין לי מושג",
+   "ts": 1795302088000,
+   "date": "2026-11-22",
+   "time": "01:01",
+   "files": [],
+   "drive": null,
+   "phone": "972528372111"
+  },
+  {
+   "id": "ACEE8CCECE5C966EC27B74E8F6B3E2AB",
+   "sender": "יוסף ליזרוביץ",
+   "text": "תודה..נקווה לטוב",
+   "ts": 1795302104000,
+   "date": "2026-11-22",
+   "time": "01:01",
+   "files": [],
+   "drive": null,
+   "phone": "972527622175"
+  },
+  {
+   "id": "ACE6AB37ED6F5F507A3DF233AFB207AA",
+   "sender": "1",
+   "text": "בעז\"ה",
+   "ts": 1795302116000,
+   "date": "2026-11-22",
+   "time": "01:01",
+   "files": [],
+   "drive": null,
+   "phone": "972528372111"
   }
  ]
 }
