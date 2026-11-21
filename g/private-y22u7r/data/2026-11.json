@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-20T13:34:49.946Z",
+ "updated": "2026-11-21T20:08:06.630Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -20106,6 +20106,98 @@
    "files": [],
    "drive": null,
    "thread": "אוריה דהישראלי"
+  },
+  {
+   "id": "AC6D563FDD5696A3B4B1DB7A0D48AEE1",
+   "sender": "הודיה",
+   "text": "",
+   "ts": 1795278332000,
+   "date": "2026-11-21",
+   "time": "18:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-nHJ6Lpw8O3w5QviYxGQv-J4klU8GlLX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-nHJ6Lpw8O3w5QviYxGQv-J4klU8GlLX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "הודיה",
+   "phone": "972546785890"
+  },
+  {
+   "id": "AC1F6985541EE35F241FE2A98109316F",
+   "sender": "מאיר",
+   "text": "שבוע טוב,\nאשמח לקובץ של הלכות חנוכה מה קיצור מקור חיים🙏🏼",
+   "ts": 1795284165000,
+   "date": "2026-11-21",
+   "time": "20:02",
+   "files": [],
+   "drive": null,
+   "thread": "מאיר",
+   "phone": "972544464423"
+  },
+  {
+   "id": "A55E5532A4CE7D3382C8A19DE91D67F3",
+   "sender": "Amit",
+   "text": "שבוע טוב\nתזכורת נוספת\n☝🏽",
+   "ts": 1795284395000,
+   "date": "2026-11-21",
+   "time": "20:06",
+   "files": [],
+   "drive": null,
+   "thread": "Amit",
+   "phone": "972505981580"
+  },
+  {
+   "id": "A501A2CF3A342C75D2B4E24D1BA9FA6B",
+   "sender": "אני",
+   "text": "לא הצלחתי לתפוס את המורה למרות שהתקשרתי הרבה מאוד.\nרק ביום שישי בשעה 12 הוא ענה לי.\nואמר לי שהוא רוצה שיעור על עוסק במצווה פטור מהמצווה.",
+   "ts": 1795285529000,
+   "date": "2026-11-21",
+   "time": "20:25",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "A518A97B839E73BEDC86A56EDC520EA3",
+   "sender": "Amit",
+   "text": "אוקיי",
+   "ts": 1795288841000,
+   "date": "2026-11-21",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "thread": "Amit",
+   "phone": "972505981580"
+  },
+  {
+   "id": "A5F06F0E211635A08B94692A67C75960",
+   "sender": "Amit",
+   "text": "שלח לי את המערך הכי מוקדם שאתה יכול",
+   "ts": 1795288858000,
+   "date": "2026-11-21",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "thread": "Amit",
+   "phone": "972505981580"
+  },
+  {
+   "id": "3EB07BEF1D4F7ED723A50C",
+   "sender": "אלקנה שטראוס",
+   "text": "שבוע טוב.\nזה על סמך הקיצור שולחן ערוך?",
+   "ts": 1795291681000,
+   "date": "2026-11-21",
+   "time": "22:08",
+   "files": [],
+   "drive": null,
+   "thread": "אלקנה שטראוס",
+   "phone": "972527710613"
   }
  ]
 }

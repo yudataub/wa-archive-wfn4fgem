@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-20T04:02:32.714Z",
+ "updated": "2026-11-21T15:33:54.270Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -883,6 +883,25 @@
      "path": "https://drive.google.com/file/d/1Y1oDh2CfSUPZ8pAMofcOtpoq0R--DN4k/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1Y1oDh2CfSUPZ8pAMofcOtpoq0R--DN4k&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A58571A2306FAEBE7FB",
+   "sender": ".",
+   "text": "״אוציא את הגוסס״ (ערכין ד, א).",
+   "ts": 1795275227000,
+   "date": "2026-11-21",
+   "time": "17:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A58571A2306FAEBE7FB_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

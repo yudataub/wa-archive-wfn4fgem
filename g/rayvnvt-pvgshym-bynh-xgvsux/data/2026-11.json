@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-11-20T13:36:05.770Z",
+ "updated": "2026-11-21T17:36:28.484Z",
  "messages": [
   {
    "id": "A531A47E0E0ACE55B3CB85B1CDE02DA7",
@@ -4439,6 +4439,27 @@
      "type": "image/jpeg",
      "path": "media/2026-11/A53EF53AC38242276D6335D4C9F71658_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "A5364E2D73B2D97BBFF19DF03E649770",
+   "sender": "תמר חמאדה",
+   "text": "מכירים את זה שמבקשים ממכם לשלוח את המצגת אחרי השיחה ואתם אף פעם לא שולחים?\nאז מעכשיו שמנו לכם כפתור בתוך גוגל מיט שישר משתף את המצגת עם כל הנוכחים בשיחה.\nככה קל, ככה פשוט:)",
+   "ts": 1795282561000,
+   "date": "2026-11-21",
+   "time": "19:36",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "785KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1-Ut-r6eUHVbhUY4FSF4b21SSkh4Vod3G/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5364E2D73B2D97BBFF19DF03E649770_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1-Ut-r6eUHVbhUY4FSF4b21SSkh4Vod3G&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-18T21:19:45.812Z",
+ "updated": "2026-11-21T20:27:36.909Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -3741,6 +3741,233 @@
    "files": [],
    "drive": null,
    "phone": "972543979764"
+  },
+  {
+   "id": "ACDE981CD63C68DA3756C5895CE42D68",
+   "sender": "מוריה סדן🌾",
+   "text": "שבוע טוב\nאשמח לדפי חזרה למבחן+מבחן לפרשות במדבר נשא.",
+   "ts": 1795279516000,
+   "date": "2026-11-21",
+   "time": "18:45",
+   "files": [],
+   "drive": null,
+   "phone": "972586886385"
+  },
+  {
+   "id": "A55355BCBF5A3D74CF41F153DF550B9D",
+   "sender": "מתן - עולם של תוכן",
+   "text": "יש את המבחן של הפיקוח",
+   "ts": 1795279686000,
+   "date": "2026-11-21",
+   "time": "18:48",
+   "files": [],
+   "drive": null,
+   "phone": "972543979764"
+  },
+  {
+   "id": "AC8BEC832FE26D7AEE36BF8F7C4D06B6",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1795279977000,
+   "date": "2026-11-21",
+   "time": "18:52",
+   "files": [
+    {
+     "name": "review-bamidbar-naso-he.docx",
+     "size": "13KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1HQ41Pgeua1gShfOEn1krRZwSmrDYfzHG/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC5F8EE5E0E7A7DC2971A7C193C08954",
+   "sender": "אסף אלדר",
+   "text": "👆🏻",
+   "ts": 1795279978000,
+   "date": "2026-11-21",
+   "time": "18:52",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC4C5397FBEF9EA50155BD93E0CEEAB3",
+   "sender": "פנינה כ\"ץ",
+   "text": "הכנתי בוחן רק על פרק ז' פס' א-ב כולל פירוש רש\"י. לשלוח לך?",
+   "ts": 1795284054000,
+   "date": "2026-11-21",
+   "time": "20:00",
+   "files": [],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "AC4F4D5A0CE708A7B2AFC2D5D68176A5",
+   "sender": "מירב אפשטיין",
+   "text": "שבוע טוב.\nאשמח למבחן פרשת נשא🙏",
+   "ts": 1795285856000,
+   "date": "2026-11-21",
+   "time": "20:30",
+   "files": [],
+   "drive": null,
+   "phone": "972523748171"
+  },
+  {
+   "id": "AC49E3342C8233259560B3657215F9C9",
+   "sender": "מוריה סדן🌾",
+   "text": "תודה!\nיש גם מבחן בפורמט הזה?",
+   "ts": 1795285939000,
+   "date": "2026-11-21",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972586886385"
+  },
+  {
+   "id": "AC6B6442041A4E7D6416023D7CDFA633",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1795286955000,
+   "date": "2026-11-21",
+   "time": "20:49",
+   "files": [
+    {
+     "name": "מבחן-חזרה-דברים-ו.pdf",
+     "size": "73KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1nsj7cwMV_14q0y33dNKUTDJxU5KSBseE/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "3EB08F3B171085085BE218",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1795288125000,
+   "date": "2026-11-21",
+   "time": "21:08",
+   "files": [
+    {
+     "name": "דף_חזרה_למשנה_ראש_השנה_כיתה_ה (1).docx",
+     "size": "38KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1R3Oh8X3fKKu40zhRl9HnpouL4GN8XE4J/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC61EFA7B41A4A8C0708876BCD065970",
+   "sender": "תמר רון",
+   "text": "תודה אסף\nיש את טופס המבחן עצמו ולא רק החזרה?",
+   "ts": 1795288224000,
+   "date": "2026-11-21",
+   "time": "21:10",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "3EB0B9CD3DA8F0E6E093D3",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1795288356000,
+   "date": "2026-11-21",
+   "time": "21:12",
+   "files": [
+    {
+     "name": "מבחן_מיפוי_במשנה (2).pdf",
+     "size": "436KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ilNRrdUdXs49MCRH7DQT15qmfQc6Ig2g/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC2E74E5C437FA3509B263E9061EA850",
+   "sender": "מוריה סדן🌾",
+   "text": "אני צריכה במדבר,תודה",
+   "ts": 1795288533000,
+   "date": "2026-11-21",
+   "time": "21:15",
+   "files": [],
+   "drive": null,
+   "phone": "972586886385"
+  },
+  {
+   "id": "3EB0F1C27D6538F1866223",
+   "sender": "אסף אלדר",
+   "text": "זה במדבר ונשא",
+   "ts": 1795288816000,
+   "date": "2026-11-21",
+   "time": "21:20",
+   "files": [],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "3EB02F38CEF12EAD6FDDD7",
+   "sender": "אסף אלדר",
+   "text": "הנה המבחן לכיתה ה׳ על פרשות במדבר ונשא, ב־PDF להדפסה.",
+   "ts": 1795288898000,
+   "date": "2026-11-21",
+   "time": "21:21",
+   "files": [
+    {
+     "name": "mivchan-torah-bamidbar-naso-he.pdf",
+     "size": "107KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17IkoAMIOBWaGZpLlNxChth27HIpKJd-K/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "ACC190F7B9E57B18C553F75FDD7418B0",
+   "sender": "תמר רון",
+   "text": "🙏",
+   "ts": 1795289063000,
+   "date": "2026-11-21",
+   "time": "21:24",
+   "files": [],
+   "drive": null,
+   "phone": "972524664998"
+  },
+  {
+   "id": "3A2CF421BEF88490AF1E",
+   "sender": "אודיה חן",
+   "text": "שבוע טוב \nמתי צפויה להתחיל ההשתלמות?\nמוודאת שלא פספסתי את המייל",
+   "ts": 1795289911000,
+   "date": "2026-11-21",
+   "time": "21:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523390871"
+  },
+  {
+   "id": "3EB041F6046D4E9FEE9B6A",
+   "sender": "Dorit",
+   "text": "שבוע טוב אפשר לשלוח  שוב תפילת חנה  ודף זה",
+   "ts": 1795292841000,
+   "date": "2026-11-21",
+   "time": "22:27",
+   "files": [],
+   "drive": null,
+   "phone": "972523041100"
   }
  ]
 }

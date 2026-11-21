@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-20T08:19:18.762Z",
+ "updated": "2026-11-21T18:13:09.048Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -1075,6 +1075,26 @@
      "path": "https://drive.google.com/file/d/1JytKrpJ921ssleTwZEQzbtcsZoNitEZ-/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1JytKrpJ921ssleTwZEQzbtcsZoNitEZ-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0E1756CBDCBA56CDB22",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795284759000,
+   "date": "2026-11-21",
+   "time": "20:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1VKEXZI2gj4g0xOy9cGmNGPgXcmzNGc7G/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1VKEXZI2gj4g0xOy9cGmNGPgXcmzNGc7G&sz=w1200"
     }
    ],
    "drive": null,

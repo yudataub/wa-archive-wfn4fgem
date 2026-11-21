@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מעלים בקודש - נעם תשפז",
- "updated": "2026-11-19T20:02:09.572Z",
+ "updated": "2026-11-21T20:03:36.522Z",
  "messages": [
   {
    "id": "3EB0DC284645E448C8CEE0",
@@ -582,6 +582,37 @@
    "date": "2026-11-19",
    "time": "22:01",
    "files": [],
+   "drive": null,
+   "phone": "972525802694"
+  },
+  {
+   "id": "3EB080E60F28F0ACCC1C23",
+   "sender": "חוברות אהבה ושמחה",
+   "text": "🌙 *סיכום יומי – צוות נעם* 🌙\n📆 19.11–21.11.2026\n━━━━━━━━━━━━\n\n*💻 תקשוב ומערכות*\n📝 להעלות משימה לסביבת הקלאסרום השבוע – מחנכות ומורים מקצועיים. (הילה)\n📋 למלא את טופס עדכון הקלאסרום ולסמן אם הועלתה משימה.\nhttps://docs.google.com/forms/d/e/1FAIpQLSd8afy1qH6z38ToM6OnwyCQyTDdqnOnJTKm1FtZPBDWSnlU8w/viewform?usp=publish-editor\n📸 לשלוח להילה תמונות מהכיתות ומהפעילויות.\n\n*👨‍👩‍👧 מול ההורים*\n📤 לשלוח שוב להורים את הסיכום השבועי של פרשת ויצא (\"סיכום שבועי- פרשת\nויצא.docx\") ואת שתי התמונות שצורפו איתו. (אורלי)\n📅 לשלוח להורים את מערכת המחשבים (\"מערכת מחשבים.docx\"). (אורלי)\n\n*🌟 נקודת אור מהיום*\nאין מה לדווח.\n\n━━━━━━━━━━━━\nערב טוב ולילה רגוע 💙",
+   "ts": 1795291391000,
+   "date": "2026-11-21",
+   "time": "22:03",
+   "files": [],
+   "drive": null,
+   "phone": "972525802694"
+  },
+  {
+   "id": "3EB01BDDF7C80EF18F7F9D",
+   "sender": "חוברות אהבה ושמחה",
+   "text": "",
+   "ts": 1795291396000,
+   "date": "2026-11-21",
+   "time": "22:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "264KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Lug1UOO3t1-gJ2BfSKtHpoZ5w2MSnAqT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Lug1UOO3t1-gJ2BfSKtHpoZ5w2MSnAqT&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972525802694"
   }

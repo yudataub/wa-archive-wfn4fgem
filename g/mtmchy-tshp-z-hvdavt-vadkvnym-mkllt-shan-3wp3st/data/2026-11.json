@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מתמחי תשפ״ז-הודעות ועדכונים מכללת שאנן",
- "updated": "2026-11-18T08:07:45.472Z",
+ "updated": "2026-11-21T18:49:25.427Z",
  "messages": [
   {
    "id": "3EB039383B4C3D1A3CF332",
@@ -225,6 +225,37 @@
    "ts": 1794989242000,
    "date": "2026-11-18",
    "time": "10:07",
+   "files": [],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3EB0A5741B08B51CBE0471",
+   "sender": "Adi Zvieli",
+   "text": "",
+   "ts": 1795286940000,
+   "date": "2026-11-21",
+   "time": "20:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "108KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17Z0TPUkcfMyQSEsEzPHZvubb2LUKl0Gz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17Z0TPUkcfMyQSEsEzPHZvubb2LUKl0Gz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3EB0BC37A01BC204247933",
+   "sender": "Adi Zvieli",
+   "text": "שבוע טוב, וובינר בהובלת השירות הפסיכולוגי ייעוצי בנושא אקלים חינוכי מיטבי וקשר עם הורים ביום ג' הקרוב כחלק ממחויבויות סדנת הסטאז'. להרשמה, כניסה והוספה ליומן לחצו כאן - https://meyda.education.gov.il/files/edu-hub/sherut/H_Shefi_26.pdf",
+   "ts": 1795286941000,
+   "date": "2026-11-21",
+   "time": "20:49",
    "files": [],
    "drive": null,
    "phone": "972506924904"

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-20T06:16:54.726Z",
+ "updated": "2026-11-21T18:55:30.601Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -1454,6 +1454,27 @@
    "files": [],
    "drive": null,
    "phone": "972584734037"
+  },
+  {
+   "id": "A5F7F190E6490BC79816228837D95D41",
+   "sender": "י.כ",
+   "text": "☝️ בלי פילטרים...\nהצצה לאחד הסיפורים מתוך מיצג ה-VR\n*\"הרב חנן פורת – איש האורות\"*",
+   "ts": 1795287307000,
+   "date": "2026-11-21",
+   "time": "20:55",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "23.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1JkY7WHtswle27wZgo2QsIbuVtekhaDHp/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5F7F190E6490BC79816228837D95D41_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1JkY7WHtswle27wZgo2QsIbuVtekhaDHp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534929856"
   }
  ]
 }
