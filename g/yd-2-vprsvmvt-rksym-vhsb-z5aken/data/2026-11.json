@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-21T22:39:29.857Z",
+ "updated": "2026-11-21T23:13:35.814Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -20685,6 +20685,26 @@
    ],
    "drive": null,
    "phone": "972505719433"
+  },
+  {
+   "id": "AC0BFA64D7F23607B233FAED24CB382F",
+   "sender": "אביתר",
+   "text": "מי אמרה וואוווו ולא קיבלה?! 🤩🔥\nעמדת הצילום המטורפת הזאת יכולה לככב גם באירוע שלכן!!! 🤍\n📸 היומן להזמנות נפתח!\n📲 לשריון תאריך ופרטים – 055-6630969",
+   "ts": 1795302804000,
+   "date": "2026-11-22",
+   "time": "01:13",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "221KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BPmJ7NLojIUBcA7yIyPLM-rMlrCTxXb8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BPmJ7NLojIUBcA7yIyPLM-rMlrCTxXb8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972543318688"
   }
  ]
 }

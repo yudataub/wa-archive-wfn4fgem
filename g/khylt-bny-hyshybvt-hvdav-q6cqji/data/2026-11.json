@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-21T22:14:29.448Z",
+ "updated": "2026-11-21T23:30:36.100Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -3910,6 +3910,25 @@
    ],
    "drive": null,
    "phone": "972537173783"
+  },
+  {
+   "id": "AC866178BB37DC971963DEC43BEA9A01",
+   "sender": "ישראל ישורון",
+   "text": "",
+   "ts": 1795303809000,
+   "date": "2026-11-22",
+   "time": "01:30",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "16KB",
+     "type": "image/webp",
+     "path": "media/2026-11/AC866178BB37DC971963DEC43BEA9A01_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972559908983"
   }
  ]
 }
