@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד קריית אתא (חדש)",
- "updated": "2026-11-22T18:46:53.720Z",
+ "updated": "2026-11-22T21:34:51.359Z",
  "messages": [
   {
    "id": "AC8E3CB0BACDE1619D431A440933E8CE",
@@ -12351,7 +12351,8 @@
      "path": "https://drive.google.com/file/d/1hefyqkV23PxwCKcJu_t1LDvccH69Bf7M/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC3E326EBF55000707807CB548FD87B3_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1hefyqkV23PxwCKcJu_t1LDvccH69Bf7M&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1hefyqkV23PxwCKcJu_t1LDvccH69Bf7M&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-kryyt-ata-chd-jwxib4-2/v/2026-11/AC3E326EBF55000707807CB548FD87B3_0.mp4"
     }
    ],
    "drive": null,
@@ -12489,6 +12490,17 @@
    ],
    "drive": null,
    "phone": "972523911647"
+  },
+  {
+   "id": "3A9EC74B36BD35FAAB7D",
+   "sender": "🌹",
+   "text": "נמצא שעון חכם ברחוב סוקולוב .\nאשמח להחזירו לבעליו \n0539352061",
+   "ts": 1795383268000,
+   "date": "2026-11-22",
+   "time": "23:34",
+   "files": [],
+   "drive": null,
+   "phone": "972534267604"
   }
  ]
 }

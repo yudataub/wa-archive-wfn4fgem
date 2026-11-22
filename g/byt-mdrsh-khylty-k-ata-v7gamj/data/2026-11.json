@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-11-22T15:17:55.753Z",
+ "updated": "2026-11-22T22:15:58.895Z",
  "messages": [
   {
    "id": "AC766E9745AEAD82DE14821E17AEB47A",
@@ -2947,7 +2947,8 @@
      "path": "https://drive.google.com/file/d/1WkiMNb-hrjvGvFrdgMWUDgZQ2qs_TCdd/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC023DA3BCD4789FE1FD6BB3B3A1223E_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1WkiMNb-hrjvGvFrdgMWUDgZQ2qs_TCdd&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1WkiMNb-hrjvGvFrdgMWUDgZQ2qs_TCdd&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/AC023DA3BCD4789FE1FD6BB3B3A1223E_0.mp4"
     }
    ],
    "drive": null,
@@ -3018,6 +3019,37 @@
    "files": [],
    "drive": null,
    "phone": "972526802811"
+  },
+  {
+   "id": "ACF075F6ABDA06A8E2553147E0435D4B",
+   "sender": "אוריאל",
+   "text": "https://www.facebook.com/reel/1447251703653072/?mibextid=rS40aB7S9Ucbxw6v",
+   "ts": 1795385736000,
+   "date": "2026-11-23",
+   "time": "00:15",
+   "files": [],
+   "drive": null,
+   "phone": "972546660233"
+  },
+  {
+   "id": "AC243CB449E29E96827834EDD5FEB1B7",
+   "sender": "אוריאל",
+   "text": "",
+   "ts": 1795385737000,
+   "date": "2026-11-23",
+   "time": "00:15",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qAcieCqSDUXvSp-PZec4G7Ggz6nqhfSX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qAcieCqSDUXvSp-PZec4G7Ggz6nqhfSX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546660233"
   }
  ]
 }

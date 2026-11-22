@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-22T21:02:08.117Z",
+ "updated": "2026-11-22T21:08:38.226Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2710,7 +2710,8 @@
      "path": "https://drive.google.com/file/d/1lXQAnFTSqYhkTo_eLqPFC5Xh4JU1IdaH/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACE2106F5AE2BD338E05F01AE72E78B9_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1lXQAnFTSqYhkTo_eLqPFC5Xh4JU1IdaH&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1lXQAnFTSqYhkTo_eLqPFC5Xh4JU1IdaH&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byn-hzmnym-efw2nd/v/2026-11/ACE2106F5AE2BD338E05F01AE72E78B9_0.mp4"
     }
    ],
    "drive": null,
@@ -2755,6 +2756,17 @@
    ],
    "drive": null,
    "phone": "972548519071"
+  },
+  {
+   "id": "A5D48964F1A8FB7361BE266FA66C6C2A",
+   "sender": "ישיבת תורה בישראל",
+   "text": "מחפש אולם לאירוע ערב למוצש פרשת מקץ",
+   "ts": 1795381704000,
+   "date": "2026-11-22",
+   "time": "23:08",
+   "files": [],
+   "drive": null,
+   "phone": "972505728349"
   }
  ]
 }

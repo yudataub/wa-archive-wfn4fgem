@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות 055",
- "updated": "2026-11-22T18:32:23.483Z",
+ "updated": "2026-11-22T23:01:07.406Z",
  "messages": [
   {
    "id": "AC8E8D7C5F1204E638F05B719BA60D91",
@@ -234,6 +234,28 @@
    "files": [],
    "drive": null,
    "thread": "אריה יונה"
+  },
+  {
+   "id": "A5139958BB6D56C1FA85A49FBFB1FFD1",
+   "sender": "בנימין שורץ",
+   "text": "נאום חזק ומרומם\n.\n\n.לשליחת חומרים לקבוצה ותגובות, או אם נחסמה קבוצה פנו ל: 058-7322289 \n\n*ניסי ה' ועוזו במדינת ישראל*",
+   "ts": 1795388460000,
+   "date": "2026-11-23",
+   "time": "01:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "14.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/18my--BiN6Fr-Uq17vhKtaH7TiFKR2cfO/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A5139958BB6D56C1FA85A49FBFB1FFD1_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=18my--BiN6Fr-Uq17vhKtaH7TiFKR2cfO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "thread": "בנימין שורץ",
+   "phone": "972527632673"
   }
  ]
 }
