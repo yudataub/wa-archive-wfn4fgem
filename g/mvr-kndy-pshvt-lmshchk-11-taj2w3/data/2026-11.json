@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מור קנדי - פשוט למשחק 11",
- "updated": "2026-11-21T17:38:28.510Z",
+ "updated": "2026-11-22T16:26:04.194Z",
  "messages": [
   {
    "id": "A5B09B38B0C06C869F307A104E8904DA",
@@ -128,6 +128,57 @@
    "date": "2026-11-21",
    "time": "19:38",
    "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A5453B310E5DEF4548EAC316BE7F1A65",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "בוחרים חנוכה- אחת המתודות האהובות עליי שאני עושה לפעמים בהשתלמויות. הרבה משימות, כל משימה שווה ניקוד שונה והמטרה היא לצבור כמה שיותר נקודות. משימות מצחיקות, כיפיות, לימודיות וכל מה שנרצה.. תראו כמה כל הצוותים מרוכזים. כמובן שאפשר לקחת את המצודה הזו לכל נושא שנרצה. \n היום בסדנה של חידונים מרובי משתתפים תקבלו הסבר מלא+ את הקובץ לעריכה (ועוד מלא משחקים). ממליצה להירשם, יהיה ממש כיף🙃  הסדנה בשעה 20:00 בזום. https://funcourses.base44.app/course/6af17498066e5161e7e4e173\nנתראה,\nמור קנדי.",
+   "ts": 1795364746000,
+   "date": "2026-11-22",
+   "time": "18:25",
+   "files": [],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A58C4369B0FA07DC8CD81CA11631ED45",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1795364747000,
+   "date": "2026-11-22",
+   "time": "18:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "175KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OpGJwcdXt8l1B0VYlngfCPgE5OebXRTT/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OpGJwcdXt8l1B0VYlngfCPgE5OebXRTT&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547461614"
+  },
+  {
+   "id": "A5EACBFA05CB0A88AB844596581A7AC7",
+   "sender": "מור קנדי פשוט למשחק",
+   "text": "",
+   "ts": 1795364749000,
+   "date": "2026-11-22",
+   "time": "18:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1g8j1pIZKxEcmITngEXgcFH6f4HVfsZhZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1g8j1pIZKxEcmITngEXgcFH6f4HVfsZhZ&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972547461614"
   }

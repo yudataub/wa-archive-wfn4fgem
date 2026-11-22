@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-21T15:33:54.270Z",
+ "updated": "2026-11-22T04:11:25.620Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -901,6 +901,25 @@
      "size": "98KB",
      "type": "image/jpeg",
      "path": "media/2026-11/3A58571A2306FAEBE7FB_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AAF1CE9B366049A7E70",
+   "sender": ".",
+   "text": "״דמים כל דהו יש לו״ (רש״י ערכין ה, א).",
+   "ts": 1795320656000,
+   "date": "2026-11-22",
+   "time": "06:10",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AAF1CE9B366049A7E70_1.jpg",
      "skipped": ""
     }
    ],

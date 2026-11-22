@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בונים בבינה- בניית אתרים ואפליקציות עם AI",
- "updated": "2026-11-19T09:27:01.443Z",
+ "updated": "2026-11-22T20:02:09.286Z",
  "messages": [
   {
    "id": "AC31D8B4D4CA418DFFF71097CFF963EA",
@@ -297,6 +297,27 @@
    "files": [],
    "drive": null,
    "phone": "639976752131"
+  },
+  {
+   "id": "ACE537FE1E6859C34531BCFA129681D0",
+   "sender": "אריה יונה",
+   "text": "https://www.kol-toda.co.il/teacher-tools/claude-window/",
+   "ts": 1795371918000,
+   "date": "2026-11-22",
+   "time": "20:25",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A547E8B8E45B05EB2E7FBA8B502F3329",
+   "sender": "מלאכי גוטמן- עסק חכם",
+   "text": "לא הבנתי מה כל כך החידוש לקלוד עצמו",
+   "ts": 1795377713000,
+   "date": "2026-11-22",
+   "time": "22:01",
+   "files": [],
+   "drive": null,
+   "phone": "972542207149"
   }
  ]
 }

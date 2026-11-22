@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משחק השבת - משחק לפרשה 4",
- "updated": "2026-11-17T14:56:31.531Z",
+ "updated": "2026-11-22T11:52:25.737Z",
  "messages": [
   {
    "id": "3EB0558F2ABC77FD130083",
@@ -151,6 +151,27 @@
    "date": "2026-11-17",
    "time": "16:56",
    "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC44EA830DCCB727219C6481225A5B3C",
+   "sender": "עמי חניא",
+   "text": "חידוש מטורף באורקוויז. משחק ללא טלפונים או שלטים. מדהים למשפחות ולבתי ספר https://orquiz.co.il/qr/",
+   "ts": 1795348339000,
+   "date": "2026-11-22",
+   "time": "13:52",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "33.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rGARkF0dtx6k8fOipq14Jdi_lveFQwBF/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC44EA830DCCB727219C6481225A5B3C_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1rGARkF0dtx6k8fOipq14Jdi_lveFQwBF&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546702328"
   }

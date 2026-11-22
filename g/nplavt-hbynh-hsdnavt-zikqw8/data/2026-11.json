@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "נפלאות הבינה - הסדנאות",
- "updated": "2026-11-14T19:20:58.829Z",
+ "updated": "2026-11-22T07:30:48.828Z",
  "messages": [
   {
    "id": "3EB0ACDC9E12640E1E2FFA",
@@ -380,6 +380,38 @@
      "path": "https://drive.google.com/file/d/15j6ZfW7gWizAXqpOuPgaeb-uO-dTO_qK/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=15j6ZfW7gWizAXqpOuPgaeb-uO-dTO_qK&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB083C5F83E625B83FF35",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "שלום לכולם אשלח היום את ההקלטה של מקטלוג לגליון - חלק ב'",
+   "ts": 1795332469000,
+   "date": "2026-11-22",
+   "time": "09:27",
+   "files": [],
+   "drive": null,
+   "phone": "972523930628"
+  },
+  {
+   "id": "3EB079843D52F6A360A00D",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*מסיבת חנוכה המסורתית שאסור לפספס!*\nנגלה גם איך יוצרים סרטון גדילה מהפנט, כל אחד יחיה את הסופגנייה שלו.\n*ותקבלו את המתכון המלא לקחת הביתה.*\nשעשועי פרומפטים, דמי חנוכה, פעילויות עם תלמידים ועוד הפתעות משגעות.\nרביעי 25.11, 20:00 בזום\n20 ש\"ח בלבד, מחיר סמלי לדמי רצינות\nלהרשמה:\nhttps://www.lomdot.org/event-details/ai-hanukkah2",
+   "ts": 1795332625000,
+   "date": "2026-11-22",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "15.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1C54VWB0txJDi45fnqMdnO2okxWHleVrP/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB079843D52F6A360A00D_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1C54VWB0txJDi45fnqMdnO2okxWHleVrP&sz=w1200"
     }
    ],
    "drive": null,

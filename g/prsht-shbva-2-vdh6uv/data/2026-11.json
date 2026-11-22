@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-21T19:22:31.053Z",
+ "updated": "2026-11-22T10:35:17.521Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -3341,6 +3341,47 @@
    ],
    "drive": null,
    "phone": "972587708987"
+  },
+  {
+   "id": "4AD01F02FF85DB04D8C4",
+   "sender": "Shirel",
+   "text": "https://www.abita.co.il/wp-content/uploads/2025/06/%D7%97%D7%A0%D7%95%D7%9B%D7%94-%D7%A1%D7%99%D7%93%D7%95%D7%A8-%D7%90%D7%95%D7%AA%D7%99%D7%95%D7%AA-%D7%A1%D7%91%D7%90-%D7%A4%D7%AA%D7%97%D7%99%D7%94.pdf",
+   "ts": 1795316472000,
+   "date": "2026-11-22",
+   "time": "05:01",
+   "files": [
+    {
+     "name": "חנוכה-סידור-אותיות-סבא-פתחיה.pdf",
+     "size": "452KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Opa3-wv-wp7m0xooYgpZEtKKrIkHID5n/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504951688"
+  },
+  {
+   "id": "3A18A6E3F3FFAB74F0EE",
+   "sender": "מרים בגייב (אברמוב)",
+   "text": "מי מנהל הקבוצה?",
+   "ts": 1795330495000,
+   "date": "2026-11-22",
+   "time": "08:54",
+   "files": [],
+   "drive": null,
+   "phone": "972525704478"
+  },
+  {
+   "id": "ACFDD18D90557BA92709C45283C6423A",
+   "sender": "איטה רז",
+   "text": "שלום\nאשמח לדף פרשת שבוע של כרמית\nתודה",
+   "ts": 1795343704000,
+   "date": "2026-11-22",
+   "time": "12:35",
+   "files": [],
+   "drive": null,
+   "phone": "972528536477"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אתא שלנו גם בווצאפ 1",
- "updated": "2026-11-15T12:56:53.597Z",
+ "updated": "2026-11-22T08:26:49.721Z",
  "messages": [
   {
    "id": "A5294FDEB706117EEA49817419BC61CD",
@@ -58,6 +58,147 @@
      "thumb": "https://drive.google.com/thumbnail?id=1MFYTveh7vbIvVYb9HSaoKWqXqjCdbJWG&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A596CF3E4EFB56AD5C43912B94CA1F17",
+   "sender": "אתא שלנו",
+   "text": "שלם וקח",
+   "ts": 1795335980000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "253KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1elAw4nQK0UGnc_SBU7a2Lsdr07WzDnIb/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1elAw4nQK0UGnc_SBU7a2Lsdr07WzDnIb&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A52DAB870AE75D7D295E7701BE4A0A1B",
+   "sender": "אתא שלנו",
+   "text": "סלונים 3500 שלם וקח מי תצוגה",
+   "ts": 1795335981000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A52DAB870AE75D7D295E7701BE4A0A1B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A57C527AEAE05DBB8CA0A8E273DB910F",
+   "sender": "אתא שלנו",
+   "text": "ארון קודש 1500 שלם וקח",
+   "ts": 1795335981000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1HtBUooootxANUCt4sPiHq2wDhmdghC6B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1HtBUooootxANUCt4sPiHq2wDhmdghC6B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A582BE0061DF9D4FC1B8791EC4DFB4B5",
+   "sender": "אתא שלנו",
+   "text": "מיטות שלם וקח",
+   "ts": 1795335981000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "152KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LqMdqWxUpglftw6ZLSu-o1gWHeT4IdA4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LqMdqWxUpglftw6ZLSu-o1gWHeT4IdA4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A5ABC86AD2E9F0A13E44C3840BEFB465",
+   "sender": "אתא שלנו",
+   "text": "שלם וקח",
+   "ts": 1795335981000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "122KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BD5a8XPuO8WWVEBx_KuFPI8_t3LsQNXe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BD5a8XPuO8WWVEBx_KuFPI8_t3LsQNXe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A51E6339CFF4BDEB979BDA6753D11034",
+   "sender": "אתא שלנו",
+   "text": "מבצעי שלם וקח",
+   "ts": 1795335985000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A56C427D1A130359B8A3A5C8565A169C",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1795335994000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "184KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1uxVZijyndMg29IeSjtlCqjxE-YxqwMXV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1uxVZijyndMg29IeSjtlCqjxE-YxqwMXV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "A51FD54C9E752F8629FD4EE0D82D714A",
+   "sender": "אתא שלנו",
+   "text": "בסליפ האוס מול איקאה",
+   "ts": 1795336009000,
+   "date": "2026-11-22",
+   "time": "10:26",
+   "files": [],
    "drive": null,
    "phone": "972525992887"
   }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-21T15:45:59.103Z",
+ "updated": "2026-11-22T18:13:23.290Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -2324,6 +2324,130 @@
    ],
    "drive": null,
    "phone": "972587891416"
+  },
+  {
+   "id": "3EB0FCD567A2440BCE6EC3",
+   "sender": "אלקנה שטראוס",
+   "text": "מצגת מלווה לשיעור הלכה על הלכות חנוכה\nhttps://canva.link/m677cf109m3zluc\n\nלאור תכ\"ל יש להדגיש באמצעות המצגת את:\n*מושגים:*  בית שני, פרסום הנס, עיקר המצווה, צאת הכוכבים, שקיעה, עד שתכלה רגל מן השוק, נר החיוב, גיל חינוך, עובר לעשייתן, שהחיינו, שליח, תשמיש של מצווה, שמש, הדלקה עושה מצווה, אינו זקוק לה, זקוק לה\n*אוצר מילים:* סמוך, בעל הבית, ימנה, כבו, רוח מצויה\n\nבהצלחה!",
+   "ts": 1795340194000,
+   "date": "2026-11-22",
+   "time": "11:36",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB0BB4AA21E872BDFFB60",
+   "sender": "אלקנה שטראוס",
+   "text": "",
+   "ts": 1795340803000,
+   "date": "2026-11-22",
+   "time": "11:46",
+   "files": [
+    {
+     "name": "הלכות חנוכה ד.pdf",
+     "size": "35.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Uaniyd3MtSGyGbYlBQbjl3wdlwp8Nxqv/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3A82C08A1AA915DE1597",
+   "sender": "רות מנדל",
+   "text": "אפשר להעביר את זה לצוות המורות שלנו?\n(שלא בהשתלמות)",
+   "ts": 1795341445000,
+   "date": "2026-11-22",
+   "time": "11:57",
+   "files": [],
+   "drive": null,
+   "phone": "972542007345"
+  },
+  {
+   "id": "3EB0B9B6FD6ABB4518ECC6",
+   "sender": "אלקנה שטראוס",
+   "text": "ברור",
+   "ts": 1795341471000,
+   "date": "2026-11-22",
+   "time": "11:57",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "3EB06FDD39A4AB44458532",
+   "sender": "אלקנה שטראוס",
+   "text": "רק שימו לב שזה לפי חומר הלימוד של כיתה ד",
+   "ts": 1795341490000,
+   "date": "2026-11-22",
+   "time": "11:58",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "ACD6BE384533B777BAB572E9DC5C9332",
+   "sender": "גיא",
+   "text": "רוצה לוודא שאכן ביצעתי את המשימה. האם אפשר לשלוח את הנוכחות עם ביצוע המשימות ?",
+   "ts": 1795356787000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [],
+   "drive": null,
+   "phone": "972507331433"
+  },
+  {
+   "id": "ACFD2C47469C83271E55747C1080A6BF",
+   "sender": "אברהם פויכטונגר",
+   "text": "",
+   "ts": 1795357450000,
+   "date": "2026-11-22",
+   "time": "16:24",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "189KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LweWlFmVErfE-zi1gQnkUW2iqgxe-0-j/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LweWlFmVErfE-zi1gQnkUW2iqgxe-0-j&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523003393"
+  },
+  {
+   "id": "4A269E0A1DFF300C7C69",
+   "sender": "רות מנדל",
+   "text": "מי שרוצה - אפשר כמשימה בתחנה. התאמת נר ללהבה - שאלה בהלכה (בנר) ותשובה (בלהבה)",
+   "ts": 1795360472000,
+   "date": "2026-11-22",
+   "time": "17:14",
+   "files": [
+    {
+     "name": "הלכות חנוכה - התאמת שאלה לתשובה - נר ללהבה.pdf",
+     "size": "5.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11EzDFTY60jcOr4Rjst2yeEvlVCgKVbYF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542007345"
+  },
+  {
+   "id": "AC6C0A3948D07D9E7D55C1646D58AB22",
+   "sender": "אסתר אלנדב",
+   "text": "מקסים! תודה",
+   "ts": 1795371197000,
+   "date": "2026-11-22",
+   "time": "20:13",
+   "files": [],
+   "drive": null,
+   "phone": "972544318837"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-21T20:27:36.909Z",
+ "updated": "2026-11-22T15:14:25.811Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -3968,6 +3968,110 @@
    "files": [],
    "drive": null,
    "phone": "972523041100"
+  },
+  {
+   "id": "AC82C21727D6492B6DDC35873EBC3D52",
+   "sender": "הדס",
+   "text": "אפשר בבקשה בהקדם את המצגת הזו.",
+   "ts": 1795326727000,
+   "date": "2026-11-22",
+   "time": "07:52",
+   "files": [],
+   "drive": null,
+   "phone": "972507387430"
+  },
+  {
+   "id": "3A21239A31D44E30CD85",
+   "sender": "הדר עטון סעדון",
+   "text": "",
+   "ts": 1795326982000,
+   "date": "2026-11-22",
+   "time": "07:56",
+   "files": [
+    {
+     "name": "נשא פרק ה- טמאים, אשם גזילות, סוטה.pptx",
+     "size": "1.8MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1AWoKKrYHynWJHs4YcN_HIFQtUdtrSwcc/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526248228"
+  },
+  {
+   "id": "3A2F6F1B4B994C1191EB",
+   "sender": "דניאלה נגר",
+   "text": "מקסים מאוד!!! יש תשובות לכך",
+   "ts": 1795332225000,
+   "date": "2026-11-22",
+   "time": "09:23",
+   "files": [],
+   "drive": null,
+   "phone": "972527040527"
+  },
+  {
+   "id": "3ADFE6B62201554E3779",
+   "sender": "מרים בגייב (אברמוב)",
+   "text": "+972 52-692-1971\nאפשר בבקשה לצרף את המספר הזה?\nגונן פלג",
+   "ts": 1795332312000,
+   "date": "2026-11-22",
+   "time": "09:25",
+   "files": [],
+   "drive": null,
+   "phone": "972525704478"
+  },
+  {
+   "id": "3A08819106BDBF0B0631",
+   "sender": "אודיה חן",
+   "text": "?",
+   "ts": 1795333089000,
+   "date": "2026-11-22",
+   "time": "09:38",
+   "files": [],
+   "drive": null,
+   "phone": "972523390871"
+  },
+  {
+   "id": "ACF9D5FA095C01DFB8437B48EF7A183A",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1795334414000,
+   "date": "2026-11-22",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "mivchan-torah-bamidbar-naso-he-teshuvot.pdf",
+     "size": "27KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1_RSRYpZ1kQ4b8F45OAmqZsj6R9AhKPjM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "ACF9CA5BC96F5708F29006D18408C4B9",
+   "sender": "~ אווה בוגנים",
+   "text": "מצגת לפרשת בבעלותך?",
+   "ts": 1795343537000,
+   "date": "2026-11-22",
+   "time": "12:32",
+   "files": [],
+   "drive": null,
+   "phone": "972506949990"
+  },
+  {
+   "id": "ACAD8E546DB1048DFA642676AECD5977",
+   "sender": "אסתר לוי אינאייב",
+   "text": "צריכה בדחיחות הדרכה לרכזת תנך חדשה ביסודי חולון ישורון 🙏🙏🙏",
+   "ts": 1795360466000,
+   "date": "2026-11-22",
+   "time": "17:14",
+   "files": [],
+   "drive": null,
+   "phone": "972503552242"
   }
  ]
 }

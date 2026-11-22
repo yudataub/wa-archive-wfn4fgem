@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר ד'",
- "updated": "2026-11-18T20:44:09.640Z",
+ "updated": "2026-11-22T17:47:18.850Z",
  "messages": [
   {
    "id": "AC9F45E942F1A8339FF479260BF35180",
@@ -154,6 +154,26 @@
    ],
    "drive": null,
    "phone": "972532827606"
+  },
+  {
+   "id": "ACEE7BBC92CF6C658904F1E5A707FCA5",
+   "sender": "אור מימון 𓉱",
+   "text": "שימו לב בשורה השניה.\nצריך להיות כשרה ועולין לה ביום טוב, ומילת אין נמחק.",
+   "ts": 1795369613000,
+   "date": "2026-11-22",
+   "time": "19:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1upVbXTlIeD49ARIwcYlUbH-YR4NcORvA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1upVbXTlIeD49ARIwcYlUbH-YR4NcORvA&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-19T07:43:44.555Z",
+ "updated": "2026-11-22T20:02:30.511Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -585,6 +585,66 @@
    "files": [],
    "drive": null,
    "phone": "972506283577"
+  },
+  {
+   "id": "ACCB87AC49FF1E90D5EF39CF97F1857C",
+   "sender": "מוריה טל",
+   "text": "‏להצטרפות לקבוצת הווטסאפ שלנו",
+   "ts": 1795329502000,
+   "date": "2026-11-22",
+   "time": "08:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "223KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16G-89y2FuDELhoUw-Dcxb6x_hYmzUWo_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16G-89y2FuDELhoUw-Dcxb6x_hYmzUWo_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548835520"
+  },
+  {
+   "id": "3A4CE820182567579374",
+   "sender": "Adi Zvieli",
+   "text": "",
+   "ts": 1795357660000,
+   "date": "2026-11-22",
+   "time": "16:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "237KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16ihKscJP5_SznsnTJJ4Ytnu2swMs2_jF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16ihKscJP5_SznsnTJJ4Ytnu2swMs2_jF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3A59B7EE2981006ACE7A",
+   "sender": "Odelya ❤️",
+   "text": "",
+   "ts": 1795377725000,
+   "date": "2026-11-22",
+   "time": "22:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GfcDyrtyijcg6uD3JdUSR1TfGQd3WUGl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GfcDyrtyijcg6uD3JdUSR1TfGQd3WUGl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547978315"
   }
  ]
 }

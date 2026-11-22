@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-19T16:48:04.878Z",
+ "updated": "2026-11-22T21:07:08.214Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -1236,6 +1236,420 @@
    "files": [],
    "drive": null,
    "phone": "972546228770"
+  },
+  {
+   "id": "AC8D7B6C5BD15B1961D91C32FE4FF3C2",
+   "sender": "ישראל ויסקוט",
+   "text": "📇 מתנאל יוסף טללים ערד א ג\n+972503242808",
+   "ts": 1795337210000,
+   "date": "2026-11-22",
+   "time": "10:46",
+   "files": [],
+   "drive": null,
+   "phone": "972508738650"
+  },
+  {
+   "id": "ACB257E95A37BAF3C3F9C01B6B91A09B",
+   "sender": "ישראל ויסקוט",
+   "text": "אם אפשר לצרף אותו לקבוצה הזו - יעזור מאוד.🙏🏼",
+   "ts": 1795337269000,
+   "date": "2026-11-22",
+   "time": "10:47",
+   "files": [],
+   "drive": null,
+   "phone": "972508738650"
+  },
+  {
+   "id": "ACD365C9AEADE317742E695C74DE16D4",
+   "sender": "אחינעם",
+   "text": "מחפשת דף עבודה לכיתה א על הלכות הדלקת נרות חנוכה",
+   "ts": 1795352985000,
+   "date": "2026-11-22",
+   "time": "15:09",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC76AC5B7DD3BFDF1F83D34BA179B8F5",
+   "sender": "ליאת יצחקי",
+   "text": "למשהי יש את הקובץ הזה? חסרים לי הדפים הראשונים",
+   "ts": 1795356278000,
+   "date": "2026-11-22",
+   "time": "16:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "89KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC76AC5B7DD3BFDF1F83D34BA179B8F5_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503390073"
+  },
+  {
+   "id": "ACDB6F0D598A2C642C3F2ECCC40F7BAD",
+   "sender": "אחינעם",
+   "text": "וואו יפהה אשמח לקבל את כל זה",
+   "ts": 1795356337000,
+   "date": "2026-11-22",
+   "time": "16:05",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "AC24AE06896DB4B3586BC53537A5FF95",
+   "sender": "נעה",
+   "text": "גם אני אשמח לקבל זאת",
+   "ts": 1795356390000,
+   "date": "2026-11-22",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "ACA38BACD005516A563D7629671AC171",
+   "sender": "דניאל אברמוביץ",
+   "text": "גם אני",
+   "ts": 1795356539000,
+   "date": "2026-11-22",
+   "time": "16:08",
+   "files": [],
+   "drive": null,
+   "phone": "972542575721"
+  },
+  {
+   "id": "AC95235072B4D99F55CBEE6419579431",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356809000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "דפי חנוכה.pdf",
+     "size": "3.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1w2dZs3cz0lvMnOOwSV5aahKvSy_J5seB/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC46D1A7228D0C21BD727D9378180A99",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356810000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "דף מנוקד חנוכה.pdf",
+     "size": "197KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Wfr3lped-yzUDhxNtLXwM5NWDG_yvi_J/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACACBBA274856D145C1A3D20A1C84AB5",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356811000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "דפי עבודה בלשון לחנוכה, לכיתה א', שיעור בקליק (1).pdf",
+     "size": "647KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1tWYaEmwei1jjnxJAabsis4BNwFSQ0EPy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC31E856096AF66ED87AC4AF7CB10DD0",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356812000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "גזור והתאם מילה לציור.pdf",
+     "size": "285KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OY4k28GeLy1654KTFPH52MfFP3ubPHH3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACFF896AF5D4F9BD5A792C6D5CFC0DC6",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356812000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "חנוכה לכתה ב .pdf",
+     "size": "1.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11swqmbbWq7ApQJNZ8a6BIwJWY6C_W79a/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC9E51F710A4B33F96C1304973C309F0",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356813000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "הלכות חנוכה בנרות.pdf",
+     "size": "563KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/19eWeU71W9UunZ3bVn6a40RMKUK4o5qgG/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACEEAB8FD7D5152704075C1C450E87F3",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356813000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "דף חנוכה סגול.pdf",
+     "size": "315KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12Zwt0wO2BMD9KZSu0_rSEhKa6w8fveoa/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACDCBDF65A8BD0DACF3F343F690F89A9",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356814000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "חנוכה - סידור מילים לפי האב.pdf",
+     "size": "589KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1UyyM29uPxuOzOaPMKMXTBrOkT2NYr40h/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC320CD42EA5AEFF06A18470CC1EBF03",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356815000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "חנוכה - יחיד ורבים.pdf",
+     "size": "523KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BKkIUkOa9RgFTNhXoJNLvRDBjn-KzJQp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACFA8686BCD4A390731D6952D98009AE",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356815000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "חנוכה - חיבור משפטים.pdf",
+     "size": "620KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Y-PSeGGWuQOCPRCTARFN-dU8E4s309yM/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC70A0F637BF65A28E8AF80CD0E5017C",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356816000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "חנוכה - מילוי הוראות.pdf",
+     "size": "794KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1adBdamEbNH6NLl15tltDODDmboMGtBHi/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC044DEBC4DAABD0B40A6ECCEC561C84",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356817000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "דפים למחברת חנוכה.pdf",
+     "size": "4.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1vIK84shnVdkxdTWYTuyEi_m_Q5wlZhWN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACA4EC13E6D5360CEAF9CB7B2630DE2E",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795356817000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [
+    {
+     "name": "חנוכה נט(1).pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1LPkKeMVGOHkEh4vAYCU9a_MMr0KykUCP/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC663A3C32DA28B4535A5BE1868D12AE",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/0B8-ZH1QylxUFdWh4TDFXWlJiMmc?resourcekey=0-m3TNK1VszQFkaT3V_eblvw",
+   "ts": 1795356818000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC91E33FBA28D21661AAEC1184821886",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1gOMtCA81NDrhPEbTgtleBXycU5qwSs01",
+   "ts": 1795356818000,
+   "date": "2026-11-22",
+   "time": "16:13",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACF3664292D74CAF32B8A4186D9A32E2",
+   "sender": "ליאת יצחקי",
+   "text": "",
+   "ts": 1795357425000,
+   "date": "2026-11-22",
+   "time": "16:23",
+   "files": [
+    {
+     "name": "חנוכה מחברת כיתה א ודפי צביעה.pdf",
+     "size": "2.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/11pwhGlkK60NTbULIgiZEpxU-4xxYG9TR/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972503390073"
+  },
+  {
+   "id": "AC04B1689F24C4695B8F6334C1924F84",
+   "sender": "נעה",
+   "text": "תודה רבה",
+   "ts": 1795357440000,
+   "date": "2026-11-22",
+   "time": "16:24",
+   "files": [],
+   "drive": null,
+   "phone": "972545994067"
+  },
+  {
+   "id": "ACB9F4659ADBBFE1F21561C63102477A",
+   "sender": "אחינעם",
+   "text": "תודה רבה!",
+   "ts": 1795358464000,
+   "date": "2026-11-22",
+   "time": "16:41",
+   "files": [],
+   "drive": null,
+   "phone": "972586788467"
+  },
+  {
+   "id": "ACB82E5FA7B1DB78FBF63AD4FD83925B",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795381624000,
+   "date": "2026-11-22",
+   "time": "23:07",
+   "files": [
+    {
+     "name": "חוברת קריאה חנוכה תשפב.pdf",
+     "size": "2.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DOxZcnUCx7qYaJOKM4Svj45PipAFHFHA/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
   }
  ]
 }

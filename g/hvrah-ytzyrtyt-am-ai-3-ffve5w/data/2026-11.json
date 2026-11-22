@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם ai 3️⃣",
- "updated": "2026-11-20T03:14:22.048Z",
+ "updated": "2026-11-22T07:24:48.773Z",
  "messages": [
   {
    "id": "3EB0D8AB2D3E8886F6F2F8",
@@ -476,6 +476,27 @@
    "files": [],
    "drive": null,
    "phone": "972552801045"
+  },
+  {
+   "id": "3EB04D255688F65E886FED",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "*מסיבת חנוכה המסורתית שאסור לפספס!*\nנגלה גם איך יוצרים סרטון גדילה מהפנט, כל אחד יחיה את הסופגנייה שלו.\n*ותקבלו את המתכון המלא לקחת הביתה.*\nשעשועי פרומפטים, דמי חנוכה, ועוד פעילויות עם תלמידים והפתעות משגעות.\nרביעי 25.11, 20:00 בזום\n20 ש\"ח בלבד, מחיר סמלי לדמי רצינות\nלהרשמה:\nhttps://www.lomdot.org/event-details/ai-hanukkah2",
+   "ts": 1795332279000,
+   "date": "2026-11-22",
+   "time": "09:24",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "15.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1GpRBlkKc_Vgo4ij-O35_9xeUVL85GEXg/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB04D255688F65E886FED_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1GpRBlkKc_Vgo4ij-O35_9xeUVL85GEXg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }
