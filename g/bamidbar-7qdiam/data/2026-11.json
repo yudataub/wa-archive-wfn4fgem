@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-22T15:14:25.811Z",
+ "updated": "2026-11-23T17:23:57.083Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -4072,6 +4072,179 @@
    "files": [],
    "drive": null,
    "phone": "972503552242"
+  },
+  {
+   "id": "AC03DB2DB0460F9F3BF6502F5A9340AF",
+   "sender": "RIVKA",
+   "text": "נראה מהמם!\nאשמח לשלוח שוב",
+   "ts": 1795419608000,
+   "date": "2026-11-23",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "phone": "972532296182"
+  },
+  {
+   "id": "ACA7CF4B917A8A16EC212611D335348E",
+   "sender": "RIVKA",
+   "text": "וגם את זה 🙏",
+   "ts": 1795419628000,
+   "date": "2026-11-23",
+   "time": "09:40",
+   "files": [],
+   "drive": null,
+   "phone": "972532296182"
+  },
+  {
+   "id": "AC28D8F3EEDAD0C29464915FB976FFDC",
+   "sender": "אשר רפאל מיימון",
+   "text": "זה לא יורד",
+   "ts": 1795420049000,
+   "date": "2026-11-23",
+   "time": "09:47",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "AC2483CC0EAA3196656B8E427E34830B",
+   "sender": "אשר רפאל מיימון",
+   "text": "אני יודע שזה לא קשור.\nאני מחפש כיתה וירטואלית על גדולי ישראל",
+   "ts": 1795420730000,
+   "date": "2026-11-23",
+   "time": "09:58",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "ACEF75A8E9808AA8A95DC349A42C465E",
+   "sender": "Daniela Sandrusi",
+   "text": "",
+   "ts": 1795420808000,
+   "date": "2026-11-23",
+   "time": "10:00",
+   "files": [
+    {
+     "name": "דף עבודה על בני עלי פרק ב' שמואל ב' .pdf",
+     "size": "1.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/17oSJ50Tr6Gfq58gYx5BpF7eNxdlHlqpk/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527240414"
+  },
+  {
+   "id": "ACCD922408DD0FC602D74C88B9D8CE25",
+   "sender": "Daniela Sandrusi",
+   "text": "עכשיו?",
+   "ts": 1795420812000,
+   "date": "2026-11-23",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "phone": "972527240414"
+  },
+  {
+   "id": "AC05A7C3B3C472E81A88943F9C51E9F6",
+   "sender": "RIVKA",
+   "text": "מקסים! תודה רבה",
+   "ts": 1795420837000,
+   "date": "2026-11-23",
+   "time": "10:00",
+   "files": [],
+   "drive": null,
+   "phone": "972532296182"
+  },
+  {
+   "id": "ACD523099877156DA9DD775BF4F955D1",
+   "sender": "~ אווה בוגנים",
+   "text": "חומר על פרשת בבעלותך כולל מצגות ודפי עבודה",
+   "ts": 1795426077000,
+   "date": "2026-11-23",
+   "time": "11:27",
+   "files": [],
+   "drive": null,
+   "phone": "972506949990"
+  },
+  {
+   "id": "AC9AA763672D909A9922BA18E3ED2FEA",
+   "sender": "~ אווה בוגנים",
+   "text": "בבקשה",
+   "ts": 1795426078000,
+   "date": "2026-11-23",
+   "time": "11:27",
+   "files": [],
+   "drive": null,
+   "phone": "972506949990"
+  },
+  {
+   "id": "3EB08D3B6925F250A420C0",
+   "sender": "אלחנן הלמן😊",
+   "text": "שלום לכולם!\nמישהו כבר קיבל במקרה תשובה חיובית על הרישום להשתלמות?\nנרשמתי במצפן לפני כמה שבועות ומאז דממה...🤷🏼‍♂️\nתודה!",
+   "ts": 1795452477000,
+   "date": "2026-11-23",
+   "time": "18:47",
+   "files": [],
+   "drive": null,
+   "phone": "972525971695"
+  },
+  {
+   "id": "3AB674D10D5BC5681F77",
+   "sender": "אודיה חן",
+   "text": "מצטרפת לשאלה",
+   "ts": 1795452671000,
+   "date": "2026-11-23",
+   "time": "18:51",
+   "files": [],
+   "drive": null,
+   "phone": "972523390871"
+  },
+  {
+   "id": "AC5F70F1AF21A55E7E9CFB88AADE7880",
+   "sender": "אפרת",
+   "text": "אני לא הצלחתי להרשם במצפן...",
+   "ts": 1795453506000,
+   "date": "2026-11-23",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972544449678"
+  },
+  {
+   "id": "3A9261714B534AB8A1F0",
+   "sender": "דניאלה נגר",
+   "text": "מצטרפת",
+   "ts": 1795454144000,
+   "date": "2026-11-23",
+   "time": "19:15",
+   "files": [],
+   "drive": null,
+   "phone": "972527040527"
+  },
+  {
+   "id": "3EB0ADF1AB00281FB62B7F",
+   "sender": "אלחנן הלמן😊",
+   "text": "לפחות אני רואה שהבעייה לא אצלי😅",
+   "ts": 1795454296000,
+   "date": "2026-11-23",
+   "time": "19:18",
+   "files": [],
+   "drive": null,
+   "phone": "972525971695"
+  },
+  {
+   "id": "ACFC35EF05AE5C42A6C117A9D7C994E1",
+   "sender": "מוטי אלבז",
+   "text": "https://drive.google.com/drive/folders/1MQyC4bw6DNf6tLkj5hEWBPdj8xsQZuxA",
+   "ts": 1795454617000,
+   "date": "2026-11-23",
+   "time": "19:23",
+   "files": [],
+   "drive": null,
+   "phone": "972523486547"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-22T11:57:25.878Z",
+ "updated": "2026-11-23T17:47:27.450Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -1529,6 +1529,98 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "AC2CC458965B8AE14131DADF1E49D901",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1795415980000,
+   "date": "2026-11-23",
+   "time": "08:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "247KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Qpp2KzKo4oXNFFSPyxv3-Ae4xv0VRANg/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Qpp2KzKo4oXNFFSPyxv3-Ae4xv0VRANg&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC99125642CA6F6744286BE24B2E343A",
+   "sender": "מרדכי",
+   "text": "*לעילוי נשמת הרב איתמר שוורץ בן טובה*",
+   "ts": 1795415991000,
+   "date": "2026-11-23",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC0A1EF9D2EAD5911572A2D85A7622E0",
+   "sender": "מרדכי",
+   "text": "*לרפואת ליאור בן לואיזה* \nשנמצא במצב אנוש לאחר ניתוח בעקבות התקפת לב",
+   "ts": 1795441448000,
+   "date": "2026-11-23",
+   "time": "15:44",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC828EACF06A3E1FCCFA01845F812E55",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1795441448000,
+   "date": "2026-11-23",
+   "time": "15:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "181KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1TMaFXfW_uxnG6Nge1Qnt-bKoczRDakPa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TMaFXfW_uxnG6Nge1Qnt-bKoczRDakPa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACF1094A9308AFA3965D54B6D62CF828",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1795455935000,
+   "date": "2026-11-23",
+   "time": "19:45",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "35KB",
+     "type": "image/webp",
+     "path": "media/2026-11/ACF1094A9308AFA3965D54B6D62CF828_1.webp",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC23FD72D959016CEC33F2127E5C5D2A",
+   "sender": "מרדכי",
+   "text": "*תזכורת:*\n*ברכת הלבנה הלילה למי שעדיין לא ברך*",
+   "ts": 1795456042000,
+   "date": "2026-11-23",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-22T21:08:38.226Z",
+ "updated": "2026-11-23T05:00:32.110Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2767,6 +2767,37 @@
    "files": [],
    "drive": null,
    "phone": "972505728349"
+  },
+  {
+   "id": "ACB348169AD239C7308BD396A0E471D8",
+   "sender": "משפחת צוויג",
+   "text": "",
+   "ts": 1795410004000,
+   "date": "2026-11-23",
+   "time": "07:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jYGD6nyiPiwo50VGexrA7fAvN26m6E_c/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jYGD6nyiPiwo50VGexrA7fAvN26m6E_c&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534624813"
+  },
+  {
+   "id": "AC4BA2495C742B32F640FA6FDCC4BF6E",
+   "sender": "משפחת צוויג",
+   "text": "👆פנוי בסופ\"ש הקרוב!! בית מקסים בישוב התורני- שבי דרום.\n4 חדרי שינה, סלון מטבח ענקיים. פרגולה ענקית ערסלים בחצר.\nמבצעי חורף🤩\n0545684783/2",
+   "ts": 1795410006000,
+   "date": "2026-11-23",
+   "time": "07:00",
+   "files": [],
+   "drive": null,
+   "phone": "972534624813"
   }
  ]
 }

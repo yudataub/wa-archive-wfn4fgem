@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-11-21T20:15:06.723Z",
+ "updated": "2026-11-23T19:35:47.380Z",
  "messages": [
   {
    "id": "ACC6568ECDEB7F48FEA2636611698041",
@@ -1763,6 +1763,120 @@
    "files": [],
    "drive": null,
    "phone": "972534170818"
+  },
+  {
+   "id": "ACDD9AD6441CA52922B219751680A83D",
+   "sender": "לאה מוצרי פוראוור",
+   "text": "היי! נרשמתי לוובינר חינמי על עבודה עם תלמידים מתקשים בקריאה, והוא נראה מעולה. בואי איתי, זה הקישור להרשמה: https://docs.google.com/forms/d/e/1FAIpQLScqq15nhQLfkp2haes78hl9Gagim9sKORVHnokGC7BeRhqt_A/viewform?usp=pp_url",
+   "ts": 1795415682000,
+   "date": "2026-11-23",
+   "time": "08:34",
+   "files": [],
+   "drive": null,
+   "phone": "972533056147"
+  },
+  {
+   "id": "AC53EC72BE9E51D4A2BDCDC2E0063564",
+   "sender": "tali",
+   "text": "האם ימי מחלה עבור ילד, יורדים מסך ימי המחלה שלי בתלוש?",
+   "ts": 1795426275000,
+   "date": "2026-11-23",
+   "time": "11:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527446899"
+  },
+  {
+   "id": "A56CCB614DA4BEADC553B9CA77EAEEC0",
+   "sender": "חינוך ופיננסים",
+   "text": "כן, עד 8 ימים לילד",
+   "ts": 1795426489000,
+   "date": "2026-11-23",
+   "time": "11:34",
+   "files": [],
+   "drive": null,
+   "phone": "972535518823"
+  },
+  {
+   "id": "ACBEA046945FF2C61BF946EB26227559",
+   "sender": "אודיה",
+   "text": "ואם נגמרו ימי. מחלה עבור ילד , האם זה יורד ישירות מהמחלה של העובד?",
+   "ts": 1795443076000,
+   "date": "2026-11-23",
+   "time": "16:11",
+   "files": [],
+   "drive": null,
+   "phone": "972548405900"
+  },
+  {
+   "id": "A50043AB7696C36CB8DD0BE1AE2DD0EE",
+   "sender": "חינוך ופיננסים",
+   "text": "לא – ימי מחלה בגין מחלת ילד כבר יורדים מיתרת ימי המחלה הצבורים של העובד, אך הם מוגבלים בתקרה שנתית בחוק. אם המכסה השנתית עבור מחלת ילד הסתיימה, לא ניתן להמשיך לנצל ימי מחלה רגילים עבור הילד גם אם נותרו לעובד ימי מחלה צבורים.",
+   "ts": 1795443239000,
+   "date": "2026-11-23",
+   "time": "16:13",
+   "files": [],
+   "drive": null,
+   "phone": "972535518823"
+  },
+  {
+   "id": "4A0CA5E4BD1614FEF7DC",
+   "sender": "אורלי שלמה",
+   "text": "",
+   "ts": 1795458972000,
+   "date": "2026-11-23",
+   "time": "20:36",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "173KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dmFiLEu1BZ8nlAsopHc6NTRogqa7m4Pk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dmFiLEu1BZ8nlAsopHc6NTRogqa7m4Pk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542000121"
+  },
+  {
+   "id": "A5E60D9D9A4D813BD20F28F612726CEA",
+   "sender": "חרדים בחינוך",
+   "text": "המחשבון שחוסך לך 🫵\n*כנסו בדקו וחסכו*\n https://charedim-teachers.com/calculator\n-------------------------------\nלעדכונים נוספים לעו\"ה הצטרפו *לחרדים בהסדרות המורים* 🔽",
+   "ts": 1795462515000,
+   "date": "2026-11-23",
+   "time": "21:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5E60D9D9A4D813BD20F28F612726CEA_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533961905"
+  },
+  {
+   "id": "A503200296C3040D3A3986F07BA818D6",
+   "sender": "חרדים בחינוך",
+   "text": "🎓*מילגות לימודים לחברי הסתדרות המורים,* הגשת הבקשה תיפתח בעוד כשבוע בתאריך 1/12/2026\nלמשך חודש בלבד.\n-------------------------------\nלעדכונים נוספים לעו\"ה הצטרפו *חרדים בהסתדרות המורים*⏬",
+   "ts": 1795462528000,
+   "date": "2026-11-23",
+   "time": "21:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12TCPUNP5DHta9F7KYPvN4zmoIu9LpRul/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12TCPUNP5DHta9F7KYPvN4zmoIu9LpRul&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533961905"
   }
  ]
 }

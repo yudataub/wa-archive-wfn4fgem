@@ -1,1 +1,382 @@
-{"month":"2026-11","group":"משנה מפמ\"ר כתות א'-ב'","updated":"2026-11-02T21:52:18.422Z","messages":[{"id":"AC455B58B00753EECEDFE00BC1AFB4A8","sender":"אור מימון 𓉱","text":"הנה לפניכם כל החומרים שלי על פרקי אבות במקום אחד \nhttps://sites.google.com/view/yuda-taub-avot/הקטלוג-המלא","ts":1793656218000,"date":"2026-11-02","time":"23:50","files":[],"drive":null,"phone":"972504886618"},{"id":"AC60A1189A78F3F63185D83FFE19722E","sender":"אור מימון 𓉱","text":"","ts":1793656257000,"date":"2026-11-02","time":"23:50","files":[{"name":"מסכת אבות מצוירת (פרק א).pdf","size":"572KB","type":"application/pdf","path":"https://drive.google.com/file/d/1OVDoXiadBEqii4b_jTrUvcNtvreznGfn/view?usp=drivesdk","skipped":""}],"drive":null,"phone":"972504886618"},{"id":"ACFAAAF93A4CDC40E5A7626DB1836962","sender":"אור מימון 𓉱","text":"","ts":1793656257000,"date":"2026-11-02","time":"23:50","files":[{"name":"חוברת פרק ב.pdf","size":"10.8MB","type":"application/pdf","path":"https://drive.google.com/file/d/1U8SOgV55FHmcLG6swAlMdDLzVgGLExFf/view?usp=drivesdk","skipped":""}],"drive":null,"phone":"972504886618"},{"id":"AC44CD50A777CCC49FD7CC9DC0EEF039","sender":"אור מימון 𓉱","text":"","ts":1793656305000,"date":"2026-11-02","time":"23:51","files":[{"name":"מסכת אבות פרק א.pdf","size":"100KB","type":"application/pdf","path":"https://drive.google.com/file/d/1DKME67VYrX9QK7k5YBYizw3jN1-27-4x/view?usp=drivesdk","skipped":""}],"drive":null,"phone":"972504886618"},{"id":"ACB5903577D380A64F9EE518653DF0BF","sender":"אור מימון 𓉱","text":"","ts":1793656306000,"date":"2026-11-02","time":"23:51","files":[{"name":"תמונה.jpg","size":"147KB","type":"image/jpeg","path":"https://yudataub.github.io/wa-vid-mishna-a-b-u2ewc7/f/2026-11/ACB5903577D380A64F9EE518653DF0BF_0.jpg","skipped":"","spool":"2026-11/ACB5903577D380A64F9EE518653DF0BF_0.jpg","mirror":"https://yudataub.github.io/wa-vid-mishna-a-b-u2ewc7/f/2026-11/ACB5903577D380A64F9EE518653DF0BF_0.jpg"}],"drive":null,"phone":"972504886618"}]}
+{
+ "month": "2026-11",
+ "group": "משנה מפמ\"ר כתות א'-ב'",
+ "updated": "2026-11-23T19:16:42.865Z",
+ "messages": [
+  {
+   "id": "AC455B58B00753EECEDFE00BC1AFB4A8",
+   "sender": "אור מימון 𓉱",
+   "text": "הנה לפניכם כל החומרים שלי על פרקי אבות במקום אחד \nhttps://sites.google.com/view/yuda-taub-avot/הקטלוג-המלא",
+   "ts": 1793656218000,
+   "date": "2026-11-02",
+   "time": "23:50",
+   "files": [],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "AC60A1189A78F3F63185D83FFE19722E",
+   "sender": "אור מימון 𓉱",
+   "text": "",
+   "ts": 1793656257000,
+   "date": "2026-11-02",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "מסכת אבות מצוירת (פרק א).pdf",
+     "size": "572KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OVDoXiadBEqii4b_jTrUvcNtvreznGfn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "ACFAAAF93A4CDC40E5A7626DB1836962",
+   "sender": "אור מימון 𓉱",
+   "text": "",
+   "ts": 1793656257000,
+   "date": "2026-11-02",
+   "time": "23:50",
+   "files": [
+    {
+     "name": "חוברת פרק ב.pdf",
+     "size": "10.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1U8SOgV55FHmcLG6swAlMdDLzVgGLExFf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "AC44CD50A777CCC49FD7CC9DC0EEF039",
+   "sender": "אור מימון 𓉱",
+   "text": "",
+   "ts": 1793656305000,
+   "date": "2026-11-02",
+   "time": "23:51",
+   "files": [
+    {
+     "name": "מסכת אבות פרק א.pdf",
+     "size": "100KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DKME67VYrX9QK7k5YBYizw3jN1-27-4x/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "ACB5903577D380A64F9EE518653DF0BF",
+   "sender": "אור מימון 𓉱",
+   "text": "",
+   "ts": 1793656306000,
+   "date": "2026-11-02",
+   "time": "23:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://yudataub.github.io/wa-vid-mishna-a-b-u2ewc7/f/2026-11/ACB5903577D380A64F9EE518653DF0BF_0.jpg",
+     "skipped": "",
+     "spool": "2026-11/ACB5903577D380A64F9EE518653DF0BF_0.jpg",
+     "mirror": "https://yudataub.github.io/wa-vid-mishna-a-b-u2ewc7/f/2026-11/ACB5903577D380A64F9EE518653DF0BF_0.jpg"
+    }
+   ],
+   "drive": null,
+   "phone": "972504886618"
+  },
+  {
+   "id": "ACBBBF767286112A6074B890CC75B41B",
+   "sender": "sapiras💕",
+   "text": "היי, הדפסתי לתלמידים את החוברת וראיתי שיש טעות באמצע שגוררת את כל המשניות החל ממשנה ה. יש במקרה את החוברת מתוקנת עם כל המשניות מסודרות?",
+   "ts": 1795453124000,
+   "date": "2026-11-23",
+   "time": "18:58",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "AC4EB944D39D96A7884D1D4B3FB285F5",
+   "sender": "sapiras💕",
+   "text": "או האם יש את הקובץ הזה בוורד שניתן לעריכה כדי לתקן את העמודים?",
+   "ts": 1795453277000,
+   "date": "2026-11-23",
+   "time": "19:01",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "3AB00819F1249D3FAD80",
+   "sender": "תמנת",
+   "text": "אפשר לשלוח שוב את החוברת?",
+   "ts": 1795453508000,
+   "date": "2026-11-23",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972545992895"
+  },
+  {
+   "id": "ACAC0D2FDB2A9F98696C80A16BF07184",
+   "sender": "אתי",
+   "text": "",
+   "ts": 1795453546000,
+   "date": "2026-11-23",
+   "time": "19:05",
+   "files": [
+    {
+     "name": "חוברת פרק ב.pdf",
+     "size": "10.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1CJFExtWHb2-2TDhB6Z5e2kcsoU62yV7R/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "ACCA0F05AB41511C78A9F7E80C54AFA2",
+   "sender": "קוביטשעק",
+   "text": "עדיין לא הגעתי למשנה ה'.\nאשמח לדעת מה הטעות.",
+   "ts": 1795453698000,
+   "date": "2026-11-23",
+   "time": "19:08",
+   "files": [],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC6DB31EAA460E15C9DB3F21113E8A3B",
+   "sender": "sapiras💕",
+   "text": "משנה ה בחוברת היא חלק של משנה ד ואז כל שאר החוברת נגררת בהתאם כשמשנה ו היא בעצם ה וכו",
+   "ts": 1795454609000,
+   "date": "2026-11-23",
+   "time": "19:23",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "AC8D1948CB087B0BABA83B5B0449B924",
+   "sender": "sapiras💕",
+   "text": "הייתי אמורה ללמד מחר את משנה ה' ועכשיו אני רואה את זה, ועכשיו הבנתי שאני צריכה להדפיס שוב הכל ולסדר עמודים ולכתוב את התיקונים הבעיה שהקובץ לא ניתן לעריכה וזה בעייתי",
+   "ts": 1795454696000,
+   "date": "2026-11-23",
+   "time": "19:24",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "ACB4C702FEBAB600228AFE7889CE153E",
+   "sender": "גילה",
+   "text": "ברוב חוברות המשנה לתלמידים חלוקת סידור הפרקים שונה מהרגיל. אז לא בטוח שזו טעות.",
+   "ts": 1795454794000,
+   "date": "2026-11-23",
+   "time": "19:26",
+   "files": [],
+   "drive": null,
+   "phone": "972507865214"
+  },
+  {
+   "id": "AC598940C4245F3C0B12349FDDAB33E8",
+   "sender": "sapiras💕",
+   "text": "לא הבנתי, כתוב בחוברת משנה ה אבל זאת משנה ד אז איך זה לא טעות?",
+   "ts": 1795454899000,
+   "date": "2026-11-23",
+   "time": "19:28",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "AC378A2E062C971515ECABF105FB64E7",
+   "sender": "קוביטשעק",
+   "text": "בדיוק מה שקלוד ענה לי",
+   "ts": 1795455258000,
+   "date": "2026-11-23",
+   "time": "19:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "111KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1i8Rc0YawB6KiO9uRYkQznWF9-ia5dZz0/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1i8Rc0YawB6KiO9uRYkQznWF9-ia5dZz0&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "ACA262F7EE62E06600C354B319558985",
+   "sender": "גילה",
+   "text": "גם אני תהיתי בקשר לחלוקת נהמשניות כבר בשנה שעברה וקבלתי את התשובה שכתבתי לך מאחד הרבנים העוסקים במשנה.\nאם אמצא את התשובה, אעביר לך.",
+   "ts": 1795455433000,
+   "date": "2026-11-23",
+   "time": "19:37",
+   "files": [],
+   "drive": null,
+   "phone": "972507865214"
+  },
+  {
+   "id": "AC45A0E2B7DCBB5E29498D285BC65969",
+   "sender": "אדנו דניאל גברי 👍👍👍",
+   "text": "שלום וברכה בקשר לחוברת לפי החלוקה של משנה סדורה יש 16 משניות..",
+   "ts": 1795455677000,
+   "date": "2026-11-23",
+   "time": "19:41",
+   "files": [],
+   "drive": null,
+   "phone": "972508738885"
+  },
+  {
+   "id": "ACBC79B88E63DE6C56AF3900F8C76185",
+   "sender": "אדנו דניאל גברי 👍👍👍",
+   "text": "יש לי word דפי העבודה מי שרוצה אני יכול לשלוח  אותו ערוך לפי משנה סדורה  ..",
+   "ts": 1795455732000,
+   "date": "2026-11-23",
+   "time": "19:42",
+   "files": [],
+   "drive": null,
+   "phone": "972508738885"
+  },
+  {
+   "id": "AC50A97BDC76D8A87972807F35F418FD",
+   "sender": "רונה",
+   "text": "מי שעובד עם משניות בשתף הכל מאורגן ומסודר ונגיש",
+   "ts": 1795455834000,
+   "date": "2026-11-23",
+   "time": "19:43",
+   "files": [],
+   "drive": null,
+   "phone": "972546081268"
+  },
+  {
+   "id": "AC02C7676B0022441F3F3390C8C36290",
+   "sender": "קוביטשעק",
+   "text": "קלוד סידר לי מהדף הזה\nמי שרוצה אשלח בשמחה",
+   "ts": 1795455916000,
+   "date": "2026-11-23",
+   "time": "19:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "65KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC02C7676B0022441F3F3390C8C36290_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC4DC7D2C9C5DBF559BE5252E500153E",
+   "sender": "sapiras💕",
+   "text": "זה מה שאמרתי. לא אמרתי שתוכן המשנה לא נכון אמרתי שיש טעות במספור",
+   "ts": 1795456036000,
+   "date": "2026-11-23",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "ACBA8D4A8262257B4F7381FA17765D9E",
+   "sender": "sapiras💕",
+   "text": "אשמח ממש🙏🏽",
+   "ts": 1795456066000,
+   "date": "2026-11-23",
+   "time": "19:47",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "AC278A128E58252127A094983CA3515E",
+   "sender": "קוביטשעק",
+   "text": "שלחתי בפרטי",
+   "ts": 1795456322000,
+   "date": "2026-11-23",
+   "time": "19:52",
+   "files": [],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC7324C8424069F7C30B18D28D53BE26",
+   "sender": "Ziva Eliasian",
+   "text": "תוכלי לשלוח בקבוצה?",
+   "ts": 1795456385000,
+   "date": "2026-11-23",
+   "time": "19:53",
+   "files": [],
+   "drive": null,
+   "phone": "972504106665"
+  },
+  {
+   "id": "AC64BF45604A2D7824FB372A2A0F244B",
+   "sender": "sapiras💕",
+   "text": "תודה🙏🏽",
+   "ts": 1795456438000,
+   "date": "2026-11-23",
+   "time": "19:53",
+   "files": [],
+   "drive": null,
+   "phone": "972544531304"
+  },
+  {
+   "id": "ACB9F989EE2D276888AE8CF3B207335B",
+   "sender": "קוביטשעק",
+   "text": "כן\nרק תבדקו לפני שאתם מדפיסים שהכל בסדר \nלא עברתי על הכל",
+   "ts": 1795456470000,
+   "date": "2026-11-23",
+   "time": "19:54",
+   "files": [],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "ACB6E4FEF7D2118ABA4045CAC89C616B",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1795456484000,
+   "date": "2026-11-23",
+   "time": "19:54",
+   "files": [
+    {
+     "name": "פרקי אבות פרק ב - מספור משניות מתוקן.pdf",
+     "size": "15.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1WFtRL9GX2DSBqJkiznrZrLaMZ2bF86M7/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "ACE71158DE7805AD2EFB4354F8745191",
+   "sender": "אתי",
+   "text": "תודה רבה",
+   "ts": 1795461392000,
+   "date": "2026-11-23",
+   "time": "21:16",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  }
+ ]
+}

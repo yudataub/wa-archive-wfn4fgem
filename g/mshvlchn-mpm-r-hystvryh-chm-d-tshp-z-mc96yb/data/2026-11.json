@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משולחן מפמ\"ר היסטוריה חמ\"ד תשפ\"ז",
- "updated": "2026-11-22T16:20:33.571Z",
+ "updated": "2026-11-23T16:54:19.236Z",
  "messages": [
   {
    "id": "3EB09A9EE911313CE7D2A0",
@@ -315,6 +315,48 @@
    "ts": 1795364428000,
    "date": "2026-11-22",
    "time": "18:20",
+   "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "AC6F1CB619461FB39CFF53E339DD72A1",
+   "sender": "יוסי לונדין",
+   "text": "פתחנו את הפרסום *לקרן הפרסים לעבודות מצטיינות בנושא חקר השואה וזכרה לשנת תשפ\"ז*\nבסימן לאן ממשיכים מכאן - היום שאחרי\nhttps://www.gfh.org.il/contents.php?id=keren-prasim-26-27",
+   "ts": 1795452566000,
+   "date": "2026-11-23",
+   "time": "18:49",
+   "files": [],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "ACA8260E308A101C8D3266491C7F3A5A",
+   "sender": "יוסי לונדין",
+   "text": "*נפגשים לעוד קפה של ערב*☕\nוהפעם- בינה מלאכותית🤖\nבואו בשמחה🤩\nhttps://edu-il.zoom.us/j/88957862599?pwd=9F9q36MW4DlFKPHmcji6SayYFkE5Ny.1",
+   "ts": 1795452845000,
+   "date": "2026-11-23",
+   "time": "18:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "287KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bsmxVfkUtanbF_MJu9t9LYHnXtqM-4m-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bsmxVfkUtanbF_MJu9t9LYHnXtqM-4m-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526071630"
+  },
+  {
+   "id": "AC586142F28AB62DA41E8BDEED6A9DFC",
+   "sender": "יוסי לונדין",
+   "text": "הערב👆",
+   "ts": 1795452855000,
+   "date": "2026-11-23",
+   "time": "18:54",
    "files": [],
    "drive": null,
    "phone": "972526071630"

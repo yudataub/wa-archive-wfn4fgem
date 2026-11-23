@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חרדים בהסתדרות המורים1️⃣",
- "updated": "2026-11-22T05:28:02.542Z",
+ "updated": "2026-11-23T18:52:35.470Z",
  "messages": [
   {
    "id": "AC25F7944EE831886750B27614B28370",
@@ -2659,6 +2659,45 @@
    "files": [],
    "drive": null,
    "phone": "972547204352"
+  },
+  {
+   "id": "A51D6060BF9FC6C8721738840C5E1C1F",
+   "sender": "חרדים בחינוך",
+   "text": "המחשבון שחוסך לך 🫵\n*כנסו בדקו וחסכו*\n https://charedim-teachers.com/calculator\n-------------------------------\nלעדכונים נוספים לעו\"ה הצטרפו *לחרדים בהסדרות המורים* 🔽",
+   "ts": 1795459934000,
+   "date": "2026-11-23",
+   "time": "20:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "75KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A51D6060BF9FC6C8721738840C5E1C1F_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972533961905"
+  },
+  {
+   "id": "A596626683DBB53E3400984F240E6434",
+   "sender": "חרדים בחינוך",
+   "text": "🎓*מילגות לימודים לחברי הסתדרות המורים,* הגשת הבקשה תיפתח בעוד כשבוע בתאריך 1/12/2026\nלמשך חודש בלבד.\n-------------------------------\nלעדכונים נוספים לעו\"ה הצטרפו *חרדים בהסתדרות המורים*⏬",
+   "ts": 1795459935000,
+   "date": "2026-11-23",
+   "time": "20:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jT1HCrGGJ2zE4OOI8nS2rqOVfD2lruzG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jT1HCrGGJ2zE4OOI8nS2rqOVfD2lruzG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972533961905"
   }
  ]
 }

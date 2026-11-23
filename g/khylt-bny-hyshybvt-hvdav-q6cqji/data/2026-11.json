@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת בני הישיבות-הודעות",
- "updated": "2026-11-22T20:38:37.701Z",
+ "updated": "2026-11-23T08:28:03.939Z",
  "messages": [
   {
    "id": "AC6C4E12DB89F3D041CB069EB7997B55",
@@ -4171,6 +4171,26 @@
    ],
    "drive": null,
    "phone": "972553087073"
+  },
+  {
+   "id": "A5302ABDE8A8ECE121169CB8E264EB37",
+   "sender": "מוישי ולדמן",
+   "text": "מגוון דירות להשכרה בקרית אתא\nמשה ולדמן - יד לנדלן\n0507924828",
+   "ts": 1795422456000,
+   "date": "2026-11-23",
+   "time": "10:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "193KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dRGV71ZWomUIo7wRAwnEAecGRvs6hZ1B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dRGV71ZWomUIo7wRAwnEAecGRvs6hZ1B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507924828"
   }
  ]
 }

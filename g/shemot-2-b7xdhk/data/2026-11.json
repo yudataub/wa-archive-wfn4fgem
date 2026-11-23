@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-22T20:14:00.705Z",
+ "updated": "2026-11-23T14:25:27.271Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -2834,6 +2834,141 @@
    ],
    "drive": null,
    "phone": "972525304028"
+  },
+  {
+   "id": "AC061EE1A44C9DA6B08ED0EEEB3225D3",
+   "sender": "רבקי",
+   "text": "תודה רבה!",
+   "ts": 1795410772000,
+   "date": "2026-11-23",
+   "time": "07:12",
+   "files": [],
+   "drive": null,
+   "phone": "972585360770"
+  },
+  {
+   "id": "ACEE53834C96BA75DBD8945F76AA861A",
+   "sender": "אוריה גיגי",
+   "text": "",
+   "ts": 1795415920000,
+   "date": "2026-11-23",
+   "time": "08:38",
+   "files": [
+    {
+     "name": "משחק 10 המכות.pdf",
+     "size": "11.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1CtSykZK1cpkZKEZW3zdFKqGTj1kg0Fzb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506762370"
+  },
+  {
+   "id": "AC4BD268D651198BDF8F035CA11A19CD",
+   "sender": "אוריה גיגי",
+   "text": "",
+   "ts": 1795415922000,
+   "date": "2026-11-23",
+   "time": "08:38",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "334KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GAuNYeENSatp10SPmqRZk9ZZUkZ7nMSe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GAuNYeENSatp10SPmqRZk9ZZUkZ7nMSe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506762370"
+  },
+  {
+   "id": "AC15F9818232E3427077A532B89A4DBD",
+   "sender": "אוריה גיגי",
+   "text": "הכנתי משחק לסיום לימוד עשר המכות👆",
+   "ts": 1795415945000,
+   "date": "2026-11-23",
+   "time": "08:39",
+   "files": [],
+   "drive": null,
+   "phone": "972506762370"
+  },
+  {
+   "id": "AC1548F0CBAC10B791E0F81C0856F7BB",
+   "sender": "נירה צוריאל",
+   "text": "מקסים!",
+   "ts": 1795440598000,
+   "date": "2026-11-23",
+   "time": "15:29",
+   "files": [],
+   "drive": null,
+   "phone": "972504101558"
+  },
+  {
+   "id": "AC18713EAC836436387921143FDEB36D",
+   "sender": "אודיה",
+   "text": "מיוחד!!",
+   "ts": 1795442807000,
+   "date": "2026-11-23",
+   "time": "16:06",
+   "files": [],
+   "drive": null,
+   "phone": "972548405900"
+  },
+  {
+   "id": "AC814C1716E28A9D0C56BBEC83132581",
+   "sender": "רחלי בלמס",
+   "text": "",
+   "ts": 1795443104000,
+   "date": "2026-11-23",
+   "time": "16:11",
+   "files": [
+    {
+     "name": "הודעה קולית.ogg",
+     "size": "7KB",
+     "type": "audio/ogg; codecs=opus",
+     "path": "https://drive.google.com/file/d/117R0gbgLXByQqVPN-7wkcKcWoQj6oyV_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584324242"
+  },
+  {
+   "id": "AC3852D19A3EBE7125E7C484DCDDBFE7",
+   "sender": "קרן פלט🌸",
+   "text": "יש בשחור לבן?",
+   "ts": 1795443370000,
+   "date": "2026-11-23",
+   "time": "16:16",
+   "files": [],
+   "drive": null,
+   "phone": "972502028311"
+  },
+  {
+   "id": "AC7D0DC581BC01ABCD0695A88D541B8A",
+   "sender": "🌸",
+   "text": "מהמם!",
+   "ts": 1795443734000,
+   "date": "2026-11-23",
+   "time": "16:22",
+   "files": [],
+   "drive": null,
+   "phone": "972548445868"
+  },
+  {
+   "id": "AC992F08D4D23BC19F7AD2B57926439B",
+   "sender": "קרן פלט🌸",
+   "text": "מקסים ממש",
+   "ts": 1795443923000,
+   "date": "2026-11-23",
+   "time": "16:25",
+   "files": [],
+   "drive": null,
+   "phone": "972502028311"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-22T18:13:23.290Z",
+ "updated": "2026-11-23T20:34:48.254Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -2448,6 +2448,119 @@
    "files": [],
    "drive": null,
    "phone": "972544318837"
+  },
+  {
+   "id": "ACF12279C25EBBC79A60BB7523FC29F1",
+   "sender": "גל",
+   "text": "לימוד חנוכה, שלוש תחנות: 1. הלכות חנוכה- דף עבודה 2. תשבץ 3. רביעיות",
+   "ts": 1795428734000,
+   "date": "2026-11-23",
+   "time": "12:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LmFL_-1F1KD5upvR-8PYiAkT2g4EBpIJ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LmFL_-1F1KD5upvR-8PYiAkT2g4EBpIJ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545544851"
+  },
+  {
+   "id": "A57A8D1AC61DCD27D63C549F990E42AD",
+   "sender": "הדר אונגר",
+   "text": "מהמם! תודה רבה",
+   "ts": 1795430570000,
+   "date": "2026-11-23",
+   "time": "12:42",
+   "files": [],
+   "drive": null,
+   "phone": "972545955133"
+  },
+  {
+   "id": "A5B4E13934E80DCE3FFF3AE008880BB8",
+   "sender": "הדר אונגר",
+   "text": "🙏🏻",
+   "ts": 1795433364000,
+   "date": "2026-11-23",
+   "time": "13:29",
+   "files": [],
+   "drive": null,
+   "phone": "972545955133"
+  },
+  {
+   "id": "AC20FD824C4520480298324DF84A98F3",
+   "sender": "רננה",
+   "text": "",
+   "ts": 1795437911000,
+   "date": "2026-11-23",
+   "time": "14:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "129KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1lif9NoJDQpSK9CKTPu_GXSBJpd5rmLVU/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1lif9NoJDQpSK9CKTPu_GXSBJpd5rmLVU&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584221459"
+  },
+  {
+   "id": "ACAB7EBA7D10DA70AF1DA4C19570E404",
+   "sender": "רננה",
+   "text": "",
+   "ts": 1795437911000,
+   "date": "2026-11-23",
+   "time": "14:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iX_FUE5y7lpKQXSMVDfcWQVTYrlEsQMX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iX_FUE5y7lpKQXSMVDfcWQVTYrlEsQMX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584221459"
+  },
+  {
+   "id": "AC83A415AD5437DF8262FF4005820D74",
+   "sender": "רננה",
+   "text": "תחנות חנוכה- לימוד ושאילת שאלות, חידון חנוכה ותפזורת לחג החנוכה",
+   "ts": 1795437916000,
+   "date": "2026-11-23",
+   "time": "14:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jjvej3KUzdVPDoh0kbsvawnyVdeefeRX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jjvej3KUzdVPDoh0kbsvawnyVdeefeRX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584221459"
+  },
+  {
+   "id": "ACBF80A6B670BB2F952488BDB1AAA7F9",
+   "sender": "זהבה",
+   "text": "מישהו הכין בנושא הלכות חנוכה לכיתה ו'. אשמח לקבצים/ רעיונות",
+   "ts": 1795466059000,
+   "date": "2026-11-23",
+   "time": "22:34",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
   }
  ]
 }

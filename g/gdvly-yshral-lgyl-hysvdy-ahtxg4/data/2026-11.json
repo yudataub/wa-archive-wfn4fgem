@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "גדולי ישראל לגיל היסודי",
- "updated": "2026-11-19T08:14:24.865Z",
+ "updated": "2026-11-23T18:38:05.301Z",
  "messages": [
   {
    "id": "ACEB9B32BF16BB4C7F7855467466FB1D",
@@ -625,6 +625,58 @@
    "files": [],
    "drive": null,
    "phone": "972584751224"
+  },
+  {
+   "id": "ACAE5B263DE9AF87411E567A65F51AF6",
+   "sender": "אביגיל לנדסברג 🌺",
+   "text": "מחפשת חומרים, סיפורים דפי צביעה, משחקים על הרב נריה",
+   "ts": 1795451840000,
+   "date": "2026-11-23",
+   "time": "18:37",
+   "files": [],
+   "drive": null,
+   "phone": "972549879237"
+  },
+  {
+   "id": "AC2B9CB82513882CD52EFE3A81AA9A95",
+   "sender": "אליהו טרבלסי",
+   "text": "🎁 מתנה למורים לחנוכה! 🕎\n\nמשחק כיתתי אינטראקטיבי, מוכן להפעלה ובחינם!\n\n🎮 למשחק:\nhttps://app-6c9b3f68.base44.app\n\n💛 לעוד משחקים וכלים למורים, הצטרפו לקהילה:",
+   "ts": 1795454523000,
+   "date": "2026-11-23",
+   "time": "19:22",
+   "files": [],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "AC331713508828AD8E994652916965FD",
+   "sender": "אביגיל לנדסברג 🌺",
+   "text": "",
+   "ts": 1795455423000,
+   "date": "2026-11-23",
+   "time": "19:37",
+   "files": [
+    {
+     "name": "image_4f4e7c96.jpg",
+     "size": "627KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15aducf3Lu7r7wZmzAOJGQzHrfBpDcoTm/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15aducf3Lu7r7wZmzAOJGQzHrfBpDcoTm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549879237"
+  },
+  {
+   "id": "A504F0522872CF740B36646529460537",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "https://www.kol-toda.co.il/gedolim/r/neria.html",
+   "ts": 1795459069000,
+   "date": "2026-11-23",
+   "time": "20:37",
+   "files": [],
+   "drive": null
   }
  ]
 }

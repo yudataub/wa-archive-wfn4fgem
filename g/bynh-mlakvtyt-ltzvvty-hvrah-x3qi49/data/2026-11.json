@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בינה מלאכותית לצוותי הוראה",
- "updated": "2026-11-22T16:19:33.569Z",
+ "updated": "2026-11-23T15:40:11.147Z",
  "messages": [
   {
    "id": "ACF56333CD251FC15B133F36E1062694",
@@ -102,6 +102,17 @@
      "thumb": "https://drive.google.com/thumbnail?id=1uDRhfHAtpAE0GRcb2IffhrJaLV7avWQK&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972544518399"
+  },
+  {
+   "id": "AC737339F11794C82D552C02E3FB8DB0",
+   "sender": "אליהו טרבלסי",
+   "text": "🎁 מתנה למורים לחנוכה! 🕎\n\nמשחק כיתתי אינטראקטיבי, מוכן להפעלה ובחינם!\n\n🎮 למשחק:\nhttps://app-6c9b3f68.base44.app\n\n💛 לעוד משחקים וכלים למורים, הצטרפו לקהילה:",
+   "ts": 1795448405000,
+   "date": "2026-11-23",
+   "time": "17:40",
+   "files": [],
    "drive": null,
    "phone": "972544518399"
   }

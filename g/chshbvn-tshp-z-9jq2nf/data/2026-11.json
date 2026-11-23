@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חשבון תשפ\"ז🍭🥰",
- "updated": "2026-11-22T06:15:44.809Z",
+ "updated": "2026-11-23T17:19:57.011Z",
  "messages": [
   {
    "id": "AC4D373CD82459D059CFE78CC57B8E50",
@@ -342,6 +342,112 @@
    "files": [],
    "drive": null,
    "phone": "972528686062"
+  },
+  {
+   "id": "AC246AF8F6F1433953BC5213EB44272A",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795408596000,
+   "date": "2026-11-23",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "חשבון כיתה ד - חנוכה.pdf",
+     "size": "447KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1fq7rZ6h78mvYQ5jwtfQXmihq-kaCQ-1-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC6AF2BBEBB40CDE1E301496AF0FD966",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795408596000,
+   "date": "2026-11-23",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "חשבון כיתה ה - חנוכה.pdf",
+     "size": "415KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/16NEDWWK7X9-fmqNXx-FolronntZjy01e/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC6E5E7165C8C788A5F04872E9862308",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795408596000,
+   "date": "2026-11-23",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "חשבון כיתה ג - חנוכה.pdf",
+     "size": "496KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1oLhH95F97L0TvgoKfO3NOHCN01flogaS/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "AC8FBD0DF9D1F8AEFD39E6FB98FB01C1",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795408596000,
+   "date": "2026-11-23",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "חשבון כיתה ב - חנוכה.pdf",
+     "size": "595KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1AArfPvCxJkt8ksYvg6jhu-OZRPiw54rV/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACA12AE2BB3FB30BF20D772BA911E3B2",
+   "sender": "מלכה טרבלסי",
+   "text": "",
+   "ts": 1795408596000,
+   "date": "2026-11-23",
+   "time": "06:36",
+   "files": [
+    {
+     "name": "חשבון כיתה א - חנוכה.pdf",
+     "size": "368KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FG8L8pnE77kFhmPEaGbagbKw1-knQMXt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528686062"
+  },
+  {
+   "id": "ACCB83485B42E37F0136EBC81AF34997",
+   "sender": "מלי",
+   "text": "תודה רבה רבה!\nאיזה עושר של חומרים!❤️",
+   "ts": 1795454387000,
+   "date": "2026-11-23",
+   "time": "19:19",
+   "files": [],
+   "drive": null,
+   "phone": "972522376845"
   }
  ]
 }

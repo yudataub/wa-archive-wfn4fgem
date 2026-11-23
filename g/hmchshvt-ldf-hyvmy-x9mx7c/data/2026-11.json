@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-22T04:11:25.620Z",
+ "updated": "2026-11-23T04:12:53.222Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -921,6 +921,46 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3AAF1CE9B366049A7E70_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A47BAD14EC42A11E5D7",
+   "sender": ".",
+   "text": "״עקרנא טורי״ (ערכין ו, א).",
+   "ts": 1795407159000,
+   "date": "2026-11-23",
+   "time": "06:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/15lrR8KRooS8YqoJGZwlBtaeGYoac5VFp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=15lrR8KRooS8YqoJGZwlBtaeGYoac5VFp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A62D512A904C3B4E607",
+   "sender": ".",
+   "text": "״שהתנדב מנורה או נר״ (ערכין ו, ב).",
+   "ts": 1795407161000,
+   "date": "2026-11-23",
+   "time": "06:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "112KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1G5t9OD5lVoa0RBpBqI-oJ-6vAd2eDWno/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1G5t9OD5lVoa0RBpBqI-oJ-6vAd2eDWno&sz=w1200"
     }
    ],
    "drive": null,

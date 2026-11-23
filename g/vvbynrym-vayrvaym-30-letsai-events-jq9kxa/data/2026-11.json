@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וובינרים ואירועים #30 | LetsAI Events",
- "updated": "2026-11-20T11:53:20.258Z",
+ "updated": "2026-11-23T17:07:50.067Z",
  "messages": [
   {
    "id": "ACDDBF3F1E955D0AFA7575195624AFB5",
@@ -93,6 +93,26 @@
    ],
    "drive": null,
    "phone": "972504610064"
+  },
+  {
+   "id": "A54CE8C20DE3EB995B0C1073FE8C0D4E",
+   "sender": "אביתר אדרי letsai",
+   "text": "בואו ללמוד איך עולם הפיתוח משתנה ואיך צוותי פיתוח ב-2027 יעבדו. נכיר לכם גם שני מקצועות סופר חשובים שהולכים לעצב את השנה הקרובה:\nה-AI Engineer וה-FDE (בזום נסביר מה זה, מה ההבדלים ולמה הם כל כך חשובים בעולם שמשתנה במהירות).\n\nזה הלינק לזום: https://ltsai.co/webinars-23-11-2026\n\nמכירים אנשי פיתוח שצריכים להיות שם? פרגנו להם 💪. זה חינם!!",
+   "ts": 1795453644000,
+   "date": "2026-11-23",
+   "time": "19:07",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "340KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1rNCcydtHlQHemufdK9Te3yb8O98FHCF5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1rNCcydtHlQHemufdK9Te3yb8O98FHCF5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506686869"
   }
  ]
 }

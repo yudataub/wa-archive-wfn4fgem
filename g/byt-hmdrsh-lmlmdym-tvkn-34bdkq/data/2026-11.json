@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית המדרש למלמדים - תוכן",
- "updated": "2026-11-20T08:02:19.689Z",
+ "updated": "2026-11-23T05:52:09.688Z",
  "messages": [
   {
    "id": "3EB03D40A6FBE713212CB9",
@@ -176,6 +176,87 @@
      "thumb": "https://drive.google.com/thumbnail?id=1JEna9nfcPFWDhsRQeP3hFkCM1APbGTtZ&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB094BCE26EA86603D90B",
+   "sender": "יהודה ויינר",
+   "text": "*תודה גדולה!*\n לכל מי שתרם ולקח חלק בקמפיין. \nבזכותכם נוכל להמשיך להדליק את הלבבות של המורים והמלמדים, ודרכם את הלבבות של אלפי ילדים.",
+   "ts": 1795413016000,
+   "date": "2026-11-23",
+   "time": "07:50",
+   "files": [
+    {
+     "name": "todah-tormim.jpg",
+     "size": "",
+     "type": "image/jpeg",
+     "path": "",
+     "skipped": "וואטסאפ לא איפשר להוריד"
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB017667E6AB32888D532",
+   "sender": "יהודה ויינר",
+   "text": "",
+   "ts": 1795413074000,
+   "date": "2026-11-23",
+   "time": "07:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "507KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hsAsdytZ5ySrA1Jl_QXh1i9RS7HreIU-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hsAsdytZ5ySrA1Jl_QXh1i9RS7HreIU-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB04E1FAF68E6D4C3A0D5",
+   "sender": "יהודה ויינר",
+   "text": "*מסע לימודי לקראת חנוכה: 8 ימים של אור*\nשמונה מיילים קצרים: *תוכן החג*, *סיפורים* מיוחדים, *ושאלות לשיח משפחתי* סביב השולחן.\nמחמישי ט\"ז בכסלו ועד מוצאי שבת וישב, ליל נר שני.\nההשתתפות ללא עלות.\nלהרשמה זריזה:\nhttps://bit.ly/4j5PPaT\nבית המדרש למלמדים",
+   "ts": 1795413104000,
+   "date": "2026-11-23",
+   "time": "07:51",
+   "files": [],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB00215E6650A2C04DF7E",
+   "sender": "יהודה ויינר",
+   "text": "",
+   "ts": 1795413105000,
+   "date": "2026-11-23",
+   "time": "07:51",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "425KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1KjPWtzty2NZuNT238hO6tvKYqoRHsSDz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1KjPWtzty2NZuNT238hO6tvKYqoRHsSDz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528990409"
+  },
+  {
+   "id": "3EB0638E01161855B5E947",
+   "sender": "יהודה ויינר",
+   "text": "מתחילים ביום חמישי הקרוב!!!",
+   "ts": 1795413114000,
+   "date": "2026-11-23",
+   "time": "07:51",
+   "files": [],
    "drive": null,
    "phone": "972528990409"
   }

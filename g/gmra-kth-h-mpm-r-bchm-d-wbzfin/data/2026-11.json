@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "גמרא כתה ה מפמ\"ר בחמ\"ד",
- "updated": "2026-11-17T16:41:16.915Z",
+ "updated": "2026-11-23T17:05:19.416Z",
  "messages": [
   {
    "id": "AC39824DFBED44EC548D71CE76675CE2",
@@ -24,6 +24,36 @@
    "files": [],
    "drive": null,
    "phone": "972526071122"
+  },
+  {
+   "id": "ACC2B2F6AE3F69327DED2C1D2215509F",
+   "sender": "נתנאל שיבר",
+   "text": "",
+   "ts": 1795453487000,
+   "date": "2026-11-23",
+   "time": "19:04",
+   "files": [
+    {
+     "name": "DOC-20261123-WA0025.pdf",
+     "size": "293KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Lqax88joXUGqPSjgET797sWkCrr8LlfN/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972544741118"
+  },
+  {
+   "id": "AC99E96A7E10D8F9B5D2AC3FAE7B6B1C",
+   "sender": "נתנאל שיבר",
+   "text": "ערב טוב! \nהכנתי דף חזרה בסגנון של שאלות ותשובות, לקראת מבחן המפמ\"ר. מוזמנים.",
+   "ts": 1795453510000,
+   "date": "2026-11-23",
+   "time": "19:05",
+   "files": [],
+   "drive": null,
+   "phone": "972544741118"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שיר צילצול🎼",
- "updated": "2026-11-18T07:51:38.315Z",
+ "updated": "2026-11-23T17:52:57.546Z",
  "messages": [
   {
    "id": "AC4DAE7BFFFCA6D70913DEAB96DD340F",
@@ -1104,6 +1104,46 @@
    ],
    "drive": null,
    "phone": "972539218034"
+  },
+  {
+   "id": "ACA62FFBC1A0DA060142DE9AB3B70849",
+   "sender": "שי לידני",
+   "text": "למכירה!!\nקורג pa4x הדגם הארוך \nשמור ובמצב מעולה.\n10,500 ש''ח \n0587151409",
+   "ts": 1795456359000,
+   "date": "2026-11-23",
+   "time": "19:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "666KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_5FEsdn0H4Ya2_xEdZ2B4366r5X29EIH/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_5FEsdn0H4Ya2_xEdZ2B4366r5X29EIH&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545280196"
+  },
+  {
+   "id": "AC8C4712025DBD98AA5C8E22CF225B20",
+   "sender": "שי לידני",
+   "text": "",
+   "ts": 1795456360000,
+   "date": "2026-11-23",
+   "time": "19:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "325KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wNCgCtMxBYlvVqPufiPBcsnITnDMFM2J/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wNCgCtMxBYlvVqPufiPBcsnITnDMFM2J&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545280196"
   }
  ]
 }

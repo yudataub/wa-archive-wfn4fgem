@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרצאה בינה מלאכותית ",
- "updated": "2026-11-22T18:55:53.854Z",
+ "updated": "2026-11-23T13:36:18.479Z",
  "messages": [
   {
    "id": "AC848A114E9FF90570F841AC0027F064",
@@ -84,6 +84,26 @@
    "date": "2026-11-22",
    "time": "20:55",
    "files": [],
+   "drive": null,
+   "phone": "972553045229"
+  },
+  {
+   "id": "AC5F4DB62C92466232899D9FD0BF15B1",
+   "sender": "יהונתן רפאל כהן",
+   "text": "",
+   "ts": 1795440948000,
+   "date": "2026-11-23",
+   "time": "15:35",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OePCTaE9D1WhkZOgkoUjtOcPHOKDDXG4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OePCTaE9D1WhkZOgkoUjtOcPHOKDDXG4&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972553045229"
   }
