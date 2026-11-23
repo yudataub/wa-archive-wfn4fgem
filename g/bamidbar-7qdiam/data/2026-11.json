@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-23T17:23:57.083Z",
+ "updated": "2026-11-23T22:36:02.696Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -4245,6 +4245,36 @@
    "files": [],
    "drive": null,
    "phone": "972523486547"
+  },
+  {
+   "id": "3EB00DC6830D69678DF362",
+   "sender": "פנינה כ\"ץ",
+   "text": "",
+   "ts": 1795469262000,
+   "date": "2026-11-23",
+   "time": "23:27",
+   "files": [
+    {
+     "name": "דף עבודה - נבואת התוכחה לעלי.pdf",
+     "size": "4.8MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1oRAbPQPqZMuuyuEmAsosluHDzYzqBZOb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972509452770"
+  },
+  {
+   "id": "ACF290FB8AA545E0F2DD853FB890574F",
+   "sender": "סוף שנצר",
+   "text": "אפשר עדיין להירשם?",
+   "ts": 1795473351000,
+   "date": "2026-11-24",
+   "time": "00:35",
+   "files": [],
+   "drive": null,
+   "phone": "972525659556"
   }
  ]
 }

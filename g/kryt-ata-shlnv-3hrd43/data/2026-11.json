@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קרית אתא שלנו",
- "updated": "2026-11-23T19:43:17.514Z",
+ "updated": "2026-11-23T22:06:32.212Z",
  "messages": [
   {
    "id": "AC41D981B343121450F40EFD939C4769",
@@ -34627,6 +34627,70 @@
    ],
    "drive": null,
    "phone": "972545746789"
+  },
+  {
+   "id": "3A905672BE0797762071",
+   "sender": "יאיר",
+   "text": "מתי המניין האחרון במקוואות",
+   "ts": 1795469379000,
+   "date": "2026-11-23",
+   "time": "23:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547632729"
+  },
+  {
+   "id": "3AC368DE24B69B583831",
+   "sender": "יאיר",
+   "text": "במקווא",
+   "ts": 1795469388000,
+   "date": "2026-11-23",
+   "time": "23:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547632729"
+  },
+  {
+   "id": "3A3D8758EFCD3052924C",
+   "sender": "יאיר",
+   "text": "ערבית",
+   "ts": 1795469398000,
+   "date": "2026-11-23",
+   "time": "23:29",
+   "files": [],
+   "drive": null,
+   "phone": "972547632729"
+  },
+  {
+   "id": "A5CED2BEE84C40B65ED8AAFA67A7E617",
+   "sender": "זמן מרפא",
+   "text": "עכשיו",
+   "ts": 1795469505000,
+   "date": "2026-11-23",
+   "time": "23:31",
+   "files": [],
+   "drive": null,
+   "phone": "972527727437"
+  },
+  {
+   "id": "3AD3737673F19BFFFB6E",
+   "sender": "אלי ארמי",
+   "text": "",
+   "ts": 1795471563000,
+   "date": "2026-11-24",
+   "time": "00:06",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1tbPuC05fg-M9Surf-_V0Tlfhg8dAAkfB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1tbPuC05fg-M9Surf-_V0Tlfhg8dAAkfB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503959777"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני בי\"ס",
- "updated": "2026-11-23T19:40:47.474Z",
+ "updated": "2026-11-23T22:25:32.523Z",
  "messages": [
   {
    "id": "A5AF650F80AEA0198E59FF2B86ACA998",
@@ -6913,6 +6913,44 @@
    "files": [],
    "drive": null,
    "phone": "972584158580"
+  },
+  {
+   "id": "3EB00EE2EE6A950C00713D",
+   "sender": "Nativ",
+   "text": "",
+   "ts": 1795472718000,
+   "date": "2026-11-24",
+   "time": "00:25",
+   "files": [
+    {
+     "name": "חלק_א_הלכות_חנוכה_מנוקד_3D.pptx",
+     "size": "1.4MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1pbwDVHqLXXvVxfY6YA5icKYLuHe6mJX-/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507800165"
+  },
+  {
+   "id": "3EB01071183FD47D6FF496",
+   "sender": "Nativ",
+   "text": "",
+   "ts": 1795472719000,
+   "date": "2026-11-24",
+   "time": "00:25",
+   "files": [
+    {
+     "name": "חלק_ב_חידון_הלכות_חנוכה.pptx",
+     "size": "1.0MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1wR-P9nYNJIauD3MS92GcNsM7i6Yzv1a3/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507800165"
   }
  ]
 }
