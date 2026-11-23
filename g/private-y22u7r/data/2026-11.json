@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-22T19:37:30.138Z",
+ "updated": "2026-11-23T00:07:14.224Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -21891,6 +21891,18 @@
    "drive": null,
    "thread": "הודיה",
    "phone": "972546785890"
+  },
+  {
+   "id": "ACCAFCC45A187CC4CC1AF6AFA0E13EAF",
+   "sender": "yimarom",
+   "text": "לחשבון בנק שלי",
+   "ts": 1795392431000,
+   "date": "2026-11-23",
+   "time": "02:07",
+   "files": [],
+   "drive": null,
+   "thread": "yimarom",
+   "phone": "972545265774"
   }
  ]
 }
