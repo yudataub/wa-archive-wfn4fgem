@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-23T05:00:32.110Z",
+ "updated": "2026-11-24T21:05:05.486Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2798,6 +2798,57 @@
    "files": [],
    "drive": null,
    "phone": "972534624813"
+  },
+  {
+   "id": "ACACDBD6A9432E6DAC64C00E213B98BD",
+   "sender": ".",
+   "text": "",
+   "ts": 1795504339000,
+   "date": "2026-11-24",
+   "time": "09:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "172KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Z1BDfvVKqkZmV4eW8dmi17E8yDkTc1V8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Z1BDfvVKqkZmV4eW8dmi17E8yDkTc1V8&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972545447575"
+  },
+  {
+   "id": "ACD5992AD7F59BFE6622A699396458B9",
+   "sender": "שמעון תורג'מן",
+   "text": "פנוי לסופ\"ש הקרוב מחיר מיוחד. \nאחוזת שי וילה חדשה ומפנקת 5 חדרי שינה.\n3 סלונים\nעד 25 איש\nבריכה ענקית מחוממת  ומוצנעת 8/4 עומק 150 🌊\nחצר ענקית עם פינות ישיבה נדנדה ערסל נדנדות ומגלשה לילדים.\nטרמפולינה ענקית, סנוקר, פינג פונג, סל זוגי הוקי אויר ועוד..  \nהוילה באור הגנוז מרחק הליכה מציון הרשב\"י .\n\nלהזמנות ופרטים \n058-4255156",
+   "ts": 1795554299000,
+   "date": "2026-11-24",
+   "time": "23:04",
+   "files": [],
+   "drive": null,
+   "phone": "972584255156"
+  },
+  {
+   "id": "AC7A43B70B5348508149AB0ECB2363D9",
+   "sender": "שמעון תורג'מן",
+   "text": "",
+   "ts": 1795554300000,
+   "date": "2026-11-24",
+   "time": "23:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ArQjorDo6fIiCq525FwwuviItP7GfkgN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ArQjorDo6fIiCq525FwwuviItP7GfkgN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972584255156"
   }
  ]
 }

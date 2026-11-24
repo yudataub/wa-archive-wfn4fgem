@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-23T14:25:27.271Z",
+ "updated": "2026-11-24T05:49:32.736Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -2969,6 +2969,48 @@
    "files": [],
    "drive": null,
    "phone": "972502028311"
+  },
+  {
+   "id": "AC6E351617FF05129266E7D027F587E2",
+   "sender": "ARAZI SHARONA",
+   "text": "שלום רב, שמחים לפתוח השתלמות נוספת לגיוון בחירתכם, מוזמנים להירשם!\n  יאיר הכהן וסימון שירן",
+   "ts": 1795483554000,
+   "date": "2026-11-24",
+   "time": "03:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SPWn5v3WWQdObkm34MONhCt0U6XWw3W_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SPWn5v3WWQdObkm34MONhCt0U6XWw3W_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "AC9D184CAF4316D0E80563F0B3BBA153",
+   "sender": "אביב ברק",
+   "text": "שלום\nזה יהיה בזום?",
+   "ts": 1795492553000,
+   "date": "2026-11-24",
+   "time": "05:55",
+   "files": [],
+   "drive": null,
+   "phone": "972524380549"
+  },
+  {
+   "id": "AC9F2CE784CF36DEAFF6A2F630FEE940",
+   "sender": "ARAZI SHARONA",
+   "text": "פרטים על ההשתלמות \n📖 *אורות וכלים למורי תנ״ך מתקדמים*\nמספר פתרון למידה במצפן *207561*\n\n💡לתשומת לבכם, רישום ותשלום דרך המצפן לפני תחילת ההשתלמות 15/12\n*תאריך אחרון לרישום 30/11*. \nמצפים לראותכם!\nסיון שירן\n0542499601",
+   "ts": 1795499365000,
+   "date": "2026-11-24",
+   "time": "07:49",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
   }
  ]
 }

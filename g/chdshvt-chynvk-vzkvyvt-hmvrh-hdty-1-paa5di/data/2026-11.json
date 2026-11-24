@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חדשות חינוך וזכויות המורה הדתי #1",
- "updated": "2026-11-23T07:54:26.611Z",
+ "updated": "2026-11-24T14:22:30.546Z",
  "messages": [
   {
    "id": "A5BCF03D76926A013E662FF9232B9035",
@@ -556,6 +556,66 @@
      "path": "https://drive.google.com/file/d/1MbRADlA1x6MaUbdfGRcPV2BebIew2moy/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1MbRADlA1x6MaUbdfGRcPV2BebIew2moy&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A56C3155D696C3D309013215E9D59A99",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1795519701000,
+   "date": "2026-11-24",
+   "time": "13:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "232KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Kl_vSKuHKqxR1X0KtS0Pdc6t94LR46h7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Kl_vSKuHKqxR1X0KtS0Pdc6t94LR46h7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5D75C2755760C116C3DDBAEB98BAF7A",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1795520523000,
+   "date": "2026-11-24",
+   "time": "13:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "543KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1CcW-kKhK66VR_1nNM8mV9gg0LribZqoe/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1CcW-kKhK66VR_1nNM8mV9gg0LribZqoe&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202812"
+  },
+  {
+   "id": "A5A3659A3A3046FB09D108AC5C9869AB",
+   "sender": "אוריאל פדידה",
+   "text": "*הצטרפו לחדשות חינוך וזכויות המורה הדתי*",
+   "ts": 1795530143000,
+   "date": "2026-11-24",
+   "time": "16:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "199KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1hlDRph50a_COVSGcCPIwYmuXIYrauRB6/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1hlDRph50a_COVSGcCPIwYmuXIYrauRB6&sz=w1200"
     }
    ],
    "drive": null,

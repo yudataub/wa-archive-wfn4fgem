@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-23T19:07:12.753Z",
+ "updated": "2026-11-24T07:33:20.541Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -3850,6 +3850,101 @@
    "files": [],
    "drive": null,
    "phone": "972532348561"
+  },
+  {
+   "id": "ACABB48880357BF665FE91BE94515305",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1795505560000,
+   "date": "2026-11-24",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "קריאה לפרשת וישלח רמה 2 -  מתיא בני ברק.pdf",
+     "size": "188KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1xJQPCN7WLkAliq4Z1bwINnxY3RndD5Dt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC4331A2AE61806594C1A46ADCB71071",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1795505563000,
+   "date": "2026-11-24",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "קריאה לפרשת וישלח רמה 1 -  מתיא בני ברק.pdf",
+     "size": "215KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1F3JeHS2r372upst-FahxEiToqYQJ3fDp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "ACF37034E36D4530DD98A427DA677F7D",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1795505563000,
+   "date": "2026-11-24",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "קריאה לפרשת וישלח ללא ניקוד -  מתיא בני ברק.pdf",
+     "size": "177KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1feZG7_puLnubuebdWDaZCVTdWdq81cxW/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "AC35DDF27B1581FA09A0F211F9AC512D",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1795505576000,
+   "date": "2026-11-24",
+   "time": "09:32",
+   "files": [
+    {
+     "name": "מילה בפרשה - וישלח-  מתיא בני ברק.pdf",
+     "size": "651KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1BQonBNPCgGnlix8Mk7LDYroCd4rReAxt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
+  },
+  {
+   "id": "ACF8D723BACC2579ABAE0FC532D0D35B",
+   "sender": "יערה מרסיאנו 🌳",
+   "text": "",
+   "ts": 1795505587000,
+   "date": "2026-11-24",
+   "time": "09:33",
+   "files": [
+    {
+     "name": "פרשת וישלח - משפטי פירמידה.pdf",
+     "size": "675KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1kU6IhtJyPTKXFaa63DrRU4INJivHUsQH/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528308252"
   }
  ]
 }

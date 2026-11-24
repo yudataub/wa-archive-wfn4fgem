@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קריית אתא שלנו 1 | עדכוני חירום",
- "updated": "2026-11-20T14:04:27.567Z",
+ "updated": "2026-11-24T16:46:52.706Z",
  "messages": [
   {
    "id": "3AE8AB1B0E2032D5918A",
@@ -152,6 +152,64 @@
    "date": "2026-11-20",
    "time": "16:04",
    "files": [],
+   "drive": null,
+   "phone": "972504780000"
+  },
+  {
+   "id": "3AD0050A5887D5007A09",
+   "sender": "Boaz Golan",
+   "text": "שישה נפגעי שאיפת עשן במצב קל כתוצאה משריפה במחסן בבניין מגורים ברחוב הרצל 13. טופלו ע״י איחוד הצלה.",
+   "ts": 1795538776000,
+   "date": "2026-11-24",
+   "time": "18:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "92KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AD0050A5887D5007A09_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504780000"
+  },
+  {
+   "id": "3AFCCC29F10D0FDFC661",
+   "sender": "Boaz Golan",
+   "text": "",
+   "ts": 1795538779000,
+   "date": "2026-11-24",
+   "time": "18:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "98KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AFCCC29F10D0FDFC661_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972504780000"
+  },
+  {
+   "id": "3AAB989DC23B0350B622",
+   "sender": "Boaz Golan",
+   "text": "",
+   "ts": 1795538785000,
+   "date": "2026-11-24",
+   "time": "18:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "179KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/17yz5aWmlXZFwZXiIRALMuV7t_s4LMM-S/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=17yz5aWmlXZFwZXiIRALMuV7t_s4LMM-S&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972504780000"
   }

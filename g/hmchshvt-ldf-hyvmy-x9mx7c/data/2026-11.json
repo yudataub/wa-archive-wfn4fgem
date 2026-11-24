@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-23T04:12:53.222Z",
+ "updated": "2026-11-24T03:56:34.341Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -961,6 +961,26 @@
      "path": "https://drive.google.com/file/d/1G5t9OD5lVoa0RBpBqI-oJ-6vAd2eDWno/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1G5t9OD5lVoa0RBpBqI-oJ-6vAd2eDWno&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3ACDE69128A01AA8CFFB",
+   "sender": ".",
+   "text": "״מכין אותה כנגד בית הריון״ (ערכין ז, א).",
+   "ts": 1795492576000,
+   "date": "2026-11-24",
+   "time": "05:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "150KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1sUOa2K974U_zyqn6Ll0fj0fHhKhcEujZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1sUOa2K974U_zyqn6Ll0fj0fHhKhcEujZ&sz=w1200"
     }
    ],
    "drive": null,

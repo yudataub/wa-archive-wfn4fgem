@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מתמחי תשפ״ז-הודעות ועדכונים מכללת שאנן",
- "updated": "2026-11-21T18:49:25.427Z",
+ "updated": "2026-11-24T08:13:21.170Z",
  "messages": [
   {
    "id": "3EB039383B4C3D1A3CF332",
@@ -257,6 +257,44 @@
    "date": "2026-11-21",
    "time": "20:49",
    "files": [],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "4A8E8752CC27EA53B45E",
+   "sender": "Adi Zvieli",
+   "text": "למתמחים ולמתמחות העובדים/ות *במחוז חיפה*. \nמפגש חשוב למעוניינים! פרטים פה👇🏻",
+   "ts": 1795507977000,
+   "date": "2026-11-24",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "96KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/4A8E8752CC27EA53B45E_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3A89781E7DC07E571112",
+   "sender": "Adi Zvieli",
+   "text": "",
+   "ts": 1795507978000,
+   "date": "2026-11-24",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "_מפגש זום חשבות וכח אדם למתמחים 30.11 (2).pdf",
+     "size": "594KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/14-NHFsLIEvkpkSHmi9DQ50D5sIhSuL-x/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
    "drive": null,
    "phone": "972506924904"
   }

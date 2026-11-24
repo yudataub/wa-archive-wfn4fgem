@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-11-23T13:09:49.233Z",
+ "updated": "2026-11-24T19:19:44.350Z",
  "messages": [
   {
    "id": "A599A3538691134A9C856802507F5F66",
@@ -293,6 +293,56 @@
    ],
    "drive": null,
    "phone": "972546084870"
+  },
+  {
+   "id": "A536824A6BE2774250FA27ED030B6BF6",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "תוסיפי מנינים שאתם מכירים\nhttps://www.kol-toda.co.il/ata-tfilot/",
+   "ts": 1795526813000,
+   "date": "2026-11-24",
+   "time": "15:26",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5F9378B0082FB05090195E3440FCD07",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "תוסיפו שיעורים שאתם מכירים\nhttps://www.kol-toda.co.il/ata-shiurim/",
+   "ts": 1795526813000,
+   "date": "2026-11-24",
+   "time": "15:26",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A57D1C3D8BD354B88BF2FB38E05400F2",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "חדש בקרית אתא! כל המניינים וכל השיעורים במקום אחד\nהתפילה הקרובה — מתי ואיפה, לפי השעה עכשיו\nסינון לפי נוסח · 140+ מניינים · 100+ שיעורים\n\nזמני תפילות https://www.kol-toda.co.il/ata-tfilot/\n\nשיעורי תורה https://www.kol-toda.co.il/ata-shiurim/\n\nמכירים מניין או שיעור שחסר? כתבו לבוט בדף — והוא נכנס מיד.\nשתפו בבקשה",
+   "ts": 1795535722000,
+   "date": "2026-11-24",
+   "time": "17:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "458KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p6NmE1ZscAhoc7pi0Ew_aWIWloPEoxwP/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p6NmE1ZscAhoc7pi0Ew_aWIWloPEoxwP&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "ACC76DA5805AED9FA9C8A4186F73D991",
+   "sender": "Aviram B.D",
+   "text": "מחפש רב צבאי לגדוד פלח\"צ . גדוד מוביל וחזק במחוז צפון פקע\"ר\nמעבר *בניוד בלבד.*\nנא לפנות בפרטי.",
+   "ts": 1795547977000,
+   "date": "2026-11-24",
+   "time": "21:19",
+   "files": [],
+   "drive": null,
+   "phone": "972542613989"
   }
  ]
 }

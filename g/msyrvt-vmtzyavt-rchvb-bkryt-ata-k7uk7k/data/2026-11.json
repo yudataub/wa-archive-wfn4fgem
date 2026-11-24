@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-23T18:17:04.972Z",
+ "updated": "2026-11-24T14:35:07.648Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -1776,6 +1776,128 @@
    "files": [],
    "drive": null,
    "phone": "972526660231"
+  },
+  {
+   "id": "AC241998A72D049EFE5C5E5CCB32262F",
+   "sender": "עדנה שווט",
+   "text": "למסירה",
+   "ts": 1795504736000,
+   "date": "2026-11-24",
+   "time": "09:18",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "101KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Xj5uq2O3DTHqn-j3mzkSPohqdnFUMZfu/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Xj5uq2O3DTHqn-j3mzkSPohqdnFUMZfu&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "ACAFFD103C3D8CA6661EE0EA866444CC",
+   "sender": "שולמית",
+   "text": "אשמח מאד לקבל",
+   "ts": 1795504771000,
+   "date": "2026-11-24",
+   "time": "09:19",
+   "files": [],
+   "drive": null,
+   "phone": "972507878299"
+  },
+  {
+   "id": "AC15E80B2D06008240AA8F4B999D3C78",
+   "sender": "עדנה שווט",
+   "text": "",
+   "ts": 1795504847000,
+   "date": "2026-11-24",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "217KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qIb-wT7o1lX3WDBIFKmnPp4YwEfS8aH_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qIb-wT7o1lX3WDBIFKmnPp4YwEfS8aH_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "AC23959080243754D70E9D54AB956701",
+   "sender": "עדנה שווט",
+   "text": "למסירה",
+   "ts": 1795504847000,
+   "date": "2026-11-24",
+   "time": "09:20",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "337KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18p5KvlSVKOR08WyWpEeu9jFK6EO8Sn6C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18p5KvlSVKOR08WyWpEeu9jFK6EO8Sn6C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "3EB06CEC4C1E72C7F428FA",
+   "sender": "עדנה שווט",
+   "text": "שמור",
+   "ts": 1795504946000,
+   "date": "2026-11-24",
+   "time": "09:22",
+   "files": [],
+   "drive": null,
+   "phone": "972542089996"
+  },
+  {
+   "id": "A52DDFF555584A1D2FAF73DF5D250086",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "תוסיפי מנינים שאתם מכירים\nhttps://www.kol-toda.co.il/ata-tfilot/",
+   "ts": 1795527284000,
+   "date": "2026-11-24",
+   "time": "15:34",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A584921F822E192FA9EEC51D618C764B",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "תוסיפו שיעורים שאתם מכירים\nhttps://www.kol-toda.co.il/ata-shiurim/",
+   "ts": 1795527284000,
+   "date": "2026-11-24",
+   "time": "15:34",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "ACD154FAE20FC6FF61D712FA8CB52160",
+   "sender": "Sgula💜",
+   "text": "היי 🥰מישהו רוצה? יש 2",
+   "ts": 1795530876000,
+   "date": "2026-11-24",
+   "time": "16:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "369KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16MreuQY_eLkb0sRN23-Iddx09GSf0l2B/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16MreuQY_eLkb0sRN23-Iddx09GSf0l2B&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526288201"
   }
  ]
 }

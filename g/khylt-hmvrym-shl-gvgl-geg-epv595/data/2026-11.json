@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת המורים של גוגל GEG",
- "updated": "2026-11-23T17:45:03.557Z",
+ "updated": "2026-11-24T18:02:15.669Z",
  "messages": [
   {
    "id": "3EB0C879BEBEE1863EE35C",
@@ -222,6 +222,48 @@
    "ts": 1795455891000,
    "date": "2026-11-23",
    "time": "19:44",
+   "files": [],
+   "drive": null,
+   "phone": "972525121007"
+  },
+  {
+   "id": "AC0E767442C2356C12061E7EEF6AD895",
+   "sender": "עומרי אירם",
+   "text": "✨ חדשות מטורפות! מודל Gemini 4 Neon הגיע לחשבונות החינוך! ✨\nהדור החדש של גוגל, Gemini 4 Neon, נפתח עכשיו לשימוש גם בחשבונות Google Workspace for Education – וזה בדיוק הזמן להתחיל להתנסות בו! 🚀\nמה מחכה לנו שם?\n⚡ מהירות ויעילות: תגובות מהירות ומדויקות יותר לתכנון שיעורים, בניית מערכים ויצירת תכנים מותאמים אישית.\n🧠 יכולות חשיבה ויצירה מתקדמות: עוזר הוראה חכם יותר שמתמודד בקלות עם משימות מורכבות, סיכומים ורעיונות לפעילויות בכיתה.\n🔒 בסביבת החינוך המוגנת: ממשיכים ליהנות מהפרטיות ומהאבטחה של חשבון ה-Workspace הבית-ספרי.",
+   "ts": 1795505169000,
+   "date": "2026-11-24",
+   "time": "09:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525121007"
+  },
+  {
+   "id": "AC7B0BCCBCBF501F6A69D1FB4ECD9957",
+   "sender": "עומרי אירם",
+   "text": "",
+   "ts": 1795505334000,
+   "date": "2026-11-24",
+   "time": "09:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "134KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13-Y0aeIWtn15IMFvOGbqUQBk9ki9_-Iv/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13-Y0aeIWtn15IMFvOGbqUQBk9ki9_-Iv&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525121007"
+  },
+  {
+   "id": "ACA6AAD89606E54377A8F15FDD17ACB5",
+   "sender": "עומרי אירם",
+   "text": "לינק חדש לסדנת Gemini Skills שמתקיימת היום - \n\nhttps://meet.google.com/smv-jobo-fii\n\nסליחה!  😅❤️",
+   "ts": 1795543324000,
+   "date": "2026-11-24",
+   "time": "20:02",
    "files": [],
    "drive": null,
    "phone": "972525121007"

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משוחררי קרית אתא",
- "updated": "2026-11-22T12:27:32.907Z",
+ "updated": "2026-11-24T13:27:52.465Z",
  "messages": [
   {
    "id": "3EB090C7CAEA25E50414A5",
@@ -264,6 +264,26 @@
      "path": "https://drive.google.com/file/d/1VYsP09g2pUC5JC4JJkRIaWw1yFbVoKMP/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1VYsP09g2pUC5JC4JJkRIaWw1yFbVoKMP&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "AC8A3C1D58C2B62627DA9E999F5512C7",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "*חיילים/ות משוחררים/ות ומשרתי/ות מילואים יקרים* 💚\n\n*תכנית שבים נועדה להוקיר את פועלכם, לאפשר לכם פסק זמן שבועי שהוא רק שלכם*🌿\n\n*מה מחכה לכם?*\n* עבודה בעץ - נגרות וגילוף\n* עבודה בגינת ירק\n* יוגה, שיח וזמן ביער\n* ארוחות משותפות ומפגש באווירה נעימה\n\n*פרטי התכנית:*\n📅 פתיחה: 11.01.27 | ימי שני\n🕣 שעות: 08:30–15:30\n📍 מיקום: חוות יער יודפת\n 8 מפגשים | קבוצות קטנות | *ללא עלות!*\n\nלפרטים נוספים ולהרשמה:\nhttps://www.shavimback.com/routine/\n📌 אינסטגרם: https://katzr.net/3bc1cc",
+   "ts": 1795526863000,
+   "date": "2026-11-24",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "329KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IGZGpWyQ7r7QtbnppI21z3nAxPbhwe9n/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IGZGpWyQ7r7QtbnppI21z3nAxPbhwe9n&sz=w1200"
     }
    ],
    "drive": null,

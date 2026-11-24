@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-23T18:54:11.698Z",
+ "updated": "2026-11-24T05:50:49.858Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -4151,6 +4151,48 @@
    "files": [],
    "drive": null,
    "phone": "972506684721"
+  },
+  {
+   "id": "ACC88E7C86DB28A81FF6AEFCEE5419F8",
+   "sender": "ARAZI SHARONA",
+   "text": "שלום רב, שמחים לפתוח השתלמות נוספת לגיוון בחירתכם, מוזמנים להירשם!\n  יאיר הכהן וסימון שירן",
+   "ts": 1795483635000,
+   "date": "2026-11-24",
+   "time": "03:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/10we7ZeJ4-PquBuTGuAshJWu_fU_BFt0w/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=10we7ZeJ4-PquBuTGuAshJWu_fU_BFt0w&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "AC814758E29CCD0E039390B00536D567",
+   "sender": "שירן",
+   "text": "בוקר טוב\nמבחן פרשת עקב?",
+   "ts": 1795498192000,
+   "date": "2026-11-24",
+   "time": "07:29",
+   "files": [],
+   "drive": null,
+   "phone": "972504790626"
+  },
+  {
+   "id": "AC75164B4EC636C59CC22CF4D3C9B9BD",
+   "sender": "ARAZI SHARONA",
+   "text": "פרטים על ההשתלמות \n📖 *אורות וכלים למורי תנ״ך מתקדמים*\nמספר פתרון למידה במצפן *207561*\n\n💡לתשומת לבכם, רישום ותשלום דרך המצפן לפני תחילת ההשתלמות 15/12\n*תאריך אחרון לרישום 30/11*. \nמצפים לראותכם!\nסיון שירן\n0542499601",
+   "ts": 1795499442000,
+   "date": "2026-11-24",
+   "time": "07:50",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
   }
  ]
 }

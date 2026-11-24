@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-23T16:19:42.853Z",
+ "updated": "2026-11-24T06:53:56.767Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -1439,6 +1439,25 @@
      "path": "https://drive.google.com/file/d/1HzWHrZUEZEgknownnus5u7p44BQ6EMEN/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1HzWHrZUEZEgknownnus5u7p44BQ6EMEN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0030BABDE82151E2950",
+   "sender": "עמי חניא",
+   "text": "חידה שמופיעה בחוברת חנוכה!\n*שבוע אחרון להזמנת החוברות המודפסות!*\nרמת קושי: בינונית\nנושא: חנוכה\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795503231000,
+   "date": "2026-11-24",
+   "time": "08:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "99KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB0030BABDE82151E2950_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

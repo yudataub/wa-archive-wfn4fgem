@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-23T12:16:04.000Z",
+ "updated": "2026-11-24T20:22:58.165Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -2117,6 +2117,119 @@
    ],
    "drive": null,
    "phone": "972525302839"
+  },
+  {
+   "id": "3EB02747562DA5E6F9A2A3",
+   "sender": "איתמר",
+   "text": "מישהו מכיר חשמלאי שמתקן חלונות חשמל?",
+   "ts": 1795514326000,
+   "date": "2026-11-24",
+   "time": "11:58",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "3EB03FB2C8299A75AE94DE",
+   "sender": "איתמר",
+   "text": "לרכב",
+   "ts": 1795514328000,
+   "date": "2026-11-24",
+   "time": "11:58",
+   "files": [],
+   "drive": null,
+   "phone": "972528907838"
+  },
+  {
+   "id": "A5EA247FC00BCAFDA8F9666791E00EE9",
+   "sender": "אחזקת גינות מקצועי מיכאל אלבז",
+   "text": "",
+   "ts": 1795516369000,
+   "date": "2026-11-24",
+   "time": "12:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "115KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1kLlqQ6QRdNcnNoMgU1_s0k84pvY6VSph/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1kLlqQ6QRdNcnNoMgU1_s0k84pvY6VSph&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972539357102"
+  },
+  {
+   "id": "A5A5F57D275D50F7C9707EA6F4C38A0A",
+   "sender": "אחזקת גינות מקצועי מיכאל אלבז",
+   "text": "צינורות פלסטיק למסירה",
+   "ts": 1795516384000,
+   "date": "2026-11-24",
+   "time": "12:33",
+   "files": [],
+   "drive": null,
+   "phone": "972539357102"
+  },
+  {
+   "id": "A53E637147AE5A7115D12835F900974C",
+   "sender": "שומר מסך",
+   "text": "✨ *מגוון ענקקק של טאבלטים ונגנים כשרים!* ✨\n\n📱 *טאבלטים כשרים ללא Wi-Fi*\nלילדים ולנערים 👦🏻\n\n🎮 *נגנים כשרים עם משחקים*\nללא Wi-Fi — עם המון הנאה! 🎶\n\n🏆 הסחורה הכי טובה בארץ!\n🛡️ נקודות אחריות בפריסה ארצית\n🚚 משלוחים עד הבית בכל הארץ\n\n💙 *שומר מסך — כאן בשבילכם!*\n\n💬 *לפרטים, מחירים והזמנות בוואטסאפ לחצו כאן* 👇\nhttps://tinyurl.com/2223e7p6",
+   "ts": 1795533467000,
+   "date": "2026-11-24",
+   "time": "17:17",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SMtWEeQeS3vNPe_o-fr5Rsu6eGmUOWzn/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A53E637147AE5A7115D12835F900974C_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1SMtWEeQeS3vNPe_o-fr5Rsu6eGmUOWzn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534664004"
+  },
+  {
+   "id": "A590C57B9143A5687FA0D4346D19CD9B",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "חדש בקרית אתא! כל המניינים וכל השיעורים במקום אחד\nהתפילה הקרובה — מתי ואיפה, לפי השעה עכשיו\nסינון לפי נוסח · 140+ מניינים · 100+ שיעורים\n\nזמני תפילות https://www.kol-toda.co.il/ata-tfilot/\n\nשיעורי תורה https://www.kol-toda.co.il/ata-shiurim/\n\nמכירים מניין או שיעור שחסר? כתבו לבוט בדף — והוא נכנס מיד.\nשתפו בבקשה",
+   "ts": 1795534788000,
+   "date": "2026-11-24",
+   "time": "17:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "458KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FfwzBkS4LAckL3uj_0fwpo8BoedYTPR8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FfwzBkS4LAckL3uj_0fwpo8BoedYTPR8&sz=w1200"
+    }
+   ],
+   "drive": null
+  },
+  {
+   "id": "AC6C9A7B24D3979F7449C7E565E96D5C",
+   "sender": "Amichay25@gmail.com",
+   "text": "",
+   "ts": 1795551753000,
+   "date": "2026-11-24",
+   "time": "22:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "132KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1003A3gw_IXPvSZkLDoB81ya0nA60hrNG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1003A3gw_IXPvSZkLDoB81ya0nA60hrNG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525838315"
   }
  ]
 }

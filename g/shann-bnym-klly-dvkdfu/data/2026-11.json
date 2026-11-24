@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-11-23T14:35:27.479Z",
+ "updated": "2026-11-24T17:45:00.278Z",
  "messages": [
   {
    "id": "ACF54F64A34CDDCC927BCF19F5D8BE8E",
@@ -1632,6 +1632,26 @@
    "files": [],
    "drive": null,
    "phone": "972559191900"
+  },
+  {
+   "id": "AC0C2A9877C9C47058CD33C363E96DB9",
+   "sender": "יובל",
+   "text": "",
+   "ts": 1795542276000,
+   "date": "2026-11-24",
+   "time": "19:44",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "566KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1cR10kFupVRIqbM2BXdr6pIDFJ2vS3k1h/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1cR10kFupVRIqbM2BXdr6pIDFJ2vS3k1h&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702322"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "954- חדשות קרית אתא 🔟",
- "updated": "2026-11-22T11:45:25.637Z",
+ "updated": "2026-11-24T14:05:30.305Z",
  "messages": [
   {
    "id": "3EB02FAD626D102851714C",
@@ -177,6 +177,26 @@
    "date": "2026-11-22",
    "time": "13:45",
    "files": [],
+   "drive": null,
+   "phone": "972545918048"
+  },
+  {
+   "id": "ACAFA0A2191E01C193CE7FA8A35A5226",
+   "sender": "נועם",
+   "text": "*מבצעי השבוע בקטוף סניף קרית אתא*\n\nפתוחים עם כל השפע המוכר והאהוב!\n\nקניון תימורה - רח' העצמאות 37\n\n*זמני פתיחה קבועים*\n* ימים א' - ה': 21:30 - 9:30\n*  יום ו': 8:30-14:00\n* מוצ\"ש משעה אחרי צאת השבת ועד 22:30\n\nנסיעה עם Waze אל קטוף סניף קרית אתא: https://waze.com/ul/hsvbfwu4mh\n\nלהצטרפות לקבוצת המועדון",
+   "ts": 1795529113000,
+   "date": "2026-11-24",
+   "time": "16:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "296KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UnJwSYbFARFewsQIzFuHmkonPCVghgXA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UnJwSYbFARFewsQIzFuHmkonPCVghgXA&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545918048"
   }

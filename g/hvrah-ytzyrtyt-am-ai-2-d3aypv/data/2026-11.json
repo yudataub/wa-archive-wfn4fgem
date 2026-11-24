@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הוראה יצירתית עם Ai 2",
- "updated": "2026-11-23T07:18:09.735Z",
+ "updated": "2026-11-24T12:46:07.277Z",
  "messages": [
   {
    "id": "A554B615A3012223D2850C5ED6385152",
@@ -1709,6 +1709,27 @@
    "files": [],
    "drive": null,
    "phone": "972506934423"
+  },
+  {
+   "id": "3EB0D2DD9F8DEC1F7A5794",
+   "sender": "שירה רוט זליקוביץ",
+   "text": "מחר בערב נכנסים למנהרת הזמן!\n\nמסיבת חנוכה עם AI\nיוצרים סיורי 360 בסיפורי חנוכה\nוגם שעשועי פרומפטים, דמי חנוכה, ועוד פעילויות עם תלמידים והפתעות משגעות.\nיום רביעי, 25.11.2026, 20:00-21:30, בזום\nעם שירה רוט זליקוביץ\nתשלום דמי רצינות בלבד.\nלהרשמה:\nhttps://www.lomdot.org/event-details/ai-hanukkah2\n\nחייבים להיות שם!",
+   "ts": 1795524343000,
+   "date": "2026-11-24",
+   "time": "14:45",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "26.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/19cnd042Acz3xa7ATa5e5b05U61sHpnpQ/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3EB0D2DD9F8DEC1F7A5794_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=19cnd042Acz3xa7ATa5e5b05U61sHpnpQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972523930628"
   }
  ]
 }

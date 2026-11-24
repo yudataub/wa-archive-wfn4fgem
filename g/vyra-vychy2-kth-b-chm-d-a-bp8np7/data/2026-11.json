@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-11-22T10:31:47.484Z",
+ "updated": "2026-11-24T05:44:32.665Z",
  "messages": [
   {
    "id": "3EB07E6F24C8A9165D9D2C",
@@ -998,6 +998,37 @@
    "files": [],
    "drive": null,
    "phone": "972545369985"
+  },
+  {
+   "id": "AC8A1B1F71EE17A97836D160EF5794AC",
+   "sender": "ARAZI SHARONA",
+   "text": "שלום רב, שמחים לפתוח השתלמות נוספת לגיוון בחירתכם, מוזמנים להירשם!\n  יאיר הכהן וסימון שירן",
+   "ts": 1795483527000,
+   "date": "2026-11-24",
+   "time": "03:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "169KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s1c2NgDUL2vxxogWsxFzIzIjZ_wvo2P5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s1c2NgDUL2vxxogWsxFzIzIjZ_wvo2P5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502123444"
+  },
+  {
+   "id": "ACC04240C5637A3CA4C07234C88CBFDE",
+   "sender": "ARAZI SHARONA",
+   "text": "פרטים על ההשתלמות \n📖 *אורות וכלים למורי תנ״ך מתקדמים*\nמספר פתרון למידה במצפן *207561*\n\n💡לתשומת לבכם, רישום ותשלום דרך המצפן לפני תחילת ההשתלמות 15/12\n*תאריך אחרון לרישום 30/11*. \nמצפים לראותכם!\nסיון שירן\n0542499601",
+   "ts": 1795499055000,
+   "date": "2026-11-24",
+   "time": "07:44",
+   "files": [],
+   "drive": null,
+   "phone": "972502123444"
   }
  ]
 }

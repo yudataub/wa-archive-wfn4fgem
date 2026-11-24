@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ד'",
- "updated": "2026-11-23T16:29:48.806Z",
+ "updated": "2026-11-24T17:54:07.146Z",
  "messages": [
   {
    "id": "ACB0E6A48615372D5894E35A95213A4B",
@@ -957,6 +957,109 @@
    "files": [],
    "drive": null,
    "phone": "972526478257"
+  },
+  {
+   "id": "AC37DFD1380003601552BDC38E9A66FE",
+   "sender": "צופיה",
+   "text": "אשמח לדפי עבודה ומבחן בהלכות נטילת ידיים לסעודה🙏",
+   "ts": 1795539076000,
+   "date": "2026-11-24",
+   "time": "18:51",
+   "files": [],
+   "drive": null,
+   "phone": "972512771970"
+  },
+  {
+   "id": "AC4932D9CD046E37F2F51566F139A483",
+   "sender": "צופיה",
+   "text": "והלכות קריאת שמע",
+   "ts": 1795539151000,
+   "date": "2026-11-24",
+   "time": "18:52",
+   "files": [],
+   "drive": null,
+   "phone": "972512771970"
+  },
+  {
+   "id": "3EB05B5751416D19811808",
+   "sender": "בנצי נחושתן",
+   "text": "אני בפגישה",
+   "ts": 1795539188000,
+   "date": "2026-11-24",
+   "time": "18:53",
+   "files": [],
+   "drive": null,
+   "phone": "972508822033"
+  },
+  {
+   "id": "ACFE8DB385E5E2A40FF1AA55866F4C22",
+   "sender": "מיכל ישראלי",
+   "text": "משימה עם ציון שאפשר להגיש עד יום שישי הבא בע\"ה. שולחת את ההלכות מהקיצוש\"ע שניתן להעזר בהן.",
+   "ts": 1795542822000,
+   "date": "2026-11-24",
+   "time": "19:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACFE8DB385E5E2A40FF1AA55866F4C22_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972535336683"
+  },
+  {
+   "id": "AC7DC5F50D7F6E002A3FCB4FA0184A31",
+   "sender": "מיכל ישראלי",
+   "text": "",
+   "ts": 1795542829000,
+   "date": "2026-11-24",
+   "time": "19:53",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "140KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1JUfZtvs_dZzYOfTW2dIgAxChDSrzF2V4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1JUfZtvs_dZzYOfTW2dIgAxChDSrzF2V4&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535336683"
+  },
+  {
+   "id": "AC094D1046058078AE5571AAC4021F9C",
+   "sender": "מיכל ישראלי",
+   "text": "",
+   "ts": 1795542843000,
+   "date": "2026-11-24",
+   "time": "19:54",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "102KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1IlDVaUHSmr2hIu9J3rJ2CQBavMIXzY67/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1IlDVaUHSmr2hIu9J3rJ2CQBavMIXzY67&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972535336683"
+  },
+  {
+   "id": "ACA353C874ED780CDED1001EBB0C41FF",
+   "sender": "מיכל ישראלי",
+   "text": "היי\nאנחנו עשינו להם משהו כזה, היה ממש יפה",
+   "ts": 1795542850000,
+   "date": "2026-11-24",
+   "time": "19:54",
+   "files": [],
+   "drive": null,
+   "phone": "972535336683"
   }
  ]
 }

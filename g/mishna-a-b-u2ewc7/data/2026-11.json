@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-11-23T19:16:42.865Z",
+ "updated": "2026-11-24T07:21:34.062Z",
  "messages": [
   {
    "id": "AC455B58B00753EECEDFE00BC1AFB4A8",
@@ -377,6 +377,36 @@
    "files": [],
    "drive": null,
    "phone": "972526478257"
+  },
+  {
+   "id": "ACC33F3B5A2C68AFE5D6EBE0DF22BE22",
+   "sender": "ברקה בלאי מיניןןאב",
+   "text": "מחפשת כריכה לתיקיה למשנה",
+   "ts": 1795504102000,
+   "date": "2026-11-24",
+   "time": "09:08",
+   "files": [],
+   "drive": null,
+   "phone": "972543273134"
+  },
+  {
+   "id": "AC2B09524136DD89E17DA441C6314412",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1795504866000,
+   "date": "2026-11-24",
+   "time": "09:21",
+   "files": [
+    {
+     "name": "דף שער לתיקיית משנה.pdf",
+     "size": "407KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ulZ1LRPFC3nd0_MUeX7qmchlt2LrMz5h/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
   }
  ]
 }
