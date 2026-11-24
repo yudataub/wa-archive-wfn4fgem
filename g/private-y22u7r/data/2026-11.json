@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הודעות פרטיות",
- "updated": "2026-11-23T20:22:48.089Z",
+ "updated": "2026-11-23T23:59:23.860Z",
  "messages": [
   {
    "id": "ACAE81C2B1A9F5175879ED09630BCA40",
@@ -22674,6 +22674,39 @@
    "drive": null,
    "thread": "יוסף צבי רימון",
    "phone": "972525456060"
+  },
+  {
+   "id": "3EB0C756D5BA1B76331AC4",
+   "sender": "אני",
+   "text": "יש לי תוכנה שהופכת קובץ HTML לקובץ כמו וורד שאפשר לכתוב למחוק ולעשות הכול\nוכך ממש כותבים ועורכים על הספר ממש.",
+   "ts": 1795478050000,
+   "date": "2026-11-24",
+   "time": "01:54",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB00867F6A212307E8E0D",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/teacher-tools/html/",
+   "ts": 1795478202000,
+   "date": "2026-11-24",
+   "time": "01:56",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
+  },
+  {
+   "id": "3EB05A82E370DCF09508B9",
+   "sender": "אני",
+   "text": "https://www.kol-toda.co.il/halacha-quiz/books/bonim-01-a.html",
+   "ts": 1795478364000,
+   "date": "2026-11-24",
+   "time": "01:59",
+   "files": [],
+   "drive": null,
+   "thread": "יהודה טאוב דירות אירוח בקרי אתא"
   }
  ]
 }
