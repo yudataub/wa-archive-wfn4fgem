@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-24T11:23:38.532Z",
+ "updated": "2026-11-24T22:45:49.724Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -1576,7 +1576,8 @@
      "path": "https://drive.google.com/file/d/1_RRSTfX5LKQ3myCmKgV_JBPh6prbbC8I/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC09F9CF5A3E21002BAFA263E9EB47C2_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1_RRSTfX5LKQ3myCmKgV_JBPh6prbbC8I&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1_RRSTfX5LKQ3myCmKgV_JBPh6prbbC8I&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-chanan-porat-2-2uxxug/v/2026-11/AC09F9CF5A3E21002BAFA263E9EB47C2_0.mp4"
     }
    ],
    "drive": null,
@@ -1636,6 +1637,44 @@
    "files": [],
    "drive": null,
    "phone": "972547353132"
+  },
+  {
+   "id": "3EB08A87E13409D809690C",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "ביום ראשון הקרוב י\"ט בכסלו יחול יום פטירתו של מורנו ורבנו הרב נריה זצ\"ל. מצורף כאן: 1. מצגת חומר על הקשר המיוחד בינו לבין חנן פורת ז\"ל, 2. תולדות חייו והמהפכות שחולל 3. תעודת זהות. \nhttps://docs.google.com/presentation/d/1JxxTEPRuhPC-K5JpTaH2zEng4oVthQuq/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true",
+   "ts": 1795560345000,
+   "date": "2026-11-25",
+   "time": "00:45",
+   "files": [
+    {
+     "name": "��הרב נריה - תולדות חיים והמהפכות.docx",
+     "size": "39KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1Rvor058WkrR3QtFNoSkjawB9uVeSIYYk/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB0C0B1E54F85E5010CCC",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "",
+   "ts": 1795560346000,
+   "date": "2026-11-25",
+   "time": "00:45",
+   "files": [
+    {
+     "name": "הרב נריה - תעודת זהות.docx",
+     "size": "264KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1txaxD3ArNHzmORpGb1ybWA9O8nEITNI_/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שאנן בנים כללי📚",
- "updated": "2026-11-24T17:45:00.278Z",
+ "updated": "2026-11-24T21:54:13.087Z",
  "messages": [
   {
    "id": "ACF54F64A34CDDCC927BCF19F5D8BE8E",
@@ -1652,6 +1652,17 @@
    ],
    "drive": null,
    "phone": "972546702322"
+  },
+  {
+   "id": "AC2621F4C8EB53B6A8D4B81AC1DDC6EE",
+   "sender": "yochai🤩❤💚",
+   "text": "לומדים ביום הזה?",
+   "ts": 1795557235000,
+   "date": "2026-11-24",
+   "time": "23:53",
+   "files": [],
+   "drive": null,
+   "phone": "972503737325"
   }
  ]
 }

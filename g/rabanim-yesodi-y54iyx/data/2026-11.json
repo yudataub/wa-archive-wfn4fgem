@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני בי\"ס",
- "updated": "2026-11-24T20:19:58.123Z",
+ "updated": "2026-11-24T22:35:49.546Z",
  "messages": [
   {
    "id": "A5AF650F80AEA0198E59FF2B86ACA998",
@@ -7131,7 +7131,8 @@
      "path": "https://drive.google.com/file/d/1if01s9UDWl9oxz9h6G0XQrumlTNbbxj_/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC1FD7E5E39DC8BEA9ED0FF6A8D379A3_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1if01s9UDWl9oxz9h6G0XQrumlTNbbxj_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1if01s9UDWl9oxz9h6G0XQrumlTNbbxj_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-rabanim-yesodi-y54iyx-2/v/2026-11/AC1FD7E5E39DC8BEA9ED0FF6A8D379A3_0.mp4"
     }
    ],
    "drive": null,
@@ -7229,6 +7230,63 @@
    "files": [],
    "drive": null,
    "phone": "972586100265"
+  },
+  {
+   "id": "3EB09CF47D8A55D2A400E3",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "מצורף כאן חומר על מורנו ורבנו הרב משה צבי נריה זצ\"ל, שיום פטירתו חל ביום ראשון י\"ט בכסלו:\n\n1. מצגת גדולה הכוללת: תולדות חייו, פעילותו האדירה, המהפכות שחולל, סיפורים, מאמרותיו ועוד.\n2. מצגת על היחס בין הרב נריה זצ\"ל לחנן פורת ז\"ל\n3.מאמר - תולדות חייו, 5 המהפכות שחולל, משנתו החינוכית\n4. תעודת זהות\n5. מאמרו - למה נס חנוכה לא נזכר במשנה? בהצלחה   \n\nhttps://docs.google.com/presentation/d/1HodCymtSAAGm5BQL0BfKypG5MpVi323J/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true\n\nhttps://docs.google.com/presentation/d/1JxxTEPRuhPC-K5JpTaH2zEng4oVthQuq/edit?usp=sharing&ouid=104637392439041079330&rtpof=true&sd=true",
+   "ts": 1795559739000,
+   "date": "2026-11-25",
+   "time": "00:35",
+   "files": [
+    {
+     "name": "��הרב נריה - תולדות חיים והמהפכות.docx",
+     "size": "39KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1eaFw_OwTW67t7Tz7mGEX4qTGKhbDqQSc/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB023C54AF5139F7C66DA",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "",
+   "ts": 1795559740000,
+   "date": "2026-11-25",
+   "time": "00:35",
+   "files": [
+    {
+     "name": "הרב נריה - למה נס חנוכה לא נזכר במשנה.pdf",
+     "size": "568KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1DvKdxxxXdF0p6wRUki1jsG-WW2gOcjT-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3EB057A333733624A3D6FC",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "",
+   "ts": 1795559740000,
+   "date": "2026-11-25",
+   "time": "00:35",
+   "files": [
+    {
+     "name": "הרב נריה - תעודת זהות.docx",
+     "size": "264KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1HNTPIqVJy5_jGiqjGt0AR0JHxv44JG4k/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
   }
  ]
 }
