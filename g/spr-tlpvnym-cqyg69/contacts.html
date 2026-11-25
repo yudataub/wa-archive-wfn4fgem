@@ -4,7 +4,7 @@
   אלפון של קבוצה אחת — נבנה בדפדפן מתוך data/*.json של אותה קבוצה:
   (א) כל מי שכתב בקבוצה ויש לו מספר (השדה phone ברשומה),
   (ב) כל כרטיס איש קשר ששותף בקבוצה (טקסט שמתחיל ב-📇 שם ואחריו מספרים).
-  נכתב ע"י site.js לצד index.html. ספר טלפונים / 96 מוחלפים בזמן הכתיבה.
+  נכתב ע"י site.js לצד index.html. ספר טלפונים / 200 מוחלפים בזמן הכתיבה.
 -->
 <html lang="he" dir="rtl">
 <head>
@@ -14,7 +14,7 @@
 <title>ספר טלפונים — אלפון</title>
 <script type="text/plain" id="delurl">https://script.google.com/macros/s/AKfycbw3AFtdBmWMxGe6pxATEBzUVnVehh_wU4oDHlOIQbI-IeVgq_BZEmWNg2BQ_-iYM_DD/exec</script>
 <style>
-:root{--hue:96;
+:root{--hue:200;
 --bg:hsl(var(--hue) 28% 89%);--panel:hsl(var(--hue) 40% 98%);--bubble:#ffffff;--ink:#1f2421;
 --muted:#6b7280;--accent:hsl(var(--hue) 42% 32%);--line:hsl(var(--hue) 18% 80%);--chip:hsl(var(--hue) 30% 93%);}
 @media (prefers-color-scheme:dark){:root{--bg:hsl(var(--hue) 16% 9%);--panel:hsl(var(--hue) 14% 14%);
@@ -62,6 +62,7 @@ main{max-width:780px;margin:0 auto;padding:12px 16px 40px}
 <button class="btn" id="vcf" title="קובץ אנשי קשר לייבוא לטלפון">⬇ הורדה כאנשי קשר (vcf)</button>
 </div>
 <div id="list"></div>
+<button class="btn" id="more" hidden style="display:block;margin:14px auto">הצג עוד ↓</button>
 <div id="status">טוען…</div>
 </main>
 <script>
@@ -73,6 +74,13 @@ function alias(name,phone){return (phone&&NAMES.phones[phone])||NAMES.names[name
 function loadNames(){return fetch("../../names.json?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
  .then(function(d){if(d){NAMES.phones=d.phones||{};NAMES.names=d.names||{};}}).catch(function(){});}
 var list=document.getElementById("list"),statusEl=document.getElementById("status"),sub=document.getElementById("sub");
+// 25.11.2026: data/extra.json (רק בקבוצה שיש לה): {general:"<נתיב לאלפון הכללי>", items:[{n,p,s}]} – מספרים מעוד מקורות. מציגים 400 בכל פעם
+var LIM=400,lim=LIM,moreBtn=document.getElementById("more");
+function addSrc(p,s){if(!s)return;p.src=p.src||[];if(p.src.indexOf(s)<0)p.src.push(s);}
+function ingestExtra(d){if(!d)return null;(d.items||[]).forEach(function(i){var ph=normPhone(i.p);if(!ph)return;var p=person(ph);addName(p,i.n);addSrc(p,i.s);});
+ if(!d.general)return null;return fetch(d.general+"?t="+Date.now()).then(function(r){return r.ok?r.json():null;}).then(function(g){
+  ((g&&g.contacts)||[]).forEach(function(c){var ph=normPhone(c.phone);if(!ph)return;var p=person(ph);(c.names||[]).forEach(function(n){if(n!=="אני")addName(p,n);});
+   var gs=(c.groups||[]).slice(0,2).map(function(x){return x.name;});if(gs.length)addSrc(p,"מהקבוצות: "+gs.join(", ")+((c.groups||[]).length>2?" ועוד":""));});}).catch(function(){});}
 var people={}; // phone → {phone, names:{}, wrote:0, last:'', shared:[{by,date}]}
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 // מספר לצורה בינלאומית בלי + (972…); מקומי 05x → 9725x
@@ -104,9 +112,10 @@ function render(q){
  arr.forEach(function(e){
   var hay=(e.name+" "+e.aliases.join(" ")+" "+e.p.phone+" "+prettyPhone(e.p.phone)).toLowerCase();
   if(q&&hay.indexOf(q)===-1&&!(qd&&e.p.phone.indexOf(qd)>-1))return;
-  shown++;var L=initial(e.name);if(L!==last){last=L;html+='<div class="letter">'+esc(L)+"</div>";}
+  shown++;if(shown>lim)return;var L=initial(e.name);if(L!==last){last=L;html+='<div class="letter">'+esc(L)+"</div>";}
   var tags="";if(e.p.wrote)tags+='<span class="tag">כתב/ה '+e.p.wrote+' הודעות · אחרונה '+esc(e.p.last)+"</span>";
   e.p.shared.slice(0,2).forEach(function(s){tags+='<span class="tag">📇 שותף ע"י '+esc(s.by)+" · "+esc(s.date)+"</span>";});
+  (e.p.src||[]).slice(0,2).forEach(function(s){tags+='<span class="tag">'+esc(s)+"</span>";});
   html+='<div class="card" data-phone="'+esc(e.p.phone)+'" data-orig="'+esc(e.orig)+'"><div class="avatar">'+esc(L)+
    '</div><div class="info"><div class="name">'+esc(e.name)+
    (DELURL?' <button class="act rename" title="שינוי השם בכל הארכיון">✎</button>':"")+
@@ -116,7 +125,7 @@ function render(q){
    '<div class="acts"><a class="act" href="https://wa.me/'+e.p.phone+'" target="_blank" rel="noopener" title="וואטסאפ">✆ וואטסאפ</a>'+
    '<a class="act" href="tel:+'+e.p.phone+'" title="חיוג">📞</a>'+
    '<button class="act copy" data-v="'+esc(prettyPhone(e.p.phone))+'" title="העתקת המספר">⧉</button></div></div>';});
- list.innerHTML=html;
+ list.innerHTML=html;moreBtn.hidden=shown<=lim;moreBtn.textContent="הצג עוד ↓ (מוצגים "+Math.min(lim,shown)+" מתוך "+shown+")";
  statusEl.textContent=shown?"":(q?"אין תוצאות.":"עדיין אין מספרים בקבוצה הזו — הם נאספים מהודעות חדשות ומכרטיסי איש קשר ששותפו.");
  sub.textContent=(q?shown+" מתוך ":"")+arr.length+" אנשי קשר · "+GROUP;}
 function allText(){return Object.keys(people).map(function(k){var p=people[k];var n=Object.keys(p.names).sort(function(a,b){return p.names[b]-p.names[a];})[0]||"";return n+" — "+prettyPhone(p.phone);}).sort(function(a,b){return a.localeCompare(b,"he");}).join("\n");}
@@ -141,14 +150,16 @@ list.addEventListener("click",function(e){
   else{delete NAMES.phones[phone];delete NAMES.names[orig];}
   render(document.getElementById("search").value);})
  .catch(function(){alert("לא ניתן היה ליצור קשר עם השירות.");b.disabled=false;b.textContent="✎";});});
-document.getElementById("search").addEventListener("input",function(e){render(e.target.value);});
+document.getElementById("search").addEventListener("input",function(e){lim=LIM;render(e.target.value);});
+moreBtn.addEventListener("click",function(){lim+=LIM;render(document.getElementById("search").value);});
 document.getElementById("copyall").addEventListener("click",function(){var b=this;copyText(allText()).then(function(){flash(b,"הועתק ✓");});});
 document.getElementById("vcf").addEventListener("click",function(){var blob=new Blob([vcf()],{type:"text/vcard;charset=utf-8"});var a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=GROUP.replace(/[\\/:*?"<>|]/g,"-")+" - אלפון.vcf";document.body.appendChild(a);a.click();document.body.removeChild(a);});
 list.addEventListener("click",function(e){var b=e.target.closest?e.target.closest(".copy"):null;if(!b)return;copyText(b.getAttribute("data-v")).then(function(){flash(b,"✓");});});
 fetch("data/index.json?t="+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(d){
  var months=(d.months||[]).slice().sort();
  return Promise.all(months.map(function(m){return fetch("data/"+m+".json?t="+Date.now()).then(function(r){return r.ok?r.json():{messages:[]};});}));
-}).then(function(all){all.forEach(function(d){(d.messages||[]).forEach(ingest);});return loadNames();}).then(function(){render("");})
+}).then(function(all){all.forEach(function(d){(d.messages||[]).forEach(ingest);});
+ return fetch("data/extra.json?t="+Date.now()).then(function(r){return r.ok?r.json():null;}).then(ingestExtra).catch(function(){});}).then(loadNames).then(function(){render("");})
  .catch(function(){statusEl.textContent="הארכיון עדיין ריק.";sub.textContent=GROUP;});
 </script>
 </body>
