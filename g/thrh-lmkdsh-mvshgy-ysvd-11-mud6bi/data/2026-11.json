@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "טהרה למקדש- מושגי יסוד 11",
- "updated": "2026-11-23T14:22:27.243Z",
+ "updated": "2026-11-25T15:25:24.724Z",
  "messages": [
   {
    "id": "AC2EDA8D70FAD19760650DD99B4DC57C",
@@ -113,6 +113,26 @@
    "date": "2026-11-23",
    "time": "16:22",
    "files": [],
+   "drive": null,
+   "phone": "972545245529"
+  },
+  {
+   "id": "ACCE96613D06667A633B715718FA0160",
+   "sender": "יפה קנזין 𓉱🇮🇱",
+   "text": "סיור בחנוכה לכבוד 7 שנים למיזם טהרה לחיי מקדש מטעם נשים למען המקדש.\n תבואו. ותפיצו.\nמוזיאון הרובע ההרודיאני נמצא ברובע היהודי מתחת לישיבת הכותל.\nהסיור יהיה שעה וחצי.\nאני אדריך בהתנדבות אבל צריך לשלם דמי כניסה למוזיאון- כל אחד באופן עצמאי.\nפתוח לנשים וגברים.",
+   "ts": 1795620303000,
+   "date": "2026-11-25",
+   "time": "17:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "268KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1OeBVl6NHYgoqSOCgCS9Okjhb42EP_oHy/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1OeBVl6NHYgoqSOCgCS9Okjhb42EP_oHy&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545245529"
   }

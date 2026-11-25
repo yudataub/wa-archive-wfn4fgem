@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רעיונות פוגשים בינה",
- "updated": "2026-11-24T17:47:08.666Z",
+ "updated": "2026-11-25T19:19:57.796Z",
  "messages": [
   {
    "id": "A531A47E0E0ACE55B3CB85B1CDE02DA7",
@@ -4630,6 +4630,90 @@
    "files": [],
    "drive": null,
    "phone": "972507975380"
+  },
+  {
+   "id": "AC64858BA1C3D48EB0F23A8D5969D0FE",
+   "sender": "זיאד פאהום",
+   "text": "נושא: טכנולוגיה של פעם\n  אנפוגרפיקה                       \nתלמידים:  חטב תיכון\nכלי:    גימיני   instenct  \n\nשפה:עברית ערבית\nמוצר סופי : משחק לימודי  עברי ערבי עם ציון לתלמיד דוח תשובות\nקישור\nhttps://files.instinct.com/o67r76uebrwv?via=wa",
+   "ts": 1795590359000,
+   "date": "2026-11-25",
+   "time": "09:05",
+   "files": [],
+   "drive": null,
+   "phone": "972507975380"
+  },
+  {
+   "id": "ACB9EC1B65F5DE8996952956F0DFB557",
+   "sender": "זיאד פאהום",
+   "text": "https://share.gemini.google/2bggkCTh7twZ",
+   "ts": 1795590531000,
+   "date": "2026-11-25",
+   "time": "09:08",
+   "files": [],
+   "drive": null,
+   "phone": "972507975380"
+  },
+  {
+   "id": "3A17DC1A514E74F8317E",
+   "sender": "🌷حنان ام المجد🌷",
+   "text": "אתר לתרגול עברית מדוברת כהכנה למבחן הבגרות בעברית מדוברת.\nקישור לאתר: https://majd-exam.sites.tab.bot\n\nסרטון הסבר לאתר \"מבחן עם מג'ד\":\nhttps://drive.google.com/file/d/1HM2bWGgEogNp0n9s5K8VBuUvLo-9vmM1/view?usp=sharing\n\nהכלים: את האתר \"מבחן עם מג'ד\" בניתי בעזרת Tab. כדי לשמור את ההקלטות, לתמלל אותן ולבדוק אוטומטית, חיברתי לאתר שירות חיצוני בשם Groq באמצעות מפתח (API Key).",
+   "ts": 1795597414000,
+   "date": "2026-11-25",
+   "time": "11:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508821908"
+  },
+  {
+   "id": "ACCDC4BB40CB9656C017C01937E2F2C4",
+   "sender": "זיאד פאהום",
+   "text": "סידרתי את זה לקבוצת לימוד שלי",
+   "ts": 1795601291000,
+   "date": "2026-11-25",
+   "time": "12:08",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "397KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1iHlu73KQGMrabvUfezDU0VqnB7g1_Uij/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1iHlu73KQGMrabvUfezDU0VqnB7g1_Uij&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507975380"
+  },
+  {
+   "id": "A53C1A2F0997D0F1D00D3027E77DFDAC",
+   "sender": "תמר חמאדה",
+   "text": "אירועי שבוע שעת הקוד מתקרבים! מה תנסו השנה בכיתה?\n\nמורות ומורים ביסודי ובחטיבות הביניים, הצטרפו אלינו למפגש חשיפה לקראת אירועי שבוע שעת הקוד.\n\nבמפגש נכיר את הפעילויות המתוכננות לשבוע שעת הקוד ונגלה איך לעודד תלמידות ותלמידים לחשוב כמו מתכנתים. תוכלו לבחור פעילות שמתאימה לכיתה שלכם ולקבל רעיונות לשילובה בשיעור.\n\nנפגשים ביום ראשון, 29.11.26, בשעות 18:00 עד 19:15.\n\nלהרשמה למפגש\nhttps://survey.gov.il/he/hour_of_code_webinar_registration",
+   "ts": 1795629928000,
+   "date": "2026-11-25",
+   "time": "20:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "218KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/16bngHrb8MfkxJi7reMH9oWskmcGgj0b2/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=16bngHrb8MfkxJi7reMH9oWskmcGgj0b2&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972505848342"
+  },
+  {
+   "id": "3AD5BF5A5DEC52ED1A43",
+   "sender": "Hagit",
+   "text": "מה עושים כשאינסטינקט נכנס למשוב?",
+   "ts": 1795634387000,
+   "date": "2026-11-25",
+   "time": "21:19",
+   "files": [],
+   "drive": null,
+   "phone": "972522556245"
   }
  ]
 }

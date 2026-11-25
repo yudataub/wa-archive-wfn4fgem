@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה כתה ה",
- "updated": "2026-11-22T09:36:24.493Z",
+ "updated": "2026-11-25T20:56:02.762Z",
  "messages": [
   {
    "id": "3EB07D29E51DF1417119FE",
@@ -1404,6 +1404,205 @@
    "files": [],
    "drive": null,
    "phone": "972527710613"
+  },
+  {
+   "id": "ACDE213C64519D236DA6A8B17F45F8CF",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1795591416000,
+   "date": "2026-11-25",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "מסע האור בחנוכה (5).html",
+     "size": "2.0MB",
+     "type": "text/html",
+     "path": "https://drive.google.com/file/d/1LqJ-cQY6xnkH0BVbAOJhIDAEBn1w99xC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC7658E8ED0B93864E5564F23736633B",
+   "sender": "אורן יהודה",
+   "text": "בוקר טוב\nאפליקציית לימוד וחידונים לחנוכה.\nתהנו💫",
+   "ts": 1795591417000,
+   "date": "2026-11-25",
+   "time": "09:23",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "ACD2A1E8F45567FB11FB5661E5162C66",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1795591417000,
+   "date": "2026-11-25",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "586KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1GVVwmLa5PsDlcrVm5Rw6kvtgpLyTwfZG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GVVwmLa5PsDlcrVm5Rw6kvtgpLyTwfZG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC0B0D337C3A37E623D65DA292E0EED6",
+   "sender": "אורן יהודה",
+   "text": "",
+   "ts": 1795591418000,
+   "date": "2026-11-25",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "877KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/11Rhz1Nf3EpAqKKC-pHNWlQ713WDVbSAc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11Rhz1Nf3EpAqKKC-pHNWlQ713WDVbSAc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC062990764EE1152493FD3BFB2334AC",
+   "sender": "גילה בתיה אריאל",
+   "text": "מקסים תודה!!!",
+   "ts": 1795591755000,
+   "date": "2026-11-25",
+   "time": "09:29",
+   "files": [],
+   "drive": null,
+   "phone": "972546454441"
+  },
+  {
+   "id": "AC8E9BB6FC47C315B3279F86FDE209F8",
+   "sender": "זוהר",
+   "text": "האם יש חומר למבחן מפמ\"ר בהלכה?",
+   "ts": 1795594531000,
+   "date": "2026-11-25",
+   "time": "10:15",
+   "files": [],
+   "drive": null,
+   "phone": "972585185001"
+  },
+  {
+   "id": "AC6404BE5FDA2C7D5E0D70FADC523AD2",
+   "sender": "ישראל ויסקוט",
+   "text": "קישור 'תכניות לימודים' בתיאור הקבוצה",
+   "ts": 1795601011000,
+   "date": "2026-11-25",
+   "time": "12:03",
+   "files": [],
+   "drive": null,
+   "phone": "972508738650"
+  },
+  {
+   "id": "AC41EE921AEF1350493B8FE11DC086FB",
+   "sender": "אורן יהודה",
+   "text": "https://orenhanuka.netlify.app\nהיו כמה שאמרו שלא נכנס להם אז הפכתי לקישור באינטרנט.\nד.א את האפליקצייה יצרתי עם קלוד",
+   "ts": 1795621323000,
+   "date": "2026-11-25",
+   "time": "17:42",
+   "files": [],
+   "drive": null,
+   "phone": "972522918633"
+  },
+  {
+   "id": "AC04BEC77E5172C123867AC4F4B9A37E",
+   "sender": " ",
+   "text": "אשמח לשתף חידון עם ניקוד ובלי ניקוד\nמוזמנים להשתמש \nמזי",
+   "ts": 1795621414000,
+   "date": "2026-11-25",
+   "time": "17:43",
+   "files": [],
+   "drive": null,
+   "phone": "972504754465"
+  },
+  {
+   "id": "AC676DFD08D7026A512FD000BBFE1CB9",
+   "sender": " ",
+   "text": "https://share.gemini.google/GQp7xZzpsElF",
+   "ts": 1795621432000,
+   "date": "2026-11-25",
+   "time": "17:43",
+   "files": [],
+   "drive": null,
+   "phone": "972504754465"
+  },
+  {
+   "id": "AC64DECAE481960414B5BA6B784D8555",
+   "sender": " ",
+   "text": "https://share.gemini.google/ds3ougYAdjSQ",
+   "ts": 1795621433000,
+   "date": "2026-11-25",
+   "time": "17:43",
+   "files": [],
+   "drive": null,
+   "phone": "972504754465"
+  },
+  {
+   "id": "AC34231BC2927F811EF3AE955854DD44",
+   "sender": "אלקנה שטראוס",
+   "text": "אי\"ה בתחילת שבוע הבא נפרסם את המסך ובו כל הפרטים.\nבגדול כל נושאי תכ\"ל למעט חגים",
+   "ts": 1795633998000,
+   "date": "2026-11-25",
+   "time": "21:13",
+   "files": [],
+   "drive": null,
+   "phone": "972527710613"
+  },
+  {
+   "id": "ACCD8EBEDD89ECC1C5CAC1648F250FC5",
+   "sender": "❤❤❤❤",
+   "text": "הכנתי הערכה חלופית משלבת עברית הלכה ומשנה על מולד הירח למי שרוצה.",
+   "ts": 1795639669000,
+   "date": "2026-11-25",
+   "time": "22:47",
+   "files": [
+    {
+     "name": "הערכה חלופית ל מולד הירח.docx",
+     "size": "20KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1_ZGzee3UjoRiojabG85OL2RmgAYbrcpm/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522406167"
+  },
+  {
+   "id": "AC03DE09DDECBC82AC91DBD9EB13F334",
+   "sender": "אורלית",
+   "text": "וואו מקסים .שאלה רק לגבי הספר עברית שהפנית באיזה ספר מדובר ?",
+   "ts": 1795640109000,
+   "date": "2026-11-25",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972522229882"
+  },
+  {
+   "id": "AC97511D3A4D52B1CCDCBF5F72C210FB",
+   "sender": "❤❤❤❤",
+   "text": "עברית בנועם לכיתה ה",
+   "ts": 1795640137000,
+   "date": "2026-11-25",
+   "time": "22:55",
+   "files": [],
+   "drive": null,
+   "phone": "972522406167"
   }
  ]
 }

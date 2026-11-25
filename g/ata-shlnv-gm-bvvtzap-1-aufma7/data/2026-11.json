@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אתא שלנו גם בווצאפ 1",
- "updated": "2026-11-24T06:59:03.738Z",
+ "updated": "2026-11-25T20:12:56.620Z",
  "messages": [
   {
    "id": "A5294FDEB706117EEA49817419BC61CD",
@@ -237,6 +237,45 @@
      "path": "https://drive.google.com/file/d/1SDEXm2YfmKvObIkah2f0sKA4jmHwjEpp/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1SDEXm2YfmKvObIkah2f0sKA4jmHwjEpp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "3EB01FDFADA34939B01F82",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1795593783000,
+   "date": "2026-11-25",
+   "time": "10:03",
+   "files": [
+    {
+     "name": "553_לדיגיטל.pdf",
+     "size": "6.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EX3N79Byoam0a_bS1jLLd9N5veyTOz_m/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972525992887"
+  },
+  {
+   "id": "3EB079A0246B5C8BE1EA0C",
+   "sender": "אתא שלנו",
+   "text": "",
+   "ts": 1795637571000,
+   "date": "2026-11-25",
+   "time": "22:12",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "419KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dWrbjMwriwvXvHL0fB2OAd0bRrHSl2WZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dWrbjMwriwvXvHL0fB2OAd0bRrHSl2WZ&sz=w1200"
     }
    ],
    "drive": null,

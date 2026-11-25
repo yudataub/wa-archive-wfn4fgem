@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וובינרים ואירועים #30 | LetsAI Events",
- "updated": "2026-11-23T17:07:50.067Z",
+ "updated": "2026-11-25T07:46:52.315Z",
  "messages": [
   {
    "id": "ACDDBF3F1E955D0AFA7575195624AFB5",
@@ -113,6 +113,26 @@
    ],
    "drive": null,
    "phone": "972506686869"
+  },
+  {
+   "id": "3EB0FC5D33B23AE30D7EEC",
+   "sender": "לטס בינה מלאכותית",
+   "text": "⏰ *מתחילים היום ב-10:00 בדיוק!*  \nקחו קפה והצטרפו אלינו לוובינר בוקר על *L&D, ניהול שינוי ו-HR* ☕☀️  \nאל תפספסו!\n\n*לכניסה לזום 👇*  \nhttps://ltsai.co/webinars-25-11-2026\n\nמוזמנים להעביר לקולגות, למנהלים ולחברי צוות שהנושא רלוונטי להם.\n\nרוצים להמשיך את השיחה גם אחרי הוובינר? הצטרפו *לקבוצת הדיונים הפתוחה שלנו ל-L&D ו-HR* 👇",
+   "ts": 1795592808000,
+   "date": "2026-11-25",
+   "time": "09:46",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "114KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1FB_Kq97-mRMy5p3Yv-yYgiBO-A7byPDE/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1FB_Kq97-mRMy5p3Yv-yYgiBO-A7byPDE&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586408042"
   }
  ]
 }

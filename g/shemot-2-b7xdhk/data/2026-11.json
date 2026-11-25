@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שמות 2 ויהושע",
- "updated": "2026-11-24T05:49:32.736Z",
+ "updated": "2026-11-25T16:36:56.015Z",
  "messages": [
   {
    "id": "AC39FA6E0A9136D6CD9E458C7007A9BC",
@@ -3011,6 +3011,229 @@
    "files": [],
    "drive": null,
    "phone": "972502123444"
+  },
+  {
+   "id": "AC09BC933C41E86E31B85EF686B211C7",
+   "sender": "איריס זמיר",
+   "text": "",
+   "ts": 1795609975000,
+   "date": "2026-11-25",
+   "time": "14:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546159578"
+  },
+  {
+   "id": "AC4C730CC7F5847DA54B5305B846219F",
+   "sender": "קרן פלט🌸",
+   "text": "ערב טוב, אשמח לכל הדפים האלו שוב🙏",
+   "ts": 1795624317000,
+   "date": "2026-11-25",
+   "time": "18:31",
+   "files": [],
+   "drive": null,
+   "phone": "972502028311"
+  },
+  {
+   "id": "AC83E57388157663608F2E5D22424C9B",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624424000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת כִּנִּים - דף עבודה.pdf",
+     "size": "204KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1jFvzSBfGx3_vm9mieWYERcGuyaNN0WZI/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC72EC706ABF81028F5291148BAA57BE",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624428000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת חֹשֶׁךְ  - דף עבודה.pdf",
+     "size": "81KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1mATQvW-tpF8_8SekMzd9H0WuqKyR6IVm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC6489F49BC058931C4B1871908B1DD8",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624429000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת דָּם - דף עבודה.pdf",
+     "size": "165KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1kGlivew9VFZafL3cz9nudkb0XS3kZFox/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC38440B3B63AF4C29CD33663A38C4F4",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624430000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת אַרְבֶּה - דף עבודה.pdf",
+     "size": "98KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12lnEPEfBUJleam53HIYnbtS8_io3Onm-/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC07563111C252BEC2640A285685B63A",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624431000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת שְׁחִין- דף עבודה.pdf",
+     "size": "120KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Za297m_63sMNHJq9CifO_Ln7JvyJF5VZ/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "ACF915B9CDF4DCD82A8D08F7E0ED1780",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624431000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת בְּכוֹרוֹת - דף עבודה.pdf",
+     "size": "117KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1c-FHrsZUq6zIBvmlpINxHm74hpd-OBi4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "ACE20B7DB66F7B3E5384335B80B7D92D",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624432000,
+   "date": "2026-11-25",
+   "time": "18:33",
+   "files": [
+    {
+     "name": "מַכַּת עָרֹב - דף עבודה.pdf",
+     "size": "82KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1P7xyH2GA5G8bABmLlFbWCFOb5loKR4Yr/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "ACB1C232A98A673A126ECFF91F7FCEDA",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624440000,
+   "date": "2026-11-25",
+   "time": "18:34",
+   "files": [
+    {
+     "name": "מַכַּת צְפַרְדֵּעַ - דף עבודה.pdf",
+     "size": "85KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1NJXvLlo8e6BVPHlUZXChQ9edwpaHBCJ4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC9910EAAD5F44674CE3BF53BC3A7D65",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624441000,
+   "date": "2026-11-25",
+   "time": "18:34",
+   "files": [
+    {
+     "name": "מַכַּת בָּרָד - דף עבודה.pdf",
+     "size": "115KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Nm3rvSpqKUMZIJNdVmXu6wFHppDhzg99/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC0EF5439AA3D8E7A51D549E1226EF52",
+   "sender": "הודיה קליגר",
+   "text": "",
+   "ts": 1795624442000,
+   "date": "2026-11-25",
+   "time": "18:34",
+   "files": [
+    {
+     "name": "מַכַּת דֶּבֶר - דף עבודה.pdf",
+     "size": "155KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1e-Yc7wAWM0XIiBX25ZSSHTdPlEfqxtji/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584006075"
+  },
+  {
+   "id": "AC12E9055922D10162417B8DEE788426",
+   "sender": "קרן פלט🌸",
+   "text": "תודה רבה🙏",
+   "ts": 1795624602000,
+   "date": "2026-11-25",
+   "time": "18:36",
+   "files": [],
+   "drive": null,
+   "phone": "972502028311"
   }
  ]
 }

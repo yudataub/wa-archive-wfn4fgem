@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-23T13:03:12.504Z",
+ "updated": "2026-11-25T08:38:15.615Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -1672,6 +1672,134 @@
    "files": [],
    "drive": null,
    "phone": "972524425552"
+  },
+  {
+   "id": "ACF0FCFBA1017EC1DDF5C93E7E4958E2",
+   "sender": "עדן נקש תורג'מן",
+   "text": "היי אשמח למצגות שמתאימות לתקופה הזו לכיתות א",
+   "ts": 1795589895000,
+   "date": "2026-11-25",
+   "time": "08:58",
+   "files": [],
+   "drive": null,
+   "phone": "972544406881"
+  },
+  {
+   "id": "ACB9270810BB018A3ACC3F0950DCFBD2",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795591757000,
+   "date": "2026-11-25",
+   "time": "09:29",
+   "files": [
+    {
+     "name": "חוברת קריאה לחנוכה קמץ פתח שווא תחיה ביר כיתה א.pdf",
+     "size": "825KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Bg_JuA6O26y7vMWPi7eGeN7Du0_xchM9/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC999B77CD8256F3363F6B438B6935A0",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795594301000,
+   "date": "2026-11-25",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "דפי עבודה פרק א פרקי אבות.pdf",
+     "size": "5.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1f6-nCQgWwaS1XdZfgplOTeY0_Edo4TGt/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC90352749C70B16D39181E3B3F23022",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795594303000,
+   "date": "2026-11-25",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "דפי עבודה פרק ג פרקי אבות.pdf",
+     "size": "10.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Bpz_1WDI-TH-L27Hi0x0P_YoiobylE0j/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC1981409A3D30C0F7B3D8194A2C2FAB",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795594309000,
+   "date": "2026-11-25",
+   "time": "10:11",
+   "files": [
+    {
+     "name": "פרק ג מצוירות פרקי אבות.pdf",
+     "size": "10.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1qUroZ_lUKMulVSke4DvnVmg9FOZdl6gp/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "ACDEFF8CEC7D5C37D89AE8342FC4D102",
+   "sender": "Ys",
+   "text": "",
+   "ts": 1795594339000,
+   "date": "2026-11-25",
+   "time": "10:12",
+   "files": [
+    {
+     "name": "פרק א מצויר פרקי אבות.pdf",
+     "size": "11.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1z82cbkqBIz2od7C2T_WLzfSS23J7oUJm/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC3BE1BC1F9B7DF4E094039C18196019",
+   "sender": "Ys",
+   "text": "https://drive.google.com/drive/folders/1_xmSISUeFY4JF1th6u957RLWrra_dqNW",
+   "ts": 1795594340000,
+   "date": "2026-11-25",
+   "time": "10:12",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
+  },
+  {
+   "id": "AC8428D49F582FCFC0AC8186B353632B",
+   "sender": "אורטל",
+   "text": "בוקר טוב,\nלמי יש קובץ הלכות כיבוד הורים? או קישורים הקשורים? 🙏",
+   "ts": 1795595885000,
+   "date": "2026-11-25",
+   "time": "10:38",
+   "files": [],
+   "drive": null,
+   "phone": "972548635533"
   }
  ]
 }

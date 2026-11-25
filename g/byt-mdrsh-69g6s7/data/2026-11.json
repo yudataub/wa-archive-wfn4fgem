@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-24T15:55:46.148Z",
+ "updated": "2026-11-25T11:31:39.155Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -392,6 +392,26 @@
      "thumb": "https://drive.google.com/thumbnail?id=13j3-cFif0ErkXv1SwMwUZTmBS21HaloF&sz=w1200"
     }
    ],
+   "drive": null
+  },
+  {
+   "id": "3EB00C930BD6A264ED637F",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "מי שרוצה להתקין את כל המידע על קרית אתא באפליקציה מצורף\nhttps://www.kol-toda.co.il/ata/?install=1",
+   "ts": 1795605387000,
+   "date": "2026-11-25",
+   "time": "13:16",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A5189CBDD44C68F99328BFFB0D651B0E",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "גם נוסף ווייז שביקשתם.",
+   "ts": 1795606288000,
+   "date": "2026-11-25",
+   "time": "13:31",
+   "files": [],
    "drive": null
   }
  ]

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מתמחי תשפ״ז-הודעות ועדכונים מכללת שאנן",
- "updated": "2026-11-24T08:13:21.170Z",
+ "updated": "2026-11-25T07:09:48.655Z",
  "messages": [
   {
    "id": "3EB039383B4C3D1A3CF332",
@@ -293,6 +293,26 @@
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/14-NHFsLIEvkpkSHmi9DQ50D5sIhSuL-x/view?usp=drivesdk",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3ADB80AAFC6FE56F25DA",
+   "sender": "Adi Zvieli",
+   "text": "יישר כח לכל מי שהשתתף/ה אתמול בוובינר בהובלת השפ״י. למשתתפים יישלח דוח השתתפות ומשוב. הקפידו למלאו הן לטובת נוכחות והן לטובת למידה לבאות. תודה רבה🌸",
+   "ts": 1795590564000,
+   "date": "2026-11-25",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "149KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1LN4qn-RTZOnrfQIW36sqclxcsGm_o1ku/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1LN4qn-RTZOnrfQIW36sqclxcsGm_o1ku&sz=w1200"
     }
    ],
    "drive": null,

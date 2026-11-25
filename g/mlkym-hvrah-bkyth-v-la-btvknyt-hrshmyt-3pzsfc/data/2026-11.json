@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מלכים - הוראה בכיתה ו (לא בתוכנית הרשמית)",
- "updated": "2026-11-19T13:00:30.306Z",
+ "updated": "2026-11-25T09:16:46.079Z",
  "messages": [
   {
    "id": "3EB025D954A5318C0972B1",
@@ -839,6 +839,57 @@
    "files": [],
    "drive": null,
    "phone": "972556876834"
+  },
+  {
+   "id": "ACADABBE92A435782531EA411CB5AA5B",
+   "sender": "sarash6422",
+   "text": "",
+   "ts": 1795598163000,
+   "date": "2026-11-25",
+   "time": "11:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "405KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QBtmh01aob91IVFVOuR7NPa02cpwwN4f/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QBtmh01aob91IVFVOuR7NPa02cpwwN4f&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586909721"
+  },
+  {
+   "id": "AC3400B2AAD94092B0CDD8E76B3D85DE",
+   "sender": "sarash6422",
+   "text": "*השתלמות מקוונת להוראת התנ\"ך דרך ספר מלכים - מתחילה!*\nתאריך פתיחה: יום שלישי כ\"א כסלו (1/12)\n60 ש\"ש לגמול! מוכר ללימודי חובה בשנת שבתון\nקישור להרשמה ישירה:\nhttps://rashim3.herzog.ac.il/Portals/ex/registration/tanachopz\n[אין צורך להירשם גם במצפ\"ן. שם המתווה: \"הוראת התנ\"ך\"]\nקישור לצפייה בסילבוס:\n https://docs.google.com/document/d/1yQcCMR8gZ_xdIyY10Bno4GUWqeT_xKXE/edit?usp=sharing&ouid=118338469550194954523&rtpof=true&sd=true\nהעבירו הלאה למורים נוספים!",
+   "ts": 1795598182000,
+   "date": "2026-11-25",
+   "time": "11:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "405KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1INGxmaFTuk37rH1L296MI9efDwSP4IDa/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1INGxmaFTuk37rH1L296MI9efDwSP4IDa&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586909721"
+  },
+  {
+   "id": "ACA8D0F4126C10F63397EDACBA849DA4",
+   "sender": "sarash6422",
+   "text": "מומלץ",
+   "ts": 1795598191000,
+   "date": "2026-11-25",
+   "time": "11:16",
+   "files": [],
+   "drive": null,
+   "phone": "972586909721"
   }
  ]
 }

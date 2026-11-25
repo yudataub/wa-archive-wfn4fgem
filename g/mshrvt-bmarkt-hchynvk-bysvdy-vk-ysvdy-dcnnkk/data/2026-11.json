@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משרות במערכת החינוך (ביסודי וק. יסודי)#️⃣🔍",
- "updated": "2026-11-23T19:35:47.380Z",
+ "updated": "2026-11-25T21:05:02.934Z",
  "messages": [
   {
    "id": "ACC6568ECDEB7F48FEA2636611698041",
@@ -1877,6 +1877,107 @@
    ],
    "drive": null,
    "phone": "972533961905"
+  },
+  {
+   "id": "ACF811805F1827184255BB15DEFDF58A",
+   "sender": "יגאל דהרי-ת\"ת ניצני התורה",
+   "text": "🕎מבצע חנוכה🕎\n✨*10% הנחה*✨\nעל כל עיצובי הבלונים!\nלמזמינים עיצוב עד לתאריך 29.11.\nלתיאום ושריון תאריך שלחו לי הודעה:\nשירה 0586684156",
+   "ts": 1795589014000,
+   "date": "2026-11-25",
+   "time": "08:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1Wrwjci30bSJmFba4t246NNVk57bEiDFS/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACF811805F1827184255BB15DEFDF58A_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1Wrwjci30bSJmFba4t246NNVk57bEiDFS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587684150"
+  },
+  {
+   "id": "A5F7013C807674925833DA1A715CBB05",
+   "sender": "שחר שאער",
+   "text": "",
+   "ts": 1795604417000,
+   "date": "2026-11-25",
+   "time": "13:00",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "278KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s7P8E08pFaCm_cswTedS7p8nvpP32H_C/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s7P8E08pFaCm_cswTedS7p8nvpP32H_C&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972547770757"
+  },
+  {
+   "id": "3A3E5C0E010524ADCD49",
+   "sender": "Vered Malichi",
+   "text": "",
+   "ts": 1795640689000,
+   "date": "2026-11-25",
+   "time": "23:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "353KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1vpT82BVEzAtG9j73kxQz_1sWCRHi96xI/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1vpT82BVEzAtG9j73kxQz_1sWCRHi96xI&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504462504"
+  },
+  {
+   "id": "3A23A47A45A425688AA5",
+   "sender": "Vered Malichi",
+   "text": "",
+   "ts": 1795640690000,
+   "date": "2026-11-25",
+   "time": "23:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "226KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eiBET_tVBqJbnWmLuRbhAPiqejrwjRnz/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eiBET_tVBqJbnWmLuRbhAPiqejrwjRnz&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504462504"
+  },
+  {
+   "id": "3A1FCCB51FDEA8963C72",
+   "sender": "Vered Malichi",
+   "text": "",
+   "ts": 1795640696000,
+   "date": "2026-11-25",
+   "time": "23:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "238KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18HqFmqJFu9HbMvyvcB7xpouP_sXsvu7g/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18HqFmqJFu9HbMvyvcB7xpouP_sXsvu7g&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504462504"
   }
  ]
 }

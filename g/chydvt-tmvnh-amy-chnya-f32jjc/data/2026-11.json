@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-24T06:53:56.767Z",
+ "updated": "2026-11-25T14:58:57.476Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -1458,6 +1458,57 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3EB0030BABDE82151E2950_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "AC0B653085F8243D4E96FDE46F951813",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קלה\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795589790000,
+   "date": "2026-11-25",
+   "time": "08:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "329KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1QmR6Q_-HFceuZR-DrnoYRxAbeO3g4Cpf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1QmR6Q_-HFceuZR-DrnoYRxAbeO3g4Cpf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB04C99ACF888D60A46B7",
+   "sender": "עמי חניא",
+   "text": "4 אותיות",
+   "ts": 1795595004000,
+   "date": "2026-11-25",
+   "time": "10:23",
+   "files": [],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0FF66847597A9414908",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: קשה\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795618710000,
+   "date": "2026-11-25",
+   "time": "16:58",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1B39_gt2fI6BuBsfdtCx1Oer4xnvTPsex/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1B39_gt2fI6BuBsfdtCx1Oer4xnvTPsex&sz=w1200"
     }
    ],
    "drive": null,

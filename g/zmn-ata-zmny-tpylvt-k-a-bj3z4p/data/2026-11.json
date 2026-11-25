@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "זמנ-אתא זמני תפילות -ק\"א🏛️",
- "updated": "2026-11-24T16:12:52.272Z",
+ "updated": "2026-11-25T06:40:40.005Z",
  "messages": [
   {
    "id": "AC5A93CF2ECC123E1E4D0B69E135230A",
@@ -1758,6 +1758,37 @@
      "path": "https://drive.google.com/file/d/1bYzUJb4WafeIzUzrODWsoxrK3DqfgFQ_/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1bYzUJb4WafeIzUzrODWsoxrK3DqfgFQ_&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "AC3040D7F9BC9CA6A954A20C7F449832",
+   "sender": "מרדכי",
+   "text": "*לרפואת ליאור חיים בן לואיזה* ולהבדיל - \n*לעילוי נשמת הרב איתמר שוורץ בן טובה*",
+   "ts": 1795588827000,
+   "date": "2026-11-25",
+   "time": "08:40",
+   "files": [],
+   "drive": null,
+   "phone": "972522822589"
+  },
+  {
+   "id": "ACA7306B5928AA38A501D07E4AF7CEF0",
+   "sender": "מרדכי",
+   "text": "",
+   "ts": 1795588827000,
+   "date": "2026-11-25",
+   "time": "08:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "204KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dlwlMLWXG5WeNGfK-NBJvBldT5MBCKd_/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dlwlMLWXG5WeNGfK-NBJvBldT5MBCKd_&sz=w1200"
     }
    ],
    "drive": null,

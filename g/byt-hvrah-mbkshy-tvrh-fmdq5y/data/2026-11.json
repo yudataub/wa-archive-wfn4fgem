@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית הוראה מבקשי תורה",
- "updated": "2026-11-24T05:14:45.608Z",
+ "updated": "2026-11-25T15:25:54.689Z",
  "messages": [
   {
    "id": "2A8AD7B8AE97E0E8468D",
@@ -44,6 +44,26 @@
    "date": "2026-11-24",
    "time": "07:14",
    "files": [],
+   "drive": null,
+   "phone": "972584433613"
+  },
+  {
+   "id": "2A77E986A54B57925A15",
+   "sender": "בית הוראה מבקשי תורה",
+   "text": "",
+   "ts": 1795620328000,
+   "date": "2026-11-25",
+   "time": "17:25",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "171KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Luy10Kl49Cb4U8amHPX-7df4Qgw5WadB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Luy10Kl49Cb4U8amHPX-7df4Qgw5WadB&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972584433613"
   }

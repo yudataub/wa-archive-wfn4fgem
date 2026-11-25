@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חומרים על חומש דברים",
- "updated": "2026-11-24T05:50:49.858Z",
+ "updated": "2026-11-25T19:37:04.679Z",
  "messages": [
   {
    "id": "AC32B8340E71EB6432DB6F5ABADB2704",
@@ -4193,6 +4193,91 @@
    "files": [],
    "drive": null,
    "phone": "972502123444"
+  },
+  {
+   "id": "AC5E0D59A2A3B2AA4D2A666E4AC69DB3",
+   "sender": "יצחק ינון סלאב",
+   "text": "",
+   "ts": 1795584409000,
+   "date": "2026-11-25",
+   "time": "07:26",
+   "files": [
+    {
+     "name": "שמואל ב פרק ט.pptx",
+     "size": "4.0MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1BKLCxjwe5B2Ht7xWWyafmIdIIKQavzjl/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "ACC23465341D36BD6751F6C9E13BAC17",
+   "sender": "Orit",
+   "text": "יש פרקים קודמים?",
+   "ts": 1795585225000,
+   "date": "2026-11-25",
+   "time": "07:40",
+   "files": [],
+   "drive": null,
+   "phone": "972584144182"
+  },
+  {
+   "id": "AC882CF634158E55797F4657716CB4B5",
+   "sender": "Orit",
+   "text": "תודה על השיתוף. זה מקסים",
+   "ts": 1795585228000,
+   "date": "2026-11-25",
+   "time": "07:40",
+   "files": [],
+   "drive": null,
+   "phone": "972584144182"
+  },
+  {
+   "id": "ACB1FFFD7A712248C3A8C9CF34ADA4AE",
+   "sender": "יצחק ינון סלאב",
+   "text": "בשמחה, \nכן, חפשי לפני",
+   "ts": 1795585927000,
+   "date": "2026-11-25",
+   "time": "07:52",
+   "files": [],
+   "drive": null,
+   "phone": "972585803058"
+  },
+  {
+   "id": "AC76713A09B12041C37AD259761CA529",
+   "sender": "אתי",
+   "text": "אני לא מצליחה לפתוח בטלפון..זה רק אצלי?",
+   "ts": 1795615032000,
+   "date": "2026-11-25",
+   "time": "15:57",
+   "files": [],
+   "drive": null,
+   "phone": "972526478257"
+  },
+  {
+   "id": "AC66ADBE378306B171B2655B11EAF5A1",
+   "sender": "שלומית",
+   "text": "מחפשת דף עבודה על תחילת פרשת ואתחנן",
+   "ts": 1795630817000,
+   "date": "2026-11-25",
+   "time": "20:20",
+   "files": [],
+   "drive": null,
+   "phone": "972526051661"
+  },
+  {
+   "id": "3A1E5D2667AEB3B45280",
+   "sender": "אמונה אדרי🌸",
+   "text": "ערב טוב,\nלפי הטבלה שבדוקס ראיתי שבפרק ד יש קישורים רק עד לפסוק ח\nהאם צריך ללמד את כל הפרק ?\nתודה🙏",
+   "ts": 1795635416000,
+   "date": "2026-11-25",
+   "time": "21:36",
+   "files": [],
+   "drive": null,
+   "phone": "972528403808"
   }
  ]
 }

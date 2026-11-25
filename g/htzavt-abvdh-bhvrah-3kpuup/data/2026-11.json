@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-22T20:02:30.511Z",
+ "updated": "2026-11-25T08:55:45.865Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -645,6 +645,26 @@
    ],
    "drive": null,
    "phone": "972547978315"
+  },
+  {
+   "id": "3A3AD4B4DA85717A2F35",
+   "sender": "Adi Zvieli",
+   "text": "https://sites.google.com/jerschools.org.il/hemedpz",
+   "ts": 1795596938000,
+   "date": "2026-11-25",
+   "time": "10:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "234KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1waFSkOYyXc5CREzmm79y6SFIM4eAFvSZ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1waFSkOYyXc5CREzmm79y6SFIM4eAFvSZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
   }
  ]
 }

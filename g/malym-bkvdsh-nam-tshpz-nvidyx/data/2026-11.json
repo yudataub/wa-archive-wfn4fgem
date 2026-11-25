@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מעלים בקודש - נעם תשפז",
- "updated": "2026-11-24T20:03:57.917Z",
+ "updated": "2026-11-25T20:02:26.476Z",
  "messages": [
   {
    "id": "3EB0DC284645E448C8CEE0",
@@ -768,6 +768,57 @@
      "path": "https://drive.google.com/file/d/1sJp_DJDk87cUyyepBdOHvjebm92ZoWwq/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1sJp_DJDk87cUyyepBdOHvjebm92ZoWwq&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972525802694"
+  },
+  {
+   "id": "3EB02012495883F046A499",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "למי שמעוניין",
+   "ts": 1795627950000,
+   "date": "2026-11-25",
+   "time": "19:32",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "A50F5D2F18B8ABFC23690713BC50A440",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "ברוך ה‘ מעולם לא היה כזאת הצלחה\n177 ילדים כבר השתתפו בפניני הפרשה!",
+   "ts": 1795630932000,
+   "date": "2026-11-25",
+   "time": "20:22",
+   "files": [],
+   "drive": null
+  },
+  {
+   "id": "3EB0FDD8FE7A1EDBF10965",
+   "sender": "חוברות אהבה ושמחה",
+   "text": "🌙 *סיכום יומי – צוות נעם* 🌙\n📆 יום רביעי, 25.11.2026\n━━━━━━━━━━━━\n\n*📚 לימודים וחומרים לכיתה*\n📝 להעביר בכיתות ה-ו את שאלות החזרה לחנוכה (50 שאלות): _שאלות חזרה\nחנוכה ה-ו - 50 שאלות.pdf_ – מי שמעוניינת, מהחומר ששיתף יהודה\n\n*🙋 בכיתות*\n🔎 עופרי אודי לא בכיתה מתחילת השעה הרביעית – מי שרואה אותה, להפנות\nאותה לכיתה *עכשיו*\n\n*🌟 נקודת אור מהיום*\nהצלחה גדולה בפניני הפרשה – כבר 177 ילדים השתתפו! 🎉\n\n━━━━━━━━━━━━\nערב טוב ולילה רגוע 💙",
+   "ts": 1795636938000,
+   "date": "2026-11-25",
+   "time": "22:02",
+   "files": [],
+   "drive": null,
+   "phone": "972525802694"
+  },
+  {
+   "id": "3EB0032BC19C46DC644A3A",
+   "sender": "חוברות אהבה ושמחה",
+   "text": "",
+   "ts": 1795636942000,
+   "date": "2026-11-25",
+   "time": "22:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "328KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Tzg0o_z-AR2Y63qdOwadF50LzBSG72PM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Tzg0o_z-AR2Y63qdOwadF50LzBSG72PM&sz=w1200"
     }
    ],
    "drive": null,

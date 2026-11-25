@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מובילי קבוצות \"חומר פתוח\"",
- "updated": "2026-11-14T22:30:55.325Z",
+ "updated": "2026-11-25T08:51:45.777Z",
  "messages": [
   {
    "id": "3EB0088CC12A8295B24366",
@@ -408,6 +408,70 @@
    "files": [],
    "drive": null,
    "phone": "972544477081"
+  },
+  {
+   "id": "3EB000D83B59D5D487AC67",
+   "sender": "חפציה",
+   "text": "עדכון מספרים - הכפלה של המון מדדים לעומת לפני חודש. \nמה שמוזר - 20% כניסות מהונגקונג ו4% מסין...\nאני משערת שזה קשור לאינסטינקט וטאב איכשהו אבל לא ברור מה בדיוק קרה",
+   "ts": 1795596056000,
+   "date": "2026-11-25",
+   "time": "10:40",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "146KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1BlA8uFHb87ssYt3-_mBaYSp41osHOPV7/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1BlA8uFHb87ssYt3-_mBaYSp41osHOPV7&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC9B61C5515D2725B86FB9CFBF4A96F7",
+   "sender": "Naama Danino",
+   "text": "אולי חומרים במתמטיקה מושכים אותם.",
+   "ts": 1795596142000,
+   "date": "2026-11-25",
+   "time": "10:42",
+   "files": [],
+   "drive": null,
+   "phone": "972556677629"
+  },
+  {
+   "id": "AC5A0EFCCC64F93DD6E3542DBDDBE474",
+   "sender": "Naama Danino",
+   "text": "או באנגלית",
+   "ts": 1795596170000,
+   "date": "2026-11-25",
+   "time": "10:42",
+   "files": [],
+   "drive": null,
+   "phone": "972556677629"
+  },
+  {
+   "id": "3EB0AEB32D01DD78EA3319",
+   "sender": "חפציה",
+   "text": "אני חושבת שהכניסות של הסוכנים של המורים בישראל נחשבות מסין 🙂",
+   "ts": 1795596684000,
+   "date": "2026-11-25",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972544477081"
+  },
+  {
+   "id": "AC6C38E2D8646881D60BE90E494DD70C",
+   "sender": "Naama Danino",
+   "text": "אהה...\nהבנתי.",
+   "ts": 1795596704000,
+   "date": "2026-11-25",
+   "time": "10:51",
+   "files": [],
+   "drive": null,
+   "phone": "972556677629"
   }
  ]
 }

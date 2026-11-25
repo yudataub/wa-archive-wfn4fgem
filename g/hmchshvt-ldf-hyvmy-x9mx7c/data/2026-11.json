@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-24T03:56:34.341Z",
+ "updated": "2026-11-25T05:02:39.955Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -981,6 +981,26 @@
      "path": "https://drive.google.com/file/d/1sUOa2K974U_zyqn6Ll0fj0fHhKhcEujZ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1sUOa2K974U_zyqn6Ll0fj0fHhKhcEujZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3AF856ED0AF76ECC8DC9",
+   "sender": ".",
+   "text": "״צדקתך כהררי אל״ (ערכין ח, ב).",
+   "ts": 1795582927000,
+   "date": "2026-11-25",
+   "time": "07:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "107KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1gsWXWrtnwMLWbJ_H4sgk31hpLHCgY2rn/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1gsWXWrtnwMLWbJ_H4sgk31hpLHCgY2rn&sz=w1200"
     }
    ],
    "drive": null,

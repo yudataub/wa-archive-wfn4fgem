@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-24T18:46:01.054Z",
+ "updated": "2026-11-25T21:07:02.938Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -2929,6 +2929,266 @@
    ],
    "drive": null,
    "phone": "972546781939"
+  },
+  {
+   "id": "3AE1C126448A04887C23",
+   "sender": "חיה לוי",
+   "text": "1-מצגת ושאלות\n2-רביעיות\n3-תפזורת עם שאלות\n4- התאמת להבה לנר (מצטרפת לתודה למי ששלחה)",
+   "ts": 1795600164000,
+   "date": "2026-11-25",
+   "time": "11:49",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "76KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3AE1C126448A04887C23_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587055508"
+  },
+  {
+   "id": "AC2A7B9B9586CD1DF4C409E8B07504E1",
+   "sender": "הכל לטובה",
+   "text": "",
+   "ts": 1795607522000,
+   "date": "2026-11-25",
+   "time": "13:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1wirtM_3mVoRhhLew_L3XachX2Hoz8eVS/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1wirtM_3mVoRhhLew_L3XachX2Hoz8eVS&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526789719"
+  },
+  {
+   "id": "AC6CC6D61734AC6E5F7AB044DA9FED7D",
+   "sender": "הכל לטובה",
+   "text": "",
+   "ts": 1795607522000,
+   "date": "2026-11-25",
+   "time": "13:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "307KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/11WrJtPkAOzXbFSbV7bNWTQ4u-Eoqva6O/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=11WrJtPkAOzXbFSbV7bNWTQ4u-Eoqva6O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526789719"
+  },
+  {
+   "id": "ACBD62454CED717E65E413ED738338F7",
+   "sender": "הכל לטובה",
+   "text": "לומדים בחברותות, שאלות אמרקיות.",
+   "ts": 1795607658000,
+   "date": "2026-11-25",
+   "time": "13:54",
+   "files": [],
+   "drive": null,
+   "phone": "972526789719"
+  },
+  {
+   "id": "AC78939AFDE95E760350B4858C560F77",
+   "sender": "הכל לטובה",
+   "text": "",
+   "ts": 1795607705000,
+   "date": "2026-11-25",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1whCZis9s1nYlhaf1m9VJFohJGquqD6eV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1whCZis9s1nYlhaf1m9VJFohJGquqD6eV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526789719"
+  },
+  {
+   "id": "ACAADBA56665E5CED7C2B1974BEBA206",
+   "sender": "הכל לטובה",
+   "text": "",
+   "ts": 1795607705000,
+   "date": "2026-11-25",
+   "time": "13:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "167KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1yPW2jxeIbRt_Qb0Jq7FNBrnT1WLwL8uB/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1yPW2jxeIbRt_Qb0Jq7FNBrnT1WLwL8uB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526789719"
+  },
+  {
+   "id": "AC3410416162DBD5475AFCB2F4B5CBF2",
+   "sender": "הכל לטובה",
+   "text": "לומדים הלכות חנוכה חידות משחקים",
+   "ts": 1795607971000,
+   "date": "2026-11-25",
+   "time": "13:59",
+   "files": [],
+   "drive": null,
+   "phone": "972526789719"
+  },
+  {
+   "id": "AC520F338CF0187E4FEE926E2A6298B6",
+   "sender": "יהודית פריימן",
+   "text": "התלמידות בפתירת תשבץ לסיום נושא השבת. משימה למפגש ראשון",
+   "ts": 1795629335000,
+   "date": "2026-11-25",
+   "time": "19:55",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "316KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bEYPYVXbcRPyIINK3qodH2XKif_3dqCd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bEYPYVXbcRPyIINK3qodH2XKif_3dqCd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972526920945"
+  },
+  {
+   "id": "AC22CEBD7F0F6DCCD52843D42EDD4F6B",
+   "sender": "Yaffa Chaya",
+   "text": "",
+   "ts": 1795633388000,
+   "date": "2026-11-25",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "69KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/AC22CEBD7F0F6DCCD52843D42EDD4F6B_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542563696"
+  },
+  {
+   "id": "AC74D8D7C3C692505F5F5C164DE3DF73",
+   "sender": "Yaffa Chaya",
+   "text": "",
+   "ts": 1795633389000,
+   "date": "2026-11-25",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZrIqdMDkMirwYT1gWmbzA9KyiKC9Jo8r/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZrIqdMDkMirwYT1gWmbzA9KyiKC9Jo8r&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542563696"
+  },
+  {
+   "id": "AC7A80E0DCE9B44384EC716C5D7F10EB",
+   "sender": "Yaffa Chaya",
+   "text": "",
+   "ts": 1795633390000,
+   "date": "2026-11-25",
+   "time": "21:03",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "159KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1W37xj2ZLQePhGct-GY1ajQlfQRL7Rgoc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1W37xj2ZLQePhGct-GY1ajQlfQRL7Rgoc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972542563696"
+  },
+  {
+   "id": "ACBB92018B5EA5C02F01A7764DAB4270",
+   "sender": "Yaffa Chaya",
+   "text": "תפזורת בהלכות חנוכה ופייענוח כתב גימטריה עם  מסר חמוד  על חנוכה",
+   "ts": 1795633432000,
+   "date": "2026-11-25",
+   "time": "21:03",
+   "files": [],
+   "drive": null,
+   "phone": "972542563696"
+  },
+  {
+   "id": "AC01453E43FCD994585A44D9F6839590",
+   "sender": "מיכל😇",
+   "text": "מקסים! אפשר קבצים?",
+   "ts": 1795639154000,
+   "date": "2026-11-25",
+   "time": "22:39",
+   "files": [],
+   "drive": null,
+   "phone": "972528987298"
+  },
+  {
+   "id": "AC0686ED9C395E1DF61F85C80C2238B9",
+   "sender": "Yaffa Chaya",
+   "text": "",
+   "ts": 1795640765000,
+   "date": "2026-11-25",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "תפזורת הלכות חנוכה.docx",
+     "size": "148KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1gL2FiSg5sxS4kcbOTaLullUzcZIZJVyQ/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542563696"
+  },
+  {
+   "id": "AC5C0D21AB8BE3069FF65F19FC9B7525",
+   "sender": "Yaffa Chaya",
+   "text": "",
+   "ts": 1795640797000,
+   "date": "2026-11-25",
+   "time": "23:06",
+   "files": [
+    {
+     "name": "קוד גימטריה על חנוכה.docx",
+     "size": "169KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1uleud3Vv4XN2Gydi03sPsYPTedEGtKZm/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542563696"
   }
  ]
 }

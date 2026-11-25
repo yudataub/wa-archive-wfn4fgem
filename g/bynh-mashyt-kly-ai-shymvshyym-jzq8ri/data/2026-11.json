@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בינה מעשית- כלי Ai שימושיים 🎣",
- "updated": "2026-11-24T13:12:03.047Z",
+ "updated": "2026-11-25T13:20:13.751Z",
  "messages": [
   {
    "id": "AC45BC7F2BA4718CFB2288B587E728FB",
@@ -103,6 +103,27 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3AC1B8632FAA9B800748_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972528672323"
+  },
+  {
+   "id": "3A9AB9E462EBB3CD1786",
+   "sender": "Noa Dayfani",
+   "text": "*איך הופכים כתב יד לגופן במחשב?*\nבסרטון אני מראה איך עושים את זה, שלב אחר שלב.\n\n🎬 להסבר המלא:\nhttps://youtube.com/shorts/Y_zvh5opYSk?si=cNAkVfZWk-ke9rGY\n\n🔗 לכלי מהסרטון:\nhttps://hark.com\n\n💬 להצטרפות לקבוצת ״בינה מעשית״ שלי:\n\n🌐 האתר שלי:\nhttps://maker-ai-site.lovable.app/\n\n📺 הירשמו לערוץ היוטיוב שלי לעוד הדרכות:\nhttps://youtube.com/@noa-dayfani-ai\n\n📢 לערוץ שלי בוואטסאפ:\nhttps://whatsapp.com/channel/0029Vb6B6oj1iUxUSiw0sb13",
+   "ts": 1795612779000,
+   "date": "2026-11-25",
+   "time": "15:19",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "676KB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1orYwGcCUiSIWFLODo2EIdZXpIkVF30wH/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3A9AB9E462EBB3CD1786_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1orYwGcCUiSIWFLODo2EIdZXpIkVF30wH&sz=w1200"
     }
    ],
    "drive": null,

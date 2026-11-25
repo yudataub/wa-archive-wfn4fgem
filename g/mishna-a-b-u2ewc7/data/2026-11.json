@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר כתות א'-ב'",
- "updated": "2026-11-24T07:21:34.062Z",
+ "updated": "2026-11-25T08:59:45.886Z",
  "messages": [
   {
    "id": "AC455B58B00753EECEDFE00BC1AFB4A8",
@@ -405,6 +405,93 @@
      "skipped": ""
     }
    ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC89902C83DAD509F96812D508F3172B",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1795597173000,
+   "date": "2026-11-25",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "פרק ג מצוירות פרקי אבות.pdf",
+     "size": "10.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/18G5CfwZtm_K5oo0zFZoj2cKLy6q1wJn3/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC4C892123252A9B496567D5D72810BF",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1795597174000,
+   "date": "2026-11-25",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "דפי עבודה פרק א פרקי אבות.pdf",
+     "size": "5.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1JaipwVIXID3-rh-WHCuuAf6x6YAh_fT_/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "AC4A17722B7F938000DE023504C471A8",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1795597175000,
+   "date": "2026-11-25",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "פרק א מצויר פרקי אבות.pdf",
+     "size": "11.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1G158zgPvcxX-KUhuHRbEqtOg27XBO0ua/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "ACACC622EE11D67FA4C38A469496705C",
+   "sender": "קוביטשעק",
+   "text": "",
+   "ts": 1795597175000,
+   "date": "2026-11-25",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "דפי עבודה פרק ג פרקי אבות.pdf",
+     "size": "10.6MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1KS6KKQECbzTFrvhVxmpCP3bla7OS8doa/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972542898770"
+  },
+  {
+   "id": "ACC9BEB1A6CE7D0D91EF4E9CF7C70DFB",
+   "sender": "קוביטשעק",
+   "text": "https://drive.google.com/drive/folders/1_xmSISUeFY4JF1th6u957RLWrra_dqNW",
+   "ts": 1795597175000,
+   "date": "2026-11-25",
+   "time": "10:59",
+   "files": [],
    "drive": null,
    "phone": "972542898770"
   }

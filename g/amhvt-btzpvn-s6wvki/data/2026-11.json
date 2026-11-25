@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "אמהות בצפון🥰",
- "updated": "2026-11-18T08:09:45.480Z",
+ "updated": "2026-11-25T08:38:15.602Z",
  "messages": [
   {
    "id": "A575659E9339E808A3B73990A86C6075",
@@ -83,6 +83,37 @@
      "thumb": "https://drive.google.com/thumbnail?id=1dO2NHPPfVAjyLOAsxA-aAWKP60hlh0S7&sz=w1200"
     }
    ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5DF49F87B83B0B9B480CEA8849B401D",
+   "sender": "תמי",
+   "text": "חברי המועדון של קניון שער הצפון נהנים מכניסה חופשית וללא עלות למתחמי בבילון קידס וג'אמפ! 👽🚀\n\nבואו להוציא אנרגיות עם ג'ימבורי ענק ומתחם טרמפולינות מטורף 🤩\n\n🗓️ היום! ובכל יום רביעי במהלך חודש נובמבר | בין השעות 16:00-18:00\nלהצטרפות למועדון הלקוחות ללא עלות ומימוש ההטבה >> https://lp.smoove.io/i31e\n\n📍 בבילון פארק | קניון שער הצפון \nבכפוף לתקנון\n__________\n\n*לעוד פעילויות חינם כנסו לקבוצה*",
+   "ts": 1795595875000,
+   "date": "2026-11-25",
+   "time": "10:37",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "246KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1S_42PskPF_50RgO3I29KJzdLtl7po97O/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1S_42PskPF_50RgO3I29KJzdLtl7po97O&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972559326761"
+  },
+  {
+   "id": "A5DB55C1D117966B4060107B4B0E89BC",
+   "sender": "תמי",
+   "text": "*יותר קרוב אפרסם פעילויות חינם לילדים בחנוכה*",
+   "ts": 1795595891000,
+   "date": "2026-11-25",
+   "time": "10:38",
+   "files": [],
    "drive": null,
    "phone": "972559326761"
   }

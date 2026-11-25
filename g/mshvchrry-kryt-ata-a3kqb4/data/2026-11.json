@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משוחררי קרית אתא",
- "updated": "2026-11-24T13:27:52.465Z",
+ "updated": "2026-11-25T13:27:30.523Z",
  "messages": [
   {
    "id": "3EB090C7CAEA25E50414A5",
@@ -284,6 +284,26 @@
      "path": "https://drive.google.com/file/d/1IGZGpWyQ7r7QtbnppI21z3nAxPbhwe9n/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1IGZGpWyQ7r7QtbnppI21z3nAxPbhwe9n&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972528114222"
+  },
+  {
+   "id": "3EB0C895395A980DD3CC76",
+   "sender": "רכזת חיילים משוחררים",
+   "text": "📢 *חיילים משוחררים ומסיימי שירות לאומי,* \n*שירות התעסוקה מגיע לקרית אתא לפגישות אישיות. במטרה לסייע במציאת עבודה ובהתאמת הכשרות מקצועיות.*\n\n🗓️ מועד הפגישות: יום שני, 04/01\n ⏰ שעות: 16:00-18:00\n 📍 מיקום: מרכז צעירים, מורדי הגטאות 24.\n\nהנכם מוזמנים להירשם ולשבץ את עצמכם בטבלת השעות בקישור הבא:\n\nhttps://docs.google.com/spreadsheets/d/1PyNgSvdgxrEI5RBfqP3iaLeKwngyLUmsQDkPAq0wEPQ/edit?usp=sharing\n\nנשמח לראותכם!",
+   "ts": 1795613233000,
+   "date": "2026-11-25",
+   "time": "15:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "255KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1qt6C1ABnWUIPQKEPyQamJgAq7lnSYIvG/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1qt6C1ABnWUIPQKEPyQamJgAq7lnSYIvG&sz=w1200"
     }
    ],
    "drive": null,
