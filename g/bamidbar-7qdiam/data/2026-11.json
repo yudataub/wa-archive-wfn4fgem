@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-25T13:36:30.606Z",
+ "updated": "2026-11-25T23:05:51.354Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -4641,6 +4641,109 @@
    ],
    "drive": null,
    "phone": "972523003352"
+  },
+  {
+   "id": "AC673B3960F6C7DE09DEB2F3E6D44873",
+   "sender": "Saradanin",
+   "text": "יש למישהו שאלות חזרה למבחן בתורה על פרשת במדבר,נשא?🙏",
+   "ts": 1795641734000,
+   "date": "2026-11-25",
+   "time": "23:22",
+   "files": [],
+   "drive": null,
+   "phone": "972526715200"
+  },
+  {
+   "id": "ACCFF215DE58B4865C915ADE6D48A6D6",
+   "sender": "Ayelet Finish",
+   "text": "אשמח למצגת עם תמונות לפרק חנוכת המשכן🙏🏻\n\nבנוסף תמונה טובה של סדר השבטים סביב המשכן להדפסה צבעונית ללוח תורה",
+   "ts": 1795644670000,
+   "date": "2026-11-26",
+   "time": "00:11",
+   "files": [],
+   "drive": null,
+   "phone": "972526059589"
+  },
+  {
+   "id": "AC93D5DBF9C5AC73484563AED43D97D3",
+   "sender": "אשר רפאל מיימון",
+   "text": "",
+   "ts": 1795645097000,
+   "date": "2026-11-26",
+   "time": "00:18",
+   "files": [
+    {
+     "name": "מצגת פרשת במדבר - מתן מרמלשטיין.ppt",
+     "size": "4.9MB",
+     "type": "application/vnd.ms-powerpoint",
+     "path": "https://docs.google.com/presentation/d/1_ss7JfmyP-jfuB-qwPxgatUuY4goHTgi/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "AC543B79C5E99C6647F5CF1B710C3620",
+   "sender": "אשר רפאל מיימון",
+   "text": "מעלים הכול לגימניי ומבקשים שיעשה הכול צבעוני",
+   "ts": 1795645102000,
+   "date": "2026-11-26",
+   "time": "00:18",
+   "files": [],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "AC0822B4BF5409E9625820AF7B0C25F7",
+   "sender": "אשר לב יונה",
+   "text": "אני יצרתי בPPT עדיין אפשר לערוך שזה נוח.",
+   "ts": 1795647131000,
+   "date": "2026-11-26",
+   "time": "00:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1V_sdfFjnl07e4LB3O-0QMa2iN7QrZ5ah/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1V_sdfFjnl07e4LB3O-0QMa2iN7QrZ5ah&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556608835"
+  },
+  {
+   "id": "AC07C561C14E998F6348E8CA7A228B50",
+   "sender": "אשר לב יונה",
+   "text": "",
+   "ts": 1795647147000,
+   "date": "2026-11-26",
+   "time": "00:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "249KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1ZLo2oUvCJJOnW_P1Ytg9-WKVwBszE9Bc/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1ZLo2oUvCJJOnW_P1Ytg9-WKVwBszE9Bc&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972556608835"
+  },
+  {
+   "id": "AC2D9674C8F8D122DCF02CA9B1EE0854",
+   "sender": "Saradanin",
+   "text": "יש תשובות למבחן זה?",
+   "ts": 1795647942000,
+   "date": "2026-11-26",
+   "time": "01:05",
+   "files": [],
+   "drive": null,
+   "phone": "972526715200"
   }
  ]
 }

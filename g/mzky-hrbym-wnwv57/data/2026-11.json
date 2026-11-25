@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מזכי הרבים",
- "updated": "2026-11-25T20:02:56.478Z",
+ "updated": "2026-11-25T21:24:03.164Z",
  "messages": [
   {
    "id": "A596A5EC8D4EA07D8B3151B49701CD59",
@@ -4390,7 +4390,8 @@
      "path": "https://drive.google.com/file/d/1PC8516unl9AWObcRhCLWdYocqC6eVGS6/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACE2392BEF7BDEBEB8C6F9D92A6591D7_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1PC8516unl9AWObcRhCLWdYocqC6eVGS6&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1PC8516unl9AWObcRhCLWdYocqC6eVGS6&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-mzky-hrbym-wnwv57/v/2026-11/ACE2392BEF7BDEBEB8C6F9D92A6591D7_0.mp4"
     }
    ],
    "drive": null,
@@ -4439,6 +4440,50 @@
    "files": [],
    "drive": null,
    "phone": "972527188781"
+  },
+  {
+   "id": "ACD8C6BE6171EDA3F09E3A2CC5C6C161",
+   "sender": "עוז ברזילי",
+   "text": "רפואה שלמה מהרופא הגדול",
+   "ts": 1795641482000,
+   "date": "2026-11-25",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972524325624"
+  },
+  {
+   "id": "A57F97DB3A199315D4B2085F32232573",
+   "sender": "שמואל קורייב",
+   "text": "אשתו של רבינו מיכאל?😵",
+   "ts": 1795641538000,
+   "date": "2026-11-25",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972527200640"
+  },
+  {
+   "id": "AC3C03D0B386FC510A511F33303DB2F9",
+   "sender": "אהרון נעים ’ערכים’",
+   "text": "אכן",
+   "ts": 1795641665000,
+   "date": "2026-11-25",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "phone": "972546731620"
+  },
+  {
+   "id": "ACED270145D11303FCC4DF6C3C80B65C",
+   "sender": "👑",
+   "text": "כן",
+   "ts": 1795641840000,
+   "date": "2026-11-25",
+   "time": "23:24",
+   "files": [],
+   "drive": null,
+   "phone": "972515009000"
   }
  ]
 }

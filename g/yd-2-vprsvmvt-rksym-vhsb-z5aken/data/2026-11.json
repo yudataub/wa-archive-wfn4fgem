@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יד 2 ופרסומות רכסים והסביבה",
- "updated": "2026-11-25T21:00:02.849Z",
+ "updated": "2026-11-25T21:52:10.683Z",
  "messages": [
   {
    "id": "A54072AD19A1BB0FEBE7DAB6284AE906",
@@ -23910,7 +23910,8 @@
      "path": "https://drive.google.com/file/d/1z1kod4gG7FhAGKDaMUMpccVMZHxRFHW8/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A5FA5A51EFC44033CD31D9CB60A9C2F6_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1z1kod4gG7FhAGKDaMUMpccVMZHxRFHW8&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1z1kod4gG7FhAGKDaMUMpccVMZHxRFHW8&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/A5FA5A51EFC44033CD31D9CB60A9C2F6_0.mp4"
     }
    ],
    "drive": null,
@@ -23973,7 +23974,8 @@
      "path": "https://drive.google.com/file/d/1v3yihS2s37ykNoXzayDtNu12ftY7sXS7/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/2AB652149F1EEBE6E389_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1v3yihS2s37ykNoXzayDtNu12ftY7sXS7&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1v3yihS2s37ykNoXzayDtNu12ftY7sXS7&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-yd-2-vprsvmvt-rksym-vhsb-z5aken-2/v/2026-11/2AB652149F1EEBE6E389_0.mp4"
     }
    ],
    "drive": null,
@@ -24920,6 +24922,25 @@
    ],
    "drive": null,
    "phone": "972527632787"
+  },
+  {
+   "id": "A5B37E76574D2D329FF04841A890AA7D",
+   "sender": "מאיר מוגרבי",
+   "text": "*למכירה מחשב נייד DELL איכותי במצב שמור כמו חדש* \n\nמעבד Intel Core i5\n\nמסך 14 אינץ'\n\nזיכרון RAM בנפח 8GB\n\nכונן SSD מהיר בנפח 256GB\n\nסוללה חדשה\n\nמקלדת מוארת\n\nמותקן ווינדוס\n\nאופיס ותוכנות בסיסיות\n\n *לפרטים: 054-6084870*",
+   "ts": 1795643527000,
+   "date": "2026-11-25",
+   "time": "23:52",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "49KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/A5B37E76574D2D329FF04841A890AA7D_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972546084870"
   }
  ]
 }

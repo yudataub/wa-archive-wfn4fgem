@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-25T20:59:32.848Z",
+ "updated": "2026-11-25T21:58:10.784Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -8653,7 +8653,8 @@
      "path": "https://drive.google.com/file/d/14-YFORr9y_H1r-FAUuZsQcvuJGFg6RA_/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACA6D1A4FFEDD051263EC661861ED634_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=14-YFORr9y_H1r-FAUuZsQcvuJGFg6RA_&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=14-YFORr9y_H1r-FAUuZsQcvuJGFg6RA_&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-lvch-hchsd-shl-rksym-tjakqr/v/2026-11/ACA6D1A4FFEDD051263EC661861ED634_0.mp4"
     }
    ],
    "drive": null,
@@ -8793,6 +8794,39 @@
    ],
    "drive": null,
    "phone": "972527632787"
+  },
+  {
+   "id": "A596AF357F36CF97EE59190F06A6CA2E",
+   "sender": "אברהם בורודיאנסקי",
+   "text": "יש נהג לנסיעה מבית חולים כרמל לרכסים עכשיו",
+   "ts": 1795641687000,
+   "date": "2026-11-25",
+   "time": "23:21",
+   "files": [],
+   "drive": null,
+   "phone": "972507333664"
+  },
+  {
+   "id": "A5EC699A5C0DBFC5DD5A45218303F72F",
+   "sender": "אברהם בורודיאנסקי",
+   "text": "בתשלום",
+   "ts": 1795642556000,
+   "date": "2026-11-25",
+   "time": "23:35",
+   "files": [],
+   "drive": null,
+   "phone": "972507333664"
+  },
+  {
+   "id": "ACF912191DCDFFCDF0AE6D6FC6EBD356",
+   "sender": "אליעזר",
+   "text": "https://new.tehilimyahad.com/mr.jsp?r=5Dg52drmgoO",
+   "ts": 1795643867000,
+   "date": "2026-11-25",
+   "time": "23:57",
+   "files": [],
+   "drive": null,
+   "phone": "972545512193"
   }
  ]
 }
