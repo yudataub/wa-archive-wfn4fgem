@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לוח החסד של רכסים",
- "updated": "2026-11-26T20:28:01.770Z",
+ "updated": "2026-11-26T21:32:09.799Z",
  "messages": [
   {
    "id": "AC65353DCF42E0F5D847351D086EED1A",
@@ -9146,6 +9146,68 @@
    "files": [],
    "drive": null,
    "phone": "972527192102"
+  },
+  {
+   "id": "ACC536BF526BBA95FF4C255D58DB28E1",
+   "sender": "גרשון",
+   "text": "מחר בבוקר \nמתי יש אוטובוס מירושלים לרכסים?\nואיזה קו?",
+   "ts": 1795727445000,
+   "date": "2026-11-26",
+   "time": "23:10",
+   "files": [],
+   "drive": null,
+   "phone": "972533131331"
+  },
+  {
+   "id": "3EB06E6C6F8EB29F39CC31",
+   "sender": "מני",
+   "text": "יש בכניסה לרכסים מאחורי התחנה מזוודה יש במקום חבלן משטרתי אם אתם מכירים מישהו ששכח מזוודה כדאי שיבוא מהר...",
+   "ts": 1795727936000,
+   "date": "2026-11-26",
+   "time": "23:18",
+   "files": [],
+   "drive": null,
+   "phone": "972546514127"
+  },
+  {
+   "id": "AC2F167075BA47CC782A21DCBCF8FCA8",
+   "sender": "פינחס ברויאר",
+   "text": "",
+   "ts": 1795728722000,
+   "date": "2026-11-26",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "124KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18Tha5LmqhRpFuPnzq_wUD3Lsu9_duqdQ/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18Tha5LmqhRpFuPnzq_wUD3Lsu9_duqdQ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548455693"
+  },
+  {
+   "id": "ACF00A3EC714857168D7A6CC1F1E6198",
+   "sender": "פינחס ברויאר",
+   "text": "",
+   "ts": 1795728722000,
+   "date": "2026-11-26",
+   "time": "23:32",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "109KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18X6mKfUvx61qCEPiIfAK3RLGzyRWiW8u/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18X6mKfUvx61qCEPiIfAK3RLGzyRWiW8u&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548455693"
   }
  ]
 }

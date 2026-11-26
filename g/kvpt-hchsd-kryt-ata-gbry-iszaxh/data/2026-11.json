@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קופת החסד קרית אתא - גברים",
- "updated": "2026-11-26T20:55:02.213Z",
+ "updated": "2026-11-26T22:04:48.357Z",
  "messages": [
   {
    "id": "3A537C1837B2A880F4C8",
@@ -2328,7 +2328,8 @@
      "path": "https://drive.google.com/file/d/1V6VKaIfeOzdyT3ZKiRY32QnQDriOmtDD/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/A524BE0F2D2E619A3317FEFD70A780D8_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1V6VKaIfeOzdyT3ZKiRY32QnQDriOmtDD&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1V6VKaIfeOzdyT3ZKiRY32QnQDriOmtDD&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-kvpt-hchsd-kryt-ata-gbry-iszaxh/v/2026-11/A524BE0F2D2E619A3317FEFD70A780D8_0.mp4"
     }
    ],
    "drive": null,
@@ -2445,6 +2446,26 @@
    "files": [],
    "drive": null,
    "phone": "972527617538"
+  },
+  {
+   "id": "A5278A1C55EFB3E9B8E18818ECACB9A2",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "בכל סופ”ש מכירה קבועה של עוגות שמרים ומארזי עוגיות לכבוד שבת קודש\n\nחדש!! חדש!! כובאנה רכה ועסיסית - רק להניח על הפלטה, ולהגיש רותח!!\n\nחילבה קצפית וטעימה \n\nהמלאי מוגבל!!\n\nהמכירה מתקיימת בכל יום שישי ברחבת בית הכנסת הגדול רחוב המייסדים 15 קריית אתא. בין השעות 08:00 ל- 10:30\n\nכמובן שניתן להזמין ולאסוף גם מחנות המפעל 😉 הרצל 39 קרית אתא\nבתיאום טלפוני 052-766-3682 \n\nמתקדמים בשבילכם!! ניתן ללחוץ על הקישור הבא ולהזמין בקלות\nhttps://wa.me/message/RHB6MXX3CJAWF1",
+   "ts": 1795730669000,
+   "date": "2026-11-27",
+   "time": "00:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MPFLwE-z4dyzXqmtClVA0ckSf3HjRdxf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MPFLwE-z4dyzXqmtClVA0ckSf3HjRdxf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }

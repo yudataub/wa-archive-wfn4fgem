@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "רבני בי\"ס",
- "updated": "2026-11-26T20:43:01.998Z",
+ "updated": "2026-11-26T22:11:18.430Z",
  "messages": [
   {
    "id": "A5AF650F80AEA0198E59FF2B86ACA998",
@@ -7914,6 +7914,56 @@
    ],
    "drive": null,
    "phone": "972508733084"
+  },
+  {
+   "id": "ACFCDC36FB1B4B7053FF440E987EBF41",
+   "sender": "אריה ליפו",
+   "text": "https://youtube.com/shorts/d4auFD9ur3o?si=A1mjCvxsGdZYTERe",
+   "ts": 1795728407000,
+   "date": "2026-11-26",
+   "time": "23:26",
+   "files": [],
+   "drive": null,
+   "phone": "972586733866"
+  },
+  {
+   "id": "ACFD5EB242EA04BB6C80961817E17B9A",
+   "sender": "אריה ליפו",
+   "text": "אבד כהן חסיד מן הארץ",
+   "ts": 1795728447000,
+   "date": "2026-11-26",
+   "time": "23:27",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "309KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s7-3o57iAvqOderNXojgwTilqUXKP17e/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s7-3o57iAvqOderNXojgwTilqUXKP17e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972586733866"
+  },
+  {
+   "id": "ACE6E0BBE47AD536AC44B270AF9B5771",
+   "sender": "נתן",
+   "text": "לימוד הורים וילדים לכבוד יום ההוקרה לחיילי צה\"ל",
+   "ts": 1795731050000,
+   "date": "2026-11-27",
+   "time": "00:10",
+   "files": [
+    {
+     "name": "לימוד הורים וילדים יום ההוקר לחיילים.pdf",
+     "size": "59KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1EfjVYPMhvOQ2QFXnvCaC1I9Bk8zTIQbj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972502640660"
   }
  ]
 }

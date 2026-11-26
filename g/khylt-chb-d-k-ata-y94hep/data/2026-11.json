@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-25T06:36:09.987Z",
+ "updated": "2026-11-26T21:43:10.003Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -2602,6 +2602,26 @@
     }
    ],
    "drive": null
+  },
+  {
+   "id": "AC3698C3B2B58305789ED2D4E053C76D",
+   "sender": "תומר וירט",
+   "text": "מכתב הרבנים - נגד הצטרפות לממשלת שמאל",
+   "ts": 1795729364000,
+   "date": "2026-11-26",
+   "time": "23:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GFovPQZ0Tb5HzV-pez-MUaCH0bKD8uZr/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GFovPQZ0Tb5HzV-pez-MUaCH0bKD8uZr&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507146770"
   }
  ]
 }

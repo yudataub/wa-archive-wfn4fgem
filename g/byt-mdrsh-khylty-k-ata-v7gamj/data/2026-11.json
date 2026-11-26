@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "🕎בית מדרש קהילתי ק.אתא✡️",
- "updated": "2026-11-26T19:50:02.929Z",
+ "updated": "2026-11-26T22:04:48.335Z",
  "messages": [
   {
    "id": "AC766E9745AEAD82DE14821E17AEB47A",
@@ -3622,7 +3622,8 @@
      "path": "https://drive.google.com/file/d/1BxZc5Mbpkj3plNTzQqcGPDoGyIW_ln9R/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/AC339E46E4A3C1B695B8525283660B71_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1BxZc5Mbpkj3plNTzQqcGPDoGyIW_ln9R&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1BxZc5Mbpkj3plNTzQqcGPDoGyIW_ln9R&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/AC339E46E4A3C1B695B8525283660B71_0.mp4"
     }
    ],
    "drive": null,
@@ -3715,7 +3716,8 @@
      "path": "https://drive.google.com/file/d/1UraqbCnusS6WrxPnJfbiF7uT33zoANqh/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/3EB0BD305D65FD3E327156_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1UraqbCnusS6WrxPnJfbiF7uT33zoANqh&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1UraqbCnusS6WrxPnJfbiF7uT33zoANqh&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/3EB0BD305D65FD3E327156_0.mp4"
     }
    ],
    "drive": null,
@@ -3736,7 +3738,8 @@
      "path": "https://drive.google.com/file/d/1_gUAHUg9IAV0Q5dPiHLW3wuACEPOC6AZ/view?usp=drivesdk",
      "skipped": "",
      "spool": "2026-11/ACEDBD72DB61840DBDAE30AF4D5CAAD9_0.mp4",
-     "thumb": "https://drive.google.com/thumbnail?id=1_gUAHUg9IAV0Q5dPiHLW3wuACEPOC6AZ&sz=w1200"
+     "thumb": "https://drive.google.com/thumbnail?id=1_gUAHUg9IAV0Q5dPiHLW3wuACEPOC6AZ&sz=w1200",
+     "mirror": "https://yudataub.github.io/wa-vid-byt-mdrsh-khylty-k-ata-v7gamj/v/2026-11/ACEDBD72DB61840DBDAE30AF4D5CAAD9_0.mp4"
     }
    ],
    "drive": null,
@@ -3783,6 +3786,26 @@
    "files": [],
    "drive": null,
    "phone": "972504261741"
+  },
+  {
+   "id": "A5E5CCC3CC3216DAEEC8DB8B2DBBE692",
+   "sender": "גיאת תשמישי קדושה",
+   "text": "בכל סופ”ש מכירה קבועה של עוגות שמרים ומארזי עוגיות לכבוד שבת קודש\n\nחדש!! חדש!! כובאנה רכה ועסיסית - רק להניח על הפלטה, ולהגיש רותח!!\n\nחילבה קצפית וטעימה \n\nהמלאי מוגבל!!\n\nהמכירה מתקיימת בכל יום שישי ברחבת בית הכנסת הגדול רחוב המייסדים 15 קריית אתא. בין השעות 08:00 ל- 10:30\n\nכמובן שניתן להזמין ולאסוף גם מחנות המפעל 😉 הרצל 39 קרית אתא\nבתיאום טלפוני 052-766-3682 \n\nמתקדמים בשבילכם!! ניתן ללחוץ על הקישור הבא ולהזמין בקלות\nhttps://wa.me/message/RHB6MXX3CJAWF1",
+   "ts": 1795730667000,
+   "date": "2026-11-27",
+   "time": "00:04",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "186KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1nGQu7QqvuPwmXeNgmzAzkgIo_jvfs-jV/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1nGQu7QqvuPwmXeNgmzAzkgIo_jvfs-jV&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972503207070"
   }
  ]
 }

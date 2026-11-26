@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בונים בבינה- בניית אתרים ואפליקציות עם AI",
- "updated": "2026-11-26T18:27:43.360Z",
+ "updated": "2026-11-26T22:19:55.945Z",
  "messages": [
   {
    "id": "AC31D8B4D4CA418DFFF71097CFF963EA",
@@ -423,6 +423,92 @@
    "ts": 1795717642000,
    "date": "2026-11-26",
    "time": "20:27",
+   "files": [],
+   "drive": null,
+   "phone": "972542207149"
+  },
+  {
+   "id": "AC39BF758A06C96F73F1E141C4E8A734",
+   "sender": "JDTOYS משחקים יהודיים 🩵💛",
+   "text": "איך יוצא לך ככה יפה?",
+   "ts": 1795730077000,
+   "date": "2026-11-26",
+   "time": "23:54",
+   "files": [],
+   "drive": null,
+   "phone": "972509092201"
+  },
+  {
+   "id": "3EB02D986955AB54E59A93",
+   "sender": "מלאכי גוטמן- עסק חכם",
+   "text": "נתתי לו הנחיות. opus 5.5. הוא יוצר סרטונים כאלה ברמה גבוהה וכיוונתי אותו לסגנון סרטון כזה",
+   "ts": 1795730231000,
+   "date": "2026-11-26",
+   "time": "23:57",
+   "files": [],
+   "drive": null,
+   "phone": "972542207149"
+  },
+  {
+   "id": "AC3DF53DE199F967071835784E99AC84",
+   "sender": "JDTOYS משחקים יהודיים 🩵💛",
+   "text": "יצרתי כמה סרטונים יפים אבל חלק יצאו גרוע",
+   "ts": 1795730995000,
+   "date": "2026-11-27",
+   "time": "00:09",
+   "files": [],
+   "drive": null,
+   "phone": "972509092201"
+  },
+  {
+   "id": "ACC7D3B0A36693AFA0A408B208150472",
+   "sender": "JDTOYS משחקים יהודיים 🩵💛",
+   "text": "זה יצא יפה",
+   "ts": 1795731043000,
+   "date": "2026-11-27",
+   "time": "00:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "5.4MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1hKGoZTim7bNwvRJ-avEzhcxNZlOitW8e/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACC7D3B0A36693AFA0A408B208150472_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1hKGoZTim7bNwvRJ-avEzhcxNZlOitW8e&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509092201"
+  },
+  {
+   "id": "ACFE83523136A8D528570646BB2F4280",
+   "sender": "JDTOYS משחקים יהודיים 🩵💛",
+   "text": "זה יצא גרוע..",
+   "ts": 1795731043000,
+   "date": "2026-11-27",
+   "time": "00:10",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "11.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1ItbJbg-NCHEMYc3joeoM3gG30qoVQHKB/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACFE83523136A8D528570646BB2F4280_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1ItbJbg-NCHEMYc3joeoM3gG30qoVQHKB&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972509092201"
+  },
+  {
+   "id": "A51E5ADC02E114FDFC4D90636304F363",
+   "sender": "מלאכי גוטמן- עסק חכם",
+   "text": "זה גם נחמד. ובכל מקרה הכל תלוי בחומרים שאתה נותן לו והסגנון שאתה אומר לו לעשות את זה \n\nאני בחרתי בסגנון ספציפי של יד שמציירת. ואני נותן לו ליצור אלמנטים של תמונות עם קודקס",
+   "ts": 1795731595000,
+   "date": "2026-11-27",
+   "time": "00:19",
    "files": [],
    "drive": null,
    "phone": "972542207149"

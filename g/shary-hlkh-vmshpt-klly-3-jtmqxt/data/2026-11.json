@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-11-26T19:33:02.599Z",
+ "updated": "2026-11-26T22:50:49.106Z",
  "messages": [
   {
    "id": "AC7659CFAD0E6D26512B35AF415C55A2",
@@ -9652,6 +9652,59 @@
    "files": [],
    "drive": null,
    "phone": "972533004711"
+  },
+  {
+   "id": "AC626C860F6E1F5C6F2E7C0187997CC3",
+   "sender": "דוד",
+   "text": "לילה טוב \nאפשר כעת להגיד תיקון חצות\nתודה ולילה טוב",
+   "ts": 1795731297000,
+   "date": "2026-11-27",
+   "time": "00:14",
+   "files": [],
+   "drive": null,
+   "phone": "972549052820"
+  },
+  {
+   "id": "AC47A36EE5A3FDD82B915C15C9EBF44F",
+   "sender": "הרב אוריאל בצר",
+   "text": "כן",
+   "ts": 1795731311000,
+   "date": "2026-11-27",
+   "time": "00:15",
+   "files": [],
+   "drive": null,
+   "phone": "972533890390"
+  },
+  {
+   "id": "3EB0D0C9CC83BF358D30CE",
+   "sender": "דוד בן חי",
+   "text": "שבת שלום ומבורך!",
+   "ts": 1795733413000,
+   "date": "2026-11-27",
+   "time": "00:50",
+   "files": [],
+   "drive": null,
+   "phone": "972546201061"
+  },
+  {
+   "id": "3EB03F144E24F1D4452ADD",
+   "sender": "דוד בן חי",
+   "text": "",
+   "ts": 1795733417000,
+   "date": "2026-11-27",
+   "time": "00:50",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "441KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1p4z2C-U5C3Q7FRKLJQfXnhyjV_mcHHdC/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1p4z2C-U5C3Q7FRKLJQfXnhyjV_mcHHdC&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546201061"
   }
  ]
 }

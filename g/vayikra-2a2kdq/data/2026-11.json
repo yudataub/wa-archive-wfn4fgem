@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-11-26T20:19:07.673Z",
+ "updated": "2026-11-26T21:22:39.674Z",
  "messages": [
   {
    "id": "ACA158C915E6F8E25F841C558234F4D2",
@@ -7798,6 +7798,37 @@
    "files": [],
    "drive": null,
    "phone": "972542261101"
+  },
+  {
+   "id": "ACB647ED5A5EF85E02A7BEFED3C1A648",
+   "sender": "זהבה",
+   "text": "אפשר את המחוון למבחן בשופטים מבחינת ניקוד בבקשה",
+   "ts": 1795727992000,
+   "date": "2026-11-26",
+   "time": "23:19",
+   "files": [],
+   "drive": null,
+   "phone": "972502833330"
+  },
+  {
+   "id": "AC0039EE56FBAC9EE2BFB4B5D13E71F5",
+   "sender": "זהבה",
+   "text": "של המבחן הזה",
+   "ts": 1795728150000,
+   "date": "2026-11-26",
+   "time": "23:22",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18kBQEAdtcURhpY28oZ35hurawnSGBIAf/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18kBQEAdtcURhpY28oZ35hurawnSGBIAf&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972502833330"
   }
  ]
 }
