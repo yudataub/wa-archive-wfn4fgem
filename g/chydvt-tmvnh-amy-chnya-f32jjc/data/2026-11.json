@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "חידות תמונה - עמי חניא",
- "updated": "2026-11-25T14:58:57.476Z",
+ "updated": "2026-11-26T16:43:28.012Z",
  "messages": [
   {
    "id": "3EB02D17A129364D822F08",
@@ -1509,6 +1509,46 @@
      "path": "https://drive.google.com/file/d/1B39_gt2fI6BuBsfdtCx1Oer4xnvTPsex/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1B39_gt2fI6BuBsfdtCx1Oer4xnvTPsex&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB01C288CEB51FB5EC46E",
+   "sender": "עמי חניא",
+   "text": "חידה שמופיעה בחוברת חנוכה!\n*יום אחרון להזמנת החוברות המודפסות!*\nרמת קושי: קלה\nנושא: חנוכה\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795692222000,
+   "date": "2026-11-26",
+   "time": "13:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "318KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1s3qecQuspD_WH9tSkcI8NUhjMUVVDfyh/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1s3qecQuspD_WH9tSkcI8NUhjMUVVDfyh&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546702328"
+  },
+  {
+   "id": "3EB0F5F59F8F512691FDA1",
+   "sender": "עמי חניא",
+   "text": "רמת קושי: בינונית\nנושא: מקומות בארץ\n\nחוברות חנוכה: https://clap.co.il/aGJ\nמוזמנות ומוזמנים להסביר את התשובה\n\nלהזמנת חוברות חידות בנושא מקומות בארץ ובמגוון נושאים\nלהדפסה עצמית או במשלוח:\nhttps://amihanya.games/shop/",
+   "ts": 1795711381000,
+   "date": "2026-11-26",
+   "time": "18:43",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "371KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/14PMI7rs_Jf0janxLWUC495PNujsRffN8/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=14PMI7rs_Jf0janxLWUC495PNujsRffN8&sz=w1200"
     }
    ],
    "drive": null,

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "\"וְעַמֵּךְ כֻּלָּם צַדִּיקִים\" - לחיי העם הזה וכמה טוב שהוא כזה",
- "updated": "2026-11-21T19:48:36.312Z",
+ "updated": "2026-11-26T17:02:06.159Z",
  "messages": [
   {
    "id": "ACF55E3083B1A11855B6B51F949FA9C2",
@@ -239,6 +239,27 @@
    ],
    "drive": null,
    "phone": "972584978155"
+  },
+  {
+   "id": "ACB815134655329CBF303553E7771D13",
+   "sender": "עמיחי בן שחר",
+   "text": "מרגש! הרב לירז זעירא שנפצע במלחמה בסוריה ואיבד את שתי רגליו, והרב דורון פרץ, אביו של סרן דניאל פרץ שנפל ב-7 באוקטובר, עלו לרקוד  על בימת צמאה לצלילי השיר ״הושיע את עמך״.                                              *עם ישראל חי🇮🇱❤️  !!!*",
+   "ts": 1795712500000,
+   "date": "2026-11-26",
+   "time": "19:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1VpPoQpj9iDum03JHhnQE725iKEXE1Eay/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACB815134655329CBF303553E7771D13_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1VpPoQpj9iDum03JHhnQE725iKEXE1Eay&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504949159"
   }
  ]
 }

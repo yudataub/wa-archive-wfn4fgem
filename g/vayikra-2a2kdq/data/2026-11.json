@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "ויקרא 2 ושופטים",
- "updated": "2026-11-25T18:13:10.316Z",
+ "updated": "2026-11-26T20:19:07.673Z",
  "messages": [
   {
    "id": "ACA158C915E6F8E25F841C558234F4D2",
@@ -7639,6 +7639,165 @@
    "files": [],
    "drive": null,
    "phone": "972547661481"
+  },
+  {
+   "id": "AC3224F5384CC6DE815D755760559C2E",
+   "sender": "סיגל ליפשיץ",
+   "text": "יש מחוון למבחן של ויקרא צו\nוחלוקת נקודות",
+   "ts": 1795683451000,
+   "date": "2026-11-26",
+   "time": "10:57",
+   "files": [],
+   "drive": null,
+   "phone": "972584734037"
+  },
+  {
+   "id": "AC43B3625BAF803B8E4B54BF19E8A425",
+   "sender": "נועה😊",
+   "text": "אשמח למצגת לפרשת צו",
+   "ts": 1795686299000,
+   "date": "2026-11-26",
+   "time": "11:44",
+   "files": [],
+   "drive": null,
+   "phone": "972504226406"
+  },
+  {
+   "id": "AC36BA196CF2B4C273DB04E0EB32DAD3",
+   "sender": "נועה😊",
+   "text": "בגדי כהן וימי מילואים",
+   "ts": 1795686309000,
+   "date": "2026-11-26",
+   "time": "11:45",
+   "files": [],
+   "drive": null,
+   "phone": "972504226406"
+  },
+  {
+   "id": "ACC7CE14403850128009E35D80DB6A0C",
+   "sender": "מיטל משה",
+   "text": "",
+   "ts": 1795686438000,
+   "date": "2026-11-26",
+   "time": "11:47",
+   "files": [
+    {
+     "name": "vaikra_mehvan_corrected.pdf",
+     "size": "407KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bSOPJbc9B6R8VtUHo4mTdY9C0RTY-gh4/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585511411"
+  },
+  {
+   "id": "AC35F1293107B1D2BE282C8F9B95B8AE",
+   "sender": "שרית דאודי- יקב תקוע",
+   "text": "כנל",
+   "ts": 1795716402000,
+   "date": "2026-11-26",
+   "time": "20:06",
+   "files": [],
+   "drive": null,
+   "phone": "972542307375"
+  },
+  {
+   "id": "AC417EAEBC46A881E453216B67F34D40",
+   "sender": "חיה כחלון",
+   "text": "איפה השאלות?",
+   "ts": 1795716659000,
+   "date": "2026-11-26",
+   "time": "20:10",
+   "files": [],
+   "drive": null,
+   "phone": "972523565708"
+  },
+  {
+   "id": "ACF494EBF0B0CEFDFA80F9D1E02F19D9",
+   "sender": "אביחי",
+   "text": "כנל",
+   "ts": 1795717220000,
+   "date": "2026-11-26",
+   "time": "20:20",
+   "files": [],
+   "drive": null,
+   "phone": "972525393128"
+  },
+  {
+   "id": "3EB02D0744CB2056EBF90B",
+   "sender": "עדי",
+   "text": "באתר",
+   "ts": 1795717933000,
+   "date": "2026-11-26",
+   "time": "20:32",
+   "files": [],
+   "drive": null,
+   "phone": "972546806138"
+  },
+  {
+   "id": "AC87627AFA42ABE8E8170C9B179574C5",
+   "sender": "מיטל משה",
+   "text": "",
+   "ts": 1795718233000,
+   "date": "2026-11-26",
+   "time": "20:37",
+   "files": [
+    {
+     "name": "vaikra-aharaha-a-artzi-TSPZ_261103_232609.pdf",
+     "size": "168KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Smr7U3MPktaJLFOXQXvEoH5PA_gt9Qjz/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972585511411"
+  },
+  {
+   "id": "AC6A4189F8C9A164C5358DFC09A3EB7B",
+   "sender": "חיה כחלון",
+   "text": "תודה רבה🙏",
+   "ts": 1795718763000,
+   "date": "2026-11-26",
+   "time": "20:46",
+   "files": [],
+   "drive": null,
+   "phone": "972523565708"
+  },
+  {
+   "id": "AC130B59F5C5C48DA4DDA0FDDA973844",
+   "sender": "רותי",
+   "text": "צריך לבקש גישה בשביל לפתוח את הקבצים. \nמי יכול לפתוח את זה לשימוש?",
+   "ts": 1795721165000,
+   "date": "2026-11-26",
+   "time": "21:26",
+   "files": [],
+   "drive": null,
+   "phone": "972525351167"
+  },
+  {
+   "id": "3EB06FAA74B7E40D9AEC5D",
+   "sender": "אביבה אריאל",
+   "text": "@213666184040543 ?",
+   "ts": 1795722823000,
+   "date": "2026-11-26",
+   "time": "21:53",
+   "files": [],
+   "drive": null,
+   "phone": "972547661481"
+  },
+  {
+   "id": "AC28D8A8C264428F6DFF14219477C2CD",
+   "sender": "ישראל יוקל",
+   "text": "הכל פתוח.\nאם יש בעיה עם קובץ מסויים, פנו בפרטי.",
+   "ts": 1795724327000,
+   "date": "2026-11-26",
+   "time": "22:18",
+   "files": [],
+   "drive": null,
+   "phone": "972542261101"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משנה מפמ\"ר ו'",
- "updated": "2026-11-24T19:52:40.667Z",
+ "updated": "2026-11-26T18:28:50.973Z",
  "messages": [
   {
    "id": "ACAD28010E4C31B45DD5FB6BF3C34DEF",
@@ -577,6 +577,17 @@
    "files": [],
    "drive": null,
    "phone": "972547841216"
+  },
+  {
+   "id": "AC4262B094BA0DBDE170F0A530C0982F",
+   "sender": "אמיתי גפן",
+   "text": "שמח לשתף בכלי עזר ללימוד המשנה בשיטת כאמדט.  https://mishnah-lab-ag.sprightlyox3.chatgpt.site/",
+   "ts": 1795717705000,
+   "date": "2026-11-26",
+   "time": "20:28",
+   "files": [],
+   "drive": null,
+   "phone": "972542571878"
   }
  ]
 }

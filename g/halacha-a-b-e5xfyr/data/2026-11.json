@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הלכה א-ב מפמ\"ר",
- "updated": "2026-11-25T08:38:15.615Z",
+ "updated": "2026-11-26T08:13:52.433Z",
  "messages": [
   {
    "id": "AC889E2D6CA27588DFC3FA5B47D2CC12",
@@ -1800,6 +1800,69 @@
    "files": [],
    "drive": null,
    "phone": "972548635533"
+  },
+  {
+   "id": "AC408C6CBBC2C674129DD999FDF360F0",
+   "sender": "אורטל",
+   "text": "מנסה שוב 🙏",
+   "ts": 1795676707000,
+   "date": "2026-11-26",
+   "time": "09:05",
+   "files": [],
+   "drive": null,
+   "phone": "972548635533"
+  },
+  {
+   "id": "A5E078650544AF68EA59FC776586B6A7",
+   "sender": "מורן בלונים  בלונים לשמחה",
+   "text": "כיבוד הורים",
+   "ts": 1795678250000,
+   "date": "2026-11-26",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "Honoring Parents Storybook.pdf",
+     "size": "17.2MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1ra_VuHlbEzWRlOFkaPezgC22wEXGudF5/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972507944478"
+  },
+  {
+   "id": "AC81D5112D7877F27867614D596827DA",
+   "sender": "אורטל",
+   "text": "מושלם\nתודה!",
+   "ts": 1795678299000,
+   "date": "2026-11-26",
+   "time": "09:31",
+   "files": [],
+   "drive": null,
+   "phone": "972548635533"
+  },
+  {
+   "id": "ACA05975D1AEA80EA3338A1633E4DC98",
+   "sender": "ברקה בלאי מיניןןאב",
+   "text": "מקסים! אפשר כזה לכיתה א בבקשה??",
+   "ts": 1795679649000,
+   "date": "2026-11-26",
+   "time": "09:54",
+   "files": [],
+   "drive": null,
+   "phone": "972543273134"
+  },
+  {
+   "id": "AC1529530234539203CD6D2961EEA89E",
+   "sender": "Ys",
+   "text": "רק זה",
+   "ts": 1795680829000,
+   "date": "2026-11-26",
+   "time": "10:13",
+   "files": [],
+   "drive": null,
+   "phone": "972547426770"
   }
  ]
 }

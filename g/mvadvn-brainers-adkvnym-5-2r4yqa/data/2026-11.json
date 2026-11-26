@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מועדון Brainers עדכונים 5",
- "updated": "2026-11-25T18:21:40.408Z",
+ "updated": "2026-11-26T09:59:37.509Z",
  "messages": [
   {
    "id": "3EB035B23FB2C8F55A1F72",
@@ -417,6 +417,26 @@
    "date": "2026-11-25",
    "time": "20:21",
    "files": [],
+   "drive": null,
+   "phone": "972522879192"
+  },
+  {
+   "id": "2A2BA73EDC122E416C23",
+   "sender": "לי ברקוביץ׳",
+   "text": "*ההקלטה של המפגש אתמול עלתה לאתר*\n\nבריינרים, ההקלטה של המפגש אתמול עם מוחמד אלעיסאוי על התוסף AI Toolbox ושדרוג העבודה עם כלי הבינה המלאכותית *בדפדפן* עלתה לאתר.\n\nהיה מפגש סופר פרקטי, עם המון פתרונות לכאבים היומיומיים וטיפים שאפשר ליישם מיד 🛠️\n\n*יכולים להיכנס להקלטה ישירות מכאן:*\nhttps://go.brainai.co.il/RToolbox\n\n📌 *מצגת תקציר המפגש ב-NotebookLM:*\nhttps://go.brainai.co.il/NT-Toolbox\n\n*מכינים לכם לחודש הבא לו״ז מעניין במיוחד* 🎯\n\n*צוות המועדון & עדן ביבס* 💙\n#בינה_אנושית_בעולם_מלאכותי",
+   "ts": 1795687167000,
+   "date": "2026-11-26",
+   "time": "11:59",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "272KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/198yeg-m5p33gpLIhFoujbPPWIMY30yJx/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=198yeg-m5p33gpLIhFoujbPPWIMY30yJx&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522879192"
   }

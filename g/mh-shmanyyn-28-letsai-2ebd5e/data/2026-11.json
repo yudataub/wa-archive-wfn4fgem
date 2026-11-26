@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מה שמעניין #28 | LetsAI",
- "updated": "2026-11-25T18:21:20.143Z",
+ "updated": "2026-11-26T11:47:11.480Z",
  "messages": [
   {
    "id": "A536C79BE19E2BCCEEA23C666D662BA6",
@@ -445,6 +445,27 @@
    "date": "2026-11-25",
    "time": "20:21",
    "files": [],
+   "drive": null,
+   "phone": "972504610064"
+  },
+  {
+   "id": "ACD1B19CBB273B8A95DD40FD4F31761A",
+   "sender": "מורן ליכטנפלד",
+   "text": "🛑🛑🛑 *הזדמנות כמעט אחרונה למבצע בלאק פריידיי של LetsAI - באנדל 3 קורסים ב-50% הנחה* 🤪😱🤯 (בעל הבית השתגע:)\n\nלמימוש ההטבה 👇\nhttps://ltsai.co/bf-bundle\n\nנ.ב. צפו בסרטון עד הסוף (חכו לפספוסים 🤦‍♂️🤷‍♂️🤣)",
+   "ts": 1795693604000,
+   "date": "2026-11-26",
+   "time": "13:46",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "83.1MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1QgvCqC4B3N2w4Zn-ENZqR-QRUe5H0cCV/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACD1B19CBB273B8A95DD40FD4F31761A_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1QgvCqC4B3N2w4Zn-ENZqR-QRUe5H0cCV&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972504610064"
   }

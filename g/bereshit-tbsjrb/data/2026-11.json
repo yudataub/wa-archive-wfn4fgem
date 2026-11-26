@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בראשית 2 לך לך",
- "updated": "2026-11-24T14:19:30.501Z",
+ "updated": "2026-11-26T14:09:41.850Z",
  "messages": [
   {
    "id": "AC66E4946617C8FB336CE4EC7F52B84E",
@@ -1793,6 +1793,99 @@
    "files": [],
    "drive": null,
    "phone": "972502332369"
+  },
+  {
+   "id": "AC72B6D935C884576FDB297D012BEB67",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795700791000,
+   "date": "2026-11-26",
+   "time": "15:46",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_לך_לך.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1bqjs9xSrv0ZPoscSkIPvqClD3JRsGcjf/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "3EB0C701DC1CF1B101D39D",
+   "sender": "רחלי אשוש",
+   "text": "יש אולי גם לפרשת נח?",
+   "ts": 1795701619000,
+   "date": "2026-11-26",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972547706170"
+  },
+  {
+   "id": "AC58F6FC7DD8669895B5EB9A87CD873A",
+   "sender": "הודיה ניסטנפובר",
+   "text": "למה יש ציור של אברהם אבינו עם פנים גלויות?",
+   "ts": 1795701627000,
+   "date": "2026-11-26",
+   "time": "16:00",
+   "files": [],
+   "drive": null,
+   "phone": "972509744582"
+  },
+  {
+   "id": "ACE56AFDE488AA88D1C0FBC31BC3DD88",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795701708000,
+   "date": "2026-11-26",
+   "time": "16:01",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_נח.pdf",
+     "size": "2.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1lkRQvYU2eajsDPctfdSDC65Lg2L0Nwmy/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "3EB0EE26DA170B3EA4CE22",
+   "sender": "רחלי אשוש",
+   "text": "תודה רבה רבה!! מקסים!",
+   "ts": 1795701771000,
+   "date": "2026-11-26",
+   "time": "16:02",
+   "files": [],
+   "drive": null,
+   "phone": "972547706170"
+  },
+  {
+   "id": "ACC46D024D54BC648C8B24E7285A3319",
+   "sender": "רונה",
+   "text": "מהמם\nיש פוסטרים לכל הפרשות בבראשית?",
+   "ts": 1795702155000,
+   "date": "2026-11-26",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972546081268"
+  },
+  {
+   "id": "ACDCB1682184E851DF1A67E54E5F0A43",
+   "sender": "rivka atlan",
+   "text": "יש וירא?",
+   "ts": 1795702160000,
+   "date": "2026-11-26",
+   "time": "16:09",
+   "files": [],
+   "drive": null,
+   "phone": "972547343833"
   }
  ]
 }

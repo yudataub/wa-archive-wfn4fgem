@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "נחל אליהו - שיעורי הגר\"א דיסקין",
- "updated": "2026-11-21T21:27:52.427Z",
+ "updated": "2026-11-26T17:06:05.261Z",
  "messages": [
   {
    "id": "AC112B35BCB57182B9B888930C5BF671",
@@ -125,6 +125,25 @@
      "size": "1.4MB",
      "type": "application/pdf",
      "path": "https://drive.google.com/file/d/1LWQoWJDP-i_OIPTUno0R1XypgDR6Sdin/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972512266924"
+  },
+  {
+   "id": "ACBC5D81DD00B8CA4DA24BFA8C5CD3F7",
+   "sender": "להגדיל תורה",
+   "text": "",
+   "ts": 1795712746000,
+   "date": "2026-11-26",
+   "time": "19:05",
+   "files": [
+    {
+     "name": "פרשת וישלח 798.pdf",
+     "size": "6.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1Jf9P8m_MvS2LG6rTgFkcbBnYZy-JD19M/view?usp=drivesdk",
      "skipped": ""
     }
    ],

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-25T05:02:39.955Z",
+ "updated": "2026-11-26T04:06:02.883Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -1001,6 +1001,25 @@
      "path": "https://drive.google.com/file/d/1gsWXWrtnwMLWbJ_H4sgk31hpLHCgY2rn/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1gsWXWrtnwMLWbJ_H4sgk31hpLHCgY2rn&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A8ED469A2AD3425C284",
+   "sender": ".",
+   "text": "״ומרנני עלמא בתר רבנן״ (ערכין ט, א).",
+   "ts": 1795665930000,
+   "date": "2026-11-26",
+   "time": "06:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "84KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3A8ED469A2AD3425C284_1.jpg",
+     "skipped": ""
     }
    ],
    "drive": null,

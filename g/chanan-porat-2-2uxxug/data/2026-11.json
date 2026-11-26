@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הרב חנן פורת",
- "updated": "2026-11-25T22:31:51.283Z",
+ "updated": "2026-11-26T20:10:37.559Z",
  "messages": [
   {
    "id": "3EB061440ED7DA7DAD3377",
@@ -1708,6 +1708,69 @@
    "files": [],
    "drive": null,
    "phone": "972546909056"
+  },
+  {
+   "id": "AC9F114C008D38A3C209763D040EB207",
+   "sender": "רעות שמש",
+   "text": "https://youtu.be/jCy-0c21PyI?si=Dtq7K3z0UhNyfB2i",
+   "ts": 1795668905000,
+   "date": "2026-11-26",
+   "time": "06:55",
+   "files": [],
+   "drive": null,
+   "phone": "972506762427"
+  },
+  {
+   "id": "ACE3264F43BBCDC7E4158DB10AEA7C30",
+   "sender": "אבי'ה אלבה",
+   "text": "שני שיעורים של הרב חנן פורת לפרשת וישלח: \nhttps://drive.google.com/file/d/1CcvvcqOOfSpT78i8kn7DDgxF_LiTmCTX/view?usp=drivesdk\n\nשיעור שני, והוא גם מזכיר את ההפטרה שהיא הפטרת הבר מצווה שלו. \nhttps://drive.google.com/file/d/1m9KC3HyliBhvqJ7K6TLZ7AqlYZAoBYm_/view?usp=drivesdk",
+   "ts": 1795681033000,
+   "date": "2026-11-26",
+   "time": "10:17",
+   "files": [],
+   "drive": null,
+   "phone": "972542653170"
+  },
+  {
+   "id": "3EB05863E0CD5B7CC9042E",
+   "sender": "הרב שמואל כ\"ץ",
+   "text": "שיעור מתומלל של הרב חנן פורת לפרשת וישלח, בהצלחה",
+   "ts": 1795696714000,
+   "date": "2026-11-26",
+   "time": "14:38",
+   "files": [
+    {
+     "name": "חנן פורת - שיעור לפרשת וישלח.docx",
+     "size": "18KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1D0DwEaytI2rvpN8eFRCQM-pvJQsxLLxF/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972586522072"
+  },
+  {
+   "id": "3AA476E631B218E95B60",
+   "sender": "Moriya🧿",
+   "text": "מחפשת משפטים של הרב חנן פורת - \n1. בהקשר לחנוכה \n2. ⁠בהקשר לחינוך",
+   "ts": 1795710563000,
+   "date": "2026-11-26",
+   "time": "18:29",
+   "files": [],
+   "drive": null,
+   "phone": "972528914106"
+  },
+  {
+   "id": "3A6BB4783EA82ED706FA",
+   "sender": "Moriya🧿",
+   "text": "הקישור לא נפתח",
+   "ts": 1795723824000,
+   "date": "2026-11-26",
+   "time": "22:10",
+   "files": [],
+   "drive": null,
+   "phone": "972528914106"
   }
  ]
 }

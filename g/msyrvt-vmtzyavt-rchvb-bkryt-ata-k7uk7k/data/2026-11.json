@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מסירות ומציאות רחוב בקרית אתא",
- "updated": "2026-11-24T14:35:07.648Z",
+ "updated": "2026-11-26T16:02:27.545Z",
  "messages": [
   {
    "id": "AC3FEAB35E20BF1B54A035C71EE56663",
@@ -1898,6 +1898,67 @@
    ],
    "drive": null,
    "phone": "972526288201"
+  },
+  {
+   "id": "AC9CE5B1F805EC5BA008E7589D68B9A1",
+   "sender": "עדי חסיד",
+   "text": "צריכה אולי נשארו לי מלא",
+   "ts": 1795685607000,
+   "date": "2026-11-26",
+   "time": "11:33",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "750KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1fxWg_1eAJVjceqDy5sopjy9DSQEbiOkp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1fxWg_1eAJVjceqDy5sopjy9DSQEbiOkp&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "ACA1E19BFA805CE423BC18DDD6964AF7",
+   "sender": "עדי חסיד",
+   "text": "נשארו לי מלא משהי צריכה חיתוכיות חנוכה להדבקה",
+   "ts": 1795685630000,
+   "date": "2026-11-26",
+   "time": "11:33",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "AC98659D0AE9AEA6E4F977F532683054",
+   "sender": "עדי חסיד",
+   "text": "נמסר",
+   "ts": 1795690190000,
+   "date": "2026-11-26",
+   "time": "12:49",
+   "files": [],
+   "drive": null,
+   "phone": "972522488015"
+  },
+  {
+   "id": "A5959DE315E52D505C7558B96E999823",
+   "sender": "יהודה טאוב דירות אירוח בקרי אתא",
+   "text": "📲 *כל קרית אתא – בכיס שלך!*\n_אפליקציה חינמית חדשה לתושבי העיר_\n\nהידעתם שבקרית אתא יש:\n🕍 *155* מניינים\n📖 *118* שיעורי תורה\n🏛️ *63* בתי כנסת\n🤝 *53* גמ\"חים\n💼 *736* עסקים ובעלי מקצוע\n🌳 *153* מקומות לטייל\n\nעכשיו הכול במקום אחד 👇\n✅ מניין מנחה ברגע האחרון\n✅ שיעור הערב – לפי רב, מקום ויום\n✅ גמ\"ח או בעל מקצוע – בשניות\n\n*איך מתקינים? (חינם, בלי הרשמה)*\n1️⃣ נכנסים לקישור\n2️⃣ לוחצים \"התקנת האפליקציה\"\n3️⃣ האייקון מופיע במסך הבית 📱\n\n👈 https://www.kol-toda.co.il/ata/\n\nשלחו לשכנים ולקבוצות – שכל קרית אתא תדע 🙏",
+   "ts": 1795708945000,
+   "date": "2026-11-26",
+   "time": "18:02",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "176KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1UGtJswTyaAQUuadAv44l7t3m0o6d69Ko/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1UGtJswTyaAQUuadAv44l7t3m0o6d69Ko&sz=w1200"
+    }
+   ],
+   "drive": null
   }
  ]
 }

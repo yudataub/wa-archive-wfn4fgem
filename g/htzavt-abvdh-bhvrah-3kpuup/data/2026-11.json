@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הצעות עבודה בהוראה",
- "updated": "2026-11-25T08:55:45.865Z",
+ "updated": "2026-11-26T09:23:59.273Z",
  "messages": [
   {
    "id": "AC4B029FD18855A02311A633613AB94A",
@@ -661,6 +661,26 @@
      "path": "https://drive.google.com/file/d/1waFSkOYyXc5CREzmm79y6SFIM4eAFvSZ/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1waFSkOYyXc5CREzmm79y6SFIM4eAFvSZ&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506924904"
+  },
+  {
+   "id": "3A531C68EFA12F3D65DE",
+   "sender": "Adi Zvieli",
+   "text": "",
+   "ts": 1795685023000,
+   "date": "2026-11-26",
+   "time": "11:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "240KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/19sDA6zXFHDHzNcIQAvwc0yMOyBovY60s/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=19sDA6zXFHDHzNcIQAvwc0yMOyBovY60s&sz=w1200"
     }
    ],
    "drive": null,

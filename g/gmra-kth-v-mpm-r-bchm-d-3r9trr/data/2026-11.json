@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "גמרא כתה ו' מפמ\"ר בחמ\"ד",
- "updated": "2026-11-10T11:28:18.625Z",
+ "updated": "2026-11-26T19:57:02.717Z",
  "messages": [
   {
    "id": "3EB0E31CA7407C589CBEDF",
@@ -33,6 +33,123 @@
    ],
    "drive": null,
    "phone": "972526071122"
+  },
+  {
+   "id": "AC14C934F59C4AAD69C40C68D393BE58",
+   "sender": "אריה ליפו",
+   "text": "https://youtube.com/shorts/COKl0BLger8?si=rT1-ZjeH8f2y7CR4",
+   "ts": 1795683840000,
+   "date": "2026-11-26",
+   "time": "11:04",
+   "files": [],
+   "drive": null,
+   "phone": "972586733866"
+  },
+  {
+   "id": "3EB06652584BC5D8557455",
+   "sender": "chaim030573810@gmail.com",
+   "text": "במבצע\n יש לנו חוברת עבודה צבעונית מאושרת וידידותית על חנוכה מהמקור של הגמרא להלכות. \nהמעוניין יגעת ומצאת 0505859296",
+   "ts": 1795714176000,
+   "date": "2026-11-26",
+   "time": "19:29",
+   "files": [],
+   "drive": null,
+   "phone": "972505859296"
+  },
+  {
+   "id": "3EB0F8D444818792095C8D",
+   "sender": "chaim030573810@gmail.com",
+   "text": "",
+   "ts": 1795722999000,
+   "date": "2026-11-26",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "כריכה_חנוכה.pdf",
+     "size": "86.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1pDIU0KuMzZk-_B-Bj58MU_ckaTOsHZjF/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505859296"
+  },
+  {
+   "id": "3EB0688A6A0F310EBFF878",
+   "sender": "chaim030573810@gmail.com",
+   "text": "",
+   "ts": 1795723000000,
+   "date": "2026-11-26",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "כריכה_חנוכה.pdf",
+     "size": "86.3MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1i6jI075QpipaifJ8TPabM1Kww9T7NACC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505859296"
+  },
+  {
+   "id": "3EB09A35257195DAC477FA",
+   "sender": "chaim030573810@gmail.com",
+   "text": "",
+   "ts": 1795723000000,
+   "date": "2026-11-26",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "דוגמית מחנוכה.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/12R-s9cG4VBLQRGN0ZbpwYsGsYBaHbe8A/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505859296"
+  },
+  {
+   "id": "3EB0A1000EAD4D10B9FED6",
+   "sender": "chaim030573810@gmail.com",
+   "text": "",
+   "ts": 1795723000000,
+   "date": "2026-11-26",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "פרוספקט.pdf",
+     "size": "425KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1FvynA069eSpghZGqNyH2r1kYWwZJ4_Q6/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505859296"
+  },
+  {
+   "id": "3EB0AA1A05505523888FA0",
+   "sender": "chaim030573810@gmail.com",
+   "text": "",
+   "ts": 1795723000000,
+   "date": "2026-11-26",
+   "time": "21:56",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "62KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB0AA1A05505523888FA0_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972505859296"
   }
  ]
 }

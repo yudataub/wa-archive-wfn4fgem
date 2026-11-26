@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "במדבר ושמואל א",
- "updated": "2026-11-25T23:09:51.403Z",
+ "updated": "2026-11-26T11:32:20.677Z",
  "messages": [
   {
    "id": "3ABA6F4004D764B6E168",
@@ -4755,6 +4755,88 @@
    "files": [],
    "drive": null,
    "phone": "972526715200"
+  },
+  {
+   "id": "AC1DA87B7D8FF7405AF6A89F216C8A26",
+   "sender": "אסף אלדר",
+   "text": "",
+   "ts": 1795670527000,
+   "date": "2026-11-26",
+   "time": "07:22",
+   "files": [
+    {
+     "name": "mivchan-torah-bamidbar-naso-he-teshuvot.pdf",
+     "size": "27KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1OdUK4J5SiUszQnaMoQQ1p3KWcoR-0-cg/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522405556"
+  },
+  {
+   "id": "AC58C01271A50CDA702D3EE0F145334C",
+   "sender": "מיכל עיני",
+   "text": "אפשר לשלוח שוב בבקשה🙏🏼",
+   "ts": 1795674385000,
+   "date": "2026-11-26",
+   "time": "08:26",
+   "files": [],
+   "drive": null,
+   "phone": "972526530563"
+  },
+  {
+   "id": "ACB3D6041339D20DEF584AC09F70347C",
+   "sender": "רחלי גרינברג",
+   "text": "מבחן מפמ\"ר על פרשות אלו ישלח כשבוע לפני סיום הפרשה על פי התכנון השנתי (סוף חודש חשוון). ישנה גם משימת הערכה באתר-\nhttps://pop.education.gov.il/tchumey_daat/bible-hemed/elementary/pedagogy-of-the-hamad-bible/measurement/#pos_368043",
+   "ts": 1795674421000,
+   "date": "2026-11-26",
+   "time": "08:27",
+   "files": [],
+   "drive": null,
+   "phone": "972504355548"
+  },
+  {
+   "id": "AC9D7FCD23CCA67D368DCA2E5982A843",
+   "sender": "מיכל עיני",
+   "text": "יש תשובות?",
+   "ts": 1795688705000,
+   "date": "2026-11-26",
+   "time": "12:25",
+   "files": [],
+   "drive": null,
+   "phone": "972526530563"
+  },
+  {
+   "id": "AC0E37C94EE26273FF04C95B953EB917",
+   "sender": "אשר רפאל מיימון",
+   "text": "",
+   "ts": 1795689701000,
+   "date": "2026-11-26",
+   "time": "12:41",
+   "files": [
+    {
+     "name": "מבחן בספר שמואל א פרקים א-ד כיתה ד.pdf",
+     "size": "200KB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1kbUA5wm4atxavAtIWi1I-fp8_JmHI_8P/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972523003352"
+  },
+  {
+   "id": "AC4F62EE94F323CFD54B01AB28EBE095",
+   "sender": "Aliza Lev-Tzion",
+   "text": "יש למישהו דף חזרה על פרשת נשא?",
+   "ts": 1795692722000,
+   "date": "2026-11-26",
+   "time": "13:32",
+   "files": [],
+   "drive": null,
+   "phone": "972525666316"
   }
  ]
 }

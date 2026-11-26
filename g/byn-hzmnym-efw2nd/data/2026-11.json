@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בין הזמנים 🏖",
- "updated": "2026-11-25T11:30:09.143Z",
+ "updated": "2026-11-26T15:35:50.076Z",
  "messages": [
   {
    "id": "AC5D2886C85E031412514E3311E19538",
@@ -2960,6 +2960,186 @@
    ],
    "drive": null,
    "phone": "972509540023"
+  },
+  {
+   "id": "ACE77825C4C4F7659896B9CEEB842CDE",
+   "sender": "ריקי",
+   "text": "פנוי לשבת חנוכה 11/12\n053-2842047",
+   "ts": 1795678229000,
+   "date": "2026-11-26",
+   "time": "09:30",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1FAjkBdb1Adl0i7j2Ho1jaBOv0et0exwG/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACE77825C4C4F7659896B9CEEB842CDE_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1FAjkBdb1Adl0i7j2Ho1jaBOv0et0exwG&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972532842047"
+  },
+  {
+   "id": "ACD8F12A3DC18976B79909CBA67D080A",
+   "sender": "איריס בר טל",
+   "text": "https://gan-mekadem.lovable.app",
+   "ts": 1795678744000,
+   "date": "2026-11-26",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC40706A7414E38C4189E4E23CF34F1D",
+   "sender": "איריס בר טל",
+   "text": "*מתחם יפהפה בלב צפת*\n*32 מיטות,אפשרות למזרונים*\n*שבתות חתן,חלאקה,*\n*בריתות,חינה ואירועים קטנים*",
+   "ts": 1795678745000,
+   "date": "2026-11-26",
+   "time": "09:39",
+   "files": [],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "AC5A890FE78ECEBE6D9E483A5E48347F",
+   "sender": "איריס בר טל",
+   "text": "",
+   "ts": 1795678745000,
+   "date": "2026-11-26",
+   "time": "09:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "335KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1dUhaKO4Je3YM26qEFhptBHZEcbrInPa-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1dUhaKO4Je3YM26qEFhptBHZEcbrInPa-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972524031418"
+  },
+  {
+   "id": "ACF5BF4EC300A336E019B5824E2D25DD",
+   "sender": "משה חיים בוזגלו",
+   "text": "פנוי לסופש הקרוב במחיר מיוחד.\nhttps://wa.me/972504119752?text=לגבי%20נופש%20ביבניאל",
+   "ts": 1795681253000,
+   "date": "2026-11-26",
+   "time": "10:20",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "13.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1yeAMqtGuOciG8ZT3q5ElLICBvmL3z7ef/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/ACF5BF4EC300A336E019B5824E2D25DD_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1yeAMqtGuOciG8ZT3q5ElLICBvmL3z7ef&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527135710"
+  },
+  {
+   "id": "AC2D772EA456B7D97F3411F9BD22D703",
+   "sender": "משפחת צוויג",
+   "text": "בית מקסים בישוב התורני- שבי דרום.\n4 חדרי שינה, סלון מטבח ענקיים. פרגולה ענקית ערסלים בחצר.\nמבצעי חורף🤩\n0545684783/2",
+   "ts": 1795684861000,
+   "date": "2026-11-26",
+   "time": "11:21",
+   "files": [],
+   "drive": null,
+   "phone": "972534624813"
+  },
+  {
+   "id": "ACF5E7EA3F400B3B7EB2A86BD29BF1C6",
+   "sender": "משפחת צוויג",
+   "text": "",
+   "ts": 1795684864000,
+   "date": "2026-11-26",
+   "time": "11:21",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "116KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1eJuIDFruknrFWyRYLrkUH9Xv3I3Fz_kN/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1eJuIDFruknrFWyRYLrkUH9Xv3I3Fz_kN&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534624813"
+  },
+  {
+   "id": "AC9B926D82A032AAE82775D359E93848",
+   "sender": "יוני",
+   "text": "",
+   "ts": 1795685683000,
+   "date": "2026-11-26",
+   "time": "11:34",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "3.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1SM6v-2ubTr9tyYbL61dbx9O-pNQX14sO/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC9B926D82A032AAE82775D359E93848_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1SM6v-2ubTr9tyYbL61dbx9O-pNQX14sO&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504465495"
+  },
+  {
+   "id": "3B38F3A891E319F2CDF0",
+   "sender": "אשכנזי",
+   "text": "מחפשים צימר פנוי לשבת במרחק נסיעה עד שעה מירושלים לזוג+3",
+   "ts": 1795689653000,
+   "date": "2026-11-26",
+   "time": "12:40",
+   "files": [],
+   "drive": null,
+   "phone": "972583280877"
+  },
+  {
+   "id": "A5EDBC54AB2A50CD79F2444A1CA1BBF4",
+   "sender": "צימר כיפי - אנחנו אוהבים לארח  𓉱ברק בצלאל",
+   "text": "מחיר 🔥 \n דקה 9️⃣9️⃣\nפנויים לשבת.​✨ רגעים קסומים בגלבוע ✨\n​📍 מיקום: במושב אביטל, ליד עמק המעיינות ולמרגלות הגלבוע.\n👨‍👩‍👧‍👦 תכולה: עד 9 נפשות (כולל בתי כנסת קרובים במרחק הליכה/נסיעה קצרה).\n🛏️ מה במתחם:\n​2 חדרי שינה, סלון ומטבח מאובזר\n​ג'קוזי ובריכה  \n​שולחן סנוקר, שולחן פינג פונג וטרמפולינה  \n​תרנגולות מטילות ומשחקים לילדים\n0523595740\nhttps://680a0d6b48c25.site123.me/",
+   "ts": 1795689674000,
+   "date": "2026-11-26",
+   "time": "12:41",
+   "files": [],
+   "drive": null,
+   "phone": "972523595740"
+  },
+  {
+   "id": "ACBB1C2AA337D8FF49B6C55D569CA4B7",
+   "sender": "אילנית",
+   "text": "מחפשת דירה בירושלים\n השבת במקום מרכזי\nלבנות במחיר סמלי",
+   "ts": 1795698679000,
+   "date": "2026-11-26",
+   "time": "15:11",
+   "files": [],
+   "drive": null,
+   "phone": "972505719433"
+  },
+  {
+   "id": "AC888BF8936F03739F1E1276BDFBE525",
+   "sender": "ברק",
+   "text": "מחיר 🔥 \n דקה 9️⃣9️⃣\nפנויים לשבת.✨ רגעים קסומים בגלבוע ✨\n📍 מיקום: במושב אביטל, ליד עמק המעיינות ולמרגלות הגלבוע.\n👨‍👩‍👧‍👦 תכולה: עד 9 נפשות (כולל בתי כנסת קרובים במרחק הליכה/נסיעה קצרה).\n🛏️ מה במתחם:\n2 חדרי שינה, סלון ומטבח מאובזר\nג'קוזי מחומם ובריכה  \nשולחן סנוקר, שולחן פינג פונג וטרמפולינה  \nתרנגולות מטילות ומשחקים לילדים\n0523595740\nhttps://680a0d6b48c25.site123.me/",
+   "ts": 1795707337000,
+   "date": "2026-11-26",
+   "time": "17:35",
+   "files": [],
+   "drive": null,
+   "phone": "972555616148"
   }
  ]
 }

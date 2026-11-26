@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "בית מדרש 👨‍💻",
- "updated": "2026-11-25T11:31:39.155Z",
+ "updated": "2026-11-26T08:39:22.781Z",
  "messages": [
   {
    "id": "AC972BFA0283F0AB2DE5A495C0AE56F5",
@@ -413,6 +413,46 @@
    "time": "13:31",
    "files": [],
    "drive": null
+  },
+  {
+   "id": "AC4E4648A18EDDA2B574AFDE2400C6F4",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1795682343000,
+   "date": "2026-11-26",
+   "time": "10:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "216KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1NlLFYsgO_1Ors4hcT2_Tzt3lcdsBqBf9/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1NlLFYsgO_1Ors4hcT2_Tzt3lcdsBqBf9&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
+  },
+  {
+   "id": "ACCC7C9958BBCD5462DF783BB1CAD0F0",
+   "sender": "יעקב בקר",
+   "text": "",
+   "ts": 1795682344000,
+   "date": "2026-11-26",
+   "time": "10:39",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "252KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-8TXwNb36bSymPPwvjcfngCKYnvsGdkl/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-8TXwNb36bSymPPwvjcfngCKYnvsGdkl&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972549991157"
   }
  ]
 }
