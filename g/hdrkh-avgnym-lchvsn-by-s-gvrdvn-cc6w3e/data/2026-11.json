@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "הדרכה- עוגנים לחוסן💫בי״ס גורדון💫",
- "updated": "2026-11-24T19:28:40.323Z",
+ "updated": "2026-11-27T07:34:15.753Z",
  "messages": [
   {
    "id": "3EB04C50CAE9F501C852AA",
@@ -459,6 +459,37 @@
    "date": "2026-11-24",
    "time": "21:28",
    "files": [],
+   "drive": null,
+   "phone": "972546261812"
+  },
+  {
+   "id": "3A0AF795E872284819C5",
+   "sender": "אורטל🌻",
+   "text": "דוגמא לחוזה אישי שיצרו סטודנטיות בai ממש אהבתי",
+   "ts": 1795764841000,
+   "date": "2026-11-27",
+   "time": "09:34",
+   "files": [],
+   "drive": null,
+   "phone": "972546261812"
+  },
+  {
+   "id": "3A7E8728119CD947222D",
+   "sender": "אורטל🌻",
+   "text": "",
+   "ts": 1795764841000,
+   "date": "2026-11-27",
+   "time": "09:34",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "135KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1-cPeCAX9IwQsk8Cv72F5Fvb5R7TJPZvA/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1-cPeCAX9IwQsk8Cv72F5Fvb5R7TJPZvA&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972546261812"
   }

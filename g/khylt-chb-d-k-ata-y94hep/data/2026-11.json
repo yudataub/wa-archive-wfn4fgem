@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת חב\"ד ק.אתא",
- "updated": "2026-11-26T21:43:10.003Z",
+ "updated": "2026-11-27T13:31:25.767Z",
  "messages": [
   {
    "id": "AC190EED7E337EA7AA7A82860301DFFC",
@@ -2622,6 +2622,118 @@
    ],
    "drive": null,
    "phone": "972507146770"
+  },
+  {
+   "id": "ACA63F445D0A85D94DD866BCD792230F",
+   "sender": "Ronen I Tayar 2",
+   "text": "",
+   "ts": 1795779776000,
+   "date": "2026-11-27",
+   "time": "13:42",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "274KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13ROlsDPTQ0FT62KV-3fGaDB4iPJbdXwk/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13ROlsDPTQ0FT62KV-3fGaDB4iPJbdXwk&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "ACF05E260A65B63F7D837D23CD438BE9",
+   "sender": "Ronen I Tayar 2",
+   "text": "מזל טוב למידע כתב ואישתו מאי להולדת הבת",
+   "ts": 1795779812000,
+   "date": "2026-11-27",
+   "time": "13:43",
+   "files": [],
+   "drive": null,
+   "phone": "972546328697"
+  },
+  {
+   "id": "AC0FD954FC5018BFCAE9573EA83ED5BC",
+   "sender": "Moshe",
+   "text": "ביחד ננצח! שבת שלום ומבורך",
+   "ts": 1795782082000,
+   "date": "2026-11-27",
+   "time": "14:21",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "9.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1EMiFyOMkSb6vhvOS2YDRcOyMFj_133UL/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC0FD954FC5018BFCAE9573EA83ED5BC_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1EMiFyOMkSb6vhvOS2YDRcOyMFj_133UL&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "ACFB131CB73ABC5A3C4FFF69ED6D6A8B",
+   "sender": "Moshe",
+   "text": "",
+   "ts": 1795782340000,
+   "date": "2026-11-27",
+   "time": "14:25",
+   "files": [
+    {
+     "name": "מדבקה.webp",
+     "size": "488KB",
+     "type": "image/webp",
+     "path": "https://drive.google.com/file/d/1TXiKHA9FRr2CuQHflZZaQJw2yqEWTIll/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1TXiKHA9FRr2CuQHflZZaQJw2yqEWTIll&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506456770"
+  },
+  {
+   "id": "AC3CE9ECCEF84B5B7E9A9A05AE96E7F0",
+   "sender": "תמיד בשמחה",
+   "text": "סיפור לשבת 🌸 משפחה לא עוזבים\n\nלהצטרפות 💫",
+   "ts": 1795785198000,
+   "date": "2026-11-27",
+   "time": "15:13",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "16.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1V7nkz-REa_-FMueesKaCPIpJqDU_ux9x/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC3CE9ECCEF84B5B7E9A9A05AE96E7F0_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1V7nkz-REa_-FMueesKaCPIpJqDU_ux9x&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972555661480"
+  },
+  {
+   "id": "ACEB95A3A775F8628B3F7DFA2E3F38D4",
+   "sender": "ר.א",
+   "text": "",
+   "ts": 1795786267000,
+   "date": "2026-11-27",
+   "time": "15:31",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "83KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/ACEB95A3A775F8628B3F7DFA2E3F38D4_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972522354929"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "מועדון תרבות קרית אתא מעודכן",
- "updated": "2026-11-26T08:00:47.773Z",
+ "updated": "2026-11-27T08:59:57.199Z",
  "messages": [
   {
    "id": "3A17F0D9CC7FA299B3EA",
@@ -384,6 +384,27 @@
    "date": "2026-11-26",
    "time": "10:00",
    "files": [],
+   "drive": null,
+   "phone": "972522346593"
+  },
+  {
+   "id": "3AFB346E0EFD2B497D46",
+   "sender": "חגית סייג",
+   "text": "פותחים עונת תיאטרון חדשה בקרית אתא!\n\n4 הצגות מעולות במחירים נגישים, ממש קרוב לבית.\n\nנפגשים בהצגה \n ״מקומות שמורים״- תיאטרון באר שבע\n🗓️ יום שלישי, 1.12.26\n🕣 בשעה 20:30\n📍 אולם המתנ״ס העירוני, רח׳ פלמ״ח 11, קרית אתא\n\nלהרשמה לחצו כאן⁠￼\nhttps://katzr.net/f5c1c1\n052-2346593\nשבת שלום ! \nמחכים לכם באולם! 🙏🎭",
+   "ts": 1795769987000,
+   "date": "2026-11-27",
+   "time": "10:59",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "6.9MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/10XC8MjeUXpB6OY2p4E-4NixpZHBvIZqU/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/3AFB346E0EFD2B497D46_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=10XC8MjeUXpB6OY2p4E-4NixpZHBvIZqU&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972522346593"
   }

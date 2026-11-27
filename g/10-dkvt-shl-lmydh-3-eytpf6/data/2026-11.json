@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "10 דקות של למידה 3",
- "updated": "2026-11-19T05:55:26.780Z",
+ "updated": "2026-11-27T10:45:08.990Z",
  "messages": [
   {
    "id": "3EB04199625548FAD96785",
@@ -74,6 +74,26 @@
    "date": "2026-11-19",
    "time": "07:55",
    "files": [],
+   "drive": null,
+   "phone": "972545691051"
+  },
+  {
+   "id": "3EB0853F981A1CACC44B8B",
+   "sender": "Or Pelach",
+   "text": "היי @all \nביום ראשון, ה-29.11.2026 בשעה 20:00,\n*נלמד ליצור מצגות עם Claude Design*\n\nקישור לזום יישלח כחצי שעה לפני תחילת המפגש.\n\n*רוצים לצרף חברים❓* \nתשלחו להם את הקישור הזה👇\nנתראה 😊",
+   "ts": 1795776301000,
+   "date": "2026-11-27",
+   "time": "12:45",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "327KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1bc8GTEklB-IT3EdhraGsrtKFJ1X1PLK4/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1bc8GTEklB-IT3EdhraGsrtKFJ1X1PLK4&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972545691051"
   }

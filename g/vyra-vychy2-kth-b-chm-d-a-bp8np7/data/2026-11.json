@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וירא-ויחי2 כתה ב' חמ\"ד  ע",
- "updated": "2026-11-25T10:00:53.955Z",
+ "updated": "2026-11-27T12:34:24.952Z",
  "messages": [
   {
    "id": "3EB07E6F24C8A9165D9D2C",
@@ -1040,6 +1040,120 @@
    "files": [],
    "drive": null,
    "phone": "972548422167"
+  },
+  {
+   "id": "ACA9100836366F984A28940AA82B03BC",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795782849000,
+   "date": "2026-11-27",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_חיי_שרה.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1PuyxN-5U9d-AJV_SabRRqUwUn6KqAMvn/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "ACB25B4E563EF4099A9135AC8C031187",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795782852000,
+   "date": "2026-11-27",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_ויגש.pdf",
+     "size": "2.0MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1e6SHcLF9P9l9CgKiLQ8ol5EHN_6eH4UC/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "ACF4CDF9FF90BBBAF0989C81C900EDE1",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795782852000,
+   "date": "2026-11-27",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_וירא.pdf",
+     "size": "1.9MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1rdqAUaiHQX-KxXoVFUFp-8cx07jsT3qb/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "AC3C19C57F7BEC4EE1220131F2F89DB7",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795782853000,
+   "date": "2026-11-27",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_ויצא.pdf",
+     "size": "2.1MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1qiYyIUDoi4Lh1qrjPuXtfJWU_3_iKZSj/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "AC85502C13B58336741AEA7355663D33",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795782853000,
+   "date": "2026-11-27",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_תולדות.pdf",
+     "size": "3.4MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1iIz59_ALzeF3S-26DCB9aG-AB41uGpSq/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
+  },
+  {
+   "id": "ACC1A13B176D5407092DA2A765312134",
+   "sender": "נעמה 💐",
+   "text": "",
+   "ts": 1795782854000,
+   "date": "2026-11-27",
+   "time": "14:34",
+   "files": [
+    {
+     "name": "פוסטרים_פרשת_ויחי.pdf",
+     "size": "3.5MB",
+     "type": "application/pdf",
+     "path": "https://drive.google.com/file/d/1xTzc2hhXkzJ_QZLpvZThbXUjUEE5B1AO/view?usp=drivesdk",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972584110025"
   }
  ]
 }

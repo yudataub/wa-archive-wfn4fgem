@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "קהילת המורים של גוגל GEG",
- "updated": "2026-11-24T18:02:15.669Z",
+ "updated": "2026-11-27T14:58:15.924Z",
  "messages": [
   {
    "id": "3EB0C879BEBEE1863EE35C",
@@ -265,6 +265,26 @@
    "date": "2026-11-24",
    "time": "20:02",
    "files": [],
+   "drive": null,
+   "phone": "972525121007"
+  },
+  {
+   "id": "AC63DB81A3857798EA38AEBD261095B2",
+   "sender": "עומרי אירם",
+   "text": "4 עדכונים קצרים שיחסכו לכם זמן השבוע: 😃 \n\nGemini בוחר עכשיו לבד את הדרך הטובה ביותר לכל משימה. פחות הגדרות, יותר זמן לכם.\n\nההקלטה של הסדנה שלנו על Skills ב-Gemini. מלמדים אותו פעם אחת איך לעבוד בשבילכם, ומשתמשים בזה שוב ושוב.\n\nבוטים אישיים בתוך Classroom. אתם קובעים את הנושא, והבוט מכוון את התלמידים אליו.\n\nמה מגיע לכם ולתלמידים בחינם בחשבון החינוכי של Google ומה לא? כלי השוואה מהירה.\n\nושאלה אחת - איזה Skill תרצו שנבנה עבורכם? (הסקר מחכה לכם בלינק) \n\nהכל כאן:\nhttps://listmonk.gegisrael.com/w/38\n\nשבת שלום 🙏\nעומרי אירם\nמוביל GEG ישראל, קהילת אנשי החינוך של Google",
+   "ts": 1795791471000,
+   "date": "2026-11-27",
+   "time": "16:57",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "118KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/13CiGSd1a3tBvnm2Urlfmx40CxjSamLJq/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=13CiGSd1a3tBvnm2Urlfmx40CxjSamLJq&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972525121007"
   }

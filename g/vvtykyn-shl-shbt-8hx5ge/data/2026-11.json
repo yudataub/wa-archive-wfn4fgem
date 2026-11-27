@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "וותיקין של שבת ",
- "updated": "2026-11-20T05:41:24.171Z",
+ "updated": "2026-11-27T07:11:43.150Z",
  "messages": [
   {
    "id": "AC7C39D5E2C0C560FE7FECC623DEE408",
@@ -375,6 +375,37 @@
    "files": [],
    "drive": null,
    "phone": "972534712840"
+  },
+  {
+   "id": "AC7E56DF6A6E58A1C9485B11CB95E4C6",
+   "sender": "oriyaagolnik",
+   "text": "שבת קודש – פרשת וישלח:\nתחילת התפילה - 5:36.\nשוכן עד - 6:05.\nהנץ החמה - 6:21.\n\nשבת שלום ומבורך!",
+   "ts": 1795758359000,
+   "date": "2026-11-27",
+   "time": "07:45",
+   "files": [],
+   "drive": null,
+   "phone": "972534712840"
+  },
+  {
+   "id": "ACD07CB16EE661E58C612CBE592E7C68",
+   "sender": "שרגא שינובר",
+   "text": "",
+   "ts": 1795763490000,
+   "date": "2026-11-27",
+   "time": "09:11",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "147KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1MuFe57hwrMXK9eMtdv3ONlyh8qnp__fd/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1MuFe57hwrMXK9eMtdv3ONlyh8qnp__fd&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972544207687"
   }
  ]
 }

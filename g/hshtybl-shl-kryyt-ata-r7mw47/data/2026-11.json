@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "השטיבל של קריית אתא ",
- "updated": "2026-11-26T16:36:35.810Z",
+ "updated": "2026-11-27T07:23:43.331Z",
  "messages": [
   {
    "id": "A599A3538691134A9C856802507F5F66",
@@ -363,6 +363,26 @@
    ],
    "drive": null,
    "phone": "972529407610"
+  },
+  {
+   "id": "A5AF34365ADF32AD9AA56D08CEE36223",
+   "sender": "גיא אפיק Dj",
+   "text": "",
+   "ts": 1795764191000,
+   "date": "2026-11-27",
+   "time": "09:23",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "133KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1GaCHzd5M3697nv3rXtnE1orA6LScquQF/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1GaCHzd5M3697nv3rXtnE1orA6LScquQF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972548047828"
   }
  ]
 }

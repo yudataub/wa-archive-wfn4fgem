@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "המחשות לדף היומי",
- "updated": "2026-11-26T04:06:02.883Z",
+ "updated": "2026-11-27T04:05:53.423Z",
  "messages": [
   {
    "id": "3A11138124EF6AE54E3D",
@@ -1020,6 +1020,26 @@
      "type": "image/jpeg",
      "path": "media/2026-11/3A8ED469A2AD3425C284_1.jpg",
      "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972587445550"
+  },
+  {
+   "id": "3A38E2D3A0F51A6AA77A",
+   "sender": ".",
+   "text": "״אומנין מאלכסנדריא של מצרים״ (ערכין י, ב).",
+   "ts": 1795752345000,
+   "date": "2026-11-27",
+   "time": "06:05",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "105KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1mG6lyz5rr_8X0cn2GFZc-m4qe-hR_xpp/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1mG6lyz5rr_8X0cn2GFZc-m4qe-hR_xpp&sz=w1200"
     }
    ],
    "drive": null,

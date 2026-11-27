@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "החיים עם AI",
- "updated": "2026-11-26T10:37:33.420Z",
+ "updated": "2026-11-27T10:28:08.748Z",
  "messages": [
   {
    "id": "3AB32F55F2225FF2A59B",
@@ -341,6 +341,106 @@
      "path": "https://drive.google.com/file/d/1dq57rP-_fuMRYt7uSeMbEIuPnlTLQPvF/view?usp=drivesdk",
      "skipped": "",
      "thumb": "https://drive.google.com/thumbnail?id=1dq57rP-_fuMRYt7uSeMbEIuPnlTLQPvF&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3AABF5B7974A5BFFECF6",
+   "sender": "הילה נאור",
+   "text": "",
+   "ts": 1795775281000,
+   "date": "2026-11-27",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "304KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Xv0FIa2A-Z0IhCPJxrF8ErvL1elUWu03/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Xv0FIa2A-Z0IhCPJxrF8ErvL1elUWu03&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3AB8540EF41680C6E547",
+   "sender": "הילה נאור",
+   "text": "אם אתם עובדים עם מאנדיי, זה בשבילכם 👇\n\nהשבוע מאנדיי הזמינו אותי ללונדון לסקר את הכנס שלהם, ויצאתי משם עם כמה דברים שממש רציתי לשתף כאן. כי אם הצוות שלכם כבר עובד במאנדיי, יש מצב שחלק מהדברים שאתם עושים ידנית היום אפשר לעשות עם ה־AI שכבר נמצא שם.\n\nהנה חמש היכולות שהכי אהבתי בכנס.\n\n1. Sidekick\nמכירים את זה שיש לכם ישיבת צוות עוד חמש דקות ואתם עוברים מהר על הבורד כדי להבין מה קורה? אפשר לפתוח את Sidekick ולשאול אותו ״מה באיחור, מה תקוע ומה כדאי להעלות בישיבה?״ הוא יכול לענות על סמך המידע שכבר נמצא בבורד.\n\n2. AI Notetaker\nהוא מצטרף לפגישה, מתמלל, מסכם ומוציא ממנה משימות להמשך. ומה שאהבתי פה זה שאת המשימות האלה אפשר ממש להכניס לבורד. בסוף הפגישה בוחרים אילו משימות רלוונטיות ולאיזה בורד להוסיף אותן. מאנדיי יוצרת שם פריט בשם הפגישה, והמשימות שבחרתם נכנסות תחתיו.\n\n3. Vibe\nנגיד שיש לכם בורד עם מלא בקשות, ואתם רוצים מסך אחד שיראה לצוות מה נכנס היום ומה דחוף. אתם מתארים במילים מה אתם רוצים לראות, והוא בונה לכם אפליקציה בתוך מאנדיי. תחשבו על מסך שבנוי לפי איך שהצוות שלכם באמת עובד.\n\n4. הסוכנים של מאנדיי. וכן, אפשר לחבר אותם לוואטסאפ 🤯\nאפשר לבנות סוכן עם תפקיד קבוע. נגיד שכל פעם שנכנסת בקשה לבורד, הוא בודק אם חסר בה משהו וכותב על הבקשה עצמה מה צריך להשלים. ואפשר גם לחבר את הסוכן לוואטסאפ דרך הלשונית Channels בהגדרות שלו. אז אם אני בדרך לפגישה, אני יכולה פשוט לכתוב לו בוואטסאפ ״תבדוק לי מה עדיין מחכה לטיפול בבורד״. זה סופר שימושי בעיניי.\n\n5. Bring Your Own Agent: וזה באמת השוס מבחינתי\nתחשבו על זה רגע. בניתי סוכן בכלי אחר בשביל העבודה שלי. אני מחברת אותו למאנדיי, נותנת לו גישה לבורד של הצוות, ועכשיו גם האנשים שעובדים איתי יכולים אשכרה לעבוד עם הסוכן שלי. מישהי מהצוות יכולה לתייג אותו על משימה ולבקש ממנו לעדכן אותה. העדכון מופיע על הבורד, וכולם יכולים להמשיך משם. כאילו, אני בניתי את הסוכן, ועכשיו הקולגות שלי יכולים לתת לו עבודה. זה החלק שהכי תפס אותי בכנס.\n\nרק שימו לב שהזמינות תלויה בחשבון ובהגדרות שלכם. Vibe עובד רק בחשבון בתשלום, וכל השימוש ב־AI צורך קרדיטים. Bring Your Own Agent כרגע בבטא ודורש הרשאת אדמין.\n\nאם בא לכם לנסות משהו אחד היום, תפתחו בורד שאתם באמת עובדים עליו ותשאלו את Sidekick ״מה כדאי לי לקדם היום?״ זה מבחן הרבה יותר מעניין כשאתם שואלים על עבודה שבאמת מחכה לכם.\nhttps://monday.com?utm_medium=influencers&utm_source=elevate&utm_campaign=multi-multi-event-london-hila\n\nואתם? איזו מהחמש הייתם מנסים ראשונה? 😄\n\nתגיבו ❤️ אם אהבתם\n\nלהצטרפות לקבוצת החיים עם AI:",
+   "ts": 1795775281000,
+   "date": "2026-11-27",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "139KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1Sw5B-CPl_6-4rcdCf7PNO_cihK2Lff2D/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1Sw5B-CPl_6-4rcdCf7PNO_cihK2Lff2D&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3A246748A8236A31BC26",
+   "sender": "הילה נאור",
+   "text": "",
+   "ts": 1795775282000,
+   "date": "2026-11-27",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "273KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1SEMvRhJveQHia-OQtDtmRyrh664MkpZX/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1SEMvRhJveQHia-OQtDtmRyrh664MkpZX&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3A2CCE9BE860DE083B09",
+   "sender": "הילה נאור",
+   "text": "",
+   "ts": 1795775283000,
+   "date": "2026-11-27",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "227KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1La0P_vKY3U_9Pt7F1OsxjSFXVu2vIVN-/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1La0P_vKY3U_9Pt7F1OsxjSFXVu2vIVN-&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972504401565"
+  },
+  {
+   "id": "3A7D4D2E65B6AE3E29C9",
+   "sender": "הילה נאור",
+   "text": "",
+   "ts": 1795775284000,
+   "date": "2026-11-27",
+   "time": "12:28",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "113KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/18amKLutuEr_Xot-y_b1AAPSjPuWt8ysM/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=18amKLutuEr_Xot-y_b1AAPSjPuWt8ysM&sz=w1200"
     }
    ],
    "drive": null,

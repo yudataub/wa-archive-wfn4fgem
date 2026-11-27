@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "יוצרים עם בינה מלאכותית ודיאלוג",
- "updated": "2026-11-26T17:43:05.814Z",
+ "updated": "2026-11-27T14:54:15.849Z",
  "messages": [
   {
    "id": "AC0D089A6964F565F5B700458FC19344",
@@ -2681,6 +2681,39 @@
    "files": [],
    "drive": null,
    "phone": "972524591671"
+  },
+  {
+   "id": "3A2D91F47B76BF444B84",
+   "sender": "Hagit",
+   "text": "האם נתתם מייל ברישום לhark?",
+   "ts": 1795790817000,
+   "date": "2026-11-27",
+   "time": "16:46",
+   "files": [],
+   "drive": null,
+   "phone": "972522556245"
+  },
+  {
+   "id": "AC06689C29614778542948869EF48A6F",
+   "sender": "ענבל",
+   "text": "לא",
+   "ts": 1795790842000,
+   "date": "2026-11-27",
+   "time": "16:47",
+   "files": [],
+   "drive": null,
+   "phone": "972502343065"
+  },
+  {
+   "id": "3A4FF3F4419908B5230A",
+   "sender": "Hagit",
+   "text": "זו ההודעה שקיבלתי\nWe can't send a text to this number. Sign up with your email address instead.",
+   "ts": 1795791251000,
+   "date": "2026-11-27",
+   "time": "16:54",
+   "files": [],
+   "drive": null,
+   "phone": "972522556245"
   }
  ]
 }

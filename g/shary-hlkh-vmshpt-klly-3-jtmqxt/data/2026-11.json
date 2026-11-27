@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "שערי הלכה ומשפט - כללי 3",
- "updated": "2026-11-26T22:50:49.106Z",
+ "updated": "2026-11-27T14:31:56.810Z",
  "messages": [
   {
    "id": "AC7659CFAD0E6D26512B35AF415C55A2",
@@ -9705,6 +9705,103 @@
    ],
    "drive": null,
    "phone": "972546201061"
+  },
+  {
+   "id": "3AC6A928D5FC89AE533F",
+   "sender": "אופיר כהן",
+   "text": "שבת שלום\nמה מברכים?",
+   "ts": 1795774587000,
+   "date": "2026-11-27",
+   "time": "12:16",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "196KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/12f_dBOoVEstjxED736Wy3je94Blg1Rq5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=12f_dBOoVEstjxED736Wy3je94Blg1Rq5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972506202689"
+  },
+  {
+   "id": "ACFA4F0278E36915EDAC92A7D0EF4ED3",
+   "sender": "ישראל",
+   "text": "מזונות. כשמגיע לשיעור קביעות יש בזה דעות",
+   "ts": 1795775637000,
+   "date": "2026-11-27",
+   "time": "12:33",
+   "files": [],
+   "drive": null,
+   "phone": "972523115064"
+  },
+  {
+   "id": "2AC73A6F160A2C3716CF",
+   "sender": "ליהי מאפרת כלות וערב",
+   "text": "היי האם מותר לאכול דגים עם חלבי?",
+   "ts": 1795780928000,
+   "date": "2026-11-27",
+   "time": "14:02",
+   "files": [],
+   "drive": null,
+   "phone": "972502310077"
+  },
+  {
+   "id": "AC512FF9C599E5C7DBBE2F69228EC606",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "ספרדים נוהגים שלא אלא אם יש לכם מנהג אחר",
+   "ts": 1795781124000,
+   "date": "2026-11-27",
+   "time": "14:05",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "2A456FA7874A5BB750BE",
+   "sender": "ליהי מאפרת כלות וערב",
+   "text": "אם אבא שלי אוכל ואמא שלי לא אוכלת אז על פי מה צריך ללכת?",
+   "ts": 1795781198000,
+   "date": "2026-11-27",
+   "time": "14:06",
+   "files": [],
+   "drive": null,
+   "phone": "972502310077"
+  },
+  {
+   "id": "AC2C4A260E683EDEBEDD13EDD9A587BF",
+   "sender": "יראת ה' היא אוצרו",
+   "text": "אבא",
+   "ts": 1795781254000,
+   "date": "2026-11-27",
+   "time": "14:07",
+   "files": [],
+   "drive": null,
+   "phone": "972546607527"
+  },
+  {
+   "id": "ACD1A4F9422DEE489016F4E4C64088EB",
+   "sender": "דוד",
+   "text": "תפילין בתוך נרתיק בתוך שקית שנפל על הרצפה- מה צריך לעשות?",
+   "ts": 1795786080000,
+   "date": "2026-11-27",
+   "time": "15:28",
+   "files": [],
+   "drive": null,
+   "phone": "972544967001"
+  },
+  {
+   "id": "ACEFFA8755CAE782FEFD6B43466C1FEA",
+   "sender": "Moshe Itshak Amar",
+   "text": "טוב לתת כמה שקלים לצדקה",
+   "ts": 1795789913000,
+   "date": "2026-11-27",
+   "time": "16:31",
+   "files": [],
+   "drive": null,
+   "phone": "33659789541"
   }
  ]
 }

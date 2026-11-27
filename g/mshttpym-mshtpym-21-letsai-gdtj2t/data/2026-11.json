@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משתתפים משתפים #21 | LetsAI",
- "updated": "2026-11-23T20:59:17.651Z",
+ "updated": "2026-11-27T10:28:08.734Z",
  "messages": [
   {
    "id": "2AFF44BFA316F203B12C",
@@ -142,6 +142,27 @@
    ],
    "drive": null,
    "phone": "972586408042"
+  },
+  {
+   "id": "2A25C23B6D956AC8C4B9",
+   "sender": "SYSTM | הטמעת סוכני Ai לעסקים",
+   "text": "בוקר טוב\n\nמבלי להיכנס פה לפוליטיקה\n\nסרטון קצר שהכנתי על מה שקורה במדינה שלנו מנקודת מבטו של ילד קטן\n\nכל מילה נוספת מיותרת…",
+   "ts": 1795775275000,
+   "date": "2026-11-27",
+   "time": "12:27",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "27.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1rXvZffcOuH2rzJqTxKaiPjD6qnmHB_2A/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/2A25C23B6D956AC8C4B9_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1rXvZffcOuH2rzJqTxKaiPjD6qnmHB_2A&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972534122548"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "לומד עצמאי בהלכה",
- "updated": "2026-11-25T21:40:10.517Z",
+ "updated": "2026-11-27T06:48:12.778Z",
  "messages": [
   {
    "id": "A5353BEE77EBB204A4B1948DF1FC5F6E",
@@ -3200,6 +3200,65 @@
    "files": [],
    "drive": null,
    "phone": "972528987298"
+  },
+  {
+   "id": "3EB0720F699050C6831EA0",
+   "sender": "אריאל זילבר",
+   "text": "קבוצת לימוד הלכה",
+   "ts": 1795762077000,
+   "date": "2026-11-27",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "120KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1_YS2nSEd05UpO2yJ7odkEaAEzdi9bTN5/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1_YS2nSEd05UpO2yJ7odkEaAEzdi9bTN5&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527906127"
+  },
+  {
+   "id": "3EB08F3BA2E56FCE27E791",
+   "sender": "אריאל זילבר",
+   "text": "קבוצת צביעה",
+   "ts": 1795762077000,
+   "date": "2026-11-27",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "95KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/3EB08F3BA2E56FCE27E791_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972527906127"
+  },
+  {
+   "id": "3EB0D342FB56235E99536E",
+   "sender": "אריאל זילבר",
+   "text": "קבוצת צביעה",
+   "ts": 1795762078000,
+   "date": "2026-11-27",
+   "time": "08:47",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "104KB",
+     "type": "image/jpeg",
+     "path": "https://drive.google.com/file/d/1jbtsc1N-aTfMJtK_fWXg-tjLCcoeaj5t/view?usp=drivesdk",
+     "skipped": "",
+     "thumb": "https://drive.google.com/thumbnail?id=1jbtsc1N-aTfMJtK_fWXg-tjLCcoeaj5t&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527906127"
   }
  ]
 }

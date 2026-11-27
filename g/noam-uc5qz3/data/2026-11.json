@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "משפחת נעם",
- "updated": "2026-11-26T17:40:05.769Z",
+ "updated": "2026-11-27T11:01:39.234Z",
  "messages": [
   {
    "id": "AC3A102DF013177A6C6B9553517C2345",
@@ -5253,6 +5253,89 @@
    "files": [],
    "drive": null,
    "phone": "972534596413"
+  },
+  {
+   "id": "4AA4784A9711971D59F1",
+   "sender": "אביטל אסרף",
+   "text": "",
+   "ts": 1795763399000,
+   "date": "2026-11-27",
+   "time": "09:09",
+   "files": [
+    {
+     "name": "תמונה.jpg",
+     "size": "52KB",
+     "type": "image/jpeg",
+     "path": "media/2026-11/4AA4784A9711971D59F1_1.jpg",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972556640892"
+  },
+  {
+   "id": "AC450AAEF4FA5B15572A35BBD1C669E0",
+   "sender": "אורלי אוחנה",
+   "text": "",
+   "ts": 1795776266000,
+   "date": "2026-11-27",
+   "time": "12:44",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "2.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1izQSaS1cOIZXZyf7uuqRORYHAdN671vW/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC450AAEF4FA5B15572A35BBD1C669E0_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1izQSaS1cOIZXZyf7uuqRORYHAdN671vW&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC25FD001955FBD0EA370C69FC8482AE",
+   "sender": "אורלי אוחנה",
+   "text": "☝️ההזמנה למסיבת חנוכה. \nיש לשלוח לקבוצת ההורים",
+   "ts": 1795776294000,
+   "date": "2026-11-27",
+   "time": "12:44",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "AC526C0FBBE9C1DE82C446E2D5B465D1",
+   "sender": "אורלי אוחנה",
+   "text": "אחי ואחותי, \nאתם מאירים!🌟💡🔦\nשבוע אחרון להגשת חנוכיות בנושא \n\"את אחיי אנוכי מבקש\".\nכל חנוכיה שהנכם מכינים, מרגשת אותנו!!🥹\nמחכים לעוד חנוכיות מהממות🤗",
+   "ts": 1795777269000,
+   "date": "2026-11-27",
+   "time": "13:01",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "17.0MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/18Y6BRGL9bkfJdkL_-3D_PFw6bMcFm_xm/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/AC526C0FBBE9C1DE82C446E2D5B465D1_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=18Y6BRGL9bkfJdkL_-3D_PFw6bMcFm_xm&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972507864721"
+  },
+  {
+   "id": "ACD569FF7960A0F0D457A4E584FCFDAA",
+   "sender": "אורלי אוחנה",
+   "text": "☝️תשלחו בבקשה להורים",
+   "ts": 1795777278000,
+   "date": "2026-11-27",
+   "time": "13:01",
+   "files": [],
+   "drive": null,
+   "phone": "972507864721"
   }
  ]
 }

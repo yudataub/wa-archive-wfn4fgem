@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "פרשת שבוע 2🌻",
- "updated": "2026-11-26T19:13:32.335Z",
+ "updated": "2026-11-27T06:26:12.430Z",
  "messages": [
   {
    "id": "AC4A9299F56C82293B694E4C241D040C",
@@ -4136,6 +4136,99 @@
    "files": [],
    "drive": null,
    "phone": "972527693680"
+  },
+  {
+   "id": "3EB05BB95043FC96694213",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1795748958000,
+   "date": "2026-11-27",
+   "time": "05:09",
+   "files": [
+    {
+     "name": "וישלח- איך לדבר עם עצבני פרשה ובדיחה.docx",
+     "size": "15KB",
+     "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+     "path": "https://docs.google.com/document/d/1FJMr3TaaIsBSucvLCdo0JK9jnAM9PPII/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "3EB03E1AE2603454340CB7",
+   "sender": "אפי",
+   "text": "",
+   "ts": 1795748959000,
+   "date": "2026-11-27",
+   "time": "05:09",
+   "files": [
+    {
+     "name": "אמנות_ההרגעה_וההנעה.pptx",
+     "size": "10.2MB",
+     "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+     "path": "https://docs.google.com/presentation/d/1MnZ2Tar4h7TC2awa9KZ2wejETOHRiaBp/edit?usp=drivesdk&ouid=104874145963086136272&rtpof=true&sd=true",
+     "skipped": ""
+    }
+   ],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "ACF00A6CB8C66E1B0992BCCEF6E07D39",
+   "sender": "אפי",
+   "text": "מבוסס על הרב גלינסקי.\nhttps://drive.google.com/file/d/1_cueMGtVhv99Y_JaMwJoT2-vLfV1ZUM8/view?usp=sharing",
+   "ts": 1795749006000,
+   "date": "2026-11-27",
+   "time": "05:10",
+   "files": [],
+   "drive": null,
+   "phone": "972543118860"
+  },
+  {
+   "id": "AC683454A2BCC85E29638FAB8DE5F2CE",
+   "sender": "אלעד טאוב",
+   "text": "פרק חדש בסדרה \"CBT מן המקורות\" עם אלעד טאוב 🎬\n\nאיך מגיבים כשמאשימים אותך במשהו שלא עשית?\nפרק בונוס לכבוד י״ט כסלו, חג הגאולה: מסיפור המאסר והגאולה של האדמו\"ר הזקן, ועד כלי מעשי מ-CBT שאפשר לנסות כבר הערב. מתאים לילדים, להורים ולמחנכים.\n\n▶️ לצפייה: https://youtu.be/bHY_RnA4yPo\n\nואם אהבתם: הירשמו לערוץ כדי לא לפספס את הפרקים הבאים בסדרה, ושתפו הלאה למי שיכול להרוויח מזה.\nhttps://youtube.com/channel/UCkRVxmuNA84EcNH4j3Rvrtw",
+   "ts": 1795755635000,
+   "date": "2026-11-27",
+   "time": "07:00",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "ACF03104631D9D4E4A149777A6BA0D11",
+   "sender": "אלעד טאוב",
+   "text": "פרק חדש בסדרה \"CBT מן המקורות\" עם אלעד טאוב 🎬\n\nאיך מגיבים כשמאשימים אותך במשהו שלא עשית?\nפרק בונוס לכבוד י״ט כסלו, חג הגאולה: מסיפור המאסר והגאולה של האדמו\"ר הזקן, ועד כלי מעשי מ-CBT שאפשר לנסות כבר הערב. מתאים לילדים, להורים ולמחנכים.\n\n▶️ לצפייה: https://youtu.be/bHY_RnA4yPo\n\nואם אהבתם: הירשמו לערוץ כדי לא לפספס את הפרקים הבאים בסדרה, ושתפו הלאה למי שיכול להרוויח מזה.\nhttps://youtube.com/channel/UCkRVxmuNA84EcNH4j3Rvrtw",
+   "ts": 1795755869000,
+   "date": "2026-11-27",
+   "time": "07:04",
+   "files": [],
+   "drive": null,
+   "phone": "972546228770"
+  },
+  {
+   "id": "AC112169BB4418613C735CF41FF5673C",
+   "sender": "123",
+   "text": "יש מנוקד?",
+   "ts": 1795760615000,
+   "date": "2026-11-27",
+   "time": "08:23",
+   "files": [],
+   "drive": null,
+   "phone": "972555694756"
+  },
+  {
+   "id": "ACE6ABDB2B27E682ACE6D83B63F8A84E",
+   "sender": "\"הודו לה‘ כי טוב\"",
+   "text": "לא",
+   "ts": 1795760745000,
+   "date": "2026-11-27",
+   "time": "08:25",
+   "files": [],
+   "drive": null,
+   "phone": "972523908252"
   }
  ]
 }
