@@ -1,7 +1,7 @@
 {
  "month": "2026-11",
  "group": "כישורי חיים מהפרשה",
- "updated": "2026-11-26T19:21:02.442Z",
+ "updated": "2026-11-26T23:44:03.182Z",
  "messages": [
   {
    "id": "A5463BF88870C5DAA09E11188F1B1017",
@@ -573,6 +573,48 @@
    "date": "2026-11-26",
    "time": "21:20",
    "files": [],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A552FA472D9EDECBE5DA34AD2F501520",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1795736627000,
+   "date": "2026-11-27",
+   "time": "01:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "88.6MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1n86Dk_baT_fPuhj0ZVVVWhlKdwTX2Jon/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A552FA472D9EDECBE5DA34AD2F501520_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1n86Dk_baT_fPuhj0ZVVVWhlKdwTX2Jon&sz=w1200"
+    }
+   ],
+   "drive": null,
+   "phone": "972527693680"
+  },
+  {
+   "id": "A58AFA62028EA58A88F33051A0351FF5",
+   "sender": "אלחנן שניאור",
+   "text": "",
+   "ts": 1795736630000,
+   "date": "2026-11-27",
+   "time": "01:43",
+   "files": [
+    {
+     "name": "וידאו.mp4",
+     "size": "87.2MB",
+     "type": "video/mp4",
+     "path": "https://drive.google.com/file/d/1CyoL9RBGYOySMLn9fm74tPkLh59oPNLX/view?usp=drivesdk",
+     "skipped": "",
+     "spool": "2026-11/A58AFA62028EA58A88F33051A0351FF5_0.mp4",
+     "thumb": "https://drive.google.com/thumbnail?id=1CyoL9RBGYOySMLn9fm74tPkLh59oPNLX&sz=w1200"
+    }
+   ],
    "drive": null,
    "phone": "972527693680"
   }
